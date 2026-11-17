@@ -259,7 +259,12 @@ export function fingerprint() {
 let semanticState = null
 export async function hydrateSemantic(data) {
   if (!data || !data.vecs || data.fp !== fingerprint() || semanticState) return !!semanticState
-  const { pipeline } = await import('@huggingface/transformers')
+  // Load the ORT wasm binary from jsDelivr instead of bundling it: the
+  // bundled copy is 25.6 MiB, over Cloudflare Pages' 25 MiB per-file limit.
+  // The loader .mjs stays local, so the wasm must match the pinned ORT version.
+  const { pipeline, env } = await import('@huggingface/transformers')
+  env.backends.onnx.wasm.wasmPaths =
+    'https://cdn.jsdelivr.net/npm/onnxruntime-web@1.31.0-dev.20260914-8d85527a0/dist/'
   const pipe = await pipeline('feature-extraction', 'Xenova/all-MiniLM-L6-v2', { dtype: 'q8' })
   const bin = Uint8Array.from(atob(data.vecs), (c) => c.charCodeAt(0))
   const rows = new Float32Array(bin.buffer, bin.byteOffset, bin.byteLength / 4)

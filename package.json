@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "py scripts/04_semantic_cache.py & vite --host",
-    "build": "py scripts/04_semantic_cache.py & vite build",
+    "build": "py scripts/04_semantic_cache.py & vite build & node scripts/slim_dist.mjs",
     "embed": "node scripts/embed_corpus.mjs",
     "preview": "vite preview"
   },
