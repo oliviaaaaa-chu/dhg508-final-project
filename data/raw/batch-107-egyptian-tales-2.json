@@ -1,0 +1,367 @@
+{
+  "texts": [
+    {
+      "id": "egyptian-joppa-trick",
+      "title": {
+        "en": "The Taking of Joppa: Tahutia's Two Hundred Sacks",
+        "zh": "攻克雅法：塔胡提亞的兩百麻袋"
+      },
+      "tradition": "egyptian",
+      "category": "myth",
+      "region": {
+        "en": "Joppa (Jaffa), Canaan (rebel city on the Phoenician coast)",
+        "zh": "迦南雅法（腓尼基海岸之叛城）"
+      },
+      "lat": 32.0522,
+      "lon": 34.7524,
+      "period": "Tale set in the reign of Thutmose III (c. 1479-1425 BCE); Petrie translation 1895",
+      "source": {
+        "archive": "Project Gutenberg (eBook #7413)",
+        "work": "Egyptian Tales, Second Series, ed. W. M. Flinders Petrie (London, 1895), 'The Taking of Joppa'",
+        "url": "https://www.gutenberg.org/cache/epub/7413/pg7413.txt"
+      },
+      "license": "Public domain (translation 1895)",
+      "summary": {
+        "en": "The general Tahutia pretends to defect to the rebel of Joppa, carries the king's magic cane in a bundle of reeds, strikes the rebel senseless with it, and hides two hundred Egyptian soldiers in grain-sacks; the city hauls its own doom through the gates and the power of Pharaoh seizes it — the oldest version of the trick that becomes the Wooden Horse and Ali Baba.",
+        "zh": "大將塔胡提亞詐降雅法叛首，以蘆葦捆藏王之魔杖，一擊使叛首昏厥；再以穀袋暗藏二百埃及士兵——城門自啟，引祸入城，法老之權遂掌此邑——此計乃特洛伊木馬與阿里巴巴之最古原型。"
+      },
+      "motifs": [
+        "trickster",
+        "transformation"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient literary tale on an historical basis; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "And thereupon the Foe in Joppa said to Tahutia, 'My heart is set on examining the great cane of Men-kheper-ra, which is named . . . tautnefer. By the ka of the King Men-kheper-ra it will be in thy hands to-day; now do thou well and bring thou it to me.' And Tahutia did thus, and he brought the cane of King Men-kheper-ra. And he laid hold on the Foe in Joppa by his garment, and he arose and stood up, and said, 'Look on me, O Foe in Joppa; here is the great cane of King Men-kheper-ra, the terrible lion, the son of Sekhet, to whom Amen his father gives power and strength.' And he raised his hand and struck the forehead of the Foe in Joppa, and he fell helpless before him.",
+          "note": "Verbatim excerpt of Petrie, Egyptian Tales Second Series (1895), The Taking of Joppa."
+        },
+        {
+          "id": "2",
+          "text": "He put him in the sack of skins and he bound with gyves the hands of the Foe in Joppa, and put on his feet the fetters with four rings. And he made them bring the two hundred sacks which he had cleaned, and made to enter into them two hundred soldiers, and filled the hollows with cords and fetters of wood, he sealed them with a seal, and added to them their rope-nets and the poles to bear them. And he put every strong footman to bear them, in all six hundred men, and said to them, 'When you come into the town you shall open your burdens, you shall seize on all the inhabitants of the town, and you shall quickly put fetters upon them.'",
+          "note": "Verbatim excerpt of Petrie (1895), The Taking of Joppa."
+        },
+        {
+          "id": "3",
+          "text": "Then one went out and said unto the charioteer of the Foe in Joppa, 'Thy master is fallen; go, say to thy mistress, A pleasant message! For Sutekh has given Tahutia to us, with his wife and his children; behold the beginning of their tribute,' that she may comprehend the two hundred sacks, which are full of men and cords and fetters. So he went before them to please the heart of his mistress, saying, 'We have laid hands on Tahutia.' Then the gates of the city were opened before the footmen: they entered the city, they opened their burdens, they laid hands on them of the city, both small and great, they put on them the cords and fetters quickly; the power of Pharaoh seized upon that city.",
+          "note": "Verbatim excerpt of Petrie (1895), The Taking of Joppa, closing."
+        },
+        {
+          "id": "4",
+          "text": "After he had rested Tahutia sent a message to Egypt to the King Men-kheper-ra his lord, saying, 'Be pleased, for Amen thy good father has given to thee the Foe in Joppa, together with all his people, likewise also his city. Send, therefore, people to take them as captives that thou mayest fill the house of thy father Amen Ra, king of the gods, with men-servants and maid-servants, and that they may be overthrown beneath thy feet for ever and ever.'",
+          "note": "Verbatim excerpt of Petrie (1895), the dispatch to Egypt."
+        }
+      ],
+      "persons": [
+        "ra"
+      ]
+    },
+    {
+      "id": "egyptian-doomed-prince",
+      "title": {
+        "en": "The Doomed Prince: Crocodile, Serpent, and Dog",
+        "zh": "受詛王子：鱷、蛇與犬"
+      },
+      "tradition": "egyptian",
+      "category": "myth",
+      "region": {
+        "en": "Naharaina (Upper Syria), frontier state of New Kingdom Egypt",
+        "zh": "納哈林那（上敘利亞），新王國之邊邦"
+      },
+      "lat": 35.5,
+      "lon": 38.0,
+      "period": "Tale of the close of the 18th Dynasty (c. 1350-1300 BCE), Harris papyrus 500; Petrie translation 1895",
+      "source": {
+        "archive": "Project Gutenberg (eBook #7413)",
+        "work": "Egyptian Tales, Second Series, ed. W. M. Flinders Petrie (1895), 'The Doomed Prince'",
+        "url": "https://www.gutenberg.org/cache/epub/7413/pg7413.txt"
+      },
+      "license": "Public domain (translation 1895)",
+      "summary": {
+        "en": "The Hathors decree that a long-awaited prince will die by crocodile, serpent, or dog; his father walls him in a desert house, but the prince demands his fate: 'Let God do what is in His heart.' He wins the princess of Naharaina by climbing to her seventy-windowed tower, she saves him from the serpent with a bowl of milk, and the tale breaks off with the crocodile — 'I am thy doom, following after thee' — still waiting.",
+        "zh": "哈托爾諸女神判一位盼來之子將死於鱷、蛇或犬；父王築屋於荒漠困之，王子卻道：『願神行其心中所欲。』他攀上納哈林那公主七十扇窗的高塔而娶之；公主以一碗牛乳救他於蛇吻——故事至鱷魚一句『我是你的命，一路跟隨你』戛然而止。"
+      },
+      "motifs": [
+        "boon-curse",
+        "miraculous-birth",
+        "transformation"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient literary tale; no living community restrictions. The papyrus breaks off mid-story; the ending is unknown."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "There once was a king to whom no son was born; and his heart was grieved, and he prayed for himself unto the gods around him for a child. They decreed that one should be born to him. And his wife, after her time was fulfilled, brought forth a son. Then came the Hathors to decree for him a destiny; they said, 'His death is to be by the crocodile, or by the serpent, or by the dog.' Then the people who stood by heard this, and they went to tell it to his majesty. Then his majesty's heart sickened very greatly. And his majesty caused a house to be built upon the desert; it was furnished with people and with all good things of the royal house, that the child should not go abroad.",
+          "note": "Verbatim excerpt of Petrie, Egyptian Tales Second Series (1895), The Doomed Prince."
+        },
+        {
+          "id": "2",
+          "text": "Then when the days increased after this, and when the child became grown in all his limbs, he sent a message to his father saying, 'Come, wherefore am I kept here? Inasmuch as I am fated to three evil fates, let me follow my desire. Let God do what is in His heart.' They agreed to all he said, and gave him all sorts of arms, and also his dog to follow him, and they took him to the east country, and said to him, 'Behold, go thou whither thou wilt.' His dog was with him, and he went northward, following his heart in the desert, while he lived on all the best of the game of the desert. He went to the chief of Naha-raina.",
+          "note": "Verbatim excerpt of Petrie (1895), The Doomed Prince."
+        },
+        {
+          "id": "3",
+          "text": "Behold, there had not been born to the chief of Naharaina, except one daughter. Behold, there had been built for her a house; its seventy windows were seventy cubits from the ground. And the chief caused to be brought all the sons of the chiefs of the land of Khalu, and said to them, 'He who reaches the window of my daughter, she shall be to him for a wife.' — He climbed, and he reached the window of the daughter of the chief of Naharaina. She kissed him, she embraced him in all his limbs.",
+          "note": "Verbatim excerpt of Petrie (1895), the tower and its conquest (condensed)."
+        },
+        {
+          "id": "4",
+          "text": "And when the evening came he lay down on his bed, sleep seized upon his limbs; and his wife filled a bowl of milk, and placed it by his side. Then came out a serpent from his hole, to bite the youth; behold his wife was sitting by him, she lay not down. Thereupon the servants gave milk to the serpent, and he drank, and was drunk, and lay upside down. Then his wife made it to perish with the blows of her dagger. And they woke her husband, who was astonished; and she said unto him, 'Behold thy God has given one of thy dooms into thy hand; He will also give thee the others.' And he sacrificed to God, adoring Him, and praising His spirits from day to day. — He came to the river, and entered the river behind his dog. Then came out the crocodile, and took him to the place where the mighty man was. And the crocodile said to the youth, 'I am thy doom, following after thee.' [Here the papyrus breaks off.]",
+          "note": "Verbatim excerpt of Petrie (1895), the serpent episode and the tale's broken ending."
+        }
+      ],
+      "persons": []
+    },
+    {
+      "id": "egyptian-two-brothers",
+      "title": {
+        "en": "Anpu and Bata: The Brother Whose Soul Sat in a Blossom",
+        "zh": "安普與巴塔：魂寄花上之弟"
+      },
+      "tradition": "egyptian",
+      "category": "myth",
+      "region": {
+        "en": "Valley of the Acacia (symbolic pin, Eastern Delta pine land) and the royal house of the Two Lands",
+        "zh": "金合歡谷（象徵定位，東三角洲松地）與兩地之王室"
+      },
+      "lat": 30.6,
+      "lon": 32.0,
+      "period": "Papyrus d'Orbiney (BM EA 10183), property of Sety II as crown prince, 19th Dynasty c. 1250-1200 BCE (Petrie-Griffith translation 1895)",
+      "source": {
+        "archive": "Project Gutenberg (eBook #7413)",
+        "work": "Egyptian Tales, Second Series, ed. W. M. Flinders Petrie (1895), 'Anpu and Bata'",
+        "url": "https://www.gutenberg.org/cache/epub/7413/pg7413.txt"
+      },
+      "license": "Public domain (translation 1895)",
+      "summary": {
+        "en": "The greatest of Egyptian folk-myths: the falsely accused younger brother Bata cuts off his own flesh, plants his soul in the topmost blossom of an acacia, is betrayed woman after woman and transformed bull after tree after child, until he becomes king of Egypt for thirty years — while his elder brother Anpu, who once hunted him with a knife, ends as his heir.",
+        "zh": "埃及民間神話之最：遭誣陷的弟弟巴塔自斷己肉，將魂魄置於金合歡最高之花；他歷經一女又一女的背叛、由牛化樹化子——最終為埃及之王三十年；而當年持刀追殺他的兄長安普，竟繼承其位。"
+      },
+      "motifs": [
+        "resurrection",
+        "taboo-transgression",
+        "transformation",
+        "miraculous-birth",
+        "false-accusation"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient literary myth-tale; no living community restrictions. The Joseph parallel (false accusation motif) is noted by Petrie and Griffith and flagged for the Compare view."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Once there were two brethren, of one mother and one father; Anpu was the name of the elder, and Bata was the name of the younger. Now, as for Anpu he had a house, and he had a wife. But his little brother was to him as it were a son; he it was who made for him his clothes; he it was who followed behind his oxen to the fields; he it was who did the ploughing; he it was who harvested the corn; he it was who did for him all the matters that were in the field. Behold, his younger brother grew to be an excellent worker, there was not his equal in the whole land; behold, the spirit of a god was in him.",
+          "note": "Verbatim excerpt of Petrie, Egyptian Tales Second Series (1895), Anpu and Bata."
+        },
+        {
+          "id": "2",
+          "text": "And she conversed with him, saying, 'There is great strength in thee, for I see thy might every day.' And her heart knew him with the knowledge of youth. And she arose and came to him, and conversed with him, saying, 'Come, stay with me, and it shall be well for thee, and I will make for thee beautiful garments.' Then the youth became like a panther of the south with fury at the evil speech which she had made to him; and she feared greatly. And he spake unto her, saying, 'Behold thou art to me as a mother, thy husband is to me as a father, for he who is elder than I has brought me up. What is this wickedness that thou hast said to me? Say it not to me again.'",
+          "note": "Verbatim excerpt of Petrie (1895), the wife's temptation."
+        },
+        {
+          "id": "3",
+          "text": "And Ra stood and heard all his cry; and Ra made a wide water between him and his elder brother, and it was full of crocodiles; and the one brother was on one bank, and the other on the other bank... And the younger brother called unto him, saying, 'I shall go to the valley of the acacia. And this is what shall come to pass, that I shall draw out my soul, and I shall put it upon the top of the flowers of the acacia, and when the acacia is cut down, and it falls to the ground, and thou comest to seek for it, if thou searchest for it seven years do not let thy heart be wearied. For thou wilt find it, and thou must put it in a cup of cold water, and expect that I shall live again.' And the youth went to the valley of the acacia; and his elder brother went unto his house... he slew his wife, he cast her to the dogs, and he sat in mourning for his younger brother.",
+          "note": "Verbatim excerpt of Petrie (1895), the separation and the soul in the blossom."
+        },
+        {
+          "id": "4",
+          "text": "The Nine Gods talked one with another, and they said unto him, 'Ho! Bata, bull of the Nine Gods, art thou remaining alone?' And Ra Harakhti said to Khnumu, 'Behold, frame thou a woman for Bata, that he may not remain alive alone.' And Khnumu made for him a mate to dwell with him. She was more beautiful in her limbs than any woman who is in the whole land. The essence of every god was in her. The seven Hathors came to see her: they said with one mouth, 'She will die a sharp death.' — And they cut the flower upon which was the soul of Bata, and he fell dead suddenly... They grew as two great Persea trees, and each of them was excellent. — But a chip flew up, and it entered into the mouth of the princess; she swallowed it, and after many days she bore a son. And the king raised him to be the royal son of Kush. And when he had fulfilled many years as heir, his majesty flew up to heaven. He was thirty years king of Egypt, and he died, and his elder brother stood in his place on the day of burial.",
+          "note": "Verbatim excerpt of Petrie (1895), elided between the divine wife, the deaths and transformations, and the ending."
+        }
+      ],
+      "language": "Egyptian (Late Egyptian, Papyrus d'Orbiney)",
+      "canonical_translation": "F. Ll. Griffith in W. M. F. Petrie, Egyptian Tales, Second Series (London, 1895)",
+      "narrative": {
+        "en": "The Tale of Anpu and Bata is the longest and strangest of Egyptian narratives — a folk-myth that begins as a rustic idyll and ends with a dynasty. It survives on a single papyrus that once belonged to Sety II as crown prince; Petrie and Griffith, its English translators, detected an older, beautiful opening tale that some Ramesside compiler stretched out with marvels, and its closing curse on meddlers ('He who speaks against this roll, may Tahuti smite him') suggests the compiler knew he had been meddling.\n\nBEGINNING: THE HOUSEHOLD AND THE FALSE ACCUSATION. Anpu has a house and a wife; Bata, the younger brother, lives with him 'as it were a son' — he makes Anpu's clothes, herds his cattle, ploughs and harvests, bakes the bread before dawn, and sleeps in the stable with the oxen. 'Behold, the spirit of a god was in him': even the cattle speak to him, and he leads them to the pasture they desire. At ploughing-time Anpu sends Bata to the farm for seed; Anpu's wife, dressing her hair, sees his strength and 'her heart knew him with the knowledge of youth.' She offers herself; Bata answers like a startled panther — 'Behold thou art to me as a mother... Say it not to me again' — and goes back to the field. Fearing exposure, the wife smears herself with fat, lies beaten and wordless, and tells Anpu that the boy attacked her; Anpu sharpens his knife and waits behind the stable door. But the foremost cow warns Bata: 'Behold thy elder brother standing before thee with his knife.' Bata flees; Anpu pursues; and Ra-Harakhti, hearing Bata's cry — 'My good Lord! Thou art he who divides the evil from the good' — sets a wide water full of crocodiles between the brothers. Bata takes the first severing into his own hands: he cuts off his flesh and casts it to the fish, then plants his soul in the topmost blossom of an acacia in the valley of the acacia, telling Anpu to search seven years for it and steep it in cold water to restore him. Anpu goes home and gives his lying wife to the dogs.\n\nMIDDLE: THE DIVINE WIFE AND THE THREE DEATHS. In the valley the Nine Gods pass by and pity Bata alone; Ra-Harakhti orders Khnumu to 'frame a woman for Bata' — the potter-god's masterpiece, more beautiful than any woman on earth, 'the essence of every god in her.' The Seven Hathors pronounce her doom with one mouth: 'She will die a sharp death.' Bata warns her: he cannot be killed while his soul is on the acacia flower, but 'if another find it, I must fight with him.' The sea covets her; she flees; a lock of her hair drifts to Egypt and its perfume convicts the royal fullers. Pharaoh's sages read the hair — 'a daughter of Ra-Harakhti... a tribute to thee from another land' — and soldiers fetch her to the king, who raises her to high estate. To keep her secret, she orders the acacia cut down; the blossom falls and Bata dies. But Anpu, warned by the troubled cup of beer, comes searching; in the fourth year he finds a seed, steeps it in cold water, and Bata shudders back to life. Bata's transformations now cascade: he becomes a great bull marked with every good sign and carries Anpu to Pharaoh's court; the queen recognizes him, has the bull slaughtered at a feast, and two drops of his blood grow by night into two great Persea trees before the palace gates; she has the felled trees made into planks while she watches, and a flying chip enters her mouth — she swallows it, and bears a son.\n\nEND: THE KING OF THIRTY YEARS. The child is brought to Pharaoh as 'a son born to thee'; the king, delighted, makes him Royal Son of Kush and heir. When Pharaoh dies the heir assembles the nobles and 'judged with her' — the tale's single sentence of justice — then makes Anpu, who comes to court, hereditary prince over all the land. Bata reigns thirty years; at his death his elder brother, once his murderer and then his restorer, stands in his place on the day of burial.\n\nFUNCTION. The tale is a theological folk-drama of wrong and restoration: the innocent sufferer repeatedly dies and repeatedly returns — from body cut to fish, bull, tree, and finally child — a folk brother of Osiris' own death-and-resurrection, staged in farmhouse and palace. Petrie's remarks note the striking parallel with the Joseph story in Genesis (the wife's accusation), and Egyptologists have long compared Bata's vegetative rebirths with the Osiris-Persea tree cult. It also gives the earliest literary portrait of a woman whose beauty is literally the essence of every god, and whose 'sharp death' prophecy the Hathors pronounce — the same fate-decreeing Hathors of the Doomed Prince."
+      },
+      "functions": [
+        "Folk theology of death and rebirth: the soul kept in a blossom and re-quickened in cold water, a rustic mirror of the Osiris resurrection",
+        "Etiology of royal succession: a tale of a pretender's line told in the household of Sety II, legitimizing the heir's rule",
+        "The false-accusation motif: earliest full version of the story-type best known from Joseph and Potiphar's wife",
+        "Female liminality: the divine-made wife as the instrument of the hero's deaths and of his final rebirth as a king"
+      ],
+      "variants": [
+        {
+          "name": "The Contendings of Horus and Seth (same transformation logic in the divine realm)",
+          "text_tradition": "Papyrus Chester Beatty I, New Kingdom",
+          "summary": "Horus' own litigation against Seth uses the same weapons of disguise, contest, and transformation; the folk tale and the divine myth are two registers of the same restoration plot.",
+          "cross_ref": "egyptian-osiris-cycle"
+        },
+        {
+          "name": "The Joseph story (Genesis 39, false-accusation type)",
+          "text_tradition": "Hebrew Bible, composed c. 1st millennium BCE",
+          "summary": "The master's wife who tries and falsely accuses the beautiful servant, and the servant's rise in a foreign court, parallels Bata's opening and its aftermath (noted by Petrie and Griffith).",
+          "cross_ref": "hebrew-genesis-creation"
+        },
+        {
+          "name": "Persea-tree rebirth cult",
+          "text_tradition": "Persea (Mimusops) trees in Egyptian temple cult, New Kingdom",
+          "summary": "Bata's rebirth through blood drops becoming Persea trees reflects the actual cult of Persea trees at Memphis and Heliopolis, in which the tree was an avatar of rebirth and kingship records were written on its leaves.",
+          "cross_ref": "egyptian-horus-death-resurrection"
+        }
+      ],
+      "primary_sources": [
+        {
+          "work": "The Tale of the Two Brothers (Anpu and Bata)",
+          "citation": "Papyrus d'Orbiney (BM EA 10183), recto, 19th Dynasty, c. 1250-1200 BCE. Ed. E. Naville (facsimile, 1870); trans. F. Ll. Griffith in W. M. F. Petrie, Egyptian Tales Second Series (London, 1895), pp. 36-65; canonical modern trans. M. Lichtheim, Ancient Egyptian Literature vol. II (1976).",
+          "language": "Late Egyptian"
+        }
+      ],
+      "secondary_sources": [
+        {
+          "work": "Miriam Lichtheim, Ancient Egyptian Literature, vol. II",
+          "citation": "Lichtheim 1976, Berkeley: University of California Press — translation and commentary on the tale's layers and its Osirian rebirth themes."
+        },
+        {
+          "work": "Susan Tower Hollis, The Ancient Egyptian 'Tale of Two Brothers'",
+          "citation": "Hollis 1990, Norman: University of Oklahoma Press — source-critical study of the tale's composition and folkloric structure."
+        }
+      ],
+      "source_urls": [
+        {
+          "url": "https://www.gutenberg.org/cache/epub/7413/pg7413.txt",
+          "description": "Project Gutenberg eBook #7413 — Petrie, Egyptian Tales Second Series (1895), full text used verbatim at collection time",
+          "accessed": "2026-11-13"
+        }
+      ],
+      "sensitivity_flag": "none",
+      "sensitivity_guidance": null,
+      "provenance": {
+        "record_status": "complete",
+        "compiled": "2026-11-13",
+        "compiled_by": "DHG508 fieldwork compilation",
+        "review_status": "draft - pending human review"
+      },
+      "reconstructed_segments": null
+    },
+    {
+      "id": "egyptian-setna-magic-book",
+      "title": {
+        "en": "Setna and the Magic Book of Thoth",
+        "zh": "塞特納與托特魔法書"
+      },
+      "tradition": "egyptian",
+      "category": "myth",
+      "region": {
+        "en": "Memphis, Egypt (cemetery and tomb of Naneferkaptah) and Koptos in the Thebaid",
+        "zh": "埃及孟菲斯（奈奈弗爾卡普塔墓園）與底比斯之科普托斯"
+      },
+      "lat": 29.8526,
+      "lon": 31.4,
+      "period": "Demotic tale written in the Ptolemaic period, colophon dated year 35 (Petrie-Hess rendering 1895)",
+      "source": {
+        "archive": "Project Gutenberg (eBook #7413)",
+        "work": "Egyptian Tales, Second Series, ed. W. M. Flinders Petrie (1895), 'Setna and the Magic Book'",
+        "url": "https://www.gutenberg.org/cache/epub/7413/pg7413.txt"
+      },
+      "license": "Public domain (translation 1895)",
+      "summary": {
+        "en": "Setna Khaemwaset, the king's scholar son, breaks into a tomb to steal the Book of Thoth, which grants power over heaven and earth and the speech of birds and fish; the dead prince wins it back at the game of 52 points, sinking him into the earth three games deep, then destroys him with a dream of the courtesan Tabubua — until Setna restores the book, forked stick in hand and fire-pan on head, and reunites the dead family in one tomb.",
+        "zh": "王子書吏塞特納破墓欲奪托特之書——其書能御天地、通鳥獸魚語；亡王子以五十二點棋局三度勝之，令其陷入土中至耳，再以名妓塔布布阿之夢毀之——直至塞特納持叉杖、頂火盤還書於墓，並聚合亡者一家於一塋。"
+      },
+      "motifs": [
+        "taboo-transgression",
+        "descent-underworld",
+        "quest-immortality",
+        "reunion",
+        "secret-book"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient literary ghost tale; no living community restrictions. Petrie's edition restores the lost opening and summarizes the Tabubua episode (marked in passages)."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The mighty King User-maat-ra (Ra-meses the Great) had a son named Setna Kha-em-uast who was a great scribe, and very learned in all the ancient writings. And he heard that the magic book of Thoth, by which a man may enchant heaven and earth, and know the language of all birds and beasts, was buried in the cemetery of Memphis. And he went to search for it with his brother An-he-hor-eru; and when they found the tomb of the king's son, Na-nefer-ka-ptah, son of the king of Upper and Lower Egypt, Mer-neb-ptah, Setna opened it and went in. Now in the tomb was Na-nefer-ka-ptah, and with him was the ka of his wife Ahura; for though she was buried at Koptos, her ka dwelt at Memphis with her husband, whom she loved.",
+          "note": "Verbatim excerpt of Petrie, Egyptian Tales Second Series (1895), Setna and the Magic Book."
+        },
+        {
+          "id": "2",
+          "text": "This book is in the middle of the river at Koptos, in an iron box; in the iron box is a bronze box; in the bronze box is a sycamore box; in the sycamore box is an ivory and ebony box; in the ivory and ebony box is a silver box; in the silver box is a golden box, and in that is the book. It is twisted all round with snakes and scorpions and all the other crawling things around the box in which the book is; and there is a deathless snake by the box. — And Na-nefer-ka-ptah then went to the place where he found the box. He uncovered a box of iron, and opened it... and then he found a box of gold; he opened that, and found the book in it. He took the book from the golden box, and read a page of spells from it. He enchanted the heaven and the earth, the abyss, the mountains, and the sea; he knew what the birds of the sky, the fish of the deep, and the beasts of the hills all said.",
+          "note": "Verbatim excerpt of Petrie (1895), Ahura's narration of the theft."
+        },
+        {
+          "id": "3",
+          "text": "And as we went on Thoth discovered all that Na-nefer-ka-ptah had done with the book; and Thoth hastened to tell Ra, and said, 'Now know that my book and my revelation are with Na-nefer-ka-ptah, son of the King Mer-neb-ptah. He has forced himself into my place, and robbed it, and seized my box with the writings, and killed my guards who protected it.' And Ra replied to him, 'He is before you, take him and all his kin.' — And after this hour, the little boy Mer-ab, going out from the awning of the royal boat, fell into the river... Then Na-nefer-ka-ptah then went out of the awning of the royal boat and fell into the river. He cried on Ra; and all those who were on the bank made an outcry, saying, 'Great woe! Sad woe! Is he lost, that good scribe and able man that has no equal?'",
+          "note": "Verbatim excerpt of Petrie (1895), the deaths of the family."
+        },
+        {
+          "id": "4",
+          "text": "And Na-nefer-ka-ptah rose from his seat and said, 'Are you Setna, to whom my wife has told of all these blows of fate, which you have not suffered? If, indeed, you can play games with me, let us play a game, then, of 52 points.' And Setna said, 'I am ready,' and the board and its pieces were put before him. And Na-nefer-ka-ptah won a game from Setna; and he put the spell upon him, and defended himself with the game board that was before him, and sunk him into the ground above his feet. He did the same at the second game... He did the same at the third game, and made him sink into the ground up to his ears. — [Petrie's edition here summarizes the Tabubua episode: the courtesan-daughter of a priest of Bast beguiles Setna into surrendering all he has and slaying his children, then vanishes; he awakens stripped of everything in an unknown place, and finds his children alive.] — So Setna went out from before the king, with a forked stick in his hand, and a fire-pan on his head... And Na-nefer-ka-ptah laughed, and he said, 'This is the business that I told you before.'",
+          "note": "Verbatim excerpt of Petrie (1895), with the Tabubua episode marked as the edition's summary; not verbatim for that section."
+        }
+      ],
+      "language": "Egyptian (Demotic, Ptolemaic copy)",
+      "canonical_translation": "J. J. Hess, Der Demotische Roman von Stne Ha-m-us (Leipzig, 1888), as rendered in W. M. F. Petrie, Egyptian Tales, Second Series (1895)",
+      "narrative": {
+        "en": "Setna and the Magic Book is the first and greatest of the Setna cycle — a Ptolemaic-era demotic ghost story set three centuries earlier, starring Setna Khaemwaset, a real son of Ramesses II whose reputation as scholar prince made him Egypt's stock hero of learning and its comic foil. The tale exists in a single papyrus, its opening lost; Petrie's edition restores the frame from clues in the text.\n\nBEGINNING: THE TOMB ROBBER. Setna, son of Ramesses the Great, hears that the magic book of Thoth — by which a man may enchant heaven, earth, abyss, mountains and sea, know the language of birds and beasts and the speech of fish, and see the sun shining with all its gods — lies in the Memphis tomb of Naneferkaptah, son of Mernebptah. He breaks in and finds the dead prince with the ka of his wife Ahura, who though buried at Koptos dwells at Memphis 'with her husband, whom she loved.' When he demands the book, Ahura begs him to hear first 'what we have suffered for it': the royal couple who were brother and sister by the queen's decree, the mocking priest who sold Naneferkaptah the book's secret, the nested coffins — iron, bronze, sycamore, ebony-and-ivory, silver, gold — in the middle of the river at Koptos, the deathless serpent killed and cut in two with sand between the halves, and the theft that enchanted the world. But Thoth told Ra, and Ra decreed: 'take him and all his kin.' One by one the boy Mer-ab and then Ahura fell from the boat's awning into the river and drowned, read back to speech by spell only to tell of Thoth's decree; and Naneferkaptah, unable to face the king, bound the book to himself with striped byssus and stepped into the river. The royal boat came on to Memphis; the king hid the book and buried his son 'in his resting-place.'\n\nMIDDLE: THE GAME OF 52 POINTS AND THE DREAM. Setna, unmoved by grief he has not suffered, demands the book by force. Naneferkaptah rises: 'Are you Setna...? If, indeed, you can play games with me, let us play a game, then, of 52 points.' The dead prince wins the first game and sinks Setna into the ground above his feet; the second, to his waist; the third, to his ears. Setna, at his brother's word, is saved by the talisman of Ptah, seizes the book, and walks out with a Light before him and Darkness behind him; Ahura weeps the contrast — 'Glory to the King of Darkness! Hail to the King of Light! all power is gone from the tomb' — but Naneferkaptah promises: 'I will make him bring back this book, with a forked stick in his hand, and a fire-pan on his head.' The king's warning goes unheeded; Setna reads the book to everybody. Then comes the revenge: in the temple court he sees the courtesan Tabubua, daughter of a priest of Bast, irresistible; she strips him of rank after rank, wealth after wealth, then of his children — he consents to everything at her command — until she gives 'a fearful cry' and vanishes, and he wakes alone, stripped, in an unknown place while crowds gather to mock him. His children appear alive: the whole degradation was spun for him from the tomb.\n\nEND: RESTITUTION AND REUNION. Setna returns the book in the foretold state — 'a forked stick in his hand, and a fire-pan on his head' — and Naneferkaptah laughs: 'This is the business that I told you before.' As the tomb fills with sunlight ('The sun was in the whole tomb'), the dead prince asks one last service of the scribe: Ahura and Mer-ab lie buried at Koptos; let Setna find their resting-place and bring their bodies to the tomb at Memphis, by the skill of a good scribe. Diggers search three days and nights through all the catacombs of Koptos without finding them; Naneferkaptah himself comes up as a very old man and reveals the spot beneath the south corner of the town of Pehemato, promising its safety. Setna brings the two bodies up the Nile as honored persons, lays them with Naneferkaptah, and smooths the earth over them; the dead family is reunited, the scholar has paid for his learning, and the colophon — written in the 35th year — closes the oldest ghost-and-roller-dice story in literature.\n\nFUNCTION. The tale is a theology of restricted knowledge: the Book of Thoth is exactly the sort of knowledge that must not be taken — its theft kills a royal family and its restitution is the only cure. It mocks the over-confident scholar (Setna is Shimon-Setna's type across three centuries of tales), and its dream-technique — a punishment that seems real until it is withdrawn — made it a template for the visions-and-illusions plot from late antiquity onward. Its tomb-board game at 52 points is among the earliest known uses of a board game as a contest with Death, a cousin of the games the dead play for their souls in other traditions."
+      },
+      "functions": [
+        "Warning tale of restricted knowledge: the Book of Thoth may be read by no living man without the price of a royal family's blood",
+        "Cult of the scholar prince: Setna Khaemwaset historicized as both Egypt's great antiquarian and its chastened tomb robber",
+        "Ghost-justice ritual: restitution performed with forked stick and fire-pan, and the reunification of a scattered dead family in one tomb",
+        "Dream-punishment narrative: the Tabubua episode as an enacted illusion that restores the wrong-doer to terror and humility"
+      ],
+      "variants": [
+        {
+          "name": "The Sealed Letter (Setna cycle, second tale)",
+          "text_tradition": "Demotic Setna II (Cairo papyrus), Ptolemaic period",
+          "summary": "A later Setna tale in which the ghost-son Se-Osiris travels to Amentet and reads the sealed letter of another age — the descent-to-the-underworld register of the same hero; planned as a pending record.",
+          "cross_ref": "egyptian-setna-magic-book"
+        },
+        {
+          "name": "The Shipwrecked Sailor's isle and the speech of creatures",
+          "text_tradition": "12th Dynasty tale",
+          "summary": "The Book of Thoth's promise of the languages of birds and fish echoes the older tale in which the serpent-prince speaks and the sailor's correct speech saves him — knowledge and speech as salvific power across Egyptian literature.",
+          "cross_ref": "egyptian-shipwrecked-sailor"
+        },
+        {
+          "name": "Naneferkaptah as historical reading",
+          "text_tradition": "Egyptological literature on the setem-priest Naneferkaptah",
+          "summary": "Egyptologists read the tale as demotic fiction attached to an earlier historical figure; the Koptos episode uses a real temple of Isis and real geography (Petrie's remarks, 1895).",
+          "cross_ref": "none"
+        }
+      ],
+      "primary_sources": [
+        {
+          "work": "Setna and the Magic Book (Setna I)",
+          "citation": "Demotic papyrus (Cairo JdE 30646), copied in the Ptolemaic period, colophon dated year 35, month Tybi. Facsimile in A. Mariette, Les Papyrus du Musee de Boulaq (1871); trans. J. J. Hess, Der Demotische Roman von Stne Ha-m-us (Leipzig, 1888); English rendering in W. M. F. Petrie, Egyptian Tales Second Series (London, 1895), pp. 87-119.",
+          "language": "Egyptian (Demotic)"
+        }
+      ],
+      "secondary_sources": [
+        {
+          "work": "Miriam Lichtheim, Ancient Egyptian Literature, vol. III",
+          "citation": "Lichtheim 1980, Berkeley: University of California Press — canonical translation of the Setna cycle with commentary on its demotic fiction context."
+        },
+        {
+          "work": "Friedhelm Hoffmann and Joachim Friedrich Quack, Anthologie der demotischen Literatur",
+          "citation": "Hoffmann and Quack 2007, Berlin: LIT Verlag — standard modern anthology of demotic literature including the Setna tales (cited for scholarly context)."
+        }
+      ],
+      "source_urls": [
+        {
+          "url": "https://www.gutenberg.org/cache/epub/7413/pg7413.txt",
+          "description": "Project Gutenberg eBook #7413 — Petrie, Egyptian Tales Second Series (1895), full text used verbatim at collection time",
+          "accessed": "2026-11-13"
+        }
+      ],
+      "sensitivity_flag": "none",
+      "sensitivity_guidance": null,
+      "provenance": {
+        "record_status": "complete",
+        "compiled": "2026-11-13",
+        "compiled_by": "DHG508 fieldwork compilation",
+        "review_status": "draft - pending human review"
+      },
+      "reconstructed_segments": null
+    }
+  ]
+}

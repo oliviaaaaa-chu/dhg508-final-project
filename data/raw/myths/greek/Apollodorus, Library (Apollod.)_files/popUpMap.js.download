@@ -1,0 +1,137 @@
+var modal2 = document.querySelector(".modal2");
+window.placeFeatureTypes = window.placeFeatureTypes || {};
+
+function zoomForFeatureTypes(featureTypes) {
+	var raw = (featureTypes || "").toLowerCase();
+	if (!raw) {
+		return 10;
+	}
+	if (raw.indexOf("region/people") !== -1 || /(^|[,;\s])region(\/|$|[,;\s])/.test(raw)) {
+		return 7;
+	}
+	if (raw.indexOf("building") !== -1) {
+		return 13;
+	}
+	return 10;
+}
+
+function getPlaceIdFromAttrs(attrs) {
+	if (!attrs) {
+		return "";
+	}
+	var about = attrs.about && attrs.about.value;
+	if (!about) {
+		return "";
+	}
+	var queryMatch = about.match(/(?:\?|&)placeID=([^&]+)/i);
+	if (queryMatch) {
+		return queryMatch[1];
+	}
+	return about.replace(/\/+$/, "").split("/").pop() || "";
+}
+
+function placePopupHtml(feature, pleiadesId) {
+	var props = feature.properties || {};
+	var html = '<p><b>Name:</b> ' + (props.concat1 || '') +
+		'<br /> <b>Hits:</b> ' + (props.hits || '') +
+		'<br /><b>Category:</b> ' + (props.featureTypes || '') +
+		'<br /><b>Description:</b> ' + (props.description || '');
+	if (pleiadesId) {
+		html += '<br /><b>Pleiades:</b> <a href="https://pleiades.stoa.org/places/' + pleiadesId + '" target="_blank">' + pleiadesId + '</a>';
+	}
+	html += '<br /> <a href="https://topostext.org/place/' + (props.placeID || '') + '"><b>View Place</b></a></p>';
+	return html;
+}
+
+function showClickedPlace(placeId, lat, lng, pleiadesId) {
+	if (typeof markers !== "undefined" && mymap.hasLayer(markers)) {
+		mymap.removeLayer(markers);
+	}
+	if (window.clickedPlaceMarker) {
+		mymap.removeLayer(window.clickedPlaceMarker);
+		window.clickedPlaceMarker = null;
+	}
+
+	var latlng = new L.LatLng(lat, lng);
+	var feature = (window.placeFeatures || {})[placeId];
+	var marker;
+
+	if (feature && typeof PoIstile === "function") {
+		marker = PoIstile(feature, latlng);
+	} else {
+		marker = L.marker(latlng);
+	}
+
+	if (feature) {
+		marker.bindPopup(placePopupHtml(feature, pleiadesId || ''));
+	}
+
+	marker.addTo(mymap);
+	window.clickedPlaceMarker = marker;
+	return marker;
+}
+
+function getCords(evt) {
+	if (!evt || !evt.lat || !evt.long) {
+		return;
+	}
+	var placeId = getPlaceIdFromAttrs(evt);
+	var featureTypes = window.placeFeatureTypes[placeId] || "";
+	var zoom = zoomForFeatureTypes(featureTypes);
+	var pleiadesId = (evt.pleiades && evt.pleiades.value) ? evt.pleiades.value : "";
+	var marker = showClickedPlace(placeId, evt.lat.value, evt.long.value, pleiadesId);
+	mymap.setView(new L.LatLng(evt.lat.value, evt.long.value), zoom);
+	setTimeout(function () {
+		if (typeof mymap.invalidateSize === "function") {
+			mymap.invalidateSize();
+		}
+		if (marker && marker.openPopup) {
+			marker.openPopup();
+		}
+	}, 80);
+}
+
+function showHideMap(place, evt) {
+	modal2.classList.toggle("show-modal2");
+	if (modal2.classList.contains("show-modal2") && typeof mymap !== "undefined") {
+		setTimeout(function () {
+			mymap.invalidateSize();
+		}, 50);
+	}
+}
+
+function windowOnClick(event) {
+	if (event.target === modal2) {
+		showHideMap();
+	}
+}
+
+window.addEventListener("click", windowOnClick);
+
+var TEXT_PLACE_SELECTOR = [
+	".place", ".place1", ".place2", ".place3",
+	".demonym", ".demonym1", ".demonym2", ".demonym3",
+	".ethnic", ".ethnic1", ".ethnic2", ".ethnic3"
+].join(", ");
+
+function getPlaceNames() {
+	var placeNames = document.querySelectorAll(TEXT_PLACE_SELECTOR);
+	for (var i = 0; i < placeNames.length; i++) {
+		placeNames[i].classList.add("modal-trigger");
+		placeNames[i].addEventListener("click", function (event) {
+			var target = event.currentTarget || event.target;
+			if (target && !target.attributes.lat && target.closest) {
+				target = target.closest(TEXT_PLACE_SELECTOR) || target;
+			}
+			if (!target.attributes.lat || !target.attributes.long) {
+				return;
+			}
+			showHideMap();
+			getCords(target.attributes);
+		});
+	}
+}
+
+document.addEventListener("DOMContentLoaded", function () {
+	getPlaceNames();
+}, false);

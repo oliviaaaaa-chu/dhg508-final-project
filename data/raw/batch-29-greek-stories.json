@@ -1,0 +1,2218 @@
+{
+  "_comment": "Stories cut from the four Greek readings in data/raw/myths/greek (Iliad, Odyssey, Theogony, Works and Days). All passages are paraphrase and carry a note.",
+  "texts": [
+    {
+      "id": "greek-iliad-death-hector",
+      "title": {
+        "en": "The Death of Hector",
+        "zh": "赫克托耳之死"
+      },
+      "tradition": "greek",
+      "category": "myth",
+      "region": {
+        "en": "Walls of Troy (symbolic pin)",
+        "zh": "特洛伊城牆（象徵性定位）"
+      },
+      "lat": 39.96,
+      "lon": 26.24,
+      "period": "Composed c. 8th century BCE (Butler translation 1898)",
+      "source": {
+        "archive": "The Internet Classics Archive (MIT)",
+        "work": "Homer, Iliad, trans. Samuel Butler (1898), Book XXII",
+        "url": "https://classics.mit.edu/Homer/iliad.html"
+      },
+      "license": "Public domain (translation 1898)",
+      "summary": {
+        "en": "Hector resolves to stand alone before the gates while his parents beg him from the tower to come in. Athena, disguised as his brother Deiphobus, tricks him into his final stand; struck down by Achilles, he dies asking only that his body be given back to Troy.",
+        "zh": "赫克托耳決定獨自擋在城門前，父母在高塔上哭求他入城避戰。雅典娜幻化為他的兄弟德伊福玻斯誘其決戰；阿基琉斯一槍貫喉，赫克托耳臨終只求把遺體交還特洛伊，卻遭拖屍城下。"
+      },
+      "motifs": [
+        "trickster"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient literary source; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Achilles bore down on the fleeing Trojans, and all poured within the gate but Hector, standing before the Scaean gates in his glittering arms, deaf to his parents' cries from the tower: Priam calling him through the doorway in tears, holding out his grey beard, Hecuba baring her breast to remind him of the nurse that fed him. Hector's mind swung — flee within the walls and hear the reproach of Polydamas now proved wise, or stand alone and die? and no third thought could hold for a man whose death Achilles was bringing up the plain.",
+          "note": "Paraphrase of Homer, Iliad, Book 22 (Butler 1898); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Achilles came near and Hector shrank: he turned and ran, three times around the walls of Troy, the two of them like racers racing for a tripod, while the gods looked on from above. Zeus weighed the fates and held up the side of death, and Apollo, who had kept Hector safe this long, left him. Athena stopped Achilles and told him plainly that the end of Hector was at hand. Then she took the shape of Hector's brother Deiphobus, and Hector, turning to see him leaning over the wall, strengthened by his presence, stopped his running and stood.",
+          "note": "Paraphrase of Homer, Iliad, Book 22 (Butler 1898); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "Hector proposed an agreement: whoever won would deal fairly with the dead man's body, but Achilles refused all terms. Hector cast first; his spear rang off Achilles' shield, and Deiphobus was not there when Hector turned for another. He knew then the truth and spoke of Zeus and the sun. Achilles threw and struck him by the collar-bone, the one chink in the armour he had taken from Patroclus's body. Dying, Hector asked that his body be given to his parents for burial, and Achilles answered in rage, that dogs and birds would give him his ending; Hector's last words foretold the day when Paris and Apollo would lay Achilles low at the Scaean gates.",
+          "note": "Paraphrase of Homer, Iliad, Book 22 (Butler 1898); not verbatim."
+        },
+        {
+          "id": "4",
+          "text": "He pierced the sinews of the dead man's feet, lashed them behind his chariot, and dragged the body back toward the ships, the dust rising in a great cloud, the black hair trailing in the dirt. The women of Troy came running to the walls: Hecuba tore her hair and cast down her veil, and Andromache, hearing the cries from within, ran out to the wall and saw her husband drawn far away from his native city; from her head rolled the ornaments of the bride's chamber, and she spoke of herself now nothing but a widow, and their boy orphaned among enemies.",
+          "note": "Paraphrase of Homer, Iliad, Book 22 (Butler 1898); not verbatim."
+        }
+      ],
+      "persons": [
+        "athena",
+        "zeus",
+        "achilles",
+        "andromache",
+        "astyanax",
+        "deiphobus",
+        "hector",
+        "hecuba",
+        "paris",
+        "patroclus",
+        "polydorus",
+        "priam"
+      ]
+    },
+    {
+      "id": "greek-iliad-diomedes-gods",
+      "title": {
+        "en": "Diomedes Wounds the War-God",
+        "zh": "狄俄墨得斯重傷戰神"
+      },
+      "tradition": "greek",
+      "category": "myth",
+      "region": {
+        "en": "Plains of Troy (symbolic pin)",
+        "zh": "特洛伊平原（象徵性定位）"
+      },
+      "lat": 39.96,
+      "lon": 26.24,
+      "period": "Composed c. 8th century BCE (Butler translation 1898)",
+      "source": {
+        "archive": "The Internet Classics Archive (MIT)",
+        "work": "Homer, Iliad, trans. Samuel Butler (1898), Book V",
+        "url": "https://classics.mit.edu/Homer/iliad.html"
+      },
+      "license": "Public domain (translation 1898)",
+      "summary": {
+        "en": "Athena grants the young Diomedes strength and licence to fight the immortals themselves. He spears Aphrodite through the hand as she shielded her son Aeneas, then strikes Ares the war-god in the belly; both deities flee wounded to Olympus, where Zeus scolds his savage son.",
+        "zh": "雅典娜賜狄俄墨得斯神力，准他直戰神明：他先刺穿護子阿埃涅阿斯的阿芙洛狄忒之手，再以長矛重創戰神阿瑞斯腹部。二神負傷逃回奧林波斯，宙斯聲色俱厲斥責其子。"
+      },
+      "motifs": [
+        "theophany",
+        "fish-swallow"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient literary source; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Athena found Diomedes pulling an arrow from his flesh after tending his wounded men, and overtook him unsaddling his horses to rest. Leaning on his chariot she said her father had granted him what no other mortal had: permission to fight even the deathless gods, if any came against him, withholding only her own kin. A fire she lit within his breast, and the plain grew strangely light before his eyes.",
+          "note": "Paraphrase of Homer, Iliad, Book 5 (Butler 1898); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "In combat with Aeneas, though two Trojan spears struck his shield, Diomedes pressed on and killed the prince's driver, then closed upon Aeneas himself who was sheltering behind his dead horses. It was then that the immortal Aphrodite came down to shield her son, folding her own son Aeneas into her shining arms. Diomedes, bending and driving, thrust with his spear and wounded the goddess through the fair palm of her hand; the ichor of the gods dripped out, and she fled shrieking to Olympus, dropping Aeneas, whom her mother Dione consoled.",
+          "note": "Paraphrase of Homer, Iliad, Book 5 (Butler 1898); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "Apollo himself lifted Aeneas from the field, and Ares the savage came down in the likeness of a mortal captain to rouse the Trojan line. Diomedes knew him by the cloak upon his head; three times the Greeks were driven back, three times rallied. At last the hero, given heart by Athena, hurled his spear upon the war-god's belt. Diomedes had wounded a god of godlike strength within the shield-belt hollow: Ares bellowed like ten thousand men shouting at once. Both armies shuddered as he fled, blackening the air, up to Olympus, where Zeus bitterly told him he had gotten what his own violence deserved.",
+          "note": "Paraphrase of Homer, Iliad, Book 5 (Butler 1898); not verbatim."
+        }
+      ],
+      "persons": [
+        "dione",
+        "aphrodite",
+        "ares",
+        "athena",
+        "aeneas",
+        "diomedes"
+      ]
+    },
+    {
+      "id": "greek-iliad-duel-helen",
+      "title": {
+        "en": "The Duel for Helen",
+        "zh": "為海倫而決鬥"
+      },
+      "tradition": "greek",
+      "category": "myth",
+      "region": {
+        "en": "Plains of Troy (symbolic pin)",
+        "zh": "特洛伊平原（象徵性定位）"
+      },
+      "lat": 39.96,
+      "lon": 26.24,
+      "period": "Composed c. 8th century BCE (Butler translation 1898)",
+      "source": {
+        "archive": "The Internet Classics Archive (MIT)",
+        "work": "Homer, Iliad, trans. Samuel Butler (1898), Book III",
+        "url": "https://classics.mit.edu/Homer/iliad.html"
+      },
+      "license": "Public domain (translation 1898)",
+      "summary": {
+        "en": "Shamed by Hector, Paris proposes single combat with Menelaus for Helen and her goods, the two armies swearing a peace to follow. Menelaus gains the upper hand, but Aphrodite spirits Paris away in a cloud, and the truce dissolves.",
+        "zh": "帕里斯受赫克托耳責備，提出與墨涅拉俄斯單獨決鬥：勝者得海倫與其財物，兩軍立誓休戰。墨涅拉俄斯略佔上風之際，阿芙洛狄忒以雲霧救走帕里斯，誓約就此作廢。"
+      },
+      "motifs": [
+        "theophany",
+        "combat-ordeal"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient literary source; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "As the two hosts closed, Paris came forward as champion in gleaming panther-skin, brandishing two spears; but when Menelaus stepped toward him he flinched back into the crowd, pale as a man who stumbles upon a serpent in a mountain glade. Hector caught him at once and taunted him: beauty and the lyre would not save a man who had stolen a wife from a warrior people and dragged his city into war.",
+          "note": "Paraphrase of Homer, Iliad, Book 3 (Butler 1898); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Paris answered that the gods' gifts should not be disdained, and offered the way out of the war: he and Menelaus alone would fight for Helen and all her possessions, and whoever won would take her home; the rest would swear peace, the Trojans keeping their city, the Achaeans sailing away. Hector made the terms known, lambs were sacrificed, and old Priam himself came down to swear the oath with the Greeks, calling the gods to witness.",
+          "note": "Paraphrase of Homer, Iliad, Book 3 (Butler 1898); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "Alone between the armies, the two men armed and fought. Menelaus drove his spear through Paris's shield, his sword snapped against the Trojan's helmet, and then he seized the helmet strap and hauled Paris backward, the chin-strap cutting into his neck and strangling the duel. But Aphrodite snapped the strap from Menelaus's grip, caught Paris up in a thick mist, invisible, and set him down safely in his own bedchamber; then she went to Helen and commanded her to tend him. Menelaus strode the field shouting that the Trojans had broken the oath, but the peace by combat proved thinner than the borrowed plume of the man it was sworn for.",
+          "note": "Paraphrase of Homer, Iliad, Book 3 (Butler 1898); not verbatim."
+        }
+      ],
+      "persons": [
+        "aphrodite",
+        "hera",
+        "zeus",
+        "helen",
+        "agamemnon",
+        "hector",
+        "menelaus",
+        "paris",
+        "priam"
+      ]
+    },
+    {
+      "id": "greek-iliad-embassy",
+      "title": {
+        "en": "The Ambassadors to Achilles",
+        "zh": "派至阿基琉斯帳的使團"
+      },
+      "tradition": "greek",
+      "category": "myth",
+      "region": {
+        "en": "Achaean camp, Troy (symbolic pin)",
+        "zh": "特洛伊希臘營地（象徵性定位）"
+      },
+      "lat": 39.96,
+      "lon": 26.24,
+      "period": "Composed c. 8th century BCE (Butler translation 1898)",
+      "source": {
+        "archive": "The Internet Classics Archive (MIT)",
+        "work": "Homer, Iliad, trans. Samuel Butler (1898), Book IX",
+        "url": "https://classics.mit.edu/Homer/iliad.html"
+      },
+      "license": "Public domain (translation 1898)",
+      "summary": {
+        "en": "With Hector encamped against the ships, Nestor urges Agamemnon to make peace, and three chosen envoys carry Briseis and a flood of gifts to Achilles' tent. Achilles hears old Phoenix's fable of Meleager and still refuses, saying he will not fight until fire comes to his own ships.",
+        "zh": "赫克托耳兵臨船陣，涅斯托耳促阿伽門農求和；三位使者帶布里塞伊斯與厚禮往阿基琉斯帳中。鳳凰以墨勒阿革洛斯的寓言相勸，阿基琉斯仍不允諾：除非敵火燒到他的船，否則不出戰。"
+      },
+      "motifs": [
+        "parable-teaching"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient literary source; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "At supper Agamemnon rose and confessed plainly that he had wronged the best of the Achaeans; now, with the panic Zeus was sending down on the host, he proposed repairing the wrong. For Briseis, he would send her untouched, and swear an oath he had never lain with her; and beyond her came a flood of gifts: tripods, cauldrons, gold, horses, women of excellent beauty, and seven well-peopled cities near Pylos if Achilles should return with him to their homes. Nestor approved, and Odysseus, Ajax, and old Phoenix, heralded by two, went down the shore to Achilles' tents.",
+          "note": "Paraphrase of Homer, Iliad, Book 9 (Butler 1898); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "They found him delighting his own heart on a shining lyre, singing of famous deeds to Patroclus alone. Embracing his guests he set out for them meat and wine, old Phoenix pouring. Odysseus spoke the army's peril and Agamemnon's offer of amends, and urged him with the argosies of gifts at heart, for Hector would burn their ships if Achilles refused to come.",
+          "note": "Paraphrase of Homer, Iliad, Book 9 (Butler 1898); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "Phoenix, who had raised him as a child, told a fable to press upon him his own pattern: the fury of Meleager, who lay in wrath within his hall while his city was stormed, deaf to his father, his mother, his friends, yielding at last to his wife, who conjured from him the battle and the death that followed. Achilles answered that no sky-high gifts could move him while Agamemnon's rage lasted: he trusted he had his honour in his own right and would wait for the moment to come. And so, when the fire burns his own ships, then will Achilles fight for his friend's sake — Ajax, quietest in reproach, turned back with the rest under the stars, with gifts he would not carry and a heart in reserve.",
+          "note": "Paraphrase of Homer, Iliad, Book 9 (Butler 1898); not verbatim."
+        }
+      ],
+      "persons": [
+        "achilles",
+        "meleager",
+        "agamemnon",
+        "ajax",
+        "briseis",
+        "nestor",
+        "odysseus",
+        "patroclus",
+        "phoenix"
+      ]
+    },
+    {
+      "id": "greek-iliad-funeral-games",
+      "title": {
+        "en": "The Funeral Games",
+        "zh": "帕特羅克洛斯葬禮競技"
+      },
+      "tradition": "greek",
+      "category": "myth",
+      "region": {
+        "en": "Pyre of Patroclus, Troy plain (symbolic pin)",
+        "zh": "特洛伊平原葬火台（象徵性定位）"
+      },
+      "lat": 39.96,
+      "lon": 26.24,
+      "period": "Composed c. 8th century BCE (Butler translation 1898)",
+      "source": {
+        "archive": "The Internet Classics Archive (MIT)",
+        "work": "Homer, Iliad, trans. Samuel Butler (1898), Book XXIII",
+        "url": "https://classics.mit.edu/Homer/iliad.html"
+      },
+      "license": "Public domain (translation 1898)",
+      "summary": {
+        "en": "Achilles winds up his friend's funeral with contests — chariot-race, boxing, wrestling, foot-race, and the duel in arms — at which grief turns to sport, old quarrels flare and end, and the army feasts together under the shadow of the coming battle.",
+        "zh": "阿基琉斯以競技會送別亡友：車賽、拳擊、摔跤、跑步與持械對決。悲傷化為比賽，舊怨爆發又平息，全軍在宴飲中共度大戰前的最後安寧。"
+      },
+      "motifs": [
+        "sacred-place"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient literary source; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "They cut wood and made a pyre of a hundred feet on every side for Patroclus, laid sheep and oxen upon it, jars of honey and oil, and the bodies of twelve Trojans that Achilles had killed for the grief, then burned it all; and all night Achilles in his fury called upon the god and kept turning the dead man's body in the fire. In the morning the bones were gathered, wrapped in fat, and laid in a golden box, and he ordered a mound of grave built high over it all.",
+          "note": "Paraphrase of Homer, Iliad, Book 23 (Butler 1898); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Then Achilles emptied his hut of prizes, and the first was the chariot-race, in which the son of Nestor, Antilochus, finished third by the packhorse trick of taking the inside line that had almost wrecked Menelaus; the two argued and then both gave way, with Menelaus conceding in the name of an old man's son. Achilles laughed and awarded him the mare; even Eumelus, whose horses had been crippled by Athena's deceit, could take his prize back from his heart-broken stallion.",
+          "note": "Paraphrase of Homer, Iliad, Book 23 (Butler 1898); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "Boxing was taken by Epeus, who knocked out his opponent with one blow and laughed about it; wrestling saw Ajax and Odysseus strive to a draw; the foot-race was won by Odysseus by devotion to Athena more than by heels; the throwing of the spear was called off as a draw when Achilles gave the prize of Agamemnon, saying his spear-throwing part was already well known. And so the games ended, and all sat down to a great feast, with Achilles mourning for his friend through the night that the war was to break again in his own hands.",
+          "note": "Paraphrase of Homer, Iliad, Book 23 (Butler 1898); not verbatim."
+        }
+      ],
+      "persons": [
+        "achilles",
+        "antilochus",
+        "epeius",
+        "eumelus",
+        "menelaus",
+        "patroclus"
+      ]
+    },
+    {
+      "id": "greek-iliad-hector-farewell",
+      "title": {
+        "en": "Hector's Farewell to Wife and Son",
+        "zh": "赫克托耳與妻兒道別"
+      },
+      "tradition": "greek",
+      "category": "myth",
+      "region": {
+        "en": "Scaean Gate, Troy (symbolic pin)",
+        "zh": "特洛伊斯開亞門（象徵性定位）"
+      },
+      "lat": 39.96,
+      "lon": 26.24,
+      "period": "Composed c. 8th century BCE (Butler translation 1898)",
+      "source": {
+        "archive": "The Internet Classics Archive (MIT)",
+        "work": "Homer, Iliad, trans. Samuel Butler (1898), Book VI",
+        "url": "https://classics.mit.edu/Homer/iliad.html"
+      },
+      "license": "Public domain (translation 1898)",
+      "summary": {
+        "en": "Between engagements Hector goes into Troy to urge prayer to Athena and finds his wife Andromache waiting at the wall with their baby son. The scene of helmets, plumes, a frightened child and a burning city is the poem's most famous domestic moment.",
+        "zh": "戰事之間，赫克托耳入城督促婦女向雅典娜祈禱，在城牆上遇見妻子安德洛瑪刻與幼子。頭盔、羽飾、嚇哭的孩童、行將傾頹的城池——這是全詩最動人的家庭一幕。"
+      },
+      "motifs": [
+        "prophetic-vision",
+        "prayer"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient literary source; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Between engagements Hector returned into the city to bid the Trojan elders and women pray to grey-eyed Athena for a hold on the feared Diomedes. His own hall stood empty, for Andromache had run down to the walls with the nurse and their small son, watching the battle from the tower, weeping for her husband who was the whole of her household now, her father and brothers fallen to Achilles' spear.",
+          "note": "Paraphrase of Homer, Iliad, Book 6 (Butler 1898); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "She came upon him at a turn of the street and begged him not to stand out before the gate where the fiercest Greeks pressed: let the army hold and shelter him within the walls, for she would be left a widow, and the child an orphan, should he fall where Achilles fought. The boy was in her arms, a lovely child like a star, wearing only a night cloak, whom his father had not yet recognised in his armour; the baby pulled back from his father's tall helmet, from the horsehair plume nodding over the brow, with a terrified cry.",
+          "note": "Paraphrase of Homer, Iliad, Book 6 (Butler 1898); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "Then Hector and Andromache laughed, and he took the helmet off his head, setting the horsehair crest upon the ground. He lifted his shining son, prayed aloud to Zeus and the gods that this boy might one day bear arms greater than his father's own and bring home bloody spoils in triumph, that his mother might rejoice. Andromache he guided gently, giving back her spirit with quiet words: no man, he said, would hasten his death to the gods' will; but the moment drew near, in which Hector knew, with the Achaeans at the gates and Troy's grey stones to be thrown down, his own fall would free her of no part of her sorrow.",
+          "note": "Paraphrase of Homer, Iliad, Book 6 (Butler 1898); not verbatim."
+        }
+      ],
+      "persons": [
+        "athena",
+        "andromache",
+        "astyanax",
+        "hector",
+        "hecuba"
+      ]
+    },
+    {
+      "id": "greek-iliad-night-raid",
+      "title": {
+        "en": "The Night Raid on the Thracians",
+        "zh": "夜襲色雷斯營地"
+      },
+      "tradition": "greek",
+      "category": "myth",
+      "region": {
+        "en": "No-man's-land, Troy (symbolic pin)",
+        "zh": "特洛伊郊野無人地帶（象徵性定位）"
+      },
+      "lat": 39.96,
+      "lon": 26.24,
+      "period": "Composed c. 8th century BCE (Butler translation 1898)",
+      "source": {
+        "archive": "The Internet Classics Archive (MIT)",
+        "work": "Homer, Iliad, trans. Samuel Butler (1898), Book X",
+        "url": "https://classics.mit.edu/Homer/iliad.html"
+      },
+      "license": "Public domain (translation 1898)",
+      "summary": {
+        "en": "On the night before the great battle for the ships, Diomedes and Odysseus slip beyond the watches. After taking and questioning a lone Trojan horseman sent to spy on their camp, they cut their way into the sleeping camp of the Thracian king Rhesus and drive off his splendid horses before dawn.",
+        "zh": "大戰前夜，狄俄墨得斯與奧德修斯潛出哨線，途中擒獲黑袍狼皮的特洛伊諜探多隆，問出其色雷斯盟軍營地所在；二人趁夜殺死雷索斯王及其部屬，劫其良駒，天曚曚亮而歸。"
+      },
+      "motifs": [
+        "trickster"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient literary source; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Sleep would not hold the camp that night, and the lords held spoken consultations in the dark. Nestor asked who would go out among the sleeping Trojans to learn their plans, for a great prize would be his name. Diomedes stood first, choosing Odysseus for a companion, and the two, in borrowed, ill-fitting armour, went out between the trench and the walls while the host lay restless.",
+          "note": "Paraphrase of Homer, Iliad, Book 10 (Butler 1898); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "At the same dark hour a single Trojan slipped out on a similar errand: Dolon, a rich man's son, wrapped in a wolf-skin cap wearing his own unique armour, having promised Hector five-and-twenty horses of the finest breed. Odysseus, standing up behind him, called on him to halt, and Dolon, thinking no pursuit possible, was taken alive. The spy bargained for his life and told all he knew: the allies lay apart, and at the far end, newest-come and unguarded, was Rhesus, king of Thrace, with the largest, fairest horses and gold-armoured chariots.",
+          "note": "Paraphrase of Homer, Iliad, Book 10 (Butler 1898); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "His life was forfeit all the same: Dolon's head was struck from his shoulders, the spoils hung on a tamarisk-bush for a landmark. The two Greeks found the sleeping Thracians, their horses standing with rich furniture beside them, and with a stealthy blow Diomedes dispatched the king and twelve men of his retinue, and Odysseus drew off the bodies so the horses might not shy. Together they whipped the thirteen chariots away, one as trophy for Athena, and went back singing of their stirred-up night to the sentries, who rose and gave them praise.",
+          "note": "Paraphrase of Homer, Iliad, Book 10 (Butler 1898); not verbatim."
+        }
+      ],
+      "persons": [
+        "maia",
+        "ajax",
+        "diomedes",
+        "dolon",
+        "menelaus",
+        "nestor",
+        "odysseus",
+        "rhesus"
+      ]
+    },
+    {
+      "id": "greek-iliad-patroclus-death",
+      "title": {
+        "en": "The Death of Patroclus",
+        "zh": "帕特羅克洛斯之死"
+      },
+      "tradition": "greek",
+      "category": "myth",
+      "region": {
+        "en": "Plain beneath Troy's wall (symbolic pin)",
+        "zh": "特洛伊城牆下平原（象徵性定位）"
+      },
+      "lat": 39.96,
+      "lon": 26.24,
+      "period": "Composed c. 8th century BCE (Butler translation 1898)",
+      "source": {
+        "archive": "The Internet Classics Archive (MIT)",
+        "work": "Homer, Iliad, trans. Samuel Butler (1898), Book XVI",
+        "url": "https://classics.mit.edu/Homer/iliad.html"
+      },
+      "license": "Public domain (translation 1898)",
+      "summary": {
+        "en": "Achilles lets his dear friend Patroclus lead the Myrmidons out in his own armour to drive the Trojans from the ships, on the strict understanding that he stop at the wall. Patroclus kills Zeus's own son Sarpedon, forgets himself, and is beaten down by Apollo, a young Trojan, and Hector in turn, prophesying Achilles' death with his last breath.",
+        "zh": "阿基琉斯借出自己的甲胄與麾下密爾彌東人，准帕特羅克洛斯出戰逐敵，唯嚴令止步於城牆。帕特羅克洛斯殺死宙斯之子薩爾佩冬，卻忘乎所以攻城，先被阿波羅震落，再遭歐福耳玻斯暗槍，終為赫克托耳所殺；臨終預言阿基琉斯亦將死於此門。"
+      },
+      "motifs": [
+        "prophetic-vision"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient literary source; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Patroclus came in tears to Achilles, asking, if Achilles would not fight, to let him lead the Myrmidons wearing Achilles' armour, so that the Trojans at the ships might think Achilles had given up his rage. Achilles reproached the world that had brought him honour only through loss, and granted the prayer: take the armour; but his terms were strict, for he warned Patroclus neither to chase the enemy to Troy's wall, nor to give his glory to the whole host, lest one of the Olympians come against him and stand in Apollo's service, whom he loves too well.",
+          "note": "Paraphrase of Homer, Iliad, Book 16 (Butler 1898); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Dressed as Achilles, Patroclus led out the dark-clad Myrmidons and swept the Trojans from the ships in one great onset. On the plain below, Zeus's dear son Sarpedon charged him, and the two fought in a whorl of spears while Zeus upon Ida debated in his heart whether to snatch his living son from death; and Hera talked him back with a promise that Sleep and Death, twin brothers, should carry Sarpedon home to Lycia. Patroclus's spear went first through the heart of the Lycian king, and a shower of stones and blood-drawn swords buried the fight.",
+          "note": "Paraphrase of Homer, Iliad, Book 16 (Butler 1898); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "But Patroclus, three times charging upon the rise of Troy, was struck back on the third by Apollo, unseen, with a flat hand that turned his mind; and a young Trojan, Euphorbus, whose spear had not yet tasted war; wounded him between the shoulder-blades; and Hector, seeing his grey eyes go out with the blow, drove his own spear through Patroclus's belly at close quarters. The dying man prophesied of Hector that his own death was near at hand at the hands of Achilles and that Achilles would not come as this day's saviour.",
+          "note": "Paraphrase of Homer, Iliad, Book 16 (Butler 1898); not verbatim."
+        },
+        {
+          "id": "4",
+          "text": "So Patroclus died, with the words that Achilles' anger would end in the death of Hector. Hector drew out his spear and boasted over his body, while a bitter fighting raged over the corpse, Greeks and Trojans surging around dying men for possession of the dead. Word flew to Achilles' tent: Antilochus, the young son of Nestor, carried the terrible news, and a cold despair came over the son of Peleus, who had not yet heard that the day of death he had traded with Zeus was Patroclus's.",
+          "note": "Paraphrase of Homer, Iliad, Book 16-17 (Butler 1898); not verbatim."
+        }
+      ],
+      "persons": [
+        "apollo",
+        "zeus",
+        "hypnos",
+        "phobos",
+        "thanatos",
+        "achilles",
+        "sarpedon",
+        "antilochus",
+        "euphorbus",
+        "hector",
+        "patroclus"
+      ]
+    },
+    {
+      "id": "greek-iliad-priam-ransom",
+      "title": {
+        "en": "Priam Ransoms the Body of Hector",
+        "zh": "普里阿摩斯贖體"
+      },
+      "tradition": "greek",
+      "category": "myth",
+      "region": {
+        "en": "Achaean camp at night, Troy (symbolic pin)",
+        "zh": "特洛伊夜間希臘營地（象徵性定位）"
+      },
+      "lat": 39.96,
+      "lon": 26.24,
+      "period": "Composed c. 8th century BCE (Butler translation 1898)",
+      "source": {
+        "archive": "The Internet Classics Archive (MIT)",
+        "work": "Homer, Iliad, trans. Samuel Butler (1898), Book XXIV",
+        "url": "https://classics.mit.edu/Homer/iliad.html"
+      },
+      "license": "Public domain (translation 1898)",
+      "summary": {
+        "en": "For eleven days Achilles drags Hector's body behind his chariot while Apollo keeps it unmarred; at last Zeus himself sends Hermes to guide the old king Priam through the night to Achilles' tent. Priam kisses the hands that killed his son, the two enemies weep, and the ransom buys a truce for burial.",
+        "zh": "十一日來阿基琉斯拖屍洩憤，而阿波羅暗中保護遺體完好。宙斯派赫爾墨斯引普里阿摩斯夜行至仇人之帳；老人親吻殺子者之手，二人相擁而泣。贖金換得停戰喪期，全詩以赫克托耳的葬禮作結。"
+      },
+      "motifs": [
+        "transformation",
+        "kin-slaying"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient literary source; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Nothing but rage would satisfy Achilles. Nine times he dragged the body of Hector around the mound of Patroclus, and Apollo, pitying him though he was dead, hid the body with his golden shield so that no mark remained. On the twelfth morning the gods grew wearied of it all, and Zeus decreed that Priam should ransom his son, sending Iris to the old king with the word, and Thetis to her son with the command to give the body back.",
+          "note": "Paraphrase of Homer, Iliad, Book 24 (Butler 1898); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Priam, with his herald carrying ransom in a wagon — robes and cloaks, talents of gold, tripods, and cups — drove out through the night-time gate past his sons and the women weeping at the doors. Hermes, sent to make the way safe, took the shape of a young Myrmidon with Achilles in his favour: he praised the old man's daring and told him plainly that Achilles, in fury, but with the gods' orders behind him, held the son he was coming for.",
+          "note": "Paraphrase of Homer, Iliad, Book 24 (Butler 1898); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "He pushed through alone, past the guards, into the great tent where Achilles sat at his meat, left his herald outside, and clasped the knees of his son's killer: kissing those terrible hands, hands that had killed so many of his sons. Achilles marveled; and Priam named himself, spoke, and begged the father-in-him in the depth of his sorrow to give back the body: God-like Achilles remembered his own father Peleus, whom he would never see again, and both men wept, one for the son that had died in another man's life, one for the father he would never greet again.",
+          "note": "Paraphrase of Homer, Iliad, Book 24 (Butler 1898); not verbatim."
+        },
+        {
+          "id": "4",
+          "text": "By night they feasted in the tent, Priam gazing in wonder at Achilles' size and beauty, Achilles at the old king's face and his words; and Achilles swore to hold back the war until the Trojans had gotten their nine days of lamentation and burned him on the tenth. He had the body washed, anointed, and wrapped, with the care to keep it from Priam's eyes, and laid it on the wagon. At dawn they went out, Priam and his herald bearing the body home; and Cassandra, first to see the chariot coming, ran through the city crying out for the people to come and look on Hector.",
+          "note": "Paraphrase of Homer, Iliad, Book 24 (Butler 1898); not verbatim."
+        }
+      ],
+      "persons": [
+        "apollo",
+        "hermes",
+        "zeus",
+        "iris",
+        "thetis",
+        "achilles",
+        "helen",
+        "andromache",
+        "astyanax",
+        "cassandra",
+        "hector",
+        "hecuba",
+        "patroclus",
+        "peleus",
+        "priam"
+      ]
+    },
+    {
+      "id": "greek-iliad-river-battle",
+      "title": {
+        "en": "Achilles Let Loose: Battle at the River",
+        "zh": "阿基琉斯發威：河畔之戰"
+      },
+      "tradition": "greek",
+      "category": "myth",
+      "region": {
+        "en": "Scamander river, Troy (symbolic pin)",
+        "zh": "特洛伊克珊托斯河（象徵性定位）"
+      },
+      "lat": 39.96,
+      "lon": 26.24,
+      "period": "Composed c. 8th century BCE (Butler translation 1898)",
+      "source": {
+        "archive": "The Internet Classics Archive (MIT)",
+        "work": "Homer, Iliad, trans. Samuel Butler (1898), Books XX-XXI",
+        "url": "https://classics.mit.edu/Homer/iliad.html"
+      },
+      "license": "Public domain (translation 1898)",
+      "summary": {
+        "en": "Achilles returns to the field and the armies break apart, with the gods themselves meleeing: Athena against Ares, Poseidon against Apollo. When the river Scamander chokes with the dead he has thrown into it and rises against Achilles, Hephaestus burns the waters dry until the gods part them.",
+        "zh": "阿基琉斯重返戰場，兩陣大亂，諸神亦親自交鋒：雅典娜戰阿瑞斯，波塞頓對阿波羅。克珊托斯河塞滿屍體而暴怒反擊，赫菲斯托斯以烈焰炙乾河水，宙斯在旁看戰，最後由神使調停罷手。"
+      },
+      "motifs": [
+        "theophany",
+        "divine-smith"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient literary source; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Zeus gave the gods leave to go down, and the battle split into a war of gods and men: Athena came against Ares, Poseidon took Apollo's challenge, and Hera and Artemis matched voices. Achilles, terrible as before but stripped of mercy, drove through the Trojans in a fury of slaughter; troop after troop fell before him as they fled for the city gates, and among those he caught Priam's son Lycaon by the river bank, gripping and drowning him to doom beside the water.",
+          "note": "Paraphrase of Homer, Iliad, Book 20-21 (Butler 1898); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "He threw so many into the river, cutting the young men's flanks and holding their heads under, that Scamander's own waters rebelled: the river-god rose in a boiling wave and called on Achilles to stop, or the whole plain would drown. Achilles answered that he would keep on until Hector paid. Then the river closed on him, wave upon wave pushing him from the bank, and he gripped an elm and cursed the day; the gods, in open irony, gave Hephaestus his wind, and fire poured into the water, boiling the streams, searing the elms and willows, until the river-god yielded and the fight on the dry plain resumed.",
+          "note": "Paraphrase of Homer, Iliad, Book 21 (Butler 1898); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "Aeneas alone Achilles had spared, lifted out of his danger by Poseidon, who reminded the immortals that the line of Dardanus was fated to survive and rule the Trojans; but the rest of Troy's sons went down. The gods, finished with their own melee, stood off as the day of Achilles' victory gathered weight; and Zeus upon Olympus watched, weighing in his mind how much of Achilles' fury the city could bear before the fates called it too soon.",
+          "note": "Paraphrase of Homer, Iliad, Book 20-21 (Butler 1898); not verbatim."
+        }
+      ],
+      "persons": [
+        "apollo",
+        "ares",
+        "artemis",
+        "hephaestus",
+        "poseidon",
+        "scamander-river",
+        "achilles",
+        "aeneas",
+        "lycaon"
+      ]
+    },
+    {
+      "id": "greek-iliad-shield-armor",
+      "title": {
+        "en": "New Armour: The Shield of Achilles",
+        "zh": "新甲神盾"
+      },
+      "tradition": "greek",
+      "category": "myth",
+      "region": {
+        "en": "Achaean camp, Troy (symbolic pin)",
+        "zh": "特洛伊希臘營地（象徵性定位）"
+      },
+      "lat": 39.96,
+      "lon": 26.24,
+      "period": "Composed c. 8th century BCE (Butler translation 1898)",
+      "source": {
+        "archive": "The Internet Classics Archive (MIT)",
+        "work": "Homer, Iliad, trans. Samuel Butler (1898), Books XVIII-XIX",
+        "url": "https://classics.mit.edu/Homer/iliad.html"
+      },
+      "license": "Public domain (translation 1898)",
+      "summary": {
+        "en": "Thetis promises her grieving son new armour from the smith-god Hephaestus, who forges a shield at whose rim he works the whole world in miniature: two cities, weddings and courts, ploughed fields, vineyards, herds, and a dancing floor. Arrayed again in glory, Achilles makes his peace with Agamemnon over Briseis before arming for battle.",
+        "zh": "忒提斯為喪友的兒子向神匠赫菲斯托斯求取新甲；匠神鍛出一面神盾，盾上鑄著微縮的人間：兩座城池、婚禮與法庭、耕地、葡萄園、牛群與舞會。阿基琉斯披甲出帳，當眾與阿伽門農和解，布里塞伊斯完璧歸還，隨即重赴戰場。"
+      },
+      "motifs": [
+        "sacred-kingship",
+        "divine-smith"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient literary source; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "When Antilochus arrived with the news that Patroclus had fallen and Hector had his armour, Achilles poured dust over his head and lay a long time in it, while from the camp his cry of grief went up like a wave-beaten shore and drove the Trojans back in fear. He swore that Hector would pay with his own life, and only his mother's arrival, risen from the deep sea with her wailing sisters, could tell him what the promise was: she would bring him armour made by the smith-god that very night, and he was not to arm until she returned.",
+          "note": "Paraphrase of Homer, Iliad, Book 18 (Butler 1898); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Thetis went up to Olympus, clasped the knees of Hephaestus, and asked armour for a son already fated to die young. The lame smith sent his bellows to work, laid gold, silver, bronze and tin upon the fire, and wrought a shield of five folds: on it he fashioned the earth and the heavens and the sea, the tireless sun and moon, and every star; within, two cities in fine detail, one peaceful with weddings, courts and elders judging, harvests, a vineyard, pastures and a dancing floor, the other a city of war with ambush and a river struggle on its banks; and around the rim he bent the great river of Ocean.",
+          "note": "Paraphrase of Homer, Iliad, Book 18 (Butler 1898); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "She came down at dawn with armour like light itself, and Achilles let the Myrmidons stand around to marvel at it. Before arming he swore away his quarrel: enough of wrath had been spent. Agamemnon rose in the assembly with an oath that he had never lain with Briseis, and she was led back untouched, and Achilles himself announced his will to fight. But the herald at the feast poured for both; Achilles ate little, thinking not of food but of Patroclus, whose body lay waiting to be avenged.",
+          "note": "Paraphrase of Homer, Iliad, Book 19 (Butler 1898); not verbatim."
+        }
+      ],
+      "persons": [
+        "apollo",
+        "athena",
+        "hephaestus",
+        "thetis",
+        "achilles",
+        "agamemnon",
+        "antilochus",
+        "briseis",
+        "patroclus"
+      ]
+    },
+    {
+      "id": "greek-iliad-ship-fire",
+      "title": {
+        "en": "Hector at the Ships",
+        "zh": "赫克托耳火燒船陣"
+      },
+      "tradition": "greek",
+      "category": "myth",
+      "region": {
+        "en": "Achaean ship-camp, Troy (symbolic pin)",
+        "zh": "特洛伊希臘船營（象徵性定位）"
+      },
+      "lat": 39.96,
+      "lon": 26.24,
+      "period": "Composed c. 8th century BCE (Butler translation 1898)",
+      "source": {
+        "archive": "The Internet Classics Archive (MIT)",
+        "work": "Homer, Iliad, trans. Samuel Butler (1898), Books XI-XV",
+        "url": "https://classics.mit.edu/Homer/iliad.html"
+      },
+      "license": "Public domain (translation 1898)",
+      "summary": {
+        "en": "With Achilles still out of the fight, Hector breaches the Achaean wall around their ships and sets one aflame, a mortal danger to the whole army's escape. Zeus, asleep and deceived by Hera, allows Poseidon to rally the Greeks, and the Trojan advance is hurled back for the day.",
+        "zh": "阿基琉斯仍在罷戰之際，赫克托耳撞破希臘船營的牆垣，放火燒船，直接威脅全軍退路。宙斯被赫拉誘入睡眠、暫離戰局，波塞頓趁機激勵希臘人反擊，特洛伊的攻勢被逐回平原。"
+      },
+      "motifs": [
+        "storm-thunder"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient literary source; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Morning renewed the slaughter, and the fighting fell back to the ditch and the wall the Achaeans had built before their beached ships, with great Ajax and little Ajax standing out before the gates like two boars to hold the host. Through the long day Zeus kept his watchers stretching him his victories in anger against the treaties sworn; one after another the Achaean chieftains, Agamemnon, Diomedes, Odysseus among them, went down wounded and left the field.",
+          "note": "Paraphrase of Homer, Iliad, Books 11-13 (Butler 1898); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Hera, watching from Ida's height and forbidden by the oath of Styx to aid against Zeus's plan, invented her own means. She bathed, borrowed from Aphrodite the embroidered magic girdle of desire, and came down in mist to Zeus, knowing that sleep would slip his vigil. Sitting with him, she wound him about with words until he clasped her and covered them both with a golden cloud; and Sleep, commanded, cast his own upon the eyes of Zeus, so that the king of gods lay senseless on the summit of Ida.",
+          "note": "Paraphrase of Homer, Iliad, Book 14 (Butler 1898); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "Poseidon, who had long burned to help the Greeks in defiance of the lot that gave him sea, now went among them in the shape of an old man he knew, banging his spear and crying them up to the fight. The work was done with such cries that the ground reverberated; Hector, charged, threw his spear and pierced the bronze wall gate with a stone that no two men could lift; weeping Trojan and Achaean alike saw the towers burst asunder, and the Trojans rolled over the wall with a single cry to the naked ships.",
+          "note": "Paraphrase of Homer, Iliad, Book 15 (Butler 1898); not verbatim."
+        },
+        {
+          "id": "4",
+          "text": "Apollo came re-invigorated from Zeus on the terror-wind of the Trojans, and Hector drew out to the nearest ship and wreathed: he set a howling fire upon the deck of a beached vessel of Protesilaus, and a red river of light poured up. But Apollo held the war-god's shield off the Greek faces with terror, and Ajax fought arm-breaking at the deck of another; and the Greeks saw woe that would not leave them while Achilles still stood grieving in his tent for the friend that would buy his revenge.",
+          "note": "Paraphrase of Homer, Iliad, Book 15 (Butler 1898); not verbatim."
+        }
+      ],
+      "persons": [
+        "hera",
+        "poseidon",
+        "zeus",
+        "agamemnon",
+        "ajax",
+        "diomedes",
+        "hector",
+        "odysseus"
+      ]
+    },
+    {
+      "id": "greek-iliad-wrath-begins",
+      "title": {
+        "en": "The Wrath Begins: Plague and Quarrel",
+        "zh": "憤怒之始：瘟疫與爭吵"
+      },
+      "tradition": "greek",
+      "category": "myth",
+      "region": {
+        "en": "Plains of Troy (symbolic pin)",
+        "zh": "特洛伊平原（象徵性定位）"
+      },
+      "lat": 39.96,
+      "lon": 26.24,
+      "period": "Composed c. 8th century BCE (Butler translation 1898)",
+      "source": {
+        "archive": "The Internet Classics Archive (MIT)",
+        "work": "Homer, Iliad, trans. Samuel Butler (1898), Book I",
+        "url": "https://classics.mit.edu/Homer/iliad.html"
+      },
+      "license": "Public domain (translation 1898)",
+      "summary": {
+        "en": "Because King Agamemnon has dishonoured Apollo's priest, a plague devastates the Achaean camp. Agamemnon returns the priest's daughter but seizes Achilles' war prize in compensation, and Achilles withdraws from battle, praying his mother Thetis to win Zeus's favour.",
+        "zh": "阿伽門農羞辱阿波羅的祭司，瘟疫席捲希臘聯軍。阿伽門農歸還祭司之女，卻奪走阿基琉斯的戰利品作補償；阿基琉斯憤而罷戰，懇求母親忒提斯請宙斯還他榮譽。"
+      },
+      "motifs": [
+        "theophany",
+        "plague-sent"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient literary source; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Chryses, priest of Apollo, came to the Achaean ships with rich ransom for his daughter, captured when her city fell. Agamemnon sent him away harshly, warning him never to return. Along the shore the old man prayed that the Danaans pay for his tears, and Apollo heard him: the god came down from Olympus with his bow and shot plague into the camp. First mules and dogs died, then men, and the pyres burned day and night.",
+          "note": "Paraphrase of Homer, Iliad, Book 1 (Butler 1898); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "On the ninth day Achilles called an assembly. The seer Calchas, reassured in advance of Achilles' protection, explained that the plague would not lift until Agamemnon returned the girl to her father without ransom. Agamemnon stormed and raged, but reluctantly yielded, demanding compensation in kind: he would come in person to the tent of Achilles, Ajax, or Odysseus and take the prize won by whichever hero he found there.",
+          "note": "Paraphrase of Homer, Iliad, Book 1 (Butler 1898); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "Achilles rose in fury, calling the expedition wasted, fought only for Agamemnon's own profit. He threatened to sail home. The two nearly drew their swords, but Athena, invisible to all others, pulled Achilles back and promised his gifts would one day be many times over. So he released his anger in words only.",
+          "note": "Paraphrase of Homer, Iliad, Book 1 (Butler 1898); not verbatim."
+        },
+        {
+          "id": "4",
+          "text": "Agamemnon's men took Briseis by force from Achilles' tent. He wept on the lonely shore and called his mother, the sea-nymph Thetis, who rose from the grey water like mist to hear him. He begged her to win Zeus over: let the Trojans be pressed hard upon the Greeks until they honour Achilles. Thetis went up to Olympus, clasped King Zeus by the knees, and among the clouds, after persuading him, the father of gods bowed his dark head in assent.",
+          "note": "Paraphrase of Homer, Iliad, Book 1 (Butler 1898); not verbatim."
+        }
+      ],
+      "persons": [
+        "apollo",
+        "athena",
+        "zeus",
+        "thetis",
+        "achilles",
+        "agamemnon",
+        "briseis",
+        "calchas",
+        "chryseis",
+        "chryses",
+        "peleus"
+      ]
+    },
+    {
+      "id": "greek-odyssey-bow-contest",
+      "title": {
+        "en": "The Contest of the Bow",
+        "zh": "拉弓競賽"
+      },
+      "tradition": "greek",
+      "category": "myth",
+      "region": {
+        "en": "Palace hall, Ithaca (symbolic pin)",
+        "zh": "伊薩卡王宮大廳（象徵性定位）"
+      },
+      "lat": 38.42,
+      "lon": 20.72,
+      "period": "Composed c. 8th century BCE (Butler translation 1898)",
+      "source": {
+        "archive": "The Internet Classics Archive (MIT)",
+        "work": "Homer, Odyssey, trans. Samuel Butler (1898), Books XIX-XXI",
+        "url": "https://classics.mit.edu/Homer/odyssey.html"
+      },
+      "license": "Public domain (translation 1898)",
+      "summary": {
+        "en": "The disguised Odysseus endures the abuse of the suitors by day and meets Penelope by night, who tells him of her weaving-trick and her uncompleted test with the bow. When the day of the contest comes, none of the suitors can string the bow; the beggar asks for it and, alone in the hall with the doors shut, strings it and shoots clean through the twelve axes.",
+        "zh": "喬裝的奧德修斯白天忍受求婚者的凌辱，夜間與珀涅羅珀相見；她講述織布計謀與未完成的考驗。競弓之日，眾求婚者無一能弯弓；乞丐伸手求弓，關門閉戶，獨自張弦，一箭連穿十二把斧孔。"
+      },
+      "motifs": [
+        "trickster",
+        "bow-contest",
+        "betrayal"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient literary source; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "By night, in hall, Odysseus the beggar sat with his queen, who had commanded her maids to make up a bed for the favoured stranger. He told her he knew Odysseus: that Odysseus had worn a fine purple doublet and a gold brooch with a folded dog clutching a fawn, which Odysseus had given, and Penelope, weeping, knew only that this was true — she had made it with her own hands and sent him off in it. He told her also of the moon-lit new robe the stranger's herald had carried.",
+          "note": "Paraphrase of Homer, Odyssey, Book 19 (Butler 1898); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Penelope recounted her desperate device: for three years she had undone at night the web of Laertes's shroud she wove by day, until the maids betrayed her. Now, she said, she could put it off no longer: she would set the contest her lord had promised: whoever could string the great bow of Odysseus and shoot through the twelve axes set out in a line would be her husband. Odysseus, the beggar, promised her Odysseus's return before the test, and bade the nurse Eurycleia wash his feet: and in the water her hand found the scar of the boar-hunt that only Odysseus had; the old woman opened her lips in recognition, and he gripped her with warning: she said nothing, so her mistress never knew.",
+          "note": "Paraphrase of Homer, Odyssey, Book 19 (Butler 1898); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "At the great hall with the axes in a trench, the suitors tried the bow: Leiodes tried, and Eurymachus, and Antinous could not even bend it, sweating behind his chair, nor could the port like always Melanthius heat and soften the bow's horn. Telemachus had tried thrice and failed, while the suitors drank to their own pleasure. Then the beggar asked to try; Antinous threatened him with abuse, but Penelope said the guest should have the bow so long as he was under that roof, and Telemachus sent his mother to her rooms above; and while the maids shut the doors, father and son alone in the hall had a fateful word.",
+          "note": "Paraphrase of Homer, Odyssey, Book 21 (Butler 1898); not verbatim."
+        },
+        {
+          "id": "4",
+          "text": "He turned the great bow in his hands this way and that, as a bard turns his lyre, stringing it up while sitting; then, seated still, he fitted the arrow, drew, and the iron-whistling shaft flew through all twelve heads of the axes in line; and Telemachus took up his own spear, girt on his sword, and stood by his father's side.",
+          "note": "Paraphrase of Homer, Odyssey, Book 21 (Butler 1898); not verbatim."
+        }
+      ],
+      "persons": [
+        "athena",
+        "antinous",
+        "eurycleia",
+        "eurymachus",
+        "odysseus",
+        "penelope",
+        "telemachus"
+      ]
+    },
+    {
+      "id": "greek-odyssey-calypso-raft",
+      "title": {
+        "en": "Calypso's Island and the Raft",
+        "zh": "卡呂普索之島與木筏"
+      },
+      "tradition": "greek",
+      "category": "myth",
+      "region": {
+        "en": "Ogygia (mythic island; symbolic pin in western sea)",
+        "zh": "俄古癸亞島（神話島嶼；象徵性定位）"
+      },
+      "lat": 37.5,
+      "lon": 12.5,
+      "period": "Composed c. 8th century BCE (Butler translation 1898)",
+      "source": {
+        "archive": "The Internet Classics Archive (MIT)",
+        "work": "Homer, Odyssey, trans. Samuel Butler (1898), Book V",
+        "url": "https://classics.mit.edu/Homer/odyssey.html"
+      },
+      "license": "Public domain (translation 1898)",
+      "summary": {
+        "en": "Zeus sends Hermes to order the nymph Calypso to give up a captive she wants to make immortal. Odysseus turns her offer down, builds a raft, survives seventeen days of sailing, and is wrecked by Poseidon, saved by the sea-nymph Ino, and washed up naked and exhausted on the shore of Phaeacia.",
+        "zh": "宙斯命赫爾墨斯傳諭：卡呂普索須放走她盼共度永生的奧德修斯。他拒絕女神的不死之諾，自製木筏航行十七天，卻遭波塞頓掀浪打碎；海中仙女伊諾以神紗相救，他泅水兩晝夜後赤身登上費埃克斯海岸。"
+      },
+      "motifs": [
+        "quest-immortality",
+        "theophany"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient literary source; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The gods had heard his case while the world went on without him — but at last Athena pleaded his cause in assembly: for ten years Zeus had let the one man alive without fault suffer. Zeus showed the way out: Hermes should go, not with gifts but with a message, that Calypso, who wanted the captive stranger to forget his home, must let him go; she too should know the pain that waits on love. Hermes, wearing golden sandals, came down and told her plainly what Zeus had said.",
+          "note": "Paraphrase of Homer, Odyssey, Book 5 (Butler 1898); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Calypso was furious that the male gods begrudged goddesses an immortal lover, but she could not unmake the will of Zeus; she found Odysseus weeping on the rocky shore as usual, staring at the sea, and gave out the order to build a raft. Before he trusted it, she showed him she knew his heart by offering him immortal ageless life if he would stay; and Odysseus refused: nothing equals a man's own wife and country, not even Penelope beside Calypso in beauty. So she gave his materials, and for four days he cut and fitted the timbers, caulked with wax, and steered by the stars of the Bear that never sets.",
+          "note": "Paraphrase of Homer, Odyssey, Book 5 (Butler 1898); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "Seventeen days he held his course, and on the eighteenth the land showed; but Poseidon, returning from Ethiopia, saw him far out on the sea and doubled his rage for the eye blinding of Polyphemus: he whipped up all winds at once, and the raft burst under the waves. A sea-nymph, Ino, rose like a gull and gave him her immortal scarf: doffed when his feet touched land. For two days and nights he swam, until a current carried him to a river-mouth in the land of the Phaeacians; he waded up the stream, crawled to a double olive thicket, heaped it with leaves for a bed, and slept at last, more dead than alive.",
+          "note": "Paraphrase of Homer, Odyssey, Book 5 (Butler 1898); not verbatim."
+        }
+      ],
+      "persons": [
+        "hermes",
+        "poseidon",
+        "zeus",
+        "calypso",
+        "ino",
+        "polyphemus",
+        "harmonia",
+        "odysseus"
+      ]
+    },
+    {
+      "id": "greek-odyssey-circe",
+      "title": {
+        "en": "The Bag of Winds, the Cannibals, and the Enchantress",
+        "zh": "風袋、食人族與女巫喀耳刻"
+      },
+      "tradition": "greek",
+      "category": "myth",
+      "region": {
+        "en": "Aeaea, Monte Circeo (conjectural pin)",
+        "zh": "埃埃亞島（今義大利奇爾切奧山，推定）"
+      },
+      "lat": 41.25,
+      "lon": 13.05,
+      "period": "Composed c. 8th century BCE (Butler translation 1898)",
+      "source": {
+        "archive": "The Internet Classics Archive (MIT)",
+        "work": "Homer, Odyssey, trans. Samuel Butler (1898), Book X",
+        "url": "https://classics.mit.edu/Homer/odyssey.html"
+      },
+      "license": "Public domain (translation 1898)",
+      "summary": {
+        "en": "Aeolus ties up every hostile gale in a bag and hands Odysseus the winds, but his crew, within sight of Ithaca, untie it for greed and are blown back out to sea. The Laestrygonians eat their fill and sink eleven of twelve ships; on Circe's island the enchantress turns his scouts into swine until Odysseus, armed by Hermes with the moly plant, makes her undo the spell and host them all a year.",
+        "zh": "風神埃俄羅斯將逆風俱束於囊中相贈，船員卻在望見伊薩卡時貪心啟囊，被吹回外海。萊斯特律戈涅斯巨人吞食船員、擊沉十一艘船；抵喀耳刻島後，偵察者被女巫變為豬群。赫爾墨斯授神草墨利，奧德修斯喝下後不受魔法，迫使她解除妖術並款待眾人一年。"
+      },
+      "motifs": [
+        "transformation"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient literary source; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Aeolus, son of Hippotes, keeper of the winds, received Odysseus royally for a month and gave him, when he sailed, a bag made fast with a silver wire, in which were bound all the blustering winds,so that only the gentle West Wind was left to blow the fleet home. Nine days of sailing brought them within sight of the beacon fires of their own shore; and Odysseus, worn out with holding the tiller, slept. His men, suspecting the bag was treasure, untied it, and out snapped every wind at once, whipping the fleet back out to sea. And when they returned to the island of Aeolus, the wind-keeper drove them off, declaring that the gods must hate them indeed.",
+          "note": "Paraphrase of Homer, Odyssey, Book 10 (Butler 1898); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Six days more without a shore; then the Laestrygonians: a walled town whose king's daughter led them to the town; and the giant king Antiphates seized one of the scouts and made a meal of him on the spot. The others fled, and the giants pelted the fleet with rocks from the clifftops and fished up the drowning men to eat: eleven of the twelve ships went down crew and all. Only Odysseus's own ship, moored outside the harbour mouth, survived.",
+          "note": "Paraphrase of Homer, Odyssey, Book 10 (Butler 1898); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "They landed at Aeaea, where Odysseus's scouts, led by Eurylochus, came upon the house of Circe the enchantress among wolf and lion. She gave them a mixed drink with charm and then, striking them with her wand, penned the men in pig-sties: each with the head and voice and bristles of a swine, but keeping the mind of the man he had been. Eurylochus, the only scout to slip away, came back to the ship and told the tale; Odysseus slung his sword and went alone to the rescue.",
+          "note": "Paraphrase of Homer, Odyssey, Book 10 (Butler 1898); not verbatim."
+        },
+        {
+          "id": "4",
+          "text": "In the wood Hermes met him and gave him the herb — black at the root, white flowered, moly, hard to dig for mortal men — and told the plan: let her strike, drink, and strike again to no effect; then draw the sword and threaten her life till she swore not to harm him. Odysseus drank the draught and felt no change; and when he sprang at her with drawn sword as though to kill her, Circe caught his knees and cried out that she knew him for Odysseus, of whom Hermes had told her. He forced her oath, and she led the men from the sty, stroked them with a different charm, and made them men again, each with his own former age — but younger and taller-looking than before. And she feasted them and urged them to stay; and they stayed, in her house, a whole year, before Odysseus rose to demand the road the gods willed for him.",
+          "note": "Paraphrase of Homer, Odyssey, Book 10 (Butler 1898); not verbatim."
+        }
+      ],
+      "persons": [
+        "aeolus",
+        "circe",
+        "hermes",
+        "eurylochus",
+        "odysseus"
+      ]
+    },
+    {
+      "id": "greek-odyssey-cyclops",
+      "title": {
+        "en": "Odysseus Tales: The Blinding of the Cyclops",
+        "zh": "刺瞎獨眼巨人"
+      },
+      "tradition": "greek",
+      "category": "myth",
+      "region": {
+        "en": "Land of the Cyclopes, Sicily/Etna (conjectural pin)",
+        "zh": "獨眼巨人之地（今西西里埃特納山，推定）"
+      },
+      "lat": 37.75,
+      "lon": 14.99,
+      "period": "Composed c. 8th century BCE (Butler translation 1898)",
+      "source": {
+        "archive": "The Internet Classics Archive (MIT)",
+        "work": "Homer, Odyssey, trans. Samuel Butler (1898), Book IX",
+        "url": "https://classics.mit.edu/Homer/odyssey.html"
+      },
+      "license": "Public domain (translation 1898)",
+      "summary": {
+        "en": "Telling his own story to Alcinous, Odysseus recounts the raid on the Cicones, the lotus-eaters, and then the cave of Polyphemus, the giant shepherd-king who ate his men raw. Odysseus blinds him with a heated stake after getting him drunk on wine, gives his name as Nobody so no help comes, escapes under sheep, and in pride brings Poseidon's curse on his head.",
+        "zh": "奧德修斯向阿爾基努斯自述：先敗於基科涅斯人，再到食忘憂果者之地，最後落入獨眼牧羊巨人波呂斐摩斯的洞中，隨從被生吞。他以烈酒灌醉巨人、自稱「無人」，用燒紅的木樁刺瞎其眼，藏身羊腹逃出；卻因自誇真名而招來波塞頓的詛咒。"
+      },
+      "motifs": [
+        "trickster"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient literary source; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Odysseus made his name known at the Phaeacian court as the famous liar Odysseus of Ithaca, and then, at Alcinous's asking, told of the wanderings since Troy: how he lost half a dozen men off every ship in a fight against reinforcements on the coast the storm had forced upon the coast of Ismarus; how the lotus-eaters had emptied three of his men of all longing for their homes, and he dragged them weeping back to the ships and lashed them under the benches; and so they came to the land of the lawless Cyclopes, who have neither assemblies, laws, nor ploughing.",
+          "note": "Paraphrase of Homer, Odyssey, Book 9 (Butler 1898); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "He left the rest at the island harbour, went with twelve chosen men and a skin of Maron's unmixed wine to a great cave at the clifftop, and there found the shepherd-king Polyphemus milking with his flocks. The giant penned his rams and goats inside, and ate two of Odysseus's men for his supper, then two for breakfast, and, rolling a rock heavier than twenty wagons against the entrance, went out with his flock, leaving the strangers penned in the dark.",
+          "note": "Paraphrase of Homer, Odyssey, Book 9 (Butler 1898); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "When he returned in the evening, Odysseus offered him bowl after bowl of the wonderful wine, and, when the giant asked his guest's name in exchange for a promise of favour, gave him his celebrated lie: Nobody is my name, and my father and mother call me Nobody. Polyphemus promised to eat Nobody last of all, and fell down drunk among the bleating sheep. Odysseus had meanwhile turned a young olive trunk to a point and hardened it in the fire, and with his comrades waiting he thrust that blazing point deep into the single eye, which sizzled like the spit of an axe-head, and the monster stumbled back screaming for his fellows.",
+          "note": "Paraphrase of Homer, Odyssey, Book 9 (Butler 1898); not verbatim."
+        },
+        {
+          "id": "4",
+          "text": "The other Cyclopes called from outside to ask who was hurting Nobody, and got their answer to their mockery: if nobody hurts you, then your prayer is to that god's will. So they went home to their caves. In the morning the flock they had bound under three sheep each went out to the fields, with Odysseus himself under the great ram, and the blinded giant stroked his own beast's wool and touched only wool for the men beneath. Out on the shore he rounded up his men and drove the fat sheep to the ships; and then, from the sea in pride, he shouted back his true name to the Cyclops, so that the blinded giant could curse the man who had blinded him — a prayer Poseidon heard.",
+          "note": "Paraphrase of Homer, Odyssey, Book 9 (Butler 1898); not verbatim."
+        }
+      ],
+      "persons": [
+        "poseidon",
+        "polyphemus",
+        "alcinous",
+        "odysseus"
+      ]
+    },
+    {
+      "id": "greek-odyssey-laertes",
+      "title": {
+        "en": "Laertes and the Last Fight",
+        "zh": "拉埃爾特斯與最後一戰"
+      },
+      "tradition": "greek",
+      "category": "myth",
+      "region": {
+        "en": "Orchard of Laertes, Ithaca (symbolic pin)",
+        "zh": "伊薩卡拉埃爾特斯果園（象徵性定位）"
+      },
+      "lat": 38.42,
+      "lon": 20.72,
+      "period": "Composed c. 8th century BCE (Butler translation 1898)",
+      "source": {
+        "archive": "The Internet Classics Archive (MIT)",
+        "work": "Homer, Odyssey, trans. Samuel Butler (1898), Book XXIV",
+        "url": "https://classics.mit.edu/Homer/odyssey.html"
+      },
+      "license": "Public domain (translation 1898)",
+      "summary": {
+        "en": "Their souls are shown down to Hades; Odysseus goes out to find his father in his orchard, testing him first with a lie and then with the catalogue of fruit trees his father had given him as a boy. The kinsmen of the dead suitors come for vengeance, and in the final skirmish the last man to fall to Odysseus' spear is the father of the dead Antinous. It is again Athena, appearing before the city, who calls for halt and peace.",
+        "zh": "求婚者的亡魂被引往冥府；奧德修斯到果園尋父，先以謊言相試，再以父親幼時贈他的果樹名錄相認。死者親屬前來復仇，混戰中奧德修斯親手擊殺安提諾俄斯之父; 雅典娜再次現身城前，喝止雙方，終結仇殺。"
+      },
+      "motifs": [
+        "transformation"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient literary source; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Odysseus went by himself to the upland orchard where old Laertes, mourning his son as dead these many years, spaded around young trees in a ragged cap. Through the leaves Odysseus felt a pity he could not contain and debated whether to fall on his neck at once or first to test with words: whether the man knew his son. He chose to test with a fib, calling himself a stranger of Odysseus's pleasure, and the old man, weeping, answered with the old, worn pain: his wonder was that a stranger who looked like Odysseus had ever come to sit under the tree.",
+          "note": "Paraphrase of Homer, Odyssey, Book 24 (Butler 1898); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Then Odysseus gave his proof in the language of the plants: tell me if this is the pear and the apple and the fig and the olive my father gave me as a boy; and the vine root he gave me has thirteen in it; I can name them without coming once into the orchard's care. And Laertes fell on him with both arms and buried his head in his son's breast, weeping recognition into him, while Athena, unseen, restored the strong beauty of his form so that his father, looking on, marveled at the change.",
+          "note": "Paraphrase of Homer, Odyssey, Book 24 (Butler 1898); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "But word came from the hill-town that the kinsmen of the slain were arming themselves to avenge their sons. Out they went to meet them, Odysseus with Laertes, Telemachus, and the loyal herdsmen; Laertes prayed to Zeus, hurled his spear, and felled the leader of the avengers, Eupeithes, father of the dead Antinous. And Athena, first seen as Mentor and then as a woman on the roof-beam, with a loud voice called for the end, holding her aegis up before the eyes of Ithaca; both sides threw down their arms in terror, swore peace, and the land was quiet at last.",
+          "note": "Paraphrase of Homer, Odyssey, Book 24 (Butler 1898); not verbatim."
+        }
+      ],
+      "persons": [
+        "athena",
+        "hades",
+        "hermes",
+        "telegonus",
+        "antinous",
+        "eumaeus",
+        "eupeithes",
+        "eurymachus",
+        "laertes",
+        "odysseus",
+        "philoetius"
+      ]
+    },
+    {
+      "id": "greek-odyssey-nausicaa",
+      "title": {
+        "en": "Nausicaa and the Phaeacian Court",
+        "zh": "瑙西卡與費埃克斯王庭"
+      },
+      "tradition": "greek",
+      "category": "myth",
+      "region": {
+        "en": "Scheria, land of the Phaeacians (symbolic pin, near Corfu)",
+        "zh": "斯開里亞／費埃克斯之地（今科孚附近，象徵性定位）"
+      },
+      "lat": 39.6,
+      "lon": 19.84,
+      "period": "Composed c. 8th century BCE (Butler translation 1898)",
+      "source": {
+        "archive": "The Internet Classics Archive (MIT)",
+        "work": "Homer, Odyssey, trans. Samuel Butler (1898), Books VI-VIII",
+        "url": "https://classics.mit.edu/Homer/odyssey.html"
+      },
+      "license": "Public domain (translation 1898)",
+      "summary": {
+        "en": "Athena sends the king's daughter Nausicaa and her maids to do the washing at a river mouth, where they find the naked castaway. Odysseus is brought before Alcinous; Demodocus the blind bard sings of Troy; at the games the guest reveals his name with a splendid throw; and the Phaeacians promise him a ship home by morning.",
+        "zh": "雅典娜使公主瑙西卡與侍女至河口洗衣，赤身的落難者被發現。奧德修斯被引至阿爾基努斯王前；盲歌者得摩多科斯唱特洛伊之事；運動會上客人一擲驚人、自報姓名；費埃克斯人許諾天亮即派船送他還鄉。"
+      },
+      "motifs": [
+        "transformation",
+        "oracle-divination"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient literary source; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Athena went to the palace in a dream and troubled the marriageable daughter of Alcinous, Nausicaa, with the idea of washing the linen at the river; in the morning the girl, with her maidens, mules and a wagon, drove to the water. Odysseus, woken by their ball-game and their shouts, came out of the brake naked: the maidens ran, and Nausicaa, whom Athena made brave, stayed. He, weighing his words, chose flattery over force: let him have cloths to hide his nakedness and a guide to the town, for no man could stand before the girl in front of him.",
+          "note": "Paraphrase of Homer, Odyssey, Book 6 (Butler 1898); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "She gave him linen and showed the washers' way by the olive-grove where he could bathe unseen; Athena made him look taller and more terrible to see, and Nausicaa informed her maids that this could be no common man. At the city, Athena, as a small child fetching water, guided him to the court, and there, clasping the knees of Queen Arete, he poured out the tale of the raft, the wreck, and the ten days' swimming to the queen's side. The old king bade a couch be made up, and Odysseus, who had refused Calypso's island and beauty, was being fed and lodged in a house that had never yet suffered grief.",
+          "note": "Paraphrase of Homer, Odyssey, Books 6-7 (Butler 1898); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "Alcinous promised the stranger a speedy ship and a safe convoy; the elders ate and drank while Demodocus, the blind minstrel beloved of the gods, sang the ruin of Troy. Among the guests, Odysseus took the edge of a purple cloth and wept as the singer took up the quarrel; only Alcinous observed, for he had caught his guest hiding his own name and calling for another song. At the games the visiting stranger surpassed all in the discus; when invited to dance, Odysseus, charmed to sing of the wooden horse, was asked his name; and when the Phaeacians learned who had won the lots and demanded his identity, they promised immediately to bring him to the shore of Ithaca.",
+          "note": "Paraphrase of Homer, Odyssey, Book 8 (Butler 1898); not verbatim."
+        }
+      ],
+      "persons": [
+        "athena",
+        "alcinous",
+        "arete",
+        "demodocus",
+        "nausicaa",
+        "odysseus"
+      ]
+    },
+    {
+      "id": "greek-odyssey-nekuia",
+      "title": {
+        "en": "Journey to the Land of the Dead",
+        "zh": "冥界之行"
+      },
+      "tradition": "greek",
+      "category": "myth",
+      "region": {
+        "en": "Gate of the Underworld (mythic geography)",
+        "zh": "冥府入口（神話地理）"
+      },
+      "lat": 36.47,
+      "lon": 22.49,
+      "period": "Composed c. 8th century BCE (Butler translation 1898)",
+      "source": {
+        "archive": "The Internet Classics Archive (MIT)",
+        "work": "Homer, Odyssey, trans. Samuel Butler (1898), Book XI",
+        "url": "https://classics.mit.edu/Homer/odyssey.html"
+      },
+      "license": "Public domain (translation 1898)",
+      "summary": {
+        "en": "Sent by Circe, Odysseus crosses the ocean to the country of the Cimmerians, digs a pit, and makes the dead come to him with blood offerings. The prophet Tiresias foretells Poseidon's spite, warns against the cattle of the Sun, and promises homecoming and a strange second journey by land — while Odysseus talks with his mother, Agamemnon, Achilles, Ajax, and sees the famous torment of Tantalus and Sisyphus.",
+        "zh": "奉喀耳刻之命，奧德修斯橫渡大洋至辛梅里安人之地，掘溝祭血，令亡魂近前問事。先知提瑞西阿斯預言波塞頓之怒、警告勿傷太陽神牛群、並許諾歸家與一場奇特的陸上二次遠行。他又遇母親、阿伽門農、阿基琉斯與埃阿斯之魂，目睹坦塔羅斯與西敘福斯的酷刑。"
+      },
+      "motifs": [
+        "descent-underworld"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient literary source; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Circe told Odysseus the route: a sail with wind she promised to raise along the river of Ocean, past sirens, past where two seas meet, to the place where the Cimmerians live wrapped in mist, where the sun never shines either on his rising or his setting. There a trench was to be dug with a sword, and sacrificial offerings poured in: milk and honey, sweet wine, water, barley, then the blood of black sheep; and all the souls of the dead would flock to the trench until he kept them back with the sword, letting only the one he wanted drink first.",
+          "note": "Paraphrase of Homer, Odyssey, Book 11 (Butler 1898); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "The soul of his lost comrade Elpenor, who had fallen headfirst off a roof on Circe's island drunk, came first, and Odysseus promised the body burial. Then his mother Anticleia, whom he had not known to be dead, and Tiresias, whom he had come for, drank from the blood and prophesied to him: Poseidon's trouble on him for the eye he blinded, and the persistence of his anger; a hard homecoming, then rest; then a second journey, an oar carried inland until he met a man who had never seen the sea, whom he must teach; and after the cattle of Helios, labor and a gentle old age in Ithaca.",
+          "note": "Paraphrase of Homer, Odyssey, Book 11 (Butler 1898); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "When he had heard Tiresias out, Odysseus, letting his mother drink from the blood, learned that his wife was faithful, his father a beggar in his own fields, and his house held by insolent men. Agamemnon poured out his grief at home's murder, telling Odysseus of his own homecoming to his wife-murdering nephew, and warning him never to trust a woman beyond words. Achilles said joylessly that he would rather be a poor farmhand living above ground than a great lord of the dead, and asked after his father and son; his grief lasted until time brought his own affairs to mind. Ajax, still angry over the contest of arms, turned away without a word when called. He saw, too, the punishment of Tantalus, standing forever in a pool with fruit above him that receded from every reach, and of Sisyphus, endlessly trundling his rock against the run of the hill.",
+          "note": "Paraphrase of Homer, Odyssey, Book 11 (Butler 1898); not verbatim."
+        },
+        {
+          "id": "4",
+          "text": "When Heracles' shade itself came, in the form of the hero's glory but with death's terror about it, Odysseus drew his sword and held back the rest of the dead, lest the dark souls come on him in crowds; and he would have seen more heroes still, but the thought of dawn rushed up and he left for the ship. The underworld was thus the third stage of Odysseus's own road — the death Circe had warned him of, made a place of speech about the life ahead.",
+          "note": "Paraphrase of Homer, Odyssey, Book 11 (Butler 1898); not verbatim."
+        }
+      ],
+      "persons": [
+        "circe",
+        "hades",
+        "helios",
+        "sirens",
+        "medusa",
+        "achilles",
+        "agamemnon",
+        "ajax",
+        "anticlea",
+        "elpenor",
+        "odysseus",
+        "sisyphus",
+        "tantalus",
+        "tiresias"
+      ]
+    },
+    {
+      "id": "greek-odyssey-penelope-bed",
+      "title": {
+        "en": "Penelope Tests Her Husband",
+        "zh": "珀涅羅珀試驗丈夫"
+      },
+      "tradition": "greek",
+      "category": "myth",
+      "region": {
+        "en": "Palace hall, Ithaca (symbolic pin)",
+        "zh": "伊薩卡王宮大廳（象徵性定位）"
+      },
+      "lat": 38.42,
+      "lon": 20.72,
+      "period": "Composed c. 8th century BCE (Butler translation 1898)",
+      "source": {
+        "archive": "The Internet Classics Archive (MIT)",
+        "work": "Homer, Odyssey, trans. Samuel Butler (1898), Book XXIII",
+        "url": "https://classics.mit.edu/Homer/odyssey.html"
+      },
+      "license": "Public domain (translation 1898)",
+      "summary": {
+        "en": "Penelope, warned by the nurse of the scar and the slaughter, still cannot bring herself to believe the rumoured return: she sits apart from the man at the other end of the hall. She asks the maid to move the marriage bed, and at the outburst of rage from the stranger over making it portable, she knows: the bed was built on a living olive stump, and no one but Odysseus could know it. So they embrace, and tell all their travelling tales until sleep takes them.",
+        "zh": "老乳母以疤痕與屠戮相告，珀涅羅珀仍不敢信真的歸來：她在大廳遠端默默打量。她命女僕把婚床搬到廳外，客人勃然大怒，怒其竟做可搬移的床——原來那床以活橄欖樹樁為基，除奧德修斯無人知曉。至此她飛奔上前相擁，互訴別後種種直到入眠。"
+      },
+      "motifs": [
+        "trickster"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient literary source; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "When the slaughter was over and the fires lit, Eurycleia raced up to Penelope's room with the news: her son was home alive, her husband was there and had killed them all, every suitor who had brought her house to shame. Penelope would not believe her, though the nurse described the scar over and over, and the messenger came from her: a boar-hunt wound, a blooming scar, the middle of the thigh a white scar, and the teeth of the boar that had torn it. Then she crossed the great hall, and there the man himself sat, fire-licked, in the same old clothes by the pillar, his eyes down.",
+          "note": "Paraphrase of Homer, Odyssey, Book 23 (Butler 1898); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "She sat at first in the doorway opposite, saying nothing, while he sat unmoving as stone and wood: a man wondering whether his wife would greet him or not. Telemachus scolded her for her marble silence, and his mother answered that a test was right, for there was no agreement going on between them: they had their own secret signs that they shared with no one else.",
+          "note": "Paraphrase of Homer, Odyssey, Book 23 (Butler 1898); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "She turned at last to Eurycleia and ordered the old bed with all the bedding moved out of the chamber frame and spread for him; and Odysseus, watching, said under his breath to his son that the test was too much even for her. When the bed was in question, he cried out aloud: for he had built that bed with his own hands — a rooted olivewood trunk, beneath the earth of the chamber, with a bed on top — and no man could move it but he had of it the leafy crown. Then Penelope's knees were loosened within her, for she knew the unmistakable signs she had demanded.",
+          "note": "Paraphrase of Homer, Odyssey, Book 23 (Butler 1898); not verbatim."
+        },
+        {
+          "id": "4",
+          "text": "She came, and rushed upon him and threw her arms about his neck and would not let him go. And they told their tales of hardship to one another: he of the wrecked days of slaughter, and Trojan weary journeys, and the whole rough passage home; she of the web she had woven by day, undone by night, and the menace of the suitors, and the sleepless nights in which the fear of her lost lord gave her no rest. And Athena held off the morning so the two might sleep and speak.",
+          "note": "Paraphrase of Homer, Odyssey, Book 23 (Butler 1898); not verbatim."
+        }
+      ],
+      "persons": [
+        "athena",
+        "eurycleia",
+        "odysseus",
+        "penelope",
+        "telemachus"
+      ]
+    },
+    {
+      "id": "greek-odyssey-sirens-scylla",
+      "title": {
+        "en": "The Sirens, Scylla, and the Cattle of the Sun",
+        "zh": "塞壬、海妖與太陽神牛"
+      },
+      "tradition": "greek",
+      "category": "myth",
+      "region": {
+        "en": "Strait of Messina area (conjectural pin)",
+        "zh": "墨西拿海峽一帶（推定）"
+      },
+      "lat": 38.03,
+      "lon": 15.6,
+      "period": "Composed c. 8th century BCE (Butler translation 1898)",
+      "source": {
+        "archive": "The Internet Classics Archive (MIT)",
+        "work": "Homer, Odyssey, trans. Samuel Butler (1898), Book XII",
+        "url": "https://classics.mit.edu/Homer/odyssey.html"
+      },
+      "license": "Public domain (translation 1898)",
+      "summary": {
+        "en": "Circe's sailing orders carry Odysseus past the Sirens (his ears stopped with wax, himself lashed to the mast), between Scylla, who takes six of his men, and the whirlpool, and on to the island where the Sun's cattle graze. Starving, his men slaughter the sacred herds despite every warning, and Zeus splits the ship, leaving Odysseus adrift nine days to Calypso's island.",
+        "zh": "按喀耳刻的航令，眾人以蠟塞耳駛過塞壬水域，奧德修斯自縛桅上獨聽歌聲；再穿海妖斯庫拉與漩渦之間，六名船員被吞。在太陽神牛群棲息的島上，船員不聽屢次警告、飢而宰殺神牛；宙斯以雷霆擊碎船隻，奧德修斯獨漂九日至卡呂普索之島。"
+      },
+      "motifs": [
+        "taboo-transgression"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient literary source; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Circe made known to Odysseus the route and its perils, warning of the Sirens first: let the crew stop their ears with softened beeswax when the ship went in among them, and bind him upright against the mast, if he wanted to hear their voices; and when he raged and shouted to be freed, lash him tighter. The crew did as she said, and as they rowed the Sirens sang: every man who stops to listen to our song goes home to his wife loaded, not a man leaves us foolish; too sweet the song of the Sirens ended foaming on the bones. Odysseus loved it and yelled to be untied; but his men bound him faster and rowed until the song faded.",
+          "note": "Paraphrase of Homer, Odyssey, Book 12 (Butler 1898); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Then the strait where the two perils sat opposite each other: on one side a great rock with a dark fig-tree, out of which Scylla, six necks and six heads with triple rows of teeth, reached down to fish from the sea; on the other, Charybdis, who three times a day sucked down the whole sea and spewed it up again in fury. Odysseus, remembering Circe's advice, hauled past with no armor and no word about the monster, and six men screamed as Scylla lifted them while they hung to the oars calling him by name; the monster carried them off to her den to eat, and the ship ran on.",
+          "note": "Paraphrase of Homer, Odyssey, Book 12 (Butler 1898); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "Circe had most of all forbidden the cattle of Helios, that grazed on the island the dwarf did not enter, Thrinacia, and Odysseus repeated the warning to his men. But the winds storm-bound them a whole month; having eaten every bird, beast, and fish the land gave and even the sacred food at Halloween, hunger drove them to it. While Odysseus went inland to pray for a wind and slept, Eurylochus made the men swear in for meat: then the skins danced as the meat bellowed on the spits, and the eyes of the god saw the smoke.",
+          "note": "Paraphrase of Homer, Odyssey, Book 12 (Butler 1898); not verbatim."
+        },
+        {
+          "id": "4",
+          "text": "When the south wind finally came at last and they sailed out, Zeus sent them a packed black cloud and split their ship with a thunderbolt: the crew fell like rooks among the shards of the wreck, and Odysseus, lashing the keel again with the mast, was carried nine days across the sea to Ogygia, the island where the nymph Calypso kept him eight years a lover and prisoner, until even the gods wearied of the punishment.",
+          "note": "Paraphrase of Homer, Odyssey, Book 12 (Butler 1898); not verbatim."
+        }
+      ],
+      "persons": [
+        "circe",
+        "helios",
+        "poseidon",
+        "zeus",
+        "calypso",
+        "sirens",
+        "charybdis",
+        "scylla",
+        "eurylochus",
+        "odysseus"
+      ]
+    },
+    {
+      "id": "greek-odyssey-suitors-hall",
+      "title": {
+        "en": "Telemachus and the Suitors",
+        "zh": "忒勒馬科斯與求婚者"
+      },
+      "tradition": "greek",
+      "category": "myth",
+      "region": {
+        "en": "Ithaca (symbolic pin)",
+        "zh": "伊薩卡（象徵性定位）"
+      },
+      "lat": 38.42,
+      "lon": 20.72,
+      "period": "Composed c. 8th century BCE (Butler translation 1898)",
+      "source": {
+        "archive": "The Internet Classics Archive (MIT)",
+        "work": "Homer, Odyssey, trans. Samuel Butler (1898), Books I-II",
+        "url": "https://classics.mit.edu/Homer/odyssey.html"
+      },
+      "license": "Public domain (translation 1898)",
+      "summary": {
+        "en": "Twenty years after Odysseus left for Troy, more than a hundred suitors occupy his hall, courting Penelope and eating through his herds. Athena, disguised as an old family friend, wakes up the prince Telemachus to act: call an assembly, denounce the suitors, and sail off to seek news of his father.",
+        "zh": "奧德修斯出征特洛伊已二十年，上百名求婚者盤踞其家，向珀涅羅珀糾纏求婚、揮霍家產。雅典娜化身老友門托耳，喚醒王子忒勒馬科斯：召開民會、斥責求婚者，並揚帆出航打聽父親的下落。"
+      },
+      "motifs": [
+        "trickster"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient literary source; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Zeus, at Athena's urging, sent Hermes to Ogygia so that Calypso would let Odysseus go; and Athena herself came to Ithaca disguised as Mentes, lord of the seafaring house of Taphians. She found the house full: the suitors were dicing and feasting on Odysseus's own herds in the courtyard, while Phemius the minstrel sang, exhausting the kin-kin repast of the house.",
+          "note": "Paraphrase of Homer, Odyssey, Book 1 (Butler 1898); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "She found the young Telemachus sitting unhappy among them, longing for his father and the day when these men would be driven out. Speaking as Mentes, she encouraged the son to hope the father would return, and gave him the course: call the Achaeans to assembly in the morning and speak out against the suitors, then fit out a ship and go to Pylos and Sparta for news of his father. Then she vanished, and Telemachus knew he had spoken with a god.",
+          "note": "Paraphrase of Homer, Odyssey, Book 1 (Butler 1898); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "At the assembly, both in Ithaca, he spoke with unfamiliar boldness and demanded that the suitors stop their eating of his house, asking instead that they go home and court the woman elsewhere. Antinous blamed Penelope for weaving her shroud for Laertes by day and unpicking it by night for three years, so that no suitor could be refused while she kept a loom going. Telemachus stood his ground, and when the ships went round, a good omen appeared, two eagles; Halitherses read them as the ruin of the suitors.",
+          "note": "Paraphrase of Homer, Odyssey, Book 2 (Butler 1898); not verbatim."
+        },
+        {
+          "id": "4",
+          "text": "With Athena's help, transformed into him, Telemachus picked out a crew and a ship, and at nightfall sailed away secretly without telling his mother; the suitors meant, on the advice of Antinous, to ambush and kill him on the way home.",
+          "note": "Paraphrase of Homer, Odyssey, Book 2 (Butler 1898); not verbatim."
+        }
+      ],
+      "persons": [
+        "athena",
+        "zeus",
+        "antinous",
+        "eurymachus",
+        "laertes",
+        "penelope",
+        "telemachus"
+      ]
+    },
+    {
+      "id": "greek-odyssey-suitors-slain",
+      "title": {
+        "en": "The Slaughter in the Hall",
+        "zh": "殿中誅殺求婚者"
+      },
+      "tradition": "greek",
+      "category": "myth",
+      "region": {
+        "en": "Palace hall, Ithaca (symbolic pin)",
+        "zh": "伊薩卡王宮大廳（象徵性定位）"
+      },
+      "lat": 38.42,
+      "lon": 20.72,
+      "period": "Composed c. 8th century BCE (Butler translation 1898)",
+      "source": {
+        "archive": "The Internet Classics Archive (MIT)",
+        "work": "Homer, Odyssey, trans. Samuel Butler (1898), Book XXII",
+        "url": "https://classics.mit.edu/Homer/odyssey.html"
+      },
+      "license": "Public domain (translation 1898)",
+      "summary": {
+        "en": "Odysseus strips off his disguise, names himself, and kills Antinous mid-draught with the first arrow. Shut in the hall by Telemachus, himself, the swineherd Eumaeus and the cowherd, he and his small band destroy every suitor; the disloyal maids are hanged and the go-between Melanthius hacked to pieces.",
+        "zh": "奧德修斯除去偽裝、自報姓名，第一支箭貫穿正舉杯的安提諾俄斯。忒勒馬科斯、牧豬人歐邁俄斯與牧牛人斐羅提俄斯合力關閉殿門，他們以寡擊眾，逐一誅殺所有求婚者；不忠的侍女被處以絞刑，告密的牧羊奴被剁成碎塊。"
+      },
+      "motifs": [
+        "theophany",
+        "betrayal"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient literary source; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Odysseus flung off his rags and stood by the threshold of the great hall with the bow and a quiver, and poured out his shaft against the throat of the mid-drinking Antinous; the death drained his body of wine and the cup rang over the gold-worked floor. Eurymachus tried to shift the blame onto Antinous, dead man now, and spoke of making restitution — twenty talents of gold, indemnity from the people's storehold; but Odysseus answered that not even all his goods could restore them to the road of peace: they had treated his house with insolence and his wife with dishonor.",
+          "note": "Paraphrase of Homer, Odyssey, Book 22 (Butler 1898); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "The suitors snatched what weapons lie there under their feet and backs against the walls; and Telemachus, slipping out to the store-room as his father had sent him, brought back helmets, shields, and two spears for them, his father and the loyal herdsmen. Then Eurymachus tried spiriting the others: let the rest be spared this house's ruin, the men had made them do it; and he, the son whom Artemis and Apollo had both pained, was killed by an arrow in the chest that the father did not always turn aside; and the goose-boy made his own escape; odysseus, on the other hand, saying that if a man took to running, he would not live that way in my house of death again.",
+          "note": "Paraphrase of Homer, Odyssey, Book 22 (Butler 1898); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "The loyal herdsman Philoetius and the swineherd stood like horses at the door; Melanthius, the go-between traitor, snuck out with his twin sons; the young men caught him, bound his feet and arms behind, dragged him into the hall, and, with a claim of justice, cut off his nose and ears and groin. But Melantho's treachery served them: they managed to reach the weapons in the store-room; and while Odysseus was striking the suitors in splendid lines, Athene appeared in likeness on the lintel with her shield before all, and the suitors, seeing the aegis, died in snowfall as of a storm.",
+          "note": "Paraphrase of Homer, Odyssey, Book 22 (Butler 1898); not verbatim."
+        },
+        {
+          "id": "4",
+          "text": "The end was the maids: the traitresses were told to carry out the dead before bed, and then, gathered in the court, were hanged on the ship's cable in a thin line, their feet not reaching the ground: the sons of a people drawn in one breath. And after that Odysseus, his son, and the loyal herdsmen seared the hall with fire and sulphur, to cleanse the house of the vengeance and its blood.",
+          "note": "Paraphrase of Homer, Odyssey, Book 22 (Butler 1898); not verbatim."
+        }
+      ],
+      "persons": [
+        "athena",
+        "antinous",
+        "eumaeus",
+        "eurymachus",
+        "melanthius",
+        "melantho",
+        "odysseus",
+        "philoetius",
+        "telemachus"
+      ]
+    },
+    {
+      "id": "greek-odyssey-swineherd-return",
+      "title": {
+        "en": "Back in Ithaca: The Beggar and the Swineherd",
+        "zh": "重返伊薩卡：乞丐與牧豬人"
+      },
+      "tradition": "greek",
+      "category": "myth",
+      "region": {
+        "en": "Ithaca (symbolic pin)",
+        "zh": "伊薩卡（象徵性定位）"
+      },
+      "lat": 38.42,
+      "lon": 20.72,
+      "period": "Composed c. 8th century BCE (Butler translation 1898)",
+      "source": {
+        "archive": "The Internet Classics Archive (MIT)",
+        "work": "Homer, Odyssey, trans. Samuel Butler (1898), Books XIII-XVI",
+        "url": "https://classics.mit.edu/Homer/odyssey.html"
+      },
+      "license": "Public domain (translation 1898)",
+      "summary": {
+        "en": "The Phaeacians set the sleeping Odysseus and his gifts down in Ithaca; he searches the whole land for his own treasury till Athena, in the disguise of a young shepherd, shows him the island and then tousles him into the appearance of an old beggar. He hides at the hut of the old swineherd Eumaeus, who tells him the misery of the house, hears Odysseus's false tales of Cretan voyages, and reunites him, in secret, with his son.",
+        "zh": "費埃克斯人將沉睡的奧德修斯與厚禮送抵伊薩卡；他不辨家鄉，直到雅典娜化身少年牧人相認，再把他的樣貌改成老乞丐。他寄身老牧豬人歐邁俄斯的棚屋，聽其哭訴家宅之苦，編造克里特商旅的假故事，並在棚中與歸來的兒子祕密相認。"
+      },
+      "motifs": [
+        "transformation",
+        "reunion"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient literary source; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The Phaeacians themselves steered the oared ship through night and sea and, bringing the drowsing hero in his sleep, set him and chests of gifts on the shore below a hollow olive, and rowed away. Odysseus woke in his own land and did not know it: everything looked changed. He cursed aloud, thinking he had been dumped in a strange country; and the shepherd who came toward him with his flock, at whom he spoke angrily, was Athena, and she won from him the admission he would not give himself: he did not know where he was.",
+          "note": "Paraphrase of Homer, Odyssey, Book 13 (Butler 1898); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Then the goddess showed herself, named the land, and struck him with her wand: his skin shrunk to an aged man; his fair brown hair was gone from his head and chin; his eyes were dimmed; and the suit of clothes he wore was a foul old wrapper. So disguised, he put his treasure in the cave of the nymphs, sealed by a great stone, and went up country, where the sound of grinding made him pause.",
+          "note": "Paraphrase of Homer, Odyssey, Book 13 (Butler 1898); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "The swineherd's hut held four young dogs that rushed at the guest before the swineherd himself, Eumaeus, drove them off; and Odysseus, no longer asking who fed the pigs, learned that the man had served his master faithfully alone. Eumaeus killed and cooked two young pigs for the stranger with his own hands and set before him, filling his wine-cup and promising his first food to every comer, for the suitors had laid waste the swine this long while; and such was the pig-herding under Penelope's threats.",
+          "note": "Paraphrase of Homer, Odyssey, Book 14 (Butler 1898); not verbatim."
+        },
+        {
+          "id": "4",
+          "text": "Telemachus, warned by Athena, avoiding the ambush his father set for him, came to the hut. At Athena's suggestion the swineherd went to the old woman Eurycleia to share the news with Penelope, and Athena, taking the shape of a beautiful woman for a moment in the doorway that only Odysseus saw, brought her wand down and made the dogs fawn instead of snarl; then Odysseus told his son his name, and the two men, clutching one another with tears, put heads together in the dark to plan the ruin of the suitors.",
+          "note": "Paraphrase of Homer, Odyssey, Book 16 (Butler 1898); not verbatim."
+        }
+      ],
+      "persons": [
+        "athena",
+        "zeus",
+        "eumaeus",
+        "melanthius",
+        "odysseus",
+        "telemachus"
+      ]
+    },
+    {
+      "id": "greek-odyssey-telemachus-news",
+      "title": {
+        "en": "News from Pylos and Sparta",
+        "zh": "皮洛斯與斯巴達的消息"
+      },
+      "tradition": "greek",
+      "category": "myth",
+      "region": {
+        "en": "Pylos &amp; Sparta (symbolic pin)",
+        "zh": "皮洛斯與斯巴達（象徵性定位）"
+      },
+      "lat": 37.03,
+      "lon": 21.69,
+      "period": "Composed c. 8th century BCE (Butler translation 1898)",
+      "source": {
+        "archive": "The Internet Classics Archive (MIT)",
+        "work": "Homer, Odyssey, trans. Samuel Butler (1898), Books III-IV",
+        "url": "https://classics.mit.edu/Homer/odyssey.html"
+      },
+      "license": "Public domain (translation 1898)",
+      "summary": {
+        "en": "Telemachus visits Nestor at Pylos and Menelaus and Helen at Sparta. At Sparta, Menelaus recounts how he held the shape-shifting sea-elder Proteus, who revealed that Odysseus was alive on Calypso's island; meanwhile the suitors' ambush reads its last steps on Ithaca toward his own return.",
+        "zh": "忒勒馬科斯先訪皮洛斯的涅斯托耳，再到斯巴達的墨涅拉俄斯與海倫宮中。海倫講述老海神普羅透斯的神力更形，而墨涅拉俄斯捉住他後得知：奧德修斯還活著，被卡呂普索困在遠方的島上。此時求婚者的伏兵已經佈下，等他返抵家門。"
+      },
+      "motifs": [
+        "oracle-divination"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient literary source; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "At Pylos Telemachus found Nestor sacrificing to Poseidon with his sons, and the old man received him in the spirit of good hosts: he could not know that the boy before him was Odysseus's, and Nestor told tales of the returns — of Agamemnon murdered at home by Aegisthus, and of the storm that scattered the fleet after the row with the gods at Troy. Nestor could not advise him by sea (he had none), but sent him off on his own son Pisistratus's chariot with the young man as companion to Lacedaemon.",
+          "note": "Paraphrase of Homer, Odyssey, Book 3 (Butler 1898); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "At Sparta, Menelaus and Helen welcomed the two young men into their house of bronze; while the young pair ate, Helen spoke to the guests in disguise, all of them was the son of Odysseus himself: she had known him at Troy by his likeness to his father, and spoke of how she had wept at Odysseus's patience. Menelaus, pouring for his friend beneath the cold water's regret, told them when the two had retired to a room: he learned on his return from Egypt the hard way: he had been stuck by contrary winds on the island of Pharos; and it was there that he had been visited by the old sea-elder.",
+          "note": "Paraphrase of Homer, Odyssey, Book 4 (Butler 1898); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "Menelaus told how, with Proteus's daughter's help, he and companions wrapped themselves in seal-skins on the sand and waited until noontide, when Proteus came out of the sea to count his seals and lay down among them. Set upon and held, the old sea-god changed from shape to shape — a lion, a serpent, a leopard, a boar, water, a tree — until Menelaus still soaked and held and would not let go, so that at last the shape-sifter gave the true words he sought. This was the news Menelaus carried home to Telemachus: that Odysseus was alive on the island of the nymph Calypso, without ship or men to bring him home.",
+          "note": "Paraphrase of Homer, Odyssey, Book 4 (Butler 1898); not verbatim."
+        }
+      ],
+      "persons": [
+        "poseidon",
+        "proteus",
+        "calypso",
+        "helen",
+        "agamemnon",
+        "alcinous",
+        "menelaus",
+        "nestor",
+        "odysseus",
+        "telemachus"
+      ]
+    },
+    {
+      "id": "greek-theogony-aphrodite-foam",
+      "title": {
+        "en": "Aphrodite Born of the Sea-Foam",
+        "zh": "海沫所生阿芙洛狄忒"
+      },
+      "tradition": "greek",
+      "category": "myth",
+      "region": {
+        "en": "Cythera &amp; Cyprus (mythic geography)",
+        "zh": "基西拉與賽普勒斯（神話地理）"
+      },
+      "lat": 36.54,
+      "lon": 23.0,
+      "period": "Composed c. 700 BCE (Heumann translation 2021)",
+      "source": {
+        "archive": "Internet Archive (Heumann, trans., 2021)",
+        "work": "Hesiod, Theogony, trans. Michael Heumann (2021), lines ca. 116-210",
+        "url": "https://archive.org/details/hesiods-theogony-translated-by-michael-heumann"
+      },
+      "license": "Poem public domain; translation CC BY-NC-SA 4.0 (Heumann 2021) — paraphrase only in this record",
+      "summary": {
+        "en": "Gaia, crushed by Ouranos's habit of hiding their monstrous children inside her body, forges an adamantine sickle and recruits her son Cronos. At night, as Ouranos stretches over Gaia, Cronos maims his father; the severed flesh drifts on the sea in white foam, and out of the foam a maiden is born who goes to Cythera and then Cyprus: Aphrodite.",
+        "zh": "該亞不堪烏拉諾斯把怪異子女藏在體內之苦，鍛出金剛石鐮刀並策動其子克洛諾斯。夜裡烏拉諾斯伏於該亞身上之際，克洛諾斯閹割其父；被割下的血肉漂於海上化作白沫，沫中生出少女，她先抵基西拉、再到賽普勒斯——阿芙洛狄忒就此誕生。"
+      },
+      "motifs": [
+        "dismembered-giant",
+        "sacred-kingship",
+        "sea-birth",
+        "patricide"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient literary source; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Gaia first bore starry Ouranos to cover her on every side, and lying with him brought forth the twelve Titans, then the three one-eyed Cyclopes with thunder in their hands, and last the three unspeakable Hundred-Handed, with a hundred arms and fifty heads apiece. Ouranos hated and feared his youngest monstrous children, and as each was born he hid them in a secret corner of Gaia's body and would not let them come up into the light; and he rejoiced at his wicked work.",
+          "note": "Paraphrase of Theogony, lines ca. 116-160 (Heumann 2021); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Gaia groaned under the weight inside her and devised a wicked plot: she made a great sickle of grey steel and showed it to her children, begging them to punish their father, who first devised evil deeds. Fear seized them all and no one spoke; but Cronos answered his mother: he pledged the deed and cared nothing for the father who began it all. Gaia hid her son in ambush,put the jagged sickle in his hand, and taught him the whole plan.",
+          "note": "Paraphrase of Theogony, lines ca. 160-180 (Heumann 2021); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "Night came, and Ouranos came to lie with Gaia, stretched out full on her with desire. Cronos reached from his hiding and castrated his own father, and flung the severed flesh behind him. But it did not fall for nothing: the drops of blood that splashed the earth grew into the Erinyes the Furies, the great Giants of bright armour, and the ash-nymphs called Meliae; and the flesh itself was carried about the sea a long while.",
+          "note": "Paraphrase of Theogony, lines ca. 180-195 (Heumann 2021); not verbatim."
+        },
+        {
+          "id": "4",
+          "text": "Out of the deathless flesh a white foam rose through the water immortally, and inside the foam a maiden grew. First she touched holy Cythera, then sea-bathed Cyprus, where she stepped ashore through a meadow grass growing about her slender feet. Gods and men called her Aphrodite, the foam-born, and Cytherea, and Cyprogenes, names marking the sea or islands that cradled her; and Eros and fair Himeros attended her from the moment of her birth, going with her when she was appointed among the undying gods her honored place. And Ouranos, dying not but weakened, named his sons Titans — the Over-reachers — and prophesied they would one day pay the price of their deed.",
+          "note": "Paraphrase of Theogony, lines ca. 190-210 (Heumann 2021); not verbatim."
+        }
+      ],
+      "persons": [
+        "chaos",
+        "gaia",
+        "ouranos",
+        "cronos",
+        "aphrodite",
+        "zeus",
+        "erinyes",
+        "eros",
+        "meliae",
+        "cyclopes",
+        "hecatoncheires"
+      ]
+    },
+    {
+      "id": "greek-theogony-cronos-stone",
+      "title": {
+        "en": "Cronos Swallows His Children",
+        "zh": "克洛諾斯吞子與神石"
+      },
+      "tradition": "greek",
+      "category": "myth",
+      "region": {
+        "en": "Crete, cave of Mount Aegaeon (mythic geography)",
+        "zh": "克里特埃葵翁山洞（神話地理）"
+      },
+      "lat": 35.29,
+      "lon": 25.47,
+      "period": "Composed c. 700 BCE (Heumann translation 2021)",
+      "source": {
+        "archive": "Internet Archive (Heumann, trans., 2021)",
+        "work": "Hesiod, Theogony, trans. Michael Heumann (2021), lines ca. 453-506",
+        "url": "https://archive.org/details/hesiods-theogony-translated-by-michael-heumann"
+      },
+      "license": "Poem public domain; translation CC BY-NC-SA 4.0 (Heumann 2021) — paraphrase only in this record",
+      "summary": {
+        "en": "Told that a son of his own would depose him, Cronos swallows every child as it is born. Rhea, about to bear Zeus, begs her parents for help; a cave in Crete receives the newborn, and a great stone wrapped in swaddling-clothes is given to Cronos in place of the child, which he swallows unawares. When Zeus is grown, Cronos is made to vomit up the stone and all his children.",
+        "zh": "因被預言其子將推翻自己，克洛諾斯將每個新生兒一口吞下。瑞亞臨產宙斯前求助於父母；嬰兒被送往克里特的山洞祕養，而一塊裹在繈褓裡的大石被當成嬰孩交給克洛諾斯，他毫不知情地吞下。宙斯長成後，迫使父親吐出神石與眾兄妹。"
+      },
+      "motifs": [
+        "sacred-kingship",
+        "miraculous-birth",
+        "devouring-mother"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient literary source; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Rhea, mastered by Cronos, bore him splendid children: Hestia, Demeter, golden-sandaled Hera, strong Hades of the pitiless heart under the earth, the loud-sounding Earth-shaker, and last Zeus, father of gods and men. Cronos had learned from Gaia and Ouranos that a son of his was fated to be king over the deathless ones, strong though he was; so he lay in watch and swallowed down each child whole the moment it left Rhea's body, and grief went through her without end.",
+          "note": "Paraphrase of Theogony, lines ca. 453-465 (Heumann 2021); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "When Zeus, father of gods and men, was ready to be born, Rhea begged her own parents, Gaia and starry Ouranos, to find a plan to keep the child safe and to avenge the swallowed children. The old ones heard their dear daughter's plea and sent her away into the rich land of Crete, where the vast Gaia herself would receive the child and nurse him in secret, in a deep cave on the wooded hill of Aegaeon.",
+          "note": "Paraphrase of Theogony, lines ca. 465-480 (Heumann 2021); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "Rhea wrapped a huge stone in swaddling-clothes and handed it to the son of Ouranos, the great king among the gods; he snatched it and rammed it down his throat, maliciously swallowing, in place of a son, a sign and a stone. He did not know that his true son had been left safely behind, grown strong, and was fated soon to beat him in battle and to drive him out of kingdom and honor, to be king among the undying: in the beautiful Cretan cave and its dark nest of Gaia's care, where the baby fed and slept and cried alone.",
+          "note": "Paraphrase of Theogony, lines ca. 480-492 (Heumann 2021); not verbatim."
+        },
+        {
+          "id": "4",
+          "text": "When Zeus was full-grown, in limbs and thought, he made Cronos vomit up his children out of Gaia's counsels and will fight and unchanging strength; and he had swallowed the stone last of all, so it came up again first, and Zeus set it down in the earth at Pytho under Parnassus, to stand there forever a wonder to mortal men. Then he freed his uncles the Cyclopes from Cronos's cruel bonds, and they gave him thunder and glowing thunderbolt and lightning, which earth had once hidden; and it was by these that Zeus rules both mortals and immortals.",
+          "note": "Paraphrase of Theogony, lines ca. 492-506 (Heumann 2021); not verbatim."
+        }
+      ],
+      "persons": [
+        "chaos",
+        "gaia",
+        "ouranos",
+        "cronos",
+        "rhea",
+        "demeter",
+        "hades",
+        "hera",
+        "hestia",
+        "persephone",
+        "poseidon",
+        "zeus",
+        "cyclopes"
+      ]
+    },
+    {
+      "id": "greek-theogony-mecone",
+      "title": {
+        "en": "The Sacrifice at Mecone",
+        "zh": "墨科涅分祭之計"
+      },
+      "tradition": "greek",
+      "category": "myth",
+      "region": {
+        "en": "Mecone, near Sicyon (mythic geography)",
+        "zh": "墨科涅（近希吉昂，神話地理）"
+      },
+      "lat": 37.97,
+      "lon": 22.4,
+      "period": "Composed c. 700 BCE (Heumann translation 2021)",
+      "source": {
+        "archive": "Internet Archive (Heumann, trans., 2021)",
+        "work": "Hesiod, Theogony, trans. Michael Heumann (2021), lines ca. 535-616",
+        "url": "https://archive.org/details/hesiods-theogony-translated-by-michael-heumann"
+      },
+      "license": "Poem public domain; translation CC BY-NC-SA 4.0 (Heumann 2021) — paraphrase only in this record",
+      "summary": {
+        "en": "When gods and mortals met for a shared feast at Mecone, Prometheus divided an ox between the two sides, hiding the meat under the stomach-skin and the bare bones under glistening fat, and let Zeus choose. Zeus chose plausibly in anger, discovered the deception, and has raged ever since; the trick settles forever the rule that men may eat the flesh while the smoke-borne bones are the gods' due, and leads — through fire and Pandora — to the condition of mortal life.",
+        "zh": "神與人於墨科涅共宴之際，普羅米修斯將牛分為兩堆：肉藏於胃皮之下，白骨覆以油亮脂肪，請宙斯自選。宙斯自以識破而選白骨，卻中了圈套、勃然大怒。這場戲就此定下祭祀規矩——人食其肉、敬神得骨——並因盜火與潘多拉之事引出人類勞苦的命運。"
+      },
+      "motifs": [
+        "trickster",
+        "culture-hero",
+        "origin-of-evil"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient literary source; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "When the gods and mortal men came to order a feast together at Mecone, Prometheus, glorious son of Iapetus, cut up a great ox and divided it with cunning. He set before Zeus the flesh and the rich entrails, wrapping them handsomely in the ox's belly, and then heaped up the bones of the white ox and hid them under a mantle of shining fat, so the eye saw the prizes at a glance and the abundance of the meal lay on the lesser part.",
+          "note": "Paraphrase of Theogony, lines ca. 535-545 (Heumann 2021); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Said Zeus, father of gods and men, to him in mock-affection: son of Iapetus, most brilliant of gods, good friend, you have divided these portions quite unfairly. And Prometheus answered with a smile: great Zeus, pick whichever of the two hands your heart desires. He said it meaning to trick him; but Zeus, already seeing through it, took the white fat in both hands, and in anger, sorrow, and rage, when his heart burned when he saw the bones underneath it and grasped how he had been cheated, planned against mortal men a terrible sorrow to come in payment for the fire to be stolen.",
+          "note": "Paraphrase of Theogony, lines ca. 545-560 (Heumann 2021); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "And Zeus spoke aloud his judgment, warningly: so, son of Iapetus, most brilliant of all, you have not lost your skill at dividing. And by his word, ever since then, the tribes of men upon the earth burned white bones of oxen upon smoking altars for the deathless ones — the ritual rule set in that trick over the kill: the gods partake of scent and smoke, and men eat the substance.",
+          "note": "Paraphrase of Theogony, lines ca. 556-560 (Heumann 2021); not verbatim."
+        },
+        {
+          "id": "4",
+          "text": "In retaliation, Zeus withheld fire from the fire-trees of the earth so that mortals could not boil nor forge; but Prometheus stole the far-shining flame again in a hollow fennel stalk. Rage shook Zeus then: in reprisal for the stolen gift of fire he had Hephaestus mould a maiden out of earth and water, dressed her beautifully and crowned her, and had her sent down among men as a gift the likes of which Epimetheus took to his sorrow — the price of fire, Pandora, the mould-born evil who founded the whole race of womankind.",
+          "note": "Paraphrase of Theogony, lines ca. 560-616 (Heumann 2021); not verbatim."
+        }
+      ],
+      "persons": [
+        "epimetheus",
+        "iapetus",
+        "metis",
+        "prometheus",
+        "themis",
+        "aphrodite",
+        "athena",
+        "hephaestus",
+        "hermes",
+        "zeus",
+        "heracles",
+        "pandora"
+      ]
+    },
+    {
+      "id": "greek-theogony-titanomachy",
+      "title": {
+        "en": "The Ten-Year War of the Titans",
+        "zh": "十年提坦戰爭"
+      },
+      "tradition": "greek",
+      "category": "myth",
+      "region": {
+        "en": "Mounts Othrys &amp; Olympus (mythic geography)",
+        "zh": "奧特里斯山與奧林波斯山（神話地理）"
+      },
+      "lat": 39.18,
+      "lon": 22.35,
+      "period": "Composed c. 700 BCE (Heumann translation 2021)",
+      "source": {
+        "archive": "Internet Archive (Heumann, trans., 2021)",
+        "work": "Hesiod, Theogony, trans. Michael Heumann (2021), lines ca. 617-735",
+        "url": "https://archive.org/details/hesiods-theogony-translated-by-michael-heumann"
+      },
+      "license": "Poem public domain; translation CC BY-NC-SA 4.0 (Heumann 2021) — paraphrase only in this record",
+      "summary": {
+        "en": "For ten years the young gods from Olympus and the Titans on Othrys grind one another without result. Zeus frees the Hundred-Handed from their long prison in the deep, feeds them nectar and ambrosia, and turns the balance; three hundred stones thrown by three giants smash the Titans' hosts. Zeus hurls them down beneath the earth to Tartarus, guarded by his new allies.",
+        "zh": "奧林波斯的新神與奧特里斯山的提坦纏鬥十年不分勝負。宙斯釋放長年囚於黑暗的百手三巨人，以仙食仙飲壯其氣力，戰局立轉；三百塊巨石接連砸下，提坦大軍潰敗，被宙斯投向大地深處的塔耳塔羅斯，由百手巨人看守。"
+      },
+      "motifs": [
+        "storm-thunder",
+        "sacred-kingship",
+        "pantheon-war",
+        "magic-food"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient literary source; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Ouranos had long ago bound the Hundred-Handed — Cottus, Briareus, and Gyges — in strong chains for their reckless, terrifying size and hid them beneath the broad earth. But the sons of Cronos brought them up to the light at Gaia's own telling, having learned that with them the victory would be theirs against the Titans: the three sat sullenly below the earth's rim, suffering enormous grief, until the son of Cronos and the immortal gods set them free.",
+          "note": "Paraphrase of Theogony, lines ca. 617-635 (Heumann 2021); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Then the two sides staked their strengths at war: the Titan gods on high Othrys, the younger gods gathered on Olympus, who were born to fair-haired Rhea after bed with Cronos; and for ten long years without end they fought one another, hearts and anger taut with fury, and the battle gave no decision to either side, since the victory was shared equally between the blowing thorns of the two proud families.",
+          "note": "Paraphrase of Theogony, lines ca. 635-655 (Heumann 2021); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "Then Zeus gave the Hundred-Handed nectar and ambrosia to eat and drink, the food of the undying, and their souls grew high; and the master of gods spoke to them: you, brightnesses from below, remember my kindness in freeing you from the stony prison and the grievous darkness; now with your untouchable hands stand against the Titans in their battles for us. And Cottus answered for them all: they knew his famous mind; with clear minds and quivering strength they would battle for his kingship in the fearsome war.",
+          "note": "Paraphrase of Theogony, lines ca. 655-685 (Heumann 2021); not verbatim."
+        },
+        {
+          "id": "4",
+          "text": "They armed that day and drew lines of battle, and with them Zeus from heaven hurled bolt after bolt, the crash of the sky, wrapped in a twisting flame; the life-bearing earth boomed and burned; the rivers, the streams of Oceanus, and the endless sea boiled, and the hot blast carried to the Aether of both sides; and blind-eyed Chaos reeled and shuddered. Then the Hundred-Handed rose from among the front lines and hurled hails of stones, three hundred boulders one after another; the Titans buried the sky no more, and were thrown under the whole earth and bound there; the drop to murky Tartarus is more than nine days' fall for a bronze anvil.",
+          "note": "Paraphrase of Theogony, lines ca. 685-730 (Heumann 2021); not verbatim."
+        }
+      ],
+      "persons": [
+        "gaia",
+        "tartaros",
+        "atlas",
+        "cronos",
+        "menoeceus-titan",
+        "rhea",
+        "hades",
+        "poseidon",
+        "zeus",
+        "iris",
+        "kratos",
+        "nike",
+        "styx",
+        "cyclopes",
+        "hecatoncheires"
+      ]
+    },
+    {
+      "id": "greek-theogony-typhon",
+      "title": {
+        "en": "Zeus and Typhon, the Last Challenger",
+        "zh": "宙斯戰堤豐"
+      },
+      "tradition": "greek",
+      "category": "myth",
+      "region": {
+        "en": "Arima, under the earth (mythic geography)",
+        "zh": "阿里馬亞，大地深處（神話地理）"
+      },
+      "lat": 38.2,
+      "lon": 22.6,
+      "period": "Composed c. 700 BCE (Heumann translation 2021)",
+      "source": {
+        "archive": "Internet Archive (Heumann, trans., 2021)",
+        "work": "Hesiod, Theogony, trans. Michael Heumann (2021), lines ca. 820-880",
+        "url": "https://archive.org/details/hesiods-theogony-translated-by-michael-heumann"
+      },
+      "license": "Poem public domain; translation CC BY-NC-SA 4.0 (Heumann 2021) — paraphrase only in this record",
+      "summary": {
+        "en": "Gaia's comeback after the defeat of the Titans is a last child begotten on Tartarus itself: Typhon, whose shoulders sprout a hundred snake-heads with flickering tongues of fire, whose hundred voices bellow, roar, yelp and hiss. One day's contest would have ended with Typhon king over gods and men, had Zeus not watched: he leaps from Olympus and burns the heads away, hurls the monster lame into Tartarus, and settles forever the weather-winds that still wreck ships and harvests.",
+        "zh": "提坦敗亡後，該亞的最後反撲是與塔耳塔羅斯所生的堤豐：肩上百顆蛇頭、吐信帶火，百聲齊鳴，可獅吼、牛吼、犬吠、蛇嘶。若非宙斯戒備，一日之戰堤豐便將稱王。宙斯自奧林波斯躍下，燒盡百顆頭顱，擊癱巨怪擲入塔耳塔羅斯；他化為的風暴狂風，至今仍是損毀船隻與莊稼的天災。"
+      },
+      "motifs": [
+        "world-serpent",
+        "storm-thunder"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient literary source; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "When Zeus had driven the Titans out of heaven, huge Gaia bore with Tartarus her youngest child, Typhon, whose hands were made for deeds of strength and whose feet were tireless. On his shoulders sat a hundred snake-heads of a fearsome dragon, each in its own pattern; his eyes flashed fire from every head, every head glared flame on every side, and fire darted from every one of all those glares and mouths.",
+          "note": "Paraphrase of Theogony, lines ca. 820-835 (Heumann 2021); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Every voice in all the heads poured out voices unspeakable: sometimes such as the gods might understand, sometimes the bellow of a furious bull, sometimes like the proud roar of a lion, sometimes like whelps beneath their mother, wondrous to hear, sometimes hissing tall mountain-music, so that a terrible echo went round the rocks. Had not the father of gods and men been watching, that day would have ended with Typhon king over mortals and immortals alike.",
+          "note": "Paraphrase of Theogony, lines ca. 830-845 (Heumann 2021); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "Zeus thundered hard and mightily, and the earth about him, the sky above him, the sea, the courses of Ocean, and Tartarus itself shook. Great Olympus trembled under the immortal feet of the king as he came leaping in with his weapons, and all around him heat and flame and thunder exploded; the violet sea was consumed by the heat of the fire and flame and hasty wind and blazing lightnings, and the undying earth and sea and sky boiled over. The crash and the quaking came down deep into Tartarus, and Cronos and the Titans who lived there trembled with fear under the endless roar of the terrible combat-strife.",
+          "note": "Paraphrase of Theogony, lines ca. 845-860 (Heumann 2021); not verbatim."
+        },
+        {
+          "id": "4",
+          "text": "With thunder and lightning in his grip Zeus leapt out and burnt all the marvelous heads about the tremendous monster; and when he had beaten him down with blows, that huge thing fell lame, and the broad earth groaned. Flames went out from the thunder-lord into the cliff-girt dells below, burning much of the strange earth, melting it like tin in a skillful youth's crucible, or iron tamed in mountain dells by blazing fire: so the earth melted in the flash of the thunderbolt. With wrath in his heart Zeus threw him whole into wide Tartarus; and out of Typhon the strength of the wet, blowing winds is always blowing, useless winds whose storms toss ships and drown sailors and wreck the works of men upon the land.",
+          "note": "Paraphrase of Theogony, lines ca. 860-880 (Heumann 2021); not verbatim."
+        }
+      ],
+      "persons": [
+        "gaia",
+        "tartaros",
+        "cronos",
+        "zeus",
+        "typhon"
+      ]
+    },
+    {
+      "id": "greek-wd-five-ages",
+      "title": {
+        "en": "The Five Ages of Mankind",
+        "zh": "人類五大時代"
+      },
+      "tradition": "greek",
+      "category": "myth",
+      "region": {
+        "en": "Ascra, Boeotia (symbolic pin)",
+        "zh": "波厄提亞阿斯克拉村（象徵性定位）"
+      },
+      "lat": 38.23,
+      "lon": 22.75,
+      "period": "Composed c. 700 BCE (Kelk translation 2020)",
+      "source": {
+        "archive": "Poetry in Translation (Kelk, trans., 2020)",
+        "work": "Hesiod, Works and Days, trans. Christopher Kelk (2020), lines ca. 106-210",
+        "url": "https://www.poetryintranslation.com/PITBR/Greek/HesiodWorksDays.php"
+      },
+      "license": "Poem public domain; translation © 2020 Chris Kelk (free non-commercial use) — paraphrase only in this record",
+      "summary": {
+        "en": "A second story for Perses, 'which I will tell you skilfully': the gods made first a golden race under Cronus, then silver, then bronze, then a noble race of heroes swallowed up by war at Thebes and Troy, and finally the iron race — Hesiod's own — in which he wishes he had not been born.",
+        "zh": "赫西俄德再講一則故事給佩耳塞斯：諸神先在克洛諾斯治下造黃金一族，其後白銀、青銅，再造亡於忒拜與特洛伊戰爭的英雄族，最後是鐵之族——詩人所在的當世，勞苦無休、父子相疏、義理蕩然，他寧願自己未生於此世。"
+      },
+      "motifs": [
+        "parable-teaching",
+        "sacred-kingship",
+        "world-ages",
+        "degeneration-races"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient literary source; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The gods who dwell on Olympus first made a golden race of men who lived in the time of Cronus, when he ruled in heaven. They lived like gods with care-free hearts, remote from toil and misery; and dismal age did not abide with them, but they danced away from pain; and they rejoiced in festivals, with the dear gods nearby. Then in death they lay as if overcome by sleep; and all good things were theirs, for the fruitful earth unasked would bring forth for them fruits in their season, so that freely, in peace and quiet, they drove back the land with many flocks. This race was buried beneath the earth, but they became, by high Zeus's device, holy spirits upon the earth, guardians of mortal men — watching over judgments and wicked deeds, girded in mist, roaming everywhere over the earth, givers of wealth: this kingly office was theirs.",
+          "note": "Paraphrase of Works and Days, lines ca. 106-135 (Kelk 2020); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Then they who dwell on Olympus made a second race, of silver, far inferior, in body and in mind. A child was bred up a hundred years at his mother's knee, playing about the house, a great bawling innocent; but when they grew up and came to their full measure, they lived but a brief time in suffering and sorrow, through their own foolishness; they could not hold back their own arrogance, and they were not willing to worship the blessed gods, nor to sacrifice upon the holy altars of the blessed ones, as is due law among men. Then Zeus, in wrath, hid them under the earth, because they gave no honour to the blessed gods who dwell on Olympus.",
+          "note": "Paraphrase of Works and Days, lines ca. 140-155 (Kelk 2020); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "Zeus the father made a third race, of bronze, in no wise like the ones of old: terrible and strong men, all their delight in works of war and violence; their food was not the grain of the earth, and their limbs and souls were of adamant; their weapons were bronze, their houses bronze, their tools of bronze, for as yet there was no black iron. They were brought down by their own hands, and went down nameless to the mouldy house of chill Hades, never seen again once black death had taken them.",
+          "note": "Paraphrase of Works and Days, lines ca. 155-170 (Kelk 2020); not verbatim."
+        },
+        {
+          "id": "4",
+          "text": "Then, upon the earth, Zeus son of Cronus made a fourth race, more just and better: the godly race of heroes, who are called half-gods, the race before ours on the boundless earth. But evil war and the dread battle-line destroyed some of them — some at seven-gated Thebes, in Cadmus' land, dying for the flocks of Oedipus; and others brought in ships over the great gulf of the sea to Troy for the sake of fair-haired Helen. There some were covered by the earth; but to others Zeus the father, son of Cronus, gave life and homes apart from men, at the ends of the earth, where they dwell with carefree hearts in the Isles of the Blessed by the deep-eddying ocean; and the earth bears them sweet fruit three times a year, while Cronus still rules among them.",
+          "note": "Paraphrase of Works and Days, lines ca. 170-190 (Kelk 2020); not verbatim."
+        },
+        {
+          "id": "5",
+          "text": "And Zeus made a fifth race, of men upon the bountiful earth, and I wish, he said, that I may not be among them; but either I had died before, or been born afterwards. For now the race is indeed one of iron; and never by day shall they rest from toil and sorrow, nor by night from being worn away; and the gods shall give them heavy troubles. Yet even so good shall be mingled with their evils. And Zeus shall destroy this race too, when children are born with grey hair on their temples. Nor shall the father be one with his children, nor children with their father, nor guest with host, nor comrade with comrade, nor shall brother be dear to brother as of old. Men shall dishonour their parents as soon as they are old, reviling them with hard words; and there shall be no grace for the man who keeps his oath, nor for the just, nor for the good: the devouring of wrong shall prosper, and shame shall no longer be. And at the last, from the broad-pathed earth, Majesty and Awe, wrapped in fair robes, shall leave the dwelling of men and go up to Olympus, forsaking mankind; and there shall be nothing left against the evil but sorrow.",
+          "note": "Paraphrase of Works and Days, lines ca. 190-210 (Kelk 2020); not verbatim."
+        }
+      ],
+      "persons": [
+        "cronos",
+        "zeus",
+        "calliope",
+        "dike",
+        "helen",
+        "hesiod",
+        "perses"
+      ]
+    },
+    {
+      "id": "greek-wd-hawk-justice",
+      "title": {
+        "en": "The Hawk and the Nightingale",
+        "zh": "鷹與夜鶯"
+      },
+      "tradition": "greek",
+      "category": "myth",
+      "region": {
+        "en": "Ascra, Boeotia (symbolic pin)",
+        "zh": "波厄提亞阿斯克拉村（象徵性定位）"
+      },
+      "lat": 38.23,
+      "lon": 22.75,
+      "period": "Composed c. 700 BCE (Kelk translation 2020)",
+      "source": {
+        "archive": "Poetry in Translation (Kelk, trans., 2020)",
+        "work": "Hesiod, Works and Days, trans. Christopher Kelk (2020), lines ca. 202-285",
+        "url": "https://www.poetryintranslation.com/PITBR/Greek/HesiodWorksDays.php"
+      },
+      "license": "Poem public domain; translation © 2020 Chris Kelk (free non-commercial use) — paraphrase only in this record",
+      "summary": {
+        "en": "To his brother Perses, who has taken him to law before bribed judges, Hesiod tells a fable: a hawk gripping a nightingale in its talons mocks the small bird's crying — the strong can do what they like with the weak. But humans are not birds: for them Zeus has established Justice, which blesses the just city and ruins the extortionate.",
+        "zh": "對已分產涉訟、賄賂法官的弟弟佩耳塞斯，赫西俄德講了一則寓言：高空中鷹爪抓住夜鶯，嘲弄其可憐哀鳴——強者可任意處置弱者。但人非鳥類：宙斯已為人類立下正義，公正之城因而興盛，貪暴之徒必遭現世報。"
+      },
+      "motifs": [
+        "parable-teaching",
+        "animal-fable"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient literary source; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Hesiod told the lords and judges a fable that they, being wise, could read. A hawk had seized a speckled nightingale in its talons and was carrying it up through the clouds; the little bird hung there weeping out its piteous cry, pierced by the bent claws that held it fast.",
+          "note": "Paraphrase of Works and Days, lines ca. 202-215 (Kelk 2020); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "The hawk said to it scornfully: 'Wretched thing, why do you cry out? One far stronger than you holds you; you go wherever I take you. I will make you my dinner if I wish, or I may let you go. He is a fool who tries to contend against those stronger than himself: he loses the struggle and is insulted on top of it.' So spoke the swift-winged bird, the lordly one filled with pride.",
+          "note": "Paraphrase of Works and Days, lines ca. 215-231 (Kelk 2020); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "But Perses should listen to justice, and not exalt violence; this is the law the son of Cronus has made for men, for fish and beasts and winged birds eat one another, since there is no justice among them; but to men Zeus has given Justice, which is far the best. A man who knows and declares it, Zeus enriches; but a perjurer who deliberately does wrong has a descendant left to darkness, while his enemy's household prospers.",
+          "note": "Paraphrase of Works and Days, lines ca. 274-300 (Kelk 2020); not verbatim."
+        },
+        {
+          "id": "4",
+          "text": "Zeus sent thirty thousand watchers upon the earth, servants of the god, who oversee mankind, mixing unseen, over all the earth; and Justice, the daughter of Zeus, reports to him all crooked judgments. When judges swallow bribes, woe to the city: plague and famine come, women are barren, and houses dwindle. But when straight judgments are given, the city blooms, children grow, the earth yields acorns and honey, the sheep are heavy with wool, and there is abundance on the earth. So Hesiod warned the gift-swallowing lords to straighten the crooked decisions, for the watcher sees all, and the eye of Zeus observes all things.",
+          "note": "Paraphrase of Works and Days, lines ca. 240-285 (Kelk 2020); not verbatim."
+        }
+      ],
+      "persons": [
+        "themis",
+        "zeus",
+        "dike",
+        "horkos",
+        "hesiod",
+        "perses"
+      ]
+    },
+    {
+      "id": "greek-wd-pandora-jar",
+      "title": {
+        "en": "Pandora and the Jar",
+        "zh": "潘多拉與罐中諸惡"
+      },
+      "tradition": "greek",
+      "category": "myth",
+      "region": {
+        "en": "Ascra, Boeotia (Hesiod's village; symbolic pin)",
+        "zh": "波厄提亞阿斯克拉村（赫西俄德故鄉，象徵性定位）"
+      },
+      "lat": 38.23,
+      "lon": 22.75,
+      "period": "Composed c. 700 BCE (Kelk translation 2020)",
+      "source": {
+        "archive": "Poetry in Translation (Kelk, trans., 2020)",
+        "work": "Hesiod, Works and Days, trans. Christopher Kelk (2020), lines ca. 57-105",
+        "url": "https://www.poetryintranslation.com/PITBR/Greek/HesiodWorksDays.php"
+      },
+      "license": "Poem public domain; translation © 2020 Chris Kelk (free non-commercial use) — paraphrase only in this record",
+      "summary": {
+        "en": "Because Prometheus stole fire, Zeus commissions a trap for men: Hephaestus fashions a maiden from clay, each god contributes an ornament or a flaw — beauty, weaving, lies, a shameless nature — and she is called Pandora. Hermes delivers her to Epimetheus, who forgets his brother's warning; she opens the great jar and scatters the whole race of ills upon mankind, keeping only Hope inside under the lid.",
+        "zh": "因普羅米修斯盜火，宙斯設計陷害人類：赫菲斯托斯以黏土塑造少女，諸神各贈其一飾或一病——美貌、織布、謊言與羞怯——並名之潘多拉。赫爾墨斯將她送至厄庇墨透斯，他忘卻兄長的警告；她揭開大罐，人間從此疾病苦難橫行，唯希望獨存於罐中。"
+      },
+      "motifs": [
+        "clay-humans",
+        "taboo-transgression",
+        "divine-smith"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient literary source; the myth carries Hesiod's misogyny and is presented as historical material without endorsement."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "In spite over the theft, Zeus prepared a second mischief to afflict mankind. He ordered the celebrated lame god, famed Hephaestus, to mix earth and water and to put in it the voice and strength of a human being, with the face of a goddess, a beautiful, sweet-looking girl. Athena was to teach her woman's skills, to weave richly-worked cloth of various kinds; golden Aphrodite was to pour grace about her head and painful desire and heavy-weariness that shakes the limbs; Hermes, the Argus-killer, was to add a dog's mind and a thieving disposition.",
+          "note": "Paraphrase of Works and Days, lines ca. 57-90 (Kelk 2020); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "At Zeus's word the famed lame god immediately moulded the likeness of a modest maiden from the earth, as Cronus's son had commanded. The grey-eyed queen Athena arrayed her and fastened her girdle; the divine Graces and our lady Persuasion hung golden necklaces upon her; the fair-tressed Hours crowned her with spring flowers; and Pallas Athena adorned her person fully. And in her breast the Argus-killer Hermes, by the contriving of loud-thundering Zeus, put lies and guile, a thieving nature, and a shameless spirit.",
+          "note": "Paraphrase of Works and Days, lines ca. 90-100 (Kelk 2020); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "Since all the Olympians had given a gift, her name was called Pandora, Bane of Men, on whose account the gods above all hatched this perfect snare in man's way, sending to Epimetheus the swift messenger of the gods, the Argus-slayer, with the gift. Epimetheus took no thought of the warning that Prometheus had given him — never to receive a gift from Zeus, but to send it back, lest some evil happen to men. He accepted her, and only when he had the evil did he see it at last.",
+          "note": "Paraphrase of Works and Days, lines ca. 90-105 (Kelk 2020); not verbatim."
+        },
+        {
+          "id": "4",
+          "text": "For before that no trouble, no disease, and no suffering had ever darkened this race's days: men used to live free of them. But the woman took off the great lid of the jar with her hands and scattered its contents; she dealt portentous griefs to men, and only Hope remained within the unbreakable jar beneath its rim, and did not fly out, because the lid stayed on it, by the will of Aegis-bearing Zeus. But other innumerable troubles wandered among men; the earth was full of evils, and the sea was full. So mankind had diseases to endure day and night of their own accord, in silence, since Zeus devised voicelessness for them. There is no way to escape the will of Zeus.",
+          "note": "Paraphrase of Works and Days, lines ca. 100-105 (Kelk 2020); not verbatim."
+        }
+      ],
+      "persons": [
+        "epimetheus",
+        "iapetus",
+        "prometheus",
+        "aphrodite",
+        "athena",
+        "hephaestus",
+        "hermes",
+        "zeus",
+        "charites",
+        "horae",
+        "pandora"
+      ]
+    }
+  ]
+}

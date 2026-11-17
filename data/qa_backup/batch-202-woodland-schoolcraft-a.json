@@ -1,0 +1,623 @@
+{
+  "texts": [
+    {
+      "id": "woodland-schoolcraft-kwasind",
+      "title": {
+        "en": "Kwasind, the Fearfully Strong Man",
+        "zh": "瓜辛：力可懼者"
+      },
+      "tradition": "woodland",
+      "category": "myth",
+      "region": {
+        "en": "Pauwating (Sault Ste. Marie), upper Great Lakes",
+        "zh": "保瓦廷（蘇聖瑪麗），上大湖區"
+      },
+      "lat": 46.5,
+      "lon": -84.36,
+      "period": "Collected by H. R. Schoolcraft among the Odjibwa (Myth of Hiawatha, 1856)",
+      "source": {
+        "archive": "Internet Archive (djvu OCR)",
+        "work": "H. R. Schoolcraft, The Myth of Hiawatha, and Other Oral Legends (1856), 'Kwasind'",
+        "url": "https://archive.org/details/mythofhiawatha00schorich"
+      },
+      "license": "Public domain (text 1856)",
+      "summary": {
+        "en": "The listless boy Kwasind, who never hunted or fished, wrings a wet net off like brittle fibre and reveals supernatural strength concentrated in the crown of his head: he hurls the black rock Manabozho cast at his father, clears windfalls, captures the king of beavers, and helps Manabozho fit the streams and valleys for man. His feats excite the envy of the Puck Wudj Ininees, the fairies, who gather the one weapon that can wound him - the burr of the white pine - and waylay him at the red-rock point where he sinks never to rise; ever since, the hunters hear the fairies laugh and see their little plumes shake on that rock.",
+        "zh": "疏懶少年瓜辛從不狩獵捕魚，卻一把擰乾濕網如捻脆纖維——原來他天生神力，全聚於頭頂：他舉起馬納博紹投擲其父的黑石，清除風倒木，擒得河狸之王，並助馬納博紹整理溪谷以備人居。其功績招來小人族（帕克伍吉尼內斯）的妒忌；他們遍尋唯一能傷他的武器——白松的松塔果——在他慣經的紅岩水角伏擊，使他沉沒不起。自此獵人常聞小仙在岩上嬉笑，見其羽冠輕顫。"
+      },
+      "motifs": ["culture-hero", "trickster", "sacred-place"],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ojibwe tale collected by Schoolcraft (1856); public domain. Schoolcraft's texts are retellings from native informants with editorial polishing."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Kwasind was a listless idle boy. He would not play when the other boys played, and his parents could never get him to do any kind of labor. 'Go, I bid you, and wring out that net which I have just taken from the water,' said his mother at last. Kwasind saw that there was a determination to make him obey. He took up the net, carefully folded it, doubled and redoubled it, forming it into a roll, and then with an easy twist of his hands wrung it short off, with as much ease as if every twine had been a thin brittle fibre. Here they at once saw the secret of his reluctance: he possessed supernatural strength.",
+          "note": "Condensed from Schoolcraft 1856, pp. 77-78; not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "The young men were playing one day on the plain, where there was lying one of those large, heavy, black pieces of rock, which Manabozho is said to have cast at his father. Kwasind took it up with much ease, and threw it into the river. He accompanied his father on a hunting excursion into a remote forest, where the wind had thrown a great many trees into a narrow pass; when he had finished his reflection, Kwasind had lifted away the largest pine trees, and pulled them out of the path. Sailing one day in his canoe he saw the king of beavers, plunged into the water in pursuit of it, and at last returned with the kingly prize. He helped Manabozho to clear away the obstructions in the streams, and to remove the great wind-falls of trees from the valleys, the better to fit them for the residence of man.",
+          "note": "Condensed from Schoolcraft 1856, p. 79; not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "He performed so many feats of strength and skill that he excited the envy of the Puck Wudj Ininees, or fairies, who conspired against his life. 'For,' said they, 'if this man is suffered to go on, we shall presently have no work to perform. He will undermine our power.' The strength of Kwasind was all concentrated in the crown of his head, the only vulnerable part of his body, and there was but one species of weapon which could be successfully employed in making any impression upon it: the burr or seed vessel of the white pine. The fairies gathered a quantity of this article, and waylaid Kwasind at the point where the red rocks jut into the water. Kwasind came floating calmly down the stream, languid with the heat of the weather and almost asleep; when his canoe came directly beneath the cliff, the tallest and stoutest fairy began the attack, and success at length crowned their efforts, and Kwasind sunk, never to rise more. Ever since this victory, the Puck Wudj Ininee have made that point of rock a favorite resort; the hunters often hear them laugh, and see their little plumes shake as they pass this scene on light summer evenings.",
+          "note": "Condensed from Schoolcraft 1856, pp. 80-81; not verbatim."
+        }
+      ]
+    },
+    {
+      "id": "woodland-schoolcraft-jeebi-ghosts",
+      "title": {
+        "en": "The Jeebi: Two Ghosts Come to Test the Living",
+        "zh": "靈魂：兩鬼試探生者"
+      },
+      "tradition": "woodland",
+      "category": "myth",
+      "region": {
+        "en": "Lone forest lodge of the far-north Odjibwa",
+        "zh": "北方奧吉布瓦林中的孤屋"
+      },
+      "lat": 47.5,
+      "lon": -84.0,
+      "period": "Collected by H. R. Schoolcraft among the Odjibwa (1856)",
+      "source": {
+        "archive": "Internet Archive (djvu OCR)",
+        "work": "H. R. Schoolcraft, The Myth of Hiawatha, and Other Oral Legends (1856), 'The Jeebi; or, Two Ghosts'",
+        "url": "https://archive.org/details/mythofhiawatha00schorich"
+      },
+      "license": "Public domain (text 1856)",
+      "summary": {
+        "en": "Two pale, hollow-eyed females arrive at a solitary hunter's lodge, shy of the fire, devouring only the whitest fat. A voice cries, 'Merciful spirit! there are two corpses clothed with garments.' They never speak, fetch wood nightly, and bring the hunter marked good luck - until his wife's anger at their greed breaks the trial: they are jeebi-ug from the land of the dead, sent by the Master of Life for three moons to test the sincerity of the bereaved, and their taking of the fat was chosen precisely because it was the wife's peculiar privilege. Pronouncing a blessing, they vanish in total darkness - and the hunter's promised success, many children, health, peace and long life follow.",
+        "zh": "兩位面白眼凹的女子來到孤獵人之家，畏火而坐，只取最白的肥脂進食。一個聲音喊道：「慈悲的靈啊，有兩具披衣的屍骸！」她們終日不言，夜裡拾柴，並為獵人帶來明顯的好運——直到妻子對她們的貪婪動怒，試煉乃破。原來她們是自死者之邦來的鬼靈，奉生命之主之命試探喪親者三個月；取脂之舉正是刻意選在妻子的特權之處。她們祝福而逝，黑暗中悄然離去——獵人此後獵運亨通、子孫滿堂、康泰長壽。"
+      },
+      "motifs": ["resurrection", "oracle-divination", "boon-curse"],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ojibwe tale (Schoolcraft 1856); public domain."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "There lived a hunter in the north who had a wife and one child. His lodge stood far off in the forest, several days' journey from any other. One evening during the winter season he remained out later than usual, and his wife, hearing the sound of approaching footsteps, went to the door and beheld two strange females, whom she bade enter and invited to remain. They would not come near the fire; they sat in a remote part of the lodge, drew their garments about them so as nearly to hide their faces, and so far as she could judge they were pale, hollow-eyed, and long-visaged, very thin and emaciated. 'Merciful spirit!' cried a voice from the opposite part of the lodge, 'there are two corpses clothed with garments.'",
+          "note": "Condensed from Schoolcraft 1856, pp. 81-83; not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Her husband at this moment entered and dispelled her fears, throwing down the carcass of a large fat deer. 'Behold what a fine and fat animal,' cried the mysterious females, and they immediately ran and pulled off pieces of the whitest fat, which they ate with greediness. The third day the hunter tied up a portion of the fattest pieces for them; they accepted it, but still appeared dissatisfied, and went to the wife's portion and tore off more. They were never known to stay out until daylight, never laughed or jested, and the hunter observed that he had been attended with marked good luck during the residence of these mysterious visitors.",
+          "note": "Condensed from Schoolcraft 1856, pp. 83-84; not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "When the winter had nearly passed, one evening the hunter stayed out very late, and the two females tore off the fat so unceremoniously that the wife's anger was excited. That night their sobs and sighs were incessant. 'We have been treated by you with kindness and affection. It is not for any slight we have received that we weep. We come from the land of the dead to test mankind, and to try the sincerity of the living. Three moons were allotted us by the Master of Life to make the trial. The angry feelings of your wife indicated the irksomeness you felt at our presence, and has made us resolve on our departure... You have thought our conduct very strange in rudely possessing ourselves of the choicest parts of your hunt. That was the point of trial selected to put you to. It is the wife's peculiar privilege... We are the agents of him who sent us. Peace to your dwelling, adieu!' When they ceased, total darkness filled the lodge; the inmates heard the door open and shut, but they never saw more of the two Jeebi-ug. The hunter found the success which they had promised, and health, peace, and long life were the rewards of his hospitality.",
+          "note": "Condensed from Schoolcraft 1856, pp. 84-85; not verbatim."
+        }
+      ]
+    },
+    {
+      "id": "woodland-schoolcraft-iagoo",
+      "title": {
+        "en": "Iagoo, the Boaster: Synonym for Liar",
+        "zh": "亞古：吹牛者，說謊的代名詞"
+      },
+      "tradition": "woodland",
+      "category": "myth",
+      "region": {
+        "en": "Chippewa hunting country on the lakes",
+        "zh": "湖區的奇珀瓦獵地"
+      },
+      "lat": 46.5,
+      "lon": -85.0,
+      "period": "Collected by H. R. Schoolcraft among the Chippewa (1856)",
+      "source": {
+        "archive": "Internet Archive (djvu OCR)",
+        "work": "H. R. Schoolcraft, The Myth of Hiawatha, and Other Oral Legends (1856), 'Iagoo'",
+        "url": "https://archive.org/details/mythofhiawatha00schorich"
+      },
+      "license": "Public domain (text 1856)",
+      "summary": {
+        "en": "Iagoo is the name of the personage noted for extravagant narration: his birds have singular brilliant plumage, his animals are monstrous with eyes like orbs of fire, and a single water-lily leaf would clothe his wife and daughter. One shot through his lodge door kills a swan flying past, twenty brace of ducks in the stream, two loons rising, and a giant muscalunge beyond; chasing elks he forgets the deer's carcass on his shoulders; a mosquito's wing is sail enough for his canoe; and a gigantic ant passes him dragging the entire carcass of a hare. His name is established in the hunter's vocabulary as a perfect synonym for liar - 'So here we have Iagoo come again.'",
+        "zh": "亞古以誇誕講述聞名：他描述的鳥羽色奇麗，遇見的獸皆是巨眼火眸、一步跨過帳頂的怪物；一片水百合葉足以為妻女裁衣。一次隔帳門的射擊，擊斃飛天鵝、二十對鴨、上浮的兩隻潛鳥，更遠斃一尾巨魚；追麋時忘了肩上的鹿屍；蚊之一翼可為其舟帆；一隻巨蟻拖著整隻野兔從他面前經過。獵人語彙中，他的名字成了「說謊者」的同義詞——「看，亞古又來了」。"
+      },
+      "motifs": ["trickster"],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ojibwe story-type (Schoolcraft 1856); public domain."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Iagoo is the name of a personage noted in Indian lore for having given extravagant narrations of whatever he had seen, heard, or accomplished. He could not look out of his lodge and see things as other men did. If he described a bird, it had a most singular variety of brilliant plumage. The animals he met with were all of the monstrous kind; they had eyes like orbs of fire, and claws like hooks of steel, and could step over the top of an Indian lodge. His imagination appeared to be of so exuberant a character that he scarcely required more than a drop of water to construct an ocean, or a grain of sand to form the earth.",
+          "note": "Condensed from Schoolcraft 1856, pp. 85-86; not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Such was Iagoo, the Indian story-teller, whose name has long been established in the hunter's vocabulary as a perfect synonym for liar: if a hunter or warrior, in telling his exploits, undertakes to embellish them, he is liable to be rebuked with the remark, 'So here we have Iagoo come again.' He first attracted notice by giving an account of a water lily, a single leaf of which, he averred, was sufficient to make a petticoat and upper garments for his wife and daughter. One evening, hearing the quacking of ducks on the stream, he fired through the lodge door at a venture: he killed a swan that happened to be flying by, and twenty brace of ducks in the stream; the shot passed on and struck the heads of two loons coming up from beneath the water, and even went beyond and killed a most extraordinary large fish called Moshkeenozha. On another occasion, having killed a deer and slung the carcass on his shoulders, he spied some stately elks on the plain, gave chase over hill and dale a distance of half a day's travel, before he recollected that he had the deer's carcass on his shoulders.",
+          "note": "Condensed from Schoolcraft 1856, pp. 86-87; not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "One day, passing over a tract of mushkeeg or bog-land, he saw musquitoes of such enormous size that he staked his reputation on the fact that a single wing of one of the insects was sufficient for a sail to his canoe, and the proboscis as big as his wife's shovel. But he was favored with a still more extraordinary sight, in a gigantic ant, which passed him, as he was watching a beaver's lodge, dragging the entire carcass of a hare. At another time, being out of smoking weed, he discovered a bunch of the red willow, or maple bush, of such a luxuriant growth that he was industriously occupied half a day walking round it.",
+          "note": "Condensed from Schoolcraft 1856, p. 87; not verbatim."
+        }
+      ]
+    },
+    {
+      "id": "woodland-schoolcraft-shawondasee",
+      "title": {
+        "en": "Shawondasee: The South Wind and the Prairie Dandelion",
+        "zh": "肖翁達西：南風與草原蒲公英"
+      },
+      "tradition": "woodland",
+      "category": "myth",
+      "region": {
+        "en": "The southern plains where the Indian Summer blows",
+        "zh": "南風吹拂的草原（印第安夏之地）"
+      },
+      "lat": 43.0,
+      "lon": -84.0,
+      "period": "From the mythology of the Odjibwa (Schoolcraft 1856)",
+      "source": {
+        "archive": "Internet Archive (djvu OCR)",
+        "work": "H. R. Schoolcraft, The Myth of Hiawatha, and Other Oral Legends (1856), 'Shawondasee'",
+        "url": "https://archive.org/details/mythofhiawatha00schorich"
+      },
+      "license": "Public domain (text 1856)",
+      "summary": {
+        "en": "Mudjekewis, youngest of ten brothers who conquered the mammoth bear for the sacred belt of wampum, governs the West Winds as Kabeyun, father of the winds: Wabun the east, Shawondasee the south, Kabibonokka the north. Shawondasee is an affluent, plethoric old man who keeps his eyes fixed on the north - when he sighs we have the balmy southern airs of the Indian Summer. Gazing at a beautiful woman on the plains with bright flowing locks of yellow hair, he sees her head enveloped in a pure white mass like snow, grows jealous of his brother, and sighs out rapid breaths - whereupon the air fills with silvery filaments: the south wind has blown off the fine-winged seed-vessels of the prairie dandelion.",
+        "zh": "十兄弟征服巨熊、奪得貝珠聖帶，最幼的穆吉維斯受封西風，稱卡貝庸——眾風之父：瓦奔居東，肖翁達西居南，卡比博諾卡居北。肖翁達西是富態臃腫的老人，凝望北方；他一嘆息，便有南國的暖風——印第安夏。他凝望草原上一位黃髮飄揚的美女，見她頭上覆著雪也似的純白，妒忌弟弟，連連短嘆——空中頓時銀絲飛舞：原來南風吹散了草原蒲公英的翅狀果實。"
+      },
+      "motifs": ["transformation", "storm-thunder", "parable-teaching"],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ojibwe wind-allegory (Schoolcraft 1856); public domain."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Mudjekewis and nine brothers conquered the Mammoth Bear, and obtained the Sacred Belt of Wampum, the great object of previous warlike enterprise, and the great means of happiness to men. The chief honor of this achievement was awarded to Mudjekewis, the youngest of the ten, who received the government of the West Winds. He is therefore called KABEYUN, the father of the winds. To his son Wabun he gave the East; to Shawondasee the south, and to Kabibonokka the north. Manabozho, being an illegitimate son, was left unprovided; when he grew up and obtained the secret of his birth, he went to war against his father, and having brought the latter to terms, received the government of the Northwest Winds.",
+          "note": "Condensed from Schoolcraft 1856, pp. 88-89; not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Shawondasee is represented as an affluent, plethoric old man, who has grown unwieldy from repletion, and seldom moves. He keeps his eyes steadfastly fixed on the north. When he sighs, in autumn, we have those balmy southern airs which communicate warmth and delight over the northern hemisphere, and make the Indian Summer. One day, while gazing toward the north, he beheld a beautiful young woman of slender and majestic form standing on the plains; what most attracted his admiration was her bright and flowing locks of yellow hair. Ever dilatory, he contented himself with gazing. At length he saw, or fancied he saw, her head enveloped in a pure white mass like snow; this excited his jealousy toward his brother Kabibonokka, and he threw out a succession of short and rapid sighs - when lo! the air was filled with light filaments of a silvery hue, but the object of his affections had forever vanished. In reality, the southern airs had blown off the fine-winged seed-vessels of the prairie dandelion.",
+          "note": "Condensed from Schoolcraft 1856, pp. 89-90; not verbatim."
+        }
+      ]
+    },
+    {
+      "id": "woodland-schoolcraft-puck-wudj-ininees",
+      "title": {
+        "en": "Puck Wudj Ininees: The Little Man of the Mountains and the Morning Star",
+        "zh": "帕克伍吉尼內斯：山中小人與晨星"
+      },
+      "tradition": "woodland",
+      "category": "myth",
+      "region": {
+        "en": "Mountains and rocks of the Odjibwa country; the eastern sky",
+        "zh": "奧吉布瓦之地的山岩；東方天空"
+      },
+      "lat": 46.6,
+      "lon": -84.5,
+      "period": "An Odjibwa myth of fairies (Schoolcraft 1856)",
+      "source": {
+        "archive": "Internet Archive (djvu OCR)",
+        "work": "H. R. Schoolcraft, The Myth of Hiawatha, and Other Oral Legends (1856), 'Puck Wudj Ininees'",
+        "url": "https://archive.org/details/mythofhiawatha00schorich"
+      },
+      "license": "Public domain (text 1856)",
+      "summary": {
+        "en": "When all the inhabitants of the earth have died, two helpless children are left: a sister who grows to womanhood and a brother who remains a perfect infant in stature, Wa-dais-ais-imid, He of the Little Shell, whose magic shell lets him cut off beavers' tails unseen and declare, 'If you were to try to kill me you could not do it.' Visiting the four corners of the earth and the boiling kettle of a giant Manito, he tells his sister there is one above them in the sky and a wicked one deep in the earth, then sends her to the place of the breaking of daylight - where the painted clouds are her painting her face, and her name is the Morning Star - while he becomes Puck Wudj Ininee, the little wild man of the mountains and rocks.",
+        "zh": "地上居民盡滅之後，僅餘兩個無助的孩子：姐姐長成女子，弟弟卻始終保有嬰孩之軀——「小貝殼者」瓦代塞米德，其魔貝能使他隱形割下河狸之尾，並宣稱「你想殺我卻辦不到」。他遊歷四方、探過巨人靈者永沸的大釜，告訴姐姐：天上有靈，地底另有一位邪靈。他送姐姐往晨光初破之處——天邊彩雲便是她敷面的顏色，她的名字叫晨星；自己則成為山岩中的小人，帕克伍吉尼內。"
+      },
+      "motifs": ["constellation-origin", "transformation", "sibling-creators"],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ojibwe fairy myth (Schoolcraft 1856); public domain. Origin of the Puk-Wudjie little people and the Morning Star."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "There was a time when all the inhabitants of the earth had died, excepting two helpless children, a baby boy and a little girl. The girl, who was the elder, was the first to wake; at the end of ten days her brother moved without opening his eyes, at the end of ten days more he changed his position. The girl soon grew up to woman's estate, but the boy increased in stature very slowly: when he was able to walk, his sister made him a little bow and arrows, and suspended around his neck a small shell, saying, you shall be called Wa-dais-ais-imid, or He of the Little Shell. Every day he went out shooting at the small birds; his skill and success as a hunter daily increased, and he killed the deer, bear, moose, and other large animals - in fine he became a great hunter, though he remained a perfect infant in stature.",
+          "note": "Condensed from Schoolcraft 1856, pp. 90-91; not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "One day he came to a small lake in winter and saw a man on the ice killing beavers, who appeared to be a giant; comparing himself to this great man he appeared no bigger than an insect. When the large man had loaded his sled with beavers, the little hero followed him, and wielding his magic shell, cut off the tail of one of the beavers and ran home with his trophy. This trick he repeated day after day, availing himself of his power of invisibility; at last Manabozho looked up and saw him, and said, 'Who are you, little man? I have a mind to kill you.' 'If you were to try to kill me you could not do it,' replied the little hero of the shell.",
+          "note": "Condensed from Schoolcraft 1856, pp. 91-92; not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "When he returned home he told his sister that they must separate: 'I must go away... Tell me where you would wish to dwell.' She said, 'I would like to go to the place of the breaking of daylight. I have always loved the east... After I get there, my brother, whenever you see the clouds in that direction of various colors, you may think that your sister is painting her face.' 'And I,' said he, 'shall live on the mountains and rocks... And I shall ever be called Puck Wudj Ininee, or the little wild man of the mountains.' Before they parted he travelled over the surface of the globe and went far down into the earth, escaping from a giant Manito's forever-boiling kettle, and reported: 'There is a Manito at each of the four corners of the earth; there is also one above them, far in the sky; and last, there is another, and wicked one, who lives deep down in the earth.' When the winds blew from the four corners of the earth his sister was borne by them to the eastern sky, where she has ever since been, and her name is the Morning Star.",
+          "note": "Condensed from Schoolcraft 1856, pp. 93-94; not verbatim."
+        }
+      ]
+    },
+    {
+      "id": "woodland-schoolcraft-lynx-hare",
+      "title": {
+        "en": "Pezhiu and Wabose: The Lynx and the Hare",
+        "zh": "猞猁與白兔"
+      },
+      "tradition": "woodland",
+      "category": "myth",
+      "region": {
+        "en": "Winter woods of the Chippewa",
+        "zh": "奇珀瓦之地的冬林"
+      },
+      "lat": 47.0,
+      "lon": -84.5,
+      "period": "A Chippewa fable (Schoolcraft 1856)",
+      "source": {
+        "archive": "Internet Archive (djvu OCR)",
+        "work": "H. R. Schoolcraft, The Myth of Hiawatha, and Other Oral Legends (1856), 'Pezhiu and Wabose'",
+        "url": "https://archive.org/details/mythofhiawatha00schorich"
+      },
+      "license": "Public domain (text 1856)",
+      "summary": {
+        "en": "A lynx almost famished in the food-scarce winter meets a hare safe on a rock. 'Wabose, come here, my little white one, I wish to talk to you.' 'Oh no, I am afraid of you, and my mother told me never to go and talk to strangers.' 'You are very pretty, and a very obedient child to your parents, but you must know that I am a relative of yours. I wish to send some word to your lodge.' The hare was pleased to be called pretty, and when she heard that it was a relative, she jumped down from the place where she stood, and was immediately torn in pieces by the lynx.",
+        "zh": "嚴冬食物稀少，一隻飢餓的猞猁遇見站在岩石上的白兔。牠甜言哄騙：「小白的，過來，我想跟你說話。」兔答：「我怕你，母親叫我不要理陌生人。」猞猁再誘：「你真漂亮，又聽話；要知道我是你的親戚，我想給你家捎個口信。」兔子被誇得心喜，聽說是親戚，便跳下岩石——立時被猞猁撕成碎片。"
+      },
+      "motifs": ["trickster", "parable-teaching"],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Chippewa fable (Schoolcraft 1856); public domain."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "A lynx almost famished, met a hare one day in the woods, in the winter season, when food was very scarce. The hare, however, stood up on a rock, and was safe from its enemy. 'Wabose,' said the lynx, in a very kind manner, 'come here, my little white one, I wish to talk to you.' 'Oh no,' replied the hare, 'I am afraid of you, and my mother told me never to go and talk to strangers.'",
+          "note": "Verbatim from Schoolcraft 1856, p. 95; not verbatim (punctuation modernized)."
+        },
+        {
+          "id": "2",
+          "text": "'You are very pretty,' answered the lynx, 'and a very obedient child to your parents, but you must know that I am a relative of yours. I wish to send some word to your lodge. Come down and see me.' The hare was pleased to be called pretty, and when she heard that it was a relative, she jumped down from the place where she stood, and was immediately torn in pieces by the lynx.",
+          "note": "Verbatim from Schoolcraft 1856, p. 95; not verbatim (punctuation modernized)."
+        }
+      ]
+    },
+    {
+      "id": "woodland-schoolcraft-peboan-seegwun",
+      "title": {
+        "en": "Peboan and Seegwun: Winter and Spring Smoke Together",
+        "zh": "冬與春同煙共話"
+      },
+      "tradition": "woodland",
+      "category": "myth",
+      "region": {
+        "en": "Lodge by a frozen stream at the close of winter",
+        "zh": "殘冬凍溪旁的小屋"
+      },
+      "lat": 46.5,
+      "lon": -84.3,
+      "period": "Odjibwa allegory (Schoolcraft 1856)",
+      "source": {
+        "archive": "Internet Archive (djvu OCR)",
+        "work": "H. R. Schoolcraft, The Myth of Hiawatha, and Other Oral Legends (1856), 'Peboan and Seegwun'",
+        "url": "https://archive.org/details/mythofhiawatha00schorich"
+      },
+      "license": "Public domain (text 1856)",
+      "summary": {
+        "en": "An old man sits desolate by his dying fire on a frozen stream, when a handsome youth with a wreath of sweet grass and a bunch of flowers enters. They pass the pipe and brag: 'I blow my breath, and the streams stand still.' 'I breathe, and flowers spring up all over the plains.' 'I shake my locks, and snow covers the land.' 'I shake my ringlets, and warm showers of soft rain fall upon the earth.' At sunrise the old man's tongue goes silent, the robins sing, the stream murmurs - and daylight reveals Peboan's icy visage: he weeps, grows less and less in stature, and melts completely away, leaving only the miskodeed, the small white flower with a pink border, one of the earliest of northern plants.",
+        "zh": "殘冬的凍溪旁，孤寂老人守著將熄的火；一位額繫香草花環、手捧鮮花的俊美少年走進屋來。二人互遞菸斗，各誇本領：「我一吹氣，溪流便止，堅如明石。」「我一呼氣，遍野花開。」「我一抖白髮，大雪蓋地。」「我一揚鬈髮，暖雨紛落。」日出時分，老人默然，知更鳥高歌，溪水潺潺——晨光顯出佩博安冰封的面容：他流淚、身軀漸縮，終於完全消融，只留下粉邊的白花「密斯科迪」——北方最早開的花之一。"
+      },
+      "motifs": ["transformation", "world-renewal"],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ojibwe seasonal allegory (Schoolcraft 1856); public domain."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "An old man was sitting in his lodge, by the side of a frozen stream. It was the close of winter, and his fire was almost out. He appeared very old and very desolate. His locks were white with age, and he trembled in every joint. One day, as his fire was just dying, a handsome young man approached and entered his dwelling. His cheeks were red with the blood of youth, his eyes sparkled with animation, and a smile played upon his lips. His forehead was bound with a wreath of sweet grass, in place of a warrior's frontlet, and he carried a bunch of flowers in his hand. 'Ah, my son,' said the old man, 'I am happy to see you... Let us pass the night together.'",
+          "note": "Condensed from Schoolcraft 1856, pp. 96-97; not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "He then drew from his sack a curiously-wrought antique pipe, and having filled it with tobacco, rendered mild by an admixture of certain leaves, handed it to his guest. 'I blow my breath,' said the old man, 'and the streams stand still. The water becomes stiff and hard as clear stone.' 'I breathe,' said the young man, 'and flowers spring up all over the plains.' 'I shake my locks,' retorted the old man, 'and snow covers the land... The birds get up from the water, and fly to a distant land... the very ground becomes as hard as flint.' 'I shake my ringlets,' rejoined the young man, 'and warm showers of soft rain fall upon the earth. The plants lift up their heads out of the earth... My voice recalls the birds. The warmth of my breath unlocks the streams. Music fills the groves wherever I walk, and all nature rejoices.'",
+          "note": "Condensed from Schoolcraft 1856, pp. 97-98; not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "At length the sun began to rise. A gentle warmth came over the place. The tongue of the old man became silent. The robin and bluebird began to sing on the top of the lodge. The stream began to murmur by the door, and the fragrance of growing herbs and flowers came softly on the vernal breeze. Daylight fully revealed to the young man the character of his entertainer: when he looked upon him, he had the icy visage of Peboan. Streams began to flow from his eyes. As the sun increased, he grew less and less in stature, and anon had melted completely away. Nothing remained on the place of his lodge fire but the miskodeed, a small white flower, with a pink border, which is one of the earliest species of northern plants.",
+          "note": "Condensed from Schoolcraft 1856, pp. 98-99; not verbatim."
+        }
+      ]
+    },
+    {
+      "id": "woodland-schoolcraft-mondawmin-corn",
+      "title": {
+        "en": "Mon-daw-min: The Origin of Indian Corn",
+        "zh": "蒙達敏：玉米之起源"
+      },
+      "tradition": "woodland",
+      "category": "myth",
+      "region": {
+        "en": "Retired fasting-lodge spot in the Odjibwa country",
+        "zh": "奧吉布瓦之地的僻靜齋戒小屋"
+      },
+      "lat": 46.5,
+      "lon": -84.6,
+      "period": "Odjibwa myth (Schoolcraft 1856)",
+      "source": {
+        "archive": "Internet Archive (djvu OCR)",
+        "work": "H. R. Schoolcraft, The Myth of Hiawatha, and Other Oral Legends (1856), 'Mon-daw-min'",
+        "url": "https://archive.org/details/mythofhiawatha00schorich"
+      },
+      "license": "Public domain (text 1856)",
+      "summary": {
+        "en": "Wunzh, a kind and thoughtful youth of a poor but thankful family, goes into his fasting lodge to dream a benefit for his people: 'Could he not make it easier for us to get our food, than by hunting animals and taking fish?' A celestial visitor in garments of green and yellow comes down from the sky and wrestles with him once, twice, a third time - each day the youth weaker in body, stronger in mind - until the stranger declares himself conquered: strip off my garments, clean the earth, and bury me, and visit my grave to see whether I have come to life, never letting grass or weeds grow on it. From the grave rises a tall graceful plant with bright silken hair, nodding plumes and golden clusters: 'It is my friend... it is the friend of all mankind. It is Mon-dawmin' - and so corn came into the world.",
+        "zh": "貧而感恩之家的溫厚少年翁茲入齋屋，為族人求一夢：「獵獸捕魚之外，神豈不能賜我們更容易的生計？」一位綠黃衣裳的天界訪客自空而降，與他角力三次——少年體愈弱而志愈堅——直至訪客自認落敗：剝去我的衣裳，淨土除根，將我埋於此地；時時探看吾墓，勿令雜草叢生。墓上遂長出高挑秀美的植物，有明亮如絲的鬚髮、搖曳的纓冠與金色的果簇。「是我的朋友……是人類之友。這就是蒙達敏」——玉米由此降世。"
+      },
+      "motifs": ["ritual-origin", "resurrection", "quest-immortality"],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ojibwe corn-origin myth (Schoolcraft 1856); public domain. Cross-tradition parallel: the maize-body of the Maya maize god (maya-popolvuh-maize-people-made)."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Wunzh, the eldest son of a poor but kind and contented Indian, arrived at the proper age to undertake the ceremony of the Ke-ig-uish-im-o-win, or fast, to see what kind of a spirit would be his guide and guardian through life. As soon as the first indications of spring appeared, they built him the customary little lodge at a retired spot, where he commenced his fast. While he rambled through the woods he felt a strong desire to know how the plants, herbs, and berries grew without any aid from man... 'True!' he thought, 'the Great Spirit made all things, and it is to him that we owe our lives. But could he not make it easier for us to get our food, than by hunting animals and taking fish? I must try to find out this in my visions.'",
+          "note": "Condensed from Schoolcraft 1856, pp. 99-100; not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "On the third day he became weak and faint, and fancied, while thus lying, that he saw a handsome young man coming down from the sky, richly and gayly dressed in garments of green and yellow, with a plume of waving feathers on his head. 'I am sent to you, my friend, by that Great Spirit who made all things in the sky and on the earth... I am sent to instruct you, and show you how you can do your kindred good.' He told the young man to arise and prepare to wrestle with him, as it was only by this means that he could hope to succeed in his wishes. Each day the trial was renewed, and the poor youth was very faint in body, but grew stronger in mind at every contest, until the stranger ceased his efforts and declared himself conquered: 'As soon as you have prevailed against me, you will strip off my garments and throw me down, clean the earth of roots and weeds, make it soft, and bury me in the spot... come occasionally to visit the place, to see whether I have come to life, and be careful never to let the grass or weeds grow on my grave.'",
+          "note": "Condensed from Schoolcraft 1856, pp. 101-102; not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "At the usual hour of the day the sky-visitor returned, and the trial of strength was renewed. The youth grasped his angelic antagonist with supernatural strength, threw him down, took from him his beautiful garments and plume, and finding him dead, immediately buried him on the spot. He carefully visited the grave throughout the spring, weeded out the grass, and kept the ground in a soft and pliant state. Very soon he saw the tops of the green plumes coming through the ground. When the summer was drawing towards a close he invited his father to the quiet spot, where in place of the lodge stood a tall and graceful plant, with bright-colored silken hair, surmounted with nodding plumes and stately leaves, and golden clusters on each side. 'It is my friend,' shouted the lad; 'it is the friend of all mankind. It is Mon-dawmin. We need no longer rely on hunting alone; for, as long as this gift is cherished and taken care of, the ground itself will give us a living.' The whole family then united in a feast on the newly-grown ears, expressing gratitude to the Merciful Spirit who gave it. So corn came into the world.",
+          "note": "Condensed from Schoolcraft 1856, pp. 103-104; not verbatim."
+        }
+      ]
+    },
+    {
+      "id": "woodland-schoolcraft-lone-lightning",
+      "title": {
+        "en": "Nezhik-e-wa-wa-sun: The Lone Lightning",
+        "zh": "孤電：內日克瓦瓦孫"
+      },
+      "tradition": "woodland",
+      "category": "myth",
+      "region": {
+        "en": "The northern sky above the Odjibwa forests",
+        "zh": "奧吉布瓦林地上空的北天"
+      },
+      "lat": 46.5,
+      "lon": -84.8,
+      "period": "Odjibwa myth (Schoolcraft 1856)",
+      "source": {
+        "archive": "Internet Archive (djvu OCR)",
+        "work": "H. R. Schoolcraft, The Myth of Hiawatha, and Other Oral Legends (1856), 'Nezhik-e-wa-wa-sun'",
+        "url": "https://archive.org/details/mythofhiawatha00schorich"
+      },
+      "license": "Public domain (text 1856)",
+      "summary": {
+        "en": "A mistreated orphan, fattened by his uncle with the real object of killing him by over-feeding, flees the lodge and sleeps in the forks of a high pine, where an ominous dream brings a being from the upper sky: 'Follow me, and step in my tracks.' Raised into the upper sky, he receives twelve magic arrows and is sent to make war on the cunning manitoes of the northern sky. Eleven arrows fly as long solitary streaks of lightning; the twelfth he aims at the very heart of the chief of the manitoes - who changes himself into a rock, in which the arrow sticks fast. 'Now your gifts are all expended... I will make an example of your audacity' - and he transforms the boy into the Nezhik-e-wa-wa-sun, the Lone Lightning, which may be observed in the northern sky to this day.",
+        "zh": "飽受叔父苛待的孤兒（「餵肥」實為謀殺）逃出帳外，在高松的枝椏間入睡，得凶兆之夢：上空來客喚他「跟著我，踏我的足跡」。升至天界，他得十二支神箭，奉命征討北天狡詐的靈者。前十一箭射出時，天際各現一道孤長的閃電；第十二箭瞄準靈者之首的心口——靈者瞬間化為岩石，箭鏃深陷其中。「你的神箭已盡……我要懲戒你的膽大妄為」——於是將少年化為「孤電」，至今仍見於北天。"
+      },
+      "motifs": ["transformation", "ascension", "storm-thunder", "oracle-divination"],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ojibwe aition (Schoolcraft 1856); public domain."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "A little orphan boy who had no one to care for him was once living with his uncle, who treated him very badly, making him do hard things and giving him very little to eat; so that the boy pined away, and became, through hard usage, very thin and light. At last the uncle felt ashamed of this treatment, and determined to make amends for it by fattening him up, but his real object was to kill him by over-feeding: they were both very assiduous in cramming him, and one day came near choking him to death by forcing the fat down his throat. The boy escaped and fled from the lodge; when night came on he was afraid the wild beasts would eat him, so he climbed up into the forks of a high pine tree, and there he fell asleep in the branches, and had an aupoway, or ominous dream.",
+          "note": "Condensed from Schoolcraft 1856, pp. 105-106; not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "A person appeared to him from the upper sky, and said, 'My poor little lad, I pity you... follow me, and step in my tracks.' Immediately his sleep left him, and he rose up and followed his guide, mounting up higher and higher into the air until he reached the upper sky. Here twelve arrows were put into his hands, and he was told that there were a great many manitoes in the northern sky, against whom he must go to war, and try to waylay and shoot them. Accordingly he went to that part of the sky, and, at long intervals, shot arrow after arrow, until he had expended eleven, in vain attempts to kill the manitoes. At the flight of each arrow, there was a long and solitary streak of lightning in the sky - then all was clear again.",
+          "note": "Condensed from Schoolcraft 1856, p. 106; not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "The twelfth arrow he held a long time in his hands, and looked around keenly on every side to spy the manitoes he was after. But these manitoes were very cunning, and could change their form in a moment; all they feared was the boy's arrows, for these were magic arrows, which had been given to him by a good spirit, and had power to kill them if aimed aright. At length the boy drew up his last arrow, settled in his aim, and let fly, as he thought, into the very heart of the chief of the manitoes; but before the arrow reached him, the manito changed himself into a rock. Into this rock the head of the arrow sank deep and stuck fast. 'Now your gifts are all expended,' cried the enraged manito, 'and I will make an example of your audacity and pride of heart, for lifting your bow against me' - and so saying, he transformed the boy into the Nezhik-e-wa-wa-sun, or Lone Lightning, which may be observed in the northern sky, to this day.",
+          "note": "Condensed from Schoolcraft 1856, p. 106; not verbatim."
+        }
+      ]
+    },
+    {
+      "id": "woodland-schoolcraft-groundhog-family",
+      "title": {
+        "en": "The Ak Uk O Jeesh: The Groundhog Family Deceived",
+        "zh": "土撥鼠一家：被瞞過的冬穴"
+      },
+      "tradition": "woodland",
+      "category": "myth",
+      "region": {
+        "en": "Winter burrow in the far-north Odjibwa country",
+        "zh": "北方奧吉布瓦之地的冬穴"
+      },
+      "lat": 47.2,
+      "lon": -84.6,
+      "period": "An Odjibwa fable (Schoolcraft 1856)",
+      "source": {
+        "archive": "Internet Archive (djvu OCR)",
+        "work": "H. R. Schoolcraft, The Myth of Hiawatha, and Other Oral Legends (1856), 'The Ak Uk O Jeesh'",
+        "url": "https://archive.org/details/mythofhiawatha00schorich"
+      },
+      "license": "Public domain (text 1856)",
+      "summary": {
+        "en": "A mother groundhog burrowing with her numerous young through the long northern winter keeps telling them it hails, snows, blows, and is cold - 'Why should you wish to go out?' - so often, and in such a bad temper, that they at last suspect some deception. One day she comes in after a long absence and falls asleep with her mouth open; the little ones peep slyly and see on her teeth the remains of the nice white bulbous roots of the adder's-tongue violet. They at once know it is spring, and without disturbing the old one - who only wanted to keep them in till they were full grown - they scamper out of the hole, and so the family are all scattered.",
+        "zh": "北方長冬裡，土撥鼠母親與眾多孩子蟄居穴中，日日告訴牠們外面落雹、下雪、風寒：「何必出去？」話語粗暴，次數太多，孩子們終於起疑。一日她久出方歸，張著嘴睡著；小土撥鼠們悄悄偷看，見她牙上還粘著喇叭紫羅蘭那白嫩根莖的殘渣。牠們立刻知道春天已至，不打擾只想把牠們留到長大的老母親，一鬨而散竄出洞穴——一家就此散居林間。"
+      },
+      "motifs": ["trickster", "parable-teaching"],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Odjibwa fable (Schoolcraft 1856); public domain."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "A female aknkojeesh, or groundhog, with a numerous family of young ones, was burrowing in her wauzh, or hole in the ground, one long winter, in the north, when the young ones became impatient for spring. Every day the mother would go out and get roots and other things, which she brought in to them to eat; and she always told them to lie close and keep warm, and never to venture towards the mouth of the wauzh. 'Mother,' said they, 'is it not almost spring?' 'No! no!' said she, in a cross humor, 'keep still and wait patiently; it hails, it snows, it is cold - it is windy. Why should you wish to go out?' This she told them so often, and said it in such a bad temper, that they at last suspected some deception.",
+          "note": "Condensed from Schoolcraft 1856, pp. 107-108; not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "One day she came in, after having been a long while absent, and fell asleep, with her mouth open. The little ones peeped in slily, and saw on her teeth the remains of the nice white bulbous roots of the mo-na-wing, or adder's tongue violet. They at once knew it was spring, and without disturbing the old one, who only wanted to keep them in till they were full grown, away they scampered, out of the hole, and dispersed themselves about the forest, and so the family were all scattered.",
+          "note": "Condensed from Schoolcraft 1856, p. 108; not verbatim."
+        }
+      ]
+    },
+    {
+      "id": "woodland-schoolcraft-opeechee-robin",
+      "title": {
+        "en": "Opeechee: The Origin of the Robin",
+        "zh": "奧皮奇：知更鳥之起源"
+      },
+      "tradition": "woodland",
+      "category": "myth",
+      "region": {
+        "en": "Fasting lodge in the Odjibwa country",
+        "zh": "奧吉布瓦之地的齋屋"
+      },
+      "lat": 46.4,
+      "lon": -84.7,
+      "period": "From the Odjibwa (Schoolcraft 1856)",
+      "source": {
+        "archive": "Internet Archive (djvu OCR)",
+        "work": "H. R. Schoolcraft, The Myth of Hiawatha, and Other Oral Legends (1856), 'Opeechee'",
+        "url": "https://archive.org/details/mythofhiawatha00schorich"
+      },
+      "license": "Public domain (text 1856)",
+      "summary": {
+        "en": "An ambitious father makes his only son fast twelve days for the guardian spirit that will make him surpass all others. On the ninth day the boy asks to break his fast; on the eleventh he repeats the request; the father promises to prepare his first meal himself the next morning - and coming to the lodge door finds his son painted with vermilion over all his breast and back, saying, 'My father has destroyed my fortune as a man... my guardian spirit is a just one; he has shown me pity in another way; he has given me another shape; and now I must go.' With the quickness of a bird the youth flies to the top of the lodge, changed into a beautiful robin redbreast: 'I shall always be the friend of men, and keep near their dwellings... it will be my daily aim to make you amends as a harbinger of peace and joy' - and he carols one of his sweetest songs and flies away into a neighboring grove.",
+        "zh": "野心勃勃的父親命獨子齋戒十二日以求超越眾人的護靈。第九日少年求止齋，第十一日再求；父親允諾翌晨親備頭餐——臨門卻見兒子胸前與肩背皆塗朱砂，自語：「父親毀了我為人的前程……我的護靈是公正的；祂以另一種方式憐憫我，賜我新的形體；我該走了。」少年如鳥般迅捷飛上帳頂，已化作美麗的紅胸知更鳥：「我永遠是人類之友，居於人屋之側……做和平與喜樂的使者，為你補償。」他唱出最甜美的一闕歌，飛入鄰近的樹林。"
+      },
+      "motifs": ["transformation", "miraculous-birth", "parable-teaching"],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ojibwe aition (Schoolcraft 1856); public domain."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "An old man had an only son named Opeechee, who had come to that age which is thought to be most proper to make the long and final fast, that is to secure through life a guardian genius or spirit. The old man was ambitious that his son should surpass all others in whatever was deemed most wise and great among his tribe, and thought it necessary that he should fast a much longer time than any of those persons renowned for their prowess or wisdom. After he had been in the sweating lodge and bath several times, he ordered him to lie down upon a clean mat, in a little lodge expressly prepared for him, telling him to endure his fast like a man, and that at the expiration of twelve days he should receive food and the blessing of his father.",
+          "note": "Condensed from Schoolcraft 1856, pp. 109-110; not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "The lad lay with perfect composure, awaiting those mystic visitations which were to seal his good or evil fortune, until the ninth day, when he addressed his father: 'My father, my dreams forebode evil. May I break my fast now, and at a more propitious time make a new fast?' 'My son, you know not what you ask. If you get up now, all your glory will depart.' He lay till the eleventh day, when he repeated his request; very nearly the same answer was given him, and the boy remained silent, but lay as motionless as a corpse.",
+          "note": "Condensed from Schoolcraft 1856, pp. 110-111; not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "The next morning, the father, elated at having gained his end, prepared a repast for his son and hastened to set it before him. On coming to the door, he was surprised to hear his son talking to himself, and looking through a small aperture beheld his son painted with vermilion over all his breast, and in the act of finishing his work by laying on the paint as far back on his shoulders as he could reach, saying to himself, 'My father has destroyed my fortune as a man. He would not listen to my requests. He will be the loser. I shall be forever happy in my new state, for I have been obedient to my parent... my guardian spirit is a just one; he has shown me pity in another way; he has given me another shape; and now I must go.' At this moment the old man broke in, exclaiming, 'My son! my son! I pray you leave me not.' But the young man, with the quickness of a bird, had flown to the top of the lodge, and perched himself on the highest pole, having been changed into a beautiful robin redbreast.",
+          "note": "Condensed from Schoolcraft 1856, p. 111; not verbatim."
+        },
+        {
+          "id": "4",
+          "text": "He looked down upon his father with pity beaming in his eyes, and addressed him as follows: 'Regret not, my father, the change you behold. I shall be happier in my present state than I could have been as a man. I shall always be the friend of men, and keep near their dwellings... although I could not gratify your wishes as a warrior, it will be my daily aim to make you amends for it as a harbinger of peace and joy. I will cheer you by my songs... I am now free from the cares and pains of human life. My food is spontaneously furnished by the mountains and fields, and my pathway of life is in the bright air.' Then stretching himself on his toes, as if delighted with the gift of wings, he carolled one of his sweetest songs, and flew away into a neighboring grove.",
+          "note": "Condensed from Schoolcraft 1856, pp. 111-112; not verbatim."
+        }
+      ]
+    },
+    {
+      "id": "woodland-schoolcraft-shingebiss",
+      "title": {
+        "en": "Shingebiss: An Allegory of Self-Reliance",
+        "zh": "辛吉比斯：自恃之喻"
+      },
+      "tradition": "woodland",
+      "category": "myth",
+      "region": {
+        "en": "Shores of the deep bay of a lake in the coldest winter",
+        "zh": "隆冬時節大湖深灣之岸"
+      },
+      "lat": 47.0,
+      "lon": -84.4,
+      "period": "From the Odjibwa (Schoolcraft 1856)",
+      "source": {
+        "archive": "Internet Archive (djvu OCR)",
+        "work": "H. R. Schoolcraft, The Myth of Hiawatha, and Other Oral Legends (1856), 'Shingebiss'",
+        "url": "https://archive.org/details/mythofhiawatha00schorich"
+      },
+      "license": "Public domain (text 1856)",
+      "summary": {
+        "en": "Shingebiss, the fall duck, lives alone with four logs - one burning a month each - on the frozen bay, diving through the flag-openings for fish while others starve. Kabebonicca, the Northwest wind, piqued at his defiance, pours out tenfold colder blasts, then visits the lodge at night. Shingebiss, feeling the cold breath, sings on: 'Spirit of the Northwest - you are but my fellow man... Blow you may your coldest breeze, Shingebiss you cannot freeze.' The wind-god's tears freeze and melt as he yields: 'I can neither freeze him nor starve him; he is a very singular being - I will let him alone.'",
+        "zh": "潛鴨辛吉比斯獨居冰凍的湖灣，四根木柴每月燃一根；他鑿穿蘆葦間的冰洞潛水捕魚，在眾人飢餓時豐衣足食。西北風之神卡貝博尼卡妒其不屈，倍增寒風，夜裡來到門前。辛吉比斯覺察寒息，仍然高歌：「西北之靈，你不過與我同為人……任你颳起最冷的風，辛吉比斯不會凍僵。」風神淚水涔涔而退：「我既凍不倒他也餓不倒他；他是奇異之人——由他去吧。」"
+      },
+      "motifs": ["transformation", "parable-teaching", "storm-thunder"],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ojibwe allegory (Schoolcraft 1856); public domain."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "There was once a Shingebiss, the name of the fall duck, living alone in a solitary lodge on the shores of the deep bay of a lake, in the coldest winter weather. The ice had formed on the water, and he had but four logs of wood to keep his fire; each of these would, however, burn a month, and as there were but four cold winter months, they were sufficient to carry him through till spring. Shingebiss was hardy and fearless, and cared for no one. He would go out during the coldest day, seek for places where flags and rushes grew through the ice, and plucking them up with his bill, dive through the openings in quest of fish. In this way he found plenty of food, while others were starving.",
+          "note": "Condensed from Schoolcraft 1856, pp. 113-114; not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Kabebonicca observed him, and felt a little piqued at his perseverance and good luck in defiance of the severest blasts of wind he could send from the northwest. 'Why! this is a wonderful man... I will try whether he cannot be mastered.' He poured forth tenfold colder blasts and drifts of snow; still the fire of Shingebiss did not go out: he wore but a single strip of leather around his body, and he was seen, in the worst weather, searching the shores for rushes, and carrying home fish. 'I shall go and visit him,' said Kabebonicca, and that very night he went to the door of his lodge.",
+          "note": "Condensed from Schoolcraft 1856, pp. 114-115; not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "Meantime Shingebiss had cooked his fish, finished his meal, and was lying partly on his side before the fire, singing his songs. The hunter knew that Kabebonicca was at his door, for he felt his cold and strong breath; but he kept on singing, and affected utter indifference, chanting the words which mean, 'Spirit of the Northwest - you are but my fellow man... Blow you may your coldest breeze, Shingebiss you cannot freeze.' At length Kabebonicca entered and took his seat on the opposite side of the lodge; but Shingebiss did not regard him: he got up as if nobody were present, and taking his poker pushed the log, which made his fire burn brighter, repeating, 'You are but my fellow man.' Very soon the tears began to flow down Kabebonicca's cheeks, which increased so fast that, presently, he said to himself: 'I cannot stand this - I must go out.' He did so, and left Shingebiss to his songs; but resolved to freeze up all the flag orifices and make the ice thick. Still, Shingebiss, by dint of great diligence, found means to pull up new roots, and dive under for fish. At last, Kabebonicca was compelled to give up the contest. 'He must be aided by some Monedo,' said he. 'I can neither freeze him nor starve him; he is a very singular being - I will let him alone.'",
+          "note": "Condensed from Schoolcraft 1856, pp. 115-116; not verbatim."
+        }
+      ]
+    },
+    {
+      "id": "woodland-schoolcraft-star-family",
+      "title": {
+        "en": "The Star Family: The White Hawk and the Twelve Celestial Sisters",
+        "zh": "星族：白鷹與十二天女"
+      },
+      "tradition": "woodland",
+      "category": "myth",
+      "region": {
+        "en": "Magic dance-ring on a wide prairie, and the starry plains above",
+        "zh": "草原上的魔法舞圈，與其上的星域"
+      },
+      "lat": 39.0,
+      "lon": -84.0,
+      "period": "A Shawnee tale collected by Schoolcraft (1856)",
+      "source": {
+        "archive": "Internet Archive (djvu OCR)",
+        "work": "H. R. Schoolcraft, The Myth of Hiawatha, and Other Oral Legends (1856), 'The Star Family; or, the Celestial Sisters'",
+        "url": "https://archive.org/details/mythofhiawatha00schorich"
+      },
+      "license": "Public domain (text 1856)",
+      "summary": {
+        "en": "Waupee the White Hawk finds a bare ring in the prairie with no path to it, and hides: a basket descends bearing twelve celestial sisters who dance the ring, striking a shining ball. He tries beast-shape after beast-shape - opossum, mouse - until as a fleeing mouse he is caught by the youngest sister's upraised stick and clasps his prize. Their son grows anxious to see his birthplace; the Star Chief sends them down to fetch Waupee with a specimen of each kind of bird and animal he kills, and at the starry feast each celestial chooses a foot, wing, tail or claw - becoming beast or bird - while Waupee, his wife and son choose white hawk's feathers and descend to earth as the white hawks that are still to be found.",
+        "zh": "白鷹瓦皮在草原上發現一個無路可達的光環，藏身觀察：一隻吊籃自天而降，載著十二位天女繞環起舞，敲擊發光的圓球。他屢化獸形潛近——負鼠、田鼠——直至化身小鼠被最幼的天女揚棍擊殺之際現出原形，攫得所愛。其子長成後思念出生之地；星酋遣她們下凡，命瓦皮攜每種獵獲的鳥獸各一件前來。星域盛宴上，諸仙各擇一足、一翼、一尾、一爪而化為禽獸；瓦皮夫婦與子擇白鷹之羽，化為白鷹降臨人間——其種至今猶存。"
+      },
+      "motifs": ["star-husband", "transformation", "otherworld-voyage"],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Shawnee star-eloement tale (Schoolcraft 1856); public domain. Direct parallel to the Seneca Seven Star Dancers and the classic world star-maiden cycle."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Waupee, or the White Hawk, lived in a remote part of the forest, where animals and birds were abundant; he was one of the most skilful and celebrated hunters of his tribe. One day he penetrated beyond any point which he had before visited, and beheld a light breaking through the foliage - a wide plain covered with grass and flowers. After walking some time without a path, he suddenly came to a ring worn through the sod, as if it had been made by footsteps following a circle; but there was no path leading to or from it. He hid himself, and lie in wait to see what this circle meant. Presently he heard the faint sounds of music in the air, and saw a small object descending from above, which assumed the form of a basket filled with twelve sisters of the most lovely forms and enchanting beauty. As soon as the basket touched the ground, they leaped out and began to dance round the magic ring, striking, as they did so, a shining ball as we strike the drum.",
+          "note": "Condensed from Schoolcraft 1856, pp. 116-117; not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Waupee admired them all, but was most pleased with the youngest; unable longer to restrain his admiration, he rushed out and endeavored to seize her. But the sisters, with the quickness of birds, leaped back into the basket and were drawn up into the sky. Next day he assumed the form of an opossum; again the wicker car descended, and again they sprang into their car. On the third day he found an old stump in which there were a number of mice, and assumed the small form: the sisters came down and resumed their sport. 'But see,' cried the younger sister, 'that stump was not there before.' They gathered round the stump and struck it in jest, when out ran the mice, and Waupee among the rest; they killed them all but one, which was pursued by the youngest sister - but just as she had raised her stick to kill it, the form of Waupee arose, and he clasped his prize in his arms. The other eleven sprang to their basket and were drawn up to the skies.",
+          "note": "Condensed from Schoolcraft 1856, pp. 117-118; not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "He exerted all his skill to please his bride and win her affections; winter and summer passed rapidly away, and their happiness was increased by the addition of a beautiful boy. She was a daughter of one of the stars, and as the scenes of earth began to pall her sight, she remembered the charm that would carry her up, and took occasion, while Waupee was engaged in the chase, to construct a wicker basket. When all was in readiness she went out to the charmed ring, taking her little son with her; as soon as they got into the car she commenced her song and the basket rose. The song, wafted by the wind, caught her husband's ear; but he could not reach the ring before he saw his wife and child ascend - the basket vanished in the sky, and he was miserable.",
+          "note": "Condensed from Schoolcraft 1856, pp. 118-119; not verbatim."
+        },
+        {
+          "id": "4",
+          "text": "The Star Chief said to his daughter one day, 'Go, my child, and take your son down to his father, and ask him to come up and live with us. But tell him to bring along a specimen of each kind of bird and animal he kills in the chase.' Waupee, who was ever near the enchanted spot, heard her voice as she came down the sky, and they were soon clasped in his arms. He heard the message of the Star, and began to hunt with the greatest activity, preserving only a tail, foot, or wing of each species; and when all was ready, they went to the circle and were carried up. The Star Chief invited all his people to a feast, and proclaimed aloud that each one might take of the earthly gifts such as he liked best. A very strange confusion immediately arose: some chose a foot, some a wing, some a tail, and some a claw; those who selected tails or claws were changed into animals and ran off; the others assumed the form of birds and flew away. Waupee chose a white hawk's feather; his wife and son followed his example, when each one became a white hawk. Pleased with his transformation and new vitality, the chief spread out gracefully his white wings, and followed by his wife and son descended to the earth, where the species are still to be found.",
+          "note": "Condensed from Schoolcraft 1856, pp. 119-121; not verbatim."
+        }
+      ]
+    }
+  ]
+}

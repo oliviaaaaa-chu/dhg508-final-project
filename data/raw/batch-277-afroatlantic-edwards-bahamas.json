@@ -1,0 +1,618 @@
+{
+  "texts": [
+    {
+      "id": "afroatlantic-rabby-corn-field",
+      "title": {
+        "en": "B' Rabby in the Corn-Field",
+        "zh": "兔仔下玉米田"
+      },
+      "tradition": "afroatlantic",
+      "category": "myth-religion",
+      "region": {
+        "en": "Andros and Green Turtle Cay, Bahamas (symbolic pin: Nassau)",
+        "zh": "巴哈馬安德羅斯與綠龜礁（象徵定位：拿騷）"
+      },
+      "lat": 25.04,
+      "lon": -77.35,
+      "period": "Bahamian oral tradition; collected 1889-1893; published 1895",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Charles L. Edwards, 'Bahama Songs and Stories', Memoirs of the American Folk-Lore Society vol. III (1895), story I 'B' Rabby in de Corn-Field'",
+        "url": "https://archive.org/download/bahamasongsands00edwagoog/bahamasongsands00edwagoog_djvu.txt"
+      },
+      "license": "Public domain (published 1895)",
+      "summary": {
+        "en": "The Bahamian rabbit-hero reuses the Anansi letter-trick: fed on forged orders until the father catches on, he is bound, caged over six pots of boiling water — and talks his way out by presenting the execution as a royal wedding feast of boiled cow-heads, which Tiger demands to attend in his place, getting scalded instead. Escaping into a hollow pison-wood tree, Rabbit goads the scalded pursuer with a sharp stick and the feared 'hants', then escapes inside a rotten dead goat, whose corpse he blames for its own ruin with an accusing finger that no one dares point again.",
+        "zh": "巴哈馬兔英雄沿用蜘蛛人的偽信計：飽食至東窗事發，被縛入籠、懸於六鍋滾水之上——卻把死刑說成王女婚宴的牛頭大菜，騙老虎替他受刑。逃入毒木空心，以利刺與『鬼怪』之名戲弄燙傷的追兵；最後鑽入腐爛死山羊腹中，把自家敗露歸罪於一根『指人爛背』的手指——自此無人再敢亂指。"
+      },
+      "motifs": [
+        "trickster",
+        "taboo-transgression",
+        "water-ordeal"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Bahamian 'old story' (Rabby cycle, cousin of Anansi and Brer Rabbit); collected by Edwards 1889-1893 from named child tellers on Andros and Green Turtle Cay."
+      },
+      "persons": [
+        "anansi",
+        "rabbit"
+      ],
+      "passages": [
+        {
+          "id": "1",
+          "text": "So this day it was a man who had a big field of peas, corn and potatoes. The man did not use to go in the field — he sent his boy. This day B' Rabby came where the boy was and said, 'Boy, your pa says give me some peas, corn and potatoes,' and was let eat as much as he wanted. The next day he came back again with the same word; when the boy went home and asked, the man said he had not seen B' Rabby, and told the boy the next time Rabby came he must tie him and let him eat all he liked — but must not let him go.",
+          "note": "Paraphrase of Edwards, Bahama Songs and Stories, story I (1895); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "The next day B' Rabby came with his order; the boy said, 'Let me tie you up first,' and Rabby agreed — all right, but when he was done eating he must be let go. When he was done eating and asked to be let go, the boy said no, and called his pa: 'Come, pa, got him today!' They caught B' Rabby, brought him up, put him in the iron cage; and they had six big pots of hot water standing by. B' Tiger came past and asked what was the matter. 'They got me in here to marry the Queen's daughter, and I don't want to marry her. See them six pots? They got them full of cow-heads for my wedding.'",
+          "note": "Paraphrase of Edwards, story I, middle (1895); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "B' Tiger said, 'Put me up! Take me up!' B' Rabby jumped up and fastened Tiger in. Rabby got away into a hollow pison-wood tree. The boy came out and said, 'Pa, there is a big one here!' The man came out with a big pot full of boiling water and swashed it on B' Tiger, who hollered 'It ain't me!' — 'Don't care if it ain't you, I going scald you.' Tiger gave one jump, knocked the cage all to pieces, and was gone; he came to the pison-wood tree where Rabby was, sat down right on the stump — and Rabby shoved a sharp, sharp stick right into him. 'My goody — hants here!' said Tiger. Rabby shoved the stick out and stuck him again: 'No, this ain't hants; B' Rabby here.' Tiger looked down in the hole and saw him — 'Never mind, you cause me to get scalded; I going catch you!' — but Rabby begged to be let out and got away.",
+          "note": "Paraphrase of Edwards, story I, ending (1895); not verbatim."
+        },
+        {
+          "id": "4",
+          "text": "B' Rabby saw a dead goat in the road, stinking and rotten, its back rotting away; he got inside the dead goat. B' Tiger was coming fast, and Rabby groaned 'Huhn! huhn!' inside the goat. 'What is the matter, B' Goat?' — 'B' Rabby went past here just now; pointed his finger at me and all my back is rotting away.' B' Rabby went out of the dead goat. After that B' Rabby was fishing, with his finger bent; 'Mind, I going point!' — 'Do, B' Rabby, doan' point!' said Tiger, and so it was settled: no one dares point at another after that.",
+          "note": "Paraphrase of Edwards, story I, tail (1895); not verbatim."
+        }
+      ]
+    },
+    {
+      "id": "afroatlantic-elephant-whale-tug",
+      "title": {
+        "en": "B' Helephant and B' Vw'ale: the Rope Between Sea and Land",
+        "zh": "象與鯨：海陸之間的繩索"
+      },
+      "tradition": "afroatlantic",
+      "category": "myth-religion",
+      "region": {
+        "en": "Andros, Bahamas (symbolic pin: shore line between pine-yard and ocean)",
+        "zh": "巴哈馬安德羅斯（象徵定位：松林與大洋之間的海岸線）"
+      },
+      "lat": 24.7,
+      "lon": -77.9,
+      "period": "Bahamian oral tradition; collected 1889-1893; published 1895",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Charles L. Edwards, 'Bahama Songs and Stories' (1895), story II 'B' Helephant and B' Vw'ale'",
+        "url": "https://archive.org/download/bahamasongsands00edwagoog/bahamasongsands00edwagoog_djvu.txt"
+      },
+      "license": "Public domain (published 1895)",
+      "summary": {
+        "en": "The smallest creature on the beach bets the whale he can pull him ashore, and the elephant he can pull him to sea — then ties one rope around each neck with the instruction to pull when told, so that the two giants haul each other through surf and breakers until the rope breaks: the whale stays in the ocean, the elephant flees inland to the pine-yard, and the contest between sea and land is settled to this day.",
+        "zh": "海灘上最小的生靈向鯨打賭能把他拉上岸，又向象打賭能把他拖入海——然後在兩位巨獸頸上各繫一繩，一聲令下各自使勁：兩位巨人在浪濤裡互拖不休，直到繩斷——鯨從此定居深海，象逃入內陸松林；海與陸之爭，就此定了界。"
+      },
+      "motifs": [
+        "trickster",
+        "culture-hero",
+        "world-renewal"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Bahamian 'old story'; tug-of-war type linking sea/land powers. Edwards notes the tale's kinship with Harris's Brer Rabbit versions."
+      },
+      "persons": [
+        "anansi",
+        "rabbit"
+      ],
+      "passages": [
+        {
+          "id": "1",
+          "text": "Now this day B' Rabby was walking along the shore. He saw B' Vw'ale and said, 'B' Vw'ale! I bet I could pull you on the shore!' — 'You can't!' — 'I bet you three thousand dollars!' — 'All right!' And Rabby went away. He met B' Helephant and said, 'B' Helephant, I bet you I could pull you in the sea!' — 'Me! There is not a man in the world can pull me in the sea!' — 'I'll try it tomorrow at twelve o'clock.'",
+          "note": "Paraphrase of Edwards, Bahama Songs and Stories, story II (1895); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "He got a heap of rope. He tied one rope around B' Vw'ale's neck, and then one around B' Helephant's neck, and said, 'When you hear me say Set taut, you must set taut.' He said, 'Pull away!' When the Whale pulled, he pulled the Elephant into the surf of the sea — 'You think this little B' Rabby doing all of that!' When the Elephant pulled taut, he pulled the Vw'ale into the surf of the sea. The Vw'ale caught under one shelf of the rock, and the Helephant caught to one big tree; then the two of them pulled so heavy the rope broke.",
+          "note": "Paraphrase of Edwards, story II, middle (1895); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "The Vw'ale went into the ocean and the Helephant went away over in the pine-yard. That is why you see the Whale in the ocean today, and that is why you see the Elephant over in the pine bushes today — the rope between them never mended, and the shore keeps the line. E bo ban, my story's end.",
+          "note": "Paraphrase of Edwards, story II, ending (1895); not verbatim."
+        }
+      ]
+    },
+    {
+      "id": "afroatlantic-rabby-spider-bouki",
+      "title": {
+        "en": "B' Rabby, B' Spider and B' Bouki: the Banana Dive",
+        "zh": "兔仔、蜘蛛與布基：潛水分蕉"
+      },
+      "tradition": "afroatlantic",
+      "category": "myth-religion",
+      "region": {
+        "en": "Andros, Bahamas",
+        "zh": "巴哈馬安德羅斯"
+      },
+      "lat": 24.7,
+      "lon": -77.9,
+      "period": "Bahamian oral tradition; collected 1889-1893; published 1895",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Charles L. Edwards, 'Bahama Songs and Stories' (1895), story III 'B' Rabby, B' Spider, an' B' Bouki'",
+        "url": "https://archive.org/download/bahamasongsands00edwagoog/bahamasongsands00edwagoog_djvu.txt"
+      },
+      "license": "Public domain (published 1895)",
+      "summary": {
+        "en": "Coming home by boat with a bunch of bananas, the three agree the best diver keeps the most. Bouki and Rabby bring up four, two, six — but Spider floats, then demands the grapple-rope be tied to him so he can 'go down and get all'; he catches hold of them all on the bottom and cannot come up again, Rabby cuts the rope, and the judge blames the spider's own greed when his mother tries to jail the divers.",
+        "zh": "三人泛舟攜蕉而歸，約定潛得最深者得最多。兔與布基依次撈起四根、兩根、六根——蜘蛛卻一入水便漂浮，只得哀求把錨繩縛在自己身上『好一次撈光』；他在水底抱住所有香蕉，再也浮不上來。兔一刀割繩；法官斷言：蛛死於己貪，罪不在潛者。"
+      },
+      "motifs": [
+        "trickster",
+        "taboo-transgression",
+        "spider-trickster"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Bahamian 'old story'; spider's death by greed episode (note: in this tradition the spider-hero dies in the tale cycle, unlike the African Anansi). Collected by Edwards."
+      },
+      "persons": [
+        "anansi",
+        "rabbit"
+      ],
+      "passages": [
+        {
+          "id": "1",
+          "text": "B' Rabby, B' Spider and B' Bouki went in the field. As evening was coming they were coming home in the boat, and they had one bunch of bananas to share, and they did not know how to share it. B' Spider said to B' Rabby, 'Throw the bunch of bananas overboard, and then whoever could dive the mostest could have the mostest.'",
+          "note": "Paraphrase of Edwards, story III (1895); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "They pulled off their clothes. B' Rabby had the first dive: down to the bottom he brought up four bananas. B' Bouki went down and brought up two. B' Spider, when he pitched overboard, floated. Rabby pitched overboard again and brought up six; Bouki brought up four; Spider pitched overboard again — and floated. 'You no tie the grapple to me and let me go down and get all!' — and he went down, caught hold of them all, and could not come up no more.",
+          "note": "Paraphrase of Edwards, story III, middle (1895); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "B' Rabby took his knife and cut away the rope, and they went home. When they were asked 'Where is B' Spider?' Rabby said, 'B' Spider had such a big eye; he wanted all the bananas and he couldn't dive. He did say, You no tie this grapple to me and let me get all.' Spider's mother said, 'If you don't go fetch him I put you in prison,' and they said they were not going; the woman carried them to prison, and B' Rabby put the woman in jail — and the judge said he could not put B' Rabby in prison for that, because it was B' Spider's fault.",
+          "note": "Paraphrase of Edwards, story III, ending (1895); not verbatim."
+        }
+      ]
+    },
+    {
+      "id": "afroatlantic-man-rat-tigercat",
+      "title": {
+        "en": "B' Man, B' Rat and B' Tiger-Cat",
+        "zh": "人、鼠與虎貓"
+      },
+      "tradition": "afroatlantic",
+      "category": "myth-religion",
+      "region": {
+        "en": "Andros, Bahamas",
+        "zh": "巴哈馬安德羅斯"
+      },
+      "lat": 24.7,
+      "lon": -77.9,
+      "period": "Bahamian oral tradition; collected 1889-1893; published 1895",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Charles L. Edwards, 'Bahama Songs and Stories' (1895), story IV 'B' Man, B' Rat, an' B' Tiger-Cat'",
+        "url": "https://archive.org/download/bahamasongsands00edwagoog/bahamasongsands00edwagoog_djvu.txt"
+      },
+      "license": "Public domain (published 1895)",
+      "summary": {
+        "en": "A rat spared from the trap repays the mercy from the road: cornered by the old tiger-cat whose three cubs he is carrying off, the hunter is coached into a suicide-chain — give the pigeons to the dog, eat the dog, let the cat eat you, let me eat the cat — and while the cat is studying the nonsense, the man's hand finds the gun and the shot answers. 'One good turn deserves another.'",
+        "zh": "鼠自陷阱得赦， Road 邊報恩：獵人攜三隻虎貓幼崽被老母貓攔路索命，被救的鼠獻上自相殘食的連環計——鴿喂狗、你吃狗、貓吃你、我吃貓——虎貓正自思量胡言，獵人的手已摸到槍，一槍定局。『一報還一報。』"
+      },
+      "motifs": [
+        "trickster",
+        "boon-curse"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Gratitude-chain animal tale (grateful animal type). Collected by Edwards."
+      },
+      "persons": [
+        "anansi",
+        "rabbit"
+      ],
+      "passages": [
+        {
+          "id": "1",
+          "text": "Every time the rat used to go in the man's field eating his peas, potatoes and his corn; so now this day the man caught the rat and had him in the cage to kill him. The rat said, 'Do, B' Man, spare my life, I'll never come back any more!' — 'All right!' And he let the rat go; the rat went away over in the wood and never came back any more.",
+          "note": "Paraphrase of Edwards, story IV (1895); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "This day the man went shooting pigeons, away over in the woods, and shot a big bunch; going back he saw three young tiger-cats and took all three. As soon as he made one step the old tiger-cat came after him growling: 'It is no good to put down my young ones, so you might as well keep them.' The tiger-cat was up in one tree ready to pitch on the man: 'You let the dog heat the pigeons; you heat the dog, and let me heat you.' — 'Talk fast, B' Man, talk fast!'",
+          "note": "Paraphrase of Edwards, story IV, middle (1895); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "Then that same rat that the man let go jumped out of the road: 'Yes, B' Man, do that — give the pigeons to the dog, you heat the dog, and let B' Tiger-cat heat you, and let me heat B' Tiger-cat!' The tiger-cat stood up studying what the rat said, and while it studied, the man went toward his gun, picked it up, fired, and shot B' Tiger-cat dead. Then B' Rat jumped up and said, 'One good turn deserves another! One good turn deserves another! One good turn deserves another!'",
+          "note": "Paraphrase of Edwards, story IV, ending (1895); not verbatim."
+        }
+      ]
+    },
+    {
+      "id": "afroatlantic-bouki-rabby-lion",
+      "title": {
+        "en": "B' Bouki and B' Rabby: the Sheep That Walked Like a Lion",
+        "zh": "布基與兔仔：走如獅的羊"
+      },
+      "tradition": "afroatlantic",
+      "category": "myth-religion",
+      "region": {
+        "en": "Andros, Bahamas",
+        "zh": "巴哈馬安德羅斯"
+      },
+      "lat": 24.7,
+      "lon": -77.9,
+      "period": "Bahamian oral tradition; collected 1889-1893; published 1895",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Charles L. Edwards, 'Bahama Songs and Stories' (1895), story V 'B' Bouki an' B' Rabby'",
+        "url": "https://archive.org/download/bahamasongsands00edwagoog/bahamasongsands00edwagoog_djvu.txt"
+      },
+      "license": "Public domain (published 1895)",
+      "summary": {
+        "en": "Raiding the Queen's pasture nightly, Rabby lifts the 'biggest sheep' — actually the lion posted at the flock's head — and palms it off on Bouki with an errand to the wood. Bouki discovers the beast walks like a lion, sings the warning, and gets his whole family onto the roof before the lion walks in through the door; child after child drops and is torn, until the husband, pointing silently down, loses his wife too, and survives the night alone on the roof because a lion cannot jump.",
+        "zh": "兔仔夜襲王后牧場，抱起『最大的一隻羊』——實為守在羊群之首的獅子——以林中差事轉手布基。布基半路察覺『這東西走路像獅』，唱警全家上屋頂；獅穿門而入仰望屋頂，孩子們一個個撐不住墜下被撕，最後丈夫無言一指，妻子也墜；獅不能跳，他得以獨存屋頂至天明。"
+      },
+      "motifs": [
+        "trickster",
+        "taboo-transgression"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Dark trickster-transfer tale (Innocent wolf/hyena victim type, cf. Anansi-Tiger transfers in Jamaica). Collected by Edwards."
+      },
+      "persons": [
+        "anansi",
+        "rabbit"
+      ],
+      "passages": [
+        {
+          "id": "1",
+          "text": "It was B' Rabby; he used to go to the Queen's pasture every night and take the biggest sheep from the flock. So this night when he went, the Queen's servant had put a lion at the head of all the other sheep. B' Rabby was taking that to be a sheep, and carried him a little way in the road and said, 'Look here, this thing don't walk like sheep — this thing walks like lion!' And he called out for B' Bouki: 'B' Bouki, here, take this sheep. I got to go up there in the wood for the other one I got tied in the fence!'",
+          "note": "Paraphrase of Edwards, story V (1895); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "When B' Bouki got a little way he sang out, 'This thing don't walk like sheep — this thing walks like lion!' He hollered out to his wife and children, telling them all to get up on the roof of the house: 'The lion coming to tear you to pieces!' And when the lion got to the house, he walked in through the door and looked up at them all on the roof.",
+          "note": "Paraphrase of Edwards, story V, middle (1895); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "The smallest child said, 'Father and mother, I know you love me, but I can't hold out no longer!' — 'See lion here!' — and when the child dropped the lion tore her to pieces. The next one said, 'Father and mother, I know you love me, but my arms is tired!' — and when he dropped the lion tore him to pieces. The biggest one said the same and dropped and was torn to pieces. His wife said, 'I know you love me, and I love you too!' — the husband was so pitiful he could not talk, and just pointed his finger down to the lion, and his wife dropped. After he saw all of them were gone, he went up through the roof of the house and stayed there until the morning, and that is how he was saved: B' Lion couldn't jump, and he went away.",
+          "note": "Paraphrase of Edwards, story V, ending (1895); not verbatim."
+        }
+      ]
+    },
+    {
+      "id": "afroatlantic-shark-ferryman",
+      "title": {
+        "en": "B' Baracouti and B' Man: the Shark Ferryman",
+        "zh": "梭魚與人：鯊魚渡夫"
+      },
+      "tradition": "afroatlantic",
+      "category": "myth-religion",
+      "region": {
+        "en": "Andros, Bahamas (symbolic pin: shore crossing to the out-island field)",
+        "zh": "巴哈馬安德羅斯（象徵定位：往離島田地的渡口）"
+      },
+      "lat": 24.7,
+      "lon": -77.9,
+      "period": "Bahamian oral tradition; collected 1889-1893; published 2024 (published 1895)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Charles L. Edwards, 'Bahama Songs and Stories' (1895), story VI 'B' Baracouti an' B' Man'",
+        "url": "https://archive.org/download/bahamasongsands00edwagoog/bahamasongsands00edwagoog_djvu.txt"
+      },
+      "license": "Public domain (published 1895)",
+      "summary": {
+        "en": "A field-worker rides the shark across to his plot four times, cutting him deeply each 'payment', until the shark waits at dusk for the return trip and holds a consultation undersea — Corb says cut him in two, Porpy says leave it to God, Baracouti says cut him to hell, and Rabby, drawing the shark inshore step by step with pretended deafness, advises the man jump ashore — and the shark commences to cry.",
+        "zh": "農人四次騎鯊渡海墾田，每次以『報酬』為名深割一刀；鯊忍至黃昏，遂在海底召開會審——石斑主張攔腰斬斷，鼠海豚勸其交由上天，梭魚主張斬入地獄；兔仔則以假裝耳背把鯊一步步引近岸石，末了勸那人：『跳上岸去！』——鯊魚哭了。"
+      },
+      "motifs": [
+        "trickster",
+        "boon-curse",
+        "otherworld-voyage",
+        "ferryman-dead"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ingratitude/underwater-counsel tale. Collected by Edwards."
+      },
+      "persons": [
+        "anansi",
+        "rabbit"
+      ],
+      "passages": [
+        {
+          "id": "1",
+          "text": "Once it was a man who had a field upon a different part of the shore. This day he wanted to go to his field; he met a shark and said, 'Please carry me across to my field!' — 'All right!' and the shark carried him across; when he got across he gave the shark a good cut. Coming out again from his field he met the shark again and begged one more crossing, and gave him a heavy cut again; the third day the same, with the promise of a fortune, and such a cut that the shark had to lay awake till he came out again.",
+          "note": "Paraphrase of Edwards, story VI (1895/2024); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "The sun was nearly down when the man came out and asked to be carried across again, promising to pay when he got across. The shark said, 'Get on my back.' The first fish the shark met was a Corb — 'B' Corb, you do man good and man do you harm; what must you do for him?' — 'Cut him in two!' Next was a Porpy — 'Leave it to God!' Next a Baracouti — 'Cut him to hell!'",
+          "note": "Paraphrase of Edwards, story VI, middle (1895); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "The shark saw B' Rabby on the rocks: 'B' Rabby, you do man good and man do you harm — what must you do for him?' — 'Come in a little further; I ain't hear you!' — and the shark came in, and again, and again — 'I can't come no further else I get ashore!' — 'Why, let him jump ashore!' Before the shark could turn round to go with him, the man jumped ashore, and the shark commenced to cry. E bo ban, my story's end.",
+          "note": "Paraphrase of Edwards, story VI, ending (1895); not verbatim."
+        }
+      ]
+    },
+    {
+      "id": "afroatlantic-loggerhead-conch",
+      "title": {
+        "en": "The Loggerhead and the Conch",
+        "zh": "海龜與螺"
+      },
+      "tradition": "afroatlantic",
+      "category": "myth-religion",
+      "region": {
+        "en": "Andros, Bahamas",
+        "zh": "巴哈馬安德羅斯"
+      },
+      "lat": 24.7,
+      "lon": -77.9,
+      "period": "Bahamian oral tradition; collected 1889-1893; published 1895",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Charles L. Edwards, 'Bahama Songs and Stories' (1895), story VII 'B' Loggerhead and B' Conch'",
+        "url": "https://archive.org/download/bahamasongsands00edwagoog/bahamasongsands00edwagoog_djvu.txt"
+      },
+      "license": "Public domain (published 1895)",
+      "summary": {
+        "en": "Racing for the King's daughter, the walking-beaten conch hires a stand of fellow conchs at every stake; the loggerhead greets each 'same' conch, stands talking while the racer slips ahead, and arrives at the palace to find the conch already there, married. The loggerhead took the sea for his dwelling place from that day.",
+        "zh": "為娶公主而賽跑，步行必敗的螺在各處標樁僱下同族列隊；海龜每到一站便與『同一隻』螺寒暄，言談間真賽者早已前行——抵達王宮，螺已先至成婚。海龜自那天起便以海為家。"
+      },
+      "motifs": [
+        "trickster",
+        "sibling-creators"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Hare-and-tortoise race variant (Edwards notes Aesop kinship). Collected by Edwards."
+      },
+      "persons": [
+        "anansi",
+        "rabbit"
+      ],
+      "passages": [
+        {
+          "id": "1",
+          "text": "They wanted the King's daughter. The King told the two to have a race — the one that beat the race was to have his daughter — and asked what sort of race they must have; he wanted to see who could walk the fastest out of two: the loggerhead and the conch. The conch knew the loggerhead could beat him walking, so the conch went and hired brother conchs and put them at the mark's stake, then went down to the river where the loggerhead was and told him he was all ready for the race.",
+          "note": "Paraphrase of Edwards, story VII (1895); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "They started off together. The first mark the loggerhead got to he met a conch there, taking it to be the one he had started off to race with, but standing talking; the one that went to race went ahead of the loggerhead. The loggerhead started from the place where the conch was, expecting it was the same conch; when he got to the next pole he met a conch again, still thinking it was the same conch. Standing there they small-talked, and whilst talking, the conch that had hired the other conchs had a chance to chat with him, then the conch had a chance to go his way.",
+          "note": "Paraphrase of Edwards, story VII, middle (1895); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "When the loggerhead got to the King's palace, he met the conch ahead of him. The conch had beaten the race and got the King's daughter; and after that the loggerhead said he would take the sea for his dwelling place. E bo ban, my story's end.",
+          "note": "Paraphrase of Edwards, story VII, ending (1895); not verbatim."
+        }
+      ]
+    },
+    {
+      "id": "afroatlantic-crane-crow-snake",
+      "title": {
+        "en": "Why the Eagle Lives North",
+        "zh": "鷹何以北棲"
+      },
+      "tradition": "afroatlantic",
+      "category": "myth-religion",
+      "region": {
+        "en": "Green Turtle Cay, Bahamas (symbolic pin: cay shoreline)",
+        "zh": "巴哈馬綠龜礁（象徵定位：礁岸線）"
+      },
+      "lat": 26.7,
+      "lon": -77.32,
+      "period": "Bahamian oral tradition; collected 1889-1893; published 1895",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Charles L. Edwards, 'Bahama Songs and Stories' (1895), story VIII 'B' Crane-Crow, B' Parrot, an' B' Snake'",
+        "url": "https://archive.org/download/bahamasongsands00edwagoog/bahamasongsands00edwagoog_djvu.txt"
+      },
+      "license": "Public domain (published 1895)",
+      "summary": {
+        "en": "A snake plagues the eagle's nesting tree until the babysitters — Crane-Crow and Parrot — call her down at the right moment and she kills it; but it has already eaten her young ones, and the bereaved mother departs north forever, to live on the northern side by Baltimore — which is why the eagle lives over there today and will not come to this side.",
+        "zh": "毒蛇日日擾鷹巢，直到守巢的鶴鴉與鸚鵡及時呼喚鷹下樹誅蛇；但幼雛已被吃盡，喪子的母鷹永遠北去，棲於大海彼端的巴爾的摩一側——所以今日鷹在那邊居住，再不肯回到這一邊。"
+      },
+      "motifs": [
+        "sacred-place",
+        "taboo-transgression",
+        "plague-sent"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Etiological bird tale with local geography (Green Turtle Cay tells of Baltimore). Collected by Edwards."
+      },
+      "persons": [
+        "anansi",
+        "rabbit"
+      ],
+      "passages": [
+        {
+          "id": "1",
+          "text": "It was an eagle laying in a tree; after she had young ones, a snake used to plague the tree. Afterwards the eagle left B' Crane-Crow and B' Parrot to watch the young ones when the snake came to call; so when the snake came they called the eagle — 'Ma hoo eagle! The snake is coming!' — and she came, and killed the snake.",
+          "note": "Paraphrase of Edwards, story VIII (1895); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "She said, 'After he ate my young ones — therefore I'll go north, I'll live there all my life on the northern part, by Baltimore. No more to say: the snake had eaten my young ones.' That makes, so you see, the eagle live over there today; they won't come this side. E bo ban, my story's end.",
+          "note": "Paraphrase of Edwards, story VIII, ending (1895); not verbatim."
+        }
+      ]
+    },
+    {
+      "id": "afroatlantic-cricket-elephant",
+      "title": {
+        "en": "B' Cricket and B' Helephant",
+        "zh": "蟋蟀與象"
+      },
+      "tradition": "afroatlantic",
+      "category": "myth-religion",
+      "region": {
+        "en": "Andros, Bahamas",
+        "zh": "巴哈馬安德羅斯"
+      },
+      "lat": 24.7,
+      "lon": -77.9,
+      "period": "Bahamian oral tradition; collected 1889-1893; published 1895",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Charles L. Edwards, 'Bahama Songs and Stories' (1895), story IX 'B' Cricket and B' Helephant'",
+        "url": "https://archive.org/download/bahamasongsands00edwagoog/bahamasongsands00edwagoog_djvu.txt"
+      },
+      "license": "Public domain (published 1895)",
+      "summary": {
+        "en": "Challenged by the elephant — 'I bet I can mash you up' — the cricket answers that little man can make big man run, then proves it from inside the ear: the elephant bolts at the singing, every footfall a river, and Lion, boastful of strength, has his turn next; the cricket hops from ear to ear until Jack on the hill inherits the singing, the elephant drops dead of quivering, and a puff of wind ends the story.",
+        "zh": "象誇口『我定把你踏成泥』；蟋蟀答『小者可令大者奔逃』，隨即鑽入象耳歌唱為證——象倉皇奔逃，步步如臨深河；自詡最強的獅子輪番受唱，蟋蟀在耳間跳來跳去；山坡上的傑克最後繼承了那支歌，象嚇得發抖倒斃，一陣風把故事吹散。"
+      },
+      "motifs": [
+        "trickster",
+        "culture-hero"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Small-defeats-big cycle (cf. man-is-stronger cluster). Collected by Edwards."
+      },
+      "persons": [
+        "anansi",
+        "rabbit"
+      ],
+      "passages": [
+        {
+          "id": "1",
+          "text": "It was a palm-oil tree where they used to go to feed. Every time B' Helephant used to go there he met B' Cricket: 'B' Cricket, I bet I can mash you up some of these days.' — 'B' Helephant, you can't mash me up, for it doesn't stand for the bigness of man: little man could make big man run.' — 'Go away, B' Cricket!'",
+          "note": "Paraphrase of Edwards, story IX (1895); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "This day when B' Helephant came to the tree B' Cricket was there, and the elephant did not see him. He went into B' Helephant's ear-hole and got to singing, and B' Helephant put off running; everywhere he put his foot it was river. So he met B' Lion: 'B' Lion, man is more than me today; I am about the biggest beast in the forest and you are about the strongest, and still, if you were to hear what I heard today, it would make you run.' — 'Let him come, I'm a man for anything,' that was the word B' Lion said; and the cricket jumped out of the elephant's ear-hole and went into the Lion's ear-hole, and when the cricket sang out in the Lion's ear-hole, he and B' Helephant started together. The Lion tore up by the root a some iron-wood tree six times as big as a house.",
+          "note": "Paraphrase of Edwards, story IX, middle (1895); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "When they got there they met B' Jack standing on the hill: 'What you no running here about?' — 'B' Jack, man here today more than you and me and you two together!' — 'I'm the man to heat you and the man too!' So B' Cricket jumped out of the lion's ear-hole and went into B' Jack's own to tell him the bargain B' Helephant and he had under the palm-oil tree; so B' Helephant quivered so much he dropped down dead. 'My dear man, that was the harge (charge) what you and B' Cricket had.' — 'I tell you about a little man every day' — so a puff of wind came and ended this story. E bo ban, my story's end.",
+          "note": "Paraphrase of Edwards, story IX, ending (1895); not verbatim."
+        }
+      ]
+    },
+    {
+      "id": "afroatlantic-big-worrum",
+      "title": {
+        "en": "De Big Worrum: the Fire-Swallowing Worm",
+        "zh": "大蟲：吞火之蟲"
+      },
+      "tradition": "afroatlantic",
+      "category": "myth-religion",
+      "region": {
+        "en": "Andros, Bahamas",
+        "zh": "巴哈馬安德羅斯"
+      },
+      "lat": 24.7,
+      "lon": -77.9,
+      "period": "Bahamian oral tradition; collected 1889-1893; published 1895",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Charles L. Edwards, 'Bahama Songs and Stories' (1895), story XI 'De Big Worrum' (Edwards notes African antecedents: Sotho, Kaffir)",
+        "url": "https://archive.org/download/bahamasongsands00edwagoog/bahamasongsands00edwagoog_djvu.txt"
+      },
+      "license": "Public domain (published 1895)",
+      "summary": {
+        "en": "No fire in the house means raw potatoes, so the father sends one son and then the other to the smoke on the hill; each begs 'Dimme some fire!', is lured closer, and is swallowed down to meet the crowds of earlier swallowees inside. The father takes his gleaming lance to the worm with fire in its mouth, is swallowed slashing as he goes, cuts the worm right open — and all the people come out, and that was a big city right there.",
+        "zh": "家無火只能生食；父親先後遣二子循山間炊煙討火，皆在『再近一點』的誘哄中被大蟲吞下，與先前被吞的眾人相會於腹中。父親提亮晃晃的長矛前往，邊被吞邊揮砍，將大蟲豁然剖開——腹中之人盡出，原地便成了一座大城。"
+      },
+      "motifs": [
+        "cannibal-giant",
+        "descent-underworld",
+        "fire-theft",
+        "dismembered-giant"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Swallowing-monster tale of African descent (Edwards cites Sotho and Kaffir variants). Cross-tradition cluster: descent to the underworld, fire quest."
+      },
+      "persons": [
+        "anansi",
+        "rabbit"
+      ],
+      "passages": [
+        {
+          "id": "1",
+          "text": "So this day it was a man who had two sons, and they didn't have no fire; all they had to heat was raw potatoes. Now the man sent this boy to look for fire. He walked, and walked, and walked till he saw one smoke; when he got to the fire, the worrum was full of fire. The boy said, 'Dimme some fire!' — 'It is none; just do for me. Come in a little closer.' Soon as the boy went a little closer, when he went to reach the fire the worrum swallowed him down; the boy went down, right down inside the worrum till he stopped, and met a whole lot of people the worrum had swallowed.",
+          "note": "Paraphrase of Edwards, story XI (1895); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "The man told the other son, 'I wonder where my son is gone?' — 'Pa, I going look for him.' He walked till he came to this big worrum that had the fire in his mouth. 'Dimme some fire!' — 'Keelie o' fire' (come and get fire) — 'Come a little closer.' — 'Time for Joe come' (time to go home) — and when the boy went to get the fire, the worrum swallowed him down; he went down till he met his brother.",
+          "note": "Paraphrase of Edwards, story XI, middle (1895); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "Now the man said, 'My two sons are gone, and I might as well go too.' He took his lance; it fairly glistened, it was so sharp. When he got where the worrum was with the fire in his mouth, the man said, 'Dimme some fire?' — 'You too do for me! Keelie o' fire' — and when the man went to get the fire, the worrum went to swallow him; the man took his lance, and as he was going down he cut the worrum, till he cut the worrum right open and all the people came — and that was a big city right there. E bo ban, my story's end.",
+          "note": "Paraphrase of Edwards, story XI, ending (1895); not verbatim."
+        }
+      ]
+    },
+    {
+      "id": "afroatlantic-rabby-tar-baby-bahama",
+      "title": {
+        "en": "B' Rabby and B' Tar-Baby",
+        "zh": "兔仔與柏油寶寶"
+      },
+      "tradition": "afroatlantic",
+      "category": "myth-religion",
+      "region": {
+        "en": "Andros, Bahamas",
+        "zh": "巴哈馬安德羅斯"
+      },
+      "lat": 24.7,
+      "lon": -77.9,
+      "period": "Bahamian oral tradition; collected 1889-1893; published 1895",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Charles L. Edwards, 'Bahama Songs and Stories' (1895), story XII 'B' Rabby an' B' Tar-Baby'",
+        "url": "https://archive.org/download/bahamasongsands00edwagoog/bahamasongsands00edwagoog_djvu.txt"
+      },
+      "license": "Public domain (published 1895)",
+      "summary": {
+        "en": "Rabby refuses to dig the well or cut the field — 'get it and drink it; get it and eat it' — and, while Lizard is decoyed into a trash-noise contest, dips the new well dry. The animals set the tar-baby in the road; fist, foot and head fasten in the classic sequence, and Rabby's sentence falls on the fresh-cut field: to be rolled in the cut cane-trash at midday sun.",
+        "zh": "兔仔拒不掘井、拒不墾田——『渴了自己取來喝，餓了自己取來吃』——趁蜥蜴被誘入碎柴噪音賽，把新井汲個底朝天。眾獸在路心設下柏油寶寶；拳、腳、頭一一粘牢，兔仔被判在正午日頭下滾過新割的甘蔗田。"
+      },
+      "motifs": [
+        "trickster",
+        "taboo-transgression",
+        "boon-curse"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Tar-baby cycle (Bahamian variant); cross-tradition cluster with Jamaican and US plantation tar-baby episodes. Collected by Edwards."
+      },
+      "persons": [
+        "anansi",
+        "rabbit"
+      ],
+      "passages": [
+        {
+          "id": "1",
+          "text": "So this day B' Rabby, B' Bouki, B' Tiger, B' Lizard, B' Helephant, B' Goat, B' Sheep, B' Rat, B' Cricket — all the creatures of all kinds — said, 'B' Rabby, you going help dig the well?' — 'No!' — 'When you want water, how you going manage?' — 'Get it and drink it.' — 'B' Rabby, you going help cut field?' — 'No!' — 'When you are hungry, how you going manage?' — 'Get it and eat it.' So all of them went to work; they dug the well first, next they cut the field.",
+          "note": "Paraphrase of Edwards, story XII (1895); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "This day B' Rabby came, and they left B' Lizard home to mind the well. B' Rabby said, 'B' Lizard, you want to see who can make the mostest noise in the trash? You go in that big heap of trash there and I go in that over there' — and while the Lizard was making noise in the trash, B' Rabby dipped his bucket full of water. When B' Helephant and all the other animals came out of the field, the elephant demanded of Lizard how he let Rabby take the water; and Lizard, set on, told the company that Rabbit had drowned him in insults — the tale turned to the tar-baby that stood in the road, at which the fist, the foot and the head fastened one after the other.",
+          "note": "Paraphrase of Edwards, story XII, middle (1895); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "Caught fast on the tar-baby, B' Rabby was asked what was to be done with him; and the sentence that pleased the field-workers best was to roll him in the fresh-cut field at the heat of midday sun, in the cane-trash they had cut and he had refused to cut. E bo ban, my story's end.",
+          "note": "Paraphrase of Edwards, story XII, ending (1895); not verbatim."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1303 @@
+{
+  "comment": "Stories cut from Apollodorus, Library (Frazer 1921) and Epitome.",
+  "texts": [
+    {
+      "id": "greek-apollodorus-alcmaeon-necklace",
+      "title": {
+        "en": "Alcmaeon: The Last Curse of the Necklace",
+        "zh": "阿爾克邁翁：項鍊的最後詛咒"
+      },
+      "tradition": "greek",
+      "category": "myth",
+      "region": {
+        "en": "Psophis &amp; the river Achelous (mythic geography)",
+        "zh": "普索菲斯與阿克洛俄斯河（神話地理）"
+      },
+      "lat": 37.75,
+      "lon": 21.9,
+      "period": "Compiled c. 1st-2nd century CE (attrib. Apollodorus; Frazer translation 1921)",
+      "source": {
+        "archive": "ToposText (J. G. Frazer, Loeb 1921)",
+        "work": "Apollodorus, Library, trans. J. G. Frazer (1921), §§ 3.7.5-3.7.7",
+        "url": "https://topostext.org/work/150"
+      },
+      "license": "Public domain (Frazer translation 1921)",
+      "summary": {
+        "en": "After the capture of Thebes, when Alcmaeon learned that his mother Eriphyle had been bribed to his undoing also, he was more incensed than ever; and, in accordance with an oracle of Apollo, he killed his own mother. The Fury of the matricide drove him mad: he wandered to Oicles in Arcadia, to Phegeus at Psophis, where he married the king's daughter Alphesiboea and gave her Harmonia's necklace as bride-gift; but his madness followed him everywhere, and the Delphic oracle told him the Fury would leave him nowhere but on land made new since his mother's blood. He found such a land in the silt of the Achelous, married the river's daughter Callirrhoe, and had by her two sons. Zeus, courted by Callirrhoe, made the boys full-grown in a day, and they killed Phegeus and his sons, dedicated the necklace and the robe at Delphi as Achelous had enjoined, and colonized Acarnania — from Acarnan, the elder.",
+        "zh": "底比斯陷落後，阿爾克邁翁得知其母厄里菲勒亦受賄賣己，怒火更盛；依阿波羅神諭弒母。弒母之復仇女神使其瘋狂：他流亡至阿卡迪亞的俄伊克勒斯、普索菲斯的費革俄斯（娶其女阿爾斐西波亞，以和諧女神之項鍊為聘禮），然狂疾隨行；德爾菲諭曰：唯「母血未染之地」可避。他在阿克洛俄斯河淤積的新陸定居，娶河之女卡利羅厄，生二子。宙斯應卡利羅厄之請，使二子一夜成人；他們誅費革俄斯父子，依阿克洛俄斯之命將項鍊與嫁衣獻於德爾菲，開拓阿卡納尼亞。"
+      },
+      "motifs": [
+        "taboo-transgression",
+        "transformation"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient literary source; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "After the capture of Thebes, when Alcmaeon learned that his mother Eriphyle had been bribed to his undoing also, he was more incensed than ever; and, in accordance with an oracle given to him by Apollo, he killed his mother. Some say that he killed her in conjunction with his brother Amphilochus, others that he did it alone.",
+          "note": "Paraphrase of Apollodorus, Library 3.7.5 (Frazer 1921); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "But Alcmaeon was visited by the Fury of his mother's murder; and going mad, he first repaired to Oicles in Arcadia, and thence to Phegeus at Psophis. And having been purified there, he married Alphesiboea, the daughter of Phegeus, and gave her the famous necklace and robe of Harmonia as bride-gifts.",
+          "note": "Paraphrase of Apollodorus, Library 3.7.5 (Frazer 1921); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "But as while he dwelt in Arcadia his madness became no better, he consulted the oracle at Delphi, and the Pythian priestess informed him that the Avenger of his mother Eriphyle would follow him to every place except to a spot which was most recent, and made by the action of the sea since he had stained himself with his mother's blood. And he found such a place: the Achelous had silted it up, and there he dwelt, and married Callirrhoe, the daughter of Achelous, according to the tradition of the Acarnanians, and had by her two sons, Acarnan and Amphoterus.",
+          "note": "Paraphrase of Apollodorus, Library 3.7.5-3.7.6 (Frazer 1921); not verbatim."
+        },
+        {
+          "id": "4",
+          "text": "Being apprized of Alcmaeon's untimely end, and courted by Zeus, Callirrhoe requested that the sons she had by Alcmaeon might be full grown in order to avenge their father's murder. And being suddenly full-grown, the sons went forth to right their father's wrong: they killed Phegeus and his sons, pursued the men who carried the necklace, and dedicated the necklace and robe at Delphi according to the injunction of Achelous; then they journeyed to Epirus, collected settlers, and colonized Acarnania, which took its name from the elder of the two.",
+          "note": "Paraphrase of Apollodorus, Library 3.7.6-3.7.7 (Frazer 1921); not verbatim."
+        }
+      ],
+      "persons": [
+        "acarnan",
+        "amphoterus",
+        "alcmaeon-epigon",
+        "alpheisiboea",
+        "phegeus"
+      ]
+    },
+    {
+      "id": "greek-apollodorus-atreus-lamb",
+      "title": {
+        "en": "The Golden Lamb: Atreus and Thyestes",
+        "zh": "金羔羊：阿特柔斯與堤厄斯忒斯"
+      },
+      "tradition": "greek",
+      "category": "myth",
+      "region": {
+        "en": "Mycenae (symbolic pin)",
+        "zh": "邁錫尼（象徵性定位）"
+      },
+      "lat": 37.73,
+      "lon": 22.76,
+      "period": "Composed from the lost epics (c. 7th century BCE; summary in Apollodorus; Frazer translation 1921)",
+      "source": {
+        "archive": "ToposText (J. G. Frazer, Loeb 1921)",
+        "work": "Apollodorus, Library, trans. J. G. Frazer (1921), Epitome e.2.10-e.2.14",
+        "url": "https://topostext.org/work/837"
+      },
+      "license": "Public domain (Frazer translation 1921)",
+      "summary": {
+        "en": "Atreus once vowed to sacrifice to Artemis the finest of his flocks; but when a golden lamb appeared, they say, he neglected the vow, choked the lamb and kept it in a box; and his wife Aerope gave it secretly to Thyestes, by whom she had been debauched. The Mycenaeans, having received an oracle that they should choose a king of the line of Pelops, sent for Atreus and Thyestes; and Zeus sent Hermes to Atreus with the stipulation that he should be king if the sun went backward. Thyestes agreed to the test, and the sun set in the east: so Atreus got the kingdom and banished his brother. Later, learning of the adultery, Atreus lured Thyestes back under a pretence of friendship, slaughtered his three sons — Aglaus, Callileon and Orchomenus — on the altar of Zeus as suppliants, boiled them limb from limb and served them up to their father; and when Thyestes had eaten heartily, Atreus showed him the extremities, and cast him out of the country. Thyestes then asked the oracle how to pay Atreus out, and was told to beget a son by his own daughter; and the son, Aegisthus, when grown, killed Atreus and restored the kingdom to Thyestes — the last link in the curse that ends with Agamemnon.",
+        "zh": "阿特柔斯曾誓祭阿爾忒彌斯己群中最美之羊；金羔羊出現時卻毀誓，勒死羔羊藏於箱中；其妻厄洛珀暗將其交予情人堤厄斯忒斯。邁錫尼人得神諭「立珀羅普斯之裔為王」，召二兄弟；宙斯遣赫爾墨斯告阿特柔斯：若日反行則為王。堤厄斯忒斯同意，日竟自東而落；阿特柔斯得王位，放逐其弟。後阿特柔斯察其通姦，假意和解誘其歸，在其三子（阿格勞斯、卡利勒翁、俄爾科墨諾斯）於宙斯祭壇避難時殺之，肢解煮熟端上餐桌；待父食畢示其手足，再放逐之。堤厄斯忒斯問神諭如何復仇，神諭令其與親女交合生子；其子埃癸斯托斯成年後殺阿特柔斯、復其父位——此詛咒終至阿伽門農。"
+      },
+      "motifs": [
+        "taboo-transgression",
+        "oracle-divination"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient literary source; violence presented as historical material without endorsement."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Now the wife of Atreus was Aerope, daughter of Catreus, and she loved Thyestes. And Atreus once vowed to sacrifice to Artemis the finest of his flocks; but when a golden lamb appeared, they say that he neglected to perform his vow, and having choked the lamb, he deposited it in a box and kept it there; and Aerope gave it to Thyestes, by whom she had been debauched.",
+          "note": "Paraphrase of Apollodorus, Library, Epitome e.2.10-e.2.11 (Frazer 1921); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "For the Mycenaeans had received an oracle which bade them choose a Pelopid for their king; so they sent for Atreus and Thyestes. And Zeus sent Hermes to Atreus, telling him to stipulate with Thyestes that Atreus should be king if the sun should go backward; and when Thyestes agreed, the sun set in the east. Hence the deity, having plainly attested the usurpation of Thyestes, Atreus got the kingdom and banished Thyestes.",
+          "note": "Paraphrase of Apollodorus, Library, Epitome e.2.12 (Frazer 1921); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "But afterwards, being apprized of the adultery, he sent a herald to Thyestes with a proposal of accommodation; and when he had lured Thyestes by a pretence of friendship, he slaughtered the sons, Aglaus, Callileon and Orchomenus, whom Thyestes had by a Naiad nymph, though they had sat down as suppliants on the altar of Zeus. And having cut them limb from limb and boiled them, he served them up to Thyestes without the extremities; and when Thyestes had eaten heartily of them, he showed him the extremities, and cast him out of the country.",
+          "note": "Paraphrase of Apollodorus, Library, Epitome e.2.13 (Frazer 1921); not verbatim."
+        },
+        {
+          "id": "4",
+          "text": "But seeking by all means to pay Atreus out, Thyestes inquired of the oracle on the subject, and received an answer that it could be done if he were to beget a son by intercourse with his own daughter. He did so accordingly, and begat Aegisthus by his daughter. And Aegisthus, when he was grown to manhood and had learned that he was a son of Thyestes, killed Atreus and restored the kingdom to Thyestes.",
+          "note": "Paraphrase of Apollodorus, Library, Epitome e.2.14 (Frazer 1921); not verbatim."
+        }
+      ],
+      "persons": [
+        "artemis",
+        "hermes",
+        "poseidon",
+        "zeus",
+        "aerope",
+        "aglaus",
+        "callileon",
+        "orchomenus-son"
+      ]
+    },
+    {
+      "id": "greek-apollodorus-centaurs-wedding",
+      "title": {
+        "en": "The Centaurs at the Wedding of Pirithous",
+        "zh": "半人馬婚宴之亂"
+      },
+      "tradition": "greek",
+      "category": "myth",
+      "region": {
+        "en": "Thessaly (symbolic pin)",
+        "zh": "色薩利（象徵性定位）"
+      },
+      "lat": 39.5,
+      "lon": 22.0,
+      "period": "Composed from the lost epics (c. 7th century BCE; summary in Apollodorus; Frazer translation 1921)",
+      "source": {
+        "archive": "ToposText (J. G. Frazer, Loeb 1921)",
+        "work": "Apollodorus, Library, trans. J. G. Frazer (1921), Epitome e.1.21-e.1.22",
+        "url": "https://topostext.org/work/837"
+      },
+      "license": "Public domain (Frazer translation 1921)",
+      "summary": {
+        "en": "Theseus allied himself with Pirithous, when he engaged in war against the centaurs; for when Pirithous wooed Hippodamia, he feasted the centaurs because they were her kinsmen. But being unaccustomed to wine, they made themselves drunk by swilling it greedily, and when the bride was brought in, they attempted to violate her. Pirithous, fully armed, with Theseus, joined battle with them, and Theseus killed many of them. And Caeneus, who had once been a woman, asked of Poseidon to become an invulnerable man after the god had intercourse with her; and in the battle with the centaurs he thought scorn of wounds and killed many of them; but the rest of them surrounded him, and by striking him with fir-trees buried him in the earth.",
+        "zh": "忒修斯與珀里托俄斯結盟，共戰半人馬；後者娶希波達彌亞時宴請其親族半人馬。眾馬人不慣飲酒，狂飲而醉，新娘入席時竟欲施暴。珀里托俄斯與忒修斯全副武裝與之戰，忒修斯殺其多數。卡紐斯原為女子，與波塞冬交合後求變為不可傷之男身；戰中不懼傷害、連誅馬人，終被其餘以松樹幹活埋入土。"
+      },
+      "motifs": [
+        "taboo-transgression",
+        "transformation"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient literary source; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "And Theseus allied himself with Pirithous, when he engaged in war against the centaurs; for when Pirithous wooed Hippodamia, he feasted the centaurs because they were her kinsmen.",
+          "note": "Paraphrase of Apollodorus, Library, Epitome e.1.21 (Frazer 1921); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "But being unaccustomed to wine, they made themselves drunk by swilling it greedily; and when the bride was brought in, they attempted to violate her. But Pirithous, fully armed, with Theseus, joined battle with them, and Theseus killed many of them.",
+          "note": "Paraphrase of Apollodorus, Library, Epitome e.1.21 (Frazer 1921); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "And Caeneus was formerly a woman; but after that Poseidon had intercourse with her, she asked to become an invulnerable man. Wherefore in the battle with the centaurs he thought scorn of wounds and killed many of the centaurs; but the rest of them surrounded him, and by striking him with fir-trees buried him in the earth.",
+          "note": "Paraphrase of Apollodorus, Library, Epitome e.1.22 (Frazer 1921); not verbatim."
+        }
+      ],
+      "persons": [
+        "theseus",
+        "hippodamia-pirithous",
+        "ixion",
+        "pirithous-lapith"
+      ]
+    },
+    {
+      "id": "greek-apollodorus-chair-forgetfulness",
+      "title": {
+        "en": "The Chair of Forgetfulness",
+        "zh": "遺忘之椅"
+      },
+      "tradition": "greek",
+      "category": "myth",
+      "region": {
+        "en": "Hades (mythic geography)",
+        "zh": "冥府（神話地理）"
+      },
+      "lat": 36.47,
+      "lon": 22.49,
+      "period": "Composed from the lost epics (c. 7th century BCE; summary in Apollodorus; Frazer translation 1921)",
+      "source": {
+        "archive": "ToposText (J. G. Frazer, Loeb 1921)",
+        "work": "Apollodorus, Library, trans. J. G. Frazer (1921), Epitome e.1.23-e.1.24",
+        "url": "https://topostext.org/work/837"
+      },
+      "license": "Public domain (Frazer translation 1921)",
+      "summary": {
+        "en": "Having made a compact with Pirithous that they would marry daughters of Zeus, Theseus, with the help of Pirithous, carried off Helen from Sparta for himself, when she was twelve years old; and in the endeavour to win Persephone as a bride for Pirithous he went down to Hades. And the Dioscuri, with the Lacedaemonians and Arcadians, captured Athens, carried away Helen, and with her Aethra, daughter of Pittheus, into captivity. But when Theseus arrived with Pirithous in Hades, he was beguiled; for, on the pretence that they were about to partake of good cheer, Hades bade them first be seated on the Chair of Forgetfulness, to which they grew and were held fast by coils of serpents. Pirithous therefore remained bound for ever; but Heracles brought Theseus up and sent him to Athens. Thence he was driven by Menestheus and went to Lycomedes, who threw him down an abyss and killed him.",
+        "zh": "忒修斯與珀里托俄斯立約共娶宙斯之女：忒修斯藉珀里托俄斯之力自斯巴達擄走年僅十二歲的海倫；又為珀里托俄斯下冥府欲奪珀耳塞福涅。此時狄俄斯库里率斯巴達與阿卡迪亞人攻陷雅典，救出海倫並擄忒修斯之母埃特拉。二人在冥府受哈得斯所騙，先坐「遺忘之椅」，被蛇纏身不能起；珀里托俄斯永縛，忒修斯則由赫拉克勒斯救出送回雅典。後被墨涅斯透斯逐出，亡於呂科墨德斯所擲深淵。"
+      },
+      "motifs": [
+        "descent-underworld",
+        "taboo-transgression"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient literary source; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Having made a compact with Pirithous that they would marry daughters of Zeus, Theseus, with the help of Pirithous, carried off Helen from Sparta for himself, when she was twelve years old; and in the endeavour to win Persephone as a bride for Pirithous he went down to Hades.",
+          "note": "Paraphrase of Apollodorus, Library, Epitome e.1.23 (Frazer 1921); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "And the Dioscuri, with the Lacedaemonians and Arcadians, captured Athens and carried away Helen, and with her Aethra, daughter of Pittheus, into captivity; but Demophon and Acamas fled. And the Dioscuri also brought back Menestheus from exile, and gave him the sovereignty of Athens.",
+          "note": "Paraphrase of Apollodorus, Library, Epitome e.1.23 (Frazer 1921); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "But when Theseus arrived with Pirithous in Hades, he was beguiled; for, on the pretence that they were about to partake of good cheer, Hades bade them first be seated on the Chair of Forgetfulness, to which they grew and were held fast by coils of serpents. Pirithous, therefore, remained bound for ever; but Heracles brought Theseus up and sent him to Athens.",
+          "note": "Paraphrase of Apollodorus, Library, Epitome e.1.24 (Frazer 1921); not verbatim."
+        },
+        {
+          "id": "4",
+          "text": "Thence he was driven by Menestheus and went to Lycomedes, who threw him down an abyss and killed him.",
+          "note": "Paraphrase of Apollodorus, Library, Epitome e.1.24 (Frazer 1921); not verbatim."
+        }
+      ],
+      "persons": [
+        "theseus",
+        "menestheus",
+        "pirithous-lapith",
+        "pittheus"
+      ]
+    },
+    {
+      "id": "greek-apollodorus-cretan-bull",
+      "title": {
+        "en": "The Cretan Bull",
+        "zh": "克里特公牛"
+      },
+      "tradition": "greek",
+      "category": "myth",
+      "region": {
+        "en": "Crete (symbolic pin)",
+        "zh": "克里特島（象徵性定位）"
+      },
+      "lat": 35.29,
+      "lon": 25.47,
+      "period": "Compiled c. 1st-2nd century CE (attrib. Apollodorus; Frazer translation 1921)",
+      "source": {
+        "archive": "ToposText (J. G. Frazer, Loeb 1921)",
+        "work": "Apollodorus, Library, trans. J. G. Frazer (1921), § 2.5.7",
+        "url": "https://topostext.org/work/150"
+      },
+      "license": "Public domain (Frazer translation 1921)",
+      "summary": {
+        "en": "The seventh labour was to bring the Cretan bull. Acusilaus says this was the bull that ferried Europa across for Zeus; but some say it was the bull that Poseidon sent up from the sea when Minos promised to sacrifice to Poseidon whatever should appear. Minos, seeing the beauty of the animal, sent it to his herds and sacrificed another to the god; at which Poseidon, angry, made the bull savage. Heracles came to Crete; and when Minos, in reply to his request for aid, told him to catch it for himself, Heracles caught the bull and brought it to Eurystheus, and afterwards let it go free. The bull roamed to Sparta and all Arcadia, and, crossing the Isthmus, arrived at Marathon — where it would be known, in later tellings, as the Marathonian bull of Theseus.",
+        "zh": "第七項勞役：捉克里特公牛。阿庫西勞斯言此即載歐羅巴渡海之牛；另有說為波塞冬應米諾斯許諾之祭而自海中送上之牛。米諾斯見其俊美，棄入牛群、另祭他牛；神怒而使其狂暴。赫拉克勒斯至克里特，米諾斯令其自捕；英雄擒牛獻於歐里斯透斯，而後釋之。牛逃至斯巴達、阿卡迪亞，越地峽而至馬拉松——後世所謂「馬拉松牛」，忒修斯將馴服之。"
+      },
+      "motifs": [
+        "taboo-transgression",
+        "sacred-kingship"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient literary source; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The seventh labour he enjoined on him was to bring the Cretan bull. Acusilaus says that this was the bull that ferried across Europa for Zeus; but some say it was the bull that Poseidon sent up from the sea when Minos promised to sacrifice to Poseidon what should appear out of the sea.",
+          "note": "Paraphrase of Apollodorus, Library 2.5.7 (Frazer 1921); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "And they say that when he saw the beauty of the bull he sent it away to the herds and sacrificed another to Poseidon; at which the god was angry and made the bull savage.",
+          "note": "Paraphrase of Apollodorus, Library 2.5.7 (Frazer 1921); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "To attack this bull Heracles came to Crete, and when, in reply to his request for aid, Minos told him to fight and catch the bull for himself, he caught it and brought it to Eurystheus; and having shown it to him he let it afterwards go free. But the bull roamed to Sparta and all Arcadia, and, traversing the Isthmus, arrived at Marathon in Attica, harrying the inhabitants like a plague.",
+          "note": "Paraphrase of Apollodorus, Library 2.5.7 (Frazer 1921); not verbatim."
+        }
+      ],
+      "persons": [
+        "poseidon",
+        "heracles",
+        "minos"
+      ]
+    },
+    {
+      "id": "greek-apollodorus-epigoni",
+      "title": {
+        "en": "The Burial of the Dead and the Sons of the Seven",
+        "zh": "安葬亡者與七雄之子"
+      },
+      "tradition": "greek",
+      "category": "myth",
+      "region": {
+        "en": "Thebes &amp; Athens (symbolic pin)",
+        "zh": "底比斯與雅典（象徵性定位）"
+      },
+      "lat": 38.14,
+      "lon": 22.55,
+      "period": "Compiled c. 1st-2nd century CE (attrib. Apollodorus; Frazer translation 1921)",
+      "source": {
+        "archive": "ToposText (J. G. Frazer, Loeb 1921)",
+        "work": "Apollodorus, Library, trans. J. G. Frazer (1921), §§ 3.7.1-3.7.4",
+        "url": "https://topostext.org/work/150"
+      },
+      "license": "Public domain (Frazer translation 1921)",
+      "summary": {
+        "en": "Creon, having succeeded to the kingdom of Thebes, cast out the Argive dead unburied and set watchmen over them; but Antigone, daughter of Oedipus, stole the body of Polynices and buried it in secret, and, detected by Creon, was interred alive in the grave. Adrastus fled to Athens and laid the suppliant's bough on the altar of Mercy, praying that the dead might be buried; the Athenians marched with Theseus, took Thebes, and gave the dead to their kinsfolk to bury. Evadne, wife of Capaneus, threw herself on his pyre and was burned with him. Ten years later the sons of the fallen — the Epigoni — marched again on Thebes, took it, and pulled down its walls.",
+        "zh": "克瑞翁繼底比斯王位，將阿爾戈斯亡者曝屍不得葬、並設哨看守。安提戈涅（俄狄浦斯之女）偷取波呂尼刻斯遺體祕葬，被克瑞翁發現，活埋於墓中。阿德拉斯托斯奔雅典，在「慈悲祭壇」置請願枝求葬亡者；雅典人與忒修斯出征底比斯，取城並歸還遺體。卡帕紐斯之妻厄瓦德涅投身夫之火葬堆殉死。十年後，七雄之子（後裔英雄）再征底比斯，取城毀牆。"
+      },
+      "motifs": [
+        "taboo-transgression",
+        "sacred-kingship"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient literary source; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Having succeeded to the kingdom of Thebes, Creon cast out the Argive dead unburied, issued a proclamation that none should bury them, and set watchmen.",
+          "note": "Paraphrase of Apollodorus, Library 3.7.1 (Frazer 1921); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "But Antigone, one of the daughters of Oedipus, stole the body of Polynices and secretly buried it; and, having been detected by Creon himself, she was interred alive in the grave.",
+          "note": "Paraphrase of Apollodorus, Library 3.7.1 (Frazer 1921); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "Adrastus fled to Athens and took refuge at the altar of Mercy, and, laying on it the suppliant's bough, prayed that they would bury the dead. And the Athenians marched with Theseus, captured Thebes, and gave the dead to their kinsfolk to bury. And when the pyre of Capaneus was burning, his wife Evadne, the daughter of Iphis, threw herself on the pyre and was burned with him.",
+          "note": "Paraphrase of Apollodorus, Library 3.7.1 (Frazer 1921); not verbatim."
+        },
+        {
+          "id": "4",
+          "text": "Ten years afterwards the sons of the fallen, called the Epigoni, purposed to march against Thebes to avenge their fathers; and the Argives, having learned of the flight of the Thebans, entered the city, collected the booty, and pulled down the walls. And they sent a portion of the booty to Apollo at Delphi, and with it Manto, daughter of Tiresias; for they had vowed that, if they took Thebes, they would dedicate to him the fairest of the spoils.",
+          "note": "Paraphrase of Apollodorus, Library 3.7.2-3.7.4 (Frazer 1921); not verbatim."
+        }
+      ],
+      "persons": [
+        "amphiaraus",
+        "alcmaeon-epigon",
+        "creon-theban",
+        "evadne",
+        "iphis-argive",
+        "oedipus",
+        "tiresias"
+      ]
+    },
+    {
+      "id": "greek-apollodorus-heracles-deianira",
+      "title": {
+        "en": "The Tunic of Nessus and the Pyre on Oeta",
+        "zh": "涅索斯之毒衣與厄塔火葬"
+      },
+      "tradition": "greek",
+      "category": "myth",
+      "region": {
+        "en": "River Evenus to Mount Oeta (mythic geography)",
+        "zh": "厄維努斯河至厄塔山（神話地理）"
+      },
+      "lat": 38.85,
+      "lon": 22.2,
+      "period": "Compiled c. 1st-2nd century CE (attrib. Apollodorus; Frazer translation 1921)",
+      "source": {
+        "archive": "ToposText (J. G. Frazer, Loeb 1921)",
+        "work": "Apollodorus, Library, trans. J. G. Frazer (1921), §§ 2.7.6-2.7.8",
+        "url": "https://topostext.org/work/150"
+      },
+      "license": "Public domain (Frazer translation 1921)",
+      "summary": {
+        "en": "Taking Deianira with him, Heracles came to the river Evenus, where the centaur Nessus ferried passengers for hire, alleging that he had received the ferry from the gods for his righteousness. Heracles crossed himself, but entrusted Deianira to Nessus, who in ferrying her attempted to violate her; and Heracles shot him through the heart. Dying, Nessus told Deianira that his seed mingled with the blood from the barb would make a love-charm for Heracles, and she kept the mixture. Years later, jealous of Iole, she smeared a tunic with it and sent it to the altar of Cenaean Zeus; the poison of the hydra burned into the hero's flesh, and he tore the garment off with the skin. Deianira hanged herself on the news; Heracles, charging his son Hyllus to marry Iole, made a pyre on Mount Oeta, and Poeas, passing by with his flocks, set it alight. A cloud passed under him and, with a peal of thunder, wafted him up to heaven; reconciled with Hera, he married her daughter Hebe.",
+        "zh": "赫拉克勒斯攜得伊阿涅拉渡厄維努斯河，船夫乃半人馬涅索斯。涅索斯欲對伊阿涅拉無禮，赫拉克勒斯一箭穿心；臨終涅索斯言其精液混箭毒可為愛情魔藥，伊阿涅拉收藏之。多年後，因嫉妒伊奧勒，伊阿涅拉以之浸衣送至赫拉克勒斯祭壇；許德拉之毒燃及肌骨，英雄撕衣連皮同剝。伊阿涅拉聞訊自縊；赫拉克勒斯命子許勒斯娶伊奧勒，於厄塔山自焚，帕阿斯牧羊時點燃柴堆；雲至、雷鳴，升天成神；與赫拉和解，娶其女赫柏。"
+      },
+      "motifs": [
+        "taboo-transgression",
+        "resurrection"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient literary source; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Taking Deianira with him, he came to the river Evenus, at which the centaur Nessus sat and ferried passengers across for hire, alleging that he had received the ferry from the gods for his righteousness. So Heracles crossed the river by himself, but, on being asked to pay the fare, he entrusted Deianira to Nessus to carry over. But he, in ferrying her across, attempted to violate her.",
+          "note": "Paraphrase of Apollodorus, Library 2.7.6 (Frazer 1921); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "She cried out; Heracles heard her and shot Nessus to the heart when he emerged from the river. And Nessus, at the point of death, called Deianira to him and said that, if she would have a love-charm to operate on Heracles, she should mix the seed he had dropped on the ground with the blood that flowed from the wound inflicted by the barb. She did so and kept it by her.",
+          "note": "Paraphrase of Apollodorus, Library 2.7.6 (Frazer 1921); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "Heracles mustered an army and attacked Oechalia, wishing to punish Eurytus, and took the city, leading Iole captive. At Cenaeum, a headland of Euboea, he built an altar of Cenaean Zeus, and, intending to offer sacrifice, sent the herald Lichas to Trachis to fetch fine raiment. From him Deianira learned about Iole, and, fearing that Heracles might love that damsel more than herself, she supposed that the spilt blood of Nessus was in truth a love-charm, and with it she smeared the tunic.",
+          "note": "Paraphrase of Apollodorus, Library 2.7.7 (Frazer 1921); not verbatim."
+        },
+        {
+          "id": "4",
+          "text": "So Heracles put it on and proceeded to offer sacrifice. But no sooner was the tunic warmed than the poison of the hydra began to corrode his skin; and on that he lifted Lichas by the feet, hurled him down from the headland, and tore off the tunic, which clung to his body, so that his flesh was torn away with it. In such a sad plight he was carried on shipboard to Trachis; and Deianira, on learning what had happened, hanged herself.",
+          "note": "Paraphrase of Apollodorus, Library 2.7.7 (Frazer 1921); not verbatim."
+        },
+        {
+          "id": "5",
+          "text": "But Heracles, after charging Hyllus, his elder son by Deianira, to marry Iole when he came of age, proceeded to Mount Oeta, in the Trachinian territory, and there constructed a pyre, mounted it, and gave orders to kindle it. When no one would do so, Poeas, passing by to look for his flocks, set a light to it, and on him Heracles bestowed his bow. While the pyre was burning, it is said that a cloud passed under Heracles and, with a peal of thunder, wafted him up to heaven. Thereafter he obtained immortality, and, being reconciled to Hera, he married her daughter Hebe.",
+          "note": "Paraphrase of Apollodorus, Library 2.7.8 (Frazer 1921); not verbatim."
+        }
+      ],
+      "persons": [
+        "hera",
+        "nessus",
+        "heracles",
+        "hyllus",
+        "deianira",
+        "lichas"
+      ]
+    },
+    {
+      "id": "greek-apollodorus-heracles-megara",
+      "title": {
+        "en": "The Madness of Heracles: Megara's Children",
+        "zh": "赫拉克勒斯之瘋狂：墨伽拉諸子"
+      },
+      "tradition": "greek",
+      "category": "myth",
+      "region": {
+        "en": "Thebes (symbolic pin)",
+        "zh": "底比斯（象徵性定位）"
+      },
+      "lat": 38.14,
+      "lon": 22.55,
+      "period": "Compiled c. 1st-2nd century CE (attrib. Apollodorus; Frazer translation 1921)",
+      "source": {
+        "archive": "ToposText (J. G. Frazer, Loeb 1921)",
+        "work": "Apollodorus, Library, trans. J. G. Frazer (1921), § 2.4.12",
+        "url": "https://topostext.org/work/150"
+      },
+      "license": "Public domain (Frazer translation 1921)",
+      "summary": {
+        "en": "After the battle with the Minyans, Heracles was driven mad through the jealousy of Hera, and flung his own children — those he had by Megara — and two children of Iphicles into the fire. Condemning himself to exile, he was purified by Thespius; and at Delphi the Pythian priestess first called him Heracles — until then he was Alcides — and told him to dwell in Tiryns, serving Eurystheus for twelve years and performing the ten labours he would impose, after which, she said, he would become immortal.",
+        "zh": "密尼亞人之戰後，赫拉克勒斯因赫拉嫉妒而發瘋，將墨伽拉所生子女與伊菲克勒斯之二子擲入火中。他自判流放，由忒斯庇俄斯淨禮；在德爾菲，皮提亞女祭司初次稱其「赫拉克勒斯」（此前名阿爾喀德斯），命其居提林斯、事歐里斯透斯十二年、行十項勞役，功成則得永生。"
+      },
+      "motifs": [
+        "taboo-transgression",
+        "oracle-divination"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient literary source; violence presented as historical material without endorsement."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Now it came to pass that, after the battle with the Minyans, Heracles was driven mad through the jealousy of Hera, and flung his own children, whom he had by Megara, and two children of Iphicles into the fire.",
+          "note": "Paraphrase of Apollodorus, Library 2.4.12 (Frazer 1921); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Wherefore he condemned himself to exile, and was purified by Thespius; and, repairing to Delphi, he inquired of the god where he should dwell.",
+          "note": "Paraphrase of Apollodorus, Library 2.4.12 (Frazer 1921); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "The Pythian priestess then first called him Heracles, for hitherto he was called Alcides. And she told him to dwell in Tiryns, serving Eurystheus for twelve years, and to perform the ten labours imposed on him; and so, she said, when the tasks were accomplished, he would be immortal.",
+          "note": "Paraphrase of Apollodorus, Library 2.4.12 (Frazer 1921); not verbatim."
+        }
+      ],
+      "persons": [
+        "hera",
+        "heracles",
+        "creon-theban",
+        "iphicles-heraclid",
+        "megara",
+        "thespius"
+      ]
+    },
+    {
+      "id": "greek-apollodorus-heracles-omphale",
+      "title": {
+        "en": "Heracles Among the Cercopes: Slavery to Omphale",
+        "zh": "赫拉克勒斯為呂底亞女王所役"
+      },
+      "tradition": "greek",
+      "category": "myth",
+      "region": {
+        "en": "Lydia (symbolic pin)",
+        "zh": "呂底亞（象徵性定位）"
+      },
+      "lat": 39.0,
+      "lon": 28.0,
+      "period": "Compiled c. 1st-2nd century CE (attrib. Apollodorus; Frazer translation 1921)",
+      "source": {
+        "archive": "ToposText (J. G. Frazer, Loeb 1921)",
+        "work": "Apollodorus, Library, trans. J. G. Frazer (1921), § 2.6.3",
+        "url": "https://topostext.org/work/150"
+      },
+      "license": "Public domain (Frazer translation 1921)",
+      "summary": {
+        "en": "After the oracle at Delphi, Hermes sold Heracles, and Omphale, daughter of Iardanes, queen of Lydia, bought him: she had received the government of her husband Tmolus at his death. In her service Heracles seized and bound the Cercopes — the two knavish brothers of Ephesus — at Ephesus; he killed Syleus of Aulis, who forced passers-by to dig in his vineyards, and burned the vines to the root; and on the island of Doliche he saw the body of Icarus washed ashore, buried it, and renamed the island Icaria. It was during this servitude, says the tradition, that the voyage of the Argonauts, the hunt of the Calydonian boar and Theseus' clearing of the Isthmus road took place.",
+        "zh": "德爾菲神諭之後，赫爾墨斯將赫拉克勒斯賣予呂底亞女王翁法勒（伊阿爾達涅斯之女，承繼亡夫特摩洛斯之王位）。為奴期間，他在以弗所縛住狡詐兄弟科爾科佩斯；殺害強迫路人掘地的奧利斯人敘琉斯並焚其葡萄園；在多利刻島見伊卡羅斯屍身漂流至岸，將其安葬，島遂名伊卡里亞。據傳阿爾戈遠航、卡呂冬狩獵與忒修斯清道皆在此奴役期間。"
+      },
+      "motifs": [
+        "taboo-transgression",
+        "trickster"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient literary source; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "After the delivery of the oracle, Hermes sold Heracles, and he was bought by Omphale, daughter of Iardanes, queen of Lydia, to whom at her husband Tmolus' death the government had been bequeathed.",
+          "note": "Paraphrase of Apollodorus, Library 2.6.3 (Frazer 1921); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Eurytus did not accept the compensation when it was presented to him; but Heracles served Omphale as a slave. And in the course of his servitude he seized and bound the Cercopes at Ephesus.",
+          "note": "Paraphrase of Apollodorus, Library 2.6.3 (Frazer 1921); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "And as for Syleus in Aulis, who compelled passing strangers to dig, Heracles killed him with his daughter Xenodoce, after burning the vines with the roots. And having put in to the island of Doliche, he saw the body of Icarus washed ashore and buried it, and called the island Icaria instead of Doliche.",
+          "note": "Paraphrase of Apollodorus, Library 2.6.3 (Frazer 1921); not verbatim."
+        },
+        {
+          "id": "4",
+          "text": "And in return Daedalus made a portrait-statue of Heracles at Pisa, which Heracles, mistaking it at night for a living man, struck with a stone. And it is said that during the time of his servitude with Omphale the voyage to Colchis, the hunt of the Calydonian boar, and Theseus' clearing of the Isthmus road all took place.",
+          "note": "Paraphrase of Apollodorus, Library 2.6.3 (Frazer 1921); not verbatim."
+        }
+      ],
+      "persons": [
+        "hermes",
+        "cercopes",
+        "heracles",
+        "iardanes",
+        "omphale",
+        "syleus",
+        "xenodoce"
+      ]
+    },
+    {
+      "id": "greek-apollodorus-hind-boar",
+      "title": {
+        "en": "The Cerynitian Hind and the Erymanthian Boar",
+        "zh": "刻律涅特赤鹿與厄律曼托斯野豬"
+      },
+      "tradition": "greek",
+      "category": "myth",
+      "region": {
+        "en": "Arcadia (symbolic pin)",
+        "zh": "阿卡迪亞（象徵性定位）"
+      },
+      "lat": 37.8,
+      "lon": 22.0,
+      "period": "Compiled c. 1st-2nd century CE (attrib. Apollodorus; Frazer translation 1921)",
+      "source": {
+        "archive": "ToposText (J. G. Frazer, Loeb 1921)",
+        "work": "Apollodorus, Library, trans. J. G. Frazer (1921), §§ 2.5.3-2.5.4",
+        "url": "https://topostext.org/work/150"
+      },
+      "license": "Public domain (Frazer translation 1921)",
+      "summary": {
+        "en": "Third, Eurystheus ordered him to bring the Cerynitian hind alive: golden-horned, sacred to Artemis, unwilling to be hurt. Heracles hunted it a whole year, shot it on the bank of the Ladon just as it was about to cross, and carried it away on his shoulders; and Artemis and Apollo met him and would have wrested the hind from him, till, pleading necessity and blaming Eurystheus, he appeased the goddess's anger. Fourth, the Erymanthian boar, alive: Heracles, on the way, was entertained by the centaur Pholus, whose wine-jar, opened, brought the other centaurs up the mountain with rocks and firs; in the melée Heracles' arrow, passing through the arm of Elatus, stuck in the knee of Chiron, who could not die — for he was immortal — until Prometheus offered himself to Zeus to be immortal in his stead. Heracles then chased the boar into deep snow, trapped it, and carried it alive to Mycenae.",
+        "zh": "第三項勞役：活捉刻律涅特金角赤鹿——乃阿爾忒彌斯之聖獸，不可傷害。赫拉克勒斯追獵整年，於拉冬河畔趁其渡水一箭射之，扛於肩上而歸；途中遇阿爾忒彌斯與阿波羅欲奪鹿，英雄以「奉歐里斯透斯之命」之辭平息女神之怒。第四項勞役：活捉厄律曼托斯野豬——途中宿於半人馬福羅斯家，啟酒引來眾半人馬，混戰中一箭穿厄拉托斯臂而中喀戎膝；喀戎不死（因其為神）直至普羅米修斯自請代其不死。英雄追豬至深雪中，活捉而返。"
+      },
+      "motifs": [
+        "taboo-transgression",
+        "culture-hero"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient literary source; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "As a third labour he ordered him to bring the Cerynitian hind alive to Mycenae. Now the hind was at Oenoe; it had golden horns and was sacred to Artemis; so wishing neither to kill nor wound it, Heracles hunted it a whole year.",
+          "note": "Paraphrase of Apollodorus, Library 2.5.3 (Frazer 1921); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "But when, weary with the chase, the beast took refuge on the mountain called Artemisium, and thence passed to the river Ladon, Heracles shot it just as it was about to cross the stream, and catching it, put it on his shoulders and hastened through Arcadia. But Artemis with Apollo met him and would have wrested the hind from him, rebuking him for attempting to kill her sacred animal; howbeit, by pleading necessity and laying the blame on Eurystheus, he appeased the anger of the goddess and carried the beast alive to Mycenae.",
+          "note": "Paraphrase of Apollodorus, Library 2.5.3 (Frazer 1921); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "As a fourth labour he ordered him to bring the Erymanthian boar alive; now that animal ravaged Psophis, sallying from a mountain which they call Erymanthus. So passing through Pholoe he was entertained by the centaur Pholus, a son of Silenus by a Melian nymph. He set roast meat before Heracles, while he himself ate his meat raw. When Heracles called for wine, he said he feared to open the jar which belonged to the centaurs in common; but Heracles, bidding him be of good courage, opened it.",
+          "note": "Paraphrase of Apollodorus, Library 2.5.4 (Frazer 1921); not verbatim."
+        },
+        {
+          "id": "4",
+          "text": "Not long afterwards, scenting the smell, the centaurs arrived at the cave of Pholus armed with rocks and firs; the first who dared to enter, Anchius and Agrius, were repelled with a shower of brands, and the rest Heracles shot and pursued as far as Malea. Thence they took refuge with Chiron, who, driven by the Lapiths from Mount Pelion, took up his abode at Malea. As the centaurs cowered about Chiron, Heracles shot an arrow at them which, passing through the arm of Elatus, stuck in the knee of Chiron. Distressed at this, Heracles ran up to him, drew out the shaft, and applied a medicine which Chiron gave him; but the hurt proving incurable, Chiron retired to the cave and wished to die, but he could not, for he was immortal. However, Prometheus offered himself to Zeus to be immortal in his stead, and so Chiron died.",
+          "note": "Paraphrase of Apollodorus, Library 2.5.4 (Frazer 1921); not verbatim."
+        },
+        {
+          "id": "5",
+          "text": "And when Heracles had chased the boar with shouts from a certain thicket, he drove the exhausted animal into deep snow, trapped it, and brought it to Mycenae.",
+          "note": "Paraphrase of Apollodorus, Library 2.5.4 (Frazer 1921); not verbatim."
+        }
+      ],
+      "persons": [
+        "prometheus",
+        "artemis",
+        "silenus",
+        "melia-nymph",
+        "elatus-centaur",
+        "pholus",
+        "heracles"
+      ]
+    },
+    {
+      "id": "greek-apollodorus-hippolytus-death",
+      "title": {
+        "en": "Phaedra and Hippolytus",
+        "zh": "菲德拉與希波呂托斯"
+      },
+      "tradition": "greek",
+      "category": "myth",
+      "region": {
+        "en": "Athens &amp; Troezen (symbolic pin)",
+        "zh": "雅典與特洛真（象徵性定位）"
+      },
+      "lat": 37.9,
+      "lon": 23.3,
+      "period": "Composed from the lost epics (c. 7th century BCE; summary in Apollodorus; Frazer translation 1921)",
+      "source": {
+        "archive": "ToposText (J. G. Frazer, Loeb 1921)",
+        "work": "Apollodorus, Library, trans. J. G. Frazer (1921), Epitome e.1.17-e.1.19",
+        "url": "https://topostext.org/work/837"
+      },
+      "license": "Public domain (Frazer translation 1921)",
+      "summary": {
+        "en": "Theseus afterwards received from Deucalion in marriage Phaedra, daughter of Minos. At the wedding the Amazon who had before been married to him appeared in arms with her Amazons and threatened to kill the assembled guests; the doors were hastily closed and she was killed. Phaedra bore Theseus two children, Acamas and Demophon; then she fell in love with the son he had by the Amazon — Hippolytus — and besought him to lie with her. He fled her embraces, because he hated all women. Phaedra, fearing that he might accuse her to his father, cleft open the doors of her bedchamber, rent her garments, and falsely charged Hippolytus with an assault. Theseus believed her and prayed to Poseidon that Hippolytus might perish: when the boy was riding his chariot beside the sea, Poseidon sent up a bull from the surf; the horses were frightened, the chariot dashed in pieces, and Hippolytus, entangled in the reins, was dragged to death. When her passion was made public, Phaedra hanged herself.",
+        "zh": "忒修斯後娶米諾斯之女菲德拉。婚宴上，先前與忒修斯成婚的亞馬遜女王率眾持械闖入欲殺賓客，門扉緊閉而亡。菲德拉生二子（阿卡馬斯與得摩豐）後，愛上忒修斯與亞馬遜女王所生之子希波呂托斯，求其同寢；他因憎惡所有女子而逃。菲德拉懼其告發，破寢室門、撕裂衣衫，誣告希波呂托斯非禮。忒修斯信之，向波塞冬祈其子死；少年驅車海濱，波塞冬自浪中送出公牛，馬驚車碎，希波呂托斯纏於韁繩拖死。菲德拉事洩後自縊。"
+      },
+      "motifs": [
+        "taboo-transgression",
+        "sacred-kingship"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient literary source; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Theseus afterwards received from Deucalion in marriage Phaedra, daughter of Minos; and when her marriage was being celebrated, the Amazon that had before been married to him appeared in arms with her Amazons, and threatened to kill the assembled guests. But they hastily closed the doors and killed her. However, some say that she was slain in battle by Theseus.",
+          "note": "Paraphrase of Apollodorus, Library, Epitome e.1.17 (Frazer 1921); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "And Phaedra, after she had borne two children, Acamas and Demophon, to Theseus, fell in love with the son he had by the Amazon, to wit, Hippolytus, and besought him to lie with her. Howbeit, he fled from her embraces, because he hated all women.",
+          "note": "Paraphrase of Apollodorus, Library, Epitome e.1.18 (Frazer 1921); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "But Phaedra, fearing that he might accuse her to his father, cleft open the doors of her bedchamber, rent her garments, and falsely charged Hippolytus with an assault.",
+          "note": "Paraphrase of Apollodorus, Library, Epitome e.1.18 (Frazer 1921); not verbatim."
+        },
+        {
+          "id": "4",
+          "text": "Theseus believed her and prayed to Poseidon that Hippolytus might perish. So, when Hippolytus was riding in his chariot and driving beside the sea, Poseidon sent up a bull from the surf; and the horses were frightened, the chariot dashed in pieces, and Hippolytus, entangled in the reins, was dragged to death. And when her passion was made public, Phaedra hanged herself.",
+          "note": "Paraphrase of Apollodorus, Library, Epitome e.1.19 (Frazer 1921); not verbatim."
+        }
+      ],
+      "persons": [
+        "poseidon",
+        "hippolyte-amazon",
+        "minos",
+        "theseus",
+        "acamas-athenian",
+        "demophon",
+        "eumolpus",
+        "phaedra-athenian"
+      ]
+    },
+    {
+      "id": "greek-apollodorus-kine-geryon",
+      "title": {
+        "en": "The Red Kine of Geryon",
+        "zh": "革律翁的紅牛群"
+      },
+      "tradition": "greek",
+      "category": "myth",
+      "region": {
+        "en": "Erythia, far west (mythic geography)",
+        "zh": "遠西厄里提亞島（神話地理）"
+      },
+      "lat": 36.13,
+      "lon": -5.35,
+      "period": "Compiled c. 1st-2nd century CE (attrib. Apollodorus; Frazer translation 1921)",
+      "source": {
+        "archive": "ToposText (J. G. Frazer, Loeb 1921)",
+        "work": "Apollodorus, Library, trans. J. G. Frazer (1921), § 2.5.10",
+        "url": "https://topostext.org/work/150"
+      },
+      "license": "Public domain (Frazer translation 1921)",
+      "summary": {
+        "en": "As a tenth labour Heracles was ordered to fetch the kine of Geryon from Erythia, an island near the ocean, now called Gadira. Geryon, son of Chrysaor by Callirrhoe, daughter of Ocean, had the body of three men grown together and joined in one at the waist, parted in three from the flanks and thighs. His red kine were tended by Eurytion, with the two-headed hound Orthus, begotten by Typhon on Echidna, as watchdog. Journeying through Europe Heracles destroyed many wild beasts, set foot in Libya, and at Tartessus erected two pillars over against each other at the boundaries of Europe and Libya — the Pillars of Heracles. Heated by the Sun on his journey, he bent his bow at the god, who, in admiration of his hardihood, gave him a golden goblet in which he crossed the ocean. The hound rushed at him and was clubbed; Eurytion came to its help and was killed; Menoetes, herdsman of the kine of Hades, reported it to Geryon, who met Heracles beside the river Anthemus and was shot dead. Heracles put the kine in the goblet, gave it back to the Sun, and drove the herd home through Liguria and Tyrrhenia; at Rome a bull broke away and fled, and Heracles chased it to Sicily, where Eryx, son of Poseidon, mingled it with his own herds and offered to surrender it if Heracles beat him in a wrestling bout — and Heracles beat him thrice and killed him in the wrestling.",
+        "zh": "第十項勞役：取遠西厄里提亞島（今加迪拉）革律翁之紅牛。革律翁乃克律薩俄耳與大洋之女卡利羅厄之子，三身一腰、腰以下三分。其牛由歐律提翁牧養、雙頭犬俄耳托斯看守（堤豐與厄喀德那所生）。英雄歐洲、利比亞一路誅獸，至塔爾特索斯於歐非交界豎雙柱（即「赫拉克勒斯之柱」）；旅途受烈日炙烤，向日神張弓，日神嘆其勇而賜金盃渡洋。英雄擊犬、殺牧人；哈得斯之牛倌墨諾忒斯報信，革律翁於安忒穆斯河畔迎戰，被射死。英雄以金盃渡牛、還盃於日神，經利古里亞、第勒尼亞而歸；一牛逃至西西里，王厄律克斯攙入己群、欲與英雄角力而失敗被殺，牛群遂驅回。"
+      },
+      "motifs": [
+        "culture-hero",
+        "sacred-place"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient literary source; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "As a tenth labour he was ordered to fetch the kine of Geryon from Erythia. Now Erythia was an island near the ocean; it is now called Gadira. This island was inhabited by Geryon, son of Chrysaor by Callirrhoe, daughter of Ocean. He had the body of three men grown together and joined in one at the waist, but parted in three from the flanks and thighs.",
+          "note": "Paraphrase of Apollodorus, Library 2.5.10 (Frazer 1921); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "He owned red kine, of which Eurytion was the herdsman and Orthus, the two-headed hound, begotten by Typhon on Echidna, was the watchdog. So journeying through Europe to fetch the kine of Geryon he destroyed many wild beasts and set foot in Libya; and, proceeding to Tartessus, he erected as tokens of his journey two pillars over against each other at the boundaries of Europe and Libya.",
+          "note": "Paraphrase of Apollodorus, Library 2.5.10 (Frazer 1921); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "But being heated by the Sun on his journey, he bent his bow at the god, who, in admiration of his hardihood, gave him a golden goblet in which he crossed the ocean. And having reached Erythia he lodged on Mount Abas. However the dog, perceiving him, rushed at him; but he smote it with his club, and when the herdsman Eurytion came to the help of the dog, Heracles killed him also.",
+          "note": "Paraphrase of Apollodorus, Library 2.5.10 (Frazer 1921); not verbatim."
+        },
+        {
+          "id": "4",
+          "text": "But Menoetes, who was there pasturing the kine of Hades, reported to Geryon what had occurred; and he, coming up with Heracles beside the river Anthemus as he was driving away the kine, joined battle with him and was shot dead. And Heracles, embarking the kine in the goblet and sailing across to Tartessus, gave back the goblet to the Sun.",
+          "note": "Paraphrase of Apollodorus, Library 2.5.10 (Frazer 1921); not verbatim."
+        },
+        {
+          "id": "5",
+          "text": "At Rhegium a bull broke away from the herd and plunged into the sea, swam across to Sicily, and came to the plain of Eryx, who reigned over the Elymi and mingled the bull with his own herds. Heracles entrusted the kine to Hephaestus and hurried away in search of the bull; and when the king refused to surrender it unless Heracles should beat him in a wrestling bout, Heracles beat him thrice, killed him in the wrestling, and, taking the bull, drove it with the rest of the herd to the Ionian Sea. But Hera afflicted the cows with a gadfly, and they dispersed among the skirts of the mountains of Thrace; Heracles caught some, drove them to the Hellespont, and the remainder were thenceforth wild. He blamed the river Strymon, and made it unnavigable by filling it with rocks; and he conveyed the kine and gave them to Eurystheus, who sacrificed them to Hera.",
+          "note": "Paraphrase of Apollodorus, Library 2.5.10-2.5.11 (Frazer 1921); not verbatim."
+        }
+      ],
+      "persons": [
+        "poseidon",
+        "menoetes",
+        "eurys",
+        "ortus",
+        "achilles",
+        "eryx",
+        "heracles"
+      ]
+    },
+    {
+      "id": "greek-apollodorus-lemnos-women",
+      "title": {
+        "en": "The Women of Lemnos",
+        "zh": "利姆諾斯的女人们"
+      },
+      "tradition": "greek",
+      "category": "myth",
+      "region": {
+        "en": "Lemnos, Aegean (symbolic pin)",
+        "zh": "愛琴海利姆諾斯島（象徵性定位）"
+      },
+      "lat": 39.92,
+      "lon": 25.06,
+      "period": "Compiled c. 1st-2nd century CE (attrib. Apollodorus; Frazer translation 1921)",
+      "source": {
+        "archive": "ToposText (J. G. Frazer, Loeb 1921)",
+        "work": "Apollodorus, Library, trans. J. G. Frazer (1921), § 1.9.17",
+        "url": "https://topostext.org/work/150"
+      },
+      "license": "Public domain (Frazer translation 1921)",
+      "summary": {
+        "en": "These with Jason as admiral put to sea and touched at Lemnos, which happened to be bereft of men and ruled over by a queen, Hypsipyle, daughter of Thoas. The Lemnian women did not honour Aphrodite, and she visited them with a noisome smell; therefore their husbands took captive women from the neighbouring country of Thrace and bedded with them. Dishonoured, the Lemnian women murdered their fathers and husbands — Hypsipyle alone saved her father Thoas by hiding him. The Argonauts had intercourse with the women, and Hypsipyle bore Jason two sons, Euneus and Nebrophonus.",
+        "zh": "阿爾戈英雄以伊阿宋為首航行至利姆諾斯島，島上男子皆亡，由托阿斯之女許普西皮勒為后。利姆諾斯婦女不敬阿芙洛狄忒，被神賜以惡臭之體；其夫遂擄色雷斯女子為妾。受辱的妻子們遂殺父戮夫——唯許普西皮勒藏匿其父托阿斯得以保全。阿爾戈英雄與島上女子結合；許普西皮勒為伊阿宋生二子。"
+      },
+      "motifs": [
+        "taboo-transgression",
+        "sacred-kingship"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient literary source; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "These with Jason as admiral put to sea and touched at Lemnos. At that time it chanced that Lemnos was bereft of men and ruled over by a queen, Hypsipyle, daughter of Thoas.",
+          "note": "Paraphrase of Apollodorus, Library 1.9.17 (Frazer 1921); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "The reason of this was as follows. The Lemnian women did not honour Aphrodite, and she visited them with a noisome smell; therefore their spouses took captive women from the neighbouring country of Thrace and bedded with them.",
+          "note": "Paraphrase of Apollodorus, Library 1.9.17 (Frazer 1921); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "Thus dishonoured, the Lemnian women murdered their fathers and husbands; but Hypsipyle alone saved her father Thoas by hiding him.",
+          "note": "Paraphrase of Apollodorus, Library 1.9.17 (Frazer 1921); not verbatim."
+        },
+        {
+          "id": "4",
+          "text": "So, having put in to Lemnos, at that time ruled by women, the Argonauts had intercourse with the women; and Hypsipyle bedded with Jason and bore sons, Euneus and Nebrophonus.",
+          "note": "Paraphrase of Apollodorus, Library 1.9.17 (Frazer 1921); not verbatim."
+        }
+      ],
+      "persons": [
+        "euneus",
+        "nebrophonus",
+        "hypsipyle",
+        "jason",
+        "thoas-lemnos"
+      ]
+    },
+    {
+      "id": "greek-apollodorus-lion-hydra",
+      "title": {
+        "en": "The Nemean Lion and the Hydra of Lerna",
+        "zh": "尼米亞獅與勒拿九頭蛇"
+      },
+      "tradition": "greek",
+      "category": "myth",
+      "region": {
+        "en": "Nemea &amp; Lerna (mythic geography)",
+        "zh": "尼米亞與勒拿（神話地理）"
+      },
+      "lat": 37.85,
+      "lon": 22.71,
+      "period": "Compiled c. 1st-2nd century CE (attrib. Apollodorus; Frazer translation 1921)",
+      "source": {
+        "archive": "ToposText (J. G. Frazer, Loeb 1921)",
+        "work": "Apollodorus, Library, trans. J. G. Frazer (1921), §§ 2.5.1-2.5.2",
+        "url": "https://topostext.org/work/150"
+      },
+      "license": "Public domain (Frazer translation 1921)",
+      "summary": {
+        "en": "First Eurystheus ordered him to bring the skin of the Nemean lion, an invulnerable beast begotten by Typhon. Heracles lodged with a day-labourer, Molorchus, and told him to wait thirty days: if the hero returned safe, Molorchus was to sacrifice to Saviour Zeus; if he were dead, to sacrifice to Heracles as to a hero. At Nemea he shot the lion, found the beast invulnerable, heaved up his club, chased it into a cave with two mouths, built up one entrance, came in through the other, and strangled it. Second, the Hydra of Lerna: nine heads, eight mortal and the middle one immortal; as each head was cut off two grew in its place, and a crab sent by Hera bit the hero's foot. He burned out the necks and buried the immortal head under a heavy rock on the road from Lerna to Elaeus, dipping his arrows in the hydra's gall so that any wound they gave became incurable.",
+        "zh": "首項勞役取尼米亞獅之皮：獅乃提豐所生、刀槍不入。赫拉克勒斯宿於雇工墨羅爾科斯家，囑其候三十日：若歸則祭「救主宙斯」，若死則祭己為英雄。在尼米亞，箭無效，遂以棒擊之，追入雙口洞穴，封其一端自他口入而扼斃之。第二項勞役為勒拿九頭蛇：九首之中中間者不死，每斬一首即生二首，赫拉又遣巨蟹噬其足。英雄以火烙頸、以巨石鎮其不死之首；並以蛇之膽汁塗箭，使傷者不得痊。"
+      },
+      "motifs": [
+        "taboo-transgression",
+        "culture-hero"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient literary source; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "First, Eurystheus ordered him to bring the skin of the Nemean lion; now that was an invulnerable beast begotten by Typhon. On his way to attack the lion he came to Cleonae and lodged at the house of a day-labourer, Molorchus; and when his host would have offered a victim in sacrifice, Heracles told him to wait for thirty days, and then, if he had returned safe from the hunt, to sacrifice to Saviour Zeus; but if he were dead, to sacrifice to him as to a hero.",
+          "note": "Paraphrase of Apollodorus, Library 2.5.1 (Frazer 1921); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "And having come to Nemea and tracked the lion, he first shot an arrow at him; but when he perceived that the beast was invulnerable, he heaved up his club and made after him. And when the lion took refuge in a cave with two mouths, Heracles built up the one entrance and came in upon the beast through the other, and, putting his arm round its neck, held it tight till he had choked it; then, laying it on his shoulders, he carried it to Cleonae. Amazed at his manhood, Eurystheus forbade him thenceforth to enter the city, but ordered him to exhibit the fruits of his labours before the gates.",
+          "note": "Paraphrase of Apollodorus, Library 2.5.1 (Frazer 1921); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "As a second labour he ordered him to kill the Lernaean hydra. That creature, bred in the swamp of Lerna, used to go forth into the plain and ravage both the cattle and the country. Now the hydra had a huge body, with nine heads, eight mortal, but the middle one immortal. So mounting his chariot, Heracles drove to Lerna, and by the help of Iphicles held back the crabs that came to the hydra's help: he burned out the root of each head with a firebrand and stopped the necks, and the immortal head he buried under a heavy rock on the road between Lerna and Elaeus.",
+          "note": "Paraphrase of Apollodorus, Library 2.5.2 (Frazer 1921); not verbatim."
+        },
+        {
+          "id": "4",
+          "text": "But Eurystheus said that this labour ought not to be reckoned, because it was done with the help of Iolaus; and so Heracles had to perform two more labours for the same number. And he dipped his arrows in the gall of the hydra, so that any wound they gave became incurable — a device that would cost the centaur Chiron his life, and would one day kill the hero himself.",
+          "note": "Paraphrase of Apollodorus, Library 2.5.2 (Frazer 1921); not verbatim."
+        }
+      ],
+      "persons": [
+        "heracles",
+        "iphicles-heraclid",
+        "molorchus"
+      ]
+    },
+    {
+      "id": "greek-apollodorus-mares-diomedes",
+      "title": {
+        "en": "The Man-Eating Mares of Diomedes",
+        "zh": "食人馬：狄俄墨得斯的母馬"
+      },
+      "tradition": "greek",
+      "category": "myth",
+      "region": {
+        "en": "Thrace (symbolic pin)",
+        "zh": "色雷斯（象徵性定位）"
+      },
+      "lat": 41.0,
+      "lon": 25.5,
+      "period": "Compiled c. 1st-2nd century CE (attrib. Apollodorus; Frazer translation 1921)",
+      "source": {
+        "archive": "ToposText (J. G. Frazer, Loeb 1921)",
+        "work": "Apollodorus, Library, trans. J. G. Frazer (1921), § 2.5.8",
+        "url": "https://topostext.org/work/150"
+      },
+      "license": "Public domain (Frazer translation 1921)",
+      "summary": {
+        "en": "The eighth labour was to bring the mares of Diomedes the Thracian to Mycenae. Diomedes, son of Ares and Cyrene, was king of the Bistones, a very warlike Thracian people, and he owned man-eating mares. Heracles sailed with a band of volunteers, overpowered the grooms in charge of the mangers, and drove the mares to the sea. When the Bistones came to the rescue, he committed the mares to the guardianship of Abderus, a son of Hermes from Opus in Locris, a minion of his own; but the mares killed him by dragging him after them. Heracles fought the Bistones, slew Diomedes, and put the rest to flight; and he founded a city, Abdera, beside the grave of the friend who had been done to death, and brought the mares to Eurystheus, who let them go — they came to Mount Olympus, as it is called, and there they were destroyed by the wild beasts.",
+        "zh": "第八項勞役：將色雷斯狄俄墨得斯之食人母馬帶回邁錫尼。狄俄墨得斯乃阿瑞斯與庫瑞涅之子，比斯托涅人之王，養食人母馬。赫拉克勒斯率義勇出海，制服馬夫，驅馬至海邊；比斯托涅人來救時，託阿布德羅斯（赫爾墨斯之子、洛克里人、英雄之侍從）看守，馬群拖死此人。英雄擊潰比斯托涅人、殺狄俄墨得斯，並於亡友墓旁建城阿布德拉；母馬獻予歐里斯透斯後被釋，逃至奧林波斯山，為野獸所食。"
+      },
+      "motifs": [
+        "taboo-transgression",
+        "culture-hero"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient literary source; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The eighth labour he enjoined on him was to bring the mares of Diomedes the Thracian to Mycenae. Now this Diomedes was a son of Ares and Cyrene, and he was king of the Bistones, a very warlike Thracian people, and he owned man-eating mares.",
+          "note": "Paraphrase of Apollodorus, Library 2.5.8 (Frazer 1921); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "So Heracles sailed with a band of volunteers, and having overpowered the grooms who were in charge of the mangers, he drove the mares to the sea. When the Bistones in arms came to the rescue, he committed the mares to the guardianship of Abderus, who was a son of Hermes, a native of Opus in Locris, and a minion of Heracles; but the mares killed him by dragging him after them.",
+          "note": "Paraphrase of Apollodorus, Library 2.5.8 (Frazer 1921); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "But Heracles fought against the Bistones, slew Diomedes and compelled the rest to flee. And he founded a city Abdera beside the grave of Abderus who had been done to death, and bringing the mares he gave them to Eurystheus. But Eurystheus let them go, and they came to Mount Olympus, as it is called, and there they were destroyed by the wild beasts.",
+          "note": "Paraphrase of Apollodorus, Library 2.5.8 (Frazer 1921); not verbatim."
+        }
+      ],
+      "persons": [
+        "hermes",
+        "poseidon",
+        "achilles",
+        "diomedes-thracian",
+        "heracles",
+        "abderus"
+      ]
+    },
+    {
+      "id": "greek-apollodorus-pelops-olympia",
+      "title": {
+        "en": "Pelops and the Chariot Race of Oenomaus",
+        "zh": "珀羅普斯與俄諾瑪俄斯的賽車"
+      },
+      "tradition": "greek",
+      "category": "myth",
+      "region": {
+        "en": "Pisa, Elis (Olympia) (symbolic pin)",
+        "zh": "厄利斯皮薩（奧林匹亞，象徵性定位）"
+      },
+      "lat": 37.64,
+      "lon": 21.63,
+      "period": "Composed from the lost epics (c. 7th century BCE; summary in Apollodorus; Frazer translation 1921)",
+      "source": {
+        "archive": "ToposText (J. G. Frazer, Loeb 1921)",
+        "work": "Apollodorus, Library, trans. J. G. Frazer (1921), Epitome e.2.3-e.2.9",
+        "url": "https://topostext.org/work/837"
+      },
+      "license": "Public domain (Frazer translation 1921)",
+      "summary": {
+        "en": "Pelops, after being slaughtered and boiled at the banquet of the gods, was fairer than ever when he came to life again, and on account of his surpassing beauty he became the beloved of Poseidon, who gave him a winged chariot such that even when it ran through the sea the axles were not wet. Oenomaus, king of Pisa, had a daughter Hippodamia, and, whether he loved her himself or was warned by an oracle that he must die by the man who married her, he put every suitor to death: armed with horses from Ares, he offered her hand as the prize of a race to the Isthmus of Corinth, and slew the losers — some say twelve — and nailed their heads to his house. Pelops came a-wooing; Hippodamia, seeing his beauty, fell in love and persuaded Myrtilus, her father's charioteer and a son of Hermes, to help him; Myrtilus, in love with her himself, did not insert the linchpins in the boxes of the wheels, and Oenomaus, losing the race, was entangled in the reins and dragged to death. Pelops got Hippodamia; and, on the journey home, when Myrtilus tried to violate her, Pelops threw him into the sea — the Myrtoan — at Cape Geraestus; and Myrtilus, as he was being thrown, uttered curses against the house of Pelops. Cleansed by Hephaestus on his return to the Ocean, Pelops went back to Pisa, succeeded to the kingdom of Oenomaus, and subjugated what was formerly called Apia and Pelasgiotis, calling it Peloponnesus after himself — the founder, in the Greek telling, of the chariot races at Olympia.",
+        "zh": "珀羅普斯被父坦塔羅斯剁碎煮於神宴，復活後愈見俊美，成為波塞冬之愛人，得賜「飛車過海而輪軸不濕」。厄利斯皮薩王俄諾瑪俄斯有女希波達彌亞，或因自愛、或因神諭（「必死於其婿之手」）而誅殺所有求婚者——戰車由阿瑞斯所賜，追逐敗者至科任托斯地峽，殺十二人，將其首釘於屋牆。珀羅普斯求婚；希波達彌亞見其美貌生情，說服御者墨耳提爾斯（赫爾墨斯之子）相助；御者亦戀她，便不加輪軸銷釘，俄諾瑪俄斯賽敗纏於韁繩拖死。歸途中墨耳提爾斯欲玷希波達彌亞，被珀羅普斯投海（該海因得名墨耳托安），臨死咒珀羅普斯家族。珀羅普斯經赫菲斯托斯淨禮，得皮薩王位，並將「阿庇亞／珀拉斯戈提斯」改名「珀羅奔尼撒」——奧林匹亞賽車之起源神話。"
+      },
+      "motifs": [
+        "sacred-kingship",
+        "taboo-transgression"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient literary source; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Pelops, after being slaughtered and boiled at the banquet of the gods, was fairer than ever when he came to life again, and on account of his surpassing beauty he became the beloved of Poseidon, who gave him a winged chariot, such that even when it ran through the sea the axles were not wet.",
+          "note": "Paraphrase of Apollodorus, Library, Epitome e.2.3 (Frazer 1921); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Now Oenomaus, the king of Pisa, had a daughter Hippodamia; and whether it was that he loved her, as some say, or that he was warned by an oracle that he must die by the man that married her, no man got her to wife; for her father could not persuade her to cohabit with him, and her suitors were put by him to death. For he had arms and horses given him by Ares, and he offered as a prize to the suitors the hand of his daughter; and each suitor was bound to take up Hippodamia on his own chariot and flee as far as the Isthmus of Corinth, and Oenomaus straightway pursued him in full armour, and if he overtook him he slew him. In this way he slew many suitors, some say twelve, and he cut off the heads of the suitors and nailed them to his house.",
+          "note": "Paraphrase of Apollodorus, Library, Epitome e.2.4-e.2.5 (Frazer 1921); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "So Pelops also came a-wooing; and when Hippodamia saw his beauty, she conceived a passion for him and persuaded Myrtilus, son of Hermes, to help him; for Myrtilus was charioteer to Oenomaus. Accordingly Myrtilus, being in love with her and wishing to gratify her, did not insert the linchpins in the boxes of the wheels, and thus caused Oenomaus to lose the race and to be entangled in the reins and dragged to death.",
+          "note": "Paraphrase of Apollodorus, Library, Epitome e.2.6-e.2.7 (Frazer 1921); not verbatim."
+        },
+        {
+          "id": "4",
+          "text": "Pelops, therefore, got Hippodamia; and on his journey, in which he was accompanied by Myrtilus, he came to a certain place and withdrew a little to fetch water for his wife, who was athirst; and in the meantime Myrtilus tried to rape her. But when Pelops learned that from her, he threw Myrtilus into the sea, called after him the Myrtoan Sea, at Cape Geraestus; and Myrtilus, as he was being thrown, uttered curses against the house of Pelops.",
+          "note": "Paraphrase of Apollodorus, Library, Epitome e.2.8 (Frazer 1921); not verbatim."
+        },
+        {
+          "id": "5",
+          "text": "When Pelops had reached the Ocean and been cleansed by Hephaestus, he returned to Pisa in Elis and succeeded to the kingdom of Oenomaus — but not till he had subjugated what was formerly called Apia and Pelasgiotis, which he called Peloponnesus after himself.",
+          "note": "Paraphrase of Apollodorus, Library, Epitome e.2.9 (Frazer 1921); not verbatim."
+        }
+      ],
+      "persons": [
+        "poseidon"
+      ]
+    },
+    {
+      "id": "greek-apollodorus-salmoneus-hubris",
+      "title": {
+        "en": "Salmoneus the False Zeus",
+        "zh": "偽宙斯薩爾摩紐斯"
+      },
+      "tradition": "greek",
+      "category": "myth",
+      "region": {
+        "en": "Elis, Peloponnese (symbolic pin)",
+        "zh": "伯羅奔尼撒厄利斯（象徵性定位）"
+      },
+      "lat": 37.68,
+      "lon": 21.62,
+      "period": "Compiled c. 1st-2nd century CE (attrib. Apollodorus; Frazer translation 1921)",
+      "source": {
+        "archive": "ToposText (J. G. Frazer, Loeb 1921)",
+        "work": "Apollodorus, Library, trans. J. G. Frazer (1921), § 1.9.7",
+        "url": "https://topostext.org/work/150"
+      },
+      "license": "Public domain (Frazer translation 1921)",
+      "summary": {
+        "en": "Salmoneus, one of the many sons of Aeolus, came from Thessaly to Elis and founded a city there. Wishing to put himself on an equality with Zeus, he took away the sacrifices of the god and ordered them offered to himself, and dragged dried hides with bronze kettles behind his chariot, saying that he thundered, and flung lighted torches at the sky, saying that he lightened. Zeus struck him with a thunderbolt and wiped out the city he had founded, with all its inhabitants.",
+        "zh": "埃俄羅斯之子薩爾摩紐斯自色薩利來至厄利斯建城，自比宙斯：奪神之祭、命祭己身，以乾皮青銅鍋拖曳於戰車之後而自稱「雷霆」，向天投擲火把而自稱「閃電」。宙斯以雷殛之，滅其城邑，全城無一倖免。"
+      },
+      "motifs": [
+        "taboo-transgression",
+        "storm-thunder"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient literary source; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Salmoneus at first dwelt in Thessaly, but afterwards he came to Elis and there founded a city. And being arrogant and wishful to put himself on an equality with Zeus, he was punished for his impiety.",
+          "note": "Paraphrase of Apollodorus, Library 1.9.7 (Frazer 1921); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "For he said that he was himself Zeus, and he took away the sacrifices of the god and ordered them to be offered to himself; and by dragging dried hides, with bronze kettles, at his chariot, he said that he thundered; and by flinging lighted torches at the sky he said that he lightened.",
+          "note": "Paraphrase of Apollodorus, Library 1.9.7 (Frazer 1921); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "But Zeus struck him with a thunderbolt, and wiped out the city he had founded with all its inhabitants — a story told for the Greek who might mistake clever theatricals for divinity.",
+          "note": "Paraphrase of Apollodorus, Library 1.9.7 (Frazer 1921); not verbatim."
+        }
+      ],
+      "persons": [
+        "zeus"
+      ]
+    },
+    {
+      "id": "greek-apollodorus-stables-birds",
+      "title": {
+        "en": "The Stables of Augeas and the Birds of Stymphalus",
+        "zh": "奧革阿斯牛廄與斯廷法利斯湖怪鳥"
+      },
+      "tradition": "greek",
+      "category": "myth",
+      "region": {
+        "en": "Elis &amp; Stymphalus, Arcadia (mythic geography)",
+        "zh": "厄利斯與阿卡迪亞斯廷法利斯湖（神話地理）"
+      },
+      "lat": 37.85,
+      "lon": 21.9,
+      "period": "Compiled c. 1st-2nd century CE (attrib. Apollodorus; Frazer translation 1921)",
+      "source": {
+        "archive": "ToposText (J. G. Frazer, Loeb 1921)",
+        "work": "Apollodorus, Library, trans. J. G. Frazer (1921), §§ 2.5.5-2.5.6",
+        "url": "https://topostext.org/work/150"
+      },
+      "license": "Public domain (Frazer translation 1921)",
+      "summary": {
+        "en": "The fifth labour was to carry out the dung of the cattle of Augeas, king of Elis, in a single day. Heracles did not reveal the command of Eurystheus, but offered the task for a tenth of the cattle; Augeas promised, with his son Phyleus as witness. Heracles made a breach in the foundations of the yard, diverted the courses of the Alpheus and Peneus into it, and made an outlet for the water on the other side. When Augeas learned the work had been done at Eurystheus' command, he refused the reward and denied the bargain; and the arbitrators, hearing Phyleus witness against his own father, saw Augeas order both the witness and Heracles out of Elis before the voting. The sixth labour was to chase away the Stymphalian birds: countless birds had flocked to the lake of Stymphalus in Arcadia, fearing the wolves; Athena gave Heracles brazen castanets made by Hephaestus, and by clashing them on a mountain that overhung the lake he scared the birds into the air, where he shot them.",
+        "zh": "第五項勞役：一日之內清空厄利斯王奧革阿斯之牛廄。赫拉克勒斯未言明是歐里斯透斯之命，只求得牛群十分之一為酬；奧革阿斯許諾，以其子菲琉斯為證。赫拉克勒斯鑿開牛欄地基，引阿爾甫斯與珀紐斯二河之水灌入，另鑿出水口。當奧革阿斯得知此乃奉命而為，竟拒不付酬、矢口否認承諾；仲裁時，菲琉斯出庭指證其父，奧革阿斯怒而在投票前將二人逐出厄利斯。第六項勞役：驅逐斯廷法利斯湖之怪鳥。雅典娜賜赫拉克勒斯赫菲斯托斯所鑄之銅響板；英雄在湖邊山上擊之，鳥群驚起，遂以箭射殺。"
+      },
+      "motifs": [
+        "culture-hero",
+        "trickster"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient literary source; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The fifth labour he laid on him was to carry out the dung of the cattle of Augeas in a single day. Now Augeas was king of Elis — some say a son of the Sun, others of Poseidon, and others of Phorbas — and he had many herds of cattle. Heracles accosted him, and without revealing the command of Eurystheus, said that he would carry out the dung in one day if Augeas would give him the tithe of the cattle. Augeas was incredulous, but promised.",
+          "note": "Paraphrase of Apollodorus, Library 2.5.5 (Frazer 1921); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Having taken Augeas' son Phyleus to witness, Heracles made a breach in the foundations of the cattle-yard, and then, diverting the courses of the Alpheus and Peneus, which flowed near each other, he turned them into the yard, having first made an outlet for the water through another opening.",
+          "note": "Paraphrase of Apollodorus, Library 2.5.5 (Frazer 1921); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "When Augeas learned that this had been accomplished at the command of Eurystheus, he would not pay the reward; nay more, he denied that he had promised to pay it, and on that point he professed himself ready to submit to arbitration. The arbitrators having taken their seats, Phyleus was called by Heracles and bore witness against his father, affirming that he had agreed to give a reward. In a rage Augeas, before the voting took place, ordered both Phyleus and Heracles to pack out of Elis.",
+          "note": "Paraphrase of Apollodorus, Library 2.5.5 (Frazer 1921); not verbatim."
+        },
+        {
+          "id": "4",
+          "text": "The sixth labour he enjoined on him was to chase away the Stymphalian birds. Now at the city of Stymphalus in Arcadia was the lake called Stymphalian, embosomed in a deep wood. To it countless birds had flocked for refuge, fearing to be preyed upon by the wolves. So when Heracles was at a loss how to drive the birds from the wood, Athena gave him brazen castanets which she had received from Hephaestus. By clashing these on a certain mountain that overhung the lake, he scared the birds; they could not abide the sound, but fluttered up in a fright, and in that way Heracles shot them.",
+          "note": "Paraphrase of Apollodorus, Library 2.5.6 (Frazer 1921); not verbatim."
+        }
+      ],
+      "persons": [
+        "athena",
+        "heracles",
+        "augеas",
+        "phyleus"
+      ]
+    },
+    {
+      "id": "greek-apollodorus-tyro-pelias-neleus",
+      "title": {
+        "en": "Tyro, the River, and the Twins",
+        "zh": "提洛、河神與雙生子"
+      },
+      "tradition": "greek",
+      "category": "myth",
+      "region": {
+        "en": "Thessaly (symbolic pin)",
+        "zh": "色薩利（象徵性定位）"
+      },
+      "lat": 39.5,
+      "lon": 22.0,
+      "period": "Compiled c. 1st-2nd century CE (attrib. Apollodorus; Frazer translation 1921)",
+      "source": {
+        "archive": "ToposText (J. G. Frazer, Loeb 1921)",
+        "work": "Apollodorus, Library, trans. J. G. Frazer (1921), § 1.9.8",
+        "url": "https://topostext.org/work/150"
+      },
+      "license": "Public domain (Frazer translation 1921)",
+      "summary": {
+        "en": "Tyro, daughter of Salmoneus, was brought up by Cretheus her uncle, and fell in love with the river Enipeus, going often to its running waters to pour out her heart to them. Poseidon, taking the river's own shape, lay with her, and she bore twin sons in secret and exposed them. A mare of some passing horse-herdsmen kicked one of the babies and left a livid mark on its face; the horse-herdsman took up both children and reared them, calling the marked one Pelias and the other Neleus. Grown, the twins found their mother and killed her stepmother Sidero, who had mistreated her; and Pelias cut her down on the very altars of Hera, and ever after treated the goddess with contempt.",
+        "zh": "薩爾摩紐斯之女提洛由伯父克瑞透斯撫養，愛上河神厄尼珀斯，常赴其流水之畔傾訴。波塞冬化作河神之形與之結合；她祕誕雙子而棄之。路過牧馬者的母馬踢傷一嬰留於面部青痕；牧馬人收養二子，稱青痕者珀利阿斯、另一為涅琉斯。雙子長成尋母，誅其繼母西得羅——珀利阿斯竟於赫拉祭壇前將其殺害，此後亦常輕慢女神。"
+      },
+      "motifs": [
+        "miraculous-birth",
+        "taboo-transgression"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient literary source; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Now Tyro, daughter of Salmoneus and Alcidice, was brought up by Cretheus, brother of Salmoneus, and conceived a passion for the river Enipeus, and often would she hie to its running waters and utter her plaint to them.",
+          "note": "Paraphrase of Apollodorus, Library 1.9.8 (Frazer 1921); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "But Poseidon in the likeness of Enipeus lay with her, and she secretly gave birth to twin sons, whom she exposed. As the babes lay forlorn, a mare belonging to some passing horse-herdsmen kicked with its hoof one of the two infants and left a livid mark on its face.",
+          "note": "Paraphrase of Apollodorus, Library 1.9.8 (Frazer 1921); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "The horse-herdsman took up both the children and reared them; and the one with the livid mark he called Pelias, and the other Neleus. When they were grown up, they discovered their mother and killed their stepmother Sidero: for knowing that their mother was ill-used by her, they attacked her; but before they could catch her she had taken refuge in the precinct of Hera. However, Pelias cut her down on the very altars, and ever after he continued to treat Hera with contempt.",
+          "note": "Paraphrase of Apollodorus, Library 1.9.8 (Frazer 1921); not verbatim."
+        }
+      ],
+      "persons": [
+        "hera",
+        "poseidon",
+        "zeus"
+      ]
+    },
+    {
+      "id": "greek-epitome-locrians-maidens",
+      "title": {
+        "en": "The Locrian Maidens at Troy",
+        "zh": "洛克里少女赴特洛伊"
+      },
+      "tradition": "greek",
+      "category": "myth",
+      "region": {
+        "en": "Ilium (symbolic pin)",
+        "zh": "特洛伊（象徵性定位）"
+      },
+      "lat": 39.96,
+      "lon": 26.24,
+      "period": "Composed from the lost epics (c. 7th century BCE; summary in Apollodorus; Frazer translation 1921)",
+      "source": {
+        "archive": "ToposText (J. G. Frazer, Loeb 1921)",
+        "work": "Apollodorus, Library, trans. J. G. Frazer (1921), Epitome e.6.20-e.6.22",
+        "url": "https://topostext.org/work/837"
+      },
+      "license": "Public domain (Frazer translation 1921)",
+      "summary": {
+        "en": "The Locrians regained their own country with difficulty, and three years afterwards, when Locris was visited by a plague, they received an oracle bidding them to propitiate Athena at Ilium and to send two maidens as suppliants for a thousand years. The lot first fell on Periboea and Cleopatra. When they came to Troy they were chased by the natives and took refuge in the sanctuary; and they did not approach the goddess, but swept and sprinkled the sanctuary; and they did not go out of the temple, and their hair was cropped, and they wore single garments and no shoes. And when the first maidens died, they sent others; and they entered into the city by night, lest, being seen outside the precinct, they should be put to the sword; but afterwards they sent babes with their nurses. And when the thousand years were passed, after the Phocian war, they ceased to send suppliants.",
+        "zh": "洛克里人艱難還鄉；三年後瘟疫襲境，神諭命其「在特洛伊向雅典娜贖罪、送兩名少女為乞援者，以繼千年」。初籤落於珀里玻亞與克勒俄帕特拉。二女至特洛伊被土人追逐、避入圣所；不入神前，只掃灑圣所；不出廟門、剃髮、單衣赤足。首批少女亡後續送他人；夜間入城以免被殺；其後改送嬰兒由乳母攜往。千年期滿（福基斯戰爭之後），方停止派遣。"
+      },
+      "motifs": [
+        "taboo-transgression",
+        "oracle-divination"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient literary source; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The Locrians regained their own country with difficulty, and three years afterwards, when Locris was visited by a plague, they received an oracle bidding them to propitiate Athena at Ilium and to send two maidens as suppliants for a thousand years. The lot first fell on Periboea and Cleopatra.",
+          "note": "Paraphrase of Apollodorus, Library, Epitome e.6.20 (Frazer 1921); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "And when they came to Troy they were chased by the natives and took refuge in the sanctuary. And they did not approach the goddess, but swept and sprinkled the sanctuary; and they did not go out of the temple, and their hair was cropped, and they wore single garments and no shoes.",
+          "note": "Paraphrase of Apollodorus, Library, Epitome e.6.21 (Frazer 1921); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "And when the first maidens died, they sent others; and they entered into the city by night, lest, being seen outside the precinct, they should be put to the sword; but afterwards they sent babes with their nurses. And when the thousand years were passed, after the Phocian war, they ceased to send suppliants.",
+          "note": "Paraphrase of Apollodorus, Library, Epitome e.6.22 (Frazer 1921); not verbatim."
+        }
+      ],
+      "persons": [
+        "athena"
+      ]
+    },
+    {
+      "id": "greek-epitome-tenes-tenedos",
+      "title": {
+        "en": "Tenes and the Founding of Tenedos",
+        "zh": "特涅斯與特涅多斯島之建立"
+      },
+      "tradition": "greek",
+      "category": "myth",
+      "region": {
+        "en": "Tenedos, Aegean (symbolic pin)",
+        "zh": "愛琴海特涅多斯島（象徵性定位）"
+      },
+      "lat": 39.83,
+      "lon": 26.15,
+      "period": "Composed from the lost epics (c. 7th century BCE; summary in Apollodorus; Frazer translation 1921)",
+      "source": {
+        "archive": "ToposText (J. G. Frazer, Loeb 1921)",
+        "work": "Apollodorus, Library, trans. J. G. Frazer (1921), Epitome e.3.23-e.3.26",
+        "url": "https://topostext.org/work/837"
+      },
+      "license": "Public domain (Frazer translation 1921)",
+      "summary": {
+        "en": "After putting to sea from Aulis they touched at Tenedos, which was ruled by Tenes, son of Cycnus and Proclia — though according to some he was a son of Apollo. For Cycnus had a son Tenes and a daughter Hemithea by Proclia, daughter of Laomedon; but he afterwards married Philonome, daughter of Tragasus, and she fell in love with Tenes, and, failing to seduce him, falsely accused him to Cycnus of attempting to debauch her, producing in witness of it a flute-player, Eumolpus. Cycnus believed her, and, putting Tenes and his sister in a chest, set them adrift on the sea; the chest was washed up on the island of Leucophrys, and Tenes landed and settled in the island, calling it Tenedos after himself. Cycnus afterwards learning the truth, stoned the flute-player to death and buried his wife alive in the earth. So when the Greeks were standing in for Tenedos, Tenes saw them and tried to keep them off by throwing stones, but was killed by Achilles with a sword-cut in the breast — though Thetis had forewarned Achilles not to kill Tenes, because he himself would die by the hand of Apollo if he slew Tenes.",
+        "zh": "希臘艦隊自奧利斯出海，先抵特涅多斯島——島主特涅斯乃庫克諾斯與普羅克莉亞之子（另有說為阿波羅之子）。庫克諾斯續娶特拉伽索斯之女菲洛諾墨；繼母戀特涅斯不遂，誣其非禮，並以笛師歐墨爾甫斯為偽證。庫克諾斯信之，將特涅斯與其妹赫彌忒亞裝箱漂流；箱漂至琉科佛里斯島，特涅斯登陸建城，以其名命名「特涅多斯」。庫克諾斯後知真相，以石擊斃笛師、活埋其妻。希臘艦隊抵島時，特涅斯投石阻之，為阿基琉斯劍穿胸而死——忒提斯曾預警：若殺特涅斯，阿基琉斯必將死於阿波羅之手。"
+      },
+      "motifs": [
+        "taboo-transgression",
+        "oracle-divination"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient literary source; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "After putting to sea from Aulis they touched at Tenedos. It was ruled by Tenes, son of Cycnus and Proclia, but according to some, he was a son of Apollo. He dwelt there because he had been banished by his father.",
+          "note": "Paraphrase of Apollodorus, Library, Epitome e.3.23 (Frazer 1921); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "For Cycnus had a son Tenes and a daughter Hemithea by Proclia, daughter of Laomedon; but he afterwards married Philonome, daughter of Tragasus; and she fell in love with Tenes, and, failing to seduce him, falsely accused him to Cycnus of attempting to debauch her, and in witness of it she produced a flute-player, by name Eumolpus.",
+          "note": "Paraphrase of Apollodorus, Library, Epitome e.3.24 (Frazer 1921); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "Cycnus believed her, and putting him and his sister in a chest he set them adrift on the sea. The chest was washed up on the island of Leucophrys, and Tenes landed and settled in the island, and called it Tenedos after himself. But Cycnus afterwards learning the truth, stoned the flute-player to death and buried his wife alive in the earth.",
+          "note": "Paraphrase of Apollodorus, Library, Epitome e.3.25 (Frazer 1921); not verbatim."
+        },
+        {
+          "id": "4",
+          "text": "So when the Greeks were standing in for Tenedos, Tenes saw them and tried to keep them off by throwing stones, but was killed by Achilles with a sword-cut in the breast, though Thetis had forewarned Achilles not to kill Tenes, because he himself would die by the hand of Apollo if he slew Tenes.",
+          "note": "Paraphrase of Apollodorus, Library, Epitome e.3.26 (Frazer 1921); not verbatim."
+        }
+      ],
+      "persons": []
+    }
+  ]
+}

@@ -1,0 +1,328 @@
+{
+  "texts": [
+    {
+      "id": "indonesian-avidichu-chest-ruse",
+      "title": {
+        "en": "The Champions in the Chests: Avidichu Takes a Raja Alive",
+        "zh": "箱中勇士：阿維迪朱活擒蘇丹"
+      },
+      "tradition": "indonesian",
+      "category": "myth",
+      "region": {
+        "en": "Samudra, north Sumatra (Malay Annals geography)",
+        "zh": "北蘇門答臘三摩陀（《馬來紀年》地理）"
+      },
+      "lat": 5.1,
+      "lon": 95.9,
+      "period": "Composed as Sulalat al-Salatin c. 1612; Leyden translation 1821",
+      "source": {
+        "archive": "Wikisource (Leyden translation 1821)",
+        "work": "Malay Annals, ch. VIII (Avidichu's stratagem), trans. John Leyden 1821",
+        "url": "https://en.wikisource.org/wiki/Malay_Annals"
+      },
+      "license": "Public domain (translation 1821)",
+      "summary": {
+        "en": "The raja of Shaher al Nawi hears of rich Samudra and asks who will take its raja alive; the champion Avidichu asks for four thousand warriors and a hundred prows, sails in merchant's guise, presents himself as an ambassador — and sends forty daring warriors to the palace in chests that open from within, 'as containing the presents of Raja Shaher al Nawi.' At the moment of audience the chests burst open and the raja is seized; his own warriors stand down under the threat to his life, and the captive sultan is set to keeping hens.",
+        "zh": "薩赫爾·納維之王聞三摩陀富庶，問誰能生擒其王；勇士阿維迪朱請兵四千、船百艘，喬裝商賈而來，自稱使節——並以『內可自內開啟之箱』送四十勇士入宮，詐稱『薩赫爾·納維王之禮』。覲見之際群箱迸裂，蘇丹被擒；三摩陀武士因王在敵手而不敢拔刃，被俘之蘇丹竟被罰去養雞。"
+      },
+      "motifs": [
+        "trickster",
+        "sacred-kingship"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Chest-trojan ruse; the humiliation (henkeeper) as narrative wound driving the rescue."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Avidichu placed forty daring warriors in chests which opened from within, and sent them forward to the palace as containing the presents of Raja Shaher al Nawi, directing them that when he should appear before the raja to receive audience, they should suddenly issue forth and seize the raja.",
+          "note": "Paraphrase of Malay Annals ch. VIII (Leyden 1821); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Avidichu proceeded to the presence of the raja and presented the letter, which was read in due form; meantime the champions started from their chests and seized the raja of Samadra. The warriors of Samadra flew to their arms, but were assured that the instant they commenced their attack the raja would be slain — and Avidichu returned with his prisoner, whom the conquering raja appointed his henkeeper.",
+          "note": "Paraphrase of Malay Annals ch. VIII (Leyden 1821); not verbatim."
+        }
+      ],
+      "persons": []
+    },
+    {
+      "id": "indonesian-three-golden-gifts",
+      "title": {
+        "en": "The Golden Tree, the Gemmed Chessboard, the Golden Ducks: Buying Back a King",
+        "zh": "金樹、寶棋、金鴨：贖回君王"
+      },
+      "tradition": "indonesian",
+      "category": "myth",
+      "region": {
+        "en": "Shaher al Nawi and Samudra (Malay Annals geography)",
+        "zh": "薩赫爾·納維與三摩陀（《馬來紀年》地理）"
+      },
+      "lat": 5.1,
+      "lon": 95.9,
+      "period": "Composed as Sulalat al-Salatin c. 1612; Leyden translation 1821",
+      "source": {
+        "archive": "Wikisource (Leyden translation 1821)",
+        "work": "Malay Annals, ch. VIII (Sidi Ali Gheyas ed-din's ransoming gifts), trans. John Leyden 1821",
+        "url": "https://en.wikisource.org/wiki/Malay_Annals"
+      },
+      "license": "Public domain (translation 1821)",
+      "summary": {
+        "en": "Sidi Ali Gheyas ed-din answers the humiliation with a ruse of generosity: three voyages, three gifts — a golden tree whose fruits are gems worth a bahara of gold, a gemmed chessboard worth a bahara, and two golden ducks embossed with diamonds, swimming in a basin and pecking each other of their own accord. Each time the delighted raja offers any request and each time the envoys decline; only when he swears an oath does the request come: 'present us with the man that feeds your fowls' — 'he is the raja of Pasei, but if you ask him I will give him.' The henkeeper is bathed, robed in royal vestments, and carried home.",
+        "zh": "西迪·阿里以慷慨之計復仇：三次航程、三件禮物——結寶石之金樹（值一巴哈爾金）、寶石棋盤（值一巴哈爾）、鑲鑽金鴨一對，於盆中自行游動相互啄咬。王大悅，屢問所求而使者屢辭；直至王發誓必允，使者乃言：『請賜餵雞之人』——『他乃帕賽之王，但你既求，我便給你。』『養雞人』受浴、被以王服，被迎歸國。"
+      },
+      "motifs": [
+        "trickster",
+        "sacred-kingship",
+        "resurrection",
+        "threefold",
+        "magic-gifts"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "The three-gift ruse as royal restoration; the ducks' self-motion as the marvel that unlocks the oath."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Sidi Ali Gheyas ed-din fitted out a ship with Arab merchandise, arrayed all his crew in Arab dress, and carried first a golden tree whose fruits were of various kinds of gems worth a bahara of gold, then a golden chess board whose squares were of gems, and last two ducks of gold embossed with diamonds, placed in a basin of water in which they moved and swam of their own accord and pecked each other.",
+          "note": "Paraphrase of Malay Annals ch. VIII (Leyden 1821); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "The raja, surprised at the skill, confirmed by an oath that he would grant whatever they wanted; then Sidi Ali Gheyas ed-din said: 'If you will extend to us the royal favour, present us with the man that feeds your fowls.' — 'He is the raja of Pasei, but if you ask him I will give him.' The sultan was bathed, dressed in a raja's vestments, and carried aboard amid a rising wind to Samudra.",
+          "note": "Paraphrase of Malay Annals ch. VIII (Leyden 1821); not verbatim."
+        }
+      ],
+      "persons": []
+    },
+    {
+      "id": "indonesian-founding-of-malacca",
+      "title": {
+        "en": "The White Mouse-Deer and the Malacca Tree: The Founding of Malacca",
+        "zh": "白鼠鹿與滿剌加樹：滿剌加建城"
+      },
+      "tradition": "indonesian",
+      "category": "myth",
+      "region": {
+        "en": "Bertam river, Malacca",
+        "zh": "滿剌加伯淡河"
+      },
+      "lat": 2.2,
+      "lon": 102.25,
+      "period": "Composed as Sulalat al-Salatin c. 1612; Leyden translation 1821",
+      "source": {
+        "archive": "Wikisource (Leyden translation 1821)",
+        "work": "Malay Annals, ch. IX-X (the founding of Malacca), trans. John Leyden 1821",
+        "url": "https://en.wikisource.org/wiki/Malay_Annals"
+      },
+      "license": "Public domain (translation 1821)",
+      "summary": {
+        "en": "Driven from Singhapura by its conquest, Raja Secander Shah hunts at the banks of the river Bertam, standing under a spreading tree, when one of his dogs rouses a white mouse-deer — which turns and attacks the dog, driving it into the water. 'This is a fine place,' says the raja, 'where the very mouse-deer are full of courage; let us found a city here'; and asking the name of the tree above him — the malacca tree — he names the city Malacca.",
+        "zh": "獅子城陷落後，西坎德·沙王流亡至伯淡河畔行獵，立於大樹濃蔭之下；獵犬驚起一隻白鼠鹿——鼠鹿竟反撲獵犬，將其逐入水中。王喜曰：『此地甚佳，連鼠鹿都如此勇敢；就在此建城。』問得頭頂之樹名為『滿剌加樹』，遂以之名城。"
+      },
+      "motifs": [
+        "foundational-legend",
+        "sacred-place",
+        "sacred-kingship",
+        "sacred-tree"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "The best-known Malay foundation myth after the lion of Singhapura; courage of the small animal as the site's omen."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Raja Secander Shah returned to the shore of the sea, to the banks of a river named Bertam, where he hunted, standing under the shade of a spreading tree; one of his dogs roused a white pelandok, or mouse-deer, which attacking the dog drove it into the water.",
+          "note": "Paraphrase of Malay Annals (Leyden 1821); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "The raja was pleased and said: 'This is a fine place, where the very mouse-deer are full of courage; let us found a city here.' Enquiring the name of the tree under which he was standing, he was informed it was named the malacca tree; 'Then let the name of the city be called Malacca' — the empire named from a tree and a fight between a mouse-deer and a dog.",
+          "note": "Paraphrase of Malay Annals (Leyden 1821); not verbatim."
+        }
+      ],
+      "persons": []
+    },
+    {
+      "id": "indonesian-rotten-fort-cotaburu",
+      "title": {
+        "en": "The Rotten Fort: Work Undone Every Night",
+        "zh": "爛城：夜夜崩解的工程"
+      },
+      "tradition": "indonesian",
+      "category": "myth",
+      "region": {
+        "en": "Malay Annals coast geography",
+        "zh": "《馬來紀年》海岸地理"
+      },
+      "lat": 2.15,
+      "lon": 102.2,
+      "period": "Composed as Sulalat al-Salatin c. 1612; Leyden translation 1821",
+      "source": {
+        "archive": "Wikisource (Leyden translation 1821)",
+        "work": "Malay Annals (the fort that would not stand), trans. John Leyden 1821",
+        "url": "https://en.wikisource.org/wiki/Malay_Annals"
+      },
+      "license": "Public domain (translation 1821)",
+      "summary": {
+        "en": "Driven from one station by stinking crocodiles, Raja Secander Shah begins building a fort at another place; by day the workmen labour, 'but at night their work all decayed' — and the place takes its name from the failure, Kota-buru, the rotten fort. The land refuses a city until the raja reaches the ground that will hold one.",
+        "zh": "因惡臭之鱷而棄一地之後，西坎德·沙王於另一處築城；晝間工匠施工，『夜間工程盡毀』——其地遂以此得名『科塔布魯』，即『爛城』。大地拒絕建城，直至王抵達那片能承載城池的土地。"
+      },
+      "motifs": [
+        "sacred-place",
+        "taboo-transgression"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Failed-foundation episode inside the Malacca migration."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Raja Secander Shah was obliged to desert the station and move to another place, where he began building a fort; by day he caused his workmen to labour, but at night their work all decayed, and the name of this place was hence called Kota-buru, the rotten fort.",
+          "note": "Paraphrase of Malay Annals (Leyden 1821); not verbatim."
+        }
+      ],
+      "persons": []
+    },
+    {
+      "id": "indonesian-malacca-conversion-dream",
+      "title": {
+        "en": "The Prophet's Dream at Malacca: The Ship from Jidda at Daybreak",
+        "zh": "滿剌加之夢：破曉自吉達而來之船"
+      },
+      "tradition": "indonesian",
+      "category": "myth",
+      "region": {
+        "en": "Malacca (court of the raja)",
+        "zh": "滿剌加（王庭）"
+      },
+      "lat": 2.2,
+      "lon": 102.25,
+      "period": "Composed as Sulalat al-Salatin c. 1612; Leyden translation 1821",
+      "source": {
+        "archive": "Wikisource (Leyden translation 1821)",
+        "work": "Malay Annals (the dream of Nabi Muhammed and the ship from Jidda), trans. John Leyden 1821",
+        "url": "https://en.wikisource.org/wiki/Malay_Annals"
+      },
+      "license": "Public domain (translation 1821)",
+      "summary": {
+        "en": "Raja Kichil Besar dreams that he sees Nabi Muhammed, who testifies 'that God is the one God, and that Muhammed is his prophet'; the raja does as directed and receives the name Sultan Muhammed. 'Next morning at daybreak,' says the prophet, 'there will arrive a ship from Jidda, and will land on the shore of Malacca' — the dream and the arriving ship together fix Malacca's conversion as prophecy kept to the hour.",
+        "zh": "拉賈·基奇爾·貝薩爾夢見先知穆罕默德，先知作證『上帝乃唯一之神，穆罕默德為其使者』；王依所示而行，受名『蘇丹穆罕默德』。先知言：『明晨破曉，將有一船自吉達來，泊於滿剌加海岸』——夢與船同時應驗，滿剌加之皈依遂成準時之預言。"
+      },
+      "motifs": [
+        "prophetic-vision",
+        "miraculous-birth",
+        "sacred-kingship",
+        "doom-foretold",
+        "dream-vision"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Malacca's conversion legend; respectful treatment of the prophetic dream."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Raja Kichil Besar dreamed one night that he saw Nabi Muhammed, who said to him: 'I testify that God is the one God, and that Muhammed is his prophet'; and Raja Kichil Besar did as he was directed by the prophet, who conferred on him the name of Sultan Muhammed. 'Next morning,' said the prophet, 'at daybreak, there will arrive a ship from Jidda, and will land on the shore of Malacca' — the promised ship that carries the new faith to the port the mouse-deer's courage had chosen.",
+          "note": "Paraphrase of Malay Annals (Leyden 1821); not verbatim."
+        }
+      ],
+      "persons": []
+    },
+    {
+      "id": "indonesian-soul-stealing-semangat",
+      "title": {
+        "en": "Stealing the Semangat: The Soul That Can Be Taken",
+        "zh": "竊取瑟瑪加：可被奪走的靈魂"
+      },
+      "tradition": "indonesian",
+      "category": "myth",
+      "region": {
+        "en": "Selangor, Malay Peninsula (collected by Skeat)",
+        "zh": "馬來半島雪蘭莪（斯凱特採錄）"
+      },
+      "lat": 3.1,
+      "lon": 101.5,
+      "period": "Belief recorded 1890s; published Skeat, Malay Magic (1900)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "W. W. Skeat, Malay Magic (1900), the soul (semangat) and its abduction",
+        "url": "https://archive.org/details/malaymagicbeingi00skeauoft"
+      },
+      "license": "Public domain (1900)",
+      "summary": {
+        "en": "In Malay folk-theology the semangat — the soul or vital principle — is a portable object that can be coaxed, escaping 'riang semangat', or stolen outright: 'mengambil semangat orang', to take away a person's soul-power, and induce it to pass into the thief's keeping. Illness, wasting and misfortune read as soul-loss; the magician's trade is recovery, the thief's art abduction — the same verb in both crafts.",
+        "zh": "馬來民間神學中，瑟瑪加（semangat，靈魂/生命力）乃可攜之物：或被誘離（riang semangat），或被 outright 竊取——『mengambil semangat orang』即取走他人之靈力，並誘其入竊者掌中。病弱衰敗皆讀作失魂；術師之業是尋回，竊者之術是奪走——二者用的是同一個動詞。"
+      },
+      "motifs": [
+        "spirit-possession",
+        "witch",
+        "ritual-origin",
+        "abduction"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Soul-belief record; careful framing around accusations of sorcery."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The semangat, the vital principle of Malay folk-theology, is portable: it may be escaping (riang semangat) or deliberately taken — mengambil semangat orang, to abduct a person's soul-power and induce it to pass into the taker's keeping. Sickness and wasting are read as soul-loss, and the two crafts that answer it — the magician's recovery and the thief's abduction — are mirror arts using the same verb; the soul is an object with a location, and that is what makes both possible.",
+          "note": "Paraphrase of Skeat, Malay Magic (1900); not verbatim. / Paraphrase of Skeat (1900); not verbatim."
+        }
+      ],
+      "persons": []
+    },
+    {
+      "id": "indonesian-kenyah-supreme-being-origin",
+      "title": {
+        "en": "A God Evolved in the Interior: Hose and McDougall on Bali Penyalong",
+        "zh": "內陸自生之神：霍斯與麥克杜格爾論巴利·珀尼亞隆"
+      },
+      "tradition": "indonesian",
+      "category": "myth",
+      "region": {
+        "en": "Kenyan and Madang country, remotest interior Borneo (symbolic pin)",
+        "zh": "婆羅洲最深內陸肯雅與馬當之地（象徵性定位）"
+      },
+      "lat": 2.6,
+      "lon": 114.6,
+      "period": "Argument published by Hose & McDougall (1912), from a paper of some ten years before",
+      "source": {
+        "archive": "Project Gutenberg",
+        "work": "Charles Hose & William McDougall, The Pagan Tribes of Borneo (1912), the origin of the Kenyah belief in a Supreme Being",
+        "url": "https://www.gutenberg.org/cache/epub/3307/pg3307.txt"
+      },
+      "license": "Public domain (1912)",
+      "summary": {
+        "en": "Hose and McDougall argue against borrowing as the origin of the interior's supreme god: the belief is a living one among the Madangs, 'a Kenyah tribe that inhabits a district in the remotest interior and has had no intercourse with Malays,' while the Ibans, who have had far more intercourse with Malays, show least trace of it. They conclude that the Kenyahs and Kayans evolved the conception themselves — Bali Penyalong the war-god exalted by the importance of his department — and note the difficult step: gods of abstract function like Bali Atap, who guards the house, evolved out of nature-spirits like Balingo the thunderer and Bali Sungei of the rivers.",
+        "zh": "霍斯與麥克杜格爾反駁『至上神乃借自馬來人』之說：此信仰在馬當人——『居於最深內陸、從未與馬來人交往之肯雅部族』——中活著；而與馬來人交往遠多之伊班人卻幾無此觀念之痕跡。二人斷言：肯雅人與加揚人自生此概念——巴利·珀尼亞隆本為戰神，因職司之重而被抬高；最難的一步是『抽象職能之神』（如守屋之巴利·阿塔普）自自然精靈（雷神巴利諾、河神巴利·松蓋）中演化而出。"
+      },
+      "motifs": [
+        "theophany",
+        "ritual-origin"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "A documented argument in the comparative study of supreme beings; the recorders' hypothesis, flagged as theirs."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "It might be thought that the conception of a beneficent Supreme Being has been borrowed directly or indirectly from the Malays; but the recorders do not think this view tenable, in face of the fact that the conception is a living belief among the Madangs, a Kenyah tribe inhabiting the remotest interior with no intercourse with Malays, while the Ibans, who have had far more intercourse with Malays, show least trace of it.",
+          "note": "Paraphrase of Hose & McDougall (1912); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "They are inclined to suppose that the tribes of the interior evolved the conception for themselves — Bali Penyalong of the Kenyahs being their god of war exalted above all others by the importance of the department he presides over — the difficult step being gods of abstract function, such as Bali Atap who guards the house, evolved out of nature-spirits like Balingo and Bali Sungei.",
+          "note": "Paraphrase of Hose & McDougall (1912); not verbatim."
+        }
+      ],
+      "persons": []
+    }
+  ]
+}

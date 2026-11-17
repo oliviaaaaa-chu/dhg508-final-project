@@ -1,0 +1,183 @@
+{
+  "_comment": "Polynesian expansion batch 175 - final top-up batch: Turner ch. 4 deity entries (Aitu langi and Tupai, Faamalu, Sama the cannibal god, Salevao's feast); Fornander Nihooleki summary. Topics 2 deity, 5 ritual, 11 taboo. All passages are labeled paraphrase.",
+  "texts": [
+    {
+      "id": "polynesian-tupai-poison-gaze",
+      "title": {
+        "en": "Tupai, the Priest Whose Look Was Poison",
+        "zh": "目光即毒的高級祭司圖帕伊"
+      },
+      "tradition": "polynesian",
+      "category": "myth",
+      "region": {
+        "en": "Temple of the heaven-gods, Samoa (symbolic pin)",
+        "zh": "薩摩亞天神廟（象徵性定位）"
+      },
+      "lat": -13.9,
+      "lon": -172.0,
+      "period": "Samoan oral tradition; recorded 1884 (Turner)",
+      "source": {
+        "archive": "Project Gutenberg",
+        "work": "George Turner, Samoa A Hundred Years Ago and Long Before, ch. 4 (London 1884)",
+        "url": "https://www.gutenberg.org/ebooks/14224"
+      },
+      "license": "Public domain (Turner 1884)",
+      "summary": {
+        "en": "The gods of heaven were supposed to have fallen from the skies at the call of a blind man to protect his son from a cannibal chief. A large temple was erected to one of them with ten seats for the principal chiefs; a large shell was the only visible representation, and in time of war it was carefully consulted - if it stood on end and made an unusual noise they went to battle cheerfully; if it only murmured 'Go back, go back', there was no fighting that day. Tupai was the name of the high priest and prophet: he was greatly dreaded, for his very look was poison - if he looked at a cocoa-nut tree it died, and if he glanced at a bread-fruit tree it also withered away.",
+        "zh": "天神本為回應盲人護子之呼而自天而降；眾為其建大廟，設十座以列諸酋；廟中大螺即神之現形——戰時以之占卜：若直立鳴響則勇往開戰；若僅作『回吧回吧』的低吟，則是日罷兵。高級祭司兼先知圖帕伊尤令人畏：其目光即毒——椰樹遭其一瞥便枯死，麵包樹經其一掃便凋零。"
+      },
+      "motifs": [
+        "theophany",
+        "oracle-divination",
+        "boon-curse",
+        "miracle-cure"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Deity-descent and priestly-power legend."
+      },
+      "persons": [],
+      "passages": [
+        {
+          "id": "1",
+          "text": "These gods were supposed to have fallen from the heavens at the call of a blind man to protect his son from a cannibal chief; they were scattered over several villages but did not move about in the bodies of mortals. A large temple was erected to one of them in which there were ten seats on which sat the principal chiefs; a large shell was the only visible representation of the god, and in time of war it was carefully consulted: if it stood on end and made an unusual noise they went to battle cheerfully; if, however, it only murmured what they imagined to be 'Go back, go back', there was no fighting that day.",
+          "note": "Paraphrase of George Turner, Samoa A Hundred Years Ago and Long Before, ch. 4 (1884); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Tupai was the name of the high priest and prophet; he was greatly dreaded, for his very look was poison: if he looked at a cocoa-nut tree it died, and if he glanced at a bread-fruit tree it also withered away.",
+          "note": "Paraphrase of George Turner, Samoa A Hundred Years Ago and Long Before, ch. 4 (1884); not verbatim."
+        }
+      ]
+    },
+    {
+      "id": "polynesian-faamalu-conch-war-signal",
+      "title": {
+        "en": "Faamalu, the Shade: Conch of the War-god",
+        "zh": "陰神法阿馬盧：戰神之螺"
+      },
+      "tradition": "polynesian",
+      "category": "myth",
+      "region": {
+        "en": "Samoan village temple (symbolic pin)",
+        "zh": "薩摩亞村廟（象徵性定位）"
+      },
+      "lat": -13.87,
+      "lon": -172.08,
+      "period": "Samoan oral tradition; recorded 1884 (Turner)",
+      "source": {
+        "archive": "Project Gutenberg",
+        "work": "George Turner, Samoa A Hundred Years Ago and Long Before, ch. 4 (London 1884)",
+        "url": "https://www.gutenberg.org/ebooks/14224"
+      },
+      "license": "Public domain (Turner 1884)",
+      "summary": {
+        "en": "Faamalu, Shade, was the name of a village god represented by a trumpet-shell: on the month for annual worship all the people met in the place of public gatherings with heaps of cooked food; first there were offerings and prayers to the god to avert calamities and give prosperity, then they feasted with and before their god, and after that any strangers present were fed too - the god's conch blown to muster the village to war.",
+        "zh": "『陰』法阿馬盧為一村之神，以海螺為象：歲祀之月，全民攜熟食群聚於公共場所；先獻祭祈禱、求神免禍賜福，繼而與神共宴；宴罷，在場的旅人亦得一飽——戰時吹螺，聚眾赴敵。"
+      },
+      "motifs": [
+        "ritual-origin",
+        "foundational-legend",
+        "prayer"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Village feast ritual."
+      },
+      "persons": [],
+      "passages": [
+        {
+          "id": "1",
+          "text": "Faamalu, Shade, was the name of a village god and represented by a trumpet-shell. On the month for annual worship all the people met in the place of public gatherings with heaps of cooked food; first there were offerings and prayers to the god to avert calamities and give prosperity; then they feasted with and before their god, and after that any strangers present were fed too - the god's conch blown to muster the village to war.",
+          "note": "Paraphrase of George Turner, Samoa A Hundred Years Ago and Long Before, ch. 4 (1884); not verbatim."
+        }
+      ]
+    },
+    {
+      "id": "polynesian-sama-cannibal-god",
+      "title": {
+        "en": "Sama, the Cannibal God of Savaii",
+        "zh": "食人神薩瑪"
+      },
+      "tradition": "polynesian",
+      "category": "myth",
+      "region": {
+        "en": "Village of Savaii (symbolic pin)",
+        "zh": "薩瓦伊島村莊（象徵性定位）"
+      },
+      "lat": -13.65,
+      "lon": -172.45,
+      "period": "Samoan oral tradition; recorded 1884 (Turner)",
+      "source": {
+        "archive": "Project Gutenberg",
+        "work": "George Turner, Samoa A Hundred Years Ago and Long Before, ch. 4 (London 1884)",
+        "url": "https://www.gutenberg.org/ebooks/14224"
+      },
+      "license": "Public domain (Turner 1884)",
+      "summary": {
+        "en": "Sama, Yellow, was the name of the cannibal god of a village in Savaii: he was incarnate as a man, who had human flesh laid before him when he chose to call for it; this man's power extended to several villages, and his descendants are traced to the present day.",
+        "zh": "『黃』薩瑪乃薩瓦伊一村之食人神：化身為人，一旦召喚即有人肉奉上；其權勢及於數村，子孫綿延至今。"
+      },
+      "motifs": [
+        "taboo-transgression",
+        "sacred-kingship",
+        "incarnation-avatar"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Recorded deity-cult; cannibalism stated in the source."
+      },
+      "persons": [],
+      "passages": [
+        {
+          "id": "1",
+          "text": "Sama, Yellow, was the name of the cannibal god of a village in Savaii; he was incarnate as a man, who had human flesh laid before him when he chose to call for it; this man's power extended to several villages, and his descendants are traced to the present day.",
+          "note": "Paraphrase of George Turner, Samoa A Hundred Years Ago and Long Before, ch. 4 (1884); not verbatim."
+        }
+      ]
+    },
+    {
+      "id": "polynesian-salevao-annual-feast",
+      "title": {
+        "en": "Salevao's Feast of Thanksgiving",
+        "zh": "薩萊瓦奧的感恩盛宴"
+      },
+      "tradition": "polynesian",
+      "category": "myth",
+      "region": {
+        "en": "Savaii temple (symbolic pin)",
+        "zh": "薩瓦伊島神廟（象徵性定位）"
+      },
+      "lat": -13.62,
+      "lon": -172.5,
+      "period": "Samoan oral tradition; recorded 1884 (Turner)",
+      "source": {
+        "archive": "Project Gutenberg",
+        "work": "George Turner, Samoa A Hundred Years Ago and Long Before, ch. 4 (London 1884)",
+        "url": "https://www.gutenberg.org/ebooks/14224"
+      },
+      "license": "Public domain (Turner 1884)",
+      "summary": {
+        "en": "In some places Salevao was a general village god as well as a war god; a time was fixed for giving thanks for good crops, and prayers were offered for more: each family took it in turn to provide food, and they feasted until it had gone the round of the village - the family who had a great display of good things was praised, but the stingy, stinted offerers were cursed; after all had prayed and partaken for the day nothing was kept for another meal, whatever was over being thrown away or buried.",
+        "zh": "薩萊瓦奧於某些村落兼為村神與戰神；豐穫謝恩有定期，並祈來年再豐：各家輪流備辦食物，宴飲巡遍全村——豐盛者獲譽，吝嗇者遭咒；當日祈罷食盡，絕不留宿——所餘盡棄或埋於地。"
+      },
+      "motifs": [
+        "ritual-origin",
+        "festival-calendar",
+        "prayer"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Harvest-feast custom."
+      },
+      "persons": [],
+      "passages": [
+        {
+          "id": "1",
+          "text": "In some places Salevao was a general village god as well as a war god; a time was fixed for giving thanks for good crops, and prayers were offered for more: each family took it in turn to provide food, and they feasted until it had gone the round of the village - the family who had a great display of good things was praised, but the stingy, stinted offerers were cursed. After all had prayed and partaken for the day nothing was kept for another meal; whatever was over was thrown away or buried. At one place in Savaii Salevao had a temple in which a priest constantly resided: the sick were taken there and laid down with offerings of fine mats; the priest went out and stroked the diseased part, and recovery was supposed to follow - at this place Salevao was declared to be a good god in raising a plentiful supply of food, and also noted for his power in keeping away other gods.",
+          "note": "Paraphrase of George Turner, Samoa A Hundred Years Ago and Long Before, ch. 4 (1884); not verbatim."
+        }
+      ]
+    }
+  ]
+}

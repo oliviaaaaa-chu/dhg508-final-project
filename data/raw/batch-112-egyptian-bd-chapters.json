@@ -1,0 +1,539 @@
+{
+  "texts": [
+    {
+      "id": "egyptian-bd-hymn-rising-sun",
+      "title": {
+        "en": "The Dawn Liturgy: A Seat in the Boat of Ra",
+        "zh": "黎明禮文：拉舟中之一席"
+      },
+      "tradition": "egyptian",
+      "category": "myth",
+      "region": {
+        "en": "Thebes, Egypt (Papyrus of Ani, funerary liturgy)",
+        "zh": "埃及底比斯（阿尼紙草喪禮經文）"
+      },
+      "lat": 25.6872,
+      "lon": 32.6396,
+      "period": "Book of the Dead ch. 15, Theban recension c. 1550-1292 BCE (Budge translation 1910)",
+      "source": {
+        "archive": "Project Gutenberg (eBook #15932)",
+        "work": "The Literature of the Ancient Egyptians, trans. E. A. W. Budge (1910), ch. IV, the funerary hymn to Ra from the Papyrus of Ani",
+        "url": "https://www.gutenberg.org/files/15932/15932-0.txt"
+      },
+      "license": "Public domain (translation 1910)",
+      "summary": {
+        "en": "The scribe Ani's daily liturgy for the risen sun: Khepera is hailed as creator, the serpent-fiend is cast into the fire headlong, and the deceased petitions his place in the cosmic day — to see the Abtu and Ant fishes of the barque, to hold the bows of the Evening Boat and the stern of the Morning Boat, and to be received into the presence of Osiris 'in the Land where Truth is spoken.'",
+        "zh": "書吏阿尼之日昇禮文：頌凱佩拉為造物主，蛇魔被頭朝下投於火中，亡者為自己祈求宇宙白晝之位——得見日舟之阿布圖與安特雙魚、執暮舟之首與晨舟之尾，並蒙接引至奧西里斯前『在其言真實之國』。"
+      },
+      "motifs": [
+        "theophany",
+        "descent-underworld"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient funerary liturgy; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Homage to thee, O thou who art in the form of Khepera, Khepera the creator of the gods. Thou risest, thou shinest, thou illuminest thy mother [the sky]. Thou art crowned King of the Gods. Mother Nut welcometh thee with bowings. The Land of Sunset (Manu) receiveth thee with satisfaction, and the goddess Maat embraceth thee at morn and at eve. Hail, ye gods of the Temple of the Soul (i.e. heaven), who weigh heaven and earth in a balance, who provide celestial food! And hail, Tatunen, One, Creator of man, Maker of the gods of the south and of the north, of the west and of the east!",
+          "note": "Verbatim excerpt of Budge, Literature of the Ancient Egyptians (1910), ch. IV, funerary hymn to Ra (Papyrus of Ani)."
+        },
+        {
+          "id": "2",
+          "text": "Those who dwell in the heights and those who dwell in the depths worship thee. Thoth and the goddess Maat have laid down thy course for thee daily for ever. Thine Enemy the Serpent hath been cast into the fire, the fiend hath fallen down into it headlong. His arms have been bound in chains, and Ra hath hacked off his legs; the Mesu Betshet shall never more rise up. The Temple of the Aged God [in Anu] keepeth festival, and the sound of those who rejoice is in the Great House. The gods shout for joy when they see Ra rising, and when his beams are filling the world with light.",
+          "note": "Verbatim excerpt of Budge (1910), funerary hymn to Ra."
+        },
+        {
+          "id": "3",
+          "text": "O be thou at peace with me, and let me behold thy beauties! Let me appear on the earth. Let me smite [the Eater of] the Ass. Let me crush the Serpent Seba. Let me destroy Aapep when he is most strong. Let me see the Abtu Fish in its season and the Ant Fish in its lake. Let me see Horus steering thy boat, with Thoth and Maat standing one on each side of him. Let me have hold of the bows of [thy] Evening Boat and the stern of thy Morning Boat. Grant thou unto the Ka of me, the Osiris the scribe Ani, to behold the disk of the Sun, and to see the Moon-god regularly and daily. Let there be prepared for me a seat in the Boat of Ra on the day when the god goeth forth. Let me be received into the presence of Osiris, in the Land where Truth is spoken.",
+          "note": "Verbatim excerpt of Budge (1910), funerary hymn to Ra."
+        }
+      ],
+      "persons": [
+        "ra",
+        "thoth",
+        "horus",
+        "osiris"
+      ]
+    },
+    {
+      "id": "egyptian-bd-litany-osiris",
+      "title": {
+        "en": "The Litany of Osiris: Homage to the Nine Forms",
+        "zh": "奧西里斯連禱：九形之敬拜"
+      },
+      "tradition": "egyptian",
+      "category": "myth",
+      "region": {
+        "en": "Thebes, Egypt (Papyrus of Ani, introduction to ch. 15)",
+        "zh": "埃及底比斯（阿尼紙草第十五章引文）"
+      },
+      "lat": 25.6872,
+      "lon": 32.6396,
+      "period": "Book of the Dead ch. 15, Theban recension c. 1550-1292 BCE (Budge translation 1910)",
+      "source": {
+        "archive": "Project Gutenberg (eBook #15932)",
+        "work": "The Literature of the Ancient Egyptians, trans. E. A. W. Budge (1910), ch. IV, the Litany from the Papyrus of Ani",
+        "url": "https://www.gutenberg.org/files/15932/15932-0.txt"
+      },
+      "license": "Public domain (translation 1910)",
+      "summary": {
+        "en": "Ani's introduction to the Osiris litany: the god of Amentet makes the earth shine 'like refined copper', the dead rise up to breathe the air when his disk rises — and the litany hails him form by form, Heliopolis to Busiris to Abydos to Herakleopolis, each homage answered by the same refrain: 'Grant thou unto me a path whereon I may pass in peace, for I am just and true.'",
+        "zh": "阿尼之連禱引文：冥國之神使大地亮如精煉之銅，日盤升起時亡者起而呼吸——連禱逐一頌其形相，自赫利奧波利斯至布西里斯、阿拜多斯、赫拉克利奧波利斯，每頌一呼必應：『賜我一途，使我能安然通行，因我公義真實。』"
+      },
+      "motifs": [
+        "resurrection",
+        "theophany",
+        "dying-god"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient funerary liturgy; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Praise be unto thee, O Osiris, lord of eternity, Un-Nefer, Heru-Khuti, whose forms are manifold, whose attributes are majesty, [thou who art] Ptah-Seker-Tem in Heliopolis, lord of the Sheta shrine, creator of Het-ka-Ptah (Memphis) and of the gods who dwell therein, thou Guide of the Other World, whom the gods praise when thou settest in the sky. Isis embraceth thee contentedly, and she driveth away the fiends from the mouth of thy paths. Thou turnest thy face towards Amentet, and thou makest the earth to shine like refined copper. The dead rise up to look upon thee, they breathe the air, and they behold thy face when [thy] disk riseth on the horizon. Their hearts are at peace, inasmuch as they behold thee, O thou who art Eternity and Everlastingness.",
+          "note": "Verbatim excerpt of Budge, Literature of the Ancient Egyptians (1910), ch. IV, Litany introduction."
+        },
+        {
+          "id": "2",
+          "text": "1. Homage to thee, O [Lord of] the Dekans in Heliopolis and of the heavenly beings in Kheraha, thou god Unti, who art the most glorious of the gods hidden in Heliopolis. Grant thou unto me a path whereon I may pass in peace, for I am just and true; I have not spoken lies wittingly, nor have I done aught with deceit. — 5. Homage to thee, O Lord of the Acacia. The Seker Boat is on its sledge; thou turnest back the Fiend, the worker of evil; thou makest the Eye of the Sun-god to rest upon its throne. — 9. Homage to thee, O Creator of the gods, King of the South, King of the North, Osiris, Conqueror, Governor of the world in thy gracious seasons! Thou art the Lord of the heaven of Egypt (Atebui).",
+          "note": "Verbatim excerpt of Budge (1910), Litany sections 1, 5, and 9 (response repeated after each petition)."
+        }
+      ],
+      "persons": [
+        "osiris",
+        "isis",
+        "ptah"
+      ]
+    },
+    {
+      "id": "egyptian-bd-hunefer-confession",
+      "title": {
+        "en": "The Scribe of Truth: Hunefer's Hymn of Clean Hands",
+        "zh": "真理之書吏：胡內弗之潔手頌"
+      },
+      "tradition": "egyptian",
+      "category": "myth",
+      "region": {
+        "en": "Thebes, Egypt (Papyrus of Hunefer)",
+        "zh": "埃及底比斯（胡內弗紙草）"
+      },
+      "lat": 25.6872,
+      "lon": 32.6396,
+      "period": "Book of the Dead, 19th Dynasty (c. 1300-1200 BCE; Budge translation 1910)",
+      "source": {
+        "archive": "Project Gutenberg (eBook #15932)",
+        "work": "The Literature of the Ancient Egyptians, trans. E. A. W. Budge (1910), ch. IV, the Hymn to Osiris from the Papyrus of Hunefer",
+        "url": "https://www.gutenberg.org/files/15932/15932-0.txt"
+      },
+      "license": "Public domain (translation 1910)",
+      "summary": {
+        "en": "A royal scribe stands before Osiris 'holding in my hands truth, and my heart hath in it no cunning': the gods bow in fear at the terror of Ra upon the god — and the petitioner claims the identity of the perfect judge's scribe: 'I am Thoth, the perfect scribe, whose hands are pure... what I abominate is sin.'",
+        "zh": "王家書吏立於奧西里斯之前：『我手執真理，我心無詭詐』——因神身負拉之威，諸神望而畏懼——祈者更自認為完美審判者之書吏：『我即托特，潔手之完美書吏……我所憎者惟罪。』"
+      },
+      "motifs": [
+        "resurrection",
+        "theophany",
+        "dying-god"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient funerary hymn; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The gods come unto thee, bowing low before thee, and they hold thee in fear. They withdraw and depart when they see thee endued with the terror of Ra, and the victory of Thy Majesty is over their hearts. Life is with thee, and offerings of meat and drink follow thee, and that which is thy due is offered before thy face. I have come unto thee holding in my hands truth, and my heart hath in it no cunning (or deceit). I offer unto thee that which is thy due, and I know that whereon thou livest. I have not committed any kind of sin in the land; I have defrauded no man of what is his. I am Thoth, the perfect scribe, whose hands are pure. I am the lord of purity, the destroyer of evil, the scribe of truth; what I abominate is sin.",
+          "note": "Verbatim excerpt of Budge, Literature of the Ancient Egyptians (1910), ch. IV, Hymn to Osiris from the Papyrus of Hunefer. / Verbatim excerpt of Budge (1910), Hymn to Osiris (Papyrus of Hunefer)."
+        }
+      ],
+      "persons": [
+        "osiris",
+        "thoth"
+      ]
+    },
+    {
+      "id": "egyptian-bd-four-apes-prayer",
+      "title": {
+        "en": "Prayer Before the Four Ape-gods: Sin Washed Away",
+        "zh": "四猿神前之禱：洗除己罪"
+      },
+      "tradition": "egyptian",
+      "category": "myth",
+      "region": {
+        "en": "Thebes, Egypt (Book of the Dead ch. 126, the boat of Ra at dawn)",
+        "zh": "埃及底比斯（亡靈書第一二六章，拉舟黎明處）"
+      },
+      "lat": 25.6872,
+      "lon": 32.6396,
+      "period": "Book of the Dead ch. 126, Theban recension (Budge translation 1910)",
+      "source": {
+        "archive": "Project Gutenberg (eBook #15932)",
+        "work": "The Literature of the Ancient Egyptians, trans. E. A. W. Budge (1910), ch. IV, Chapter CXXVI of the Book of the Dead",
+        "url": "https://www.gutenberg.org/files/15932/15932-0.txt"
+      },
+      "license": "Public domain (translation 1910)",
+      "summary": {
+        "en": "The rare Book of the Dead prayer for forgiveness: the four Ape-gods in the bows of Ra's boat — who live upon truth and to whom wickedness is abomination — are asked to do away with the petitioner's evil deeds, and they answer with absolution: 'Come, for we have done away with thy wickedness... Enter, therefore, into Rastau, and cakes, and ale, and sweetmeats shall be given unto thee.'",
+        "zh": "亡靈書中罕有的赦罪之禱：拉舟首的四猿神——以真理為食、視邪惡為可憎者——被祈求除去祈者之罪孽，且應答赦免：『來吧，我等已除去爾之罪惡……故爾可入臘斯陶，餅與酒與甜食必賜予爾。』"
+      },
+      "motifs": [
+        "parable-teaching",
+        "descent-underworld",
+        "prayer",
+        "celestial-bureaucracy",
+        "secret-book"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient funerary prayer; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Hail, ye four Ape-gods who sit in the bows of the Boat of Ra, who convey truth to Nebertchet, who sit in judgment on my weakness and on my strength, who make the gods to rest contented by means of the flame of your mouths, who offer holy offerings to the gods, and sepulchral meals to the spirit-souls, who live upon truth, who feed upon truth of heart, who are without deceit and fraud, and to whom wickedness is an abomination, do ye away with my evil deeds, and put ye away my sin, which deserved stripes upon earth, and destroy ye every evil thing whatsoever that clingeth to me, and let there be no bar whatsoever on my part towards you.",
+          "note": "Verbatim excerpt of Budge, Literature of the Ancient Egyptians (1910), ch. IV, Book of the Dead ch. 126."
+        },
+        {
+          "id": "2",
+          "text": "The four Ape-gods reply: 'Come, for we have done away with thy wickedness, and we have put away thy sin, which deserved stripes, which thou didst commit upon earth, and we have destroyed all the evil that clung to thee. Enter, therefore, into Rastau, and pass in through the secret gates of Amentet, and cakes, and ale, and sweetmeats shall be given unto thee, and thou shalt go in and come out at thy desire, even as do those whose spirit-souls are praised [by the god], and [thy name] shall be proclaimed each day in the horizon.'",
+          "note": "Verbatim excerpt of Budge (1910), ch. 126, the gods' reply."
+        }
+      ],
+      "persons": [
+        "thoth"
+      ]
+    },
+    {
+      "id": "egyptian-bd-heart-scarab",
+      "title": {
+        "en": "My Heart, My Mother: The Heart-Scarab Spell",
+        "zh": "吾心吾母：心聖甲蟲之咒"
+      },
+      "tradition": "egyptian",
+      "category": "myth",
+      "region": {
+        "en": "Hall of Judgement, Egyptian Other World (symbolic pin, Thebes)",
+        "zh": "埃及冥界審判之廳（象徵定位，底比斯）"
+      },
+      "lat": 25.6872,
+      "lon": 32.6396,
+      "period": "Book of the Dead ch. 30B; tradition as old as the 12th Dynasty (Budge translation 1910)",
+      "source": {
+        "archive": "Project Gutenberg (eBook #15932)",
+        "work": "The Literature of the Ancient Egyptians, trans. E. A. W. Budge (1910), ch. IV, Chapter XXXB of the Book of the Dead",
+        "url": "https://www.gutenberg.org/files/15932/15932-0.txt"
+      },
+      "license": "Public domain (translation 1910)",
+      "summary": {
+        "en": "Possibly the oldest prayer in the world, said over a green-stone heart-scarab hung on the dead: 'My heart, my mother. My heart whereby I came into being. Mayest thou not be separated from me in the presence of the Keeper of the Balance... Let not that which is false be uttered against me before the Great God, the Lord of Amentet' — so that the heart shall not betray its owner at the weighing.",
+        "zh": "或為世上最古之禱文，誦於繫於亡者頸間的綠石心形聖甲蟲之上：『吾心，吾母。吾賴以生成之心。於司秤者面前勿與我分離……勿使虛妄之言在偉大神主、冥國之主前指斥於我』——使心在稱量之時不出賣其主。"
+      },
+      "motifs": [
+        "quest-immortality",
+        "boon-curse",
+        "prayer",
+        "betrayal"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient funerary spell; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "My heart, my mother. My heart, my mother. My heart whereby I came into being. Let none stand up to oppose me at my judgment. May there be no opposition to me in the presence of the Tchatchau. Mayest thou not be separated from me in the presence of the Keeper of the Balance. Thou art my Ka (i.e. Double, or vital power), that dwelleth in my body; the god Khnemu who knitteth together and strengthened my limbs. Mayest thou come forth into the place of happiness whither we go. May the Shenit officers who decide the destinies of the lives of men not cause my name to stink [before Osiris]. Let it (i.e. the weighing) be satisfactory unto us, and let there be joy of heart to us at the weighing of words (i.e. the Great Judgment). Let not that which is false be uttered against me before the Great God, the Lord of Amentet (i.e. Osiris). Verily thou shalt be great when thou risest up [having been declared] a speaker of the truth.",
+          "note": "Verbatim excerpt of Budge, Literature of the Ancient Egyptians (1910), ch. IV, Book of the Dead ch. 30B."
+        },
+        {
+          "id": "2",
+          "text": "In many papyri this prayer is followed by a Rubric, which orders that it is to be said over a green stone scarab set in a band of tchamu metal (i.e. silver-gold), which is to be hung by a ring from the neck of the deceased. Some Rubrics order it to be placed in the breast of a mummy, where it is to take the place of the heart, and say that it will 'open the mouth' of the deceased. A tradition which is as old as the twelfth dynasty says that the Chapter was discovered in the town of Khemenu (Hermopolis Magna) by Herutataf, the son of Khufu, in the reign of Menkaura, a king of the fourth dynasty. It was cut in hieroglyphs, inlaid with lapis-lazuli on a block of alabaster, which was set under the feet of Thoth.",
+          "note": "Verbatim excerpt of Budge (1910), the rubric and tradition of ch. 30B."
+        }
+      ],
+      "persons": [
+        "khnemu",
+        "thoth",
+        "osiris"
+      ]
+    },
+    {
+      "id": "egyptian-bd-imperishable-body",
+      "title": {
+        "en": "I Shall Not Rot: The Spells Against Decay and the Second Death",
+        "zh": "我不朽壞：抗腐與抗二死之咒"
+      },
+      "tradition": "egyptian",
+      "category": "myth",
+      "region": {
+        "en": "Egyptian Other World (symbolic pin, Thebes)",
+        "zh": "埃及冥界（象徵定位，底比斯）"
+      },
+      "lat": 25.6872,
+      "lon": 32.6396,
+      "period": "Book of the Dead chs. 154 and 175, Theban recension (Budge translation 1910)",
+      "source": {
+        "archive": "Project Gutenberg (eBook #15932)",
+        "work": "The Literature of the Ancient Egyptians, trans. E. A. W. Budge (1910), ch. IV, Chapters CLIV and CLXXV of the Book of the Dead",
+        "url": "https://www.gutenberg.org/files/15932/15932-0.txt"
+      },
+      "license": "Public domain (translation 1910)",
+      "summary": {
+        "en": "From first to last the Book of the Dead fights corruption: 'I shall not decay, I shall not rot, I shall not putrefy, I shall not turn into worms' — and when the scribe Ani arrives and finds the Other World 'black as the blackest night', he asks how long he shall live, and Osiris answers: 'It is decreed that thou shalt live for millions of millions of years, a life of millions of years.'",
+        "zh": "亡靈書自始至終與腐朽抗爭：『我不腐壞，我不朽爛，我不化膿，我不生蛆』——及書吏阿尼至，見冥界『黑如至黑之夜』，問能活多久，奧西里斯答：『命定爾將活百萬之百萬年，一個百萬年之生命。』"
+      },
+      "motifs": [
+        "resurrection",
+        "quest-immortality",
+        "celestial-bureaucracy",
+        "dying-god",
+        "secret-book"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient funerary spells; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Homage to thee, O my divine father Osiris, thou livest with thy members. Thou didst not decay. Thou didst not turn into worms. Thou didst not waste away. Thou didst not suffer corruption. Thou didst not putrefy. I am the god Khepera, and my members shall have an everlasting existence. I shall not decay. I shall not rot. I shall not putrefy. I shall not turn into worms. I shall not see corruption before the eye of the god Shu. I shall have my being, I shall have my being. I shall live, I shall live. I shall flourish, I shall flourish. I shall wake up in peace. My inward parts shall not perish. I shall not suffer injury. Mine eye shall not decay. The form of my visage shall not disappear. Mine ear shall not become deaf. My head shall not be separated from my neck. My tongue shall not be carried away. My hair shall not be cut off. Mine eyebrows shall not be shaved off. No baleful injury shall come upon me. My body shall be established, and it shall neither crumble away nor be destroyed on this earth.",
+          "note": "Verbatim excerpt of Budge, Literature of the Ancient Egyptians (1910), ch. IV, Book of the Dead ch. 154."
+        },
+        {
+          "id": "2",
+          "text": "The passage that refers to everlasting life occurs in Chapter 175, wherein the scribe Ani is made to converse with Thoth and Temu in the Tuat, or Other World. Ani, who is supposed to have recently arrived there, says: 'What manner of country is this to which I have come? There is no water in it. There is no air. It is depth unfathomable, it is black as the blackest night, and men wander helplessly therein. In it a man may not live in quietness of heart; nor may the affections be gratified therein.' After a short address to Osiris, the deceased asks the god, 'How long shall I live?' And the god says, 'It is decreed that thou shalt live for millions of millions of years, a life of millions of years.'",
+          "note": "Verbatim excerpt of Budge (1910), Book of the Dead ch. 175."
+        }
+      ],
+      "persons": [
+        "osiris",
+        "thoth"
+      ]
+    },
+    {
+      "id": "egyptian-bd-tet-amulet",
+      "title": {
+        "en": "The Blood of Isis: The Tet Amulet Spell",
+        "zh": "伊西斯之血：泰特護符之咒"
+      },
+      "tradition": "egyptian",
+      "category": "myth",
+      "region": {
+        "en": "Egyptian funerary workshops (symbolic pin, Thebes)",
+        "zh": "埃及喪葬作坊（象徵定位，底比斯）"
+      },
+      "lat": 25.6872,
+      "lon": 32.6396,
+      "period": "Book of the Dead ch. 156, Theban recension (Budge translation 1910)",
+      "source": {
+        "archive": "Project Gutenberg (eBook #15932)",
+        "work": "The Literature of the Ancient Egyptians, trans. E. A. W. Budge (1910), ch. IV, Chapter CLVI of the Book of the Dead (the tet amulet)",
+        "url": "https://www.gutenberg.org/files/15932/15932-0.txt"
+      },
+      "license": "Public domain (translation 1910)",
+      "summary": {
+        "en": "The spell for the tet amulet — the knot-shaped pillar that represented a portion of Isis' body — recited over carnelian steeped in ankham-flower water and set in a sycamore frame at the funeral: 'The blood of Isis, the power of Isis, the words of power of Isis shall be strong to protect this mighty one... and one hand of his shall be towards heaven and the other towards earth, regularly and continually.'",
+        "zh": "泰特護符之咒——該結形柱乃伊西斯身體之一部分所成——於葬日誦於浸過安卡姆花水、鑲於梧桐木框之紅玉髓上：『伊西斯之血、之力、之言辭之力，將強而護此偉大者……其一手指天，一手指地，恆常不變。』"
+      },
+      "motifs": [
+        "resurrection",
+        "transformation",
+        "talisman"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient amuletic spell; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The blood of Isis, the power of Isis, the words of power of Isis shall be strong to protect this mighty one (i.e. the mummy), and to guard him from him that would do unto him anything which he abominateth (or, is taboo to him).",
+          "note": "Verbatim excerpt of Budge, Literature of the Ancient Egyptians (1910), ch. IV, Book of the Dead ch. 156."
+        },
+        {
+          "id": "2",
+          "text": "[This spell] shall be said over a tet made of carnelian, which hath been steeped in water of ankham flowers, and set in a frame of sycamore wood, and placed on the neck of the deceased on the day of the funeral. If these things be done for him the powers of Isis shall protect his body, and Horus, the son of Isis, shall rejoice in him when he seeth him. And there shall be no places hidden from him as he journeyeth. And one hand of his shall be towards heaven and the other towards earth, regularly and continually.",
+          "note": "Verbatim excerpt of Budge (1910), the rubric of ch. 156."
+        }
+      ],
+      "persons": [
+        "isis",
+        "horus"
+      ]
+    },
+    {
+      "id": "egyptian-bd-crocodile-spells",
+      "title": {
+        "en": "I Am Ra, the Self-Protected: Spells Against the Crocodiles",
+        "zh": "我乃拉，自護者：驅鱷之咒"
+      },
+      "tradition": "egyptian",
+      "category": "myth",
+      "region": {
+        "en": "The Nile of the Other World (symbolic pin, the river journey of the dead)",
+        "zh": "冥界之尼羅（象徵定位，亡者之河旅）"
+      },
+      "lat": 26.0,
+      "lon": 31.5,
+      "period": "Book of the Dead chs. 31-32, Theban recension (Budge translation 1910)",
+      "source": {
+        "archive": "Project Gutenberg (eBook #15932)",
+        "work": "The Literature of the Ancient Egyptians, trans. E. A. W. Budge (1910), ch. IV, Chapters XXXI-XXXII of the Book of the Dead",
+        "url": "https://www.gutenberg.org/files/15932/15932-0.txt"
+      },
+      "license": "Public domain (translation 1910)",
+      "summary": {
+        "en": "The dead face crocodiles from all four quarters of the river and answer them with identity-spells — 'Get thee back, thou Crocodile of the West... I am set... I am Osiris... I am Sept... I am Tem' — until the climax of pure solar self-protection: 'Created things are in the hollow of my hand, and the things that are not yet made are inside me... I am Ra, the self-protected, no evil thing whatsoever shall overthrow me.'",
+        "zh": "亡者四面遇鱷，以同體之咒應之——『退去吧，西方之鱷……我已定。我是奧西里斯……我是塞普特……我是阿圖姆』——末句乃純粹太陽式自護宣言：『已成之物在我掌心，未成之物在我懷中……我即拉，自護者，任何邪惡皆不能勝我。』"
+      },
+      "motifs": [
+        "transformation",
+        "theophany"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient funerary spells; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Away with thee! Retreat! Get back, O thou accursed Crocodile Sui. Thou shalt not come nigh me, for I have life through the words of power that are in me. If I utter thy name to the Great God he will make thee to come before the two divine messengers Betti and Herkemmaat. Heaven ruleth its seasons, and the spell hath power over what it mastereth, and my mouth ruleth the spell that is inside it. My teeth which bite are like flint knives, and my teeth which grind are like unto those of the Wolf-god. O thou who sittest spellbound with thine eyes fixed through my spell, thou shalt not carry off my spell, thou Crocodile that livest on spells.",
+          "note": "Verbatim excerpt of Budge, Literature of the Ancient Egyptians (1910), ch. IV, Book of the Dead ch. 31."
+        },
+        {
+          "id": "2",
+          "text": "Get thee back, thou Crocodile of the West, that livest on the never-resting stars. That which is thy taboo is in me. I have eaten the brow (or, skull) of Osiris. I am set. — Get thee back, thou Crocodile of the East. The serpent Nau is inside me. I will set it on thee, thy flame shall not approach me... Get thee back, thou Crocodile of the South... I will fetter thee. My charm is among the reeds. I will not yield unto thee. — Get thee back, thou Crocodile of the North... I am Tem. — Created things are in the hollow of my hand, and the things that are not yet made are inside me. I am clothed in and supplied with thy spells, O Ra, which are above me and beneath me. I am Ra, the self-protected, no evil thing whatsoever shall overthrow me.",
+          "note": "Verbatim excerpt of Budge (1910), Book of the Dead ch. 32."
+        }
+      ],
+      "persons": [
+        "ra",
+        "osiris",
+        "anubis"
+      ]
+    },
+    {
+      "id": "egyptian-kingdom-of-osiris",
+      "title": {
+        "en": "The Kingdom of Osiris: Fields of Reeds and the Island of Truth",
+        "zh": "奧西里斯之國：蘆葦之田與真理之島"
+      },
+      "tradition": "egyptian",
+      "category": "myth",
+      "region": {
+        "en": "The Fields of Reeds (Sekhet Aaru), Egyptian Other World (symbolic pin, Abydos region)",
+        "zh": "埃及冥界蘆葦之田（象徵定位，阿拜多斯一帶）"
+      },
+      "lat": 26.4,
+      "lon": 31.8,
+      "period": "Descriptions from the Book of Gates and Book of the Dead ch. 110, New Kingdom (Budge, The Book of the Dead, 1901/1920)",
+      "source": {
+        "archive": "Project Gutenberg (eBook #7145)",
+        "work": "The Book of the Dead, by E. A. Wallis Budge (1901), ch. VIII, 'The Kingdom of Osiris'",
+        "url": "https://www.gutenberg.org/cache/epub/7145/pg7145.txt"
+      },
+      "license": "Public domain (translation 1901)",
+      "summary": {
+        "en": "Egypt's heaven is a working farm: fields crossed by canals with 'no fish and no worms', on one island of which Osiris dwells with his saints — the Island of Truth, where the ferryman carries none who was not declared 'true of word' at the Great Reckoning; the beautified, seven cubits tall, reap wheat three cubits high, ears that are 'the members of Osiris', and eat the body of their god daily as the Bread of Everlastingness.",
+        "zh": "埃及的天堂是一座農場：田野為運河所交錯，『無魚亦無蛇』；其中一小島為奧西里斯與其聖徒所居——『真理之島』，非經托特與諸神於大清算中宣告『言真實』者，奧西里斯之渡者不載；蒙福者高七肘，刈三肘高之麥——麥穗即『奧西里斯之肢體』——日日以神之身為糧，是謂『永恆之餅』。"
+      },
+      "motifs": [
+        "otherworld-voyage",
+        "dying-god",
+        "world-renewal",
+        "island-otherworld",
+        "ferryman-dead"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient funerary cosmography; no living community restrictions. Coordinates symbolic over the Abydos region where theologians placed the kingdom."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "According to the Book of Gates and the other 'Guides' to the Egyptian Under World, the Kingdom of Osiris formed the Sixth Division of the Tuat; in very early times it was situated in the Western Delta, but after the XIIth dynasty theologians placed it near Abydos in Upper Egypt, and before the close of the Dynastic Period the Tuat of Osiris had absorbed the Under World of every nome of Egypt. When the soul in its beautified or spirit body arrived there, the ministers of Osiris took it to the homestead or place of abode which had been allotted to it by the command of Osiris, and there it began its new existence.",
+          "note": "Verbatim excerpt of Budge, The Book of the Dead (1901), ch. VIII."
+        },
+        {
+          "id": "2",
+          "text": "The large vignette to the CXth Chapter shows us exactly what manner of place the abode of the blessed was. The country was flat and the fields were intersected by canals of running water in which there were 'no fish and no worms' (i.e., water snakes). In one part of it were several small islands, and on one of them Osiris was supposed to dwell with his saints. It was called the 'Island of Truth,' and the ferry-man of Osiris would not convey to it any soul that had not been declared 'true of word' by Thoth, Osiris and the Great Gods at the 'Great Reckoning.' The portion of the Kingdom of Osiris depicted in the large Books of the Dead represents in many respects a typical Egyptian farm, and we see the deceased engaged in ploughing and reaping and driving the oxen that are treading out the corn.",
+          "note": "Verbatim excerpt of Budge (1901), ch. VIII."
+        },
+        {
+          "id": "3",
+          "text": "One corner of this region was specially set apart for the dwelling place of the aakhu, i.e., beautified souls, or spirit-souls, who were said to be seven cubits in height, and to reap wheat or barley which grew to a height of three cubits. Near this spot were moored two boats that were always ready for the use of the denizens of that region; they appear to have been 'spirit boats,' i.e., boats which moved of themselves and carried the beautified wheresoever they wanted to go without any trouble or fatigue on their part.",
+          "note": "Verbatim excerpt of Budge (1901), ch. VIII."
+        },
+        {
+          "id": "4",
+          "text": "In the texts that accompany these scenes the ears of wheat are said to be the 'members of Osiris,' and the wheat plant is called the maat plant. Osiris was the Wheat-god and also the personification of Maat (i.e., Truth), and the beautified lived upon the body of their god and ate him daily, and the substance of him was the 'Bread of Everlastingness.' Osiris says to them, 'Ye are truth of truth; rest in peace.' And of them he says, 'They were doers of truth whilst they were upon earth, they did battle for their god, and they shall be called to the enjoyment of the Land of the House of Life with Truth... Ye shall live there even as they live, and ye shall have dominion over the cool waters of your land.'",
+          "note": "Verbatim excerpt of Budge (1901), ch. VIII."
+        }
+      ],
+      "persons": [
+        "osiris",
+        "thoth"
+      ]
+    },
+    {
+      "id": "egyptian-bd-divine-youth-hymn",
+      "title": {
+        "en": "The Divine Youth, Self-Created: The Opening Hymn of the Dead",
+        "zh": "自生之聖子：亡者開篇頌"
+      },
+      "tradition": "egyptian",
+      "category": "myth",
+      "region": {
+        "en": "Egypt, opening hymn of the great Book of the Dead papyri (symbolic pin, Heliopolis)",
+        "zh": "埃及，亡靈書大紙草之開篇頌（象徵定位，赫利奧波利斯）"
+      },
+      "lat": 30.13,
+      "lon": 31.31,
+      "period": "Hymn to Ra, standard opening of Book of the Dead papyri from the 4th Dynasty onward (Budge, The Book of the Dead, 1901)",
+      "source": {
+        "archive": "Project Gutenberg (eBook #7145)",
+        "work": "The Book of the Dead, by E. A. Wallis Budge (1901), ch. IX, the Hymn to Ra that opens the great papyri",
+        "url": "https://www.gutenberg.org/cache/epub/7145/pg7145.txt"
+      },
+      "license": "Public domain (translation 1901)",
+      "summary": {
+        "en": "Every great Book of the Dead papyrus opens with this hymn to Ra, sung by the deceased: 'Thou art the God One, who camest into being in the beginning of time. Thou didst create the earth, and man, thou didst make the sky and the celestial river Hep... Thou art the lord of heaven and earth' — and at its heart the confession of the Unknowable: 'Thou art unknowable, and no tongue can describe thy similitude; thou existest alone.'",
+        "zh": "所有亡靈書大紙草皆以此拉之頌開篇，由亡者自誦：『爾乃太初自生之唯一神。爾造大地、造人，爾造蒼穹與天河水赫普……爾為天地之主』——其核心乃不可知者之告白：『爾不可知，無舌能言爾之像；爾獨存。』"
+      },
+      "motifs": [
+        "creation-chaos",
+        "theophany",
+        "celestial-bureaucracy",
+        "secret-book"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient hymn; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Homage to thee, O Ra, at thy beauteous rising. Thou risest, thou risest; thou shinest, thou shinest at the dawn. Thou art King of the Gods, and the Maati goddesses embrace thee. The Company of the Gods praise thee at sunrise and at sunset. Thou sailest over the heights of heaven and thy heart is glad. Thy Morning Boat meeteth thy Evening Boat with fair winds. Thy father is the Sky-god and thy mother is the Sky-goddess, and thou art Horus of the Eastern and Western skies. O thou Only One, O thou Perfect One, O thou who art eternal, who art never weak, whom no mighty one can abase; none hath dominion over the things which appertain to thee.",
+          "note": "Verbatim excerpt of Budge, The Book of the Dead (1901), ch. IX."
+        },
+        {
+          "id": "2",
+          "text": "Homage to thee in thy characters of Horus, Tem, and Khepera, thou Great Hawk, who makest man to rejoice by thy beautiful face. When thou risest men and women live. Thou renewest thy youth, and dost set thyself in the place where thou wast yesterday. O Divine Youth, who art self-created, I cannot comprehend thee. Thou art the lord of heaven and earth, and didst create beings celestial and beings terrestrial. Thou art the God One, who camest into being in the beginning of time. Thou didst create the earth, and man, thou didst make the sky and the celestial river Hep; thou didst make the waters and didst give life unto all that therein is. Thou hast knit together the mountains, thou hast made mankind and the beasts of the field to come into being, and hast made the heavens and the earth. The fiend Nak is overthrown, his arms are cut off.",
+          "note": "Verbatim excerpt of Budge (1901), ch. IX."
+        },
+        {
+          "id": "3",
+          "text": "O thou Divine Youth, thou heir of everlastingness, self-begotten and self-born, One, Might, of myriad forms and aspects, Prince of An (i.e., On), Lord of Eternity, Everlasting Ruler, the Company of the Gods rejoice in thee. As thou risest thou growest greater: thy rays are upon all faces. Thou art unknowable, and no tongue can describe thy similitude; thou existest alone.",
+          "note": "Verbatim excerpt of Budge (1901), ch. IX."
+        }
+      ],
+      "persons": [
+        "ra",
+        "horus"
+      ]
+    }
+  ]
+}

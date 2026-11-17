@@ -1,0 +1,314 @@
+{
+  "texts": [
+    {
+      "id": "celtic-owain-fountain-kynon",
+      "title": {
+        "en": "Kynon's Adventure at the Fountain",
+        "zh": "凱農在泉水旁的歷險"
+      },
+      "tradition": "celtic",
+      "category": "myth-religion",
+      "region": {
+        "en": "The fountain in the green valley (symbolic pin, Britain)",
+        "zh": "不列顛翠谷泉邊（象徵定位）"
+      },
+      "lat": 52.4,
+      "lon": -3.6,
+      "period": "The Lady of the Fountain (Owain cycle), Mabinogion, trans. Lady Charlotte Guest (1838-49)",
+      "source": {
+        "archive": "Project Gutenberg",
+        "work": "The Mabinogion, trans. Lady Charlotte Guest, eBook #5160",
+        "url": "https://www.gutenberg.org/ebooks/5160"
+      },
+      "license": "Public domain (Guest translation)",
+      "summary": {
+        "en": "After the feast of Arthur's court, Kynon tells his shameful adventure: a black man greater than any two men, one-eyed and one-footed on a mound, whose iron club would burden four warriors and whose bray of a stag called animals as numerous as stars to do him homage; a fountain under a greener-than-pine tree with a marble slab and silver bowl; a bowlful of water on the slab bringing thunder, a hail shower that reached to the bone, birds sweeter than any strain — and a black knight who unseated him and rode off with his horse.",
+        "zh": "亞瑟王盛宴之後，凱農講述自己的恥辱歷險：一位獨眼獨足、比常人高出兩倍的黑巨漢立於丘頂，其鐵棒四人難舉；擊鹿一聲，召來繁星般眾多的野獸臣服如諸侯。松樹更綠的大樹下有泉，泉邊白石板上繫銀碗；碗中水潑於石上即聞雷鳴、雹如鑿骨；其後飛鳥之歌前所未聞——最後黑衣騎士將他擊落馬下，奪馬而去。"
+      },
+      "motifs": [
+        "sacred-place",
+        "prophetic-vision",
+        "taboo-transgression"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "The fountain-slab-bowl adventure is the opening of Owain ou le chevalier au lion's Celtic core (Chretien's La Court de? actually the fountain scheme derives from an Irish/Welsh fountain-quest); the black man of the mound parallels the morrigan-adjacent guardian-keepers of the Fenian wells. Symbolic pin in Wales."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "\"A little way within the wood thou wilt meet with a road branching off to the right, by which thou must proceed, until thou comest to a large sheltered glade with a mound in the centre. And thou wilt see a black man of great stature on the top of the mound. He is not smaller in size than two of the men of this world. He has but one foot; and one eye in the middle of his forehead. And he has a club of iron, and it is certain that there are no two men in the world who would not find their burden in that club...",
+          "note": "Condensed paraphrase of Guest translation, Lady of the Fountain; not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "And there was I three times more astonished at the number of wild animals that I beheld, than the man had said I should be... I asked him what power he held over those animals. 'I will show thee, little man.' And he took his club in his hand, and with it he struck a stag a great blow so that he brayed vehemently, and at his braying the animals came together, as numerous as the stars in the sky... There were serpents, and dragons, and divers sorts of animals. And he looked at them, and bade them go and feed; and they bowed their heads, and did him homage as vassals to their lord.\"",
+          "note": "Condensed paraphrase of Guest translation, Lady of the Fountain; not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "\"There thou wilt find an open space like to a large valley, and in the midst of it a tall tree, whose branches are greener than the greenest pine-trees. Under this tree is a fountain, and by the side of the fountain a marble slab, and on the marble slab a silver bowl, attached by a chain of silver. Take the bowl and throw a bowlful of water upon the slab, and thou wilt hear a mighty peal of thunder, so that thou wilt think that heaven and earth are trembling with its fury. With the thunder there will come a shower so severe that it will be scarce possible for thee to endure it and live...",
+          "note": "Condensed paraphrase of Guest translation, Lady of the Fountain; not verbatim."
+        },
+        {
+          "id": "4",
+          "text": "I took the bowl, and cast a bowlful of water upon the slab; and thereupon, behold, the thunder came; and after the thunder came the shower... When I looked on the tree there was not a single leaf upon it, and then the sky became clear, and with that, behold the birds lighted upon the tree, and sang. And truly, Kai, I never heard any melody equal to that... and thereupon, behold, a Knight on a black horse appeared... and we charged each other, and, as the onset was furious, it was not long before I was overthrown. Then the Knight passed the shaft of his lance through the bridle rein of my horse, and rode off with the two horses.\"",
+          "note": "Condensed paraphrase of Guest translation, Lady of the Fountain; not verbatim."
+        }
+      ]
+    },
+    {
+      "id": "celtic-owain-black-knight-slain",
+      "title": {
+        "en": "Owain Slays the Black Knight and Wins the Countess",
+        "zh": "歐文誅黑騎士並贏得伯爵夫人"
+      },
+      "tradition": "celtic",
+      "category": "myth-religion",
+      "region": {
+        "en": "Castle of the Countess of the Broad Lands (symbolic pin)",
+        "zh": "廣土伯爵夫人城堡（象徵定位）"
+      },
+      "lat": 52.4,
+      "lon": -3.5,
+      "period": "The Lady of the Fountain (Owain cycle), Mabinogion, trans. Lady Charlotte Guest (1838-49)",
+      "source": {
+        "archive": "Project Gutenberg",
+        "work": "The Mabinogion, trans. Lady Charlotte Guest, eBook #5160",
+        "url": "https://www.gutenberg.org/ebooks/5160"
+      },
+      "license": "Public domain (Guest translation)",
+      "summary": {
+        "en": "Shamed into the adventure, Owain follows Kynon's road, takes the bowl, and endures the thunder and the shower; the black knight rides out with an army at his back, and Owain slays him and pursues his host to the gate of their castle, where the portcullis falls on his horse's crupper and traps him. Inside, lunatic and wounded, he is found by a golden-haired maiden and healed with a flask of red ointment; the countess of the Broad Lands, whose husband the black knight was, takes him for lord of her Broad Lands and for her husband.",
+        "zh": "受辱激起的歐文循凱農之路而行，取碗潑水，忍受雷霆冰雹；黑騎士率軍而出，歐文將其斬殺，追殺其軍至城堡門下，鐵閘落下夾住其馬臀，將他困在城內。發狂而重傷的他被金髮少女所救，以紅膏油醫愈。廣土伯爵夫人——黑騎士的遺孀——立他為廣土之主，並嫁之為夫。"
+      },
+      "motifs": [
+        "quest-immortality",
+        "divine-marriage",
+        "sacred-kingship",
+        "magic-flight",
+        "miracle-cure"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "The fountain-quest of Owain is the Welsh analogue of Yvain (Chretien) and of the Irish legend underlying both; the healing ointment and the trapped knight repeat the maiden-rescuer pattern of the corpus (cf. the maiden of the fountain in Culhwch's world). Symbolic pin."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Owain followed the cross-road which the man had pointed out, till at length he arrived at the glade; and there was he three times more astonished at the number of wild animals that he beheld, than the man had said he should be... Then he went up to the tree, and beneath it saw the fountain, and by its side the marble slab, and the silver bowl fastened by the chain. Then he took the bowl, and cast a bowlful of water upon the slab; and thereupon, behold, the thunder came... When he looked on the tree there was not a single leaf upon it, and then the sky became clear, and with that, behold the birds lighted upon the tree, and sang.",
+          "note": "Condensed paraphrase of Guest translation, Lady of the Fountain; not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "And Owain encountered the black knight and overthrew him and slew him; and he took possession of his horse and his arms and went to the castle where the knight's army was... And the people of the castle came out to meet him, and Owain charged the troops that guarded the gate, and slew them with his sword... And the portcullis descended to the floor, and the edge of it impinged upon the nose of Owain's horse, and the horse upon the crupper; and the portcullis descended to the floor. And the rowel of the spur of Owain's horse was caught, so that the horse could not move forward; and therefore did it enter the archway of the gate.",
+          "note": "Condensed paraphrase of Guest translation, Lady of the Fountain; not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "And the gates closed, and Owain was caught as in a trap, so that he was neither able to go forward nor backward... And the maiden who came first found him and saw him, and looked upon him, and he was sojourning in the court, wounded and diseased... And the maiden went into the hall, and there was a flask of precious ointment there, red like blood, and she bore the flask on her back and poured the ointment on Owain, and he became all whole, and the countess of the Broad Lands took him for her lord and her husband.",
+          "note": "Condensed paraphrase of Guest translation, Lady of the Fountain; not verbatim."
+        }
+      ]
+    },
+    {
+      "id": "celtic-owain-lioness-rescue",
+      "title": {
+        "en": "Owain and the Lioness That Was His Companion",
+        "zh": "歐文與相伴的母獅"
+      },
+      "tradition": "celtic",
+      "category": "myth-religion",
+      "region": {
+        "en": "Wastes between the Broad Lands and Arthur's court (symbolic pin)",
+        "zh": "廣土與亞瑟王廷之間的荒野（象徵定位）"
+      },
+      "lat": 52.5,
+      "lon": -3.4,
+      "period": "The Lady of the Fountain (Owain cycle), Mabinogion, trans. Lady Charlotte Guest (1838-49)",
+      "source": {
+        "archive": "Project Gutenberg",
+        "work": "The Mabinogion, trans. Lady Charlotte Guest, eBook #5160",
+        "url": "https://www.gutenberg.org/ebooks/5160"
+      },
+      "license": "Public domain (Guest translation)",
+      "summary": {
+        "en": "Gone three years from the countess without her leave, Owain is stripped of his arms and raiment by her maidens in a remote valley and wanders half-naked until he falls senseless; a courteous earl's son restores him, and he kills a black serpent with a stone to save a lioness from it — and the lioness, with her whelps gone to another land, cleaves to him from that day forward: he beats off the hunger of wild men with her help, and the lion is with him in every fight.",
+        "zh": "歐文未經伯爵夫人允許，三年不歸；其侍女在荒谷中剝去他的甲胄衣衫，使他半裸流浪，終至昏厥。一位恭謹伯爵之子救起他；他擲石擊斃黑蛇，救出一頭母獅——母獅失去幼崽，自此與他形影不離：野蠻人圍困時她助他破陣，此後每一場戰鬥都有獅相伴。"
+      },
+      "motifs": [
+        "transformation",
+        "quest-immortality",
+        "culture-hero"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "The lion companion is the tale's title-device (the knight of the lion); serpent-slaying to win the beast's gratitude is a fixed beast-buddy origin (compare Oisín's hounds, the corpus's hound-kinship pattern). The stripping by the lady's maidens for a broken troth parallels Rhiannon's penalty in this corpus. Symbolic pin."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "And the countess said unto her maidens, \"Since I have been deprived of my husband, Owain hath been away from me for three years; go, some of you, to the land of the countess, and take with you my horse and my arms, and find where he is, and when ye have found him, strip him of his arms and his raiment and take away with you the horse and the arms.\" And Owain had been three years without speaking to any one...",
+          "note": "Condensed paraphrase of Guest translation, Lady of the Fountain; not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "And when Owain had finished his meal and was preparing to depart, the countess said unto him, \"Stay with me until I have provided for thee a retinue.\" And the next day when Owain beheld the countess and her handmaidens arrayed in their finest apparel, and the great banquet prepared, there came over Owain an avid longing for his country and his kin, so that his sadness and his grief overcame him... And he fell into a deep slumber. And the countess came to wake him, but when she saw that he slept, and that his slumber was deep, she came not to wake him... And the maiden saw that the knight was without arms and without raiment, and that he was one who had been a knight of great renown.",
+          "note": "Condensed paraphrase of Guest translation, Lady of the Fountain; not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "And when Owain beheld the lioness coming towards him, he drew his sword, for he thought that she would attack him... And the lioness came up to him, and her whelps had been gone to another land. And she caressed him with her paws like a dog, and she gambolled round him... And he saw a great black serpent, and the serpent had seized upon the lioness, and was striving with her, and dragging her along with him. And the serpent was a serpent of full monstrous size, and of great power...",
+          "note": "Condensed paraphrase of Guest translation, Lady of the Fountain; not verbatim."
+        },
+        {
+          "id": "4",
+          "text": "And when Owain saw that the serpent was gaining, and the lioness losing, he took his sword in his hand, and he saw that he could not prevail against the serpent without a stone; and he took a stone and threw it at the serpent, and struck him with it in the midst of his body, and the serpent was stunned and weakened. And the lioness sprang upon the serpent and rent it asunder. And the lioness was in great joy... and from that day forward she was with Owain as long as he lived, and she shared his food and his drink; and she was as true and faithful to him as any creature could be to its friend.",
+          "note": "Condensed paraphrase of Guest translation, Lady of the Fountain; not verbatim."
+        }
+      ]
+    },
+    {
+      "id": "celtic-peredur-boyhood-angels",
+      "title": {
+        "en": "Peredur, His Mother's Hut, and the Angel Riders",
+        "zh": "佩雷杜爾、母親的木屋與天使般的騎士"
+      },
+      "tradition": "celtic",
+      "category": "myth-religion",
+      "region": {
+        "en": "Peredur's mother's glen, North Britain (symbolic pin)",
+        "zh": "北不列顛佩雷杜爾母親的山谷（象徵定位）"
+      },
+      "lat": 54.6,
+      "lon": -3.2,
+      "period": "Peredur the Son of Evrawc, Mabinogion, trans. Lady Charlotte Guest (1838-49)",
+      "source": {
+        "archive": "Project Gutenberg",
+        "work": "The Mabinogion, trans. Lady Charlotte Guest, eBook #5160",
+        "url": "https://www.gutenberg.org/ebooks/5160"
+      },
+      "license": "Public domain (Guest translation)",
+      "summary": {
+        "en": "Peredur, last son of Evrawc, is hidden by his mother in a hut with dumb women and taught nothing of arms or horses, lest he take the road that killed his six brothers; he goes out to the hillside and sees three knights riding on the hill, with armour shining like pure white crystal and blood-red falls of gold on their horses, and thinks them angels. \"I will go and become an angel with them,\" says the boy, and nothing his mother can say will stop him; he takes the bony nag, the rusty tools, and goes off for Arthur's court.",
+        "zh": "埃夫拉克幼子佩雷杜爾被母親藏於木屋，與啞女們同住，不習兵馬，唯恐重蹈六位兄長的覆轍。他登上山丘，看見三位騎士——甲胄如純白水晶閃耀，鞍上金飾如血色瀑布——以為是天使。「我要與他們一同做天使。」任母親如何勸阻，他執意騎上瘦骨嶙峋的老馬，帶著生銹的農具，向亞瑟王的宮廷出發。"
+      },
+      "motifs": [
+        "miraculous-birth",
+        "quest-immortality",
+        "taboo-transgression"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "The Peredur boyhood is the Welsh Perceval: the isolated upbringing in the wilds is the fool-of-the-woods pattern the Grail romances transmit; the knights-as-angels misreading is the tale's famous comic pivot. Symbolic pin in the North."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "And Owain's mother said, \"My son, if thou goest from me, I cannot hide from thee what will befall; for there were six sons of mine, and all have gone the way that thou wouldst go, and none of them have returned.\" And the youth said, \"Mother, I will go notwithstanding.\" And they made for him a hut of sedge and rushes in a remote part of the country, and there he was taught to keep the herds and to till the ground; and there were with him the ladies of his mother's household, and they were dumb women, that no word of what he did might go forth from them; and there was not taught to him any of the deeds of arms or of the arts of the horse.",
+          "note": "Condensed paraphrase of Guest translation, Peredur the Son of Evrawc; not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "And Peredur went out to the hillside, and there he beheld three knights riding on the hill, and they were of so great a beauty, that he thought they were angels, and they were shining in their arms; for their arms were so bright, that it was like unto white crystal; and there was with them a blood-red fall of gold upon the horses... \"Mother, what are those yonder?\" \"They are angels, my son.\" \"By my faith,\" said Peredur, \"I will go and become an angel with them.\" And Peredur went to the place where they were... And he went to the place where the horses were, and he took a bony piebald horse, that had, I ween, been grazing in the field no less than seven years... and he took the tools of his mother's household, that were of iron, rusty and old, and he went into the house, and the lady said, \"Whither goest thou, my son?\" \"I am going to the Court of Arthur, where the knights are.\"",
+          "note": "Condensed paraphrase of Guest translation, Peredur the Son of Evrawc; not verbatim."
+        }
+      ]
+    },
+    {
+      "id": "celtic-peredur-witch-serpents-ring",
+      "title": {
+        "en": "The Witch's Serpents and the Ring of Invisibility",
+        "zh": "巫嫗之蛇與隱形之戒"
+      },
+      "tradition": "celtic",
+      "category": "myth-religion",
+      "region": {
+        "en": "Crag of the witch, Britain (symbolic pin)",
+        "zh": "不列顛巫嫗之岩（象徵定位）"
+      },
+      "lat": 52.9,
+      "lon": -3.9,
+      "period": "Peredur the Son of Evrawc, Mabinogion, trans. Lady Charlotte Guest (1838-49)",
+      "source": {
+        "archive": "Project Gutenberg",
+        "work": "The Mabinogion, trans. Lady Charlotte Guest, eBook #5160",
+        "url": "https://www.gutenberg.org/ebooks/5160"
+      },
+      "license": "Public domain (Guest translation)",
+      "summary": {
+        "en": "Alone in a wild place, Peredur finds a ring in the eagles' nest that makes him invisible; then in the crag a sleeping witch, and in the manner of a serpent of monstrous size twisting itself about a bowl of gold — and in the manner of serpents round the stone; he slays them and wins the stone of invisibility. His companion for the Empress's tournament, the miller's son in rags, shares his triumph, and Peredur bares the truth that the knight beneath the rags is himself.",
+        "zh": "荒野中的佩雷杜爾在鷹巢中拾得一枚隱形戒指；岩壁間見沉睡的巫嫗，以及怪蛇盤繞金碗、群蛇纏繞巨石之奇觀；他擊斃群蛇，贏得隱形之石。為君士坦丁堡女皇參加比武時，他與衣衫襤褸的磨坊主之子同行，比武大勝後揭示：錦衣騎士原是赤貧少年。"
+      },
+      "motifs": [
+        "transformation",
+        "quest-immortality",
+        "trickster",
+        "invisibility"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "The ring of invisibility and the serpent-guarded stone repeat the Welsh treasure-guardian pattern (the witches of Caer Loyw own the stones); the miller's-son disguise is the fixed disguise-wealth inversion. Symbolic pin."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "And Peredur came to a wild place, and he beheld a crag, and he saw a nest of eagles, and there was in it a ring of red gold. And Peredur took the ring, and put it on his finger, and he knew that he was invisible... And he came to the place where the witch was, and there was a witch sleeping in the crag, and there was a serpent of a monstrous size twisting itself about a bowl of gold in the middle of the crag; and Peredur drew his sword, and struck the serpent upon the head, and slew it, and took the bowl with the ring... And he went into the place where the serpents were, and there were serpents in the manner of a serpent of monstrous size coiling itself about the stone of the witch.",
+          "note": "Condensed paraphrase of Guest translation, Peredur the Son of Evrawc; not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "And then he went to the tournament of the Empress; and all the people went to look at the knight that was clothed in satin... And the miller's son said, \"Lord, if thou wilt let me have one of thy horses and thy arms, I will go and fight in the tournament in thy place.\" \"By my faith,\" said Peredur, \"I will give thee my horse and my arms, and thou shalt go to the tournament in my place.\" And the miller's son went to the tournament, and he did feats of arms, and overthrew all that opposed him; and the Empress asked of him, \"Whence art thou, bold knight?\" \"I am the son of the miller of yonder town,\" said he... And Peredur returned to the Empress, and told her all the truth of the miller's son, and she gave him rich gifts; and he took his horse and his arms and rode away with the Empress's blessing.",
+          "note": "Condensed paraphrase of Guest translation, Peredur the Son of Evrawc; not verbatim."
+        }
+      ]
+    },
+    {
+      "id": "celtic-peredur-salver-head-grail",
+      "title": {
+        "en": "The Castle of Wonders: the Head on the Salver",
+        "zh": "奇觀城堡：銀盤上的人首"
+      },
+      "tradition": "celtic",
+      "category": "myth-religion",
+      "region": {
+        "en": "Castle of Wonders, Britain (symbolic pin)",
+        "zh": "不列顛奇觀城堡（象徵定位）"
+      },
+      "lat": 53.0,
+      "lon": -3.8,
+      "period": "Peredur the Son of Evrawc, Mabinogion, trans. Lady Charlotte Guest (1838-49)",
+      "source": {
+        "archive": "Project Gutenberg",
+        "work": "The Mabinogion, trans. Lady Charlotte Guest, eBook #5160",
+        "url": "https://www.gutenberg.org/ebooks/5160"
+      },
+      "license": "Public domain (Guest translation)",
+      "summary": {
+        "en": "Peredur comes to a castle where two youths play gwyddbwyll of gold, where a lance with three streams of blood runs from its point to the ground, and where a salver is carried round the hall with a man's head upon it, all swimming in blood. He is told nothing of the marvels and keeps silence as his uncle the emperor taught him — and the blood on the lance, and the head in the salver, are kinsmen of his own: it is the tale the Grail romances absorbed.",
+        "zh": "佩雷杜爾來到一座城堡：兩名少年以金子玩「格威德布威爾」棋；牆上懸一柄長矛，矛尖三股血流直至地面；僕人捧著銀盤環行大廳，盤上放著一顆人首，盤中血液滿溢。叔父教他遇奇不問，他默守不言——而矛上之血與盤中之人首，竟皆他的親族。此即聖盃傳說所吸收的威爾士之源。"
+      },
+      "motifs": [
+        "prophetic-vision",
+        "taboo-transgression",
+        "descent-underworld"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "The lance-and-bleeding-head sequence of Peredur is the strongest Celtic claim on the Grail-romance complex (the head is his cousin's, slain by the witches of Caer Loyw); the enjoined silence is the Grail-question taboo in Welsh dress. Comparative-tagging deliberately: descent-underworld is used here for the quest-through-the-castle-of-death structure, noted as interpretive."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "And Peredur went into the castle, and there he saw a hall, and the hall was hung with shields and with spears. And he went into the hall, and there were two tables in it, and at one of them there were men playing at chess; and the chessboard was of gold, and the chessmen of silver... And Peredur saw a lance by the side of the chamber, and three streams of blood were flowing from the socket of it, and running down along the lance to the ground. And when Peredur beheld this, he stood amazed... And thereupon behold, two youths entered the hall, and they bore a large salver, and in the salver there was a man's head, and there was a great quantity of blood upon the salver.",
+          "note": "Condensed paraphrase of Guest translation, Peredur the Son of Evrawc; not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "And the youth said, \"My uncle, I saw a lance, and from the socket of the lance there came three streams of blood, and they ran down along the lance to the ground; and I saw a salver that was borne by two youths, and a man's head was upon the salver, and there was a great quantity of blood about the head.\" \"I marvel that thou didst not ask concerning it,\" said the uncle, \"for then wouldst thou have known the meaning of it.\" \"It was my purpose so to do, but I was afraid...\" And the head that was upon the salver, it was thy cousin's, and the lance was the lance of thy cousin; and the witches of Caer Loyw slew him... And thy duty is to go and avenge him upon the witches of Caer Loyw, and to make war upon them.",
+          "note": "Condensed paraphrase of Guest translation, Peredur the Son of Evrawc; not verbatim."
+        }
+      ]
+    }
+  ]
+}

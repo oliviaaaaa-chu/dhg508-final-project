@@ -1,0 +1,584 @@
+{
+  "texts": [
+    {
+      "id": "maya-popolvuh-fathers-ballgame",
+      "title": {
+        "en": "One Hunahpu and Seven Hunahpu Play Too Loudly",
+        "zh": "一烏納普與七烏納普球聲過響"
+      },
+      "tradition": "maya",
+      "category": "myth",
+      "region": {
+        "en": "Q'umarkaj (Utatlan), K'iche' highlands, Guatemala (symbolic pin)",
+        "zh": "危地馬拉高地庫馬爾卡赫（烏塔特蘭）（象徵性定位）"
+      },
+      "lat": 15.1,
+      "lon": -91.35,
+      "period": "K'iche' text written c. 1554-78; Ximenez transcription c. 1701-03",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Popol Wuj, Part 2, French ed. Brasseur de Bourbourg, 1861",
+        "url": "https://archive.org/details/popolvuhlelivres00bras"
+      },
+      "license": "Public domain (Brasseur 1861 French edition); modern translations only paraphrased",
+      "summary": {
+        "en": "The two brothers, sons of the daykeepers Xmucane and Xpiyacoc, are skilled in dice and the ballgame. Every day they play at the ballcourt above Xibalba, and their game resounds over the dark place, troubling its lords, who assemble to consider the noise that has come into their council.",
+        "zh": "日守者徐穆坎與希皮亞科克之子二兄弟，精於擲骰與賽球。日日於希巴爾巴上方球場對弈，球聲震盪冥府，擾其諸主，諸主遂聚議此擾及其議事之聲。"
+      },
+      "motifs": [
+        "descent-underworld",
+        "taboo-transgression",
+        "labyrinth"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Paraphrase of published translation; no living-community restriction."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "There are two sons, One Hunahpu and Seven Hunahpu, and their mother is the daykeeper Xmucane, their father Xpiyacoc. The two of them are wise and gentle in their hearts: they learn the count of days and the casting of the lot, and above all they delight in the ballgame, playing one against seven, face to face, each with the rubber ball bouncing between them.",
+          "note": "Condensed paraphrase of Popol Wuj, Part 2 (Brasseur 1861; Tedlock 1996); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "They play every day at the court of their grandmother, above the place of Xibalba, which is called the place of fear. Their playing is clear and loud, and it echoes down into the darkness, where the lords hear it: One Death and Seven Death, and the lords of Pus and Blood, of the Bone Scepter, of the Scrapings, of the Wing, of the Packstrap, of Blood Teeth, and of All Seizes You. What is this noise that rolls over our heads and mocks our stone? the lords say among themselves.",
+          "note": "Condensed paraphrase of Popol Wuj, Part 2 (Brasseur 1861; Tedlock 1996); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "So the lords of Xibalba hold council: let them come down here, they say, to play their game on our court, and we shall see what they are worth. And they send their messengers, the owls of the dark roads, to summon the players below. The brothers, hearing the summons, are glad — they think it is a game and nothing more.",
+          "note": "Condensed paraphrase of Popol Wuj, Part 2 (Brasseur 1861; Tedlock 1996); not verbatim."
+        }
+      ],
+      "persons": [
+        "onehunahpu",
+        "sevenhunahpu",
+        "xmucane",
+        "xpiyacoc",
+        "onedeath",
+        "sevendeath"
+      ]
+    },
+    {
+      "id": "maya-popolvuh-fathers-xibalba",
+      "title": {
+        "en": "The Four Roads Down to the Council of Death",
+        "zh": "四條冥路直抵死亡議會"
+      },
+      "tradition": "maya",
+      "category": "myth",
+      "region": {
+        "en": "Xibalba (the place of fear), symbolic pin at the Candelaria caves, Guatemala highlands",
+        "zh": "希巴爾巴（懼地），以危地馬拉高地坎德拉里亞洞群為象徵定位"
+      },
+      "lat": 16.75,
+      "lon": -90.6,
+      "period": "K'iche' text written c. 1554-78; Ximenez transcription c. 1701-03",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Popol Wuj, Part 2, French ed. Brasseur de Bourbourg, 1861",
+        "url": "https://archive.org/details/popolvuhlelivres00bras"
+      },
+      "license": "Public domain (Brasseur 1861 French edition); modern translations only paraphrased",
+      "summary": {
+        "en": "The brothers descend the dark roads of Xibalba, cross the river of blood and the river of pus, and enter the council chamber, where the lords mock them with the order to make their own darts. They pass the cold stone bench and the resinous fire, but at night they are burned to death on the sacrificial stone.",
+        "zh": "兄弟二人下行冥府暗路，渡血河與膿河，入議事之堂；諸主以「自製飛鏢」譏之。他們越過冷石之凳與松脂之火，然當夜即死於祭石之上。"
+      },
+      "motifs": [
+        "descent-underworld",
+        "taboo-transgression",
+        "labyrinth"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Paraphrase of published translation; no living-community restriction."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The road down is dark and crosses itself four times, black, white, red, and green. The brothers send a mosquito ahead of them to learn the names of the lords, and it stings the carved men on the benches one by one, so that each living lord answers, 'Who is biting me?', and thus their names and ranks are revealed from the darkness of the hall.",
+          "note": "Condensed paraphrase of Popol Wuj, Part 2 (Brasseur 1861; Tedlock 1996); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "But they have no answer for the trials. At the first crossing they fail to call their names; they walk past the rivers of blood and the river of pus without being able to drink of them or cross them dry, and they arrive finally in the hall where One Death and Seven Death sit at the head of the benches. There they are ordered to make their darts and to sit on the cold stone bench, and they are given torches of resin and sticks of pitch to keep burning through the night.",
+          "note": "Condensed paraphrase of Popol Wuj, Part 2 (Brasseur 1861; Tedlock 1996); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "The torch and the stick are failures: the torch is red at one end only, a trick, and both go out at once. The brothers despair, are consumed in the night, and are buried together at the ballcourt of the place of fear. Such is the death of the fathers of the Hero Twins, who must descend in their turn to avenge it.",
+          "note": "Condensed paraphrase of Popol Wuj, Part 2 (Brasseur 1861; Tedlock 1996); not verbatim."
+        }
+      ],
+      "persons": [
+        "onehunahpu",
+        "sevenhunahpu",
+        "onedeath",
+        "sevendeath"
+      ]
+    },
+    {
+      "id": "maya-popolvuh-head-in-tree",
+      "title": {
+        "en": "The Head in the Gourd Tree",
+        "zh": "葫蘆樹上的頭顱"
+      },
+      "tradition": "maya",
+      "category": "myth",
+      "region": {
+        "en": "Xibalba (the place of fear), symbolic pin at the Candelaria caves, Guatemala highlands",
+        "zh": "希巴爾巴（懼地），以危地馬拉高地坎德拉里亞洞群為象徵定位"
+      },
+      "lat": 16.75,
+      "lon": -90.6,
+      "period": "K'iche' text written c. 1554-78; Ximenez transcription c. 1701-03",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Popol Wuj, Part 2, French ed. Brasseur de Bourbourg, 1861",
+        "url": "https://archive.org/details/popolvuhlelivres00bras"
+      },
+      "license": "Public domain (Brasseur 1861 French edition); modern translations only paraphrased",
+      "summary": {
+        "en": "The Lords of Xibalba bury One Hunahpu at the ballcourt but hang his severed head in a gourd tree at the road's edge, where it ripens like a fruit. The tree is forbidden fruit to the lords, and the head begins to speak — the seed of the Hero Twins' return is planted in a tree of gourds.",
+        "zh": "冥府諸主將一烏納普葬於球場，卻將其首懸於路旁葫蘆樹上，任其如果實般成熟。此樹對諸主為禁果，而頭顱開始說話——英雄雙子歸返的種子，就此植入葫蘆之樹。"
+      },
+      "motifs": [
+        "resurrection",
+        "miraculous-birth",
+        "taboo-transgression",
+        "forbidden-food",
+        "twin-heroes"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Paraphrase of published translation; no living-community restriction."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "After the brothers die on the sacrificial stone, the lords bury them at their ballcourt, but they cut off the head of One Hunahpu and plant it in a gourd tree at the crossing of the roads. The head takes root and ripens with the gourds until the whole tree is heavy with round faces, and no one dares to pick them.",
+          "note": "Condensed paraphrase of Popol Wuj, Part 2 (Brasseur 1861; Tedlock 1996); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "The Lords of Xibalba cry out against it: do not come near this tree; do not eat its fruit, for it is ours. The head says nothing to the lords, but it is ripe with speech, waiting in the tree like a lantern on the road of the dead. This is the tree that a girl will approach with an outstretched arm, and the place where the story of the twins begins.",
+          "note": "Condensed paraphrase of Popol Wuj, Part 2 (Brasseur 1861; Christenson 2003); not verbatim."
+        }
+      ],
+      "persons": [
+        "onehunahpu",
+        "sevendeath",
+        "onedeath"
+      ]
+    },
+    {
+      "id": "maya-popolvuh-xquic-skull",
+      "title": {
+        "en": "Xquic and the Spitting of the Skull",
+        "zh": "血女希魁克與頭顱之唾"
+      },
+      "tradition": "maya",
+      "category": "myth",
+      "region": {
+        "en": "Xibalba (the place of fear), symbolic pin at the Candelaria caves, Guatemala highlands",
+        "zh": "希巴爾巴（懼地），以危地馬拉高地坎德拉里亞洞群為象徵定位"
+      },
+      "lat": 16.75,
+      "lon": -90.6,
+      "period": "K'iche' text written c. 1554-78; Ximenez transcription c. 1701-03",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Popol Wuj, Part 2, French ed. Brasseur de Bourbourg, 1861",
+        "url": "https://archive.org/details/popolvuhlelivres00bras"
+      },
+      "license": "Public domain (Brasseur 1861 French edition); modern translations only paraphrased",
+      "summary": {
+        "en": "Xquic, daughter of the lord Cuchumaquic, hears a voice in the fruit tree and goes to pick a gourd. The skull speaks: 'You do not want fruit; you want my face.' It spits into her outstretched hand, and she conceives the Hero Twins — a birth by word and saliva, not by seed.",
+        "zh": "冥主庫丘馬魁克之女希魁克，聞果樹中有聲，遂往摘葫蘆。頭顱言道：「妳要的不是果子，而是我的面容。」遂唾於其伸出的掌心，她因此懷了英雄雙子——由言語與唾沫所成之孕，不由種子。"
+      },
+      "motifs": [
+        "miraculous-birth",
+        "resurrection",
+        "taboo-transgression",
+        "twin-heroes"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Paraphrase of published translation; no living-community restriction."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Xquic is the daughter of Cuchumaquic, a lord of Xibalba, and she hears an account of the fruit tree: the gourds that ripen in the shape of heads, along the crossing of the roads. She goes there alone, and she stretches out her hand toward the round fruit she has chosen.",
+          "note": "Condensed paraphrase of Popol Wuj, Part 2 (Brasseur 1861; Tedlock 1996); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Then the head of One Hunahpu speaks from the tree: 'You are not coming for fruit. Is it not plain that you want my face?' And she answers that she does not, but the skull has already risen into her hand: it spits its saliva into her palm, and says, 'This saliva and this spittle have not failed. My face is in it.' So she goes home, her hand wet with the word of the dead.",
+          "note": "Condensed paraphrase of Popol Wuj, Part 2 (Brasseur 1861; Tedlock 1996); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "In six months she carries the twins, without having known a man. Her father hears of it and questions her, but she answers only for herself: the child was put in her palm, not in her lap. She is condemned to be killed for the disgrace, and the owls who lead her out are given a substitute — they cut open a crocodile's belly and set its blood on the petals of a red bottle flower, faking the maiden's blood, and she is sent up the dark roads alive.",
+          "note": "Condensed paraphrase of Popol Wuj, Part 2 (Brasseur 1861; Tedlock 1996); not verbatim."
+        }
+      ],
+      "persons": [
+        "xquic",
+        "onehunahpu"
+      ]
+    },
+    {
+      "id": "maya-popolvuh-xmucane-tests-xquic",
+      "title": {
+        "en": "The Net and the Maize Ear: Xmucane Tests Xquic",
+        "zh": "網與玉米穗：徐穆坎試希魁克"
+      },
+      "tradition": "maya",
+      "category": "myth",
+      "region": {
+        "en": "Q'umarkaj (Utatlan), K'iche' highlands, Guatemala (symbolic pin)",
+        "zh": "危地馬拉高地庫馬爾卡赫（烏塔特蘭）（象徵性定位）"
+      },
+      "lat": 15.1,
+      "lon": -91.35,
+      "period": "K'iche' text written c. 1554-78; Ximenez transcription c. 1701-03",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Popol Wuj, Part 2, French ed. Brasseur de Bourbourg, 1861",
+        "url": "https://archive.org/details/popolvuhlelivres00bras"
+      },
+      "license": "Public domain (Brasseur 1861 French edition); modern translations only paraphrased",
+      "summary": {
+        "en": "Xquic presents herself to Xmucane as daughter-in-law; the grandmother refuses and tests her with impossible tasks, sending her for netfuls of corn where no corn grows. The maiden goes straight to One Hunahpu's former field, and the maize pours itself into the net. Xmucane is convinced: the twins' mother has arrived.",
+        "zh": "希魁克向徐穆坎自稱媳婦；祖母不信，以不可能之事試之，遣其至無玉米之地取一網玉米。希魁克直往一烏納普昔日之田，玉米竟自行落入網中。徐穆坎信服：雙子之母已然到來。"
+      },
+      "motifs": [
+        "miraculous-birth",
+        "oracle-divination",
+        "twin-heroes",
+        "impossible-task"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Paraphrase of published translation; no living-community restriction."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Xquic comes up out of the dark roads to the house of Xmucane and Xpiyacoc and says, 'I have come, my mother-in-law.' But the grandmother is not pleased: she sees only a girl who has come to eat their food. 'Who are you, and where is your husband?', she asks, and will not allow her to sit at the hearth.",
+          "note": "Condensed paraphrase of Popol Wuj, Part 2 (Brasseur 1861; Tedlock 1996); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Then the grandmother sets a test: 'Go and bring me a netful of corn, and we shall see whether you are my daughter-in-law.' She sends her to a field where nothing has been planted. But Xquic goes to the field of One Hunahpu, where the boys played their ballgame, and speaks to the night: two ears of corn open themselves, one of red and one of white, and the husks pour their grain into her net until it is full.",
+          "note": "Condensed paraphrase of Popol Wuj, Part 2 (Brasseur 1861; Tedlock 1996); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "She leaves the corn in the house and sets a red bottle flower in the corner, the flower she was given on the road. The grandmother, furious, goes out to the field, but the field tells her by the leaves that her son has been avenged in this maiden: the corn answers for Xquic. So Xmucane takes her in, and the twins she carries will avenge the deaths at the ballcourt.",
+          "note": "Condensed paraphrase of Popol Wuj, Part 2 (Brasseur 1861; Christenson 2003); not verbatim."
+        }
+      ],
+      "persons": [
+        "xmucane",
+        "xquic",
+        "xpiyacoc"
+      ]
+    },
+    {
+      "id": "maya-popolvuh-monkey-brothers-envy",
+      "title": {
+        "en": "The Monkey Brothers Envy the Twins",
+        "zh": "猴兄之妒"
+      },
+      "tradition": "maya",
+      "category": "myth",
+      "region": {
+        "en": "Q'umarkaj (Utatlan), K'iche' highlands, Guatemala (symbolic pin)",
+        "zh": "危地馬拉高地庫馬爾卡赫（烏塔特蘭）（象徵性定位）"
+      },
+      "lat": 15.1,
+      "lon": -91.35,
+      "period": "K'iche' text written c. 1554-78; Ximenez transcription c. 1701-03",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Popol Wuj, Part 2, French ed. Brasseur de Bourbourg, 1861",
+        "url": "https://archive.org/details/popolvuhlelivres00bras"
+      },
+      "license": "Public domain (Brasseur 1861 French edition); modern translations only paraphrased",
+      "summary": {
+        "en": "Xmucane bears the twins Hunahpu and Xbalanque, but the elder brothers Hun Batz and Hun Chouen — flute players, singers, and writers — despise them. The little ones are sent away to the fields with nothing, and the monkey brothers resolve in their jealousy to be rid of them.",
+        "zh": "徐穆坎產下雙子烏納普與斯巴蘭克，而長兄洪·巴茲與洪·秋恩——笛手、歌者與書家——卻輕視二人。幼弟被遣往田間，一無所有；猴兄妒火中燒，決意除之。"
+      },
+      "motifs": [
+        "miraculous-birth",
+        "sibling-creators",
+        "taboo-transgression",
+        "twin-heroes",
+        "jealousy"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Paraphrase of published translation; no living-community restriction."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "In due time the twins are born, Hunahpu and Xbalanque, sons of Xquic. But there are already two older sons in the house, Hun Batz and Hun Chouen, sons of Xmucane, skilled in flute and drum, in song and in painting, and in the count of days. They resent the newcomers and treat them like slaves sent to clear ground and carry burdens.",
+          "note": "Condensed paraphrase of Popol Wuj, Part 2 (Brasseur 1861; Tedlock 1996); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "The grandmother favors the elder pair and gives the twins nothing; they are given only the hard work of the cornfield, day after day, while their brothers play music. Yet the little ones are patient, and they say nothing of what they intend, for they already know the instruments their fathers used in the ballgame and the count of days kept in the house.",
+          "note": "Condensed paraphrase of Popol Wuj, Part 2 (Brasseur 1861; Tedlock 1996); not verbatim."
+        }
+      ],
+      "persons": [
+        "hunahpu",
+        "xbalanque",
+        "hunbatz",
+        "hunchouen",
+        "xmucane"
+      ]
+    },
+    {
+      "id": "maya-popolvuh-garden-of-night",
+      "title": {
+        "en": "The Garden That Rewove Itself",
+        "zh": "自重生長的花園"
+      },
+      "tradition": "maya",
+      "category": "myth",
+      "region": {
+        "en": "Q'umarkaj (Utatlan), K'iche' highlands, Guatemala (symbolic pin)",
+        "zh": "危地馬拉高地庫馬爾卡赫（烏塔特蘭）（象徵性定位）"
+      },
+      "lat": 15.1,
+      "lon": -91.35,
+      "period": "K'iche' text written c. 1554-78; Ximenez transcription c. 1701-03",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Popol Wuj, Part 2, French ed. Brasseur de Bourbourg, 1861",
+        "url": "https://archive.org/details/popolvuhlelivres00bras"
+      },
+      "license": "Public domain (Brasseur 1861 French edition); modern translations only paraphrased",
+      "summary": {
+        "en": "Each night the twins clear the garden, and each night the cut brush stands up and re-weaves itself. The elder brothers come to mock, and the little boys explain they had been cutting their own bodies. A singing bird reveals the trick to Hun Batz and Hun Chouen, who set a snare — and are caught in it instead.",
+        "zh": "雙子夜夜墾園，然被砍的枝蔓夜夜復立，自行交織重生。猴兄前來嘲弄，幼弟則答曰所砍乃己身。一鳴鳥向洪·巴茲與洪·秋恩洩露其術，二人遂設陷——卻自陷其中。"
+      },
+      "motifs": [
+        "transformation",
+        "trickster",
+        "taboo-transgression"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Paraphrase of published translation; no living-community restriction."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The twins go out to clear the garden, cutting vines and brush all day; but at night the plants straighten themselves and close the clearing as if nothing had been cut. When the elder brothers come to laugh at their uselessness, the twins answer: we cut the ground of our own bodies; the garden is only its shadow.",
+          "note": "Condensed paraphrase of Popol Wuj, Part 2 (Brasseur 1861; Tedlock 1996); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "A bird called the earth-keeper, or keeper of the singing, watches them work from a stump and sings about what it sees. The elder brothers offer it a cigar and a Chapopote, asking how the little ones manage. The bird tells them of the nightly re-weaving, and they set their snare in the garden to catch whatever restores the brush.",
+          "note": "Condensed paraphrase of Popol Wuj, Part 2 (Brasseur 1861; Tedlock 1996); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "The snare takes the elder brothers themselves: they walk into it, and the trap tightens as they step, catching them by the ankles. They cry out and cannot free themselves, and the little boys come upon them caught like animals. It is the moment when the garden has chosen its own keepers.",
+          "note": "Condensed paraphrase of Popol Wuj, Part 2 (Brasseur 1861; Christenson 2003); not verbatim."
+        }
+      ],
+      "persons": [
+        "hunahpu",
+        "xbalanque",
+        "hunbatz",
+        "hunchouen"
+      ]
+    },
+    {
+      "id": "maya-popolvuh-brothers-become-monkeys",
+      "title": {
+        "en": "The Tree of Game Birds: The Elder Brothers Become Monkeys",
+        "zh": "獵鳥之樹：猴兄化形"
+      },
+      "tradition": "maya",
+      "category": "myth",
+      "region": {
+        "en": "Q'umarkaj (Utatlan), K'iche' highlands, Guatemala (symbolic pin)",
+        "zh": "危地馬拉高地庫馬爾卡赫（烏塔特蘭）（象徵性定位）"
+      },
+      "lat": 15.1,
+      "lon": -91.35,
+      "period": "K'iche' text written c. 1554-78; Ximenez transcription c. 1701-03",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Popol Wuj, Part 2, French ed. Brasseur de Bourbourg, 1861",
+        "url": "https://archive.org/details/popolvuhlelivres00bras"
+      },
+      "license": "Public domain (Brasseur 1861 French edition); modern translations only paraphrased",
+      "summary": {
+        "en": "The twins send the humiliated elders up a tree for birds, then make the trunk grow; the brothers are stranded above, their breechclouts becoming tails and their faces muzzles. They descend as howler monkeys and remain monkeys, artists of the forest, while Xmucane sings of her sons' fate.",
+        "zh": "雙子遣受辱的兄長上樹捉鳥，繼而令樹幹生長；二人被困樹頂，腰布化為尾，臉化為獸吻。落地時已為吼猴，永為林間藝者；徐穆坎則歌其子之命。"
+      },
+      "motifs": [
+        "transformation",
+        "trickster",
+        "taboo-transgression",
+        "animal-ancestors"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Paraphrase of published translation; no living-community restriction."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "After the snare, the twins tell their brothers: go up the tree and bring us the birds. Hun Batz and Hun Chouen climb, wishing for game, and the little boys stay below and enlarge the tree: the trunk thickens and rises, and the climbers cannot get down. They call out, but the tree keeps growing, and their breechclouts grow tight and hairy into tails.",
+          "note": "Condensed paraphrase of Popol Wuj, Part 2 (Brasseur 1861; Tedlock 1996); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Their faces change too: their mouths thrust out and their eyes go wild. They come down as howler monkeys, screeching in the branches, and they never become human again. But they do not forget their art: the monkeys still play the flute and the drum, paint, and keep the old songs, artists transformed by their own envy.",
+          "note": "Condensed paraphrase of Popol Wuj, Part 2 (Brasseur 1861; Tedlock 1996); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "Xmucane is frightened and angry; she sings a spell to call them back, blowing a bone whistle and chanting their names, and the monkeys answer from the trees with their pipes. But the twins have done with them, and the grandmother must accept what the garden has decided: the singers are monkeys, and the ballplayers remain.",
+          "note": "Condensed paraphrase of Popol Wuj, Part 2 (Brasseur 1861; Christenson 2003); not verbatim."
+        }
+      ],
+      "persons": [
+        "hunahpu",
+        "xbalanque",
+        "hunbatz",
+        "hunchouen",
+        "xmucane"
+      ]
+    },
+    {
+      "id": "maya-popolvuh-rat-instruments",
+      "title": {
+        "en": "The Rat and the Instruments of the Fathers",
+        "zh": "鼠與父親的器物"
+      },
+      "tradition": "maya",
+      "category": "myth",
+      "region": {
+        "en": "Q'umarkaj (Utatlan), K'iche' highlands, Guatemala (symbolic pin)",
+        "zh": "危地馬拉高地庫馬爾卡赫（烏塔特蘭）（象徵性定位）"
+      },
+      "lat": 15.1,
+      "lon": -91.35,
+      "period": "K'iche' text written c. 1554-78; Ximenez transcription c. 1701-03",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Popol Wuj, Part 2, French ed. Brasseur de Bourbourg, 1861",
+        "url": "https://archive.org/details/popolvuhlelivres00bras"
+      },
+      "license": "Public domain (Brasseur 1861 French edition); modern translations only paraphrased",
+      "summary": {
+        "en": "A rat lives in the rafters of Xmucane's house, gnawing and telling the twins about the ballgame gear of their dead fathers hidden above. The boys bribe it with dried chili, lower it in a jar, and recover the rubber ball, yoke, arm guards, and paint — and with these they begin to play at the same court where their fathers died.",
+        "zh": "一鼠居於徐穆坎家屋椽上，啃咬並向雙子述及其亡父藏於其上的賽球器物。男孩以乾辣椒賄之，以瓦罐垂之而上，取回橡膠球、腰軛、護臂與顏料——從而在父親殞命之場開始賽球。"
+      },
+      "motifs": [
+        "descent-underworld",
+        "oracle-divination",
+        "trickster"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Paraphrase of published translation; no living-community restriction."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "In the house of Xmucane a rat has made its home above the rafters, and it gnaws there and sings to itself. The twins hear it and ask what it knows, and the rat tells them: above your heads are the instruments of your fathers — the ball, the yoke, the arm guards, the headdresses, the paint and the paper of the ballgame, all hidden since they went down to Xibalba.",
+          "note": "Condensed paraphrase of Popol Wuj, Part 2 (Brasseur 1861; Tedlock 1996); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "The boys promise it a meal of dried chili and a gourd of corn gruel if it will bring them the gear, and they lower it by a rope in a jar. The rat chews through the hiding place and drops down the instruments, one by one, until the ball rolls on the floor of the house.",
+          "note": "Condensed paraphrase of Popol Wuj, Part 2 (Brasseur 1861; Tedlock 1996); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "Then the twins take the ball to the great court above the place of fear, where their fathers used to play, and they begin the game. The sound of it rolls down into the dark, and the Lords of Xibalba hear it again: someone is playing above us, and it is not the players who died.",
+          "note": "Condensed paraphrase of Popol Wuj, Part 2 (Brasseur 1861; Christenson 2003); not verbatim."
+        }
+      ],
+      "persons": [
+        "hunahpu",
+        "xbalanque",
+        "xmucane",
+        "onedeath",
+        "sevendeath"
+      ]
+    },
+    {
+      "id": "maya-popolvuh-twins-second-summons",
+      "title": {
+        "en": "The Lords Hear the Ball Again",
+        "zh": "冥主重聞球聲"
+      },
+      "tradition": "maya",
+      "category": "myth",
+      "region": {
+        "en": "Xibalba (the place of fear), symbolic pin at the Candelaria caves, Guatemala highlands",
+        "zh": "希巴爾巴（懼地），以危地馬拉高地坎德拉里亞洞群為象徵定位"
+      },
+      "lat": 16.75,
+      "lon": -90.6,
+      "period": "K'iche' text written c. 1554-78; Ximenez transcription c. 1701-03",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Popol Wuj, Part 3, French ed. Brasseur de Bourbourg, 1861",
+        "url": "https://archive.org/details/popolvuhlelivres00bras"
+      },
+      "license": "Public domain (Brasseur 1861 French edition); modern translations only paraphrased",
+      "summary": {
+        "en": "The Lords of Xibalba hear the ballgame of the new players and are enraged that their court is being used without permission. They send messengers with the summons to descend, and Xmucane, remembering her sons' fathers, weeps — but the twins plant a substitute pair of brothers in the house and go down smiling.",
+        "zh": "冥主聞得新球者之球聲，怒其球場未經許可而被用。遂遣使者下召，命其下行。徐穆坎念及其子之父，泣之——然雙子在屋中安置一對替身兄弟，含笑下行。"
+      },
+      "motifs": [
+        "descent-underworld",
+        "trickster",
+        "offended-deity",
+        "labyrinth"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Paraphrase of published translation; no living-community restriction."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The game is heard again over the place of fear, and the lords rise up in their council: who is playing on our court without leave? They remember the brothers who were put to death for this very game, and they send messengers to the house of Xmucane to summon the new players down, by night, with the same courteous menace.",
+          "note": "Condensed paraphrase of Popol Wuj, Part 3 (Brasseur 1861; Tedlock 1996); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "The twins accept the invitation, but first they speak with their grandmother and plant in the house two substitutes — a pair of maize-stalk men shaped in their image — telling Xmucane that if she calls them and they do not answer, she will know they have gone below, and that these will take their place in the household.",
+          "note": "Condensed paraphrase of Popol Wuj, Part 3 (Brasseur 1861; Tedlock 1996); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "Then they go down the roads of Xibalba, and this time they pass the crossings in order, naming themselves and their road as they go, and they arrive in the hall of the lords without delay, ready to play the game that killed their fathers.",
+          "note": "Condensed paraphrase of Popol Wuj, Part 3 (Brasseur 1861; Christenson 2003); not verbatim."
+        }
+      ],
+      "persons": [
+        "hunahpu",
+        "xbalanque",
+        "xmucane",
+        "onedeath",
+        "sevendeath"
+      ]
+    }
+  ]
+}

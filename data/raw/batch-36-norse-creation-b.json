@@ -1,0 +1,354 @@
+{
+  "_comment": "Norse expansion batch 36 - Creation & Origin Myths II (topic 1): dwarfs, Norns, golden age. Sources: Poetic Edda (Codex Regius GKS 2365 4to) and Prose Edda. All passages are paraphrase and carry a note.",
+  "texts": [
+    {
+      "id": "norse-dvergatal-dwarfs",
+      "title": {
+        "en": "The Dvergatal: Dwarfs from the Maggots of Ymir's Flesh",
+        "zh": "矮人譜：尤彌爾腐肉中的蛆蟲所化"
+      },
+      "tradition": "norse",
+      "category": "myth-religion",
+      "region": {
+        "en": "Dwarven realms in rock and earth (symbolic pin at Pingvellir, Iceland)",
+        "zh": "岩土中的矮人之境（象徵性定位於冰島辛格韋德利）"
+      },
+      "lat": 64.26,
+      "lon": -21.13,
+      "period": "Voluspa Dvergatal st. 9-16, c. 900-1000 CE; Gylfaginning c. 1220-1230; principal MSS Codex Regius GKS 2365 4to, GKS 2367 4to",
+      "source": {
+        "archive": "sacred-texts.com (Bellows 1923) / Project Gutenberg (Brodeur 1916)",
+        "work": "Voluspa st. 9-16 (Dvergatal); Snorri, Gylfaginning ch. 14; critical ed. Ursula Dronke (1997)",
+        "url": "https://www.sacred-texts.com/neu/poe/"
+      },
+      "license": "Public domain (Bellows 1923; Brodeur 1916); passages below are labeled paraphrases",
+      "summary": {
+        "en": "While the gods sat on their high seats in the golden age, dwarfs came into being: the gods took counsel where to place them, for they had quickened in Ymir's dead flesh like maggots, and were given human shape and made their homes in earth and rock. The Dvergatal catalogs some seventy dwarf names - Modsognir, Durin, Gandalf, Thorin, Gimli - many of which became personal names of real Scandinavians and, much later, characters in modern fantasy.",
+        "zh": "諸神端坐於黃金時代的高座之際，矮人悄然誕生：諸神商議該將矮人安置於何處——矮人乃尤彌爾屍身腐肉中之蛆蟲所化，得賦人形，居於大地與岩穴。所謂「矮人譜」羅列約七十個矮人名——莫德索格尼爾、都林、甘道夫、索林、金靂——其中許多後來成為斯堪的納維亞真實人名，千百年後又成為現代奇幻作品中的人物。"
+      },
+      "language": "Old Norse / Old Icelandic",
+      "canonical_translation": "Henry A. Bellows, The Poetic Edda, New York 1923 (public domain); Gylfaginning via Brodeur 1916",
+      "narrative": {
+        "en": "The Dvergatal - the 'catalog of dwarfs' - is a strange intrusion in Voluspa: a list-poem of names inserted between the golden age of the gods and the prophecy of the world's end. Its frame is brief. In the golden age, when the gods played at tables and lacked nothing, there came from the host a third race: dwarfs of Modsognir's kinship, made - or, on the prose version, born - under Dvalin. The compilers' prose in the Codex Regius asks why, and answers with a doctrine: the gods, sitting in judgment, took counsel where the dwarfs should be placed, for they had been born in Ymir's flesh 'like maggots' and were quickening in it; the gods gave them human shape and understanding, and they made their home in the earth and the rocks.\n\nThen follows the catalog itself: Durin and Modsognir as chiefs, Gandalf, Vindalf, Thorin, Fili, Kili, Fundin, Nali, Hepti, Vili, Hanar, Sviur, Frar, Hornbori, Fraeg and Loni, Aurvang, Jari, Eikinskjaldi, Ginnar - some seventy names, many of them transparent nicknames ('Gimli' = fire, 'Thorin' = daring, 'Gandalf' = wand-elf). Snorri, who normally expands, here does the opposite: he copies the catalog almost verbatim into Gylfaginning, adding only the frame of maggots-in-flesh and the assignment of the dwarfs to stone.\n\nThe cultural logic is a double etiology. First, a cosmological aition: dwarfs are the decomposers of the primordial corpse, the third order of being that arises from Ymir's body after the earth (his flesh) is made - so dwarfs are literally autochthonous, born of the world's own substance, and their art of working metal in the earth is the craft of the world's flesh. Second, a social aition: the catalog reads like a name-book of Norse smiths, and many names in it are attested as real human names in runic inscriptions and sagas; naming a child after a dwarf was thought to pass on dwarf-luck in craft and wealth. The Dvergatal is thus a bridge between mythic and historical name-giving - evidence that the eddic poets saw dwarf-names as inheritable human names.\n\nLater reception is spectacular. The catalog supplied Tolkien with the names of Gandalf, Thorin, Fili, Kili, Dwalin, Bifur, Bofur, Bombur, Gimli and more - he lifted them wholesale from the Dvergatal in his Old Norse reading, and modern fantasy dwarves are, at one remove, the maggots of Ymir. For a critical digital history of the myth database, the record documents how a one-thousand-year-old list-poem continues to generate characters.\n\nScholars treat the Dvergatal as a late insertion - its verse style differs from the surrounding poem, and the Hauksbok version places it differently - but even as a foreign body it had to be accommodated: the sibyl could not prophesy the end of the world without first cataloguing everything the world contained."
+      },
+      "functions": [
+        "Cosmological aition: dwarfs as the third order of being, born of Ymir's decaying flesh",
+        "Explains dwarfs' autochthony and their craft in metal, earth and stone",
+        "Name-book linking mythic names to historical Scandinavian personal names",
+        "Late-medieval and modern afterlife: Tolkien's dwarves drawn from the catalog"
+      ],
+      "variants": [
+        {
+          "name": "Voluspa Dvergatal st. 9-16 (Poetic Edda)",
+          "text_tradition": "Codex Regius GKS 2365 4to; differently placed in Hauksbok",
+          "summary": "The poem gives the name-list itself (the maggots-in-flesh frame is prose in the Codex Regius); the catalog is generally held to be a late interpolation into the sibyl's prophecy.",
+          "cross_ref": "norse-dvergatal-dwarfs"
+        },
+        {
+          "name": "Gylfaginning ch. 14 (Prose Edda)",
+          "text_tradition": "Codex Regius GKS 2367 4to",
+          "summary": "Snorri adds the narrative frame of maggots quickening in Ymir's flesh and the gods' assignment of them to stone, then copies the catalog nearly verbatim - his source here is demonstrably Voluspa itself.",
+          "cross_ref": "norse-ginnungagap-void"
+        },
+        {
+          "name": "J. R. R. Tolkien, The Hobbit (1937)",
+          "text_tradition": "Modern literary reception",
+          "summary": "Gandalf, Thorin, Fili, Kili, Dwalin, Bifur, Bofur, Bombur and Gimli are lifted from the Dvergatal; Tolkien kept the Old Norse sound-values and invented around them - the catalog's modern afterlife.",
+          "cross_ref": "none"
+        }
+      ],
+      "primary_sources": [
+        {
+          "work": "Voluspa",
+          "citation": "Stanzas 9-16 (Dvergatal). Principal MS Codex Regius GKS 2365 4to; variants Hauksbok AM 544 4to. Critical edition: Dronke 1997; public-domain English: Bellows 1923.",
+          "language": "Old Norse / Old Icelandic"
+        },
+        {
+          "work": "Snorri Sturluson, Edda: Gylfaginning",
+          "citation": "Ch. 14 (maggots in flesh; the catalog copied). Critical ed. Faulkes 1987; English: Brodeur 1916.",
+          "language": "Old Norse / Old Icelandic"
+        }
+      ],
+      "secondary_sources": [
+        {
+          "work": "Ursula Dronke, The Poetic Edda, vol. II",
+          "citation": "Dronke 1997, Oxford - on the Dvergatal as interpolation, its name-lore and its metre."
+        },
+        {
+          "work": "Rudolf Simek, Dictionary of Northern Mythology",
+          "citation": "Simek 1993, Cambridge: D. S. Brewer - entries 'Dvergatal', 'Dvalin', 'Modsognir' with name-interpretations."
+        },
+        {
+          "work": "Tom Shippey, The Road to Middle-earth",
+          "citation": "Shippey 2003, Boston: Houghton Mifflin - documents Tolkien's borrowing of dwarf names from the Dvergatal."
+        }
+      ],
+      "source_urls": [
+        {
+          "url": "https://www.sacred-texts.com/neu/poe/poe03.htm",
+          "description": "Voluspa with Dvergatal, Bellows translation (public domain)",
+          "accessed": "2026-11-01"
+        },
+        {
+          "url": "https://handrit.is/",
+          "description": "Codex Regius GKS 2365 4to - manuscript catalogue entry and images",
+          "accessed": "2026-11-01"
+        }
+      ],
+      "sensitivity_flag": "none",
+      "provenance": {
+        "record_status": "complete",
+        "compiled": "2026-11-01",
+        "compiled_by": "DHG508 fieldwork compilation",
+        "review_status": "draft - pending human review"
+      },
+      "motifs": [
+        "creation-chaos",
+        "miraculous-birth",
+        "wise-advice"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Historical literary corpus; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Then all the gods went to their judgment-seats, the high gods held council, and asked where the dwarfs should be set - for they had been born in Ymir's flesh, quickening there like maggots, and the gods gave them the wit and shape of men, though they dwelt in the earth and the stones.",
+          "note": "Paraphrase of Voluspa st. 9 with Codex Regius prose frame; not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Up rose in turn Durin, chief of the dwarf-kind, and the catalog runs from him: Nyi and Nidi, Nordri and Sudri, Austri and Vestri, Althjof and Dvalin, Nar and Nain, Niping and Dain, Bifur, Bofur, Bombur, Nori, Ori, Onar, Oin, Modvognir, with Fili and Kili - and Durin named the rest.",
+          "note": "Paraphrase of Voluspa st. 10-16, Dvergatal (Bellows 1923); not verbatim."
+        }
+      ]
+    },
+    {
+      "id": "norse-norns-urd",
+      "title": {
+        "en": "The Norns: Fate at the Well Beneath the Tree",
+        "zh": "命運三女神：世界樹下泉水旁的命定者"
+      },
+      "tradition": "norse",
+      "category": "myth-religion",
+      "region": {
+        "en": "The Well of Urd beneath Yggdrasil (symbolic pin at Pingvellir, Iceland)",
+        "zh": "尤克特拉希爾樹下的兀兒德之泉（象徵性定位於冰島辛格韋德利）"
+      },
+      "lat": 64.26,
+      "lon": -21.13,
+      "period": "Voluspa st. 20, c. 900-1000 CE; Gylfaginning c. 1220-1230; principal MSS Codex Regius GKS 2365 4to, GKS 2367 4to",
+      "source": {
+        "archive": "sacred-texts.com (Bellows 1923) / Project Gutenberg (Brodeur 1916)",
+        "work": "Voluspa st. 20; Snorri, Gylfaginning ch. 15; critical ed. Dronke (1997)",
+        "url": "https://www.sacred-texts.com/neu/poe/"
+      },
+      "license": "Public domain (Bellows 1923; Brodeur 1916); passages below are labeled paraphrases",
+      "summary": {
+        "en": "After the gods give the first humans their gifts, three mighty maidens come from that host to a hall beneath the tree: Urd (what is), Verdandi (what is becoming) and Skuld (the debt still owed). They cut law-staves, carve, and choose lives; they water Yggdrasil daily with clay from the well so its bark stays white; and they assign to every person the life they are to live. The Norse doctrine of fate is thus a legal one: law is cut and carved, and even the gods are bound by what the maidens choose.",
+        "zh": "諸神賜予最初人類神賜之後，三位威嚴少女自其族中降臨樹下之廳：兀兒德（已成之事）、薇兒丹蒂（正在成就之事）與詩蔻蒂（尚欠之事）。她們鐫刻法律木籤，裁斷眾生之命；又每日以泉水沃泥澆灌世界樹，使樹皮常白。北歐命運觀帶有法律色彩：命運如律法般被鐫刻，而諸神亦受三女神之裁斷所束縛。"
+      },
+      "language": "Old Norse / Old Icelandic",
+      "canonical_translation": "Henry A. Bellows, The Poetic Edda, New York 1923 (public domain); Gylfaginning via Brodeur 1916",
+      "narrative": {
+        "en": "The Norns enter Voluspa at the precise moment the world becomes populated: lawless they were born until three came - until three mighty maidens, mighty in wisdom, came from that host to a hall beneath the tree, and their names were Urd and Verdandi and Skuld. There they took up the lives assigned, they cut law-staves, they carved, they chose; they spoke the law, the judgments of men, and pronounced the fates. Everything that follows - war, the death of Baldr, Ragnarok - happens under their cut staves.\n\nSnorri's chapter does for the Norns what it does for every doctrine: it systematizes. The maidens dwell by the well of Urd under the tree; they water the tree daily from the well with clay that lies about it, so that its bark remains white against the Ash's wounds; and the dew from it falls into the valley as honey. Besides the three Norns there are many others, Snorri adds, good and bad, kin of elves and dwarfs, who give to every man his life: the good are of the race of gods, the bad of the race of the giants - so that each person's lot is assigned at birth by a committee of fate-workers whose quality depends on which race their norn belongs to. He even names where the three great ones come from: from the hot springs of the Sun, of the Moon, and of Night, blending astrology into folklore.\n\nThe cultural function is to naturalize fate as jurisprudence. In Norse law-culture, judgments were spoken from a stone, staves were cut as legal instruments, and debt (skuld is literally 'shall' or 'debt') defined the future; the Norns are the cosmos's law-court. Their names - what is, what is becoming, and the debt owed - are a temporal triad. No myth claims they can be bargained with: Odin himself dies at Ragnarok on a fate cut before Baldr ever dreamt. The record is thus the anchor of the Norse doctrine that even gods are inside fate, not above it.\n\nThe motif chain runs from the Norns to the Greek Moirai (Clotho, Lachesis, Atropos) and beyond, and the well itself joins the cosmological geography: Urd's well is where the gods hold their daily court - the thing-stead of the universe - and where Odin pawns his eye at its sister well, Mimir's. Fate, water and law are one system under the tree."
+      },
+      "functions": [
+        "Doctrine of fate: life assigned at birth, law cut and carved",
+        "Legal imagination: Norns as a cosmic court speaking judgments from under the tree",
+        "Temporal triad of what-is, what-is-becoming, and what-is-owed; no bargain with fate is possible, even for gods",
+        "Geographic anchor: Urd's well as the daily assembly-place of the gods"
+      ],
+      "variants": [
+        {
+          "name": "Voluspa st. 20 (Poetic Edda)",
+          "text_tradition": "Codex Regius GKS 2365 4to",
+          "summary": "The poem's version: three maidens from the host, hall under the tree, names Urd-Verdandi-Skuld; they cut staves, chose lives, spoke the law - no well, no watering, no bad norns.",
+          "cross_ref": "norse-norns-urd"
+        },
+        {
+          "name": "Gylfaginning ch. 15 (Prose Edda)",
+          "text_tradition": "Codex Regius GKS 2367 4to",
+          "summary": "Snorri's expansion: the well, the daily watering with clay, the dew as honey, the many lesser norns good and bad of elf and dwarf kin, and the astrological springs of the three chief names.",
+          "cross_ref": "norse-yggdrasil-nine-worlds"
+        },
+        {
+          "name": "Greek parallel: the Moirai",
+          "text_tradition": "Hesiod, Theogony 901-906; Homer, Iliad 24.209-210",
+          "summary": "Clotho spins, Lachesis allots, Atropos cuts - the same threefold allotting logic with thread instead of law-staves; even Zeus respects their allotments.",
+          "cross_ref": "greek-theogony-children-of-night"
+        }
+      ],
+      "primary_sources": [
+        {
+          "work": "Voluspa",
+          "citation": "Stanza 20. Principal MS Codex Regius GKS 2365 4to. Critical edition: Dronke 1997; public-domain English: Bellows 1923.",
+          "language": "Old Norse / Old Icelandic"
+        },
+        {
+          "work": "Snorri Sturluson, Edda: Gylfaginning",
+          "citation": "Ch. 15 (Urd's well, the Norns, the lesser norns good and bad). Critical ed. Faulkes 1987; English: Brodeur 1916.",
+          "language": "Old Norse / Old Icelandic"
+        }
+      ],
+      "secondary_sources": [
+        {
+          "work": "Ursula Dronke, The Poetic Edda, vol. II",
+          "citation": "Dronke 1997, Oxford - commentary on st. 20 and the legal vocabulary of fate."
+        },
+        {
+          "work": "Gro Steinsland, Norron religion",
+          "citation": "Steinsland 2005, Oslo: Pax - fate, kingship and the Norns in the Norse cosmological system."
+        },
+        {
+          "work": "Rudolf Simek, Dictionary of Northern Mythology",
+          "citation": "Simek 1993, Cambridge: D. S. Brewer - entries 'Nornir', 'Urd', 'Verdandi', 'Skuld'."
+        }
+      ],
+      "source_urls": [
+        {
+          "url": "https://www.sacred-texts.com/neu/poe/poe03.htm",
+          "description": "Voluspa st. 20, Bellows translation (public domain)",
+          "accessed": "2026-11-01"
+        },
+        {
+          "url": "https://www.sacred-texts.com/neu/pre/pre05.htm",
+          "description": "Gylfaginning chs. 9-15, Brodeur translation (public domain)",
+          "accessed": "2026-11-01"
+        }
+      ],
+      "sensitivity_flag": "none",
+      "provenance": {
+        "record_status": "complete",
+        "compiled": "2026-11-01",
+        "compiled_by": "DHG508 fieldwork compilation",
+        "review_status": "draft - pending human review"
+      },
+      "motifs": [
+        "oracle-divination",
+        "prophetic-vision",
+        "world-tree"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Historical literary corpus; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Lawless they were born, until there came three mighty maidens, mighty in wisdom, from out of that host, to a hall beneath the tree: one was named Urd, the second Verdandi, and the third Skuld. They took up the lives assigned, they cut law-staves, they carved and chose, they spoke the law and the judgments of men.",
+          "note": "Paraphrase of Voluspa st. 20 (Bellows 1923); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Beside Urd's well the three maidens pour water and clay over the Ash every day, so that its bark never rots; the dew that falls from the tree into the valley men call honey. And besides these there are many other Norns, good and bad, kin to elves and to dwarfs, who give to each person at birth the life they are to live.",
+          "note": "Paraphrase of Snorri, Gylfaginning ch. 15 (Brodeur 1916); not verbatim."
+        }
+      ]
+    },
+    {
+      "id": "norse-golden-age-gods",
+      "title": {
+        "en": "The Golden Age of the Gods: Shrines, Forges and Games Before the Ruin",
+        "zh": "諸神的黃金時代：神殿、鍛爐與遊戲，及其傾覆之前"
+      },
+      "tradition": "norse",
+      "category": "myth-religion",
+      "region": {
+        "en": "Idavoll, the meeting-plain of the gods (symbolic pin at Pingvellir, Iceland)",
+        "zh": "伊達平原——諸神的集會之地（象徵性定位於冰島辛格韋德利）"
+      },
+      "lat": 64.26,
+      "lon": -21.13,
+      "period": "Voluspa st. 7-8, 25, c. 900-1000 CE; principal MS Codex Regius GKS 2365 4to",
+      "source": {
+        "archive": "sacred-texts.com (Bellows 1923)",
+        "work": "Voluspa st. 7-8, 25; critical ed. Ursula Dronke (1997)",
+        "url": "https://www.sacred-texts.com/neu/poe/"
+      },
+      "license": "Public domain (Bellows 1923); passages below are labeled paraphrases",
+      "summary": {
+        "en": "In the first days the gods met on the plain of Idavoll and founded temples and high places, laid forges and made tools, played at tables, and lacked nothing - gold was counted wealth enough, until three giant-maidens came out of Jotunheim with burdens of that too-precious metal. The passage is a lost-age myth and, simultaneously, a template: at the world's renewal the surviving gods will find again on the same plain the golden game-pieces in the grass.",
+        "zh": "太初之時，諸神會於伊達平原，建神殿與高座，置鍛爐、製工具，擲骰對弈，一無所缺——彼時黃金只被稱作足夠的財富，直到三位巨人族少女自約頓海姆而來，帶著那過分貴重的金屬。此段既是失落時代的神話，也是一個模板：世界更新之日，倖存諸神將在伊達平原的草間重新拾起黃金棋子。"
+      },
+      "language": "Old Norse / Old Icelandic",
+      "canonical_translation": "Henry A. Bellows, The Poetic Edda, New York 1923 (public domain)",
+      "narrative": {
+        "en": "Voluspa's golden age is six short lines with an architecture of institutions. The gods went to their judgment-seats, the holy gods held council on the plain of Idavoll, and there they founded temples and high places - shrines; with tools, tongs and forges they laid; they made wealth, smithied ore, shaped tongs and made tools; and at tables they played at chess, gleeful, they lacked nothing - no gold, till there came three giant-maidens, mighty-mighty, out of Jotunheim.\n\nThe passage compresses a whole cultural program: religion (temples and high seats), law (judgment-seats, councils), technology (forges, tools, smithied wealth), and leisure (the board-game). Its grammar of origin matches Greek accounts of the Olympian order after the Titanomachy - the founding of divine society is told as the founding of institutions. What ruins the age is not a fall from virtue but an import: gold, arriving in the hands of three giant-women, becomes the metal of greed and later the subject of the Andvari curse and the whole Niflung cycle; gold is the first transgression of the gods' economy.\n\nThe golden age functions as a temporal anchor in a myth-cycle that knows decline: it is the positive pole against which the first war (the Aesir-Vanir war), the killing of Baldr, and Ragnarok are measured. And in a uniquely Norse move, the age is scheduled for restoration: at the renewal after Ragnarok, the surviving gods again find on Idavoll the wondrous golden game-pieces in the grass - the same chess-pieces of the first age lying where the old world fell. The plain of Idavoll is thus both the site of the first founding and of the second, a palindrome of institutional memory.\n\nFor the motif database the record demonstrates a structural rule of Norse myth: institutions are founded by council, and ruins are remembered as recoverable board-games. No other European corpus makes its paradise a meeting-place where law and craft are invented, then lost, then refound with the selfsame objects.\n\nThe gold-maidens' link completes the doctrine: the three giant-women arriving 'with burdens of gold' connect the golden age's end to the whole Niflung-cycle - the metal that ends paradise becomes the curse-metal of the heroic corpus, the first import the gods' economy cannot digest. And the restoration-template completes the record: at the renewal the surviving gods find again the golden game-pieces 'in the grass' on Idavoll - the same plain, the same objects - so the golden age is not lost but stored, recoverable by literal rediscovery. The record thus anchors the lost-age family: paradise as a meeting-place where law and craft are invented, lost and refound with the selfsame game-pieces."
+      },
+      "functions": [
+        "Founding myth of divine institutions: temples, law-courts, forges, leisure",
+        "Decline-myth engine: the arrival of giant-women and gold begins the economy of greed",
+        "Restoration template: post-Ragnarok renewal on the same plain with the same game-pieces",
+        "Temporal anchor for measuring all later mythic decline"
+      ],
+      "variants": [
+        {
+          "name": "Voluspa st. 7-8, 25 (Poetic Edda)",
+          "text_tradition": "Codex Regius GKS 2365 4to",
+          "summary": "The sibyl's compressed version: founding of shrines and forges, board-games and lack of gold until the three giant-maidens; st. 25 names their arrival 'with burdens of gold' (reading debated).",
+          "cross_ref": "norse-gullveig-seidr"
+        },
+        {
+          "name": "Voluspa st. 60-62 (renewal)",
+          "text_tradition": "Codex Regius GKS 2365 4to",
+          "summary": "After the world's burning, the gods find again Idavoll's golden chess-pieces 'in the grass' - the golden age restored by literal rediscovery, an institutional resurrection rather than a new creation.",
+          "cross_ref": "norse-ragnarok-renewal"
+        },
+        {
+          "name": "Greek parallel: the Olympian settlement after the Titanomachy",
+          "text_tradition": "Hesiod, Theogony 881-886",
+          "summary": "Zeus distributes honors and founds the Olympian order after victory - the same founding-by-council grammar with a war instead of a council as its cause.",
+          "cross_ref": "greek-theogony-titanomachy"
+        }
+      ],
+      "primary_sources": [
+        {
+          "work": "Voluspa",
+          "citation": "Stanzas 7-8 and 25 (golden age; arrival of the three maidens with gold); stanzas 60-62 (renewal of Idavoll). Principal MS Codex Regius GKS 2365 4to. Critical edition: Dronke 1997; public-domain English: Bellows 1923.",
+          "language": "Old Norse / Old Icelandic"
+        }
+      ],
+      "secondary_sources": [
+        {
+          "work": "Ursula Dronke, The Poetic Edda, vol. II",
+          "citation": "Dronke 1997, Oxford - commentary on the Idavoll stanzas and the restoration theme."
+        },
+        {
+          "work": "Margaret Clunies Ross, Prolonged Echoes, vol. 1",
+          "citation": "Clunies Ross 1994, Odense - the golden age as institutional economy and the gold-maidens as its disturbance."
+        }
+      ],
+      "source_urls": [
+        {
+          "url": "https://www.sacred-texts.com/neu/poe/poe03.htm",
+          "description": "Voluspa st. 7-8, 25, 60-62, Bellows translation (public domain)",
+          "accessed": "2026-11-01"
+        }
+      ],
+      "sensitivity_flag": "none",
+      "provenance": {
+        "record_status": "complete",
+        "compiled": "2026-11-01",
+        "compiled_by": "DHG508 fieldwork compilation",
+        "review_status": "draft - pending human review"
+      },
+      "motifs": [
+        "creation-chaos",
+        "sacred-kingship"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Historical literary corpus; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The gods went to their judgment-seats, the high and holy gods held council, and founded temples and high places; they laid forges and made tools, smithied ore, shaped tongs; at tables they played gleefully, they lacked nothing - they had gold until there came three giant-maidens, mighty, out of Jotunheim. And after the world's burning the gods will meet again on Idavoll and find there, wonder of wonders, the golden game-pieces of the first age lying in the grass, which in the elder days they had possessed.",
+          "note": "Paraphrase of Voluspa st. 7-8 (Bellows 1923); not verbatim. / Paraphrase of Voluspa st. 61 (Bellows 1923); not verbatim."
+        }
+      ]
+    }
+  ]
+}

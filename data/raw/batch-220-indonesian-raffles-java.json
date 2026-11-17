@@ -1,0 +1,437 @@
+{
+  "texts": [
+    {
+      "id": "indonesian-peopling-from-red-sea",
+      "title": {
+        "en": "The First Javans: Exiles from the Red Sea",
+        "zh": "最早的爪哇人：自紅海而來的流亡者"
+      },
+      "tradition": "indonesian",
+      "category": "myth",
+      "region": {
+        "en": "Java (Javanese origin tradition, recorded by Raffles)",
+        "zh": "爪哇（爪哇族源傳說，拉弗爾斯採錄）"
+      },
+      "lat": -7.5,
+      "lon": 110.5,
+      "period": "Javanese origin traditions recorded in Raffles, History of Java (1817), vol. II ch. X",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Thomas Stamford Raffles, The History of Java (1817), vol. II, ch. X, opening traditions",
+        "url": "https://archive.org/details/historyjava02raffgoog"
+      },
+      "license": "Public domain (1817)",
+      "summary": {
+        "en": "Javanese tradition held that the island's first inhabitants came in vessels from the Red Sea (Laout Mira), coasting along Hindustan — then an unbroken continent with the Indian Archipelago, later split into islands by convulsions of nature. Banished from Egypt, they carried their several worships with them: some adored the sun, others the moon, others fire, water, or the trees of the forest, living in hordes under the eldest man's rule.",
+        "zh": "爪哇古傳：最初居民乘舟自紅海（勞特·米拉）而來，沿印度斯坦海岸航行——彼時印度斯坦與群島尚為連陸，後經天變裂為諸島。流亡者出埃及，各攜其祀：或拜日、或拜月、或拜水火、或拜林中之樹，成群而居，以族中最長者為酋。"
+      },
+      "motifs": [
+        "foundational-legend",
+        "origin-of-death",
+        "exile"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Eighteenth-century Javanese etiological tradition on the peopling of the island; noted as tradition, not history."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Amongst the various traditions regarding the manner in which Java and the Eastern Islands were originally peopled, it has been related that the first inhabitants came in vessels from the Red Sea, and that in their passage they coasted along the shores of Hindustan — that peninsula then forming an unbroken continent with the land in the Indian Archipelago, which has since been divided into so many distinct islands by convulsions of nature.",
+          "note": "Paraphrase of Raffles, History of Java (1817), vol. II ch. X; not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "These people are supposed to have been banished from Egypt, and to have carried with them their different modes of worship: some adored the sun, others the moon, others the elements of fire or water, and others the trees of the forest. They lived in hordes without fixed habitations or established law; respect for age was the only substitute for civil obedience, and the oldest man of the horde was considered its chief.",
+          "note": "Paraphrase of Raffles, History of Java (1817), vol. II ch. X; not verbatim."
+        }
+      ],
+      "persons": []
+    },
+    {
+      "id": "indonesian-bird-of-departure-omen",
+      "title": {
+        "en": "The Bird of Departure: How the First Javan Hordes Knew When to Move",
+        "zh": "啟行之鳥：爪哇先民何以知遷徙之時"
+      },
+      "tradition": "indonesian",
+      "category": "myth",
+      "region": {
+        "en": "Java (early-migration omen rite)",
+        "zh": "爪哇（早期遷徙占兆之儀）"
+      },
+      "lat": -7.5,
+      "lon": 110.5,
+      "period": "Javanese tradition recorded in Raffles, History of Java (1817), vol. II ch. X",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Thomas Stamford Raffles, The History of Java (1817), vol. II, ch. X, the libunggaga omen",
+        "url": "https://archive.org/details/historyjava02raffgoog"
+      },
+      "license": "Public domain (1817)",
+      "summary": {
+        "en": "When the crop was gathered, the eldest of the horde appointed the mode and time of moving on. They left the remains of their feast in an open plain to attract the bird libunggaga (a crow or raven), while young men shook the angklung and imitated its cry. If the bird did not eat, or flew contrary to the intended route, the departure was deferred; but if it ate and flew ahead, they slew and burnt a lamb in gratitude, and danced away behind the bird's flight.",
+        "zh": "穀既收，族長定遷徙之時。眾置宴餘於曠野以引『利邦嘎嘎』之鳥（鴉或鵲），少年搖安克隆（angklung）竹琴、學鳥鳴。鳥不食或逆行則留；食而先行則宰羊焚之謝神，眾隨鳥飛之向，舞而遷焉。"
+      },
+      "motifs": [
+        "oracle-divination",
+        "ritual-origin"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Omen-bird migration rite; Raffles himself compares the Dayak kite-divination of Borneo in a footnote."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The horde, after offering their sacrifices and feasting in an open plain, left the remains of their repast to attract the bird called libunggaga, and the young men shook the angklung and set up a shout in imitation of its cry. If the bird did not eat of the meal offered to it, or took a course opposite to that which the horde wished to pursue, their departure was deferred.",
+          "note": "Paraphrase of Raffles, History of Java (1817), vol. II ch. X; not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "But when the bird, having eaten of its meal, flew in the direction of their intended journey, the ceremony was concluded by slaying and burning a lamb as an offering of gratitude to the Deity, and the whole party danced and sprang to the music of the angklung, moving on behind the omen.",
+          "note": "Paraphrase of Raffles, History of Java (1817), vol. II ch. X; not verbatim."
+        }
+      ],
+      "persons": []
+    },
+    {
+      "id": "indonesian-aji-saka-arrival",
+      "title": {
+        "en": "Aji Saka Lands on Java: 'Nothing but Dust, and Man'",
+        "zh": "阿吉·薩卡登爪哇：『惟塵土與人而已』"
+      },
+      "tradition": "indonesian",
+      "category": "myth",
+      "region": {
+        "en": "Java (first year of the Javan era)",
+        "zh": "爪哇（爪哇紀元元年）"
+      },
+      "lat": -7.5,
+      "lon": 110.5,
+      "period": "Javanese tradition ascribed to Javan era year 1 (Aji Saka tradition), recorded in Raffles 1817",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Thomas Stamford Raffles, The History of Java (1817), vol. II, ch. X, the arrival of Aji Saka",
+        "url": "https://archive.org/details/historyjava02raffgoog"
+      },
+      "license": "Public domain (1817)",
+      "summary": {
+        "en": "In the first year of the Javan era the minister of Prabu Jaya Baya of Astina landed on Java, then the abode of a race of Rakshasas named Nusa Kendang. The date was fixed in chronograms as nir dhu tampo jalar — 'nothing, dust, not anything (but) man.' He discovered the grain jawawut, the principal subsistence of the inhabitants, and in consequence changed the island's name from Nusa Kendang to Nusa Jawa — the culture-hero who founds Java itself.",
+        "zh": "爪哇紀元元年，阿斯提那王普拉布·查亞巴亞之首相登陸爪哇——其時島為羅剎所居，名『努薩·根當』。紀年以編年詩紀之：nir dhu tampo jalar——『空、塵、無物（惟人）』。他發現島民賴以為生之稷（jawawut），因改島名為『努薩·爪哇』——文化英雄親手為爪哇命名。"
+      },
+      "motifs": [
+        "culture-hero",
+        "foundational-legend",
+        "migration-origin"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Aji Saka charter myth; the chronogram-pun etymology is typical of Javanese date-lore."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Prabu Jaya Baya was a great and powerful prince of Astina; his Peng'gawa, or chief minister, a man of great enterprise and ability, was sent to visit and civilize foreign countries. In the course of his travels he landed on Java, then the abode of a race of Rakshasas, and known by the name of Nusa Kendang.",
+          "note": "Paraphrase of Raffles, History of Java (1817), vol. II ch. X; not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "This happened in the first year of the Javan era, and is distinguished in the chronogram Sang'kala by the words nir dhu tampo jalar, meaning literally 'nothing, dust, not anything (but) man,' and metaphorically the figures 0001. He here discovered the grain called jawawut, at that time the principal subsistence of the inhabitants; and in consequence of this discovery he changed the name of the country from Nusa Kendang to Nusa Jawa.",
+          "note": "Paraphrase of Raffles, History of Java (1817), vol. II ch. X; not verbatim."
+        }
+      ],
+      "persons": []
+    },
+    {
+      "id": "indonesian-alphabet-from-rakshasa-leaves",
+      "title": {
+        "en": "Two Dead Rakshasas and the Javan Alphabet of Twenty Letters",
+        "zh": "兩具羅剎遺骸與爪哇二十字母"
+      },
+      "tradition": "indonesian",
+      "category": "myth",
+      "region": {
+        "en": "Java (Aji Saka cycle)",
+        "zh": "爪哇（阿吉·薩卡傳說圈）"
+      },
+      "lat": -7.5,
+      "lon": 110.5,
+      "period": "Javanese Aji Saka tradition, recorded in Raffles 1817",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Thomas Stamford Raffles, The History of Java (1817), vol. II, ch. X, the invention of letters",
+        "url": "https://archive.org/details/historyjava02raffgoog"
+      },
+      "license": "Public domain (1817)",
+      "summary": {
+        "en": "Journeying through the island, Aji Saka met the dead bodies of two Rakshasas, each holding a leaf with an inscription on it — one in purwa (ancient) characters, the other in Siamese. He united the two inscriptions and thus formed the Javan alphabet of twenty letters. He then fought several combats with the Rakshasas, particularly one Demata Chingkar, before returning to Astina with a written account of all he had seen and done.",
+        "zh": "阿吉·薩卡行遍島中，遇羅剎屍骸二具，各持一葉，葉上各有銘文——一為古字（purwa），一為暹羅字。他合二銘而創爪哇二十字母。其後數與羅剎戰——尤與『德瑪塔·欽卡爾』激鬥——然後歸阿斯提那復命。"
+      },
+      "motifs": [
+        "wisdom-sacrifice",
+        "culture-hero"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Alphabet-origin myth; the demon's script becoming human letters is a distinctive Javanese etiology."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "In his progress through the island he met with the dead bodies of two Rakshasas, each holding a leaf with an inscription on it, one in purwa (ancient), the other in Siamese characters: these he united, and thus formed the Javan alphabet of twenty letters.",
+          "note": "Paraphrase of Raffles, History of Java (1817), vol. II ch. X; not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "He had several combats with the Rakshasas, particularly with one Demata Chingkar; and after fixing the date of his different discoveries and leaving mementos of his visit wherever he went, he finally returned to Astina and delivered to his sovereign a written account of all he had seen and done.",
+          "note": "Paraphrase of Raffles, History of Java (1817), vol. II ch. X; not verbatim."
+        }
+      ],
+      "persons": []
+    },
+    {
+      "id": "indonesian-sun-moon-code-reformed",
+      "title": {
+        "en": "The Code of Sun and Moon, Reformed by Aji Saka",
+        "zh": "日月法典與阿吉·薩卡之改革"
+      },
+      "tradition": "indonesian",
+      "category": "myth",
+      "region": {
+        "en": "Java (early legal tradition)",
+        "zh": "爪哇（早期法統傳說）"
+      },
+      "lat": -7.5,
+      "lon": 110.5,
+      "period": "Javanese tradition of pre-Saka law, recorded in Raffles 1817",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Thomas Stamford Raffles, The History of Java (1817), vol. II, ch. X, the judicial code of sun and moon",
+        "url": "https://archive.org/details/historyjava02raffgoog"
+      },
+      "license": "Public domain (1817)",
+      "summary": {
+        "en": "Before Aji Saka, Java's only trace of civilization was a judicial code titled 'sun and moon,' with mild punishments: a thief restored the stolen property and paid a fine in cattle or produce, becoming the injured party's slave if the theft was great — but transferable to no other master; murder was not punished by death but by a heavy fine and perpetual servitude in the deceased's family. Aji Saka reformed the code, and his abstract of ordinances was believed in use as late as Janggala (A.D. 900) and Majapahit (A.D. 1300).",
+        "zh": "阿吉·薩卡之前，爪哇唯一法典曰『日月』，刑罰寬和：竊者還贓、納牛粟之罰；重竊則為被害者（或其親）之奴，不得轉賣他人；殺人不死，處重罰並終身服役於死者之家。薩卡改革法典，其刑典摘要行用至章格拉（900年）與馬卓帕希特（1300年）之世。"
+      },
+      "motifs": [
+        "ritual-origin",
+        "sacred-kingship"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Legal-mythical charter; the 'sun and moon' code is presented as pre-Indian Javan law."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The only trace of anterior civilization was a tradition that before his time there existed a judicial code, under the title of sun and moon, the punishments of which appear not to have been severe: a thief was bound to make restitution of the property stolen, and to pay in addition a fine in cattle or produce; and if the theft was considerable, he became the slave of the injured party or his relations, without, however, being transferable to another master.",
+          "note": "Paraphrase of Raffles, History of Java (1817), vol. II ch. X; not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Murder was not punished by death, but by a heavy fine, and perpetual servitude in the family of the deceased. Aji Saka is represented to have reformed this code; and an abstract collection of ordinances, said to have been made from his instructions, is believed to have been in use as late as the time of Janggala (A.D. 900), and even of Majapahit (A.D. 1300).",
+          "note": "Paraphrase of Raffles, History of Java (1817), vol. II ch. X; not verbatim."
+        }
+      ],
+      "persons": []
+    },
+    {
+      "id": "indonesian-kalamerta-destroyer",
+      "title": {
+        "en": "Sang Yang Kalamerta: The Dewata's Son Who Guards the Harvest",
+        "zh": "桑·揚·卡拉默爾塔：護穀懲惡之神子"
+      },
+      "tradition": "indonesian",
+      "category": "myth",
+      "region": {
+        "en": "Majapahit country, East Java (temple inscription)",
+        "zh": "東爪哇馬卓帕希特之地（廟碑）"
+      },
+      "lat": -7.5,
+      "lon": 112.0,
+      "period": "Javanese inscription, year 1216 Saka (c. 1294 CE), translated in Raffles 1817 (Appendix)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Thomas Stamford Raffles, The History of Java (1817), Appendix, translation of a Javan inscription naming Sang Yang Kalamerta",
+        "url": "https://archive.org/details/historyjava02raffgoog"
+      },
+      "license": "Public domain (1817)",
+      "summary": {
+        "en": "A Javan temple inscription teaches the cultivator that 'he who superintends the implements of tillage is the son of a Dewata, named Sang Yang Kalamerta; he is very good, for he protects all the cultivation in the country' — and that Sang Yang Kalamerta has been empowered by Batara Guru to destroy first all vicious persons, secondly evil speakers, and thirdly liars. The god of the plough is the enforcer of the three vices.",
+        "zh": "爪哇廟碑訓誡耕者：『掌農具者乃神（Dewata）之子，名曰桑·揚·卡拉默爾塔；其神至善，護佑國中一切耕穫。』且巴塔拉·古魯授權於此神：先誅惡人、次誅惡言者、再誅說謊者。掌犁之神亦懲三惡之判官。"
+      },
+      "motifs": [
+        "theophany",
+        "ritual-origin",
+        "sacred-kingship"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Inscriptional deity-lore tying agriculture to moral order; translation via Raffles' appendix."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "But be it known to the cultivator, that he who superintends the implements of tillage is the son of a Dewata, named Sang Yang Kalamerta; he is very good, for he protects all the cultivation in the country. It is that Sang Yang Kalamerta who, from the first, has caused terror to all such subjects as do not obey the commands of Batara Guru: because Sang Yang Kalamerta has been empowered by Batara Guru to destroy first all vicious persons, secondly evil speakers, and thirdly liars. These three vices do you reject, and ask forgiveness of the Batara, so that you may avoid the fury of Sang Yang Kalamerta.",
+          "note": "Paraphrase of the inscription translation in Raffles, History of Java (1817), Appendix; not verbatim."
+        }
+      ],
+      "persons": []
+    },
+    {
+      "id": "indonesian-hornet-kris-fall-majapahit",
+      "title": {
+        "en": "The Kris of Hornets and the Fall of Majapahit",
+        "zh": "黃蜂之克利斯與馬卓帕希特之亡"
+      },
+      "tradition": "indonesian",
+      "category": "myth",
+      "region": {
+        "en": "Majapahit, East Java",
+        "zh": "東爪哇馬卓帕希特"
+      },
+      "lat": -7.5,
+      "lon": 112.4,
+      "period": "Fall of Majapahit in Javan year 1400 (c. 1478 CE); tradition recorded in Raffles 1817",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Thomas Stamford Raffles, The History of Java (1817), vol. II, ch. X, the supernatural weapons of the Demak confederates",
+        "url": "https://archive.org/details/historyjava02raffgoog"
+      },
+      "license": "Public domain (1817)",
+      "summary": {
+        "en": "The overthrow of ancient Majapahit 'was not to be effected by human means alone.' The confederates sent magical gifts to the field: Sunan Ngampel Denta a chain-jacket (baju rantai) that would loose thousands of rats at the height of battle; Sunan Giri the sacred kris from which a swarm of hornets was to issue; Sunan Bintang a magic wand able to produce allies on all sides. Thus armed, Pangiran Kudus drove the enemy before him, and the city 'so long celebrated for the splendour of its court and the glory of its arms' became a wilderness — 'Lost and gone is the pride of the land.'",
+        "zh": "馬卓帕希特古國之亡『非人力所能獨成』。同盟諸王遣神物助戰：蘇丹·安佩爾贈鎖子甲——戰酣時甲中湧出千鼠；蘇丹·吉里贈神克利斯——揮之則黃蜂群出；蘇丹·賓塘贈魔杖——危急時四方召來盟軍勇士。邦義蘭·庫杜斯持之破敵，聖城遂荒——『舉國之榮，盡付東流』。"
+      },
+      "motifs": [
+        "miraculous-birth",
+        "witch",
+        "sacred-kingship",
+        "wilderness-wandering"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Muslim-Javan conquest legend with thaumaturgic weapons; the kraton pusaka tradition."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The overthrow of the ancient kingdom, if we are to believe the Javans, was not to be effected by human means alone, and supernatural expedients were resorted to. Sunan Ngampel Denta sent a baju rantai, or chain jacket, with an injunction not to open it until the engagement was at its height, when thousands of rats would issue from it and assist in putting an end to the struggle.",
+          "note": "Paraphrase of Raffles, History of Java (1817), vol. II ch. X; not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Sunan Giri contributed, with the same instructions, the sacred kris, from which a swarm of hornets was to issue; and Sunan Bintang sent a magical wand or cane, which in cases of extremity possessed the power of producing allies and warriors on all sides. Thus provided, the Mahometan army took the field under Pangiran Kudus.",
+          "note": "Paraphrase of Raffles, History of Java (1817), vol. II ch. X; not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "In this protracted engagement the faithful were at first worsted; but the commander, availing himself of the enchanted box and miraculous weapons, at last succeeded in driving the enemy before him, and the city of Majapahit, surrounded on all sides, submitted to the hostile forces. Thus did the sacred city, so long celebrated for the splendour of its court and the glory of its arms, become a wilderness — 'Lost and gone is the pride of the land.'",
+          "note": "Paraphrase of Raffles, History of Java (1817), vol. II ch. X; not verbatim."
+        }
+      ],
+      "persons": [
+        "semar"
+      ]
+    },
+    {
+      "id": "indonesian-chandra-kirana-malacca",
+      "title": {
+        "en": "Chandra Kirana Given to Malacca: The Batara's Daughter and Hang Tuah",
+        "zh": "月公主許嫁滿剌加：巴塔拉之女與漢都亞"
+      },
+      "tradition": "indonesian",
+      "category": "myth",
+      "region": {
+        "en": "Majapahit, East Java",
+        "zh": "東爪哇馬卓帕希特"
+      },
+      "lat": -7.5,
+      "lon": 112.4,
+      "period": "Malay Annals tradition (quoted by Raffles 1817); Majapahit-Malacca alliance legend",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Thomas Stamford Raffles, The History of Java (1817), vol. II, ch. X (quoting the Malay Annals on the marriage of Chandra Kirana)",
+        "url": "https://archive.org/details/historyjava02raffgoog"
+      },
+      "license": "Public domain (1817)",
+      "summary": {
+        "en": "The Batara of Majapahit had a daughter, Raden Galuh Chandra Kirana, celebrated far and wide, whom many rajas sought. Her fame reached Malacca, and Sultan Mansur, enamoured by description, fitted out five hundred great prahus; forty nobles and forty noble virgins attended him, and among the chieftains came the celebrated Hang Tuah the Laksamana, 'who was highly admired and exhibited wonderful feats.' The Batara gave his daughter to the Raja of Malacca, seated his son-in-law beside himself on a seat of equal honour — and bestowed Siantan on Laksamana, 'from which time the rulers of Siantan are descendants of Laksamana.'",
+        "zh": "馬卓帕希特巴塔拉有女查德拉·基拉娜，艷名遠播，列王爭聘。名聲傳至滿剌加，蘇丹滿速沙聞名傾心，備五百大船、貴胄四十、名媛四十親往；扈從之中有名將漢都亞（海軍統帥），技藝驚人。巴塔拉以女妻滿剌加王，令婿與己並坐同尊——又以錫亞丹封漢都亞，『自此錫亞丹之主皆統帥之後』。"
+      },
+      "motifs": [
+        "divine-marriage",
+        "sacred-kingship"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Majapahit-Malacca alliance legend shared by the Malay Annals; the Panji-cycle princess Chandra Kirana transferred to dynastic marriage."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The Batara had a daughter named Raden Galuh Chandra Kirana, whose beauty was celebrated far and wide, and many rajas sought her in marriage. Her fame reached Malacca, and Sultan Mansur became enamoured of her by description. He ordered Paduka Raja, the bandahara, to fit out a fleet of five hundred large prahus with innumerable small ones.",
+          "note": "Paraphrase of the Malay Annals passage quoted in Raffles, History of Java (1817); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Among the chieftains who accompanied the Raja of Malacca was the celebrated Hang Tuah or Laksamana, who was highly admired and exhibited wonderful feats. The Batara gave his daughter Chandra Kirana in marriage to the Raja of Malacca; and the Batara, delighted with his son-in-law, caused him to be placed on a seat of equal honour with himself, both on public occasions and at meals.",
+          "note": "Paraphrase of the Malay Annals passage quoted in Raffles, History of Java (1817); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "Then, being about to depart, the Raja requested to be presented with the kingdom of Indra-giri, which was accordingly given to him. He then bestowed Siantan on Laksamana, from which time the rulers of Siantan are descendants of Laksamana. By the princess he had a son, named Raden Galang, who was killed one day by a man running amok.",
+          "note": "Paraphrase of the Malay Annals passage quoted in Raffles, History of Java (1817); not verbatim."
+        }
+      ],
+      "persons": []
+    },
+    {
+      "id": "indonesian-invulnerable-janggala-prince",
+      "title": {
+        "en": "The Invulnerable Prince of Janggala and the Arrow of Jepara Iron",
+        "zh": "章格拉不敗王子與哲帕拉鐵箭"
+      },
+      "tradition": "indonesian",
+      "category": "myth",
+      "region": {
+        "en": "Janggala, East Java",
+        "zh": "東爪哇章格拉"
+      },
+      "lat": -7.6,
+      "lon": 112.3,
+      "period": "Madura-tradition legend of Janggala, recorded in Raffles 1817",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Thomas Stamford Raffles, The History of Java (1817), vol. II, ch. X, the death of the prince of Janggala",
+        "url": "https://archive.org/details/historyjava02raffgoog"
+      },
+      "license": "Public domain (1817)",
+      "summary": {
+        "en": "The accounts of the succession of Paji to his father's throne are discordant, but in the Madura tradition Prabu Jaya Sangara, chief of Madura (then called Nusa Antara), was jealous of the power of Janggala, landed there, and in a desperate action killed Paji with an arrow from his own bow — in fulfilment of a prophecy which foretold that the prince would be invulnerable except to the iron (tisi) of Jepara, from which the prince of Nusa Antara had manufactured his arrow. The one hole in an invulnerable man is always the one his enemy happens to own.",
+        "zh": "帕吉繼位之事傳說紛紜；馬都拉傳說云：馬都拉（時稱努薩·安塔拉）之王普拉布·查亞·桑卡拉忌章格拉之勢，登陸決戰，以帕吉自用之弓一箭斃之——應了那則預言：王刀槍不入，唯懼哲帕拉之鐵；而努薩·安塔拉王子之箭，恰以哲帕拉鐵鍛成。刀槍不入者，必有其一破綻，而破綻恰在仇人手中。"
+      },
+      "motifs": [
+        "quest-immortality",
+        "boon-curse",
+        "prophetic-vision",
+        "doom-foretold",
+        "jealousy"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Invulnerability-prophecy motif (Achilles-type) in Javanese court legend."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "In some accounts Paji is represented as having succeeded on his father's death; in others, as dying prematurely: Prabu Jaya Sangara, chief of Madura (then called Nusa Antara), jealous of the power of Janggala, is said to have landed, and in a desperate action killed Paji with an arrow from his own bow. This was in fulfilment of a prophecy which foretold that he would be invulnerable, except to the iron tisi of Jepara, from which this prince had manufactured his arrow.",
+          "note": "Paraphrase of Raffles, History of Java (1817), vol. II ch. X; not verbatim."
+        }
+      ],
+      "persons": []
+    }
+  ]
+}

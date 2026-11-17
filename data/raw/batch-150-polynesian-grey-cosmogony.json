@@ -1,0 +1,294 @@
+{
+  "_comment": "Polynesian expansion batch 150 - Grey, Polynesian Mythology (1855), ch. 1 'The Children of Heaven and Earth' (Te Arawa/Ngati-Kahungunu recensions via named informants incl. Wiremu Maihi Te Rangikaheke). Topic 1 Creation & Origin + topic 11 taboo. All passages are labeled paraphrase.",
+  "texts": [
+    {
+      "id": "polynesian-tane-separates-sky",
+      "title": {
+        "en": "Tane Presses Sky from Earth",
+        "zh": "塔內撐天：天空與大地裂離"
+      },
+      "tradition": "polynesian",
+      "category": "myth",
+      "region": {
+        "en": "Rotorua lakes district, Aotearoa (symbolic pin)",
+        "zh": "紐西蘭羅托魯瓦湖區（象徵性定位）"
+      },
+      "lat": -38.14,
+      "lon": 176.24,
+      "period": "Oral tradition; recorded 1855 (Grey, Polynesian Mythology)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "George Grey, Polynesian Mythology and Ancient Traditional History of the New Zealand Race, ch. 1 (London 1855)",
+        "url": "https://archive.org/details/polynesianmythol00greyuoft"
+      },
+      "license": "Public domain (Grey 1855)",
+      "summary": {
+        "en": "In the long dark the children of Rangi (Sky) and Papa (Earth) consult on whether to slay their parents or tear them apart. Four sons fail to force the embrace open; only Tane, father of forests, plants his head on the earth, raises his feet against the sky, and strains until heaven and earth are rent apart, revealing a multitude of beings hidden between them. Their parents' continuing love is seen in the mists that rise from Papa's bosom and the dew that falls as Rangi's tears.",
+        "zh": "在長夜般的黑暗中，朗基（天）與帕帕（地）的眾子女商議：是殺死父母，還是將二人強行分開。羅果、坦加羅亞、豪米亞與屠諸兄相繼努力而失敗；唯有森林之父塔內以頭抵地、以足撐天，竭力舒展，終將天與地撕裂分開，露出藏於二者之間的無數生靈。父母之愛未絕：帕帕胸中所出暖霧即地氣，朗基夜夜垂淚即露水。"
+      },
+      "motifs": [
+        "creation-chaos",
+        "sibling-creators",
+        "transformation",
+        "kin-slaying"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Living Maori tradition collected in the colonial era (Grey 1855) from named chiefly informants; nothing restricted reproduced. Tagging of Polynesian myth into Thompson-style motifs is interpretive."
+      },
+      "persons": [
+        "ranginui",
+        "papatuanuku",
+        "tane",
+        "tu-matauenga",
+        "tawhiri",
+        "rongo",
+        "tangaroa"
+      ],
+      "passages": [
+        {
+          "id": "1",
+          "text": "In the beginning all things came from Rangi, the vast heaven above, and Papa, the earth beneath, who still clave together in darkness. The children they had begotten multiplied without ever seeing light, and at last, worn out by the endless dark, they consulted among themselves what they should do with their parents: whether to slay them or to rend them apart. Tu-matauenga, the fiercest, said it was well to slay them. But Tane-mahuta, father of the forests, answered: not so - it is better to rend them apart, letting heaven stand far above and earth lie under our feet, so the sky becomes a stranger to us but the earth remains close, our nursing mother.",
+          "note": "Paraphrase of George Grey, Polynesian Mythology, ch. 1 (1855); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Only Tawhiri-ma-tea, father of winds and storms, refused to consent. Rongo-ma-tane, god of cultivated food, first rose to rend apart his parents and struggled in vain; then Tangaroa, father of fish and reptiles, and Haumia-tikitiki, father of wild foods, and Tu-matauenga himself each strove and failed. At last Tane slowly rose, paused, planted his head firmly on his mother the earth, lifted his feet to rest against his father the skies, and strained his back and limbs with mighty effort. Then Rangi and Papa were rent apart, shrieking aloud, 'Wherefore slay you your parents? Why rend them apart?' Tane heeded not their cries: he pressed the earth far below and thrust the sky far above, and darkness gave way to light.",
+          "note": "Paraphrase of George Grey, Polynesian Mythology, ch. 1 (1855); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "The moment heaven was rent from earth, a multitude of human beings were discovered whom the primal pair had begotten and who had lain hidden between their bodies. The old saying ran that it was the fierce thrusting of Tane which tore heaven from earth, so that darkness was made manifest and so was the light. Yet the mutual love of the separated pair continues: the soft warm sighs of Papa's loving bosom rise from the wooded mountains and valleys as mists, and Rangi mourns his separation through the long nights, dropping tears upon her bosom which men call dew-drops.",
+          "note": "Paraphrase of George Grey, Polynesian Mythology, ch. 1 (1855); not verbatim."
+        }
+      ]
+    },
+    {
+      "id": "polynesian-tawhiri-storm-war",
+      "title": {
+        "en": "Tawhiri's War of Storms",
+        "zh": "塔維里馬泰亞的風暴之戰"
+      },
+      "tradition": "polynesian",
+      "category": "myth",
+      "region": {
+        "en": "Sky realms above Lake Taupo, Aotearoa (symbolic pin)",
+        "zh": "紐西蘭陶波湖上空之天界（象徵性定位）"
+      },
+      "lat": -38.68,
+      "lon": 176.08,
+      "period": "Oral tradition; recorded 1855 (Grey, Polynesian Mythology)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "George Grey, Polynesian Mythology and Ancient Traditional History of the New Zealand Race, ch. 1 (London 1855)",
+        "url": "https://archive.org/details/polynesianmythol00greyuoft"
+      },
+      "license": "Public domain (Grey 1855)",
+      "summary": {
+        "en": "Angry that his brothers had separated their parents, Tawhiri-ma-tea, father of winds and storms, flees to the hollows of the sky, begets a brood of winds on his father, and wages war on his siblings. He snaps Tane's giant forests, lashes Tangaroa's seas into cliff-high waves, and hunts Rongo and Haumia - whom Papa hides in the earth - but cannot shake Tu-matauenga, man, who alone stands erect and unshaken. The episode explains why storm is humanity's unconquered enemy.",
+        "zh": "諸兄分開父母，風暴之神塔維里馬泰亞大怒，攜幼風入天父所居之避風凹所，於天界繁育風族，向諸弟宣戰。他吹折塔內的巨林，掀起高過斷崖的巨浪逼退坦加羅亞；羅果與豪米亞被地母藏於土中得免；唯屠馬陶恩加（人）挺立不搖，風暴不能勝他——此即人與風暴為世仇之緣由。"
+      },
+      "motifs": [
+        "sibling-creators",
+        "storm-thunder",
+        "transformation"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Colonial-era collection of living oral tradition; interpretive motif tagging."
+      },
+      "persons": [
+        "tawhiri",
+        "tane",
+        "tangaroa",
+        "rongo",
+        "tu-matauenga",
+        "papatuanuku"
+      ],
+      "passages": [
+        {
+          "id": "1",
+          "text": "In Tawhiri-ma-tea, father of winds and storms, a fierce desire rose to wage war on his brothers because they had rent apart their common parents. He alone had refused to consent to his mother being torn from her lord and children. So he rose, followed his father to the realms above, hurried to the sheltered hollows in the boundless skies, and there, nestling in the place of rest, consulted long with the vast Heaven; and between him and Heaven was begotten a numerous brood which rapidly increased. He despatched one child westward, one southward, one eastward, one northward, and named himself and his progeny, the mighty winds, accordingly.",
+          "note": "Paraphrase of George Grey, Polynesian Mythology, ch. 1 (1855); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "He next sent forth fierce squalls, whirlwinds, dense and massy and dark and fiery clouds, clouds of thunder and clouds wildly bursting, and swept on in their midst. The blast of his mouth smote the gigantic forests of Tane-mahuta unawares; the trees snapped in the middle, were rent to atoms, and lay scattered for the insect, the grub, and rottenness. From the forests he swooped down upon the seas and lashed the ocean in his wrath, raising waves steep as cliffs whose summits made the beholder giddy; and Tangaroa, god of ocean, flew affrighted through his seas.",
+          "note": "Paraphrase of George Grey, Polynesian Mythology, ch. 1 (1855); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "Tawhiri-ma-tea then rushed to attack Rongo-ma-tane and Haumia-tikitiki, gods of cultivated and wild food; but Papa caught them up and hid them so well in the earth that the storm-god sought them in vain. At last he flung all his force against Tu-matauenga; but what did Tu care for his brother's wrath? He was the one who had planned the parents' destruction and stood brave and fierce. All his brothers had yielded before the tremendous assaults, but Tu-matauenga, or man, still stood erect and unshaken upon the breast of his mother Earth; and the passions of Heaven and the storm-god were at last assuaged.",
+          "note": "Paraphrase of George Grey, Polynesian Mythology, ch. 1 (1855); not verbatim."
+        }
+      ]
+    },
+    {
+      "id": "polynesian-ikatare-fish-reptiles",
+      "title": {
+        "en": "Fish and Reptiles Part Ways",
+        "zh": "魚族與爬蟲族分途"
+      },
+      "tradition": "polynesian",
+      "category": "myth",
+      "region": {
+        "en": "Tangaroa's seas, Aotearoa coast (symbolic pin)",
+        "zh": "紐西蘭海岸坦加羅亞之海（象徵性定位）"
+      },
+      "lat": -37.68,
+      "lon": 178.32,
+      "period": "Oral tradition; recorded 1855 (Grey, Polynesian Mythology)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "George Grey, Polynesian Mythology and Ancient Traditional History of the New Zealand Race, ch. 1 (London 1855)",
+        "url": "https://archive.org/details/polynesianmythol00greyuoft"
+      },
+      "license": "Public domain (Grey 1855)",
+      "summary": {
+        "en": "As Tawhiri's storm war breaks over the ocean, Tangaroa flees through his seas, and his grandchildren Ika-tere (father of fish) and Tu-te-wehiwehi (father of reptiles) dispute how to escape. One party cries 'fly to the sea', the other 'fly inland'; the fish rush to the water, the reptiles to the scrub, and each taunts the other with its doom: fish will be singed over fern fire as relish or cooked, reptiles will be laid atop baskets of vegetable food. Tangaroa ever after wages war on Tane for sheltering the deserters.",
+        "zh": "風暴戰火燒及海洋，坦加羅亞倉皇逃入深海；其孫伊卡泰雷（魚祖）與圖泰維希維希（爬蟲祖）爭議避禍之道：一族喊『逃向海』，一族喊『逃往陸』。魚群奔入水中，爬蟲躲進林莽，彼此相譏對方的命運。坦加羅亞憤於部分子孫棄他而投奔森林之神塔內，自此與塔內永相征戰。"
+      },
+      "motifs": [
+        "sibling-creators",
+        "transformation"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Colonial-era collection of living oral tradition; interpretive motif tagging."
+      },
+      "persons": [
+        "tangaroa",
+        "tane",
+        "tawhiri"
+      ],
+      "passages": [
+        {
+          "id": "1",
+          "text": "When Tangaroa fled for safety to the ocean before Tawhiri's storms, his children consulted how they might escape, for he had begotten Punga, and Punga two children: Ika-tere, father of fish, and Tu-te-wehiwehi, father of reptiles. Tu-te-wehiwehi and his party cried aloud, 'Let us fly inland'; Ika-tere and his party cried aloud, 'Let us fly to the sea.' Some would not obey one order, some not the other, and they escaped in two parties: the reptiles hid themselves ashore, and the party of Punga rushed to the sea. In the ancient religious services this is called the separation of Tawhiri-ma-tea.",
+          "note": "Paraphrase of George Grey, Polynesian Mythology, ch. 1 (1855); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Ika-tere taunted his rival: 'Fly inland, then; the fate of you and your race will be that when they catch you, before you are cooked, they will singe off your scales over a lighted wisp of dry fern.' Tu-te-wehiwehi answered: 'Seek safety in the sea, then; and the future fate of your race will be that when they serve out little baskets of cooked vegetable food to each person, you will be laid upon the top of the food to give a relish to it.' Then without delay the two races separated: the fish fled in confusion to the sea, and the reptiles sought safety in the forests and scrubs.",
+          "note": "Paraphrase of George Grey, Polynesian Mythology, ch. 1 (1855); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "Tangaroa, enraged that some of his children deserted him and were sheltered on dry land by the god of the forests, has ever since waged war on his brother Tane, who wages war in return. Tane supplies the offspring of Tu-matauenga with canoes, spears, fish-hooks made from his trees, and nets woven from his fibrous plants, that they may destroy the offspring of Tangaroa; whilst Tangaroa in return swallows up the offspring of Tane, overwhelming canoes with surges and wasting away the shores with his lapping waves, that the giants of the forests may be swept out into his boundless ocean.",
+          "note": "Paraphrase of George Grey, Polynesian Mythology, ch. 1 (1855); not verbatim."
+        }
+      ]
+    },
+    {
+      "id": "polynesian-tu-devours-brothers",
+      "title": {
+        "en": "Tu-matauenga Avenges Himself on His Brothers",
+        "zh": "屠馬陶恩加向諸弟復仇"
+      },
+      "tradition": "polynesian",
+      "category": "myth",
+      "region": {
+        "en": "Breast of Papa, Aotearoa (symbolic pin)",
+        "zh": "紐西蘭地母胸膛（象徵性定位）"
+      },
+      "lat": -38.62,
+      "lon": 175.04,
+      "period": "Oral tradition; recorded 1855 (Grey, Polynesian Mythology)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "George Grey, Polynesian Mythology and Ancient Traditional History of the New Zealand Race, ch. 1 (London 1855)",
+        "url": "https://archive.org/details/polynesianmythol00greyuoft"
+      },
+      "license": "Public domain (Grey 1855)",
+      "summary": {
+        "en": "Left to fight the storm-god alone, Tu-matauenga resolves on revenge for his brothers' cowardice. Death as yet had no power over man, but Tu snares the birds of Tane's forest with whanake leaf nooses, drags Tangaroa's children ashore with nets of flax, and digs up Rongo's and Haumia's plants with a wooden hoe, consuming them all as food. Four brothers become food with fitting incantations; only Tawhiri, the storm, remains unconquered, forever attacking man by sea and land.",
+        "zh": "諸弟怯戰棄他於風暴之中，屠馬陶恩加遂謀復仇。彼時死亡尚未轄制人。屠以瓦納基葉結成套索羅捕塔內之林鳥，以亞麻結網曳坦加羅亞之魚群上岸，又削木鋤掘起羅果與豪米亞之可食根莖，將諸弟盡數吞噬為食。四弟皆成『平常之食』並各有祭禱咒語；唯風暴塔維里未被降服，永為世仇，海陸之間攻人不息。"
+      },
+      "motifs": [
+        "sibling-creators",
+        "culture-hero",
+        "taboo-transgression",
+        "magic-word"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Colonial-era collection; the 'eating the brothers' episode is a traditional explanatory myth, reproduced as paraphrase."
+      },
+      "persons": [
+        "tu-matauenga",
+        "tane",
+        "tangaroa",
+        "rongo",
+        "tawhiri"
+      ],
+      "passages": [
+        {
+          "id": "1",
+          "text": "Tu-matauenga, or fierce man, having successfully resisted the god of hurricanes, took thought how he could turn upon his brothers and slay them, because they had not assisted or fought bravely when Tawhiri-ma-tea attacked them, and had left him alone to show his prowess in the fight. As yet death had no power over man; it was not until the birth of the children of Taranga and Makea-tu-tara - of Maui-taha, Maui-roto, Maui-pae, Maui-waho, and Maui-tikitiki-o-Taranga, who tried to deceive Hine-nui-te-po - that death obtained power over mankind, for had that goddess not been deceived, men would have lived for ever.",
+          "note": "Paraphrase of George Grey, Polynesian Mythology, ch. 1 (1855); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "He first sought means of injuring Tane-mahuta, who had a numerous progeny rapidly increasing and might prove hostile; so he collected leaves of the whanake tree and twisted them into nooses, went to the forest, hung his snares, and lo - the children of Tane fell before him, none could any longer fly or move in safety. Next he took revenge on Tangaroa, finding his offspring leaping and swimming in the water; he cut many leaves of the flax-plant, netted nets with the flax, and dragged and hauled the children of Tangaroa ashore.",
+          "note": "Paraphrase of George Grey, Polynesian Mythology, ch. 1 (1855); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "Then he determined also to be revenged upon Rongo-ma-tane and Haumia-tikitiki; he soon found them by their peculiar leaves, scraped into shape a wooden hoe, plaited a basket, dug in the earth, and pulled up all kinds of plants with edible roots, and the plants dug up withered in the sun. Thus Tu-matauenga devoured all his brothers, in revenge for their deserting him to fight alone against Tawhiri-ma-tea and Rangi. When his brothers were all overcome he assumed new names - Tu-ka-riri, Tu-ka-nguha, Tu-ka-taua, Tu-whaka-heke-tangata, Tu-mata-wha-iti, Tu-matauenga - one for each attribute displayed in his victories. Four brothers became his common food; but Tawhiri-ma-tea he could not vanquish or make common by eating, so he, the last-born child of Heaven and Earth, was left as an enemy for man, ever attacking him in storms and hurricanes by sea and land.",
+          "note": "Paraphrase of George Grey, Polynesian Mythology, ch. 1 (1855); not verbatim."
+        }
+      ]
+    },
+    {
+      "id": "polynesian-great-rain-submergence",
+      "title": {
+        "en": "The Great Rain That Drowned the Land",
+        "zh": "大雨水沉陸：洪沒大地的雨族之怒"
+      },
+      "tradition": "polynesian",
+      "category": "myth",
+      "region": {
+        "en": "Aotearoa coastlands (symbolic pin)",
+        "zh": "紐西蘭沿海陸地（象徵性定位）"
+      },
+      "lat": -39.29,
+      "lon": 174.06,
+      "period": "Oral tradition; recorded 1855 (Grey, Polynesian Mythology)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "George Grey, Polynesian Mythology and Ancient Traditional History of the New Zealand Race, ch. 1 (London 1855)",
+        "url": "https://archive.org/details/polynesianmythol00greyuoft"
+      },
+      "license": "Public domain (Grey 1855)",
+      "summary": {
+        "en": "In the aftermath of the storm-god's wrath, Grey's record tells how a great part of the dry land disappeared: the beings Terrible-rain, Long-continued-rain and Fierce-hail-storms, with their progeny Mist, Heavy-dew and Light-dew, submerged most of mother Earth, so that only a small portion of dry land projected above the sea. A Maori parallel to the world-deluge cluster, marking the world's first catastrophe after the separation.",
+        "zh": "風暴之怒後，陸地大半消失：『可怖之雨』『久雨』『猛雹』諸靈及其後裔『霧』『重露』『輕露』共同淹沒大地母親的大部分，僅餘少許陸地露於海面。此為毛利口傳中與世界洪水母題相對應的篇章，記天裂地分之後世界的第一場浩劫。"
+      },
+      "motifs": [
+        "flood",
+        "world-renewal",
+        "storm-thunder"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Flood-cluster tagging follows the cross-tradition motif plan; the Maori text names rain-beings rather than a single flood hero."
+      },
+      "persons": [
+        "tawhiri",
+        "papatuanuku"
+      ],
+      "passages": [
+        {
+          "id": "1",
+          "text": "The bursting forth of the wrathful fury of Tawhiri-ma-tea against his brothers was the cause of the disappearance of a great part of the dry land; during that contest a great part of mother Earth was submerged. The names of those beings of ancient days who submerged so large a portion of the earth were Terrible-rain, Long-continued-rain, and Fierce-hail-storms; and their progeny were Mist, Heavy-dew, and Light-dew. These together submerged the greater part of the earth, so that only a small portion of dry land projected above the sea.",
+          "note": "Paraphrase of George Grey, Polynesian Mythology, ch. 1 (1855); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "From that time clear light increased upon the earth, and all the beings which had lain hidden between Rangi and Papa before they were separated now multiplied upon the earth. The first beings begotten by the primal pair were not like human beings; but Tu-matauenga bore the likeness of a man, as did all his brothers, and so it continued through the generations of Ngainui, of Whiro-te-tupua, and of Tiki-tawhito-ariki, until it reaches at last the generation of Maui-taha and his brothers, down to Maui-tikitiki-o-Taranga, the demigod.",
+          "note": "Paraphrase of George Grey, Polynesian Mythology, ch. 1 (1855); not verbatim."
+        }
+      ]
+    }
+  ]
+}

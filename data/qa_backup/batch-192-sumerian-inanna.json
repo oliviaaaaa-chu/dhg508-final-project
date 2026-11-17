@@ -1,0 +1,873 @@
+{
+ "texts": [
+  {
+   "id": "sumerian-inanna-enki-me",
+   "title": {
+    "en": "Inanna Steals the Me from Enki",
+    "zh": "伊南娜竊取恩基之梅"
+   },
+   "tradition": "sumerian",
+   "category": "myth",
+   "region": {
+    "en": "Eridu to Uruk by river, Iraq",
+    "zh": "自埃利都溯河至烏魯克（伊拉克）"
+   },
+   "lat": 30.629,
+   "lon": 44.428,
+   "period": "Old Babylonian manuscript, c. 1700 BCE (ETCSL translation 2003)",
+   "source": {
+    "archive": "ETCSL (University of Oxford)",
+    "work": "Inana and Enki (ETCSL c.1.3.1)",
+    "url": "https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.1.3.1&charenc=j"
+   },
+   "license": "ETCSL translation (Oxford, 2003-2006); quoted in paraphrase with attribution",
+   "summary": {
+    "en": "Inanna visits Enki at the Abzu, drinks beer with him, and the hospitable god gives her, gift by gift, more than a hundred me — the powers of civilization. When he sobers and sends monsters after her, Ninshubur rescues her, twice, until all the me reach Uruk.",
+    "zh": "伊南娜赴阿卜祖造訪恩基，共飲啤酒；恩基乘興相贈，先後授她百餘枚梅——文明之力。恩基酒醒遣怪獸追索，寧舒布爾兩度退敵，梅終至烏魯克。"
+   },
+   "motifs": [
+    "culture-hero",
+    "trickster",
+    "quest-immortality"
+   ],
+   "sensitivity": {
+    "restricted": false,
+    "note": "Ancient myth; no living community restrictions."
+   },
+   "passages": [
+    {
+     "id": "1",
+     "text": "Inanna sails to Eridu to visit her father Enki in the Abzu. He feasts her, and over the beer, the god of wisdom, generous with wine, grants her gift after gift: the exalted crown, the throne of kingship, the priestly offices, the art of the metalworker, the scribe, the smith, the leatherworker, the builder, the weaving, the wisdom of divination and the arts of love and war.",
+     "note": "Paraphrase of ETCSL c.1.3.1, gifts of the me; not verbatim."
+    },
+    {
+     "id": "2",
+     "text": "Inanna takes the me into the boat of heaven and rows for home. Enki sobers and, one by one, realizes what he has given — the great me, all of them — and sends his servants, then monstrous creatures, to seize the boat. Each time Ninshubur, Inanna's faithful vizier, fights them off.",
+     "note": "Paraphrase of ETCSL c.1.3.1, pursuit; not verbatim."
+    },
+    {
+     "id": "3",
+     "text": "The boat of heaven arrives at the quay of Kulaba, Uruk's temple precinct, and Inanna displays the me there for her city. Enki sends the flood to stop her; Ninshubur beats it back. Enki finally makes peace: the me shall remain in Uruk, and its powers are Inanna's to govern.",
+     "note": "Paraphrase of ETCSL c.1.3.1, arrival and peace; not verbatim."
+    }
+   ],
+   "persons": [
+    "inanna",
+    "enki",
+    "ninshubur"
+   ],
+   "functions": [
+    "Founding charter of Uruk's primacy among Sumerian cities",
+    "Performed at the Uruk new year as Inanna claims the me",
+    "Trickster myth of the goddess who wins civilization by charm",
+    "Etiology of the crafts, offices and arts as gifts from Eridu to Uruk"
+   ],
+   "variants": [
+    {
+     "name": "Enki decrees the world order",
+     "text_tradition": "Sumerian (ETCSL c.1.1.3)",
+     "summary": "A contrasting version where the me are allocated by Enki in counsel rather than seized at a feast.",
+     "cross_ref": "sumerian-enki-world-order"
+    },
+    {
+     "name": "Enuma Elish: gifts of office to Marduk",
+     "text_tradition": "Akkadian (Babylon)",
+     "summary": "The Babylonian parallel of powers conferred upon a rising god by the assembly.",
+     "cross_ref": "babylonian-enuma-marduk-chosen"
+    }
+   ],
+   "language": "Sumerian",
+   "canonical_translation": "ETCSL team translation, Oxford, 2003-2006",
+   "primary_sources": [
+    {
+     "work": "Inana and Enki",
+     "citation": "ETCSL c.1.3.1, trans. ETCSL team (2003-2006), lines 1-190",
+     "language": "Sumerian"
+    }
+   ],
+   "secondary_sources": [
+    {
+     "work": "Inanna, Queen of Heaven and Earth",
+     "citation": "Diane Wolkstein and Samuel Noah Kramer, New York, 1983"
+    }
+   ],
+   "source_urls": [
+    {
+     "url": "https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.1.3.1&charenc=j",
+     "description": "ETCSL c.1.3.1 text and translation",
+     "accessed": "2026-11-14"
+    }
+   ],
+   "sensitivity_flag": "none",
+   "provenance": {
+    "record_status": "complete",
+    "compiled": "2026-11-14",
+    "compiled_by": "opencode myth-collection session",
+    "review_status": "unreviewed"
+   }
+  },
+  {
+   "id": "sumerian-inanna-ebih-defiance",
+   "title": {
+    "en": "Inanna Defies the Mountain Ebih",
+    "zh": "伊南娜怒斥埃比赫山"
+   },
+   "tradition": "sumerian",
+   "category": "myth",
+   "region": {
+    "en": "Mountain Ebih, northeastern Iraq (symbolic pin at the Zagros foothills)",
+    "zh": "埃比赫山（象徵性定位於扎格羅斯山麓）"
+   },
+   "lat": 35.5,
+   "lon": 45.8,
+   "period": "Old Babylonian manuscript, c. 1700 BCE (ETCSL translation 2003)",
+   "source": {
+    "archive": "ETCSL (University of Oxford)",
+    "work": "Inana and Ebih (ETCSL c.1.3.2)",
+    "url": "https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.1.3.2&charenc=j"
+   },
+   "license": "ETCSL translation (Oxford, 2003-2006); quoted in paraphrase with attribution",
+   "summary": {
+    "en": "Inanna, exulting in the me she carries, passes the towering mountain Ebih; it does not bow, so she vows to destroy it. An warns her the mountain is too powerful and, past warning, will not be moved by his word.",
+    "zh": "伊南娜攜梅凱旋，途經巍峨的埃比赫山；山不俯首，她立誓毀之。安神勸誡：此山太過強大，恐難撼動。"
+   },
+   "motifs": [
+    "sacred-kingship",
+    "taboo-transgression",
+    "storm-thunder"
+   ],
+   "sensitivity": {
+    "restricted": false,
+    "note": "Ancient myth; no living community restrictions."
+   },
+   "passages": [
+    {
+     "id": "1",
+     "text": "Inanna, Lady of Heaven, descends from the sky and passes over the mountain Ebih. The mountain rises against her, does not prostrate itself, does not offer her the honor due a goddess; its peaks stand tall and its terraced slopes are full of power.",
+     "note": "Paraphrase of ETCSL c.1.3.2, opening provocation; not verbatim."
+    },
+    {
+     "id": "2",
+     "text": "Inanna turns to An: the mountain has not bowed to me — I will destroy its terraces, I will make its wheat no wheat. An answers carefully: the mountain is great and heavy, its slopes the dwelling of An's own dread; one cannot reach its rises or overturn it.",
+     "note": "Paraphrase of ETCSL c.1.3.2, Inanna's vow and An's counsel; not verbatim."
+    }
+   ],
+   "persons": [
+    "inanna",
+    "anu"
+   ],
+   "functions": [
+    "Hymn of Inanna's martial power performed in her temples",
+    "Political allegory of Uruk's wars against the eastern highlands",
+    "Theology of hubris: even the sky warns, the goddess does not hear"
+   ],
+   "variants": [
+    {
+     "name": "Inana and Gudam",
+     "text_tradition": "Sumerian (ETCSL c.1.3.4)",
+     "summary": "Another defier of Inanna, this one a monster of rivers, destroyed by her fury.",
+     "cross_ref": "sumerian-inanna-gudam"
+    }
+   ],
+   "language": "Sumerian",
+   "canonical_translation": "ETCSL team translation, Oxford, 2003-2006",
+   "primary_sources": [
+    {
+     "work": "Inana and Ebih",
+     "citation": "ETCSL c.1.3.2, trans. ETCSL team (2003-2006), lines 1-100",
+     "language": "Sumerian"
+    }
+   ],
+   "secondary_sources": [
+    {
+     "work": "The Harps that Once...",
+     "citation": "Thorkild Jacobsen, New Haven, 1987, 'Inanna's War' introduction"
+    }
+   ],
+   "source_urls": [
+    {
+     "url": "https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.1.3.2&charenc=j",
+     "description": "ETCSL c.1.3.2 text and translation",
+     "accessed": "2026-11-14"
+    }
+   ],
+   "sensitivity_flag": "none",
+   "provenance": {
+    "record_status": "complete",
+    "compiled": "2026-11-14",
+    "compiled_by": "opencode myth-collection session",
+    "review_status": "unreviewed"
+   }
+  },
+  {
+   "id": "sumerian-inanna-ebih-destroyed",
+   "title": {
+    "en": "Inanna Destroys the Mountain",
+    "zh": "伊南娜毀埃比赫山"
+   },
+   "tradition": "sumerian",
+   "category": "myth",
+   "region": {
+    "en": "Mountain Ebih, northeastern Iraq (symbolic pin)",
+    "zh": "埃比赫山（象徵性定位）"
+   },
+   "lat": 35.5,
+   "lon": 45.8,
+   "period": "Old Babylonian manuscript, c. 1700 BCE (ETCSL translation 2003)",
+   "source": {
+    "archive": "ETCSL (University of Oxford)",
+    "work": "Inana and Ebih, second half (ETCSL c.1.3.2)",
+    "url": "https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.1.3.2&charenc=j"
+   },
+   "license": "ETCSL translation (Oxford, 2003-2006); quoted in paraphrase with attribution",
+   "summary": {
+    "en": "Armed with weapons An gives despite himself, Inanna storms the mountain: she shatters its terraces, pours fire and flood over it, and reduces its wheat to dust. The poem ends with her glory and the mountain's silence.",
+    "zh": "安雖不願，仍授予武器；伊南娜突襲群山：毀其梯田，火與洪水傾瀉，麥盡化塵。詩末頌其榮光，山嶽無言。"
+   },
+   "motifs": [
+    "storm-thunder",
+    "sacred-kingship",
+    "world-renewal"
+   ],
+   "sensitivity": {
+    "restricted": false,
+    "note": "Ancient myth; no living community restrictions."
+   },
+   "passages": [
+    {
+     "id": "1",
+     "text": "Inanna arms herself with the weapons An gives her: the seventy arrows, the lance, the flood-storm, the storm-whirl. She rises against the mountain like a storm-cloud, opens the house of battle and pours out fury.",
+     "note": "Paraphrase of ETCSL c.1.3.2, arming; not verbatim."
+    },
+    {
+     "id": "2",
+     "text": "She shatters Ebih's terraces, cuts down its trees at the root, pours fire upon its slopes and water over its wheat until the grain is dust. The great mountain, full of dread, is made low; its people flee, its springs of water are stopped.",
+     "note": "Paraphrase of ETCSL c.1.3.2, destruction; not verbatim."
+    },
+    {
+     "id": "3",
+     "text": "Inanna stands on the mountain's stones and proclaims her deed: where the mountain was great and would not bow, now nothing is left. The hymn closes hailing the lady whose word was not refused — Ebih is her conquest and her proof.",
+     "note": "Paraphrase of ETCSL c.1.3.2, triumph; not verbatim."
+    }
+   ],
+   "persons": [
+    "inanna",
+    "anu"
+   ],
+   "functions": [
+    "Battle hymn performed for Inanna's war cult",
+    "Etiology of the smitten highlands and their tribute",
+    "Theology of Inanna as the unadvised power"
+   ],
+   "variants": [
+    {
+     "name": "Ninurta and Asag",
+     "text_tradition": "Sumerian (ETCSL c.1.6.2)",
+     "summary": "The male parallel of a god destroying a chaos mountain-demon.",
+     "cross_ref": "sumerian-ninurta-asag-battle"
+    }
+   ],
+   "language": "Sumerian",
+   "canonical_translation": "ETCSL team translation, Oxford, 2003-2006",
+   "primary_sources": [
+    {
+     "work": "Inana and Ebih",
+     "citation": "ETCSL c.1.3.2, trans. ETCSL team (2003-2006), lines 100-200",
+     "language": "Sumerian"
+    }
+   ],
+   "secondary_sources": [
+    {
+     "work": "Inanna, Queen of Heaven and Earth",
+     "citation": "Diane Wolkstein and Samuel Noah Kramer, New York, 1983"
+    }
+   ],
+   "source_urls": [
+    {
+     "url": "https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.1.3.2&charenc=j",
+     "description": "ETCSL c.1.3.2 text and translation",
+     "accessed": "2026-11-14"
+    }
+   ],
+   "sensitivity_flag": "none",
+   "provenance": {
+    "record_status": "complete",
+    "compiled": "2026-11-14",
+    "compiled_by": "opencode myth-collection session",
+    "review_status": "unreviewed"
+   }
+  },
+  {
+   "id": "sumerian-inanna-shukaletuda-crime",
+   "title": {
+    "en": "Shukaletuda's Crime in the Garden",
+    "zh": "舒卡萊圖達園中罪行"
+   },
+   "tradition": "sumerian",
+   "category": "myth",
+   "region": {
+    "en": "Gardens of Uruk, Iraq",
+    "zh": "烏魯克園圃（伊拉克）"
+   },
+   "lat": 31.324,
+   "lon": 45.637,
+   "period": "Old Babylonian manuscript, c. 1700 BCE (ETCSL translation 2003)",
+   "source": {
+    "archive": "ETCSL (University of Oxford)",
+    "work": "Inana and Sukale-tuda (ETCSL c.1.3.3)",
+    "url": "https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.1.3.3&charenc=j"
+   },
+   "license": "ETCSL translation (Oxford, 2003-2006); quoted in paraphrase with attribution",
+   "summary": {
+    "en": "Shukaletuda, an ignorant gardener's son, plants a tree in the desert and tends it against all advice; a single leaf gives him shade. When the exhausted Inanna sleeps in the shade, he violates her; she wakes and vows to find him, and hides him no corner of the earth can keep.",
+    "zh": "無知園丁之子舒卡萊圖達於荒漠植樹，不聽勸誡而悉心照料，僅得一片葉蔭。疲憊的伊南娜於蔭下沉睡，竟遭其玷污；她醒後立誓搜尋，普天之下無其藏身之處。"
+   },
+   "motifs": [
+    "taboo-transgression",
+    "boon-curse",
+    "sacred-kingship"
+   ],
+   "sensitivity": {
+    "restricted": false,
+    "note": "Ancient myth of sexual violence; presented as literary-historical material without endorsement."
+   },
+   "passages": [
+    {
+     "id": "1",
+     "text": "Shukaletuda, son of a gardener, plants a tree in the desert where his father says nothing will grow. Against advice he waters it, and one leaf grows. When Inanna, weary from the me's great work, lies down to sleep in the tree's single shade, the fool takes her while she sleeps.",
+     "note": "Paraphrase of ETCSL c.1.3.3, the crime; not verbatim."
+    },
+    {
+     "id": "2",
+     "text": "Inanna wakes and sees what was done to her in her sleep. Like a flood she pours out her wrath: who has done this to me? She searches the earth for him, and to every animal, every city, every corner she puts the question.",
+     "note": "Paraphrase of ETCSL c.1.3.3, the wrath; not verbatim."
+    }
+   ],
+   "persons": [
+    "inanna",
+    "shukaletuda"
+   ],
+   "functions": [
+    "Morality tale of sacrilege and its inescapable punishment",
+    "Warning text about the goddess's honor and vigilance",
+    "Etiology of the gardener's low status in temple economy"
+   ],
+   "variants": [
+    {
+     "name": "Inana and Gudam",
+     "text_tradition": "Sumerian (ETCSL c.1.3.4)",
+     "summary": "Another offender destroyed by Inanna's wrath.",
+     "cross_ref": "sumerian-inanna-gudam"
+    }
+   ],
+   "language": "Sumerian",
+   "canonical_translation": "ETCSL team translation, Oxford, 2003-2006",
+   "primary_sources": [
+    {
+     "work": "Inana and Sukale-tuda",
+     "citation": "ETCSL c.1.3.3, trans. ETCSL team (2003-2006), lines 1-160",
+     "language": "Sumerian"
+    }
+   ],
+   "secondary_sources": [
+    {
+     "work": "Inanna, Queen of Heaven and Earth",
+     "citation": "Diane Wolkstein and Samuel Noah Kramer, New York, 1983, discussion of the Shukaletuda episode"
+    }
+   ],
+   "source_urls": [
+    {
+     "url": "https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.1.3.3&charenc=j",
+     "description": "ETCSL c.1.3.3 text and translation",
+     "accessed": "2026-11-14"
+    }
+   ],
+   "sensitivity_flag": "none",
+   "provenance": {
+    "record_status": "complete",
+    "compiled": "2026-11-14",
+    "compiled_by": "opencode myth-collection session",
+    "review_status": "unreviewed"
+   }
+  },
+  {
+   "id": "sumerian-inanna-shukaletuda-vengeance",
+   "title": {
+    "en": "The Flight and Death of Shukaletuda",
+    "zh": "舒卡萊圖達逃亡與伏誅"
+   },
+   "tradition": "sumerian",
+   "category": "myth",
+   "region": {
+    "en": "Cities of Sumer, Iraq",
+    "zh": "蘇美諸城（伊拉克）"
+   },
+   "lat": 31.5,
+   "lon": 45.5,
+   "period": "Old Babylonian manuscript, c. 1700 BCE (ETCSL translation 2003)",
+   "source": {
+    "archive": "ETCSL (University of Oxford)",
+    "work": "Inana and Sukale-tuda, second half (ETCSL c.1.3.3)",
+    "url": "https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.1.3.3&charenc=j"
+   },
+   "license": "ETCSL translation (Oxford, 2003-2006); quoted in paraphrase with attribution",
+   "summary": {
+    "en": "Shukaletuda flees from city to city; Inanna blights the crops to starve him out, freezes the birds on the wing, and hunts him across Sumer. Found at last, he begs only to see the sun; she grants the sight, then executes him on the spot.",
+    "zh": "舒卡萊圖達一城又一城地逃亡；伊南娜摧毀莊稼斷其糧、凍凝飛鳥於半空，追索至蘇美全境。終被擒獲，他只求再看一眼太陽；她允其所請，隨即就地处決。"
+   },
+   "motifs": [
+    "taboo-transgression",
+    "boon-curse",
+    "storm-thunder"
+   ],
+   "sensitivity": {
+    "restricted": false,
+    "note": "Ancient myth; execution imagery belongs to the mythic register."
+   },
+   "passages": [
+    {
+     "id": "1",
+     "text": "Shukaletuda runs from city to city, and Inanna follows him with curses on the land: she blights the grain in the fields, stops the cattle in their folds, freezes the birds in the air — all Sumer starves with him in hiding.",
+     "note": "Paraphrase of ETCSL c.1.3.3, pursuit; not verbatim."
+    },
+    {
+     "id": "2",
+     "text": "At last found, Shukaletuda prays: let me at least see the sun before I die. Inanna answers with terrible justice — she grants the prayer and strikes him down in the sunlight. The poem closes hailing the goddess who leaves no outrage unavenged.",
+     "note": "Paraphrase of ETCSL c.1.3.3, capture and execution; not verbatim."
+    }
+   ],
+   "persons": [
+    "inanna",
+    "shukaletuda"
+   ],
+   "functions": [
+    "Culmination of the sacrilege-warning myth",
+    "Hymn to Inanna's justice performed in her cult",
+    "Etiology of blight as the goddess's pursuit made visible"
+   ],
+   "variants": [
+    {
+     "name": "Inana and Ebih",
+     "text_tradition": "Sumerian (ETCSL c.1.3.2)",
+     "summary": "The goddess's wrath against another defier.",
+     "cross_ref": "sumerian-inanna-ebih-destroyed"
+    }
+   ],
+   "language": "Sumerian",
+   "canonical_translation": "ETCSL team translation, Oxford, 2003-2006",
+   "primary_sources": [
+    {
+     "work": "Inana and Sukale-tuda",
+     "citation": "ETCSL c.1.3.3, trans. ETCSL team (2003-2006), lines 160-300",
+     "language": "Sumerian"
+    }
+   ],
+   "secondary_sources": [
+    {
+     "work": "The Harps that Once...",
+     "citation": "Thorkild Jacobsen, New Haven, 1987"
+    }
+   ],
+   "source_urls": [
+    {
+     "url": "https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.1.3.3&charenc=j",
+     "description": "ETCSL c.1.3.3 text and translation",
+     "accessed": "2026-11-14"
+    }
+   ],
+   "sensitivity_flag": "none",
+   "provenance": {
+    "record_status": "complete",
+    "compiled": "2026-11-14",
+    "compiled_by": "opencode myth-collection session",
+    "review_status": "unreviewed"
+   }
+  },
+  {
+   "id": "sumerian-inanna-gudam",
+   "title": {
+    "en": "Inanna and the River Monster Gudam",
+    "zh": "伊南娜與河怪古丹"
+   },
+   "tradition": "sumerian",
+   "category": "myth",
+   "region": {
+    "en": "Riverways of Sumer, Iraq",
+    "zh": "蘇美河渠（伊拉克）"
+   },
+   "lat": 31.5,
+   "lon": 45.5,
+   "period": "Old Babylonian manuscript, c. 1700 BCE (ETCSL translation 2003)",
+   "source": {
+    "archive": "ETCSL (University of Oxford)",
+    "work": "Inana and Gudam (ETCSL c.1.3.4)",
+    "url": "https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.1.3.4&charenc=j"
+   },
+   "license": "ETCSL translation (Oxford, 2003-2006); quoted in paraphrase with attribution",
+   "summary": {
+    "en": "Gudam, a monstrous horned one who comes down the river devouring everything, defies Inanna; she cuts him down and his blood dyes the water. The short battle poem celebrates her as the slayer of the river's terror.",
+    "zh": "河中巨怪古丹吞食萬物、公然挑釁伊南娜；她一刀斬之，其血染紅河水。短小的戰歌頌揚她為河川恐怖的誅除者。"
+   },
+   "motifs": [
+    "storm-thunder",
+    "sacred-kingship"
+   ],
+   "sensitivity": {
+    "restricted": false,
+    "note": "Ancient myth; no living community restrictions."
+   },
+   "passages": [
+    {
+     "id": "1",
+     "text": "Gudam, a horned monster of the river, comes down the waterways eating everything — trees, men, cattle — and defies the Lady of Heaven, challenging her power in her own city.",
+     "note": "Paraphrase of ETCSL c.1.3.4, the monster's defiance; not verbatim."
+    },
+    {
+     "id": "2",
+     "text": "Inanna seizes her weapons, strikes Gudam down, and his blood runs red in the river. The hymn ends with her praise as the terror of terrors, the power that keeps the waterways clean.",
+     "note": "Paraphrase of ETCSL c.1.3.4, the kill and closing hymn; not verbatim."
+    }
+   ],
+   "persons": [
+    "inanna"
+   ],
+   "functions": [
+    "Battle hymn of the Inanna cult",
+    "Etiology of the safe waterway and the slain river-demon"
+   ],
+   "variants": [
+    {
+     "name": "Ninurta and Asag",
+     "text_tradition": "Sumerian (ETCSL c.1.6.2)",
+     "summary": "Parallel god-versus-chaos battle.",
+     "cross_ref": "sumerian-ninurta-asag-battle"
+    }
+   ],
+   "language": "Sumerian",
+   "canonical_translation": "ETCSL team translation, Oxford, 2003-2006",
+   "primary_sources": [
+    {
+     "work": "Inana and Gudam",
+     "citation": "ETCSL c.1.3.4, trans. ETCSL team (2003-2006)",
+     "language": "Sumerian"
+    }
+   ],
+   "secondary_sources": [
+    {
+     "work": "Sumerian Mythology",
+     "citation": "Samuel Noah Kramer, Philadelphia, 1944"
+    }
+   ],
+   "source_urls": [
+    {
+     "url": "https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.1.3.4&charenc=j",
+     "description": "ETCSL c.1.3.4 text and translation",
+     "accessed": "2026-11-14"
+    }
+   ],
+   "sensitivity_flag": "none",
+   "provenance": {
+    "record_status": "complete",
+    "compiled": "2026-11-14",
+    "compiled_by": "opencode myth-collection session",
+    "review_status": "unreviewed"
+   }
+  },
+  {
+   "id": "sumerian-inanna-an-heaven",
+   "title": {
+    "en": "Inanna Takes Over Heaven",
+    "zh": "伊南娜接管天庭"
+   },
+   "tradition": "sumerian",
+   "category": "myth",
+   "region": {
+    "en": "E-ana temple, Uruk, Iraq",
+    "zh": "烏魯克埃安那神殿（伊拉克）"
+   },
+   "lat": 31.324,
+   "lon": 45.637,
+   "period": "Old Babylonian manuscript, c. 1700 BCE (ETCSL translation 2003)",
+   "source": {
+    "archive": "ETCSL (University of Oxford)",
+    "work": "Inana and An (ETCSL c.1.3.5)",
+    "url": "https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.1.3.5&charenc=j"
+   },
+   "license": "ETCSL translation (Oxford, 2003-2006); quoted in paraphrase with attribution",
+   "summary": {
+    "en": "An dwells in Inanna's house at Uruk and grows homesick for heaven; she seizes the chance — when he tries to leave, she demands the E-ana for herself, and heaven grants the ambitious goddess both temple and city in perpetuity.",
+    "zh": "安居於烏魯克伊南娜神殿的安神思念上天；欲歸之際，伊南娜趁機索求埃安那神殿——天庭允之，野心之神遂永享殿宇與城池。"
+   },
+   "motifs": [
+    "sacred-kingship",
+    "trickster",
+    "divine-marriage"
+   ],
+   "sensitivity": {
+    "restricted": false,
+    "note": "Ancient myth; no living community restrictions."
+   },
+   "passages": [
+    {
+     "id": "1",
+     "text": "An comes down from heaven to lodge in the E-ana, Inanna's temple at Uruk, and enjoys its beds and beer; but at night he misses heaven and longs to go back up.",
+     "note": "Paraphrase of ETCSL c.1.3.5, An's visit; not verbatim."
+    },
+    {
+     "id": "2",
+     "text": "When An announces his departure, Inanna's people weep — for with An gone, no blessings remain. Inanna seizes the moment and demands the temple as her own; An, half in affection, half in haste to be gone, gives it to her with its destinies: the E-ana shall be Inanna's house forever.",
+     "note": "Paraphrase of ETCSL c.1.3.5, the transfer; not verbatim."
+    },
+    {
+     "id": "3",
+     "text": "The poem ends with Inanna's glory: she has taken heaven's own residence for her city, and the gods serve her in it. Uruk's temple, the E-ana, becomes the meeting place of heaven and earth.",
+     "note": "Paraphrase of ETCSL c.1.3.5, closing hymn; not verbatim."
+    }
+   ],
+   "persons": [
+    "inanna",
+    "anu"
+   ],
+   "functions": [
+    "Founding charter of the E-ana temple at Uruk",
+    "Mythic projection of Uruk's cultic primacy",
+    "Performed at Inanna's festivals as the temple's legitimation"
+   ],
+   "variants": [
+    {
+     "name": "Inana and Enki (the me)",
+     "text_tradition": "Sumerian (ETCSL c.1.3.1)",
+     "summary": "The complementary charter in which Inanna wins civilization's powers from Eridu.",
+     "cross_ref": "sumerian-inanna-enki-me"
+    }
+   ],
+   "language": "Sumerian",
+   "canonical_translation": "ETCSL team translation, Oxford, 2003-2006",
+   "primary_sources": [
+    {
+     "work": "Inana and An",
+     "citation": "ETCSL c.1.3.5, trans. ETCSL team (2003-2006)",
+     "language": "Sumerian"
+    }
+   ],
+   "secondary_sources": [
+    {
+     "work": "Inanna, Queen of Heaven and Earth",
+     "citation": "Diane Wolkstein and Samuel Noah Kramer, New York, 1983"
+    }
+   ],
+   "source_urls": [
+    {
+     "url": "https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.1.3.5&charenc=j",
+     "description": "ETCSL c.1.3.5 text and translation",
+     "accessed": "2026-11-14"
+    }
+   ],
+   "sensitivity_flag": "none",
+   "provenance": {
+    "record_status": "complete",
+    "compiled": "2026-11-14",
+    "compiled_by": "opencode myth-collection session",
+    "review_status": "unreviewed"
+   }
+  },
+  {
+   "id": "sumerian-inanna-huluppu-tree",
+   "title": {
+    "en": "Inanna and the Huluppu Tree",
+    "zh": "伊南娜與胡盧普樹"
+   },
+   "tradition": "sumerian",
+   "category": "myth",
+   "region": {
+    "en": "Banks of the Euphrates, Uruk, Iraq",
+    "zh": "幼發拉底河畔烏魯克（伊拉克）"
+   },
+   "lat": 31.324,
+   "lon": 45.637,
+   "period": "Old Babylonian manuscript, c. 1700 BCE (ETCSL translation 2003)",
+   "source": {
+    "archive": "ETCSL (University of Oxford)",
+    "work": "Gilgamesh, Enkidu and the Nether World, opening (ETCSL c.1.8.1.4)",
+    "url": "https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.1.8.1.4&charenc=j"
+   },
+   "license": "ETCSL translation (Oxford, 2003-2006); quoted in paraphrase with attribution",
+   "summary": {
+    "en": "A willow pulled from the Euphrates is planted by Inanna in her garden and grows a crown; a serpent, an Anzu-bird and a ghost-maiden lodge in it. Gilgamesh drives them out, fells the tree, and from its wood makes Inanna's throne and bed — and a drum for himself.",
+    "zh": "伊南娜自幼發拉底河拔得一株胡盧普樹植於園中；蛇、安祖鳥與魅女相繼棲於其內。吉爾伽美什逐之、伐之，以其木為伊南娜製御座與寢床，並為自己製鼓。"
+   },
+   "motifs": [
+    "sacred-place",
+    "culture-hero",
+    "transformation"
+   ],
+   "sensitivity": {
+    "restricted": false,
+    "note": "Ancient myth; no living community restrictions."
+   },
+   "passages": [
+    {
+     "id": "1",
+     "text": "In those days, a single tree grew by the Euphrates; the south wind uprooted it, and Inanna walking by took it and planted it in her garden, watered it with her hand, waiting for it to grow into a throne and a bed.",
+     "note": "Paraphrase of ETCSL c.1.8.1.4, opening; not verbatim."
+    },
+    {
+     "id": "2",
+     "text": "But at the tree's crown a serpent built its nest, the Anzu-bird set its young in the branches, and in its heart the dark phantom-maiden raised her house. Inanna wept — her tree was taken and she could not cut it down.",
+     "note": "Paraphrase of ETCSL c.1.8.1.4, the squatters; not verbatim."
+    },
+    {
+     "id": "3",
+     "text": "Gilgamesh her brother came: he slew the serpent at the tree's base, drove out the bird and the maiden to their homes, felled the willow, and from its heartwood made Inanna's throne and bed; of the rest he made the drum for the young men of Uruk.",
+     "note": "Paraphrase of ETCSL c.1.8.1.4, the rescue and carpentry; not verbatim."
+    }
+   ],
+   "persons": [
+    "inanna",
+    "gilgamesh",
+    "anzu"
+   ],
+   "functions": [
+    "Etiology of Inanna's throne and bed in the E-ana",
+    "Etiology of Gilgamesh's ceremonial drum",
+    "Miniature cosmogony introducing the netherworld poem"
+   ],
+   "variants": [
+    {
+     "name": "Gilgamesh, Enkidu and the Nether World",
+     "text_tradition": "Sumerian (ETCSL c.1.8.1.4)",
+     "summary": "The full poem continues into the ball-in-the-netherworld story.",
+     "cross_ref": "sumerian-gilgamesh-netherworld"
+    }
+   ],
+   "language": "Sumerian",
+   "canonical_translation": "ETCSL team translation, Oxford, 2003-2006",
+   "primary_sources": [
+    {
+     "work": "Gilgamesh, Enkidu and the Nether World",
+     "citation": "ETCSL c.1.8.1.4, trans. ETCSL team (2003-2006), lines 1-56",
+     "language": "Sumerian"
+    }
+   ],
+   "secondary_sources": [
+    {
+     "work": "Gods, Demons and Symbols of Ancient Mesopotamia",
+     "citation": "Jeremy Black and Anthony Green, London, 1992, entry 'Inana'"
+    }
+   ],
+   "source_urls": [
+    {
+     "url": "https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.1.8.1.4&charenc=j",
+     "description": "ETCSL c.1.8.1.4 text and translation",
+     "accessed": "2026-11-14"
+    }
+   ],
+   "sensitivity_flag": "none",
+   "provenance": {
+    "record_status": "complete",
+    "compiled": "2026-11-14",
+    "compiled_by": "opencode myth-collection session",
+    "review_status": "unreviewed"
+   }
+  },
+  {
+   "id": "sumerian-enheduanna-ninmesara",
+   "title": {
+    "en": "Enheduanna's Exaltation of Inanna",
+    "zh": "恩海杜安娜：頌揚伊南娜"
+   },
+   "tradition": "sumerian",
+   "category": "myth",
+   "region": {
+    "en": "Ur and Nippur, Iraq",
+    "zh": "烏爾與尼普魯（伊拉克）"
+   },
+   "lat": 30.963,
+   "lon": 46.106,
+   "period": "Sargonic period poem, c. 2300 BCE (ETCSL translation 2003)",
+   "source": {
+    "archive": "ETCSL (University of Oxford)",
+    "work": "A hymn to Inana: Nin-me-sara (ETCSL c.4.07.2)",
+    "url": "https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.4.07.2&charenc=j"
+   },
+   "license": "ETCSL translation (Oxford, 2003-2006); quoted in paraphrase with attribution",
+   "summary": {
+    "en": "The world's first signed author, Enheduanna, priestess of Nanna at Ur, praises Inanna as the power who turns An's own lesser gods from her and raises the exiled priestess back to her temple — the hymn ends with her restoration and Inanna's glory.",
+    "zh": "世上第一位署名作者——烏爾月神祭司恩海杜安娜——頌揚伊南娜之權能：她能令安神座下諸神背離他人，亦能令被逐的祭司重返聖殿；頌詩以復位與神榮作結。"
+   },
+   "motifs": [
+    "sacred-kingship",
+    "theophany",
+    "boon-curse"
+   ],
+   "sensitivity": {
+    "restricted": false,
+    "note": "Ancient hymn by a named historical author; no living community restrictions."
+   },
+   "passages": [
+    {
+     "id": "1",
+     "text": "Lady of all the me, radiant Inanna: you have taken up the great powers and turn the Anuna gods from whoever offends you. Before you, the great rites themselves grow silent; cities and temples obey your word.",
+     "note": "Paraphrase of ETCSL c.4.07.1, opening praise; not verbatim."
+    },
+    {
+     "id": "2",
+     "text": "Enheduanna speaks in the first person: exiled from her temple by Lugalanne, driven from Ur and Nippur, she is made to walk the waste; her gifts rejected, her rites despised, she prays to Inanna — not to the moon god her father — to judge the rebels.",
+     "note": "Paraphrase of ETCSL c.4.07.1, the exile; not verbatim."
+    },
+    {
+     "id": "3",
+     "text": "Inanna hears and acts: the usurper is brought low, and the priestess returns to her temple. The hymn closes with the first signature in world literature: Enheduanna, en-priestess of Nanna, has composed this exaltation of Inanna.",
+     "note": "Paraphrase of ETCSL c.4.07.1, restoration and signature; not verbatim."
+    }
+   ],
+   "persons": [
+    "inanna",
+    "nanna-suen",
+    "enlil"
+   ],
+   "functions": [
+    "Political hymn asserting Inanna's supremacy for the Akkadian dynasty",
+    "Autobiographical prayer of restoration used in the en-priestess cult",
+    "Foundational text of authored literature in world history"
+   ],
+   "variants": [
+    {
+     "name": "Inana and Ebih",
+     "text_tradition": "Sumerian (ETCSL c.1.3.2)",
+     "summary": "Mythic counterpart of the hymn's claim that even the sky god's realm yields to Inanna.",
+     "cross_ref": "sumerian-inanna-ebih-defiance"
+    }
+   ],
+   "language": "Sumerian",
+   "canonical_translation": "ETCSL team translation, Oxford, 2003-2006",
+   "primary_sources": [
+    {
+     "work": "Nin-me-sara (A hymn to Inana)",
+     "citation": "ETCSL c.4.07.1, trans. ETCSL team (2003-2006), lines 1-137",
+     "language": "Sumerian"
+    }
+   ],
+   "secondary_sources": [
+    {
+     "work": "Enheduanna: A Sumerian Cylinder Reunited",
+     "citation": "J. J. A. van Dijk and Werner R. Mayer, Philadelphia, 1980"
+    }
+   ],
+   "source_urls": [
+    {
+     "url": "https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.4.07.2&charenc=j",
+     "description": "ETCSL c.4.07.1 text and translation",
+     "accessed": "2026-11-14"
+    }
+   ],
+   "sensitivity_flag": "none",
+   "provenance": {
+    "record_status": "complete",
+    "compiled": "2026-11-14",
+    "compiled_by": "opencode myth-collection session",
+    "review_status": "unreviewed"
+   }
+  }
+ ]
+}

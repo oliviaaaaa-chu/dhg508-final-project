@@ -1,0 +1,419 @@
+{
+  "texts": [
+    {
+      "id": "inuit-ikardlituarssuk-seal-mother",
+      "title": {
+        "en": "Ikardlituarssuk and the Weeping Mother of Seals",
+        "zh": "伊卡利圖亞舒克與泣涕的海豹之母"
+      },
+      "tradition": "inuit",
+      "category": "myth",
+      "region": {
+        "en": "South Greenland (Cape Farewell district)",
+        "zh": "南格陵蘭（費爾韋爾角一帶）"
+      },
+      "lat": 60.0,
+      "lon": -43.5,
+      "period": "Inuit oral tradition (South Greenland); collected by Knud Rasmussen, published 1921",
+      "source": {
+        "archive": "Project Gutenberg",
+        "work": "Knud Rasmussen (collector), Eskimo Folk-Tales, ed. and rendered into English by W. J. Alexander Worster (Gyldendal, 1921), 'Ikardlituarssuk', eBook #28932",
+        "url": "https://www.gutenberg.org/cache/epub/28932/pg28932.txt"
+      },
+      "license": "Public domain (English rendering 1921)",
+      "summary": {
+        "en": "When famine freezes the sea solid, the village promises a new kayak paddle to whoever can magic it away. Ikardlituarssuk calls his helping spirits, creeps through a crack between land and ice, and walks the sea bottom — past sharks lying in the weed — to the lamp-lit house of Tornarssuk's mother, a weeping woman from behind whose ears fall strange things while birds dive in her lamp and seals bob about the house. Tickled out of her tears, she frees the birds and sends the seals swimming out, asking only a young seal's hide for breeches — and the next day the sea is dark with open water.",
+        "zh": "海冰封港、大饑之年，村人懸新槳為賞。伊卡利圖亞舒克召喚靈助，自陸冰之隙潛入，徒步海床——過伏於海藻間的鯊群——至燈下啜泣的托那舒克之母家中。她耳後落出奇物，燈內群鳥潛游，屋中海豹浮沉。少年竭力搔癢逗她破涕，她便放出群鳥、遣出海豹，只求一幼豹之皮做褲。翌日海色轉暗，堅冰盡去。"
+      },
+      "motifs": [
+        "descent-underworld",
+        "otherworld-voyage",
+        "taboo-transgression",
+        "boon-curse"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "South Greenland tale recorded by Rasmussen, 1910s. Tornarssuk (the great bear spirit of the inland) is a major figure of Greenlandic shamanism."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "One autumn the sea froze right out from the coast without a speck of open water, and famine came; the fellow-villagers offered a new kayak paddle as reward to whoever could magic it away, but there was no wizard in the village. Then Ikardlituarssuk's little brother began to coax him — how very nice it would be to win that new paddle — and it was revealed that Ikardlituarssuk had once sat on the knee of a wizard while helping spirits were called. One evening he called up his helping spirits, went down to the water's edge, crept in through a crack between the land and the ice, and started off walking along the bottom of the sea.",
+          "note": "Paraphrase of Knud Rasmussen, Eskimo Folk-Tales (Worster 1921), 'Ikardlituarssuk'; not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Walking along, he saw what seemed dogs lying among the seaweed — they were sharks. Then he saw a little house, its entrance narrow as the edge of a woman's knife, and got in that way. Inside sat the mother of Tornarssuk, the spirit who lived down there, weeping by her lamp. Picking behind her ears, she threw down many strange things; inside her lamp many birds dived down, and inside the house many seals bobbed up. The visitor began tickling the weeping woman as hard as he could to encourage her, and at last she was encouraged: she freed a number of the birds and made a sign for many of the seals to swim out of the house. One fjord seal she liked so much that she plucked a few hairs from its back, to have it for breeches when it was caught, and went home to rest without a word.",
+          "note": "Paraphrase of Knud Rasmussen, Eskimo Folk-Tales (Worster 1921), 'Ikardlituarssuk'; not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "Next morning the sea ahead was quite dark and all the ice had gone. The woman warned the villagers: 'Do not kill more than one; if any of you should kill two, he will never kill again.' And: 'If any of you should catch a young fjord seal with a bare patch on its back, you must give it to me to make breeches.' Each hunter made a catch that day; only one had caught two — and that man never caught a seal again for the rest of his life, while all the others always made their catch, some several at a time. Thus Ikardlituarssuk, with his little brother cheering him on, won the new paddle as the reward.",
+          "note": "Paraphrase of Knud Rasmussen, Eskimo Folk-Tales (Worster 1921), 'Ikardlituarssuk'; not verbatim."
+        }
+      ],
+      "persons": []
+    },
+    {
+      "id": "inuit-raven-wanted-wife",
+      "title": {
+        "en": "The Raven Who Wanted a Wife",
+        "zh": "求婚的渡鴉"
+      },
+      "tradition": "inuit",
+      "category": "myth",
+      "region": {
+        "en": "Upernivik, North Greenland",
+        "zh": "北格陵蘭烏珀納維克"
+      },
+      "lat": 71.0,
+      "lon": -52.0,
+      "period": "Inuit oral tradition (Upernivik, North Greenland); collected by Knud Rasmussen, published 1921",
+      "source": {
+        "archive": "Project Gutenberg",
+        "work": "Knud Rasmussen (collector), Eskimo Folk-Tales, ed. and rendered into English by W. J. Alexander Worster (Gyldendal, 1921), 'The Raven who wanted a wife', eBook #28932",
+        "url": "https://www.gutenberg.org/cache/epub/28932/pg28932.txt"
+      },
+      "license": "Public domain (English rendering 1921)",
+      "summary": {
+        "en": "A mourning sparrow rejects the raven's boastful suit — his fine forehead, long beard, big beak, and offal dinners — so the lovesick raven flies off to court the wild geese. They warn that no one can fly with them who cannot rest on water, but the raven vows to sail through the air. Weary and sleepless, he cries for something to rest on; his two goose wives sit side by side for him, then drop the sleeping suitor into the sea. Drowned, he breaks into little pieces, and his soul becomes the little sea ravens.",
+        "zh": "麻雀泣亡夫，渡鴉自誇額闊鬚長、巨喙威風，許以穢物為食，求婚遭拒。痴情的渡鴉改向雁群求愛，雁群警告：不能浮水者勿同行；渡鴉自詡可以翱翔不歇。疲憊難眠之際，他喊要歇腳處——兩位雁妻並肩落水相讓，卻趁他入睡將他棄於海中。渡鴉溺斃碎裂，魂化為小海鴉。"
+      },
+      "motifs": [
+        "trickster",
+        "transformation",
+        "parable-teaching",
+        "raven-trickster"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Upernivik (North Greenland) bird tale recorded by Rasmussen, 1910s. Raven as comic braggart is a standard figure of Greenlandic animal tales."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "A little sparrow was mourning her lost husband, who used to catch worms for her. As she wept, a raven came up and asked why. 'It is not fitting for one to weep who can hop over high blades of grass,' he told her, and proposed himself: 'Take me for a husband; I have a fine high forehead, broad temples, a long beard and a big beak; you shall sleep under my wings, and I will give you lovely offal to eat.' The sparrow refused: 'You have a high forehead, broad temples, a long beard and a big beak, and will give me offal to eat.'",
+          "note": "Paraphrase of Knud Rasmussen, Eskimo Folk-Tales (Worster 1921), 'The Raven who wanted a wife'; not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "So the raven flew away to seek a wife among the wild geese, so lovesick he could not sleep. The geese were just preparing to fly away to other lands. 'Seeing that a miserable sparrow has refused me, I will have you,' he told two of them; they warned him that none could go with them who could not swim or rest upon the surface of the water, for there were no icebergs along the way — but he vowed he would sail through the air. The geese flew, the raven with them, and very soon he felt himself sinking from weariness and lack of sleep.",
+          "note": "Paraphrase of Knud Rasmussen, Eskimo Folk-Tales (Worster 1921), 'The Raven who wanted a wife'; not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "'Something to rest on!' gasped the raven. 'Sit you down side by side' — and his two wives sat down together on the water while their comrades flew on. The raven sat on them and fell asleep; but when the geese saw the others flying farther and farther away, they dropped the raven into the sea and flew off after their flock. 'Something to rest on!' he gasped as he fell, and at last went to the bottom and was drowned. After a while he broke up into little pieces, and his soul was turned into little sea ravens.",
+          "note": "Paraphrase of Knud Rasmussen, Eskimo Folk-Tales (Worster 1921), 'The Raven who wanted a wife'; not verbatim."
+        }
+      ],
+      "persons": []
+    },
+    {
+      "id": "inuit-vixen-wife",
+      "title": {
+        "en": "The Man Who Took a Vixen to Wife",
+        "zh": "娶母狐為妻者"
+      },
+      "tradition": "inuit",
+      "category": "myth",
+      "region": {
+        "en": "West Greenland coast",
+        "zh": "西格陵蘭沿岸"
+      },
+      "lat": 69.2,
+      "lon": -51.1,
+      "period": "Inuit oral tradition (West Greenland); collected by Knud Rasmussen, published 1921",
+      "source": {
+        "archive": "Project Gutenberg",
+        "work": "Knud Rasmussen (collector), Eskimo Folk-Tales, ed. and rendered into English by W. J. Alexander Worster (Gyldendal, 1921), 'The man who took a Vixen to wife', eBook #28932",
+        "url": "https://www.gutenberg.org/cache/epub/28932/pg28932.txt"
+      },
+      "license": "Public domain (English rendering 1921)",
+      "summary": {
+        "en": "Wanting a wife unlike all others, a man marries a vixen who sheds her skin into a beautiful woman with a tail-turned top-knot. After wife-swapping, the borrower scorns her foxy smell; enraged, she knocks out the lamp with her tail and flees to the hills to live with a worm in human form — the soul of a worm the man once burned, its burn marks still in its face. The man masters the worm at arm-pulling, then wanders to the tiny shore-dwellers, dwarfs who call the eider duck walrus, and shares a 'mighty walrus' fore-flipper that is only an eider's wing.",
+        "zh": "欲娶奇妻的男子捕捉母狐成婚；狐婦脫去皮毛，化作頂結如尾的美人。換妻之俗中，借宿者嫌她狐騷難聞；她怒極，以尾擊熄油燈，遁入山中和一條化為人形的蠕蟲同住——那正是男子昔年燒死的蟲魂，臉上燒痕猶在。男子角力勝蟲，遠行至岸邊小人族——他們稱絨鴨為海象——共享『巨大海象』的肩肉，其實不過是絨鴨一翼。"
+      },
+      "motifs": [
+        "transformation",
+        "sibling-creators",
+        "otherworld-voyage",
+        "offended-deity"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "West Greenland tale recorded by Rasmussen, 1910s. Wife-exchange described as the source community's custom of its era; recorded without endorsement."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "There was once a man who wished to have a wife unlike all other wives, and so he caught a little fox, a vixen, and took it home to his tent. Returning one day from hunting, he found his little fox-wife become a real woman, a lovely top-knot made of what had been her tail, the furry skin taken off — very beautiful indeed. She longed to see other people, and they settled at a place where one of the men had taken a little hare to wife; the two men thought it a pleasant thing to change wives, and did so.",
+          "note": "Paraphrase of Knud Rasmussen, Eskimo Folk-Tales (Worster 1921), 'The man who took a Vixen to wife'; not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "The borrower began to feel scorn of her after living with her a little while: she had a foxy smell, and did not taste nice. Noticing this, the little vixen was very angry, for it was her great desire to be well thought of by the men. She knocked out the lamp with her tail, dashed out of the house, and fled far up into the hills, where she met a worm and stayed with him. Her fond husband searched long and found her at last, living with the worm in human form — and it was revealed that this worm was the man's old enemy: the soul of a worm he had once burned, the marks of burning still in its face. The worm challenged him to pull arms; the man found him easy to master and won, then went out no longer caring for his wife at all.",
+          "note": "Paraphrase of Knud Rasmussen, Eskimo Folk-Tales (Worster 1921), 'The man who took a Vixen to wife'; not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "He wandered far and came to the shore-dwellers, whose houses stood on the shore just by high-water mark: small houses, dwarf people who called the eider duck walrus, looking just like men and not at all dangerous — folk our forefathers knew, the teller says, though we never see such now. To enter the stone-roofed house the great wizard made himself quite small, and they set before him the whole fore-flipper of a mighty walrus, which was really nothing more than the wing of an eider duck; they fell to upon it and ate, but did not eat it all up. After staying some time he went back to his house, and there is no more to tell of him.",
+          "note": "Paraphrase of Knud Rasmussen, Eskimo Folk-Tales (Worster 1921), 'The man who took a Vixen to wife'; not verbatim."
+        }
+      ],
+      "persons": []
+    },
+    {
+      "id": "inuit-great-bear-qilugtussat",
+      "title": {
+        "en": "The Great Bear and the Barking-Dog Stars",
+        "zh": "大熊與犬吠之星"
+      },
+      "tradition": "inuit",
+      "category": "myth",
+      "region": {
+        "en": "Smith Sound, Polar Eskimo country, Northwest Greenland",
+        "zh": "西北格陵蘭史密斯海峽極地因紐特之地"
+      },
+      "lat": 78.4,
+      "lon": -74.0,
+      "period": "Inuit oral tradition (Polar Eskimo, Smith Sound); collected by Knud Rasmussen, published 1921",
+      "source": {
+        "archive": "Project Gutenberg",
+        "work": "Knud Rasmussen (collector), Eskimo Folk-Tales, ed. and rendered into English by W. J. Alexander Worster (Gyldendal, 1921), 'The great bear', eBook #28932",
+        "url": "https://www.gutenberg.org/cache/epub/28932/pg28932.txt"
+      },
+      "license": "Public domain (English rendering 1921)",
+      "summary": {
+        "en": "A grieving mother, running from her dead child, shelters with bears in human form and is fed by a big bear-hunter who begs her never to speak of them to men, for fear for his two cubs. Homesick, she blurts out 'I have seen bears,' sledges drive out, and the father bear bites his own cubs to death so they will not fall into men's hands, then tears the betrayer to death. As he breaks out, the dogs that close upon him become wonderfully bright and rise up as stars — the Qilugtussat, the barking dogs about a bear — and men learn to beware of bears, for they hear what men say.",
+        "zh": "喪子而逃的婦人借宿於人形的熊家，大熊日日出獵養家，並求她回去後切勿向人言及，免兩隻小熊遭害。思鄉的她終究忍不住說出『我見過熊』——雪橇出動，公熊不忍幼子落入人手，親自咬死二子，再撲殺洩密的婦人；破屋而出時，群犬圍攻，卻忽然亮起升天化星——那便是環繞大熊的犬吠之星。從此人方知：熊能聽懂人言。"
+      },
+      "motifs": [
+        "constellation-origin",
+        "taboo-transgression",
+        "transformation",
+        "origin-of-death",
+        "betrayal"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Polar Eskimo (Inughuit) star-lore recorded by Rasmussen, 1910s. Qilugtussat is identified with stars about the Great Bear in the source."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "A woman ran away from her home because her child had died, and on her way came to a house with bearskins lying in the passage way; she went in, and the people who lived there were bears in human form. Yet for all that she stayed with them. One big bear used to go out hunting to find food for the household, putting on its skin and staying away long, always returning with some catch. One day the runaway woman grew homesick and greatly desired to see her kin, and the bear spoke to her: 'Do not speak of us when you return to men' — for it was afraid lest its two cubs should be killed by the men.",
+          "note": "Paraphrase of Knud Rasmussen, Eskimo Folk-Tales (Worster 1921), 'The great bear'; not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Home again, she felt a great desire to tell what she had seen, and one day, sitting with her husband in the house, said: 'I have seen bears.' Many sledges drove out, and when the bear saw them coming towards its house it felt so sorry for its cubs that it bit them to death, that they might not fall into the hands of men; then dashed out to find the woman who had betrayed it, broke into her house, and bit her to death. When it came out, the dogs closed round it and fell upon it — and suddenly all of them became wonderfully bright and rose up to the sky in the form of stars. These are the Qilugtussat, the stars which look like barking dogs about a bear. Since then men have learned to beware of bears, for they hear what men say.",
+          "note": "Paraphrase of Knud Rasmussen, Eskimo Folk-Tales (Worster 1921), 'The great bear'; not verbatim."
+        }
+      ],
+      "persons": []
+    },
+    {
+      "id": "inuit-man-became-star",
+      "title": {
+        "en": "The Man Who Became a Star: Nalaussartoq",
+        "zh": "化星者：佇聽之星"
+      },
+      "tradition": "inuit",
+      "category": "myth",
+      "region": {
+        "en": "Smith Sound, Polar Eskimo country, Northwest Greenland",
+        "zh": "西北格陵蘭史密斯海峽極地因紐特之地"
+      },
+      "lat": 78.4,
+      "lon": -74.0,
+      "period": "Inuit oral tradition (Polar Eskimo, Smith Sound); collected by Knud Rasmussen, published 1921",
+      "source": {
+        "archive": "Project Gutenberg",
+        "work": "Knud Rasmussen (collector), Eskimo Folk-Tales, ed. and rendered into English by W. J. Alexander Worster (Gyldendal, 1921), 'The man who became a star', eBook #28932",
+        "url": "https://www.gutenberg.org/cache/epub/28932/pg28932.txt"
+      },
+      "license": "Public domain (English rendering 1921)",
+      "summary": {
+        "en": "Children playing in a ravine time after time frighten away an old man's seal; at last he cries 'Close up, Ravine!' and the hillside shuts them in. Trapped, they lick water poured down a crack and die of hunger, and the neighbours who fall upon the sorcerer chase him — until he becomes bright and rises to heaven as a great star. It is Nalaussartoq, 'he who stands and listens,' low in the western sky when the lights return after the great darkness.",
+        "zh": "谷中嬉戲的孩子屢屢驚走老人的海豹；老人怒喊『合上吧，山谷！』山坡應聲閉合。孩童受困谷中，僅能舔食石縫滴下的水，終餓死。鄰人起而追討術者，他逃竄之際忽然發光，升天化為大星——即『佇聽之星』納勞薩托克，於長夜初盡時低懸西天，永不高升。"
+      },
+      "motifs": [
+        "constellation-origin",
+        "taboo-transgression",
+        "transformation"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Polar Eskimo (Inughuit) star-lore recorded by Rasmussen, 1910s. Source note identifies the star as Venus."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "An old man stood out on the ice waiting for seal to come up to their breathing holes, while on the shore opposite a crowd of children played in a ravine, time after time frightening away a seal just as he was about to harpoon it. At last he grew angry at the spoiled catch and cried out: 'Close up, Ravine, over those who are spoiling my hunting' — and at once the hillside closed over the children at play. One of them, carrying a little brother, had her fur coat torn in the closing. Trapped inside, they fell to screaming; none could bring them food, only water poured down a crack, which they licked from the sides, and at last they all died of hunger.",
+          "note": "Paraphrase of Knud Rasmussen, Eskimo Folk-Tales (Worster 1921), 'The man who became a star'; not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "The neighbours fell upon the old man who had shut the children up by magic in the hill, and he took to flight with the others running after him. But all at once he became bright and rose up to heaven as a great star — visible now in the west when the lights begin to return after the great darkness, low down, never climbing high in the sky. We call it Nalaussartoq, the teller says: he who stands and listens.",
+          "note": "Paraphrase of Knud Rasmussen, Eskimo Folk-Tales (Worster 1921), 'The man who became a star'; not verbatim."
+        }
+      ],
+      "persons": []
+    },
+    {
+      "id": "inuit-woman-iron-tail",
+      "title": {
+        "en": "The Woman with the Iron Tail",
+        "zh": "鐵尾婦人"
+      },
+      "tradition": "inuit",
+      "category": "myth",
+      "region": {
+        "en": "Smith Sound, Polar Eskimo country, Northwest Greenland",
+        "zh": "西北格陵蘭史密斯海峽極地因紐特之地"
+      },
+      "lat": 78.4,
+      "lon": -74.0,
+      "period": "Inuit oral tradition (Polar Eskimo, Smith Sound); collected by Knud Rasmussen, published 1921",
+      "source": {
+        "archive": "Project Gutenberg",
+        "work": "Knud Rasmussen (collector), Eskimo Folk-Tales, ed. and rendered into English by W. J. Alexander Worster (Gyldendal, 1921), 'The woman with the iron tail', eBook #28932",
+        "url": "https://www.gutenberg.org/cache/epub/28932/pg28932.txt"
+      },
+      "license": "Public domain (English rendering 1921)",
+      "summary": {
+        "en": "An iron-tailed man-eater waits for her guests to fall asleep, then leaps into the air to fall upon them, piercing them through with her tail. One visitor only feigns sleep, sidesteps, and lets her break the tail on a stone; fleeing to his kayak, he out-magics her with words alone — 'Oh, if only I could send my harpoon through her' — and such is the power of spoken wishes that she falls dead on the spot, her killing days over.",
+        "zh": "鐵尾食人婦專候客睡熟，騰空躍起以尾刺穿而食。一名訪客佯睡側身，讓她砸斷鐵尾於石上；逃至皮艇時，他以言語為咒——『願我的魚叉穿她而過』——話音之力竟令她當場斃命。鐵尾既折，她自此再不能殺人。"
+      },
+      "motifs": [
+        "cannibal-giant",
+        "witch",
+        "parable-teaching"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Polar Eskimo (Inughuit) tale recorded by Rasmussen, 1910s. Word-power (the efficacy of spoken formulae) is a core belief of Inuit narrative practice."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "There was once a woman who had an iron tail, and more than this, she was an eater of men. When a stranger came to visit her, she would wait until her guest had fallen asleep, then jump up in the air and fall down upon the sleeping one, piercing him through with her tail. Once a man came to her house and lay down to sleep; when she thought him asleep she jumped up and dropped down upon him — but he was not asleep at all and moved aside, so that she fell on a stone and broke her tail.",
+          "note": "Paraphrase of Knud Rasmussen, Eskimo Folk-Tales (Worster 1921), 'The woman with the iron tail'; not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "The man fled out to his kayak with the woman running after. When she reached him she cried: 'Oh, if I could only thrust my knife into him' — and even her words had power, nearly upsetting the man. 'Oh, if only I could send my harpoon through her,' the man cried in return, and so great was the power of his words that she fell down on the spot. The man rowed away, and the woman never killed anyone after that, for her tail was broken.",
+          "note": "Paraphrase of Knud Rasmussen, Eskimo Folk-Tales (Worster 1921), 'The woman with the iron tail'; not verbatim."
+        }
+      ],
+      "persons": []
+    },
+    {
+      "id": "inuit-how-the-fog-came",
+      "title": {
+        "en": "How the Fog Came",
+        "zh": "霧的由來"
+      },
+      "tradition": "inuit",
+      "category": "myth",
+      "region": {
+        "en": "Smith Sound, Polar Eskimo country, Northwest Greenland",
+        "zh": "西北格陵蘭史密斯海峽極地因紐特之地"
+      },
+      "lat": 78.4,
+      "lon": -74.0,
+      "period": "Inuit oral tradition (Polar Eskimo, Smith Sound); collected by Knud Rasmussen, published 1921",
+      "source": {
+        "archive": "Project Gutenberg",
+        "work": "Knud Rasmussen (collector), Eskimo Folk-Tales, ed. and rendered into English by W. J. Alexander Worster (Gyldendal, 1921), 'How the fog came', eBook #28932",
+        "url": "https://www.gutenberg.org/cache/epub/28932/pg28932.txt"
+      },
+      "license": "Public domain (English rendering 1921)",
+      "summary": {
+        "en": "A Mountain Spirit steals corpses from graves to eat at home; a man seeking to see the thief lets himself be buried alive with a flat stone under his coat. Carried off, he clutches willow twigs to make himself heavy, then kills the Spirit and its children and flees, pursued by the Spirit's wife: he raises hills before her, calls a stream over its banks, tricks her into drinking it up, and — 'Look at the tail of your tunic' — makes her bend until her belly bursts. The steam that rises out of her turns to fog, which still floats among the hills to this day.",
+        "zh": "山魔盜墓食屍；一人欲窺其形，活埋自身、懷藏平石以防刺殺。魔攜『屍』歸家，倦極而眠；人醒轉，殺魔與其子，倉皇而逃。魔妻追趕，他喊『山嶺升起』、『溪水上岸』，又誘她飲水。臨別一句『你的衣尾垂在腿間』，教她彎身自視，肚腹爆裂——蒸氣沖天化霧，至今縈繞山間。"
+      },
+      "motifs": [
+        "transformation",
+        "sacred-place",
+        "trickster"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Polar Eskimo (Inughuit) origin-legend recorded by Rasmussen, 1910s. Grave-robbing Mountain Spirit is a standard figure of the inland; tale presented as told."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "A Mountain Spirit stole corpses from their graves and ate them when it came home. A man wishing to see who did this thing let himself be buried alive, having stuck a flat stone under his coat in case the Spirit should try to stab him. The Spirit came, saw the new grave, dug up the body and carried it off; on the way the man caught hold of all the willow twigs they passed, making himself as heavy as he could so that the Spirit was forced to put forth all its strength. At last the Spirit reached its house, flung the body down on the floor, and lay down to sleep while its wife went out to gather wood for cooking.",
+          "note": "Paraphrase of Knud Rasmussen, Eskimo Folk-Tales (Worster 1921), 'How the fog came'; not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "'Father, father, he is opening his eyes,' cried the children. 'Nonsense, children, it is a dead body which I have dropped many times among the twigs on the way,' said the father. But the man rose up, killed the Mountain Spirit and its children, and fled as fast as he could. The Spirit's wife saw him and mistook him for her husband, crying 'Where are you going?' and ran after him. Running over level ground, the man cried 'Rise up, hills!' and many hills rose at once, so that the woman lagged behind. He sprang across a little stream and called 'Flow over your banks!' — and it was impossible for her to get across.",
+          "note": "Paraphrase of Knud Rasmussen, Eskimo Folk-Tales (Worster 1921), 'How the fog came'; not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "'How did you get across?' cried the woman. 'I drank up the water. Do you likewise' — and she began gulping it down. Then the man turned and said: 'Look at the tail of your tunic; it is hanging down between your legs.' When she bent down to look, her belly burst; and as she burst, a steam rose up out of her and turned to fog, which still floats about to this day among the hills.",
+          "note": "Paraphrase of Knud Rasmussen, Eskimo Folk-Tales (Worster 1921), 'How the fog came'; not verbatim."
+        }
+      ],
+      "persons": []
+    },
+    {
+      "id": "inuit-avenged-the-widows",
+      "title": {
+        "en": "The Man Who Avenged the Widows",
+        "zh": "為寡婦復仇者"
+      },
+      "tradition": "inuit",
+      "category": "myth",
+      "region": {
+        "en": "Kangarssuk, West Greenland coast",
+        "zh": "西格陵蘭康加舒克"
+      },
+      "lat": 68.7,
+      "lon": -52.8,
+      "period": "Inuit oral tradition (Polar Eskimo, Smith Sound); collected by Knud Rasmussen, published 1921",
+      "source": {
+        "archive": "Project Gutenberg",
+        "work": "Knud Rasmussen (collector), Eskimo Folk-Tales, ed. and rendered into English by W. J. Alexander Worster (Gyldendal, 1921), 'The man who avenged the widows', eBook #28932",
+        "url": "https://www.gutenberg.org/cache/epub/28932/pg28932.txt"
+      },
+      "license": "Public domain (English rendering 1921)",
+      "summary": {
+        "en": "Envious of Angusinanguaq's beautiful wife, his fellow-hunters strand him on a lonely island, towing his kayak away so he can never leave. But he was a great wizard: winding his body in hide strips and bending into a curve, he gathers magic power and flies home through the air, arriving before his would-be murderers. None plans against him again. Later he rows out to the fierce island-folk who call down fogs on kayakers, takes them by surprise, kills many, and piles their heads on the side bench — and the widows come one by one to his hut to thank him.",
+        "zh": "獵手們嫉妒安古西南瓜克的美妻，乘獵鴨之機將他遺棄孤島，拖走他的皮艇。豈知他是大巫：以皮條纏身、屈身成弓，聚靈力飛行，竟搶先歸家。從此無人再敢謀其妻。其後他獨駕皮艇突襲那些召霧害人的島民，殺其眾男，頭顱堆於長凳，得勝而歸——眾寡婦逐一入其帳中道謝。"
+      },
+      "motifs": [
+        "otherworld-voyage",
+        "ascension",
+        "boon-curse",
+        "jealousy"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Polar Eskimo tale recorded by Rasmussen, 1910s. Includes lethal revenge raid as told in the source; presented as archival narrative."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "In the old days, when men were yet skilful rowers in kayaks — before a great sickness carried off all the older men and the young forgot how to build kayaks — there lived at Kangarssuk a man named Angusinanguaq, who had a very beautiful wife, wherefore all men envied him. One day, when they set out to hunt eider duck on the far islands, the other men agreed to leave him behind on a little lonely island; they caught their ducks, gathered eggs, and pushed out from the land without waiting for him, taking his kayak in tow so that he might never more be able to leave the island.",
+          "note": "Paraphrase of Knud Rasmussen, Eskimo Folk-Tales (Worster 1921), 'The man who avenged the widows'; not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "When the umiaks came in sight of the tents they saw a man going from one tent to another, visiting the women left behind — and the old man steering shaded his eyes and said: 'The man is Angusinanguaq.' It was revealed that he was a great wizard: when the boats had left and he could not find his kayak, he wound his body about with strips of hide, bending it into a curve, and gathered magic power wherewith to move through the air, as is the way of wizards, coming back to the place long before those who had sought his death. From that day none ever planned again to take his wife.",
+          "note": "Paraphrase of Knud Rasmussen, Eskimo Folk-Tales (Worster 1921), 'The man who avenged the widows'; not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "In those times there were people on the islands too — a fierce folk whom none might come near; when a kayak from the mainland neared their village they called down a fog upon it, so that the paddler could not see and perished. One day Angusinanguaq planned to avenge his fellow-villagers: he rowed out to the unapproachable ones and, being a great wizard, took them by surprise, killed many of the men, cut off their heads, and piled them up on the side bench before rowing away. There was great joy among the widows of all those dead hunters when they learned he had avenged their husbands, and they went into his hut one by one and thanked him.",
+          "note": "Paraphrase of Knud Rasmussen, Eskimo Folk-Tales (Worster 1921), 'The man who avenged the widows'; not verbatim."
+        }
+      ],
+      "persons": []
+    }
+  ]
+}

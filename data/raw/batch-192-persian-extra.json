@@ -1,0 +1,231 @@
+{
+  "_comment": "Avesta Yasna IX (Hom Yasht, Mills 1887), Dadestan-i Denig XXV (West 1882), Vendidad XIII (Darmesteter 1880), Herodotus 1.118-120 (Macaulay 1890). Paraphrase passages with notes.",
+  "texts": [
+    {
+      "id": "persian-hom-yasht-pressers",
+      "title": {
+        "en": "The Three Pressers of Haoma and Their Sons",
+        "zh": "豪馬汁的三位榨取者及其子嗣"
+      },
+      "tradition": "persian",
+      "category": "myth",
+      "region": {
+        "en": "Fire of Zarathushtra's rite (symbolic pin)",
+        "zh": "查拉圖什特拉聖火前（象徵性定位）"
+      },
+      "lat": 36.5,
+      "lon": 53.5,
+      "period": "Recorded in the Avesta, c. 6th-4th century BCE (Mills translation 1887)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Yasna IX, Hom Yasht (Zend-Avesta Part III), trans. L. H. Mills, SBE 31 (1887)",
+        "url": "https://archive.org/details/zendavestaparti03milluoft"
+      },
+      "license": "Public domain (translation 1887)",
+      "summary": {
+        "en": "At the hour of Havan, Haoma came to Zarathustra as he served the sacred fire and sang aloud the Gathas; and Zarathustra asked: who art thou, O man! who art of all the incarnate world the most beautiful in thine own body? And Haoma answers, the holy one who driveth death afar: Vivanghvant was the first of men who prepared me, and to him was born Yima the brilliant, who made from his authority both herds and people free from dying; Athwya was the second, and to him was born Thraetaona, who smote the dragon Dahaka, three-jawed and triple-headed, six-eyed; Thrita was the third, and to him were born Urvakhshaya the judge and Keresaspa, ringlet-headed and bludgeon-bearing, who smote the horny dragon and cooked his meat upon its back in iron cauldron.",
+        "zh": "哈萬時分，豪馬（神聖植物之靈）來到正侍火、唱伽薩的查拉圖什特拉面前：「普世生靈之中，誰有你這般俊美？」豪馬答：「驅死之聖靈豪馬也！」第一榨取者維萬格萬之子即輝煌的伊瑪——使畜群與人類免於死亡；第二榨取者阿斯維亞之子即斬殺三頭六眼巨龍達哈卡的特賴塔歐納；第三榨取者特里塔之子凱雷薩斯帕——鬈髮持棍的英雄，曾屠巨龍、竟在其背上架鐵釜炊飯！"
+      },
+      "motifs": [
+        "world-serpent",
+        "prophetic-vision",
+        "ritual-origin",
+        "incarnation-avatar",
+        "sacred-meal"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Avestan liturgy read as myth; the Hom Yasht condenses the Iranian hero-catalogue. No living community restriction."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "At the hour of Havan, Haoma came to Zarathustra, as he served the sacred Fire, and sanctified its flame, while he sang aloud the Gathas. And Zarathustra asked him: who art thou, O man! who art of all the incarnate world the most beautiful in thine own body? Thereupon gave Haoma answer, the holy one who driveth death afar: I am, O Zarathustra, Haoma, the holy and driving death afar; pray to me, O Spitama, prepare me for the taste.",
+          "note": "Paraphrase of Yasna IX, 1-2 (Mills, SBE 31, 1887); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Vivanghvant was the first of men who prepared me for the incarnate world; this blessedness was offered him, that to him was born a son who was Yima, called the brilliant, the most glorious of those yet born, the sunlike-one of men, that he made from his authority both herds and people free from dying, both plants and waters free from drought. In the reign of Yima swift of motion was there neither cold nor heat, there was neither age nor death, nor envy demon-made.",
+          "note": "Paraphrase of Yasna IX, 4-5 (Mills, SBE 31, 1887); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "Athwya was the second who prepared me for the corporeal world; to him a son was born, Thraetaona of the heroic tribe, who smote the dragon Dahaka, three-jawed and triple-headed, six-eyed, with thousand powers, and of mighty strength, a lie-demon of the Daevas, evil for our settlements, whom the evil spirit Angra Mainyu made as the most mighty Drug against the corporeal world.",
+          "note": "Paraphrase of Yasna IX, 7-8 (Mills, SBE 31, 1887); not verbatim."
+        },
+        {
+          "id": "4",
+          "text": "Thrita was the third man who prepared me for the corporeal world; to him were born Urvakhshaya and Keresaspa, the one a judge confirming order, the other a youth of great ascendant, ringlet-headed, bludgeon-bearing: he who smote the horny dragon swallowing men and swallowing horses, poisonous and green of colour, on whose back once Keresaspa cooked his meat in iron cauldron at the noon-day meal; and the dragon, scorched, upstarted, and springing off, dashed out the water as it boiled.",
+          "note": "Paraphrase of Yasna IX, 10-11 (Mills, SBE 31, 1887); not verbatim."
+        }
+      ],
+      "persons": []
+    },
+    {
+      "id": "persian-wicked-soul-maiden",
+      "title": {
+        "en": "The Wicked Soul Meets Her Sin in the Shape of a Maiden",
+        "zh": "惡魂黎明遇「罪惡之娼女」"
+      },
+      "tradition": "persian",
+      "category": "myth",
+      "region": {
+        "en": "Bridge of judgment at dawn (symbolic pin)",
+        "zh": "黎明之審判橋（象徵性定位）"
+      },
+      "lat": 36.44,
+      "lon": 52.93,
+      "period": "Recorded 9th century CE (Pahlavi; West translation 1882)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Dadestan-i Denig ch. XXV (Pahlavi), trans. E. W. West, SBE 18 (1882)",
+        "url": "https://archive.org/details/pahlavitextspart02westuoft"
+      },
+      "license": "Public domain (translation 1882)",
+      "summary": {
+        "en": "Those three nights the soul of the wicked is upon earth, and notices the thoughts, words, and deeds of its own body; it experiences grievous fear of the account, great terror of the bridge, and perplexing fear on account of hell. The first night it is hastening away from its own evil thoughts, the second from its evil words, the third from its evil deeds — but the spirits of its good works come unto the soul and become pleasing to it. And the third night, on the fresh arrival of a dawn, its sin, in the frightful, polluted shape of a maiden who is an injurer, comes to meet it with the store of its sin; a stinking northerly wind comes out to meet it, and it comes on shudderingly and unwillingly running to the account, falls from the bridge, and is precipitated to hell.",
+        "zh": "惡魂在塵世惶惶三夜：懼清算、畏天橋、恐地獄；三夜之中它逃避自己的惡念、惡言、惡行——然而畢生善行的精靈仍來相慰。第三夜黎明時分，它的罪孽化作一個玷污的可怕「娼女」，攜其罪簿前來相迎；一陣腥臭北風迎面撲來——惡魂戰慄不前、被迫赴秤，終從橋上墜落，直沉地獄。"
+      },
+      "motifs": [
+        "descent-underworld",
+        "taboo-transgression",
+        "quest-immortality",
+        "threefold"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Pahlavi doctrinal text; the personified conscience (daena) as maiden pairs with Arda Viraf's vision. No living community restriction."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Those three nights the soul is upon earth, and notices about the thoughts, words, and deeds of its own body; it is doubtful about its own position, and experiences grievous fear of the account, great terror of the bridge, and perplexing fear on account of hell.",
+          "note": "Paraphrase of Dadestan-i Denig ch. XXV, 2 (West, SBE 18, 1882); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "The first night it is hastening away from its own evil thoughts, the second night from its own evil words, and the third night from its own evil deeds; but, owing to the good works which it has done in the world, the first night the spirit of its good thoughts, the second night the spirit of its good words, and the third night the spirit of its good deeds, come unto the soul, and become pleasing and commendable to it.",
+          "note": "Paraphrase of Dadestan-i Denig ch. XXV, 4 (West, SBE 18, 1882); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "And the third night, on the fresh arrival of a dawn, its sin, in the frightful, polluted shape of a maiden who is an injurer, comes to meet it with the store of its sin; and a stinking northerly wind comes out to meet it, and it comes on shudderingly, quiveringly, and unwillingly running to the account. And through being deceived and deceiving, heresy, unrelenting and false accusation of constant companions, and the wide-spread sinfulness of a fiend-like existence it is ruined, falls from the bridge, and is precipitated to hell.",
+          "note": "Paraphrase of Dadestan-i Denig ch. XXV, 5-6 (West, SBE 18, 1882); not verbatim."
+        }
+      ],
+      "persons": []
+    },
+    {
+      "id": "persian-vendidad-dog",
+      "title": {
+        "en": "The Hedge-hog's Prickles and the Dogs of the Bridge",
+        "zh": "刺蝟聖獸與守橋之犬"
+      },
+      "tradition": "persian",
+      "category": "myth",
+      "region": {
+        "en": "Midnight world of the two spirits (symbolic pin)",
+        "zh": "子夜的善惡二靈之界（象徵性定位）"
+      },
+      "lat": 30.0,
+      "lon": 53.0,
+      "period": "Recorded in the Avesta, c. 6th-4th century BCE (Darmesteter translation 1880)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Vendidad Fargard XIII (Zend-Avesta Part I), trans. J. Darmesteter, SBE 4 (1880)",
+        "url": "https://archive.org/details/zendavestaparti0"
+      },
+      "license": "Public domain (translation 1880)",
+      "summary": {
+        "en": "Which is the good creature among the creatures of the good spirit that from midnight till the sun is up goes and kills thousands of the creatures of the evil spirit? Ahura Mazda answers: the dog with the prickly back, with the long and thin muzzle, the dog Vanghapara, which evil-speaking people call the Dusaka — this is the good creature that from midnight till the sun is up goes and kills thousands of the creatures of the evil spirit; and whosoever shall kill it kills his own soul for nine generations, nor shall he find a way over the Chinvat bridge. And whosoever shall smite either a shepherd's dog, or a house dog, or a Vohunazga dog, his soul when passing to the other world shall fly amid louder howling and fiercer pursuing than the sheep does when the wolf rushes upon it in the lofty forest.",
+        "zh": "「何為善靈造物中，自子夜至日出誅殺千萬惡靈造物者？」答曰：背生尖刺、吻長而薄的「萬哈帕拉」之犬（即刺蝟）——殺之者九代之魂無救，且不得過欽瓦特橋！擊打牧犬、家犬或聖犬者，其亡魂將在來世承受比羊遭狼逐更甚的嗥叫與追逐——守橋之犬也不會前來相助。"
+      },
+      "motifs": [
+        "sacred-kingship",
+        "taboo-transgression",
+        "transformation",
+        "opposed-twins"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Avestan law-text read as myth; Darmesteter reads the hedge-hog as a myth of sunrays piercing night. No living community restriction."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Which is the good creature among the creatures of the good spirit that from midnight till the sun is up goes and kills thousands of the creatures of the evil spirit? Ahura Mazda answered: the dog with the prickly back, with the long and thin muzzle, the dog Vanghapara, which evil-speaking people call the Dusaka; this is the good creature among the creatures of the good spirit that from midnight till the sun is up goes and kills thousands of the creatures of the evil spirit.",
+          "note": "Paraphrase of Vendidad Fargard XIII, 1-2 (Darmesteter, SBE 4, 1880); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "And whosoever, O Zarathustra! shall kill the dog with the prickly back, with the long and thin muzzle, the dog Vanghapara, which evil-speaking people call the Dusaka, kills his own soul for nine generations, nor shall he find a way over the Chinvat bridge, unless he has, while alive, atoned for his sin by offering up a sacrifice to Sraosha.",
+          "note": "Paraphrase of Vendidad Fargard XIII, 3 (Darmesteter, SBE 4, 1880); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "Whosoever shall smite either a shepherd's dog, or a house dog, or a Vohunazga dog, or a trained dog, his soul when passing to the other world shall fly amid louder howling and fiercer pursuing than the sheep does when the wolf rushes upon it in the lofty forest. No soul will come and meet his departing soul and help it through the howls and pursuit in the other world; nor will the dogs that keep the Chinvat bridge help his departing soul.",
+          "note": "Paraphrase of Vendidad Fargard XIII, 8-9 (Darmesteter, SBE 4, 1880); not verbatim."
+        }
+      ],
+      "persons": []
+    },
+    {
+      "id": "persian-harpagus-banquet",
+      "title": {
+        "en": "Astyages Feeds Harpagos His Own Son",
+        "zh": "阿斯杜阿該斯以人子為宴"
+      },
+      "tradition": "persian",
+      "category": "myth",
+      "region": {
+        "en": "Court of Astyages, Agbatana (symbolic pin)",
+        "zh": "阿格巴塔納王庭（象徵性定位）"
+      },
+      "lat": 35.7,
+      "lon": 51.4,
+      "period": "Written c. 430 BCE (Macaulay translation 1890)",
+      "source": {
+        "archive": "Project Gutenberg",
+        "work": "Herodotus, Histories Book 1, trans. G. C. Macaulay (1890), secs. 117-120",
+        "url": "https://www.gutenberg.org/ebooks/2707"
+      },
+      "license": "Public domain (translation 1890)",
+      "summary": {
+        "en": "When Astyages learns that the exposed Cyrus lives, he masks his wrath with kind words: be here thyself to dine with me, for I intend to make a sacrifice of thanksgiving for the preservation of the boy. Harpagos sends his only son, of about thirteen years old, to the palace; and Astyages cuts his throat and divides him limb from limb, and having roasted some pieces of the flesh and boiled others, before Harpagos is placed the flesh of his own son, all but the head and the hands and the feet. And when Harpagos says he has been very greatly pleased, they bring to him the head of his son covered up: he is not overcome with amazement but contains himself; and this is the Harpagos who afterwards will overthrow Astyages for Cyrus.",
+        "zh": "阿斯杜阿該斯得知棄嬰居魯士尚在人世，便強抑怒火、假意設宴：「為慶賀孩子平安，請你赴宴。」哈爾帕戈斯將獨子（年約十三）送入王宮——王割其喉、肢解其身，一半炙、一半煮，把這孩子的肉端到哈爾帕戈斯面前（頭與手足另藏於籃）。哈爾帕戈斯強忍悲痛說「宴席甚美」——正是這位隱忍的父親，日後將為居魯士傾覆米底王國。"
+      },
+      "motifs": [
+        "taboo-transgression",
+        "trickster",
+        "boon-curse"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Greek historiography of the Median court legend (the Thyestes motif). No living community restriction."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Astyages ended by saying that the child was alive and that that which had come to pass was well: I was greatly troubled by that which had been done to this child; therefore consider that this is a happy change of fortune, and first send thy son to be with the boy who is newly come, and then, seeing that I intend to make a sacrifice of thanksgiving for the preservation of the boy, be here thyself to dine with me.",
+          "note": "Paraphrase of Herodotus 1.118 (Macaulay 1890); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "When Harpagos heard this, he did reverence and thought it a great matter that his offence had turned out for his profit; and so he sent forth his son, for he had one only son of about thirteen years old, bidding him go to the palace of Astyages. But Astyages, when the son of Harpagos arrived, cut his throat and divided him limb from limb, and having roasted some pieces of the flesh and boiled others he caused them to be dressed for eating and kept them ready.",
+          "note": "Paraphrase of Herodotus 1.119 (Macaulay 1890); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "Before the other guests and before Astyages himself were placed tables covered with flesh of sheep; but before Harpagos was placed the flesh of his own son, all but the head and the hands and the feet. Then when it seemed that Harpagos was satisfied with food, Astyages asked him whether he had been pleased with the banquet; and when Harpagos said that he had been very greatly pleased, they brought to him the head of his son covered up, and standing near they bade Harpagos uncover and take of them that which he desired.",
+          "note": "Paraphrase of Herodotus 1.119 (Macaulay 1890); not verbatim."
+        },
+        {
+          "id": "4",
+          "text": "So when Harpagos obeyed and uncovered, he saw the remains of his son; and seeing them he was not overcome with amazement but contained himself; and Astyages asked him whether he perceived of what animal he had been eating the flesh: and he said that he perceived, and that whatsoever the king might do was well pleasing to him. Thus having made answer and taking up the parts of the flesh which still remained he went to his house.",
+          "note": "Paraphrase of Herodotus 1.119 (Macaulay 1890); not verbatim."
+        }
+      ],
+      "persons": []
+    }
+  ]
+}

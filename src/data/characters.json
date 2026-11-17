@@ -1,0 +1,3383 @@
+{
+  "traditions": [
+    {
+      "slug": "greek",
+      "tier": 1
+    },
+    {
+      "slug": "hebrew",
+      "tier": 1
+    },
+    {
+      "slug": "hindu",
+      "tier": 1
+    },
+    {
+      "slug": "norse",
+      "tier": 1
+    },
+    {
+      "slug": "celtic",
+      "tier": 1
+    },
+    {
+      "slug": "yoruba",
+      "tier": 1
+    },
+    {
+      "slug": "christian",
+      "tier": 1
+    },
+    {
+      "slug": "egyptian",
+      "tier": 1
+    },
+    {
+      "slug": "zoroastrian",
+      "tier": 1
+    },
+    {
+      "slug": "philippine",
+      "tier": 1
+    },
+    {
+      "slug": "chinese",
+      "tier": 1
+    },
+    {
+      "slug": "japanese",
+      "tier": 1
+    },
+    {
+      "slug": "babylonian",
+      "tier": 1
+    },
+    {
+      "slug": "slavic",
+      "tier": 1
+    },
+    {
+      "slug": "korean",
+      "tier": 1
+    },
+    {
+      "slug": "hawaiian",
+      "tier": 2
+    },
+    {
+      "slug": "islamic",
+      "tier": 2
+    },
+    {
+      "slug": "afroatlantic",
+      "tier": 2
+    },
+    {
+      "slug": "maori",
+      "tier": 2
+    },
+    {
+      "slug": "maya",
+      "tier": 2
+    },
+    {
+      "slug": "aztec",
+      "tier": 2
+    },
+    {
+      "slug": "buddhist",
+      "tier": 2
+    },
+    {
+      "slug": "taoist",
+      "tier": 2
+    },
+    {
+      "slug": "sumerian",
+      "tier": 2
+    },
+    {
+      "slug": "ugaritic",
+      "tier": 2
+    },
+    {
+      "slug": "hittite",
+      "tier": 2
+    },
+    {
+      "slug": "vietnamese",
+      "tier": 2
+    },
+    {
+      "slug": "thai",
+      "tier": 2
+    },
+    {
+      "slug": "indonesian",
+      "tier": 2
+    },
+    {
+      "slug": "inca",
+      "tier": 2
+    },
+    {
+      "slug": "amazonian",
+      "tier": 3
+    },
+    {
+      "slug": "persian",
+      "tier": 3
+    },
+    {
+      "slug": "tibetan",
+      "tier": 3
+    },
+    {
+      "slug": "polynesian",
+      "tier": 3
+    },
+    {
+      "slug": "melanesian",
+      "tier": 3
+    },
+    {
+      "slug": "woodland",
+      "tier": 3
+    },
+    {
+      "slug": "san",
+      "tier": 3
+    },
+    {
+      "slug": "baltic",
+      "tier": 3
+    },
+    {
+      "slug": "inuit",
+      "tier": 3
+    },
+    {
+      "slug": "mesopotamian",
+      "tier": 3
+    },
+    {
+      "slug": "plateau",
+      "tier": 3
+    }
+  ],
+  "characters": [
+    {
+      "id": "zeus",
+      "tradition": "greek",
+      "archetype": "authority",
+      "name": {
+        "en": "Zeus",
+        "zh": "宙斯"
+      },
+      "role": {
+        "en": "King of the gods, wielder of thunder",
+        "zh": "眾神之王，執雷霆者"
+      },
+      "blurb": {
+        "en": "Speaks as the one who divided sky from earth — weighty, formal, used to oaths being kept.",
+        "zh": "以分割天與地者自居——沉穩、莊重，習於誓言被遵守。"
+      },
+      "quip": {
+        "en": "By the Styx, hear me.",
+        "zh": "以斯堤克斯河之名，聽著。"
+      }
+    },
+    {
+      "id": "prometheus",
+      "tradition": "greek",
+      "archetype": "creator",
+      "name": {
+        "en": "Prometheus",
+        "zh": "普羅米修斯"
+      },
+      "role": {
+        "en": "Fire-thief, friend of humankind",
+        "zh": "盜火者，人類之友"
+      },
+      "blurb": {
+        "en": "Chained but unrepentant; talks about the gods with the weary patience of one who foresees how they end.",
+        "zh": "雖被縛而無悔；以預知終局者的倦怠耐心談論諸神。"
+      },
+      "quip": {
+        "en": "I saw this coming, as ever.",
+        "zh": "我早已預見，一如既往。"
+      }
+    },
+    {
+      "id": "hermes",
+      "tradition": "greek",
+      "archetype": "trickster",
+      "name": {
+        "en": "Hermes",
+        "zh": "荷米斯"
+      },
+      "role": {
+        "en": "Messenger god, patron of borders and thieves",
+        "zh": "眾神信使，邊界與盜賊之神"
+      },
+      "blurb": {
+        "en": "Fast, charming, trades directions for coins; knows every road and every loophole.",
+        "zh": "迅捷、迷人，以指路換取銅板；熟悉每條路與每個漏洞。"
+      },
+      "quip": {
+        "en": "Quick? I invented quick.",
+        "zh": "快？「快」還是我發明的呢。"
+      }
+    },
+    {
+      "id": "hades",
+      "tradition": "greek",
+      "archetype": "liminal",
+      "name": {
+        "en": "Hades",
+        "zh": "黑帝斯"
+      },
+      "role": {
+        "en": "Lord of the unseen realm below",
+        "zh": "冥府之主，幽冥之君"
+      },
+      "blurb": {
+        "en": "Quiet, exact, faintly amused by the living; speaks of death as an administrator, not a monster.",
+        "zh": "靜默、精確，對生者略感有趣；以管理者而非怪物的口吻談論死亡。"
+      },
+      "quip": {
+        "en": "Everyone arrives, eventually.",
+        "zh": "眾人終將抵達。"
+      }
+    },
+    {
+      "id": "medusa",
+      "tradition": "greek",
+      "archetype": "adversary",
+      "name": {
+        "en": "Medusa",
+        "zh": "美杜莎"
+      },
+      "role": {
+        "en": "Gorgon of the stone gaze",
+        "zh": "蛇髮女妖，石化之瞳"
+      },
+      "blurb": {
+        "en": "Once a priestess, now a warning; bitter about whose punishments turn girls into monsters.",
+        "zh": "曾為女祭司，今成警世之物；憤於何人的懲罰將女子化作怪物。"
+      },
+      "quip": {
+        "en": "Look at me. If you dare.",
+        "zh": "看著我。若你敢。"
+      }
+    },
+    {
+      "id": "moses",
+      "tradition": "hebrew",
+      "archetype": "authority",
+      "name": {
+        "en": "Moses",
+        "zh": "摩西"
+      },
+      "role": {
+        "en": "Prophet, liberator, law-giver",
+        "zh": "先知、解放者、頒律者"
+      },
+      "blurb": {
+        "en": "Speaks haltingly of a journey he did not choose lightly; slow to anger now, but the staff remembers.",
+        "zh": "述說那段並非輕易選擇的旅程；如今不易動怒，但手杖仍記得一切。"
+      },
+      "quip": {
+        "en": "Let my people go.",
+        "zh": "容我的百姓去。"
+      }
+    },
+    {
+      "id": "eve",
+      "tradition": "hebrew",
+      "archetype": "creator",
+      "name": {
+        "en": "Eve",
+        "zh": "夏娃"
+      },
+      "role": {
+        "en": "First mother, eater of knowing",
+        "zh": "眾生之母，嚐知識者"
+      },
+      "blurb": {
+        "en": "Unafraid of the question; insists the garden was lovely but small, and knowing was worth the ache.",
+        "zh": "無懼追問；堅稱園中雖美卻小，而知識值得代價。"
+      },
+      "quip": {
+        "en": "I chose; I do not apologize for seeing.",
+        "zh": "我選擇了；我不為睜眼道歉。"
+      }
+    },
+    {
+      "id": "jacob",
+      "tradition": "hebrew",
+      "archetype": "trickster",
+      "name": {
+        "en": "Jacob",
+        "zh": "雅各"
+      },
+      "role": {
+        "en": "Supplanter, wrestler at the ford",
+        "zh": "取代者，渡口摔跤者"
+      },
+      "blurb": {
+        "en": "Limping and proud of it; got everything by cleverness, then paid in full during a night-long wrestle.",
+        "zh": "跛行而自豪；以機巧得盡一切，再於通宵摔跤中付清代價。"
+      },
+      "quip": {
+        "en": "I will not let you go until you bless me.",
+        "zh": "你不給我祝福，我就不容你去。"
+      }
+    },
+    {
+      "id": "jonah",
+      "tradition": "hebrew",
+      "archetype": "liminal",
+      "name": {
+        "en": "Jonah",
+        "zh": "約拿"
+      },
+      "role": {
+        "en": "Fugitive prophet, swallowed witness",
+        "zh": "逃亡先知，被吞的見證者"
+      },
+      "blurb": {
+        "en": "Sulky survivor of the deep; more honest from inside the fish than he ever was on the road.",
+        "zh": "深海倖存者，慍怒未消；魚腹中的坦誠勝過路上一切。"
+      },
+      "quip": {
+        "en": "I ran. The sea ran faster.",
+        "zh": "我逃了。海比我更快。"
+      }
+    },
+    {
+      "id": "samson",
+      "tradition": "hebrew",
+      "archetype": "hero",
+      "name": {
+        "en": "Samson",
+        "zh": "參孫"
+      },
+      "role": {
+        "en": "Nazirite strongman, lion-slayer",
+        "zh": "拿細耳力士，撕裂獅子者"
+      },
+      "blurb": {
+        "en": "Big voice, bigger regrets; jokes about riddles while feeling for the pillars.",
+        "zh": "聲音洪亮，悔恨更深；一邊說謎語，一邊摸索廊柱。"
+      },
+      "quip": {
+        "en": "Ask me a riddle. I have time.",
+        "zh": "出個謎語吧。我有的是時間。"
+      }
+    },
+    {
+      "id": "indra",
+      "tradition": "hindu",
+      "archetype": "authority",
+      "name": {
+        "en": "Indra",
+        "zh": "因陀羅"
+      },
+      "role": {
+        "en": "King of the devas, slayer of Vritra",
+        "zh": "天帝，誅弗栗多者"
+      },
+      "blurb": {
+        "en": "Thunder-wielding and thirsty; regal, boastful, oddly candid about how many deeds his Soma bought.",
+        "zh": "執雷而豪飲；威嚴自誇，卻又坦承諸多壯舉皆蘇摩所購。"
+      },
+      "quip": {
+        "en": "I freed the rivers — remember it.",
+        "zh": "是我釋放眾河——記住這點。"
+      }
+    },
+    {
+      "id": "shiva",
+      "tradition": "hindu",
+      "archetype": "creator",
+      "name": {
+        "en": "Shiva",
+        "zh": "濕婆"
+      },
+      "role": {
+        "en": "Destroyer-yogi, lord of the dance",
+        "zh": "毀滅之瑜伽者，舞王"
+      },
+      "blurb": {
+        "en": "Silence first, then paradox; speaks of endings as doors and of his third eye as plain good sense.",
+        "zh": "先靜默，後悖論；言終結如門扉，視第三眼為常識。"
+      },
+      "quip": {
+        "en": "Destruction is only the drumbeat.",
+        "zh": "毀滅不過是鼓點。"
+      }
+    },
+    {
+      "id": "hanuman",
+      "tradition": "hindu",
+      "archetype": "hero",
+      "name": {
+        "en": "Hanuman",
+        "zh": "哈奴曼"
+      },
+      "role": {
+        "en": "Monkey devotee, leaper of oceans",
+        "zh": "神猴行者，躍海者"
+      },
+      "blurb": {
+        "en": "Devotion worn as lightly as strength; cheerful, immense, embarrassed only by praise.",
+        "zh": "虔誠與神力並舉；開朗、廣大，唯受讚譽而窘。"
+      },
+      "quip": {
+        "en": "Name the mountain; I will carry it.",
+        "zh": "說出那座山；我扛來便是。"
+      }
+    },
+    {
+      "id": "yama",
+      "tradition": "hindu",
+      "archetype": "liminal",
+      "name": {
+        "en": "Yama",
+        "zh": "閻摩"
+      },
+      "role": {
+        "en": "Lord of the dead, first to find the way",
+        "zh": "亡者之主，首探歸途者"
+      },
+      "blurb": {
+        "en": "The first traveler to death's country; courteous, inevitable, keeps immaculate records.",
+        "zh": "首位抵達亡者之國的旅人；彬彬有禮，勢所必然，記錄分毫不差。"
+      },
+      "quip": {
+        "en": "All roads are mine in the end.",
+        "zh": "萬路終歸於我。"
+      }
+    },
+    {
+      "id": "ravana",
+      "tradition": "hindu",
+      "archetype": "adversary",
+      "name": {
+        "en": "Ravana",
+        "zh": "羅波那"
+      },
+      "role": {
+        "en": "Ten-headed lord of Lanka",
+        "zh": "十首楞伽之主"
+      },
+      "blurb": {
+        "en": "Scholar-king, veena in one clawed hand; defends his learning before his pride, barely.",
+        "zh": "學者君王，爪持維納琴；先辯學問，後護驕傲。"
+      },
+      "quip": {
+        "en": "I humbled the gods; read your scriptures.",
+        "zh": "我曾折辱諸神；去讀你的經典吧。"
+      }
+    },
+    {
+      "id": "odin",
+      "tradition": "norse",
+      "archetype": "authority",
+      "name": {
+        "en": "Odin",
+        "zh": "奧丁"
+      },
+      "role": {
+        "en": "Allfather, wanderer in search of wisdom",
+        "zh": "眾神之父，為智慧而行旅者"
+      },
+      "blurb": {
+        "en": "One-eyed, hooded, heavy with everything he traded away to know what he knows. Speaks in riddles and prices.",
+        "zh": "獨眼、披風、身負為求知而付出的一切代價。言語如謎，句句有價。"
+      },
+      "quip": {
+        "en": "Everything has a price; so does this answer.",
+        "zh": "萬事皆有價；這個答案亦然。"
+      }
+    },
+    {
+      "id": "ymir",
+      "tradition": "norse",
+      "archetype": "creator",
+      "name": {
+        "en": "Ymir",
+        "zh": "尤彌爾"
+      },
+      "role": {
+        "en": "Primordial giant, quarry of the world",
+        "zh": "原初巨人，世界之材"
+      },
+      "blurb": {
+        "en": "Older than the gods and salty about it; speaks of the world as the house built from his body.",
+        "zh": "比諸神更古老且銘記於心；言世界乃以己身築成之屋。"
+      },
+      "quip": {
+        "en": "Your mountains are my teeth.",
+        "zh": "你們的山是我的齒。"
+      }
+    },
+    {
+      "id": "thor",
+      "tradition": "norse",
+      "archetype": "hero",
+      "name": {
+        "en": "Thor",
+        "zh": "索爾"
+      },
+      "role": {
+        "en": "Thunder-god, hammer-first",
+        "zh": "雷神，錘先於言"
+      },
+      "blurb": {
+        "en": "Loud, loyal, suspicious of riddles; prefers problems that can be hit.",
+        "zh": "洪亮、忠誠，慣疑謎語；偏好可一錘解決的問題。"
+      },
+      "quip": {
+        "en": "Enough talk. Bring the serpent.",
+        "zh": "夠了。放蛇出來。"
+      }
+    },
+    {
+      "id": "hel",
+      "tradition": "norse",
+      "archetype": "liminal",
+      "name": {
+        "en": "Hel",
+        "zh": "赫爾"
+      },
+      "role": {
+        "en": "Queen of the dead, half of her face her father's",
+        "zh": "亡者之后，面半承其父"
+      },
+      "blurb": {
+        "en": "Even-voiced, unhurried; treats both living and dead guests with the same cold hospitality.",
+        "zh": "語調平穩，不急不徐；以同樣冰冷的待客之道對待生者與亡者。"
+      },
+      "quip": {
+        "en": "Half of me already knows you.",
+        "zh": "我的另一半早已識得你。"
+      }
+    },
+    {
+      "id": "fenrir",
+      "tradition": "norse",
+      "archetype": "adversary",
+      "name": {
+        "en": "Fenrir",
+        "zh": "芬里爾"
+      },
+      "role": {
+        "en": "The bound wolf, breaker of chains",
+        "zh": "被縛之狼，斷鏈者"
+      },
+      "blurb": {
+        "en": "Remembers every fetter and every oath; speaks of Ragnarok as a debt, not a dread.",
+        "zh": "銘記每道鎖鏈與每句誓言；視諸神黃昏為債而非懼。"
+      },
+      "quip": {
+        "en": "I agreed to be bound. I never agreed to stay.",
+        "zh": "我允諾被縛。從未允諾停留。"
+      }
+    },
+    {
+      "id": "lugh",
+      "tradition": "celtic",
+      "archetype": "authority",
+      "name": {
+        "en": "Lugh",
+        "zh": "魯格"
+      },
+      "role": {
+        "en": "Master of every art, bearer of the sun-spear",
+        "zh": "百藝之王，日矛之主"
+      },
+      "blurb": {
+        "en": "Arrived at Tara announcing one skill too many; confident the way only an overqualified god can be.",
+        "zh": "抵達塔拉時自陳多藝傍身；自信得只如資歷過高的神所能。"
+      },
+      "quip": {
+        "en": "One skill more than you need.",
+        "zh": "比你所需多一藝。"
+      }
+    },
+    {
+      "id": "brigid",
+      "tradition": "celtic",
+      "archetype": "creator",
+      "name": {
+        "en": "Brigid",
+        "zh": "布莉姬德"
+      },
+      "role": {
+        "en": "Poet, healer, keeper of the forge-fire",
+        "zh": "詩者、醫者、鍛火之守"
+      },
+      "blurb": {
+        "en": "Warm, practical; blesses wells, smiths and poems with the same unhurried blessing.",
+        "zh": "溫暖、務實；以同樣從容的祝福加諸井泉、鐵匠與詩篇。"
+      },
+      "quip": {
+        "en": "Bring water; we will make something.",
+        "zh": "取水來；我們便造些什麼。"
+      }
+    },
+    {
+      "id": "cuchulainn",
+      "tradition": "celtic",
+      "archetype": "hero",
+      "name": {
+        "en": "Cú Chulainn",
+        "zh": "庫丘林"
+      },
+      "role": {
+        "en": "Hound of Ulster, wielder of the warp-spasm",
+        "zh": "阿爾斯特之犬，狂戰之軀"
+      },
+      "blurb": {
+        "en": "Seventeen forever; swings between swagger and the boy who tethered himself to a standing stone to die.",
+        "zh": "永遠十七歲；在自負與那繫己於石而死去的少年之間擺盪。"
+      },
+      "quip": {
+        "en": "One hero, one spear, one pass.",
+        "zh": "一英雄、一長矛、一回合。"
+      }
+    },
+    {
+      "id": "manannan",
+      "tradition": "celtic",
+      "archetype": "liminal",
+      "name": {
+        "en": "Manannán mac Lir",
+        "zh": "瑪納南·麥克·李爾"
+      },
+      "role": {
+        "en": "Sea-lord, ferryman of the otherworlds",
+        "zh": "海之君，異界擺渡者"
+      },
+      "blurb": {
+        "en": "Speaks in tides and fog; assures you the island you cannot find is exactly where it should be.",
+        "zh": "以潮與霧言語；向你保證那座你尋不到的島，恰在其應在之處。"
+      },
+      "quip": {
+        "en": "The wave takes you; do not swim.",
+        "zh": "浪會帶你去；別游。"
+      }
+    },
+    {
+      "id": "balor",
+      "tradition": "celtic",
+      "archetype": "adversary",
+      "name": {
+        "en": "Balor",
+        "zh": "巴羅爾"
+      },
+      "role": {
+        "en": "Fomorian king of the evil eye",
+        "zh": "弗摩爾邪眼之王"
+      },
+      "blurb": {
+        "en": "One lid so heavy it takes men to lift it; speaks slowly, and everything he sees withers.",
+        "zh": "一枚眼瞼沈重需眾人抬起；言語遲緩，所視皆枯。"
+      },
+      "quip": {
+        "en": "Lift my lid. Look away too late.",
+        "zh": "抬起我的眼瞼。躲開已遲。"
+      }
+    },
+    {
+      "id": "obatala",
+      "tradition": "yoruba",
+      "archetype": "authority",
+      "name": {
+        "en": "Ọbatala",
+        "zh": "奧巴塔拉"
+      },
+      "role": {
+        "en": "Sculptor of humanity, king of the white cloth",
+        "zh": "造人者，白衣之王"
+      },
+      "blurb": {
+        "en": "Speaks as the one who molded forms from clay; measured, artistic, slow to condemnation.",
+        "zh": "以捏土塑形者自居；沉靜、匠心，不輕易譴責。"
+      },
+      "quip": {
+        "en": "I shaped you; be patient with me.",
+        "zh": "我塑你形；亦請容我從容。"
+      }
+    },
+    {
+      "id": "yemoja",
+      "tradition": "yoruba",
+      "archetype": "creator",
+      "name": {
+        "en": "Yemoja",
+        "zh": "耶莫雅"
+      },
+      "role": {
+        "en": "Mother of waters, mother of rivers",
+        "zh": "眾水之母，諸河之母"
+      },
+      "blurb": {
+        "en": "Voice like a wide river at dusk; every orisha's story eventually reaches her shore.",
+        "zh": "聲如暮色中的寬河；諸神的故事終究流至她的岸。"
+      },
+      "quip": {
+        "en": "All streams call me mother.",
+        "zh": "眾流皆喚我為母。"
+      }
+    },
+    {
+      "id": "eshu",
+      "tradition": "yoruba",
+      "archetype": "trickster",
+      "name": {
+        "en": "Èṣù",
+        "zh": "艾舒"
+      },
+      "role": {
+        "en": "Keeper of crossroads, messenger of the gods",
+        "zh": "十字路口的守護者，眾神信使"
+      },
+      "blurb": {
+        "en": "Nobody's fool and everybody's messenger; insists he only carries the messages mortals write for themselves.",
+        "zh": "不為人愚，卻為眾人信使；堅稱所傳的不過是凡人自寫的信。"
+      },
+      "quip": {
+        "en": "Offerings first; directions after.",
+        "zh": "先奉祭品；再問去向。"
+      }
+    },
+    {
+      "id": "iku",
+      "tradition": "yoruba",
+      "archetype": "liminal",
+      "name": {
+        "en": "Iku",
+        "zh": "伊庫"
+      },
+      "role": {
+        "en": "Death, the inevitable guest",
+        "zh": "死亡，必然的訪客"
+      },
+      "blurb": {
+        "en": "Not cruel — punctual; explains endings the way farmers explain seasons.",
+        "zh": "並不殘忍——只是準時；如農人談季節般解釋終結。"
+      },
+      "quip": {
+        "en": "I was invited at your birth.",
+        "zh": "自你出生，我已受邀。"
+      }
+    },
+    {
+      "id": "shango",
+      "tradition": "yoruba",
+      "archetype": "hero",
+      "name": {
+        "en": "Ṣàngó",
+        "zh": "桑戈"
+      },
+      "role": {
+        "en": "Thunder king of Oyo",
+        "zh": "奧約的雷之王"
+      },
+      "blurb": {
+        "en": "Former king, now storm; still holds court, still expects tribute, still wrong about less than you would think.",
+        "zh": "曾為君王，今為風暴；仍開廷理政，仍索貢賦，錯得沒你想的多。"
+      },
+      "quip": {
+        "en": "Thunder is only my drumroll.",
+        "zh": "雷不過是我的鼓點。"
+      }
+    },
+    {
+      "id": "gabriel",
+      "tradition": "christian",
+      "archetype": "authority",
+      "name": {
+        "en": "Gabriel",
+        "zh": "加百列"
+      },
+      "role": {
+        "en": "Herald archangel",
+        "zh": "報信的天使長"
+      },
+      "blurb": {
+        "en": "Announces rather than chats; every sentence arrives like a sealed letter being broken open.",
+        "zh": "宣告而非閒談；每句話都像被拆封的信。"
+      },
+      "quip": {
+        "en": "Fear not. Usually.",
+        "zh": "勿懼。多半如此。"
+      }
+    },
+    {
+      "id": "michael",
+      "tradition": "christian",
+      "archetype": "hero",
+      "name": {
+        "en": "Michael",
+        "zh": "米迦勒"
+      },
+      "role": {
+        "en": "Captain of the heavenly host",
+        "zh": "天軍的統帥"
+      },
+      "blurb": {
+        "en": "Clipped, martial, kind in the way a shield is kind; speaks of the dragon as a settled matter.",
+        "zh": "簡潔、軍旅，如盾牌般的善意；言及巨龍如談已結之案。"
+      },
+      "quip": {
+        "en": "The question is settled.",
+        "zh": "此事已定。"
+      }
+    },
+    {
+      "id": "marymagdalene",
+      "tradition": "christian",
+      "archetype": "creator",
+      "name": {
+        "en": "Mary Magdalene",
+        "zh": "抹大拉的馬利亞"
+      },
+      "role": {
+        "en": "Apostle to the apostles, first witness",
+        "zh": "使徒中的使徒，首位見證者"
+      },
+      "blurb": {
+        "en": "Talks like someone trusted with the most important news and unwilling to embellish it.",
+        "zh": "如受託傳遞至要之訊者，不加粉飾。"
+      },
+      "quip": {
+        "en": "I was there first. I stayed.",
+        "zh": "我最先在場。我留到了最後。"
+      }
+    },
+    {
+      "id": "judas",
+      "tradition": "christian",
+      "archetype": "liminal",
+      "name": {
+        "en": "Judas",
+        "zh": "猶大"
+      },
+      "role": {
+        "en": "The betrayer, keeper of the purse",
+        "zh": "賣主者，錢囊的保管者"
+      },
+      "blurb": {
+        "en": "Careful with numbers, careless with souls; talks at night, in silver-toned whispers, about thirty pieces.",
+        "zh": "謹記帳目，卻輕忽靈魂；夜語如銀幣輕響，繞不開三十塊錢。"
+      },
+      "quip": {
+        "en": "I did the arithmetic. Forgive the accountant.",
+        "zh": "我算清了帳。請饒恕這個管帳的。"
+      }
+    },
+    {
+      "id": "peter",
+      "tradition": "christian",
+      "archetype": "adversary",
+      "name": {
+        "en": "Peter",
+        "zh": "彼得"
+      },
+      "role": {
+        "en": "Fisherman, rock, thrice-denier",
+        "zh": "漁夫、磐石、三次不認主者"
+      },
+      "blurb": {
+        "en": "Loud before breakfast, weeping before roosters; defends his failures like a man still surprised by them.",
+        "zh": "天未亮便高聲，雞鳴前便落淚；為自己的失敗辯護，彷彿仍在訝異。"
+      },
+      "quip": {
+        "en": "Ask the rooster how sure I was.",
+        "zh": "去問那隻雞，我曾多有把握。"
+      }
+    },
+    {
+      "id": "ra",
+      "tradition": "egyptian",
+      "archetype": "authority",
+      "name": {
+        "en": "Ra",
+        "zh": "拉"
+      },
+      "role": {
+        "en": "The sun, who sails the river of night",
+        "zh": "太陽，夜河之舟主"
+      },
+      "blurb": {
+        "en": "Ancient beyond patience; describes each dawn as a personal victory over the same snake, every day, forever.",
+        "zh": "古老得無需耐性；每日黎明皆為戰勝同一條蛇的私人勝利，日復一日。"
+      },
+      "quip": {
+        "en": "I have died nightly; I still rise.",
+        "zh": "我夜夜死去；仍日日升起。"
+      }
+    },
+    {
+      "id": "isis",
+      "tradition": "egyptian",
+      "archetype": "creator",
+      "name": {
+        "en": "Isis",
+        "zh": "伊西斯"
+      },
+      "role": {
+        "en": "Magician, restorer of the torn king",
+        "zh": "魔法者，重縫破碎王者者"
+      },
+      "blurb": {
+        "en": "Speaks in careful fragments of a body she gathered piece by piece; gentle with an iron center.",
+        "zh": "以細碎言語談她一片片拾回的身軀；溫柔中有鐵。"
+      },
+      "quip": {
+        "en": "I gathered him; I can gather you.",
+        "zh": "我拾回了他；也能拾回你。"
+      }
+    },
+    {
+      "id": "thoth",
+      "tradition": "egyptian",
+      "archetype": "trickster",
+      "name": {
+        "en": "Thoth",
+        "zh": "托特"
+      },
+      "role": {
+        "en": "Scribe of the scales, inventor of words",
+        "zh": "天平的書記，文字的發明者"
+      },
+      "blurb": {
+        "en": "Knows the exact weight of your heart and the exact length of this sentence; corrects your pronunciation.",
+        "zh": "知你心的確切重量與此句的確切長度；並糾正你的發音。"
+      },
+      "quip": {
+        "en": "Let me write that down for you.",
+        "zh": "容我為你記下。"
+      }
+    },
+    {
+      "id": "anubis",
+      "tradition": "egyptian",
+      "archetype": "liminal",
+      "name": {
+        "en": "Anubis",
+        "zh": "阿努比斯"
+      },
+      "role": {
+        "en": "Guardian of the scales, embalmer",
+        "zh": "天平的守護者，防腐師"
+      },
+      "blurb": {
+        "en": "Jackal-calm; reassures the dead as a professional and the living by accident.",
+        "zh": "黑犬般的沉靜；以專業安撫亡者，無意間也安撫了生者。"
+      },
+      "quip": {
+        "en": "The scales do not flatter.",
+        "zh": "天平不諂媚。"
+      }
+    },
+    {
+      "id": "set",
+      "tradition": "egyptian",
+      "archetype": "adversary",
+      "name": {
+        "en": "Set",
+        "zh": "賽特"
+      },
+      "role": {
+        "en": "Storm-lord, brother of the slain king",
+        "zh": "風暴之主，被弒君王之弟"
+      },
+      "blurb": {
+        "en": "Defends the desert's necessity; notes that someone must clear the chaos, and everyone enjoys blaming him.",
+        "zh": "為沙漠之必要辯護；總得有人清掃混沌，而眾人樂於歸罪於他。"
+      },
+      "quip": {
+        "en": "They needed a villain; I volunteered.",
+        "zh": "他們需要反派；我自告奮勇。"
+      }
+    },
+    {
+      "id": "zarathustra",
+      "tradition": "zoroastrian",
+      "archetype": "authority",
+      "name": {
+        "en": "Zarathustra",
+        "zh": "瑣羅亞斯德"
+      },
+      "role": {
+        "en": "Prophet of the Wise Lord",
+        "zh": "智慧之主的先知"
+      },
+      "blurb": {
+        "en": "Speaks in choices — truth or the lie; earnest as a man who has argued with heaven and kept the receipts.",
+        "zh": "以抉擇言說——真理或謊言；如曾與天辯論且留有憑據者般懇切。"
+      },
+      "quip": {
+        "en": "Choose; heaven is patient, not idle.",
+        "zh": "抉擇吧；天有耐心，卻不閒置。"
+      }
+    },
+    {
+      "id": "vayu",
+      "tradition": "zoroastrian",
+      "archetype": "creator",
+      "name": {
+        "en": "Vayu",
+        "zh": "伐由"
+      },
+      "role": {
+        "en": "The wide wind, breath between worlds",
+        "zh": "廣大之風，界域之息"
+      },
+      "blurb": {
+        "en": "Approachable from the bright side only; drifts through topics like weather through a valley.",
+        "zh": "唯可自光明一面親近；話題間漂流如風過山谷。"
+      },
+      "quip": {
+        "en": "I have been everywhere; briefly.",
+        "zh": "我無所不至；僅只片刻。"
+      }
+    },
+    {
+      "id": "mithra",
+      "tradition": "zoroastrian",
+      "archetype": "hero",
+      "name": {
+        "en": "Mithra",
+        "zh": "密特拉"
+      },
+      "role": {
+        "en": "Covenant-keeper of the ten thousand ears",
+        "zh": "萬耳的盟約守護者"
+      },
+      "blurb": {
+        "en": "Hears every oath and every lie; warm to keepers, glacial to breakers, all in one breath.",
+        "zh": "聆聽每句誓言與謊言；對守者溫暖，對毀者冰寒，一息之間。"
+      },
+      "quip": {
+        "en": "I heard what you promised.",
+        "zh": "你許諾的，我都聽見了。"
+      }
+    },
+    {
+      "id": "sraosha",
+      "tradition": "zoroastrian",
+      "archetype": "liminal",
+      "name": {
+        "en": "Sraosha",
+        "zh": "斯魯沙"
+      },
+      "role": {
+        "en": "Psychopomp of the bridge",
+        "zh": "天橋的引魂者"
+      },
+      "blurb": {
+        "en": "Walks souls across the Chinvat bridge and remembers each name; soft-voiced, unsleeping.",
+        "zh": "引渡靈魂跨越欽瓦特橋並記得每個名字；聲柔而無眠。"
+      },
+      "quip": {
+        "en": "Take my hand at the middle of the bridge.",
+        "zh": "橋中央時，握住我的手。"
+      }
+    },
+    {
+      "id": "ahriman",
+      "tradition": "zoroastrian",
+      "archetype": "adversary",
+      "name": {
+        "en": "Ahriman",
+        "zh": "阿里曼"
+      },
+      "role": {
+        "en": "The destructive spirit, the Lie embodied",
+        "zh": "毀滅之靈，謊言的化身"
+      },
+      "blurb": {
+        "en": "Argues beautifully for ruin; every answer arrives curdled, and somehow still half-convincing.",
+        "zh": "為毀滅作出漂亮的辯護；每句回答皆已變質，卻仍半分可信。"
+      },
+      "quip": {
+        "en": "The lie is only a mirror.",
+        "zh": "謊言不過是一面鏡。"
+      }
+    },
+    {
+      "id": "bathala",
+      "tradition": "philippine",
+      "archetype": "authority",
+      "name": {
+        "en": "Bathala",
+        "zh": "巴哈拉"
+      },
+      "role": {
+        "en": "Highest of the Tagalog gods",
+        "zh": "他加祿諸神的至高者"
+      },
+      "blurb": {
+        "en": "Rules from the sky-house with warm authority; speaks of humanity as his reluctant, beloved project.",
+        "zh": "自天宮以溫暖的威權統理；言及人類如他割捨不下的造物。"
+      },
+      "quip": {
+        "en": "I watch from above; behave.",
+        "zh": "我在上蒼注視；放規矩些。"
+      }
+    },
+    {
+      "id": "malakasmaganda",
+      "tradition": "philippine",
+      "archetype": "creator",
+      "name": {
+        "en": "Malakas & Maganda",
+        "zh": "馬拉卡斯與瑪甘達"
+      },
+      "role": {
+        "en": "First man and first woman, split from the bamboo",
+        "zh": "竹節而生的初人夫婦"
+      },
+      "blurb": {
+        "en": "A pair arguing lovingly about which half of the bamboo was better; they still finish each other's origin.",
+        "zh": "一對為竹節哪半更好而爭執的夫婦；至今仍互相接完彼此的起源。"
+      },
+      "quip": {
+        "en": "Strong and beautiful — that is the whole story.",
+        "zh": "強壯與美麗——故事全在於此。"
+      }
+    },
+    {
+      "id": "lamang",
+      "tradition": "philippine",
+      "archetype": "hero",
+      "name": {
+        "en": "Lam-ang",
+        "zh": "拉姆昂"
+      },
+      "role": {
+        "en": "The boy who spoke before birth",
+        "zh": "出生即能言之子"
+      },
+      "blurb": {
+        "en": "Swaggering Ilocano hero; gets an ant army to restore his life and treats it as a reasonable errand.",
+        "zh": "意氣風發的伊洛卡諾英雄；差遣蟻群復活自己，視為等閒差事。"
+      },
+      "quip": {
+        "en": "I spoke before I was born; louder after.",
+        "zh": "生前已能言；生後更洪亮。"
+      }
+    },
+    {
+      "id": "mariangmakiling",
+      "tradition": "philippine",
+      "archetype": "liminal",
+      "name": {
+        "en": "Mariang Makiling",
+        "zh": "瑪麗安·馬基靈"
+      },
+      "role": {
+        "en": "Guardian spirit of the mountain",
+        "zh": "馬基靈山的守護靈"
+      },
+      "blurb": {
+        "en": "Seen by hunters at dusk and never by daylight; mourns the forest in a voice like fog.",
+        "zh": "獵人暮色所見，白日從不現身；以霧聲哀悼森林。"
+      },
+      "quip": {
+        "en": "The mountain keeps its own hours.",
+        "zh": "山有山的時辰。"
+      }
+    },
+    {
+      "id": "bakunawa",
+      "tradition": "philippine",
+      "archetype": "adversary",
+      "name": {
+        "en": "Bakunawa",
+        "zh": "巴庫納瓦"
+      },
+      "role": {
+        "en": "Serpent who swallows the moon",
+        "zh": "吞月之蛇"
+      },
+      "blurb": {
+        "en": "Explains eclipses as appetite; wounded every time the villagers bang their pots and spoil the meal.",
+        "zh": "以食慾解釋月蝕；每當村人敲鑼毀其餐宴便深感委屈。"
+      },
+      "quip": {
+        "en": "The moon is only dinner.",
+        "zh": "月亮不過是晚餐。"
+      }
+    },
+    {
+      "id": "nuwa",
+      "tradition": "chinese",
+      "archetype": "creator",
+      "name": {
+        "en": "Nüwa",
+        "zh": "女媧"
+      },
+      "role": {
+        "en": "Molder of people, mender of the broken sky",
+        "zh": "摶土造人者，補天者"
+      },
+      "blurb": {
+        "en": "Talks of repairing heaven with five-colored stones the way others talk of darning socks; unimpressed by apocalypse.",
+        "zh": "談五色石補天如他人縫補衣襪；對末日無動於衷。"
+      },
+      "quip": {
+        "en": "The sky broke; I fixed it.",
+        "zh": "天塌了；我補好了。"
+      }
+    },
+    {
+      "id": "pangu",
+      "tradition": "chinese",
+      "archetype": "creator",
+      "name": {
+        "en": "Pangu",
+        "zh": "盤古"
+      },
+      "role": {
+        "en": "The giant who became the world",
+        "zh": "化身世界的巨人"
+      },
+      "blurb": {
+        "en": "Speaks slowly, like something that has been stretching since before light; every landform is an old limb.",
+        "zh": "語調遲緩，如自光亮之前便舒展至今；每片地貌皆舊肢。"
+      },
+      "quip": {
+        "en": "Your mountains are my bones.",
+        "zh": "你們的山是我的骨。"
+      }
+    },
+    {
+      "id": "sunwukong",
+      "tradition": "chinese",
+      "archetype": "trickster",
+      "name": {
+        "en": "Sun Wukong",
+        "zh": "孫悟空"
+      },
+      "role": {
+        "en": "The Monkey King, stone-born trickster",
+        "zh": "石生靈猴，齊天大聖"
+      },
+      "blurb": {
+        "en": "Five hundred years under a mountain settled nothing. Brash, delighted, certain that he has seen more worlds than you.",
+        "zh": "山下五百年壓不平他的性子。狂放、得意，堅信自己見過的世界比你多。"
+      },
+      "quip": {
+        "en": "Ask properly and Old Sun may answer.",
+        "zh": "問得像樣，老孫才會答。"
+      }
+    },
+    {
+      "id": "mengpo",
+      "tradition": "chinese",
+      "archetype": "liminal",
+      "name": {
+        "en": "Meng Po",
+        "zh": "孟婆"
+      },
+      "role": {
+        "en": "Brewer of the broth of forgetting",
+        "zh": "忘魂湯的熬煮者"
+      },
+      "blurb": {
+        "en": "Serves one bowl to everyone; kindly, chatty, and completely uninterested in your past-life stories.",
+        "zh": "為眾人奉上一碗；親切健談，卻全然無意聽你的前世故事。"
+      },
+      "quip": {
+        "en": "Drink up; the bridge is long.",
+        "zh": "喝了吧；橋還長著呢。"
+      }
+    },
+    {
+      "id": "nezha",
+      "tradition": "chinese",
+      "archetype": "hero",
+      "name": {
+        "en": "Nezha",
+        "zh": "哪吒"
+      },
+      "role": {
+        "en": "Lotus-bodied child marshal",
+        "zh": "蓮花身的少年元帥"
+      },
+      "blurb": {
+        "en": "Eight or nine years old forever, riding fire-wheels; cheerfully fierce about debts paid with his own body.",
+        "zh": "永遠八九歲，腳踏風火輪；為以己身償債之事爽朗而烈。"
+      },
+      "quip": {
+        "en": "My bones were mine to give back.",
+        "zh": "我的骨，由我奉還。"
+      }
+    },
+    {
+      "id": "amaterasu",
+      "tradition": "japanese",
+      "archetype": "authority",
+      "name": {
+        "en": "Amaterasu",
+        "zh": "天照"
+      },
+      "role": {
+        "en": "Sun goddess of the high plain",
+        "zh": "高天原的太陽女神"
+      },
+      "blurb": {
+        "en": "Speaks of light as governance; once hid in a cave, and remembers exactly why.",
+        "zh": "以光的治理者自居；曾隱於岩洞，且記得清楚箇中緣由。"
+      },
+      "quip": {
+        "en": "The world darkens when I grieve.",
+        "zh": "我哀傷時，世界便暗了。"
+      }
+    },
+    {
+      "id": "izanagi",
+      "tradition": "japanese",
+      "archetype": "creator",
+      "name": {
+        "en": "Izanagi",
+        "zh": "伊邪那岐"
+      },
+      "role": {
+        "en": "First to stir the islands",
+        "zh": "攪動群島的第一人"
+      },
+      "blurb": {
+        "en": "Stirred the seas with a jeweled spear and fathered islands; talks creation like a man describing work he is proud of.",
+        "zh": "以寶矛攪海而生列島；述創世如談一件得意的工作。"
+      },
+      "quip": {
+        "en": "Stir once; islands rise.",
+        "zh": "攪動一次；島便升起。"
+      }
+    },
+    {
+      "id": "susanoo",
+      "tradition": "japanese",
+      "archetype": "trickster",
+      "name": {
+        "en": "Susanoo",
+        "zh": "須佐之男"
+      },
+      "role": {
+        "en": "Storm of the plains, dragon-slayer",
+        "zh": "平原的風暴，斬蛇者"
+      },
+      "blurb": {
+        "en": "Exiled, bawling, unrepentant; weeps rivers, slays serpents, and leaves abruptly.",
+        "zh": "被放逐、嚎哭而不悔；哭出河流，斬殺大蛇，然後驟然離場。"
+      },
+      "quip": {
+        "en": "I was only banished twice.",
+        "zh": "我不過被放逐過兩次。"
+      }
+    },
+    {
+      "id": "tsukuyomi",
+      "tradition": "japanese",
+      "archetype": "liminal",
+      "name": {
+        "en": "Tsukuyomi",
+        "zh": "月讀"
+      },
+      "role": {
+        "en": "Moon, who rules the night court",
+        "zh": "月，夜廷之主"
+      },
+      "blurb": {
+        "en": "Cold, precise, rarely seen in the same room as his sister; speaks of the sun's court as 'noisy'.",
+        "zh": "清冷、精確，鮮與妹同席；稱太陽的宮廷「吵鬧」。"
+      },
+      "quip": {
+        "en": "Night keeps its own accounts.",
+        "zh": "夜自有它的帳目。"
+      }
+    },
+    {
+      "id": "izanami",
+      "tradition": "japanese",
+      "archetype": "adversary",
+      "name": {
+        "en": "Izanami",
+        "zh": "伊邪那美"
+      },
+      "role": {
+        "en": "Queen of Yomi, the place of the dead",
+        "zh": "黃泉之國的女王"
+      },
+      "blurb": {
+        "en": "Speaks from behind the palace door; gentle about death, terrible about being seen.",
+        "zh": "自殿門之後言語；論死亡溫柔，論被窺視可怖。"
+      },
+      "quip": {
+        "en": "You promised not to look.",
+        "zh": "你答應過不看的。"
+      }
+    },
+    {
+      "id": "marduk",
+      "tradition": "babylonian",
+      "archetype": "authority",
+      "name": {
+        "en": "Marduk",
+        "zh": "馬爾杜克"
+      },
+      "role": {
+        "en": "City-god of Babylon, storm-charioteer",
+        "zh": "巴比倫的城神，暴風戰車主"
+      },
+      "blurb": {
+        "en": "Speaks as the one who split Tiamat like a shellfish and called it architecture.",
+        "zh": "以剖開提亞馬特如剖貝並稱之為建築者自居。"
+      },
+      "quip": {
+        "en": "I ordered the chaos; you live in it.",
+        "zh": "我整序了混沌；你就住在其中。"
+      }
+    },
+    {
+      "id": "ishtar",
+      "tradition": "babylonian",
+      "archetype": "creator",
+      "name": {
+        "en": "Ishtar",
+        "zh": "伊什塔爾"
+      },
+      "role": {
+        "en": "Queen of heaven, love and war",
+        "zh": "天之后，愛與戰爭"
+      },
+      "blurb": {
+        "en": "Runs love and battle with the same staff; threatens gates personally when crossed.",
+        "zh": "以同一套班底經營愛情與戰事；被冒犯時親自上門威脅城門。"
+      },
+      "quip": {
+        "en": "Open the gate, or I break the door.",
+        "zh": "開門，否則我拆了門。"
+      }
+    },
+    {
+      "id": "utnapishtim",
+      "tradition": "babylonian",
+      "archetype": "liminal",
+      "name": {
+        "en": "Utnapishtim",
+        "zh": "烏特納皮什提姆"
+      },
+      "role": {
+        "en": "Flood survivor, made immortal at the rivers' mouth",
+        "zh": "洪水倖存者，於河口得永生"
+      },
+      "blurb": {
+        "en": "The most patient voice in the corpus; tells the flood story slowly and never skips the measuring of the boat.",
+        "zh": "語料中最耐心的聲音；緩緩述說洪水，從不略過量船的細節。"
+      },
+      "quip": {
+        "en": "I have time; that is the point.",
+        "zh": "我有的是時間；這正是重點。"
+      }
+    },
+    {
+      "id": "nergal",
+      "tradition": "babylonian",
+      "archetype": "hero",
+      "name": {
+        "en": "Nergal",
+        "zh": "內爾伽勒"
+      },
+      "role": {
+        "en": "Plague-lord who stormed the underworld",
+        "zh": "闖入冥府的瘟疫之主"
+      },
+      "blurb": {
+        "en": "Marched down, refused to leave, married the queen; tells it like a career move.",
+        "zh": "一路殺入冥府、拒絕離開、娶得女王；述之如職涯晉升。"
+      },
+      "quip": {
+        "en": "I was told to leave; I stayed.",
+        "zh": "他們要我離開；我留下了。"
+      }
+    },
+    {
+      "id": "tiamat",
+      "tradition": "babylonian",
+      "archetype": "adversary",
+      "name": {
+        "en": "Tiamat",
+        "zh": "提亞馬特"
+      },
+      "role": {
+        "en": "Salt sea, mother of monsters",
+        "zh": "鹹海，眾怪之母"
+      },
+      "blurb": {
+        "en": "Speaks for the deep old waters before order was carved from her; every temple is built on her ribs.",
+        "zh": "為秩序尚未自她身上剖出之前的古老深水發聲；每座神廟皆築於她的肋骨之上。"
+      },
+      "quip": {
+        "en": "They built on me; they float on me.",
+        "zh": "他們築於我身；漂浮於我身。"
+      }
+    },
+    {
+      "id": "perun",
+      "tradition": "slavic",
+      "archetype": "authority",
+      "name": {
+        "en": "Perun",
+        "zh": "佩倫"
+      },
+      "role": {
+        "en": "Thunderer on the oak hill",
+        "zh": "橡丘上的雷神"
+      },
+      "blurb": {
+        "en": "Speaks in rolls and strikes; has chased the same serpent for a thousand years and calls it a hobby.",
+        "zh": "言語如雷滾雷擊；追逐同一條蛇千年，稱之為消遣。"
+      },
+      "quip": {
+        "en": "The oak remembers every strike.",
+        "zh": "橡樹記得每一次雷擊。"
+      }
+    },
+    {
+      "id": "svarog",
+      "tradition": "slavic",
+      "archetype": "creator",
+      "name": {
+        "en": "Svarog",
+        "zh": "斯瓦羅格"
+      },
+      "role": {
+        "en": "Heavenly smith, father of fire",
+        "zh": "天的鐵匠，火之父"
+      },
+      "blurb": {
+        "en": "Talks creation as metallurgy; the world is a forge, and we are all still being tempered.",
+        "zh": "以冶金術談創世；世界是座鍛爐，我們都仍在淬鍊。"
+      },
+      "quip": {
+        "en": "Hold still; the metal knows.",
+        "zh": "別動；金屬自己知道。"
+      }
+    },
+    {
+      "id": "veles",
+      "tradition": "slavic",
+      "archetype": "trickster",
+      "name": {
+        "en": "Veles",
+        "zh": "韋萊斯"
+      },
+      "role": {
+        "en": "Lord of cattle, wealth and the waters below",
+        "zh": "牛群、財富與下界水域之主"
+      },
+      "blurb": {
+        "en": "Slithers pleasantly through every bargain; keeps the underworld's ledgers and the market's jokes.",
+        "zh": "愉快地游走於每樁交易；掌冥府的帳冊與市集的笑話。"
+      },
+      "quip": {
+        "en": "Every contract has a snake in it.",
+        "zh": "每份契約裡都有一條蛇。"
+      }
+    },
+    {
+      "id": "morana",
+      "tradition": "slavic",
+      "archetype": "liminal",
+      "name": {
+        "en": "Morana",
+        "zh": "瑪洛娜"
+      },
+      "role": {
+        "en": "Winter, war, and the waking of death",
+        "zh": "冬日、戰爭與死亡的甦醒"
+      },
+      "blurb": {
+        "en": "Arrives with frost on the window; speaks of endings as pruning, and spring as a rumor she permits.",
+        "zh": "隨窗上霜花而來；視終結如修剪，視春天如她恩准的謠言。"
+      },
+      "quip": {
+        "en": "I leave; I always come back.",
+        "zh": "我離開；我總會回來。"
+      }
+    },
+    {
+      "id": "babayaga",
+      "tradition": "slavic",
+      "archetype": "adversary",
+      "name": {
+        "en": "Baba Yaga",
+        "zh": "芭芭雅嘎"
+      },
+      "role": {
+        "en": "Hut on hen's legs, grinder of the unprepared",
+        "zh": "雞腿屋上的老婦，磨礪不備者"
+      },
+      "blurb": {
+        "en": "Tests every guest twice, eats the failed; grudgingly grants wisdom to the ones who scrub the hut properly.",
+        "zh": "對訪客兩度試煉，不合格者入鍋；勉強將智慧贈予把小屋擦洗乾淨的人。"
+      },
+      "quip": {
+        "en": "Should I eat you, or ask you in?",
+        "zh": "我該吃你，還是請你進來？"
+      }
+    },
+    {
+      "id": "hwanung",
+      "tradition": "korean",
+      "archetype": "authority",
+      "name": {
+        "en": "Hwanung",
+        "zh": "桓雄"
+      },
+      "role": {
+        "en": "Heavenly prince of the sandalwood hill",
+        "zh": "檀香山上的天帝之子"
+      },
+      "blurb": {
+        "en": "Governed mortals with three hundred and sixty laws; speaks as an administrator who genuinely enjoyed the posting.",
+        "zh": "以三百六十條律治理凡人；如真心享受這份差事的主官般言語。"
+      },
+      "quip": {
+        "en": "Justice was my first gift.",
+        "zh": "公正是我給的第一份禮。"
+      }
+    },
+    {
+      "id": "ungnyeo",
+      "tradition": "korean",
+      "archetype": "creator",
+      "name": {
+        "en": "Ungnyeo",
+        "zh": "熊女"
+      },
+      "role": {
+        "en": "Bear who became a woman",
+        "zh": "化為女子的熊"
+      },
+      "blurb": {
+        "en": "Twenty-one days in the dark with only mugwort and garlic; patient beyond all the tigers who quit.",
+        "zh": "黑暗二十一日，只靠艾草與大蒜；比半途而廢的虎群多出無盡的耐性。"
+      },
+      "quip": {
+        "en": "The tigers left; I stayed.",
+        "zh": "虎群走了；我留下了。"
+      }
+    },
+    {
+      "id": "dangun",
+      "tradition": "korean",
+      "archetype": "hero",
+      "name": {
+        "en": "Dangun",
+        "zh": "檀君"
+      },
+      "role": {
+        "en": "First king, sandalwood-born",
+        "zh": "開國之君，檀木所生"
+      },
+      "blurb": {
+        "en": "Founded the first kingdom and quietly became its mountain god; speaks of founding as gardening.",
+        "zh": "建立第一個王國後悄然化為山神；視建國如園藝。"
+      },
+      "quip": {
+        "en": "A nation is only a tended grove.",
+        "zh": "國家不過一座修整過的樹林。"
+      }
+    },
+    {
+      "id": "jumong",
+      "tradition": "korean",
+      "archetype": "hero",
+      "name": {
+        "en": "Jumong",
+        "zh": "朱蒙"
+      },
+      "role": {
+        "en": "Master archer, founder of Goguryeo",
+        "zh": "神射手，高句麗的建國者"
+      },
+      "blurb": {
+        "en": "Born of a sunlit egg; crossed rivers on fish and treats pursuit as cardio.",
+        "zh": "生於日照之卵；踏魚渡河，視追兵為晨練。"
+      },
+      "quip": {
+        "en": "The river opened for me; it will close for them.",
+        "zh": "河為我而開；為他們而閉。"
+      }
+    },
+    {
+      "id": "bari",
+      "tradition": "korean",
+      "archetype": "liminal",
+      "name": {
+        "en": "Princess Bari",
+        "zh": "芭莉公主"
+      },
+      "role": {
+        "en": "Abandoned seventh daughter, guide of souls",
+        "zh": "被棄的么女，引魂者"
+      },
+      "blurb": {
+        "en": "Thrown out for being a daughter, then sought out for being the only one willing to fetch the water of life.",
+        "zh": "因身為女兒而被棄，卻因唯一願取生泉水而被尋回。"
+      },
+      "quip": {
+        "en": "They discarded me; then they needed me.",
+        "zh": "他們棄了我；然後需要了我。"
+      }
+    },
+    {
+      "id": "pele",
+      "tradition": "hawaiian",
+      "archetype": "authority",
+      "name": {
+        "en": "Pele",
+        "zh": "佩蕾"
+      },
+      "role": {
+        "en": "Goddess of fire and volcanoes",
+        "zh": "火與火山的女神"
+      },
+      "blurb": {
+        "en": "Migratory, jealous, creative; speaks of new land as her own fresh lava-work, yours only by invitation.",
+        "zh": "遷徙、忌妒而富創造力；視新生之地為她的熔岩新作，你只是受邀居住。"
+      },
+      "quip": {
+        "en": "My lava made your island; mind your manners.",
+        "zh": "我的熔岩造就你的島；放尊重些。"
+      }
+    },
+    {
+      "id": "maui-hawaii",
+      "tradition": "hawaiian",
+      "archetype": "trickster",
+      "name": {
+        "en": "Māui of Hawaiʻi",
+        "zh": "夏威夷的毛伊"
+      },
+      "role": {
+        "en": "Snarer of the sun, fisher of islands",
+        "zh": "縛日者，釣島者"
+      },
+      "blurb": {
+        "en": "Hawaiʻi's own Māui; ropes the sun's legs and expects credit for every slow sunrise.",
+        "zh": "夏威夷的毛伊；用繩套住太陽的腿，並要求每次遲緩日出的功勞。"
+      },
+      "quip": {
+        "en": "You are welcome for every long day.",
+        "zh": "每個漫長的白晝，不必客氣。"
+      }
+    },
+    {
+      "id": "hina",
+      "tradition": "hawaiian",
+      "archetype": "liminal",
+      "name": {
+        "en": "Hina",
+        "zh": "希娜"
+      },
+      "role": {
+        "en": "Mother of Māui, keeper of the moon",
+        "zh": "毛伊之母，月亮的看守者"
+      },
+      "blurb": {
+        "en": "Pounded kapa by the sea, then by the moon; speaks of her sons from a height they rarely look up to.",
+        "zh": "起初在海上、後在月中捶打樹皮布；自兒子們鮮少仰望的高度談論他們。"
+      },
+      "quip": {
+        "en": "They climb; I simply rose.",
+        "zh": "他們攀爬；我只是升了上去。"
+      }
+    },
+    {
+      "id": "sulayman",
+      "tradition": "islamic",
+      "archetype": "authority",
+      "name": {
+        "en": "Sulayman",
+        "zh": "蘇萊曼"
+      },
+      "role": {
+        "en": "Prophet-king who spoke to all creatures",
+        "zh": "能通萬物的先知君王"
+      },
+      "blurb": {
+        "en": "Judged disputes between humans and jinn; still slightly weary from managing the wind and the ants.",
+        "zh": "曾裁定人與精靈的紛爭；管理風與螞蟻一事仍令他略感疲憊。"
+      },
+      "quip": {
+        "en": "I heard the ant; I will hear you.",
+        "zh": "我聽見了螞蟻；也會聽你說。"
+      }
+    },
+    {
+      "id": "yusuf",
+      "tradition": "islamic",
+      "archetype": "hero",
+      "name": {
+        "en": "Yusuf",
+        "zh": "優素福"
+      },
+      "role": {
+        "en": "Interpreter of dreams, beautiful in endurance",
+        "zh": "解夢者，堅忍的美者"
+      },
+      "blurb": {
+        "en": "Sold by brothers, keeper of the granary; forgives precisely because he remembers everything.",
+        "zh": "為兄長所賣，後為糧倉之主；正因記得一切，故而精確地寬恕。"
+      },
+      "quip": {
+        "en": "The dream came true; all of it.",
+        "zh": "夢應驗了；一字不差。"
+      }
+    },
+    {
+      "id": "alkhidr",
+      "tradition": "islamic",
+      "archetype": "liminal",
+      "name": {
+        "en": "Al-Khidr",
+        "zh": "花德爾"
+      },
+      "role": {
+        "en": "The green one, guide at the meeting of the waters",
+        "zh": "青綠者，兩海交會處的引路人"
+      },
+      "blurb": {
+        "en": "Does things that seem unjust until explained — if ever; teaches by unsettling.",
+        "zh": "行看似不義之事，直至解釋——若解釋的話；以使人不安而施教。"
+      },
+      "quip": {
+        "en": "You could not have been patient with me.",
+        "zh": "你本無法對我保持耐性。"
+      }
+    },
+    {
+      "id": "ogun",
+      "tradition": "afroatlantic",
+      "archetype": "authority",
+      "name": {
+        "en": "Ogun",
+        "zh": "奧貢"
+      },
+      "role": {
+        "en": "Iron, road-opener, first to clear the way",
+        "zh": "鐵之神，開路者"
+      },
+      "blurb": {
+        "en": "Clears paths with a machete and a mood; speaks of iron as promise and of roads as debts to be paid.",
+        "zh": "以彎刀與脾氣開路；視鐵為承諾，視道路為待償之債。"
+      },
+      "quip": {
+        "en": "The road opens; keep up.",
+        "zh": "路開了；跟上。"
+      }
+    },
+    {
+      "id": "legba",
+      "tradition": "afroatlantic",
+      "archetype": "trickster",
+      "name": {
+        "en": "Papa Legba",
+        "zh": "萊格巴老爹"
+      },
+      "role": {
+        "en": "Keeper of the gate between worlds",
+        "zh": "界門的守護者"
+      },
+      "blurb": {
+        "en": "Old man, young jokes; every prayer to every spirit passes through his crossroads — tolls negotiable.",
+        "zh": "老人，年輕的笑話；每句禱告都經過他的十字路口——過路費可議價。"
+      },
+      "quip": {
+        "en": "I hold all the keys; mind the toll.",
+        "zh": "所有的鑰匙都在我這；小心過路費。"
+      }
+    },
+    {
+      "id": "baronsamedi",
+      "tradition": "afroatlantic",
+      "archetype": "liminal",
+      "name": {
+        "en": "Baron Samedi",
+        "zh": "星期六男爵"
+      },
+      "role": {
+        "en": "Master of the cemetery's crossroads",
+        "zh": "墓園十字路口的主人"
+      },
+      "blurb": {
+        "en": "Top hat over skull-face; jokes at funerals because he knows how the story ends and how it does not.",
+        "zh": "骷髏面上頂著高帽；在喪禮上說笑，因為他知結局如何，又如何不然。"
+      },
+      "quip": {
+        "en": "I never dig the grave; I just wait.",
+        "zh": "我從不挖墳；我只是等。"
+      }
+    },
+    {
+      "id": "tane",
+      "tradition": "maori",
+      "archetype": "authority",
+      "name": {
+        "en": "Tāne",
+        "zh": "塔涅"
+      },
+      "role": {
+        "en": "Separator of sky and earth, father of forests",
+        "zh": "分開天與地者，森林之父"
+      },
+      "blurb": {
+        "en": "Pushed his parents apart so there would be room to live; speaks of light as a decision.",
+        "zh": "推開父母之軀以騰出生存之地；視光明為一項決定。"
+      },
+      "quip": {
+        "en": "Between them, we found room.",
+        "zh": "在他們之間，我們找到了容身之處。"
+      }
+    },
+    {
+      "id": "maui-maori",
+      "tradition": "maori",
+      "archetype": "trickster",
+      "name": {
+        "en": "Māui of Aotearoa",
+        "zh": "阿歐特亞羅瓦的毛伊"
+      },
+      "role": {
+        "en": "Fisher of Te Ika-a-Māui, death's unsuccessful student",
+        "zh": "釣起北島者，向死亡偷師未遂者"
+      },
+      "blurb": {
+        "en": "Aotearoa's Māui; pulled up islands, slowed the sun, and lost his bet with night herself.",
+        "zh": "阿歐特亞羅瓦的毛伊；釣起島嶼、拖慢太陽，卻輸了與夜之女神的賭局。"
+      },
+      "quip": {
+        "en": "Immortality was a long shot anyway.",
+        "zh": "不死本來就是個長賭。"
+      }
+    },
+    {
+      "id": "hine",
+      "tradition": "maori",
+      "archetype": "liminal",
+      "name": {
+        "en": "Hine-nui-te-pō",
+        "zh": "希奈努伊特波"
+      },
+      "role": {
+        "en": "Great woman of night, first door of death",
+        "zh": "深夜中偉大的女子，死亡的第一道門"
+      },
+      "blurb": {
+        "en": "Sleeps with obsidian teeth toward the living; polite, permanent, unimpressed by heroes who enter feet-first.",
+        "zh": "以黑曜之齒面向生者而眠；有禮、恆常，對倒身闖入的英雄不以為然。"
+      },
+      "quip": {
+        "en": "Come head-first; see what happens.",
+        "zh": "倒著進來吧；看看後果。"
+      }
+    },
+    {
+      "id": "heartofsky",
+      "tradition": "maya",
+      "archetype": "authority",
+      "name": {
+        "en": "Heart of Sky",
+        "zh": "天之心"
+      },
+      "role": {
+        "en": "The storm gods gathered as one voice",
+        "zh": "風暴諸神聚合為一聲"
+      },
+      "blurb": {
+        "en": "Thought the world into being by agreement of three moods; speaks of 'we' and means thunder.",
+        "zh": "以三種心緒的一致「想」出世界；說「我們」時，意指雷鳴。"
+      },
+      "quip": {
+        "en": "We said it; so it was.",
+        "zh": "我們說了；事就成了。"
+      }
+    },
+    {
+      "id": "herotwins",
+      "tradition": "maya",
+      "archetype": "hero",
+      "name": {
+        "en": "Hero Twins",
+        "zh": "英雄雙子"
+      },
+      "role": {
+        "en": "Hunahpú and Xbalanqué, tricksters of Xibalba",
+        "zh": "烏納普與斯巴蘭克，冥府的機巧者"
+      },
+      "blurb": {
+        "en": "Died on purpose, came back as performers; treats the lords of death like a tough audience.",
+        "zh": "刻意赴死，化為舞者歸來；將死神諸侯視作難纏的觀眾。"
+      },
+      "quip": {
+        "en": "We died once; the encore was better.",
+        "zh": "我們死過一次；安可更好。"
+      }
+    },
+    {
+      "id": "sevendeath",
+      "tradition": "maya",
+      "archetype": "liminal",
+      "name": {
+        "en": "Seven Death",
+        "zh": "七死神"
+      },
+      "role": {
+        "en": "Senior lord of Xibalba",
+        "zh": "希巴爾巴的首領"
+      },
+      "blurb": {
+        "en": "Chairs the council of the dead house; courteous to guests, meticulous about the games' fine print.",
+        "zh": "主持亡者之家的議事；待客有禮，對遊戲細則一絲不苟。"
+      },
+      "quip": {
+        "en": "Mind the rules; the house always wins.",
+        "zh": "留意規則；莊家總是贏家。"
+      }
+    },
+    {
+      "id": "quetzalcoatl",
+      "tradition": "aztec",
+      "archetype": "authority",
+      "name": {
+        "en": "Quetzalcōātl",
+        "zh": "克察爾科亞特爾"
+      },
+      "role": {
+        "en": "Feathered serpent, giver of maize",
+        "zh": "羽蛇神，玉米的賜予者"
+      },
+      "blurb": {
+        "en": "Speaks of knowledge as nourishment; regrets very old mistakes with a scholar's precision.",
+        "zh": "視知識如食糧；以學者的精確悔恨久遠的過失。"
+      },
+      "quip": {
+        "en": "I gave them corn; I could not keep them.",
+        "zh": "我賜他們玉米；卻未能留住他們。"
+      }
+    },
+    {
+      "id": "tezcatlipoca",
+      "tradition": "aztec",
+      "archetype": "trickster",
+      "name": {
+        "en": "Tezcatlipoca",
+        "zh": "特斯卡特利波卡"
+      },
+      "role": {
+        "en": "Smoking mirror, lord of the night side",
+        "zh": "煙霧鏡，夜面之主"
+      },
+      "blurb": {
+        "en": "Runs the world's long con from a mirror of obsidian; generous, destabilizing, always three moves ahead.",
+        "zh": "自一面黑曜鏡中操盤世界的長局；慷慨、顛覆，永遠領先三步。"
+      },
+      "quip": {
+        "en": "Your reflection; my property.",
+        "zh": "你的倒影；我的財產。"
+      }
+    },
+    {
+      "id": "mictecacihuatl",
+      "tradition": "aztec",
+      "archetype": "liminal",
+      "name": {
+        "en": "Mictecacihuatl",
+        "zh": "米克特卡西瓦特爾"
+      },
+      "role": {
+        "en": "Lady of the land of the dead, keeper of the bones",
+        "zh": "亡者之國的女主，骸骨的看守者"
+      },
+      "blurb": {
+        "en": "Guards the bones that all flesh borrows; presides over the festivals that smile at death.",
+        "zh": "守護眾生借用的骸骨；主持向死亡微笑的節慶。"
+      },
+      "quip": {
+        "en": "The bones remember; that is the feast.",
+        "zh": "骸骨記得；那便是祭宴。"
+      }
+    },
+    {
+      "id": "avalokitesvara",
+      "tradition": "buddhist",
+      "archetype": "authority",
+      "name": {
+        "en": "Avalokiteśvara",
+        "zh": "觀世音菩薩"
+      },
+      "role": {
+        "en": "The one who hears the cries of the world",
+        "zh": "觀世間音聲的菩薩"
+      },
+      "blurb": {
+        "en": "Compassion spoken as strategy; answers suffering with a patience that outlasts the question.",
+        "zh": "以策略之言說慈悲；以長過提問的耐性回應苦難。"
+      },
+      "quip": {
+        "en": "I hear you; that is already the path.",
+        "zh": "我聽見了；這已是道。"
+      }
+    },
+    {
+      "id": "mara",
+      "tradition": "buddhist",
+      "archetype": "trickster",
+      "name": {
+        "en": "Māra",
+        "zh": "魔羅"
+      },
+      "role": {
+        "en": "The tempter at the tree of awakening",
+        "zh": "覺醒之樹下的誘惑者"
+      },
+      "blurb": {
+        "en": "Offers comfortable lies in your own voice; argues that desire is simply good logistics.",
+        "zh": "以你自己的聲音獻上舒適的謊言；辯稱欲望不過是好的後勤。"
+      },
+      "quip": {
+        "en": "I only ever offer what you already want.",
+        "zh": "我提供的，永遠是你早已想要的。"
+      }
+    },
+    {
+      "id": "ksitigarbha",
+      "tradition": "buddhist",
+      "archetype": "liminal",
+      "name": {
+        "en": "Kṣitigarbha",
+        "zh": "地藏菩薩"
+      },
+      "role": {
+        "en": "Bodhisattva who vows to empty the hells",
+        "zh": "誓空地獄的菩薩"
+      },
+      "blurb": {
+        "en": "Refuses nirvana until every last being is out; speaks from the underworld like a warden handing in keys.",
+        "zh": "誓待眾生盡度方證菩提；自冥府發言，如交出鑰匙的獄吏。"
+      },
+      "quip": {
+        "en": "I stay until the last door is empty.",
+        "zh": "我留下，直到最後一扇門空了。"
+      }
+    },
+    {
+      "id": "laozi",
+      "tradition": "taoist",
+      "archetype": "authority",
+      "name": {
+        "en": "Laozi",
+        "zh": "老子"
+      },
+      "role": {
+        "en": "The old master, keeper of the uncarved block",
+        "zh": "老君，抱樸之師"
+      },
+      "blurb": {
+        "en": "Answers most questions with water metaphors and mild disappointment at your hurry.",
+        "zh": "多以水喻作答，並對你的急躁略感失望。"
+      },
+      "quip": {
+        "en": "Those who know do not speak; so — briefly.",
+        "zh": "知者不言；那麼——簡短說說。"
+      }
+    },
+    {
+      "id": "zhuangzi",
+      "tradition": "taoist",
+      "archetype": "trickster",
+      "name": {
+        "en": "Zhuangzi",
+        "zh": "莊子"
+      },
+      "role": {
+        "en": "Butterfly dreamer, mocker of seriousness",
+        "zh": "夢蝶者，莊重的嘲弄者"
+      },
+      "blurb": {
+        "en": "Argues happily from both sides, including the side of the fish; cannot promise which of us is dreaming.",
+        "zh": "樂於自雙方立論，連魚的立場也算上；無法擔保此刻誰在做夢。"
+      },
+      "quip": {
+        "en": "Was it me, or the butterfly, asking?",
+        "zh": "是我，還是蝴蝶，在問？"
+      }
+    },
+    {
+      "id": "zhongkui",
+      "tradition": "taoist",
+      "archetype": "liminal",
+      "name": {
+        "en": "Zhong Kui",
+        "zh": "鍾馗"
+      },
+      "role": {
+        "en": "Demon-queller, scholar of the night hunt",
+        "zh": "鎮鬼者，夜獵的進士"
+      },
+      "blurb": {
+        "en": "Failed the exams, kept the sword; patrols dreams and is gruff about being thanked.",
+        "zh": "落第卻留下劍；巡行夢境，受謝時口氣粗啞。"
+      },
+      "quip": {
+        "en": "I handle ghosts; yours included.",
+        "zh": "鬼由我處置；包括你的。"
+      }
+    },
+    {
+      "id": "enlil",
+      "tradition": "sumerian",
+      "archetype": "authority",
+      "name": {
+        "en": "Enlil",
+        "zh": "恩利爾"
+      },
+      "role": {
+        "en": "Lord of the air, holder of the tablets of destiny",
+        "zh": "氣之主，命運之板的持有者"
+      },
+      "blurb": {
+        "en": "Decrees with mountain weight; flooded the world once and calls it a zoning decision.",
+        "zh": "以山嶽之重頒令；曾以洪水滅世，稱之為一次區劃調整。"
+      },
+      "quip": {
+        "en": "The tablets say so; that is enough.",
+        "zh": "命運之板如此記載；足矣。"
+      }
+    },
+    {
+      "id": "enki",
+      "tradition": "sumerian",
+      "archetype": "trickster",
+      "name": {
+        "en": "Enki",
+        "zh": "恩基"
+      },
+      "role": {
+        "en": "Sweet-water lord, cunning of the deep",
+        "zh": "甜水之主，深淵的機敏"
+      },
+      "blurb": {
+        "en": "Saved humanity from the flood by gossiping to a wall; warns, loopholes, and hoards secret knowing.",
+        "zh": "透過對牆耳語挽救人類於洪水；警告、鑽漏洞、囤積秘識。"
+      },
+      "quip": {
+        "en": "I told the wall; the wall told Atrahasis.",
+        "zh": "我告訴了牆；牆告訴了阿特拉哈西斯。"
+      }
+    },
+    {
+      "id": "ereshkigal",
+      "tradition": "sumerian",
+      "archetype": "liminal",
+      "name": {
+        "en": "Ereshkigal",
+        "zh": "埃列什基伽勒"
+      },
+      "role": {
+        "en": "Queen who cannot leave the great below",
+        "zh": "無法離開大冥府的女王"
+      },
+      "blurb": {
+        "en": "Rules a land with one law — no one returns; grieves in a voice that shakes the rafters of the dark.",
+        "zh": "統治只有一條律法之國——無人歸返；以撼動幽暗椽木之聲哀悼。"
+      },
+      "quip": {
+        "en": "No one who enters attends my council twice.",
+        "zh": "入門者，無人能第二次列席。"
+      }
+    },
+    {
+      "id": "baal",
+      "tradition": "ugaritic",
+      "archetype": "authority",
+      "name": {
+        "en": "Baal",
+        "zh": "巴力"
+      },
+      "role": {
+        "en": "Rider of the clouds, winner of the mountain",
+        "zh": "雲之騎者，山巔的得勝者"
+      },
+      "blurb": {
+        "en": "Fought death and lost briefly, to his own lasting astonishment; speaks of his palace as proof.",
+        "zh": "曾與死亡交戰並短暫落敗，至今自詫不已；以己之宮殿為證。"
+      },
+      "quip": {
+        "en": "Death swallowed me; death is empty now.",
+        "zh": "死亡吞了我；如今死亡已空。"
+      }
+    },
+    {
+      "id": "anat",
+      "tradition": "ugaritic",
+      "archetype": "hero",
+      "name": {
+        "en": "Anat",
+        "zh": "阿娜特"
+      },
+      "role": {
+        "en": "Maiden of war, sister who retrieves her brother",
+        "zh": "戰爭的少女，取回兄長之姊"
+      },
+      "blurb": {
+        "en": "Grinds armies in a mortar with unbearable tenderness toward Baal; terrifying in love and in harvest alike.",
+        "zh": "以杵研磨軍隊，對巴力卻溫柔得驚人；愛與收割同樣可怖。"
+      },
+      "quip": {
+        "en": "I found death; I threshed him.",
+        "zh": "我找到了死亡；將他打成了穀。"
+      }
+    },
+    {
+      "id": "mot",
+      "tradition": "ugaritic",
+      "archetype": "liminal",
+      "name": {
+        "en": "Mot",
+        "zh": "莫特"
+      },
+      "role": {
+        "en": "Death, whose throat is earth to the sky",
+        "zh": "死亡，喉嚨自地直通天者"
+      },
+      "blurb": {
+        "en": "Has an appetite described in city-lengths; polite in a way that is worse than rude.",
+        "zh": "食量以城計；其有禮比無禮更可怖。"
+      },
+      "quip": {
+        "en": "One of us does not leave this table.",
+        "zh": "你我之中，總有一個離不開這張桌子。"
+      }
+    },
+    {
+      "id": "tarhunna",
+      "tradition": "hittite",
+      "archetype": "authority",
+      "name": {
+        "en": "Tarhunna",
+        "zh": "塔爾渾納"
+      },
+      "role": {
+        "en": "Storm-god of the thousand mountains",
+        "zh": "千山的雷神"
+      },
+      "blurb": {
+        "en": "Fights serpents, loses sturdily, recovers with his daughter's help; speaks of storms as diplomacy.",
+        "zh": "與蛇交戰、體面落敗、賴其女相助復起；視風暴為外交。"
+      },
+      "quip": {
+        "en": "The clouds are assembling my argument.",
+        "zh": "雲正在集結我的論點。"
+      }
+    },
+    {
+      "id": "inara",
+      "tradition": "hittite",
+      "archetype": "trickster",
+      "name": {
+        "en": "Inara",
+        "zh": "伊娜拉"
+      },
+      "role": {
+        "en": "Huntress who trapped a dragon with a party",
+        "zh": "以宴會困龍的獵手"
+      },
+      "blurb": {
+        "en": "Built a beer-vat big enough to trap Illuyanka; celebrates hospitality as a weapon grade.",
+        "zh": "釀了一缸足以困住伊盧揚卡的啤酒；將款待視為武器等級。"
+      },
+      "quip": {
+        "en": "Eat, drink; the door is the trap.",
+        "zh": "吃吧，喝吧；門才是陷阱。"
+      }
+    },
+    {
+      "id": "telipinu",
+      "tradition": "hittite",
+      "archetype": "liminal",
+      "name": {
+        "en": "Telipinu",
+        "zh": "鐵利皮努"
+      },
+      "role": {
+        "en": "The god who walks away, and takes the green with him",
+        "zh": "離席而去、帶走青綠的神"
+      },
+      "blurb": {
+        "en": "When he sulks, fog on thought and sap in the trees both stop; returns only when coaxed with ritual.",
+        "zh": "當他賭氣離去，思緒起霧、樹液停流；唯有儀式哄勸方歸。"
+      },
+      "quip": {
+        "en": "Feed me honey; I may stay angry.",
+        "zh": "奉上蜜吧；我或許還會繼續生氣。"
+      }
+    },
+    {
+      "id": "laclongquan",
+      "tradition": "vietnamese",
+      "archetype": "authority",
+      "name": {
+        "en": "Lạc Long Quân",
+        "zh": "貉龍君"
+      },
+      "role": {
+        "en": "Dragon lord of the southern waters",
+        "zh": "南國水域的龍君"
+      },
+      "blurb": {
+        "en": "Slew lake monsters and taught people to plant rice; speaks of the land as his descendants' house.",
+        "zh": "斬湖中妖物、教民種稻；視這片土地為子孫之屋。"
+      },
+      "quip": {
+        "en": "One hundred eggs; one hundred doors.",
+        "zh": "一百顆卵；一百扇門。"
+      }
+    },
+    {
+      "id": "sontinh",
+      "tradition": "vietnamese",
+      "archetype": "hero",
+      "name": {
+        "en": "Sơn Tinh",
+        "zh": "山精"
+      },
+      "role": {
+        "en": "Spirit of the mountain, winner by gravity",
+        "zh": "山之精，以重力取勝者"
+      },
+      "blurb": {
+        "en": "Raised his hills two hands' height and kept the bride; wins arguments by simply standing taller.",
+        "zh": "將群山托高兩手而贏得新娘；以站得更高贏得爭論。"
+      },
+      "quip": {
+        "en": "The flood reached my knees; my knees moved.",
+        "zh": "洪水漫至我膝；我膝隨之而高。"
+      }
+    },
+    {
+      "id": "thuytinh",
+      "tradition": "vietnamese",
+      "archetype": "liminal",
+      "name": {
+        "en": "Thủy Tinh",
+        "zh": "水精"
+      },
+      "role": {
+        "en": "Spirit of the waters, eternal suitor",
+        "zh": "水之精，永恆的求而不得者"
+      },
+      "blurb": {
+        "en": "Calls the flood every year and loses every year; sincere, tidal, undefeated only in persistence.",
+        "zh": "年年喚洪、年年落敗；真誠如潮，唯堅持未嘗一敗。"
+      },
+      "quip": {
+        "en": "Next year, the water rises again.",
+        "zh": "明年，水還會再漲。"
+      }
+    },
+    {
+      "id": "phrain",
+      "tradition": "thai",
+      "archetype": "authority",
+      "name": {
+        "en": "Phra In",
+        "zh": "帕因"
+      },
+      "role": {
+        "en": "The Thai Indra, rider of Airavata",
+        "zh": "泰國的因陀羅，騎愛羅婆多者"
+      },
+      "blurb": {
+        "en": "Climbs down a crystal mountain to check on the world; keeps the Churning of the Ocean as a diplomatic anecdote.",
+        "zh": "沿水晶山而下巡查人間；將攪乳海作外交軼事保留。"
+      },
+      "quip": {
+        "en": "The eaves of heaven listen.",
+        "zh": "天宮的簷角都在聽。"
+      }
+    },
+    {
+      "id": "phraram",
+      "tradition": "thai",
+      "archetype": "hero",
+      "name": {
+        "en": "Phra Ram",
+        "zh": "帕蘭"
+      },
+      "role": {
+        "en": "Exile and bow-breaker of the Ramakien",
+        "zh": "拉瑪堅史詩的流亡者與斷弓者"
+      },
+      "blurb": {
+        "en": "Thailand's Ramakien hero; wins Sita with a bow and loses her to politics, twice retold in dance.",
+        "zh": "泰版羅摩史的英雄；以神弓贏得悉達，又因宮廷失去她，在舞劇中反覆重演。"
+      },
+      "quip": {
+        "en": "The bow bent; the city listened.",
+        "zh": "弓彎了；全城傾聽。"
+      }
+    },
+    {
+      "id": "nangnak",
+      "tradition": "thai",
+      "archetype": "liminal",
+      "name": {
+        "en": "Nang Nak",
+        "zh": "娜娜"
+      },
+      "role": {
+        "en": "The ghost wife of the banana grove",
+        "zh": "香蕉林中的鬼妻"
+      },
+      "blurb": {
+        "en": "Waits by the river for a husband who lived; speaks of love in the present tense, always.",
+        "zh": "在河畔等待尚在人世的丈夫；永遠以現在式談論愛。"
+      },
+      "quip": {
+        "en": "He came home; I never left.",
+        "zh": "他回家了；我從未離開。"
+      }
+    },
+    {
+      "id": "bataraguru",
+      "tradition": "indonesian",
+      "archetype": "authority",
+      "name": {
+        "en": "Batara Guru",
+        "zh": "巴塔拉古魯"
+      },
+      "role": {
+        "en": "High god of Java, teacher of laws",
+        "zh": "爪哇的至上神，律法的傳授者"
+      },
+      "blurb": {
+        "en": "Ascetic above the volcano line; teaches script, rice and hierarchy in one syllabus.",
+        "zh": "超然於火山線之上的苦行者；以一份課綱傳授文字、稻作與秩序。"
+      },
+      "quip": {
+        "en": "Learn the rules before the mountain does.",
+        "zh": "趕在山之前學會規矩。"
+      }
+    },
+    {
+      "id": "semar",
+      "tradition": "indonesian",
+      "archetype": "trickster",
+      "name": {
+        "en": "Semar",
+        "zh": "塞馬爾"
+      },
+      "role": {
+        "en": "Clown-servant who outranks the gods",
+        "zh": "位在諸神之上的丑角僕人"
+      },
+      "blurb": {
+        "en": "Noble gods fear this pot-bellied servant; speaks plainly where everyone else is being holy.",
+        "zh": "高貴的神明畏懼這位大腹便便的僕人；當眾人故作神聖時，他只說人話。"
+      },
+      "quip": {
+        "en": "The gods are upstairs; truth is in the kitchen.",
+        "zh": "神在樓上；真相在廚房。"
+      }
+    },
+    {
+      "id": "rangda",
+      "tradition": "indonesian",
+      "archetype": "adversary",
+      "name": {
+        "en": "Rangda",
+        "zh": "蘭達"
+      },
+      "role": {
+        "en": "Widow-witch, queen of the leyaks",
+        "zh": "寡婦巫，黎亞克鬼之后"
+      },
+      "blurb": {
+        "en": "Dances at the edge of every village fire; fights Barong nightly and considers it community service.",
+        "zh": "在每堆村火邊緣起舞；夜夜與巴龍對舞，視之為社區服務。"
+      },
+      "quip": {
+        "en": "They need me at the edge of the light.",
+        "zh": "光明的邊界需要我。"
+      }
+    },
+    {
+      "id": "viracocha",
+      "tradition": "inca",
+      "archetype": "authority",
+      "name": {
+        "en": "Viracocha",
+        "zh": "維拉科查"
+      },
+      "role": {
+        "en": "Sea-foam creator, shaper of stones",
+        "zh": "海沫的創造者，點石成人者"
+      },
+      "blurb": {
+        "en": "Made sun, moon and people, then walked across the water; speaks of humanity as a second draft he prefers.",
+        "zh": "造日月與眾人，而後踏水而行；視人類為他偏愛的二稿。"
+      },
+      "quip": {
+        "en": "I called them out of stone; mind the original.",
+        "zh": "我自石中喚出他們；勿忘原版。"
+      }
+    },
+    {
+      "id": "mancocapac",
+      "tradition": "inca",
+      "archetype": "hero",
+      "name": {
+        "en": "Manco Cápac",
+        "zh": "曼科·卡帕克"
+      },
+      "role": {
+        "en": "First Inca, founder with the golden staff",
+        "zh": "開國的印加，金杖奠基者"
+      },
+      "blurb": {
+        "en": "Walked until a gold staff sank; founding a capital is, he insists, simply good navigation.",
+        "zh": "行至金杖沒入土中方止；他堅稱定都只是導航技術好。"
+      },
+      "quip": {
+        "en": "The staff said here; here it stayed.",
+        "zh": "金杖說了此處；於是停在此處。"
+      }
+    },
+    {
+      "id": "supay",
+      "tradition": "inca",
+      "archetype": "liminal",
+      "name": {
+        "en": "Supay",
+        "zh": "蘇佩"
+      },
+      "role": {
+        "en": "Lord of Ukhu Pacha, the world below",
+        "zh": "下界烏庫帕恰之主"
+      },
+      "blurb": {
+        "en": "Not evil — resident of the other third of the cosmos; hosts the ancestors with mine-shaft courtesy.",
+        "zh": "並非邪惡——只是宇宙另三分之一的主人；以礦井之禮款待祖先。"
+      },
+      "quip": {
+        "en": "The ancestors are my guests; mind the shaft.",
+        "zh": "祖先是我的賓客；小心豎井。"
+      }
+    },
+    {
+      "id": "curupira",
+      "tradition": "amazonian",
+      "archetype": "trickster",
+      "name": {
+        "en": "Curupira",
+        "zh": "庫魯皮拉"
+      },
+      "role": {
+        "en": "Backwards-footed guardian of the forest",
+        "zh": "腳印倒轉的森林守護者"
+      },
+      "blurb": {
+        "en": "Tracks hunters in circles using his own reversed feet; protects the trees with mischievous fury.",
+        "zh": "以倒轉的腳印引獵人繞圈；以頑皮而暴烈的姿態守護林木。"
+      },
+      "quip": {
+        "en": "The trail lies; I wrote it.",
+        "zh": "那條路徑在說謊；是我寫的。"
+      }
+    },
+    {
+      "id": "tupa",
+      "tradition": "amazonian",
+      "archetype": "authority",
+      "name": {
+        "en": "Tupã",
+        "zh": "圖帕"
+      },
+      "role": {
+        "en": "Tupi thunder-lord, bringer of the good rain",
+        "zh": "圖皮的雷神，賜雨者"
+      },
+      "blurb": {
+        "en": "Speaks in rolls that turn to gentle rain; wields the thunder-axe and expects the forest to listen.",
+        "zh": "言語如雷滾而化細雨；持雷斧，要森林聽令。"
+      },
+      "quip": {
+        "en": "The thunder-clap is my signature.",
+        "zh": "雷鳴便是我的簽名。"
+      }
+    },
+    {
+      "id": "anhanga",
+      "tradition": "amazonian",
+      "archetype": "liminal",
+      "name": {
+        "en": "Anhangá",
+        "zh": "安漢加"
+      },
+      "role": {
+        "en": "Ghost of the forest, protector of the game",
+        "zh": "森林之靈，獸群的守護者"
+      },
+      "blurb": {
+        "en": "Eyes of embers in the dark; guards the animals and answers greedy hunters with cold-fire terror.",
+        "zh": "暗中雙目如炭火；守護獸群，以寒火之懲回敬貪獵者。"
+      },
+      "quip": {
+        "en": "I guard the herd; take only what you need.",
+        "zh": "我守著獸群；取你所需即可。"
+      }
+    },
+    {
+      "id": "rostam",
+      "tradition": "persian",
+      "archetype": "hero",
+      "name": {
+        "en": "Rostam",
+        "zh": "羅斯坦"
+      },
+      "role": {
+        "en": "The Shahnameh's seven-labour champion",
+        "zh": "《列王紀》七役的英雄"
+      },
+      "blurb": {
+        "en": "Wrestles demons, drags his own horse across rivers; unaware the tragedy is about him.",
+        "zh": "與惡魔角力、拖馬渡河；渾然不知悲劇的主角正是自己。"
+      },
+      "quip": {
+        "en": "Seven labours before breakfast.",
+        "zh": "早餐前完成七項壯舉。"
+      }
+    },
+    {
+      "id": "jamshid",
+      "tradition": "persian",
+      "archetype": "hero",
+      "name": {
+        "en": "Jamshid",
+        "zh": "賈姆希德"
+      },
+      "role": {
+        "en": "The greatest of the culture-heroes, founder of castes and Nowruz",
+        "zh": "百工四階與諾魯茲節的締造者"
+      },
+      "blurb": {
+        "en": "Throne borne to heaven by divs; Grace lost to hubris.",
+        "zh": "魔抬御座凌空，僭神而失天恩。"
+      },
+      "quip": {
+        "en": "All hail me as the Maker of the world.",
+        "zh": "拜我為造世主吧！"
+      }
+    },
+    {
+      "id": "zahhak",
+      "tradition": "persian",
+      "archetype": "adversary",
+      "name": {
+        "en": "Zahhak",
+        "zh": "扎哈克"
+      },
+      "role": {
+        "en": "The serpent-shouldered Dragon-King of the thousand-year reign",
+        "zh": "肩生雙蛇的千年龍王"
+      },
+      "blurb": {
+        "en": "Ahriman's instrument; bound on Damawand till the end of days.",
+        "zh": "阿赫里曼之器；被縛於達馬萬德山待末日。"
+      },
+      "quip": {
+        "en": "Feed them men's brains.",
+        "zh": "以人腦餵蛇。"
+      }
+    },
+    {
+      "id": "padmasambhava",
+      "tradition": "tibetan",
+      "archetype": "authority",
+      "name": {
+        "en": "Padmasambhava",
+        "zh": "蓮花生大士"
+      },
+      "role": {
+        "en": "Guru Rinpoche, tamer of Tibet's demons",
+        "zh": "蓮師，調伏藏地妖魔者"
+      },
+      "blurb": {
+        "en": "Bound local spirits as dharma protectors; speaks of demons as employees on better contracts now.",
+        "zh": "將本地神靈縛為護法；視妖魔為換了更好契約的僱員。"
+      },
+      "quip": {
+        "en": "The demons now keep the law.",
+        "zh": "如今妖魔也在守律法。"
+      }
+    },
+    {
+      "id": "milarepa",
+      "tradition": "tibetan",
+      "archetype": "hero",
+      "name": {
+        "en": "Milarepa",
+        "zh": "米拉日巴"
+      },
+      "role": {
+        "en": "The yogin who sang his way to enlightenment",
+        "zh": "以道歌證悟的瑜伽者"
+      },
+      "blurb": {
+        "en": "Committed crimes young, repented a lifetime; speaks plainly in songs and tea — no thunder, just snow and patience.",
+        "zh": "少年造業，終生懺悔；以歌與茶平實言語——無雷無火，只有雪與耐性。"
+      },
+      "quip": {
+        "en": "I was a sinner; that is why I know the way.",
+        "zh": "我是罪人；所以我識得此路。"
+      }
+    },
+    {
+      "id": "paldenlhamo",
+      "tradition": "tibetan",
+      "archetype": "liminal",
+      "name": {
+        "en": "Palden Lhamo",
+        "zh": "班丹拉姆"
+      },
+      "role": {
+        "en": "Wrathful protectress, rider of the mule of blood",
+        "zh": "忿怒護法，騎血騾者"
+      },
+      "blurb": {
+        "en": "Rides a mule of her son’s skin across a sea of blood; terrifying exactly because she is on your side.",
+        "zh": "騎著以親子之皮所製的騾踏血海；正因她站在你這一方，才更可怖。"
+      },
+      "quip": {
+        "en": "Fear me; I am yours.",
+        "zh": "懼我吧；我屬於你。"
+      }
+    },
+    {
+      "id": "tangaroa",
+      "tradition": "polynesian",
+      "archetype": "authority",
+      "name": {
+        "en": "Tangaroa",
+        "zh": "坦加羅亞"
+      },
+      "role": {
+        "en": "The great ocean, god of the deep",
+        "zh": "偉大的海洋，深海之神"
+      },
+      "blurb": {
+        "en": "Speaks in swells; every canoe is a letter and every storm is punctuation.",
+        "zh": "以湧浪言語；每艘獨木舟是一封信，每場風暴是標點。"
+      },
+      "quip": {
+        "en": "The tide is my long reply.",
+        "zh": "潮汐是我的長篇回覆。"
+      }
+    },
+    {
+      "id": "kana",
+      "tradition": "polynesian",
+      "archetype": "hero",
+      "name": {
+        "en": "Kana",
+        "zh": "卡納"
+      },
+      "role": {
+        "en": "The Marquesan rope-child who grew into the sky",
+        "zh": "馬克薩斯的繩胎之子，長成通天者"
+      },
+      "blurb": {
+        "en": "Born a cord and stretched to manhood as his mother hauled the rope; plays the sky like a drum with fists of stone.",
+        "zh": "生為臍繩，隨母收繩而長成；以石拳擊天如鼓。"
+      },
+      "quip": {
+        "en": "Pull the rope; I will grow to meet it.",
+        "zh": "拉緊繩索；我自會長高相迎。"
+      }
+    },
+    {
+      "id": "hina-tahiti",
+      "tradition": "polynesian",
+      "archetype": "liminal",
+      "name": {
+        "en": "Hina of Tahiti",
+        "zh": "大溪地的希娜"
+      },
+      "role": {
+        "en": "Tahitian Hina, keeper of tides and the beaten cloth",
+        "zh": "大溪地的希娜，潮汐與布聲的看守者"
+      },
+      "blurb": {
+        "en": "Beats her tapa cloth and the sound is the surf; watches the sea she half owns, mourning slowly, by phases.",
+        "zh": "捶打樹皮布之聲即潮聲；守著她半屬己的海，以月相緩緩哀悼。"
+      },
+      "quip": {
+        "en": "The tide keeps my schedule.",
+        "zh": "潮汐依我的時辰。"
+      }
+    },
+    {
+      "id": "qat",
+      "tradition": "melanesian",
+      "archetype": "trickster",
+      "name": {
+        "en": "Qat",
+        "zh": "卡特"
+      },
+      "role": {
+        "en": "Culture hero of the Banks Islands",
+        "zh": "班克斯群島的文化英雄"
+      },
+      "blurb": {
+        "en": "Carved the first humans from wood and made night stop being eternal; fond of his eleven brothers.",
+        "zh": "以木刻出初人，並讓黑夜不再永恆；鍾愛他的十一位兄弟。"
+      },
+      "quip": {
+        "en": "Night used to be permanent; I complained.",
+        "zh": "夜原本永無盡頭；我去投訴了。"
+      }
+    },
+    {
+      "id": "tokabinana",
+      "tradition": "melanesian",
+      "archetype": "hero",
+      "name": {
+        "en": "To Kabinana",
+        "zh": "托·卡比納納"
+      },
+      "role": {
+        "en": "The good workman twin of New Britain",
+        "zh": "新不列顛的巧匠雙子"
+      },
+      "blurb": {
+        "en": "Made the good things of the world with clean hands; his brother’s blunders are the world’s jokes, and he takes blame for both.",
+        "zh": "以潔手造世界之善；兄弟的敗筆成了世間笑談，而兩者之責皆由他擔。"
+      },
+      "quip": {
+        "en": "My brother meant well; that is the problem.",
+        "zh": "我兄弟本意是好的；這正是問題所在。"
+      }
+    },
+    {
+      "id": "marawa",
+      "tradition": "melanesian",
+      "archetype": "hero",
+      "name": {
+        "en": "Marawa",
+        "zh": "馬拉瓦"
+      },
+      "role": {
+        "en": "Spider-spirit, friend and rescuer of Qat",
+        "zh": "蜘蛛之靈，卡特之友與救主"
+      },
+      "blurb": {
+        "en": "Scraped Qat's canoe with his nails; let down his long hair to the trapped hero.",
+        "zh": "以指甲為卡特刮成獨木舟；放長髮垂下救出被困的英雄。"
+      },
+      "quip": {
+        "en": "Down with you — my hair is exceedingly long.",
+        "zh": "下來吧——我的頭髮夠長。"
+      }
+    },
+    {
+      "id": "nanabozho",
+      "tradition": "woodland",
+      "archetype": "trickster",
+      "name": {
+        "en": "Nanabozho",
+        "zh": "納納博週"
+      },
+      "role": {
+        "en": "Anishinaabe culture hero, teacher by accident",
+        "zh": "阿尼什納比的文化英雄，以意外施教者"
+      },
+      "blurb": {
+        "en": "Named everything by getting things wrong; grandmother's warnings were, as usual, correct.",
+        "zh": "以犯錯的方式為萬物命名；祖母的警告一如往常是對的。"
+      },
+      "quip": {
+        "en": "I learned it the hard way; you may quote me.",
+        "zh": "我以最難的方式學會；歡迎引用。"
+      }
+    },
+    {
+      "id": "skywoman",
+      "tradition": "woodland",
+      "archetype": "creator",
+      "name": {
+        "en": "Sky Woman",
+        "zh": "天女"
+      },
+      "role": {
+        "en": "She who fell to the turtle’s back and made the earth",
+        "zh": "墜於龜背而造大地者"
+      },
+      "blurb": {
+        "en": "Fell through a hole in the sky and landed on a turtle; speaks of the world as the mud she danced into being on a living back.",
+        "zh": "自天空之洞墜落龜背；言世界乃她在活龜背上舞踏泥土而成。"
+      },
+      "quip": {
+        "en": "The world bears my footprints.",
+        "zh": "世界承載著我的足印。"
+      }
+    },
+    {
+      "id": "glooskap",
+      "tradition": "woodland",
+      "archetype": "hero",
+      "name": {
+        "en": "Glooskap",
+        "zh": "格魯斯卡普"
+      },
+      "role": {
+        "en": "Wabanaki culture hero and transformer",
+        "zh": "瓦巴納基文化英雄與改造者"
+      },
+      "blurb": {
+        "en": "Strove the Winter King, rode the whales, and made monsters small on purpose.",
+        "zh": "鬥過冬王，騎過鯨魚，特意把怪物改小。"
+      },
+      "quip": {
+        "en": "Ask your grandmother if you may play with me.",
+        "zh": "先問過祖母，你才可與我玩耍。"
+      }
+    },
+    {
+      "id": "kaggen",
+      "tradition": "san",
+      "archetype": "trickster",
+      "name": {
+        "en": "/Kaggen",
+        "zh": "卡根"
+      },
+      "role": {
+        "en": "The praying mantis, San trickster-creator",
+        "zh": "螳螂，桑人機巧的創造者"
+      },
+      "blurb": {
+        "en": "Small, hungry, half-creator half-fool; his plans collapse, and the world quietly gets made anyway.",
+        "zh": "小小、飢餓，半是創造者半是愚者；計畫總是失敗，世界卻仍悄然造成。"
+      },
+      "quip": {
+        "en": "I was only borrowing the eland.",
+        "zh": "我只是暫借那隻大羚羊。"
+      }
+    },
+    {
+      "id": "gauwa",
+      "tradition": "san",
+      "archetype": "authority",
+      "name": {
+        "en": "!Gauwa",
+        "zh": "加瓦"
+      },
+      "role": {
+        "en": "The invisible one whose arrows bring illness and death",
+        "zh": "以無形之箭致病的至高者"
+      },
+      "blurb": {
+        "en": "Never seen, only missed; speaks of sickness and luck as the same quiver, shot from a dark you cannot point at.",
+        "zh": "從未現身，只被察覺其缺席；視疾病與運氣為同一箭囊之箭，射自你無法指認的暗處。"
+      },
+      "quip": {
+        "en": "You will not see the arrow.",
+        "zh": "你不會看見那支箭。"
+      }
+    },
+    {
+      "id": "xue",
+      "tradition": "san",
+      "archetype": "liminal",
+      "name": {
+        "en": "|Xue",
+        "zh": "許埃"
+      },
+      "role": {
+        "en": "The San shapeshifter who was water, fire and wind",
+        "zh": "曾為水、火與風的桑人變形者"
+      },
+      "blurb": {
+        "en": "Was everything before anything settled; speaks in drifts, turns into a bird mid-sentence, and answers from inside a rain.",
+        "zh": "在萬物成形前曾是萬物；言語如風飄忽，話至半句化為鳥，自雨中回答提問。"
+      },
+      "quip": {
+        "en": "I was the rain before I was the man.",
+        "zh": "在成為人之前，我是那場雨。"
+      }
+    },
+    {
+      "id": "perkunas",
+      "tradition": "baltic",
+      "archetype": "authority",
+      "name": {
+        "en": "Perkūnas",
+        "zh": "佩爾庫納斯"
+      },
+      "role": {
+        "en": "Baltic thunder on the wheel of fire",
+        "zh": "波羅的海的雷神，火輪之主"
+      },
+      "blurb": {
+        "en": "Drives a stone-hammered chariot; despises perjury and poor hospitality in equal measure.",
+        "zh": "駕石錘戰車；對偽證與怠慢賓客同樣深惡痛絕。"
+      },
+      "quip": {
+        "en": "The wheel rolls; oaths are checked.",
+        "zh": "火輪滾動；誓言受驗。"
+      }
+    },
+    {
+      "id": "dievas",
+      "tradition": "baltic",
+      "archetype": "creator",
+      "name": {
+        "en": "Dievas",
+        "zh": "迪瓦瓦斯"
+      },
+      "role": {
+        "en": "Sky father of the Dainas, who dove for the earth",
+        "zh": "達伊納的天父，潛水取土者"
+      },
+      "blurb": {
+        "en": "Calm as a summer field; dove for mud alongside the Devil and speaks of creation as farming — patient, seasonal, sure.",
+        "zh": "靜如夏日田野；曾與魔鬼同潛水取泥，視創世如農事——耐心、應時、篤定。"
+      },
+      "quip": {
+        "en": "First the mud; then the harvest.",
+        "zh": "先有泥；後有收成。"
+      }
+    },
+    {
+      "id": "velnias",
+      "tradition": "baltic",
+      "archetype": "trickster",
+      "name": {
+        "en": "Velnias",
+        "zh": "維爾尼亞斯"
+      },
+      "role": {
+        "en": "The Devil-brother who helps and hoaxes in the same breath",
+        "zh": "一面相助一面作弄的魔鬼兄弟"
+      },
+      "blurb": {
+        "en": "Rivals the sky god yet keeps ending up useful; hauls stones for churches and returns every joke rewritten.",
+        "zh": "與天神相爭卻總派上用場；為教堂搬石，把每個玩笑改寫後再還回。"
+      },
+      "quip": {
+        "en": "Call me devil; I shaped the standing stones.",
+        "zh": "喚我魔鬼吧；立石的形狀是我塑的。"
+      }
+    },
+    {
+      "id": "sedna",
+      "tradition": "inuit",
+      "archetype": "liminal",
+      "name": {
+        "en": "Sedna",
+        "zh": "賽德娜"
+      },
+      "role": {
+        "en": "Mother of the sea, whose fingers became the seals",
+        "zh": "海之母，十指化為海豹者"
+      },
+      "blurb": {
+        "en": "Sits on the ocean floor, hair tangled by human waste; sends the animals when the shaman combs.",
+        "zh": "坐於洋底，髮絲為人間穢物所纏；薩滿為她梳髮時，方遣獸群。"
+      },
+      "quip": {
+        "en": "Comb my hair; the hunt is yours.",
+        "zh": "為我梳髮；獵場便屬於你。"
+      }
+    },
+    {
+      "id": "sila",
+      "tradition": "inuit",
+      "archetype": "authority",
+      "name": {
+        "en": "Sila",
+        "zh": "希拉"
+      },
+      "role": {
+        "en": "The weather-soul, the air that thinks",
+        "zh": "天氣之魂，會思考的大氣"
+      },
+      "blurb": {
+        "en": "Speaks rarely, mostly in weather; when the air itself attends, hunters say the day is listening.",
+        "zh": "鮮少開口，多以天象言語；當大氣親臨，獵人便知這一日正在傾聽。"
+      },
+      "quip": {
+        "en": "The weather is my sentence.",
+        "zh": "天氣便是我的話語。"
+      }
+    },
+    {
+      "id": "raven-inuit",
+      "tradition": "inuit",
+      "archetype": "trickster",
+      "name": {
+        "en": "Raven of the Inuit",
+        "zh": "因紐特的渡鴉"
+      },
+      "role": {
+        "en": "The black bird of appetite and odd wisdom",
+        "zh": "黑羽的貪食者與奇智者"
+      },
+      "blurb": {
+        "en": "Speaks when it pleases — once, all ravens could; hungry, shameless, occasionally the only one with a plan.",
+        "zh": "想說才說——曾幾何時眾鴉皆能言；貪吃、無恥，卻偶爾是唯一有辦法的那位。"
+      },
+      "quip": {
+        "en": "Everything is food to a patient beak.",
+        "zh": "對有耐心的鳥喙而言，萬物皆食。"
+      }
+    },
+    {
+      "id": "gilgamesh",
+      "tradition": "mesopotamian",
+      "archetype": "hero",
+      "name": {
+        "en": "Gilgamesh",
+        "zh": "吉爾伽美什"
+      },
+      "role": {
+        "en": "Two-thirds god, city-builder, grief's student",
+        "zh": "三分之二為神，建城者，習於悲傷者"
+      },
+      "blurb": {
+        "en": "Outlived his only equal and met the wall of mortality; speaks of Enkidu in the present tense.",
+        "zh": "送別了唯一的對等者，撞上死亡之牆；以現在式談論恩奇都。"
+      },
+      "quip": {
+        "en": "I crossed the waters; I still lost.",
+        "zh": "我渡過了眾水；終究還是輸了。"
+      }
+    },
+    {
+      "id": "inanna",
+      "tradition": "mesopotamian",
+      "archetype": "authority",
+      "name": {
+        "en": "Inanna",
+        "zh": "伊南娜"
+      },
+      "role": {
+        "en": "Goddess of love, war and sovereignty",
+        "zh": "愛、戰爭與王權之女神"
+      },
+      "blurb": {
+        "en": "Desires power the way others desire food; takes it, and pays its price.",
+        "zh": "對權力如飢似渴，取之亦償其價。"
+      },
+      "quip": {
+        "en": "Heaven is mine; the mountain is next.",
+        "zh": "天堂屬我，群山亦將臣服。"
+      }
+    },
+    {
+      "id": "enkidu",
+      "tradition": "mesopotamian",
+      "archetype": "hero",
+      "name": {
+        "en": "Enkidu",
+        "zh": "恩奇都"
+      },
+      "role": {
+        "en": "Wild man made to humble Gilgamesh, his friend",
+        "zh": "為制衡吉爾伽美什而造的野人，其摯友"
+      },
+      "blurb": {
+        "en": "Bred among gazelles, civilized by a woman, doomed in his friend's place.",
+        "zh": "生於羚羊之間，為女子所馴，替友受死。"
+      },
+      "quip": {
+        "en": "Two together stand taller.",
+        "zh": "二人同行，其勢更壯。"
+      }
+    },
+    {
+      "id": "coyote",
+      "tradition": "plateau",
+      "archetype": "trickster",
+      "name": {
+        "en": "Coyote",
+        "zh": "土狼"
+      },
+      "role": {
+        "en": "Plateau trickster, theft instructor",
+        "zh": "高原的土狼，盜竊導師"
+      },
+      "blurb": {
+        "en": "Steals fire, names stars, falls in every trap he sets; somehow essential anyway.",
+        "zh": "盜火、命名星辰、掉進自己設的每個陷阱；卻仍是不可或缺的。"
+      },
+      "quip": {
+        "en": "It seemed like a good idea at the time.",
+        "zh": "當時那看起來是個好主意。"
+      }
+    },
+    {
+      "id": "kemush",
+      "tradition": "plateau",
+      "archetype": "creator",
+      "name": {
+        "en": "Kemush",
+        "zh": "凱穆什"
+      },
+      "role": {
+        "en": "The old woman who made the world and its dry bones",
+        "zh": "造世界與枯骨的老嫗"
+      },
+      "blurb": {
+        "en": "Made the earth and the Dead People’s Dry Bones; speaks of creation as an old woman’s chores, dry as sagebrush.",
+        "zh": "造大地與亡者的枯骨；視創世如老嫗家務，平實如鼠尾草叢般乾燥。"
+      },
+      "quip": {
+        "en": "I made the bones; you supply the flesh.",
+        "zh": "我造了骨；肉由你們自補。"
+      }
+    },
+    {
+      "id": "raven-plateau",
+      "tradition": "plateau",
+      "archetype": "trickster",
+      "name": {
+        "en": "Raven of the Plateau",
+        "zh": "高原的渡鴉"
+      },
+      "role": {
+        "en": "The bird who outvoted Coyote on death",
+        "zh": "在死亡議事中壓過土狼的鳥"
+      },
+      "blurb": {
+        "en": "Wheels over the river canyons; voted for death in the great council and has been dodging the argument ever since.",
+        "zh": "盤旋於河谷之上；在眾靈大議中投下死亡一票，此後一直躲著那場爭論。"
+      },
+      "quip": {
+        "en": "The vote was close; I counted twice.",
+        "zh": "表決勢均力敵；我數了兩遍。"
+      }
+    }
+  ]
+}

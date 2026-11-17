@@ -1,0 +1,107 @@
+{
+  "_comment": "Zend-Avesta Part II (Yashts), trans. J. Darmesteter, SBE 23 (1883): Tishtrya rain myth; Verethraghna's incarnations. Paraphrase passages with notes.",
+  "texts": [
+    {
+      "id": "persian-tishtrya-apaosha",
+      "title": {
+        "en": "Tishtrya and Apaosha: The War for the Rain",
+        "zh": "提什特里亞與阿帕奧沙：爭雨之戰"
+      },
+      "tradition": "persian",
+      "category": "myth",
+      "region": {
+        "en": "Sea Vouru-Kasha (symbolic pin)",
+        "zh": "烏魯卡沙海（象徵性定位）"
+      },
+      "lat": 30.0,
+      "lon": 53.0,
+      "period": "Recorded in the Avesta, c. 6th-4th century BCE (Darmesteter translation 1883)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Tir Yasht (Zend-Avesta Part II), trans. J. Darmesteter, SBE 23 (1883), secs. 20-29",
+        "url": "https://archive.org/details/zendavestapartii00darmuoft"
+      },
+      "license": "Public domain (translation 1883)",
+      "summary": {
+        "en": "The bright and glorious Tishtrya goes down to the sea Vouru-Kasha in the shape of a white, beautiful horse with golden ears; there rushes down to meet him the Daeva Apaosha, in the shape of a dark horse, black with black ears, black back, black tail, stamped with brands of terror. They meet hoof against hoof and fight three days and nights, and Apaosha overcomes him, until Ahura Mazda offers up a sacrifice in which Tishtrya is invoked by his own name and brings him the strength of ten horses, ten camels, ten bulls, ten mountains, ten rivers; then Tishtrya proves stronger, overcomes Apaosha, and the waters flow down from the sea Vouru-Kasha, mother-like, friendly, and healing.",
+        "zh": "光輝的提什特里亞化作金耳白駿下至烏魯卡沙海；旱魃阿帕奧沙化作黑鬃黑尾、烙滿恐怖印記的黑馬迎戰。二者馬蹄相擊，鏖戰三晝夜，旱魔佔上風——直到阿胡拉·馬茲達以提什特里亞本名獻祭，賜他十馬、十駝、十牛、十山、十河之力；白駿遂勝，烏魯卡沙之水如慈母般奔流而下，潤澤萬邦。"
+      },
+      "motifs": [
+        "sun-capture",
+        "world-renewal",
+        "transformation",
+        "threefold"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Avestan liturgical text read here as the Iranian rain-myth (rain-fight cluster); interpretive tags. No living community restriction."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Then, O Spitama Zarathustra! the bright and glorious Tishtrya goes down to the sea Vouru-Kasha in the shape of a white, beautiful horse, with golden ears and a golden caparison. But there rushes down to meet him the Daeva Apaosha, in the shape of a dark horse, black with black ears, black with a black back, black with a black tail, stamped with brands of terror.",
+          "note": "Paraphrase of Tir Yasht 20-21 (Darmesteter, SBE 23, 1883); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "They meet together, hoof against hoof, O Spitama Zarathustra! the bright and glorious Tishtrya and the Daeva Apaosha. They fight together for three days and three nights. And then the Daeva Apaosha proves stronger than the bright and glorious Tishtrya, he overcomes him. And Tishtrya flees from the sea Vouru-Kasha, as far as a Hathra's length: Woe is me, O Ahura Mazda! I am in distress, O Waters and Plants! Men do not worship me with a sacrifice in which I am invoked by my own name, as they worship the other Yazatas with sacrifices in which they are invoked by their own names.",
+          "note": "Paraphrase of Tir Yasht 22-23 (Darmesteter, SBE 23, 1883); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "If men had worshipped me with a sacrifice in which I had been invoked by my own name, I should have taken to me the strength of ten horses, the strength of ten camels, the strength of ten bulls, the strength of ten mountains, the strength of ten rivers. Then I, Ahura Mazda, offer up to the bright and glorious Tishtrya a sacrifice in which he is invoked by his own name, and bring him the strength of ten horses, ten camels, ten bulls, ten mountains, and ten rivers. Then Tishtrya goes down to the sea Vouru-Kasha in the shape of a white, beautiful horse; they meet hoof against hoof; they fight together till the time of noon. Then the bright and glorious Tishtrya proves stronger than the Daeva Apaosha, he overcomes him; and the waters flow down from the sea Vouru-Kasha, mother-like, friendly, and healing.",
+          "note": "Paraphrase of Tir Yasht 24-29, 47 (Darmesteter, SBE 23, 1883); not verbatim."
+        }
+      ],
+      "persons": []
+    },
+    {
+      "id": "persian-verethraghna-incarnations",
+      "title": {
+        "en": "Verethraghna's Ten Forms",
+        "zh": "戰神巴赫拉姆十變"
+      },
+      "tradition": "persian",
+      "category": "myth",
+      "region": {
+        "en": "Sky of the Yazatas (symbolic pin)",
+        "zh": "雅扎塔之天（象徵性定位）"
+      },
+      "lat": 30.0,
+      "lon": 53.0,
+      "period": "Recorded in the Avesta, c. 6th-4th century BCE (Darmesteter translation 1883)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Bahram Yasht (Zend-Avesta Part II), trans. J. Darmesteter, SBE 23 (1883), secs. 26-31",
+        "url": "https://archive.org/details/zendavestapartii00darmuoft"
+      },
+      "license": "Public domain (translation 1883)",
+      "summary": {
+        "en": "Zarathustra asks Ahura Mazda who is the best-armed of the heavenly gods, and the answer is Verethraghna, made by Ahura — the divine Victory who comes again and again bearing the good Glory made by Mazda: as wind, as bull, as horse, as camel, as boar, as youth, as ram, as deer, as bird — and the tenth time running in the shape of a man, bright and beautiful, holding a sword with a golden blade inlaid with all sorts of ornaments. To the prophet he gives the fountains of manliness, the strength of the arms, and the eye-sight of the Kara fish that can measure a rippling of the water not thicker than a hair in the Rangha whose ends lie afar.",
+        "zh": "查拉圖什特拉問阿胡拉·馬茲達：「天神之中誰的甲冑最好？」答曰：阿胡拉所造的戰神韋雷斯拉格納——神之勝利。他一次又一次以馬茲達所造的榮光現身：或為風、為牛、為馬、為駱駝、為野豬、為少年、為公羊、為鹿、為神鳥——第十次化作光明俊美的男子，手執嵌飾珍寶的金柄寶劍。他賜先知臂力與「卡拉魚之目」——能在遠及天涯的朗格哈河中察覺髮絲般細的水紋。"
+      },
+      "motifs": [
+        "transformation",
+        "theophany",
+        "culture-hero"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Avestan liturgical text; Verethraghna is the yazata of Victory (bahram). Transformation-series tag interpretive. No living community restriction."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Zarathustra asked Ahura Mazda: Ahura Mazda, most beneficent Spirit, Maker of the material world, thou Holy One! Who is the best-armed of the heavenly gods? Ahura Mazda answered: It is Verethraghna, made by Ahura, O Spitama Zarathustra! Verethraghna, made by Ahura, came to him the tenth time, running in the shape of a man, bright and beautiful, made by Mazda: he held a sword with a golden blade, inlaid with all sorts of ornaments. Thus did Verethraghna come, bearing the good Glory made by Mazda, the Glory made by Mazda. We sacrifice unto Verethraghna, made by Ahura, who makes virility, who makes death, who makes resurrection, who possesses peace, who has a free way.",
+          "note": "Paraphrase of Bahram Yasht 26 (Darmesteter, SBE 23, 1883); not verbatim. / Paraphrase of Bahram Yasht 27-28 (Darmesteter, SBE 23, 1883); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Unto him did the holy Zarathustra offer up a sacrifice, asking for victorious thinking, victorious speaking, victorious doing, victorious addressing, and victorious answering. Verethraghna, made by Ahura, gave him the fountains of manliness, the strength of the arms, the health of the whole body, the sturdiness of the whole body, and the eye-sight of the Kara fish, that lives beneath the waters and can measure a rippling of the water, not thicker than a hair, in the Rangha whose ends lie afar, whose depth is a thousand times the height of a man.",
+          "note": "Paraphrase of Bahram Yasht 29 (Darmesteter, SBE 23, 1883); not verbatim."
+        }
+      ],
+      "persons": []
+    }
+  ]
+}

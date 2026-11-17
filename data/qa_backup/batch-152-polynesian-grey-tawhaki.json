@@ -1,0 +1,259 @@
+{
+  "_comment": "Polynesian expansion batch 152 - Grey, Polynesian Mythology (1855), chs. 3-5: The Legend of Tawhaki (pp. 59-80), Rupe's Ascent into Heaven (81-89), Kae's Theft of the Whale (90-98). Topics 3 heroic tales, 4 founding legends, 7 cosmology. All passages are labeled paraphrase.",
+  "texts": [
+    {
+      "id": "polynesian-tawhaki-mataaho-flood",
+      "title": { "en": "Tawhaki Calls Down the Overwhelming of Mataaho", "zh": "塔瓦基降下大洪水之怒" },
+      "tradition": "polynesian",
+      "category": "myth",
+      "region": { "en": "Lofty hillfort, Hauraki coast, Aotearoa (symbolic pin)", "zh": "紐西蘭豪拉基海岸山巔要塞（象徵性定位）" },
+      "lat": -36.94,
+      "lon": 175.4,
+      "period": "Oral tradition; recorded 1855 (Grey, Polynesian Mythology)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "George Grey, Polynesian Mythology and Ancient Traditional History of the New Zealand Race, ch. 3, The Legend of Tawhaki (London 1855)",
+        "url": "https://archive.org/details/polynesianmythol00greyuoft"
+      },
+      "license": "Public domain (Grey 1855)",
+      "summary": {
+        "en": "Two of Tawhaki's brothers-in-law attempt to murder him on the way home from a fishing trip and bury him insensible. His wife Hinepiripiri finds him alive, carries him home, and at his direction brings a whole unchopped tree as firewood, naming their first son Wahieroa - 'long log for the fire' - to recall the duty of revenge. Recovered, Tawhaki builds a fort on a lofty mountain and calls on the gods his ancestors, who let the floods of heaven descend; the earth is overwhelmed and all human beings of that race perish, an event named 'The Overwhelming of the Mataaho'.",
+        "zh": "塔瓦基與四個連襟出海捕魚，其中二人心懷不軌，歸途中謀害他並將其草草埋葬。妻子希內皮里皮里尋獲尚有一息的他，背回家中，依其囑咐扛回整根不劈之樹作柴火，並為長子取名瓦希耶羅亞——『長柴之火』——以銘記復仇之責。塔瓦基傷癒後於高山築寨，呼喚祖神復仇；天洪傾瀉，大地沒頂，該族人類盡亡，史稱『馬塔阿霍大沒』。"
+      },
+      "motifs": ["flood", "foundational-legend", "taboo-transgression"],
+      "sensitivity": { "restricted": false, "note": "Flood-cluster record: revenge-deluge variant where a hero summons the flood, not a survival tale." },
+      "persons": ["tawhaki"],
+      "passages": [
+        { "id": "1", "text": "Tawhaki, son of Hema and Urutonga, having taken Hinepiripiri as a wife, went one day with his brothers-in-law to fish from a flat reef of rocks running far out into the sea. Two of them, tired of fishing, returned toward their village with him; when they drew near the village they attempted to murder him, and, thinking they had slain him, buried him. The others, questioned by their young sister, claimed the party had all gone home together long since; the wife suspected her husband had been killed and ran off to search for him.", "note": "Paraphrase of George Grey, Polynesian Mythology, ch. 3 (1855); not verbatim." },
+        { "id": "2", "text": "She found where he had been buried, and on examining him ascertained he had only been insensible, not quite dead; with great difficulty she got him on her back, carried him home, carefully washed his wounds and staunched the bleeding. When he had somewhat recovered he told her to fetch wood and light a fire, and to fell any tall tree growing near, bringing the whole of it: she put the entire tree upon the fire without chopping it into pieces. It was this circumstance that led her to give the name of Wahieroa - long-log-of-wood-for-the-fire - to their first son, that the duty of avenging his father's wrongs might often be recalled to his mind.", "note": "Paraphrase of George Grey, Polynesian Mythology, ch. 3 (1855); not verbatim." },
+        { "id": "3", "text": "As soon as Tawhaki had recovered from his wounds he left the place where his faithless brothers-in-law lived, took all his own warriors and their families, and built a fortified village on the top of a very lofty mountain where he could easily protect himself. Then he called aloud to the gods, his ancestors, for revenge, and they let the floods of heaven descend; the earth was overwhelmed by the waters and all human beings perished, and the name given to that event was 'The Overwhelming of the Mataaho', and the whole of that race perished.", "note": "Paraphrase of George Grey, Polynesian Mythology, ch. 3 (1855); not verbatim." }
+      ]
+    },
+    {
+      "id": "polynesian-tawhaki-ponaturi-vendetta",
+      "title": { "en": "Tawhaki and Karihi Destroy the Ponaturi", "zh": "塔瓦基兄弟誅滅波納圖里族" },
+      "tradition": "polynesian",
+      "category": "myth",
+      "region": { "en": "Manawa-Tane, Ponaturi house (symbolic pin, coast)", "zh": "波納圖里族大屋馬納瓦塔內（象徵性定位）" },
+      "lat": -37.28,
+      "lon": 175.82,
+      "period": "Oral tradition; recorded 1855 (Grey, Polynesian Mythology)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "George Grey, Polynesian Mythology and Ancient Traditional History of the New Zealand Race, ch. 3, The Legend of Tawhaki (London 1855)",
+        "url": "https://archive.org/details/polynesianmythol00greyuoft"
+      },
+      "license": "Public domain (Grey 1855)",
+      "summary": {
+        "en": "Tawhaki and Karihi seek revenge on the Ponaturi, an underwater race who slew their father Hema and kept their captive mother as 'Tatau the Door', watching for dawn at the threshold of the house Manawa-Tane. Hiding in the thatch, the brothers stop every chink of the house; when Tatau at last answers 'Yes, it is dawn', the light streams in and the whole Ponaturi tribe withers before the sun's rays. Only the leaping kanae escapes by springing back to the sea; the brothers burn their father's bones and carry them home with their mother.",
+        "zh": "塔瓦基與卡里希兄弟為父復仇：殺父奪屍的是海底種族波納圖里人，他們囚母於大屋馬納瓦塔門口，令其守候黎明，得名『塔陶之門』。兄弟藏身屋茅之內，封死屋中每道縫隙；老嫗終答『已破曉』，晨光灌入，全族在日光下枯萎而死，唯善跳之鰆魚躍水而逃。兄弟取下父骨焚之，攜母親與父親遺骨歸返故土。"
+      },
+      "motifs": ["descent-underworld", "sun-capture", "foundational-legend"],
+      "sensitivity": { "restricted": false, "note": "Colonial-era collection; the sun-kill tagging links the episode to the solar-death cluster." },
+      "persons": ["tawhaki"],
+      "passages": [
+        { "id": "1", "text": "It was a different race who had carried off and slain the father of Tawhaki; the name of that race was the Ponaturi, whose country was underneath the waters, but who had a large house on the dry land to which they resorted to sleep at night, named Manawa-Tane. They had carried off the father's body, and kept his wife alive as a captive. When Tawhaki and his younger brother Karihi drew near the house there was no one there but their mother sitting near the door, while the bones of their father were hung up inside under the high sloping roof; at the approach of night the whole tribe would return to the house.", "note": "Paraphrase of George Grey, Polynesian Mythology, ch. 3 (1855); not verbatim." },
+        { "id": "2", "text": "As the brothers came repeating incantations, the bones of their father rattled loudly together where they hung, for gladness, knowing the hour of revenge had come; their mother Urutonga heard Tawhaki's voice and wept for gladness. She warned them the people were very fierce and savage, and only kept her alive to watch for the rising of the dawn; they named her 'Tatau', the Door, calling out through the night, 'Ho, Tatau, is it dawn yet?' and she answering, 'No, no, it is deep night - sleep on.' The brothers climbed to the ridge-pole, made holes in the thick layers of reeds that formed the thatch, and crept into them; their mother charged them, when it drew near dawn, to stop up every chink in the house so that no single ray of light might shine in.", "note": "Paraphrase of George Grey, Polynesian Mythology, ch. 3 (1855); not verbatim." },
+        { "id": "3", "text": "When the sun sank beneath the ocean the whole tribe left the water in a body. A scout sniffed round the house and nearly found the strangers' scent, but the tribe came crowding in thousands and the scent was lost; the house filled up with sleeping Ponaturi. At midnight the brothers stole down and whispered with Tatau at the doorway; she counselled them to let the sun kill the people, its rays would destroy them. Time and again the old men called, 'Ho, Tatau, is it dawn yet?' and she answered, 'It is night, it is lasting night, sleep soundly.' At last dawn had broken and the sun shone brightly; she answered 'Yes' and cried to her children, 'Pull out the stoppings!' The bright rays of the sun came streaming into the house and the whole of the Ponaturi perished before the light - not by the hand of man, but withered before the sun's rays; only the leaping kanae escaped by successive springs back to the water. The brothers took down their father's bones, burnt them with fire, and returned to their own country with their mother and the bones of their father.", "note": "Paraphrase of George Grey, Polynesian Mythology, ch. 3 (1855); not verbatim." }
+      ]
+    },
+    {
+      "id": "polynesian-tawhaki-tangotango",
+      "title": { "en": "Tangotango, the Bride from the Skies", "zh": "天女湯戈湯戈下嫁塔瓦基" },
+      "tradition": "polynesian",
+      "category": "myth",
+      "region": { "en": "Tawhaki's village, Hauraki (symbolic pin)", "zh": "塔瓦基村居，豪拉基（象徵性定位）" },
+      "lat": -36.8,
+      "lon": 175.2,
+      "period": "Oral tradition; recorded 1855 (Grey, Polynesian Mythology)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "George Grey, Polynesian Mythology and Ancient Traditional History of the New Zealand Race, ch. 3, The Legend of Tawhaki (London 1855)",
+        "url": "https://archive.org/details/polynesianmythol00greyuoft"
+      },
+      "license": "Public domain (Grey 1855)",
+      "summary": {
+        "en": "Fame of Tawhaki's courage and beauty reaches Tangotango, a maiden of the heavenly race, who descends nightly to lie by the sleeping hero and vanishes before dawn. Pregnant, she discloses herself and lives with him for love of his people; but when Tawhaki calls their newborn daughter smelly, the insulted mother rises into the sky from the ridge-pole carving. Her parting counsel - grasp the vine that has struck root into the earth, not the loose swaying one - becomes the key to his later ascent, and Arahuta is carried to heaven.",
+        "zh": "塔瓦基之勇武俊美遠播天界，天女湯戈湯戈夜夜下凡偎依熟睡的英雄，晨光前離去。及至有孕，她吐露身份，為愛留居人間。然塔瓦基嫌初生女兒『氣味難聞』，天女含悲攜女自屋脊雕飾處凌空而去，留下一句訣別之言：握住那已深深扎入土中的藤蔓，莫握高空搖曳的鬆蔓——此話後來成為他登天的鑰匙。"
+      },
+      "motifs": ["divine-marriage", "ascension", "miraculous-birth"],
+      "sensitivity": { "restricted": false, "note": "Sacred-marriage cluster: hero marries a sky-born woman; motif tags interpretive." },
+      "persons": ["tawhaki"],
+      "passages": [
+        { "id": "1", "text": "The fame of Tawhaki's courage in destroying the race of Ponaturi, and a report also of his manly beauty, chanced to reach the ears of a young maiden of the heavenly race who live above in the skies; so one night she descended from the heavens to visit Tawhaki and judge for herself whether these reports were true. She found him lying sound asleep, gazed on him for some time, stole to his side and laid herself down by him; when he was disturbed by her he thought it was only some female of this lower world, and slept again; before dawn the young girl stole away and ascended once more to the heavens.", "note": "Paraphrase of George Grey, Polynesian Mythology, ch. 3 (1855); not verbatim." },
+        { "id": "2", "text": "From that time Tangotango, the girl of the heavenly race, stole every night to the side of Tawhaki, and lo, in the morning she was gone - until she found she had conceived a child, afterwards named Arahuta. Then, full of love for Tawhaki, she disclosed herself fully to him and lived constantly in this world with him, deserting for his sake her friends above; and he discovered that she who had so loved him belonged to the race whose home is in the heavens.", "note": "Paraphrase of George Grey, Polynesian Mythology, ch. 3 (1855); not verbatim." },
+        { "id": "3", "text": "When the child came - a little girl - Tawhaki took it to a spring to wash it before baptism, then held it away from him as if it smelt badly, and said, 'Faugh, how badly the little thing smells.' Tangotango, hearing this said of her own dear baby, sobbed and cried bitterly, and at last rose up with her child and began to take flight towards the sky, pausing one minute with one foot resting on the carved figure at the end of the ridge-pole above the door. Tawhaki rushed forward and springing up tried to catch his wife, entreating, 'Mother of my child, oh return once more to me!' She called down that she would never return; but at his plea for a remembrance she gave him her parting counsel: take care to lay hold not of the loose root of the creeper which drops from aloft and sways to and fro in the air, but rather of that which, hanging down from on high, has again struck its fibres into the earth. Then she floated up into the air and vanished from his sight.", "note": "Paraphrase of George Grey, Polynesian Mythology, ch. 3 (1855); not verbatim." }
+      ]
+    },
+    {
+      "id": "polynesian-tawhaki-ascent-vines",
+      "title": { "en": "Tawhaki Climbs the Vine of Heaven", "zh": "塔瓦基攀天藤而上" },
+      "tradition": "polynesian",
+      "category": "myth",
+      "region": { "en": "Matakerepo's guard post at the world's rim (symbolic pin)", "zh": "盲眼祖妣守藤之天際之地（象徵性定位）" },
+      "lat": -35.4,
+      "lon": 173.8,
+      "period": "Oral tradition; recorded 1855 (Grey, Polynesian Mythology)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "George Grey, Polynesian Mythology and Ancient Traditional History of the New Zealand Race, ch. 3, The Legend of Tawhaki (London 1855)",
+        "url": "https://archive.org/details/polynesianmythol00greyuoft"
+      },
+      "license": "Public domain (Grey 1855)",
+      "summary": {
+        "en": "Grieving for wife and daughter, Tawhaki travels with Karihi to the road's end where the tendrils hanging from heaven touch the earth, guarded by their blind ancestress Matakerepo. Tawhaki's taro-counting prank restores her sight with a touch, and she reveals the way. Karihi seizes a loose tendril and is swept to the horizon's edge and back before Tawhaki's shout frees him; Tawhaki alone climbs with a powerful incantation, keeping hold of the rooted vine, until he pulls himself up into the heavens.",
+        "zh": "塔瓦基思念妻女成疾，偕弟卡里希行至天藤垂地之處，守藤者為雙目失明的祖妣馬塔凱雷波。塔瓦基以偷數芋頭的惡作劇戲弄她，繼以手觸復其明目；老嫗指路並囑咐：待明日晨光再攀，中途不可俯視下界，亦須握緊扎入土中的藤蔓。卡里希誤抓鬆藤，被風吹至天際又墜回，得兄呼喊方脫險；塔瓦基獨自攀天，一路誦唸強力咒語，終於拉身登上天界。"
+      },
+      "motifs": ["ascension", "descent-underworld", "quest-immortality"],
+      "sensitivity": { "restricted": false, "note": "Ascension cluster: hero climbs to the heavens to reclaim his family." },
+      "persons": ["tawhaki"],
+      "passages": [
+        { "id": "1", "text": "Tawhaki remained plunged in grief, for his heart was torn by regrets for his wife and his little girl. One moon had waned after her departure, when, unable longer to endure such sufferings, he called to Karihi to go and search for his little girl, and they departed with two slaves as companions. He warned the unclean, unconsecrated slaves not to look up at the enchanted fortress of Tongameha as the road passed it; one slave looked up, and his eye was immediately torn out by the magical arts of Tongameha and he perished.", "note": "Paraphrase of George Grey, Polynesian Mythology, ch. 3 (1855); not verbatim." },
+        { "id": "2", "text": "At last they reached the spot where the ends of the tendrils which hang down from heaven reach the earth, and found an old ancestress of theirs quite blind, named Matakerepo, appointed to take care of the tendrils and holding the ends of one of them in her hands. She was counting ten taro roots she was about to cook; Tawhaki quietly slipped away the tenth, then the ninth, until she guessed somebody was playing a trick upon her. She pulled her weapon from beneath her and swept it round; the brothers lay flat and her weapon passed over them. Karihi struck her a blow upon the face, and as she threw up her hands crying out, Tawhaki touched both her eyes, and lo, she was at once restored to sight, knew her grandchildren, and wept over them. Then she pointed to the tendrils: 'Up there lies your road; but do not begin the ascent so late in the day; wait until the morning.'", "note": "Paraphrase of George Grey, Polynesian Mythology, ch. 3 (1855); not verbatim." },
+        { "id": "3", "text": "Tawhaki presented his slave to the old lady as an acknowledgment for her kindness, and at first peep of dawn prepared food for strength. As he started, she called out to him: lay fast hold of the tendrils with your hands and climb on; when you get midway between heaven and earth, take care not to look down upon this lower world again, lest you become charmed and giddy and fall; and take care not by mistake to lay hold of a tendril which swings loose, but rather of one which, hanging down from above, has again firmly struck root into the earth. Karihi sprang and caught a loose one, and away he swung to the very edge of the horizon; a blast of wind blew him back to the other side of the skies, another swept him up, and down he was blown again - until Tawhaki shouted, 'Now, my brother, loose your hands!' and he stood upon the earth once more. Tawhaki, alarmed for his brother, sent him home to care for their families, and began the ascent alone, his old ancestress calling 'Hold fast, my child!' and repeating a powerful incantation as he climbed, until at length he reached the heavens and pulled himself up into them.", "note": "Paraphrase of George Grey, Polynesian Mythology, ch. 3 (1855); not verbatim." }
+      ]
+    },
+    {
+      "id": "polynesian-tawhaki-ugly-slave",
+      "title": { "en": "The Ugly Old Slave Is Tawhaki", "zh": "醜老奴原是塔瓦基" },
+      "tradition": "polynesian",
+      "category": "myth",
+      "region": { "en": "Canoe-building forest in the heavens (symbolic pin)", "zh": "天界造舟之林（象徵性定位）" },
+      "lat": -36.4,
+      "lon": 174.7,
+      "period": "Oral tradition; recorded 1855 (Grey, Polynesian Mythology)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "George Grey, Polynesian Mythology and Ancient Traditional History of the New Zealand Race, ch. 3, The Legend of Tawhaki (London 1855)",
+        "url": "https://archive.org/details/polynesianmythol00greyuoft"
+      },
+      "license": "Public domain (Grey 1855)",
+      "summary": {
+        "en": "Entering the heavens, Tawhaki disguises himself as an ugly old man; the very brothers-in-law who had tried to murder him seize him as a slave to carry axes and firewood. Each evening he secretly adzes their canoes to perfection; when the suspicious brothers-in-law hide to watch, he sheds his disguise in incantations and stands resplendent. Tangotango questions the 'slave' and wins back her husband, who snatches up his little daughter; Tawhaki makes the whole place tapu, performs the noble rites for the child, and lightning flashes from his arm-pits - for he dwells in the skies still, and thunder is said to be his footsteps.",
+        "zh": "塔瓦基登天後自毀俊容，化身醜陋老者；謀害過他的連襟們竟把他當作奴隸，令其背斧扛柴。每晚他暗自以斧精修其獨木舟，成品完美令眾驚疑；連襟埋伏窺視，只見他在咒語中褪去偽裝、恢復煥發儀容。湯戈湯戈上前質問，夫婦相認，塔瓦基抱起幼女，全場被其神威立為禁地。他為女兒行貴族洗禮之禮，腋下電光迸射——相傳塔瓦基至今仍居天界，雷聲即其腳步。"
+      },
+      "motifs": ["trickster", "ascension", "theophany", "foundational-legend"],
+      "sensitivity": { "restricted": false, "note": "Grey's footnote notes the tapingu of the courtyard and the thunder/lightning worship of Tawhaki." },
+      "persons": ["tawhaki"],
+      "passages": [
+        { "id": "1", "text": "At length Tawhaki reached the heavens, and pulled himself up into them, and then by enchantments disguised himself, changing his handsome and noble appearance into the likeness of a very ugly old man. He followed the road into a dense forest where his brothers-in-law, with a party of their people, were hewing canoes from the trunks of trees; they saw him and, little thinking who he was, called out that here was an old fellow who would make a nice slave, and made him carry the heavy axes home. At evening, coming near the village, he was taken up by two women gathering firewood and made to carry a load as well - so was this mighty chief treated as a slave, even by female slaves.", "note": "Paraphrase of George Grey, Polynesian Mythology, ch. 3 (1855); not verbatim." },
+        { "id": "2", "text": "Little did his wife Tangotango think that the slave they were insulting was her own husband Tawhaki. He carried his load of firewood straight up to her fire-place; all present cried that he would become tapued from sitting near Tangotango, but on he went. Next evening, after the others were out of sight, he turned back and rapidly adzed a canoe from bow to stern, and lo, one side was finished, then the other, beautifully finished; next day the brothers-in-law found a second canoe transformed. On the third evening they hid in the forest to watch; and Tawhaki, repeating the necessary incantations, put off his disguise and took again his own appearance, noble and handsome, and commenced his work at the canoe. The watchers whispered that this must be a demi-god, ran to the village, asked Tangotango to describe her husband, and found the man exactly like the description.", "note": "Paraphrase of George Grey, Polynesian Mythology, ch. 3 (1855); not verbatim." },
+        { "id": "3", "text": "When Tawhaki reappeared, disguised again as an ugly old man, Tangotango questioned him: 'Now tell me, who are you? Are you Tawhaki?' He murmured assent, still walking on until he reached her side, then snatched up his little daughter and pressed her to his heart. The persons present all rushed out of the court-yard, for the whole place was made tapu by Tawhaki, and murmurs of gratification arose on every side at the splendour of his appearance. He retired with his wife, saying he came that their little daughter might undergo the ceremonies usual for the children of nobles; at daybreak they broke an opening through the end of the house opposite the door, that the little girl's rank might be seen by her being carried out that way, repeated the prescribed prayers, and lightnings flashed from the arm-pits of Tawhaki as they plunged her into the water. It is said Tawhaki still dwells in the skies, worshipped as a god, and that thunder and lightning are caused by his footsteps when he moves.", "note": "Paraphrase of George Grey, Polynesian Mythology, ch. 3 (1855); not verbatim." }
+      ]
+    },
+    {
+      "id": "polynesian-hinauri-stranded-log",
+      "title": { "en": "Hinauri, the Stranded Log of Timber", "zh": "海娜烏里：擱淺之木" },
+      "tradition": "polynesian",
+      "category": "myth",
+      "region": { "en": "Wairarawa beach, northern Aotearoa (symbolic pin)", "zh": "紐西蘭北部懷拉拉瓦海灘（象徵性定位）" },
+      "lat": -35.2,
+      "lon": 173.3,
+      "period": "Oral tradition; recorded 1855 (Grey, Polynesian Mythology)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "George Grey, Polynesian Mythology and Ancient Traditional History of the New Zealand Race, ch. 4, Rupe's Ascent into Heaven (London 1855)",
+        "url": "https://archive.org/details/polynesianmythol00greyuoft"
+      },
+      "license": "Public domain (Grey 1855)",
+      "summary": {
+        "en": "After her self-drowning over Irawaru, Hinauri drifts for months in the sea and is thrown up on the beach of Wairarawa, overgrown with seaweed and barnacles. Two brothers, Ihuatamai and Ihuwareware, gently scrape her clean and nurse her back; she takes a new name, Ihungarupaea, the Stranded-log-of-timber. When her husband Tinirau's other wives curse and try to kill her, one incantation fells them both dead, and Hinauri is left mistress of Motu-tapu.",
+        "zh": "海娜烏里因丈夫化犬而投海，隨波漂流數月，終被衝上懷拉拉瓦海灘，身上纏滿海草藤壺。伊胡阿塔邁與伊胡瓦雷瓦雷兄弟憐惜相救，輕刮其身、悉心照料；她隱去舊名，自稱『擱淺之木』伊洪加魯派亞。後被酋長蒂尼勞娶為妻，遭其另二妻咒罵追打；她僅誦一咒，二婦撲地即斃，從此獨占島嶼家宅。"
+      },
+      "motifs": ["transformation", "resurrection", "taboo-transgression"],
+      "sensitivity": { "restricted": false, "note": "Resurrection-cluster edge case: recovery from apparent death rather than true return from the underworld." },
+      "persons": ["hinauri"],
+      "passages": [
+        { "id": "1", "text": "We left Hinauri floating out into the ocean; for many months she floated through the sea, and was at last thrown up by the surf on the beach at a place named Wairarawa. She was found there, lying as if dead upon the sandy shore, by two brothers named Ihuatamai and Ihuwareware; her body was in many parts overgrown with seaweed and barnacles from the length of time she had been in the water, but they could still see some traces of her beauty, and pitying the young girl they lifted her in their arms, carried her home, laid her carefully beside a fire, and scraped off very gently the seaweed and barnacles from her body, and thus by degrees restored her.", "note": "Paraphrase of George Grey, Polynesian Mythology, ch. 4 (1855); not verbatim." },
+        { "id": "2", "text": "When she had quite recovered, Ihuatamai and Ihuwareware looked upon her with pleasure and took her as a wife between them both; she did not disclose her name, but changed it and called herself Ihungarupaea, the Stranded-log-of-timber. After she had lived with the brothers a long time, Ihuwareware went to pay a visit to his superior chief Tinirau and related her adventures; Tinirau came to bring away the young stranger as a wife for himself, and she was given up to him - though by Ihuatamai she had already conceived a child.", "note": "Paraphrase of George Grey, Polynesian Mythology, ch. 4 (1855); not verbatim." },
+        { "id": "3", "text": "Tinirau took her home to his residence on the island called Motu-tapu, where he had two other wives, Harataunga and Horotata. When they saw the young stranger coming along in their husband's company they could not endure it; they abused Hinauri for her conduct, at last proceeded so far as to attempt to strike and kill her, and cursed her bitterly. The heart of Hinauri became gloomy with grief and mortification, so she began to utter incantations against them, and repeated one so powerful that hardly had she finished when the two women fell flat on the ground with the soles of their feet projecting upward, and lay quite dead, and her husband was left free for her alone.", "note": "Paraphrase of George Grey, Polynesian Mythology, ch. 4 (1855); not verbatim." }
+      ]
+    },
+    {
+      "id": "polynesian-rupe-ascent-heaven",
+      "title": { "en": "Rupe's Ascent through the Ten Heavens", "zh": "魯佩穿越十重天" },
+      "tradition": "polynesian",
+      "category": "myth",
+      "region": { "en": "Te Putahi-nui-o-Rehua, tenth heaven (symbolic pin)", "zh": "第十重天雷胡瓦居所（象徵性定位）" },
+      "lat": -37.4,
+      "lon": 175.9,
+      "period": "Oral tradition; recorded 1855 (Grey, Polynesian Mythology)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "George Grey, Polynesian Mythology and Ancient Traditional History of the New Zealand Race, ch. 4, Rupe's Ascent into Heaven (London 1855)",
+        "url": "https://archive.org/details/polynesianmythol00greyuoft"
+      },
+      "license": "Public domain (Grey 1855)",
+      "summary": {
+        "en": "Rupe, once called Maui-mua, grieves for his lost sister Hinauri and ascends heaven after heaven - each inhabited level refusing that the next can be reached - until he forces through ten skies to Rehua's home. Rehua shakes tui birds from his sacred locks for the feast, which Rupe reverently refuses to eat, and reveals that a murmur from Motu-tapu has reached him. As a pigeon, Rupe spears his way down to Tinirau's window, reveals himself, and carries his sister and her newborn back to heaven; on the way the dropped afterbirth becomes the shark's eggs, and a later rite explains the red stain of the sky as Kaitangata's blood.",
+        "zh": "魯佩——原名毛伊穆阿——思念失散的姐姐海娜烏里，逐重攀登天界：每層天人都說再上一層不可達；他強行穿破，直至第十重天抵達雷胡瓦居所。雷胡瓦抖動神聖髮結，放出在其中棲息覓蟲的圖伊鳥充宴，魯佩敬畏不敢下箸。雷胡瓦透露下方島上消息，魯佩化鴿飛降，於窗台顯形，攜姐與新生兒同歸天上；途中遺落的胞衣被鯊吞食，即鯊腹多卵之由；而雷胡瓦之子卡伊唐加塔血染天際，即晚霞之紅。"
+      },
+      "motifs": ["ascension", "sacred-kingship", "taboo-transgression"],
+      "sensitivity": { "restricted": false, "note": "Layered-heavens cosmology record; the tui-from-locks episode is a classic tapu food test." },
+      "persons": ["hinauri"],
+      "passages": [
+        { "id": "1", "text": "All this time Hinauri was lost to her friends and home, and her young brother Maui-mua, afterwards called Rupe, could do nothing but think of her; excessive love for his sister and sorrow at her departure so harassed him that he could no longer remain at rest, but must go and seek her. He visited every place he could think of without missing one, yet could nowhere find his sister; at last he thought he would ascend to the heavens to consult his great ancestor Rehua, who dwelt there at a place named Te Putahi-nui-o-Rehua.", "note": "Paraphrase of George Grey, Polynesian Mythology, ch. 4 (1855); not verbatim." },
+        { "id": "2", "text": "Rupe continued his ascent; at each inhabited place he asked whether the heavens above were inhabited and whether he could reach them, and each people answered, 'You cannot reach them; those heavens were fixed there by Tane.' But Rupe forced a way up through those heavens, and so he continued until he reached the tenth heaven and the abode of Rehua. Rehua welcomed the stranger with a lamentation; when they had ended, he called for a fire and cooking. Rupe wondered whence the food would come, and saw Rehua slowly loosen the thick bands about his locks and shake his long hair, from which came flying flocks of tui birds that had been nestling there feeding upon insects. The slaves caught and cooked them, but Rupe said, 'Nay, I cannot eat this food; I saw these birds loosened and take wing from thy locks; who would dare to eat birds that had fed upon insects in thy sacred head?'", "note": "Paraphrase of George Grey, Polynesian Mythology, ch. 4 (1855); not verbatim." },
+        { "id": "3", "text": "Rupe ventured to ask whether a confused murmur of voices from the world below had reached Rehua concerning a subject in which he was interested; Rehua answered that such a murmur had come from the island of Motu-tapu. Immediately Rupe changed himself into a pigeon and flew down to the dwelling of Tinirau; the people tried to spear and snare the bird, but his young sister Hinauri suspected something, looked well at it, knew her brother, and greeted him with the poem of Toetoetu. That very day her child was born; hardly had she finished her answering lament before Rupe caught her up with her new-born baby, and in a moment they were gone, carrying the afterbirth for burial. As they passed through the air it was dropped, fell into the sea, and was devoured by a shark - which caused the multitude of large eggs now found inside the shark.", "note": "Paraphrase of George Grey, Polynesian Mythology, ch. 4 (1855); not verbatim." },
+        { "id": "4", "text": "At Rehua's dwelling Rupe cleansed the filthy court-yard with two wooden shovels he named Tahitahia and Rakerakea, and added a building to the dwelling; but one beam being badly fixed, Rehua's son Kaitangata was one day killed hanging on to it - thrown down as it gave way and sprang back. His blood, running about over part of the heavens, stained them and formed what we now call a ruddiness in the sky; when therefore a red and ruddy tinge is seen in the heavens, men say, 'Ah! Kaitangata stained the heavens with his blood.' Kupe's first name was Maui-mua; it was after he was transformed into a bird that he took the name of Rupe.", "note": "Paraphrase of George Grey, Polynesian Mythology, ch. 4 (1855); not verbatim." }
+      ]
+    },
+    {
+      "id": "polynesian-kae-tutunui-theft",
+      "title": { "en": "Kae Rides Tutunui to Death", "zh": "凱騎毙鯨魚圖圖努伊" },
+      "tradition": "polynesian",
+      "category": "myth",
+      "region": { "en": "Te Tibi-o-Manono, Kae's village (symbolic pin)", "zh": "凱的村莊特提比奧馬諾諾（象徵性定位）" },
+      "lat": -40.35,
+      "lon": 175.6,
+      "period": "Oral tradition; recorded 1855 (Grey, Polynesian Mythology)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "George Grey, Polynesian Mythology and Ancient Traditional History of the New Zealand Race, ch. 5, Kae's Theft of the Whale (London 1855)",
+        "url": "https://archive.org/details/polynesianmythol00greyuoft"
+      },
+      "license": "Public domain (Grey 1855)",
+      "summary": {
+        "en": "Tinirau brings the magician Kae to enchant his infant son Tuhuruhuru, slaughters a slice of his tame whale Tutunui for the feast, and lends the whale to carry Kae home. Kae, who has tasted how savoury the flesh is, ignores the signal to jump off when the whale touches bottom, presses it down until its blow-holes stop with sand and it dies; his tribe drags Tutunui ashore and roasts it in ovens lined with koromiko leaves - still greasy today, says the proverb. When the savoury scent drifts across the sea, Tinirau knows his pet is eaten, and sends forty women to take revenge.",
+        "zh": "蒂尼勞請老法師凱為嬰兒祝福，宰殺愛鯨圖圖努伊一塊款待；歸程借鯨代舟。凱既嘗其鮮美，歸途中鯨觸底示警，他卻死抱不放，將鯨壓向海底，噴氣孔被沙堵死，鯨斃命。族眾將屍拖上岸，以科羅米科香葉墊灶烹之——至今葉上猶留油脂，諺語云『這是圖圖努伊的餘香』。美味之氣飄洋而過，蒂尼勞知寵鯨被食，遂遣四十女子渡海復仇。"
+      },
+      "motifs": ["trickster", "taboo-transgression", "boon-curse"],
+      "sensitivity": { "restricted": false, "note": "Colonial-era collection; etiological tail for greasy koromiko leaves." },
+      "persons": [],
+      "passages": [
+        { "id": "1", "text": "Soon after Tuhuruhuru was born, Tinirau endeavoured to find a skilful magician who might perform the necessary enchantments and incantations to render the child a fortunate and successful warrior, and Kae was the name of the old magician brought to him for this purpose. Kae arrived at Tinirau's village and performed the proper enchantments over the infant. When all was rightly concluded, Tinirau gave a signal to a pet whale he had tamed, whose name was Tutunui; it left the ocean in which it was sporting and came to the shore, and its master laid hold of it and cut a slice of its flesh off to make a feast for the old magician, cooked it, and gave a portion of it to Kae, who found it very savoury and praised the dish very much.", "note": "Paraphrase of George Grey, Polynesian Mythology, ch. 5 (1855); not verbatim." },
+        { "id": "2", "text": "Shortly afterwards Kae said it was necessary for him to return to his own village, Te Tibi-o-Manono; Tinirau ordered a canoe to be got ready, but Kae made excuses and said he did not like to go back in the canoe - a mere trick, his real object being to get leave to ride back upon the whale, upon Tutunui, for he now knew how savoury the flesh of that fish was. Tinirau at last lent Tutunui, with very particular directions: when you get so near the shore that the fish touches the bottom, it will shake itself to let you know, and you must then, without any delay, jump off on the right side.", "note": "Paraphrase of George Grey, Polynesian Mythology, ch. 5 (1855); not verbatim." },
+        { "id": "3", "text": "When they came close to the shore at Kae's village and the whale felt the bottom, it shook itself as a sign for Kae to jump off and wade ashore; but it was of no use - the old magician stuck fast to the whale and pressed it down against the bottom as hard as he could. In vain the fish continued to shake itself; Kae held on and would not jump off, and in its struggles the blow-holes of Tutunui got stopped up with sand, and it died. Kae and his people dragged up the body intending to feast upon it; they cut it up and cooked it in ovens, covering the flesh with the fragrant leaves of the koromiko before heaping earth upon them, and the fat of Tutunui adhered to the leaves - which continue greasy to this day, so that if koromiko boughs are put on the fire and become greasy, the proverb says, 'There's some of the savouriness of Tutunui.'", "note": "Paraphrase of George Grey, Polynesian Mythology, ch. 5 (1855); not verbatim." }
+      ]
+    },
+    {
+      "id": "polynesian-kae-laughter-identification",
+      "title": { "en": "Forty Women Carry Off the Sleeping Kae", "zh": "四十女子智擒酣睡之凱" },
+      "tradition": "polynesian",
+      "category": "myth",
+      "region": { "en": "Kae's meeting-house (symbolic pin)", "zh": "凱的聚會大屋（象徵性定位）" },
+      "lat": -40.6,
+      "lon": 175.2,
+      "period": "Oral tradition; recorded 1855 (Grey, Polynesian Mythology)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "George Grey, Polynesian Mythology and Ancient Traditional History of the New Zealand Race, ch. 5, Kae's Theft of the Whale (London 1855)",
+        "url": "https://archive.org/details/polynesianmythol00greyuoft"
+      },
+      "license": "Public domain (Grey 1855)",
+      "summary": {
+        "en": "To identify the gap-toothed Kae among his tribe, Tinirau's forty women stage an evening of games, flutes and comic songs until the magician laughs aloud - and the flesh of Tutunui is seen still between his uneven teeth ('There's Kae laughing', says the proverb). Deceiving his mother-of-pearl eye-discs with dim firelight, they enchant the whole house into sleep and pass the rolled-up magician hand to hand down a living chain into their canoe. Waking at Tinirau's in a house exactly like his own, Kae is disoriented by the forged cries of 'Here comes Tinirau', recognizes the changed window, bows his head, and is slain.",
+        "zh": "蒂尼勞之四十女子以歌舞遊戲誘老法師開口大笑——他齒參差不齊，齒縫間猶嵌圖圖努伊之肉，『凱笑了』從此成諺。眾女借熄火之機施展咒術，令全屋陷入沉睡，再列成長鏈，將裹於氈毯的凱手手相傳至獨木舟。凱醒來時身處一模一樣的屋中，又被『蒂尼勞來訪』的假呼聲所惑；待看清窗戶位置不對，方知大禍臨頭，垂首受戮。"
+      },
+      "motifs": ["trickster", "oracle-divination"],
+      "sensitivity": { "restricted": false, "note": "The identification-by-teeth is a classic Maori trickster ruse; proverbial in Maori speech." },
+      "persons": [],
+      "passages": [
+        { "id": "1", "text": "Just before the canoe started, Tinirau's youngest sister asked him what marks they should know Kae by, and he answered, 'You cannot mistake him; his teeth are uneven and all overlap one another.' They paddled to the village of the old magician, and towards night a fire was lighted in Kae's great house, crowded with visitors on one side and his own people on the other; Kae sat at the foot of the main pillar. To find him out, Tinirau's people resolved to try by wit and fun to make everybody laugh, and when they opened their mouths to watch whose teeth lapped across one another.", "note": "Paraphrase of George Grey, Polynesian Mythology, ch. 5 (1855); not verbatim." },
+        { "id": "2", "text": "Raukatauri exhibited all her amusing tricks: she made them sing and play on flute and putorino, beat castanets, play at mora and at the stick-throwing game in time to song, played a jew's-harp, made puppets dance and whizgigs spin - yet the man they thought was Kae never once laughed. At last they all burst into a droll comic song, making curious faces and shaking their arms in time; the old magician could not help laughing out heartily, and those watching saw pieces of the flesh of Tutunui still sticking between his teeth. From this a proverb is preserved among the Maori to the present day - if anyone laughs at a story, a bystander says, 'Ah, there's Kae laughing.'", "note": "Paraphrase of George Grey, Polynesian Mythology, ch. 5 (1855); not verbatim." },
+        { "id": "3", "text": "The women made an excuse to let the fire burn dim so they might work their enchantments unseen; but Kae, suspecting, stuck a round piece of mother-of-pearl shell in the socket of each eye, so that the faint reflected rays might make the strangers think the whites of his eyes were open. The women went on and by their magical arts threw everyone in the house into an enchanted sleep. Then they ranged themselves in a long row from Kae's sleeping-place to the canoe, and two of them lifted the old magician gently up, rolled in his cloaks as he lay, and passed him from hand to hand until he reached the arms of the two women standing in the canoe - and thus Kae was carried off by Hine-i-te-iwaiwa and Raukatauri.", "note": "Paraphrase of George Grey, Polynesian Mythology, ch. 5 (1855); not verbatim." },
+        { "id": "4", "text": "They laid him fast asleep close to the central pillar of Tinirau's house, so that the place where he slept was exactly like his own sleeping-place - though Kae's own house was circular, with rafters springing from a central pillar, while Tinirau's was a long house with a ridge-pole. Tinirau ordered his tribe, when he passed in the morning, to call out loud 'Here comes Tinirau' as if he were arriving at Kae's own village; Kae started up drowsy and confused, declared 'This is my house', and could not say where his window was. The whole appearance of his house had changed; he guessed at once that the house belonged to Tinirau, and the old magician, seeing that his hour had come, bowed down his head in silence to the earth. They seized him, dragged him out, and slew him; and his tribe, the descendants of Poporokewa, later avenged his death by attacking Tinirau's fortress and slaying Tinirau's son.", "note": "Paraphrase of George Grey, Polynesian Mythology, ch. 5 (1855); not verbatim." }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,381 @@
+{
+  "_comment": "Norse expansion batch 35 - Creation & Origin Myths I (topic 1). Sources: Snorri's Prose Edda Gylfaginning and Poetic Edda (Codex Regius GKS 2365 4to). Deep records carry narrative, variants and full source apparatus. All passages are paraphrase and carry a note.",
+  "texts": [
+    {
+      "id": "norse-ginnungagap-void",
+      "title": {
+        "en": "Ginnungagap: From the Yawning Void to the First Life",
+        "zh": "金倫加鴻溝：從鴻蒙初開到最初的生命"
+      },
+      "tradition": "norse",
+      "category": "myth-religion",
+      "region": {
+        "en": "Ginnungagap (symbolic pin at Pingvellir, Iceland - provenance of Codex Regius)",
+        "zh": "金倫加鴻溝（象徵性定位於冰島辛格韋德利——《雷吉烏斯抄本》產地）"
+      },
+      "lat": 64.26,
+      "lon": -21.13,
+      "period": "Prose Edda c. 1220-1230, using older eddic material; MSS Codex Regius GKS 2367 4to (c. 1300-1325), Codex Upsaliensis DG 11, Codex Trajectinus",
+      "source": {
+        "archive": "sacred-texts.com / Project Gutenberg",
+        "work": "Snorri Sturluson, Edda: Gylfaginning chs. 1-5, trans. A. G. Brodeur (1916); critical ed. Anthony Faulkes (1987)",
+        "url": "https://www.sacred-texts.com/neu/pre/"
+      },
+      "license": "Public domain (Brodeur 1916); passages below are labeled paraphrases",
+      "summary": {
+        "en": "Before earth, sky or sea there was only Ginnungagap, the yawning void. North lay Niflheim, whose eleven venom rivers froze into rime; south lay Muspell, a burning world no outsider could endure. Where the two met, rime dropped into the gap and quickened into the giant Ymir; the thawing drops next shaped a cow, Audhumla, whose milk fed the giant while she licked salt stones until Buri came forth. The myth explains the primal polarity of ice and fire and the accidental, multi-generational birth of the gods.",
+        "zh": "天地海尚未存在時，唯有張開的金倫加鴻溝。北面尼福爾海姆的十一條毒河凍成霜雪，南面是無人能居的火焰之國穆斯貝爾海姆。冰火交會處，霜雪落入鴻溝化為活物，霜巨人尤彌爾由此而生；融冰之滴復凝成母牛歐德姆布拉，其乳哺育巨人，牛舌舔舐鹽石三日而舔出布里。神話解釋了冰與火的二元原初，以及諸神經數代偶然降生的譜系。"
+      },
+      "language": "Old Norse / Old Icelandic",
+      "canonical_translation": "A. G. Brodeur, Snorri Sturluson: The Prose Edda, New York 1916 (public domain); consulted against Anthony Faulkes, Edda, London 1987",
+      "narrative": {
+        "en": "Snorri's cosmogony begins with an admission of learned ignorance: it was the beginning of the world - and then immediately qualifies it. Before anything was made there was that which had always been, Niflheim, the mist-world, and in its center Hvergelmir, the roaring well from which the eleven rivers called Elivagar pour forth. The rivers carried with them the venom that flows from the spring, and as they ran farther from their source the current hardened into ice; the poison settled in the flow and froze with it. Far to the south, at the world's rim, lay Muspell, bright and hot, fenced with fire and given to no outsider to enter, guarded by Surtr with his flaming sword.\n\nBetween these two worlds spread Ginnungagap, the 'yawning gap', a void with no floor and no sky. The doctrine of the myth is that creation is a condensation, not a command. Nothing spoke the world into being; instead the warm air of Muspell met the frozen rime of Niflheim at the lip of the gap, and where they met the ice softened and dripped. By the heat that quickened the drops, the rime took the form of a living thing, and that form was the giant Ymir, whom the rime-giants acknowledge as their sire. He was not born of father or mother in any human sense: he is the oldest being, grown from the collision of opposites, sweating giants from his own left arm while from his paired feet a son was engendered.\n\nThe second birth is just as accidental and just as generative. The thawing drops formed another creature, a cow named Audhumla, whose milk is the first sustenance in the cosmos: she feeds Ymir from her four rivers of milk, and she in turn feeds on the salt of the ice-stones. Licking the salty blocks she brings forth on the first day a man's hair; on the second, his head; on the third, an entire man, Buri. Buri's son Bor marries Bestla, daughter of the giant Bolthorn, and their sons - Odin, Vili and Ve - are the first gods, beings who carry both the fire of Muspell's line and the descent of the rime-giants.\n\nThe myth's cultural function is to establish the cosmic economy on which all later Norse myth runs: the world is made of antagonistic elements held in unstable balance; giants are the elder race with a birthright claim; gods exist as a younger, mixed lineage that must seize order rather than inherit it; and nourishment - a cow, salt, milk - underlies even divine existence. Snorri, writing as a Christian and a learned Icelander, frames all this as the doctrine that 'heathen men' held; the myth also serves his pedagogy in Gylfaginning, where King Gylfi is walked through the void as a first lesson before the illusion of Asgard dissolves.\n\nLater eschatology feeds back into this cosmogony: at Ragnarok the fire of Surtr returns and the venom rivers of the deep past are renewed in punishment, so that the end of the world replays its own raw materials in reverse."
+      },
+      "functions": [
+        "Cosmogonic doctrine of a pre-created material void rather than creation by word or will",
+        "Establishes the ice-fire polarity that organizes the whole Norse cosmos",
+        "Legitimates the giants as an elder race and the gods as a younger mixed lineage",
+        "Learned-Christian frame: Snorri presents heathen cosmology as the doctrine of a vanished system"
+      ],
+      "variants": [
+        {
+          "name": "Voluspa (Poetic Edda)",
+          "text_tradition": "Codex Regius GKS 2365 4to, c. 1270s (poem c. 900-1000 CE)",
+          "summary": "The sibyl's opening is spare: in earliest days there was no sand, no sea, no cool waves, no earth, no sky, only a single gaping void - a minimal cosmos without Snorri's named worlds, rivers or cow.",
+          "cross_ref": "norse-creation-ymir"
+        },
+        {
+          "name": "Vafthrudnismal (Poetic Edda)",
+          "text_tradition": "Codex Regius",
+          "summary": "In the wisdom contest the giant confirms that before the ages Ymir existed in the void, and names Muspell as the fire-world whose people ride to Ragnarok - eddic source for Snorri's geography.",
+          "cross_ref": "none"
+        },
+        {
+          "name": "Gylfaginning frame (Prose Edda, chs. 1-2)",
+          "text_tradition": "Codex Regius GKS 2367 4to",
+          "summary": "Snorri first surveys what learned men say about the world's age (an epitome of Christian chronology) and only then lets the three enthroned figures teach the heathen doctrine - a double bookkeeping of biblical and pagan time.",
+          "cross_ref": "norse-gylfaginning-frame"
+        }
+      ],
+      "primary_sources": [
+        {
+          "work": "Snorri Sturluson, Edda: Gylfaginning",
+          "citation": "Chs. 1-5 (Niflheim, Hvergelmir, Elivagar, Muspell, Surtr, the quickening of Ymir and Audhumla, Buri). Critical edition: Anthony Faulkes, Edda, London 1987. MSS: Codex Regius GKS 2367 4to; Codex Upsaliensis DG 11; Codex Trajectinus. English: Brodeur 1916.",
+          "language": "Old Norse / Old Icelandic"
+        },
+        {
+          "work": "Voluspa",
+          "citation": "Stanza 3 (the bare void). Principal MS Codex Regius GKS 2365 4to; Hauksbok variants. Critical edition: Ursula Dronke, The Poetic Edda vol. II, Oxford 1997; public-domain English: Henry A. Bellows, The Poetic Edda, 1923.",
+          "language": "Old Norse / Old Icelandic"
+        }
+      ],
+      "secondary_sources": [
+        {
+          "work": "Margaret Clunies Ross, Prolonged Echoes: Old Norse Myths in Medieval Northern Society, vol. 1",
+          "citation": "Clunies Ross 1994, Odense: Odense University Press - on the antagonistic-element economy of Norse cosmogony."
+        },
+        {
+          "work": "Rudolf Simek, Dictionary of Northern Mythology (trans. Angela Hall)",
+          "citation": "Simek 1993, Cambridge: D. S. Brewer - entries 'Ginnungagap', 'Niflheim', 'Muspell' synthesizing the manuscript evidence."
+        },
+        {
+          "work": "Ursula Dronke, The Poetic Edda, vol. II: Mythological Poems",
+          "citation": "Dronke 1997, Oxford: Clarendon Press - critical edition and commentary of Voluspa."
+        }
+      ],
+      "source_urls": [
+        {
+          "url": "https://www.sacred-texts.com/neu/pre/pre04.htm",
+          "description": "Gylfaginning chs. 1-5, Brodeur translation (public domain)",
+          "accessed": "2026-11-01"
+        },
+        {
+          "url": "https://handrit.is/",
+          "description": "handrit.is catalogue - Codex Regius GKS 2367 4to and related Edda manuscripts",
+          "accessed": "2026-11-01"
+        }
+      ],
+      "sensitivity_flag": "none",
+      "provenance": {
+        "record_status": "complete",
+        "compiled": "2026-11-01",
+        "compiled_by": "DHG508 fieldwork compilation",
+        "review_status": "draft - pending human review"
+      },
+      "motifs": [
+        "creation-chaos",
+        "cosmic-cow"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Historical literary corpus; claimed as heritage by modern heathen communities, but nothing restricted is reproduced."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "There was nothing, they said, before the making of the earth: no sand above, no sea below, no grass or air; only that vast opening, Ginnungagap, which had no bottom on any side. North of it lay the mist-world and its roaring spring, from whose rivers the rime spread and froze with the venom that flowed in the water; and the venom froze with the ice and dripped into the gap.",
+          "note": "Paraphrase of Snorri, Gylfaginning chs. 3-4 (Brodeur 1916); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Southward at the world's rim was the burning world, Muspell, fenced with fire and given to no man to enter. Where the heat of Muspell touched the frozen rime at the lip of the gap, the ice began to melt and drip; and the drops, quickened by the heat, took the form of a living thing - and that form was Ymir, from whom the rime-giants count their race.",
+          "note": "Paraphrase of Snorri, Gylfaginning chs. 4-5 (Brodeur 1916); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "The melting drops next formed a cow, Audhumla, and from her udders flowed the rivers of milk with which the giant was fed; and the cow herself fed by licking the salt of the ice-stones, and the first day she licked there came up a man's hair, and the second day a head, and the third day the whole man was come forth, and he was called Buri.",
+          "note": "Paraphrase of Snorri, Gylfaginning ch. 5 (Brodeur 1916); not verbatim."
+        }
+      ]
+    },
+    {
+      "id": "norse-bergelmir-flood",
+      "title": {
+        "en": "Bergelmir's Raft: The Flood That Made the Rime-Giants",
+        "zh": "貝格爾米爾之筏：造就霜巨人的洪水"
+      },
+      "tradition": "norse",
+      "category": "myth-religion",
+      "region": {
+        "en": "Jotunheimr (symbolic pin at Jotunheimen, Norway)",
+        "zh": "約頓海姆（象徵性定位於挪威尤通黑門山）"
+      },
+      "lat": 61.7,
+      "lon": 8.5,
+      "period": "Vafthrudnismal c. 900-1000 CE; Gylfaginning c. 1220-1230; principal MS Codex Regius GKS 2365 4to (c. 1270s)",
+      "source": {
+        "archive": "sacred-texts.com (Bellows 1923) / Project Gutenberg (Brodeur 1916)",
+        "work": "Vafthrudnismal st. 35; Snorri Sturluson, Gylfaginning ch. 7; critical ed. Ursula Dronke (Poetic Edda II, 1997)",
+        "url": "https://www.sacred-texts.com/neu/poe/"
+      },
+      "license": "Public domain (Bellows 1923; Brodeur 1916); passages below are labeled paraphrases",
+      "summary": {
+        "en": "When Odin, Vili and Ve slew Ymir, so much blood rushed from the giant's wounds that all his kin drowned in it - the first flood of the world. Only one household escaped: Bergelmir with his wife climbed onto a wooden trough (ludr) and floated the deluge, and from the two of them descend all the rime-giants. A Norse counterpart to Deucalion and the biblical flood, the story explains why the giants survived to menace the gods, and makes the enemies of order itself a remnant people saved by water at the making of the world.",
+        "zh": "奧丁、維利與偉誅殺尤彌爾時，巨人血湧成滔天洪水，淹沒其族人——此為世上第一場洪水。唯有貝格爾米爾夫婦登上木臼（ludr）漂於洪水之上，倖免於難，其後代即所有霜巨人。此神話與丟卡利翁及聖經洪水平行，既解釋巨人何以存續以威脅諸神，亦使秩序的仇敵成為在世界誕生之際由水救起的孑遺之族。"
+      },
+      "language": "Old Norse / Old Icelandic",
+      "canonical_translation": "Henry A. Bellows, The Poetic Edda, New York 1923 (public domain); Gylfaginning via Brodeur 1916",
+      "narrative": {
+        "en": "The making of the world is inseparable from an act of drowning. In Vafthrudnismal - a wisdom-contest in which Odin wagers his head against the ancient giant Vafthrudnir - Odin asks the oldest question he knows: whence came Aurgelmir's kin, the rime-giants? The giant answers that the eldest of years is Bergelmir, and that when Ymir was slain, the one 'on the ludr' floated the waters of the deluge; on the ludr - the trough or mill-vat, the timber of a primitive mill - Bergelmir and his wife went forth, and from them are all the giants come.\n\nSnorri turns the fragment into narrative. The blood of Ymir poured out so abundantly that it flooded everything: his sons Odin, Vili and Ve had no purpose in it other than the making of the world, and the flood was a by-product of the killing - the first catastrophe was collateral damage of the first act of order. Only Bergelmir and his wife climbed into the ludr and were saved; Snorri adds pointedly that from them a new race of giants is come, wherefore it is said in the old songs that the giants are a very ancient race - older in lineage than the gods themselves even though younger in the world.\n\nThe tale carries a dense set of cultural functions. It establishes a Germanic flood myth parallel to Deucalion and Pyrrha in Greece and to the deluge of Genesis and Mesopotamian literature - a theme motif-collectors codified as A1010, the world-flood and the surviving pair. It explains the structure of Norse enmity: the giants are not an original evil but a survivor-population, refugees of a cosmic crime committed by the gods, which grounds the moral ambiguity of the entire myth-world. And it defines the giants genealogically as a people - 'from them are come' - so that the war between gods and giants is framed as an ethnic myth of two nations, not a battle of good and evil.\n\nScholars have debated the meaning of the ludr: a mill-trough (Vafthrudnismal elsewhere places Bergelmir's mill in Jotunheim), a cradle-like boat, or a raft; all readings keep the paradox that the ark of the giants' salvation is a humble domestic implement of wood. Vafthrudnismal's phrasing also makes Bergelmir 'the eldest of years', a being as primordial as Ymir himself, so that the flood-remnant is nearly as old as the cosmos. Snorri's use of the poem is so close that his Gylfaginning paragraph is effectively a prose translation of st. 35 - a rare window into how the learned Icelandic compilers mined eddic verse for narrative.\n\nThe flood is never allowed its full closure: giants will fill the world again until Ragnarok, when the deluge's logic returns - the sea rising, the sun darkening, the survivors once more reduced to a pair. The myth thus forms a bracket around Norse time: from a flood at creation to a drowning at the end, with the remnant-pair the constant of both."
+      },
+      "functions": [
+        "Aition of the giants as a survivor-people saved from the first flood",
+        "Norse analog of the universal flood myth (A1010), parallel to Deucalion and Genesis",
+        "Frames god-giant enmity as ethnic and historical rather than moral",
+        "Documents Snorri's method: prose narrative mined from eddic verse"
+      ],
+      "variants": [
+        {
+          "name": "Vafthrudnismal st. 35 (Poetic Edda)",
+          "text_tradition": "Codex Regius GKS 2365 4to",
+          "summary": "The authoritative eddic version: in the wisdom contest Bergelmir is named the eldest of years, the one on whose ludr the deluge floated, from whom all giants descend - six lines only, no drowning scene, no motive for the flood.",
+          "cross_ref": "norse-bergelmir-flood"
+        },
+        {
+          "name": "Gylfaginning ch. 7 (Prose Edda)",
+          "text_tradition": "Codex Regius GKS 2367 4to",
+          "summary": "Snorri's expansion: the blood-flood, the escape of the single household, and the genealogical conclusion; adds the explanation that heathen men believed the giants an ancient race.",
+          "cross_ref": "norse-ginnungagap-void"
+        },
+        {
+          "name": "Greek parallel: Deucalion and Pyrrha",
+          "text_tradition": "Apollodorus, Library 1.7.2; Ovid, Metamorphoses 1.316-415",
+          "summary": "Zeus's flood destroys the bronze race; one pious couple survives in a chest and repopulates the earth - the structural twin of the Norse remnant-pair, though repopulation, not enemy-ancestry, is the Greek point.",
+          "cross_ref": "deucalion-flood"
+        }
+      ],
+      "primary_sources": [
+        {
+          "work": "Vafthrudnismal",
+          "citation": "Stanza 35 (and st. 28, 31 on Ymir's blood as sea). Principal MS Codex Regius GKS 2365 4to. Critical edition: Ursula Dronke, The Poetic Edda II, Oxford 1997; public-domain English: Bellows 1923.",
+          "language": "Old Norse / Old Icelandic"
+        },
+        {
+          "work": "Snorri Sturluson, Edda: Gylfaginning",
+          "citation": "Ch. 7 (the slaying of Ymir and the blood-flood; Bergelmir and his wife on the ludr). Critical ed. Faulkes 1987; English: Brodeur 1916.",
+          "language": "Old Norse / Old Icelandic"
+        }
+      ],
+      "secondary_sources": [
+        {
+          "work": "Ursula Dronke, The Poetic Edda, vol. II",
+          "citation": "Dronke 1997, Oxford: Clarendon Press - commentary on Vafthrudnismal st. 35 and the meaning of ludr."
+        },
+        {
+          "work": "Rudolf Simek, Dictionary of Northern Mythology",
+          "citation": "Simek 1993, Cambridge: D. S. Brewer - entry 'Bergelmir' collecting the flood parallels."
+        },
+        {
+          "work": "Margaret Clunies Ross, Prolonged Echoes, vol. 1",
+          "citation": "Clunies Ross 1994, Odense - reading the giant-flood within the cosmic exchange economy between gods and giants."
+        }
+      ],
+      "source_urls": [
+        {
+          "url": "https://www.sacred-texts.com/neu/poe/poe11.htm",
+          "description": "Vafthrudnismal, Bellows translation (public domain)",
+          "accessed": "2026-11-01"
+        },
+        {
+          "url": "https://www.sacred-texts.com/neu/pre/pre04.htm",
+          "description": "Gylfaginning chs. 1-9, Brodeur translation (public domain)",
+          "accessed": "2026-11-01"
+        }
+      ],
+      "sensitivity_flag": "none",
+      "provenance": {
+        "record_status": "complete",
+        "compiled": "2026-11-01",
+        "compiled_by": "DHG508 fieldwork compilation",
+        "review_status": "draft - pending human review"
+      },
+      "motifs": [
+        "flood",
+        "dismembered-giant"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Historical literary corpus; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Odin asked the giant the oldest of questions: whence came Aurgelmir's kin, the rime-giants, that are so many? And the giant answered that the eldest of years was Bergelmir, when Ymir was slain; the one on the ludr went aboard, they floated the deluge, and from them the giants are come again.",
+          "note": "Paraphrase of Vafthrudnismal st. 35 (Bellows 1923); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "So much blood flowed from Ymir's wounds that with it they drowned all the race of the giants, save one household only: Bergelmir and his wife went up upon the ludr and were saved from the deluge, and from them is come a new race of giants - wherefore it is said in the old songs that the giants are a very ancient people.",
+          "note": "Paraphrase of Snorri, Gylfaginning ch. 7 (Brodeur 1916); not verbatim."
+        }
+      ]
+    },
+    {
+      "id": "norse-ask-embla",
+      "title": {
+        "en": "Ask and Embla: The First Humans Made from Trees",
+        "zh": "阿斯克與恩布拉：以樹木造最初的凡人"
+      },
+      "tradition": "norse",
+      "category": "myth-religion",
+      "region": {
+        "en": "Midgard shore (symbolic pin at Pingvellir, Iceland)",
+        "zh": "米德加爾特海岸（象徵性定位於冰島辛格韋德利）"
+      },
+      "lat": 64.26,
+      "lon": -21.13,
+      "period": "Voluspa st. 17-18, c. 900-1000 CE; Gylfaginning c. 1220-1230; principal MSS Codex Regius GKS 2365 4to and GKS 2367 4to",
+      "source": {
+        "archive": "sacred-texts.com (Bellows 1923) / Project Gutenberg (Brodeur 1916)",
+        "work": "Voluspa st. 17-18; Snorri, Gylfaginning ch. 9; critical ed. Ursula Dronke (Poetic Edda II, 1997)",
+        "url": "https://www.sacred-texts.com/neu/poe/"
+      },
+      "license": "Public domain (Bellows 1923; Brodeur 1916); passages below are labeled paraphrases",
+      "summary": {
+        "en": "Walking on the sea-shore, three gods find two trees, driftwood - an ash and an elm - and make from them the first man and woman. Odin gives them spirit and breath, Hoenir gives sense and motion, Lodurr gives warmth, colour and good looks. Named Ask (Ash) and Embla, they become the ancestors of humankind within the walls of Midgard. The tripartite gift is the Norse doctrine of what a human being is: breath, mind, and living warmth, each a divine loan.",
+        "zh": "三神行於海灘，得二木——梣木與榆木——遂造最初的男人與女人。奧丁賜予氣息與靈魂，海尼爾賜予知覺與舉止，洛德爾賜予溫熱、血色與容儀。二木得名阿斯克與恩布拉，在米德加爾特的城牆之內繁衍人類。三分之賜正是北歐對「人」的界定：呼吸、心智與生命之熱，皆是諸神的借貸。"
+      },
+      "language": "Old Norse / Old Icelandic",
+      "canonical_translation": "Henry A. Bellows, The Poetic Edda, New York 1923 (public domain); Gylfaginning via Brodeur 1916",
+      "narrative": {
+        "en": "Voluspa compresses the whole doctrine of human origin into two stanzas. The gods - 'the mighty and loving' - dwelt in their halls in bliss and lacked nothing, till there came to them three mighty ones, kind and wise, out of that host - and three gods went to the sea-shore and found there two trees, without strength, without fate-spirit (orloglauss). Odin gave them ond, breath and spirit; Hoenir gave them odr, sense and the power of motion; Lodurr gave them la and litr godr, warmth of blood and fair colouring. The trees become Ask and Embla - ash and elm, or on one disputed reading 'horse and vine' - and humanity begins.\n\nSnorri retells the scene in Gylfaginning with the names fixed as Odin, Vili and Ve: the three sons of Bor were walking along the sea-strand and found two trees and took from them the man and his wife; Odin gave them life and spirit, Vili gave wit and feeling, Ve gave countenance, speech, hearing and sight, and they clothed them. The gifts divide differently between tellings - breath/warmth, mind/motion, colour/speech-senses - which shows that the poem's doctrine mattered more than the exact inventory: a human is assembled from three divine gifts and lives only while all three are loaned.\n\nThe myth's deepest resonance is its parallel to the Christian creation of Adam from clay, a resemblance so exact that some scholars have argued for Christian influence on the poem's final form, while others see an old Germanic doctrine of tree-birth. Either way, the choice of material is decisive: humans are not made from the giants' flesh (that is the earth itself) but from trees, living wood standing at the boundary of the rooted and the walking; the Norse imagination later multiplies tree-imagery - the family as a trunk, the person's fate as a wood, Yggdrasil as the world's tree of which each ash is a kinsman.\n\nCulturally the record explains three things. First, human equality before the gods: the first couple receive identical gifts, and no class mythology (unlike Rigspula) is attached to their creation. Second, the fragility of personhood: because the self is three loans, death can be narrated as the gifts going back - breath to Odin, wit to Hoenir. Third, the name of the human race: men are 'of Ask and Embla', an ethnic aition as tight as any founding legend. In Voluspa the episode sits between the golden age and the arrival of the Norns, so that the first humans are born into a world already scheduled for fate - they are given breath, motion and warmth, but not orlog, and fate must come to them from the three maidens under the tree.\n\nThe record is also a hinge for the motif atlas: the Greek clay-humans (Prometheus molding men) and the Norse tree-humans (gods finding wood) are the two European answers to the same question - what material deserves to be animated into humankind."
+      },
+      "functions": [
+        "Aition of human origin: the species named for its founding material (ash and elm)",
+        "Doctrine of the tripartite self: breath, mind, and living colour as divine gifts",
+        "Boundary myth: humans are made of living wood, kin to the world-tree",
+        "Liminal setting: creation on the sea-shore, the edge between chaos and order"
+      ],
+      "variants": [
+        {
+          "name": "Voluspa st. 17-18 (Poetic Edda)",
+          "text_tradition": "Codex Regius GKS 2365 4to; Hauksbok adds naming of the three gods",
+          "summary": "The poem names the three givers as Odin, Hoenir and Lodurr, and states the gifts as ond, odr, and la-litr-godr; the Hauksbok variant adds a second couple created after the Ragnarok prophecy.",
+          "cross_ref": "norse-ask-embla"
+        },
+        {
+          "name": "Gylfaginning ch. 9 (Prose Edda)",
+          "text_tradition": "Codex Regius GKS 2367 4to",
+          "summary": "Snorri's version names Odin, Vili and Ve and expands the third gift to countenance, speech, hearing and sight; the sea-shore walk is summarized, not dramatized.",
+          "cross_ref": "norse-ginnungagap-void"
+        },
+        {
+          "name": "Greek parallel: Prometheus and the clay of Panopaea",
+          "text_tradition": "Ovid, Metamorphoses 1.76-88; Apollodorus, Library 1.7.1",
+          "summary": "In the Greek analog the creator molds humans from earth mixed with water, and fire animates them - material and gift-structure inverted: clay here, trees there.",
+          "cross_ref": "prometheus-fire"
+        }
+      ],
+      "primary_sources": [
+        {
+          "work": "Voluspa",
+          "citation": "Stanzas 17-18. Principal MS Codex Regius GKS 2365 4to; variant in Hauksbok AM 544 4to. Critical edition: Dronke 1997; public-domain English: Bellows 1923.",
+          "language": "Old Norse / Old Icelandic"
+        },
+        {
+          "work": "Snorri Sturluson, Edda: Gylfaginning",
+          "citation": "Ch. 9 (the two trees on the sea-strand, the gifts of the three sons of Bor). Critical ed. Faulkes 1987; English: Brodeur 1916.",
+          "language": "Old Norse / Old Icelandic"
+        }
+      ],
+      "secondary_sources": [
+        {
+          "work": "Ursula Dronke, The Poetic Edda, vol. II",
+          "citation": "Dronke 1997, Oxford - commentary on the three gifts, the Hauksbok variant and the Christian-Adam debate."
+        },
+        {
+          "work": "Gro Steinsland, Norron religion: Myter, riter, samfunn",
+          "citation": "Steinsland 2005, Oslo: Pax - sacred kingship and tree-imagery in the origin of humankind."
+        },
+        {
+          "work": "Terry Gunnell, 'Trees and Humans in Norse Myth (and in reality)', Faravid 44",
+          "citation": "Gunnell 2022, Oulu: Kalevala Society - comparative study of tree-humans and forest cosmology."
+        }
+      ],
+      "source_urls": [
+        {
+          "url": "https://www.sacred-texts.com/neu/poe/poe03.htm",
+          "description": "Voluspa, Bellows translation (public domain)",
+          "accessed": "2026-11-01"
+        },
+        {
+          "url": "https://www.sacred-texts.com/neu/pre/pre05.htm",
+          "description": "Gylfaginning chs. 9-11, Brodeur translation (public domain)",
+          "accessed": "2026-11-01"
+        }
+      ],
+      "sensitivity_flag": "none",
+      "provenance": {
+        "record_status": "complete",
+        "compiled": "2026-11-01",
+        "compiled_by": "DHG508 fieldwork compilation",
+        "review_status": "draft - pending human review"
+      },
+      "motifs": [
+        "clay-humans",
+        "miraculous-birth"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Historical literary corpus; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The mighty and loving gods dwelt in their halls in happiness; they lacked nothing, till there came to them three mighty ones, kind and wise, out of that host. They went to the sea-shore and found two trees, without strength, without fate, without breath.",
+          "note": "Paraphrase of Voluspa st. 17 (Bellows 1923); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Odin gave them breath and spirit; Hoenir gave them sense and motion; Lodurr gave them warmth of blood and goodly colour. The ash became a man named Ask, the elm a woman named Embla, and from the two of them, within walls of Midgard, is humankind descended.",
+          "note": "Paraphrase of Voluspa st. 18 (Bellows 1923); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "The sons of Bor, walking by the sea-strand, found two trees and shaped from them a man and a wife: Odin gave life and spirit, Vili gave wit and feeling, Ve gave countenance, speech, hearing and sight, and they clothed the pair; the man they named Ask and the woman Embla, and from them is the race of men come.",
+          "note": "Paraphrase of Snorri, Gylfaginning ch. 9 (Brodeur 1916); not verbatim."
+        }
+      ]
+    }
+  ]
+}

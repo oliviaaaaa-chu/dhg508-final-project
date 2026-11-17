@@ -1,0 +1,792 @@
+{
+ "texts": [
+  {
+   "id": "sumerian-dumuzi-enkimdu",
+   "title": {
+    "en": "Dumuzi and Enkimdu: Shepherd versus Farmer",
+    "zh": "杜穆茲與恩金姆杜：牧與農之爭"
+   },
+   "tradition": "sumerian",
+   "category": "myth",
+   "region": {
+    "en": "Steppe and canals near Uruk, Iraq",
+    "zh": "烏魯克近郊草原與運河（伊拉克）"
+   },
+   "lat": 31.324,
+   "lon": 45.637,
+   "period": "Old Babylonian manuscript, c. 1700 BCE (ETCSL translation 2003)",
+   "source": {
+    "archive": "ETCSL (University of Oxford)",
+    "work": "Inana and Dumuzid: Dumuzid and Enkimdu (ETCSL c.1.4.x)",
+    "url": "https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.1.4*&charenc=j"
+   },
+   "license": "ETCSL translation (Oxford, 2003-2006); quoted in paraphrase with attribution",
+   "summary": {
+    "en": "Two gods court Inanna: the noisy shepherd Dumuzi and the quiet farmer Enkimdu. Inanna's brother Utu advises her, the rivals trade boasts and insults, and the farmer, yielding, promises the shepherd grain, and the dispute ends in friendship.",
+    "zh": "二神同求伊南娜：喧鬧的牧者杜穆茲與沉靜的農神恩金姆杜。兄長烏圖獻策，二神互相誇耀譏諷；農神終讓步許諾贈穀，爭端以友誼收場。"
+   },
+   "motifs": [
+    "divine-marriage",
+    "sibling-creators",
+    "culture-hero"
+   ],
+   "sensitivity": {
+    "restricted": false,
+    "note": "Ancient myth; no living community restrictions."
+   },
+   "passages": [
+    {
+     "id": "1",
+     "text": "Inanna loves a man, and two gods come to court her: Dumuzi the shepherd, loud in his love-songs, and Enkimdu the farmer, lord of canals and plough. Inanna's brother Utu tells her to weigh them both, and the suitors fall to boasting.",
+     "note": "Paraphrase of ETCSL c.1.4.2, the suitors; not verbatim."
+    },
+    {
+     "id": "2",
+     "text": "Dumuzi taunts the farmer: what is your grain against my cream, your loaves against my milk and cheese? The farmer answers mildly: let him bellow — my gifts will come to his folds in good time.",
+     "note": "Paraphrase of ETCSL c.1.4.2, the contest of boasts; not verbatim."
+    },
+    {
+     "id": "3",
+     "text": "The contest ends in concord: Enkimdu promises Dumuzi his wheat, his flour and his beer, and the shepherd is given the bride. The poem closes with the marriage of Inanna to the shepherd, the farmer reconciled to the household.",
+     "note": "Paraphrase of ETCSL c.1.4.2, reconciliation and wedding; not verbatim."
+    }
+   ],
+   "persons": [
+    "dumuzi",
+    "inanna",
+    "enkimdu",
+    "utu"
+   ],
+   "functions": [
+    "Charter myth of the shepherd-farmer integration in the Uruk economy",
+    "Courtship narrative performed with the Inanna-Dumuzid songs",
+    "Etiology of the seasonal alternation of flocks and fields"
+   ],
+   "variants": [
+    {
+     "name": "The debate between Grain and Sheep",
+     "text_tradition": "Sumerian (ETCSL c.5.3.2)",
+     "summary": "The same shepherd-farmer rivalry as a personified debate judged by Enlil.",
+     "cross_ref": "sumerian-lahar-ashnan"
+    }
+   ],
+   "language": "Sumerian",
+   "canonical_translation": "ETCSL team translation, Oxford, 2003-2006",
+   "primary_sources": [
+    {
+     "work": "Dumuzid and Enkimdu",
+     "citation": "ETCSL c.1.4.2, trans. ETCSL team (2003-2006)",
+     "language": "Sumerian"
+    }
+   ],
+   "secondary_sources": [
+    {
+     "work": "Inanna, Queen of Heaven and Earth",
+     "citation": "Diane Wolkstein and Samuel Noah Kramer, New York, 1983"
+    }
+   ],
+   "source_urls": [
+    {
+     "url": "https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.1.4*&charenc=j",
+     "description": "ETCSL c.1.4.2 text and translation",
+     "accessed": "2026-11-14"
+    }
+   ],
+   "sensitivity_flag": "none",
+   "provenance": {
+    "record_status": "complete",
+    "compiled": "2026-11-14",
+    "compiled_by": "opencode myth-collection session",
+    "review_status": "unreviewed"
+   }
+  },
+  {
+   "id": "sumerian-dumuzi-dream",
+   "title": {
+    "en": "Dumuzi's Dream: The Omen of Capture",
+    "zh": "杜穆茲之夢：被擒之兆"
+   },
+   "tradition": "sumerian",
+   "category": "myth",
+   "region": {
+    "en": "Alaj ostrich-grove near Uruk, Iraq (symbolic pin)",
+    "zh": "烏魯克近郊鴕鳥林阿拉吉（象徵性定位）"
+   },
+   "lat": 31.324,
+   "lon": 45.637,
+   "period": "Old Babylonian manuscript, c. 1700 BCE (ETCSL translation 2003)",
+   "source": {
+    "archive": "ETCSL (University of Oxford)",
+    "work": "Dumuzid's dream (ETCSL c.1.4.3)",
+    "url": "https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.1.4.3&charenc=j"
+   },
+   "license": "ETCSL translation (Oxford, 2003-2006); quoted in paraphrase with attribution",
+   "summary": {
+    "en": "Dumuzi dreams the reeds rise against him, a stirrup breaks, his sheep scatter — and Geshtinanna, his sister, reads the dream as the netherworld coming for him. He accepts: the dream is fate; only the hiding matters.",
+    "zh": "杜穆茲夢見蘆葦崛起、馬鐙斷裂、羊群驚散——妹妹蓋什蒂南娜解夢：冥界將至。他認命：夢即天數，唯藏身之地尚可一搏。"
+   },
+   "motifs": [
+    "prophetic-vision",
+    "descent-underworld",
+    "taboo-transgression"
+   ],
+   "sensitivity": {
+    "restricted": false,
+    "note": "Ancient myth; no living community restrictions."
+   },
+   "passages": [
+    {
+     "id": "1",
+     "text": "Dumuzi, sleeping among the ostrich grove of Alaj, dreams: rushes rise in fire, one reed of the double reed splits, his stirrup shatters, his ewes and lambs scatter, his goats and kids tear at each other.",
+     "note": "Paraphrase of ETCSL c.1.4.3, the dream; not verbatim."
+    },
+    {
+     "id": "2",
+     "text": "He wakes in terror and tells his dream to Geshtinanna. She reads it: the rushes are the netherworld's henchmen rising to seize you; the broken stirrup and the scattered flocks are the desolation of your sheepfold after you are taken. My brother, the dream is fate.",
+     "note": "Paraphrase of ETCSL c.1.4.3, the interpretation; not verbatim."
+    },
+    {
+     "id": "3",
+     "text": "Dumuzi answers calmly: in my youth my mother had me play at the dream's oracle; the dream is not kind, but let us not accept it. Let me hide in the Alaj grove — never tell the galla demons where I am.",
+     "note": "Paraphrase of ETCSL c.1.4.3, acceptance and resolve; not verbatim."
+    }
+   ],
+   "persons": [
+    "dumuzi",
+    "geshtinanna"
+   ],
+   "functions": [
+    "Model dream-interpretation scene for the oracle craft",
+    "Seasonal myth of the vegetation god's approaching death",
+    "Performed with the Dumuzid laments in mourning liturgy"
+   ],
+   "variants": [
+    {
+     "name": "Inana's Descent, Dumuzid episode",
+     "text_tradition": "Sumerian (ETCSL c.1.4.1)",
+     "summary": "The goddess's descent narrative in which Dumuzid's takeover is foretold by his mourning.",
+     "cross_ref": "inanna-descent"
+    }
+   ],
+   "language": "Sumerian",
+   "canonical_translation": "ETCSL team translation, Oxford, 2003-2006",
+   "primary_sources": [
+    {
+     "work": "Dumuzid's dream",
+     "citation": "ETCSL c.1.4.3, trans. ETCSL team (2003-2006), lines 1-100",
+     "language": "Sumerian"
+    }
+   ],
+   "secondary_sources": [
+    {
+     "work": "The Harps that Once...",
+     "citation": "Thorkild Jacobsen, New Haven, 1987"
+    }
+   ],
+   "source_urls": [
+    {
+     "url": "https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.1.4.3&charenc=j",
+     "description": "ETCSL c.1.4.3 text and translation",
+     "accessed": "2026-11-14"
+    }
+   ],
+   "sensitivity_flag": "none",
+   "provenance": {
+    "record_status": "complete",
+    "compiled": "2026-11-14",
+    "compiled_by": "opencode myth-collection session",
+    "review_status": "unreviewed"
+   }
+  },
+  {
+   "id": "sumerian-dumuzi-capture",
+   "title": {
+    "en": "The Hunt for Dumuzi",
+    "zh": "圍捕杜穆茲"
+   },
+   "tradition": "sumerian",
+   "category": "myth",
+   "region": {
+    "en": "Alaj grove to the sheepfold, Uruk, Iraq",
+    "zh": "自鴕鳥林至羊欄，烏魯克（伊拉克）"
+   },
+   "lat": 31.324,
+   "lon": 45.637,
+   "period": "Old Babylonian manuscript, c. 1700 BCE (ETCSL translation 2003)",
+   "source": {
+    "archive": "ETCSL (University of Oxford)",
+    "work": "Dumuzid's dream, second half (ETCSL c.1.4.3)",
+    "url": "https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.1.4.3&charenc=j"
+   },
+   "license": "ETCSL translation (Oxford, 2003-2006); quoted in paraphrase with attribution",
+   "summary": {
+    "en": "The galla demons come up from the netherworld as gallows-spirits, enter no clean house, touch no clean man, and hunt Dumuzi. He flees grove to fold; the demons lure his shepherd, who betrays him; he is seized by the arms and dragged down to the great below.",
+    "zh": "冥界鬼卒絞刑妖靈自冥土上來，不入潔室、不近潔人，專獵杜穆茲。他自樹林逃至羊欄；眾妖誘其牧人而得线索，遂擒其臂，拖入冥土。"
+   },
+   "motifs": [
+    "descent-underworld",
+    "taboo-transgression",
+    "spirit-possession"
+   ],
+   "sensitivity": {
+    "restricted": false,
+    "note": "Ancient myth; no living community restrictions."
+   },
+   "passages": [
+    {
+     "id": "1",
+     "text": "The galla come up from the great below — small galla who take one, big galla who take all — spirits that enter no clean house and touch no clean man, that lurk on the roads and hunt one man only: Dumuzi.",
+     "note": "Paraphrase of ETCSL c.1.4.3, the demons; not verbatim."
+    },
+    {
+     "id": "2",
+     "text": "Dumuzi flees from the Alaj grove to the old woman's house, from the house to the sheepfold, changing hiding places as the demons spread through the city; the demons speak sweetly to the shepherd and get from him the word that shows where the god is.",
+     "note": "Paraphrase of ETCSL c.1.4.3, pursuit and betrayal; not verbatim."
+    },
+    {
+     "id": "3",
+     "text": "They seize him by the arms, drag him by the hands, and carry him down; Geshtinanna runs through the city mourning her brother, and the shepherd god passes into the netherworld — his song of departure the model of the mourning liturgy.",
+     "note": "Paraphrase of ETCSL c.1.4.3, the seizure; not verbatim."
+    }
+   ],
+   "persons": [
+    "dumuzi",
+    "geshtinanna"
+   ],
+   "functions": [
+    "Mourning liturgy text for the Dumuzid festival",
+    "Theology of the galla demons and their purity rules",
+    "Seasonal etiology of the summer decline of flocks"
+   ],
+   "variants": [
+    {
+     "name": "Descent of Ishtar (Akkadian)",
+     "text_tradition": "Akkadian (Rogers 1912)",
+     "summary": "The Babylonian version in which Tammuz must descend for half the year.",
+     "cross_ref": "babylonian-ishtar-descent"
+    }
+   ],
+   "language": "Sumerian",
+   "canonical_translation": "ETCSL team translation, Oxford, 2003-2006",
+   "primary_sources": [
+    {
+     "work": "Dumuzid's dream",
+     "citation": "ETCSL c.1.4.3, trans. ETCSL team (2003-2006), lines 100-250",
+     "language": "Sumerian"
+    }
+   ],
+   "secondary_sources": [
+    {
+     "work": "Inanna, Queen of Heaven and Earth",
+     "citation": "Diane Wolkstein and Samuel Noah Kramer, New York, 1983"
+    }
+   ],
+   "source_urls": [
+    {
+     "url": "https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.1.4.3&charenc=j",
+     "description": "ETCSL c.1.4.3 text and translation",
+     "accessed": "2026-11-14"
+    }
+   ],
+   "sensitivity_flag": "none",
+   "provenance": {
+    "record_status": "complete",
+    "compiled": "2026-11-14",
+    "compiled_by": "opencode myth-collection session",
+    "review_status": "unreviewed"
+   }
+  },
+  {
+   "id": "sumerian-dumuzi-geshtinanna",
+   "title": {
+    "en": "Dumuzi and Geshtinanna: The Half-Year",
+    "zh": "杜穆茲與蓋什蒂南娜：半年之約"
+   },
+   "tradition": "sumerian",
+   "category": "myth",
+   "region": {
+    "en": "Uruk and the great below, Iraq",
+    "zh": "烏魯克與冥土（伊拉克）"
+   },
+   "lat": 31.324,
+   "lon": 45.637,
+   "period": "Old Babylonian manuscript, c. 1700 BCE (ETCSL translation 2003)",
+   "source": {
+    "archive": "ETCSL (University of Oxford)",
+    "work": "Dumuzid and Geshtin-ana (ETCSL c.1.4.1.1)",
+    "url": "https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.1.4.1.1&charenc=j"
+   },
+   "license": "ETCSL translation (Oxford, 2003-2006); quoted in paraphrase with attribution",
+   "summary": {
+    "en": "The sister refuses to tell the demons where her brother hides and is tortured for it. Dumuzi's shade laments; Inanna weeps for her husband and decrees: for six months the sister serves in his place, for six months the husband — and thus the year turns.",
+    "zh": "妹妹拒不出賣兄長藏身處，遭妖拷問。杜穆茲陰魂哀哭；伊南娜為夫垂淚，頒命：半年以妹代之，半年以夫代之——四季由是輪轉。"
+   },
+   "motifs": [
+    "resurrection",
+    "descent-underworld",
+    "ritual-origin"
+   ],
+   "sensitivity": {
+    "restricted": false,
+    "note": "Ancient myth; no living community restrictions."
+   },
+   "passages": [
+    {
+     "id": "1",
+     "text": "The galla press Geshtinanna for her brother's hiding place; she will not tell, and they torture her as they would a stranger. Dumuzi's shade, hearing of it, laments that his little sister suffered so for love of him.",
+     "note": "Paraphrase of ETCSL c.1.4.1.1, the loyalty test; not verbatim."
+    },
+    {
+     "id": "2",
+     "text": "Inanna mourns her husband and goes to Ereshkigal to bargain. The decree is spoken: let the sister serve in the netherworld for the brother half the year, and the husband serve the other half — so the measure of the year is fixed.",
+     "note": "Paraphrase of ETCSL c.1.4.1.1, the decree; not verbatim."
+    },
+    {
+     "id": "3",
+     "text": "The poem closes with the ritual: on the day the shepherd returns, the dead man's sister rises, and the people of Uruk offer cream and beer to both. Whoever recites the song shall live long days.",
+     "note": "Paraphrase of ETCSL c.1.4.1.1, closing rite; not verbatim."
+    }
+   ],
+   "persons": [
+    "dumuzi",
+    "geshtinanna",
+    "inanna",
+    "ereshkigal"
+   ],
+   "functions": [
+    "Etiology of the seasonal exchange of Dumuzid and Geshtinanna",
+    "Liturgy of the return-day offerings in the Uruk calendar",
+    "Model of familial loyalty within the divine house"
+   ],
+   "variants": [
+    {
+     "name": "Descent of Ishtar and Tammuz",
+     "text_tradition": "Akkadian (Rogers 1912)",
+     "summary": "The Babylonian parallel granting Tammuz half the year.",
+     "cross_ref": "babylonian-ishtar-tammuz-return"
+    },
+    {
+     "name": "Dumuzid and his sisters",
+     "text_tradition": "Sumerian (ETCSL c.1.4.1.3)",
+     "summary": "The lament scene of Dumuzid in the netherworld with his two sisters.",
+     "cross_ref": "sumerian-dumuzi-sisters"
+    }
+   ],
+   "language": "Sumerian",
+   "canonical_translation": "ETCSL team translation, Oxford, 2003-2006",
+   "primary_sources": [
+    {
+     "work": "Dumuzid and Geshtin-ana",
+     "citation": "ETCSL c.1.4.1.1, trans. ETCSL team (2003-2006)",
+     "language": "Sumerian"
+    }
+   ],
+   "secondary_sources": [
+    {
+     "work": "The Harps that Once...",
+     "citation": "Thorkild Jacobsen, New Haven, 1987"
+    }
+   ],
+   "source_urls": [
+    {
+     "url": "https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.1.4.1.1&charenc=j",
+     "description": "ETCSL c.1.4.1.1 text and translation",
+     "accessed": "2026-11-14"
+    }
+   ],
+   "sensitivity_flag": "none",
+   "provenance": {
+    "record_status": "complete",
+    "compiled": "2026-11-14",
+    "compiled_by": "opencode myth-collection session",
+    "review_status": "unreviewed"
+   }
+  },
+  {
+   "id": "sumerian-dumuzi-sisters",
+   "title": {
+    "en": "Dumuzi in the Netherworld with His Sisters",
+    "zh": "杜穆茲冥界姊妹吟"
+   },
+   "tradition": "sumerian",
+   "category": "myth",
+   "region": {
+    "en": "The great below (symbolic pin at Uruk's underworld gate)",
+    "zh": "冥土（象徵性定位於烏魯克冥門）"
+   },
+   "lat": 31.324,
+   "lon": 45.637,
+   "period": "Old Babylonian manuscript, c. 1700 BCE (ETCSL translation 2003)",
+   "source": {
+    "archive": "ETCSL (University of Oxford)",
+    "work": "Dumuzid and his sisters (ETCSL c.1.4.1.3)",
+    "url": "https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.1.4.1.3&charenc=j"
+   },
+   "license": "ETCSL translation (Oxford, 2003-2006); quoted in paraphrase with attribution",
+   "summary": {
+    "en": "Down in the land of no return, Dumuzi is visited by Geshtinanna, who brings comfort, and by the dark sister Amashilamma; the dialogue of lamentation shows the dead shepherd as a lord among shades, honored but grieving.",
+    "zh": "冥土之中，蓋什蒂南娜攝慰藉而至，黑衣姊妹阿瑪什利拉瑪亦來；哀悼對話中，亡故的牧神為幽魂之王——受尊崇而亦哀傷。"
+   },
+   "motifs": [
+    "descent-underworld",
+    "resurrection",
+    "parable-teaching"
+   ],
+   "sensitivity": {
+    "restricted": false,
+    "note": "Ancient funerary literature; no living community restrictions."
+   },
+   "passages": [
+    {
+     "id": "1",
+     "text": "In the house of the land of no return, Dumuzi the shepherd sits among the dead; his sister Geshtinanna comes to him with comfort in her hands, and speaks to him as the living speak.",
+     "note": "Paraphrase of ETCSL c.1.4.1.3, the visit; not verbatim."
+    },
+    {
+     "id": "2",
+     "text": "The dialogue of the two sisters around the dead god teaches the manners of the underworld: the dark sister speaks of the customs of the shades, and Dumuzi answers as one who has learned them — the poem a manual of how the dead are treated and how the living should mourn.",
+     "note": "Paraphrase of ETCSL c.1.4.1.3, the dialogue; not verbatim."
+    }
+   ],
+   "persons": [
+    "dumuzi",
+    "geshtinanna"
+   ],
+   "functions": [
+    "Mourning manual for the Dumuzid lament festival",
+    "Underworld etiquette: how the dead are addressed"
+   ],
+   "variants": [
+    {
+     "name": "Dumuzid and Geshtin-ana",
+     "text_tradition": "Sumerian (ETCSL c.1.4.1.1)",
+     "summary": "The half-year decree that ends the cycle.",
+     "cross_ref": "sumerian-dumuzi-geshtinanna"
+    }
+   ],
+   "language": "Sumerian",
+   "canonical_translation": "ETCSL team translation, Oxford, 2003-2006",
+   "primary_sources": [
+    {
+     "work": "Dumuzid and his sisters",
+     "citation": "ETCSL c.1.4.1.3, trans. ETCSL team (2003-2006)",
+     "language": "Sumerian"
+    }
+   ],
+   "secondary_sources": [
+    {
+     "work": "Sumerian Mythology",
+     "citation": "Samuel Noah Kramer, Philadelphia, 1944"
+    }
+   ],
+   "source_urls": [
+    {
+     "url": "https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.1.4.1.3&charenc=j",
+     "description": "ETCSL c.1.4.1.3 text and translation",
+     "accessed": "2026-11-14"
+    }
+   ],
+   "sensitivity_flag": "none",
+   "provenance": {
+    "record_status": "complete",
+    "compiled": "2026-11-14",
+    "compiled_by": "opencode myth-collection session",
+    "review_status": "unreviewed"
+   }
+  },
+  {
+   "id": "sumerian-inanna-bilulu",
+   "title": {
+    "en": "Inanna and Bilulu: The Vengeance at Dugrub",
+    "zh": "伊南娜與比利魯：杜格魯布復仇"
+   },
+   "tradition": "sumerian",
+   "category": "myth",
+   "region": {
+    "en": "Dugrub sheepfold, steppe of Sumer, Iraq",
+    "zh": "杜格魯布羊欄，蘇美草原（伊拉克）"
+   },
+   "lat": 31.5,
+   "lon": 45.5,
+   "period": "Old Babylonian manuscript, c. 1700 BCE (ETCSL translation 2003)",
+   "source": {
+    "archive": "ETCSL (University of Oxford)",
+    "work": "Inana and Bilulu: an ulila to Inana (ETCSL c.1.4.4)",
+    "url": "https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.1.4.4&charenc=j"
+   },
+   "license": "ETCSL translation (Oxford, 2003-2006); quoted in paraphrase with attribution",
+   "summary": {
+    "en": "Traveling through the wilderness, Inanna finds the old woman Bilulu who holds her shepherd Dumuzi's herds; discovering in her the death of her husband, the goddess kills Bilulu, turns her son into a guardian spirit, and installs Bilulu as a mourning figure of the fold.",
+    "zh": "伊南娜行經荒野，遇看守其夫杜穆茲羊群的老婦比利魯；察知其夫之死與她有關，女神殺之，化其子為守護神靈，令比利魯成為羊欄之哀悼化身。"
+   },
+   "motifs": [
+    "taboo-transgression",
+    "transformation",
+    "resurrection"
+   ],
+   "sensitivity": {
+    "restricted": false,
+    "note": "Ancient myth; no living community restrictions."
+   },
+   "passages": [
+    {
+     "id": "1",
+     "text": "Inanna walks the wilderness roads to find her shepherd; at the Dugrub sheepfold the old woman Bilulu keeps the herds, and in her Inanna recognizes the one who has caused Dumuzi's death.",
+     "note": "Paraphrase of ETCSL c.1.4.4, the discovery; not verbatim."
+    },
+    {
+     "id": "2",
+     "text": "Inanna kills Bilulu and her son, then transfigures them: the old woman is made the mourning figure of the fold, whose laments will open the mourning rites; her son becomes the guardian spirit of the herds, so that the very house of the crime becomes its memorial.",
+     "note": "Paraphrase of ETCSL c.1.4.4, vengeance and transformation; not verbatim."
+    },
+    {
+     "id": "3",
+     "text": "The song closes as an ulila, a mourning hymn for Inanna: the goddess who avenges her husband is praised, and the fold remembers both the crime and the mercy of transformation.",
+     "note": "Paraphrase of ETCSL c.1.4.4, closing hymn; not verbatim."
+    }
+   ],
+   "persons": [
+    "inanna",
+    "dumuzi"
+   ],
+   "functions": [
+    "Charter of the mourning figures used in the Dumuzid lament liturgy",
+    "Vengeance myth of Inanna performed as ulila hymn",
+    "Etiology of the guardian spirits of the sheepfold"
+   ],
+   "variants": [
+    {
+     "name": "Dumuzid's dream",
+     "text_tradition": "Sumerian (ETCSL c.1.4.3)",
+     "summary": "The parallel narrative of the shepherd's seizure by the galla.",
+     "cross_ref": "sumerian-dumuzi-dream"
+    }
+   ],
+   "language": "Sumerian",
+   "canonical_translation": "ETCSL team translation, Oxford, 2003-2006",
+   "primary_sources": [
+    {
+     "work": "Inana and Bilulu",
+     "citation": "ETCSL c.1.4.4, trans. ETCSL team (2003-2006)",
+     "language": "Sumerian"
+    }
+   ],
+   "secondary_sources": [
+    {
+     "work": "The Harps that Once...",
+     "citation": "Thorkild Jacobsen, New Haven, 1987"
+    }
+   ],
+   "source_urls": [
+    {
+     "url": "https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.1.4.4&charenc=j",
+     "description": "ETCSL c.1.4.4 text and translation",
+     "accessed": "2026-11-14"
+    }
+   ],
+   "sensitivity_flag": "none",
+   "provenance": {
+    "record_status": "complete",
+    "compiled": "2026-11-14",
+    "compiled_by": "opencode myth-collection session",
+    "review_status": "unreviewed"
+   }
+  },
+  {
+   "id": "sumerian-dumuzi-wedding",
+   "title": {
+    "en": "The Wedding of Inanna and Dumuzi",
+    "zh": "伊南娜與杜穆茲婚禮"
+   },
+   "tradition": "sumerian",
+   "category": "myth",
+   "region": {
+    "en": "Uruk, Iraq",
+    "zh": "烏魯克（伊拉克）"
+   },
+   "lat": 31.324,
+   "lon": 45.637,
+   "period": "Ur III cult song, c. 2000 BCE (ETCSL translation 2003)",
+   "source": {
+    "archive": "ETCSL (University of Oxford)",
+    "work": "A balbale to Inana and Dumuzid (Dumuzid-Inana wedding songs, ETCSL c.4.08.1)",
+    "url": "https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.4.08*&charenc=j"
+   },
+   "license": "ETCSL translation (Oxford, 2003-2006); quoted in paraphrase with attribution",
+   "summary": {
+    "en": "The bride's mother, brother and suitor speak in turn as the wedding is prepared; Dumuzi claims his bride with gifts of cream and dates, and the marriage bed of Uruk is blessed — the cult song performed at the hieros gamos rite.",
+    "zh": "婚禮將備，母、兄、求婚者輪番陳辭；杜穆茲以乳酪與椰棗為聘迎娶，烏魯克的婚床受祝福——此即聖婚儀式所頌的祭歌。"
+   },
+   "motifs": [
+    "divine-marriage",
+    "ritual-origin",
+    "sacred-kingship"
+   ],
+   "sensitivity": {
+    "restricted": false,
+    "note": "Ancient cult song with sexual imagery in its ritual register; presented as literature, not endorsement."
+   },
+   "passages": [
+    {
+     "id": "1",
+     "text": "The wedding songs move between speakers: Inanna's mother tells her to bathe and anoint; her brother calls the shepherd's gifts good; Dumuzi offers cream and dates, his sheepfolds full, as bride-price for the lady of Uruk.",
+     "note": "Paraphrase of ETCSL c.4.08.1, courtship exchange; not verbatim."
+    },
+    {
+     "id": "2",
+     "text": "Inanna consents in love-song: let the shepherd sleep beside me, let me caress the man. The bed is prepared with sweet oil and cedar, and the city rejoices at the union of the lady and the shepherd.",
+     "note": "Paraphrase of ETCSL c.4.08.1, wedding night; not verbatim."
+    },
+    {
+     "id": "3",
+     "text": "The cult song ends with blessings for the city: through the sacred marriage Uruk's year is secured — grain, flocks and kingship renewed by the union performed annually in the temple.",
+     "note": "Paraphrase of ETCSL c.4.08.1, closing blessing; not verbatim."
+    }
+   ],
+   "persons": [
+    "inanna",
+    "dumuzi",
+    "utu"
+   ],
+   "functions": [
+    "Liturgy of the sacred marriage (hieros gamos) at Uruk",
+    "Wedding songs performed for royal participation in the rite",
+    "Charter of the city's annual renewal of fertility"
+   ],
+   "variants": [
+    {
+     "name": "Dumuzid and Enkimdu",
+     "text_tradition": "Sumerian (ETCSL c.1.4.x)",
+     "summary": "The courtship narrative that the wedding songs complete.",
+     "cross_ref": "sumerian-dumuzi-enkimdu"
+    },
+    {
+     "name": "Iddin-Dagan A (Inana's bedchamber)",
+     "text_tradition": "Sumerian (ETCSL c.2.5.3.1)",
+     "summary": "The Isin dynasty king's hymn of the same rite.",
+     "cross_ref": "sumerian-iddindagan-inana"
+    }
+   ],
+   "language": "Sumerian",
+   "canonical_translation": "ETCSL team translation, Oxford, 2003-2006",
+   "primary_sources": [
+    {
+     "work": "A balbale to Inana and Dumuzid",
+     "citation": "ETCSL c.4.08.1, trans. ETCSL team (2003-2006)",
+     "language": "Sumerian"
+    }
+   ],
+   "secondary_sources": [
+    {
+     "work": "The Treasures of Darkness",
+     "citation": "Thorkild Jacobsen, New Haven, 1976, ch. on the sacred marriage"
+    }
+   ],
+   "source_urls": [
+    {
+     "url": "https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.4.08*&charenc=j",
+     "description": "ETCSL c.4.08.1 text and translation",
+     "accessed": "2026-11-14"
+    }
+   ],
+   "sensitivity_flag": "none",
+   "provenance": {
+    "record_status": "complete",
+    "compiled": "2026-11-14",
+    "compiled_by": "opencode myth-collection session",
+    "review_status": "unreviewed"
+   }
+  },
+  {
+   "id": "sumerian-dumuzi-utuhymn",
+   "title": {
+    "en": "Dumuzi's Waking Song",
+    "zh": "杜穆茲晨歌"
+   },
+   "tradition": "sumerian",
+   "category": "myth",
+   "region": {
+    "en": "Uruk, Iraq",
+    "zh": "烏魯克（伊拉克）"
+   },
+   "lat": 31.324,
+   "lon": 45.637,
+   "period": "Ur III cult song, c. 2000 BCE (ETCSL translation 2003)",
+   "source": {
+    "archive": "ETCSL (University of Oxford)",
+    "work": "A balbale to Inana and Dumuzid (Dumuzid wakens, ETCSL c.4.08.2)",
+    "url": "https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.4.08*&charenc=j"
+   },
+   "license": "ETCSL translation (Oxford, 2003-2006); quoted in paraphrase with attribution",
+   "summary": {
+    "en": "Dumuzi wakes beside Inanna and sings the morning of the lovers: the sleeping house, the sheep not yet stirred, the bed not yet cooled — the intimate liturgical morning-song of the sacred marriage cycle.",
+    "zh": "杜穆茲在伊南娜身旁醒來，唱戀人的清晨：酣睡的屋宅、未動的羊群、尚溫的床榻——聖婚詩環中最親暱的晨間祭歌。"
+   },
+   "motifs": [
+    "divine-marriage",
+    "ritual-origin"
+   ],
+   "sensitivity": {
+    "restricted": false,
+    "note": "Ancient cult song; no living community restrictions."
+   },
+   "passages": [
+    {
+     "id": "1",
+     "text": "The morning song opens on the sleeping house: the doors shut, the household asleep, the god rising beside the goddess while the city's fires are not yet lit.",
+     "note": "Paraphrase of ETCSL c.4.08.2, the sleeping house; not verbatim."
+    },
+    {
+     "id": "2",
+     "text": "Dumuzi sings of the flocks still folded, the meadows unopened, the bed still warm — the shepherd's world paused around the lovers — and the song closes with the couple blessed in their union.",
+     "note": "Paraphrase of ETCSL c.4.08.2, the paused world and blessing; not verbatim."
+    }
+   ],
+   "persons": [
+    "dumuzi",
+    "inanna"
+   ],
+   "functions": [
+    "Morning liturgy of the sacred marriage rite",
+    "Love-lyric performed in the Inanna-Dumuzid cult"
+   ],
+   "variants": [
+    {
+     "name": "The wedding of Inanna and Dumuzid",
+     "text_tradition": "Sumerian (ETCSL c.4.08.x)",
+     "summary": "The wedding-night song of the same cycle.",
+     "cross_ref": "sumerian-dumuzi-wedding"
+    }
+   ],
+   "language": "Sumerian",
+   "canonical_translation": "ETCSL team translation, Oxford, 2003-2006",
+   "primary_sources": [
+    {
+     "work": "A balbale to Inana and Dumuzid (Dumuzid wakens)",
+     "citation": "ETCSL c.4.08.2, trans. ETCSL team (2003-2006)",
+     "language": "Sumerian"
+    }
+   ],
+   "secondary_sources": [
+    {
+     "work": "The Harps that Once...",
+     "citation": "Thorkild Jacobsen, New Haven, 1987"
+    }
+   ],
+   "source_urls": [
+    {
+     "url": "https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.4.08*&charenc=j",
+     "description": "ETCSL c.4.08.2 text and translation",
+     "accessed": "2026-11-14"
+    }
+   ],
+   "sensitivity_flag": "none",
+   "provenance": {
+    "record_status": "complete",
+    "compiled": "2026-11-14",
+    "compiled_by": "opencode myth-collection session",
+    "review_status": "unreviewed"
+   }
+  }
+ ]
+}

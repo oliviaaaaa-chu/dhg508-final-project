@@ -1,0 +1,562 @@
+{
+  "texts": [
+    {
+      "id": "maya-chumayel-world-quarters",
+      "title": {
+        "en": "The Mucencab Guardians of the Four Quarters",
+        "zh": "穆肯卡布：四方守護者"
+      },
+      "tradition": "maya",
+      "category": "myth",
+      "region": {
+        "en": "Chumayel, Yucatan, Mexico",
+        "zh": "墨西哥猶加敦丘馬耶爾"
+      },
+      "lat": 20.55,
+      "lon": -89.06,
+      "period": "Chumayel MS. written late 18th c. from older sources; Roys translation 1933",
+      "source": {
+        "archive": "Sacred Texts Archive (scan of Carnegie Institution edition)",
+        "work": "The Book of Chilam Balam of Chumayel, trans. Ralph L. Roys, 1933, ch. I",
+        "url": "https://sacred-texts.com/nam/maya/bbc/index.htm"
+      },
+      "license": "Public domain (Roys 1933, not renewed at US Copyright Office)",
+      "summary": {
+        "en": "The Ritual of the Four World-Quarters assigns to each direction a flint stone, a ceiba tree of abundance, a color of corn, beans, turkeys, and wild bees with their blossoms. Four Mucencab guardians, bearers of the earth, hold up the world: the red east, the white north, the black west, the yellow south.",
+        "zh": "《四方世界之儀》為每一方位分配一枚燧石、一棵豐盈木棉、一色玉米、豆與火雞，以及攜其花朵的野蜂。四位穆肯卡布守護者肩負大地：紅之東、白之北、黑之西、黃之南。"
+      },
+      "motifs": [
+        "world-renewal",
+        "sacred-place",
+        "creation-chaos",
+        "world-tree"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Published colonial-era Yucatec text; paraphrase/quote of Roys public-domain translation only."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "They guard nine rivers; they guard nine mountains. The red flint stone is the stone of the red Mucencab. The red ceiba tree of abundance is his arbor which is set in the east. Reddish are their yellow turkeys; red toasted corn is their corn.",
+          "note": "Condensed from Roys translation (1933), ch. I; not verbatim throughout."
+        },
+        {
+          "id": "2",
+          "text": "The white flint stone is their stone in the north, with the white ceiba tree of abundance for arbor. The black flint stone is their stone in the west, with black speckled corn, black beans, and black wild pigeons for turkeys. The yellow flint stone is the stone of the south, with the yellow ceiba tree of abundance and yellow-green corn.",
+          "note": "Condensed from Roys translation (1933), ch. I; not verbatim throughout."
+        },
+        {
+          "id": "3",
+          "text": "The red wild bees are in the east, with the red Plumeria for their flower and a large red blossom for their cup; the white bees in the north, the black bees in the west, the yellow bees in the south. Then they swarmed at Cozumel in great numbers among the magueys, the calabash trees, the ceiba trees and the chulul trees of the land, and Kin Pauahtun was their priest.",
+          "note": "Condensed from Roys translation (1933), ch. I; not verbatim throughout."
+        }
+      ],
+      "persons": [
+        "chac",
+        "itzamna"
+      ]
+    },
+    {
+      "id": "maya-chumayel-creation-world",
+      "title": {
+        "en": "The Sky Falls: Bolon-ti-ku Seizes Oxlahun-ti-ku",
+        "zh": "天空傾覆：博倫捉拿奧克斯拉洪"
+      },
+      "tradition": "maya",
+      "category": "myth",
+      "region": {
+        "en": "Chumayel, Yucatan, Mexico",
+        "zh": "墨西哥猶加敦丘馬耶爾"
+      },
+      "lat": 20.55,
+      "lon": -89.06,
+      "period": "Chumayel MS. written late 18th c.; Roys translation 1933",
+      "source": {
+        "archive": "Sacred Texts Archive (Carnegie Institution edition)",
+        "work": "The Book of Chilam Balam of Chumayel, trans. Ralph L. Roys, 1933, ch. X",
+        "url": "https://sacred-texts.com/nam/maya/bbc/index.htm"
+      },
+      "license": "Public domain (Roys 1933, not renewed at US Copyright Office)",
+      "summary": {
+        "en": "In Katun 11 Ahau the Ah Mucenca come forth to blindfold the faces of the Oxlahun-ti-ku, the thirteen sky gods; Bolon-ti-ku, the nine, seizes Oxlahun-ti-ku, wounds his head and despoils him of his insignia. Fire, rope, rocks and trees descend; the sky falls upon the earth; the four Bacabs are set up — and after the destruction, the four trees of abundance and the pillar of the sky raise a new world, which dawns with the count thirteen-plus-seven.",
+        "zh": "十一阿赫卡特倫之際，穆肯卡布前來蒙蔽十三位天神奧克斯拉洪-提-庫的面容；博倫-提-庫擒之，傷其首，奪其徽記。火、繩、石、樹降下；天空塌落於大地；四巴卡布被立起——毀滅之後，四棵豐盈之樹與天柱立起新世界，以十三加七之數破曉。"
+      },
+      "motifs": [
+        "world-renewal",
+        "flood",
+        "creation-chaos",
+        "dismembered-giant",
+        "world-tree"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Published colonial-era Yucatec text; quote/paraphrase of Roys public-domain translation only."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "It was Katun 11 Ahau when the Ah Mucenca came forth to blindfold the faces of the Oxlahun-ti-ku; but they did not know his name, except for his older sister and his sons. This was after the creation of the world had been completed, but they did not know it was about to occur. Then Oxlahun-ti-ku was seized by Bolon-ti-ku.",
+          "note": "Quoted from Roys translation (1933), ch. X; lightly condensed; not verbatim throughout."
+        },
+        {
+          "id": "2",
+          "text": "Then it was that fire descended, then the rope descended, then rocks and trees descended. Then came the beating of things with wood and stone. Then Oxlahun-ti-ku was seized, his head was wounded, his face was buffeted, he was spit upon, and he was thrown on his back as well. After that he was despoiled of his insignia and his smut.",
+          "note": "Quoted from Roys translation (1933), ch. X; lightly condensed; not verbatim throughout."
+        },
+        {
+          "id": "3",
+          "text": "There would be a sudden rush of water when the theft of the insignia occurred. Then the sky would fall, it would fall down upon the earth, when the four gods, the four Bacabs, were set up, who brought about the destruction of the world. Then, after the destruction of the world was completed, they placed a tree to set up in its order the yellow cock oriole. Then the white tree of abundance was set up. A pillar of the sky was set up, a sign of the destruction of the world.",
+          "note": "Quoted from Roys translation (1933), ch. X; lightly condensed; not verbatim throughout."
+        },
+        {
+          "id": "4",
+          "text": "He came from the seventh stratum of the earth when he came to fecundate Itzam-kab-ain, when he came with the vitality of the angle between earth and heaven. They moved among the four lights, among the four layers of stars. The world was not lighted; there was neither day nor night nor moon. Then they perceived that the world was being created. During the creation thirteen infinite series added to seven was the count of the creation of the world. Then a new world dawned for them.",
+          "note": "Quoted from Roys translation (1933), ch. X; lightly condensed; not verbatim throughout."
+        }
+      ],
+      "persons": [
+        "chac",
+        "itzamna"
+      ],
+      "language": "Yucatec Maya",
+      "canonical_translation": "Ralph L. Roys, The Book of Chilam Balam of Chumayel, Carnegie Institution of Washington, 1933",
+      "narrative": {
+        "en": "The creation chapter of the Chumayel tells a cosmic coup. The ordered sky of the Oxlahun-ti-ku, the thirteen gods of the upper layers, is overthrown by Bolon-ti-ku, the nine gods of the lower layers, working through the Ah Mucenca — the earth-bearers who blindfold the faces of the thirteen so they cannot see what is coming. Once the thirteen are seized, the world above collapses: fire descends, the rope descends, rocks and trees descend, the sky itself falls upon the earth. Oxlahun-ti-ku is wounded, spat upon, thrown on his back, and despoiled of his insignia; with his regalia goes the order of the old world.\n\nThen the water rushes in — the sky's fall brings the flood — and the four Bacabs, the gods who hold up the corners of the sky, are set up 'who brought about the destruction of the world'. After destruction, rebuilding begins in ritual order: the trees of abundance are planted in the four quarters and at the center (white north, black west, yellow south, green center), each with its bird perched as a sign; a pillar of the sky is raised as the record of the destruction; and the Piltec messengers are stationed at the four directions to conduct people to their lord. Ah Uuc Cheknal comes up from the seventh stratum of the earth to fecundate Itzam-kab-ain, the earth-crocodile, 'with the vitality of the angle between earth and heaven'.\n\nWhat emerges is neither chaos-mystery nor flood alone but a calendar cosmology: the new world dawns with the count 'thirteen infinite series added to seven', the arithmetical signature of the Maya Long Count itself (13 and 7 being the root numbers of the tzolkin). The world is destroyed and re-created as a counting operation, and the red, white, black and yellow foundations and rulers are 'set up' like day signs. Greed descends from the heart of the sky; the first sun is snatched from the earth; famine follows; and the chapter ends by warning that the law of the katun will run its course and 'God will bring about a great deluge again which will be the end of the world' — the Maya end-of-katun doctrine fused, in this colonial text, with the Christian Second Coming over the valley of Jehoshaphat.\n\nThe ritual function of this chapter is renewal: it is the mythic charter of the New Year and katun-ending ceremonies in which the Bacabs, the world trees, and the four-colored foundations are ritually re-erected so that time may begin again. It is also a theological commentary on colonial conquest: the fall of the thirteen sky gods mirrors the fall of the old order before the 'perishable men, the perishable rulers' of the new katun."
+      },
+      "functions": [
+        "Charter of katun-ending and New Year renewal rites (Bacabs, world trees, four-colored foundations)",
+        "Explains the cosmological basis of the 13-7 arithmetic of the Maya calendar",
+        "Frames conquest-era suffering as one more cosmic overturning in a series"
+      ],
+      "variants": [
+        {
+          "name": "Popol Wuj flood of the wooden people",
+          "text_tradition": "Popol Vuh (Brasseur 1861)",
+          "summary": "The highland account likewise destroys a failed creation by black rain and re-creates the world; here the flood follows the theft of divine insignia and the fall of the sky.",
+          "cross_ref": "maya-wooden-people"
+        }
+      ],
+      "primary_sources": [
+        {
+          "work": "Book of Chilam Balam of Chumayel, ch. X",
+          "citation": "Yucatec MS late 18th c.; trans. Ralph L. Roys, Carnegie Institution of Washington, 1933",
+          "language": "Yucatec Maya"
+        }
+      ],
+      "secondary_sources": [
+        {
+          "work": "J. Eric S. Thompson, Maya Hieroglyphic Writing: Introduction",
+          "citation": "Thompson, 1950, Washington: Carnegie Institution"
+        },
+        {
+          "work": "David Stuart and Karl Taube, The Order of Days / Gods and Symbols",
+          "citation": "Taube, 1992, Dumbarton Oaks; Stuart, 2011, Thames & Hudson"
+        }
+      ],
+      "source_urls": [
+        {
+          "url": "https://sacred-texts.com/nam/maya/bbc/index.htm",
+          "description": "Roys 1933 translation of the Chumayel at Internet Sacred Texts Archive",
+          "accessed": "2026-11-14"
+        }
+      ],
+      "sensitivity_flag": "colonial_era_collection_caution",
+      "sensitivity_guidance": "The Chumayel is a colonial synthesis of pre-conquest myth and Christian commentary. Present it as a colonial-era document, not as timeless 'Maya belief'; note the Christian overlay rather than erasing it.",
+      "provenance": {
+        "record_status": "complete",
+        "compiled": "2026-11-14",
+        "compiled_by": "DHG508 fieldwork compilation",
+        "review_status": "draft - pending human review"
+      }
+    },
+    {
+      "id": "maya-chumayel-ritual-angels",
+      "title": {
+        "en": "The Ritual of the Angels: Seven Graces in the Night",
+        "zh": "天使之儀：夜中七恩典"
+      },
+      "tradition": "maya",
+      "category": "myth",
+      "region": {
+        "en": "Chumayel, Yucatan, Mexico",
+        "zh": "墨西哥猶加敦丘馬耶爾"
+      },
+      "lat": 20.55,
+      "lon": -89.06,
+      "period": "Chumayel MS. written late 18th c.; Roys translation 1933",
+      "source": {
+        "archive": "Sacred Texts Archive (Carnegie Institution edition)",
+        "work": "The Book of Chilam Balam of Chumayel, trans. Ralph L. Roys, 1933, ch. XI",
+        "url": "https://sacred-texts.com/nam/maya/bbc/index.htm"
+      },
+      "license": "Public domain (Roys 1933, not renewed at US Copyright Office)",
+      "summary": {
+        "en": "When there was neither heaven nor earth, seven angels are born one by one in seven katuns of infinite night, each naming himself through his own effort: Alpilcon, Alba Congel, Atea Ohe, Decipto, Conlamil. Then God the Father awakens alone in the three-cornered precious stone of grace, declares 'I am the beginning and I shall be the end', and the heavens are set up with the four colored Pauahtuns.",
+        "zh": "天地未分之時，七位天使在七個卡特倫的無盡黑夜中逐一誕生，各自獨力自名：阿爾皮爾康、阿爾巴·康格爾、阿特亞·奧赫、德西普托、康拉米爾。隨後天父獨自於三角恩典寶石中甦醒，宣告「我是始者，亦將是終者」，並以四色鮑豪頓立起諸天。"
+      },
+      "motifs": [
+        "creation-chaos",
+        "ascension",
+        "prophetic-vision"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Published colonial-era text; quote/paraphrase of Roys public-domain translation only."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Dominus vobiscum ended the words of their song when there was neither heaven nor earth. When the world was submerged, when there was neither heaven nor earth, the three-cornered precious stone of grace was born, after the divinity of the ruler was created, when there was no heaven. Then there were born seven tuns, seven katuns, hanging in the heart of the wind, the seven chosen ones.",
+          "note": "Quoted from Roys translation (1933), ch. XI; lightly condensed; not verbatim throughout."
+        },
+        {
+          "id": "2",
+          "text": "Thereupon he became man in the second infinite precious stone of grace. Then there arrived in the second katun Alpilcon, as the angel was named when he was born. In the third infinite precious stone of grace the angel was named Alba Congel; in the fourth, Atea Ohe, who said: 'Oh god, the ruler! I am after all nothing in myself.' In the fifth the angel was Decipto, who declared: 'Who might I be? I am a god, a ruler, after all.' And the seventh grace was born, and Conlamil was the name of his angel.",
+          "note": "Condensed from Roys translation (1933), ch. XI; not verbatim throughout."
+        },
+        {
+          "id": "3",
+          "text": "Then God the Father awoke to consciousness alone in person; in the three-cornered precious stone of grace he awoke to consciousness. There was one seal in the darkness, one seal on high. 'I am the beginning and I shall be the end.' These are his words in their mighty entirety. And these are the angels of the winds which were set up while he created the star, when the world was not yet lighted: the Red Pauahtun, the White Pauahtun, the Black Pauahtun, the Yellow Pauahtun.",
+          "note": "Condensed from Roys translation (1933), ch. XI; not verbatim throughout."
+        }
+      ],
+      "persons": [
+        "chilambalam"
+      ]
+    },
+    {
+      "id": "maya-chumayel-song-itza",
+      "title": {
+        "en": "The Song of the Itza: Heresy Was Favored at Chichen Itza",
+        "zh": "伊察之歌：奇琴伊察縱容異端"
+      },
+      "tradition": "maya",
+      "category": "myth",
+      "region": {
+        "en": "Chichen Itza, Yucatan, Mexico",
+        "zh": "墨西哥猶加敦奇琴伊察"
+      },
+      "lat": 20.68,
+      "lon": -88.57,
+      "period": "Chumayel MS. written late 18th c.; Roys translation 1933",
+      "source": {
+        "archive": "Sacred Texts Archive (Carnegie Institution edition)",
+        "work": "The Book of Chilam Balam of Chumayel, trans. Ralph L. Roys, 1933, ch. XII",
+        "url": "https://sacred-texts.com/nam/maya/bbc/index.htm"
+      },
+      "license": "Public domain (Roys 1933, not renewed at US Copyright Office)",
+      "summary": {
+        "en": "A ritual lament sung by the Itza: Adam was created on the plain of Damascus, the black stone of terror was born, and then — 'a tender boy was laid at Chichen, when the evil man, the master of the army, came to seize the land.' Imix was the day the ruler was seized; 'Buried, buried!' was the cry; and the song remembers being 'tame animals to Mizcit Ahau' until his roguery ended.",
+        "zh": "伊察人的儀式輓歌：亞當在大馬士革平原受造，恐怖的黑石誕生，隨後——「一個稚嫩的男孩被安置在奇琴，當那惡人、軍隊之主前來奪取土地之時。」伊米希之日王被擒；「埋了，埋了！」是眾人的哭喊；歌中又憶及自己曾是米茲西特·阿豪的「馴養之獸」，直至其暴虐終結。"
+      },
+      "motifs": [
+        "sacred-place",
+        "taboo-transgression",
+        "sacred-kingship"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Published colonial-era text; quote/paraphrase of Roys public-domain translation only."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Damascus was the name of the plain where our first father, Adam, was created by God. Drops of moisture formed on the stones and bushes for the first time, created when there was no sky. However, at the same time there was born in the stone, the black stone of terror, the one named Verbum-tuorum, Ix-coal-tun, Ix-coal-cab, taken by the mistress of the world.",
+          "note": "Condensed from Roys translation (1933), ch. XII; not verbatim throughout."
+        },
+        {
+          "id": "2",
+          "text": "Ho! What is so precious as we are? It is the precious jewel worn on the breast. What is the distinction of righteous men? It is my mantle, my loin-cloth. So spoke the god. Then do you mourn for anyone? No one. A tender boy was laid at Chichen, when the evil man, the master of the army, came to seize the land. Woe! At Chichen Itza heresy was favored!",
+          "note": "Condensed from Roys translation (1933), ch. XII; not verbatim throughout."
+        },
+        {
+          "id": "3",
+          "text": "Imix was the day when the ruler was seized at Chikin-chen. Where thou art, there is the god. Buried, buried! This was their cry. On that first day of Yaxkin, that mighty day, 2 Akbal, they came. Woe! Force was brought to bear for the second time. For the third time was established the religious festival of our enemies. We were like tame animals to Mizcit Ahau; but an end comes to his roguery. I die, he said, because of the town festival; I shall come, he said, because of the destruction of the town.",
+          "note": "Condensed from Roys translation (1933), ch. XII; not verbatim throughout."
+        }
+      ],
+      "persons": [
+        "chilambalam"
+      ]
+    },
+    {
+      "id": "maya-chumayel-creation-uinal",
+      "title": {
+        "en": "The Creation of the Uinal: Twenty Days That Made the World",
+        "zh": "烏納爾之創造：二十日造世"
+      },
+      "tradition": "maya",
+      "category": "myth",
+      "region": {
+        "en": "Chumayel, Yucatan, Mexico",
+        "zh": "墨西哥猶加敦丘馬耶爾"
+      },
+      "lat": 20.55,
+      "lon": -89.06,
+      "period": "Chumayel MS. written late 18th c.; Roys translation 1933",
+      "source": {
+        "archive": "Sacred Texts Archive (Carnegie Institution edition)",
+        "work": "The Book of Chilam Balam of Chumayel, trans. Ralph L. Roys, 1933, ch. XIII",
+        "url": "https://sacred-texts.com/nam/maya/bbc/index.htm"
+      },
+      "license": "Public domain (Roys 1933, not renewed at US Copyright Office)",
+      "summary": {
+        "en": "The first priest Napuc Tun records how the twenty-day month was created before the world: God marches east with his grandmothers and measures his own footstep, and then day by day creates — the first stairway from heaven on 2 Eb, the first candle on 6 Cib, death itself invented on 3 Cimi, the waters of the flood on 6 Muluc, and on 13 Akbal he waters the ground and shapes it into man.",
+        "zh": "第一位祭司納普克·圖恩記載：世界未成之前，二十日之月已先受造——上帝偕祖母們向東而行，量其足跡；然後逐日創造：二厄布之日造自天而降的第一道階梯，六希布之日造第一支蠟燭，三西米之日發明死亡，六穆盧克之日諸谷沒於洪水，十三阿克巴爾之日澆水於地、塑之以成人。"
+      },
+      "motifs": [
+        "creation-chaos",
+        "flood",
+        "transformation"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Published colonial-era text; quote/paraphrase of Roys public-domain translation only."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Thus it was recorded by the first sage, Melchisedek, the first prophet, Napuc Tun, the priest, the first priest. This is a song of how the uinal came to be created before the creation of the world. Then he began to march by his own effort alone, and his maternal grandmother, his maternal aunt, his paternal grandmother and his sister-in-law marched with him. There in the east he measured the footstep of our Lord, God the Father — this was the reason it was called counting off the whole earth.",
+          "note": "Condensed from Roys translation (1933), ch. XIII; not verbatim throughout."
+        },
+        {
+          "id": "2",
+          "text": "On 2 Eb he made the first stairway, descending from the midst of the heavens, in the midst of the water. On 3 Ben he made all things, as many as there are. On 4 Ix sky and earth were tilted. On 6 Cib the first candle was made; it became light when there was neither sun nor moon. On 7 Caban honey was first created. On 9 Cauac hell was first considered. On 10 Ahau wicked men went to hell. On 11 Imix rocks and trees were formed. On 12 Ik the breath of life was created — there was no death in it.",
+          "note": "Condensed from Roys translation (1933), ch. XIII; not verbatim throughout."
+        },
+        {
+          "id": "3",
+          "text": "On 13 Akbal he took water and watered the ground. Then he shaped it and it became man. On 1 Kan he first created anger because of the evil he had created. On 3 Cimi he invented death; it happened that our Lord God invented the first death. On 5 Lamat he established the seven great waters of the sea. On 6 Muluc all valleys were submerged, when the world was not yet created. Then the uinal was created, the earth was created; sky, earth, trees and rocks were set in order; all things were created by our Lord God, the Father.",
+          "note": "Condensed from Roys translation (1933), ch. XIII; not verbatim throughout."
+        }
+      ],
+      "persons": [
+        "chilambalam"
+      ]
+    },
+    {
+      "id": "maya-chumayel-itza-name-towns",
+      "title": {
+        "en": "The Itza Name the Towns and Wells",
+        "zh": "伊察為城鎮與水井命名"
+      },
+      "tradition": "maya",
+      "category": "myth",
+      "region": {
+        "en": "Yucatan, Mexico",
+        "zh": "墨西哥猶加敦"
+      },
+      "lat": 20.6,
+      "lon": -89.0,
+      "period": "Chumayel MS. written late 18th c.; Roys translation 1933",
+      "source": {
+        "archive": "Sacred Texts Archive (Carnegie Institution edition)",
+        "work": "The Book of Chilam Balam of Chumayel, trans. Ralph L. Roys, 1933, ch. II",
+        "url": "https://sacred-texts.com/nam/maya/bbc/index.htm"
+      },
+      "license": "Public domain (Roys 1933, not renewed at US Copyright Office)",
+      "summary": {
+        "en": "Marching from town to town, the Itza give every place a name that records what happened there: at Ake they were born; at Chikin-conot their faces turned west; at Tah-cab they stirred the honey; at Panabha they dug for water; at Mani their language was forgotten by them; at Caucel they all shivered with cold. The land is named by the story of the walking of the people.",
+        "zh": "伊察人逐城而行，所經之處皆以其事命名：在阿克誕生；在奇金-科諾特面向西方；在塔-卡伯攪拌蜂蜜；在帕納巴挖井得水；在馬尼遺忘己語；在考塞爾人人發冷。大地之名，即是族人行走的故事。"
+      },
+      "motifs": [
+        "sacred-place",
+        "culture-hero",
+        "otherworld-voyage"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Published colonial-era text; quote/paraphrase of Roys public-domain translation only."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Then they arrived at Ppoole, where the remainder of the Itza were increased in number; they took the women of Ppole as their mothers. Then they arrived at Ake; there they were born at Ake. Then they came to Tixchel, where their words and discourse were prolonged. Then they arrived at Chikin-conot, where their faces were turned to the west.",
+          "note": "Condensed from Roys translation (1933), ch. II; not verbatim throughout."
+        },
+        {
+          "id": "2",
+          "text": "Then they arrived at Tzuc-oop, where they remained apart under the Anona tree. Then they arrived at Tah-cab, where the Itzas stirred the honey. Then they arrived at Panabha, where they dug for water. Then they arrived at Yobain, where the crocodile bewitched them through their maternal grandfather, their ruler at the seashore. Then they arrived at Caucel, where they all shivered with cold. Then they went to Mani, where their language was forgotten by them.",
+          "note": "Condensed from Roys translation (1933), ch. II; not verbatim throughout."
+        },
+        {
+          "id": "3",
+          "text": "These are the names of whatever towns there were and the names of the wells, in order that it may be known where they passed in their march, to see whether this district was good, whether it was suitable for settlement here. But these were the people who named the district, who named the wells, who named the villages, who named the land, because no one had arrived here in this neck of the land when we arrived here.",
+          "note": "Condensed from Roys translation (1933), ch. II; not verbatim throughout."
+        }
+      ],
+      "persons": [
+        "itzamna",
+        "kukulkan"
+      ]
+    },
+    {
+      "id": "maya-chumayel-hunac-ceel-prophecy",
+      "title": {
+        "en": "Hunac Ceel Puts Out His Head from the Sacred Well",
+        "zh": "胡納克·塞爾自聖井探首"
+      },
+      "tradition": "maya",
+      "category": "myth",
+      "region": {
+        "en": "Sacred Cenote of Chichen Itza, Yucatan, Mexico",
+        "zh": "墨西哥猶加敦奇琴伊察聖井"
+      },
+      "lat": 20.68,
+      "lon": -88.57,
+      "period": "Chumayel MS. written late 18th c. (events legendary, Katun 13 Ahau); Roys translation 1933",
+      "source": {
+        "archive": "Sacred Texts Archive (Carnegie Institution edition)",
+        "work": "The Book of Chilam Balam of Chumayel, trans. Ralph L. Roys, 1933, ch. II",
+        "url": "https://sacred-texts.com/nam/maya/bbc/index.htm"
+      },
+      "license": "Public domain (Roys 1933, not renewed at US Copyright Office)",
+      "summary": {
+        "en": "The Itza begin casting victims into the well of Chichen so their rulers may hear a prophecy — but no prophecy comes. Then Cauich, Hunac Ceel, puts out his head at the south lip of the well and comes forth to declare the prophecy himself. The court proclaims him ruler; he is seated in the house on high, the eagle is said to be his mother, and he removes the stones of Itzam into the water.",
+        "zh": "伊察人開始將犧牲者投入奇琴之井，欲使統治者聽得神諭——然而神諭未至。此時考伊奇，即胡納克·塞爾，於井南緣探出其首，現身親自宣告神諭。朝臣遂擁之為王；他被安置於高屋之中，人言鷹為其母；他更將伊察姆之石投入水中。"
+      },
+      "motifs": [
+        "oracle-divination",
+        "sacred-kingship",
+        "sacred-place",
+        "sacred-waters",
+        "doom-foretold"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Published colonial-era text; quote/paraphrase of Roys public-domain translation only."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Then they began to be served; then those who were to be thrown arrived; then they began to throw them into the well that their prophecy might be heard by their rulers. Their prophecy did not come. It was Cauich, Hunac Ceel, Cauich was the name of the man there, who put out his head at the opening of the well on the south side.",
+          "note": "Quoted from Roys translation (1933), ch. II; lightly condensed; not verbatim throughout."
+        },
+        {
+          "id": "2",
+          "text": "Then he went to take it. Then he came forth to declare the prophecy. Then began the taking of the prophecy. Then began his prophecy. Then they began to declare him ruler. Then he was set in the seat of the rulers by them. Then they began to declare him head-chief. He was not the ruler formerly; that was only the office of Ah Mex Cuc. Now the representative of Ah Mex Cuc was declared ruler. The eagle, they say, was his mother.",
+          "note": "Quoted from Roys translation (1933), ch. II; lightly condensed; not verbatim throughout."
+        },
+        {
+          "id": "3",
+          "text": "Then he was set in the house on high in 13 Ahau, the sixth reign. Then he began to be treated as a lord; then obedience to the name of Ah Mex Cuc began; then he was served there at the mouth of the well. Chichen Itzam was its name because the Itza went there. Then he removed the stones of the land, the stones of the sowed land, the place of Itzam, and they went into the water. Then began the introduction of misery there at Chichen Itza.",
+          "note": "Condensed from Roys translation (1933), ch. II; not verbatim throughout."
+        }
+      ],
+      "persons": [
+        "chilambalam"
+      ]
+    },
+    {
+      "id": "maya-chumayel-sun-eaten",
+      "title": {
+        "en": "The Face of the Sun Is Eaten",
+        "zh": "日面被食"
+      },
+      "tradition": "maya",
+      "category": "myth",
+      "region": {
+        "en": "Chichen Itza, Yucatan, Mexico",
+        "zh": "墨西哥猶加敦奇琴伊察"
+      },
+      "lat": 20.68,
+      "lon": -88.57,
+      "period": "Chumayel MS. written late 18th c. (events of Katun 8 Ahau); Roys translation 1933",
+      "source": {
+        "archive": "Sacred Texts Archive (Carnegie Institution edition)",
+        "work": "The Book of Chilam Balam of Chumayel, trans. Ralph L. Roys, 1933, ch. II",
+        "url": "https://sacred-texts.com/nam/maya/bbc/index.htm"
+      },
+      "license": "Public domain (Roys 1933, not renewed at US Copyright Office)",
+      "summary": {
+        "en": "In Katun 8 Ahau drought comes: the hoofs of animals burn, the seashore burns, a sea of misery. The face of the sun is eaten and darkened and extinguished, and terror fills the sky. Then comes Ix-Tziu-nene to introduce sin, a numerous army is seen, a gallows is built, and the archery of Ox-halal Chan begins — the blood of the rulers taken by the archers.",
+        "zh": "八阿赫卡特倫之時，大旱降臨：獸蹄灼熱，海岸焚燒，苦難如海。日面被食、被蔽、被熄，恐怖彌天。隨後伊希-茲尤-內內前來引入罪孽，大軍現身，刑架築起，奧克薩拉爾·張之箭術始行——統治者之血為弓手所取。"
+      },
+      "motifs": [
+        "sun-capture",
+        "world-renewal",
+        "taboo-transgression"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Published colonial-era text; quote/paraphrase of Roys public-domain translation only."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Katun 8 Ahau came. 8 Ahau was the name of the katun when their government occurred. Then there was a change of the katun, then there was a change of rulers. Then they introduced the drought. That which came was a drought, according to their words, when the hoofs of the animals burned, when the seashore burned, a sea of misery.",
+          "note": "Condensed from Roys translation (1933), ch. II; not verbatim throughout."
+        },
+        {
+          "id": "2",
+          "text": "Then the face of the sun was eaten; then the face of the sun was darkened; then its face was extinguished. They were terrified on high, when it burned at the word of their priest to them, when the word of our ruler was fulfilled. Then began the idea of painting the exterior of the sun. When they heard of that, they saw the moon.",
+          "note": "Condensed from Roys translation (1933), ch. II; not verbatim throughout."
+        },
+        {
+          "id": "3",
+          "text": "Then came the rulers of the land. It was Ix-Tziu-nene who introduced sin to us, the slaves of the land, when he came. Whereupon a numerous army was seen, and they began to be killed. Then a thing of terror was constructed, a gallows for their death. Now began the archery of Ox-halal Chan. Then the rulers of the land were called. Their blood flowed, and it was taken by the archers.",
+          "note": "Condensed from Roys translation (1933), ch. II; not verbatim throughout."
+        }
+      ],
+      "persons": [
+        "chilambalam"
+      ]
+    },
+    {
+      "id": "maya-chumayel-katun-11-ahau",
+      "title": {
+        "en": "Prophecy for Katun 11 Ahau: The Beginning of Misery",
+        "zh": "十一阿赫卡特倫預言：苦難之始"
+      },
+      "tradition": "maya",
+      "category": "myth",
+      "region": {
+        "en": "Ichcaanziho (Merida), Yucatan, Mexico",
+        "zh": "墨西哥猶加敦伊察安西霍（梅里達）"
+      },
+      "lat": 20.97,
+      "lon": -89.62,
+      "period": "Chumayel MS. written late 18th c.; Roys translation 1933",
+      "source": {
+        "archive": "Sacred Texts Archive (Carnegie Institution edition)",
+        "work": "The Book of Chilam Balam of Chumayel, trans. Ralph L. Roys, 1933, ch. III",
+        "url": "https://sacred-texts.com/nam/maya/bbc/index.htm"
+      },
+      "license": "Public domain (Roys 1933, not renewed at US Copyright Office)",
+      "summary": {
+        "en": "Katun 11 Ahau is set upon the mat and the throne; Yaxal Chac is its face; the heavenly fan and bouquet descend. It is the beginning of the count because it is the katun when the foreigners arrived from the east, and with them: the beginning of tribute, of church dues, of purse-snatching, of blow-gun strife, of trampling on people, of robbery with violence, of forced debts — the beginning of our misery.",
+        "zh": "十一阿赫卡特倫安設於席與座之上；亞克薩爾·查克為其面容；天扇與天花束自天而降。此乃計數之始，因其為異邦人自東方而來之卡特倫；隨之而來的是：貢賦之始、教稅之始、扒竊之始、吹箭之爭之始、踐踏人民之始、暴力劫掠之始、強制債務之始——我們苦難之始。"
+      },
+      "motifs": [
+        "prophetic-vision",
+        "taboo-transgression",
+        "doom-foretold"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Published colonial-era text; quote/paraphrase of Roys public-domain translation only."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Katun 11 Ahau is set upon the mat, set upon the throne, when their ruler is set up. Yaxal Chac is its face to their ruler. The heavenly fan, the heavenly wreath and the heavenly bouquet shall descend. The drum and rattle of the lord of 11 Ahau shall resound, when flint knives are set into his mantle.",
+          "note": "Quoted from Roys translation (1933), ch. III; lightly condensed; not verbatim throughout."
+        },
+        {
+          "id": "2",
+          "text": "11 Ahau is the beginning of the count, because this was the katun when the foreigners arrived. They came from the east when they arrived. Then Christianity also began. The katun is established at Ichcaanziho. With the true God, the true Dios, came the beginning of our misery.",
+          "note": "Condensed from Roys translation (1933), ch. III; not verbatim throughout."
+        },
+        {
+          "id": "3",
+          "text": "It was the beginning of tribute, the beginning of church dues, the beginning of strife with purse-snatching, the beginning of strife with blow-guns, the beginning of strife by trampling on people, the beginning of robbery with violence, the beginning of forced debts, the beginning of debts enforced by false testimony, the beginning of individual strife, a beginning of vexation, a beginning of robbery with violence.",
+          "note": "Quoted from Roys translation (1933), ch. III; lightly condensed; not verbatim throughout."
+        }
+      ],
+      "persons": [
+        "chilambalam"
+      ]
+    }
+  ]
+}

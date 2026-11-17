@@ -1,0 +1,1260 @@
+{
+  "texts": [
+    {
+      "id": "babylonian-gilgamesh-uruk-oppression",
+      "title": {
+        "en": "The Oppression of Uruk and the Making of Enkidu",
+        "zh": "烏魯克暴政與恩奇都之造"
+      },
+      "tradition": "babylonian",
+      "category": "myth",
+      "region": {
+        "en": "Uruk, Iraq",
+        "zh": "烏魯克（伊拉克）"
+      },
+      "lat": 31.324,
+      "lon": 45.637,
+      "period": "Standard Babylonian, c. 1200 BCE, Nineveh recension (Wilson/Muss-Arnolt translation 1901)",
+      "source": {
+        "archive": "Project Gutenberg",
+        "work": "Babylonian and Assyrian Literature, 'The Epic of Ishtar and Izdubar', trans. Muss-Arnolt (1901)",
+        "url": "https://www.gutenberg.org/ebooks/10887"
+      },
+      "license": "Public domain (translation 1901)",
+      "summary": {
+        "en": "Gilgamesh, two-thirds god, no rival — no son to his father, no bride to her groom — wears out the young men of Uruk. The gods hear the people's cry and Aruru kneads a match for him: Enkidu, a strong bone of the earth.",
+        "zh": "三分之二為神的吉爾伽美什無人能敵——不許父親有子、不許丈夫有妻——耗盡烏魯克的年輕人。眾神聞民之泣，阿魯魯以泥塑造其對手：恩奇都，大地強壯之骨。"
+      },
+      "motifs": [
+        "clay-humans",
+        "sacred-kingship",
+        "foundational-legend"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient epic; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Gilgamesh, two-thirds god and one-third man, leaves no son to his father, no bride to her groom; the shepherds of Uruk complain, and the walls themselves protest: the king's strength has no rival. The gods hear the cry and charge Aruru: create the double. She kneads a pin of clay from the earth's heart — Enkidu, the strong bone, covered with hair like grain, who eats grass with the gazelles and fills the waterholes with the wild herd.",
+          "note": "Paraphrase of Gilgamesh epic, Tablet I (Wilson/Muss-Arnolt 1901); not verbatim. / Paraphrase of Gilgamesh epic, Tablet I; not verbatim."
+        }
+      ],
+      "persons": [
+        "gilgamesh",
+        "enkidu",
+        "ninhursag"
+      ],
+      "functions": [
+        "Opening charter of the epic's social theme",
+        "Creation of the double as check on royal power",
+        "Frame narrative of the wall and the tablet-box"
+      ],
+      "variants": [
+        {
+          "name": "Gilgamesh and Aga",
+          "text_tradition": "Sumerian (ETCSL c.1.8.1.1)",
+          "summary": "The earlier Sumerian tale of the same reign.",
+          "cross_ref": "sumerian-gilgamesh-aga"
+        },
+        {
+          "name": "Langdon's Old Babylonian tablet 2",
+          "text_tradition": "Akkadian (Langdon 1917)",
+          "summary": "The OB version of Enkidu's taming.",
+          "cross_ref": "babylonian-gilgamesh-enkidu-tamed"
+        }
+      ],
+      "language": "Akkadian",
+      "canonical_translation": "Muss-Arnolt, 1901",
+      "primary_sources": [
+        {
+          "work": "Epic of Gilgamesh (SB recension)",
+          "citation": "Tablet I, trans. Muss-Arnolt (1901), Nineveh version",
+          "language": "Akkadian"
+        }
+      ],
+      "secondary_sources": [
+        {
+          "work": "The Epic of Gilgamesh",
+          "citation": "Andrew George, London, 1999, introduction"
+        }
+      ],
+      "source_urls": [
+        {
+          "url": "https://www.gutenberg.org/ebooks/10887",
+          "description": "Muss-Arnolt's 1901 epic translation",
+          "accessed": "2026-11-14"
+        }
+      ],
+      "sensitivity_flag": "none",
+      "provenance": {
+        "record_status": "complete",
+        "compiled": "2026-11-14",
+        "compiled_by": "opencode myth-collection session",
+        "review_status": "unreviewed"
+      }
+    },
+    {
+      "id": "babylonian-gilgamesh-enkidu-tamed",
+      "title": {
+        "en": "Enkidu Tamed",
+        "zh": "恩奇都被馴化"
+      },
+      "tradition": "babylonian",
+      "category": "myth",
+      "region": {
+        "en": "Steppe and Uruk, Iraq",
+        "zh": "草原與烏魯克（伊拉克）"
+      },
+      "lat": 31.324,
+      "lon": 45.637,
+      "period": "Old Babylonian tablet 2 (Langdon translation 1917)",
+      "source": {
+        "archive": "Project Gutenberg",
+        "work": "The Epic of Gilgamish, trans. Stephen Langdon (1917)",
+        "url": "https://www.gutenberg.org/ebooks/18897"
+      },
+      "license": "Public domain (translation 1917)",
+      "summary": {
+        "en": "The hunter's nets are useless against the beast-man; a temple courtesan is sent out, and a week of love civilizes Enkidu — the gazelles flee him — and Shamhat teaches him the bread, the beer and the counsel of Uruk.",
+        "zh": "獵人無法以網捕捉獸人；神廟聖妓出草原，七日歡愛使恩奇都開化——羚羊棄他而去——沙姆哈特教他吃麵包、飲啤酒、聽烏魯克的智言。"
+      },
+      "motifs": [
+        "transformation",
+        "culture-hero",
+        "divine-marriage",
+        "wise-advice"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient epic; sexual content in ritual register."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The hunter's snares catch nothing: the beast-man fills the pits with earth and frees the herd. The hunter sends for Shamhat, the temple's woman, and she takes Enkidu for six days and seven nights. When Enkidu rises, the gazelles flee him; his strength is doubled but his home is gone. Shamhat teaches him the bread men eat and the beer men drink, and he becomes as a man — she leads him to Uruk to meet the king.",
+          "note": "Paraphrase of Gilgamesh, OB Tablet 2 (Langdon 1917); not verbatim. / Paraphrase of Gilgamesh, OB Tablet 2; not verbatim."
+        }
+      ],
+      "persons": [
+        "enkidu",
+        "shamhat",
+        "gilgamesh"
+      ],
+      "functions": [
+        "Allegory of civilization's threshold",
+        "Charter of the temple courtesan's civilizing office"
+      ],
+      "variants": [
+        {
+          "name": "SB Tablet I-II",
+          "text_tradition": "Akkadian (Wilson/Muss-Arnolt 1901)",
+          "summary": "The Nineveh recension's version of the taming.",
+          "cross_ref": "babylonian-gilgamesh-uruk-oppression"
+        }
+      ],
+      "language": "Akkadian",
+      "canonical_translation": "Stephen Langdon, 1917",
+      "primary_sources": [
+        {
+          "work": "Epic of Gilgamish (OB Pennsylvania tablet)",
+          "citation": "Tablet 2, trans. Stephen Langdon (1917)",
+          "language": "Akkadian"
+        }
+      ],
+      "secondary_sources": [
+        {
+          "work": "The Epic of Gilgamesh",
+          "citation": "Andrew George, London, 1999"
+        }
+      ],
+      "source_urls": [
+        {
+          "url": "https://www.gutenberg.org/ebooks/18897",
+          "description": "Langdon 1917 translation",
+          "accessed": "2026-11-14"
+        }
+      ],
+      "sensitivity_flag": "none",
+      "provenance": {
+        "record_status": "complete",
+        "compiled": "2026-11-14",
+        "compiled_by": "opencode myth-collection session",
+        "review_status": "unreviewed"
+      }
+    },
+    {
+      "id": "babylonian-gilgamesh-duel-friendship",
+      "title": {
+        "en": "The Door of the Wedding: Gilgamesh Meets Enkidu",
+        "zh": "婚門之戰：吉爾伽美什遇恩奇都"
+      },
+      "tradition": "babylonian",
+      "category": "myth",
+      "region": {
+        "en": "Uruk, Iraq",
+        "zh": "烏魯克（伊拉克）"
+      },
+      "lat": 31.324,
+      "lon": 45.637,
+      "period": "Old Babylonian (Jastrow & Clay translation 1920)",
+      "source": {
+        "archive": "Project Gutenberg",
+        "work": "An Old Babylonian Version of the Gilgamesh Epic, trans. Jastrow and Clay (1920)",
+        "url": "https://www.gutenberg.org/ebooks/11000"
+      },
+      "license": "Public domain (translation 1920)",
+      "summary": {
+        "en": "Enkidu bars the wedding door where Gilgamesh is to claim the first night; they wrestle through the street and doorway until the king conquers, and the conquered wild man becomes his friend — the friendship the epic will die of.",
+        "zh": "恩奇都攔於婚門之前，阻吉爾伽美什行初夜之權；二人自街頭扭打到門檻，國王終勝；敗者反成摯友——史詩將為此誼而死。"
+      },
+      "motifs": [
+        "sacred-kingship",
+        "taboo-transgression"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient epic; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Enkidu bars the door of the wedding chamber where Gilgamesh is about to claim the bride's first night; the two wrestle through the street and shatter the doorpost until Gilgamesh conquers. The defeated wild man declares his admiration: you are the strongest of men, and the friendship is sealed — the partnership the gods intended, against which Enlil later decrees one of them must die.",
+          "note": "Paraphrase of Gilgamesh, OB tablets (Jastrow & Clay 1920); not verbatim. / Paraphrase of Gilgamesh, OB tablets; not verbatim."
+        }
+      ],
+      "persons": [
+        "gilgamesh",
+        "enkidu",
+        "enlil"
+      ],
+      "functions": [
+        "Founding scene of the friendship theme",
+        "Social critique of the lord's first night embedded in the duel"
+      ],
+      "variants": [
+        {
+          "name": "SB Tablet II",
+          "text_tradition": "Akkadian (Wilson/Muss-Arnolt 1901)",
+          "summary": "The Nineveh recension's version.",
+          "cross_ref": "babylonian-gilgamesh-uruk-oppression"
+        }
+      ],
+      "language": "Akkadian",
+      "canonical_translation": "Jastrow & Clay, 1920",
+      "primary_sources": [
+        {
+          "work": "An Old Babylonian Version of the Gilgamesh Epic",
+          "citation": "Pennsylvania tablet, trans. Jastrow & Clay (1920)",
+          "language": "Akkadian"
+        }
+      ],
+      "secondary_sources": [
+        {
+          "work": "The Epic of Gilgamesh",
+          "citation": "Andrew George, London, 1999"
+        }
+      ],
+      "source_urls": [
+        {
+          "url": "https://www.gutenberg.org/ebooks/11000",
+          "description": "Jastrow & Clay 1920",
+          "accessed": "2026-11-14"
+        }
+      ],
+      "sensitivity_flag": "none",
+      "provenance": {
+        "record_status": "complete",
+        "compiled": "2026-11-14",
+        "compiled_by": "opencode myth-collection session",
+        "review_status": "unreviewed"
+      }
+    },
+    {
+      "id": "babylonian-gilgamesh-ninsun-dreams",
+      "title": {
+        "en": "Gilgamesh's Dreams and Ninsun's Adoption",
+        "zh": "吉爾伽美什之夢與寧蓀認子"
+      },
+      "tradition": "babylonian",
+      "category": "myth",
+      "region": {
+        "en": "Uruk, Iraq",
+        "zh": "烏魯克（伊拉克）"
+      },
+      "lat": 31.324,
+      "lon": 45.637,
+      "period": "Old Babylonian tablet 2 (Langdon translation 1917)",
+      "source": {
+        "archive": "Project Gutenberg",
+        "work": "The Epic of Gilgamish, trans. Stephen Langdon (1917)",
+        "url": "https://www.gutenberg.org/ebooks/18897"
+      },
+      "license": "Public domain (translation 1917)",
+      "summary": {
+        "en": "Gilgamesh dreams a star falls like a meteor on him and an axe all love him; Ninsun interprets — a friend, mighty as a star of heaven, will be given you — bathes, prays to Shamash, and adopts Enkidu as her own.",
+        "zh": "吉爾伽美什夢見流星墜身、神斧眾人爛愛；寧蓀解夢——天降摯友，力大如星——沐浴祈禱於沙瑪什，認恩奇都為己子。"
+      },
+      "motifs": [
+        "prophetic-vision",
+        "divine-marriage"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient epic; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Gilgamesh dreams a star falls on him like a gift of heaven, and a mighty axe that all the land loves; he brings the dream to his mother Ninsun, who reads it: a mighty friend shall be given you — the star is Enkidu, the axe his strength. Ninsun bathes, prays to Shamash, and adopts Enkidu as her own son; the two heroes are bound by the mother's blessing before they ever fight.",
+          "note": "Paraphrase of Gilgamesh, OB Tablet 2 (Langdon 1917); not verbatim. / Paraphrase of Gilgamesh, OB Tablet 2; not verbatim."
+        }
+      ],
+      "persons": [
+        "gilgamesh",
+        "ninsun",
+        "enkidu",
+        "utu"
+      ],
+      "functions": [
+        "Oracle model of the epic's dream readings",
+        "Adoption rite binding the heroes as brothers"
+      ],
+      "variants": [
+        {
+          "name": "SB Tablet I-II",
+          "text_tradition": "Akkadian (Wilson/Muss-Arnolt 1901)",
+          "summary": "The Nineveh recension of the dreams.",
+          "cross_ref": "babylonian-gilgamesh-uruk-oppression"
+        }
+      ],
+      "language": "Akkadian",
+      "canonical_translation": "Stephen Langdon, 1917",
+      "primary_sources": [
+        {
+          "work": "Epic of Gilgamish (OB Pennsylvania tablet)",
+          "citation": "Tablet 2, trans. Stephen Langdon (1917)",
+          "language": "Akkadian"
+        }
+      ],
+      "secondary_sources": [
+        {
+          "work": "The Epic of Gilgamesh",
+          "citation": "Andrew George, London, 1999"
+        }
+      ],
+      "source_urls": [
+        {
+          "url": "https://www.gutenberg.org/ebooks/18897",
+          "description": "Langdon 1917 translation",
+          "accessed": "2026-11-14"
+        }
+      ],
+      "sensitivity_flag": "none",
+      "provenance": {
+        "record_status": "complete",
+        "compiled": "2026-11-14",
+        "compiled_by": "opencode myth-collection session",
+        "review_status": "unreviewed"
+      }
+    },
+    {
+      "id": "babylonian-gilgamesh-cedar-preparations",
+      "title": {
+        "en": "The Yale Tablet: Toward the Cedar Forest",
+        "zh": "耶魯泥板：奔赴雪松林"
+      },
+      "tradition": "babylonian",
+      "category": "myth",
+      "region": {
+        "en": "Uruk to the cedar mountain (symbolic pin at the Lebanon range)",
+        "zh": "自烏魯克至雪松山（象徵性定位於黎巴嫩山脈）"
+      },
+      "lat": 34.0,
+      "lon": 35.9,
+      "period": "Old Babylonian (Jastrow & Clay translation 1920)",
+      "source": {
+        "archive": "Project Gutenberg",
+        "work": "An Old Babylonian Version of the Gilgamesh Epic, Yale tablet, trans. Jastrow and Clay (1920)",
+        "url": "https://www.gutenberg.org/ebooks/11000"
+      },
+      "license": "Public domain (translation 1920)",
+      "summary": {
+        "en": "The elders counsel against the journey — who has ever reached the cedar forest? Gilgamesh weeps and prays; Enkidu's lost gate-blade dreams are read; and the two set out with fifty picked men.",
+        "zh": "長老勸阻此行——何人曾抵雪松林？吉爾伽美什泣而祈禱；恩奇都門扉之夢被解讀；二人遂率五十精兵出發。"
+      },
+      "motifs": [
+        "quest-immortality",
+        "prophetic-vision",
+        "wise-advice"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient epic; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The elders of Uruk counsel against the road: who, my king, has climbed the cedar mountain and kept his life? Gilgamesh weeps to Shamash and the journey is blessed. Enkidu dreams his gate-blade broken — the omen of his own end — and the dreams are read as tokens of the battle to come; the two friends set out with fifty picked men of the city.",
+          "note": "Paraphrase of Gilgamesh, OB Yale tablet (Jastrow & Clay 1920); not verbatim. / Paraphrase of Gilgamesh, OB Yale tablet; not verbatim."
+        }
+      ],
+      "persons": [
+        "gilgamesh",
+        "enkidu",
+        "utu",
+        "ninsun"
+      ],
+      "functions": [
+        "Preparation scene of the quest for fame",
+        "Dream-omen of Enkidu's death"
+      ],
+      "variants": [
+        {
+          "name": "SB Tablets III-V",
+          "text_tradition": "Akkadian (Wilson/Muss-Arnolt 1901)",
+          "summary": "The Nineveh recension's fuller march.",
+          "cross_ref": "babylonian-gilgamesh-humbaba-battle"
+        }
+      ],
+      "language": "Akkadian",
+      "canonical_translation": "Jastrow & Clay, 1920",
+      "primary_sources": [
+        {
+          "work": "An Old Babylonian Version of the Gilgamesh Epic",
+          "citation": "Yale tablet, trans. Jastrow & Clay (1920)",
+          "language": "Akkadian"
+        }
+      ],
+      "secondary_sources": [
+        {
+          "work": "The Epic of Gilgamesh",
+          "citation": "Andrew George, London, 1999"
+        }
+      ],
+      "source_urls": [
+        {
+          "url": "https://www.gutenberg.org/ebooks/11000",
+          "description": "Jastrow & Clay 1920",
+          "accessed": "2026-11-14"
+        }
+      ],
+      "sensitivity_flag": "none",
+      "provenance": {
+        "record_status": "complete",
+        "compiled": "2026-11-14",
+        "compiled_by": "opencode myth-collection session",
+        "review_status": "unreviewed"
+      }
+    },
+    {
+      "id": "babylonian-gilgamesh-humbaba-battle",
+      "title": {
+        "en": "The Slaying of Humbaba",
+        "zh": "誅胡姆巴巴"
+      },
+      "tradition": "babylonian",
+      "category": "myth",
+      "region": {
+        "en": "Cedar forest of the Lebanon (symbolic pin)",
+        "zh": "黎巴嫩雪松林（象徵性定位）"
+      },
+      "lat": 34.0,
+      "lon": 35.9,
+      "period": "Standard Babylonian, c. 1200 BCE (Wilson/Muss-Arnolt translation 1901)",
+      "source": {
+        "archive": "Project Gutenberg",
+        "work": "Babylonian and Assyrian Literature, 'The Epic of Ishtar and Izdubar', trans. Muss-Arnolt (1901)",
+        "url": "https://www.gutenberg.org/ebooks/10887"
+      },
+      "license": "Public domain (translation 1901)",
+      "summary": {
+        "en": "The seven auras of Humbaba are taken from him one by one; the giant, stripped and caught, begs for his life and offers vassalage. Enkidu — or Gilgamesh's own resolve — strikes, and Humbaba's head is cut off and carried to Enlil.",
+        "zh": "胡姆巴巴七道光環逐一被奪；巨人被擒後哭求饒命、願稱臣納貢。恩奇都（或吉爾伽美什之決心）搶先出手，胡姆巴巴首級被斬下獻於恩利爾。"
+      },
+      "motifs": [
+        "quest-immortality",
+        "taboo-transgression",
+        "boon-curse"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient epic; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The seven terrors of Humbaba are stripped from him one by one as the friends attack; caught in the net of his own auras, the giant weeps and offers his forest in vassalage, and Gilgamesh's mercy moves. Enkidu insists — kill him before Shamash's anger changes to aid — and the guardian's head is struck off and packed for Nippur; the cedar falls, and the friends carry home a victory that the god's rebuke will darken.",
+          "note": "Paraphrase of Gilgamesh epic, Tablet V (Wilson/Muss-Arnolt 1901); not verbatim. / Paraphrase of Gilgamesh epic, Tablet V; not verbatim."
+        }
+      ],
+      "persons": [
+        "gilgamesh",
+        "enkidu",
+        "humbaba",
+        "enlil",
+        "utu"
+      ],
+      "functions": [
+        "Central moral crisis of the quest for fame",
+        "Etiology of the cedar trade and the road to the west"
+      ],
+      "variants": [
+        {
+          "name": "Gilgamesh and Huwawa (Sumerian versions A and B)",
+          "text_tradition": "Sumerian (ETCSL c.1.8.1.5)",
+          "summary": "The two earlier Sumerian tellings.",
+          "cross_ref": "sumerian-gilgamesh-huwawa-a"
+        }
+      ],
+      "language": "Akkadian",
+      "canonical_translation": "Muss-Arnolt, 1901",
+      "primary_sources": [
+        {
+          "work": "Epic of Gilgamesh (SB)",
+          "citation": "Tablet V, trans. Muss-Arnolt (1901)",
+          "language": "Akkadian"
+        }
+      ],
+      "secondary_sources": [
+        {
+          "work": "The Epic of Gilgamesh",
+          "citation": "Andrew George, London, 1999"
+        }
+      ],
+      "source_urls": [
+        {
+          "url": "https://www.gutenberg.org/ebooks/10887",
+          "description": "Muss-Arnolt's 1901 epic translation",
+          "accessed": "2026-11-14"
+        }
+      ],
+      "sensitivity_flag": "none",
+      "provenance": {
+        "record_status": "complete",
+        "compiled": "2026-11-14",
+        "compiled_by": "opencode myth-collection session",
+        "review_status": "unreviewed"
+      }
+    },
+    {
+      "id": "babylonian-gilgamesh-ishtar-refused",
+      "title": {
+        "en": "Ishtar Rebuffed",
+        "zh": "伊什塔爾受辱"
+      },
+      "tradition": "babylonian",
+      "category": "myth",
+      "region": {
+        "en": "Uruk, Iraq",
+        "zh": "烏魯克（伊拉克）"
+      },
+      "lat": 31.324,
+      "lon": 45.637,
+      "period": "Standard Babylonian, c. 1200 BCE (Wilson/Muss-Arnolt translation 1901)",
+      "source": {
+        "archive": "Project Gutenberg",
+        "work": "Babylonian and Assyrian Literature, 'The Epic of Ishtar and Izdubar', trans. Muss-Arnolt (1901)",
+        "url": "https://www.gutenberg.org/ebooks/10887"
+      },
+      "license": "Public domain (translation 1901)",
+      "summary": {
+        "en": "Ishtar, washing and adorning herself after the cedar victory, offers Gilgamesh marriage with all its gifts — the recitation of her ruined lovers is his answer; the goddess, shamed before heaven, demands the Bull of Heaven.",
+        "zh": "雪松大捷後，伊什塔爾沐浴敷粉、妝點自身，向吉爾伽美什求婚，許以百般榮華——他卻歷數其情郎的下場作答。蒙羞的女神上告天庭，索要天牛。"
+      },
+      "motifs": [
+        "taboo-transgression",
+        "divine-marriage"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient epic; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Ishtar washes, dresses and comes to Gilgamesh with an offer of marriage: come, be my husband, and I will give you the lapis chariot, the golden wheels, the tribute of lands. Gilgamesh answers with her catalogue of ruined lovers — the shepherd turned to wolf, the gardener to spider. Shamed, the goddess climbs to heaven and demands the Bull of Heaven; Anu warns that the demand means seven years of famine, and she has the stores laid up first — the Bull descends.",
+          "note": "Paraphrase of Gilgamesh epic, Tablet VI (Wilson/Muss-Arnolt 1901); not verbatim. / Paraphrase of Gilgamesh epic, Tablet VI; not verbatim."
+        }
+      ],
+      "persons": [
+        "gilgamesh",
+        "ishtar",
+        "anu"
+      ],
+      "functions": [
+        "Confrontation of hero and goddess",
+        "Catalogue of the goddess's ruined lovers as satire of the Ishtar cult"
+      ],
+      "variants": [
+        {
+          "name": "Gilgamesh and the Bull of Heaven (Sumerian)",
+          "text_tradition": "Sumerian (ETCSL c.1.8.1.2)",
+          "summary": "The earlier Sumerian version of the confrontation.",
+          "cross_ref": "sumerian-gilgamesh-bull"
+        }
+      ],
+      "language": "Akkadian",
+      "canonical_translation": "Muss-Arnolt, 1901",
+      "primary_sources": [
+        {
+          "work": "Epic of Gilgamesh (SB)",
+          "citation": "Tablet VI, trans. Muss-Arnolt (1901)",
+          "language": "Akkadian"
+        }
+      ],
+      "secondary_sources": [
+        {
+          "work": "The Epic of Gilgamesh",
+          "citation": "Andrew George, London, 1999"
+        }
+      ],
+      "source_urls": [
+        {
+          "url": "https://www.gutenberg.org/ebooks/10887",
+          "description": "Muss-Arnolt's 1901 epic translation",
+          "accessed": "2026-11-14"
+        }
+      ],
+      "sensitivity_flag": "none",
+      "provenance": {
+        "record_status": "complete",
+        "compiled": "2026-11-14",
+        "compiled_by": "opencode myth-collection session",
+        "review_status": "unreviewed"
+      }
+    },
+    {
+      "id": "babylonian-gilgamesh-bull-heaven",
+      "title": {
+        "en": "The Bull of Heaven Descends",
+        "zh": "天牛降世"
+      },
+      "tradition": "babylonian",
+      "category": "myth",
+      "region": {
+        "en": "Uruk, Iraq",
+        "zh": "烏魯克（伊拉克）"
+      },
+      "lat": 31.324,
+      "lon": 45.637,
+      "period": "Standard Babylonian, c. 1200 BCE (Wilson/Muss-Arnolt translation 1901)",
+      "source": {
+        "archive": "Project Gutenberg",
+        "work": "Babylonian and Assyrian Literature, 'The Epic of Ishtar and Izdubar', trans. Muss-Arnolt (1901)",
+        "url": "https://www.gutenberg.org/ebooks/10887"
+      },
+      "license": "Public domain (translation 1901)",
+      "summary": {
+        "en": "The Bull drinks the Euphrates dry; at each snort a pit swallows a hundred men. Gilgamesh and Enkidu slay it — Enkidu taunts the weeping goddess with the beast's haunch — and Anu, the fates, and Enlil confer: one of the two must die.",
+        "zh": "天牛吸乾幼發拉底河；每噴一次鼻息，便有一百人墮入地坑。二英雄合力誅之——恩奇都以牛後腿擲向哭泣的女神——安努、命運與恩利爾合議：二人之中必有一死。"
+      },
+      "motifs": [
+        "taboo-transgression",
+        "boon-curse",
+        "world-renewal"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient epic; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The Bull of Heaven drinks the Euphrates dry and opens pit after pit with each snort; a hundred youths fall in. The heroes take it: Enkidu seizes the tail, and Gilgamesh drives the blade between neck and horns. Ishtar mourns on the wall; Enkidu throws the severed haunch at her — you demanded this death — and the gods confer: for the Bull and Humbaba, one of the two friends must die.",
+          "note": "Paraphrase of Gilgamesh epic, Tablet VI (Wilson/Muss-Arnolt 1901); not verbatim. / Paraphrase of Gilgamesh epic, Tablet VI end; not verbatim."
+        }
+      ],
+      "persons": [
+        "gilgamesh",
+        "enkidu",
+        "ishtar",
+        "anu",
+        "enlil"
+      ],
+      "functions": [
+        "Catastrophe mechanism of the epic",
+        "Theology of hubris priced in a friend's life"
+      ],
+      "variants": [
+        {
+          "name": "Gilgamesh and the Bull of Heaven (Sumerian)",
+          "text_tradition": "Sumerian (ETCSL c.1.8.1.2)",
+          "summary": "The Sumerian version of the same battle.",
+          "cross_ref": "sumerian-gilgamesh-bull"
+        }
+      ],
+      "language": "Akkadian",
+      "canonical_translation": "Muss-Arnolt, 1901",
+      "primary_sources": [
+        {
+          "work": "Epic of Gilgamesh (SB)",
+          "citation": "Tablet VI, trans. Muss-Arnolt (1901)",
+          "language": "Akkadian"
+        }
+      ],
+      "secondary_sources": [
+        {
+          "work": "The Epic of Gilgamesh",
+          "citation": "Andrew George, London, 1999"
+        }
+      ],
+      "source_urls": [
+        {
+          "url": "https://www.gutenberg.org/ebooks/10887",
+          "description": "Muss-Arnolt's 1901 epic translation",
+          "accessed": "2026-11-14"
+        }
+      ],
+      "sensitivity_flag": "none",
+      "provenance": {
+        "record_status": "complete",
+        "compiled": "2026-11-14",
+        "compiled_by": "opencode myth-collection session",
+        "review_status": "unreviewed"
+      }
+    },
+    {
+      "id": "babylonian-gilgamesh-enkidu-dream-death",
+      "title": {
+        "en": "Enkidu's Dream and Curse",
+        "zh": "恩奇都之夢與詛咒"
+      },
+      "tradition": "babylonian",
+      "category": "myth",
+      "region": {
+        "en": "Uruk, Iraq",
+        "zh": "烏魯克（伊拉克）"
+      },
+      "lat": 31.324,
+      "lon": 45.637,
+      "period": "Standard Babylonian, c. 1200 BCE (Wilson/Muss-Arnolt translation 1901)",
+      "source": {
+        "archive": "Project Gutenberg",
+        "work": "Babylonian and Assyrian Literature, 'The Epic of Ishtar and Izdubar', trans. Muss-Arnolt (1901)",
+        "url": "https://www.gutenberg.org/ebooks/10887"
+      },
+      "license": "Public domain (translation 1901)",
+      "summary": {
+        "en": "Enkidu dreams the assembly of heaven condemns him to die in his friend's place; he curses the door, the hunter and the harlot — then, at Shamash's rebuke, blesses the woman who made him human — and lies down to die.",
+        "zh": "恩奇都夢見天庭會議判其替友而死；他咒罵門扉、獵人與聖妓——經沙瑪什斥責後，轉而祝福使其成人的女子——隨即臥床待死。"
+      },
+      "motifs": [
+        "descent-underworld",
+        "boon-curse",
+        "prophetic-vision",
+        "dream-vision"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient epic; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Enkidu dreams the assembly of the great gods: for the Bull and Humbaba, one must die — it is Enkidu, taken in his friend's place. He curses the door he made, the hunter who trapped him, and Shamhat who civilized him.",
+          "note": "Paraphrase of Gilgamesh epic, Tablet VII (Wilson/Muss-Arnolt 1901); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Shamash rebukes him from the sky: it was Shamhat who gave you bread fit for a god and the counsel of men. Enkidu relents and blesses her — kings and priests will court her memory — and lies down, fevered, to die.",
+          "note": "Paraphrase of Gilgamesh epic, Tablet VII; not verbatim."
+        }
+      ],
+      "persons": [
+        "enkidu",
+        "shamhat",
+        "gilgamesh",
+        "utu",
+        "enlil"
+      ],
+      "functions": [
+        "Judgment dream of the divine assembly",
+        "Curse-blessing turn as the epic's humanist core"
+      ],
+      "variants": [
+        {
+          "name": "Death of Gilgamesh (Sumerian)",
+          "text_tradition": "Sumerian (ETCSL c.1.8.1.3)",
+          "summary": "The consolation theology of the hero's own death.",
+          "cross_ref": "sumerian-gilgamesh-death"
+        }
+      ],
+      "language": "Akkadian",
+      "canonical_translation": "Muss-Arnolt, 1901",
+      "primary_sources": [
+        {
+          "work": "Epic of Gilgamesh (SB)",
+          "citation": "Tablet VII, trans. Muss-Arnolt (1901)",
+          "language": "Akkadian"
+        }
+      ],
+      "secondary_sources": [
+        {
+          "work": "The Epic of Gilgamesh",
+          "citation": "Andrew George, London, 1999"
+        }
+      ],
+      "source_urls": [
+        {
+          "url": "https://www.gutenberg.org/ebooks/10887",
+          "description": "Muss-Arnolt's 1901 epic translation",
+          "accessed": "2026-11-14"
+        }
+      ],
+      "sensitivity_flag": "none",
+      "provenance": {
+        "record_status": "complete",
+        "compiled": "2026-11-14",
+        "compiled_by": "opencode myth-collection session",
+        "review_status": "unreviewed"
+      }
+    },
+    {
+      "id": "babylonian-gilgamesh-lament-enkidu",
+      "title": {
+        "en": "The Lament over Enkidu",
+        "zh": "哭恩奇都"
+      },
+      "tradition": "babylonian",
+      "category": "myth",
+      "region": {
+        "en": "Uruk, Iraq",
+        "zh": "烏魯克（伊拉克）"
+      },
+      "lat": 31.324,
+      "lon": 45.637,
+      "period": "Standard Babylonian, c. 1200 BCE (Wilson/Muss-Arnolt translation 1901)",
+      "source": {
+        "archive": "Project Gutenberg",
+        "work": "Babylonian and Assyrian Literature, 'The Epic of Ishtar and Izdubar', trans. Muss-Arnolt (1901)",
+        "url": "https://www.gutenberg.org/ebooks/10887"
+      },
+      "license": "Public domain (translation 1901)",
+      "summary": {
+        "en": "Gilgamesh touches his friend and cannot believe: shall I lie like him, and never rise? He commissions a statue of gold and lapis, lays Enkidu on a bed of the forest's gold, and keeps vigil until the worm falls from the nose.",
+        "zh": "吉爾伽美什撫友而泣：我也要如此躺下，永不復起？他命人以黃金青金石造像，使恩奇都臥於雪松林之金床，守靈至屍蟲自其鼻落下。"
+      },
+      "motifs": [
+        "descent-underworld",
+        "quest-immortality"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient epic; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Gilgamesh weeps over his friend: may I not die like you — my heart will not believe it. He veils the face, touches him, and the friend does not lift his head. A statue of gold and lapis is made; Enkidu is laid on a bed of the cedar forest's gold; the vigil is kept until the worm falls from his nose — and Gilgamesh, terrified by his friend's death, turns his face to the road of Utnapishtim.",
+          "note": "Paraphrase of Gilgamesh epic, Tablet VIII (Wilson/Muss-Arnolt 1901); not verbatim. / Paraphrase of Gilgamesh epic, Tablet VIII; not verbatim."
+        }
+      ],
+      "persons": [
+        "gilgamesh",
+        "enkidu"
+      ],
+      "functions": [
+        "Grief liturgy of the epic",
+        "Pivot from the fame quest to the immortality quest"
+      ],
+      "variants": [
+        {
+          "name": "Death of Gilgamesh (Sumerian)",
+          "text_tradition": "Sumerian (ETCSL c.1.8.1.3)",
+          "summary": "The hero's own death poem with grave-goods.",
+          "cross_ref": "sumerian-gilgamesh-death"
+        }
+      ],
+      "language": "Akkadian",
+      "canonical_translation": "Muss-Arnolt, 1901",
+      "primary_sources": [
+        {
+          "work": "Epic of Gilgamesh (SB)",
+          "citation": "Tablet VIII, trans. Muss-Arnolt (1901)",
+          "language": "Akkadian"
+        }
+      ],
+      "secondary_sources": [
+        {
+          "work": "The Epic of Gilgamesh",
+          "citation": "Andrew George, London, 1999"
+        }
+      ],
+      "source_urls": [
+        {
+          "url": "https://www.gutenberg.org/ebooks/10887",
+          "description": "Muss-Arnolt's 1901 epic translation",
+          "accessed": "2026-11-14"
+        }
+      ],
+      "sensitivity_flag": "none",
+      "provenance": {
+        "record_status": "complete",
+        "compiled": "2026-11-14",
+        "compiled_by": "opencode myth-collection session",
+        "review_status": "unreviewed"
+      }
+    },
+    {
+      "id": "babylonian-gilgamesh-journey-desert",
+      "title": {
+        "en": "Through the Tunnel of the Sun",
+        "zh": "穿越太陽隧道"
+      },
+      "tradition": "babylonian",
+      "category": "myth",
+      "region": {
+        "en": "Mount Mashu (symbolic pin in the eastern highlands)",
+        "zh": "瑪舒山（象徵性定位於東部山地）"
+      },
+      "lat": 35.5,
+      "lon": 46.5,
+      "period": "Standard Babylonian, c. 1200 BCE (Wilson/Muss-Arnolt 1901)",
+      "source": {
+        "archive": "Project Gutenberg",
+        "work": "Babylonian and Assyrian Literature, 'The Epic of Ishtar and Izdubar', trans. Muss-Arnolt (1901)",
+        "url": "https://www.gutenberg.org/ebooks/10887"
+      },
+      "license": "Public domain (translation 1901)",
+      "summary": {
+        "en": "Gilgamesh comes to the twin peaks of Mashu where the sun enters and leaves; the scorpion-people bar him, hear his grief, and let him pass: twelve hours of dark — then a garden of jewels with trees of carnelian and lapis bearing fruit.",
+        "zh": "吉爾伽美什抵瑪舒雙峰——日出日入之處；蠍人守門，聞其哀慟而放行：黑暗十二時辰——隨後是寶石花園，瑪瑙與青金石之樹結滿果實。"
+      },
+      "motifs": [
+        "descent-underworld",
+        "otherworld-voyage",
+        "quest-immortality"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient epic; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Gilgamesh comes to Mount Mashu, twin peaks where the sun enters and leaves the world; the scorpion-people, male and female, bar the way — a mortal has never come here — until his grief moves them: go, and may the road bring you back safe. Twelve hours of darkness; then light. Before him spreads a garden of jewels: trees of carnelian and lapis bearing fruit of pearl, a grove that no sorrow has touched.",
+          "note": "Paraphrase of Gilgamesh epic, Tablet IX (Wilson/Muss-Arnolt 1901); not verbatim. / Paraphrase of Gilgamesh epic, Tablet IX; not verbatim."
+        }
+      ],
+      "persons": [
+        "gilgamesh"
+      ],
+      "functions": [
+        "Otherworld passage of the immortality quest",
+        "Vision of the jewel garden as the epic's image of paradise"
+      ],
+      "variants": [
+        {
+          "name": "Nergal and Ereshkigal",
+          "text_tradition": "Akkadian (Rogers 1912)",
+          "summary": "The underworld journey genre's god-version.",
+          "cross_ref": "babylonian-nergal-ereshkigal-amarna"
+        }
+      ],
+      "language": "Akkadian",
+      "canonical_translation": "Muss-Arnolt, 1901",
+      "primary_sources": [
+        {
+          "work": "Epic of Gilgamesh (SB)",
+          "citation": "Tablet IX, trans. Muss-Arnolt (1901)",
+          "language": "Akkadian"
+        }
+      ],
+      "secondary_sources": [
+        {
+          "work": "The Epic of Gilgamesh",
+          "citation": "Andrew George, London, 1999"
+        }
+      ],
+      "source_urls": [
+        {
+          "url": "https://www.gutenberg.org/ebooks/10887",
+          "description": "Muss-Arnolt's 1901 epic translation",
+          "accessed": "2026-11-14"
+        }
+      ],
+      "sensitivity_flag": "none",
+      "provenance": {
+        "record_status": "complete",
+        "compiled": "2026-11-14",
+        "compiled_by": "opencode myth-collection session",
+        "review_status": "unreviewed"
+      }
+    },
+    {
+      "id": "babylonian-gilgamesh-siduri-urshanabi",
+      "title": {
+        "en": "Siduri's Counsel and the Ferryman",
+        "zh": "西杜里之諫與擺渡人"
+      },
+      "tradition": "babylonian",
+      "category": "myth",
+      "region": {
+        "en": "Tavern at the sea's edge (symbolic pin)",
+        "zh": "海邊酒館（象徵性定位）"
+      },
+      "lat": 30.0,
+      "lon": 48.0,
+      "period": "Standard Babylonian, c. 1200 BCE (George Smith translation 1876)",
+      "source": {
+        "archive": "Project Gutenberg",
+        "work": "The Chaldean Account of Genesis, 'Siduri and Sabitu. Nes-Hea the pilot. Water of death', George Smith (1876)",
+        "url": "https://www.gutenberg.org/ebooks/60559"
+      },
+      "license": "Public domain (translation 1876)",
+      "summary": {
+        "en": "At the world's edge the tavern-keeper Siduri bars her gate against the wild man and gives him the poem's great counsel: eat, drink, love — the gods kept eternal life for themselves. Then the ferryman Urshanabi is found: cross the waters of death, but not without breaking his stone things.",
+        "zh": "在世界盡頭，酒館女掌櫃西杜里拒野人於門外，卻道出史詩中最偉大的忠告：食、飲、愛——永生乃神明自留之物。隨後尋得船夫烏爾沙納比：欲渡死亡之水，須先碎其石偶。"
+      },
+      "motifs": [
+        "quest-immortality",
+        "otherworld-voyage",
+        "parable-teaching",
+        "wise-advice",
+        "ferryman-dead"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient epic; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Siduri, the tavern-keeper at the sea's edge, bars her gate against the man who has destroyed her jars; hearing his grief — Enkidu, my friend, is clay — she counsels: eat your bread, wash your head, enjoy the child at your knee; the gods kept eternal life for themselves. She names the ferryman Urshanabi and his stone things; Gilgamesh, in fury, shatters them — and must now pole the boat himself across the waters of death with Urshanabi, the longest crossing in literature.",
+          "note": "Paraphrase of Gilgamesh epic, Tablet X (George Smith 1876; SB recension); not verbatim. / Paraphrase of Gilgamesh epic, Tablet X; not verbatim."
+        }
+      ],
+      "persons": [
+        "gilgamesh",
+        "siduri",
+        "urshanabi"
+      ],
+      "functions": [
+        "Philosophical counsel of the epic (carpe diem)",
+        "Threshold passage to Utnapishtim"
+      ],
+      "variants": [
+        {
+          "name": "The song of the tavern (OB 'Gilgamesh, Enkidu and the netherworld' frame)",
+          "text_tradition": "Sumerian (ETCSL c.1.8.1.4)",
+          "summary": "The earlier wisdom framing of death.",
+          "cross_ref": "sumerian-gilgamesh-netherworld"
+        }
+      ],
+      "language": "Akkadian",
+      "canonical_translation": "George Smith, 1876",
+      "primary_sources": [
+        {
+          "work": "Epic of Gilgamesh (SB)",
+          "citation": "Tablet X, trans. George Smith (1876), Siduri chapter",
+          "language": "Akkadian"
+        }
+      ],
+      "secondary_sources": [
+        {
+          "work": "The Epic of Gilgamesh",
+          "citation": "Andrew George, London, 1999"
+        }
+      ],
+      "source_urls": [
+        {
+          "url": "https://www.gutenberg.org/ebooks/60559",
+          "description": "George Smith 1876",
+          "accessed": "2026-11-14"
+        }
+      ],
+      "sensitivity_flag": "none",
+      "provenance": {
+        "record_status": "complete",
+        "compiled": "2026-11-14",
+        "compiled_by": "opencode myth-collection session",
+        "review_status": "unreviewed"
+      }
+    },
+    {
+      "id": "babylonian-gilgamesh-sleep-plant",
+      "title": {
+        "en": "The Test of Sleep and the Plant of Youth",
+        "zh": "沉睡之試與青春仙草"
+      },
+      "tradition": "babylonian",
+      "category": "myth",
+      "region": {
+        "en": "Dilmun at the mouths of the rivers (symbolic pin at Bahrain)",
+        "zh": "兩河口之迪爾蒙（象徵性定位於巴林）"
+      },
+      "lat": 26.2,
+      "lon": 50.6,
+      "period": "Standard Babylonian, c. 1200 BCE (Budge translation 1920)",
+      "source": {
+        "archive": "Project Gutenberg",
+        "work": "The Babylonian Story of the Deluge and the Epic of Gilgamesh, E. A. Wallis Budge (1920)",
+        "url": "https://www.gutenberg.org/ebooks/7096"
+      },
+      "license": "Public domain (translation 1920)",
+      "summary": {
+        "en": "Utnapishtim tests the king with sleep — six days and seven the hero sleeps — then grants him the thorn-plant of youth; Gilgamesh bathes, and the serpent, rising from the pool, eats it and sloughs its skin: why death is now forever and the snake renews itself.",
+        "zh": "烏特納皮什提以沉睡試探——英雄一睡七日——隨後賜予青春之刺草；吉爾伽美什沐浴之際，池中巨蛇竄出吞草、蛻去舊皮：死亡從此永駐，蛇卻得以新生。"
+      },
+      "motifs": [
+        "quest-immortality",
+        "resurrection",
+        "transformation",
+        "immortality-lost"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient epic; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Utnapishtim tests the claim that death can be defeated: sit, and do not sleep. Gilgamesh sleeps — six days and seven — and wakes with the fresh loaves counted against him: you cannot even conquer sleep; how will you conquer death?",
+          "note": "Paraphrase of Gilgamesh epic, Tablet XI (Budge 1920); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Yet Urshanabi reveals the thorn-plant of the deep: it restores youth. Gilgamesh brings it up, and while he bathes in the pool, the serpent rises from the water, eats the plant, and sloughs its skin. The hero weeps: for whose benefit have my hands labored? — and the answer of the epic is silence.",
+          "note": "Paraphrase of Gilgamesh epic, Tablet XI; not verbatim."
+        }
+      ],
+      "persons": [
+        "gilgamesh",
+        "utnapishtim",
+        "urshanabi"
+      ],
+      "functions": [
+        "Etiology of the serpent's sloughing and mankind's mortality",
+        "Philosophical close of the immortality quest"
+      ],
+      "variants": [
+        {
+          "name": "Etana and the plant of birth",
+          "text_tradition": "Akkadian (Jastrow 1898)",
+          "summary": "The parallel plant-quest of the Kish king.",
+          "cross_ref": "babylonian-etana-ascent"
+        }
+      ],
+      "language": "Akkadian",
+      "canonical_translation": "E. A. Wallis Budge, 1920",
+      "primary_sources": [
+        {
+          "work": "Epic of Gilgamesh (SB)",
+          "citation": "Tablet XI, trans. E. A. Wallis Budge (1920)",
+          "language": "Akkadian"
+        }
+      ],
+      "secondary_sources": [
+        {
+          "work": "The Epic of Gilgamesh",
+          "citation": "Andrew George, London, 1999"
+        }
+      ],
+      "source_urls": [
+        {
+          "url": "https://www.gutenberg.org/ebooks/7096",
+          "description": "Budge 1920",
+          "accessed": "2026-11-14"
+        }
+      ],
+      "sensitivity_flag": "none",
+      "provenance": {
+        "record_status": "complete",
+        "compiled": "2026-11-14",
+        "compiled_by": "opencode myth-collection session",
+        "review_status": "unreviewed"
+      }
+    },
+    {
+      "id": "babylonian-gilgamesh-ghost-enkidu",
+      "title": {
+        "en": "The Ghost of Enkidu",
+        "zh": "恩奇都之魂"
+      },
+      "tradition": "babylonian",
+      "category": "myth",
+      "region": {
+        "en": "Uruk, Iraq",
+        "zh": "烏魯克（伊拉克）"
+      },
+      "lat": 31.324,
+      "lon": 45.637,
+      "period": "Standard Babylonian Tablet XII (translation of a Sumerian poem), c. 1200 BCE (Wilson/Muss-Arnolt 1901)",
+      "source": {
+        "archive": "Project Gutenberg",
+        "work": "Babylonian and Assyrian Literature, 'The Epic of Ishtar and Izdubar', Tablet XII, trans. Muss-Arnolt (1901)",
+        "url": "https://www.gutenberg.org/ebooks/10887"
+      },
+      "license": "Public domain (translation 1901)",
+      "summary": {
+        "en": "The appended twelfth tablet returns to the netherworld: Enkidu goes down for the ball and stick, breaks the taboos, is held, and rises as a ghost to tell his friend the rules of the dead — the man with many sons sits at ease, the man with none weeps, the unburied has no rest.",
+        "zh": "附錄第十二泥板重返冥界：恩奇都為球與棍下冥土，觸犯禁忌被困，化為幽魂升還，向摯友講述亡者之規——多子者安然坐，無子者啼哭，未葬者不得安息。"
+      },
+      "motifs": [
+        "descent-underworld",
+        "taboo-transgression",
+        "parable-teaching",
+        "restless-dead"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient epic; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Enkidu descends for the fallen ball and stick and is held below; Gilgamesh begs the sun god, who opens a hole, and Enkidu rises as a ghost — the only living friend allowed a visit from the dead. The ghost's report is the underworld's law: the man with many sons sits at ease, the man with one weeps, the man with none burns his hand on bread he cannot eat; the man hung in the field has no rest, and the one whose corpse no one buried lies hungry in the street.",
+          "note": "Paraphrase of Gilgamesh epic, Tablet XII (Wilson/Muss-Arnolt 1901); not verbatim. / Paraphrase of Gilgamesh epic, Tablet XII; not verbatim."
+        }
+      ],
+      "persons": [
+        "gilgamesh",
+        "enkidu",
+        "utu"
+      ],
+      "functions": [
+        "Eschatological instruction of the ghost visit",
+        "Charter of funerary remembrance as the dead's sustenance"
+      ],
+      "variants": [
+        {
+          "name": "Gilgamesh, Enkidu and the Nether World (Sumerian)",
+          "text_tradition": "Sumerian (ETCSL c.1.8.1.4)",
+          "summary": "The original Sumerian poem of which this is a translation.",
+          "cross_ref": "sumerian-gilgamesh-netherworld"
+        }
+      ],
+      "language": "Akkadian",
+      "canonical_translation": "Muss-Arnolt, 1901",
+      "primary_sources": [
+        {
+          "work": "Epic of Gilgamesh (SB Tablet XII)",
+          "citation": "trans. Muss-Arnolt (1901)",
+          "language": "Akkadian"
+        }
+      ],
+      "secondary_sources": [
+        {
+          "work": "The Epic of Gilgamesh",
+          "citation": "Andrew George, London, 1999, on Tablet XII"
+        }
+      ],
+      "source_urls": [
+        {
+          "url": "https://www.gutenberg.org/ebooks/10887",
+          "description": "Muss-Arnolt's 1901 epic translation",
+          "accessed": "2026-11-14"
+        }
+      ],
+      "sensitivity_flag": "none",
+      "provenance": {
+        "record_status": "complete",
+        "compiled": "2026-11-14",
+        "compiled_by": "opencode myth-collection session",
+        "review_status": "unreviewed"
+      }
+    }
+  ]
+}

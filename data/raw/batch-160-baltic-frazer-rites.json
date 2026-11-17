@@ -1,0 +1,353 @@
+{
+  "_comment": "Baltic agricultural and fire rites cut from J. G. Frazer, The Golden Bough, abridged ed. (1922), Project Gutenberg #3623. All passages paraphrase.",
+  "texts": [
+    {
+      "id": "baltic-perkunas-oak-fire-rain",
+      "title": {
+        "en": "Perkunas and the Perpetual Oak-Fire: The Drought Sacrifice",
+        "zh": "佩爾庫納斯與長明橡火：求雨祭"
+      },
+      "tradition": "baltic",
+      "category": "myth",
+      "region": {
+        "en": "Lithuania (symbolic pin at Vilnius)",
+        "zh": "立陶宛（象徵性定位於維爾紐斯）"
+      },
+      "lat": 54.69,
+      "lon": 25.28,
+      "period": "Rite recorded by early chroniclers; retold by Frazer 1922",
+      "source": {
+        "archive": "Project Gutenberg #3623",
+        "work": "J. G. Frazer, The Golden Bough, abridged ed. (1922), ch. XVII 'Fire-Festivals', section on Perkunas",
+        "url": "https://www.gutenberg.org/ebooks/3623"
+      },
+      "license": "Public domain (1922)",
+      "summary": {
+        "en": "Oaks are Perkunas's trees; a fire of oak-wood burned day and night in his honour, rekindled by friction of the sacred wood if ever it died — and in drought the people sacrificed a black heifer, a black he-goat, and a black cock in the depths of the woods, carrying a bowl of beer thrice round the fire and praying the thunder-god for rain.",
+        "zh": "橡樹乃佩爾庫納斯之樹；橡木之火晝夜長燃，熄則以聖木鑽摩復燃——旱時眾人聚於密林，以黑母牛、黑山羊、黑公雞祭雷神，捧啤酒繞火三匝、傾酒於焰，祈神降雨。"
+      },
+      "motifs": [
+        "storm-thunder",
+        "ritual-origin",
+        "sacred-place"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Frazer's comparative framing; the sacrifice is described ethnographically."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The chief deity of the Lithuanians was Perkunas, god of thunder and lightning, whose likeness to Zeus and Jupiter has often been pointed out. Oaks were sacred to him, and when the Christian missionaries cut them down the people loudly complained that their sylvan deities were destroyed. Perpetual fires, kindled with the wood of certain oak-trees, were kept up in his honour; if such a fire went out, it was lighted again by friction of the sacred wood.",
+          "note": "Paraphrase of Frazer, The Golden Bough, abridged ed. (1922), ch. XVII; not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Men sacrificed to oak-trees for good crops, while women sacrificed to lime-trees — the oaks counted male and the limes female. And in time of drought, when they wanted rain, they sacrificed a black heifer, a black he-goat, and a black cock to the thunder-god in the depths of the woods. The people assembled in great numbers from the country round about, ate and drank, and called upon Perkunas; they carried a bowl of beer thrice round the fire, poured the liquor on the flames, and prayed the god to send showers.",
+          "note": "Paraphrase of Frazer (1922); not verbatim."
+        }
+      ],
+      "persons": [
+        "perkunas"
+      ]
+    },
+    {
+      "id": "baltic-waizganthos-flax-rising",
+      "title": {
+        "en": "Waizganthos and the Standing Girl: The Flax-God's Omen",
+        "zh": "瓦伊茲甘托斯與立姿少女：亞麻神之兆"
+      },
+      "tradition": "baltic",
+      "category": "myth",
+      "region": {
+        "en": "Old Prussia (symbolic pin at Gdansk)",
+        "zh": "古普魯士（象徵性定位於格但斯克）"
+      },
+      "lat": 54.35,
+      "lon": 18.65,
+      "period": "Rite recorded 19th c.; retold by Frazer 1922",
+      "source": {
+        "archive": "Project Gutenberg #3623",
+        "work": "J. G. Frazer, The Golden Bough, abridged ed. (1922), ch. on temporary kings, Prussian flax ceremony",
+        "url": "https://www.gutenberg.org/ebooks/3623"
+      },
+      "license": "Public domain (1922)",
+      "summary": {
+        "en": "The tallest girl of the household stands on one foot upon a seat, lap full of cakes and brandy in her right hand, and prays the flax-god Waizganthos that the flax may grow as high as she stands; if her foot goes down, the crop may fail.",
+        "zh": "家中最高少女單足立於凳上，膝抱糕餅、右手持白蘭地，向亞麻神瓦伊茲甘托斯祈願：亞麻當如她所立之高而生長；足若落地，收成或歉。"
+      },
+      "motifs": [
+        "ritual-origin",
+        "oracle-divination",
+        "sacred-kingship"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Homeopathic magic rite (Frazer's term); flagged as Victorian interpretation."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "A ceremony observed by the old Prussians puts the crop and the girl's body into one measure: the tallest girl, standing on one foot upon a seat, with her lap full of cakes, a cup of brandy in her right hand and a piece of elm-bark or linden-bark in her left, prays to the god Waizganthos that the flax may grow as high as she is standing.",
+          "note": "Paraphrase of Frazer, The Golden Bough, abridged ed. (1922); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Then, after draining the cup, she has it refilled and pours the brandy on the ground as an offering to Waizganthos, and throws down the cakes for his attendant sprites. If she remains steady on one foot throughout the ceremony, it is an omen that the flax crop will be good; but if she lets her foot down, it is feared that the crop may fail.",
+          "note": "Paraphrase of Frazer (1922); not verbatim."
+        }
+      ],
+      "persons": []
+    },
+    {
+      "id": "baltic-lettish-swinging",
+      "title": {
+        "en": "Swinging for Flax: The Lettish Spring Custom",
+        "zh": "盪鞦韆以助亞麻：拉脫維亞春俗"
+      },
+      "tradition": "baltic",
+      "category": "myth",
+      "region": {
+        "en": "Latvia (symbolic pin at Riga)",
+        "zh": "拉脫維亞（象徵性定位於里加）"
+      },
+      "lat": 56.95,
+      "lon": 24.11,
+      "period": "Custom recorded 19th c.; retold by Frazer 1922",
+      "source": {
+        "archive": "Project Gutenberg #3623",
+        "work": "J. G. Frazer, The Golden Bough, abridged ed. (1922), ch. on temporary kings",
+        "url": "https://www.gutenberg.org/ebooks/3623"
+      },
+      "license": "Public domain (1922)",
+      "summary": {
+        "en": "Between Easter and St. John's Day every Lettish peasant devotes his leisure hours to swinging diligently — for the higher he rises in the air, the higher his flax will grow that season.",
+        "zh": "復活節至聖約翰日之間，拉脫維亞農人皆勤於盪鞦韆——空中愈高，是季亞麻愈高。"
+      },
+      "motifs": [
+        "ritual-origin",
+        "world-renewal"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Living custom."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "In the spring and early summer, between Easter and St. John's Day (the summer solstice), every Lettish peasant is said to devote his leisure hours to swinging diligently; for the higher he rises in the air, the higher will his flax grow that season. The same logic underlies the Prussian girl who stands on one foot for the flax-god: the height of the body is the height of the crop.",
+          "note": "Paraphrase of Frazer, The Golden Bough, abridged ed. (1922); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Frazer reads such customs as imitative magic — the swing, the standing girl, the king's raised seat are all charms to lift the crop into the sky. In the Baltic the flax-field itself was the scale on which the year was weighed, and every leap into the air was a prayer the whole village could see.",
+          "note": "Paraphrase of Frazer (1922); not verbatim."
+        }
+      ],
+      "persons": []
+    },
+    {
+      "id": "baltic-sabarios-new-corn",
+      "title": {
+        "en": "Sabarios: The Lithuanian Feast of Mixed New Corn",
+        "zh": "薩巴里奧斯：立陶宛新穀合和之宴"
+      },
+      "tradition": "baltic",
+      "category": "myth",
+      "region": {
+        "en": "Lithuania (symbolic pin at Kaunas)",
+        "zh": "立陶宛（象徵性定位於考納斯）"
+      },
+      "lat": 54.9,
+      "lon": 23.9,
+      "period": "Rite recorded 19th c.; retold by Frazer 1922",
+      "source": {
+        "archive": "Project Gutenberg #3623",
+        "work": "J. G. Frazer, The Golden Bough, abridged ed. (1922), ch. on eating the god, Lithuanian Sabarios",
+        "url": "https://www.gutenberg.org/ebooks/3623"
+      },
+      "license": "Public domain (1922)",
+      "summary": {
+        "en": "At the autumn sowing each Lithuanian farmer holds the Sabarios: nine handfuls of every crop, each divided three ways, mixed into one heap; from it little loaves for each of the household and the year's first beer — with a cock and hen of the same brood given 'O God, and thou, O earth, we give you this cock and hen as a free-will offering'.",
+        "zh": "秋播之際，立陶宛農家行薩巴里奧斯祭：九種穀物各取九把、每把三份，合為一堆；以其烘焙家宅小麵包、釀歲首新酒——並以同窩公雞母雞獻曰：『神啊，大地啊，我們以雞為自由奉獻。』"
+      },
+      "motifs": [
+        "ritual-origin",
+        "sacred-kingship",
+        "world-renewal"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Sacrificial offering described ethnographically."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "About the time of the autumn sowing, when all the corn has been got in and the threshing begun, each Lithuanian farmer holds a festival called Sabarios, 'the mixing or throwing together'. He takes nine good handfuls of each kind of crop — wheat, barley, oats, flax, beans, lentils, and the rest — divides each handful into three parts, and throws the twenty-seven portions of each grain on a heap, all mixed together; the grain must be that first threshed and winnowed and kept for the purpose.",
+          "note": "Paraphrase of Frazer, The Golden Bough, abridged ed. (1922); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Of the mixed grain he bakes little loaves, one for each of the household, and brews the year's first beer. On the chosen evening, kneeling before the barrel, he pours a jugful on the bung, saying, 'O fruitful earth, make rye and barley and all kinds of corn to flourish'; a cock and hen of the same brood, hatched within the year, lie bound on the parlour floor, and the family gives thanks 'O God, and thou, O earth, we give you this cock and hen as a free-will offering' — the fowls killed with a wooden spoon, for the head might not be cut off.",
+          "note": "Paraphrase of Frazer (1922); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "The fowls boiled in a new pot, the loaves and flesh set on an upturned bushel with three unused mugs, the family kneels while the father prays and drinks the three mugs; all follow, the beer going round till each has emptied each mug nine times. Nothing may remain over; the bones are given to the dog, and what the dog leaves is buried under the dung in the cattle-stall. No bad word may be spoken that day — for the new corn of all the fields is in the house, and the year is born again.",
+          "note": "Paraphrase of Frazer (1922); not verbatim."
+        }
+      ],
+      "persons": []
+    },
+    {
+      "id": "baltic-boba-old-rye-woman",
+      "title": {
+        "en": "The Old Rye-Woman: Killing the Corn-Spirit in Lithuania",
+        "zh": "老黑麥婦：立陶宛的殺穀靈之俗"
+      },
+      "tradition": "baltic",
+      "category": "myth",
+      "region": {
+        "en": "Lithuania, near Ragnit and Tilsit (symbolic pin at Sovetsk)",
+        "zh": "立陶宛拉格尼特與提爾西特附近（象徵性定位於蘇維埃茨克）"
+      },
+      "lat": 55.08,
+      "lon": 21.88,
+      "period": "Custom recorded 19th c.; retold by Frazer 1922",
+      "source": {
+        "archive": "Project Gutenberg #3623",
+        "work": "J. G. Frazer, The Golden Bough, abridged ed. (1922), ch. on the corn-spirit as old woman",
+        "url": "https://www.gutenberg.org/ebooks/3623"
+      },
+      "license": "Public domain (1922)",
+      "summary": {
+        "en": "In Lithuania the Old Woman — Boba, the Old Rye-woman — sits in the last handful of standing corn; the reaper who cuts it 'has cut off the Boba's head', and the man whose flail falls last 'has struck the Old Rye-woman dead' — each killer paying for the deed in brandy and drenched with water by the farmer's wife.",
+        "zh": "立陶宛田中末把之穀內棲『老婦』（波巴，老黑麥婦）；割其穗者謂『斬波巴之首』，末落連枷者謂『擊斃老黑麥婦』——皆需以白蘭地贖罪，且被農婦以水澆頭。"
+      },
+      "motifs": [
+        "ritual-origin",
+        "transformation",
+        "resurrection"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Corn-spirit parallels the Old Woman of European harvest lore."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Near Ragnit, in Lithuania, the last handful of corn is left standing by itself, with the words, 'The Old Woman (Boba) is sitting in there.' Then a young reaper whets his scythe and, with a strong sweep, cuts down the handful; it is now said of him that 'he has cut off the Boba's head', and he receives a gratuity from the farmer and a jugful of water over his head from the farmer's wife.",
+          "note": "Paraphrase of Frazer, The Golden Bough, abridged ed. (1922); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Every Lithuanian reaper makes haste to finish his task, for the Old Rye-woman lives in the last stalks, and whoever cuts the last stalks kills her, and by killing her brings trouble on himself. At threshing the same: when only a single pile of corn remains, all the threshers step back a few paces as if at the word of command, then fall upon the last bundle with almost frantic fury — and the man whose flail is the last to fall after the shout of 'Halt!' has 'struck the Old Rye-woman dead', and must treat his fellows to brandy.",
+          "note": "Paraphrase of Frazer (1922); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "Sometimes the slain corn-spirit was represented by a puppet: a female figure made of corn-stalks, dressed in clothes, and placed on the threshing-floor under the heap to be threshed last — whoever gave the last stroke thereby 'struck the Old Woman dead'. In the Baltic field the goddess of the year dies in every harvest and is reborn in every sowing; the reapers only carry out what the dainas sing of Saule and her daughters.",
+          "note": "Paraphrase of Frazer (1922); not verbatim."
+        }
+      ],
+      "persons": []
+    },
+    {
+      "id": "baltic-corn-mother-mock-birth",
+      "title": {
+        "en": "The Mock Birth on the Harvest-Field: Zytniamatka",
+        "zh": "收割場上的模擬分娩：穀之母"
+      },
+      "tradition": "baltic",
+      "category": "myth",
+      "region": {
+        "en": "West Prussia (symbolic pin at Gdansk)",
+        "zh": "西普魯士（象徵性定位於格但斯克）"
+      },
+      "lat": 54.35,
+      "lon": 18.65,
+      "period": "Custom recorded 19th c.; retold by Frazer 1922",
+      "source": {
+        "archive": "Project Gutenberg #3623",
+        "work": "J. G. Frazer, The Golden Bough, abridged ed. (1922), ch. on Demeter and the harvest-field custom",
+        "url": "https://www.gutenberg.org/ebooks/3623"
+      },
+      "license": "Public domain (1922)",
+      "summary": {
+        "en": "In West Prussia a Corn-mother and a Corn-baby are acted out on the stubble at harvest: the pretended mother of the ripe grain and the pretended child of next year's crop — a charm to ensure a crop, and Frazer's glimpse of a savage Demeter behind the classical one.",
+        "zh": "西普魯士於收穫之田行模擬分娩：扮『穀母』者代表今歲熟穀，扮『穀嬰』者代表來年之穀——此為保豐收之巫術，弗蕾澤稱其為野蠻的德墨忒爾之回聲。"
+      },
+      "motifs": [
+        "ritual-origin",
+        "resurrection",
+        "divine-marriage"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Frazer's interpretation flagged; the rite itself documented."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The West Prussian custom of the mock birth of a child on the harvest-field: the pretended mother represents the Corn-mother (Zytniamatka); the pretended child represents the Corn-baby, and the whole ceremony is a charm to ensure a crop next year. In the mother-sheaf of Europe generally a large figure made of the last sheaf carries a small corn-doll inside — the mother and the daughter still unborn.",
+          "note": "Paraphrase of Frazer, The Golden Bough, abridged ed. (1922); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Frazer reads the custom beside the Greek legend that Iasion begat the child Plutus — 'abundance' — by Demeter on a thrice-ploughed field: the myth and the Prussian mimic birth alike point to an older practice of performing among the sprouting crops or the stubble one of those acts of procreation by which primitive man seeks to infuse vigorous life into the languid energies of nature. The Corn-mother of this year is Demeter; the Corn-child of next year, taken from her seed and sown in autumn, is Persephone, gone down into the lower world to rise again in spring.",
+          "note": "Paraphrase of Frazer (1922); not verbatim."
+        }
+      ],
+      "persons": []
+    },
+    {
+      "id": "baltic-fortieth-day-feast",
+      "title": {
+        "en": "The Fortieth Day: Feasting the Dead in Prussia and Lithuania",
+        "zh": "第四十日：普魯士立陶宛的祭亡宴"
+      },
+      "tradition": "baltic",
+      "category": "myth",
+      "region": {
+        "en": "Prussia and Lithuania (symbolic pin at Vilnius)",
+        "zh": "普魯士與立陶宛（象徵性定位於維爾紐斯）"
+      },
+      "lat": 54.69,
+      "lon": 25.28,
+      "period": "Custom recorded 19th c.; retold by Frazer 1922",
+      "source": {
+        "archive": "Project Gutenberg #3623",
+        "work": "J. G. Frazer, The Golden Bough, abridged ed. (1922), ch. on feast of All Souls",
+        "url": "https://www.gutenberg.org/ebooks/3623"
+      },
+      "license": "Public domain (1922)",
+      "summary": {
+        "en": "On the fortieth day after a funeral the old Prussians and Lithuanians feasted the dead — the day on which, the Slavs believed, the soul finally leaves the house it has haunted for six weeks: the whole village ate and drank with the departed at the graveside.",
+        "zh": "舊普魯士人與立陶宛人於葬後第四十日設宴饗亡者——斯拉夫俗信中，魂靈於逝後四十日始離其徘徊之宅：全村聚於墓旁與逝者同餐共飲。"
+      },
+      "motifs": [
+        "ritual-origin",
+        "resurrection",
+        "world-renewal",
+        "ghost-return"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancestor rite."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "On the fortieth day after the funeral the old Prussians and Lithuanians held their feast of the dead — the day, in Slavic belief, when the soul leaves the places it haunted for six weeks and rises toward the sun or the stars, or wanders into the forests, waters, and mountains. Food and drink were set for the deceased at the graveside and at the family board, part of every dish set aside for the one who could no longer eat.",
+          "note": "Paraphrase of Frazer, The Golden Bough, abridged ed. (1922); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "The custom belongs to the same calendar of the dead as the autumn Dziady of White Russia and the Lithuanian October commemoration the old writers noted: the living eat with the dead at fixed seasons of the year, so that the ancestors, well fed and remembered, will guard the seed and the herd. In the Baltic household the boundary between the living and the dead was not a wall but a table laid twice over.",
+          "note": "Paraphrase of Frazer (1922); not verbatim."
+        }
+      ],
+      "persons": []
+    }
+  ]
+}

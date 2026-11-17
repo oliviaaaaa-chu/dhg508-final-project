@@ -1,0 +1,103 @@
+{
+  "_comment": "Shahnama of Firdausi, trans. A. G. & E. Warner (1905), vol. II: Sohrab cycle — Tahmina and the birth of Sohrab. Paraphrase passages with notes.",
+  "texts": [
+    {
+      "id": "persian-tahmina-night",
+      "title": {
+        "en": "Tahmina Comes to Rustam by Night",
+        "zh": "塔米娜夜訪魯斯塔姆"
+      },
+      "tradition": "persian",
+      "category": "myth",
+      "region": {
+        "en": "Palace of Samangan (symbolic pin)",
+        "zh": "薩曼甘王宮（象徵性定位）"
+      },
+      "lat": 36.5,
+      "lon": 67.0,
+      "period": "Composed c. 1010 CE (Warner translation 1905)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Firdausi, Shahnama, trans. A. G. & E. Warner (1905), vol. II, Suhrab secs. 3-4",
+        "url": "https://archive.org/details/shahnama02firduoft"
+      },
+      "license": "Public domain (translation 1905)",
+      "summary": {
+        "en": "Rustam's Rakhsh is lassoed by Turkmen horsemen while he sleeps, and he tramps afoot to Samangan, where the king feasts him. At midnight a slave with an ambergris taper leads in a moon-faced girl: Tahmina, sole daughter of the king of Samangan, who has heard the romances of the man who fears not div and lion and has sacrificed her prudence to her passion, hoping God may lay upon her breast a child of his. They are wed by the usual rites, and Rustam, leaving at dawn, gives her his famous armlet as a token for the child: if a daughter, plait it in her hair; if a son, bind it round his arm, for he will be like Sam in stature and bring down soaring eagles.",
+        "zh": "魯斯塔姆熟睡時拉赫什被突厥騎手套走，他徒步前往薩曼甘，受國王盛宴款待。半夜，一名手持龍涎香燭的侍女引來月貌少女——國王獨女塔米娜。她傾慕傳說中「不懼魔獅」的英雄，情勝理智，只盼真主在她懷中賜下他的孩子。二人依禮成婚；黎明分別時，魯斯塔姆解下名貴臂鐲相贈：「若是女兒，編入髮辮；若是兒子，繫於其臂——他將如薩姆一般雄偉，能擊落翱翔之鷹。」"
+      },
+      "motifs": ["divine-marriage", "miraculous-birth", "boon-curse"],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Epic literary source; the armlet is the recognition-token whose failure causes the tragedy. No living community restriction."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Some Turkman horsemen chanced upon the plain and marked the tracks of Rakhsh. These they pursued beside the stream, surrounded him, and with their royal lassos essayed to take him. Rakhsh raged like a mighty lion: lashing out he laid two Turkmans low and with his teeth tore off another's head; at length the others threw from every side their lassos, caught him round the neck and took him. When Rustam woke and needed docile Rakhsh he looked about the mead but found him not, whereat in dudgeon and astound he hurried toward Samangan, thus armed with quiver, mace, helm, scimitar, and tiger-skin cuirass, and went in evil case and much discouragement.",
+          "note": "Paraphrase of Firdausi, Shahnama, Suhrab secs. 2-3 (Warner 1905); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "At noon of night, while Phosphor crossed the sky, there came mysterious whispers: Rustam's door was softly opened, and a slave who bare a taper savouring of ambergris walked stately toward the drunken sleeper's couch. Behind the slave there was a moon-faced girl sun-bright, all scent and hue, with arching eyebrows and locks that hung in tresses lasso-like, in stature like a lofty cypress-tree. The lion-hearted Rustam marvelled at her and asked: thy name? What seek'st thou midst the murk of night?",
+          "note": "Paraphrase of Firdausi, Shahnama, Suhrab sec. 4 (Warner 1905); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "She said: Tahmina; and thou well mayst say that mine affliction teareth me in twain. Sole daughter of the king of Samangan, there is no mate for me among the kings. Many and many a story have I heard of thee, just like romance: how div and lion, pard and crocodile thou fearest not; how eagles seeing thy naked sword dare not to swoop upon their quarry. God hath ordained thy sojourn in this city, and now if thou wilt have me I am thine, for I have sacrificed my prudence to my passion; haply God Almighty may lay upon my breast a child of thine.",
+          "note": "Paraphrase of Firdausi, Shahnama, Suhrab sec. 4 (Warner 1905); not verbatim."
+        },
+        {
+          "id": "4",
+          "text": "He bade an archimage go and demand the maiden from her sire. The king, that noble Cypress, was well pleased to be affined to Rustam and bestowed Tahmina on him with the usual rites. He wore an armlet, a famous one; that gave he to Tahmina, and said: keep this. If thou shalt bear a daughter then plait it in her hair; while if the stars vouchsafe to thee a son bind round his arm this token of his father. He will be like Sam son of Nariman in stature and bring down soaring eagles; the sun will scorch not him. Then homeward to Zabulistan he went, but no one heard him speak of this event.",
+          "note": "Paraphrase of Firdausi, Shahnama, Suhrab sec. 4 (Warner 1905); not verbatim."
+        }
+      ],
+      "persons": ["rustam", "tahmina", "sohrab"]
+    },
+    {
+      "id": "persian-sohrab-birth",
+      "title": {
+        "en": "The Birth and Boyhood of Sohrab",
+        "zh": "蘇赫拉布誕生"
+      },
+      "tradition": "persian",
+      "category": "myth",
+      "region": {
+        "en": "Samangan (symbolic pin)",
+        "zh": "薩曼甘（象徵性定位）"
+      },
+      "lat": 36.5,
+      "lon": 67.0,
+      "period": "Composed c. 1010 CE (Warner translation 1905)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Firdausi, Shahnama, trans. A. G. & E. Warner (1905), vol. II, Suhrab sec. 5",
+        "url": "https://archive.org/details/shahnama02firduoft"
+      },
+      "license": "Public domain (translation 1905)",
+      "summary": {
+        "en": "Nine months pass and a moon-like babe is born; thou wouldst have said 'tis elephantine Rustam or lion-Sam; and since the babe smiled and was bright of blee Tahmina gave to him the name Suhrab. He looked a year old in a month, his chest was like his sire's; at three he exercised in arms, at five he had a lion-heart, at ten none dared encounter him in fight. He bluntly asks his mother who his father is, and Tahmina, to keep the secret of her love, tells him that Rustam, son of Zal, is his father — and the boy's heart swells: I must go to Iran and set my father on the throne of Kai Kaus.",
+        "zh": "九月期滿，誕下皎月般的嬰孩——「彷彿巨象般的魯斯塔姆，又如雄獅般的薩姆」；因嬰兒容光煥發，塔米娜為其取名蘇赫拉布（「光彩奪目」）。滿月如周歲，三歲習武，五歲膽壯，十歲無人敢與之角力。他直問母親生父是誰；塔米娜道出「扎勒之子魯斯塔姆」——少年壯志頓生：我要去伊朗，助父登上卡烏斯的王座！"
+      },
+      "motifs": ["miraculous-birth", "culture-hero", "foundational-legend"],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Epic literary source; no living community restriction."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Nine months passed and a moon-like babe was born; thou wouldst have said: 'tis elephantine Rustam, or else: 'tis lion-Sam, or Nariman; and since the babe smiled and was bright of blee Tahmina gave to him the name Suhrab. He looked a year old in a month, his chest was like his sire's; at three he exercised in arms, at five he had a lion-heart, at ten none dared encounter him in fight.",
+          "note": "Paraphrase of Firdausi, Shahnama, Suhrab sec. 5 (Warner 1905); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "He bluntly asked his mother once: now tell me, since none of my milk-fellows can compare with me, and my head reacheth to the sky, who is my sire? Tahmina, to keep the secret of her love, told him that Rustam, son of Zal, the hero of Zabul, was his father, and his heart swelled with the desire to go to Iran and set his father on the throne of Kai Kaus.",
+          "note": "Paraphrase of Firdausi, Shahnama, Suhrab sec. 5 (Warner 1905); not verbatim."
+        }
+      ],
+      "persons": ["sohrab", "tahmina", "rustam"]
+    }
+  ]
+}

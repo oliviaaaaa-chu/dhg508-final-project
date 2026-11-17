@@ -1,0 +1,201 @@
+{
+  "_comment": "Masnavi i Manavi (Rumi), trans. E. H. Whinfield (1898): mythic imagery and parables. Paraphrase passages with notes.",
+  "texts": [
+    {
+      "id": "persian-masnavi-reed-flute",
+      "title": {
+        "en": "The Song of the Reed",
+        "zh": "蘆笛之歌"
+      },
+      "tradition": "persian",
+      "category": "myth",
+      "region": {
+        "en": "Rumi's pulpit at Konya (symbolic pin)",
+        "zh": "科尼亞講經台（象徵性定位）"
+      },
+      "lat": 37.87,
+      "lon": 32.49,
+      "period": "Composed 13th century CE, Books I-II (Whinfield translation 1898)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Masnavi i Ma'navi, trans. E. H. Whinfield (1898), Book I, Song of the Reed",
+        "url": "https://archive.org/details/masnaviimanavi"
+      },
+      "license": "Public domain (translation 1898)",
+      "summary": {
+        "en": "Hearken to the reed-flute, how it discourses, complaining of the pains of separation: ever since they tore me from my osier bed my plaintive notes have moved men and women to tears; he who abides far away from his home is ever longing for the day he shall return. The flute tells the tale of love's bloodstained path; it recounts the story of Majnun's love toils. This plaint of the flute is fire, not mere air: let him who lacks this fire be accounted dead! 'Tis the fire of love that inspires the flute — love signifies the strong attraction that draws all creatures back to reunion with their Creator.",
+        "zh": "請聽蘆笛的傾訴——它在低訴離別之苦：「自從被人從蘆葦叢中割下，我的嗚咽曾令多少男女落淚；離家越遠的人，越是日夜盼歸。」笛聲訴說著愛的浴血之路，講述瑪傑農的苦戀。這笛聲是火，不是風——無此火者形同死人！那是「愛」之火在吹動笛管——愛，正是將萬物拉回造物主懷抱的強力。"
+      },
+      "motifs": ["parable-teaching", "prophetic-vision", "otherworld-voyage"],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Sufi mystical allegory read as mythic narrative (soul separated from Source); interpretive. No living community restriction."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Hearken to the reed-flute, how it discourses, complaining of the pains of separation: ever since they tore me from my osier bed, my plaintive notes have moved men and women to tears. I burst my breast, striving to give vent to sighs, and to express the pangs of my yearning for my home. He who abides far away from his home is ever longing for the day he shall return.",
+          "note": "Paraphrase of Masnavi Book I, Song of the Reed (Whinfield 1898); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "My wailing is heard in every throng, in concert with them that rejoice and them that weep; each interprets my notes in harmony with his own feelings, but not one fathoms the secrets of my heart. The flute tells the tale of love's bloodstained path; it recounts the story of Majnun's love toils.",
+          "note": "Paraphrase of Masnavi Book I, Song of the Reed (Whinfield 1898); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "This plaint of the flute is fire, not mere air: let him who lacks this fire be accounted dead! 'Tis the fire of love that inspires the flute; 'tis the ferment of love that possesses the wine. The flute is the confidant of all unhappy lovers; yea, its strains lay bare my inmost secrets.",
+          "note": "Paraphrase of Masnavi Book I, Song of the Reed (Whinfield 1898); not verbatim."
+        }
+      ],
+      "persons": []
+    },
+    {
+      "id": "persian-masnavi-adam-creation",
+      "title": {
+        "en": "Four Angels and the Handful of Earth",
+        "zh": "四天使與一把泥土"
+      },
+      "tradition": "persian",
+      "category": "myth",
+      "region": {
+        "en": "Earth of the creation (symbolic pin)",
+        "zh": "創世之土（象徵性定位）"
+      },
+      "lat": 33.5,
+      "lon": 44.4,
+      "period": "Composed 13th century CE, Books IV-V (Whinfield translation 1898)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Masnavi i Ma'navi, trans. E. H. Whinfield (1898), Book V, Story VII",
+        "url": "https://archive.org/details/masnaviimanavi"
+      },
+      "license": "Public domain (translation 1898)",
+      "summary": {
+        "en": "When the Almighty determined to create mankind to be proved by good and evil, He deputed the angel Gabriel to bring a handful of earth for the purpose of forming Adam's body. But the Earth remonstrated: the man so created would rebel against God and draw down God's curse upon her; and Gabriel returned without taking the handful. Michael was deputed next, and Israfil, and both were diverted from the execution of it. At last God sent Azrail, the angel of death, who, being of sterner disposition, resolutely shut his ears to the Earth's entreaties and brought back the required handful — and for this Azrail was made the angel of death, operating by disease and sickness, a spear in the hand of the Almighty.",
+        "zh": "真主欲造人類以驗其善惡，遣加百列取土造亞當之體。大地卻哀求：「此人將叛神，致我受神咒！」加百列憫而空手而歸；米迦勒與伊斯拉菲爾亦相繼受阻。最後真主遣死神天使阿茲拉伊爾——他性剛如鐵，掩耳不聽大地哀告，毅然取土而返。真主遂命他為死亡天使，借疾病施行；他說：「我不過是全能者手中的一桿長矛。」"
+      },
+      "motifs": ["clay-humans", "culture-hero", "parable-teaching"],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Sufi retelling of the Qur'anic creation of Adam (from Miskat tradition quoted by Rumi); pairs with clay-humans cluster. No living community restriction."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "When the Almighty determined to create mankind to be proved by good and evil, He deputed the angel Gabriel to bring a handful of earth for the purpose of forming Adam's body. Gabriel accordingly girded his loins and proceeded to the Earth to execute the divine commands. But the Earth, being apprehensive that the man so created would rebel against God and draw down God's curse upon her, remonstrated with Gabriel, and besought him to forbear.",
+          "note": "Paraphrase of Masnavi Book V, Story VII (Whinfield 1898); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "At last Gabriel granted her prayer, and returned to heaven without taking the handful of earth. Then God deputed Michael on the same errand, and the Earth made similar excuses to him, and he also listened to her crying, and returned to heaven without taking a handful. Then God sent the angel Israfil on the same errand, and he also was diverted from the execution of it by a divine intimation.",
+          "note": "Paraphrase of Masnavi Book V, Story VII (Whinfield 1898); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "At last God sent Azrail, the angel of death, who, being of sterner disposition than the others, resolutely shut his ears to the Earth's entreaties, and brought back the required handful of earth. The Earth pressed him with the argument that God's command to bear away a handful of her substance against her will did not override the other divine command to take pity on suppliants; but Azrail would not listen to her, remarking that he was to be regarded only as a spear in the hand of the Almighty. The moral is, that when any of God's creatures do us a harm, we ought to regard them only as instruments of God, who is the Only Real Agent.",
+          "note": "Paraphrase of Masnavi Book V, Story VII (Whinfield 1898); not verbatim."
+        }
+      ],
+      "persons": []
+    },
+    {
+      "id": "persian-masnavi-moses-shepherd",
+      "title": {
+        "en": "Moses and the Shepherd",
+        "zh": "穆薩與牧羊人"
+      },
+      "tradition": "persian",
+      "category": "myth",
+      "region": {
+        "en": "Desert of Sinai (symbolic pin)",
+        "zh": "西奈曠野（象徵性定位）"
+      },
+      "lat": 28.6,
+      "lon": 33.9,
+      "period": "Composed 13th century CE, Books I-II (Whinfield translation 1898)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Masnavi i Ma'navi, trans. E. H. Whinfield (1898), Book II, Story VII",
+        "url": "https://archive.org/details/masnaviimanavi"
+      },
+      "license": "Public domain (translation 1898)",
+      "summary": {
+        "en": "Moses once heard a shepherd praying as follows: O God, show me where Thou art, that I may become Thy servant; I will clean Thy shoes and comb Thy hair, and sew Thy clothes, and fetch Thee milk. When Moses heard him praying in this senseless manner he rebuked him; the shepherd was abashed, and tore his clothes and fled away into the desert. Then a voice from heaven was heard: O Moses, wherefore have you driven away my servant? Your office is to reconcile my people with me, not to drive them away from me. I regard not the words that are spoken, but the heart that offers them; I do not require fine words, but a burning heart.",
+        "zh": "穆薩聽見牧羊人祈禱：「神啊，祢在哪裡？我願為祢擦鞋、梳髮、補衣、取奶！」穆薩斥其愚妄；牧羊人羞慚裂衣、遁入荒漠。天上忽有聲音：「穆薩！你為何趕走我的僕人？你奉命引人歸我，而非驅人離我。我不看言語，只看奉上言語的心；我不求華美之辭，只求一顆熾熱的心。」"
+      },
+      "motifs": ["parable-teaching", "theophany", "taboo-transgression"],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Sufi parable on religious forms; read as sacred narrative. No living community restriction."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Moses once heard a shepherd praying as follows: O God, show me where Thou art, that I may become Thy servant. I will clean Thy shoes and comb Thy hair, and sew Thy clothes, and fetch Thee milk. When Moses heard him praying in this senseless manner, he rebuked him, saying: O foolish one, God is a Spirit, and needs not such gross ministrations as, in your ignorance, you suppose.",
+          "note": "Paraphrase of Masnavi Book II, Story VII (Whinfield 1898); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "The shepherd was abashed at his rebuke, and tore his clothes and fled away into the desert. Then a voice from heaven was heard, saying: O Moses, wherefore have you driven away my servant? Your office is to reconcile my people with me, not to drive them away from me. I have given to each race different usages and forms of praising and adoring me; I regard not the words that are spoken, but the heart that offers them. I do not require fine words, but a burning heart.",
+          "note": "Paraphrase of Masnavi Book II, Story VII (Whinfield 1898); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "A voice came from God to Moses: why hast thou sent my servant away? What is praiseworthy in thee is blamable in him; what is poison for thee is honey for him. I regard not the outside and the words, I regard the inside and the state of heart. The sect of lovers is distinct from all others; lovers have a religion and a faith of their own.",
+          "note": "Paraphrase of Masnavi Book II, Story VII (Whinfield 1898); not verbatim."
+        }
+      ],
+      "persons": []
+    },
+    {
+      "id": "persian-masnavi-elephant-dark",
+      "title": {
+        "en": "The Elephant in the Dark",
+        "zh": "暗室摸象"
+      },
+      "tradition": "persian",
+      "category": "myth",
+      "region": {
+        "en": "Dark room of the exhibition (symbolic pin)",
+        "zh": "展示暗室（象徵性定位）"
+      },
+      "lat": 28.6,
+      "lon": 77.2,
+      "period": "Composed 13th century CE, Books I-III (Whinfield translation 1898)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Masnavi i Ma'navi, trans. E. H. Whinfield (1898), Book III, Story V",
+        "url": "https://archive.org/details/masnaviimanavi"
+      },
+      "license": "Public domain (translation 1898)",
+      "summary": {
+        "en": "Some Hindoos were exhibiting an elephant in a dark room, and many people collected to see it. But as the place was too dark to permit them to see the elephant, they all felt it with their hands: one felt its trunk and declared that the beast resembled a water-pipe; another felt its ear, and said it must be a large fan; another its leg, and thought it must be a pillar; another felt its back, and declared the beast must be like a great throne. According to the part which each felt, he gave a different description of the animal. The eye of outward sense is as the palm of a hand; the whole of the object is not grasped in the palm.",
+        "zh": "印度人在暗室中展示大象，眾人湧入觀看；因光線不足，人人用手摸象：摸到鼻者說牠像水管，摸到耳者說是蒲扇，摸到腿者說是石柱，摸到背者說是禦座——各憑所觸，議論紛紜。魯米由此警醒世人：「外感官之眼不過如摸象之手掌，手掌之中豈能容下全象？莫執泡沫而忘大海；我們是海上盲人，雖在大洋卻視而不見。」"
+      },
+      "motifs": ["parable-teaching", "prophetic-vision"],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Sufi parable (blind-men-and-elephant, from the Buddhist Udana lineage); cross-tradition parable cluster. No living community restriction."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Some Hindoos were exhibiting an elephant in a dark room, and many people collected to see it. But as the place was too dark to permit them to see the elephant, they all felt it with their hands, to gain an idea of what it was like. One felt its trunk, and declared that the beast resembled a water-pipe; another felt its ear, and said it must be a large fan; another its leg, and thought it must be a pillar; another felt its back, and declared the beast must be like a great throne.",
+          "note": "Paraphrase of Masnavi Book III, Story V (Whinfield 1898); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "According to the part which each felt, he gave a different description of the animal. The eye of outward sense is as the palm of a hand; the whole of the object is not grasped in the palm. The sea itself is one thing, the foam another; neglect the foam, and regard the sea with your eyes. Waves of foam rise from the sea night and day; you look at the foam ripples and not the mighty sea.",
+          "note": "Paraphrase of Masnavi Book III, Story V (Whinfield 1898); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "We, like boats, are tossed hither and thither; we are blind though we are on the bright ocean. Ah! you who are asleep in the boat of the body, you see the water; behold the Water of waters! Under the water you see there is another Water moving it; within the spirit is a Spirit that calls it.",
+          "note": "Paraphrase of Masnavi Book III, Story V (Whinfield 1898); not verbatim."
+        }
+      ],
+      "persons": []
+    }
+  ]
+}

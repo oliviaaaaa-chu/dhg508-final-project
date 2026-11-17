@@ -1,0 +1,5703 @@
+[
+  {
+    "id": "flood",
+    "code": "A1010",
+    "name": {
+      "en": "Flood",
+      "zh": "大洪水"
+    },
+    "description": {
+      "en": "A deluge destroys the world or a people; survivors rebegin humanity.",
+      "zh": "洪水毀滅世界或族群，倖存者重新開啟人類世系。"
+    },
+    "keywords": [
+      "flood",
+      "deluge",
+      "inundation",
+      "waters",
+      "洪水",
+      "大水",
+      "滅世"
+    ]
+  },
+  {
+    "id": "creation-chaos",
+    "code": "A611",
+    "name": {
+      "en": "Creation from chaos",
+      "zh": "混沌創世"
+    },
+    "description": {
+      "en": "The ordered world emerges from a formless, chaotic, or primordial state.",
+      "zh": "秩序世界自混沌、無形或原初狀態中誕生。"
+    },
+    "keywords": [
+      "creation",
+      "chaos",
+      "origin",
+      "beginning",
+      "cosmogony",
+      "void",
+      "創世",
+      "混沌",
+      "原初"
+    ]
+  },
+  {
+    "id": "dismembered-giant",
+    "code": "A1049.1",
+    "name": {
+      "en": "Dismembered primordial being",
+      "zh": "巨人分屍造世"
+    },
+    "description": {
+      "en": "A primordial giant or being is slain and its body parts become features of the world.",
+      "zh": "原初巨人被誅殺，其身軀各部化為天地萬物。"
+    },
+    "keywords": [
+      "giant",
+      "dismembered",
+      "flesh",
+      "corpse",
+      "body",
+      "巨人",
+      "分屍",
+      "身軀"
+    ]
+  },
+  {
+    "id": "clay-humans",
+    "code": "A1241",
+    "name": {
+      "en": "Humans molded from earth",
+      "zh": "摶土造人"
+    },
+    "description": {
+      "en": "A deity shapes human figures from clay, earth, or mud and animates them.",
+      "zh": "神祇以黏土、泥土或灰泥塑成人形並賦予生命。"
+    },
+    "keywords": [
+      "clay",
+      "molded",
+      "mud",
+      "earth",
+      "figures",
+      "摶土",
+      "泥土",
+      "造人"
+    ]
+  },
+  {
+    "id": "fire-theft",
+    "code": "A531.0.1",
+    "name": {
+      "en": "Theft of fire",
+      "zh": "盜火"
+    },
+    "description": {
+      "en": "A culture hero steals fire (or a civilizing gift) from the gods for humankind and is punished.",
+      "zh": "文化英雄自諸神處盜取火種（或文明之物）賜予人類，因而受罰。"
+    },
+    "keywords": [
+      "fire",
+      "flame",
+      "torch",
+      "hearth",
+      "火",
+      "盜火",
+      "火種"
+    ]
+  },
+  {
+    "id": "descent-underworld",
+    "code": "A736",
+    "name": {
+      "en": "Descent to the underworld",
+      "zh": "下冥府"
+    },
+    "description": {
+      "en": "A living person journeys into the land of the dead and returns (or fails to).",
+      "zh": "活人前往死者之國並（或成或敗地）歸返。"
+    },
+    "keywords": [
+      "underworld",
+      "hades",
+      "yomi",
+      "xibalba",
+      "netherworld",
+      "land of the dead",
+      "冥府",
+      "死者之國",
+      "黃泉"
+    ]
+  },
+  {
+    "id": "sibling-creators",
+    "code": "A910",
+    "name": {
+      "en": "Sibling creator pair",
+      "zh": "兄妹／手足創世"
+    },
+    "description": {
+      "en": "Brother-sister or paired sibling deities generate the world or a people.",
+      "zh": "兄妹或成對之神生下世界、島嶼或族裔。"
+    },
+    "keywords": [
+      "brother",
+      "sister",
+      "siblings",
+      "pair",
+      "couple",
+      "兄妹",
+      "手足",
+      "成對"
+    ]
+  },
+  {
+    "id": "trickster",
+    "code": "G300",
+    "name": {
+      "en": "Trickster",
+      "zh": "詭計者"
+    },
+    "description": {
+      "en": "A cunning, boundary-crossing figure wins through deceit, mischief, or cleverness.",
+      "zh": "狡黠越界的角色以詭計、惡作劇或機智取勝。"
+    },
+    "keywords": [
+      "trickster",
+      "cunning",
+      "deceit",
+      "mischief",
+      "sly",
+      "詭計",
+      "狡猾",
+      "機智"
+    ]
+  },
+  {
+    "id": "sun-capture",
+    "code": "A631",
+    "name": {
+      "en": "Sun captured or hidden",
+      "zh": "縛日／太陽隱匿"
+    },
+    "description": {
+      "en": "The sun is trapped, hidden, or slowed; light is restored or the day is lengthened.",
+      "zh": "太陽被捕、藏匿或受阻；光亮復還或白晝延長。"
+    },
+    "keywords": [
+      "sun",
+      "solar",
+      "light",
+      "snare",
+      "day",
+      "太陽",
+      "縛日",
+      "日光"
+    ]
+  },
+  {
+    "id": "quest-immortality",
+    "code": "F474",
+    "name": {
+      "en": "Quest for immortality",
+      "zh": "追求不死"
+    },
+    "description": {
+      "en": "A hero tries to defeat, escape, or bargain with death — usually failing.",
+      "zh": "英雄企圖擊敗、逃避死或與死神周旋——通常以失敗告終。"
+    },
+    "keywords": [
+      "immortal",
+      "immortality",
+      "death",
+      "conquer death",
+      "undying",
+      "不死",
+      "永生",
+      "戰勝死亡"
+    ]
+  },
+  {
+    "id": "resurrection",
+    "code": "E522",
+    "name": {
+      "en": "Death and resurrection",
+      "zh": "死而復生"
+    },
+    "description": {
+      "en": "A slain deity or person is revived, often to rule the dead or guarantee renewal.",
+      "zh": "被殺之神或人復生，常成為亡者之王或保障新生。"
+    },
+    "keywords": [
+      "resurrect",
+      "revival",
+      "reborn",
+      "return to life",
+      "rise",
+      "復活",
+      "重生",
+      "復生"
+    ]
+  },
+  {
+    "id": "world-serpent",
+    "code": "A811",
+    "name": {
+      "en": "World serpent",
+      "zh": "世界蛇"
+    },
+    "description": {
+      "en": "A vast serpent or dragon encircles, underlies, or threatens the cosmos.",
+      "zh": "巨蛇或龍環繞、承載或威脅整個宇宙。"
+    },
+    "keywords": [
+      "serpent",
+      "snake",
+      "dragon",
+      "巨蛇",
+      "蛇",
+      "龍"
+    ]
+  },
+  {
+    "id": "wisdom-sacrifice",
+    "code": "H1331.1",
+    "name": {
+      "en": "Sacrifice for wisdom",
+      "zh": "犧牲求智"
+    },
+    "description": {
+      "en": "Knowledge, runes, or sight of fate is bought with bodily or existential loss.",
+      "zh": "以肉身或存在性的損失換取智慧、符文或命運之視。"
+    },
+    "keywords": [
+      "wisdom",
+      "knowledge",
+      "eye",
+      "sacrifice",
+      "runes",
+      "智慧",
+      "犧牲",
+      "符文"
+    ]
+  },
+  {
+    "id": "world-renewal",
+    "code": "A1063",
+    "name": {
+      "en": "Destruction and renewal",
+      "zh": "毀滅與新生"
+    },
+    "description": {
+      "en": "After cataclysm, a green or purified world rises; life begins again.",
+      "zh": "浩劫之後，青翠或淨化的新世界升起，生命重新開始。"
+    },
+    "keywords": [
+      "renewal",
+      "reborn world",
+      "new earth",
+      "regenerate",
+      "新生",
+      "新世界",
+      "再起"
+    ]
+  },
+  {
+    "id": "storm-thunder",
+    "code": "A1017",
+    "name": {
+      "en": "Thunder deity",
+      "zh": "雷霆之神"
+    },
+    "description": {
+      "en": "A deity embodies or commands thunder, lightning, and storm.",
+      "zh": "神祇化身或掌管雷霆、閃電與風暴。"
+    },
+    "keywords": [
+      "thunder",
+      "lightning",
+      "storm",
+      "雷",
+      "雷霆",
+      "閃電",
+      "風暴"
+    ]
+  },
+  {
+    "id": "transformation",
+    "code": "D100",
+    "name": {
+      "en": "Magical transformation",
+      "zh": "魔法變形"
+    },
+    "description": {
+      "en": "Beings change between human, animal, or celestial forms, by magic, endurance, or destiny.",
+      "zh": "生物因魔法、苦行或命運而在人、獸、天體等形態之間變化。"
+    },
+    "keywords": [
+      "transform",
+      "transformation",
+      "shape-shifter",
+      "animal form",
+      "became a",
+      "變形",
+      "化身"
+    ]
+  },
+  {
+    "id": "miraculous-birth",
+    "code": "P531",
+    "name": {
+      "en": "Miraculous birth",
+      "zh": "神蹟誕生"
+    },
+    "description": {
+      "en": "A hero, god, or savior is born under wondrous circumstances announced by omens, angels, or prophecy.",
+      "zh": "英雄、神祇或救主在異象、天使或預言宣告下的奇妙誕生。"
+    },
+    "keywords": [
+      "birth",
+      "born",
+      "virgin",
+      "nativity",
+      "angel",
+      "誕生",
+      "降生",
+      "天使"
+    ]
+  },
+  {
+    "id": "theophany",
+    "code": "A202",
+    "name": {
+      "en": "Divine manifestation (theophany)",
+      "zh": "神顯"
+    },
+    "description": {
+      "en": "A deity manifests in fire, cloud, light, or overwhelming vision to a human witness.",
+      "zh": "神祇以火、雲、光或懾人異象向人顯現。"
+    },
+    "keywords": [
+      "theophany",
+      "manifestation",
+      "divine fire",
+      "vision of god",
+      "glory",
+      "神顯",
+      "顯聖",
+      "異象",
+      "榮光"
+    ]
+  },
+  {
+    "id": "prophetic-vision",
+    "code": "A672",
+    "name": {
+      "en": "Prophetic vision",
+      "zh": "先知異象"
+    },
+    "description": {
+      "en": "A prophet or seer is shown heaven, the throne of God, revelation, or things to come.",
+      "zh": "先知或見者得見天界、神座、啟示或未來之事。"
+    },
+    "keywords": [
+      "vision",
+      "prophet",
+      "throne",
+      "revelation",
+      "seer",
+      "heaven opened",
+      "異象",
+      "先知",
+      "天啟",
+      "啟示"
+    ]
+  },
+  {
+    "id": "ascension",
+    "code": "A651.1",
+    "name": {
+      "en": "Ascension to heaven",
+      "zh": "升天"
+    },
+    "description": {
+      "en": "A living being is taken up or journeys bodily to the heavens.",
+      "zh": "活者被提或肉身升至天界。"
+    },
+    "keywords": [
+      "ascension",
+      "taken up",
+      "heavenly journey",
+      "night journey",
+      "升天",
+      "登天",
+      "夜行"
+    ]
+  },
+  {
+    "id": "oracle-divination",
+    "code": "F973",
+    "name": {
+      "en": "Oracle and divination",
+      "zh": "神諭占卜"
+    },
+    "description": {
+      "en": "Hidden knowledge is sought through an oracle, sign-system, or diviner.",
+      "zh": "透過神諭、卦象系統或占卜師探問未知。"
+    },
+    "keywords": [
+      "oracle",
+      "divination",
+      "omen",
+      "lot",
+      "diviner",
+      "神諭",
+      "占卜",
+      "卦",
+      "卜師"
+    ]
+  },
+  {
+    "id": "parable-teaching",
+    "code": "P611",
+    "name": {
+      "en": "Teaching parable",
+      "zh": "譬喻說法"
+    },
+    "description": {
+      "en": "Doctrine is taught through an allegorical story told by a sage or savior.",
+      "zh": "聖者以寓言譬喻開示教義。"
+    },
+    "keywords": [
+      "parable",
+      "allegory",
+      "teaching story",
+      "skillful means",
+      "譬喻",
+      "寓言",
+      "說法",
+      "方便"
+    ]
+  },
+  {
+    "id": "spirit-possession",
+    "code": "E721",
+    "name": {
+      "en": "Spirit possession",
+      "zh": "神靈附體"
+    },
+    "description": {
+      "en": "A spirit, deity, or divine force seizes a worshipper and speaks or acts through them.",
+      "zh": "神靈降附信眾之身，借其言行顯現。"
+    },
+    "keywords": [
+      "possession",
+      "trance",
+      "spirit medium",
+      "inspired",
+      "附體",
+      "降神",
+      "出神",
+      "中邪"
+    ]
+  },
+  {
+    "id": "sacred-kingship",
+    "code": "A930",
+    "name": {
+      "en": "Sacred kingship",
+      "zh": "神聖王權"
+    },
+    "description": {
+      "en": "A king embodies or mediates divine power, in life or through deification after death.",
+      "zh": "王者體現或仲介神力，生前神聖或死後升神。"
+    },
+    "keywords": [
+      "sacred king",
+      "deified king",
+      "royal ritual",
+      "coronation",
+      "神王",
+      "王權",
+      "加冕",
+      "封神"
+    ]
+  },
+  {
+    "id": "culture-hero",
+    "code": "A530.0",
+    "name": {
+      "en": "Culture hero",
+      "zh": "文化英雄"
+    },
+    "description": {
+      "en": "A larger-than-life figure wins for humanity the skills, tools, or laws of civilization (fire, agriculture, crafts, letters).",
+      "zh": "超凡人物為人類贏得文明之技藝、器物或律法（火、農耕、工藝、文字）。"
+    },
+    "keywords": [
+      "culture hero",
+      "civilizing",
+      "taught men",
+      "invented",
+      "gift of civilization",
+      "文化英雄",
+      "文明",
+      "教化",
+      "發明"
+    ]
+  },
+  {
+    "id": "divine-marriage",
+    "code": "T138",
+    "name": {
+      "en": "Divine marriage (hieros gamos)",
+      "zh": "聖婚"
+    },
+    "description": {
+      "en": "Union of deities in marriage — wedding of a god and goddess that founds cosmic or social order.",
+      "zh": "神祇之間的婚姻結合——天神與女神的婚礼奠定宇宙或社會秩序。"
+    },
+    "keywords": [
+      "wedding of the gods",
+      "hieros gamos",
+      "divine couple",
+      "married",
+      "wedding",
+      "聖婚",
+      "神婚",
+      "婚礼",
+      "成婚"
+    ]
+  },
+  {
+    "id": "sacred-place",
+    "code": "A960",
+    "name": {
+      "en": "Sacred place",
+      "zh": "聖地神話"
+    },
+    "description": {
+      "en": "A myth tells how a mountain, spring, river, or shrine became holy — the landscape itself is a narrative.",
+      "zh": "神話講述山、泉、河或祠如何成聖——地貌本身即敘事。"
+    },
+    "keywords": [
+      "sacred mountain",
+      "holy spring",
+      "shrine",
+      "holy place",
+      "delphi",
+      "fuji",
+      "聖山",
+      "聖泉",
+      "祠廟",
+      "聖地"
+    ]
+  },
+  {
+    "id": "taboo-transgression",
+    "code": "C300",
+    "name": {
+      "en": "Taboo and transgression",
+      "zh": "禁忌與僭越"
+    },
+    "description": {
+      "en": "A sacred rule is broken, bringing curse, exile, or punishment — and marking the boundary for everyone after.",
+      "zh": "神聖戒律被觸犯，帶來詛咒、放逐或懲罰，並為後人劃定界線。"
+    },
+    "keywords": [
+      "taboo",
+      "forbidden",
+      "curse",
+      "cursed",
+      "disobey",
+      "exile",
+      "punishment",
+      "eating",
+      "禁忌",
+      "被逐",
+      "僭越",
+      "詛咒",
+      "禁果"
+    ]
+  },
+  {
+    "id": "boon-curse",
+    "code": "C61",
+    "name": {
+      "en": "Boons and curses",
+      "zh": "恩諾與詛咒"
+    },
+    "description": {
+      "en": "Power is bound by granted boons or unleashed by curses; fate turns on the exact wording of a promise.",
+      "zh": "力量受恩諾約束、因詛咒爆發；命運繫於承諾的措辭。"
+    },
+    "keywords": [
+      "boon",
+      "curse",
+      "bargain",
+      "wish",
+      "oath",
+      "condition",
+      "恩諾",
+      "詛咒",
+      "許願",
+      "盟誓"
+    ]
+  },
+  {
+    "id": "otherworld-voyage",
+    "code": "F112",
+    "name": {
+      "en": "Voyage to the otherworld",
+      "zh": "遠航彼岸世界"
+    },
+    "description": {
+      "en": "A mortal sails or is carried to a timeless otherworld realm whose return rules forbid full contact.",
+      "zh": "凡人航行或被帶往無時間之彼岸世界，其歸返法度禁止完全接觸。"
+    },
+    "keywords": [
+      "voyage",
+      "otherworld",
+      "immram",
+      "Land of Women",
+      "Tir na nOg",
+      "遠航",
+      "彼岸"
+    ]
+  },
+  {
+    "id": "cauldron-rebirth",
+    "code": "D1165",
+    "name": {
+      "en": "Cauldron of rebirth",
+      "zh": "再生之釜"
+    },
+    "description": {
+      "en": "A magic cauldron revives the dead or confers inspiration, usually with a price (muteness, forgetting).",
+      "zh": "魔法之釜使死者復生或賦予啟示，通常附帶代價（失語、遺忘）。"
+    },
+    "keywords": [
+      "cauldron",
+      "rebirth",
+      "revival",
+      "inspiration",
+      "釜",
+      "再生"
+    ]
+  },
+  {
+    "id": "champion-portion",
+    "code": "P113.3",
+    "name": {
+      "en": "Champion's portion",
+      "zh": "勇士之份"
+    },
+    "description": {
+      "en": "The choicest share of a feast awarded to the warrior of greatest renown, claimed by recited deeds.",
+      "zh": "宴席中最尊之分，授予聲名最盛之戰士，以宣述功績而爭得。"
+    },
+    "keywords": [
+      "champion",
+      "portion",
+      "feast",
+      "boast",
+      "勇士之份",
+      "誇功"
+    ]
+  },
+  {
+    "id": "ritual-origin",
+    "code": "C50",
+    "name": {
+      "en": "Origin of rituals",
+      "zh": "儀式起源"
+    },
+    "description": {
+      "en": "A myth explains how a ritual, rite, or sacred practice began.",
+      "zh": "神話解釋某種儀式、祭禮或神聖實踐的起源。"
+    },
+    "keywords": [
+      "ritual",
+      "rite",
+      "sacrifice origin",
+      "ceremony",
+      "儀式",
+      "祭禮"
+    ]
+  },
+  {
+    "id": "foundational-legend",
+    "code": "A530",
+    "name": {
+      "en": "Foundational legend",
+      "zh": "建國傳說"
+    },
+    "description": {
+      "en": "A legend explains the founding of a place, lineage, island, or people.",
+      "zh": "解釋地方、族裔、島嶼或王朝建立由來的傳說。"
+    },
+    "keywords": [
+      "founding",
+      "founder",
+      "origin of",
+      "legend",
+      "建國",
+      "開基",
+      "傳說"
+    ]
+  },
+  {
+    "id": "constellation-origin",
+    "code": "A752",
+    "name": {
+      "en": "Origin of constellations",
+      "zh": "星座起源"
+    },
+    "description": {
+      "en": "A story explains a star group: people or animals fixed in the sky by a hunt, dance or ascent.",
+      "zh": "以故事解釋星群之由來：人獸因追逐、舞蹈或昇天而定格於天空。"
+    },
+    "keywords": [
+      "stars",
+      "constellation",
+      "pleiades",
+      "dipper",
+      "sky",
+      "星座",
+      "星群",
+      "昇天"
+    ]
+  },
+  {
+    "id": "star-husband",
+    "code": "A771",
+    "name": {
+      "en": "Star husband / star wife",
+      "zh": "星辰配偶"
+    },
+    "description": {
+      "en": "A mortal is carried off by or marries a sky-being and later returns (or fails to).",
+      "zh": "凡人被天界者擄走或成婚，後返回（或失敗）。"
+    },
+    "keywords": [
+      "star",
+      "elopement",
+      "sky people",
+      "sky country",
+      "星辰",
+      "天界",
+      "配偶"
+    ]
+  },
+  {
+    "id": "origin-of-death",
+    "code": "A1335",
+    "name": {
+      "en": "Origin of death",
+      "zh": "死亡之起源"
+    },
+    "description": {
+      "en": "The first death happens and mortality is explained or announced; messenger, taboo or transgression variants.",
+      "zh": "首度死亡發生，解釋凡人必死之由；有信使、禁忌或犯禁諸變體。"
+    },
+    "keywords": [
+      "first death",
+      "mortality",
+      "death origin",
+      "死亡",
+      "必死",
+      "起源"
+    ]
+  },
+  {
+    "id": "cannibal-giant",
+    "code": "G400",
+    "name": {
+      "en": "Cannibal giant / ogre",
+      "zh": "食人巨人"
+    },
+    "description": {
+      "en": "A giant man-eater threatens humans and is outwitted, slain, or converted into a helper.",
+      "zh": "食人巨人威脅人類，終被智取、誅殺或感化為助者。"
+    },
+    "keywords": [
+      "giant",
+      "cannibal",
+      "ogre",
+      "stone giant",
+      "巨人",
+      "食人",
+      "怪物"
+    ]
+  },
+  {
+    "id": "witch",
+    "code": "G261",
+    "name": {
+      "en": "Witch / sorcerer",
+      "zh": "巫者"
+    },
+    "description": {
+      "en": "A human sorcerer harms through transformation, buried charms or stolen hearts; countered by a medicine society.",
+      "zh": "人間巫者以變形、埋咒或竊心害人；由醫社對治。"
+    },
+    "keywords": [
+      "witch",
+      "sorcerer",
+      "charm bundle",
+      "transformation",
+      "巫",
+      "法術",
+      "變形"
+    ]
+  },
+  {
+    "id": "karma-retribution",
+    "code": "E731",
+    "name": {
+      "en": "Karma and rebirth",
+      "zh": "業報輪迴"
+    },
+    "description": {
+      "en": "Deeds in one existence ripen as reward, rebirth, or retribution in a later existence; the moral engine of South Asian traditions.",
+      "zh": "一身所作，來世成熟為果報或轉生；南亞傳統之道德引擎。"
+    },
+    "keywords": [
+      "karma",
+      "rebirth",
+      "retribution",
+      "deeds ripen",
+      "past existence",
+      "業",
+      "業報",
+      "輪迴",
+      "轉生",
+      "果報"
+    ]
+  },
+  {
+    "id": "moon",
+    "code": "A732.1",
+    "name": {
+      "en": "Moon personified",
+      "zh": "月神與月相"
+    },
+    "description": {
+      "en": "The moon as being or origin story — its person, phases, chase, or resident.",
+      "zh": "月之化身或月之由來——其人格、盈虧、追逐或月中居者。"
+    },
+    "keywords": [
+      "moon",
+      "moon man",
+      "phases of the moon",
+      "rabbit in the moon",
+      "Chang'e",
+      "月神",
+      "月亮",
+      "月中"
+    ]
+  },
+  {
+    "id": "omen",
+    "code": "A575.1",
+    "name": {
+      "en": "Omen read",
+      "zh": "徵兆"
+    },
+    "description": {
+      "en": "A portent — dream, birth sign, storm, flight of birds — is read as a warning or promise.",
+      "zh": "以夢、誕兆、風暴或飛鳥等徵兆為警戒或吉許。"
+    },
+    "keywords": [
+      "omen",
+      "portent",
+      "sign in the sky",
+      "warning dream",
+      "預兆",
+      "徵兆",
+      "吉兆",
+      "凶兆"
+    ]
+  },
+  {
+    "id": "festival",
+    "code": "A1545",
+    "name": {
+      "en": "Festival story",
+      "zh": "節慶故事"
+    },
+    "description": {
+      "en": "A narrative attached to a specific feast, carnival, or holy day.",
+      "zh": "附於特定節日、慶典或聖日的故事。"
+    },
+    "keywords": [
+      "festival",
+      "feast day",
+      "carnival",
+      "holy day",
+      "節慶",
+      "節日",
+      "慶典"
+    ]
+  },
+  {
+    "id": "festival-calendar",
+    "code": "A1545.1",
+    "name": {
+      "en": "Calendar of feasts",
+      "zh": "歲時節令"
+    },
+    "description": {
+      "en": "A story explains the annual cycle of feasts — why a rite falls when it does.",
+      "zh": "解釋一年節慶循環的故事——儀式為何定於其時。"
+    },
+    "keywords": [
+      "annual feast",
+      "calendar cycle",
+      "seasonal rite",
+      "new year rite",
+      "歲時節令",
+      "年節",
+      "歲事"
+    ]
+  },
+  {
+    "id": "dream-vision",
+    "code": "F081.1",
+    "name": {
+      "en": "Dream revelation",
+      "zh": "夢啟"
+    },
+    "description": {
+      "en": "Truth, instruction, or another world is revealed through a dream.",
+      "zh": "真理、教導或他界經由夢境顯現。"
+    },
+    "keywords": [
+      "dream",
+      "dreamed",
+      "in his sleep he saw",
+      "dream vision",
+      "夢啟",
+      "託夢",
+      "夢中"
+    ]
+  },
+  {
+    "id": "war",
+    "code": "A532.1",
+    "name": {
+      "en": "War of peoples",
+      "zh": "族群之戰"
+    },
+    "description": {
+      "en": "Large-scale warfare between peoples, clans, or cosmic factions — sky against earth, winter against summer.",
+      "zh": "族群、氏族或宇宙陣營間的大規模戰事——天與地、冬與夏之屬。"
+    },
+    "keywords": [
+      "war",
+      "battle of the",
+      "fought against",
+      "raid on",
+      "戰爭",
+      "交戰",
+      "征伐"
+    ]
+  },
+  {
+    "id": "faith-trial",
+    "code": "V212.1",
+    "name": {
+      "en": "Trial of faith",
+      "zh": "信心之試"
+    },
+    "description": {
+      "en": "Belief is weighed against fire, loss, or delay — the believer stands, wavers, or is restored.",
+      "zh": "信仰與火、失、遲延相權——信者立、搖或復立。"
+    },
+    "keywords": [
+      "trial of faith",
+      "tested",
+      "doubt",
+      "walked on",
+      "believed against",
+      "信心之試",
+      "信仰考驗",
+      "疑信"
+    ]
+  },
+  {
+    "id": "sacred-marriage",
+    "code": "T138.1",
+    "name": {
+      "en": "Mystical marriage",
+      "zh": "靈修婚配"
+    },
+    "description": {
+      "en": "The soul's union with the divine figured as marriage — bridal song, consecrated virgin, spouse of the Lamb.",
+      "zh": "靈魂與神之結合以婚配為喻——婚歌、獻身貞女、羔羊之配偶。"
+    },
+    "keywords": [
+      "mystical marriage",
+      "bride of",
+      "soul and the divine",
+      "Song of Songs",
+      "spiritual union",
+      "靈修婚配",
+      "神婚",
+      "淨配"
+    ]
+  },
+  {
+    "id": "folk-magic",
+    "code": "D900.1",
+    "name": {
+      "en": "Folk magic",
+      "zh": "民間法術"
+    },
+    "description": {
+      "en": "Everyday charm-work — love powders, mandrakes, knots, counter-spells of the hearth.",
+      "zh": "日常法術——情粉、曼德拉草、結繩、灶下解咒。"
+    },
+    "keywords": [
+      "folk magic",
+      "love charm",
+      "mandrake",
+      "counter-spell",
+      "knots",
+      "民間法術",
+      "媚藥",
+      "解咒"
+    ]
+  },
+  {
+    "id": "coyote-trickster",
+    "code": "G300.1",
+    "name": {
+      "en": "Coyote trickster",
+      "zh": "郊狼詭計者"
+    },
+    "description": {
+      "en": "Coyote as the cunning, boundary-breaking figure of North American lore.",
+      "zh": "郊狼作為北美傳說中狡黠越界的角色。"
+    },
+    "keywords": [
+      "coyote",
+      "coyote trickster",
+      "old man coyote",
+      "itcoode",
+      "郊狼",
+      "詭計者"
+    ]
+  },
+  {
+    "id": "rabbit-hare-trickster",
+    "code": "G300.2",
+    "name": {
+      "en": "Rabbit / hare trickster",
+      "zh": "兔詭計者"
+    },
+    "description": {
+      "en": "Rabbit or hare as the small clever cheat who wins by wit and nerve.",
+      "zh": "兔子或野兔以機智與膽量取勝的狡黠角色。"
+    },
+    "keywords": [
+      "rabbit",
+      "hare",
+      "br'er rabbit",
+      "rabbit trickster",
+      "兔",
+      "野兔",
+      "詭計者"
+    ]
+  },
+  {
+    "id": "spider-trickster",
+    "code": "G300.3",
+    "name": {
+      "en": "Spider trickster",
+      "zh": "蜘蛛詭計者"
+    },
+    "description": {
+      "en": "Anansi and the spider as weaver of schemes and keeper of stories.",
+      "zh": "蜘蛛（南西）織網設局、執掌故事的角色。"
+    },
+    "keywords": [
+      "spider",
+      "anansi",
+      "anance",
+      "nancy",
+      "蜘蛛",
+      "南西"
+    ]
+  },
+  {
+    "id": "tortoise-trickster",
+    "code": "G300.4",
+    "name": {
+      "en": "Tortoise / turtle trickster",
+      "zh": "龜詭計者"
+    },
+    "description": {
+      "en": "Tortoise or turtle as the slow, cunning figure who wins by patience and guile.",
+      "zh": "龜以耐心與狡計取勝的角色。"
+    },
+    "keywords": [
+      "tortoise",
+      "turtle",
+      "ijapa",
+      "yurugan",
+      "龜",
+      "詭計者"
+    ]
+  },
+  {
+    "id": "monkey-trickster",
+    "code": "G300.5",
+    "name": {
+      "en": "Monkey / ape trickster",
+      "zh": "猴詭計者"
+    },
+    "description": {
+      "en": "Monkey or ape as the restless clever mimic and cheat.",
+      "zh": "猴或猿好動狡黠、善於模仿取勝的角色。"
+    },
+    "keywords": [
+      "monkey",
+      "ape",
+      "macaque",
+      "猴",
+      "猿"
+    ]
+  },
+  {
+    "id": "jackal-fox-trickster",
+    "code": "G300.6",
+    "name": {
+      "en": "Jackal / fox trickster",
+      "zh": "豺狐詭計者"
+    },
+    "description": {
+      "en": "Jackal or fox as the smooth-talking deceiver of fable and folk-tale.",
+      "zh": "豺或狐以巧言誑語取勝的角色。"
+    },
+    "keywords": [
+      "jackal",
+      "fox",
+      "reynard",
+      "keket",
+      "豺",
+      "狐",
+      "狐狸"
+    ]
+  },
+  {
+    "id": "raven-trickster",
+    "code": "G300.7",
+    "name": {
+      "en": "Raven / crow trickster",
+      "zh": "鴉詭計者"
+    },
+    "description": {
+      "en": "Raven or crow as the dark-winged schemer who steals, mocks, and reshapes the world.",
+      "zh": "鴉以偷竊、譏弄與改易世界聞名。"
+    },
+    "keywords": [
+      "raven",
+      "crow",
+      "raven trickster",
+      "渡鴉",
+      "烏鴉"
+    ]
+  },
+  {
+    "id": "deceiver-deceived",
+    "code": "K981",
+    "name": {
+      "en": "The deceiver deceived",
+      "zh": "騙者受騙"
+    },
+    "description": {
+      "en": "The trickster is outtricked, caught in the snare he set, or paid back in kind.",
+      "zh": "詭計者反遭算計、自陷其阱或以彼之道還施彼身。"
+    },
+    "keywords": [
+      "outwitted",
+      "out-tricked",
+      "paid him back",
+      "caught in his own trap",
+      "deceiver deceived",
+      "騙者受騙",
+      "反遭其計"
+    ]
+  },
+  {
+    "id": "animal-transformation",
+    "code": "D110",
+    "name": {
+      "en": "Human-animal transformation",
+      "zh": "人獸互化"
+    },
+    "description": {
+      "en": "A person becomes an animal, or an animal becomes human, by curse, magic, or choice.",
+      "zh": "人化為獸或獸化為人，因詛咒、魔法或自願。"
+    },
+    "keywords": [
+      "became a bear",
+      "turned into a wolf",
+      "changed into a bird",
+      "shape-shift",
+      "人獸互化",
+      "化獸",
+      "化人"
+    ]
+  },
+  {
+    "id": "petrification",
+    "code": "D115",
+    "name": {
+      "en": "Turned to stone or tree",
+      "zh": "化石成木"
+    },
+    "description": {
+      "en": "A being is fixed forever as stone, salt, coral, pillar, or tree.",
+      "zh": "生命永遠定形為石、鹽、珊瑚、柱或樹。"
+    },
+    "keywords": [
+      "turned to stone",
+      "changed into a tree",
+      "pillar of salt",
+      "petrified",
+      "化石",
+      "成鹽柱",
+      "化樹"
+    ]
+  },
+  {
+    "id": "sky-translation",
+    "code": "A752.1",
+    "name": {
+      "en": "Translated to the sky",
+      "zh": "昇天化星"
+    },
+    "description": {
+      "en": "A person, animal, or object is set in the sky as sun, moon, star, or constellation.",
+      "zh": "人、獸或物被安置於天空，化為日、月、星辰。"
+    },
+    "keywords": [
+      "became the moon",
+      "set among the stars",
+      "placed in the sky",
+      "昇天化星",
+      "化為星辰"
+    ]
+  },
+  {
+    "id": "forbidden-look",
+    "code": "C700",
+    "name": {
+      "en": "Forbidden look",
+      "zh": "禁視"
+    },
+    "description": {
+      "en": "To look — at a god, a ghost, a sleeping spouse, or the forbidden thing — is destruction.",
+      "zh": "窺視——神、鬼、安寢之配偶或禁物——即毀滅。"
+    },
+    "keywords": [
+      "forbidden look",
+      "do not look back",
+      "saw the god",
+      "looked upon",
+      "禁視",
+      "不可回頭",
+      "偷看"
+    ]
+  },
+  {
+    "id": "forbidden-name",
+    "code": "C211",
+    "name": {
+      "en": "Forbidden name",
+      "zh": "名諱之禁"
+    },
+    "description": {
+      "en": "A name must not be spoken, known, or asked; naming breaks the spell or seals the doom.",
+      "zh": "其名不可言、不可知、不可問；呼名則破法或定厄。"
+    },
+    "keywords": [
+      "forbidden name",
+      "do not say the name",
+      "name taboo",
+      "true name",
+      "名諱之禁",
+      "不可呼名",
+      "真名"
+    ]
+  },
+  {
+    "id": "forbidden-food",
+    "code": "C400",
+    "name": {
+      "en": "Forbidden food",
+      "zh": "食禁"
+    },
+    "description": {
+      "en": "A food, fruit, or animal must not be eaten; the eating changes the eater forever.",
+      "zh": "某食、某果或某獸不可食；食之者終身改易。"
+    },
+    "keywords": [
+      "forbidden fruit",
+      "do not eat",
+      "ate of the tree",
+      "kosher",
+      "taboo food",
+      "食禁",
+      "禁果",
+      "不可食"
+    ]
+  },
+  {
+    "id": "forbidden-chamber",
+    "code": "C611",
+    "name": {
+      "en": "Forbidden chamber",
+      "zh": "禁室"
+    },
+    "description": {
+      "en": "One door, room, or chest must never be opened; curiosity opens it and the secret is out.",
+      "zh": "有一門、一室或一箱絕不可啟；好奇啟之，祕密盡洩。"
+    },
+    "keywords": [
+      "forbidden chamber",
+      "forbidden room",
+      "do not open",
+      "opened the door",
+      "禁室",
+      "禁門",
+      "不可開的房間"
+    ]
+  },
+  {
+    "id": "hunting-taboo",
+    "code": "C751.1",
+    "name": {
+      "en": "Hunting taboo",
+      "zh": "獵禁"
+    },
+    "description": {
+      "en": "Rules bind the hunter — which beast, when, how — and breaking them ends the luck or the life.",
+      "zh": "獵者受規所縛——何獸、何時、何法——犯之則運絕或身亡。"
+    },
+    "keywords": [
+      "hunting taboo",
+      "killed the sacred",
+      "game rules",
+      "never hunt",
+      "獵禁",
+      "狩獵禁忌",
+      "不可獵"
+    ]
+  },
+  {
+    "id": "broken-oath",
+    "code": "C317",
+    "name": {
+      "en": "Broken oath",
+      "zh": "背誓"
+    },
+    "description": {
+      "en": "A sworn promise is broken and the penalty falls — often catastrophically, on the swearer's house.",
+      "zh": "誓約被毀，刑罰臨頭——常慘烈至發誓者滿門。"
+    },
+    "keywords": [
+      "broken oath",
+      "swore and broke",
+      "violated the vow",
+      "perjury",
+      "背誓",
+      "毀約",
+      "誓"
+    ]
+  },
+  {
+    "id": "pride-punished",
+    "code": "Q281",
+    "name": {
+      "en": "Pride punished",
+      "zh": "驕者受懲"
+    },
+    "description": {
+      "en": "Hybris before gods, kings, or fate is answered with a fall.",
+      "zh": "在神、王或命運前的僭傲，終以傾覆償之。"
+    },
+    "keywords": [
+      "pride",
+      "hubris",
+      "boasted",
+      "too proud",
+      "haughty",
+      "驕者受懲",
+      "傲慢",
+      "自誇"
+    ]
+  },
+  {
+    "id": "deified-mortal",
+    "code": "A531.3",
+    "name": {
+      "en": "Mortal deified",
+      "zh": "凡人封神"
+    },
+    "description": {
+      "en": "A human is raised to divine rank — apotheosis, canonization, or enrollment in the celestial registry.",
+      "zh": "凡人升登神位——封神、封聖或名入仙籍。"
+    },
+    "keywords": [
+      "deified",
+      "made a god",
+      "canonized",
+      "apotheosis",
+      "封神",
+      "封聖",
+      "登仙"
+    ]
+  },
+  {
+    "id": "god-exile",
+    "code": "A546",
+    "name": {
+      "en": "Exiled deity",
+      "zh": "貶神"
+    },
+    "description": {
+      "en": "A deity is banished from heaven or the pantheon and must wander, descend, or die.",
+      "zh": "神祇被逐出天界或神統，流落、下凡或赴死。"
+    },
+    "keywords": [
+      "banished from heaven",
+      "cast out of",
+      "exiled god",
+      "fallen angel",
+      "貶神",
+      "逐出天界",
+      "謫仙"
+    ]
+  },
+  {
+    "id": "succession-struggle",
+    "code": "P12",
+    "name": {
+      "en": "Struggle for the throne",
+      "zh": "爭位"
+    },
+    "description": {
+      "en": "Brothers, sons, or generals contend for the crown — oracle, war, or craft decides.",
+      "zh": "兄弟、諸子或權將相爭王冠——以神諭、以戰或以計而定。"
+    },
+    "keywords": [
+      "succession",
+      "claimed the throne",
+      "usurper",
+      "heir",
+      "crown",
+      "爭位",
+      "奪位",
+      "繼承"
+    ]
+  },
+  {
+    "id": "just-ruler",
+    "code": "P115",
+    "name": {
+      "en": "Just ruler",
+      "zh": "仁政"
+    },
+    "description": {
+      "en": "The king who judges rightly, hears the poor, and keeps the oath — blessed in the land's increase.",
+      "zh": "王者斷讞以正、聽貧者之訴、守其誓——其土豐饒以報。"
+    },
+    "keywords": [
+      "just king",
+      "judged rightly",
+      "heard the poor",
+      "good ruler",
+      "仁政",
+      "明君",
+      "賢王"
+    ]
+  },
+  {
+    "id": "sacred-stone",
+    "code": "A960.1",
+    "name": {
+      "en": "Sacred stone or rock",
+      "zh": "神石"
+    },
+    "description": {
+      "en": "A stone or rock is holy — worshipped, oath-bound, or the mark of a deity's act.",
+      "zh": "石或磐成聖——受祀、立誓，或為神蹟之印。"
+    },
+    "keywords": [
+      "sacred stone",
+      "holy rock",
+      "standing stone",
+      "stone of the god",
+      "神石",
+      "聖石",
+      "立石"
+    ]
+  },
+  {
+    "id": "sacred-tree",
+    "code": "A960.2",
+    "name": {
+      "en": "Sacred tree or grove",
+      "zh": "神樹"
+    },
+    "description": {
+      "en": "A tree, grove, or forest is the seat or body of the divine.",
+      "zh": "樹、林或叢林為神靈之居或其身。"
+    },
+    "keywords": [
+      "sacred tree",
+      "holy grove",
+      "sacred forest",
+      "神樹",
+      "聖林",
+      "神木"
+    ]
+  },
+  {
+    "id": "sacred-mountain",
+    "code": "A960.3",
+    "name": {
+      "en": "Sacred mountain",
+      "zh": "神山"
+    },
+    "description": {
+      "en": "A mountain is divine — a god's home, throne, or buried body.",
+      "zh": "山為神居、神座或神軀之葬所。"
+    },
+    "keywords": [
+      "sacred mountain",
+      "holy mount",
+      "mountain of the god",
+      "神山",
+      "聖山"
+    ]
+  },
+  {
+    "id": "sacred-waters",
+    "code": "A960.4",
+    "name": {
+      "en": "Sacred waters",
+      "zh": "聖水"
+    },
+    "description": {
+      "en": "A river, spring, lake, or well is holy — healing, oracular, or divine.",
+      "zh": "河、泉、湖或井為聖——療癒、神諭或屬神。"
+    },
+    "keywords": [
+      "sacred river",
+      "holy spring",
+      "sacred lake",
+      "healing well",
+      "聖水",
+      "聖泉",
+      "聖河"
+    ]
+  },
+  {
+    "id": "animal-fable",
+    "code": "B500",
+    "name": {
+      "en": "Animal fable",
+      "zh": "獸寓"
+    },
+    "description": {
+      "en": "Animals act out a moral lesson — the fable's point is the teaching.",
+      "zh": "動物演出道德之課——寓言所指即是教訓。"
+    },
+    "keywords": [
+      "fable",
+      "the lion and the",
+      "the ant and the",
+      "moral of the",
+      "獸寓",
+      "寓言",
+      "動物故事"
+    ]
+  },
+  {
+    "id": "wu-wei",
+    "code": "Z801",
+    "name": {
+      "en": "Effortless action (wu-wei)",
+      "zh": "無為"
+    },
+    "description": {
+      "en": "The power of not-forcing — skill that works by yielding, spontaneity, and uselessness kept.",
+      "zh": "不強為之力——以柔順、自然與守其無用而成事。"
+    },
+    "keywords": [
+      "wu-wei",
+      "non-action",
+      "did nothing",
+      "uselessness",
+      "no-striving",
+      "無為",
+      "不爭",
+      "無用之用"
+    ]
+  },
+  {
+    "id": "origin-agriculture",
+    "code": "A2533",
+    "name": {
+      "en": "Origin of agriculture",
+      "zh": "農耕起源"
+    },
+    "description": {
+      "en": "How humans learned to till, sow, and harvest — a civilizing gift or a theft.",
+      "zh": "人類如何習得耕種收穫——文明之賜或竊取而來。"
+    },
+    "keywords": [
+      "taught agriculture",
+      "first seeds",
+      "plow",
+      "harvest origin",
+      "grain goddess",
+      "農耕起源",
+      "教民耕種"
+    ]
+  },
+  {
+    "id": "origin-of-evil",
+    "code": "A1334",
+    "name": {
+      "en": "Origin of evil",
+      "zh": "罪惡之始"
+    },
+    "description": {
+      "en": "How evil, suffering, or misfortune first entered the world.",
+      "zh": "邪惡、苦難或厄運如何最初入世。"
+    },
+    "keywords": [
+      "origin of evil",
+      "first sin",
+      "sorrow came into",
+      "Pandora",
+      "fall of man",
+      "罪惡之始",
+      "苦難之始",
+      "墮落"
+    ]
+  },
+  {
+    "id": "golden-age",
+    "code": "A928",
+    "name": {
+      "en": "Golden age",
+      "zh": "黃金時代"
+    },
+    "description": {
+      "en": "A first era of ease, plenty, and closeness to the divine, lost by decline or transgression.",
+      "zh": "初始的安樂豐足、親近神明之世，因墮落或犯禁而失去。"
+    },
+    "keywords": [
+      "golden age",
+      "age of gold",
+      "Eden",
+      "paradise",
+      "Saturn's reign",
+      "黃金時代",
+      "伊甸",
+      "樂園"
+    ]
+  },
+  {
+    "id": "world-ages",
+    "code": "A1152.3",
+    "name": {
+      "en": "Ages of the world",
+      "zh": "世界紀元"
+    },
+    "description": {
+      "en": "The world runs through successive named eras, each ending in decline or destruction.",
+      "zh": "世界依序經歷諸紀元，每一紀元皆以衰敗或毀滅告終。"
+    },
+    "keywords": [
+      "yuga",
+      "four ages",
+      "iron age",
+      "sun of the",
+      "kalpa",
+      "紀元",
+      "劫",
+      "尤伽",
+      "四時代"
+    ]
+  },
+  {
+    "id": "first-ancestors",
+    "code": "A1260",
+    "name": {
+      "en": "First ancestors",
+      "zh": "始祖"
+    },
+    "description": {
+      "en": "The first couple or founding ancestors from whom a people, lineage, or humankind descends.",
+      "zh": "一族、一系或全人類所自出的最初夫婦或始祖。"
+    },
+    "keywords": [
+      "first ancestors",
+      "first man and woman",
+      "Adam and Eve",
+      "primordial couple",
+      "始祖",
+      "最初的人",
+      "元祖"
+    ]
+  },
+  {
+    "id": "fire-origin",
+    "code": "A1414.1",
+    "name": {
+      "en": "Origin of fire",
+      "zh": "火之起源"
+    },
+    "description": {
+      "en": "How fire first came to humankind — found, given, carried, or rescued.",
+      "zh": "火如何最初降於人間——被尋得、被賜、被攜或被救。"
+    },
+    "keywords": [
+      "origin of fire",
+      "first fire",
+      "brought fire",
+      "how fire came",
+      "火之起源",
+      "取火",
+      "傳火"
+    ]
+  },
+  {
+    "id": "origin-water",
+    "code": "A2521",
+    "name": {
+      "en": "Origin of rivers and springs",
+      "zh": "江河泉源"
+    },
+    "description": {
+      "en": "A story explains where a river, spring, or lake comes from — often a footprint, tears, or a strike of the staff.",
+      "zh": "解釋江河泉湖之由來——常出自足印、淚水或杖擊。"
+    },
+    "keywords": [
+      "origin of the river",
+      "struck the rock",
+      "spring arose",
+      "flooded from",
+      "江河泉源",
+      "泉之由來"
+    ]
+  },
+  {
+    "id": "origin-medicine",
+    "code": "A2550.1",
+    "name": {
+      "en": "Origin of medicine",
+      "zh": "醫藥起源"
+    },
+    "description": {
+      "en": "How healing knowledge, herbs, or rites of cure first came to humankind.",
+      "zh": "療癒之知、藥草或治病之儀如何最初傳於人間。"
+    },
+    "keywords": [
+      "origin of medicine",
+      "healing gift",
+      "first remedy",
+      "medicine from",
+      "醫藥起源",
+      "療病之始"
+    ]
+  },
+  {
+    "id": "origin-language",
+    "code": "A1433",
+    "name": {
+      "en": "Confusion of tongues",
+      "zh": "變亂口音"
+    },
+    "description": {
+      "en": "The many languages of humankind originate in a divine scattering or punishment.",
+      "zh": "人類眾多語言起源於神之驅散或懲罰。"
+    },
+    "keywords": [
+      "confusion of tongues",
+      "Babel",
+      "different languages",
+      "scattered abroad",
+      "變亂口音",
+      "語言之由來"
+    ]
+  },
+  {
+    "id": "sacrifice-origin",
+    "code": "C50.1",
+    "name": {
+      "en": "Origin of sacrifice",
+      "zh": "獻祭之始"
+    },
+    "description": {
+      "en": "A myth explains how sacrifice or offering to the divine began.",
+      "zh": "神話解釋獻祭或供奉之起源。"
+    },
+    "keywords": [
+      "origin of sacrifice",
+      "first sacrifice",
+      "instituted the offering",
+      "獻祭之始",
+      "祭祀起源",
+      "初祭"
+    ]
+  },
+  {
+    "id": "prayer",
+    "code": "V310.1",
+    "name": {
+      "en": "Prayer",
+      "zh": "祈禱"
+    },
+    "description": {
+      "en": "Address to the divine — petition, praise, or lament — and its answer or silence.",
+      "zh": "向神之呼求——懇、頌或哀——及其應允或沉默。"
+    },
+    "keywords": [
+      "prayer",
+      "prayed",
+      "called upon",
+      "petition",
+      "psalm",
+      "祈禱",
+      "禱告",
+      "祈求"
+    ]
+  },
+  {
+    "id": "chant-mantra",
+    "code": "D1351.1",
+    "name": {
+      "en": "Sacred chant",
+      "zh": "誦持"
+    },
+    "description": {
+      "en": "Repeated syllables, names, or sutras recited for protection, memory, or the dead.",
+      "zh": "持誦真言、名號或經文，以求護佑、憶持或度亡。"
+    },
+    "keywords": [
+      "mantra",
+      "recited",
+      "chanted",
+      "said the name",
+      "nembutsu",
+      "誦持",
+      "持咒",
+      "念經"
+    ]
+  },
+  {
+    "id": "doom-foretold",
+    "code": "N175",
+    "name": {
+      "en": "Doom foretold",
+      "zh": "預言成讖"
+    },
+    "description": {
+      "en": "A prophecy of ruin comes true precisely because or despite every attempt to avert it.",
+      "zh": "傾覆之讖終成——正因或縱使百般迴避。"
+    },
+    "keywords": [
+      "prophecy",
+      "foretold",
+      "it was fated",
+      "oracle said",
+      "cannot escape fate",
+      "預言成讖",
+      "命定",
+      "讖語"
+    ]
+  },
+  {
+    "id": "ghost-return",
+    "code": "E321.1",
+    "name": {
+      "en": "Return of the dead",
+      "zh": "亡者歸來"
+    },
+    "description": {
+      "en": "A dead person returns to the living — to warn, demand, console, or haunt.",
+      "zh": "亡者返歸生者之間——為警示、索求、撫慰或纏擾。"
+    },
+    "keywords": [
+      "ghost",
+      "returned from the dead",
+      "apparition",
+      "haunted",
+      "appeared to",
+      "亡者歸來",
+      "顯靈",
+      "幽魂"
+    ]
+  },
+  {
+    "id": "reincarnation",
+    "code": "E710",
+    "name": {
+      "en": "Reincarnation",
+      "zh": "轉生"
+    },
+    "description": {
+      "en": "A soul returns in a new body, human or animal, carrying memory, skill, or debt.",
+      "zh": "靈魂攜記憶、技藝或業債，托生新軀——人或畜。"
+    },
+    "keywords": [
+      "reincarnation",
+      "reborn as",
+      "reborn in",
+      "transmigration",
+      "轉生",
+      "輪迴轉世",
+      "托生"
+    ]
+  },
+  {
+    "id": "judgment-of-souls",
+    "code": "E462.1",
+    "name": {
+      "en": "Weighing of the soul",
+      "zh": "秤心審魂"
+    },
+    "description": {
+      "en": "The dead are judged — heart weighed against a feather, book of deeds opened, scales of karma.",
+      "zh": "亡者受審——心與羽同秤、行為之書展開、業秤計量。"
+    },
+    "keywords": [
+      "weighing of the heart",
+      "judged the dead",
+      "book of deeds",
+      "scales of",
+      "秤心",
+      "審判亡者",
+      "業鏡"
+    ]
+  },
+  {
+    "id": "elixir-life",
+    "code": "D1340",
+    "name": {
+      "en": "Elixir of life",
+      "zh": "不死藥"
+    },
+    "description": {
+      "en": "A potion, herb, or pill grants agelessness or restores the dead — usually lost or stolen.",
+      "zh": "藥液、仙草或丹丸賜不老或復生——常遭失落或被盜。"
+    },
+    "keywords": [
+      "elixir",
+      "elixir of life",
+      "water of life",
+      "peach of immortality",
+      "amrita",
+      "不死藥",
+      "長生藥",
+      "仙丹"
+    ]
+  },
+  {
+    "id": "birth-plant",
+    "code": "A1273.1",
+    "name": {
+      "en": "Born from tree or plant",
+      "zh": "樹木生人"
+    },
+    "description": {
+      "en": "A person is born from, or cut out of, a tree, bamboo, melon, or gourd.",
+      "zh": "人自樹、竹、瓜或葫蘆生出或剖出。"
+    },
+    "keywords": [
+      "born of the bamboo",
+      "from the melon",
+      "cut open the gourd",
+      "樹木生人",
+      "竹生",
+      "瓜生"
+    ]
+  },
+  {
+    "id": "birth-stone-egg",
+    "code": "T542.1",
+    "name": {
+      "en": "Born from egg or stone",
+      "zh": "卵石生人"
+    },
+    "description": {
+      "en": "A hero or being hatches from an egg or is born of stone or rock.",
+      "zh": "英雄或生靈自卵孵出，或自石生。"
+    },
+    "keywords": [
+      "born from an egg",
+      "hatched",
+      "born of stone",
+      "石生",
+      "卵生"
+    ]
+  },
+  {
+    "id": "virgin-birth",
+    "code": "T547.1",
+    "name": {
+      "en": "Virgin / fatherless birth",
+      "zh": "處女生子"
+    },
+    "description": {
+      "en": "A child is conceived without a father — by spirit, dream, fruit, or light.",
+      "zh": "子因神靈、夢、果或光而孕，無父而生。"
+    },
+    "keywords": [
+      "virgin",
+      "without a father",
+      "conceived by the spirit",
+      "no husband",
+      "處女生子",
+      "感孕"
+    ]
+  },
+  {
+    "id": "twin-heroes",
+    "code": "T590.1",
+    "name": {
+      "en": "Twin heroes",
+      "zh": "雙生英雄"
+    },
+    "description": {
+      "en": "Paired hero siblings — twins who complement, quarrel, or slay monsters together.",
+      "zh": "成對的英雄手足——雙生子互補、相爭或合力誅怪。"
+    },
+    "keywords": [
+      "hero twins",
+      "twin brothers",
+      "Hero Twins",
+      "Ashvins",
+      "Ibeji",
+      "雙生英雄",
+      "孿生英雄",
+      "雙子"
+    ]
+  },
+  {
+    "id": "god-disguise",
+    "code": "A180.1",
+    "name": {
+      "en": "Deity in disguise",
+      "zh": "神祇易容"
+    },
+    "description": {
+      "en": "A god walks among mortals unrecognized — as beggar, animal, or stranger.",
+      "zh": "神祇化身為乞丐、動物或旅人，混跡人間而不被識破。"
+    },
+    "keywords": [
+      "god in disguise",
+      "walked among men",
+      "entertained angels unaware",
+      "Odysseus Athena",
+      "神祇易容",
+      "化身人間"
+    ]
+  },
+  {
+    "id": "god-descends",
+    "code": "A202.1",
+    "name": {
+      "en": "God descends to earth",
+      "zh": "神臨人間"
+    },
+    "description": {
+      "en": "A deity comes down to the human world — to walk, judge, dwell, or help.",
+      "zh": "神祇下臨人世——行走、審斷、居留或扶助。"
+    },
+    "keywords": [
+      "came down to earth",
+      "descended to",
+      "walked among",
+      "came to dwell",
+      "神臨人間",
+      "降世"
+    ]
+  },
+  {
+    "id": "theoxenia",
+    "code": "Q221.1",
+    "name": {
+      "en": "God received as guest",
+      "zh": "神客之禮"
+    },
+    "description": {
+      "en": "The divine arrives in disguise as a guest; hospitality is tested and repaid.",
+      "zh": "神以客身隱至；款待受試而得報。"
+    },
+    "keywords": [
+      "entertained angels unaware",
+      "entertained the gods",
+      "hospitality rewarded",
+      "神客之禮",
+      "待客",
+      "款待"
+    ]
+  },
+  {
+    "id": "elopement",
+    "code": "T95.2",
+    "name": {
+      "en": "Elopement",
+      "zh": "私奔"
+    },
+    "description": {
+      "en": "Lovers flee together against family or kingdom, pursued across the land.",
+      "zh": "有情人違逆家國私奔，被追逃於途。"
+    },
+    "keywords": [
+      "eloped",
+      "elopement",
+      "fled with",
+      "ran away with",
+      "私奔",
+      "私逃"
+    ]
+  },
+  {
+    "id": "descent-rescue",
+    "code": "A736.1",
+    "name": {
+      "en": "Descent to fetch back the dead",
+      "zh": "下冥索人"
+    },
+    "description": {
+      "en": "A living person descends to the underworld to bring back a beloved dead one.",
+      "zh": "生者下冥府，欲帶回所愛之亡者。"
+    },
+    "keywords": [
+      "descended to bring back",
+      "fetch from the dead",
+      "rescue from the underworld",
+      "下冥索人",
+      "贖亡"
+    ]
+  },
+  {
+    "id": "city-founding",
+    "code": "A960.5",
+    "name": {
+      "en": "Founding of a city or dynasty",
+      "zh": "建城立國"
+    },
+    "description": {
+      "en": "A story tells how a city, town, capital, or dynasty was founded or named.",
+      "zh": "講述城邑、都城或王朝建立或得名之由來。"
+    },
+    "keywords": [
+      "founded the city",
+      "founding of",
+      "named the town",
+      "dynasty founded",
+      "建城",
+      "立國",
+      "開國"
+    ]
+  },
+  {
+    "id": "island-otherworld",
+    "code": "F112.1",
+    "name": {
+      "en": "Blessed island otherworld",
+      "zh": "海島福地"
+    },
+    "description": {
+      "en": "The otherworld lies on an island or across the sea — isles of the blest, land of youth.",
+      "zh": "彼岸位於海島或海外——福島、不老之鄉。"
+    },
+    "keywords": [
+      "island of the blessed",
+      "land of youth",
+      "isles of the blest",
+      "海島福地",
+      "福島",
+      "不老鄉"
+    ]
+  },
+  {
+    "id": "undersea-realm",
+    "code": "F113.1",
+    "name": {
+      "en": "Kingdom beneath the sea",
+      "zh": "海底龍宮"
+    },
+    "description": {
+      "en": "A palace or kingdom lies under the sea — dragon king, sea god, sunken realm.",
+      "zh": "宮殿或王國位於海底——龍王、海神、沉沒之國。"
+    },
+    "keywords": [
+      "dragon palace",
+      "sea king",
+      "under the sea",
+      "sunken kingdom",
+      "海底龍宮",
+      "龍宮",
+      "海國"
+    ]
+  },
+  {
+    "id": "world-fire",
+    "code": "A1015",
+    "name": {
+      "en": "Conflagration",
+      "zh": "天火焚世"
+    },
+    "description": {
+      "en": "Fire from sky or below burns the world to ash.",
+      "zh": "自天而降或自地而起的烈火把世界燒為灰燼。"
+    },
+    "keywords": [
+      "world fire",
+      "burned the world",
+      "Surt",
+      "fiery destruction",
+      "天火",
+      "焚世",
+      "大火"
+    ]
+  },
+  {
+    "id": "last-battle",
+    "code": "A1081",
+    "name": {
+      "en": "Last battle",
+      "zh": "末日之戰"
+    },
+    "description": {
+      "en": "Gods, heroes, and monsters meet in a final battle at the end of the world.",
+      "zh": "世界終末之際，諸神、英雄與怪物決戰。"
+    },
+    "keywords": [
+      "last battle",
+      "Ragnarok",
+      "Armageddon",
+      "final war",
+      "Kurukshetra",
+      "末日之戰",
+      "諸神黃昏",
+      "末世決戰"
+    ]
+  },
+  {
+    "id": "day-of-judgment",
+    "code": "V660",
+    "name": {
+      "en": "Day of judgment",
+      "zh": "末日審判"
+    },
+    "description": {
+      "en": "A final assize where the dead rise, deeds are read out, and souls are sorted.",
+      "zh": "終末大審——死人復起、功過宣讀、善惡分判。"
+    },
+    "keywords": [
+      "day of judgment",
+      "resurrection of the dead",
+      "last judgment",
+      "Qiyamah",
+      "末日審判",
+      "最後審判",
+      "復活"
+    ]
+  },
+  {
+    "id": "end-portents",
+    "code": "A998",
+    "name": {
+      "en": "Portents of the end",
+      "zh": "末日之兆"
+    },
+    "description": {
+      "en": "Signs foretell the world's ending — sun darkened, moon blooded, stars falling.",
+      "zh": "徵兆預示世界終局——日晦、月赤、眾星隕落。"
+    },
+    "keywords": [
+      "signs of the end",
+      "sun darkened",
+      "stars fell",
+      "moon turned to blood",
+      "末日之兆",
+      "天變",
+      "異象"
+    ]
+  },
+  {
+    "id": "cosmic-dissolution",
+    "code": "A1062",
+    "name": {
+      "en": "Dissolution of the world",
+      "zh": "劫滅"
+    },
+    "description": {
+      "en": "The cosmos dissolves back into its source at the end of an age, awaiting re-creation.",
+      "zh": "紀元終末，宇宙返歸本源，以待再造。"
+    },
+    "keywords": [
+      "pralaya",
+      "dissolution",
+      "end of the age",
+      "universe dissolved",
+      "劫滅",
+      "歸墟",
+      "壞劫"
+    ]
+  },
+  {
+    "id": "sun-devoured",
+    "code": "A631.1",
+    "name": {
+      "en": "Sun or moon devoured",
+      "zh": "日月被吞"
+    },
+    "description": {
+      "en": "A monster or being swallows the sun or moon — the eclipse explained and undone.",
+      "zh": "怪物吞食日月——蝕之由來與解救。"
+    },
+    "keywords": [
+      "eclipse",
+      "rahu",
+      "swallowed the sun",
+      "swallowed the moon",
+      "日月被吞",
+      "日蝕",
+      "月蝕"
+    ]
+  },
+  {
+    "id": "heaven-earth-sky-war",
+    "code": "A661",
+    "name": {
+      "en": "Sky people against earth people",
+      "zh": "天人交戰"
+    },
+    "description": {
+      "en": "The sky-dwellers and earth-dwellers go to war; chains of arrows, ladders, or ropes bridge the gulf.",
+      "zh": "天民與地民交戰；以箭鏈、天梯或繩索跨越天淵。"
+    },
+    "keywords": [
+      "sky people",
+      "chain of arrows",
+      "war against the sky",
+      "ladder to heaven",
+      "天人交戰",
+      "箭鏈",
+      "天梯"
+    ]
+  },
+  {
+    "id": "sky-earth-separation",
+    "code": "A637",
+    "name": {
+      "en": "Separation of sky and earth",
+      "zh": "天地分離"
+    },
+    "description": {
+      "en": "Sky and earth, once joined, are forced apart to make room for the world.",
+      "zh": "原本相合的天地被強行分開，為世界騰出空間。"
+    },
+    "keywords": [
+      "separation of heaven and earth",
+      "pushed apart sky",
+      "lifted the sky",
+      "shu",
+      "天地分離",
+      "開天闢地",
+      "撐天"
+    ]
+  },
+  {
+    "id": "world-parents",
+    "code": "A642",
+    "name": {
+      "en": "Sky father and earth mother",
+      "zh": "天父地母"
+    },
+    "description": {
+      "en": "Heaven and earth personified as parents whose union or parting generates the world.",
+      "zh": "天與地化身為父母，其結合或離異孕育世界。"
+    },
+    "keywords": [
+      "sky father",
+      "earth mother",
+      "heaven and earth",
+      "Geb",
+      "Nut",
+      "Izanagi",
+      "Izanami",
+      "天父地母",
+      "天地父母"
+    ]
+  },
+  {
+    "id": "world-tree",
+    "code": "A755.1",
+    "name": {
+      "en": "World tree",
+      "zh": "世界樹"
+    },
+    "description": {
+      "en": "A great tree links the layers of the cosmos — roots below, crown in heaven.",
+      "zh": "巨樹貫連宇宙諸層——根在下界，冠入天界。"
+    },
+    "keywords": [
+      "world tree",
+      "Yggdrasil",
+      "axis of the world",
+      "cosmic tree",
+      "ceiba",
+      "世界樹",
+      "宇宙樹",
+      "建木"
+    ]
+  },
+  {
+    "id": "cosmic-mountain",
+    "code": "A765",
+    "name": {
+      "en": "Cosmic center mountain",
+      "zh": "宇宙中心山"
+    },
+    "description": {
+      "en": "A mountain stands at the center of the world, joining heaven, earth, and below.",
+      "zh": "一山居世界之中央，上通天、下達淵。"
+    },
+    "keywords": [
+      "center of the world",
+      "axis mundi",
+      "Mount Meru",
+      "Olympus",
+      "Kunlun",
+      "宇宙中心",
+      "須彌山",
+      "崑崙"
+    ]
+  },
+  {
+    "id": "earth-diver",
+    "code": "A812.1",
+    "name": {
+      "en": "Earth-diver",
+      "zh": "潛水取土"
+    },
+    "description": {
+      "en": "An animal dives into the primeval water and brings up the first soil of the world.",
+      "zh": "動物潛入原初之水，銜出世界最初的一抔土。"
+    },
+    "keywords": [
+      "earth diver",
+      "dived for mud",
+      "brought up earth",
+      "mud turtle",
+      "beaver",
+      "muskrat",
+      "潛水取土",
+      "取泥"
+    ]
+  },
+  {
+    "id": "emergence-from-earth",
+    "code": "A645.1",
+    "name": {
+      "en": "Emergence from the lower world",
+      "zh": "自下界昇出"
+    },
+    "description": {
+      "en": "A people climb up from lower worlds through a hole, cave, or reed to reach this world.",
+      "zh": "一族人經由洞穴、蘆葦或孔道自下層世界攀昇至此世。"
+    },
+    "keywords": [
+      "emerged from",
+      "climbed up through",
+      "sipapu",
+      "lower world",
+      "four worlds",
+      "昇出",
+      "下界",
+      "洞穴出世"
+    ]
+  },
+  {
+    "id": "creation-word",
+    "code": "A652.1",
+    "name": {
+      "en": "Creation by the word",
+      "zh": "以言創世"
+    },
+    "description": {
+      "en": "The world comes into being when a divine word is spoken or sung.",
+      "zh": "神言之出，世界乃成。"
+    },
+    "keywords": [
+      "God said",
+      "spoke the world",
+      "sung into being",
+      "let there be",
+      "道生",
+      "以言創世",
+      "神說"
+    ]
+  },
+  {
+    "id": "creation-light",
+    "code": "A635",
+    "name": {
+      "en": "First light",
+      "zh": "第一道光"
+    },
+    "description": {
+      "en": "Primordial darkness is broken by the first light, day, or sunrise.",
+      "zh": "原初黑暗被第一道光、白晝或初陽打破。"
+    },
+    "keywords": [
+      "first light",
+      "primordial darkness",
+      "let there be light",
+      "first dawn",
+      "第一道光",
+      "原初黑暗",
+      "破曉"
+    ]
+  },
+  {
+    "id": "primeval-waters",
+    "code": "A830",
+    "name": {
+      "en": "Primeval waters",
+      "zh": "原初之水"
+    },
+    "description": {
+      "en": "Before the world, all is a boundless ocean from which creation rises.",
+      "zh": "世界之前唯為無垠大海，創造自水中升起。"
+    },
+    "keywords": [
+      "primeval waters",
+      "primordial ocean",
+      "Nun",
+      "te fiti",
+      "face of the deep",
+      "原初之水",
+      "混沌海",
+      "大水"
+    ]
+  },
+  {
+    "id": "chaos-monster",
+    "code": "A611.2",
+    "name": {
+      "en": "Primordial chaos monster",
+      "zh": "原初混沌怪物"
+    },
+    "description": {
+      "en": "Chaos is figured as a sea monster or dragon that must be subdued before the world can be ordered.",
+      "zh": "混沌化身為海怪或巨龍，必先制服之，世界方能有序。"
+    },
+    "keywords": [
+      "Tiamat",
+      "Leviathan",
+      "Rahab",
+      "Yam",
+      "chaos dragon",
+      "混沌怪物",
+      "海怪",
+      "原初巨龍"
+    ]
+  },
+  {
+    "id": "creation-contest",
+    "code": "A625",
+    "name": {
+      "en": "Rival creators",
+      "zh": "造物相爭"
+    },
+    "description": {
+      "en": "Two beings vie in making the world; one's work is flawed, ruined, or evil.",
+      "zh": "二者競相造世；一方的造物有缺陷、被毀或為惡。"
+    },
+    "keywords": [
+      "rival creator",
+      "evil twin creator",
+      "spoiled the creation",
+      "competed to create",
+      "造物相爭",
+      "惡神造物"
+    ]
+  },
+  {
+    "id": "pantheon-war",
+    "code": "A532",
+    "name": {
+      "en": "War of the gods",
+      "zh": "神戰"
+    },
+    "description": {
+      "en": "Factions of deities fight for cosmic rule — Titans, giants, devas and asuras, Aesir and Vanir.",
+      "zh": "神祇分派爭奪宇宙統轄——泰坦、阿修羅、阿薩與華納之屬。"
+    },
+    "keywords": [
+      "war of the gods",
+      "Titanomachy",
+      "devas and asuras",
+      "Aesir and Vanir",
+      "giants fought the gods",
+      "神戰",
+      "諸神之戰",
+      "天魔大戰"
+    ]
+  },
+  {
+    "id": "divine-council",
+    "code": "A170.1",
+    "name": {
+      "en": "Council of the gods",
+      "zh": "神議"
+    },
+    "description": {
+      "en": "The deities assemble to deliberate, judge, or decide the fate of humans and worlds.",
+      "zh": "諸神聚議，裁斷人間與世界的命運。"
+    },
+    "keywords": [
+      "council of the gods",
+      "assembled the gods",
+      "heavenly court",
+      "divine assembly",
+      "神議",
+      "眾神聚會",
+      "朝議"
+    ]
+  },
+  {
+    "id": "divine-retribution",
+    "code": "A460",
+    "name": {
+      "en": "Divine punishment",
+      "zh": "天罰"
+    },
+    "description": {
+      "en": "Heaven strikes down the impious, proud, or oath-breaking — flood, fire, stone, or ruin.",
+      "zh": "上天擊罰不敬、驕傲或背誓者——以洪水、天火、飛石或傾覆。"
+    },
+    "keywords": [
+      "punished by",
+      "heaven struck",
+      "destruction of the wicked",
+      "wrath of",
+      "天罰",
+      "天譴",
+      "懲罰"
+    ]
+  },
+  {
+    "id": "plague-sent",
+    "code": "A460.1",
+    "name": {
+      "en": "Plague sent",
+      "zh": "降疫"
+    },
+    "description": {
+      "en": "Plague, pestilence, or famine descends as a divine weapon or punishment.",
+      "zh": "瘟疫、疾疫或饑饉作為神之武器或懲罰而降。"
+    },
+    "keywords": [
+      "plague",
+      "pestilence",
+      "famine sent",
+      "ten plagues",
+      "frogs",
+      "locusts",
+      "降疫",
+      "瘟疫",
+      "十災"
+    ]
+  },
+  {
+    "id": "offended-deity",
+    "code": "A461.1",
+    "name": {
+      "en": "Offended deity",
+      "zh": "瀆神招禍"
+    },
+    "description": {
+      "en": "A deity, neglected in duty or slighted in pride, brings misfortune until the offense is repaired.",
+      "zh": "神祇因職守被怠或驕慢被侮而降禍，直至補過方止。"
+    },
+    "keywords": [
+      "offended the god",
+      "neglected the rite",
+      "anger of the deity",
+      "sacrilege",
+      "瀆神",
+      "失祭",
+      "觸怒神明"
+    ]
+  },
+  {
+    "id": "celestial-bureaucracy",
+    "code": "A545.1",
+    "name": {
+      "en": "Heaven as bureaucracy",
+      "zh": "天庭官制"
+    },
+    "description": {
+      "en": "The divine world is ordered as a court or bureaucracy — ranks, registries, petitions, promotions.",
+      "zh": "神界如朝堂官府般運作——有品秩、簿籍、奏請與升遷。"
+    },
+    "keywords": [
+      "celestial court",
+      "heavenly bureaucracy",
+      "Jade Emperor",
+      "ledger of the dead",
+      "heavenly registry",
+      "天庭",
+      "天官",
+      "生死簿"
+    ]
+  },
+  {
+    "id": "incarnation-avatar",
+    "code": "A517.1",
+    "name": {
+      "en": "Divine incarnation",
+      "zh": "化身下凡"
+    },
+    "description": {
+      "en": "A high god takes embodiment — avatar, bodhisattva descent, or god made flesh — for a redemptive purpose.",
+      "zh": "至上神取肉身或應身——化身、菩薩降世或道成肉身——以行救度。"
+    },
+    "keywords": [
+      "avatar",
+      "incarnation",
+      "made flesh",
+      "descent of the deity",
+      "化身下凡",
+      "應身",
+      "道成肉身"
+    ]
+  },
+  {
+    "id": "helpful-animal",
+    "code": "B400",
+    "name": {
+      "en": "Helpful animal",
+      "zh": "義獸相助"
+    },
+    "description": {
+      "en": "An animal aids the hero — carries, feeds, warns, or gives its life.",
+      "zh": "獸襄助英雄——載之、飼之、警之，或以命相報。"
+    },
+    "keywords": [
+      "helpful animal",
+      "the horse said",
+      "the bird helped",
+      "animal guide",
+      "義獸相助",
+      "獸助",
+      "靈獸"
+    ]
+  },
+  {
+    "id": "talking-animal",
+    "code": "B211",
+    "name": {
+      "en": "Talking animal",
+      "zh": "獸言"
+    },
+    "description": {
+      "en": "An animal speaks — counsel, warning, or complaint — to those who can hear.",
+      "zh": "獸出人言——進諫、示警或訴苦——聞者能聽。"
+    },
+    "keywords": [
+      "talking animal",
+      "the animal spoke",
+      "spoke to him",
+      "ass spoke",
+      "獸言",
+      "動物說話",
+      "獸語"
+    ]
+  },
+  {
+    "id": "animal-language",
+    "code": "B215.1",
+    "name": {
+      "en": "Understanding animal speech",
+      "zh": "通獸語"
+    },
+    "description": {
+      "en": "A gift, drug, or accident lets one hear what beasts, birds, or fish say.",
+      "zh": "因恩賜、靈藥或機緣，得聞獸、鳥、魚之所言。"
+    },
+    "keywords": [
+      "understand animals",
+      "language of birds",
+      "heard the",
+      "could speak with",
+      "通獸語",
+      "鳥語",
+      "知魚語"
+    ]
+  },
+  {
+    "id": "bird-messenger",
+    "code": "B221.1",
+    "name": {
+      "en": "Bird messenger",
+      "zh": "飛鳥傳信"
+    },
+    "description": {
+      "en": "A bird carries word — dove, raven, crow, eagle — between far worlds.",
+      "zh": "飛鳥——鴿、鴉、渡鳥、鷹——往來遠界傳信。"
+    },
+    "keywords": [
+      "bird messenger",
+      "sent the dove",
+      "raven",
+      "crow",
+      "eagle brought",
+      "飛鳥傳信",
+      "遣鴿",
+      "烏鴉"
+    ]
+  },
+  {
+    "id": "fish-swallow",
+    "code": "B872",
+    "name": {
+      "en": "Swallowed by the fish",
+      "zh": "葬身魚腹"
+    },
+    "description": {
+      "en": "A man or god is swallowed by a great fish or whale and lives inside it, then is vomited out.",
+      "zh": "人或神為巨魚鯨所吞，居其腹中而後得吐出。"
+    },
+    "keywords": [
+      "swallowed by the fish",
+      "whale",
+      "belly of the",
+      "three days and nights",
+      "葬身魚腹",
+      "吞入",
+      "鯨腹"
+    ]
+  },
+  {
+    "id": "serpent-guardian",
+    "code": "B77.1",
+    "name": {
+      "en": "Serpent guardian",
+      "zh": "蛇守"
+    },
+    "description": {
+      "en": "A serpent or dragon guards treasure, spring, or sacred place and must be faced or fed.",
+      "zh": "蛇或龍守寶、守泉或守聖地，須與之對決或饗之。"
+    },
+    "keywords": [
+      "serpent guarded",
+      "dragon guards",
+      "snake of the spring",
+      "treasure keeper",
+      "蛇守",
+      "守寶之蛇",
+      "龍守"
+    ]
+  },
+  {
+    "id": "fire-ordeal",
+    "code": "M321.1",
+    "name": {
+      "en": "Ordeal of fire",
+      "zh": "火驗"
+    },
+    "description": {
+      "en": "Walking through fire, holding hot iron, or sitting in flame proves innocence or power.",
+      "zh": "行火、執烙鐵或坐焰，以證清白或神力。"
+    },
+    "keywords": [
+      "ordeal of fire",
+      "walked through fire",
+      "hot iron",
+      "flames did not",
+      "火驗",
+      "過火",
+      "烙鐵"
+    ]
+  },
+  {
+    "id": "water-ordeal",
+    "code": "M321.2",
+    "name": {
+      "en": "Ordeal of water",
+      "zh": "水驗"
+    },
+    "description": {
+      "en": "Drowning, floating, or crossing boiling water is the test that sorts true from false.",
+      "zh": "沉溺、浮起或涉沸湯之水，分真偽之驗。"
+    },
+    "keywords": [
+      "ordeal of water",
+      "thrown in the river",
+      "swam",
+      "boiling water",
+      "水驗",
+      "沉水",
+      "沸水"
+    ]
+  },
+  {
+    "id": "combat-ordeal",
+    "code": "M121",
+    "name": {
+      "en": "Trial by combat",
+      "zh": "決鬥定讞"
+    },
+    "description": {
+      "en": "A duel settles the disputed matter — heaven gives victory to the right.",
+      "zh": "以決鬥定爭端——上天以勝歸於義者。"
+    },
+    "keywords": [
+      "trial by combat",
+      "duel",
+      "single combat",
+      "fought the champion",
+      "決鬥定讞",
+      "比武",
+      "單挑"
+    ]
+  },
+  {
+    "id": "loyalty-test",
+    "code": "H1570.1",
+    "name": {
+      "en": "Test of loyalty",
+      "zh": "忠信之試"
+    },
+    "description": {
+      "en": "Heaven or lord demands the dearest thing — the son, the treasure, the truth — to prove the heart.",
+      "zh": "上天或君上索其至愛——其子、其財、其真——以驗其心。"
+    },
+    "keywords": [
+      "test of loyalty",
+      "prove",
+      "offered up",
+      "obedience",
+      "忠信之試",
+      "考驗",
+      "獻上"
+    ]
+  },
+  {
+    "id": "recognition-token",
+    "code": "H94.1",
+    "name": {
+      "en": "Token of recognition",
+      "zh": "相認信物"
+    },
+    "description": {
+      "en": "A scar, ring, or half-known tale proves identity across years or disguises.",
+      "zh": "一疤、一環或半述之往事，證明歲月或偽裝下的身份。"
+    },
+    "keywords": [
+      "recognition",
+      "token",
+      "knew him by",
+      "scar",
+      "proved who he was",
+      "相認信物",
+      "認親",
+      "驗明正身"
+    ]
+  },
+  {
+    "id": "wise-advice",
+    "code": "J100",
+    "name": {
+      "en": "Wise counsel",
+      "zh": "智言"
+    },
+    "description": {
+      "en": "A sage's counsel — heeded or ignored — turns the outcome; the proverb crystallizes after.",
+      "zh": "智者之諫——聽與不聽——扭轉結局；諺語其後凝成。"
+    },
+    "keywords": [
+      "advice",
+      "counsel",
+      "the old man said",
+      "took his advice",
+      "ignored the",
+      "智言",
+      "忠告",
+      "諫言"
+    ]
+  },
+  {
+    "id": "riddle-contest",
+    "code": "H551.1",
+    "name": {
+      "en": "Riddle contest",
+      "zh": "猜謎之賽"
+    },
+    "description": {
+      "en": "Lives, thrones, or brides turn on riddles asked and answered (or failed).",
+      "zh": "性命、王位或新嫁娘繫於謎題之問與答（或答不得）。"
+    },
+    "keywords": [
+      "riddle",
+      "sphinx",
+      "answered the riddle",
+      "guess",
+      "猜謎之賽",
+      "謎語",
+      "對謎"
+    ]
+  },
+  {
+    "id": "impossible-task",
+    "code": "H1021",
+    "name": {
+      "en": "Impossible task",
+      "zh": "不可能之務"
+    },
+    "description": {
+      "en": "A task set as impossible — sowing and reaping overnight, sorting grains, counting waves.",
+      "zh": "被定為不可能之務——一夜播種收穫、揀分穀粒、數盡波浪。"
+    },
+    "keywords": [
+      "impossible task",
+      "by morning",
+      "sort the grains",
+      "cannot be done",
+      "不可能之務",
+      "難題",
+      " overnight task"
+    ]
+  },
+  {
+    "id": "task-series",
+    "code": "H1110",
+    "name": {
+      "en": "Series of labors",
+      "zh": "連環功業"
+    },
+    "description": {
+      "en": "A hero must perform a fixed series of feats, each harder than the last.",
+      "zh": "英雄必須完成定數之連環功業，一役更難於一役。"
+    },
+    "keywords": [
+      "labors of",
+      "twelve labors",
+      "first labor",
+      "series of tasks",
+      "連環功業",
+      "十二功業",
+      "諸難"
+    ]
+  },
+  {
+    "id": "youngest-son",
+    "code": "L100",
+    "name": {
+      "en": "Victory of the youngest",
+      "zh": "幼子得勝"
+    },
+    "description": {
+      "en": "The despised youngest child — son or daughter — succeeds where the elders fail.",
+      "zh": "被輕視的幼子（或幼女）在兄姊皆敗之處得勝。"
+    },
+    "keywords": [
+      "youngest son",
+      "youngest daughter",
+      "simpleton succeeded",
+      "third son",
+      "幼子得勝",
+      "么兒",
+      "小兒子"
+    ]
+  },
+  {
+    "id": "orphan-hero",
+    "code": "L100.1",
+    "name": {
+      "en": "Orphan hero",
+      "zh": "孤兒英雄"
+    },
+    "description": {
+      "en": "The orphaned or abandoned child rises to greatness against the odds.",
+      "zh": "失怙或被棄之子，逆境崛起而成大器。"
+    },
+    "keywords": [
+      "orphan",
+      "orphaned",
+      "孤兒",
+      "失怙"
+    ]
+  },
+  {
+    "id": "rescue-captive",
+    "code": "R110.1",
+    "name": {
+      "en": "Rescue of the captive",
+      "zh": "救脫被擄"
+    },
+    "description": {
+      "en": "A captive — in monster's den, underworld, or distant land — is sought out and freed.",
+      "zh": "被擄者——陷於怪物之窟、冥府或異邦——被尋獲救脫。"
+    },
+    "keywords": [
+      "rescued",
+      "freed the captive",
+      "released",
+      "came to the rescue",
+      "救脫被擄",
+      "營救",
+      "釋囚"
+    ]
+  },
+  {
+    "id": "abduction",
+    "code": "R10.1",
+    "name": {
+      "en": "Abduction of a woman",
+      "zh": "擄女"
+    },
+    "description": {
+      "en": "A woman is carried off by force, monster, or god — and war or quest follows.",
+      "zh": "女子為武力、怪物或神所擄——戰事或遠征隨之而起。"
+    },
+    "keywords": [
+      "abducted",
+      "carried off",
+      "stolen bride",
+      "Helen",
+      "Persephone",
+      "擄女",
+      "掠妻",
+      "強擄"
+    ]
+  },
+  {
+    "id": "stolen-blessing",
+    "code": "K1354.1",
+    "name": {
+      "en": "Stolen blessing",
+      "zh": "竊福"
+    },
+    "description": {
+      "en": "A blessing, birthright, or name is got by deception from father, elder, or rival.",
+      "zh": "以欺詐自父、兄或對手處取得祝福、長子名分或名位。"
+    },
+    "keywords": [
+      "stolen blessing",
+      "stole the blessing",
+      "birthright",
+      "deceived his father",
+      "竊福",
+      "騙取祝福",
+      "名分"
+    ]
+  },
+  {
+    "id": "false-accusation",
+    "code": "K2111",
+    "name": {
+      "en": "False accusation",
+      "zh": "誣告"
+    },
+    "description": {
+      "en": "An innocent is accused — by a scorned woman, a rival, or a lie — and must clear the name.",
+      "zh": "無辜者遭誣——出於怨婦、仇家或謊言——必須自明。"
+    },
+    "keywords": [
+      "false accusation",
+      "Potiphar's wife",
+      "accused of",
+      "slandered",
+      "誣告",
+      "誣陷",
+      "讒言"
+    ]
+  },
+  {
+    "id": "betrayal",
+    "code": "K2311.1",
+    "name": {
+      "en": "Betrayal",
+      "zh": "背叛"
+    },
+    "description": {
+      "en": "A trusted one sells out lord, brother, or teacher — with a kiss, a bribe, or a sign.",
+      "zh": "親信者出賣其主、其兄或其師——以親吻、賄賂或暗號。"
+    },
+    "keywords": [
+      "betrayal",
+      "betrayed",
+      "thirty pieces",
+      "sold him",
+      "kiss of betrayal",
+      "背叛",
+      "出賣",
+      "叛徒"
+    ]
+  },
+  {
+    "id": "kin-slaying",
+    "code": "Q492",
+    "name": {
+      "en": "Kin-slaying",
+      "zh": "骨肉相殘"
+    },
+    "description": {
+      "en": "Blood kin kills blood kin - father, mother, parents, or family - and the deed stains the line.",
+      "zh": "骨肉相殘——弒父、弒母、屠戮親族，其事累及世系。"
+    },
+    "keywords": [
+      "kin-slaying",
+      "killed his father",
+      "killed her mother",
+      "murdered his family",
+      "parricide",
+      "matricide",
+      "fratricide",
+      "骨肉相殘",
+      "弒父",
+      "弒母",
+      "滅親"
+    ]
+  },
+  {
+    "id": "adultery",
+    "code": "T415",
+    "name": {
+      "en": "Adultery",
+      "zh": "淫奔"
+    },
+    "description": {
+      "en": "A spouse's faithlessness — discovered, punished, or avenged — drives the plot.",
+      "zh": "配偶之不貞——被發覺、受懲或遭復仇——成為情節之軸。"
+    },
+    "keywords": [
+      "adultery",
+      "took another's wife",
+      "lay with",
+      "David and Bathsheba",
+      "淫奔",
+      "私通",
+      "通姦"
+    ]
+  },
+  {
+    "id": "jealousy",
+    "code": "T95.1",
+    "name": {
+      "en": "Jealousy",
+      "zh": "嫉妒"
+    },
+    "description": {
+      "en": "Jealousy — of wives, co-wives, rivals, brothers — poisons houses and kingdoms.",
+      "zh": "嫉妒——妻妾之間、對手之間、兄弟之間——毒害家與國。"
+    },
+    "keywords": [
+      "jealous",
+      "jealousy",
+      "envied",
+      "hated her",
+      "嫉妒",
+      "妒忌",
+      "爭寵"
+    ]
+  },
+  {
+    "id": "stepmother",
+    "code": "S31",
+    "name": {
+      "en": "Wicked stepmother",
+      "zh": "惡毒繼母"
+    },
+    "description": {
+      "en": "A stepmother or co-wife persecutes the true heir or child until escape or restoration.",
+      "zh": "繼母或庶母迫害嫡嗣或其子，直至逃亡或復位。"
+    },
+    "keywords": [
+      "stepmother",
+      "co-wife",
+      "persecuted by",
+      "hated the child",
+      "惡毒繼母",
+      "繼母",
+      "嫡庶"
+    ]
+  },
+  {
+    "id": "abandoned-child",
+    "code": "S301",
+    "name": {
+      "en": "Abandoned child",
+      "zh": "棄嬰"
+    },
+    "description": {
+      "en": "A child is exposed, cast on the water, or left in the wild — and raised to greatness.",
+      "zh": "嬰孩遭棄——擲於水、遺於野——長成而有大器。"
+    },
+    "keywords": [
+      "abandoned child",
+      "exposed",
+      "basket in the river",
+      "Moses",
+      "foundling",
+      "棄嬰",
+      "棄兒",
+      "水邊拾子"
+    ]
+  },
+  {
+    "id": "child-sacrifice",
+    "code": "V164.1",
+    "name": {
+      "en": "Sacrifice of a child",
+      "zh": "獻子為祭"
+    },
+    "description": {
+      "en": "A child is demanded, given, or substituted in sacrifice — the binding and its release.",
+      "zh": "子被索、被獻或被代贖於祭——縛與解。"
+    },
+    "keywords": [
+      "child sacrifice",
+      "offered his son",
+      "binding of Isaac",
+      "Jephthah",
+      "firstborn",
+      "獻子為祭",
+      "獻祭長子",
+      "代贖"
+    ]
+  },
+  {
+    "id": "love-trial",
+    "code": "T90.1",
+    "name": {
+      "en": "Trials of love",
+      "zh": "情劫"
+    },
+    "description": {
+      "en": "Lovers are parted, transformed, or tested — and reunion costs or conquers death.",
+      "zh": "有情者離散、變形或受試——重聚以代價或勝死而得。"
+    },
+    "keywords": [
+      "lovers",
+      "love tested",
+      "parted lovers",
+      "true love",
+      "情劫",
+      "離合",
+      "姻緣"
+    ]
+  },
+  {
+    "id": "teacher-disciple",
+    "code": "P571.1",
+    "name": {
+      "en": "Teacher and disciple",
+      "zh": "師徒"
+    },
+    "description": {
+      "en": "Knowledge passes from master to pupil through service, testing, or one decisive lesson.",
+      "zh": "知識自師傳徒，經由服侍、考驗或一課定奪。"
+    },
+    "keywords": [
+      "teacher",
+      "master",
+      "disciple",
+      "apprentice",
+      "studied under",
+      "師徒",
+      "傳法",
+      "拜師"
+    ]
+  },
+  {
+    "id": "filial-piety",
+    "code": "P251",
+    "name": {
+      "en": "Filial devotion",
+      "zh": "孝行"
+    },
+    "description": {
+      "en": "Devotion of child to parent — serving, feeding, mourning — honored even by heaven.",
+      "zh": "子女事親之誠——奉養、飼食、居喪——天亦重之。"
+    },
+    "keywords": [
+      "filial",
+      "served his mother",
+      "duty to parents",
+      "filial piety",
+      "孝行",
+      "孝順",
+      "事親"
+    ]
+  },
+  {
+    "id": "storm-still",
+    "code": "D1385.1",
+    "name": {
+      "en": "Storm stilled",
+      "zh": "止風浪"
+    },
+    "description": {
+      "en": "A storm threatens the boat or field and is stilled by word, deed, or sacrifice.",
+      "zh": "風暴迫舟田，以言、以行、以祭而息。"
+    },
+    "keywords": [
+      "stilled the storm",
+      "calmed the sea",
+      "peace be still",
+      "wind ceased",
+      "止風浪",
+      "平息風浪",
+      "海靜"
+    ]
+  },
+  {
+    "id": "rainmaking",
+    "code": "D1285.1",
+    "name": {
+      "en": "Rainmaking",
+      "zh": "求雨"
+    },
+    "description": {
+      "en": "Rites, offerings, or heroic deeds call down rain or end a drought.",
+      "zh": "以儀式、獻祭或英雄事蹟召雨解旱。"
+    },
+    "keywords": [
+      "rainmaking",
+      "rain prayer",
+      "drought ended",
+      "called the rain",
+      "求雨",
+      "祈雨",
+      "止旱"
+    ]
+  },
+  {
+    "id": "water-from-rock",
+    "code": "D1641.1",
+    "name": {
+      "en": "Water from the rock",
+      "zh": "擊石出水"
+    },
+    "description": {
+      "en": "A staff, blow, or divine touch makes water gush from rock or desert.",
+      "zh": "以杖擊、一擊或神力使水自磐石或荒漠湧出。"
+    },
+    "keywords": [
+      "struck the rock",
+      "water gushed",
+      "smote the rock",
+      "springs from rock",
+      "擊石出水",
+      "湧泉"
+    ]
+  },
+  {
+    "id": "talisman",
+    "code": "D1276",
+    "name": {
+      "en": "Talisman and amulet",
+      "zh": "符籙護符"
+    },
+    "description": {
+      "en": "A worn or carried object — talisman, amulet, seal — wards, empowers, or compels.",
+      "zh": "佩戴或攜帶之物——符、護符、印——護身、增力或強令。"
+    },
+    "keywords": [
+      "talisman",
+      "amulet",
+      "charm worn",
+      "seal of",
+      "talismanic",
+      "符籙護符",
+      "護身符",
+      "符咒"
+    ]
+  },
+  {
+    "id": "magic-weapon",
+    "code": "D841",
+    "name": {
+      "en": "Magic weapon",
+      "zh": "神兵"
+    },
+    "description": {
+      "en": "A weapon with a will, name, or origin beyond iron — only its true bearer can wield it.",
+      "zh": "有靈、有名、來歷超乎鐵石的兵器——唯其真主能持。"
+    },
+    "keywords": [
+      "magic sword",
+      "Enkidu",
+      "Mjollnir",
+      "bow of",
+      "only he could draw",
+      "神兵",
+      "寶劍",
+      "神弓"
+    ]
+  },
+  {
+    "id": "magic-flight",
+    "code": "D672",
+    "name": {
+      "en": "Magic flight",
+      "zh": "魔法遁走"
+    },
+    "description": {
+      "en": "Fleeing pursuers, the fugitive casts behind transforming objects — forest, mountain, sea.",
+      "zh": "逃避追者，遁者擲後物化障——成林、成山、成海。"
+    },
+    "keywords": [
+      "magic flight",
+      "threw behind",
+      "became a forest",
+      "fled from the",
+      "魔法遁走",
+      "擲物成障",
+      "遁逃"
+    ]
+  },
+  {
+    "id": "enchanted-sleep",
+    "code": "D1960",
+    "name": {
+      "en": "Enchanted sleep",
+      "zh": "沉睡之咒"
+    },
+    "description": {
+      "en": "Sleep falls as enchantment — for a term, a season, or until the awakener comes.",
+      "zh": "睡魔如咒而降——限期、一季、或待喚醒者至。"
+    },
+    "keywords": [
+      "enchanted sleep",
+      "sleeping",
+      "wakened by",
+      "slept for a hundred years",
+      "沉睡之咒",
+      "長眠",
+      "睡美人"
+    ]
+  },
+  {
+    "id": "magic-food",
+    "code": "D1631",
+    "name": {
+      "en": "Magic food",
+      "zh": "仙饌"
+    },
+    "description": {
+      "en": "Eating or refusing a food changes strength, youth, memory, or allegiance.",
+      "zh": "食或不食某物，改變力氣、年歲、記憶或效忠。"
+    },
+    "keywords": [
+      "magic food",
+      "ate and forgot",
+      "food of the gods",
+      "ambrosia",
+      "仙饌",
+      "神食",
+      "忘憂食"
+    ]
+  },
+  {
+    "id": "magic-music",
+    "code": "D1351",
+    "name": {
+      "en": "Magic music",
+      "zh": "樂咒"
+    },
+    "description": {
+      "en": "Music charms animals, stones, or death itself — played, sung, or drummed.",
+      "zh": "樂音魅獸、動石乃至魅死神——以奏、以歌、以鼓。"
+    },
+    "keywords": [
+      "magic music",
+      "played the flute",
+      "song of power",
+      "charmed by music",
+      "樂咒",
+      "妙音",
+      "鼓歌"
+    ]
+  },
+  {
+    "id": "magic-word",
+    "code": "D1000",
+    "name": {
+      "en": "Magic word",
+      "zh": "咒語"
+    },
+    "description": {
+      "en": "A word, formula, or chant unlocks, binds, or transforms.",
+      "zh": "一言、一咒、一誦足以開鎖、束縛或變化。"
+    },
+    "keywords": [
+      "magic word",
+      "open sesame",
+      "spell",
+      "incantation",
+      "mantra",
+      "咒語",
+      "真言",
+      "開門咒"
+    ]
+  },
+  {
+    "id": "true-name",
+    "code": "D1371.1",
+    "name": {
+      "en": "Power of the true name",
+      "zh": "真名之力"
+    },
+    "description": {
+      "en": "Knowledge of a being's true name confers power over it; names have weight.",
+      "zh": "知其真名即得其力；名有其重量。"
+    },
+    "keywords": [
+      "true name",
+      "knew his name",
+      "name of power",
+      "renaming",
+      "真名之力",
+      "呼名",
+      "賜名"
+    ]
+  },
+  {
+    "id": "invisibility",
+    "code": "D1060",
+    "name": {
+      "en": "Invisibility",
+      "zh": "隱身"
+    },
+    "description": {
+      "en": "A cap, cloak, ring, or rite renders the wearer unseen.",
+      "zh": "以帽、氅、戒或儀式使穿戴者隱形。"
+    },
+    "keywords": [
+      "invisibility",
+      "cap of darkness",
+      "cloak of",
+      "unseen",
+      "隱身",
+      "隱形",
+      "匿影"
+    ]
+  },
+  {
+    "id": "flight-sky",
+    "code": "D1520",
+    "name": {
+      "en": "Flight through the sky",
+      "zh": "凌空飛行"
+    },
+    "description": {
+      "en": "A being rides, flies, or is carried through the air — by craft, animal, or power.",
+      "zh": "乘物、飛行或被提，凌空而行——以器、以獸或以力。"
+    },
+    "keywords": [
+      "flew",
+      "flying",
+      "rode the wind",
+      "airborne",
+      "凌空飛行",
+      "飛天",
+      "乘風"
+    ]
+  },
+  {
+    "id": "magic-horse",
+    "code": "B181",
+    "name": {
+      "en": "Magic steed",
+      "zh": "神駒"
+    },
+    "description": {
+      "en": "A horse of wondrous origin carries its rider beyond mortal means.",
+      "zh": "來歷非凡之馬載其主超越凡人之能。"
+    },
+    "keywords": [
+      "magic horse",
+      "magic steed",
+      "flying horse",
+      "Pegasus",
+      "Rakush",
+      "神駒",
+      "天馬",
+      "飛馬"
+    ]
+  },
+  {
+    "id": "swan-maiden",
+    "code": "D361.1",
+    "name": {
+      "en": "Swan-maiden / animal-wife",
+      "zh": "羽衣妻"
+    },
+    "description": {
+      "en": "A woman (or man) is an animal by skin or robe; hiding the skin binds the spouse — until found.",
+      "zh": "女子（或男子）披皮衣則為獸；藏其衣則得為配偶——直至衣現。"
+    },
+    "keywords": [
+      "swan maiden",
+      "hides the skin",
+      "seal wife",
+      "robe of feathers",
+      "crane wife",
+      "羽衣妻",
+      "天鵝少女",
+      "獸皮妻"
+    ]
+  },
+  {
+    "id": "vision-quest",
+    "code": "F082.1",
+    "name": {
+      "en": "Vision quest",
+      "zh": "靈視求兆"
+    },
+    "description": {
+      "en": "Alone on a mountain or in the wild, fasting, a seeker waits for the spirit that claims them.",
+      "zh": "獨處山野、絕食守候，求者待其靈之來認。"
+    },
+    "keywords": [
+      "vision quest",
+      "fasted alone",
+      "mountain vigil",
+      "spirit came to",
+      "靈視求兆",
+      "守山",
+      "求兆"
+    ]
+  },
+  {
+    "id": "shaman-journey",
+    "code": "E751.1",
+    "name": {
+      "en": "Shaman's spirit-flight",
+      "zh": "巫旅"
+    },
+    "description": {
+      "en": "A living shaman's soul flies to other worlds to bargain, retrieve, or heal.",
+      "zh": "生者之巫魂飛往他界，以交涉、取回或療癒。"
+    },
+    "keywords": [
+      "shaman",
+      "spirit flight",
+      "soul traveled",
+      "drum journey",
+      "巫旅",
+      "出魂",
+      "靈飛"
+    ]
+  },
+  {
+    "id": "trance-healing",
+    "code": "V210.1",
+    "name": {
+      "en": "Trance healing",
+      "zh": "出神療病"
+    },
+    "description": {
+      "en": "Healing or power comes through trance — dance, drumming, or entered ecstasy.",
+      "zh": "療癒或力量經由出神而得——舞蹈、擊鼓或入狂。"
+    },
+    "keywords": [
+      "trance",
+      "healing dance",
+      "trance dance",
+      "ecstatic",
+      "出神療病",
+      "舞蹈治病",
+      "狂舞"
+    ]
+  },
+  {
+    "id": "spirit-helper",
+    "code": "B571.1",
+    "name": {
+      "en": "Spirit helper",
+      "zh": "靈助"
+    },
+    "description": {
+      "en": "A personal spirit, animal guardian, or ancestor aids the living with power or counsel.",
+      "zh": "護靈、獸靈或祖靈以力量或忠告襄助生者。"
+    },
+    "keywords": [
+      "spirit helper",
+      "guardian spirit",
+      "power animal",
+      "familiar",
+      "靈助",
+      "護靈",
+      "祖靈"
+    ]
+  },
+  {
+    "id": "ancestor-veneration",
+    "code": "E481.1",
+    "name": {
+      "en": "Ancestor veneration",
+      "zh": "敬祖"
+    },
+    "description": {
+      "en": "The dead of the lineage remain present — fed, addressed, and consulted by their descendants.",
+      "zh": "族中亡者長在——受子孫饗食、告語與諮問。"
+    },
+    "keywords": [
+      "ancestor",
+      "ancestral offering",
+      "honored the ancestors",
+      "tablet of the dead",
+      "敬祖",
+      "祭祖",
+      "祖靈"
+    ]
+  },
+  {
+    "id": "hungry-ghost",
+    "code": "E451",
+    "name": {
+      "en": "Hungry ghost",
+      "zh": "餓鬼"
+    },
+    "description": {
+      "en": "The dead suffer hunger and demand offerings; food given to them feeds the otherworld.",
+      "zh": "亡者受饑苦而索祭；祭食入彼界而養幽冥。"
+    },
+    "keywords": [
+      "hungry ghost",
+      "offering to the dead",
+      "food for the dead",
+      "preta",
+      "餓鬼",
+      "祭幽",
+      "薦食"
+    ]
+  },
+  {
+    "id": "ferryman-dead",
+    "code": "F99.1",
+    "name": {
+      "en": "Ferryman of the dead",
+      "zh": "渡亡者"
+    },
+    "description": {
+      "en": "A ferryman or guide must be paid or persuaded to carry the living or dead across the water of death.",
+      "zh": "渡夫或嚮導索資或受勸，方載生者或亡者渡死亡之水。"
+    },
+    "keywords": [
+      "ferryman",
+      "Charon",
+      "crossed the water",
+      "obol",
+      "渡亡者",
+      "渡船",
+      "冥河"
+    ]
+  },
+  {
+    "id": "restless-dead",
+    "code": "E541.1",
+    "name": {
+      "en": "Unburied dead",
+      "zh": "暴骸不安"
+    },
+    "description": {
+      "en": "The unburied or improperly mourned dead cannot rest and torment the living until rites are done.",
+      "zh": "未葬或失禮之亡者不得安息，擾害生者直至禮成。"
+    },
+    "keywords": [
+      "unburied",
+      "cannot rest",
+      "proper burial",
+      "bones must be",
+      "暴骸",
+      "未葬",
+      "停靈"
+    ]
+  },
+  {
+    "id": "covenant",
+    "code": "V141.1",
+    "name": {
+      "en": "Sacred covenant",
+      "zh": "聖約"
+    },
+    "description": {
+      "en": "A binding pact between the divine and a people, sealed by sign, blood, or tablet.",
+      "zh": "神與族群之間以記號、血或石版封立的誓盟。"
+    },
+    "keywords": [
+      "covenant",
+      "made a covenant",
+      "rainbow sign",
+      "circumcision",
+      "聖約",
+      "立約",
+      "盟約"
+    ]
+  },
+  {
+    "id": "law-giving",
+    "code": "V141.2",
+    "name": {
+      "en": "Giving of the law",
+      "zh": "頒法"
+    },
+    "description": {
+      "en": "The divine law — tablets, commandments, sharia, dharma — is handed down to a people.",
+      "zh": "神聖律法——石版、誡命、沙里亞、正法——頒降於一族。"
+    },
+    "keywords": [
+      "law given",
+      "tablets of stone",
+      "commandments",
+      "Ten Commandments",
+      "revelation of the law",
+      "頒法",
+      "授律",
+      "誡命"
+    ]
+  },
+  {
+    "id": "exodus-deliverance",
+    "code": "V132.1",
+    "name": {
+      "en": "Deliverance from bondage",
+      "zh": "出離為奴"
+    },
+    "description": {
+      "en": "A people is led out of slavery or captivity by a chosen hand, through wonders.",
+      "zh": "一族由揀選之手領出奴役或擄囚之境，歷經奇事。"
+    },
+    "keywords": [
+      "deliverance",
+      "led out",
+      "exodus",
+      "let my people go",
+      "emancipation",
+      "出離為奴",
+      "出埃及",
+      "脫困"
+    ]
+  },
+  {
+    "id": "wilderness-wandering",
+    "code": "M251.1",
+    "name": {
+      "en": "Wandering in the wilderness",
+      "zh": "曠野漂流"
+    },
+    "description": {
+      "en": "A people or hero wanders a generation in the wild — fed, tested, and counted.",
+      "zh": "一族或一雄漂流曠野一世代——受飼、受試、受數點。"
+    },
+    "keywords": [
+      "wilderness",
+      "wandered",
+      "forty years",
+      "manna",
+      "desert years",
+      "曠野漂流",
+      "流浪",
+      "行野"
+    ]
+  },
+  {
+    "id": "miracle-cure",
+    "code": "V221.1",
+    "name": {
+      "en": "Miracle cure",
+      "zh": "治病奇蹟"
+    },
+    "description": {
+      "en": "Blindness, palsy, leprosy, or death itself yields to touch, word, or water of the shrine.",
+      "zh": "盲、癱、癩乃至死，因一觸、一言或聖泉而癒。"
+    },
+    "keywords": [
+      "miracle cure",
+      "healed the",
+      "made whole",
+      "blind man",
+      "raised the dead",
+      "治病奇蹟",
+      "醫好",
+      "痊癒"
+    ]
+  },
+  {
+    "id": "exorcism",
+    "code": "V243.1",
+    "name": {
+      "en": "Exorcism",
+      "zh": "驅邪"
+    },
+    "description": {
+      "en": "A demon or possessing spirit is named, commanded, or driven out.",
+      "zh": "邪魔或附體之靈被呼名、被令或被逐出。"
+    },
+    "keywords": [
+      "exorcism",
+      "cast out the demon",
+      "unclean spirit",
+      "came out of him",
+      "驅邪",
+      "趕鬼",
+      "收妖"
+    ]
+  },
+  {
+    "id": "fasting",
+    "code": "V311.1",
+    "name": {
+      "en": "Fasting",
+      "zh": "齋戒"
+    },
+    "description": {
+      "en": "Abstinence from food, as rite of mourning, seeking, or purification.",
+      "zh": "絕食以居喪、尋求或淨身。"
+    },
+    "keywords": [
+      "fasting",
+      "fasted",
+      "ate no bread",
+      "Ramadan",
+      "Lent",
+      "齋戒",
+      "守齋",
+      "禁食"
+    ]
+  },
+  {
+    "id": "pilgrimage",
+    "code": "V351",
+    "name": {
+      "en": "Pilgrimage",
+      "zh": "朝聖"
+    },
+    "description": {
+      "en": "A journey to a holy place — Mecca, Benares, a mountain — costs the road and changes the walker.",
+      "zh": "往聖地之旅——麥加、貝拿勒斯、聖山——路費其身，行易其人。"
+    },
+    "keywords": [
+      "pilgrimage",
+      "hajj",
+      "went up to",
+      "holy city",
+      "朝聖",
+      "進香",
+      "巡禮"
+    ]
+  },
+  {
+    "id": "martyrdom",
+    "code": "V165.1",
+    "name": {
+      "en": "Martyrdom",
+      "zh": "殉道"
+    },
+    "description": {
+      "en": "Death is accepted rather than faith betrayed — and the death itself becomes witness.",
+      "zh": "寧死而不叛其信——而其死本身即為見證。"
+    },
+    "keywords": [
+      "martyr",
+      "died for",
+      "put to death rather",
+      "persecuted unto death",
+      "殉道",
+      "捨身",
+      "就義"
+    ]
+  },
+  {
+    "id": "relics",
+    "code": "V172.1",
+    "name": {
+      "en": "Relics",
+      "zh": "聖髑"
+    },
+    "description": {
+      "en": "Bones, hair, or objects of the holy work cures and wonders after the death.",
+      "zh": "聖者之骨、髮或遺物於其歿後顯療癒與奇事。"
+    },
+    "keywords": [
+      "relics",
+      "bones of the saint",
+      "his cloak",
+      "touched his",
+      "聖髑",
+      "遺骨",
+      "舍利"
+    ]
+  },
+  {
+    "id": "conversion",
+    "code": "V350.1",
+    "name": {
+      "en": "Conversion",
+      "zh": "歸化"
+    },
+    "description": {
+      "en": "A person or people turns from one allegiance to another — road, dream, or defeat as the hinge.",
+      "zh": "一人或一族改宗易幟——以路、以夢或以敗為樞。"
+    },
+    "keywords": [
+      "conversion",
+      "converted",
+      "turned to",
+      "baptized",
+      "accepted the faith",
+      "歸化",
+      "改宗",
+      "皈依"
+    ]
+  },
+  {
+    "id": "meditation",
+    "code": "V312.2",
+    "name": {
+      "en": "Meditation",
+      "zh": "禪定"
+    },
+    "description": {
+      "en": "Sitting, breathing, and watching the mind — the ordeal of stillness and what it opens.",
+      "zh": "坐、息、觀心——靜之磨鍊及其所開。"
+    },
+    "keywords": [
+      "meditation",
+      "sat in",
+      "mindfulness",
+      "samadhi",
+      "inner stillness",
+      "禪定",
+      "靜坐",
+      "入定"
+    ]
+  },
+  {
+    "id": "asceticism",
+    "code": "V312.1",
+    "name": {
+      "en": "Asceticism",
+      "zh": "苦行"
+    },
+    "description": {
+      "en": "Austerity — hair, heat, silence, bare ground — wins power, sight, or release.",
+      "zh": "刻苦——剃髮、坐熱、緘默、臥地——以得力、得見或得解脫。"
+    },
+    "keywords": [
+      "ascetic",
+      "austerity",
+      "tapas",
+      "practiced austerities",
+      "naked sage",
+      "苦行",
+      "禁欲",
+      "頭陀"
+    ]
+  },
+  {
+    "id": "idol-contest",
+    "code": "V223.1",
+    "name": {
+      "en": "Idol and living god",
+      "zh": "偶像與活神"
+    },
+    "description": {
+      "en": "The powerlessness of the idol is exposed against the living god — by trial, mockery, or fire.",
+      "zh": "偶像之無能對照活神——以試煉、譏刺或天火揭之。"
+    },
+    "keywords": [
+      "idols",
+      "Bel and the dragon",
+      "Elijah on Carmel",
+      "gods of wood and stone",
+      "偶像",
+      "活神",
+      "驗證真神"
+    ]
+  },
+  {
+    "id": "temptation",
+    "code": "G303.1",
+    "name": {
+      "en": "The tempter",
+      "zh": "試探者"
+    },
+    "description": {
+      "en": "An adversary of the soul offers bread, power, or escape and is refused (or not).",
+      "zh": "誘惑靈魂之對手奉上飲食、權勢或退路，而人拒之（或未拒）。"
+    },
+    "keywords": [
+      "tempter",
+      "temptation",
+      "serpent said",
+      "Mara",
+      "devil offered",
+      "試探者",
+      "受試探",
+      "魔鬼誘惑"
+    ]
+  },
+  {
+    "id": "revelation",
+    "code": "V333",
+    "name": {
+      "en": "Scripture revealed",
+      "zh": "啟示經文"
+    },
+    "description": {
+      "en": "A book, recitation, or teaching is delivered from heaven to a messenger for a people.",
+      "zh": "一經、一誦或一教自天降於使者，以授一族。"
+    },
+    "keywords": [
+      "revelation",
+      "scripture given",
+      "recited the",
+      "sura",
+      "sutra",
+      "word of God",
+      "啟示經文",
+      "降經",
+      "天啟"
+    ]
+  },
+  {
+    "id": "holy-man",
+    "code": "V432",
+    "name": {
+      "en": "Holy man",
+      "zh": "聖者"
+    },
+    "description": {
+      "en": "A wanderer, monk, or sage whose presence blesses, judges, or unsettles every house he enters.",
+      "zh": "行腳僧、修士或賢者，其臨在祝福、審斷或撼動所入之門。"
+    },
+    "keywords": [
+      "holy man",
+      "saint",
+      "sage",
+      "dervish",
+      "beggar was",
+      "聖者",
+      "高人",
+      "修士"
+    ]
+  },
+  {
+    "id": "bodhisattva",
+    "code": "Z803",
+    "name": {
+      "en": "Bodhisattva vow",
+      "zh": "菩薩行願"
+    },
+    "description": {
+      "en": "A being delays its own release to save all others — compassion as a road, not a feeling.",
+      "zh": "菩薩遲其自度以度眾生——慈悲為道，非徒情。"
+    },
+    "keywords": [
+      "bodhisattva",
+      "Kuan Yin",
+      "vowed to save",
+      "compassion of the",
+      "delayed nirvana",
+      "菩薩行願",
+      "觀音",
+      "大悲"
+    ]
+  },
+  {
+    "id": "merit-transfer",
+    "code": "Z804",
+    "name": {
+      "en": "Transfer of merit",
+      "zh": "迴向功德"
+    },
+    "description": {
+      "en": "Deeds of merit are given away — to the dead, to beings in torment — and lighten their lot.",
+      "zh": "功德可捨——施於亡者、苦趣眾生——以減其苦。"
+    },
+    "keywords": [
+      "merit",
+      "transferred the merit",
+      "dedicated the",
+      "on behalf of the dead",
+      "迴向功德",
+      "迴向",
+      "功德迴施"
+    ]
+  },
+  {
+    "id": "cosmic-egg",
+    "code": "A641",
+    "name": {
+      "en": "Cosmic egg",
+      "zh": "宇宙卵"
+    },
+    "description": {
+      "en": "The world or the first beings hatch from a primordial egg.",
+      "zh": "世界或最初的存在自原初之卵中孵出。"
+    },
+    "keywords": [
+      "cosmic egg",
+      "primordial egg",
+      "hatched",
+      "egg of the world",
+      "宇宙卵",
+      "卵生",
+      "原初之卵"
+    ]
+  },
+  {
+    "id": "opposed-twins",
+    "code": "T590.2",
+    "name": {
+      "en": "Twins of opposing natures",
+      "zh": "對極雙生"
+    },
+    "description": {
+      "en": "Twin brothers embody opposed principles — good and evil, order and chaos, day and night.",
+      "zh": "雙生子化身相反原則——善惡、秩序與混沌、晝與夜。"
+    },
+    "keywords": [
+      "opposed twins",
+      "good and evil twin",
+      "twin brothers of",
+      "對極雙生",
+      "善惡雙生"
+    ]
+  },
+  {
+    "id": "immortality-lost",
+    "code": "A1335.3",
+    "name": {
+      "en": "Immortality lost by theft or trick",
+      "zh": "不死之失"
+    },
+    "description": {
+      "en": "Humankind had — or nearly gained — immortality, and loses it through theft, trick, or refusal.",
+      "zh": "人本有（或幾近獲得）不死，卻因竊奪、欺騙或拒絕而失之。"
+    },
+    "keywords": [
+      "lost immortality",
+      "lost the chance",
+      "snake stole the plant",
+      "food of life",
+      "immortality lost",
+      "不死之失",
+      "失去不死"
+    ]
+  },
+  {
+    "id": "cattle-theft",
+    "code": "K152",
+    "name": {
+      "en": "Theft of cattle",
+      "zh": "盜牛"
+    },
+    "description": {
+      "en": "Cattle or herds are stolen or raided, driving war, feud, or divine conflict.",
+      "zh": "牛群被盜或遭劫，引發戰爭、世仇或神界衝突。"
+    },
+    "keywords": [
+      "cattle raid",
+      "stole the cattle",
+      "kine",
+      "herd",
+      "盜牛",
+      "劫牛",
+      "牛群"
+    ]
+  },
+  {
+    "id": "dragon-slaying",
+    "code": "ATU 300",
+    "name": {
+      "en": "Dragon slaying",
+      "zh": "屠龍"
+    },
+    "description": {
+      "en": "A hero battles and kills a dragon or great serpent to free a land, water, or maiden.",
+      "zh": "英雄力戰誅殺巨龍或大蛇，以解救邦國、水源或被擄之人。"
+    },
+    "keywords": [
+      "dragon",
+      "slew the dragon",
+      "serpent slain",
+      "python",
+      "屠龍",
+      "斬蛇",
+      "誅龍"
+    ]
+  },
+  {
+    "id": "monster-spouse",
+    "code": "T410.1",
+    "name": {
+      "en": "Monster bride or husband",
+      "zh": "怪物配偶"
+    },
+    "description": {
+      "en": "A person is married to — or given as bride to — a monstrous, serpentine, or beastly being.",
+      "zh": "人與怪物、蛇形或獸形者結為配偶。"
+    },
+    "keywords": [
+      "monster bride",
+      "serpent husband",
+      "married the beast",
+      "frog prince",
+      "怪物配偶",
+      "蛇夫",
+      "獸婚"
+    ]
+  },
+  {
+    "id": "origin-livestock",
+    "code": "A2533.1",
+    "name": {
+      "en": "Origin of domestic animals",
+      "zh": "六畜起源"
+    },
+    "description": {
+      "en": "A myth explains how sheep, cattle, goats, or herds came to humankind.",
+      "zh": "神話解釋羊、牛、畜群如何來到人間。"
+    },
+    "keywords": [
+      "origin of sheep",
+      "first cattle",
+      "herd given",
+      "grain and sheep",
+      "六畜起源",
+      "畜群之始"
+    ]
+  },
+  {
+    "id": "origin-plants",
+    "code": "A2511",
+    "name": {
+      "en": "Origin of plants",
+      "zh": "草木起源"
+    },
+    "description": {
+      "en": "How plants, trees, or crops came into the world, often from a divine body or gift.",
+      "zh": "草木、樹木或作物如何入世，常出自神祇身軀或恩賜。"
+    },
+    "keywords": [
+      "origin of plants",
+      "first tree",
+      "gift of the crop",
+      "grew from",
+      "草木起源",
+      "五穀由來"
+    ]
+  },
+  {
+    "id": "dying-god",
+    "code": "E522.1",
+    "name": {
+      "en": "Dying-and-rising god",
+      "zh": "死而復生之神"
+    },
+    "description": {
+      "en": "A deity dies and is revived — the seasonal or cosmic guarantee of renewal.",
+      "zh": "神祇死去而復生——季節或宇宙更新之保證。"
+    },
+    "keywords": [
+      "dying god",
+      "the god died",
+      "was slain and rose",
+      "Osiris",
+      "Tammuz",
+      "Baldr",
+      "死而復生之神",
+      "神之死"
+    ]
+  },
+  {
+    "id": "flood-survivor-founder",
+    "code": "A1010.1",
+    "name": {
+      "en": "Flood survivor as founder",
+      "zh": "洪後立國"
+    },
+    "description": {
+      "en": "The flood's remnant survivor becomes ancestor or founder of the renewed people.",
+      "zh": "洪水倖存者成為新生人族的祖先或奠基者。"
+    },
+    "keywords": [
+      "flood survivor",
+      "after the flood",
+      "repeopled",
+      "remnant",
+      "洪後立國",
+      "洪水後",
+      "倖存者"
+    ]
+  },
+  {
+    "id": "labyrinth",
+    "code": "H1291.1",
+    "name": {
+      "en": "Labyrinth / confining maze",
+      "zh": "迷宮"
+    },
+    "description": {
+      "en": "A complex structure — built maze or death-house — contains a monster or secret.",
+      "zh": "複雜結構——人造迷宮或死亡之屋——藏有怪物或祕密。"
+    },
+    "keywords": [
+      "labyrinth",
+      "maze",
+      "xibalba",
+      "house of darkness",
+      "迷宮",
+      "迷樓"
+    ]
+  },
+  {
+    "id": "threefold",
+    "code": "Z71.1",
+    "name": {
+      "en": "Threefold pattern",
+      "zh": "三數模式"
+    },
+    "description": {
+      "en": "Tests, gifts, brothers, or attempts come in threes; the third is decisive.",
+      "zh": "考驗、贈禮、兄弟或嘗試以三為數；第三次定乾坤。"
+    },
+    "keywords": [
+      "three times",
+      "three nights",
+      "three brothers",
+      "third time",
+      "三數模式",
+      "三重"
+    ]
+  },
+  {
+    "id": "generational-curse",
+    "code": "M411.1",
+    "name": {
+      "en": "Curse on descendants",
+      "zh": "世代詛咒"
+    },
+    "description": {
+      "en": "A curse or guilt visits misfortune down the generations of a house or line.",
+      "zh": "詛咒或罪愆延及家族世世代代。"
+    },
+    "keywords": [
+      "generational curse",
+      "curse on the house",
+      "his descendants",
+      "inherited curse",
+      "世代詛咒",
+      "家詛"
+    ]
+  },
+  {
+    "id": "exile",
+    "code": "Q431",
+    "name": {
+      "en": "Exile / banishment",
+      "zh": "放逐"
+    },
+    "description": {
+      "en": "A hero or people is driven from home and must survive abroad.",
+      "zh": "英雄或族群被逐出家園，必須客居異邦。"
+    },
+    "keywords": [
+      "exile",
+      "banished",
+      "driven out",
+      "cast out of his homeland",
+      "放逐",
+      "流亡",
+      "被逐"
+    ]
+  },
+  {
+    "id": "trickster-founder",
+    "code": "A530.1",
+    "name": {
+      "en": "Trickster as culture founder",
+      "zh": "詭計開族"
+    },
+    "description": {
+      "en": "The trickster's misdeeds unpredictably found or shape the world and its institutions.",
+      "zh": "詭計者的惡作劇不可測地奠基或塑造世界與制度。"
+    },
+    "keywords": [
+      "trickster made",
+      "coyote made",
+      "raven made",
+      "founded by the trickster",
+      "詭計開族",
+      "以詐成世"
+    ]
+  },
+  {
+    "id": "shapeshifting",
+    "code": "D110.1",
+    "name": {
+      "en": "Shapeshifting at will",
+      "zh": "隨意化形"
+    },
+    "description": {
+      "en": "A being changes shape repeatedly and deliberately — many forms, one person.",
+      "zh": "一者屢屢且刻意變換形體——多形而一人。"
+    },
+    "keywords": [
+      "took the form of",
+      "changed shape",
+      "many shapes",
+      "at will",
+      "隨意化形",
+      "化身百變"
+    ]
+  },
+  {
+    "id": "magic-theft",
+    "code": "K500.1",
+    "name": {
+      "en": "Theft of a magic object",
+      "zh": "盜法器"
+    },
+    "description": {
+      "en": "A magical artifact is stolen — necklace, apples, hammer, pearl — and events follow.",
+      "zh": "法器被盜——項鍊、金蘋果、神錘、寶珠——事端隨起。"
+    },
+    "keywords": [
+      "stole the golden",
+      "stolen jewels",
+      "stole the apples",
+      "theft of the",
+      "盜法器",
+      "失寶"
+    ]
+  },
+  {
+    "id": "magic-gifts",
+    "code": "D810",
+    "name": {
+      "en": "Three magic gifts",
+      "zh": "三件法禮"
+    },
+    "description": {
+      "en": "Three powerful objects or boons are given to a hero, each with its use.",
+      "zh": "英雄獲賜三件寶物或恩諾，各有其用。"
+    },
+    "keywords": [
+      "three gifts",
+      "three boons",
+      "three magic",
+      "given three",
+      "三件法禮",
+      "三寶"
+    ]
+  },
+  {
+    "id": "hero-death-return",
+    "code": "F377.1",
+    "name": {
+      "en": "Ruin on the return",
+      "zh": "歸程化劫"
+    },
+    "description": {
+      "en": "On returning from the otherworld, the visitor ages, crumbles, or dies at a touch of home soil.",
+      "zh": "自彼岸歸返者，一觸故土即衰老、碎散或死亡。"
+    },
+    "keywords": [
+      "crumbled to dust",
+      "aged in a moment",
+      "touched the ground",
+      "centuries passed",
+      "歸程化劫",
+      "觸土而亡"
+    ]
+  },
+  {
+    "id": "flood-punishment",
+    "code": "A1010.2",
+    "name": {
+      "en": "Flood as punishment",
+      "zh": "洪水為罰"
+    },
+    "description": {
+      "en": "The deluge is sent expressly to punish human wickedness or broken duty.",
+      "zh": "洪水明為懲罰人類之惡或瀆職而降。"
+    },
+    "keywords": [
+      "flood as punishment",
+      "wickedness",
+      "punished mankind",
+      "sins of the world",
+      "洪水為罰",
+      "天譴洪水"
+    ]
+  },
+  {
+    "id": "celestial-persons",
+    "code": "A731.1",
+    "name": {
+      "en": "Celestial bodies as persons",
+      "zh": "天體人格化"
+    },
+    "description": {
+      "en": "Sun, moon, and stars are people — siblings, spouses, children — with kin lives.",
+      "zh": "日月星辰即人——為兄弟、配偶、子女，有親族生活。"
+    },
+    "keywords": [
+      "sun and moon",
+      "sun sister",
+      "moon brother",
+      "the stars were",
+      "天體人格化",
+      "日月為人"
+    ]
+  },
+  {
+    "id": "night-day-personified",
+    "code": "A729.1",
+    "name": {
+      "en": "Night and day personified",
+      "zh": "晝夜人格化"
+    },
+    "description": {
+      "en": "Night and Day themselves are beings — ridden, born, married, or slain.",
+      "zh": "晝與夜自身為神——被騎乘、誕生、婚配或誅殺。"
+    },
+    "keywords": [
+      "night and day",
+      "Nott",
+      "Dagr",
+      "Night rode",
+      "晝夜人格化",
+      "夜神"
+    ]
+  },
+  {
+    "id": "king-sacrifice",
+    "code": "A930.1",
+    "name": {
+      "en": "King's ritual death and renewal",
+      "zh": "王祭更新"
+    },
+    "description": {
+      "en": "The king is sacrificed, wounded, or ritually renewed for the land's fertility or order.",
+      "zh": "君王受祭、受傷或受儀式更新，以保土地豐饒有序。"
+    },
+    "keywords": [
+      "king sacrificed",
+      "king must die",
+      "royal sacrifice",
+      "renewed the kingship",
+      "王祭更新",
+      "殺王"
+    ]
+  },
+  {
+    "id": "human-sacrifice",
+    "code": "V164",
+    "name": {
+      "en": "Human sacrifice",
+      "zh": "人祭"
+    },
+    "description": {
+      "en": "A human is offered to secure cosmic or social balance.",
+      "zh": "以人為犧，求宇宙或社會之平衡。"
+    },
+    "keywords": [
+      "human sacrifice",
+      "sacrificed the maiden",
+      "heart sacrifice",
+      "offered a human",
+      "人祭",
+      "活人祭"
+    ]
+  },
+  {
+    "id": "blood-sacred",
+    "code": "V164.2",
+    "name": {
+      "en": "Blood as sacred substance",
+      "zh": "血為聖物"
+    },
+    "description": {
+      "en": "Blood is poured, sprinkled, or withheld as the life-substance binding earth and heaven.",
+      "zh": "血被澆、被灑或被留，作為繫連天地之生命質。"
+    },
+    "keywords": [
+      "blood poured",
+      "sprinkled with blood",
+      "blood of the",
+      "blood for the harvest",
+      "血為聖物",
+      "灑血"
+    ]
+  },
+  {
+    "id": "tree-of-life",
+    "code": "A755.2",
+    "name": {
+      "en": "Tree of life or knowledge",
+      "zh": "生命之樹"
+    },
+    "description": {
+      "en": "A sacred tree grants life, insight, or awakening — or its fruit is forbidden.",
+      "zh": "神樹賜生命、智慧或覺醒——或其果被禁。"
+    },
+    "keywords": [
+      "tree of life",
+      "tree of knowledge",
+      "bodhi tree",
+      "forbidden tree",
+      "生命之樹",
+      "菩提樹",
+      "知識樹"
+    ]
+  },
+  {
+    "id": "double",
+    "code": "D651.1",
+    "name": {
+      "en": "Doppelgänger / double",
+      "zh": "重影替身"
+    },
+    "description": {
+      "en": "An exact double or likeness appears — replacement, rivalry, or error of identity.",
+      "zh": "全然相同之複影現身——替代、相爭或認錯身份。"
+    },
+    "keywords": [
+      "double",
+      "exact likeness",
+      "mirror image",
+      "in his likeness",
+      "重影替身",
+      "化身相似"
+    ]
+  },
+  {
+    "id": "sacred-birth",
+    "code": "T578.1",
+    "name": {
+      "en": "Birth at a sacred locale",
+      "zh": "聖地誕生"
+    },
+    "description": {
+      "en": "A hero is born on, under, or within a holy place — mountain, temple, tree.",
+      "zh": "英雄誕於聖地——山巔、殿堂或樹下。"
+    },
+    "keywords": [
+      "born on the mountain",
+      "born in the temple",
+      "born under the tree",
+      "聖地誕生",
+      "生於山"
+    ]
+  },
+  {
+    "id": "animal-raised",
+    "code": "B535.1",
+    "name": {
+      "en": "Foundling raised by animals",
+      "zh": "獸養棄兒"
+    },
+    "description": {
+      "en": "The abandoned child survives and is suckled or raised by beasts.",
+      "zh": "棄兒為獸所哺、所養而活。"
+    },
+    "keywords": [
+      "raised by a wolf",
+      "suckled by",
+      "nursed by the bear",
+      "reared by",
+      "獸養棄兒",
+      "狼奶"
+    ]
+  },
+  {
+    "id": "bargain-supernatural",
+    "code": "M241.1",
+    "name": {
+      "en": "Bargain with death or deity",
+      "zh": "與神交易"
+    },
+    "description": {
+      "en": "A negotiated pact with death, the devil, or a god sets the terms of fate.",
+      "zh": "與死神、魔鬼或神明訂約，命運隨其條款而轉。"
+    },
+    "keywords": [
+      "bargain with",
+      "wager with",
+      "pact with the",
+      "seven-year",
+      "與神交易",
+      "訂約"
+    ]
+  },
+  {
+    "id": "initiation",
+    "code": "H1585",
+    "name": {
+      "en": "Initiation rites",
+      "zh": "成年之試"
+    },
+    "description": {
+      "en": "The story mirrors social initiation — entry trials, seclusion, ordeal of passage.",
+      "zh": "故事映照社會入會之儀——入門試煉、獨居、通過之難。"
+    },
+    "keywords": [
+      "initiation",
+      "initiated into",
+      "rite of passage",
+      "entry trials",
+      "成年之試",
+      "入會",
+      "成禮"
+    ]
+  },
+  {
+    "id": "water-crossing",
+    "code": "D761.1",
+    "name": {
+      "en": "River crossing as transformation",
+      "zh": "渡水之變"
+    },
+    "description": {
+      "en": "Crossing the river or sea marks a change of state — birth, death, or new life.",
+      "zh": "渡河越海即狀態之變——生、死或新生。"
+    },
+    "keywords": [
+      "crossed the river",
+      "crossing the water",
+      "forded",
+      "渡水之變",
+      "過河"
+    ]
+  },
+  {
+    "id": "mirror",
+    "code": "D1321.1",
+    "name": {
+      "en": "Mirror / reflection",
+      "zh": "鏡影"
+    },
+    "description": {
+      "en": "A mirror or still water reveals truth, beauty, death, or the self.",
+      "zh": "鏡或止水照見真相、美、死亡或自我。"
+    },
+    "keywords": [
+      "mirror",
+      "reflection",
+      "saw himself in",
+      "looked into the water",
+      "鏡影",
+      "照影"
+    ]
+  },
+  {
+    "id": "false-hero",
+    "code": "K1911",
+    "name": {
+      "en": "False hero / impostor",
+      "zh": "假英雄"
+    },
+    "description": {
+      "en": "Someone takes credit for another's deed or pretends to be the savior.",
+      "zh": "有人冒他人之功，或自詡為救主。"
+    },
+    "keywords": [
+      "false hero",
+      "impostor",
+      "took the credit",
+      "claimed the deed",
+      "假英雄",
+      "冒功"
+    ]
+  },
+  {
+    "id": "reunion",
+    "code": "T95.3",
+    "name": {
+      "en": "Lost and found spouse",
+      "zh": "破鏡重圓"
+    },
+    "description": {
+      "en": "Separated spouses or lovers search, suffer, and are reunited after trials.",
+      "zh": "離散之配偶或戀人尋覓、受苦，終於重聚。"
+    },
+    "keywords": [
+      "reunited",
+      "found his wife",
+      "found her husband",
+      "searched for years",
+      "破鏡重圓",
+      "重聚"
+    ]
+  },
+  {
+    "id": "migration-origin",
+    "code": "A965",
+    "name": {
+      "en": "Wandering founder / migration",
+      "zh": "遷徙建族"
+    },
+    "description": {
+      "en": "A people's origin is told as a wandering ancestor's journey to a new land.",
+      "zh": "一族之由來，述為流浪祖先遷至新土之旅。"
+    },
+    "keywords": [
+      "migration",
+      "wandered and founded",
+      "came across the sea",
+      "origins of the people",
+      "遷徙建族",
+      "遷移"
+    ]
+  },
+  {
+    "id": "seasons-origin",
+    "code": "A1084",
+    "name": {
+      "en": "Origin of seasons",
+      "zh": "四季之始"
+    },
+    "description": {
+      "en": "A myth explains why winter comes, why spring returns, the rhythm of the year.",
+      "zh": "神話解釋冬之來、春之歸、一年之節律。"
+    },
+    "keywords": [
+      "origin of the seasons",
+      "winter came",
+      "spring returned",
+      "seasons",
+      "四季之始",
+      "季節"
+    ]
+  },
+  {
+    "id": "ascent-sky",
+    "code": "F681.1",
+    "name": {
+      "en": "Ascent to the sky",
+      "zh": "登天"
+    },
+    "description": {
+      "en": "Climbers reach heaven by tree, ladder, chain of arrows, or thrown rope.",
+      "zh": "攀樹、天梯、箭鏈或擲繩而上達天界。"
+    },
+    "keywords": [
+      "climbed to the sky",
+      "chain of arrows",
+      "ladder of",
+      "up the tree to heaven",
+      "登天",
+      "攀天",
+      "天梯"
+    ]
+  },
+  {
+    "id": "cosmic-cow",
+    "code": "A1611",
+    "name": {
+      "en": "Cosmic cow / primordial herd",
+      "zh": "宇宙母牛"
+    },
+    "description": {
+      "en": "A life-giving cosmic cow or herd suckles or creates the world.",
+      "zh": "哺育或創造世界的宇宙母牛或原初牛群。"
+    },
+    "keywords": [
+      "cosmic cow",
+      "celestial cow",
+      "primordial cow",
+      "Audhumla",
+      "Kamadhenu",
+      "宇宙母牛",
+      "神牛"
+    ]
+  },
+  {
+    "id": "sacred-meal",
+    "code": "V153.1",
+    "name": {
+      "en": "Sacred meal",
+      "zh": "聖餐"
+    },
+    "description": {
+      "en": "A meal creates, transforms, or binds its participants — communion, soma, the feast rite.",
+      "zh": "一餐造化、轉化或繫連與餐者——聖餐、蘇摩、祭宴。"
+    },
+    "keywords": [
+      "sacred meal",
+      "last supper",
+      "communion",
+      "soma",
+      "haoma",
+      "聖餐",
+      "祭宴"
+    ]
+  },
+  {
+    "id": "devouring-mother",
+    "code": "G412.1",
+    "name": {
+      "en": "Devouring mother / consuming parent",
+      "zh": "吞子之母"
+    },
+    "description": {
+      "en": "A parent swallows or consumes offspring — fearing prophecy or in hunger.",
+      "zh": "父母吞食子女——因懼預言或出於饑餓。"
+    },
+    "keywords": [
+      "swallowed his children",
+      "devoured her offspring",
+      "ate his children",
+      "吞子之母",
+      "食子"
+    ]
+  },
+  {
+    "id": "healing-myth",
+    "code": "U120.1",
+    "name": {
+      "en": "Healing of the land",
+      "zh": "療土神話"
+    },
+    "description": {
+      "en": "A hero, rite, or sacrifice heals the wounded land, kingdom, or people.",
+      "zh": "英雄、儀式或犧牲療癒受創之地、國或民。"
+    },
+    "keywords": [
+      "healed the land",
+      "land was healed",
+      "cure the kingdom",
+      "restored the land",
+      "療土神話",
+      "地癒"
+    ]
+  },
+  {
+    "id": "solar-journey",
+    "code": "A731.3",
+    "name": {
+      "en": "Sun chariot / solar journey",
+      "zh": "日御之程"
+    },
+    "description": {
+      "en": "The sun travels daily by chariot, boat, or bearer across (or under) the world.",
+      "zh": "太陽每日乘車、船或由役者載行於世界（或其下）。"
+    },
+    "keywords": [
+      "sun chariot",
+      "solar boat",
+      "barque of the sun",
+      "carried the sun",
+      "日御之程",
+      "日車"
+    ]
+  },
+  {
+    "id": "origin-tools",
+    "code": "A1441",
+    "name": {
+      "en": "Origin of tools and crafts",
+      "zh": "工藝起源"
+    },
+    "description": {
+      "en": "A myth invents tools, writing, weaving, metallurgy, or pottery for humankind.",
+      "zh": "神話为人類發明工具、文字、織造、冶金或陶器。"
+    },
+    "keywords": [
+      "origin of tools",
+      "taught crafts",
+      "first smith",
+      "invented writing",
+      "工藝起源",
+      "器物之始"
+    ]
+  },
+  {
+    "id": "naming-world",
+    "code": "A940.1",
+    "name": {
+      "en": "Naming the world",
+      "zh": "命名成序"
+    },
+    "description": {
+      "en": "The act of naming beings, places, or things brings order to creation.",
+      "zh": "命名之舉為創世帶來秩序。"
+    },
+    "keywords": [
+      "named all",
+      "gave names",
+      "naming the",
+      "called their names",
+      "命名成序",
+      "命名"
+    ]
+  },
+  {
+    "id": "divine-rivalry",
+    "code": "A480.1",
+    "name": {
+      "en": "Jealous god / divine rivalry",
+      "zh": "神妒相爭"
+    },
+    "description": {
+      "en": "Gods contend for supremacy, worship, or a favored people.",
+      "zh": "諸神相爭——為至尊、為祭祀、為所寵之民。"
+    },
+    "keywords": [
+      "jealous god",
+      "rival gods",
+      "contended for worship",
+      "no other gods",
+      "神妒相爭",
+      "妒神"
+    ]
+  },
+  {
+    "id": "transformation-punishment",
+    "code": "D110.2",
+    "name": {
+      "en": "Transformation as punishment",
+      "zh": "化獸為罰"
+    },
+    "description": {
+      "en": "A crime or offense is answered by changing the offender into beast, tree, or stone.",
+      "zh": "罪行以化形為罰——變為獸、樹或石。"
+    },
+    "keywords": [
+      "as punishment",
+      "punished by turning",
+      "changed into a beast for",
+      "化獸為罰",
+      "受罰化形"
+    ]
+  },
+  {
+    "id": "poison-heal",
+    "code": "D1601.1",
+    "name": {
+      "en": "Sacred poison / healing toxin",
+      "zh": "毒藥同源"
+    },
+    "description": {
+      "en": "A substance both kills and cures — venom, herb, or poison swallowed for the world.",
+      "zh": "一物兼能殺與醫——毒液、靈草，或為世而吞之毒。"
+    },
+    "keywords": [
+      "poison and cure",
+      "venom",
+      "halahala",
+      "poison that heals",
+      "毒藥同源",
+      "毒與藥"
+    ]
+  },
+  {
+    "id": "sacred-direction",
+    "code": "Z811",
+    "name": {
+      "en": "Journey to the west / sacred direction",
+      "zh": "西行聖途"
+    },
+    "description": {
+      "en": "The sacred quest runs along a fixed direction — west for scripture, east for empire.",
+      "zh": "神聖旅程循定方向——西行求法，東征建國。"
+    },
+    "keywords": [
+      "journey to the west",
+      "westward",
+      "eastward expedition",
+      "marched east",
+      "西行聖途",
+      "西行"
+    ]
+  },
+  {
+    "id": "vanishing-people",
+    "code": "A1610",
+    "name": {
+      "en": "Vanishing people",
+      "zh": "消逝之民"
+    },
+    "description": {
+      "en": "An entire people, tribe, or race disappears — lost, few left, or gone underground.",
+      "zh": "整族、整部落或整種之人消失——失蹤、僅存或遁入地底。"
+    },
+    "keywords": [
+      "vanished people",
+      "why there are few",
+      "the tribe disappeared",
+      "lost people",
+      "消逝之民",
+      "失族"
+    ]
+  },
+  {
+    "id": "sea-birth",
+    "code": "A1232.1",
+    "name": {
+      "en": "Sea birth / oceanic origins",
+      "zh": "海中生人"
+    },
+    "description": {
+      "en": "A being is born of, or rises from, the sea, foam, or waves.",
+      "zh": "生靈自海、泡沫或波濤中生或昇起。"
+    },
+    "keywords": [
+      "born of the sea",
+      "rose from the sea",
+      "foam",
+      "waves",
+      "海中生人",
+      "海生"
+    ]
+  },
+  {
+    "id": "divine-smith",
+    "code": "A541.1",
+    "name": {
+      "en": "Divine craftsman / smith-god",
+      "zh": "神匠"
+    },
+    "description": {
+      "en": "A god creates by craft — forging weapons, shaping humans on a wheel, building halls.",
+      "zh": "神以工藝造物——鍛兵器、摶人於輪、築造殿宇。"
+    },
+    "keywords": [
+      "smith god",
+      "divine craftsman",
+      "forged",
+      "Ptah",
+      "Hephaestus",
+      "Kothar",
+      "神匠",
+      "鍛神"
+    ]
+  },
+  {
+    "id": "great-hunt",
+    "code": "A1533.1",
+    "name": {
+      "en": "The great hunt",
+      "zh": "大獵"
+    },
+    "description": {
+      "en": "An enormous mythic hunt — boar, stag, or beast — explains order, loss, or the seasons.",
+      "zh": "宏大神話之獵——野豬、牡鹿或巨獸——解釋秩序、失落或季節。"
+    },
+    "keywords": [
+      "great hunt",
+      "boar hunt",
+      "wild hunt",
+      "hunted the great",
+      "大獵",
+      "狩獵"
+    ]
+  },
+  {
+    "id": "wounded-king",
+    "code": "A930.2",
+    "name": {
+      "en": "Wounded king / sick-king syndrome",
+      "zh": "傷王之疾"
+    },
+    "description": {
+      "en": "The king's wound or sickness mirrors the land's barrenness; healing king and land are one act.",
+      "zh": "王之傷疾映照土地之荒蕪；癒王即癒土。"
+    },
+    "keywords": [
+      "wounded king",
+      "sick king",
+      "maimed king",
+      "the land withered",
+      "傷王之疾",
+      "病王"
+    ]
+  },
+  {
+    "id": "demigod",
+    "code": "A511.1",
+    "name": {
+      "en": "Demigod",
+      "zh": "半神"
+    },
+    "description": {
+      "en": "A child of god and mortal bridges the two realms — mighty, doomed, or both.",
+      "zh": "神與凡人之子跨越兩界——力大、命定，或兼而有之。"
+    },
+    "keywords": [
+      "demigod",
+      "half-god",
+      "son of the god",
+      "daughter of the goddess",
+      "半神",
+      "神人之子"
+    ]
+  },
+  {
+    "id": "animal-ancestors",
+    "code": "A1240.1",
+    "name": {
+      "en": "Animal origin of humans",
+      "zh": "獸祖"
+    },
+    "description": {
+      "en": "Humans descend from animals — monkey, bear, serpent, or totem ancestor.",
+      "zh": "人類源出於獸——猴、熊、蛇或圖騰之祖。"
+    },
+    "keywords": [
+      "descended from the monkey",
+      "animal ancestors",
+      "from the ape",
+      "totem ancestor",
+      "獸祖",
+      "猴祖"
+    ]
+  },
+  {
+    "id": "clever-woman",
+    "code": "K1211",
+    "name": {
+      "en": "The cunning wife / clever woman",
+      "zh": "慧婦"
+    },
+    "description": {
+      "en": "A woman outwits husband, king, or gods with wit, counsel, or disguise.",
+      "zh": "女子以智、諫或偽裝勝夫、勝王、勝神。"
+    },
+    "keywords": [
+      "cunning wife",
+      "clever woman",
+      "wise woman",
+      "outwitted the",
+      "慧婦",
+      "智婦"
+    ]
+  },
+  {
+    "id": "secret-book",
+    "code": "D1553.2",
+    "name": {
+      "en": "The lost book / hidden knowledge",
+      "zh": "祕籍"
+    },
+    "description": {
+      "en": "A book or scroll of power is hidden, stolen, or read at a price.",
+      "zh": "威力之書被藏、被盜，或閱之付價。"
+    },
+    "keywords": [
+      "book of magic",
+      "stolen scroll",
+      "hidden knowledge",
+      "secret book",
+      "祕籍",
+      "法書"
+    ]
+  },
+  {
+    "id": "binding-monster",
+    "code": "G465.1",
+    "name": {
+      "en": "Binding of a monster",
+      "zh": "縛怪"
+    },
+    "description": {
+      "en": "The monster, wolf, or titan is bound — to rock, abyss, or underworld — until the end.",
+      "zh": "怪物、狼或提坦被縛——於磐石、深淵或冥府——直至終末。"
+    },
+    "keywords": [
+      "bound the wolf",
+      "bound in the abyss",
+      "chains",
+      "tied to the rock",
+      "縛怪",
+      "束縛"
+    ]
+  },
+  {
+    "id": "degeneration-races",
+    "code": "A1161.1",
+    "name": {
+      "en": "Degeneration of the races",
+      "zh": "種族退化"
+    },
+    "description": {
+      "en": "Earlier, superior races or creations fail and are replaced by the present, lesser mortals.",
+      "zh": "先前更優之族或造物敗壞，由今日較劣之凡人取代。"
+    },
+    "keywords": [
+      "silver age",
+      "wood people",
+      "previous creation",
+      "degeneration",
+      "種族退化",
+      "退化"
+    ]
+  },
+  {
+    "id": "solar-house",
+    "code": "F162.1",
+    "name": {
+      "en": "House of the sun",
+      "zh": "日宮"
+    },
+    "description": {
+      "en": "The dwelling of the sun or chief deity — a palace visited, entered, or raided.",
+      "zh": "太陽或主神之居——可供拜訪、進入或劫掠之宮殿。"
+    },
+    "keywords": [
+      "house of the sun",
+      "palace of the sun",
+      "sun's palace",
+      "solar hall",
+      "日宮",
+      "日殿"
+    ]
+  },
+  {
+    "id": "sky-repair",
+    "code": "A720.1",
+    "name": {
+      "en": "The broken sky, repaired",
+      "zh": "補天"
+    },
+    "description": {
+      "en": "The sky is broken — pillars fall, heaven tears — and is mended or propped again.",
+      "zh": "天穹破損——柱折、天裂——而後被修補或重新撐起。"
+    },
+    "keywords": [
+      "repaired the sky",
+      "mended the sky",
+      "broken sky",
+      "pillars fell",
+      "補天",
+      "天裂"
+    ]
+  },
+  {
+    "id": "contest-bride",
+    "code": "H331.1",
+    "name": {
+      "en": "Contest for the bride",
+      "zh": "爭婚之試"
+    },
+    "description": {
+      "en": "Suitors contend — in feats, races, or riddles — for a bride whose father sets the terms.",
+      "zh": "求婚者以技、以賽、以謎相爭，其父定其局。"
+    },
+    "keywords": [
+      "contest for the bride",
+      "suitor",
+      "won her hand",
+      "raced for the bride",
+      "爭婚之試",
+      "比武招親",
+      "求婚"
+    ]
+  },
+  {
+    "id": "bow-contest",
+    "code": "H561.1",
+    "name": {
+      "en": "Contest of the bow",
+      "zh": "射弓之試"
+    },
+    "description": {
+      "en": "The hero's bow, once his, cannot be strung by others; stringing it reveals the true lord.",
+      "zh": "英雄之弓，他人莫能張；能張者即真主。"
+    },
+    "keywords": [
+      "string the bow",
+      "bow of Odysseus",
+      "Arjuna's bow",
+      "drew the bow",
+      "射弓之試",
+      "張弓",
+      "神弓之試"
+    ]
+  },
+  {
+    "id": "soul-journey",
+    "code": "E751",
+    "name": {
+      "en": "Soul's journey after death",
+      "zh": "亡魂之旅"
+    },
+    "description": {
+      "en": "After death the soul travels stages, lands, or trials on its way to rest or rebirth.",
+      "zh": "死後靈魂歷經階段、國土或考驗，方達安息或轉生。"
+    },
+    "keywords": [
+      "soul's journey",
+      "journey of the dead",
+      "bardo",
+      "crossed the river",
+      "亡魂之旅",
+      "中陰",
+      "渡冥"
+    ]
+  },
+  {
+    "id": "patricide",
+    "code": "S26",
+    "name": {
+      "en": "Patricide / kin-killing of the father",
+      "zh": "弒父"
+    },
+    "description": {
+      "en": "A child or younger kinsman kills, castrates, or overthrows the father — often unwittingly and often foretold by prophecy.",
+      "zh": "子女或年幼親屬殺害、閹割或推翻父親——常出於無意，且常有神諭預言。"
+    },
+    "keywords": [
+      "patricide",
+      "kills his father",
+      "killed his father",
+      "killing his father",
+      "killing father",
+      "slew his father",
+      "murdered his father",
+      "murdered his own father",
+      "father-killer",
+      "castrated his own father",
+      "would kill his father",
+      "弒父",
+      "殺父",
+      "kills his own father",
+      "killed his own father",
+      "slays his own father",
+      "slew their father",
+      "killed their father",
+      "kills a father",
+      "father killed by son",
+      "son who killed his father"
+    ]
+  }
+]

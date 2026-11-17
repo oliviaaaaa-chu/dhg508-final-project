@@ -1,0 +1,369 @@
+{
+  "_comment": "Norse expansion batch 38 - Creation & Origin Myths IV (topic 1): the mead of poetry, Rigspula (origin of classes), Odin's rune-won alphabet. Deep records. All passages are paraphrase and carry a note.",
+  "texts": [
+    {
+      "id": "norse-kvasir-mead",
+      "title": {
+        "en": "Kvasir and the Mead of Poetry: How Skaldic Art Was Made",
+        "zh": "克瓦希爾與詩之蜜酒：吟遊詩藝的起源"
+      },
+      "tradition": "norse",
+      "category": "myth-religion",
+      "region": {
+        "en": "Hnitbjorg and Suttungr's halls (symbolic pin at Gamla Uppsala, Sweden)",
+        "zh": "尼特山與蘇頓巨人諸廳（象徵性定位於瑞典舊烏普薩拉）"
+      },
+      "lat": 59.9,
+      "lon": 17.64,
+      "period": "Skaldskaparmal c. 1220-1230 (older mythic material); principal MSS Codex Regius GKS 2367 4to, Codex Trajectinus",
+      "source": {
+        "archive": "Project Gutenberg (Brodeur 1916)",
+        "work": "Snorri Sturluson, Edda: Skaldskaparmal prologue and ch. 1 (the mead of poetry); critical ed. Anthony Faulkes (1987)",
+        "url": "https://www.gutenberg.org/ebooks/search/?query=prose+edda"
+      },
+      "license": "Public domain (Brodeur 1916); passages below are labeled paraphrases",
+      "summary": {
+        "en": "From the peace between two divine nations came Kvasir, wisest of all beings; the dwarfs Fjalar and Galar killed him and brewed his blood, mixed with honey, into the mead that makes anyone who drinks it a poet or scholar. The mead passes through murder and theft - to the giant Suttungr, whose daughter Gunnlod guards it in a mountain - until Odin, taking every shape from serpent to eagle, drinks it dry in three draughts and spits it out over the world, giving poetry to the gods and to men who can master the gift.",
+        "zh": "兩神族締和的產物克瓦希爾，是全智的存在；矮人法亞拉與加拉謀殺了他，將其血混合蜂蜜釀成「使人飲之成為詩人或學者」的蜜酒。此酒幾經謀殺與竊奪——輾轉落入巨人蘇頓之手，其女貢恩洛德守於山中——直到奧丁化身蛇與鷹，三口飲盡，再噴灑世間，將詩藝賜予諸神及能承此天賦之人。"
+      },
+      "language": "Old Norse / Old Icelandic",
+      "canonical_translation": "A. G. Brodeur, Snorri Sturluson: The Prose Edda, New York 1916 (public domain); consulted against Faulkes 1987",
+      "narrative": {
+        "en": "The myth of the mead is the Norse aition of poetry - and it is built entirely out of murder, theft and diplomacy. At the settlement of the Aesir-Vanir war, both sides spat into a vat, and from the mingled spittle they made Kvasir, a man so wise no question could be asked that he could not answer. He traveled the world teaching knowledge, until two dwarfs, Fjalar and Galar, invited him home and murdered him, letting his blood run into two vessels, the kettle Odroerir ('stirrer of inspiration') and the bowls Son and Bodn; they mixed his blood with honey, and the drink formed was such that whoever drank of it became a skald or scholar - the mead of poetry.\n\nThe dwarfs compounded crime: they invited the giant Gillingr and his wife and drowned the one and crushed the other under a rolling millstone, and when Gillingr's son Suttungr came for vengeance they gave him the mead as weregild. Suttungr hid it in the mountain Hnitbjorg and set his daughter Gunnlod to guard it - poetry as a giant's treasure under a woman's watch. Odin, learning this, worked his way through the whole chain of exchange. Under the name Bolverk ('worker of evil') he hired himself to Suttungr's brother Baugi for a summer's labor, and demanded as wages one drink of the mead; he bored the mountain through with the auger Rati, turned himself into a serpent, wriggled through, and for three nights was Gunnlod's lover; then he drank all three vessels dry in three draughts, turned into an eagle and flew - pursued by Suttungr in eagle shape - until the gods, seeing him, set out bowls in the enclosure of Asgard. Odin vomited the mead into them (a little he had voided backward, and that is the 'poetaster's share' - the bad poetry given to anyone), and gave the mead to the gods and to men skilled in poetry.\n\nThe doctrine packed into this fable is that poetry is not invention but substance: a liquid distilled from the blood of the wisest being, seasoned with honey, hoarded, and finally distributed by the god who owns everything worth having. The chain of possession - gods, dwarfs, giants, god again - is the myth's map of who owns cultural goods: the dwarfs make, the giants hoard, the Aesir circulate. And its ethic is candor about art's cost: every link is bought with a corpse, a seduction or a fraud, so that the skaldic poet sings with full knowledge of what his art was bought with.\n\nSnorri's prologue to Skaldskaparmal makes the use explicit: this is why poetry and scholarship are called Odin's property and find, and why the technical language of kennings - 'Odin's gift', 'Gunnlod's liquor', 'dwarf's drink' - is the working apparatus of skaldic verse. The mead myth is at once an origin myth for a cultural institution (the court poet's craft) and a charter for the social hierarchy of knowledge in thirteenth-century Iceland."
+      },
+      "functions": [
+        "Aition of poetry and scholarship: art as a substance distilled from a murdered sage",
+        "Map of cultural exchange: dwarfs make, giants hoard, gods circulate knowledge",
+        "Charter of skaldic practice: kennings for poetry cite this myth's chain of possession",
+        "Ethic of art's cost: every link bought with murder, seduction or fraud"
+      ],
+      "variants": [
+        {
+          "name": "Skaldskaparmal prologue (Prose Edda)",
+          "text_tradition": "Codex Regius GKS 2367 4to",
+          "summary": "Snorri's systematized telling, opening with Kvasir's birth from the peace-vat and ending with Odin's distribution of the mead; the fullest version.",
+          "cross_ref": "norse-kvasir-mead"
+        },
+        {
+          "name": "Havamal st. 104-110 (Poetic Edda)",
+          "text_tradition": "Codex Regius GKS 2365 4to",
+          "summary": "Odin's own riddling version: 'Gunnlod gave me on the golden seat drink of the precious mead' - the theft told in the first person with boastful ellipses; the raths he paid, and what he got away with.",
+          "cross_ref": "norse-havamal-runes"
+        },
+        {
+          "name": "Greek parallel: Dionysos and the gift of wine",
+          "text_tradition": "Homeric Hymn to Dionysus; Ovid, Metamorphoses",
+          "summary": "Wine's divine origin and circulation through violent episodes - the Greek analog of a culture-gift transmitted through blood and piracy rather than peaceful invention.",
+          "cross_ref": "greek-hymn-dionysus-pirates"
+        }
+      ],
+      "primary_sources": [
+        {
+          "work": "Snorri Sturluson, Edda: Skaldskaparmal",
+          "citation": "Prologue and ch. 1 (Kvasir, the dwarfs' murder, the mead; Odin as Bolverk; Gunnlod; the flight as eagle). Critical edition: Anthony Faulkes, Edda, London 1987; MSS Codex Regius GKS 2367 4to, Codex Trajectinus. English: Brodeur 1916 (public domain).",
+          "language": "Old Norse / Old Icelandic"
+        },
+        {
+          "work": "Havamal",
+          "citation": "Stanzas 13-14 (the mead called 'Odin's find'), 104-110 (Bolverk's wooing of Gunnlod). Principal MS Codex Regius GKS 2365 4to. Public-domain English: Bellows 1923.",
+          "language": "Old Norse / Old Icelandic"
+        }
+      ],
+      "secondary_sources": [
+        {
+          "work": "Anthony Faulkes, Edda (ed. and commentary)",
+          "citation": "Faulkes 1987, London: Everyman - critical text and commentary on the mead chapter."
+        },
+        {
+          "work": "Margaret Clunies Ross, Prolonged Echoes, vol. 1",
+          "citation": "Clunies Ross 1994, Odense - the mead as a case-study in the Norse economy of knowledge."
+        },
+        {
+          "work": "Rudolf Simek, Dictionary of Northern Mythology",
+          "citation": "Simek 1993, Cambridge: D. S. Brewer - entries 'Kvasir', 'Odroerir', 'Mead of poetry'."
+        }
+      ],
+      "source_urls": [
+        {
+          "url": "https://www.sacred-texts.com/neu/pre/pre06.htm",
+          "description": "Skaldskaparmal opening chapters, Brodeur translation (public domain)",
+          "accessed": "2026-11-01"
+        },
+        {
+          "url": "https://www.sacred-texts.com/neu/poe/poe04.htm",
+          "description": "Havamal st. 104-110, Bellows translation (public domain)",
+          "accessed": "2026-11-01"
+        }
+      ],
+      "sensitivity_flag": "none",
+      "provenance": {
+        "record_status": "complete",
+        "compiled": "2026-11-01",
+        "compiled_by": "DHG508 fieldwork compilation",
+        "review_status": "draft - pending human review"
+      },
+      "motifs": [
+        "fire-theft",
+        "trickster",
+        "transformation"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Historical literary corpus; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Fjalar and Galar invited Kvasir to their home and killed him, letting his blood flow into the kettle Odroerir and the two bowls Son and Bodn; they mixed honey with the blood, and the drink that came of it was such that whoever drank of it became a skald or a man of knowledge - the mead they called that, and it makes a poet of everyone who partakes.",
+          "note": "Paraphrase of Snorri, Skaldskaparmal ch. 1 (Brodeur 1916); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Under the name Bolverk Odin served Baugi the giant for a summer, and took as wages one drink of the mead; he bored the mountain with the auger Rati, became a worm and crept through, and lay three nights by Gunnlod the warden - then he drank all the mead in three draughts, became an eagle and flew, with Suttungr in eagle shape hard after him, till the gods had set out bowls in Asgard's field and he emptied the mead into them.",
+          "note": "Paraphrase of Snorri, Skaldskaparmal ch. 1 (Brodeur 1916); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "What Odin voided of the mead behind him as he flew, anyone took who wished - and that is the poetaster's part; but the mead he had brought to Asgard he gave to the gods, and to men who are skilled in the craft of poetry, so that poetry is called Odin's property and Odin's find, and drink of Odin, and Gunnlod's liquor, and dwarf's drink.",
+          "note": "Paraphrase of Snorri, Skaldskaparmal ch. 1 (Brodeur 1916); not verbatim."
+        }
+      ]
+    },
+    {
+      "id": "norse-rigspula",
+      "title": {
+        "en": "Rigspula: How Heimdall Fathered the Three Estates",
+        "zh": "里格詩篇：海姆達爾如何誕下三個階層"
+      },
+      "tradition": "norse",
+      "category": "myth-religion",
+      "region": {
+        "en": "Farmsteads of a Norse land (symbolic pin at Skagafjordur, Iceland)",
+        "zh": "北歐農莊地帶（象徵性定位於冰島斯卡加峽灣）"
+      },
+      "lat": 65.7,
+      "lon": -19.6,
+      "period": "Rigspula c. 10th-13th century CE (with debated Christian-era additions); sole MS Codex Wormianus AM 242 fol. (c. 1350)",
+      "source": {
+        "archive": "sacred-texts.com (Bellows 1923)",
+        "work": "Rigspula (Rigsthula), prose prologue and st. 1-46; commentary in Dronke (Poetic Edda II, 1997) and Simek (1993)",
+        "url": "https://www.sacred-texts.com/neu/poe/"
+      },
+      "license": "Public domain (Bellows 1923); passages below are labeled paraphrases",
+      "summary": {
+        "en": "The god Heimdall, traveling under the name Rig ('king'), visits three households in turn - the hovel of Great-Grandfather (Ai) and Great-Grandmother (Edda), the farmhouse of Grandfather (Afi) and Grandmother (Amma), and the hall of Father (Fadir) and Mother (Modir) - and lies in the middle of each bed. Nine months later each wife bears a child: Thrall, the swarthy laborer, whose children carry servant names; Karl, the freeman farmer, whose children carry farmer names; and Jarl, the noble, whose children carry noble names - and whose youngest son Kon reads the runes and is called Konung, king. The poem is the Norse aition of social class: the three estates are three children of the same god, and the name of kingship itself descends from the poem's closing riddle.",
+        "zh": "海姆達爾神化名「里格」（王）巡行，先後造訪三戶人家——曾祖父與曾祖母的陋室、祖父與祖母的農舍、父親與母親的廳堂——並各睡於床中。九個月後，三婦各誕一子：奴隸者，黝黑皺縮的勞役之人，其子孫皆僕役之名；自由農卡爾，其子孫乃體面農人之名；貴族雅爾，其子孫皆貴族之名，而其幼子康能誦如尼文，被稱為「康努恩格」——即王。此詩是北歐的階層起源神話：三個階層同為一位神所生，「王」之名亦出自詩篇結尾之謎。"
+      },
+      "language": "Old Norse / Old Icelandic",
+      "canonical_translation": "Henry A. Bellows, The Poetic Edda, New York 1923 (public domain); consulted against Dronke 1997",
+      "narrative": {
+        "en": "Rigspula is a myth of origin for the whole social order, told as a travelogue of hospitality. A god - one they say was Heimdall, wisest of gods - walks along the sea-strand to a dwelling and calls himself Rig. In the first house the door was open; he went in, and the fire was on the floor, and the man and wife, Great-grandfather and Great-grandmother, fed him with heavy coarse bread, broth of goats, and meat boiled in broth. He lay between them three nights, and nine months later the wife bore a boy, sprinkled with water, named Thrall: swarthy, rough-skinned, crooked-nosed, with a broad back and knotted hands. He grew, took to binding bast and carrying loads, and married a woman with scarred heels; their children are named like servants - Byr, Bomber, Swarthy, Lusty, Fat-leg, Crooked, Cinder - the kinds of slaves.\n\nRig went on to a well-built farmhouse. The couple, Grandfather and Grandmother, fed him boiled veal and wheaten bread, wine in cups, and he stayed three nights. Their son is Karl - ruddy, bright-eyed, like a little snake - who breaks oxen, builds barns, makes carts and ploughs; his children wear linen, keep dogs and horses, and carry the names of free farmers. And Rig went on to the hall: Father and Mother, silk-bedecked, served him bread of wheat white as snow, wine, venison and birds; their son is Jarl, blond, brilliant-eyed, a warrior in the woods, lord of rings and shields, whose children are noble names. Jarl's youngest is Kon the young, who learns the runes, outflies birds, stills the sea, quenches fire, and understands the speech of birds; a crow tells him to fight, and he wins - and from his name comes Konung, king.\n\nThe cultural work is dense. Class is biological and divine at once: all three estates descend from the same god through women of different housekeeping, so hierarchy is an accident of the bed, not of merit or blood pollution - each class carries its own dignity, each its own names. The sprinkling with water (ausa vatni) at birth is a real rite attested in the sagas, here written into cosmic origin. And the poem's frame is a name-book: the lists of children's names are the same name-collections used by real families, giving each estate a life of its own names. Its last stanza is famous for its pun - the rune-riddle that 'Kon' plus the final rune spells Konung - and scholars have argued whether the poem's ending is Christian-era flattery of a king or a genuine mythic close.\n\nFor the database the record is a comparative hinge: the Norse three-estate origin myth answers the Greek Prometheus' distribution of skills to humans and the Hindu varna-myth, but with an erotic, biological mechanism - a god siring a nation by sleeping with three housewives - that is unique to the north.\n\nThe name-book doctrine completes the record: each estate's children carry their own set of names (the servants' nicknames, the farmers' respectable names, the nobles' ring-giving names), and many are attested as real Scandinavian personal names in runic inscriptions - the mythic catalog doubling as a name-book used by actual families. And the Konung-riddle completes the record: the young king's name plus the final rune spells 'king' - the poem's closing pun debated as either native myth or Christian-era flattery, the corpus's most famous textual crux. The record thus anchors the class-origin family: the estates as three children of one god, distinctive in the erotic mechanism and the name-inheritance."
+      },
+      "functions": [
+        "Aition of the three estates: thrall, freeman, noble - one god as common ancestor",
+        "Name-book doctrine: each class inherits its own set of personal names",
+        "Legitimates real rites: sprinkling with water at birth written into cosmic origin",
+        "Etymology of kingship: Konung derived from the poem's concluding riddle"
+      ],
+      "variants": [
+        {
+          "name": "Rigspula (Poetic Edda)",
+          "text_tradition": "Codex Wormianus AM 242 fol. (c. 1350)",
+          "summary": "The authoritative version, complete with prose frame; the poem's Christian-era additions (Kon's rune-craft, the crow) are debated by editors as late or native.",
+          "cross_ref": "norse-rigspula"
+        },
+        {
+          "name": "Anglo-Saxon class riddles (comparative)",
+          "text_tradition": "Old English analogous material",
+          "summary": "Old English riddles and estate-traditions show the same three-estate scheme, indicating a shared Germanic template behind the Norse poem.",
+          "cross_ref": "none"
+        },
+        {
+          "name": "Hindu parallel: the varna origin",
+          "text_tradition": "Rigveda 10.90 (Purusha Sukta)",
+          "summary": "Classes arise from the body of a sacrificed primordial being - the dismembered-giant parallel to Ymir's flesh and to Heimdall's siring: different mechanism, same three-tier result.",
+          "cross_ref": "hindu-purusha"
+        }
+      ],
+      "primary_sources": [
+        {
+          "work": "Rigspula (Rigsthula)",
+          "citation": "Prose prologue and stanzas 1-46. Sole MS: Codex Wormianus AM 242 fol. (c. 1350, Iceland), where it is appended to Snorri's Edda. Public-domain English: Bellows 1923.",
+          "language": "Old Norse / Old Icelandic"
+        }
+      ],
+      "secondary_sources": [
+        {
+          "work": "Rudolf Simek, Dictionary of Northern Mythology",
+          "citation": "Simek 1993, Cambridge: D. S. Brewer - entry 'Rigsthula' with dating and class-analysis of the poem."
+        },
+        {
+          "work": "Ursula Dronke, The Poetic Edda, vol. II",
+          "citation": "Dronke 1997, Oxford - commentary on the Rig stanzas, the name-lists and the Konung riddle."
+        },
+        {
+          "work": "Gro Steinsland, Norron religion",
+          "citation": "Steinsland 2005, Oslo: Pax - the sacerdotal reading of the poem as a myth of the sacred king's descent."
+        }
+      ],
+      "source_urls": [
+        {
+          "url": "https://www.sacred-texts.com/neu/poe/poe15.htm",
+          "description": "Rigspula, Bellows translation (public domain)",
+          "accessed": "2026-11-01"
+        },
+        {
+          "url": "https://handrit.is/",
+          "description": "Codex Wormianus AM 242 fol. - manuscript catalogue entry",
+          "accessed": "2026-11-01"
+        }
+      ],
+      "sensitivity_flag": "none",
+      "provenance": {
+        "record_status": "complete",
+        "compiled": "2026-11-01",
+        "compiled_by": "DHG508 fieldwork compilation",
+        "review_status": "draft - pending human review"
+      },
+      "motifs": [
+        "sacred-kingship",
+        "culture-hero",
+        "riddle-contest",
+        "youngest-son"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Historical literary corpus; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Heimdall walked along the sea-strand and came to a dwelling; the door was open, the fire on the floor, and an old couple at work - Great-grandfather with a bundle of bast, Great-grandmother with her kerchief askew. Rig gave them his name, sat between them, and stayed three nights; nine months later the woman bore a boy swarthy and rough, and they sprinkled him with water and named him Thrall.",
+          "note": "Paraphrase of Rigspula st. 1-9 (Bellows 1923); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Rig went on to a well-built house; the couple there, Grandfather and Grandmother, fed him veal and wheaten bread and wine in cups. Their son Karl was ruddy and bright-eyed, and broke oxen and made ploughs and houses; his children kept horses and dogs and wore linen - and Rig passed on to the third hall, where Father and Mother served him wheaten bread white as snow, and their son Jarl was blond and brilliant-eyed, a maker of shields and knots of rings.",
+          "note": "Paraphrase of Rigspula st. 10-32 (Bellows 1923); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "Jarl's youngest son Kon learned the runes, and could still the sea, quench fire, and understand the speech of birds; a crow told him of a battle to be won, and he went and won it - and from his name is come the name Konung, which is king; so the poem ends with the riddle of his name.",
+          "note": "Paraphrase of Rigspula st. 40-46 (Bellows 1923); not verbatim."
+        }
+      ]
+    },
+    {
+      "id": "norse-havamal-runes",
+      "title": {
+        "en": "Odin's Sacrifice: Nine Nights on the Tree and the Winning of the Runes",
+        "zh": "奧丁的獻祭：懸於樹上九夜而得如尼文"
+      },
+      "tradition": "norse",
+      "category": "myth-religion",
+      "region": {
+        "en": "Yggdrasil, the World-Tree (symbolic pin at Pingvellir, Iceland)",
+        "zh": "世界樹尤克特拉希爾（象徵性定位於冰島辛格韋德利）"
+      },
+      "lat": 64.26,
+      "lon": -21.13,
+      "period": "Havamal st. 138-145, c. 900-1000 CE; principal MS Codex Regius GKS 2365 4to (c. 1270s)",
+      "source": {
+        "archive": "sacred-texts.com (Bellows 1923)",
+        "work": "Havamal st. 138-145; critical ed. Ursula Dronke (Poetic Edda II, 1997)",
+        "url": "https://www.sacred-texts.com/neu/poe/"
+      },
+      "license": "Public domain (Bellows 1923); passages below are labeled paraphrases",
+      "summary": {
+        "en": "In his own voice Odin tells how he hung on a windswept tree nine full nights, wounded with a spear and given to himself, to himself; none brought him bread or drink; he looked down, took up the runes, screaming, and fell back from the tree. The myth is the origin of runic writing and magic: the alphabet is won by a god's self-sacrifice on the gallows-tree, and with the runes come eighteen songs of power - healing, binding, blunting weapons, quenching fire, warding sorcery - and a closing taboo: Odin will teach the eighteenth song to no man or woman, only to a dead horse the king was going to bring back to life.",
+        "zh": "奧丁親述：他懸於迎風之樹整整九夜，被矛所刺，將自己獻祭給自己；無人賜他麵包或酒漿；他俯身向下，拾取如尼文，長嘯而落回樹下。此即如尼文字與魔法之起源：字母經由神在絞刑之樹上的自我犧牲而贏得。隨如尼文而來的是十八首咒歌——療傷、束縛、鈍化兵刃、熄火、抵禦巫術——最後是禁忌：第十八首咒歌，奧丁不肯傳授於人，而是傳給一匹國王欲復活之死馬。"
+      },
+      "language": "Old Norse / Old Icelandic",
+      "canonical_translation": "Henry A. Bellows, The Poetic Edda, New York 1923 (public domain); consulted against Dronke 1997",
+      "narrative": {
+        "en": "The myth of the runes is told by Odin in the first person, in the stern voice of a man remembering his own initiation: I know that I hung on a windswept tree nine long nights, wounded with a spear, given to Odin, myself to myself; on that tree of which no man knows from what root it rises. He had no bread and no horn of drink; he peered downward, took up the runes - screaming I took them, and I fell back from there - and then, from the sons of men happy, glad of harvest, grew I, and wise; word from word gave me word, deed from deed gave me deed.\n\nThe passage is the origin myth of the runic alphabet and, with it, of magic: the letters are not invented but won, and the price is a god's voluntary death-shape. The theological shock is the reflexive formula - 'myself to myself' - Odin sacrifices Odin, offering and offering-place in one; scholars have long compared the Christian crucifixion and debated influence in either direction, but the Norse myth's own logic is that of an exchange: the god gives the highest thing he has (his own life-suspension) and receives in exchange the highest thing the cosmos has (the runes, the script that names everything).\n\nThen follow the eighteen songs. Their contents are a pharmacopoeia of magic: help in sorrow and pain; the charm that heals wounds; the spell that blunts a foe's weapons; the fetter-snare for the tongue; the counterspell that breaks fetters; the throwing that stops a spear in flight; the fire-song that quenches flame; the charm that turns hatred away; the stilling of storms at sea; the banishing of witches from their horses; the ward against sorcery; the raising of the dead to answer questions; the winning of a maiden's love; and the eighteenth that is never taught to anyone - that I shall tell to no man or woman but to that dead horse which the king was going to bring back to life. The joke closes the sequence: the eighteenth song is resurrection, and Odin has practiced it only on a horse.\n\nThe cultural function is to make writing sacred. Runic inscriptions were cut for memorials, ownership, curses and prayer, and - per this myth - are a gift that runs down from Odin's self-sacrifice: the letter-forms themselves are a wound on wood. The taboo of the last song is the myth's moral: the highest magic is hoarded by its inventor, and the anecdote of the dead horse turns the doctrine of resurrection into a barb at the expense of kings. In database terms, this is the Norse 'theft of fire' - the civilizing gift that Prometheus stole is here not stolen but self-sacrificed, and its vocabulary is not flame but letter.\n\nThe rune-won doctrine's ritual context completes the record: the self-hanging on the tree is the initiation-rite's mythic form (the ordeal-hanging documented in Germanic practice), and the reflexive formula ('myself to myself') makes Odin both offer and offering-place - the sacrifice's grammar stated in one clause. And the eighteen songs' catalog completes the record: the practical pharmacopoeia of galdr (healing, binding, blunting, quenching, warding, waking the dead) with the eighteenth (resurrection) withheld - the myth's moral: the highest magic hoarded by its inventor, and the dead-horse joke as the doctrine's barb. The record thus anchors the sacred-writing family: the alphabet won by a god's self-sacrifice, the letters as wounds on wood."
+      },
+      "functions": [
+        "Origin myth of the runic alphabet as a gift won by self-sacrifice",
+        "Doctrine of magic: eighteen songs cataloging the practical pharmacopoeia of galdr",
+        "Reflexive sacrifice: the god offers himself to himself, making writing a divine wound",
+        "Closing taboo: the eighteenth (resurrection) song withheld from humans"
+      ],
+      "variants": [
+        {
+          "name": "Havamal st. 138-145 (Poetic Edda)",
+          "text_tradition": "Codex Regius GKS 2365 4to; additional material in Hauksbok",
+          "summary": "The authoritative version: the hanging, the falling, the winning, then the song-list. The Hauksbok adds stanzas on Odin's ferry and a 'Song of Songs' omitted in the Codex Regius.",
+          "cross_ref": "norse-havamal-runes"
+        },
+        {
+          "name": "Havamal st. 144-145 (wisdom coda)",
+          "text_tradition": "Codex Regius GKS 2365 4to",
+          "summary": "The closing taboos: better not to ask than too much to offer - the sacrifice is qualified by a rule of measure, balancing the myth's extravagance with a doctrine of restraint.",
+          "cross_ref": "none"
+        },
+        {
+          "name": "Greek parallel: Prometheus and the fire-theft",
+          "text_tradition": "Hesiod, Theogony 535-616; Works and Days 42-105",
+          "summary": "The civilizing gift taken from the gods at cost of punishment - the structural twin of the rune-winning, with theft and chaining here replaced by self-hanging and reward.",
+          "cross_ref": "prometheus-fire"
+        }
+      ],
+      "primary_sources": [
+        {
+          "work": "Havamal",
+          "citation": "Stanzas 138-145 (the sacrifice; the runes; the eighteen songs). Principal MS Codex Regius GKS 2365 4to. Critical edition: Dronke 1997; public-domain English: Bellows 1923.",
+          "language": "Old Norse / Old Icelandic"
+        }
+      ],
+      "secondary_sources": [
+        {
+          "work": "Ursula Dronke, The Poetic Edda, vol. II",
+          "citation": "Dronke 1997, Oxford - commentary on the sacrifice stanza and the magic-songs sequence."
+        },
+        {
+          "work": "Terry Gunnell, 'Havamal' overview articles",
+          "citation": "Gunnell 2006 - dating, the Christian-parallels debate, and the magic-song structure."
+        },
+        {
+          "work": "Rudolf Simek, Dictionary of Northern Mythology",
+          "citation": "Simek 1993, Cambridge: D. S. Brewer - entry 'Havamal' and the rune-origins literature."
+        }
+      ],
+      "source_urls": [
+        {
+          "url": "https://www.sacred-texts.com/neu/poe/poe04.htm",
+          "description": "Havamal st. 138-145, Bellows translation (public domain)",
+          "accessed": "2026-11-01"
+        }
+      ],
+      "sensitivity_flag": "none",
+      "provenance": {
+        "record_status": "complete",
+        "compiled": "2026-11-01",
+        "compiled_by": "DHG508 fieldwork compilation",
+        "review_status": "draft - pending human review"
+      },
+      "motifs": [
+        "wisdom-sacrifice",
+        "parable-teaching"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Historical literary corpus; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "I know that I hung on a windswept tree nine long nights, wounded with a spear, given to Odin, myself to myself; on that tree of which no man knows from what root it rises. They gave me neither bread nor horn of drink; I peered downward, took up the runes, screaming I took them, and fell back from there.",
+          "note": "Paraphrase of Havamal st. 138-139 (Bellows 1923); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Thence I grew happy, glad of harvest, and wise; word from word gave me word, deed from deed gave me deed. Then follow the songs: one helps in all sorrow; one stills the wave; one blunts the sword; one breaks fetters; one wards sorcery; one stops a spear in flight; one raises the dead - and the eighteenth I shall tell to no man or woman, but to the dead horse the king was going to bring back to life.",
+          "note": "Paraphrase of Havamal st. 140-145 (Bellows 1923); not verbatim."
+        }
+      ]
+    }
+  ]
+}

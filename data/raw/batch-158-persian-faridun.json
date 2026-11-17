@@ -1,0 +1,459 @@
+{
+  "_comment": "Shahnama of Firdausi, trans. A. G. & E. Warner (1905), vol. I: Faridun cycle — birth, Kava the smith, binding of Zahhak, trial of the sons. Paraphrase passages with notes.",
+  "texts": [
+    {
+      "id": "persian-faridun-birth-birmaya",
+      "title": {
+        "en": "Faridun's Birth and the Peacock Cow",
+        "zh": "法里東誕生與孔雀母牛"
+      },
+      "tradition": "persian",
+      "category": "myth",
+      "region": {
+        "en": "Forests of Mazandaran (symbolic pin)",
+        "zh": "馬贊德蘭林間（象徵性定位）"
+      },
+      "lat": 36.5,
+      "lon": 52.8,
+      "period": "Composed c. 1010 CE (Warner translation 1905)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Firdausi, Shahnama, trans. A. G. & E. Warner (1905), vol. I, Zahhak secs. 3-4",
+        "url": "https://archive.org/details/shahnama01firduoft"
+      },
+      "license": "Public domain (translation 1905)",
+      "summary": {
+        "en": "Abtin, a descendant of Tahmuras who warred against Zahhak, is captured and put to death, and his wife Faranak flees with the newborn Faridun, the bearer of Jamshid's lost Grace. She entrusts the babe to a keeper of the wondrous peacock-coloured cow Birmaya, whose milk rears him for three years; when the search closes in, the mother carries him to a holy hermit on Mount Alburz, while Zahhak in rage slays Birmaya and burns Faridun's empty home.",
+        "zh": "阿卜丁——塔胡穆拉斯後裔、討伐扎哈克者——被擒處死。其妻法拉娜克攜新生兒法里東（賈姆希德失落之天恩所託）逃亡，將嬰孩託付孔雀羽色神牛比爾瑪雅的牧人，以牛乳哺育三年。追兵漸近，母親攜子避往阿爾布茲山聖隱士處；扎哈克盛怒之下殺比爾瑪雅、焚其空宅。"
+      },
+      "motifs": [
+        "miraculous-birth",
+        "sacred-kingship",
+        "taboo-transgression"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Epic literary source; hidden-infant-hero motif. No living community restriction."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Years passed away and calamity approached the dragon-king: the blessed Faridun was born and the fashion of the world was changed. Of cypress height he shone forth with the Grace of kings of kings which erst Jamshid possessed, was like the sun, as needful as the rain to earth, and fit as knowledge to the mind; revolving heaven loved him tenderly.",
+          "note": "Paraphrase of Firdausi, Shahnama, Zahhak sec. 3 (Warner 1905); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Then lived the cow Birmaya, chief of kine, born with a coat all bright and peacock-hued, a marvel the archmages flocked to see. Meanwhile Zahhak searched everywhere till Faridun became a source of danger to his sire Abtin, who fled for life but met certain followers of Zahhak, who seized him and bore him before the Shah, and the Shah had him put to death.",
+          "note": "Paraphrase of Firdausi, Shahnama, Zahhak sec. 3 (Warner 1905); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "When Faridun's wise mother Faranak perceived her husband's fate she fled heart-broken to the field of the beautiful Birmaya, and bade the hind: protect this suckling for me, be a father to him, and give him milk of yon fair cow. The guardian fed the child for three years with Birmaya's milk; but as the cow was talked of everywhere the mother bore the babe in haste to a devotee on Mount Alburz, charging him to father it, for this her noble son would discrown Zahhak and tread his girdle in the dust. When the rumour reached Zahhak he went like a mad elephant, slew Birmaya, and burned the lofty palace of Faridun to the ground.",
+          "note": "Paraphrase of Firdausi, Shahnama, Zahhak secs. 3-4 (Warner 1905); not verbatim."
+        }
+      ],
+      "persons": [
+        "faridun",
+        "zahhak",
+        "abtin",
+        "faranak"
+      ]
+    },
+    {
+      "id": "persian-faridun-origin",
+      "title": {
+        "en": "Faridun Learns His Blood and Girds for Revenge",
+        "zh": "法里東知身世而興復仇之志"
+      },
+      "tradition": "persian",
+      "category": "myth",
+      "region": {
+        "en": "Plains of Iran (symbolic pin)",
+        "zh": "伊朗平原（象徵性定位）"
+      },
+      "lat": 34.0,
+      "lon": 51.4,
+      "period": "Composed c. 1010 CE (Warner translation 1905)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Firdausi, Shahnama, trans. A. G. & E. Warner (1905), vol. I, Zahhak sec. 4",
+        "url": "https://archive.org/details/shahnama01firduoft"
+      },
+      "license": "Public domain (translation 1905)",
+      "summary": {
+        "en": "At sixteen Faridun seeks out his mother and demands the truth of his lineage. She tells him of Abtin of royal race, of the two serpents that suck Iran's life-breath, of the brains of his father taken to feed them, and of the peacock cow that nursed him. Faridun's heart aches for revenge, but Faranak counsels patience: thou canst not stand alone against the world, for Zahhak has throne, crown, and a hundred thousand strong.",
+        "zh": "十六歲的法里東尋母問出身。母親道出：父阿卜丁乃王族、被殺取腦以飼扎哈克肩上雙蛇，那雙蛇吸食伊朗的生命之息；又述孔雀母牛哺乳之事。法里東胸中燃起復仇之火，母親卻勸其忍耐：扎哈克有王冠、寶座與十萬大軍，孤身不可與天下為敵。"
+      },
+      "motifs": [
+        "taboo-transgression",
+        "foundational-legend"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Epic literary source; no living community restriction."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Faridun, when twice eight years had passed, sought out his mother on the plain: disclose thy secret, say who is my father, what is my lineage, whom shall I declare myself in public. She said: I will tell all, my noble boy. Within Iran erewhile lived one Abtin, of royal race, sprung from Tahmuras; Abtin knew all the pedigree. Thy sire and my dear spouse was he; my days were dark when we were parted.",
+          "note": "Paraphrase of Firdausi, Shahnama, Zahhak sec. 4 (Warner 1905); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Now on Zahhak the warlock's shoulders grew two serpents which sucked the life-breath of Iran, and thy sire's brains were taken from his head to feed them. I came on an open pasture and there beheld a cow like jocund spring, the cow of peacock hues supplying thee with milk that made thee thrive, until the tidings of cow and meadow reached the Shah; then I bare thee from the pasture in all haste, and he came and slew the noble tender nurse and turned our home to ditch.",
+          "note": "Paraphrase of Firdausi, Shahnama, Zahhak sec. 4 (Warner 1905); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "The prince, enraged thereat, mused on revenge: the lion groweth brave by venturing, and since the sorcerer hath done his part, mine is to take my scimitar and lay his palace in the dust. She said: this is not well; thou canst not stand alone against the world; view not the world with boyish eyes, give all words save thy mother's to the wind.",
+          "note": "Paraphrase of Firdausi, Shahnama, Zahhak sec. 4 (Warner 1905); not verbatim."
+        }
+      ],
+      "persons": [
+        "faridun",
+        "faranak",
+        "abtin",
+        "zahhak"
+      ]
+    },
+    {
+      "id": "persian-kawa-smith-flag",
+      "title": {
+        "en": "Kava the Smith Raises the Kawian Standard",
+        "zh": "鐵匠卡瓦高舉卡維戰旗"
+      },
+      "tradition": "persian",
+      "category": "myth",
+      "region": {
+        "en": "Zahhak's palace, Babylon (symbolic pin)",
+        "zh": "扎哈克王宮（象徵巴比倫）"
+      },
+      "lat": 32.54,
+      "lon": 44.42,
+      "period": "Composed c. 1010 CE (Warner translation 1905)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Firdausi, Shahnama, trans. A. G. & E. Warner (1905), vol. I, Zahhak sec. 5",
+        "url": "https://archive.org/details/shahnama01firduoft"
+      },
+      "license": "Public domain (translation 1905)",
+      "summary": {
+        "en": "Zahhak, tormented by dreams of Faridun, makes the notables sign a scroll attesting his goodness. In bursts Kava the smith, seventeen of his eighteen sons taken to feed the serpents, accusing the Shah to his face. He tears the scroll in fury, hoists his leathern apron on a spear as a rallying flag — the ruler here is Ahriman, God's foe — and leads the crowd to Faridun. Faridun brocades the apron with jewels and names it the Kawian flag, the royal standard of Shahs for ages after.",
+        "zh": "扎哈克被法里東之夢所擾，迫群臣在其善行文書上署名。鐵匠卡瓦闖入——十八子被征去餵蛇，僅存其一——當面控訴王之暴虐。他怒撕文書，以鐵匠皮圍裙縛於矛尖為旗：「此地之主乃阿赫里曼，神之敵！」率眾投奔法里東。法里東以錦繡寶石飾之，定名卡維戰旗，後世歷代君王皆以此為國旗。"
+      },
+      "motifs": [
+        "culture-hero",
+        "ritual-origin",
+        "taboo-transgression"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Epic literary source; the Kawian flag is an Iranian national symbol etiology. No living community restriction."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Zahhak had Faridun upon his lips both day and night; he called the notables from every province and asked them to sign a scroll: our monarch soweth naught but seeds of good. Those upright men subscribed their names upon the Dragon's document against their wills, because they feared the Shah. Just then was heard outside the palace-gate the voice of one that clamoured for redress.",
+          "note": "Paraphrase of Firdausi, Shahnama, Zahhak sec. 5 (Warner 1905); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "O Shah, my name is Kawa and I sue for justice, cried the smith. I have had many an outrage at thy hands. I had once in this world eighteen sons: but one is left! My youth is gone, my children are no more, and all will be aghast if they shall show that this my son hath perished in his turn with all the rest to feed those snakes of thine. They set the young man free, but when Zahhak bade him subscribe the scroll Kawa shouted: confederates of the Div with impious hearts! I will not subscribe; and, rising in fury, rent the scroll and trampled it.",
+          "note": "Paraphrase of Firdausi, Shahnama, Zahhak sec. 5 (Warner 1905); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "In the market-place he took a leathern apron such as smiths wear to protect their legs while at the forge, stuck it upon a spear's point, and passed along exclaiming: whosoever would 'scape the fetters of Zahhak, let him resort with me to Faridun; the ruler here is Ahriman, God's foe. So that poor leather discriminated friends and enemies. Faridun marked the apron on the spear and hailed the omen, decked it with brocade of jewelled patterns on a golden ground, and named it the Kawian flag; thenceforth when any Shah acceded to the throne he hung the smith's worthless apron with still more jewels, and Kawa's standard grew to be a sun amid the gloom of night.",
+          "note": "Paraphrase of Firdausi, Shahnama, Zahhak sec. 5 (Warner 1905); not verbatim."
+        }
+      ],
+      "persons": [
+        "kawa",
+        "zahhak",
+        "faridun"
+      ]
+    },
+    {
+      "id": "persian-faridun-crag-tigris",
+      "title": {
+        "en": "The Crag Above the Sleeping Prince and the Swim Across the Tigris",
+        "zh": "墜崖巨石與橫渡底格里斯河"
+      },
+      "tradition": "persian",
+      "category": "myth",
+      "region": {
+        "en": "Tigris at Baghdad (symbolic pin)",
+        "zh": "巴格達附近底格里斯河（象徵性定位）"
+      },
+      "lat": 33.33,
+      "lon": 44.39,
+      "period": "Composed c. 1010 CE (Warner translation 1905)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Firdausi, Shahnama, trans. A. G. & E. Warner (1905), vol. I, Zahhak sec. 6",
+        "url": "https://archive.org/details/shahnama01firduoft"
+      },
+      "license": "Public domain (translation 1905)",
+      "summary": {
+        "en": "Faridun's two elder brothers envy his rising fortune: at a night halt they scale a cliff above their sleeping brother and loose a mighty crag upon his brow, but God rouses the sleeper, who with his magic art arrests the stone in mid-career and keeps the matter secret. Advancing on Zahhak's capital, Faridun finds the river-guard forbidden to launch boats, so he plunges his rose-red charger into the Tigris and his host swims over like a phantom cohort of a dream.",
+        "zh": "法里東兩位兄長嫉妒其鴻運：夜宿時攀上峭壁，對沉睡之弟鬆落巨石；神使其醒，法里東以法術止石於半空，並秘而不宣。進軍至扎哈克都城，渡口官奉命不予船隻，法里東遂騎赤駿直入底格里斯河，全軍如夢中幻影般泅水而過。"
+      },
+      "motifs": [
+        "taboo-transgression",
+        "culture-hero",
+        "transformation",
+        "jealousy"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Epic literary source; no living community restriction."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Faridun had two brothers, both of noble birth and older than himself, hight Kaimish and prosperous Purmaya. His brothers, seeing that God sped his cause, departed without delay to compass his destruction. There was above their heads a lofty cliff, and underneath the Shah slept peacefully. His two abandoned brothers scaled the height unseen, and, scrupling at no crime, set loose a mighty crag upon the brow to fall directly on their brother's head and kill him in his sleep.",
+          "note": "Paraphrase of Firdausi, Shahnama, Zahhak sec. 6 (Warner 1905); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "The crashing crag, for God so ordered, roused the slumberer, who by his magic art arrested it in mid-career: it stopped dead. Faridun went on his way but kept the matter secret. In front marched Kawa with the Kawian standard, soon to become the ensign of the realm, and Faridun advanced toward the Arwand, which the Arabs call the Dijla.",
+          "note": "Paraphrase of Firdausi, Shahnama, Zahhak sec. 6 (Warner 1905); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "The river-guard sent not his boats but made reply: the Shah gave privy orders to launch no boat without a passport under his own seal. The prince, enraged and fearless of the stream, plunged with his rose-red charger in the flood; with one accord his comrades turned toward the stream and plunged over saddle-back, their heads reeling while their swift steeds struggled with the tide, so that they seemed the phantom cohort of a dream. The warriors reached the dry land and set their faces toward Gang-i-Dizhukht, the tall palace of Zahhak.",
+          "note": "Paraphrase of Firdausi, Shahnama, Zahhak sec. 6 (Warner 1905); not verbatim."
+        }
+      ],
+      "persons": [
+        "faridun",
+        "kawa"
+      ]
+    },
+    {
+      "id": "persian-binding-zahhak",
+      "title": {
+        "en": "Faridun Binds Zahhak on Mount Damawand",
+        "zh": "法里東縛扎哈克於達馬萬德山"
+      },
+      "tradition": "persian",
+      "category": "myth",
+      "region": {
+        "en": "Mount Damawand (symbolic pin)",
+        "zh": "達馬萬德山（象徵性定位）"
+      },
+      "lat": 35.95,
+      "lon": 52.1,
+      "period": "Composed c. 1010 CE (Warner translation 1905)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Firdausi, Shahnama, trans. A. G. & E. Warner (1905), vol. I, Zahhak secs. 7-8",
+        "url": "https://archive.org/details/shahnama01firduoft"
+      },
+      "license": "Public domain (translation 1905)",
+      "summary": {
+        "en": "Zahhak returns by byway to his usurped palace, descends a roof by lasso with a poniard drawn against the two queens, and Faridun rushes on him like the wind, beating in his helm with the ox-head mace. The blessed Suriish stays the blow — his time hath not yet come — and Faridun binds the Dragon with a lasso of lion's hide and chains him in a nail-studded chasm of Mount Damawand, where he hangs, his heart's blood trickling to the ground.",
+        "zh": "扎哈克潛回王宮，以繩縋下屋頂，拔匕首欲刺二后；法里東疾風般撲上，牛首狼牙棒擊碎其盔。聖靈蘇魯什喝止：「其死期未至，當縛之。」法里東以獅皮繩縛龍，將其釘於達馬萬德山釘滿鐵釘的深谷岩隙間，令其懸吊，心血滴落於地。"
+      },
+      "motifs": [
+        "sacred-kingship",
+        "quest-immortality",
+        "boon-curse",
+        "succession-struggle",
+        "binding-monster"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Epic literary source. Zahhak is bound, not slain — his death is deferred to the eschaton (Keresaspa); cf. persian-zahhak-dream-faridun and Bundahishn eschatology records. No living community restriction."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Zahhak, mailed, approached the palace in jealous fear, armed with a lasso sixty cubits long, scaled the lofty edifice, and saw beneath him dark-eyed Shahrinaz toying bewitchingly with Faridun. He drew a keen-edged poniard from its sheath, told not his purpose or his name, and clutched the steel-blue dagger in his hand, athirst for the blood of those two beauteous dames.",
+          "note": "Paraphrase of Firdausi, Shahnama, Zahhak sec. 7 (Warner 1905); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "His feet no sooner rested on the ground than Faridun rushed on him like the wind and beat his helm in with the ox-head mace. Strike not, cried blest Suriish, who hurried thither: his time hath not yet come, but bind him vanquished firm as a rock and bear him to some gorge where friends and kinsmen will not come to him. When Faridun heard that he gat a lasso made of lion's hide and bound Zahhak around the arms and waist with bonds that no huge elephant could snap.",
+          "note": "Paraphrase of Firdausi, Shahnama, Zahhak sec. 8 (Warner 1905); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "He bore Zahhak fettered to Mount Damawand, and having marked a chasm of viewless depth, and studded it with heavy nails whereon the brain might chafe, he secured Zahhak bound by the hands upon a crag, that so his anguish might endure. Thus was he left to hang, his heart's blood trickling to the ground. The binding of Zahhak, that loathly one devoid of justice, was the chief deed done: he next avenged the murder of Abtin and purged the surface of earth clean of madmen.",
+          "note": "Paraphrase of Firdausi, Shahnama, Zahhak sec. 8 (Warner 1905); not verbatim."
+        }
+      ],
+      "persons": [
+        "faridun",
+        "zahhak",
+        "shahrinaz"
+      ]
+    },
+    {
+      "id": "persian-faridun-mihrgan",
+      "title": {
+        "en": "Faridun Founds the Feast of Mihrgan",
+        "zh": "法里東創立米赫爾甘節"
+      },
+      "tradition": "persian",
+      "category": "myth",
+      "region": {
+        "en": "Istakhr of Pars (symbolic pin)",
+        "zh": "帕爾斯伊斯塔赫爾（象徵性定位）"
+      },
+      "lat": 29.9,
+      "lon": 52.9,
+      "period": "Composed c. 1010 CE (Warner translation 1905)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Firdausi, Shahnama, trans. A. G. & E. Warner (1905), vol. I, Faridun sec. 1",
+        "url": "https://archive.org/details/shahnama01firduoft"
+      },
+      "license": "Public domain (translation 1905)",
+      "summary": {
+        "en": "Firm on the throne, Faridun orders crown and palace according to the usance of old times and on the first of Mihr sets on the royal diadem. He bids men kindle bonfires, burning ambergris and saffron, and thus founds the feast of Mihrgan, that time of rest and festival whose memorial is still the month of Mihr. In five centuries of sway he dedicates not a single day to evil.",
+        "zh": "法里東穩坐王位後，依古禮整飭冠冕宮室，於米赫爾月初一加冕。他令百姓燃起篝火，焚乳香與藏紅花，遂創米赫爾甘節——休憩歡宴之期，米赫爾月之名永為其紀念。五百載統治，無一日行惡。"
+      },
+      "motifs": [
+        "ritual-origin",
+        "sacred-kingship"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Epic literary source; festival etiology. No living community restriction."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "When Faridun attained his wish and reigned supreme on earth, he ordered crown and throne according to the usance of old times within the palace of the king of kings, and on the first of Mihr, a blessed day, set on his head the royal diadem. In those days, apprehensive of no evil, all men began to tread the path of God, abstaining from contention and observing a feast inaugurated royally.",
+          "note": "Paraphrase of Firdausi, Shahnama, Faridun sec. 1 (Warner 1905); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Then sages sat rejoicing and each held a ruby goblet; the wine was bright, the new Shah's face was bright, and all the world itself was brightened as that month began. He bade men kindle bonfires and the people burned ambergris and saffron; thus he founded Mihrgan. That time of rest and festival began with him, and his memorial is still the month of Mihr. He banished then all grief and labour from the minds of men, and dedicated not a single day to evil in five centuries of sway.",
+          "note": "Paraphrase of Firdausi, Shahnama, Faridun sec. 1 (Warner 1905); not verbatim."
+        }
+      ],
+      "persons": [
+        "faridun"
+      ]
+    },
+    {
+      "id": "persian-faridun-sons-sarv-spell",
+      "title": {
+        "en": "Sarv of Yaman Proves the Princes by Sorcery",
+        "zh": "也門王沙爾夫以法術試駙馬"
+      },
+      "tradition": "persian",
+      "category": "myth",
+      "region": {
+        "en": "Court of Sarv in Yaman (symbolic pin)",
+        "zh": "也門沙爾夫王庭（象徵性定位）"
+      },
+      "lat": 15.3,
+      "lon": 44.2,
+      "period": "Composed c. 1010 CE (Warner translation 1905)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Firdausi, Shahnama, trans. A. G. & E. Warner (1905), vol. I, Faridun secs. 4-5",
+        "url": "https://archive.org/details/shahnama01firduoft"
+      },
+      "license": "Public domain (translation 1905)",
+      "summary": {
+        "en": "Faridun sends to Sarv, king of Yaman, for three royal sisters to wed his three nameless sons. Sarv tries them twice: first he ranges his daughters by inverted age at a feast, which the princes answer as their father taught them; then he works a killing frost over their sleeping bower, and the three sons, by the Grace of God and their own skill, oppose the spell and keep the frost away. Beaten twice, Sarv gives up his three Eyes with crowns and trinkets and sends the brides to Faridun.",
+        "zh": "法里東遣使向也門王沙爾夫求三姐妹為其三子擇偶。沙爾夫兩度試探：先於宴上按長幼顛倒排列三女，王子們依父所授答破其計；再以殺人寒霜襲其睡處，三子賴天恩與己術，破咒禦霜。兩度挫敗，沙爾夫獻出三女，攜冠飾送往法里東處。"
+      },
+      "motifs": [
+        "oracle-divination",
+        "boon-curse",
+        "transformation",
+        "threefold"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Epic literary source; sorcery trial episode. No living community restriction."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Faridun perceived his three sons fit to rule and called Jandal, a noble counsellor: go round the world and select three maidens of noble lineage worthy of my sons, three sisters in full blood with fairy faces. The shrewd and holy man at length reached Sarv, the monarch of Yaman, and explained the embassy: my three sons well deserve to reign, and I have news that thou hast three maiden daughters as yet unnamed.",
+          "note": "Paraphrase of Firdausi, Shahnama, Faridun secs. 2-4 (Warner 1905); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Sarv brought his daughters out of their bowers and ranged them just as Faridun had foretold he would — the youngest walking first, the eldest last, the mid in age in the midst — and asked the eldest prince which of the three Stars was the youngest. They answered as they had been taught, and so sewed up the eyelids of his craft, while he and all his warriors were lost in wonder. The introduction ended in betrothal.",
+          "note": "Paraphrase of Firdausi, Shahnama, Faridun sec. 4 (Warner 1905); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "Then Sarv assembled boon-companions, and when wine had prevailed he bade set couches by a fountain of rose-water, where the three athelings slept in a bower of roses. Meanwhile the sorcerer-king prepared his spells: he brought a frost and mighty blast, and over hill and plain it froze so sharply that the crows grew numb. Faridun's three sons leapt from their couches at the grievous cold and, by the Grace of God and their own skill, by kingly magic and hardihood, opposed the spell and kept the frost away. Sarv beheld three princes like new moons and knew that spells had failed him; he opened his treasury and gave his three bright Eyes to the princes, with crowns and trinkets, sending the brides to Faridun.",
+          "note": "Paraphrase of Firdausi, Shahnama, Faridun sec. 5 (Warner 1905); not verbatim."
+        }
+      ],
+      "persons": [
+        "faridun",
+        "salm",
+        "tur",
+        "iraj"
+      ]
+    },
+    {
+      "id": "persian-faridun-dragon-trial",
+      "title": {
+        "en": "The Father Turns Dragon: Salm, Tur, and Iraj",
+        "zh": "父化為龍試三子：薩爾姆、圖爾與伊朗支"
+      },
+      "tradition": "persian",
+      "category": "myth",
+      "region": {
+        "en": "Roads of Iran (symbolic pin)",
+        "zh": "伊朗道路（象徵性定位）"
+      },
+      "lat": 34.0,
+      "lon": 51.4,
+      "period": "Composed c. 1010 CE (Warner translation 1905)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Firdausi, Shahnama, trans. A. G. & E. Warner (1905), vol. I, Faridun sec. 6",
+        "url": "https://archive.org/details/shahnama01firduoft"
+      },
+      "license": "Public domain (translation 1905)",
+      "summary": {
+        "en": "Hearing the princes returned with brides, Faridun changes himself to a raging dragon to prove their mettle. The eldest flees — be thou Salm, for thou soughtest safety; the second strings his bow — be thou Tur, a lion brave; the youngest speaks him fair and names himself — be thou Iraj, who chose the middle course 'twixt dust and flame. The Shah then reads their horoscopes: Jupiter for Salm, the Sun in the Lion's House for Tur, and for Iraj the Moon in Cancer — a destiny of strife and woe.",
+        "zh": "聞三子攜新婦歸來，法里東化身為咆哮巨龍以試其膽。長子逃遁——得名薩爾姆（求安全者）；次子彎弓——得名圖爾（勇獅）；幼子言辭得體——得名伊朗支（擇塵與火之中道者）。王更觀星象：薩爾姆得木星，圖爾得太陽居獅宮，而伊朗支得巨蟹座之月——註定紛爭與悲慟。"
+      },
+      "motifs": [
+        "transformation",
+        "oracle-divination",
+        "boon-curse"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Epic literary source. Names encode ethnonyms (Salm/Rum, Tur/Turan, Iraj/Iran). No living community restriction."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "When tidings reached Faridun that the princes had returned he went to meet them, longing, by trial of their characters, to end his boding fears; so changed him to a dragon, one no lion could escape, which hissed and bellowed with its jaws aflame. He rushed in fury toward his eldest son, that prince of many virtues, who exclaimed: no man of sense and wisdom thinketh good to fight with dragons; then he showed his back and fled.",
+          "note": "Paraphrase of Firdausi, Shahnama, Faridun sec. 6 (Warner 1905); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "The father turned toward the second son, who when he saw the dragon strung up his bow and drew it: when fight is toward, what matter if the foe be roaring lion or brave cavalier? But when the youngest son came up he cried: thou art a leopard; ware the lions' path! If e'er the name of Faridun hath reached thine ears contend not with us, for we three are sons of his, and I will discrown thee of thy loathly face unless thou turnest from thy waywardness.",
+          "note": "Paraphrase of Firdausi, Shahnama, Faridun sec. 6 (Warner 1905); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "The glorious Faridun thus proved their mettle and returned as their sire with pomp and kettledrums. That loathly dragon was your own father, he told them, who desired to prove your mettle. Now in my wisdom I have chosen fit names: thou soughtest safety, be thou Salm; thou from the first showedst fight, whose courage is more ardent than a flame, be thou Tur; and the youngest, who chose the middle course 'twixt dust and flame, the prudent man's, be he Iraj, and may his end be all supremacy. Then he spread the catalogue of stars before him: Salm's horoscope was Jupiter in Sagittarius, Tur's the Sun ascendant in the Lion's House, but for Iraj the Moon in Cancer revealed a destiny of strife and woe, and the Shah could not be but filled with grave anxiety.",
+          "note": "Paraphrase of Firdausi, Shahnama, Faridun sec. 6 (Warner 1905); not verbatim."
+        }
+      ],
+      "persons": [
+        "faridun",
+        "salm",
+        "tur",
+        "iraj"
+      ]
+    }
+  ]
+}

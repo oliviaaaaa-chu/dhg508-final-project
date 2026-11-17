@@ -1,0 +1,767 @@
+{
+  "texts": [
+    {
+      "id": "sumerian-hymn-nanshe",
+      "title": {
+        "en": "Nanshe, Lady of the Fish",
+        "zh": "娜姆舍：魚群女主"
+      },
+      "tradition": "sumerian",
+      "category": "myth",
+      "region": {
+        "en": "Nina and the marsh lagoon, Iraq",
+        "zh": "妮娜與沼澤潟湖（伊拉克）"
+      },
+      "lat": 31.0,
+      "lon": 46.5,
+      "period": "Old Babylonian manuscript, c. 1700 BCE (ETCSL translation 2003)",
+      "source": {
+        "archive": "ETCSL (University of Oxford)",
+        "work": "A hymn to Nanshe (Nanshe A, ETCSL c.4.14.1)",
+        "url": "https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.4.14.1&charenc=j"
+      },
+      "license": "ETCSL translation (Oxford, 2003-2006); quoted in paraphrase with attribution",
+      "summary": {
+        "en": "The daughter of Enki is praised as lady of fish and birds, interpreter of dreams and patron of the orphan: on New Year's day she judges the land, weighing the widow's case — the goddess of social justice and the lagoon's wealth.",
+        "zh": "恩基之女被頌為魚鳥之主、解夢之師、孤兒之護：新年之日她審理天下，為寡婦秉公裁斷——兼具社會正義與湖沼財富的女神。"
+      },
+      "motifs": [
+        "oracle-divination",
+        "sacred-kingship",
+        "culture-hero",
+        "orphan-hero"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient hymn; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Nanshe, daughter of Enki, is praised as lady of the fish and the birds of the lagoon, whose own mother was born of the water's plenty. She is the interpreter of dreams and the patron of the orphan and the widow: on New Year's day she holds court, weighing the cases of the poor with the water's justice.",
+          "note": "Paraphrase of ETCSL c.4.14.1, opening praise; not verbatim. / Paraphrase of ETCSL c.4.14.1, the New Year court; not verbatim."
+        }
+      ],
+      "persons": [
+        "enki"
+      ],
+      "functions": [
+        "Charter of the marsh administration and its justice",
+        "Dream-interpretation patroness liturgy"
+      ],
+      "variants": [
+        {
+          "name": "Nanshe and the birds",
+          "text_tradition": "Sumerian (ETCSL c.4.14.3)",
+          "summary": "The narrative companion of the hymn.",
+          "cross_ref": "sumerian-nanshe-birds"
+        }
+      ],
+      "language": "Sumerian",
+      "canonical_translation": "ETCSL team translation, Oxford, 2003-2006",
+      "primary_sources": [
+        {
+          "work": "A hymn to Nanshe (Nanshe A)",
+          "citation": "ETCSL c.4.14.1, trans. ETCSL team (2003-2006)",
+          "language": "Sumerian"
+        }
+      ],
+      "secondary_sources": [
+        {
+          "work": "The Treasures of Darkness",
+          "citation": "Thorkild Jacobsen, New Haven, 1976, on Nanshe"
+        }
+      ],
+      "source_urls": [
+        {
+          "url": "https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.4.14.1&charenc=j",
+          "description": "ETCSL c.4.14.1 text and translation",
+          "accessed": "2026-11-14"
+        }
+      ],
+      "sensitivity_flag": "none",
+      "provenance": {
+        "record_status": "complete",
+        "compiled": "2026-11-14",
+        "compiled_by": "opencode myth-collection session",
+        "review_status": "unreviewed"
+      }
+    },
+    {
+      "id": "sumerian-nanshe-birds",
+      "title": {
+        "en": "Nanshe and the Birds",
+        "zh": "娜姆舍與群鳥"
+      },
+      "tradition": "sumerian",
+      "category": "myth",
+      "region": {
+        "en": "Lagoon of Nina, Iraq",
+        "zh": "妮娜潟湖（伊拉克）"
+      },
+      "lat": 31.0,
+      "lon": 46.5,
+      "period": "Old Babylonian manuscript, c. 1700 BCE (ETCSL translation 2003)",
+      "source": {
+        "archive": "ETCSL (University of Oxford)",
+        "work": "Nanshe and the birds (Nanshe C, ETCSL c.4.14.3)",
+        "url": "https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.4.14.3&charenc=j"
+      },
+      "license": "ETCSL translation (Oxford, 2003-2006); quoted in paraphrase with attribution",
+      "summary": {
+        "en": "The birds of the marsh dispute their stations before their mistress; each is named, its cry described and its place assigned — a comic catalogue of the lagoon's citizens judged by the goddess.",
+        "zh": "沼澤群鳥於女主之前爭論職位；逐一具名、摹其啼聲、各定其位——潟湖公民的喜劇目錄，由女神親裁。"
+      },
+      "motifs": [
+        "sibling-creators",
+        "parable-teaching"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient hymn; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The birds of the marsh come before their mistress Nanshe to dispute their stations; each is named, its cry described, its feathers and habits catalogued — a comic assembly of the lagoon's citizens. The goddess assigns each bird its place, and the dispute is settled with her own wit — the marsh given its constitution in verse.",
+          "note": "Paraphrase of ETCSL c.4.14.3, the assembly; not verbatim. / Paraphrase of ETCSL c.4.14.3, the settlement; not verbatim."
+        }
+      ],
+      "persons": [],
+      "functions": [
+        "Comic catalogue of the marsh's birds",
+        "Naturalization of the dispute genre"
+      ],
+      "variants": [
+        {
+          "name": "The debate between Bird and Fish",
+          "text_tradition": "Sumerian (ETCSL c.5.3.5)",
+          "summary": "The formal debate counterpart.",
+          "cross_ref": "sumerian-bird-fish"
+        }
+      ],
+      "language": "Sumerian",
+      "canonical_translation": "ETCSL team translation, Oxford, 2003-2006",
+      "primary_sources": [
+        {
+          "work": "Nanshe and the birds (Nanshe C)",
+          "citation": "ETCSL c.4.14.3, trans. ETCSL team (2003-2006)",
+          "language": "Sumerian"
+        }
+      ],
+      "secondary_sources": [
+        {
+          "work": "Sumerian Mythology",
+          "citation": "Samuel Noah Kramer, Philadelphia, 1944"
+        }
+      ],
+      "source_urls": [
+        {
+          "url": "https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.4.14.3&charenc=j",
+          "description": "ETCSL c.4.14.3 text and translation",
+          "accessed": "2026-11-14"
+        }
+      ],
+      "sensitivity_flag": "none",
+      "provenance": {
+        "record_status": "complete",
+        "compiled": "2026-11-14",
+        "compiled_by": "opencode myth-collection session",
+        "review_status": "unreviewed"
+      }
+    },
+    {
+      "id": "sumerian-hymn-nisaba",
+      "title": {
+        "en": "Nisaba, the Grain and the Stylus",
+        "zh": "妮莎芭：五穀與書筆"
+      },
+      "tradition": "sumerian",
+      "category": "myth",
+      "region": {
+        "en": "Eresh, Iraq",
+        "zh": "埃雷什（伊拉克）"
+      },
+      "lat": 32.0,
+      "lon": 45.7,
+      "period": "Old Babylonian manuscript, c. 1700 BCE (ETCSL translation 2003)",
+      "source": {
+        "archive": "ETCSL (University of Oxford)",
+        "work": "A hymn to Nisaba (Nisaba A, ETCSL c.4.16.1)",
+        "url": "https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.4.16.1&charenc=j"
+      },
+      "license": "ETCSL translation (Oxford, 2003-2006); quoted in paraphrase with attribution",
+      "summary": {
+        "en": "The goddess of grain is praised as the scribe of the gods: she who measures the harvest on her lapis tablet, who lends her name to every school exercise — the patron of the writing that makes order.",
+        "zh": "穀物女神被頌為眾神之書記：於青金石泥板上量度收成，以其名冠於每份校習之卷——使秩序得以成立的書寫之守護者。"
+      },
+      "motifs": [
+        "culture-hero",
+        "sacred-kingship"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient hymn; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Nisaba is praised as the grain goddess and the scribe of the gods: the one who measures the harvest on her lapis tablet and counts the years. She lends her name to every school exercise, and the closing prayer asks her for the art of writing perfected — the patroness of the craft that makes order out of accounts.",
+          "note": "Paraphrase of ETCSL c.4.16.1, opening praise; not verbatim. / Paraphrase of ETCSL c.4.16.1, the school prayer; not verbatim."
+        }
+      ],
+      "persons": [
+        "nisaba"
+      ],
+      "functions": [
+        "Patroness liturgy of the scribal schools",
+        "Theology of accounting as divine order"
+      ],
+      "variants": [
+        {
+          "name": "A sir-namsub to Nisaba (Nisaba B)",
+          "text_tradition": "Sumerian (ETCSL c.4.16.2)",
+          "summary": "The companion hymn of the goddess.",
+          "cross_ref": "none"
+        }
+      ],
+      "language": "Sumerian",
+      "canonical_translation": "ETCSL team translation, Oxford, 2003-2006",
+      "primary_sources": [
+        {
+          "work": "A hymn to Nisaba (Nisaba A)",
+          "citation": "ETCSL c.4.16.1, trans. ETCSL team (2003-2006)",
+          "language": "Sumerian"
+        }
+      ],
+      "secondary_sources": [
+        {
+          "work": "Gods, Demons and Symbols of Ancient Mesopotamia",
+          "citation": "Jeremy Black and Anthony Green, London, 1992, entry 'Nisaba'"
+        }
+      ],
+      "source_urls": [
+        {
+          "url": "https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.4.16.1&charenc=j",
+          "description": "ETCSL c.4.16.1 text and translation",
+          "accessed": "2026-11-14"
+        }
+      ],
+      "sensitivity_flag": "none",
+      "provenance": {
+        "record_status": "complete",
+        "compiled": "2026-11-14",
+        "compiled_by": "opencode myth-collection session",
+        "review_status": "unreviewed"
+      }
+    },
+    {
+      "id": "sumerian-hymn-ninlil",
+      "title": {
+        "en": "Ninlil, Lady of the Grain-Filled City",
+        "zh": "寧利爾：穀滿之城女主"
+      },
+      "tradition": "sumerian",
+      "category": "myth",
+      "region": {
+        "en": "Nippur, Iraq",
+        "zh": "尼普魯（伊拉克）"
+      },
+      "lat": 32.126,
+      "lon": 45.23,
+      "period": "Old Babylonian manuscript, c. 1700 BCE (ETCSL translation 2003)",
+      "source": {
+        "archive": "ETCSL (University of Oxford)",
+        "work": "An adab to Ninlil (Ninlil A, ETCSL c.4.24.1)",
+        "url": "https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.4.24.1&charenc=j"
+      },
+      "license": "ETCSL translation (Oxford, 2003-2006); quoted in paraphrase with attribution",
+      "summary": {
+        "en": "Enlil's consort is praised as the lady whose presence fills the granaries: the queen of Nippur whose word with her lord's decides the year — the adab hymn of the city's mother.",
+        "zh": "恩利爾之妻被頌為使倉廩充盈之女主：尼普魯王后，其言與其主之命共同裁決歲事——城邦之母的阿達卜頌詩。"
+      },
+      "motifs": [
+        "divine-marriage",
+        "sacred-kingship"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient hymn; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Ninlil is praised as the lady whose presence fills the granaries: the queen of Nippur, whose word with her lord's decides the year's plenty. The adab's refrain asks her intercession: through the lady, the lord's anger is softened — the queen as the land's advocate before the storm god.",
+          "note": "Paraphrase of ETCSL c.4.24.1, the praise; not verbatim. / Paraphrase of ETCSL c.4.24.1, the refrain; not verbatim."
+        }
+      ],
+      "persons": [
+        "ninlil",
+        "enlil"
+      ],
+      "functions": [
+        "Liturgy of Ninlil as intercessor",
+        "Complement of the Enlil hymns"
+      ],
+      "variants": [
+        {
+          "name": "Enlil and Sud",
+          "text_tradition": "Sumerian (ETCSL c.1.2.2)",
+          "summary": "The marriage myth of the same couple.",
+          "cross_ref": "sumerian-enlil-sud-marriage"
+        }
+      ],
+      "language": "Sumerian",
+      "canonical_translation": "ETCSL team translation, Oxford, 2003-2006",
+      "primary_sources": [
+        {
+          "work": "An adab to Ninlil (Ninlil A)",
+          "citation": "ETCSL c.4.24.1, trans. ETCSL team (2003-2006)",
+          "language": "Sumerian"
+        }
+      ],
+      "secondary_sources": [
+        {
+          "work": "The Treasures of Darkness",
+          "citation": "Thorkild Jacobsen, New Haven, 1976"
+        }
+      ],
+      "source_urls": [
+        {
+          "url": "https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.4.24.1&charenc=j",
+          "description": "ETCSL c.4.24.1 text and translation",
+          "accessed": "2026-11-14"
+        }
+      ],
+      "sensitivity_flag": "none",
+      "provenance": {
+        "record_status": "complete",
+        "compiled": "2026-11-14",
+        "compiled_by": "opencode myth-collection session",
+        "review_status": "unreviewed"
+      }
+    },
+    {
+      "id": "sumerian-fox-proverbs",
+      "title": {
+        "en": "The Fox in the Proverbs",
+        "zh": "諺語中的狐狸"
+      },
+      "tradition": "sumerian",
+      "category": "myth",
+      "region": {
+        "en": "Scribal schools of Nippur, Iraq",
+        "zh": "尼普魯書吏學校（伊拉克）"
+      },
+      "lat": 32.126,
+      "lon": 45.23,
+      "period": "Old Babylonian proverb collections, c. 1700 BCE (ETCSL translation 2003)",
+      "source": {
+        "archive": "ETCSL (University of Oxford)",
+        "work": "Proverbs: collections 1-2 (ETCSL c.6.1-6.2)",
+        "url": "https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.6.1*&charenc=j"
+      },
+      "license": "ETCSL translation (Oxford, 2003-2006); quoted in paraphrase with attribution",
+      "summary": {
+        "en": "In the proverb collections the fox is the sly one: he who set a snare for others is caught in his own — the school texts' fox tales teaching wit's price, the ancestor of the trickster fable.",
+        "zh": "諺語集中狐狸為狡黠者：為他人設阱者自陷其中——校中狐語教導機智的代價，為騙徒寓言之源。"
+      },
+      "motifs": [
+        "trickster",
+        "parable-teaching",
+        "jackal-fox-trickster"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient proverb literature; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "In the proverb collections the fox is the sly one: the fox who set a snare for others is caught in his own — the collections' repeated moral on cunning's price. The school texts used the fox tales to teach scribal wit and its limits: the animal fable teaching what the debate poems argued — the ancestor of the trickster fable in world literature.",
+          "note": "Paraphrase of the proverb collections (ETCSL c.6.1-6.2), fox proverbs; not verbatim. / Paraphrase of the proverb collections; not verbatim."
+        }
+      ],
+      "persons": [],
+      "functions": [
+        "School proverbs on cunning and its price",
+        "Ancestor of the trickster fable tradition"
+      ],
+      "variants": [
+        {
+          "name": "The heron and the turtle",
+          "text_tradition": "Sumerian (ETCSL c.5.9.2)",
+          "summary": "The animal fable of the same wisdom.",
+          "cross_ref": "sumerian-heron-turtle"
+        }
+      ],
+      "language": "Sumerian",
+      "canonical_translation": "ETCSL team translation, Oxford, 2003-2006",
+      "primary_sources": [
+        {
+          "work": "Proverbs: collections 1-2",
+          "citation": "ETCSL c.6.1-6.2, trans. ETCSL team (2003-2006)",
+          "language": "Sumerian"
+        }
+      ],
+      "secondary_sources": [
+        {
+          "work": "Sumerian Proverbs",
+          "citation": "Edmund I. Gordon, Philadelphia, 1959"
+        }
+      ],
+      "source_urls": [
+        {
+          "url": "https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.6.1*&charenc=j",
+          "description": "ETCSL proverb collections",
+          "accessed": "2026-11-14"
+        }
+      ],
+      "sensitivity_flag": "none",
+      "provenance": {
+        "record_status": "complete",
+        "compiled": "2026-11-14",
+        "compiled_by": "opencode myth-collection session",
+        "review_status": "unreviewed"
+      }
+    },
+    {
+      "id": "sumerian-ibbisuen-lament",
+      "title": {
+        "en": "A Hymn to Suen for the Last King",
+        "zh": "末代之王蘇恩頌"
+      },
+      "tradition": "sumerian",
+      "category": "myth",
+      "region": {
+        "en": "Ur, at the empire's fall, Iraq",
+        "zh": "烏爾，帝國傾覆之際（伊拉克）"
+      },
+      "lat": 30.963,
+      "lon": 46.106,
+      "period": "Ur III composition, c. 2000 BCE (ETCSL translation 2003)",
+      "source": {
+        "archive": "ETCSL (University of Oxford)",
+        "work": "A tigi to Suen for Ibbi-Suen (Ibbi-Suen A, ETCSL c.2.4.5.1)",
+        "url": "https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.2.4.5.1&charenc=j"
+      },
+      "license": "ETCSL translation (Oxford, 2003-2006); quoted in paraphrase with attribution",
+      "summary": {
+        "en": "The last king of Ur is hymned by his moon god's cult even as the empire crumbles: the tigi song for Ibbi-Suen praises Suen and prays for the city — the liturgy sung at the edge of the fall that the laments will mourn.",
+        "zh": "帝國傾覆之際，烏爾月神祭團仍頌末代之王：伊比辛的提吉頌歌讚美蘇恩、為城祈禱——哀歌所悼之敗亡邊緣所唱之禮樂。"
+      },
+      "motifs": [
+        "sacred-kingship",
+        "world-renewal"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient royal hymn; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The tigi song for Ibbi-Suen praises Suen, the moon god, and prays for the city his cult still serves — the liturgy sung at the edge of the fall. The king is named the god's shepherd even as the provinces slip away — the last royal hymn of Ur, sung before the laments for the city took over the genre.",
+          "note": "Paraphrase of ETCSL c.2.4.5.1, the hymn; not verbatim. / Paraphrase of ETCSL c.2.4.5.1; not verbatim."
+        }
+      ],
+      "persons": [
+        "nanna-suen"
+      ],
+      "functions": [
+        "Last royal hymn of the Ur III dynasty",
+        "Liturgical bridge to the city-lament genre"
+      ],
+      "variants": [
+        {
+          "name": "The lament for Urim",
+          "text_tradition": "Sumerian (ETCSL c.2.2.2)",
+          "summary": "The lament that followed the fall.",
+          "cross_ref": "sumerian-lament-ur"
+        }
+      ],
+      "language": "Sumerian",
+      "canonical_translation": "ETCSL team translation, Oxford, 2003-2006",
+      "primary_sources": [
+        {
+          "work": "A tigi to Suen for Ibbi-Suen",
+          "citation": "ETCSL c.2.4.5.1, trans. ETCSL team (2003-2006)",
+          "language": "Sumerian"
+        }
+      ],
+      "secondary_sources": [
+        {
+          "work": "The Harps that Once...",
+          "citation": "Thorkild Jacobsen, New Haven, 1987"
+        }
+      ],
+      "source_urls": [
+        {
+          "url": "https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.2.4.5.1&charenc=j",
+          "description": "ETCSL c.2.4.5.1 text and translation",
+          "accessed": "2026-11-14"
+        }
+      ],
+      "sensitivity_flag": "none",
+      "provenance": {
+        "record_status": "complete",
+        "compiled": "2026-11-14",
+        "compiled_by": "opencode myth-collection session",
+        "review_status": "unreviewed"
+      }
+    },
+    {
+      "id": "sumerian-hymn-ninisina",
+      "title": {
+        "en": "Ninisina, the Doctor of the Gods",
+        "zh": "寧寧西那：眾神之醫"
+      },
+      "tradition": "sumerian",
+      "category": "myth",
+      "region": {
+        "en": "Isin, Iraq",
+        "zh": "伊辛（伊拉克）"
+      },
+      "lat": 31.885,
+      "lon": 45.159,
+      "period": "Old Babylonian manuscript, c. 1700 BCE (ETCSL translation 2003)",
+      "source": {
+        "archive": "ETCSL (University of Oxford)",
+        "work": "Hymns to Ninisina (ETCSL c.4.22)",
+        "url": "https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.4.22*&charenc=j"
+      },
+      "license": "ETCSL translation (Oxford, 2003-2006); quoted in paraphrase with attribution",
+      "summary": {
+        "en": "The healing goddess of Isin is praised as the doctor of the gods: she who knows the herb and the incantation, whose hands bind the wound — the liturgy of medicine as divine craft.",
+        "zh": "伊辛療癒女神被頌為眾神之醫：通曉藥草與咒文、親手裹傷者——以醫術為神藝之禮讚。"
+      },
+      "motifs": [
+        "ritual-origin",
+        "culture-hero",
+        "magic-word"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient hymn; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Ninisina is praised as the doctor of the gods: she who knows the herb and the incantation, whose hands bind the wound and cool the fever. The hymn's liturgy asks the goddess's craft for the sick of the city: medicine as divine gift, the healer the gods' own surgeon — the theology of Mesopotamian medical practice.",
+          "note": "Paraphrase of the Ninisina hymns (ETCSL c.4.22), opening praise; not verbatim. / Paraphrase of the Ninisina hymns; not verbatim."
+        }
+      ],
+      "persons": [],
+      "functions": [
+        "Liturgy of the healing cult at Isin",
+        "Theology of medicine as divine craft"
+      ],
+      "variants": [
+        {
+          "name": "Ninsun and the birth goddesses",
+          "text_tradition": "Sumerian (ETCSL c.4.26)",
+          "summary": "The companion healing lineage.",
+          "cross_ref": "none"
+        }
+      ],
+      "language": "Sumerian",
+      "canonical_translation": "ETCSL team translation, Oxford, 2003-2006",
+      "primary_sources": [
+        {
+          "work": "Hymns to Ninisina",
+          "citation": "ETCSL c.4.22, trans. ETCSL team (2003-2006)",
+          "language": "Sumerian"
+        }
+      ],
+      "secondary_sources": [
+        {
+          "work": "Gods, Demons and Symbols of Ancient Mesopotamia",
+          "citation": "Jeremy Black and Anthony Green, London, 1992, entry 'Ninisina'"
+        }
+      ],
+      "source_urls": [
+        {
+          "url": "https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.4.22*&charenc=j",
+          "description": "ETCSL c.4.22 hymns",
+          "accessed": "2026-11-14"
+        }
+      ],
+      "sensitivity_flag": "none",
+      "provenance": {
+        "record_status": "complete",
+        "compiled": "2026-11-14",
+        "compiled_by": "opencode myth-collection session",
+        "review_status": "unreviewed"
+      }
+    },
+    {
+      "id": "sumerian-hymn-asarluchi",
+      "title": {
+        "en": "Asarluhi: Marduk's Sumerian Name",
+        "zh": "阿薩爾盧希：馬爾杜克的蘇美名"
+      },
+      "tradition": "sumerian",
+      "category": "myth",
+      "region": {
+        "en": "Kuara, Iraq",
+        "zh": "庫阿拉（伊拉克）"
+      },
+      "lat": 30.8,
+      "lon": 44.7,
+      "period": "Old Babylonian manuscript, c. 1700 BCE (ETCSL translation 2003)",
+      "source": {
+        "archive": "ETCSL (University of Oxford)",
+        "work": "Hymns to Asarluhi (ETCSL c.4.01)",
+        "url": "https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.4.01*&charenc=j"
+      },
+      "license": "ETCSL translation (Oxford, 2003-2006); quoted in paraphrase with attribution",
+      "summary": {
+        "en": "Before Babylon's god was Marduk he was Asarluhi of Kuara: the Sumerian hymns praise the exorcist's god — the mace that talks, the wise man's helper — whose name Enuma Elish would give to Marduk as his first of fifty.",
+        "zh": "巴比倫之神未稱馬爾杜克前，本是庫阿拉的阿薩爾盧希：蘇美頌詩讚其為驅邪師之神——會說話的神杖、智者的助力——其名後成馬爾杜克五十名號之首。"
+      },
+      "motifs": [
+        "sacred-kingship",
+        "culture-hero"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient hymn; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Before Babylon's god was Marduk he was Asarluhi of Kuara: the Sumerian hymns praise the exorcist's god, the mace that talks, the wise man's helper. Enuma Elish would give his name to Marduk as the first of the fifty: the old god absorbed by the new — the theological engineering of Babylon's rise, already visible in the Sumerian liturgy.",
+          "note": "Paraphrase of the Asarluhi hymns (ETCSL c.4.01), opening praise; not verbatim. / Paraphrase of the hymns; not verbatim."
+        }
+      ],
+      "persons": [
+        "marduk",
+        "enki"
+      ],
+      "functions": [
+        "Sumerian liturgy of the god later absorbed by Marduk",
+        "Document of the theological synthesis behind Enuma Elish"
+      ],
+      "variants": [
+        {
+          "name": "Enuma Elish: the fifty names",
+          "text_tradition": "Akkadian (Muss-Arnolt 1901)",
+          "summary": "The name of Asarluhi as Marduk's first title.",
+          "cross_ref": "babylonian-enuma-kingship-names"
+        }
+      ],
+      "language": "Sumerian",
+      "canonical_translation": "ETCSL team translation, Oxford, 2003-2006",
+      "primary_sources": [
+        {
+          "work": "Hymns to Asarluhi",
+          "citation": "ETCSL c.4.01, trans. ETCSL team (2003-2006)",
+          "language": "Sumerian"
+        }
+      ],
+      "secondary_sources": [
+        {
+          "work": "The Treasures of Darkness",
+          "citation": "Thorkild Jacobsen, New Haven, 1976"
+        }
+      ],
+      "source_urls": [
+        {
+          "url": "https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.4.01*&charenc=j",
+          "description": "ETCSL c.4.01 hymns",
+          "accessed": "2026-11-14"
+        }
+      ],
+      "sensitivity_flag": "none",
+      "provenance": {
+        "record_status": "complete",
+        "compiled": "2026-11-14",
+        "compiled_by": "opencode myth-collection session",
+        "review_status": "unreviewed"
+      }
+    },
+    {
+      "id": "sumerian-hymn-hendursaga",
+      "title": {
+        "en": "Hendursaga, the Herald of Justice",
+        "zh": "亨杜爾薩格：正義信使"
+      },
+      "tradition": "sumerian",
+      "category": "myth",
+      "region": {
+        "en": "Lagash, Iraq",
+        "zh": "拉加什（伊拉克）"
+      },
+      "lat": 31.64,
+      "lon": 46.66,
+      "period": "Old Babylonian manuscript, c. 1700 BCE (ETCSL translation 2003)",
+      "source": {
+        "archive": "ETCSL (University of Oxford)",
+        "work": "Hymns to Hendursaga (ETCSL c.4.06)",
+        "url": "https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.4.06*&charenc=j"
+      },
+      "license": "ETCSL translation (Oxford, 2003-2006); quoted in paraphrase with attribution",
+      "summary": {
+        "en": "The herald of the gods is praised as the bringer of justice to the land: the god who walks ahead of the judgment, whose lamp is the truth — the theology of the fair hearing in Lagash's liturgy.",
+        "zh": "眾神信使被頌為帶來正義者：行於審判之前、以真理為燈之神——拉加什祭儀中的公正聽審神學。"
+      },
+      "motifs": [
+        "sacred-kingship",
+        "ritual-origin"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient hymn; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Hendursaga is praised as the herald of the gods who brings justice to the land: the god who walks ahead of the judgment, whose lamp is the truth. The hymn's liturgy asks the herald for the fair hearing: the small man's case heard as the great man's — the theology of justice in Lagash's cult.",
+          "note": "Paraphrase of the Hendursaga hymns (ETCSL c.4.06), opening praise; not verbatim. / Paraphrase of the hymns; not verbatim."
+        }
+      ],
+      "persons": [],
+      "functions": [
+        "Liturgy of the fair hearing",
+        "Justice theology of the Lagash temple state"
+      ],
+      "variants": [
+        {
+          "name": "Shamash the judge",
+          "text_tradition": "Akkadian (Jastrow 1898)",
+          "summary": "The Babylonian justice god parallel.",
+          "cross_ref": "babylonian-shamash-justice"
+        }
+      ],
+      "language": "Sumerian",
+      "canonical_translation": "ETCSL team translation, Oxford, 2003-2006",
+      "primary_sources": [
+        {
+          "work": "Hymns to Hendursaga",
+          "citation": "ETCSL c.4.06, trans. ETCSL team (2003-2006)",
+          "language": "Sumerian"
+        }
+      ],
+      "secondary_sources": [
+        {
+          "work": "The Treasures of Darkness",
+          "citation": "Thorkild Jacobsen, New Haven, 1976"
+        }
+      ],
+      "source_urls": [
+        {
+          "url": "https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.4.06*&charenc=j",
+          "description": "ETCSL c.4.06 hymns",
+          "accessed": "2026-11-14"
+        }
+      ],
+      "sensitivity_flag": "none",
+      "provenance": {
+        "record_status": "complete",
+        "compiled": "2026-11-14",
+        "compiled_by": "opencode myth-collection session",
+        "review_status": "unreviewed"
+      }
+    }
+  ]
+}

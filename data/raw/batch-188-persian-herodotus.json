@@ -1,0 +1,223 @@
+{
+  "_comment": "Herodotus Book 1, trans. G. C. Macaulay (1890), Project Gutenberg: Median-Persian legends. Paraphrase passages with notes.",
+  "texts": [
+    {
+      "id": "persian-astyages-dream-cyrus",
+      "title": {
+        "en": "Astyages' Vine-Dream and the Exposed Infant Cyrus",
+        "zh": "阿斯杜阿該斯之夢與棄嬰居魯士"
+      },
+      "tradition": "persian",
+      "category": "myth",
+      "region": {
+        "en": "Mountains north of Agbatana (symbolic pin)",
+        "zh": "阿格巴塔納以北山地（象徵性定位）"
+      },
+      "lat": 35.7,
+      "lon": 51.4,
+      "period": "Written c. 430 BCE (Macaulay translation 1890)",
+      "source": {
+        "archive": "Project Gutenberg",
+        "work": "Herodotus, Histories Book 1, trans. G. C. Macaulay (1890), secs. 107-111",
+        "url": "https://www.gutenberg.org/ebooks/2707"
+      },
+      "license": "Public domain (translation 1890)",
+      "summary": {
+        "en": "Astyages son of Kyaxares saw a vision: it seemed to him that from his daughter a vine grew, and this vine overspread the whole of Asia. The Magian interpreters signified that the offspring of his daughter should be king in his room. So when Cyrus was born he called Harpagos, whom he trusted above all the other Medes, and bade him take the child which Mandane bore, and slay it and bury it. Not even if he shall come to be yet more out of his senses, answers Harpagos, will I agree to his will or serve him in such a murder as this; and he sends the child with a herdsman to the mountains most haunted by wild beasts — where the herdsman's wife, her own child just born, will not suffer the exposure.",
+        "zh": "米底王阿斯杜阿該斯夢見女兒身上長出葡萄藤，藤蔓竟遮蔽整個亞洲；瑪術士解夢曰：其外孫將取代其王位。居魯士一降生，王便召親信哈爾帕戈斯：「把曼丹妮所生之子帶走殺掉、埋掉！」哈爾帕戈斯不敢親弑，將嬰兒交給牧人，命他拋於豺狼出沒的山中——恰好牧人之妻剛產下一子，二人便以自己的孩子換下王孫，把居魯士養大。"
+      },
+      "motifs": [
+        "prophetic-vision",
+        "miraculous-birth",
+        "oracle-divination",
+        "dream-vision"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Greek historiography recording the Iranian Cyrus-exposure legend (cf. Oedipus/romulus types); read as legend. No living community restriction."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Astyages saw another vision. It seemed to him that from his daughter a vine grew, and this vine overspread the whole of Asia. Having seen this vision and delivered it to the interpreters of dreams, he sent for his daughter, being then with child, to come from the land of the Persians. And when she had come he kept watch over her, desiring to destroy that which should be born of her; for the Magian interpreters of dreams signified to him that the offspring of his daughter should be king in his room.",
+          "note": "Paraphrase of Herodotus 1.108 (Macaulay 1890); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Astyages then desiring to guard against this, when Cyrus was born, called Harpagos, a man who was of kin near him and whom he trusted above all the other Medes, and to him he said: take the child which Mandane bore, and carry it to thy house and slay it; and afterwards bury it in whatsoever manner thou thyself desirest. To this he made answer: if it is indeed thy pleasure that this should so be done, my service at least must be fitly rendered.",
+          "note": "Paraphrase of Herodotus 1.108 (Macaulay 1890); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "Not according as Astyages enjoined, Harpagos went weeping and told his wife: for not even if he shall come to be yet more out of his senses and more mad than he now is, will I agree to his will or serve him in such a murder as this. And for many reasons I will not slay the child; first because he is a kin to me, and then because Astyages is old and without male issue, and if after he is dead the power shall come through me, does not the greatest of dangers then await me?",
+          "note": "Paraphrase of Herodotus 1.109 (Macaulay 1890); not verbatim."
+        },
+        {
+          "id": "4",
+          "text": "He sent a messenger to that one of the herdsmen of Astyages who fed his herds on the pastures most suitable for his purpose, and on the mountains most haunted by wild beasts: Astyages bids thee take this child and place it on the most desolate part of the mountains, so that it may perish as quickly as possible. And it came to pass that the herdsman's wife, being every day on the point of bearing a child, by a providential chance brought her child to birth just at that time.",
+          "note": "Paraphrase of Herodotus 1.110-111 (Macaulay 1890); not verbatim."
+        }
+      ],
+      "persons": []
+    },
+    {
+      "id": "persian-dareios-horse-neigh",
+      "title": {
+        "en": "Dareios Wins the Kingdom by the Neighing of His Horse",
+        "zh": "大流士以馬嘶得國"
+      },
+      "tradition": "persian",
+      "category": "myth",
+      "region": {
+        "en": "Suburb of the Persian city (symbolic pin)",
+        "zh": "波斯城郊（象徵性定位）"
+      },
+      "lat": 29.9,
+      "lon": 52.9,
+      "period": "Written c. 430 BCE (Macaulay translation 1890)",
+      "source": {
+        "archive": "Project Gutenberg",
+        "work": "Herodotus, Histories Book 1, trans. G. C. Macaulay (1890), secs. 85-88",
+        "url": "https://www.gutenberg.org/ebooks/2707"
+      },
+      "license": "Public domain (translation 1890)",
+      "summary": {
+        "en": "After the seven conspirators had left their assembly, Dareios spoke to Oibares: we have resolved that the man whose horse first neighs at sunrise, when we are mounted upon our horses, he shall be king. Oibares, the clever horse-keeper, ties up in the suburb the mare that the horse of Dareios prefers, and lets the stallion mount her; at dawn, when the six ride past, the horse runs to the place and neighs — and just when the horse had done this there came lightning and thunder from a clear sky. Dareios made a carving in stone with the figure of a man on horseback, and wrote upon it: Dareios son of Hystaspes by the excellence of his horse, and of his horse-keeper Oibares obtained the kingdom of the Persians.",
+        "zh": "七人密謀誅殺偽王者議定：翌日日出時「馬先嘶者為王」。馭手奧伊巴雷斯的詭計是：把大流士坐騎鍾愛的牝馬牽到城郊繫好，縱其交合。破曉六人騎馬路過，那馬直奔牝馬嘶鳴——恰在此刻晴空炸雷掣電！眾人認為天意如此，下馬朝拜。大流士登基後立碑刻像：「大流士憑其駿馬與馭手奧伊巴雷斯之力得波斯王位。」"
+      },
+      "motifs": [
+        "trickster",
+        "oracle-divination",
+        "sacred-kingship"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Greek historiography of the Darius accession legend; read as historical legend. No living community restriction."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "When they had left their assembly, Dareios spoke these words: Oibares, we have resolved to do about the kingdom thus, namely that the man whose horse first neighs at sunrise, when we are mounted upon our horses he shall be king. Now therefore, if thou hast any cleverness, contrive that we may obtain this prize, and not any other man. Oibares replied: if, my master, it depends in truth upon this whether thou be king or no, have confidence, for none other shall be king before thee; such charms have I at my command.",
+          "note": "Paraphrase of Herodotus 1.85 (Macaulay 1890); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Oibares therefore hearing this did as follows: when night was coming on he took one of the mares, namely that one which the horse of Dareios preferred, and this he led into the suburb of the city and tied her up; then he brought to her the horse of Dareios. Now at dawn of day the six came to the place as they had agreed, riding upon their horses; and when they came near the place where the mare had been tied up on the former night, the horse of Dareios ran up to the place and neighed.",
+          "note": "Paraphrase of Herodotus 1.85-86 (Macaulay 1890); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "Just when the horse had done this, there came lightning and thunder from a clear sky; and the happening of these things to Dareios consummated his claim, for they seemed to have come to pass by some design, and the others leapt down from their horses and did obeisance to Dareios. He caused to be a carving in stone, and in it the figure of a man on horseback, writing to this effect: Dareios son of Hystaspes by the excellence of his horse, and of his horse-keeper Oibares obtained the kingdom of the Persians.",
+          "note": "Paraphrase of Herodotus 1.86-88 (Macaulay 1890); not verbatim."
+        }
+      ],
+      "persons": []
+    },
+    {
+      "id": "persian-tomyris-cyrus",
+      "title": {
+        "en": "Tomyris Gives Cyrus His Fill of Blood",
+        "zh": "托米麗司血祭居魯士"
+      },
+      "tradition": "persian",
+      "category": "myth",
+      "region": {
+        "en": "River Araxes, land of the Massagetai (symbolic pin)",
+        "zh": "阿拉克塞斯河畔（象徵性定位）"
+      },
+      "lat": 42.0,
+      "lon": 62.0,
+      "period": "Written c. 430 BCE (Macaulay translation 1890)",
+      "source": {
+        "archive": "Project Gutenberg",
+        "work": "Herodotus, Histories Book 1, trans. G. C. Macaulay (1890), secs. 211-214",
+        "url": "https://www.gutenberg.org/ebooks/2707"
+      },
+      "license": "Public domain (translation 1890)",
+      "summary": {
+        "en": "Tomyris, queen of the Massagetai, sends a herald when her son Spargapises is taken by the wine-snare of the Persians: Cyrus, insatiable of blood, restore to me my son and depart from this land without penalty; but if thou shalt not do so, I swear to thee by the Sun, who is lord of the Massagetai, that surely I will give thee thy fill of blood, insatiable as thou art. Cyrus makes no account of her words; her son, when the wine left him, puts himself to death; Tomyris gathers all her power and joins battle, and of the army of Cyrus the greater part is destroyed and Cyrus himself falls, and Tomyris fills a skin with human blood and dips the head of Cyrus in it.",
+        "zh": "瑪薩革泰女王托米麗司之子被波斯人的「酒計」所擒。她遣使警告：「嗜血的居魯士啊，還我兒子、退出此土；否則我以瑪薩革泰的主宰太陽起誓——定叫你飲血到足！」居魯士不納其言；王子醒酒後自盡。女王傾全國之兵決戰，波斯大軍盡墨、居魯士陣亡。托米麗司以人血灌滿皮囊，將居魯士之首浸入其中——「讓你飲個夠！」"
+      },
+      "motifs": [
+        "taboo-transgression",
+        "quest-immortality",
+        "boon-curse"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Greek historiography of Cyrus' death legend; Tomyris became a Persian literary figure. No living community restriction."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Seeing the feast that was set forth, when the Massagetai had overcome their enemies they lay down and feasted, and being satiated with food and wine they went to sleep. Then the Persians came upon them and slew many of them, and took alive many more even than they slew, and among these the son of the queen Tomyris, who was leading the army of the Massagetai; and his name was Spargapises.",
+          "note": "Paraphrase of Herodotus 1.211 (Macaulay 1890); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "She then sent a herald to Cyrus and said: Cyrus, insatiable of blood, be not elated with pride by this which has come to pass, because with that fruit of the vine, with which ye fill yourselves and become so mad, because setting a snare with such a drug as this thou didst overcome my son, and not by valour in fight. Now therefore receive the word which I utter: restore to me my son and depart from this land without penalty; but if thou shalt not do so, I swear to thee by the Sun, who is lord of the Massagetai, that surely I will give thee thy fill of blood, insatiable as thou art.",
+          "note": "Paraphrase of Herodotus 1.212 (Macaulay 1890); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "The son of the queen Tomyris, when the wine left him and he learnt in what evil case he was, entreated Cyrus that he might be loosed from his chains and gained his request, and then so soon as he was loosed and had got power over his hands he put himself to death. Tomyris, as Cyrus did not listen to her, gathered together all her power and joined battle, and of the army of Cyrus the greater part was destroyed, and Cyrus himself fell.",
+          "note": "Paraphrase of Herodotus 1.213-214 (Macaulay 1890); not verbatim."
+        }
+      ],
+      "persons": []
+    },
+    {
+      "id": "persian-magi-customs",
+      "title": {
+        "en": "The Persians' Sacrifices and the Magian Chant",
+        "zh": "波斯人的祭祀與瑪術士頌歌"
+      },
+      "tradition": "persian",
+      "category": "myth",
+      "region": {
+        "en": "Mountain heights of sacrifice (symbolic pin)",
+        "zh": "祭祀山巔（象徵性定位）"
+      },
+      "lat": 32.0,
+      "lon": 53.0,
+      "period": "Written c. 430 BCE (Macaulay translation 1890)",
+      "source": {
+        "archive": "Project Gutenberg",
+        "work": "Herodotus, Histories Book 1, trans. G. C. Macaulay (1890), secs. 131-133",
+        "url": "https://www.gutenberg.org/ebooks/2707"
+      },
+      "license": "Public domain (translation 1890)",
+      "summary": {
+        "en": "Images and temples and altars they do not account it lawful to erect; nay, they even charge with folly those who do these things, because they do not account the gods to be in the likeness of men. But it is their wont to perform sacrifices to Zeus going up to the most lofty of the mountains, and the whole circle of the heavens they call Zeus: and they sacrifice to the Sun and the Moon and the Earth, to Fire and to Water and to the Winds. When a man wishes to sacrifice, he leads the animal to an unpolluted place and calls upon the god, having his tiara wreathed with myrtle; he prays not for himself alone, but that it may be well with all the Persians and with the king; and when he has boiled the flesh, a Magian man stands by and chants over them a theogony, seeing that without a Magian it is not lawful for them to make sacrifices.",
+        "zh": "波斯人不許立神像、建廟壇，斥其為愚妄——因神不具人形。他們登高山祭「宙斯」（即蒼穹之環），祭太陽、月亮、大地、火、水與風。獻祭者於潔淨之地呼神名、頭戴桃金娘冠冠冕，只為「全體波斯人與君王」祈福；煮肉陳於青草之上，由瑪術士誦唱神譜頌歌——無瑪術士在場，祭祀即屬非法。"
+      },
+      "motifs": [
+        "ritual-origin",
+        "theophany",
+        "sacred-place"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Greek ethnographic account of Persian ritual (Zeus = Ahura Mazda, Mitra = Anahita?); read as classical witness. No living community restriction."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Images and temples and altars they do not account it lawful to erect, nay they even charge with folly those who do these things; and this, as it seems to me, because they do not account the gods to be in the likeness of men, as do the Hellenes. But it is their wont to perform sacrifices to Zeus going up to the most lofty of the mountains, and the whole circle of the heavens they call Zeus: and they sacrifice to the Sun and the Moon and the Earth, to Fire and to Water and to the Winds.",
+          "note": "Paraphrase of Herodotus 1.131 (Macaulay 1890); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "When a man wishes to sacrifice to any one of the gods, he leads the animal for sacrifice to an unpolluted place and calls upon the god, having his tiara wreathed round generally with a branch of myrtle. For himself alone separately the man who sacrifices may not request good things in his prayer, but he prays that it may be well with all the Persians and with the king.",
+          "note": "Paraphrase of Herodotus 1.132 (Macaulay 1890); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "And when he has cut up the victim into pieces and boiled the flesh, he spreads a layer of the freshest grass and especially clover, upon which he places forthwith all the pieces of flesh; and when he has placed them in order, a Magian man stands by them and chants over them a theogony, seeing that without a Magian it is not lawful for them to make sacrifices. Of all days their wont is to honour most that on which they were born; and to wine-drinking they are very much given.",
+          "note": "Paraphrase of Herodotus 1.132-133 (Macaulay 1890); not verbatim."
+        }
+      ],
+      "persons": []
+    }
+  ]
+}

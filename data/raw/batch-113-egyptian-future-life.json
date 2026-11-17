@@ -1,0 +1,234 @@
+{
+  "texts": [
+    {
+      "id": "egyptian-hymn-hapy-nile",
+      "title": {
+        "en": "The Hymn to Hapy: The God Who Cannot Be Figured in Stone",
+        "zh": "哈皮頌：不可雕像之神"
+      },
+      "tradition": "egyptian",
+      "category": "myth",
+      "region": {
+        "en": "The Nile from the First Cataract to the sea (the god of the flood)",
+        "zh": "自第一瀑布至海口之尼羅（洪水之神）"
+      },
+      "lat": 26.5,
+      "lon": 31.5,
+      "period": "Hymn of the Middle Kingdom or earlier (Budge translation 1899, from Maspero's Hymnes au Nil)",
+      "source": {
+        "archive": "Project Gutenberg (eBook #11277)",
+        "work": "Egyptian Ideas of the Future Life, by E. A. W. Budge (1899), ch. I, the Hymn to Hapi",
+        "url": "https://www.gutenberg.org/cache/epub/11277/pg11277.txt"
+      },
+      "license": "Public domain (translation 1899)",
+      "summary": {
+        "en": "The great hymn to the Nile-god opens with paradox: Hapy comes in peace 'to make Egypt to live', waters the fields Ra created, gives every tooth its food — and yet cannot be figured in stone, cannot be found in inscribed shrines, has no habitation that can contain him; his living place is unknown and his form cannot be conceived in the heart.",
+        "zh": "尼羅神大頌以悖論開篇：哈皮『安然而來使埃及得生』，澆灌拉所造之田，賜每顆牙齒以食——然彼不可雕像，不可見於刻銘神龕，無一居所可容其身；其居所不可知，其形不可心構。"
+      },
+      "motifs": [
+        "sacred-place",
+        "theophany",
+        "sacred-stone"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient hymn quoted in Budge 1899; no living community restrictions. The paradox passage is discussed by Budge with the observation that actual pictures of Hapy survive — the invisibility belongs to his divine aspect."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Homage to thee, O Hapi! Thou comest forth in this land, and dost come in peace to make Egypt to live, O thou hidden one, thou guide of the darkness whensoever it is thy pleasure to be its guide. Thou waterest the fields which Ra hath created, thou makest all animals to live, thou makest the land to drink without ceasing; thou descendest the path of heaven, thou art the friend of meat and drink, thou art the giver of the grain, and thou makest every place of work to flourish, O Ptah! If thou wert to be overcome in heaven the gods would fall down headlong, and mankind would perish. Thou makest the whole earth to be opened (or ploughed up) by the cattle, and prince and peasant lie down to rest. His disposition (or form) is that of Khnemu; when he shineth upon the earth there is rejoicing, for all people are glad, the mighty man receiveth his meat, and every tooth hath food to consume.",
+          "note": "Verbatim excerpt of Budge, Egyptian Ideas of the Future Life (1899), ch. I, the Hymn to Hapi."
+        },
+        {
+          "id": "2",
+          "text": "He cannot be figured in stone; he is not to be seen in the sculptured images upon which men place the united crowns of the South and the North furnished with uraei; neither works nor offerings can be made to him; and he cannot be made to come forth from his secret place. The place where he liveth is unknown; he is not to be found in inscribed shrines; there existeth no habitation which can contain him; and thou canst not conceive his form in thy heart.",
+          "note": "Verbatim excerpt of Budge (1899), ch. I, the Hymn to Hapi."
+        }
+      ],
+      "persons": [
+        "hapy",
+        "khnemu",
+        "ptah",
+        "ra"
+      ]
+    },
+    {
+      "id": "egyptian-god-almighty-epithets",
+      "title": {
+        "en": "God Is One and Alone: The Epithets of the Hidden One",
+        "zh": "神乃唯一：隱者之尊號"
+      },
+      "tradition": "egyptian",
+      "category": "myth",
+      "region": {
+        "en": "Egypt, all periods (a composite of epithets from texts of every age)",
+        "zh": "埃及，歷代諸時期（集各時代文本之尊號）"
+      },
+      "lat": 25.6872,
+      "lon": 32.6396,
+      "period": "Epithets collected by H. Brugsch from texts of all periods (Religion und Mythologie, 1885-88); Budge translation 1899",
+      "source": {
+        "archive": "Project Gutenberg (eBook #11277)",
+        "work": "Egyptian Ideas of the Future Life, by E. A. W. Budge (1899), ch. I, the classified epithets of God",
+        "url": "https://www.gutenberg.org/cache/epub/11277/pg11277.txt"
+      },
+      "license": "Public domain (translation 1899)",
+      "summary": {
+        "en": "Budge's classification of the epithets applied to the supreme Being across Egyptian texts: God is One and alone, a hidden spirit, from the beginning, eternal, hidden from gods and men, truth that liveth by truth, father and mother that begat himself, the primeval Potter who turned men and gods out of his hands — stretching out the heavens and founding the earth, so that what his heart conceived came to pass straightway.",
+        "zh": "伯奇自歷代文本輯錄之至尊尊號：神乃唯一而獨存、隱秘之靈、太初已存、永恆無窮、為神與人所不能見之隱者、以真理為食之真理、自生之父與母、於陶匠之桌上摶人摶神之太初陶匠——展天立地，心之所念，言出即成。"
+      },
+      "motifs": [
+        "creation-chaos",
+        "clay-humans",
+        "theophany",
+        "primeval-waters"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient liturgical epithets quoted in Budge 1899; no living community restrictions. The 'potter' epithet supplies the clearest native witness of the clay-humans motif."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "God is One and alone, and none other existeth with Him; God is the One, the One Who hath made all things. God is a spirit, a hidden spirit, the spirit of spirits, the great spirit of the Egyptians, the divine spirit. God is from the beginning, and He hath been from the beginning; He hath existed from of old and was when nothing else had being. He existed when nothing else existed, and what existeth He created after He had come into being. He is the father of beginnings. God is the eternal One, He is eternal and infinite; and endureth for ever and aye; He hath endured for countless ages, and He shall endure to all eternity.",
+          "note": "Verbatim excerpt of Budge (1899), ch. I, the classified epithets of God."
+        },
+        {
+          "id": "2",
+          "text": "God is the hidden Being, and no man hath known His form. No man hath been able to seek out His likeness; He is hidden from gods and men, and He is a mystery unto His creatures. No man knoweth how to know Him, His name remaineth hidden; His name is a mystery unto His children. His names are innumerable, they are manifold and none knoweth their number. God is truth, and He liveth by truth, and he feedeth thereon. He is the King of truth, He resteth upon truth, He fashioneth truth, and He executeth truth throughout all the world.",
+          "note": "Verbatim excerpt of Budge (1899), ch. I."
+        },
+        {
+          "id": "3",
+          "text": "God is father and mother, the father of fathers, and the mother of mothers. He begetteth, but was never begotten; He produceth, but was never produced; He begat Himself and produced Himself. He createth, but was never created; He is the maker of His own form, and the fashioner of His own body. God hath made the universe, and He hath created all that therein is... God is the father of the gods, and the father of the father of all deities; He made His voice to sound, and the deities came into being, and the gods sprang into existence after He had spoken with His mouth. He formed mankind and fashioned the gods. He is the great Master, the primeval Potter Who turned men and gods out of His hands, and He formed men and gods upon a potter's table.",
+          "note": "Verbatim excerpt of Budge (1899), ch. I."
+        },
+        {
+          "id": "4",
+          "text": "The heavens rest upon His head, and the earth supporteth His feet; heaven hideth His spirit, the earth hideth His form, and the underworld shutteth up the mystery of Him within it. His body is like the air, heaven resteth upon His head, and the new inundation [of the Nile] containeth His form. God is merciful unto those who reverence Him, and He heareth him that calleth upon Him. He protecteth the weak against the strong, and He heareth the cry of him that is bound in fetters; He judgeth between the mighty and the weak, God knoweth him that knoweth Him, He rewardeth him that serveth Him, and He protecteth him that followeth Him.",
+          "note": "Verbatim excerpt of Budge (1899), ch. I."
+        }
+      ],
+      "persons": [
+        "amun",
+        "khnemu"
+      ]
+    },
+    {
+      "id": "egyptian-nebertcher-evolutions",
+      "title": {
+        "en": "I Evolved the Evolving of Evolutions: The Longer Creation of Nesi-Amsu",
+        "zh": "我演化演化之演化：內西-阿姆蘇長本創世記"
+      },
+      "tradition": "egyptian",
+      "category": "myth",
+      "region": {
+        "en": "Thebes, Egypt (British Museum Papyrus 10,188, the Book of Overthrowing Apep)",
+        "zh": "埃及底比斯（大英博物館紙草10188號，滅阿波菲斯之書）"
+      },
+      "lat": 25.6872,
+      "lon": 32.6396,
+      "period": "British Museum Papyrus 10,188, copied c. 300 BCE, older doctrine (Budge translation 1899)",
+      "source": {
+        "archive": "Project Gutenberg (eBook #11277)",
+        "work": "Egyptian Ideas of the Future Life, by E. A. W. Budge (1899), ch. I, the second version of the creation in the Papyrus of Nesi-Amsu",
+        "url": "https://www.gutenberg.org/cache/epub/11277/pg11277.txt"
+      },
+      "license": "Public domain (translation 1899)",
+      "summary": {
+        "en": "The longer, stranger version of the creation legend: 'I evolved the evolving of evolutions... I uttered my own name, as a word of power, from my own mouth, and I straightway evolved myself. I was alone' — the speaker names himself Osiris, the germ of primeval matter, emits Shu and Tefnut ('from being One I became Three'), and men and women come from the tears of the Eye of Khepera.",
+        "zh": "創世傳說之更長奇本：『我演化演化之演化……我以己名為力言，自口而出，我頃刻自化。我獨存』——言者自名為奧西里斯、原初物質之胚，吐出舒與泰芙努特（『由一而為三』），而人類則自凱佩拉之眼所落之淚而生。"
+      },
+      "motifs": [
+        "creation-chaos",
+        "sibling-creators",
+        "clay-humans",
+        "primeval-waters"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient creation text quoted in Budge 1899; no living community restrictions. Cross-refers to the short-version record of the same papyrus cut from Budge 1912."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "I evolved the evolving of evolutions. I evolved myself under the form of the evolutions of the god Khepera, which were evolved at the beginning of all time. I evolved with the evolutions of the god Khepera; I evolved by the evolution of evolutions — that is to say, I developed myself from the primeval matter which I made, I developed myself out of the primeval matter. My name is Ausares (Osiris), the germ of primeval matter. I have wrought my will wholly in this earth, I have spread abroad and filled it, I have strengthened it [with] my hand.",
+          "note": "Verbatim excerpt of Budge, Egyptian Ideas of the Future Life (1899), ch. I, Papyrus of Nesi-Amsu."
+        },
+        {
+          "id": "2",
+          "text": "I was alone, for nothing had been brought forth; I had not then emitted from myself either Shu or Tefnut. I uttered my own name, as a word of power, from my own mouth, and I straightway evolved myself. Nothing existed on this earth then, and I made all things. There was none other who worked with me at that time. I performed all evolutions there by means of that divine Soul which I fashioned there, and which had remained inoperative in the watery abyss. I found no place there whereon to stand. But I was strong in my heart, and I made a foundation for myself, and I made everything which was made. I was alone.",
+          "note": "Verbatim excerpt of Budge (1899), ch. I, Papyrus of Nesi-Amsu."
+        },
+        {
+          "id": "3",
+          "text": "I made a foundation for my heart (or will), and I created multitudes of things which evolved themselves like unto the evolutions of the god Khepera, and their offspring came into being from the evolutions of their births. I emitted from myself the gods Shu and Tefnut, and from being One I became Three; they sprang from me, and came into existence in this earth. Shu and Tefnut brought forth Seb and Nut, and Nut brought forth Osiris, Horus-khent-an-maa, Sut, Isis, and Nephthya at one birth.",
+          "note": "Verbatim excerpt of Budge (1899), ch. I, Papyrus of Nesi-Amsu."
+        }
+      ],
+      "persons": [
+        "osiris",
+        "shu",
+        "tefnut",
+        "nut"
+      ]
+    },
+    {
+      "id": "egyptian-neter-god-of-kings",
+      "title": {
+        "en": "The King and Neter: God in the Pyramid Texts and the Precepts",
+        "zh": "王與奈特爾：金字塔文與箴言中的神"
+      },
+      "tradition": "egyptian",
+      "category": "myth",
+      "region": {
+        "en": "Sakkarah and Memphis, Egypt (the earliest uses of the word Neter)",
+        "zh": "埃及薩卡拉與孟菲斯（『奈特爾』一詞最早之用法）"
+      },
+      "lat": 29.87,
+      "lon": 31.3,
+      "period": "Pyramid Texts c. 2350-2175 BCE and the Precepts of Ptah-hetep (Budge translation 1899)",
+      "source": {
+        "archive": "Project Gutenberg (eBook #11277)",
+        "work": "Egyptian Ideas of the Future Life, by E. A. W. Budge (1899), ch. I, the word Neter in the Pyramid Texts and the Precepts",
+        "url": "https://www.gutenberg.org/cache/epub/11277/pg11277.txt"
+      },
+      "license": "Public domain (translation 1899)",
+      "summary": {
+        "en": "The earliest religious usage of the supreme word: in the text of Unas the king exists 'at the side of God'; of Teta it is said 'he weigheth words, and behold God hearkeneth unto that which he saith'; of Pepi, 'This Pepi is God, the son of God'; while the Precepts of Ptah-hetep teach the oldest ethics of the word — 'What is loved of God is obedience; God hateth disobedience.'",
+        "zh": "至尊之詞最早的宗教用法：烏納斯文中王『立於神之側』；論泰塔云『其權衡言辭，而神聽其所言』；論佩皮云『此佩皮乃神，神之子』；而卜塔-赫特普箴言授此詞最古之倫理——『神所愛者為順從；神所憎者為悖逆』。"
+      },
+      "motifs": [
+        "sacred-kingship",
+        "parable-teaching",
+        "divine-smith"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient royal and wisdom texts quoted in Budge 1899; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "In the text of Unas, a king who reigned about B.C. 3300, we find the passage: 'That which is sent by thy ka cometh to thee, that which is sent by thy father cometh to thee, that which is sent by Ra cometh to thee, and it arriveth in the train of thy Ra. Thou art pure, thy bones are the gods and the goddesses of heaven, thou existest at the side of God, thou art unfastened, thou comest forth towards thy soul, for every evil word (or thing) which hath been written in the name of Unas hath been done away.'",
+          "note": "Verbatim excerpt of Budge (1899), ch. I, quoting the Pyramid Text of Unas."
+        },
+        {
+          "id": "2",
+          "text": "And, again, in the text of Teta, in the passage which refers to the place in the eastern part of heaven 'where the gods give birth unto themselves, where that to which they give birth is born, and where they renew their youth,' it is said of this king, 'Teta standeth up in the form of the star...he weigheth words (or trieth deeds), and behold God hearkeneth unto that which he saith.' And of Pepi I., who reigned about B.C. 3000, it is said, 'This Pepi is God, the son of God.'",
+          "note": "Verbatim excerpt of Budge (1899), ch. I, quoting the Pyramid Texts of Teta and Pepi I."
+        },
+        {
+          "id": "3",
+          "text": "The idea of God held by Ptah-hetep is illustrated by the following passages: 'Thou shalt make neither man nor woman to be afraid, for God is opposed thereto; and if any man shall say that he will live thereby, He will make him to want bread.' — 'If thou abasest thyself in the service of a perfect man, thy conduct shall be fair before God.' — 'What is loved of God is obedience; God hateth disobedience.' — 'Verily a good son is of the gifts of God.'",
+          "note": "Verbatim excerpt of Budge (1899), ch. I, quoting the Precepts of Ptah-hetep."
+        }
+      ],
+      "persons": [
+        "ra",
+        "ptah"
+      ]
+    }
+  ]
+}

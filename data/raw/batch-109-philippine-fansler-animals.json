@@ -1,0 +1,251 @@
+{
+  "texts": [
+    {
+      "id": "pampangan-turtle-monkey",
+      "title": {
+        "en": "The Turtle and the Monkey: The Trial among the Monkeys",
+        "zh": "海龜與猴子：猴群審判"
+      },
+      "tradition": "philippine",
+      "category": "myth",
+      "region": {
+        "en": "Mexico, Pampanga, Luzon, Philippines (narrator's home town)",
+        "zh": "菲律賓呂宋邦板牙省墨西哥鎮（敘述者故鄉）"
+      },
+      "lat": 15.15,
+      "lon": 120.86,
+      "period": "Pampangan oral fable; collected by D. S. Fansler, published 1921",
+      "source": {
+        "archive": "Project Gutenberg",
+        "work": "Dean S. Fansler, Filipino Popular Tales (1921), Tale 55a 'The Turtle and the Monkey', eBook #8299",
+        "url": "https://www.gutenberg.org/cache/epub/8299/pg8299.txt"
+      },
+      "license": "Public domain",
+      "summary": {
+        "en": "A monkey and a turtle divide a floating banana-stalk — the monkey takes the leafy top that dies, the turtle the roots that fruit. The monkey eats all the ripe bananas; the turtle rings the tree with pointed sticks and the monkey, frightened by a cry of 'The hunters are coming!', leaps to his death. The turtle sells the meat to other monkeys, is betrayed by leftover fur, tried, and sentenced to be burned and cut — punishments he claims to relish — until the fools 'drown' him, and he surfaces laughing.",
+        "zh": "猴與龜分食浮來的蕉莖——猴得頂梢而枯，龜得根莖而實。猴獨吞熟蕉；龜環樹插尖竹，喊『獵人來了』嚇得猴跳下喪命。龜剝皮賣肉給群猴，因殘留猴毛被識破，受審判刑——火燒刀砍皆不懼，佯懼溺水——群猴投之於湖，龜浮出水面大笑。"
+      },
+      "motifs": [
+        "trickster",
+        "tortoise-trickster",
+        "monkey-trickster",
+        "betrayal"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Pampangan fable recorded by Fansler from a Garcia narrator; archival record. The monkey-and-turtle cycle is Philippines-wide; Fansler traces it to the Kacchapa-jataka (No. 273) and related Jatakas, arguing a pre-Spanish, ultimately Indian origin with the Bagobo version as a connecting link."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "It was mid-day, and a monkey and a turtle were having a good time on the shady river-bank, discussing the past, present, and future, when they saw a banana-stalk floating by. 'Can you swim?' replied the turtle when the monkey proposed getting it; the turtle agreed to fetch it on condition that they divide it, and demanded the upper part where the leaves are — but the monkey took the leaves himself and gave the turtle only the roots. Unable to fight the monkey, the humble turtle planted his share in the woods, and it was not strange that the monkey's part died while the turtle's brought forth clusters of ripe bananas in time.",
+          "note": "Paraphrase of Dean S. Fansler, Filipino Popular Tales (1921), Tale 55 'The Turtle and the Monkey'; not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "When the monkey learned that the bananas were ripe, he visited his friend, who offered half the bananas if the monkey would climb the stalk and get the fruit. In less than a minute the monkey was at the top, eating all he could and throwing down only banana-peelings. 'I know what I'll do!' said the turtle to himself, gathering pointed sticks and setting them all around the base of the tree; then he cried out, 'The hunters are coming! The hunters are coming!' The monkey, very much frightened, jumped down in the hope of escaping, was pierced by the sharp sticks, and died in a few hours — thus the turtle got his revenge on the selfish monkey.",
+          "note": "Paraphrase of Dean S. Fansler, Filipino Popular Tales (1921), Tale 55 'The Turtle and the Monkey'; not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "The turtle skinned the monkey, dried his meat, and sold it to the other monkeys in the neighborhood — but, careless, he left parts of the fur sticking to the meat, and the monkeys which had bought the meat judged the turtle guilty of the murder of one of their brethren, taking him before their chief. Sentenced to be burned, he said, 'Fire does not do me any harm... My father has burned me many times'; sentenced to be cut to pieces, he showed the scars — 'My father used to cut me over and over again.' At last the brightest fellow in the group said, 'We will drown him in the lake,' and as soon as the turtle heard this he felt happy, for he knew that he would not die in the water; he pretended to be very much afraid and implored them not to throw him in. The monkeys took him to the lake and threw him in; the turtle dived, then stuck his head above the surface, laughing very loud at them — his life saved because he had used his brains in devising a means of escape.",
+          "note": "Paraphrase of Dean S. Fansler, Filipino Popular Tales (1921), Tale 55 'The Turtle and the Monkey'; not verbatim."
+        }
+      ]
+    },
+    {
+      "id": "tagalog-turtle-monkey-hunter",
+      "title": {
+        "en": "The Monkey and the Turtle: The Exchange by the Banana-Tree",
+        "zh": "猴與龜：蕉樹下調包"
+      },
+      "tradition": "philippine",
+      "category": "myth",
+      "region": {
+        "en": "Batangas, Luzon, Philippines (narrator's home province)",
+        "zh": "菲律賓呂宋八打雁省（敘述者故鄉）"
+      },
+      "lat": 13.75,
+      "lon": 121.05,
+      "period": "Tagalog oral fable; collected by D. S. Fansler, published 1921",
+      "source": {
+        "archive": "Project Gutenberg",
+        "work": "Dean S. Fansler, Filipino Popular Tales (1921), Tale 55c 'The Monkey and the Turtle' (Katigbak version), eBook #8299",
+        "url": "https://www.gutenberg.org/cache/epub/8299/pg8299.txt"
+      },
+      "license": "Public domain",
+      "summary": {
+        "en": "The selfish monkey carries away his patient turtle friend's whole food-supply on a journey, mocks him, and leaves him to be caught by a hunter — who kindly ties the turtle by a banana-tree and feeds him hourly. Envying the turtle's easy life, the monkey begs to swap places at night; the turtle yields, goes off happy, and the hunter, taking the tied 'thief' for a banana-stealer, shoots the monkey dead at dawn.",
+        "zh": "自私的猴子旅途上吃光龜友的乾糧、一路嘲笑，終令龜被獵人捕走——獵人卻待之甚厚，縛於蕉樹旁按時餵食。猴子夜裡羨慕不已，央求調換；龜欣然讓位而去。清晨獵人見『被縛者』似在偷蕉，一槍擊斃猴子。"
+      },
+      "motifs": [
+        "trickster",
+        "tortoise-trickster",
+        "monkey-trickster"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Tagalog fable recorded by Fansler from a Katigbak narrator; archival record. Version (c) of the monkey-and-turtle cycle with the hunter-exchange episode."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Once upon a time there was a turtle who was very kind and patient, with many friends, among them a monkey who was very selfish and always wanted the best part of everything. Journeying to the next village, the monkey took little food, not liking to carry a heavy load, while the turtle took a big supply and advised the monkey to take more — but the monkey only laughed. After five days the monkey's food was gone and the greedy turtle had to feed him, then carry all the food; the monkey ran ahead, ate everything, and mocked his hungry friend. When they met a hunter, the monkey climbed a tree, but the man caught the turtle and took it home.",
+          "note": "Paraphrase of Dean S. Fansler, Filipino Popular Tales (1921), Tale 55 'The Monkey and the Turtle' (Tagalog version); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "The monkey laughed at his friend's misfortune — but the hunter was kind to the turtle: he tied it near a banana-tree and gave it food every hour. Passing the house a few hours later, the monkey saw how the turtle was fed and envied his situation; when night came and the hunter was asleep, he went up to the turtle and said, 'Let me be in your place.' 'No, I like this place,' answered the turtle; but the monkey kept urging and begging, so that finally the turtle yielded, set the monkey free, and went off happy — while the monkey tied himself to the tree, so pleased that he could hardly sleep for thinking of the food the hunter would give him in the morning.",
+          "note": "Paraphrase of Dean S. Fansler, Filipino Popular Tales (1921), Tale 55 'The Monkey and the Turtle' (Tagalog version); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "Early the next morning the hunter woke and looked out of his window, caught sight of the monkey, and thought that the animal was stealing his bananas; so he took his gun and shot him dead. Thus the turtle became free, and the monkey was killed. Moral: Do not be selfish.",
+          "note": "Paraphrase of Dean S. Fansler, Filipino Popular Tales (1921), Tale 55 'The Monkey and the Turtle' (Tagalog version); not verbatim."
+        }
+      ]
+    },
+    {
+      "id": "tagalog-monkey-crocodile",
+      "title": {
+        "en": "The Monkey and the Crocodile: The Liver Left on the Tree",
+        "zh": "猴子與鱷魚：留在樹上的肝"
+      },
+      "tradition": "philippine",
+      "category": "myth",
+      "region": {
+        "en": "Manila, Luzon, Philippines (narrator's home city)",
+        "zh": "菲律賓呂宋馬尼拉（敘述者居地）"
+      },
+      "lat": 14.6,
+      "lon": 120.98,
+      "period": "Tagalog oral fable; collected by D. S. Fansler, published 1921",
+      "source": {
+        "archive": "Project Gutenberg",
+        "work": "Dean S. Fansler, Filipino Popular Tales (1921), Tale 56a 'The Monkey and the Crocodile' (Tagalog version), eBook #8299",
+        "url": "https://www.gutenberg.org/cache/epub/8299/pg8299.txt"
+      },
+      "license": "Public domain",
+      "summary": {
+        "en": "A monkey courts a crocodile's help to cross the river, riding on his back; midstream the crocodile laughs that he will eat the monkey's liver and kidneys. The monkey calmly explains that he left them hanging on the macopa-tree in their haste, and the gullible crocodile turns back — whereupon the monkey leaps ashore, scampers up the tree, and the crocodile confesses, 'I am a fool.'",
+        "zh": "猴子請鱷魚載他渡河；行至中流，鱷魚大笑要吃猴肝猴腎。猴子鎮定回答：匆忙出門，肝腎忘了取下，正掛在河邊的蒲桃樹上——鱷魚信以為真折返；猴一躍上岸、攀上樹梢。鱷魾自嘆：『我真傻。』"
+      },
+      "motifs": [
+        "trickster",
+        "monkey-trickster"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Tagalog fable recorded by Fansler from an Abasola narrator; archival record. Fansler derives the cycle from the Vanarinda-jataka (No. 57) and Sumsumara-jataka (No. 208), via the Pancatantra and Kalilah wa-Dimnah."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "One day, while a clever monkey was searching for his food along the river-bank, he saw a tall macopa-tree laden with ripe fruits, standing just by the shore of a river where a young crocodile lived. After eating all the fruit he wanted, the monkey conceived the desire of getting to the other side of the wide river, and finding no means, asked the just-woken crocodile in a friendly way to do him a favor. The crocodile was greatly surprised by this amicable salutation, but answered humbly that he would be glad to help, and told the monkey to sit on his back.",
+          "note": "Paraphrase of Dean S. Fansler, Filipino Popular Tales (1921), Tale 56 'The Monkey and the Crocodile'; not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "When they reached the middle of the stream, the crocodile began to laugh aloud: 'Now, you foolish monkey! I'll eat your liver and kidneys, for I'm very hungry.' The monkey became nervous but concealed his anxiety: 'To be sure! I thought myself that you might be hungry, so I prepared my liver and kidneys for your dinner; but unfortunately, in our haste to depart, I left them hanging on the macopa-tree. Let us return, and I'll get you the food.' The foolish crocodile, convinced that the monkey was telling the truth, turned back toward the shore — and when they were near, the monkey nimbly jumped onto the dry land and scampered up the tree. When the crocodile saw how he had been deceived, he said, 'I am a fool.'",
+          "note": "Paraphrase of Dean S. Fansler, Filipino Popular Tales (1921), Tale 56 'The Monkey and the Crocodile'; not verbatim."
+        }
+      ]
+    },
+    {
+      "id": "zambal-monkey-crocodile",
+      "title": {
+        "en": "The Monkey and the Crocodile (Zambal): The King's Red Breads",
+        "zh": "猴與鱷（三描）：國王的紅麵包"
+      },
+      "tradition": "philippine",
+      "category": "myth",
+      "region": {
+        "en": "Zambales coast, western Luzon, Philippines (narrator's tale-source)",
+        "zh": "菲律賓呂宋西岸三描禮士（故事原鄉）"
+      },
+      "lat": 15.1,
+      "lon": 120.0,
+      "period": "Zambal oral fable; collected by D. S. Fansler, published 1921",
+      "source": {
+        "archive": "Project Gutenberg",
+        "work": "Dean S. Fansler, Filipino Popular Tales (1921), Tale 56b 'The Monkey and the Crocodile' (Zambal version), eBook #8299",
+        "url": "https://www.gutenberg.org/cache/epub/8299/pg8299.txt"
+      },
+      "license": "Public domain",
+      "summary": {
+        "en": "Promised a lifetime supply of monkeys by a drowning-scare monkey, the crocodile ferries him across, only to be mocked from a tree. Playing dead later, the crocodile seizes the monkey — who claims to be the king's cook guarding the bright-red 'breads' of the pepper-bushes and promises them freely; the crocodile gulps the chilies, coughs and sneezes his way back to the river while the monkey laughs from above.",
+        "zh": "猴子假意許諾帶鱷魾去『一生吃不完的猴群之地』，渡河後攀樹嘲笑。鱷魾裝死復又突襲擒猴；猴子自稱國王御廚，指點椒叢紅果為『御賜紅麵包』，任其取食。鱷魾大嚼辣椒，咳嗆抓舌，狼狽竄回河中——猴在樹上大笑。"
+      },
+      "motifs": [
+        "trickster",
+        "monkey-trickster"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Zambal fable recorded by Fansler from an Uichanco narrator (hearing it from a Zambales native); archival record. Contaminated form blending the crocodile cycle with the king's-fruit episode of the monkey-and-turtle group."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "One stormy day a monkey stood by the shore of a river, wondering how to get to the other side; the water was deep, and all he saw was a large crocodile with its mouth wide open, ready to seize him. Very much frightened, he said, 'O Mr. Crocodile! pray, do not kill me! Spare my life, and I will lead you to a place where you can get as many monkeys as will feed you all your life.' The crocodile agreed and carried him across on his back — but just before they reached the bank the monkey jumped to land, ran as fast as he could, and climbed up a tree where his mate was, while the crocodile could only return to the water saying, 'The time will come when you shall pay.'",
+          "note": "Paraphrase of Dean S. Fansler, Filipino Popular Tales (1921), Tale 56 'The Monkey and the Crocodile' (Zambal version); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Not long afterwards the monkey found the crocodile lying motionless, as if dead, about low Chile pepper-bushes loaded with numerous bright-red fruits like ornaments on a Christmas tree. Playing with the crocodile's tail, the monkey was suddenly seized so tightly that he could not escape. 'Think first, think first!' said the monkey. 'I am now the cook of his Majesty the king. Those bright-red breads have been intrusted to my care.",
+          "note": "Paraphrase of Dean S. Fansler, Filipino Popular Tales (1921), Tale 56 'The Monkey and the Crocodile' (Zambal version); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "The moment you kill me, the king will arrive with thousands of well-armed troops, and will punish you.' Frightened, the crocodile promised to set him free if he might eat as many pieces of bread as would relieve his hunger — 'Eat all you can; they are free to you,' responded the monkey kindly — and without another word the crocodile rushed at the heavily-laden bushes. The monkey slipped away secretly and climbed up a tree to enjoy the discomfiture of his voracious friend, who began to cough, sneeze, and scratch his tongue; when he rushed to the river to cool his mouth, the monkey only laughed at him. Moral: Use your own judgment; do not rely on the counsel of others, for it is the father of destruction and ruin.",
+          "note": "Paraphrase of Dean S. Fansler, Filipino Popular Tales (1921), Tale 56 'The Monkey and the Crocodile' (Zambal version); not verbatim."
+        }
+      ]
+    },
+    {
+      "id": "bicol-monkeys-dragonflies",
+      "title": {
+        "en": "The Monkeys and the Dragon-Flies",
+        "zh": "群猴與蜻蜓之戰"
+      },
+      "tradition": "philippine",
+      "category": "myth",
+      "region": {
+        "en": "Catanduanes, Philippines (where the story is very common)",
+        "zh": "菲律賓卡坦端內斯島（故事甚為流行）"
+      },
+      "lat": 13.6,
+      "lon": 124.2,
+      "period": "Bicol oral fable; collected by D. S. Fansler, published 1921",
+      "source": {
+        "archive": "Project Gutenberg",
+        "work": "Dean S. Fansler, Filipino Popular Tales (1921), Tale 57 'The Monkeys and the Dragon-Flies', eBook #8299",
+        "url": "https://www.gutenberg.org/cache/epub/8299/pg8299.txt"
+      },
+      "license": "Public domain",
+      "summary": {
+        "en": "A weary dragon-fly resting on a monkeys' branch is mocked and stoned. Her brother the king declares war; the monkeys come armed with heavy clubs, the dragon-flies unarmed — and when the monkey-king shouts 'Strike the flying creatures with your clubs!', King Dragon commands his soldiers to alight on the foreheads of their enemies. Each blow falls on a companion's head; the quick dragon-flies are untouched and the foolish strong monkeys annihilate themselves.",
+        "zh": "疲憊的蜻蜓在猴樹枝上歇腳，遭猴嘲弄、擲枝相擊。其兄蜻蜓王宣戰；群猴持重棍而來，蜻蜓則兩手空空。猴王一令『用棍擊打飛蟲』，蜻蜓王即命部下停在敵人額上——每一棍都落在同伴頭上。敏捷的蜻蜓毫髮無傷，強壯而愚笨的猴群自相殘滅。"
+      },
+      "motifs": [
+        "trickster"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Bicol fable recorded by Fansler from a Sorreta narrator; archival record. War of the winged and four-footed creatures; Fansler compares Grimm's 'Willow-Wren and the Bear' and the Latukika-jataka."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "One day, when the sun was at the zenith and the air was very hot, a poor dragon-fly, fatigued with her long journey, alighted to rest on a branch of a tree in which a great many monkeys lived. A monkey approached her: 'Aha! What are you doing here, wretched creature?' She begged to rest while the sun was so hot, but the monkey, mocking, cried 'We don't allow any weak creature such as you are to stay under our shelter. Go away!' — and, taking a dry twig, threw it at the poor creature. The dragon-fly, very quick, flew away before he could hit her, hurried to her brother the king, and told him what had happened; the king became very angry and resolved to make war on the monkeys, sending three soldiers with a challenge to the king of the monkeys.",
+          "note": "Paraphrase of Dean S. Fansler, Filipino Popular Tales (1921), Tale 57 'The Monkeys and the Dragon-Flies'; not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "The monkey-king laughed at the challenge: 'Let your king and his soldiers come to the battle-field, and they will see how well my troops fight.' When the reply came, King Dragon immediately ordered his soldiers to go to the battle-field — but without anything to fight with. The monkeys came, each armed with a heavy stick, and the monkey-king shouted, 'Strike the flying creatures with your clubs!' When King Dragon heard this order, he commanded his soldiers to alight on the foreheads of their enemies. Then the monkeys began to strike at the dragon-flies which were on the foreheads of their companions; the dragon-flies were very quick and were not hurt at all, but the monkeys were all killed. Thus the light, quick-witted dragon-flies won the victory over the strong but foolish monkeys.",
+          "note": "Paraphrase of Dean S. Fansler, Filipino Popular Tales (1921), Tale 57 'The Monkeys and the Dragon-Flies'; not verbatim."
+        }
+      ]
+    }
+  ]
+}

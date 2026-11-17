@@ -1,0 +1,1308 @@
+{
+  "texts": [
+    {
+      "id": "sumerian-gilgamesh-aga",
+      "title": {
+        "en": "Gilgamesh and Aga: The Siege of Uruk",
+        "zh": "吉爾伽美什與阿伽：烏魯克之圍"
+      },
+      "tradition": "sumerian",
+      "category": "myth",
+      "region": {
+        "en": "Uruk, Iraq",
+        "zh": "烏魯克（伊拉克）"
+      },
+      "lat": 31.324,
+      "lon": 45.637,
+      "period": "Old Babylonian manuscript, c. 1700 BCE (ETCSL translation 2003)",
+      "source": {
+        "archive": "ETCSL (University of Oxford)",
+        "work": "Gilgamesh and Aga (ETCSL c.1.8.1.1)",
+        "url": "https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.1.8.1.1&charenc=j"
+      },
+      "license": "ETCSL translation (Oxford, 2003-2006); quoted in paraphrase with attribution",
+      "summary": {
+        "en": "Aga of Kish, once sheltered by Gilgamesh's council, marches on Uruk; the king refuses to surrender. The elders counsel submission, the young men counsel war, and on the wall Gilgamesh's face dazzles the besiegers; Aga's siege dissolves and Kish's yoke is broken.",
+        "zh": "曾受吉爾伽美什庇護的基什王阿伽興兵圍城；國王拒降。長老主降，青年主戰。城頭上吉爾伽美什的面容使圍軍目眩，阿伽圍城遂解，基什之枷鎖碎。"
+      },
+      "motifs": [
+        "sacred-kingship",
+        "foundational-legend",
+        "wise-advice"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient legend; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Aga, king of Kish, sends envoys to Uruk: Gilgamesh once sheltered him in his council, and now Aga demands his city. Gilgamesh answers before the elders, who counsel surrender; before the young men, who counsel war — and Uruk will fight.",
+          "note": "Paraphrase of ETCSL c.1.8.1.1, the summons and council; not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "For ten days the siege of Uruk holds; the city's gates hold too. On the rampart Gilgamesh shows his face, and the dazzled besiegers cannot take aim; Birhurtura, sent out, is thrown down again and again by the lord's strength. Aga, disarmed by the man he once served under, releases the siege; the elders and the men of Kish bless the peace, and Uruk stands free — the poem closes praising the king whose face alone outdid an army.",
+          "note": "Paraphrase of ETCSL c.1.8.1.1, the siege; not verbatim. / Paraphrase of ETCSL c.1.8.1.1, the release; not verbatim."
+        }
+      ],
+      "persons": [
+        "gilgamesh",
+        "aga",
+        "enkidu"
+      ],
+      "functions": [
+        "Founding legend of Uruk's independence from Kish",
+        "Charter of Gilgamesh's legitimacy as elected king",
+        "Performed with the Gilgamesh cycle at Uruk"
+      ],
+      "variants": [
+        {
+          "name": "Gilgamesh epic Tablet II",
+          "text_tradition": "Akkadian (Langdon 1917)",
+          "summary": "The Akkadian epic's account of the same reign's beginnings.",
+          "cross_ref": "babylonian-gilgamesh-uruk-oppression"
+        }
+      ],
+      "language": "Sumerian",
+      "canonical_translation": "ETCSL team translation, Oxford, 2003-2006",
+      "primary_sources": [
+        {
+          "work": "Gilgamesh and Aga",
+          "citation": "ETCSL c.1.8.1.1, trans. ETCSL team (2003-2006), lines 1-100",
+          "language": "Sumerian"
+        }
+      ],
+      "secondary_sources": [
+        {
+          "work": "The Epic of Gilgamesh",
+          "citation": "Andrew George, London, 1999, introduction to the Sumerian poems"
+        }
+      ],
+      "source_urls": [
+        {
+          "url": "https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.1.8.1.1&charenc=j",
+          "description": "ETCSL c.1.8.1.1 text and translation",
+          "accessed": "2026-11-14"
+        }
+      ],
+      "sensitivity_flag": "none",
+      "provenance": {
+        "record_status": "complete",
+        "compiled": "2026-11-14",
+        "compiled_by": "opencode myth-collection session",
+        "review_status": "unreviewed"
+      }
+    },
+    {
+      "id": "sumerian-gilgamesh-bull",
+      "title": {
+        "en": "Gilgamesh and the Bull of Heaven",
+        "zh": "吉爾伽美什與天牛"
+      },
+      "tradition": "sumerian",
+      "category": "myth",
+      "region": {
+        "en": "Uruk, Iraq",
+        "zh": "烏魯克（伊拉克）"
+      },
+      "lat": 31.324,
+      "lon": 45.637,
+      "period": "Old Babylonian manuscript, c. 1700 BCE (ETCSL translation 2003)",
+      "source": {
+        "archive": "ETCSL (University of Oxford)",
+        "work": "Gilgamesh and the Bull of Heaven (ETCSL c.1.8.1.2)",
+        "url": "https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.1.8.1.2&charenc=j"
+      },
+      "license": "ETCSL translation (Oxford, 2003-2006); quoted in paraphrase with attribution",
+      "summary": {
+        "en": "Inanna, spurned by Gilgamesh, demands the Bull of Heaven from An; the beast devours Uruk's pastures, and the heroes slay it — after which Inanna curses and is cursed, and the city feasts on the bull's horns' worth of oil.",
+        "zh": "遭吉爾伽美什拒絕的伊南娜，向安神索要天牛；神獸吞食烏魯克牧場，二英雄合力誅之——事後伊南娜咒詛英雄，英雄亦回咒，全城以天牛之角熬油設宴。"
+      },
+      "motifs": [
+        "taboo-transgression",
+        "boon-curse",
+        "storm-thunder"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient myth; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Inanna comes to Gilgamesh with marriage offers; he refuses and taunts her lovers' fates. Furious, she climbs to heaven and demands of An the Bull of Heaven: without it, she swears, she will break the doors of the netherworld and let the dead outnumber the living.",
+          "note": "Paraphrase of ETCSL c.1.8.1.2, the demand; not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "The Bull descends and drinks the Euphrates dry; at every snort a pit opens, and a hundred youths and fifty young men of Uruk fall in. Gilgamesh and Enkidu take the beast: Enkidu seizes its tail, and Gilgamesh stabs between neck and horns.",
+          "note": "Paraphrase of ETCSL c.1.8.1.2, the battle; not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "Inanna mourns on the city wall; Gilgamesh curses her with her own deeds, tears off the bull's right thigh and throws it at her. The horns are made into vessels of oil, and the city feasts; the young men bless the heroes.",
+          "note": "Paraphrase of ETCSL c.1.8.1.2, the aftermath; not verbatim."
+        }
+      ],
+      "persons": [
+        "gilgamesh",
+        "enkidu",
+        "inanna",
+        "anu"
+      ],
+      "functions": [
+        "Battle myth of the Gilgamesh cycle performed at Uruk",
+        "Theology of Inanna's wrath and the hero's defiance",
+        "Etiology of the bull-horn oil vessels in temple use"
+      ],
+      "variants": [
+        {
+          "name": "Gilgamesh epic Tablet VI",
+          "text_tradition": "Akkadian (Wilson/Muss-Arnolt 1901)",
+          "summary": "The Akkadian version with Ishtar's marriage offer and the Bull's slaying.",
+          "cross_ref": "babylonian-gilgamesh-bull-heaven"
+        }
+      ],
+      "language": "Sumerian",
+      "canonical_translation": "ETCSL team translation, Oxford, 2003-2006",
+      "primary_sources": [
+        {
+          "work": "Gilgamesh and the Bull of Heaven",
+          "citation": "ETCSL c.1.8.1.2, trans. ETCSL team (2003-2006)",
+          "language": "Sumerian"
+        }
+      ],
+      "secondary_sources": [
+        {
+          "work": "The Epic of Gilgamesh",
+          "citation": "Andrew George, London, 1999"
+        }
+      ],
+      "source_urls": [
+        {
+          "url": "https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.1.8.1.2&charenc=j",
+          "description": "ETCSL c.1.8.1.2 text and translation",
+          "accessed": "2026-11-14"
+        }
+      ],
+      "sensitivity_flag": "none",
+      "provenance": {
+        "record_status": "complete",
+        "compiled": "2026-11-14",
+        "compiled_by": "opencode myth-collection session",
+        "review_status": "unreviewed"
+      }
+    },
+    {
+      "id": "sumerian-gilgamesh-huwawa-a",
+      "title": {
+        "en": "Gilgamesh and Huwawa: Into the Cedar Forest",
+        "zh": "吉爾伽美什與胡瓦瓦：深入雪松林"
+      },
+      "tradition": "sumerian",
+      "category": "myth",
+      "region": {
+        "en": "Cedar forest of the Lebanon (symbolic pin)",
+        "zh": "黎巴嫩雪松林（象徵性定位）"
+      },
+      "lat": 34.0,
+      "lon": 35.9,
+      "period": "Old Babylonian manuscript, c. 1700 BCE (ETCSL translation 2003)",
+      "source": {
+        "archive": "ETCSL (University of Oxford)",
+        "work": "Gilgamesh and Huwawa (version A, ETCSL c.1.8.1.5)",
+        "url": "https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.1.8.1.5&charenc=j"
+      },
+      "license": "ETCSL translation (Oxford, 2003-2006); quoted in paraphrase with attribution",
+      "summary": {
+        "en": "Gilgamesh asks Utu for help and leads fifty men into the cedar mountain where Huwawa keeps the auras of terror; the heroes chop trees by day and take the seven auras one by one until the guardian is powerless.",
+        "zh": "吉爾伽美什求烏圖相助，率五十人入雪松山，直搗胡瓦瓦的七重恐懼光環；晝伐林木，逐一奪取光環，守衛者力竭。"
+      },
+      "motifs": [
+        "quest-immortality",
+        "sacred-kingship",
+        "culture-hero"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient epic; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Gilgamesh wants fame: there is no name to be won by staying home, so he asks Utu to open the way to the cedar mountain where Huwawa keeps his seven auras of terror. Fifty single men of Uruk are chosen for the road.",
+          "note": "Paraphrase of ETCSL c.1.8.1.5, the expedition's start; not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "At the forest's edge the men fall asleep and one by one the auras of terror put them down like sleep; Gilgamesh alone fights on, chops cedar after cedar, and by chopping each aura out of its tree-house takes from Huwawa terror after terror until the guardian is stripped of his power.",
+          "note": "Paraphrase of ETCSL c.1.8.1.5, the auras; not verbatim."
+        }
+      ],
+      "persons": [
+        "gilgamesh",
+        "enkidu",
+        "humbaba",
+        "utu"
+      ],
+      "functions": [
+        "Heroic charter of the Uruk expedition ethos",
+        "Etiology of the cedar trade to Sumer",
+        "Battle hymn performed with the Gilgamesh cycle"
+      ],
+      "variants": [
+        {
+          "name": "Gilgamesh and Huwawa, version B",
+          "text_tradition": "Sumerian (ETCSL c.1.8.1.5.1)",
+          "summary": "A rival telling in which Enkidu leads the ruse of the false friendship.",
+          "cross_ref": "sumerian-gilgamesh-huwawa-b"
+        },
+        {
+          "name": "Gilgamesh epic tablets IV-V",
+          "text_tradition": "Akkadian (Wilson/Muss-Arnolt 1901)",
+          "summary": "The Standard Babylonian Humbaba battle.",
+          "cross_ref": "babylonian-gilgamesh-humbaba-battle"
+        }
+      ],
+      "language": "Sumerian",
+      "canonical_translation": "ETCSL team translation, Oxford, 2003-2006",
+      "primary_sources": [
+        {
+          "work": "Gilgamesh and Huwawa (A)",
+          "citation": "ETCSL c.1.8.1.5, trans. ETCSL team (2003-2006)",
+          "language": "Sumerian"
+        }
+      ],
+      "secondary_sources": [
+        {
+          "work": "The Epic of Gilgamesh",
+          "citation": "Andrew George, London, 1999"
+        }
+      ],
+      "source_urls": [
+        {
+          "url": "https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.1.8.1.5&charenc=j",
+          "description": "ETCSL c.1.8.1.5 text and translation",
+          "accessed": "2026-11-14"
+        }
+      ],
+      "sensitivity_flag": "none",
+      "provenance": {
+        "record_status": "complete",
+        "compiled": "2026-11-14",
+        "compiled_by": "opencode myth-collection session",
+        "review_status": "unreviewed"
+      }
+    },
+    {
+      "id": "sumerian-gilgamesh-huwawa-b",
+      "title": {
+        "en": "The Capture of Huwawa",
+        "zh": "胡瓦瓦之擒"
+      },
+      "tradition": "sumerian",
+      "category": "myth",
+      "region": {
+        "en": "Cedar forest of the Lebanon (symbolic pin)",
+        "zh": "黎巴嫩雪松林（象徵性定位）"
+      },
+      "lat": 34.0,
+      "lon": 35.9,
+      "period": "Old Babylonian manuscript, c. 1700 BCE (ETCSL translation 2003)",
+      "source": {
+        "archive": "ETCSL (University of Oxford)",
+        "work": "Gilgamesh and Huwawa (version A, second half; ETCSL c.1.8.1.5)",
+        "url": "https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.1.8.1.5&charenc=j"
+      },
+      "license": "ETCSL translation (Oxford, 2003-2006); quoted in paraphrase with attribution",
+      "summary": {
+        "en": "Stripped of his auras, Huwawa weeps and offers his forest in vassalage; Gilgamesh's mercy wavers, but Enkidu — jealous or clear-eyed — strikes first, and the guardian's head is sent in a box to Enlil, who rebukes the killers.",
+        "zh": "光環盡失的胡瓦瓦哭求饒命，願以雪松林稱臣；吉爾伽美什心生憐憫，恩奇都卻搶先出手斬之——首級裝匣送尼普魯，恩利爾嚴斥二人。"
+      },
+      "motifs": [
+        "taboo-transgression",
+        "boon-curse",
+        "quest-immortality",
+        "jealousy"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient epic; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Stripped of terror, Huwawa weeps before Gilgamesh: my auras are gone, my trees are yours — take my forest in vassalage and let me live. Gilgamesh's heart is moved and he moves to bind him gently. Enkidu, angry — why does my lord pity the guardian of Enlil's trees? — strikes first and fells Huwawa; the head is cut off and sent to Nippur in a box of cedar.",
+          "note": "Paraphrase of ETCSL c.1.8.1.5, the plea; not verbatim. / Paraphrase of ETCSL c.1.8.1.5, the kill; not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "At the Ekur, Enlil, seeing the box, rebukes them: you have killed the guardian I appointed; his auras shall be smoke on the hearth, his hide the earth's rivers — and the heroes carry home a victory shadowed by the god's displeasure.",
+          "note": "Paraphrase of ETCSL c.1.8.1.5, Enlil's rebuke; not verbatim."
+        }
+      ],
+      "persons": [
+        "gilgamesh",
+        "enkidu",
+        "humbaba",
+        "enlil"
+      ],
+      "functions": [
+        "Moral centerpiece of the Uruk heroic cycle",
+        "Theology of mercy against dutiful violence",
+        "Etiology of the cedar tribute to Nippur"
+      ],
+      "variants": [
+        {
+          "name": "Gilgamesh epic Tablet V",
+          "text_tradition": "Akkadian (Wilson/Muss-Arnolt 1901)",
+          "summary": "Humbaba's plea and Enkidu's fatal insistence.",
+          "cross_ref": "babylonian-gilgamesh-humbaba-battle"
+        }
+      ],
+      "language": "Sumerian",
+      "canonical_translation": "ETCSL team translation, Oxford, 2003-2006",
+      "primary_sources": [
+        {
+          "work": "Gilgamesh and Huwawa (A)",
+          "citation": "ETCSL c.1.8.1.5, trans. ETCSL team (2003-2006), second half",
+          "language": "Sumerian"
+        }
+      ],
+      "secondary_sources": [
+        {
+          "work": "The Epic of Gilgamesh",
+          "citation": "Andrew George, London, 1999"
+        }
+      ],
+      "source_urls": [
+        {
+          "url": "https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.1.8.1.5&charenc=j",
+          "description": "ETCSL c.1.8.1.5 text and translation",
+          "accessed": "2026-11-14"
+        }
+      ],
+      "sensitivity_flag": "none",
+      "provenance": {
+        "record_status": "complete",
+        "compiled": "2026-11-14",
+        "compiled_by": "opencode myth-collection session",
+        "review_status": "unreviewed"
+      }
+    },
+    {
+      "id": "sumerian-gilgamesh-huwawa-b2",
+      "title": {
+        "en": "Huwawa (Version B): Enkidu's Ruse",
+        "zh": "胡瓦瓦（乙本）：恩奇都之計"
+      },
+      "tradition": "sumerian",
+      "category": "myth",
+      "region": {
+        "en": "Cedar forest of the Lebanon (symbolic pin)",
+        "zh": "黎巴嫩雪松林（象徵性定位）"
+      },
+      "lat": 34.0,
+      "lon": 35.9,
+      "period": "Old Babylonian manuscript, c. 1700 BCE (ETCSL translation 2003)",
+      "source": {
+        "archive": "ETCSL (University of Oxford)",
+        "work": "Gilgamesh and Huwawa (version B, ETCSL c.1.8.1.5.1)",
+        "url": "https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.1.8.1.5.1&charenc=j"
+      },
+      "license": "ETCSL translation (Oxford, 2003-2006); quoted in paraphrase with attribution",
+      "summary": {
+        "en": "In the second telling, Enkidu leads the strategy: the heroes offer Huwawa sister-wives and houses, playing on his loneliness; the auras are surrendered one by one, and when the guardian is powerless the friendship turns to blades.",
+        "zh": "乙本敘事中恩奇都主導方略：眾英雄以姊妹為妻、宅第相許，誘其孤心；七光環逐一拱手，待其力竭，昔日賓主反目成仇。"
+      },
+      "motifs": [
+        "trickster",
+        "quest-immortality",
+        "taboo-transgression"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient epic; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "In this telling Enkidu counsels the trick: they greet Huwawa as kin and promise him wives — elder and younger sisters — and houses with their goods, playing on the guardian's loneliness at the edge of the world. Huwawa, soothed, gives up his auras one by one as tokens of friendship; when the last is handed over, the heroes fall on him and bind him — the guardian betrayed by the friendship he believed.",
+          "note": "Paraphrase of ETCSL c.1.8.1.5.1, the ruse; not verbatim. / Paraphrase of ETCSL c.1.8.1.5.1, the surrender; not verbatim."
+        }
+      ],
+      "persons": [
+        "gilgamesh",
+        "enkidu",
+        "humbaba"
+      ],
+      "functions": [
+        "Trickster variant of the guardian-slaying myth",
+        "Study text of narrative variants in scribal schools",
+        "Theology of betrayed friendship"
+      ],
+      "variants": [
+        {
+          "name": "Gilgamesh and Huwawa (A)",
+          "text_tradition": "Sumerian (ETCSL c.1.8.1.5)",
+          "summary": "The battle version of the same story.",
+          "cross_ref": "sumerian-gilgamesh-huwawa-a"
+        }
+      ],
+      "language": "Sumerian",
+      "canonical_translation": "ETCSL team translation, Oxford, 2003-2006",
+      "primary_sources": [
+        {
+          "work": "Gilgamesh and Huwawa (B)",
+          "citation": "ETCSL c.1.8.1.5.1, trans. ETCSL team (2003-2006)",
+          "language": "Sumerian"
+        }
+      ],
+      "secondary_sources": [
+        {
+          "work": "The Epic of Gilgamesh",
+          "citation": "Andrew George, London, 1999"
+        }
+      ],
+      "source_urls": [
+        {
+          "url": "https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.1.8.1.5.1&charenc=j",
+          "description": "ETCSL c.1.8.1.5.1 text and translation",
+          "accessed": "2026-11-14"
+        }
+      ],
+      "sensitivity_flag": "none",
+      "provenance": {
+        "record_status": "complete",
+        "compiled": "2026-11-14",
+        "compiled_by": "opencode myth-collection session",
+        "review_status": "unreviewed"
+      }
+    },
+    {
+      "id": "sumerian-gilgamesh-netherworld",
+      "title": {
+        "en": "Enkidu's Descent for the Ball",
+        "zh": "恩奇都為球入冥界"
+      },
+      "tradition": "sumerian",
+      "category": "myth",
+      "region": {
+        "en": "Uruk and the great below, Iraq",
+        "zh": "烏魯克與冥土（伊拉克）"
+      },
+      "lat": 31.324,
+      "lon": 45.637,
+      "period": "Old Babylonian manuscript, c. 1700 BCE (ETCSL translation 2003)",
+      "source": {
+        "archive": "ETCSL (University of Oxford)",
+        "work": "Gilgamesh, Enkidu and the Nether World (ETCSL c.1.8.1.4)",
+        "url": "https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.1.8.1.4&charenc=j"
+      },
+      "license": "ETCSL translation (Oxford, 2003-2006); quoted in paraphrase with attribution",
+      "summary": {
+        "en": "Inanna's gift ball and malku-stick fall through a hole into the netherworld; a maiden sent to fetch them is caught there; Enkidu volunteers, is warned of the rules of the dead, breaks them all, and is held below until the sun god frees him as a ghost.",
+        "zh": "伊南娜所贈之球與棍自地洞墜入冥界；遣去之少女亦被困；恩奇都自願下冥取物，卻將冥界禁忌一一觸犯，被困冥土；終由日神救出，然已成幽魂。"
+      },
+      "motifs": [
+        "descent-underworld",
+        "taboo-transgression",
+        "parable-teaching"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient myth; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Inanna gives Gilgamesh the ball and stick; playing by the Euphrates, the young men drop both through a hole into the netherworld. The maiden sent down to fetch them never returns; Enkidu volunteers and descends through the hole. Gilgamesh warns him of the rules of the dead: do not put on clean clothes, do not anoint yourself, do not throw a stick, do not carry a bow, do not kiss your wife or strike her. Enkidu breaks every rule one by one — and is seized by the netherworld and held.",
+          "note": "Paraphrase of ETCSL c.1.8.1.4, the loss and descent; not verbatim. / Paraphrase of ETCSL c.1.8.1.4, the broken rules; not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Gilgamesh begs Utu, the sun, who opens a hole: Enkidu comes up as a ghost, and the two friends talk until Enkidu must return — and the poem ends with Enkidu's report of the netherworld's customs, the famous catalogue of the fates of the dead.",
+          "note": "Paraphrase of ETCSL c.1.8.1.4, the ghost and the report; not verbatim."
+        }
+      ],
+      "persons": [
+        "gilgamesh",
+        "enkidu",
+        "inanna",
+        "utu"
+      ],
+      "functions": [
+        "Descent myth with the taboo list of the netherworld",
+        "Eschatological catalogue of the fates of the dead",
+        "Charter of funerary practice: remembrance as afterlife"
+      ],
+      "variants": [
+        {
+          "name": "Gilgamesh epic Tablet XII",
+          "text_tradition": "Akkadian (Wilson/Muss-Arnolt 1901)",
+          "summary": "The Babylonian translation of this Sumerian poem appended to the epic.",
+          "cross_ref": "babylonian-gilgamesh-ghost-enkidu"
+        }
+      ],
+      "language": "Sumerian",
+      "canonical_translation": "ETCSL team translation, Oxford, 2003-2006",
+      "primary_sources": [
+        {
+          "work": "Gilgamesh, Enkidu and the Nether World",
+          "citation": "ETCSL c.1.8.1.4, trans. ETCSL team (2003-2006), lines 57-260",
+          "language": "Sumerian"
+        }
+      ],
+      "secondary_sources": [
+        {
+          "work": "The Epic of Gilgamesh",
+          "citation": "Andrew George, London, 1999, discussion of Tablet XII"
+        }
+      ],
+      "source_urls": [
+        {
+          "url": "https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.1.8.1.4&charenc=j",
+          "description": "ETCSL c.1.8.1.4 text and translation",
+          "accessed": "2026-11-14"
+        }
+      ],
+      "sensitivity_flag": "none",
+      "provenance": {
+        "record_status": "complete",
+        "compiled": "2026-11-14",
+        "compiled_by": "opencode myth-collection session",
+        "review_status": "unreviewed"
+      }
+    },
+    {
+      "id": "sumerian-gilgamesh-death",
+      "title": {
+        "en": "The Death of Gilgamesh",
+        "zh": "吉爾伽美什之死"
+      },
+      "tradition": "sumerian",
+      "category": "myth",
+      "region": {
+        "en": "Uruk, Iraq",
+        "zh": "烏魯克（伊拉克）"
+      },
+      "lat": 31.324,
+      "lon": 45.637,
+      "period": "Old Babylonian manuscript, c. 1700 BCE (ETCSL translation 2003)",
+      "source": {
+        "archive": "ETCSL (University of Oxford)",
+        "work": "The death of Gilgamesh (ETCSL c.1.8.1.3)",
+        "url": "https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.1.8.1.3&charenc=j"
+      },
+      "license": "ETCSL translation (Oxford, 2003-2006); quoted in paraphrase with attribution",
+      "summary": {
+        "en": "Gilgamesh, having crossed the lands and seen everything, lies dying; a dream tells him he is taken. He decrees grave-goods for himself and burial offerings for his household, then descends to the assembly of the dead — and is made their king, judge of the shades.",
+        "zh": "吉爾伽美什歷盡山河、見遍萬事後臥病垂死；夢兆示其將被接引。他自定隨葬之器、為家室定祭品，然後下至亡者會議——被立為亡者之王，幽魂之判官。"
+      },
+      "motifs": [
+        "descent-underworld",
+        "sacred-kingship",
+        "prophetic-vision"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient funerary literature; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Gilgamesh, the king who crossed the four quarters and saw everything, lies on his deathbed; a dream comes: he is seized and held in the great below. He wakes and knows the dream's meaning. He decrees his grave-goods — lapis and gold, weapons and vessels — and charges his household with the offerings that will feed him in the land of the dead; the burial is made as for a god. Descended among the dead, he is not lost but enthroned: the shades honor him as their king, and he sits in judgment over them — the last office of the hero who would not die and did.",
+          "note": "Paraphrase of ETCSL c.1.8.1.3, the death-dream; not verbatim. / Paraphrase of ETCSL c.1.8.1.3, the grave-goods; not verbatim. / Paraphrase of ETCSL c.1.8.1.3, enthronement among the dead; not verbatim."
+        }
+      ],
+      "persons": [
+        "gilgamesh",
+        "enkidu",
+        "inanna"
+      ],
+      "functions": [
+        "Funerary charter: grave-goods and offering obligations",
+        "Theology of the dead king's persistence as judge of shades",
+        "Royal burial liturgy performed for deceased rulers"
+      ],
+      "variants": [
+        {
+          "name": "Gilgamesh epic Tablet X-XI",
+          "text_tradition": "Akkadian (Wilson/Muss-Arnolt 1901)",
+          "summary": "The living hero's quest that the death poem presupposes.",
+          "cross_ref": "babylonian-gilgamesh-siduri-urshanabi"
+        }
+      ],
+      "language": "Sumerian",
+      "canonical_translation": "ETCSL team translation, Oxford, 2003-2006",
+      "primary_sources": [
+        {
+          "work": "The death of Gilgamesh",
+          "citation": "ETCSL c.1.8.1.3, trans. ETCSL team (2003-2006)",
+          "language": "Sumerian"
+        }
+      ],
+      "secondary_sources": [
+        {
+          "work": "The Epic of Gilgamesh",
+          "citation": "Andrew George, London, 1999"
+        }
+      ],
+      "source_urls": [
+        {
+          "url": "https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.1.8.1.3&charenc=j",
+          "description": "ETCSL c.1.8.1.3 text and translation",
+          "accessed": "2026-11-14"
+        }
+      ],
+      "sensitivity_flag": "none",
+      "provenance": {
+        "record_status": "complete",
+        "compiled": "2026-11-14",
+        "compiled_by": "opencode myth-collection session",
+        "review_status": "unreviewed"
+      }
+    },
+    {
+      "id": "sumerian-lugalbanda-cave",
+      "title": {
+        "en": "Lugalbanda Sick in the Mountain Cave",
+        "zh": "盧伽爾班達山中臥病"
+      },
+      "tradition": "sumerian",
+      "category": "myth",
+      "region": {
+        "en": "Highlands between Uruk and Aratta (symbolic pin)",
+        "zh": "烏魯克與阿拉塔之間山地（象徵性定位）"
+      },
+      "lat": 33.0,
+      "lon": 48.0,
+      "period": "Old Babylonian manuscript, c. 1700 BCE (ETCSL translation 2003)",
+      "source": {
+        "archive": "ETCSL (University of Oxford)",
+        "work": "Lugalbanda in the mountain cave (ETCSL c.1.8.2.1)",
+        "url": "https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.1.8.2.1&charenc=j"
+      },
+      "license": "ETCSL translation (Oxford, 2003-2006); quoted in paraphrase with attribution",
+      "summary": {
+        "en": "Marching on Aratta, Uruk's army strains mountains like reed-bundles; Lugalbanda falls sick in the great Zabum hills and is left behind with provisions — alone between the armies of heaven and hell in the cave of the mountain.",
+        "zh": "烏魯克大軍征伐阿拉塔，翻山如束葦；盧伽爾班達於扎布姆山中病倒，被留於後，獨伴乾糧——置身天兵與魔軍之間的山洞裡。"
+      },
+      "motifs": [
+        "otherworld-voyage",
+        "miraculous-birth",
+        "sacred-kingship"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient epic; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Uruk's army marches on Aratta, hauling its stones over mountains like bundles of reeds; in the high Zabum hills Lugalbanda, fifth of the brothers, falls sick with fever and cannot go on. His brothers leave him bread and water, an axe and a bow, and go on; Lugalbanda alone in the mountain cave is told in dream that he will be tested: whatever he meets — powers of heaven or of hell — he must honor.",
+          "note": "Paraphrase of ETCSL c.1.8.2.1, the march and sickness; not verbatim. / Paraphrase of ETCSL c.1.8.2.1, the abandonment and dream; not verbatim."
+        }
+      ],
+      "persons": [
+        "lugalbanda",
+        "enmerkar",
+        "inanna"
+      ],
+      "functions": [
+        "Quest myth of the Uruk-Aratta war cycle",
+        "Model of the tested solitary hero",
+        "Performed with the Enmerkar poems at Uruk"
+      ],
+      "variants": [
+        {
+          "name": "Lugalbanda and the Anzud bird",
+          "text_tradition": "Sumerian (ETCSL c.1.8.2.2)",
+          "summary": "The sequel in which the sick hero meets the storm bird.",
+          "cross_ref": "sumerian-lugalbanda-anzu"
+        }
+      ],
+      "language": "Sumerian",
+      "canonical_translation": "ETCSL team translation, Oxford, 2003-2006",
+      "primary_sources": [
+        {
+          "work": "Lugalbanda in the mountain cave",
+          "citation": "ETCSL c.1.8.2.1, trans. ETCSL team (2003-2006), lines 1-120",
+          "language": "Sumerian"
+        }
+      ],
+      "secondary_sources": [
+        {
+          "work": "The Epic of Gilgamesh",
+          "citation": "Andrew George, London, 1999, discussion of the Lugalbanda poems"
+        }
+      ],
+      "source_urls": [
+        {
+          "url": "https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.1.8.2.1&charenc=j",
+          "description": "ETCSL c.1.8.2.1 text and translation",
+          "accessed": "2026-11-14"
+        }
+      ],
+      "sensitivity_flag": "none",
+      "provenance": {
+        "record_status": "complete",
+        "compiled": "2026-11-14",
+        "compiled_by": "opencode myth-collection session",
+        "review_status": "unreviewed"
+      }
+    },
+    {
+      "id": "sumerian-lugalbanda-sacrifice",
+      "title": {
+        "en": "Lugalbanda's Offerings in the Cave",
+        "zh": "盧伽爾班達洞中獻祭"
+      },
+      "tradition": "sumerian",
+      "category": "myth",
+      "region": {
+        "en": "Zabum mountain cave (symbolic pin)",
+        "zh": "扎布姆山洞（象徵性定位）"
+      },
+      "lat": 33.0,
+      "lon": 48.0,
+      "period": "Old Babylonian manuscript, c. 1700 BCE (ETCSL translation 2003)",
+      "source": {
+        "archive": "ETCSL (University of Oxford)",
+        "work": "Lugalbanda in the mountain cave, second half (ETCSL c.1.8.2.1)",
+        "url": "https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.1.8.2.1&charenc=j"
+      },
+      "license": "ETCSL translation (Oxford, 2003-2006); quoted in paraphrase with attribution",
+      "summary": {
+        "en": "Recovered by dawn, Lugalbanda makes offerings to the gods of the cave — bread before Inanna and the river gods, unguents, libations — honoring every power he meets; his piety is the door through which the sequel's friendship with Anzud will open.",
+        "zh": "黎明即癒的盧伽爾班達向山洞諸神獻祭——麵包供伊南娜與河神，敷油奠酒，所遇神靈無不致敬；其虔誠正是下一章與安祖結誼之門。"
+      },
+      "motifs": [
+        "ritual-origin",
+        "otherworld-voyage",
+        "theophany"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient epic; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "At dawn Lugalbanda's fever breaks as if it had never been; he takes the rations his brothers left and prepares an offering table in the cave: bread before Inanna and the great river gods, unguent, libations of beer and water.",
+          "note": "Paraphrase of ETCSL c.1.8.2.1, the offerings; not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "To every power of the mountain — the cave's lord, the river's god, the Anuna of the wild places — he presents his due, and none is slighted; the poem closes with the hero standing ready, his piety proven, for the meeting the mountains will now grant him.",
+          "note": "Paraphrase of ETCSL c.1.8.2.1, the piety test passed; not verbatim."
+        }
+      ],
+      "persons": [
+        "lugalbanda",
+        "inanna"
+      ],
+      "functions": [
+        "Instruction in the offering rites of the wilderness",
+        "Piety test preparing the Anzud friendship",
+        "Liturgy for soldiers' camps and mountain marches"
+      ],
+      "variants": [
+        {
+          "name": "Lugalbanda and the Anzud bird",
+          "text_tradition": "Sumerian (ETCSL c.1.8.2.2)",
+          "summary": "The reward of the tested piety.",
+          "cross_ref": "sumerian-lugalbanda-anzu"
+        }
+      ],
+      "language": "Sumerian",
+      "canonical_translation": "ETCSL team translation, Oxford, 2003-2006",
+      "primary_sources": [
+        {
+          "work": "Lugalbanda in the mountain cave",
+          "citation": "ETCSL c.1.8.2.1, trans. ETCSL team (2003-2006), lines 120-360",
+          "language": "Sumerian"
+        }
+      ],
+      "secondary_sources": [
+        {
+          "work": "The Harps that Once...",
+          "citation": "Thorkild Jacobsen, New Haven, 1987"
+        }
+      ],
+      "source_urls": [
+        {
+          "url": "https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.1.8.2.1&charenc=j",
+          "description": "ETCSL c.1.8.2.1 text and translation",
+          "accessed": "2026-11-14"
+        }
+      ],
+      "sensitivity_flag": "none",
+      "provenance": {
+        "record_status": "complete",
+        "compiled": "2026-11-14",
+        "compiled_by": "opencode myth-collection session",
+        "review_status": "unreviewed"
+      }
+    },
+    {
+      "id": "sumerian-lugalbanda-anzu",
+      "title": {
+        "en": "Lugalbanda and the Nest of Anzud",
+        "zh": "盧伽爾班達與安祖巢"
+      },
+      "tradition": "sumerian",
+      "category": "myth",
+      "region": {
+        "en": "Nest on the mountain cliff (symbolic pin)",
+        "zh": "山崖鳥巢（象徵性定位）"
+      },
+      "lat": 33.0,
+      "lon": 48.0,
+      "period": "Old Babylonian manuscript, c. 1700 BCE (ETCSL translation 2003)",
+      "source": {
+        "archive": "ETCSL (University of Oxford)",
+        "work": "Lugalbanda and the Anzud bird (ETCSL c.1.8.2.2)",
+        "url": "https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.1.8.2.2&charenc=j"
+      },
+      "license": "ETCSL translation (Oxford, 2003-2006); quoted in paraphrase with attribution",
+      "summary": {
+        "en": "Searching for his army, Lugalbanda finds the cliff-nest of Anzud, the storm bird whose face is the flood; he honors the fledglings with cream and ornaments and waits — praying not to be eaten — until the great bird returns and takes him as a guest, not prey.",
+        "zh": "尋找大軍途中，盧伽爾班達發現安祖——面容即洪水的暴風鳥——的懸崖巢穴；他以乳酪與飾物敬奉雛鳥，虔誠等待，祈禱不被吞食；巨鳥歸來，以客相待而非獵物。"
+      },
+      "motifs": [
+        "otherworld-voyage",
+        "theophany",
+        "miraculous-birth"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient epic; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Lugalbanda, seeking his army, comes to the cliff where Anzud the storm bird nests — the bird whose face is the deluge and whose glance is lightning. He finds the nest with its single egg and its young, and he does them honor: cream, honey and ornaments laid before the fledglings. Waiting in the nest's shadow, the hero prays: let the great bird find me pleasing, not as prey. When Anzud returns and sees the offerings, he takes Lugalbanda into the nest as a guest and names him his son.",
+          "note": "Paraphrase of ETCSL c.1.8.2.2, the nest; not verbatim. / Paraphrase of ETCSL c.1.8.2.2, the adoption; not verbatim."
+        }
+      ],
+      "persons": [
+        "lugalbanda",
+        "anzu"
+      ],
+      "functions": [
+        "Charter of guest-friendship with the powers of the wild",
+        "Etiology of the royal thunder-bird's cult at Uruk",
+        "Performed with the Aratta cycle at Uruk"
+      ],
+      "variants": [
+        {
+          "name": "Anzu and the Tablet of Destinies",
+          "text_tradition": "Akkadian (Spence 1916)",
+          "summary": "The darker Babylonian myth of the same storm bird.",
+          "cross_ref": "babylonian-anzu-tablet-destinies"
+        }
+      ],
+      "language": "Sumerian",
+      "canonical_translation": "ETCSL team translation, Oxford, 2003-2006",
+      "primary_sources": [
+        {
+          "work": "Lugalbanda and the Anzud bird",
+          "citation": "ETCSL c.1.8.2.2, trans. ETCSL team (2003-2006), lines 1-150",
+          "language": "Sumerian"
+        }
+      ],
+      "secondary_sources": [
+        {
+          "work": "The Harps that Once...",
+          "citation": "Thorkild Jacobsen, New Haven, 1987"
+        }
+      ],
+      "source_urls": [
+        {
+          "url": "https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.1.8.2.2&charenc=j",
+          "description": "ETCSL c.1.8.2.2 text and translation",
+          "accessed": "2026-11-14"
+        }
+      ],
+      "sensitivity_flag": "none",
+      "provenance": {
+        "record_status": "complete",
+        "compiled": "2026-11-14",
+        "compiled_by": "opencode myth-collection session",
+        "review_status": "unreviewed"
+      }
+    },
+    {
+      "id": "sumerian-lugalbanda-anzu-gift",
+      "title": {
+        "en": "Anzud's Gift: The Speed of Light",
+        "zh": "安祖贈禮：疾行如光"
+      },
+      "tradition": "sumerian",
+      "category": "myth",
+      "region": {
+        "en": "Mountain heights to Aratta road (symbolic pin)",
+        "zh": "自山巔至阿拉塔之路（象徵性定位）"
+      },
+      "lat": 33.0,
+      "lon": 48.0,
+      "period": "Old Babylonian manuscript, c. 1700 BCE (ETCSL translation 2003)",
+      "source": {
+        "archive": "ETCSL (University of Oxford)",
+        "work": "Lugalbanda and the Anzud bird, second half (ETCSL c.1.8.2.2)",
+        "url": "https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.1.8.2.2&charenc=j"
+      },
+      "license": "ETCSL translation (Oxford, 2003-2006); quoted in paraphrase with attribution",
+      "summary": {
+        "en": "Anzud grants Lugalbanda gifts of power: tires that never rest, the speed of light. Rejoining the army, the hero runs messages across mountains — and the queen-mother of Aratta's counsel is carried back to Uruk in a single day.",
+        "zh": "安祖賜盧伽爾班達神力之禮：永不疲倦的雙足、疾行如光之速。歸隊後，他翻山傳訊——阿拉塔王太后之策，一日之間往返於烏魯克。"
+      },
+      "motifs": [
+        "culture-hero",
+        "miraculous-birth",
+        "quest-immortality",
+        "wise-advice"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient epic; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Anzud asks his guest what gift he would take; Lugalbanda asks for the tires that never tire and the speed of light. The bird grants them, and the hero can outrun the wind and outlast the day. He rejoins Uruk's army at the siege, runs messages through the mountains — to Aratta and back within a day — and the war's diplomacy is carried on his feet; the cycle's politics turn on the runner blessed by the storm bird.",
+          "note": "Paraphrase of ETCSL c.1.8.2.2, the gift; not verbatim. / Paraphrase of ETCSL c.1.8.2.2, the service; not verbatim."
+        }
+      ],
+      "persons": [
+        "lugalbanda",
+        "anzu",
+        "enmerkar"
+      ],
+      "functions": [
+        "Etiology of the messenger's divine speed",
+        "Plot device linking the Aratta cycle's poems",
+        "Cult myth of Lugalbanda as runner-god"
+      ],
+      "variants": [
+        {
+          "name": "Enmerkar and the lord of Aratta",
+          "text_tradition": "Sumerian (ETCSL c.1.8.2.3)",
+          "summary": "The next poem, where the runner's role is central.",
+          "cross_ref": "sumerian-enmerkar-aratta"
+        }
+      ],
+      "language": "Sumerian",
+      "canonical_translation": "ETCSL team translation, Oxford, 2003-2006",
+      "primary_sources": [
+        {
+          "work": "Lugalbanda and the Anzud bird",
+          "citation": "ETCSL c.1.8.2.2, trans. ETCSL team (2003-2006), lines 150-330",
+          "language": "Sumerian"
+        }
+      ],
+      "secondary_sources": [
+        {
+          "work": "The Harps that Once...",
+          "citation": "Thorkild Jacobsen, New Haven, 1987"
+        }
+      ],
+      "source_urls": [
+        {
+          "url": "https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.1.8.2.2&charenc=j",
+          "description": "ETCSL c.1.8.2.2 text and translation",
+          "accessed": "2026-11-14"
+        }
+      ],
+      "sensitivity_flag": "none",
+      "provenance": {
+        "record_status": "complete",
+        "compiled": "2026-11-14",
+        "compiled_by": "opencode myth-collection session",
+        "review_status": "unreviewed"
+      }
+    },
+    {
+      "id": "sumerian-enmerkar-aratta",
+      "title": {
+        "en": "Enmerkar and the Lord of Aratta",
+        "zh": "恩美卡爾與阿拉塔之王"
+      },
+      "tradition": "sumerian",
+      "category": "myth",
+      "region": {
+        "en": "Uruk and Aratta (Aratta pin symbolic, eastern Iran)",
+        "zh": "烏魯克與阿拉塔（阿拉塔為象徵性定位，東伊朗）"
+      },
+      "lat": 33.9,
+      "lon": 60.0,
+      "period": "Old Babylonian manuscript, c. 1700 BCE (ETCSL translation 2003)",
+      "source": {
+        "archive": "ETCSL (University of Oxford)",
+        "work": "Enmerkar and the lord of Aratta (ETCSL c.1.8.2.3)",
+        "url": "https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.1.8.2.3&charenc=j"
+      },
+      "license": "ETCSL translation (Oxford, 2003-2006); quoted in paraphrase with attribution",
+      "summary": {
+        "en": "Enmerkar demands Aratta's submission and tribute for the building of Uruk's temples; the two kings duel by riddle through a single exhausted messenger — the message grows so long that the lord of Uruk invents writing to defeat distance.",
+        "zh": "恩美卡爾為建烏魯克神殿，向阿拉塔索貢索降；二王隔山以謎語交鋒，僅賴一名疲憊信使傳遞——訊息日長，烏魯克之王遂發明文字以勝距離。"
+      },
+      "motifs": [
+        "culture-hero",
+        "sacred-kingship",
+        "sacred-place",
+        "riddle-contest",
+        "origin-tools"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient epic; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Enmerkar, lord of Uruk, demands that Aratta build and bring the precious metals and stones for Inanna's temples; the lord of Aratta, also beloved of Inanna, refuses — the two kings argue through one exhausted messenger across seven mountains. The messages grow into riddling speeches: Enmerkar challenges with the shuttered grain and the shadow of seven years, and the messenger, worn out by the long recitations, cannot carry the speeches whole.",
+          "note": "Paraphrase of ETCSL c.1.8.2.3, the demand; not verbatim. / Paraphrase of ETCSL c.1.8.2.3, the riddle duel; not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Enmerkar's answer is civilization itself: he presses the words into wet clay with a reed — the first writing — so that the message can outlast the messenger. Aratta's lord, reading the tablet, is staggered: the Sumerian has defeated distance; the demand stands.",
+          "note": "Paraphrase of ETCSL c.1.8.2.3, the invention of writing; not verbatim."
+        }
+      ],
+      "persons": [
+        "enmerkar",
+        "inanna",
+        "lugalbanda"
+      ],
+      "functions": [
+        "Founding myth of writing as an instrument of statecraft",
+        "Charter of Uruk's primacy and Aratta's tribute",
+        "Performed with the Aratta cycle in the scribal schools"
+      ],
+      "variants": [
+        {
+          "name": "Enmerkar and En-suhgir-ana",
+          "text_tradition": "Sumerian (ETCSL c.1.8.2.4)",
+          "summary": "The sequel duel settled by a sorceress contest.",
+          "cross_ref": "sumerian-enmerkar-ensuhgirana"
+        }
+      ],
+      "language": "Sumerian",
+      "canonical_translation": "ETCSL team translation, Oxford, 2003-2006",
+      "primary_sources": [
+        {
+          "work": "Enmerkar and the lord of Aratta",
+          "citation": "ETCSL c.1.8.2.3, trans. ETCSL team (2003-2006), lines 1-160",
+          "language": "Sumerian"
+        }
+      ],
+      "secondary_sources": [
+        {
+          "work": "The Epic of Gilgamesh",
+          "citation": "Andrew George, London, 1999, on the Aratta cycle"
+        }
+      ],
+      "source_urls": [
+        {
+          "url": "https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.1.8.2.3&charenc=j",
+          "description": "ETCSL c.1.8.2.3 text and translation",
+          "accessed": "2026-11-14"
+        }
+      ],
+      "sensitivity_flag": "none",
+      "provenance": {
+        "record_status": "complete",
+        "compiled": "2026-11-14",
+        "compiled_by": "opencode myth-collection session",
+        "review_status": "unreviewed"
+      }
+    },
+    {
+      "id": "sumerian-enmerkar-writing",
+      "title": {
+        "en": "The Land Unites Its Tongues",
+        "zh": "萬邦同聲之世"
+      },
+      "tradition": "sumerian",
+      "category": "myth",
+      "region": {
+        "en": "Uruk, Iraq",
+        "zh": "烏魯克（伊拉克）"
+      },
+      "lat": 31.324,
+      "lon": 45.637,
+      "period": "Old Babylonian manuscript, c. 1700 BCE (ETCSL translation 2003)",
+      "source": {
+        "archive": "ETCSL (University of Oxford)",
+        "work": "Enmerkar and the lord of Aratta, closing speech (ETCSL c.1.8.2.3)",
+        "url": "https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.1.8.2.3&charenc=j"
+      },
+      "license": "ETCSL translation (Oxford, 2003-2006); quoted in paraphrase with attribution",
+      "summary": {
+        "en": "In Enmerkar's great prayer, the age before language-division is recalled: the whole world spoke to Enlil in one tongue; Enki confounded their speech — the Sumerian Babel — and the unity of mankind's tongue is prayed for at Uruk.",
+        "zh": "恩美卡爾的偉大祈禱中追憶未分言之世：普天之下同以一語向恩利爾呼告；恩基亂其言語——蘇美的巴別故事——烏魯克遂祈願人類語言之重歸於一。"
+      },
+      "motifs": [
+        "creation-chaos",
+        "culture-hero",
+        "ritual-origin",
+        "origin-language",
+        "prayer"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient myth; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "In his prayer Enmerkar recalls the age when the whole earth spoke to the lord of Nippur in one tongue — the one language of mankind, when no land was set apart. Then Enki, lord of wisdom and of the many tongues, confounded their speech in their mouths; the lands were set apart each with its own language — and the poem prays that the days return when all the lands praise Enlil in one tongue again.",
+          "note": "Paraphrase of ETCSL c.1.8.2.3, the prayer; not verbatim. / Paraphrase of ETCSL c.1.8.2.3, the confounding; not verbatim."
+        }
+      ],
+      "persons": [
+        "enmerkar",
+        "enlil",
+        "enki"
+      ],
+      "functions": [
+        "Oldest attestation of the language-confusion myth",
+        "Political prayer for cultic unity under Enlil",
+        "Liturgical closing of the Aratta cycle performances"
+      ],
+      "variants": [
+        {
+          "name": "Tower of Babel (Genesis 11)",
+          "text_tradition": "Hebrew",
+          "summary": "The Hebrew parallel of the divided tongues.",
+          "cross_ref": "none"
+        }
+      ],
+      "language": "Sumerian",
+      "canonical_translation": "ETCSL team translation, Oxford, 2003-2006",
+      "primary_sources": [
+        {
+          "work": "Enmerkar and the lord of Aratta",
+          "citation": "ETCSL c.1.8.2.3, trans. ETCSL team (2003-2006), closing prayer lines 140-160",
+          "language": "Sumerian"
+        }
+      ],
+      "secondary_sources": [
+        {
+          "work": "Legends of Babylon and Egypt in Relation to Hebrew Tradition",
+          "citation": "L. W. King, London, 1918, ch. on the confusion of tongues"
+        }
+      ],
+      "source_urls": [
+        {
+          "url": "https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.1.8.2.3&charenc=j",
+          "description": "ETCSL c.1.8.2.3 text and translation",
+          "accessed": "2026-11-14"
+        }
+      ],
+      "sensitivity_flag": "none",
+      "provenance": {
+        "record_status": "complete",
+        "compiled": "2026-11-14",
+        "compiled_by": "opencode myth-collection session",
+        "review_status": "unreviewed"
+      }
+    },
+    {
+      "id": "sumerian-enmerkar-ensuhgirana",
+      "title": {
+        "en": "Enmerkar and Ensuhgirana: The Sorceress Duel",
+        "zh": "恩美卡爾與恩蘇赫吉拉那：巫師對決"
+      },
+      "tradition": "sumerian",
+      "category": "myth",
+      "region": {
+        "en": "Uruk and Aratta (Aratta pin symbolic)",
+        "zh": "烏魯克與阿拉塔（阿拉塔為象徵性定位）"
+      },
+      "lat": 33.9,
+      "lon": 60.0,
+      "period": "Old Babylonian manuscript, c. 1700 BCE (ETCSL translation 2003)",
+      "source": {
+        "archive": "ETCSL (University of Oxford)",
+        "work": "Enmerkar and En-suhgir-ana (ETCSL c.1.8.2.4)",
+        "url": "https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.1.8.2.4&charenc=j"
+      },
+      "license": "ETCSL translation (Oxford, 2003-2006); quoted in paraphrase with attribution",
+      "summary": {
+        "en": "Aratta's lord claims seniority; the duel moves from boasts to magic — Aratta's sorcerer turns water into marble, but Uruk's old woman Sagburru counters every spell, and the challenger's severed head is thrown into the pit, ending the contest of cities.",
+        "zh": "阿拉塔之王自誇居長；對決由言辭升級為法術——阿拉塔巫師化水為石，烏魯克老嫗薩格布魯逐一破解；挑戰者首級被擲入坑中，兩城之爭落幕。"
+      },
+      "motifs": [
+        "trickster",
+        "sacred-kingship",
+        "transformation"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient epic; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The lord of Aratta writes to Uruk claiming seniority: his city held kingship before Enmerkar's line. The kings trade boasts and riddles until the duel turns to magic: Aratta sends a sorcerer, Uruk an old woman, Sagburru of the Eanna.",
+          "note": "Paraphrase of ETCSL c.1.8.2.4, the challenge; not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "The sorcerer throws fish spawn into the river and reads the future from them, turns water to marble and back; Sagburru answers spell for spell, spoils each marvel, and the challenger's head is struck off and thrown into the pit. Aratta yields.",
+          "note": "Paraphrase of ETCSL c.1.8.2.4, the contest; not verbatim."
+        }
+      ],
+      "persons": [
+        "enmerkar",
+        "inanna"
+      ],
+      "functions": [
+        "Conclusion of the Uruk-Aratta rivalry cycle",
+        "Celebration of the craft of female ritual experts",
+        "School text for recitation and variant study"
+      ],
+      "variants": [
+        {
+          "name": "Enmerkar and the lord of Aratta",
+          "text_tradition": "Sumerian (ETCSL c.1.8.2.3)",
+          "summary": "The earlier duel of words and the invention of writing.",
+          "cross_ref": "sumerian-enmerkar-aratta"
+        }
+      ],
+      "language": "Sumerian",
+      "canonical_translation": "ETCSL team translation, Oxford, 2003-2006",
+      "primary_sources": [
+        {
+          "work": "Enmerkar and En-suhgir-ana",
+          "citation": "ETCSL c.1.8.2.4, trans. ETCSL team (2003-2006)",
+          "language": "Sumerian"
+        }
+      ],
+      "secondary_sources": [
+        {
+          "work": "The Epic of Gilgamesh",
+          "citation": "Andrew George, London, 1999"
+        }
+      ],
+      "source_urls": [
+        {
+          "url": "https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.1.8.2.4&charenc=j",
+          "description": "ETCSL c.1.8.2.4 text and translation",
+          "accessed": "2026-11-14"
+        }
+      ],
+      "sensitivity_flag": "none",
+      "provenance": {
+        "record_status": "complete",
+        "compiled": "2026-11-14",
+        "compiled_by": "opencode myth-collection session",
+        "review_status": "unreviewed"
+      }
+    }
+  ]
+}

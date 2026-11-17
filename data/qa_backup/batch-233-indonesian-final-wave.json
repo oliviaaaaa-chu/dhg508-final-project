@@ -1,0 +1,265 @@
+{
+ "texts": [
+  {
+   "id": "indonesian-dalang-performance",
+   "title": { "en": "The Dalang's Night: Chanting the Legends Behind the Screen", "zh": "達朗之夜：幕後吟唱古老傳說" },
+   "tradition": "indonesian",
+   "category": "myth",
+   "region": { "en": "West Javanese plantation district (a wayang night)", "zh": "西爪哇種植園區（哇揚之夜）" },
+   "lat": -6.7,
+   "lon": 107.4,
+   "period": "Performance recorded by Worsfold, A Visit to Java (1893)",
+   "source": {
+    "archive": "Internet Archive",
+    "work": "W. Basil Worsfold, A Visit to Java (1893), the wayang kulit performance observed",
+    "url": "https://archive.org/stream/avisittojavawit00worsgoog/avisittojavawit00worsgoog_djvu.txt"
+   },
+   "license": "Public domain (1893)",
+   "summary": {
+    "en": "The wayang night observed in the round: the dalang sits cross-legged before the lamp, sticking the puppets into a banana-stem log taken from a box at his side; he chants 'a long legendary tale taken from the ancient Javan literature, dealing with the times before the European occupation of the island'; at intervals he breaks into dialogue, working the puppets' arms and legs with wires, while the gamelan orchestra behind him punctuates the play — and the audience sits 'listening for hours, far into the night, without getting tired.'",
+    "zh": "哇揚之夜全景：達朗盤坐燈前，身側木箱取偶、插於香蕉莖座；他吟唱『取自古爪哇文學之長篇傳說，所述乃歐人據島之前時代之事』；不時轉入對白，以鐵絲操縱戲偶手足；身後加美蘭樂隊點擊伴奏——觀眾『久坐傾聽，直到深夜而不倦』。"
+   },
+   "motifs": ["ritual-origin", "parable-teaching", "theophany"],
+   "sensitivity": {
+    "restricted": false,
+    "note": "The wayang performance as sacred recitation; read with the Batara Kala ruwatan record for the rite's protective office."
+   },
+   "passages": [
+    {
+     "id": "1",
+     "text": "The dalang sat before the lamp with the puppets stuck in a banana-stem log taken from a box placed by his side; he chanted a long legendary tale taken from the ancient Javan literature, dealing with the times before the European occupation of the island; at intervals he broke into a dialogue, when he worked the puppets' arms and legs with wires, so that they seemed to be acting their several parts.",
+     "note": "Paraphrase of Worsfold, A Visit to Java (1893); not verbatim."
+    },
+    {
+     "id": "2",
+     "text": "Behind the dalang was a gamelan, a series of gongs on a wooden frame struck with wooden hammers by other members of the company; and it was interesting to observe the deep attention with which the audience followed the movements of the puppets and listened to the recitations — they would sit there listening for hours, far into the night, without getting tired.",
+     "note": "Paraphrase of Worsfold (1893); not verbatim."
+    }
+   ],
+   "persons": ["semar"]
+  },
+  {
+   "id": "indonesian-dayak-deified-ancestor",
+   "title": { "en": "Sleeping at the Chief's Grave: The Dream-Bargain with a Dead Man", "zh": "睡於酋長墓旁：與亡者的夢中交易" },
+   "tradition": "indonesian",
+   "category": "myth",
+   "region": { "en": "Klemantan and Sea Dayak country, interior Borneo (symbolic pin)", "zh": "婆羅洲內陸克勒曼丹與海上達雅克之地（象徵性定位）" },
+   "lat": 2.6,
+   "lon": 114.6,
+   "period": "Cult practice recorded by Hose & McDougall (1912)",
+   "source": {
+    "archive": "Project Gutenberg",
+    "work": "Charles Hose & William McDougall, The Pagan Tribes of Borneo (1912), the cult of deceased chiefs",
+    "url": "https://www.gutenberg.org/cache/epub/3307/pg3307.txt"
+   },
+   "license": "Public domain (1912)",
+   "summary": {
+    "en": "A recently deceased chief of exceptional capacity becomes the object of a cult: men go to sleep beside his grave hoping for good dreams, invoking the dead man's aid in acquiring health or wealth or whatever a man most desires; Sea Dayaks fix a tube of bamboo leading from just above the eyes of the corpse to the surface of the ground, and address the dead man through it — the making of a god from a remembered ruler.",
+    "zh": "才略超群之新亡酋長遂成崇拜之對象：人們睡於其墓旁以求吉夢，呼其助己得康健、財富或心之所欲；海上達雅克人並自死者眼上方插一竹管通至地表，隔管與亡者言語——由被記憶的統治者鑄成一位神明。"
+   },
+   "motifs": ["culture-hero", "sacred-place", "prophetic-vision"],
+   "sensitivity": {
+    "restricted": false,
+    "note": "Ancestor-deification practice recorded 1912; paraphrase respectfully."
+   },
+   "passages": [
+    {
+     "id": "1",
+     "text": "A recently deceased chief of exceptional capacity and influence becomes not infrequently the object of a certain cult among Klemantans and Sea Dayaks: men will go to sleep beside his grave or tomb, hoping for good dreams and invoking the aid of the dead chief in acquiring health, or wealth, or whatever a man most desires.",
+     "note": "Paraphrase of Hose & McDougall (1912); not verbatim."
+    },
+    {
+     "id": "2",
+     "text": "Sea Dayaks sometimes fix a tube of bamboo leading from just above the eyes of the corpse to the surface of the ground; they will address the dead man through it — the grave becoming a speaking-place, and the dead chief a god in the making.",
+     "note": "Paraphrase of Hose & McDougall (1912); not verbatim."
+    }
+   ],
+   "persons": []
+  },
+  {
+   "id": "indonesian-bali-sungei-river-dragon",
+   "title": { "en": "Bali Sungei: The Dragon at the Bottom of the River", "zh": "巴利·松蓋：河底之龍" },
+   "tradition": "indonesian",
+   "category": "myth",
+   "region": { "en": "Kenyan and Kayan rivers, interior Borneo (symbolic pin)", "zh": "婆羅洲內陸肯雅與加揚諸河（象徵性定位）" },
+   "lat": 2.6,
+   "lon": 114.6,
+   "period": "Religious tradition recorded by Hose & McDougall (1912)",
+   "source": {
+    "archive": "Project Gutenberg",
+    "work": "Charles Hose & William McDougall, The Pagan Tribes of Borneo (1912), the river-gods of the Kenyahs",
+    "url": "https://www.gutenberg.org/cache/epub/3307/pg3307.txt"
+   },
+   "license": "Public domain (1912)",
+   "summary": {
+    "en": "Bali Sungei is embodied in a huge serpent or dragon living at the bottom of the river; he causes the violent swirls and uprushes of water that appear on the surface in times of flood, is regarded with fear, and is held responsible for the upsetting of boats and the drownings in the river — the river's temper given a body in the deep water.",
+    "zh": "巴利·松蓋化身為一條居於河底之巨蛇或龍；洪水之時水面猛旋猛湧，皆其所為；人對之懷畏，舟覆溺亡之禍皆歸其身——河流之脾氣在深水之中獲得了身體。"
+   },
+   "motifs": ["world-serpent", "flood", "origin-of-death"],
+   "sensitivity": {
+    "restricted": false,
+    "note": "River-dragon record; compare the Batak Naga Padoha and the Malay Ular Naga."
+   },
+   "passages": [
+    {
+     "id": "1",
+     "text": "Bali Sungei is thought of as embodied in a huge serpent or dragon living at the bottom of the river; he is supposed to cause the violent swirls and uprushes of water that appear on the surface in times of flood, and is held responsible for the upsetting of boats and drownings in the river.",
+     "note": "Paraphrase of Hose & McDougall (1912); not verbatim."
+    },
+    {
+     "id": "2",
+     "text": "He is regarded with fear; and it is not clear that he is the spirit of the river itself, for floods and the various changes of the river do not seem to be attributed to him — only the sudden violence of the deep water is his.",
+     "note": "Paraphrase of Hose & McDougall (1912); not verbatim."
+    }
+   ],
+   "persons": []
+  },
+  {
+   "id": "indonesian-batu-tuloi-stones",
+   "title": { "en": "The Batu Tuloi: Stones That Grow and Move of Themselves", "zh": "巴圖·圖洛伊：自行生長移動之石" },
+   "tradition": "indonesian",
+   "category": "myth",
+   "region": { "en": "Kenyan longhouses, interior Borneo (symbolic pin)", "zh": "婆羅洲內陸肯雅長屋（象徵性定位）" },
+   "lat": 2.6,
+   "lon": 114.6,
+   "period": "Practice recorded by Hose & McDougall (1912)",
+   "source": {
+    "archive": "Project Gutenberg",
+    "work": "Charles Hose & William McDougall, The Pagan Tribes of Borneo (1912), the batu tuloi of the Kenyah altar-posts",
+    "url": "https://www.gutenberg.org/cache/epub/3307/pg3307.txt"
+   },
+   "license": "Public domain (1912)",
+   "summary": {
+    "en": "Peculiar adjuncts of the Kenyah altar-posts are the deep-red dracaena plant and a number of large spherical stones, the batu tuloi — perpetual possessions of the house. Their history is unknown; they are supposed to grow gradually larger and to move spontaneously when danger threatens the house; and when a household removes to build a new home, the stones are carried to the new site with some ceremony.",
+    "zh": "肯雅祭柱旁有深紅龍血樹與數枚大圓石——巴圖·圖洛伊，為家宅永傳之物。其來歷無人知曉；相傳其體漸長，且於家宅有險時自行移動；家戶遷居建新屋之日，諸石須行禮遷往新址。"
+   },
+   "motifs": ["sacred-place", "transformation", "ritual-origin"],
+   "sensitivity": {
+    "restricted": false,
+    "note": "Animate-stone possession record; paraphrase respectfully."
+   },
+   "passages": [
+    {
+     "id": "1",
+     "text": "Peculiar adjuncts of the altar-posts of the Kenyahs are the dracaena plant and a number of large spherical stones, batu tuloi; these are perpetual possessions of the house, whose history is unknown, but they are supposed to grow gradually larger and to move spontaneously when danger threatens the house.",
+     "note": "Paraphrase of Hose & McDougall (1912); not verbatim."
+    },
+    {
+     "id": "2",
+     "text": "When a household removes and builds for itself a new home, these stones are carried with some ceremony to the new site — the house's luck travelling with its stones.",
+     "note": "Paraphrase of Hose & McDougall (1912); not verbatim."
+    }
+   ],
+   "persons": []
+  },
+  {
+   "id": "indonesian-bali-flaki-hawk",
+   "title": { "en": "Bali Flaki: The Carrion Hawk That Ate a War-God's Job", "zh": "巴利·弗拉基：吞沒戰神職分的食腐鷹" },
+   "tradition": "indonesian",
+   "category": "myth",
+   "region": { "en": "Kenyan country, interior Borneo (symbolic pin)", "zh": "婆羅洲內陸肯雅之地（象徵性定位）" },
+   "lat": 2.6,
+   "lon": 114.6,
+   "period": "Religious tradition recorded by Hose & McDougall (1912)",
+   "source": {
+    "archive": "Project Gutenberg",
+    "work": "Charles Hose & William McDougall, The Pagan Tribes of Borneo (1912), the cult of Bali Flaki",
+    "url": "https://www.gutenberg.org/cache/epub/3307/pg3307.txt"
+   },
+   "license": "Public domain (1912)",
+   "summary": {
+    "en": "A special position in the Kenyah system is occupied by Bali Flaki, the carrion hawk — the principal omen bird of war. Alone among the many omen-birds he has an altar-post of his own, sometimes surmounted by a wooden image of the hawk; and Hose and McDougall judge that the bird has driven into the background, 'and more or less completely taken the place of, a god of war whose name even has been forgotten by many of the Kenyahs, if not by all of them.'",
+    "zh": "肯雅體系中，食腐之鷹巴利·弗拉基佔有特殊之位——其為戰事占卜之首要靈鳥。眾多占卜鳥中唯他有專屬祭柱，柱頂或立木鷹之像；霍斯與麥克杜格爾論曰：此鳥已將戰神擠入幕後，『或多或少完全取代了一位戰神——其名為許多肯雅人（若非全部）所遺忘』。"
+   },
+   "motifs": ["oracle-divination", "theophany", "ritual-origin"],
+   "sensitivity": {
+    "restricted": false,
+    "note": "A documented case of an omen-bird displacing its god."
+   },
+   "passages": [
+    {
+     "id": "1",
+     "text": "A special position in the Kenyah system is occupied by Bali Flaki, the carrion hawk, the principal omen bird observed during the preparation for and conduct of war; an altar-post before the house is assigned to him, in some cases surmounted by a wooden image of the hawk.",
+     "note": "Paraphrase of Hose & McDougall (1912); not verbatim."
+    },
+    {
+     "id": "2",
+     "text": "The Kenyahs have carried further the tendency to let the omen birds figure so prominently in their rites as to obscure the gods whose messengers they are; Bali Flaki has in this way taken the place of a god of war whose name even has been forgotten by many of the Kenyahs, if not by all of them.",
+     "note": "Paraphrase of Hose & McDougall (1912); not verbatim."
+    }
+   ],
+   "persons": []
+  },
+  {
+   "id": "indonesian-flattened-skull-alexander",
+   "title": { "en": "The Flattened Skull: The Midwife Who Made a Second Alexander", "zh": "扁顱嬰兒：產婆造就的第二位亞歷山大" },
+   "tradition": "indonesian",
+   "category": "myth",
+   "region": { "en": "Singhapura (Malay Annals geography)", "zh": "獅子城（《馬來紀年》地理）" },
+   "lat": 1.29,
+   "lon": 103.85,
+   "period": "Composed as Sulalat al-Salatin c. 1612; Leyden translation 1821",
+   "source": {
+    "archive": "Wikisource (Leyden translation 1821)",
+    "work": "Malay Annals, ch. VI (the birth of Raja Secander Zulkarneini the second), trans. John Leyden 1821",
+    "url": "en.wikisource.org/wiki/Malay_Annals"
+   },
+   "license": "Public domain (translation 1821)",
+   "summary": {
+    "en": "The queen Dasya Putri bears a son 'whose skull was flattened in the birth by the midwife, and who was named Raja Secander Zulkarneini' — the Annals gives its future Malacca founder the name of Alexander the Great himself, marked at birth by the flattened head of a hard delivery.",
+    "zh": "王后達夏·普特里產下一子，『因產婆之手而顱骨扁平』——命名為『拉賈·西坎德·祖勒卡爾奈尼』。《紀年》以亞歷山大大帝之名賜予其未來滿剌加開國之主，其出生之印記竟是難產造成的扁顱。"
+   },
+   "motifs": ["miraculous-birth", "sacred-kingship"],
+   "sensitivity": {
+    "restricted": false,
+    "note": "Birth-omen and name-inheritance in the Annals' genealogy."
+   },
+   "passages": [
+    {
+     "id": "1",
+     "text": "The raja's queen, Dasya Putri, became pregnant, and produced a son whose skull was flattened in the birth by the midwife, and who was named Raja Secander Zulkarneini — the name of Alexander the Great, given to the Annals' future founder of Malacca.",
+     "note": "Paraphrase of Malay Annals ch. VI (Leyden 1821); not verbatim."
+    }
+   ],
+   "persons": []
+  },
+  {
+   "id": "indonesian-salih-deathbed-charge",
+   "title": { "en": "The Deathbed Charge of Sultan Malac al Salih", "zh": "馬立克·薩利赫臨終之囑" },
+   "tradition": "indonesian",
+   "category": "myth",
+   "region": { "en": "Samudra, north Sumatra", "zh": "北蘇門答臘三摩陀" },
+   "lat": 5.1,
+   "lon": 95.9,
+   "period": "Composed as Sulalat al-Salatin c. 1612; Leyden translation 1821",
+   "source": {
+    "archive": "Wikisource (Leyden translation 1821)",
+    "work": "Malay Annals, ch. VII (the dying charge of Sultan Malec al Salih), trans. John Leyden 1821",
+    "url": "https://en.wikisource.org/wiki/Malay_Annals"
+   },
+   "license": "Public domain (translation 1821)",
+   "summary": {
+    "en": "Summoning his two sons and the great men of Samadra to his deathbed, the first sultan of Sumatra charges them: 'Do not covet the wealth of others, and do not desire the wives of others, but agree with each other like brothers, and do not quarrel'; and to the two guardians of the princes, Sidi Ali Gheyas ed-din and Sidi Ali Ismayemdi: 'Carefully bring up these my children, and do not suffer two brothers to quarrel' — a charge they swear to 'by the great God, the Creator of all.'",
+    "zh": "三摩陀開國蘇丹臨終召集二子與國中重臣，囑曰：『勿覬他人之財，勿慕他人之妻；兄弟相睦，勿相爭。』又囑二位王子之監護人西迪·阿里二人：『善養吾子，勿使兄弟相爭。』二人『憑創造萬物之偉大神明』立誓。"
+   },
+   "motifs": ["sacred-kingship", "sibling-creators", "parable-teaching"],
+   "sensitivity": {
+    "restricted": false,
+    "note": "Royal testament episode; the brother-peace charge as dynastic ethic."
+   },
+   "passages": [
+    {
+     "id": "1",
+     "text": "Sultan Malec al Salih, sickening, summoned his two sons with all the great men of Samadra and addressed them: 'O my two sons, and you my friends, I am at the point of death; may you remain happy after I have left you: and you, my sons, do not covet the wealth of others, and do not desire the wives of others, but agree with each other like brothers, and do not quarrel.'",
+     "note": "Paraphrase of Malay Annals ch. VII (Leyden 1821); not verbatim."
+    },
+    {
+     "id": "2",
+     "text": "To Sidi Ali Gheyas ed-din and Sidi Ali Ismayemdi he said: 'Carefully bring up these my children, and do not suffer two brothers to quarrel; adhere firmly to your fidelity to them, and do not join yourselves to other rajas.' They assented in profound grief, swearing by the great God, the Creator of all, that they would faithfully maintain their allegiance to the princes his sons.",
+     "note": "Paraphrase of Malay Annals ch. VII (Leyden 1821); not verbatim."
+    }
+   ],
+   "persons": []
+  }
+ ]
+}

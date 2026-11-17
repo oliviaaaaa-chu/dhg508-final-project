@@ -1,0 +1,152 @@
+{
+  "_comment": "Shahnama of Firdausi, trans. A. G. & E. Warner (1905), vol. I: Garshasp's reign, Rakhsh, Kai Kubad fetched from Alburz. Paraphrase passages with notes.",
+  "texts": [
+    {
+      "id": "persian-garshasp-pashang-disowns",
+      "title": {
+        "en": "Pashang Disowns the Slayer of Ighriras",
+        "zh": "帕尚格否認弑弟者阿弗拉西亞卜"
+      },
+      "tradition": "persian",
+      "category": "myth",
+      "region": {
+        "en": "Turan (symbolic pin)",
+        "zh": "圖蘭（象徵性定位）"
+      },
+      "lat": 40.0,
+      "lon": 63.0,
+      "period": "Composed c. 1010 CE (Warner translation 1905)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Firdausi, Shahnama, trans. A. G. & E. Warner (1905), vol. I, Garshasp sec. 1",
+        "url": "https://archive.org/details/shahnama01firduoft"
+      },
+      "license": "Public domain (translation 1905)",
+      "summary": {
+        "en": "Garshasp, son of Zav, sits on the throne with majesty and Grace; when he too dies the throne of king of kings is void. Pashang, wild with grief for Ighriras, refuses month after month to greet Afrasiyab: whatever prince were on the throne, a friend like Ighriras would profit him, but thou art one to shed a brother's blood; thou shalt not look upon my face again. Only when Garshasp departs does the old king throw the stone: cross the Jihun and tarry not until yon throne be filled.",
+        "zh": "扎夫之子加爾沙斯普以威嚴與天恩坐上王座；他死後「萬王之王之座空虛」。帕尚格因痛失伊格里拉斯，月復一月拒絕接見阿弗拉西亞卜：「無論何人登基，如伊格里拉斯之友皆是良助；你卻弑弟！休再見我。」直到加爾沙斯普去世，老王才擲下命令：「渡烏滸水，不得王座不止。」"
+      },
+      "motifs": ["taboo-transgression", "sacred-kingship", "sibling-creators"],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Epic literary source; no living community restriction."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Zav had a puissant son by name Garshasp who sat upon the throne and donned the crown; he ruled the world with majesty and Grace. But tidings reached the Turkmans: Zav hath gone and left an empty throne. Afrasiyab sent up the war-cry, launched his ships and made for Khar of Rai, but no one brought to him a greeting from Pashang, whose head was filled with hate, his heart with strife.",
+          "note": "Paraphrase of Firdausi, Shahnama, Garshasp sec. 1 (Warner 1905); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "All wild with grief for Ighriras, of throne and crown he recked not, and would never look upon Afrasiyab; albeit messengers were sent to him month after month, he denied himself and said: whatever prince were on the throne, a friend like Ighriras would profit him, but thou art one to shed a brother's blood and flee before the nursling of a fowl. Thou shalt not look upon my face again.",
+          "note": "Paraphrase of Firdausi, Shahnama, Garshasp sec. 1 (Warner 1905); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "Thus matters fared awhile; at length the tree of bale bore colocynth. 'Twas in the year wherein Garshasp the son of Zav departed that evil showed itself, for tidings reached all ears: the throne of king of kings is void. There came a message to Afrasiyab, a stone flung by Pashang: cross the Jihun and tarry not until yon throne be filled. Between Jihun and plain of Sipanjab Afrasiyab arrayed his armaments, and thou hadst said: earth is a turning sky where Indian swords are shedding souls for rain.",
+          "note": "Paraphrase of Firdausi, Shahnama, Garshasp sec. 1 (Warner 1905); not verbatim."
+        }
+      ],
+      "persons": ["garshasp", "afrasiyab", "pashang"]
+    },
+    {
+      "id": "persian-rakhsh-caught",
+      "title": {
+        "en": "Rustam Chooses the Steed Rakhsh",
+        "zh": "魯斯塔姆擇駿馬拉赫什"
+      },
+      "tradition": "persian",
+      "category": "myth",
+      "region": {
+        "en": "Herds of Zabul (symbolic pin)",
+        "zh": "扎布勒馬群（象徵性定位）"
+      },
+      "lat": 32.0,
+      "lon": 66.0,
+      "period": "Composed c. 1010 CE (Warner translation 1905)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Firdausi, Shahnama, trans. A. G. & E. Warner (1905), vol. I, Garshasp sec. 2",
+        "url": "https://archive.org/details/shahnama01firduoft"
+      },
+      "license": "Public domain (translation 1905)",
+      "summary": {
+        "en": "Zal gathers all the herds of horses for Rustam, who presses each steed's back until its belly reaches the ground. Among a herd of piebalds comes a colt as tall as his dam, dark-eyed, with hoofs of steel and pluck of lions bred on Mount Bisitun, who could discern the tiny emmet's foot on black cloth at night two leagues away. An old herdsman warns against him, but Rustam casts his lasso, tames the dam with one buffet on the withers, mounts the bay, and asks his price: if thou art Rustam, redress Iran upon his back; its broad champaign shall be his price.",
+        "zh": "扎勒為魯斯塔姆聚攏馬群；英雄逐一按壓馬背，馬腹幾乎觸地。花斑馬群中走出一匹與母馬同高的雄駒：鋼蹄、獅膽（生於比斯通山）、夜間兩里之外能辨黑布上的蟻足。老牧人警告莫惹此龍，魯斯塔姆擲出套索，一掌擊退護駒的母馬，跨上花斑駿馬問價——「若你真是魯斯塔姆，就騎牠去為伊朗伸張正義吧。」"
+      },
+      "motifs": ["culture-hero", "transformation"],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Epic literary source; no living community restriction."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "When Zal had gathered all his herds of horses, and many from Kabul, the herdsmen drove them past Rustam, calling out the royal brands. Whenever Rustam caught a steed he pressed its back until its belly reached the ground. At length a herd of piebald steeds sped by, among them a grey mare short-legged and fleet, with lion's chest and ears like two steel daggers. Behind her came a colt as tall as she, dark-eyed and tapering, a piebald bay with belly hard and jet-black, hoofs of steel, spotted roan like roses spread upon a ground of saffron.",
+          "note": "Paraphrase of Firdausi, Shahnama, Garshasp sec. 2 (Warner 1905); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "He could discern the tiny emmet's foot upon black cloth at night two leagues away, had elephantine strength with camel's stature, and pluck of lions bred on Mount Bisitun. Now Rustam gazing on the mare observed that elephantine colt and coiled his lasso to catch it, but an ancient herdsman cried: forbear to take another's charger. We call him Rakhsh, a piebald bay, as good as water and as bright as fire; at the sight of noose and cavalier the dam is like a lion.",
+          "note": "Paraphrase of Firdausi, Shahnama, Garshasp sec. 2 (Warner 1905); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "The old man's sayings opened Rustam's eyes: he cast his royal lasso and entangled the piebald's head. Then like a furious elephant the dam advanced as she would tear off Rustam's head, who roared as savage lions roar and scared her, then with one buffet on the withers sent her all trembling to the ground. He mounted swift as wind and asked the Dragon's price. If thou art Rustam, said the herd, redress Iran upon his back; its broad champaign shall be his price, then thou wilt right the world. The hero's lips grew coral-like with smiles; he said: all good is God's, and saddled ruddy Rakhsh, bent on revenge.",
+          "note": "Paraphrase of Firdausi, Shahnama, Garshasp sec. 2 (Warner 1905); not verbatim."
+        }
+      ],
+      "persons": ["rustam", "zal"]
+    },
+    {
+      "id": "persian-kai-kubad-fetched",
+      "title": {
+        "en": "Rustam Brings Kai Kubad Down from Alburz",
+        "zh": "魯斯塔姆自阿爾布茲迎卡尤巴德"
+      },
+      "tradition": "persian",
+      "category": "myth",
+      "region": {
+        "en": "Mount Alburz (symbolic pin)",
+        "zh": "阿爾布茲山（象徵性定位）"
+      },
+      "lat": 36.44,
+      "lon": 52.93,
+      "period": "Composed c. 1010 CE (Warner translation 1905)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Firdausi, Shahnama, trans. A. G. & E. Warner (1905), vol. I, Garshasp sec. 4",
+        "url": "https://archive.org/details/shahnama01firduoft"
+      },
+      "license": "Public domain (translation 1905)",
+      "summary": {
+        "en": "With Garshasp dead and Afrasiyab across the Jihun, Zal harangues the host: we need a Shah of royal seed, and an archimage hath told me of valiant Kai Kubad of royal stature, a future Shah of Faridun's own line. Rustam rides for Alburz, breaks a Turkman outpost with his ox-head mace, and bears back the chosen king, on whom the royal Grace had already shown itself — the vision of sovereignty that appeared again as a ram before Ardashir Papakan.",
+        "zh": "加爾沙斯普已死、阿弗拉西亞卜渡河而來，扎勒向大軍宣言：我們需要王室血脈之王；術士已告知阿爾布茲的勇武卡尤巴德——法里東一脈的未來之王。魯斯塔姆縱馬赴阿爾布茲，以牛首狼牙棒破突厥哨卡，迎回天恩早已眷顧的王者——那道王權異象，日後又在阿爾達希爾一世面前化為公羊重現。"
+      },
+      "motifs": ["sacred-kingship", "miraculous-birth", "foundational-legend"],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Epic literary source; foundation of the Kaianian dynasty. No living community restriction."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "When Zav departed and his son was Shah the hands of evil men were kept from ill; now seeing that Garshasp hath passed away the world is Shahless and the army chiefless; a host hath crossed Jihun and men cannot see the sun for dust. Zal answered: since I girt the belt of manhood no rider like me hath bestridden steed; yet God be praised that from my root a glorious shoot hath sprung, whose head will reach the sky. But he must have a charger.",
+          "note": "Paraphrase of Firdausi, Shahnama, Garshasp secs. 2-3 (Warner 1905); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Afrasiyab arose from banquet, rest, and slumber and marched toward Khar of Rai along the meadows among their streams and reeds. When the armies were two leagues apart Zal called the veterans and harangued them: we have arrayed us here an ample host; yet with no Shah upon the throne our toils lack purpose, and our troops a head. An archimage hath told me of valiant Kai Kubad of royal stature, a future Shah of Faridun's own line in whom Grace, height, and lawful claims combine.",
+          "note": "Paraphrase of Firdausi, Shahnama, Garshasp sec. 3 (Warner 1905); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "Then glorious Zal spake unto Rustam: bestir thyself, take up thy mace, select the escort, go with speed to Mount Alburz, do homage unto Kai Kubad, and tell him: the soldiers long and deck the throne for thee; we see none fitted for the royal crown, O monarch, our defender, but thyself. When Zal had spoken matchless Rustam joyfully got on the back of Rakhsh and proudly rode in quest of Kai Kubad. A Turkman outpost held the road strongly, but he charged the foe as champion of the host, brandished the ox-head mace, and towering in his wrath raised his battle-cry; the Turkmans' hearts all failed and they had to flee the battle in the end.",
+          "note": "Paraphrase of Firdausi, Shahnama, Garshasp sec. 4 (Warner 1905); not verbatim."
+        }
+      ],
+      "persons": ["rustam", "zal", "kai-kubad", "afrasiyab"]
+    }
+  ]
+}

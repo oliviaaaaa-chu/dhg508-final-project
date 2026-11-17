@@ -1,0 +1,805 @@
+import textsRaw from '../data/texts.json'
+import motifsRaw from '../data/motifs.json'
+import { POLICY } from '../data/traditionPolicy.js'
+
+export const texts = textsRaw
+  .filter(
+    (t) =>
+      !POLICY.excluded.includes(t.tradition) &&
+      Array.isArray(t.passages) &&
+      t.passages.length > 0 &&
+      t.passages.every((p) => p && typeof p.text === 'string' && p.text.trim()) &&
+      Array.isArray(t.motifs) &&
+      t.title &&
+      t.title.en &&
+      t.region &&
+      typeof t.lat === 'number' &&
+      typeof t.lon === 'number' &&
+      typeof t.period === 'string' &&
+      t.source
+  )
+  .map((t) => {
+    let tx = POLICY.merges[t.tradition] ? { ...t, tradition: POLICY.merges[t.tradition] } : t
+    if (tx.category === 'religious' && !POLICY.pureReligion.includes(tx.tradition)) {
+      tx = { ...tx, category: 'myth' }
+    }
+    const cat = POLICY.recategorizeByTradition?.[tx.tradition]
+    if (cat) tx = { ...tx, category: cat }
+    return tx
+  })
+export const motifs = motifsRaw
+export const textById = new Map(texts.map((t) => [t.id, t]))
+export const motifById = new Map(motifs.map((m) => [m.id, m]))
+export const textIds = texts.map((t) => t.id)
+
+const STOP = new Set(
+  ('the a an and of to in on at for from with by as is are was were be been being it its his her their ' +
+   'they them he she we you i that this these those not no nor but or if then than so such into over ' +
+   'under out up down about against between through during before after above below all any both each ' +
+   'few more most other some only own same too very can will just should now when where which who whom ' +
+   'why how once here there upon while also thus yet said says made come came went go').split(' ')
+)
+
+function stem(w) {
+  return w.length > 4 ? w.replace(/ies$/, 'y').replace(/(?:ing|ed|es|s)$/, '') : w
+}
+
+export function tokenize(str) {
+  const out = []
+  const words = str.toLowerCase().replace(/[^\p{L}\p{N}\s]/gu, ' ').split(/\s+/).filter(Boolean)
+  for (const w of words) {
+    if (/[\u4e00-\u9fff]/.test(w)) {
+      out.push(w)
+      for (let i = 0; i < w.length - 1; i++) out.push(w.slice(i, i + 2))
+    } else {
+      if (STOP.has(w)) continue
+      out.push(w)
+      if (w.length > 4) out.push(stem(w))
+    }
+  }
+  return out
+}
+
+const SYN = {
+  flood: ['deluge', 'inundation', 'rising waters', 'drowning'],
+  deluge: ['flood'],
+  fire: ['flame', 'torch', 'hearth'],
+  flame: ['fire', 'torch'],
+  sun: ['solar', 'daylight', 'light'],
+  solar: ['sun', 'daylight'],
+  underworld: ['netherworld', 'land of the dead', 'hell'],
+  hell: ['underworld', 'land of the dead'],
+  death: ['dying', 'mortality', 'dead'],
+  serpent: ['snake', 'dragon'],
+  snake: ['serpent', 'dragon'],
+  dragon: ['serpent', 'snake'],
+  thunder: ['lightning', 'storm'],
+  lightning: ['thunder', 'storm'],
+  storm: ['thunder', 'lightning'],
+  creation: ['origin', 'cosmogony', 'beginning', 'making of the world'],
+  origin: ['creation', 'beginning'],
+  trickster: ['cunning', 'deceit', 'mischief'],
+  cunning: ['trickster', 'clever'],
+  immortal: ['eternal', 'undying', 'immortality'],
+  immortality: ['immortal', 'eternal', 'undying'],
+  wisdom: ['knowledge', 'insight'],
+  knowledge: ['wisdom', 'insight'],
+  rebirth: ['resurrection', 'renewal', 'rise again'],
+  resurrection: ['rebirth', 'rise again'],
+  giant: ['titan', 'colossus'],
+  titan: ['giant', 'primordial'],
+  humans: ['mankind', 'people', 'humankind'],
+  mankind: ['humans', 'people'],
+  sky: ['heaven', 'firmament'],
+  heaven: ['sky'],
+  earth: ['land', 'ground'],
+  boat: ['ship', 'chest', 'vessel'],
+}
+
+function add(map, tokens, weight) {
+  for (const tk of tokens) map.set(tk, (map.get(tk) || 0) + weight)
+}
+
+const docEntries = []
+for (const text of texts) {
+  const titleTokens = tokenize(`${text.title.en} ${text.title.zh}`)
+  const summaryTokens = tokenize(`${text.summary.en} ${text.summary.zh}`)
+  let motifTokens = []
+  for (const m of text.motifs) {
+    const motif = motifById.get(m)
+    if (motif) motifTokens = motifTokens.concat(tokenize(motif.keywords.join(' ')))
+  }
+  for (const p of text.passages) {
+    const passageTokens = tokenize(p.text)
+    const counts = new Map()
+    add(counts, passageTokens, 1)
+    add(counts, titleTokens, 1.4)
+    add(counts, summaryTokens, 0.6)
+    add(counts, motifTokens, 1.2)
+    docEntries.push({ textId: text.id, pid: p.id, counts, passageTokens: new Set(passageTokens), raw: p.text })
+  }
+}
+
+const N = docEntries.length
+const df = new Map()
+for (const d of docEntries) for (const tk of d.counts.keys()) df.set(tk, (df.get(tk) || 0) + 1)
+const idfDefault = Math.log(1 + N)
+const idfOf = (tk) => (df.has(tk) ? Math.log(1 + N / (df.get(tk) + 1)) : idfDefault)
+
+function toVec(counts) {
+  const vec = new Map()
+  let n2 = 0
+  for (const [tk, w] of counts) {
+    const v = w * idfOf(tk)
+    if (v > 1e-9) {
+      vec.set(tk, v)
+      n2 += v * v
+    }
+  }
+  const n = Math.sqrt(n2) || 1
+  for (const [tk, v] of vec) vec.set(tk, v / n)
+  return vec
+}
+
+function cos(a, b) {
+  const [small, large] = a.size <= b.size ? [a, b] : [b, a]
+  let d = 0
+  for (const [tk, v] of small) {
+    const vb = large.get(tk)
+    if (vb) d += v * vb
+  }
+  return d
+}
+
+export const docs = docEntries.map((d) => ({
+  textId: d.textId,
+  pid: d.pid,
+  vec: toVec(d.counts),
+  passageTokens: d.passageTokens,
+  raw: d.raw,
+}))
+
+const vecsByText = new Map()
+for (const d of docs) {
+  if (!vecsByText.has(d.textId)) vecsByText.set(d.textId, [])
+  vecsByText.get(d.textId).push(d.vec)
+}
+
+const textDf = new Map()
+for (const [tid, vecs] of vecsByText) {
+  const seen = new Set()
+  for (const v of vecs) for (const tk of v.keys()) seen.add(tk)
+  for (const tk of seen) textDf.set(tk, (textDf.get(tk) || 0) + 1)
+}
+
+const textVecs = new Map()
+{
+  const dfFloor = 5
+  const dfCap = Math.max(3, Math.round(textIds.length * 0.25))
+  for (const [tid, vecs] of vecsByText) {
+    const merged = new Map()
+    for (const v of vecs) for (const [tk, w] of v) merged.set(tk, (merged.get(tk) || 0) + w)
+    let n2 = 0
+    for (const [tk, w] of merged) {
+      const df = textDf.get(tk) || 0
+      if (df < dfFloor || df > dfCap) merged.delete(tk)
+      else n2 += w * w
+    }
+    const n = Math.sqrt(n2) || 1
+    for (const [tk, w] of merged) merged.set(tk, w / n)
+    textVecs.set(tid, merged)
+  }
+}
+
+const tokIdx = new Map()
+{
+  let k = 0
+  const dfCap = Math.max(3, Math.round(textIds.length * 0.25))
+  for (const [tk, c] of textDf) if (c >= 5 && c <= dfCap) tokIdx.set(tk, k++)
+}
+
+function buildSorted(vec) {
+  const pairs = []
+  for (const [tk, w] of vec) {
+    const i = tokIdx.get(tk)
+    if (i !== undefined) pairs.push([i, w])
+  }
+  pairs.sort((a, b) => a[0] - b[0])
+  const idx = new Float64Array(pairs.length)
+  const w = new Float64Array(pairs.length)
+  for (let k = 0; k < pairs.length; k++) {
+    idx[k] = pairs[k][0]
+    w[k] = pairs[k][1]
+  }
+  return { idx, w }
+}
+
+function dotSorted(A, B) {
+  let i = 0
+  let j = 0
+  let d = 0
+  const na = A.idx.length
+  const nb = B.idx.length
+  const ai = A.idx
+  const bi = B.idx
+  const aw = A.w
+  const bw = B.w
+  while (i < na && j < nb) {
+    const a = ai[i]
+    const b = bi[j]
+    if (a === b) {
+      d += aw[i] * bw[j]
+      i++
+      j++
+    } else if (a < b) i++
+    else j++
+  }
+  return d
+}
+
+const pairKey = (a, b) => (a < b ? `${a}|${b}` : `${b}|${a}`)
+const simMatrix = new Map()
+let embCache = null
+let emb3Cache = null
+
+const CACHE_KEY = 'dhg508-matrix-cache-v3'
+
+function applyCacheData(c) {
+  for (let k = 0; k < c.sim.length; k += 3) {
+    simMatrix.set(pairKey(textIds[c.sim[k]], textIds[c.sim[k + 1]]), c.sim[k + 2] / 1000)
+  }
+  embCache = c.emb2 || null
+  emb3Cache = c.emb3 || null
+}
+
+export function fingerprint() {
+  return `${texts.length}|${docs.length}|${textIds[0]}|${textIds[textIds.length - 1]}`
+}
+
+let semanticState = null
+export async function hydrateSemantic(data) {
+  if (!data || !data.vecs || data.fp !== fingerprint() || semanticState) return !!semanticState
+  const { pipeline } = await import('@huggingface/transformers')
+  const pipe = await pipeline('feature-extraction', 'Xenova/all-MiniLM-L6-v2', { dtype: 'q8' })
+  const bin = Uint8Array.from(atob(data.vecs), (c) => c.charCodeAt(0))
+  const rows = new Float32Array(bin.buffer, bin.byteOffset, bin.byteLength / 4)
+  semanticState = {
+    pipe,
+    ids: data.ids,
+    dim: data.dim,
+    rows,
+    index: new Map(data.ids.map((id, i) => [id, i])),
+  }
+  return true
+}
+
+export async function ensureSemantic() {
+  if (semanticState) return semanticState
+  let data = null
+  try {
+    const base = import.meta.env?.BASE_URL ?? '/'
+    const res = await fetch(`${base}semantic-embeddings.json`, { cache: 'force-cache' })
+    if (res.ok) data = await res.json()
+  } catch {
+    return null
+  }
+  const ok = await hydrateSemantic(data)
+  return ok ? semanticState : null
+}
+
+export async function semanticSearch(query) {
+  const trimmed = query.trim()
+  if (!trimmed) return []
+  const st = await ensureSemantic()
+  if (!st) return null
+  const out = await st.pipe(trimmed.slice(0, 512), { pooling: 'mean', normalize: true })
+  const q = out.data
+  const D = st.dim
+  const scored = []
+  for (let i = 0; i < st.ids.length; i++) {
+    let d = 0
+    const off = i * D
+    for (let k = 0; k < D; k++) d += q[k] * st.rows[off + k]
+    if (d >= 0.28) scored.push({ id: st.ids[i], abs: d })
+  }
+  const qMotifs0 = detectMotifs(trimmed)
+  if (qMotifs0.length) {
+    for (const item of scored) {
+      const text = textById.get(item.id)
+      if (text && qMotifs0.some((m) => text.motifs.includes(m))) item.abs += 0.25
+    }
+  }
+  scored.sort((a, b) => b.abs - a.abs)
+  const lex = search(trimmed, 'keyword')
+  const lexBy = new Map(lex.map((r) => [r.text.id, r]))
+  const qMotifs = detectMotifs(trimmed)
+  return scored.slice(0, 20).map(({ id, abs }) => {
+    const text = textById.get(id)
+    const l = lexBy.get(id)
+    const strength = abs >= 0.45 ? 'strong' : abs >= 0.35 ? 'related' : 'possible'
+    return {
+      text,
+      abs,
+      pct: Math.min(100, Math.round((abs / 0.7) * 100)),
+      strength,
+      shared: qMotifs.filter((m) => text.motifs.includes(m)),
+      matched: l ? l.matched : [],
+      best: l ? l.best : text.passages.slice(0, 1).map((p) => ({ pid: p.id, raw: p.text, passageTokens: new Set() })),
+    }
+  })
+}
+
+function hydrateFromCache() {
+  try {
+    const raw = localStorage.getItem(CACHE_KEY)
+    if (!raw) return false
+    const c = JSON.parse(raw)
+    if (c.fp !== fingerprint() || !Array.isArray(c.sim) || !c.emb3) return false
+    applyCacheData(c)
+    return true
+  } catch {
+    return false
+  }
+}
+
+async function tryFetchCache() {
+  try {
+    const res = await fetch('/semantic-cache.json', { cache: 'no-store' })
+    if (!res.ok) return false
+    const c = await res.json()
+    if (c.fp !== fingerprint() || !Array.isArray(c.sim) || !c.emb3) return false
+    applyCacheData(c)
+    return true
+  } catch {
+    return false
+  }
+}
+
+function saveCache(idIndex) {
+  try {
+    if (simMatrix.size > 100000) return
+    const flat = []
+    for (const [k, s] of simMatrix) {
+      if (s < 0.08) continue
+      const [a, b] = k.split('|')
+      flat.push(idIndex.get(a), idIndex.get(b), Math.round(s * 1000))
+    }
+    localStorage.setItem(
+      CACHE_KEY,
+      JSON.stringify({ fp: fingerprint(), sim: flat, emb2: embCache, emb3: emb3Cache })
+    )
+  } catch {
+    /* storage quota exceeded — run without cache */
+  }
+}
+
+function powerIterTyped(G, n, iters = 60) {
+  let u = Float64Array.from({ length: n }, () => Math.random() - 0.5)
+  const y = new Float64Array(n)
+  for (let it = 0; it < iters; it++) {
+    y.fill(0)
+    for (let i = 0; i < n; i++) {
+      let s = 0
+      const row = i * n
+      for (let j = 0; j < n; j++) s += G[row + j] * u[j]
+      y[i] = s
+    }
+    let norm = 0
+    for (let i = 0; i < n; i++) norm += y[i] * y[i]
+    norm = Math.sqrt(norm) || 1
+    let delta = 0
+    for (let i = 0; i < n; i++) {
+      const v = y[i] / norm
+      delta += Math.abs(v - u[i])
+      u[i] = v
+    }
+    if (delta < 1e-10) break
+  }
+  let lambda = 0
+  for (let i = 0; i < n; i++) {
+    let s = 0
+    const row = i * n
+    for (let j = 0; j < n; j++) s += G[row + j] * u[j]
+    lambda += u[i] * s
+  }
+  return { u: Array.from(u), lambda }
+}
+
+function deflateTyped(G, n, { u, lambda }) {
+  const G2 = G.slice()
+  for (let i = 0; i < n; i++) {
+    const ui = u[i]
+    if (!ui) continue
+    const row = i * n
+    for (let j = 0; j < n; j++) G2[row + j] -= lambda * ui * u[j]
+  }
+  return G2
+}
+
+function computeAll() {
+  const n = textIds.length
+  const sortedText = textIds.map((id) => buildSorted(textVecs.get(id)))
+  const sortedPass = new Map()
+  for (const [tid, list] of vecsByText) sortedPass.set(tid, list.map((v) => buildSorted(v)))
+  const G = new Float64Array(n * n)
+  const rawSims = []
+  for (let i = 0; i < n; i++) {
+    G[i * n + i] = 1
+    const vi = sortedText[i]
+    if (!vi) continue
+    for (let j = i + 1; j < n; j++) {
+      const vj = sortedText[j]
+      if (!vj) continue
+      const d = dotSorted(vi, vj)
+      G[i * n + j] = d
+      G[j * n + i] = d
+      if (d > 0.25) {
+        let maxPass = 0
+        for (const va of sortedPass.get(textIds[i]) || []) {
+          for (const vb of sortedPass.get(textIds[j]) || []) {
+            const c = dotSorted(va, vb)
+            if (c > maxPass) maxPass = c
+          }
+        }
+        rawSims.push(i, j, 0.5 * (d + maxPass))
+      } else if (d >= 0.12) {
+        rawSims.push(i, j, 0.5 * d)
+      }
+    }
+  }
+
+  let maxRaw = 0
+  for (let k = 2; k < rawSims.length; k += 3) if (rawSims[k] > maxRaw) maxRaw = rawSims[k]
+  if (maxRaw > 0) {
+    for (let k = 0; k < rawSims.length; k += 3) {
+      const s = rawSims[k + 2] / maxRaw
+      if (s >= 0.08) simMatrix.set(pairKey(textIds[rawSims[k]], textIds[rawSims[k + 1]]), s)
+    }
+  }
+
+  const p1 = powerIterTyped(G, n)
+  const p2 = powerIterTyped(deflateTyped(G, n, p1), n)
+  const p3 = powerIterTyped(deflateTyped(deflateTyped(G, n, p1), n, p2), n)
+
+  const SPANS = [400, 260, 380]
+  const AXES = ['x', 'y', 'z']
+
+  const mk = (dims) => {
+    const k = dims.length
+    const cols = []
+    for (let d = 0; d < k; d++) {
+      const lam = Math.max(dims[d].lambda, 0)
+      const s = Math.sqrt(lam)
+      const c = new Float64Array(n)
+      let m = 0
+      for (let i = 0; i < n; i++) {
+        c[i] = dims[d].u[i] * s
+        m += c[i]
+      }
+      m /= n
+      let meanSq = 0
+      for (let i = 0; i < n; i++) {
+        c[i] -= m
+        meanSq += c[i] * c[i]
+      }
+      const rms = Math.sqrt(meanSq / n) || 1
+      const abs = Array.from(c, Math.abs)
+      abs.sort((a, b) => a - b)
+      const p975 = abs[Math.min(n - 1, Math.floor(0.975 * n))] || 1
+      const spread = Math.max(p975, rms) || 1
+      cols.push({ c, lam, spread, scale: SPANS[d] / spread })
+    }
+    const order = cols.map((_, i) => i).sort((a, b) => cols[b].spread - cols[a].spread)
+    const points = textIds.map((id, i) => {
+      const q = { id }
+      for (let d = 0; d < k; d++) {
+        const col = cols[order[d]]
+        const lim = SPANS[d] * 1.5
+        let v = col.c[i] * col.scale
+        q[AXES[d]] = v > lim ? lim : v < -lim ? -lim : v
+      }
+      return q
+    })
+    return {
+      points,
+      var1: cols[order[0]].lam / n,
+      var2: k >= 2 ? cols[order[1]].lam / n : 0,
+      var3: k >= 3 ? cols[order[2]].lam / n : 0,
+    }
+  }
+
+  embCache = mk([p1, p2])
+  emb3Cache = mk([p1, p2, p3])
+}
+
+if (!globalThis.__SKIP_MATRIX__ && !hydrateFromCache()) {
+  const fetched = await tryFetchCache()
+  if (!fetched) {
+    computeAll()
+  }
+  saveCache(new Map(textIds.map((id, i) => [id, i])))
+}
+
+let maxSim = 0
+for (const s of simMatrix.values()) if (s > maxSim) maxSim = s
+if (maxSim > 0) for (const [k, s] of simMatrix) simMatrix.set(k, s / maxSim)
+
+export function detectMotifs(q) {
+  const s = q.toLowerCase()
+  const found = []
+  for (const m of motifs) {
+    for (const k of m.keywords) {
+      if (s.includes(k.toLowerCase())) {
+        found.push(m.id)
+        break
+      }
+    }
+  }
+  return found
+}
+
+export function buildQueryVector(query, mode = 'keyword') {
+  const q = query.toLowerCase()
+  const counts = new Map()
+  add(counts, tokenize(query), 1)
+  if (mode === 'semantic') {
+    for (const [word, syns] of Object.entries(SYN)) {
+      if (q.includes(word)) for (const s of syns) add(counts, tokenize(s), 0.35)
+    }
+    for (const m of motifs) {
+      for (const k of m.keywords) {
+        if (q.includes(k.toLowerCase())) {
+          add(counts, tokenize(m.keywords.join(' ')), 0.5)
+          break
+        }
+      }
+    }
+  }
+  return toVec(counts)
+}
+
+export function search(query, mode = 'keyword') {
+  const trimmed = query.trim()
+  if (!trimmed) return []
+  const qv = buildQueryVector(trimmed, mode)
+  const qTokens = [...tokenize(trimmed)]
+  const qMotifs = detectMotifs(trimmed)
+  const phrase = trimmed.toLowerCase().replace(/[^\p{L}\p{N}\s]/gu, ' ').replace(/\s+/g, ' ').trim()
+
+  const perText = new Map()
+  for (const d of docs) {
+    let s = cos(qv, d.vec)
+    if (s <= 0.02) continue
+    if (phrase.length > 3 && d.raw && d.raw.toLowerCase().includes(phrase)) s *= 1.35
+    if (!perText.has(d.textId)) perText.set(d.textId, { max: 0, best: [] })
+    const g = perText.get(d.textId)
+    if (s > g.max) g.max = s
+    g.best.push(d)
+  }
+
+  let maxAbs = 0
+  for (const g of perText.values()) if (g.max > maxAbs) maxAbs = g.max
+  if (!maxAbs) return []
+
+  const results = []
+  for (const [tid, g] of perText) {
+    if (g.max < 0.09) continue
+    const text = textById.get(tid)
+    const best = g.best.sort((x, y) => cos(qv, y.vec) - cos(qv, x.vec)).slice(0, 2)
+    const bestTokenSet = new Set(best.flatMap((d) => [...d.passageTokens]))
+    const matched = qTokens.filter((t) => bestTokenSet.has(t)).slice(0, 8)
+    const shared = qMotifs.filter((m) => text.motifs.includes(m))
+    const contentStems = [...new Set(qTokens.filter((t) => t.length > 2))]
+    const covered = contentStems.filter((st) => bestTokenSet.has(st))
+    let abs = g.max
+    if (contentStems.length >= 2 && covered.length / contentStems.length < 0.75) abs *= 0.65
+    if (shared.length) abs += 0.22
+    if (abs < 0.09) continue
+    const strength = abs >= 0.3 ? 'strong' : abs >= 0.18 ? 'related' : 'possible'
+    results.push({
+      text,
+      abs,
+      pct: Math.min(100, Math.round((abs / 0.5) * 100)),
+      strength,
+      shared,
+      matched,
+      best,
+    })
+  }
+  results.sort((a, b) => b.abs - a.abs)
+  return results
+}
+
+export function related(textId, k = 3) {
+  const out = []
+  for (const b of textIds) {
+    if (b === textId) continue
+    const s = simMatrix.get(pairKey(textId, b)) || 0
+    out.push({ id: b, s })
+  }
+  return out
+    .sort((x, y) => y.s - x.s)
+    .slice(0, k)
+    .map((x) => ({ text: textById.get(x.id), sim: x.s }))
+}
+
+export function graph(threshold = 0.5) {
+  const links = []
+  const deg = new Map()
+  for (const [k, s] of simMatrix) {
+    if (s >= threshold) {
+      const [a, b] = k.split('|')
+      links.push({ source: a, target: b, weight: s })
+      deg.set(a, (deg.get(a) || 0) + 1)
+      deg.set(b, (deg.get(b) || 0) + 1)
+    }
+  }
+  const nodes = texts.map((t) => ({ id: t.id, deg: deg.get(t.id) || 0 }))
+  return { nodes, links }
+}
+
+export function similarity(a, b) {
+  return simMatrix.get(pairKey(a, b)) || 0
+}
+
+function powerIter(G, n, iters = 80) {
+  let u = new Array(n).fill(0).map(() => Math.random() - 0.5)
+  for (let it = 0; it < iters; it++) {
+    const y = new Array(n).fill(0)
+    for (let i = 0; i < n; i++) {
+      let s = 0
+      const gi = G[i]
+      for (let j = 0; j < n; j++) s += gi[j] * u[j]
+      y[i] = s
+    }
+    const norm = Math.sqrt(y.reduce((a, v) => a + v * v, 0)) || 1
+    u = y.map((v) => v / norm)
+  }
+  const Gu = new Array(n).fill(0)
+  for (let i = 0; i < n; i++) {
+    let s = 0
+    for (let j = 0; j < n; j++) s += G[i][j] * u[j]
+    Gu[i] = s
+  }
+  const lambda = u.reduce((a, v, i) => a + v * Gu[i], 0)
+  return { u, lambda }
+}
+
+export function relaxPoints(points, dims, { iters = 80, minDist = 20, anchor = 0.02, step = 0.35 } = {}) {
+  const n = points.length
+  if (!n) return points
+  const is3D = dims === 3
+  const ax = new Float64Array(n)
+  const ay = new Float64Array(n)
+  const az = is3D ? new Float64Array(n) : null
+  for (let i = 0; i < n; i++) {
+    ax[i] = points[i].x
+    ay[i] = points[i].y
+    if (az) az[i] = points[i].z
+  }
+  const snapX = new Float64Array(n)
+  const snapY = new Float64Array(n)
+  const snapZ = is3D ? new Float64Array(n) : null
+  const fx = new Float64Array(n)
+  const fy = new Float64Array(n)
+  const fz = is3D ? new Float64Array(n) : null
+  const inv = 1 / minDist
+  const OFF = 2048
+  const offs = is3D
+    ? [
+        [1, 0, 0], [-1, 1, 0], [0, 1, 0], [1, 1, 0],
+        [-1, -1, 1], [0, -1, 1], [1, -1, 1], [-1, 0, 1],
+        [0, 0, 1], [1, 0, 1], [-1, 1, 1], [0, 1, 1], [1, 1, 1],
+      ]
+    : [[1, 0, 0], [-1, 1, 0], [0, 1, 0], [1, 1, 0]]
+
+  const push = (i, j) => {
+    const ddx = snapX[j] - snapX[i]
+    const ddy = snapY[j] - snapY[i]
+    const ddz = snapZ ? snapZ[j] - snapZ[i] : 0
+    const d = Math.sqrt(ddx * ddx + ddy * ddy + ddz * ddz)
+    if (d >= minDist) return
+    let ux = ddx
+    let uy = ddy
+    let uz = ddz
+    if (d < 0.5) {
+      const g = i * 2.399963
+      ux = Math.cos(g)
+      uy = Math.sin(g)
+      uz = is3D ? Math.sin(i * 1.7) : 0
+    } else {
+      ux /= d
+      uy /= d
+      uz /= d
+    }
+    const m = (minDist - d) * 0.5
+    fx[i] -= ux * m
+    fy[i] -= uy * m
+    if (fz) fz[i] -= uz * m
+    fx[j] += ux * m
+    fy[j] += uy * m
+    if (fz) fz[j] += uz * m
+  }
+
+  let itersRun = 0
+  for (let it = 0; it < iters; it++) {
+    itersRun = it + 1
+    for (let i = 0; i < n; i++) {
+      snapX[i] = points[i].x
+      snapY[i] = points[i].y
+      if (snapZ) snapZ[i] = points[i].z
+    }
+    const grid = new Map()
+    for (let i = 0; i < n; i++) {
+      const key = is3D
+        ? (((Math.floor(snapX[i] * inv) + OFF) * 4096 + Math.floor(snapY[i] * inv) + OFF) * 4096 + Math.floor(snapZ[i] * inv) + OFF)
+        : (Math.floor(snapX[i] * inv) + OFF) * 4096 + Math.floor(snapY[i] * inv) + OFF
+      const cell = grid.get(key)
+      if (cell) cell.push(i)
+      else grid.set(key, [i])
+    }
+    fx.fill(0)
+    fy.fill(0)
+    if (fz) fz.fill(0)
+    let moved = 0
+    for (const [key, cell] of grid) {
+      let cx, cy, cz
+      if (is3D) {
+        cz = (key % 4096) - OFF
+        cy = (Math.floor(key / 4096) % 4096) - OFF
+        cx = Math.floor(key / 16777216) - OFF
+      } else {
+        cy = (key % 4096) - OFF
+        cx = Math.floor(key / 4096) - OFF
+      }
+      for (let a = 0; a < cell.length; a++) {
+        for (let b = a + 1; b < cell.length; b++) push(cell[a], cell[b])
+      }
+      for (const [dx, dy, dz] of offs) {
+        const nkey = is3D
+          ? ((cx + dx + OFF) * 4096 + cy + dy + OFF) * 4096 + cz + dz + OFF
+          : (cx + dx + OFF) * 4096 + cy + dy + OFF
+        const other = grid.get(nkey)
+        if (!other) continue
+        for (const i of cell) for (const j of other) push(i, j)
+      }
+    }
+    for (let i = 0; i < n; i++) {
+      const p = points[i]
+      const dx = fx[i] * step + (ax[i] - p.x) * anchor
+      const dy = fy[i] * step + (ay[i] - p.y) * anchor
+      const dz = fz ? fz[i] * step + (az[i] - p.z) * anchor : 0
+      p.x += dx
+      p.y += dy
+      if (fz) p.z += dz
+      moved += Math.abs(dx) + Math.abs(dy) + Math.abs(dz)
+    }
+    if (moved / n < 0.05) break
+  }
+  if (globalThis.__RELAX_DEBUG__) console.error(`relax: ended at iter ${itersRun}/${iters}`)
+  return points
+}
+
+export function embedding2D() {
+  if (!embCache) {
+    computeAll()
+    saveCache(new Map(textIds.map((id, i) => [id, i])))
+  }
+  if (!embCache.relaxed) {
+    relaxPoints(embCache.points, 2)
+    embCache.relaxed = true
+  }
+  return embCache
+}
+
+export function embedding3D() {
+  if (!emb3Cache) {
+    computeAll()
+    saveCache(new Map(textIds.map((id, i) => [id, i])))
+  }
+  if (!emb3Cache.relaxed) {
+    relaxPoints(emb3Cache.points, 3)
+    emb3Cache.relaxed = true
+  }
+  return emb3Cache
+}

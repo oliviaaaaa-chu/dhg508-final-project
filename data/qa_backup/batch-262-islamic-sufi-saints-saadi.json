@@ -1,0 +1,474 @@
+{
+  "texts": [
+    {
+      "id": "sufi-rabia-fire-water",
+      "title": {
+        "en": "Rabia's Fire and Water",
+        "zh": "拉比雅的火與水"
+      },
+      "tradition": "islamic",
+      "category": "myth-religion",
+      "region": {
+        "en": "Basra, streets of the woman-saint (literal pin)",
+        "zh": "巴士拉女聖徒的街市（實際定位）"
+      },
+      "lat": 30.58,
+      "lon": 47.78,
+      "period": "Anecdotes preserved in Attar, Tadhkirat al-Awliya (Arabic-Persian, 12th c.); English: R. A. Nicholson, The Mystics of Islam (1914), public domain",
+      "source": {
+        "archive": "Project Gutenberg",
+        "work": "R. A. Nicholson, The Mystics of Islam (1914), ch. on the Path; anecdotes of Rabia from Attar's Tadhkirat al-Awliya",
+        "url": "https://www.gutenberg.org/ebooks/67388"
+      },
+      "license": "Public domain (English edition 1914; Arabic-Persian originals medieval)",
+      "summary": {
+        "en": "Rabia al-Adawiyya, the freed slave-girl of Basra who became the mother of the Sufi doctrine of love, was seen one day carrying a torch in one hand and a pail of water in the other. 'I will burn the gardens of Paradise and drown the fires of Hell, that men may worship God neither for fear nor for reward — but for Himself alone.'",
+        "zh": "巴士拉女奴出身的拉比雅·阿達維亞——蘇菲愛之學說的奠基者——一日手執火把與水桶而行。『我要燒盡樂園的園囿、澆熄火獄之火，使人敬拜主既非因懼亦非因賞——只為主自身。』"
+      },
+      "motifs": [
+        "parable-teaching",
+        "ritual-origin",
+        "quest-immortality"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Sufi hagiography of a living devotional tradition; paraphrased from public-domain sources."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Rabia al-Adawiyya of Basra, the freed slave-girl who became the mother of the Sufi doctrine of love, was seen in the streets one day with a torch in one hand and a pail of water in the other. 'Why do you carry fire and water?' she was asked. She said: 'I will burn the gardens of Paradise with the one, and drown the fires of Hell with the other, that men may come to worship God without hope and without fear — for Himself alone.'",
+          "note": "Paraphrase of the anecdote in Attar's Tadhkirat al-Awliya as given in Nicholson, The Mystics of Islam (1914); not verbatim."
+        }
+      ],
+      "persons": []
+    },
+    {
+      "id": "sufi-ibrahim-adham-renunciation",
+      "title": {
+        "en": "Ibrahim ibn Adham: The Prince Who Rode Away",
+        "zh": "易卜拉欣·本·阿丹：騎馬而去的王子"
+      },
+      "tradition": "islamic",
+      "category": "myth-religion",
+      "region": {
+        "en": "Balkh, capital of the prince (literal pin)",
+        "zh": "巴爾赫王子之都（實際定位）"
+      },
+      "lat": 36.75,
+      "lon": 66.9,
+      "period": "Anecdotes preserved in Attar, Tadhkirat al-Awliya (12th c.); English: R. A. Nicholson, The Mystics of Islam (1914), public domain",
+      "source": {
+        "archive": "Project Gutenberg",
+        "work": "R. A. Nicholson, The Mystics of Islam (1914); anecdotes of Ibrahim ibn Adham from the Tadhkirat tradition",
+        "url": "https://www.gutenberg.org/ebooks/67388"
+      },
+      "license": "Public domain (English edition 1914; Arabic-Persian originals medieval)",
+      "summary": {
+        "en": "Ibrahim ibn Adham, king of Balkh, was hunting when a voice called after his horse: 'You were not created for this; nor were you created for that.' He looked and saw nothing; the call came again; the third time he rode away from his kingdom with his pilgrim's cloak, and took service as a watchman of orchards — the Prince who renounced, cousin of the Buddha's story told in the Islam of Khurasan.",
+        "zh": "巴爾赫王易卜拉欣·本·阿丹狩獵之際，有聲自其馬後呼：『你非為此而受造；亦非為彼。』他環顧無所見；呼聲再至；第三次，他棄其王位，披朝聖者之氅而去，受雇為果園守夜人——放棄王位之王子，呼羅珊伊斯蘭中佛本生故事的親緣。"
+      },
+      "motifs": [
+        "wisdom-sacrifice",
+        "culture-hero",
+        "oracle-divination"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Sufi hagiography of a living devotional tradition; the renunciation tale parallels Buddhist and Christian withdrawal legends; cross-traditional motif tagging is interpretive."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Ibrahim ibn Adham was king of Balkh. One day he was hunting, and a voice called after him on his horse: 'You were not created for this; nor were you created for that.' He looked and saw nobody. The call came again from behind him, and again; and the third time he took off his royal cloak and rode away from his kingdom, and became a watchman of the orchards and a waiter at the tables of others.",
+          "note": "Paraphrase of the anecdote in Attar's Tadhkirat al-Awliya as given in Nicholson, The Mystics of Islam (1914); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "It is told of him that he served his years in silence, and that when his servants found him and would have brought him back, he said: 'My kingdom is not of Balkh.' The hagiographers make him the pattern of the great renunciation in the Islam of Khurasan; and the tale has travelled as far as the story of the prince who left the palace for the road, in every telling of it, from the Ganges to the Oxus.",
+          "note": "Paraphrase of the anecdote tradition; not verbatim."
+        }
+      ],
+      "persons": []
+    },
+    {
+      "id": "sufi-hallaj-ana-al-haqq",
+      "title": {
+        "en": "Hallaj on the Gibbet: 'Ana al-Haqq'",
+        "zh": "哈拉吉於十字架：「我即真理」"
+      },
+      "tradition": "islamic",
+      "category": "myth-religion",
+      "region": {
+        "en": "Baghdad, gibbet of the Mansur gate (literal pin)",
+        "zh": "巴格達曼蘇爾門十字架（實際定位）"
+      },
+      "lat": 33.31,
+      "lon": 44.36,
+      "period": "Event 922 CE; anecdotes in Attar, Tadhkirat al-Awliya (12th c.); English: R. A. Nicholson, The Mystics of Islam (1914), public domain",
+      "source": {
+        "archive": "Project Gutenberg",
+        "work": "R. A. Nicholson, The Mystics of Islam (1914); the Hallaj tradition",
+        "url": "https://www.gutenberg.org/ebooks/67388"
+      },
+      "license": "Public domain (English edition 1914; Arabic-Persian originals medieval)",
+      "summary": {
+        "en": "Al-Husayn ibn Mansur al-Hallaj, the Sufi of Baghdad, cried in the streets the word the jurists could not forgive: 'Ana al-Haqq' — I am the Truth. He was imprisoned for years, scourged, mutilated, and at last gibbeted; and the legend tells that his blood was two words written on the ground, and that passers-by asked him of the love of God as they walked beneath him.",
+        "zh": "巴格達蘇菲胡賽因·本·曼蘇爾·哈拉吉於街市喊出法學家不能容之語：『我即真理』（Ana al-Haqq）。他被囚多年，受笞刑、殘肢，最後被釘於十字架；相傳其血於地上寫成兩個字，而行人在其下經過時仍向他問主之愛。"
+      },
+      "motifs": [
+        "wisdom-sacrifice",
+        "taboo-transgression",
+        "theophany"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Sufi hagiography of a living devotional tradition; the trial and execution are matters of doctrine and history alike; presented as the received narrative."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Al-Hallaj, the wool-carder of Baghdad, cried in the streets the word the jurists could not forgive: 'Ana al-Haqq' — I am the Truth. He was cast into prison for years, and scourged, and mutilated; and in the gibbet he was heard to pray: 'Pardon them; for if Thou hadst revealed to them what Thou hast revealed to me, they would not have done what they did.'",
+          "note": "Paraphrase of the Hallaj tradition as given in Nicholson, The Mystics of Islam (1914), and Attar's Tadhkirat; not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "The legend adds that when they questioned him on the gibbet he asked for his Lord, and that his blood wrote two words on the ground as it fell; and the Sufi poets took him for the martyr of the doctrine that the lover and the Beloved are one — and the jurists made of him a warning. Both readings have carried his name for a thousand years.",
+          "note": "Paraphrase of the Hallaj tradition; not verbatim."
+        }
+      ],
+      "persons": []
+    },
+    {
+      "id": "sufi-bishr-paper",
+      "title": {
+        "en": "Bishr al-Hafi and the Scrap of Paper",
+        "zh": "比希爾·哈菲與紙片"
+      },
+      "tradition": "islamic",
+      "category": "myth-religion",
+      "region": {
+        "en": "Baghdad, street of the taverns (symbolic pin)",
+        "zh": "巴格達酒肆之街（象徵性定位）"
+      },
+      "lat": 33.31,
+      "lon": 44.36,
+      "period": "Anecdotes in Attar, Tadhkirat al-Awliya (12th c.); English: R. A. Nicholson, The Mystics of Islam (1914), public domain",
+      "source": {
+        "archive": "Project Gutenberg",
+        "work": "R. A. Nicholson, The Mystics of Islam (1914); the Bishr al-Hafi tradition",
+        "url": "https://www.gutenberg.org/ebooks/67388"
+      },
+      "license": "Public domain (English edition 1914; Arabic-Persian originals medieval)",
+      "summary": {
+        "en": "Bishr ibn al-Harith, called al-Hafi (the Barefoot), the young rake of Baghdad, found one night in the street a scrap of paper bearing the name of God, trodden in the mud. He bought it, washed it, perfumed it, and buried it; and that night, the story says, he was told in sleep: 'Thou hast honoured My name; I have forgiven thee, and made thee and thy parents of My friends.' He rose barefoot, and was called the Barefoot ever after.",
+        "zh": "巴格達的浪蕩青年比希爾·本·哈里斯——後稱『赤足者』（al-Hafi）——一夜於街上拾得一片寫著主名、陷於泥濘被踐踏的紙。他買下它，洗之、熏之、葬之；相傳當夜夢中被告知：『你尊崇了我的名；我已赦你，並使你與你的父母成為我的朋友。』他赤足而起，自是稱為赤足者。"
+      },
+      "motifs": [
+        "taboo-transgression",
+        "boon-curse",
+        "ritual-origin"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Sufi hagiography of a living devotional tradition; paraphrased from public-domain sources."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Bishr ibn al-Harith, the young rake of Baghdad, found one night in the street a scrap of paper bearing the name of God, trodden in the mud. He bought it for a dinar from the man who had cast it away, and washed it and perfumed it, and buried it where the ground was clean.",
+          "note": "Paraphrase of the anecdote in Attar's Tadhkirat al-Awliya as given in Nicholson, The Mystics of Islam (1914); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "That night, the story says, he was told in sleep: 'Thou hast honoured My name; I have forgiven thee, and made thee and thy parents of My friends.' He rose barefoot, and gave up the tavern, and was called al-Hafi, the Barefoot, ever after; and his teacher Fudayl said of him: 'He was the wickedest of men, and he became one of the best.'",
+          "note": "Paraphrase of the anecdote tradition; not verbatim."
+        }
+      ],
+      "persons": []
+    },
+    {
+      "id": "sufi-fudayl-repentance",
+      "title": {
+        "en": "Fudayl the Brigand Repents at the Wall",
+        "zh": "強盜福戴爾在牆下悔悟"
+      },
+      "tradition": "islamic",
+      "category": "myth-religion",
+      "region": {
+        "en": "City wall of Merv / Rayy (symbolic pin)",
+        "zh": "梅爾夫／賴夷城牆（象徵性定位）"
+      },
+      "lat": 37.3,
+      "lon": 54.3,
+      "period": "Anecdotes in Attar, Tadhkirat al-Awliya (12th c.); English: R. A. Nicholson, The Mystics of Islam (1914), public domain",
+      "source": {
+        "archive": "Project Gutenberg",
+        "work": "R. A. Nicholson, The Mystics of Islam (1914); the Fudayl ibn Iyad tradition",
+        "url": "https://www.gutenberg.org/ebooks/67388"
+      },
+      "license": "Public domain (English edition 1914; Arabic-Persian originals medieval)",
+      "summary": {
+        "en": "Fudayl ibn Iyad was a highwayman of Khurasan. He lay in wait one night and saw a traveller scaling the city wall, and asked him what he did. 'I am going to a woman I love.' 'And if you are seen?' — 'I fear being seen by men.' 'And do you not fear the sight of God?' The brigand wept, and left his trade at the foot of the wall, and became one of the masters of the age — the teacher of Bishr, the confessor of the road.",
+        "zh": "呼羅珊的強盜福戴爾·本·伊亞德一夜埋伏，見一旅人攀城牆，問其何為。『去見我所愛的女子。』『若被見呢？』——『我怕人見。』『你豈不畏主之觀看？』強盜哭泣，棄其業於牆下，成為當代師表——比希爾之師、道路上的告解者。"
+      },
+      "motifs": [
+        "taboo-transgression",
+        "boon-curse",
+        "ritual-origin"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Sufi hagiography of a living devotional tradition; paraphrased from public-domain sources."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Fudayl ibn Iyad was a highwayman of Khurasan, who lay in wait for caravans. One night he saw a traveller scaling the city wall, and asked him what he did there. 'I am going to a woman I love.' 'And if you are seen?' 'I fear being seen by men.' 'And do you not fear the sight of God?'",
+          "note": "Paraphrase of the anecdote in Attar's Tadhkirat al-Awliya as given in Nicholson, The Mystics of Islam (1914); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "The brigand wept at the foot of the wall, and left his trade there; and he became one of the masters of his age, the teacher of Bishr al-Hafi, and the man whose house the learned came to for the secrets of the fear of God.",
+          "note": "Paraphrase of the anecdote tradition; not verbatim."
+        }
+      ],
+      "persons": []
+    },
+    {
+      "id": "sufi-nicholson-junayd-sohail",
+      "title": {
+        "en": "Junayd and the Boy on the Rooftop",
+        "zh": "朱奈德與屋頂上的男孩"
+      },
+      "tradition": "islamic",
+      "category": "myth-religion",
+      "region": {
+        "en": "Baghdad, rooftops of the city (symbolic pin)",
+        "zh": "巴格達城中屋頂（象徵性定位）"
+      },
+      "lat": 33.31,
+      "lon": 44.36,
+      "period": "Anecdotes preserved in Arabic Sufi biographies; English: R. A. Nicholson, The Mystics of Islam (1914), public domain",
+      "source": {
+        "archive": "Project Gutenberg",
+        "work": "R. A. Nicholson, The Mystics of Islam (1914), ch. on the Unitive State; Junayd traditions in Attar's Tadhkirat al-Awliya",
+        "url": "https://www.gutenberg.org/ebooks/67388"
+      },
+      "license": "Public domain (English edition 1914; Arabic originals medieval)",
+      "summary": {
+        "en": "Junayd of Baghdad, the shaykh of the sober school, was asked what he had learned of the love of God; he answered with the story of the boy who was set to watch the rooftops and saw the beloved's window lit — and climbed, and fell, and was carried home in silence. 'This is the love of God: it is not spoken of, it is climbed for.' The anecdote belongs to the doctrine that the mystic's state cannot be told, only lived.",
+        "zh": "巴格達蘇菲師朱奈德被問及何謂主之愛；他以屋頂守望男孩的故事作答：男孩望見心上人窗中燈亮——攀之，墜之，默然被抬回家。『此即主之愛：不可言說，只可攀登。』此軼事屬「神秘狀態不可述、只可活」之教義。"
+      },
+      "motifs": [
+        "parable-teaching",
+        "quest-immortality",
+        "otherworld-voyage"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Sufi anecdote of a living devotional tradition; paraphrased from public-domain sources."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Junayd of Baghdad, the shaykh of the sober school of Sufism, was asked what he had learned of the love of God, and answered with a tale: of a boy set to watch the rooftops, who saw the window of his beloved lit, and climbed, and fell, and was carried home in silence.",
+          "note": "Paraphrase of the anecdote as given in Nicholson, The Mystics of Islam (1914); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "'This,' said Junayd, 'is the love of God: it is not spoken of, it is climbed for; and the tongue of the lover is his falling, not his saying.' The doctrine of the school is that the mystic's state cannot be told, only lived — and the anecdote lore of Baghdad kept the lesson in a boy on a roof.",
+          "note": "Paraphrase of the anecdote as given in Nicholson, The Mystics of Islam (1914); not verbatim."
+        }
+      ],
+      "persons": []
+    },
+    {
+      "id": "gulistan-deaf-man",
+      "title": {
+        "en": "Saadi's Deaf Man and the Doctor",
+        "zh": "薩迪的聾人與醫生"
+      },
+      "tradition": "islamic",
+      "category": "myth-religion",
+      "region": {
+        "en": "Shiraz, house of the sick man (symbolic pin)",
+        "zh": "設拉子病者之家（象徵性定位）"
+      },
+      "lat": 29.59,
+      "lon": 52.58,
+      "period": "Gulistan (Rose Garden), Book 4 (composed c. 1258); James Ross translation, 1823, public domain (Gutenberg #13060)",
+      "source": {
+        "archive": "Project Gutenberg",
+        "work": "Sa'di, The Gulistan (Rose Garden), trans. James Ross (1823), Book 4 'Of the Benefit of Being Silent'",
+        "url": "https://www.gutenberg.org/ebooks/13060"
+      },
+      "license": "Public domain (translation 1823; original 13th century)",
+      "summary": {
+        "en": "A man whose relatives were sick resolved to visit them and cheer them: he asked a friend what questions he should be expected to ask, and what answers he should give. 'They will ask after thy health; say thou art well.' — 'And after the sickness?' — 'Say it is past.' — 'And what if he asks for medicine?' — 'Say the physician has ordered such and such.' The deaf man repeats the forms to the sick man's face — 'Are thy pains past?' 'Thanks to God, my pains are past' — and the sick man's friends hear him say what he never said: the comedy of the forms without the care.",
+        "zh": "一人的親屬病重，決定探望並致慰：他問朋友該問什麼、該答什麼。『他們會問你的健康；說你很好。』——『那病呢？』——『說已痊癒。』——『若問藥呢？』——『說醫生囑如此。』聾人對病人當面復述套語——『你的病痛已過了嗎？』『感謝主，我的病痛已過』——病人之親聞其所從未言之語：徒有形式而無關懷之喜劇。"
+      },
+      "motifs": [
+        "parable-teaching",
+        "trickster",
+        "boon-curse"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Islamicate wisdom tale (Saadi's Gulistan); paraphrased from the public-domain Ross translation."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "A man whose relatives were sick had never visited them; and being asked why, he said he was deaf and could not hear their questions. He resolved at last to go, and asked a friend what he should say when the sick man spoke to him. 'He will ask after thy health; say thou art well.' 'And after the sickness?' 'Say it is past.' 'And what if he asks for medicine?' 'Say the physician has ordered such and such.'",
+          "note": "Paraphrase of Sa'di, Gulistan (Ross 1823), Book 4; not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "So the deaf man went, and sat at the bed of the sick man, and put the questions in the order he had learned: 'How art thou?' The sick man answered, 'I am much worse.' — 'And thy pains?' 'They are increased.' — 'And hast thou taken the medicine?' 'No.' And the deaf man, pleased with the fitness of the forms, left him without asking anything more; and Saadi's moral is of the visit paid out of a book, in which the words are all right and the love is absent.",
+          "note": "Paraphrase of Sa'di, Gulistan (Ross 1823), Book 4; not verbatim."
+        }
+      ],
+      "persons": []
+    },
+    {
+      "id": "gulistan-wrestlers",
+      "title": {
+        "en": "The Old Wrestler and the Ring",
+        "zh": "老摔跤手與擂台"
+      },
+      "tradition": "islamic",
+      "category": "myth-religion",
+      "region": {
+        "en": "Shiraz, wrestling-ground of the town (symbolic pin)",
+        "zh": "設拉子城中摔跤場（象徵性定位）"
+      },
+      "lat": 29.59,
+      "lon": 52.58,
+      "period": "Gulistan, Book 1 (composed c. 1258); James Ross translation, 1823, public domain (Gutenberg #13060)",
+      "source": {
+        "archive": "Project Gutenberg",
+        "work": "Sa'di, The Gulistan (Rose Garden), trans. James Ross (1823), Book 1 'Of the Customs of Kings'",
+        "url": "https://www.gutenberg.org/ebooks/13060"
+      },
+      "license": "Public domain (translation 1823; original 13th century)",
+      "summary": {
+        "en": "A wrestler grown old boasts before the king that he has never been thrown; a young man comes up and throws him twice. The old man asks him what he was before — 'I heard thee boast, and my hands grew strong.' Saadi's moral: the babbler's tongue is the wrestler's best adversary.",
+        "zh": "一名老摔跤手在王前自誇從未被摔；一青年上場兩次摔倒他。老者問其先何為——『聞你自誇，我手便強。』薩迪之旨：饒舌者之舌乃摔跤手最佳對手。"
+      },
+      "motifs": [
+        "parable-teaching",
+        "trickster",
+        "boon-curse"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Islamicate wisdom tale; paraphrased from the public-domain Ross translation."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "A wrestler grown old and stiff boasted before the king that he had never been thrown; and he said, 'I have no equal in the ring.' A young man came up and threw him twice. The old man asked him, 'Who art thou, and what hast thou been, that thou hast thrown me?' The young man said: 'I heard thy boast, and my hands grew strong.'",
+          "note": "Paraphrase of Sa'di, Gulistan (Ross 1823), Book 1; not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Saadi's moral is of the talker: the babbler's tongue is the wrestler's best adversary, and the man who makes much of himself before others is beaten by the man who has nothing to say.",
+          "note": "Paraphrase of Sa'di, Gulistan (Ross 1823), Book 1; not verbatim."
+        }
+      ],
+      "persons": []
+    },
+    {
+      "id": "gulistan-shoes-contentment",
+      "title": {
+        "en": "The Man Who Had No Shoes",
+        "zh": "無鞋之人"
+      },
+      "tradition": "islamic",
+      "category": "myth-religion",
+      "region": {
+        "en": "Great mosque of Kufa (literal pin)",
+        "zh": "庫法大清真寺（實際定位）"
+      },
+      "lat": 32.03,
+      "lon": 44.4,
+      "period": "Gulistan, Book 3 (composed c. 1258); James Ross translation, 1823, public domain (Gutenberg #13060)",
+      "source": {
+        "archive": "Project Gutenberg",
+        "work": "Sa'di, The Gulistan (Rose Garden), trans. James Ross (1823), Book 3 'On the Preciousness of Contentment'",
+        "url": "https://www.gutenberg.org/ebooks/13060"
+      },
+      "license": "Public domain (translation 1823; original 13th century)",
+      "summary": {
+        "en": "Saadi goes barefoot in the heat because he has no shoes, and is grieved; entering the great mosque of Kufa he sees a man who has no feet. 'Whereupon I thanked Providence for its bounty to myself.' The tale belongs to Saadi's doctrine of contentment, told from his own road.",
+        "zh": "薩迪因無鞋而赤足行於烈日，心中愁苦；入庫法大清真寺，見一無足之人。『於是我感謝上天對我的恩賜。』此故事屬薩迪的知足學說，出自他自己的行路。"
+      },
+      "motifs": [
+        "parable-teaching",
+        "boon-curse",
+        "ritual-origin"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Islamicate wisdom tale; paraphrased from the public-domain Ross translation."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "One day, says Saadi, I had no shoes and was grieved with my lot, until I came into the great mosque of Kufa and there saw a man who had no feet. Whereupon I thanked Providence for its bounty to myself, and took up my burden as a gift.",
+          "note": "Paraphrase of Sa'di, Gulistan (Ross 1823), Book 3; not verbatim."
+        }
+      ],
+      "persons": []
+    },
+    {
+      "id": "gulistan-king-dervish",
+      "title": {
+        "en": "The Dervish Who Would Not Ask",
+        "zh": "不開口的苦行僧"
+      },
+      "tradition": "islamic",
+      "category": "myth-religion",
+      "region": {
+        "en": "Shiraz, door of the dervish (symbolic pin)",
+        "zh": "設拉子苦行僧之門（象徵性定位）"
+      },
+      "lat": 29.59,
+      "lon": 52.58,
+      "period": "Gulistan, Book 2 (composed c. 1258); James Ross translation, 1823, public domain (Gutenberg #13060)",
+      "source": {
+        "archive": "Project Gutenberg",
+        "work": "Sa'di, The Gulistan (Rose Garden), trans. James Ross (1823), Book 2 'Of the Morals of Dervishes'",
+        "url": "https://www.gutenberg.org/ebooks/13060"
+      },
+      "license": "Public domain (translation 1823; original 13th century)",
+      "summary": {
+        "en": "A dervish sits at his door in contentment; a king passes and offers him wealth. 'Keep thy wealth, for I am rich without it.' 'How art thou rich?' — 'In that I ask nothing of the king.' The anecdote belongs to Saadi's second book, the morals of the dervishes, where the beggar is the rich man and the giver is the poor.",
+        "zh": "一苦行僧滿足地坐在門前；一國王經過並許以財富。『留著你的財富，我無之而富。』『你何以為富？』——『在於我不向王求取。』此軼事屬薩迪第二卷「苦行僧之德」，其中乞者為富人，施者為窮人。"
+      },
+      "motifs": [
+        "parable-teaching",
+        "boon-curse",
+        "sacred-kingship"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Islamicate wisdom tale; paraphrased from the public-domain Ross translation."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "A dervish sat at his door in contentment, and a king passing by offered him wealth. He said, 'Keep thy wealth, for I am rich without it.' The king said, 'How art thou rich?' The dervish said, 'In that I ask nothing of the king.'",
+          "note": "Paraphrase of Sa'di, Gulistan (Ross 1823), Book 2; not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Saadi's moral is of the free man: the beggar who asks is the poor man, and the man who is contented is the rich — and the king went away the poorer of the two.",
+          "note": "Paraphrase of Sa'di, Gulistan (Ross 1823), Book 2; not verbatim."
+        }
+      ],
+      "persons": []
+    }
+  ]
+}

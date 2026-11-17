@@ -1,0 +1,303 @@
+{
+  "texts": [
+    {
+      "id": "christian-thomas-secret-sayings",
+      "title": {
+        "en": "The Secret Sayings of the Living Jesus",
+        "zh": "活著的耶穌之隱語"
+      },
+      "tradition": "christian",
+      "category": "religious",
+      "region": {
+        "en": "Nag Hammadi library find-spot, Upper Egypt (text)",
+        "zh": "上埃及拿戈瑪第文庫出土地（文本）"
+      },
+      "lat": 26.16,
+      "lon": 32.49,
+      "period": "Gospel of Thomas, sayings tradition, c. 50-140 CE; Coptic MS c. 350 CE (Berlin Working Group trans., 1972; paraphrase)",
+      "source": {
+        "archive": "Early Christian Writings",
+        "work": "Gospel of Thomas, prologue and logia 1-5 (sayings-gospel; paraphrased)",
+        "url": "https://www.earlychristianwritings.com/thomas.html"
+      },
+      "license": "Paraphrase of the Coptic text tradition (public-domain basis); not verbatim",
+      "summary": {
+        "en": "A sayings gospel without narrative: 'These are the secret sayings which the living Jesus spoke, and Didymos Judas Thomas wrote down.' Whoever finds the interpretation of the sayings 'will not taste death'; the seeker is told to seek and not stop until found — and when found, troubled, then amazed, and to 'reign over the All.' The Thomas tradition's founding frame: salvation as interpretation.",
+        "zh": "一部無敘事的語錄福音：「這些是活著的耶穌所說、迪迪摩斯·猶大·多馬記下的隱語。」找到解釋的人「必不嘗死味」；尋求者被囑「不可停止尋找，直到找著」——找著便憂傷，再驚異，並要「統管萬有」。多馬傳統的開篇框架：救恩即是解經。"
+      },
+      "motifs": [
+        "parable-teaching",
+        "prophetic-vision"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Gnostic-adjacent sayings gospel; included as comparative text of the early Jesus movement, not endorsed as canonical."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The opening frame: these are the hidden words that the living Jesus uttered, which Judas, who is also called Thomas, wrote down. Whoever discovers what the words mean will not taste death. The first saying turns the searcher inward: let one who seeks not cease from seeking until he finds, and when he finds he shall be troubled, and when he is troubled he shall marvel, and shall be king over all.",
+          "note": "Paraphrase of Gospel of Thomas, prologue and logia 1-2 (Coptic Nag Hammadi II.2; Berlin Working Group trans. 1972); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Jesus answers the question of who may enter the kingdom: if those who lead you say the kingdom is in the sky, the birds will get there first; if they say it is in the sea, the fish will get there first — rather the kingdom is inside you and outside you, and when you know yourselves you will be known, and you will understand that you are children of the living Father. But if you do not know yourselves, you dwell in poverty, and you are that poverty.",
+          "note": "Paraphrase of Gospel of Thomas, logia 3 (Coptic Nag Hammadi II.2); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "The aged fisherman's image: a wise fisherman casts his net into the sea and draws up a full net of small fish, among which he finds one fine large fish — and throws all the small fish back into the sea without regret. Whoever has ears to hear, let him hear. Thomas's version keeps the one-souls motif the Synoptics frame as a net that does not break.",
+          "note": "Paraphrase of Gospel of Thomas, logia 8 (Coptic Nag Hammadi II.2); not verbatim."
+        }
+      ],
+      "persons": [
+        "jesus"
+      ]
+    },
+    {
+      "id": "christian-thomas-thomas-confession",
+      "title": {
+        "en": "Three Words: Jesus Takes Thomas Aside",
+        "zh": "三個字：耶穌領多馬到一旁"
+      },
+      "tradition": "christian",
+      "category": "religious",
+      "region": {
+        "en": "Sayings-dialogue setting (text)",
+        "zh": "對話語錄場景（文本）"
+      },
+      "lat": 26.16,
+      "lon": 32.49,
+      "period": "Gospel of Thomas, sayings tradition, c. 50-140 CE; Coptic MS c. 350 CE (Berlin Working Group trans., 1972; paraphrase)",
+      "source": {
+        "archive": "Early Christian Writings",
+        "work": "Gospel of Thomas, logia 13-14 (paraphrased)",
+        "url": "https://www.earlychristianwritings.com/thomas.html"
+      },
+      "license": "Paraphrase of the Coptic text tradition (public-domain basis); not verbatim",
+      "summary": {
+        "en": "The disciples ask what Jesus is like; he compares them to the leaders of the world, from infants to the powerful — but takes Thomas aside and gives him three words. Asked to name them, Thomas answers that were he to tell them, bystanders would pick up stones to throw at him and fire would come from the stones to burn them up. Jesus renames him: 'you are no longer my disciple; you have become like me... I am not your master, because you have drunk, you have become intoxicated from the bubbling spring which I have measured out.'",
+        "zh": "門徒問耶穌像誰；他將他們比作世上掌權者——自嬰孩到掌權者——卻領多馬到一旁，給他三個字。多馬若說出來，旁人必拾石投擲，石中亦必出火燒人。耶穌遂為他改名：「你不是我的門徒，你已像我……我不是你的師傅，因為你已喝了，你已從我量出的涌泉裏喝得陶醉。」"
+      },
+      "motifs": [
+        "prophetic-vision",
+        "parable-teaching",
+        "teacher-disciple"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Gnostic-adjacent; the Thomas-elevation dialogue is the sayings gospel's charter scene."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The disciples ask Jesus: who are you, that we should follow you? He compares them to men in the street who know neither where they are going nor who the masters are — and compares them, at one point, to infants and to the great ones of the world. Then he takes Thomas apart and speaks three words to him alone. When Thomas is asked to set them down in the world, he hesitates, saying that if he were to tell them, those who hear would take up stones to cast at him, and fire would come out of the stones and burn them up.",
+          "note": "Paraphrase of Gospel of Thomas, logion 13 (Coptic Nag Hammadi II.2); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Jesus gives Thomas the hidden name: you are no longer my disciple, you have become like me, for you have drunk, you have become intoxicated from the bubbling spring that I have measured out. And whoever drinks from my mouth will become like me, and I myself will become that person, and the hidden things will be disclosed. The saying grounds the community's authority in Thomas's unique intimacy.",
+          "note": "Paraphrase of Gospel of Thomas, logion 13, closing (Coptic Nag Hammadi II.2); not verbatim."
+        }
+      ],
+      "persons": [
+        "jesus"
+      ]
+    },
+    {
+      "id": "christian-thomas-infants",
+      "title": {
+        "en": "When You Make the Two Into One",
+        "zh": "當你使二成為一"
+      },
+      "tradition": "christian",
+      "category": "religious",
+      "region": {
+        "en": "Sayings collection (text)",
+        "zh": "語錄集（文本）"
+      },
+      "lat": 26.16,
+      "lon": 32.49,
+      "period": "Gospel of Thomas, sayings tradition, c. 50-140 CE; Coptic MS c. 350 CE (Berlin Working Group trans., 1972; paraphrase)",
+      "source": {
+        "archive": "Early Christian Writings",
+        "work": "Gospel of Thomas, logia 22 and 37 (paraphrased)",
+        "url": "https://www.earlychristianwritings.com/thomas.html"
+      },
+      "license": "Paraphrase of the Coptic text tradition (public-domain basis); not verbatim",
+      "summary": {
+        "en": "The nursing infants at the master's feet: 'when will the new world come?' — 'when you make the two into one, and when you make the inner as the outer and the outer as the inner, and the above as the below... then you shall enter the kingdom.' Asked when he will appear, Jesus says he will not appear — his kin are those who wash off their garments and 'tread under foot the garments of shame, as little children.'",
+        "zh": "在師傅腳前的乳養嬰孩：「新世界何時來到？」——「當你使二成為一，使內如外、外如內，上如下……那時你將進入神的國。」又問「你何時向我們顯現？」耶穌答「我不顯現」——他的親屬是那脫去衣裳、把羞恥的衣裳踏在腳下如小孩子的人。"
+      },
+      "motifs": [
+        "parable-teaching"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Gnostic-adjacent; the androgyny-reunion motif is a gnostic baptism image; presented comparatively."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Little children are brought, those who are being nursed, and the disciples ask what the kingdom resembles. Jesus answers: the nurslings who suck are like those who enter the kingdom — and expands: when you make the two into one, and make the inner as the outer and the outer as the inner, and the upper as the lower; and when you make male and female into a single one, so that the male is not male and the female not female; when you make eyes in place of an eye, a hand in place of a hand, a foot in place of a foot, an image in place of an image; then you shall enter.",
+          "note": "Paraphrase of Gospel of Thomas, logion 22 (Coptic Nag Hammadi II.2); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "The disciples ask: when will you appear to us, and when shall we see you? Jesus answers that he does not appear as he is — his kin are those who hear his word and accept it for themselves; they shall see him. And again: when they strip without shame and tread their garments under their feet, as little children, they shall see the son of the living one and shall not fear.",
+          "note": "Paraphrase of Gospel of Thomas, logia 37 and related (Coptic Nag Hammadi II.2); not verbatim."
+        }
+      ],
+      "persons": [
+        "jesus"
+      ]
+    },
+    {
+      "id": "christian-thomas-light-splinter",
+      "title": {
+        "en": "I Am the Light: The Splinter and the Beam",
+        "zh": "我是光：梁木與刺"
+      },
+      "tradition": "christian",
+      "category": "religious",
+      "region": {
+        "en": "Sayings collection (text)",
+        "zh": "語錄集（文本）"
+      },
+      "lat": 26.16,
+      "lon": 32.49,
+      "period": "Gospel of Thomas, sayings tradition, c. 50-140 CE; Coptic MS c. 350 CE (Berlin Working Group trans., 1972; paraphrase)",
+      "source": {
+        "archive": "Early Christian Writings",
+        "work": "Gospel of Thomas, logia 26, 77, 113 (paraphrased)",
+        "url": "https://www.earlychristianwritings.com/thomas.html"
+      },
+      "license": "Paraphrase of the Coptic text tradition (public-domain basis); not verbatim",
+      "summary": {
+        "en": "The splinter-and-beam saying in its Coptic form: 'you see the splinter in your brother's eye but do not see the beam in your own eye' — cast the beam out of your own eye and then you will see clearly. And the great identity saying that closes and opens the collection: 'I am the light that is over all things. I am all: from me all came forth, and to me all extends. Split a piece of wood; I am there. Lift up the stone, and you will find me there.'",
+        "zh": "多馬本「梁木與刺」：「你看得見弟兄眼中的刺，卻看不見自己眼中的梁木」——先除去你眼中的梁木，才看得清楚。以及首尾呼應的大認同語：「我是普照萬物之光。我是萬有：萬有自我而出，萬有歸我而止。劈開一塊木頭，我在那裏；舉起一塊石頭，你在那裏找到我。」"
+      },
+      "motifs": [
+        "parable-teaching"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Gnostic-adjacent; the panentheist identity saying (77) is the collection's most quoted text."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "You see the splinter that is in your brother's eye, but you do not see the beam that is in your own eye. When you cast the beam out of your own eye, then you will see clearly to cast the splinter out of your brother's eye. The saying keeps the proverb's force while trimming the Synoptic frame: the eye of judgment is the obstruction of vision.",
+          "note": "Paraphrase of Gospel of Thomas, logion 26 (Coptic Nag Hammadi II.2); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Jesus says: I am the light that is over all things. I am all: from me all came forth, and to me all extends. Split a piece of wood; I am there. Lift up the stone, and you will find me there. The saying's scattering-through-creation grounds the collection's closing claim that the kingdom is spread upon the earth, and people do not see it.",
+          "note": "Paraphrase of Gospel of Thomas, logion 77 (Coptic Nag Hammadi II.2); not verbatim."
+        }
+      ],
+      "persons": [
+        "jesus"
+      ]
+    },
+    {
+      "id": "christian-thomas-peter-mary",
+      "title": {
+        "en": "Peter and Mary at the Collection's End",
+        "zh": "語錄之末：彼得與馬利亞"
+      },
+      "tradition": "christian",
+      "category": "religious",
+      "region": {
+        "en": "Sayings collection (text)",
+        "zh": "語錄集（文本）"
+      },
+      "lat": 26.16,
+      "lon": 32.49,
+      "period": "Gospel of Thomas, sayings tradition, c. 50-140 CE; Coptic MS c. 350 CE (Berlin Working Group trans., 1972; paraphrase)",
+      "source": {
+        "archive": "Early Christian Writings",
+        "work": "Gospel of Thomas, logia 114 (paraphrased)",
+        "url": "https://www.earlychristianwritings.com/thomas.html"
+      },
+      "license": "Paraphrase of the Coptic text tradition (public-domain basis); not verbatim",
+      "summary": {
+        "en": "The collection closes with the gendered rivalry scene: Simon Peter objects, 'let Mary leave us, for women are not worthy of life.' Jesus answers, 'I myself shall lead her, in order to make her male, so that she too may become a living spirit resembling you males' — 'every woman who will make herself male will enter the kingdom of heaven.' One of the tradition's most-debated texts on women, quoted as the closing image of the sayings community.",
+        "zh": "語錄以性別之爭收尾：西門彼得說「讓馬利亞離開我們吧，女人不配得生命」。耶穌答「我要親自引導她，使她成為男性，好叫她也成為與你們男性相像的活靈」——「凡使自己成為男性的女人，都必進入天國。」這是傳統關於女性最具爭議的文本之一，作為語錄群體的收尾意象而載。"
+      },
+      "motifs": [
+        "parable-teaching",
+        "transformation"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Gnostic-adjacent; the 'become male' language reflects ancient ascetic spirit-flesh symbolism and is presented with that historical framing, not endorsed."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Simon Peter says to them: let Mary leave us, for women are not worthy of life. Jesus answers: I myself shall lead her, in order to make her male, so that she too may become a living spirit resembling you males. For every woman who will make herself male will enter the kingdom of heaven. The final logion thus reopens, at the very end, the dispute over who counts as the community's bearer of life.",
+          "note": "Paraphrase of Gospel of Thomas, logion 114 (Coptic Nag Hammadi II.2); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "In the same closing register stands the rivalry saying over who Jesus loves: the disciples' question about the beloved and Peter's privileging claims are answered by turning status inside out — whoever comes to know the father and the mother will be called the child of a whore, but shall be the son of the king.",
+          "note": "Paraphrase of Gospel of Thomas, logion 105-107 range (Coptic Nag Hammadi II.2); not verbatim."
+        }
+      ],
+      "persons": [
+        "jesus",
+        "marymagdalene"
+      ]
+    },
+    {
+      "id": "christian-thomas-kingdom-spread",
+      "title": {
+        "en": "The Kingdom Is Spread Upon the Earth",
+        "zh": "國已鋪展於大地"
+      },
+      "tradition": "christian",
+      "category": "religious",
+      "region": {
+        "en": "Sayings collection (text)",
+        "zh": "語錄集（文本）"
+      },
+      "lat": 26.16,
+      "lon": 32.49,
+      "period": "Gospel of Thomas, sayings tradition, c. 50-140 CE; Coptic MS c. 350 CE (Berlin Working Group trans., 1972; paraphrase)",
+      "source": {
+        "archive": "Early Christian Writings",
+        "work": "Gospel of Thomas, logia 51-52, 109 (paraphrased)",
+        "url": "https://www.earlychristianwritings.com/thomas.html"
+      },
+      "license": "Paraphrase of the Coptic text tradition (public-domain basis); not verbatim",
+      "summary": {
+        "en": "Asked about the new world's rest, Jesus answers, 'what you look forward to has already come, but you do not recognize it.' Asked by the disciples about the old age's end, he answers with the twenty-four prophets who spoke in Israel and 'all of them looked in upon you' — 'you search the scriptures, because you think you have eternal life in them; but it is they that testify of me.' And the treasure in the field the owner unknowingly plows: the buyer finds the treasure and lends money at interest to everyone.",
+        "zh": "問及新世界的安息，耶穌答「你們所期待的那位早已來到，只是你們不認識他」。門徒問舊世代何時終結，他以以色列二十四位先知作答——「他們都到你們這裏來過」——「你們查考聖經，以為其中有永生；其實它們正是為我作見證。」又有田中藏寶之喻：地主耕田而不知，購得者尋著寶藏，便放債給眾人。"
+      },
+      "motifs": [
+        "parable-teaching",
+        "teacher-disciple"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Gnostic-adjacent; the realized-eschatology logia are the collection's counterpoint to apocalyptic expectation."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "His disciples ask him: when will the repose of the dead come, and when will the new world come? He answers: what you look forward to has already come, but you do not recognize it. The disciples then ask about the end of the old age, and he answers with the twenty-four prophets who spoke in Israel and looked in upon them — and warns that they search the scriptures thinking to find life in them, while the living one stands in their midst and they do not know him.",
+          "note": "Paraphrase of Gospel of Thomas, logia 51-52 (Coptic Nag Hammadi II.2); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "The kingdom is like a man who had a hidden treasure in his field, unknown to him; and after he died he left it to his son, and the son knew nothing of it either. He took the field and sold it, and the buyer went plowing, found the treasure, and began to lend money at interest to whomever he wished. The unknowing inheritance and the discovered treasure frame the collection's imagery of finding without seeking.",
+          "note": "Paraphrase of Gospel of Thomas, logion 109 (Coptic Nag Hammadi II.2); not verbatim."
+        }
+      ],
+      "persons": [
+        "jesus"
+      ]
+    }
+  ]
+}

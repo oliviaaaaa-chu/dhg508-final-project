@@ -1,0 +1,247 @@
+{
+  "_comment": "Further Primary Chronicle narratives and festival rites. Chronicle passages paraphrase Cross & Sherbowitz-Wetzor 1930 (public domain as of 2026); festival rite from Machal 1918.",
+  "texts": [
+    {
+      "id": "slavic-svyatki-christmas-divination",
+      "title": {
+        "en": "Kutiya Night: The Christmas Fortunes of the Village",
+        "zh": "庫提亞之夜：村莊的聖誕占卜"
+      },
+      "tradition": "slavic",
+      "category": "myth",
+      "region": {
+        "en": "Russia, Christmas Eve (symbolic pin at Suzdal)",
+        "zh": "俄羅斯聖誕前夕（象徵性定位於蘇茲達爾）"
+      },
+      "lat": 56.42,
+      "lon": 38.73,
+      "period": "Rite recorded 19th c. (Machal 1918)",
+      "source": {
+        "archive": "Wikisource / Internet Archive",
+        "work": "Jan Machal, Slavic Mythology, Mythology of All Races III (1918), Part IV ch. 2",
+        "url": "https://en.wikisource.org/wiki/The_Mythology_of_All_Races/Volume_3/Slavic/Part_4"
+      },
+      "license": "Public domain (1918)",
+      "summary": {
+        "en": "On Christmas Eve the Russian farmer spreads hay under the cloth, hides behind the pot of kutiya to ask his wife 'Can you see me?', pours the first cup to the dead, and the girls read their marriages in the pudding — the whole year's fortune tried in one night of the old Koleda.",
+        "zh": "聖誕前夕，俄羅斯農家在桌布下鋪乾草，家主藏於庫提亞鍋後問妻『可見我否』，先酹酒敬亡者，姑娘們以粥卜婚——一夕之間，以古柯列達之俗試盡全年運程。"
+      },
+      "motifs": [
+        "oracle-divination",
+        "ritual-origin",
+        "world-renewal"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Living rite; described ethnographically."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Before the Christmas Eve supper the farmer walks the house carrying the kutiya, the ritual pudding of groats and honey, while his wife spreads hay over the table under the cloth — hay for the manger and for the beasts' luck. Grace is said with remembrance of the absent and the dead; the first cup of vodka is poured with a few drops falling on the cloth, and a portion of every dish is set aside for the deceased.",
+          "note": "Paraphrase of Machal, Slavic Mythology, Mythology of All Races III (1918), Part IV ch. 2; not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "After supper all rise but the master, who keeps his seat hiding behind his pot of kutiya and asks his wife whether she sees him: 'No, I cannot' — 'I hope you may not see me next year either.' Prophecies of the harvest and the cattle are tried by the same art, and the girls tell their fortunes, the kutiya playing its part in every charm; the hay under the cloth is given to the animals of the house, and the hearth-fire is kept burning all night — the year renewed in one evening.",
+          "note": "Paraphrase of Machal (1918); not verbatim."
+        }
+      ],
+      "persons": []
+    },
+    {
+      "id": "slavic-oleg-shield-constantinople",
+      "title": {
+        "en": "Oleg's Shield on the Gates of Constantinople, 907",
+        "zh": "奧列格之盾懸於君士坦丁堡城門，九〇七年"
+      },
+      "tradition": "slavic",
+      "category": "myth",
+      "region": {
+        "en": "Constantinople, Golden Gate (symbolic pin)",
+        "zh": "君士坦丁堡金門（象徵性定位）"
+      },
+      "lat": 41.01,
+      "lon": 28.98,
+      "period": "Event dated 907; recorded in the Primary Chronicle (Cross trans. 1930)",
+      "source": {
+        "archive": "University of Warwick (Cross & Sherbowitz-Wetzor 1930 PDF)",
+        "work": "Russian Primary Chronicle, Laurentian Text (1930), s.a. 907",
+        "url": "https://warwick.ac.uk/fac/arts/history/students/modules/hi3t4/topics/sourcesi/mythsandfolktales/the_russian_primary_chronicle.pdf"
+      },
+      "license": "Public domain (1930, US copyright expired 2026)",
+      "summary": {
+        "en": "Oleg came to the Bosphorus with two thousand ships, put his men ashore and ordered the wheels taken off the boats so that the fleet sailed overland on the wind; the Greeks surrendered and paid tribute, and Oleg nailed his shield to the gates of Constantinople in sign of victory.",
+        "zh": "奧列格率兩千艘船抵博斯普魯斯，令兵士上岸、卸下船輪，艦隊竟乘風陸行；希臘人乞和納貢，奧列格將己盾釘於君士坦丁堡城門，以誌勝利。"
+      },
+      "motifs": [
+        "sacred-kingship",
+        "otherworld-voyage",
+        "foundational-legend"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Chronicle legend; the land-sailing fleet is accepted as saga embellishment by historians."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Oleg set out against the Greeks with his Varangians, Slavs, Chuds, and Krivichians — two thousand ships, the chronicle says — and came to the Bosphorus. He put his men ashore and commanded them to take the wheels off the boats; and when a fair wind had risen they spread sail on the land and bore the fleet overland to the Greeks — a marvel the Byzantine histories are silent on but the Russian chronicle keeps.",
+          "note": "Paraphrase of the Primary Chronicle, s.a. 907 (Cross & Sherbowitz-Wetzor 1930); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "The Greeks sought peace and gave the tribute Oleg named — twelve hryvnas of silver for every oarsman of two thousand ships. He returned to Kiev with gold, silks, wines, and fruits of every kind, and as a sign of victory nailed his shield to the gates of Constantinople; the treaty of 911 that followed was sworn on the crossed arms of the envoys and sealed on Perun's hill.",
+          "note": "Paraphrase of the Primary Chronicle, s.a. 907-912 (Cross & Sherbowitz-Wetzor 1930); not verbatim."
+        }
+      ],
+      "persons": []
+    },
+    {
+      "id": "slavic-askold-storm-860",
+      "title": {
+        "en": "The Storm of 860: Askold's Fleet Broken by the Theotokos' Robe",
+        "zh": "八六〇年風暴：阿斯科爾德艦隊為聖母衣所破"
+      },
+      "tradition": "slavic",
+      "category": "myth",
+      "region": {
+        "en": "Constantinople, harbor of the Golden Horn (symbolic pin)",
+        "zh": "君士坦丁堡金角灣（象徵性定位）"
+      },
+      "lat": 41.02,
+      "lon": 28.97,
+      "period": "Event dated 860; recorded in the Primary Chronicle (Cross trans. 1930)",
+      "source": {
+        "archive": "University of Warwick (Cross & Sherbowitz-Wetzor 1930 PDF)",
+        "work": "Russian Primary Chronicle, Laurentian Text (1930), s.a. 860",
+        "url": "https://warwick.ac.uk/fac/arts/history/students/modules/hi3t4/topics/sourcesi/mythsandfolktales/the_russian_primary_chronicle.pdf"
+      },
+      "license": "Public domain (1930, US copyright expired 2026)",
+      "summary": {
+        "en": "Askold and Dir led two hundred ships against Constantinople while the Emperor was away at war; the Patriarch dipped the robe of the Theotokos in the sea, a storm burst at once and wrecked the raiders' boats, and only a few returned to Kiev to tell of the wind that came out of the church.",
+        "zh": "阿斯科爾德與迪爾趁皇帝出征率二百船襲君士坦丁堡；牧首將聖母衣浸入海中，風暴驟起擊碎賊船；僅少數生還者返回基輔，述說那股出自教堂的狂風。"
+      },
+      "motifs": [
+        "theophany",
+        "sacred-kingship",
+        "storm-thunder"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Chronicle legend; the robe-dipping rite of Blachernae is historical, the storm narrative is the Greek account retold."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "In the year 860, while the Emperor Michael was away at war against the Arabs, Askold and Dir came with a great host of Varangians — two hundred boats, the chronicle says — to Constantinople. The raiders ravaged the shores of the Bosphorus and besieged the city whose defences were stripped for the Emperor's campaign.",
+          "note": "Paraphrase of the Primary Chronicle, s.a. 860 (Cross & Sherbowitz-Wetzor 1930); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "The Patriarch Photius, with the people, called upon the Theotokos, dipped her robe in the sea, and the weather that had been still and clear turned at once to a great storm; the waves rose and wrecked the boats of the raiders, so that only a few returned home to tell of the wind that had come out of the church. The chronicle counts the event as the first coming of the Rus to Constantinople — and the first lesson of what the city's Queen of Heaven could do.",
+          "note": "Paraphrase of the Primary Chronicle, s.a. 860; not verbatim."
+        }
+      ],
+      "persons": []
+    },
+    {
+      "id": "slavic-theodore-john-varangians",
+      "title": {
+        "en": "Theodore and John: The First Martyrs of the Russian Land",
+        "zh": "狄奧多爾與約翰：俄羅斯土地的首批殉道者"
+      },
+      "tradition": "slavic",
+      "category": "myth",
+      "region": {
+        "en": "Kiev (symbolic pin)",
+        "zh": "基輔（象徵性定位）"
+      },
+      "lat": 50.45,
+      "lon": 30.52,
+      "period": "Event dated 983; recorded in the Primary Chronicle (Cross trans. 1930)",
+      "source": {
+        "archive": "University of Warwick (Cross & Sherbowitz-Wetzor 1930 PDF)",
+        "work": "Russian Primary Chronicle, Laurentian Text (1930), s.a. 983",
+        "url": "https://warwick.ac.uk/fac/arts/history/students/modules/hi3t4/topics/sourcesi/mythsandfolktales/the_russian_primary_chronicle.pdf"
+      },
+      "license": "Public domain (1930, US copyright expired 2026)",
+      "summary": {
+        "en": "Five years before Vladimir's baptism, when lots were cast for a human sacrifice to the idols, they fell on a Varangian Christian and his son; the father's answer — 'I have one God who made heaven and earth' — and their deaths at the mob's hands made them the first martyrs of the Russian land.",
+        "zh": "弗拉基米爾受洗前五年，為神像擲籤擇人為祭，籤落於瓦良格基督徒父子；父親答『我有一位造天地之神』，父子二人死於暴民之手，成為俄羅斯土地的首批殉道者。"
+      },
+      "motifs": [
+        "sacred-kingship",
+        "taboo-transgression",
+        "resurrection",
+        "martyrdom",
+        "idol-contest"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Hagiographic account; the lot-casting for sacrifice described critically, not endorsed."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "In 983, after a victory, Vladimir resolved to sacrifice men to the idols, and the elders and boyars cast lots: the lot fell on a Varangian whose name was Theodore; the Greeks called him such, but he was of the north country and a Christian. The crowd came to his house to take his son John, on whom the lot had fallen with his father.",
+          "note": "Paraphrase of the Primary Chronicle, s.a. 983 (Cross & Sherbowitz-Wetzor 1930); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "The father answered: 'This is not a god, but wood; today it stands, and tomorrow it rots. They do not eat, neither do they drink, nor hear nor see; there is one God only, who made heaven and earth.' The crowd burst in; the father stood at the entrance with John, and both were killed at the threshold by the pagans who yet knew not God. The chronicle sets their blood beside Olga's faith as the two beginnings of Russian Christianity.",
+          "note": "Paraphrase of the Primary Chronicle, s.a. 983; not verbatim."
+        }
+      ],
+      "persons": []
+    },
+    {
+      "id": "slavic-svyatoslav-danube-words",
+      "title": {
+        "en": "Svyatoslav's Word: 'The Dead Know No Shame'",
+        "zh": "斯維亞托斯拉夫之言：『死者無所謂恥辱』"
+      },
+      "tradition": "slavic",
+      "category": "myth",
+      "region": {
+        "en": "Danube bank, 971 (symbolic pin at Dristra/Silistra)",
+        "zh": "多瑙河畔九七一年（象徵性定位於錫利斯特拉）"
+      },
+      "lat": 44.12,
+      "lon": 27.26,
+      "period": "Event dated 971; recorded in the Primary Chronicle (Cross trans. 1930)",
+      "source": {
+        "archive": "University of Warwick (Cross & Sherbowitz-Wetzor 1930 PDF)",
+        "work": "Russian Primary Chronicle, Laurentian Text (1930), s.a. 971",
+        "url": "https://warwick.ac.uk/fac/arts/history/students/modules/hi3t4/topics/sourcesi/mythsandfolktales/the_russian_primary_chronicle.pdf"
+      },
+      "license": "Public domain (1930, US copyright expired 2026)",
+      "summary": {
+        "en": "Hard pressed by the Greeks at the Danube, Svyatoslav called his men and said: 'Let us not disgrace the Russian land, but lie down here as dead men — for the dead know no shame; if we flee, disgrace will be upon us.' They fought again — and a peace was made that let the army go home.",
+        "zh": "多瑙河畔為希臘人所困之際，斯維亞托斯拉夫召集部眾：『勿辱俄羅斯之土，寧臥屍於此——蓋死者無所謂恥辱；若逃，則恥加於我等。』眾人再戰——終訂和約，全軍得歸。"
+      },
+      "motifs": [
+        "sacred-kingship",
+        "champion-portion",
+        "resurrection"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Chronicle oratory; Svyatoslav's 'the dead have no shame' became a Russian byword."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Svyatoslav, the prince who slept on the ground with his saddle for a pillow and ate no cooked meat, was shut up by the Emperor John Tzimiskes at the Danube in 971, after three summers of war. His men were sick and hungry, and they begged him to make peace and go home.",
+          "note": "Paraphrase of the Primary Chronicle, s.a. 971 (Cross & Sherbowitz-Wetzor 1930); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Svyatoslav called his men together and spoke: 'Let us not disgrace the Russian land, but lie down here as dead men — for the dead know no shame. But if we flee, disgrace will be upon us; so let us not scatter, but stand as one man.' The soldiers answered and fought again with desperate strength; and the Greeks, who had counted the Prince's army lost, offered peace, by which the Rus kept their ships and their heads and went home by the sea road.",
+          "note": "Paraphrase of the Primary Chronicle, s.a. 971; not verbatim."
+        }
+      ],
+      "persons": []
+    }
+  ]
+}

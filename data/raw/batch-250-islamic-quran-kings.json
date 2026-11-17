@@ -1,0 +1,503 @@
+{
+  "texts": [
+    {
+      "id": "quran-golden-calf",
+      "title": {
+        "en": "The Golden Calf and the Return of Musa",
+        "zh": "金牛犢與穆薩歸返"
+      },
+      "tradition": "islamic",
+      "category": "myth-religion",
+      "region": {
+        "en": "Camp beneath Mount Sinai (literal pin)",
+        "zh": "西奈山下營地（實際定位）"
+      },
+      "lat": 28.53,
+      "lon": 33.97,
+      "period": "Qur'an revealed c. 610-632 CE; Surahs 7:148-155, 20:83-98; Rodwell 1861",
+      "source": {
+        "archive": "Project Gutenberg",
+        "work": "The Koran (Al-Qur'an), trans. J. M. Rodwell, 1861, Suras 7:148-155 and 20:83-98",
+        "url": "https://www.gutenberg.org/ebooks/2800"
+      },
+      "license": "Public domain (translation 1861)",
+      "summary": {
+        "en": "In Moses' absence his people make a calf of their ornaments, a body with a lowing sound. 'This is your god and the god of Moses, whom he hath forgotten' — they said so though they had not seen him. Aaron warns them: 'Ye are only being proved thereby; your Lord is the God of Mercy, therefore follow me and obey my counsel.' When Moses returns in anger, he seizes his brother by the head: 'Why hast thou dishonoured them, and hast not waited for me?' Aaron answers that the people were near slaying him. The Samiri confesses — he took a handful of dust from the track of the messenger and threw it in, and thus his soul suggested it to him: 'Go thy way: it shall be for thee in this life to say, Touch me not; and there is a period for thee that shall not be delayed.'",
+        "zh": "穆薩離開期間，眾人以飾物鑄成牛犢，有哞哞之聲。『這是你們的神，穆薩的神，他忘了它。』亞倫勸誡：『這不過是考驗；你們的主確是至慈的主。』穆薩歸返盛怒，揪住兄長的頭。撒米里認罪——他取使者足跡上的一把土投入，我靈如此教唆我。『你去吧，你今生只可說『莫觸我』，你的結局已定，不得延緩。』"
+      },
+      "motifs": [
+        "taboo-transgression",
+        "theophany",
+        "boon-curse",
+        "wise-advice"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Sacred text of a living tradition; public-domain translation."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "And after his departure the people of Moses made a calf of their ornaments, a body which lowed. Did they not see that it could not speak to them, nor guide them to any way? They took it for worship and did wrong. And when they had repented, and saw that they had erred, they said, 'Unless our Lord have mercy on us and forgive us, we shall surely be of the lost.' And when Moses returned to his people full of wrath and indignation, he said, 'Evil is it that ye have done in my absence after my departure: have ye anticipated your Lord's commandment?' And he threw down the tablets, and seized his brother by the head and dragged him to him.",
+          "note": "Paraphrase of Qur'an 7:148-150 (Rodwell 1861); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "And when Moses said to Aaron, 'O my brother, why hast thou dishonoured them, and hast not followed me? Hast thou disobeyed my command?' Aaron said, 'O son of my mother, lay not hold on me by the beard nor by the head, for I feared lest thou shouldst say, Thou hast caused division among the children of Israel, and hast not regarded my word.' And the Samiri said, 'I saw what they saw not: therefore I took a handful of dust from the track of the messenger, and cast it in: and thus my soul suggested it to me.' Moses said, 'Get thee gone! thy portion in this life shall be to say, Touch me not; and for thee is a period which shall not be delayed: and look at thy god to which thou hast continued so devoted: we will burn it and scatter its ashes in the sea.'",
+          "note": "Paraphrase of Qur'an 20:94-97 (Rodwell 1861); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "And when the anger of Moses was appeased, he took up the tables: and in the writing of them was guidance and mercy to those who fear their Lord. And Moses chose out of his people seventy men to come to an appointed time with Us... and the followers of Moses said, 'We will not believe thee until we see God plainly.' And a thunderbolt took them as they looked on. Then he raised him up after that, and Moses prostrated himself and said, 'I turn to thee in repentance, and I am the first of believers.'",
+          "note": "Paraphrase of Qur'an 7:154-155 (Rodwell 1861); not verbatim."
+        }
+      ],
+      "persons": [
+        "musa",
+        "harun"
+      ]
+    },
+    {
+      "id": "quran-mount-torah",
+      "title": {
+        "en": "Forty Nights at Sinai: The Tablets and the Word",
+        "zh": "西奈四十夜：法版與言語"
+      },
+      "tradition": "islamic",
+      "category": "myth-religion",
+      "region": {
+        "en": "Mount Sinai / Jabal Musa (literal pin)",
+        "zh": "西奈山／穆薩山（實際定位）"
+      },
+      "lat": 28.53,
+      "lon": 33.97,
+      "period": "Qur'an revealed c. 610-632 CE; Surahs 7:142-147, 20:114; Rodwell 1861",
+      "source": {
+        "archive": "Project Gutenberg",
+        "work": "The Koran (Al-Qur'an), trans. J. M. Rodwell, 1861, Sura 7:142-147",
+        "url": "https://www.gutenberg.org/ebooks/2800"
+      },
+      "license": "Public domain (translation 1861)",
+      "summary": {
+        "en": "We appointed thirty nights for Moses, and completed them with ten, so that the term of his Lord was fulfilled — forty nights. 'And Moses said to Aaron his brother, Take my place among my people, and act rightly, and follow not the way of the mischief-makers.' He came at the appointed time and his Lord spoke with him: 'O my Lord, show me thyself, that I may look upon thee' — 'Thou shalt not see me: but look upon the mountain; if it stand firm in its place, then shalt thou see me.' And when his Lord appeared on the mountain, He made it crumble to dust, and Moses fell down in a swoon.",
+        "zh": "主為穆薩定三十夜，加以十夜成全其主之期——四十夜。穆薩囑亞倫代行善事。主期已至，主與之言語。穆薩求見主：『你必不能見我；但看那座山，若山堅立原處，你便得見。』主顯現於山時，山化為塵，穆薩昏倒於地。"
+      },
+      "motifs": [
+        "theophany",
+        "oracle-divination",
+        "quest-immortality",
+        "hero-death-return"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Sacred text of a living tradition; the theophany at Sinai; public-domain translation."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "And We appointed thirty nights for Moses, and completed them with ten; and the term of his Lord was fulfilled, forty nights. And Moses said to Aaron his brother, 'Take my place among my people, and act rightly, and follow not the way of the mischief-makers.' And when Moses came at Our appointed time, and his Lord spoke with him, he said, 'O my Lord, show me thyself, that I may look upon thee.' He said, 'Thou shalt not see me: but look upon the mountain; if it stand firm in its place, then shalt thou see me.'",
+          "note": "Paraphrase of Qur'an 7:142-143 (Rodwell 1861); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "And when his Lord appeared on the mountain, He made it crumble to dust, and Moses fell down in a swoon. And when he came to himself he said, 'Glory to Thee! I turn to Thee in repentance, and I am the first of believers.' And God said, 'O Moses, I have chosen thee above mankind by My messages and by My speaking to thee: take what I have given thee, and be of the thankful.' And We ordained for him in the tables admonition concerning all things, and clear directions of all things; 'Take them with strength, and command thy people to observe the best of them... And I will show thee the dwelling of the wicked.'",
+          "note": "Paraphrase of Qur'an 7:143-145 (Rodwell 1861); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "And We wrote for him upon the tables an admonition concerning all things, and an explanation of all things. We said, 'Take them with strength, and command thy people to observe the best of them.' And I will show thee the abode of the wicked.",
+          "note": "Paraphrase of Qur'an 7:145 (Rodwell 1861); not verbatim."
+        }
+      ],
+      "persons": [
+        "musa",
+        "harun"
+      ]
+    },
+    {
+      "id": "quran-dawud-goliath",
+      "title": {
+        "en": "Talut's Army and the Slingstone of Dawud",
+        "zh": "塔魯特之軍與達五德的石彈"
+      },
+      "tradition": "islamic",
+      "category": "myth-religion",
+      "region": {
+        "en": "Valley of Tannin, Judah (traditional site of the duel; symbolic pin)",
+        "zh": "猶地亞坦寧谷（傳統對決地；象徵性定位）"
+      },
+      "lat": 31.7,
+      "lon": 35.1,
+      "period": "Qur'an revealed c. 610-632 CE; Surah al-Baqarah 2:246-251; Rodwell 1861",
+      "source": {
+        "archive": "Project Gutenberg",
+        "work": "The Koran (Al-Qur'an), trans. J. M. Rodwell, 1861, Sura 2:246-251",
+        "url": "https://www.gutenberg.org/ebooks/2800"
+      },
+      "license": "Public domain (translation 1861)",
+      "summary": {
+        "en": "The chiefs of Israel demand a king: 'Why should we not fight for the path of God when we are driven forth from our dwellings and our children?' Their prophet answers that God has set up Talut, 'the wealthy among you in wealth and person.' They protest his wealth; the sign of the Ark is given — tranquillity from the Lord, the relics of the house of Moses and Aaron borne by angels. Talut tests them at the river: those who drink are not of him, save those who take a handful. Dawud, a youth, slays Jalut (Goliath); God gives him the kingdom and wisdom, and teaches him what He wills.",
+        "zh": "以色列首領求王：『主道臨頭，為何不戰？』先知答：主已立塔魯特為王。眾以其富有而不滿；約櫃為兆——主的安寧與穆薩亞倫家眷的遺物，由天使抬來。塔魯特於河邊考驗軍隊；飲者非其人，僅手掬者除外。少年達五德擊斃 Jalut（歌利亞）；主賜其國與智慧。"
+      },
+      "motifs": [
+        "sacred-kingship",
+        "culture-hero",
+        "boon-curse",
+        "relics"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Sacred text of a living tradition; public-domain translation; the Qur'anic account of Talut/Dawud differs in details from 1 Samuel."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "And did you not know the chiefs of the children of Israel, after Moses, when they said to a prophet of theirs, 'Raise up for us a king, and we will fight for the cause of God'? He said, 'May it not be that when fighting is ordained for you, ye will not fight?' They said, 'And why should we not fight for the cause of God, since we are driven forth from our dwellings and our children?' And when fighting was commanded for them they turned back, except a few of them. And God knoweth the doers of wrong.",
+          "note": "Paraphrase of Qur'an 2:246 (Rodwell 1861); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "And their prophet said to them, 'God hath raised Talut to be your king.' They said, 'How shall he be king over us? We have a better right to kingship than he, and he is not gifted with abundance of wealth.' He said, 'God hath chosen him before you, and hath increased him largely in knowledge and person: and God bestoweth His kingdom on whom He pleaseth; and God is ample in bounty, and He knoweth all.' And their prophet said to them, 'Now shall the sign of his kingdom be, that a coffer shall come unto you in which is tranquillity from your Lord, and the relics left by the family of Moses and the family of Aaron, borne by the angels: herein shall be a sign to you if ye are believers.'",
+          "note": "Paraphrase of Qur'an 2:247-248 (Rodwell 1861); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "And when Talut had marched forth with his forces he said, 'God will prove you at the river: he who drinketh of it shall not be of me, but he who tasteth it not, he shall be of me.' And they drank thereof, except a few of them. And when he had crossed it, he and those who believed with him, they said, 'We have no power this day against Jalut and his forces.' But they who held that they should one day meet God said, 'How many a small band hath overcome a numerous host, by the help of God! for God is with the patient.' And when they went forth against Jalut and his forces they said, 'O our Lord, pour out constancy upon us, and make us firm of foot, and help us against the unbelievers.' And they put them to flight by the help of God: and David slew Jalut; and God gave him the kingdom, and wisdom, and taught him what He would.",
+          "note": "Paraphrase of Qur'an 2:249-251 (Rodwell 1861); not verbatim."
+        }
+      ],
+      "persons": [
+        "dawud"
+      ]
+    },
+    {
+      "id": "quran-dawud-two-litigants",
+      "title": {
+        "en": "The Two Litigants at Dawud's Door",
+        "zh": "達五德門前的兩個訴訟者"
+      },
+      "tradition": "islamic",
+      "category": "myth-religion",
+      "region": {
+        "en": "Jerusalem, court of David (literal pin)",
+        "zh": "耶路撒冷達五德宮廷（實際定位）"
+      },
+      "lat": 31.78,
+      "lon": 35.22,
+      "period": "Qur'an revealed c. 610-632 CE; Surah Sad 38:21-26; Rodwell 1861",
+      "source": {
+        "archive": "Project Gutenberg",
+        "work": "The Koran (Al-Qur'an), trans. J. M. Rodwell, 1861, Sura 38:21-26",
+        "url": "https://www.gutenberg.org/ebooks/2800"
+      },
+      "license": "Public domain (translation 1861)",
+      "summary": {
+        "en": "Has there come to thee the story of the two litigants who climbed the wall into the chamber? When they went in to Dawud and he feared them, they said, 'Fear not: we are two litigants — one of us hath wronged the other: judge between us with truth, and deviate not from the right, and guide us to the even way. This my brother hath ninety and nine sheep, and I have one; and he hath made me give up my own sheep, and hath prevailed against me in argument.' Dawud judges that he hath wronged — and sees that it is his own trial. He asks pardon of his Lord, falls down prostrate, and turns to Him.",
+        "zh": "訴訟者二人攀牆入室的故事。二人入見達五德，他畏懼；他們說：『勿懼：我們是訴訟者——我倆之一欺負了另一個。這兄弟有九十九隻母羊，我只一隻，他卻要佔有我的，並以言辭勝我。』達五德斷其為欺——方知此乃自己的考驗。他求主赦宥，俯首叩拜，而悔悟歸主。"
+      },
+      "motifs": [
+        "oracle-divination",
+        "taboo-transgression",
+        "sacred-kingship"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Sacred text of a living tradition; the parable-episode underlies tafsir discussions of David's affair with Bathsheba; public-domain translation."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "And has the story of the two disputants come to thee, when they mounted the wall of the upper chamber? When they went in to David and he was alarmed at them, they said, 'Fear not: we are two litigants; one of us hath wronged the other: judge thou between us with truth, and deviate not from what is right, and guide us to the even way. Verily this my brother hath ninety and nine sheep, and I have one sheep; and he hath said, Make it over to me, and hath pressed me hard in the matter.'",
+          "note": "Paraphrase of Qur'an 38:21-23 (Rodwell 1861); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "David said, 'He hath surely wronged thee in asking thine ewe to add to his own ewes: and many of those who share the same calling act unjustly among their fellows, save those who believe and work righteousness: and few are they! And David saw that we had made trial of him, and he asked pardon of his Lord, and fell down prostrate and repented.",
+          "note": "Paraphrase of Qur'an 38:24 (Rodwell 1861); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "So we forgave him this fault; and truly his lot with Us shall be blessed, and a happy resting-place. We said, 'O David! we have made thee a vicegerent on earth: judge therefore between men with truth, and follow not thy desire, for it will lead thee astray from the path of God: for they who go astray from the path of God shall be sorely punished, because they have forgotten the day of account.'",
+          "note": "Paraphrase of Qur'an 38:25-26 (Rodwell 1861); not verbatim."
+        }
+      ],
+      "persons": [
+        "dawud"
+      ]
+    },
+    {
+      "id": "quran-sulayman-wind-jinn",
+      "title": {
+        "en": "The Wind, the Brass, and the Termites of Sulayman's Death",
+        "zh": "風、熔銅與白蟻：蘇萊曼之死"
+      },
+      "tradition": "islamic",
+      "category": "myth-religion",
+      "region": {
+        "en": "Solomon's court at Jerusalem (literal pin)",
+        "zh": "耶路撒冷蘇萊曼宮廷（實際定位）"
+      },
+      "lat": 31.78,
+      "lon": 35.22,
+      "period": "Qur'an revealed c. 610-632 CE; Surahs Saba 34:12-14, Sad 38:34-40; Rodwell 1861",
+      "source": {
+        "archive": "Project Gutenberg",
+        "work": "The Koran (Al-Qur'an), trans. J. M. Rodwell, 1861, Sura 34:12-14",
+        "url": "https://www.gutenberg.org/ebooks/2800"
+      },
+      "license": "Public domain (translation 1861)",
+      "summary": {
+        "en": "The wind is made subject to Solomon: its morning course a month's journey, its evening course a month's; a fountain of molten brass is made to flow at his word; the jinn build for him palaces, images, basins as large as reservoirs and cooking-pots firmly fixed. When We decreed that he should die, nothing told them of his death but the creeping thing of the earth that gnawed his staff; and when he fell down, the jinn saw plainly that had they known the Unseen, they would not have continued in the humiliating punishment. And he turned away from us displeased, and We tried him with an affliction.",
+        "zh": "風受制於蘇萊曼：晨行一月之程，暮行一月之程；熔銅之泉因他而流；精靈為他建宮殿、雕像、大如水池的銅盆與固定的烹鍋。主命其死時，除土中爬蟲啃其杖外，無人知其死；他倒下，精靈方知——若知幽玄，必不居辱刑。他轉身棄主而不悅，主試之以災。"
+      },
+      "motifs": [
+        "sacred-kingship",
+        "oracle-divination",
+        "spirit-possession"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Sacred text of a living tradition; public-domain translation; the death-by-termite legend comes from tafsir expansion."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "And We made the wind subject to Solomon; its morning course was a month's journey, and its evening course a month's journey: and We made a fountain of molten brass to flow for him; and of the jinn were some who wrought for him by his Lord's permission; and whoever of them swerved aside from Our command, him will We cause to taste of the burning flame. They made for him what he would, synagogues, and images, and basins as large as reservoirs, and cooking-pots firmly fixed.",
+          "note": "Paraphrase of Qur'an 34:12-13 (Rodwell 1861); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "And when We had decreed that he should die, nothing informed them of his death, save the creeping thing of the earth which ate up his staff; and when he fell down, the jinn saw plainly that if they had known that which is hidden, they would not have remained in base and ignominious servitude. And he turned himself away from us displeased, and We tried him with affliction.",
+          "note": "Paraphrase of Qur'an 34:14 (Rodwell 1861); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "And we had already tried the man Solomon, and placed a body on his throne: then did he turn to Us in penitence. He said, 'O my Lord, pardon me, and give me a kingdom which may not be to anyone after me: for Thou art the liberal Bestower.' So We made the wind subject to him, that it ran softly at his bidding whithersoever he directed it; and the demons, every builder and diver, and others chained together. 'This is Our gift: give freely or withhold, as thou wilt, without rendering account.'",
+          "note": "Paraphrase of Qur'an 38:34-40 (Rodwell 1861); not verbatim."
+        }
+      ],
+      "persons": [
+        "sulayman"
+      ]
+    },
+    {
+      "id": "quran-sulayman-hoopoe-bilqis",
+      "title": {
+        "en": "The Hoopoe, the Ants, and the Throne of Sheba",
+        "zh": "戴勝鳥、螞蟻與示巴王后之座"
+      },
+      "tradition": "islamic",
+      "category": "myth-religion",
+      "region": {
+        "en": "Saba / Sheba and Jerusalem (symbolic pin between the two)",
+        "zh": "示巴與耶路撒冷之間（象徵性定位）"
+      },
+      "lat": 24.0,
+      "lon": 40.0,
+      "period": "Qur'an revealed c. 610-632 CE; Surah al-Naml 27:15-44; Rodwell 1861",
+      "source": {
+        "archive": "Project Gutenberg",
+        "work": "The Koran (Al-Qur'an), trans. J. M. Rodwell, 1861, Sura 27:15-44",
+        "url": "https://www.gutenberg.org/ebooks/2800"
+      },
+      "license": "Public domain (translation 1861)",
+      "summary": {
+        "en": "We taught Solomon the language of birds. An army of birds is marshalled before him; the hoopoe brings news from Saba of a queen upon a magnificent throne and a sun-worshipping people. Solomon sends a letter: 'In the name of the merciful God — make not yourselves proud against me, but come to me in submission.' The queen sends a gift; Solomon refuses it — 'what God hath given me is better than what he hath given you.' The throne is brought — 'make it like hers before she comes' — and it is done in a twinkling. She enters the palace of glass: 'My Lord, I have been of the unjust: I submit with Solomon to the Lord of all creatures.'",
+        "zh": "主教蘇萊曼通鳥語。群鳥集於其前；戴勝鳥自示巴報訊：有一女王，寶座壯麗，民拜太陽。蘇萊曼致書：『奉至仁主之名——勿傲慢，當順服而來。』女王饋禮；蘇萊曼拒之——『主所賜我者勝於賜你者。』寶座被運——『在她來前使其相似』——瞬息即成。她入玻璃宮：『我的主，我確是不義的：我與蘇萊曼一同順服萬物之主。』"
+      },
+      "motifs": [
+        "sacred-kingship",
+        "oracle-divination",
+        "parable-teaching",
+        "animal-language"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Sacred text of a living tradition; public-domain translation; the Bilqis episode is central to Arabic qisas lore."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "And We gave unto David and Solomon knowledge of the subtle things, and they both said, 'Praise be to God who hath made us excel many of his believing servants!' And Solomon was David's heir; and he said, 'O men, we have been taught the speech of birds, and have had everything given to us: this is the manifest excellence.' And there were marshalled before Solomon his armies of the jinn and men and birds; and they were formed into bands.",
+          "note": "Paraphrase of Qur'an 27:15-17 (Rodwell 1861); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Until they came to the valley of the ants: an ant said, 'O ants, enter ye into your abodes, lest Solomon and his armies crush you and perceive it not.' And Solomon smiled at her words. And he said, 'O my Lord, quicken me that I may be thankful for Thy favours... and make me one of thy righteous servants.' And he observed among the birds, and said, 'Why see I not the lapwing? Is he absent? I will surely punish him with a severe punishment, or I will slay him — unless he bring me a just excuse.' And he tarried not long, and said, 'I have found out that which thou knowest not; and I come to thee from Saba with sure tidings. I found a woman ruling over them, provided with everything, and having a magnificent throne: and I found her and her people adoring the sun instead of God, and Satan hath made their works fair seeming to them.'",
+          "note": "Paraphrase of Qur'an 27:18-24 (Rodwell 1861); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "And Solomon said, 'I will send to them a present, and will wait to see what the messengers shall bring back.' And when the messenger came to her she said, 'If it be that ye have gifts to offer, I will not accept them... Make it like her throne before she come to me in submission.' And when she came, it was said to her, 'Is this thy throne?' She said, 'As though it were the same.' And she was told, 'Enter the palace'; and when she saw it she thought it a sheet of water, and bared her legs. Then she said, 'O Solomon, I have done wrong to myself, and I submit with Solomon to God the Lord of all creatures.'",
+          "note": "Paraphrase of Qur'an 27:35-44 (Rodwell 1861); not verbatim."
+        }
+      ],
+      "persons": [
+        "sulayman"
+      ]
+    },
+    {
+      "id": "quran-dhul-qarnayn",
+      "title": {
+        "en": "Dhul-Qarnayn: West, East, and the Wall of Gog and Magog",
+        "zh": "左勒蓋爾奈英：西行、東行與雅朱者牆"
+      },
+      "tradition": "islamic",
+      "category": "myth-religion",
+      "region": {
+        "en": "Setting and rising places of the sun, Caucasus pass (symbolic pin)",
+        "zh": "日沉日升之地與高加索隘口（象徵性定位）"
+      },
+      "lat": 42.0,
+      "lon": 46.0,
+      "period": "Qur'an revealed c. 610-632 CE; Surah al-Kahf 18:83-98; Rodwell 1861",
+      "source": {
+        "archive": "Project Gutenberg",
+        "work": "The Koran (Al-Qur'an), trans. J. M. Rodwell, 1861, Sura 18:83-98",
+        "url": "https://www.gutenberg.org/ebooks/2800"
+      },
+      "license": "Public domain (translation 1861)",
+      "summary": {
+        "en": "They will ask thee about Dhul-Qarnayn ('the two-horned'). He journeyed westward to where the sun sets, and found it set in a spring of black mud; there he found a people: 'God,' he says, 'will punish or reward; we only speak justly.' Then the rising place of the sun, upon a people exposed to the sun's heat. Then he journeyed between two mountains, where he found a people who could hardly understand speech: 'Build thee a rampart between us and Gog and Magog.' He asks for labour — blocks of iron poured over with molten copper; and he says: 'This is a mercy from my Lord; but when the promise of my Lord shall come, He shall reduce it to dust; for the promise of my Lord is true.'",
+        "zh": "他們問左勒蓋爾奈英（雙角者）。他西行至日落處，見其落入黑泥之泉；遇一民：『主或懲或賞；我只秉公而言。』後至日升處，遇無遮蔽於日光之民。再至兩山之間，遇幾不解語之民：『在雅朱者與馬朱者之間為我築一障。』他求勞力——鐵塊熔銅灌注；『此乃我主的恩慈；我主之期一至，他必使之化為塵土。』"
+      },
+      "motifs": [
+        "foundational-legend",
+        "quest-immortality",
+        "world-renewal",
+        "sacred-direction"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Sacred text of a living tradition; identifications with Alexander the Great are a matter of tafsir debate; public-domain translation."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "And they will ask thee concerning Dhul-Karnain. Answer, 'I will rehearse to you an account of him.' We made him mighty in the earth, and endowed him with a means to accomplish everything. And he journeyed on a certain journey until he came to the setting place of the sun, and found it to set in a muddy black spring, and found a people near it; and We said, 'O Dhul-Karnain, either chastise this people, or use thy generous treatment towards them.' He said, 'Whoever committeth evil shall be punished, and when he shall be taken away to his Lord, He shall punish him with a punishment which shall not be repeated; but as for him who believeth and worketh righteousness, he shall receive the best of rewards.'",
+          "note": "Paraphrase of Qur'an 18:83-88 (Rodwell 1861); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "And he pursued his journey another way. And when he came to the rising-place of the sun, he found it to rise on a people for whom We had provided no shelter from it. And he journeyed on a third journey, till he came between two mountains, and found a people who could hardly understand speech. They said, 'O Dhul-Karnain, verily Gog and Magog shall waste this land: shall we therefore pay thee tribute, on condition that thou build a rampart between us and them?' He said, 'Better than your tribute is the might wherewith my Lord hath strengthened me: help me therefore with strength, and I will set a rampart between you and them.'",
+          "note": "Paraphrase of Qur'an 18:89-95 (Rodwell 1861); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "Bring me iron in abundance; and when they had filled up the space between the two sides of the mountain, he said, 'Blow with your bellows'; and when he had made it red like fire he said, 'Bring me molten brass that I may pour over it.' And they were not able to scale it, nor could they dig through it. And he said, 'This is a mercy from my Lord: but when the promise of my Lord cometh, He shall make it dust; for the promise of my Lord is sure.'",
+          "note": "Paraphrase of Qur'an 18:96-98 (Rodwell 1861); not verbatim."
+        }
+      ],
+      "persons": [
+        "dhul-qarnayn"
+      ]
+    },
+    {
+      "id": "quran-people-cave",
+      "title": {
+        "en": "The Sleepers of the Cave and Their Dog",
+        "zh": "山洞的沉睡者與其犬"
+      },
+      "tradition": "islamic",
+      "category": "myth-religion",
+      "region": {
+        "en": "Cave site above Ephesus / Jordan (symbolic pin)",
+        "zh": "以弗所／約旦洞穴（象徵性定位）"
+      },
+      "lat": 37.9,
+      "lon": 27.3,
+      "period": "Qur'an revealed c. 610-632 CE; Surah al-Kahf 18:9-26; Rodwell 1861",
+      "source": {
+        "archive": "Project Gutenberg",
+        "work": "The Koran (Al-Qur'an), trans. J. M. Rodwell, 1861, Sura 18:9-26",
+        "url": "https://www.gutenberg.org/ebooks/2800"
+      },
+      "license": "Public domain (translation 1861)",
+      "summary": {
+        "en": "The youths who fled to the cave, 'O our Lord, grant us mercy from Thee, and prepare for us our affair aright'; and We drew a veil over their ears for years in the cave. They wake in confusion: 'How long have ye tarried here? — a day, or part of a day.' The number is known to God: 'God knoweth best how long they tarried: His are the secrets of the heavens and the earth.' The sun rises and declines on the right side and the left; the dog stretcheth out its paws in the opening. Say, 'God is best aware how long they tarried: His are the secrets of the heavens and the earth; He is the Seeing, the Hearing!'",
+        "zh": "避居山洞的少年們祈禱：『主啊，賜我們恩慈，使我們的事務得正。』主以數年遮蔽其耳於洞中。他們醒來問：『我們住了多久？——一日或半日。』主知其數：『你們的主最知道他們所留的時期。』太陽在洞的右邊左邊升降；犬張爪於洞口。『主最知其時期；諸天與地的秘密屬於祂。』"
+      },
+      "motifs": [
+        "resurrection",
+        "quest-immortality",
+        "oracle-divination"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Sacred text of a living tradition; the Seven Sleepers legend shared with Christianity is reworked in the Qur'an; public-domain translation."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Now have We set forth to thee a parable of the men who were to be saved? They said, 'Why doth a messenger preach to us?' We said to those who disbelieved them, 'They have perished.' And the men said, 'Go to the cave: your Lord will pour out His mercy upon you, and prepare for you a provision for your journey.' And We drew a veil over their ears, for a number of years, in the cave, and We wakened them again: and We said, 'How long have ye tarried here?' They said, 'A day, or part of a day.' They said, 'Your Lord knoweth best how long ye have tarried: now send one of you with this your coin into the city; and let him find out who therein hath purest food, and let him bring you provision of it; and let him be courteous, and let him not discover you to anyone.'",
+          "note": "Paraphrase of Qur'an 18:9-19 (Rodwell 1861); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "And thou mightest have seen the sun when it arose decline to the right of their cave, and when it went down leave them on the left, while they were in its spacious chamber: this is one of the signs of God. And thou mightest have seen the dog that kept them stretching out its paws in the opening: and hadst thou come upon them thou wouldest surely have turned thy back on them in flight, and have been filled with fear of them. And thus did We rouse them that they might question one another. One of them said, 'How long have ye tarried here?' They said, 'We have tarried a day, or part of a day.' They said, 'Your Lord knoweth best how long ye have tarried: His are the secrets of the heavens and of the earth: He is the Seeing One, the Hearer!'",
+          "note": "Paraphrase of Qur'an 18:17-19 (Rodwell 1861); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "They will dispute concerning them among themselves: and they will say, 'Three: and their dog was the fourth.' And others will say, 'Five: and their dog the sixth.' And some will say, 'Seven: and their dog the eighth.' Say, 'My Lord best knoweth the number of them: none but a few shall know them.' Therefore cavil not about them, but ask directions of none in the matter; and say not of anyone of them, 'I will surely place him in Paradise.' And they said, 'We have built a place of worship over them.'",
+          "note": "Paraphrase of Qur'an 18:22-23 (Rodwell 1861); not verbatim."
+        }
+      ],
+      "persons": []
+    },
+    {
+      "id": "quran-luqman-teaches",
+      "title": {
+        "en": "Luqman's Counsels to His Son",
+        "zh": "魯格曼對其子之訓誡"
+      },
+      "tradition": "islamic",
+      "category": "myth-religion",
+      "region": {
+        "en": "Land of wisdom-teaching, Nubia/Arabia (symbolic pin)",
+        "zh": "智慧傳授之地，努比亞／阿拉伯（象徵性定位）"
+      },
+      "lat": 20.0,
+      "lon": 35.0,
+      "period": "Qur'an revealed c. 610-632 CE; Surah Luqman 31:12-19; Rodwell 1861",
+      "source": {
+        "archive": "Project Gutenberg",
+        "work": "The Koran (Al-Qur'an), trans. J. M. Rodwell, 1861, Sura 31:12-19",
+        "url": "https://www.gutenberg.org/ebooks/2800"
+      },
+      "license": "Public domain (translation 1861)",
+      "summary": {
+        "en": "We bestowed wisdom on Luqman, saying, 'Give thanks to God'; for whoever giveth thanks, giveth thanks for his own soul. 'O my son, join not gods with God, for idolatry is a great sin.' 'O my son, though the good works thou hast done were but the grain of a mustard-seed, and hid in a rock, or in the heavens, or in the earth, God will bring them to light: for God is sagacious and aware. Be constant in prayer, and enjoin the right, and forbid the wrong, and endure patiently whatever befall thee... And be not sparing in walking the earth, nor arrogant: for God loveth not any arrogant, boasting one. Be moderate in thy carriage, and subdue thy voice; for the most disagreeable of voices is the braying of the ass.'",
+        "zh": "主授魯格曼智慧：『當感謝真主。』——『子啊，勿以物配主；配主確是大罪。』『子啊，你的善行縱如芥子之微，藏於磐石之中、天中地中，主必顯現之。』『當守拜功，勸善戒惡，堅忍一切變故……行路勿驕傲；主不喜傲慢誇口者。行走當適中，聲音當低沉；最難聽的聲音，確是驢的叫聲。』"
+      },
+      "motifs": [
+        "parable-teaching",
+        "culture-hero",
+        "ritual-origin",
+        "prayer"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Sacred text of a living tradition; Luqman is a wisdom-figure of qisas lore; public-domain translation."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "And we gave unto Luqman wisdom: 'Give thanks unto God; for whoever giveth thanks, giveth thanks for the good of his own soul; and whoever disbelieveth... verily God is self-sufficient and to be praised.' And when Luqman said to his son, as he admonished him, 'O my son, join not gods with God, for idolatry is a great sin.'",
+          "note": "Paraphrase of Qur'an 31:12-13 (Rodwell 1861); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "And we have enjoined man to be kind to his parents: but if they endeavour to persuade thee to join with Me that of which thou hast no knowledge, obey them not. And have kindness towards them in the world's life; but follow Me in the way that is right. To Me shall ye return: and I will declare to you what ye have done. And Luqman said, 'O my son, though the good works thou hast done were but the grain of a mustard-seed, and hid in a rock, or in the heavens, or in the earth, God will bring them to light: for God is sagacious and aware of all things.'",
+          "note": "Paraphrase of Qur'an 31:14-16 (Rodwell 1861); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "O my son, be constant in prayer, and enjoin that which is right, and forbid that which is wrong, and endure patiently whatever befalleth thee: for this is a bounden duty. And be not sparing in thy discourse, nor arrogant: for God loveth not any one who is proud, boaster. And be moderate in thy carriage, and subdue thy voice; for the most disagreeable of voices is that of the ass.",
+          "note": "Paraphrase of Qur'an 31:17-19 (Rodwell 1861); not verbatim."
+        }
+      ],
+      "persons": []
+    }
+  ]
+}

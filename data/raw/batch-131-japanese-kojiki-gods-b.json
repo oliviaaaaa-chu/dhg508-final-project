@@ -1,0 +1,761 @@
+{
+  "texts": [
+    {
+      "id": "japanese-white-hare-inaba",
+      "title": {
+        "en": "The White Hare of Inaba and the Deity Great-Name-Possessor",
+        "zh": "因幡之白兔與大己貴神"
+      },
+      "tradition": "japanese",
+      "category": "myth",
+      "region": {
+        "en": "Inaba and Cape Keta (pin at Izumo; symbolic pin for the hare's crossing)",
+        "zh": "因幡與氣多岬（出雲象徵性定位）"
+      },
+      "lat": 35.36,
+      "lon": 132.76,
+      "period": "Kojiki compiled 712 CE (trans. Chamberlain 1882)",
+      "source": {
+        "archive": "Wikisource",
+        "work": "Kojiki, trans. Basil Hall Chamberlain (1882)",
+        "url": "https://en.wikisource.org/wiki/Kojiki_(Chamberlain,_1882)"
+      },
+      "license": "Public domain (translation 1882)",
+      "summary": {
+        "en": "A hare deceives the crocodiles of the sea into forming a bridge, is flayed by the last of them, and is cruelly worsened by the eighty deities; the deity Great-Name-Possessor (Okuninushi) teaches him the true cure, and the healed hare prophesies that Okuninushi alone shall win the Princess of Yakami.",
+        "zh": "白兔欺騙海中鱷魚列身為橋，被末尾鱷魚剝去皮毛；八十神教以海水曝風之法，傷勢愈重；大己貴神授以清水漱洗、蒲黃敷身之方，兔身復原，遂預言八十神必不得八上比賣，唯大己貴神可娶之。"
+      },
+      "motifs": [
+        "trickster",
+        "transformation",
+        "rabbit-hare-trickster",
+        "miracle-cure"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient Japanese court myth (Kojiki); passages are condensed paraphrases of public-domain translations, presented for comparative mythology. The trickster-hare reading is interpretive."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The hare who had lost his own home island had no means of crossing over to Inaba. For this reason he deceived the crocodiles of the sea, saying: Let you and me compete, and compute the numbers of our respective tribes. Go and fetch every member of your tribe, and make them all lie in a row across from this island to Cape Keta; then I will tread on them and count them as I run across, and we shall know whether my tribe or yours is the larger. They were deceived and lay down in a row, and the hare trod on them, counting as he went. But just as he was about to step on land he shouted that they had been deceived by him, and the last crocodile in the line seized him and stripped off all his clothing, leaving his raw skin bare.",
+          "note": "Paraphrase of Kojiki, pp. 154-155 (trans. Chamberlain 1882); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Weeping and lamenting in his flayed state, the hare was met by the eighty deities going on ahead, who commanded and exhorted him: Bathe in the salt water, and lie down exposed to the wind. He did as they said, and his whole body was only hurt the more. Then the deity Great-Name-Possessor, who was following behind carrying his brothers' luggage, saw him and taught him the remedy: Go quickly to the river-mouth, wash your body with the fresh water, then take the pollen of the sedges growing at the river-mouth, spread it about, and roll upon it. The hare did as he was instructed, and his body was restored to its original state. This was the White Hare of Inaba, now called the Hare Deity.",
+          "note": "Paraphrase of Kojiki, p. 155 (trans. Chamberlain 1882); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "The hare then spoke to the deity Great-Name-Possessor a prophecy: These eighty deities shall certainly not get the Princess of Yakami. Though you carry their bag, Your Highness shall obtain her. When the princess herself was asked, she answered the eighty deities: I will not listen to your words; I mean to marry the deity Great-Name-Possessor. So the eighty deities, enraged, took counsel together to slay him — the beginning of the persecutions that drove Okuninushi down to the Nether-Distant-Land.",
+          "note": "Paraphrase of Kojiki, pp. 155-156 (trans. Chamberlain 1882); not verbatim."
+        }
+      ],
+      "persons": [
+        "japanese-okuninushi",
+        "japanese-yakamihime",
+        "japanese-hare-inaba"
+      ]
+    },
+    {
+      "id": "japanese-okuninushi-ne-no-kuni",
+      "title": {
+        "en": "Okuninushi's Journey to the Nether-Distant-Land: Persecution, Ordeals, and Flight with the Treasures",
+        "zh": "大己貴神遠訪根之堅洲國：迫害、考驗與攜寶而逃"
+      },
+      "tradition": "japanese",
+      "category": "myth",
+      "region": {
+        "en": "Ne-no-katsu-kuni, the Nether-Distant-Land where Susanoo dwells (symbolic pin at an inland neutral spot)",
+        "zh": "根之堅洲國，須佐之男命所居之冥遠之國（象徵性定位）"
+      },
+      "lat": 35.1,
+      "lon": 134.0,
+      "period": "Kojiki compiled 712 CE (trans. Chamberlain 1882)",
+      "source": {
+        "archive": "Wikisource",
+        "work": "Kojiki, trans. Basil Hall Chamberlain (1882)",
+        "url": "https://en.wikisource.org/wiki/Kojiki_(Chamberlain,_1882)"
+      },
+      "license": "Public domain (translation 1882)",
+      "summary": {
+        "en": "Persecuted by his eighty brothers and twice killed and revived, the deity Great-Name-Possessor flees to the Nether-Distant-Land, marries Susanoo's daughter the Forward-Princess (Suseri-hime), survives the snake-house, wasp-house and burning-moor ordeals, and escapes with the life-sword, life-bow-and-arrows and speaking-lute; Susanoo, pursuing him to the Even Pass of Hades, blesses him to become Master of the Great Land and husband of Suseri-hime.",
+        "zh": "大己貴神屢遭八十神殘害，兩度被害而兩度復生；母命其遠走根之堅洲國，謁須佐之男命。與其女須勢理毘賣一見成婚，歷蛇屋、蚰蜒蜂屋、火燒原諸難，得鼠之助；乘翁熟睡，縛其髮於椽，負妻攜生大刀、生弓矢與鳴琴而逃。須佐之男追至黃泉平坂，遙呼而祝之：持此劍弓驅逐八十神，成大國主神、活土神，以須勢理毘賣為妻。遂逐八十神於阪途河曲，始作國土。"
+      },
+      "motifs": [
+        "descent-underworld",
+        "resurrection",
+        "sibling-creators",
+        "divine-marriage"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient Japanese court myth (Kojiki), central to the Izumo shrine tradition; passages are condensed paraphrases of public-domain translations, presented for comparative mythology."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "When the Princess of Yakami declared she would marry the deity Great-Name-Possessor and none of the eighty deities, they resolved to slay him. On Mount Tema in the land of Hahaki they told him: On this mountain there is a red boar; when we drive it down, catch it, or we will kill you. Then they took fire, burned a great stone into the likeness of a boar, and rolled it down; he caught it, was burned by it, and died. His mother went up to Heaven and entreated the Divine-Producing-Wondrous-Augustness, who sent Princess Cockle-Shell and Princess Clam to bring him to life: one scorched her shell, the other smeared him as with mother's milk, and he became a beautiful young man. The eighty deities again deceived him, led him into the mountains, drove a wedge into a large cut tree, made him stand in the gap, and pulled the wedge out, torturing him to death. His mother cleaved the tree, took him out and revived him a second time, and sent him swiftly to the Deity Great-House-Prince in the land of Ki; still pursued, he escaped by dipping under the fork of a tree.",
+          "note": "Paraphrase of Kojiki, pp. 156-157 (trans. Chamberlain 1882); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "The Deity Great-House-Prince counseled him: You must set off to the Nether-Distant-Land where dwells His Impetuous-Male-Augustness; that Great Deity will certainly counsel you. So Great-Name-Possessor obeyed and journeyed to the august place of the Impetuous-Male-Deity. At the gate he met the Impetuous-Male-Deity's daughter, the Forward-Princess; they exchanged glances and were married, and she went in and told her father that a very beautiful deity had come. The Great Deity went out, looked, and said: This is the Ugly-Male-Deity-of-the-Reed-Plains — and at once made him sleep in the snake-house. His wife gave her husband a snake-scarf: When the snakes are about to bite, drive them away by waving this scarf three times. He did so, the snakes grew quiet, and he came out after calm slumbers. On the next night his father-in-law shut him in the centipede-and-wasp house, but she gave him a centipede-and-wasp scarf, and again he came out unharmed.",
+          "note": "Paraphrase of Kojiki, pp. 157-159 (trans. Chamberlain 1882); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "The Impetuous-Male-Deity then shot a whizzing barb into the middle of a great moor and sent his son-in-law to fetch it; when the young deity had entered the moor, fire was set burning all around it, and he stood knowing no place of exit. A mouse came and said: The inside is hollow-hollow; the outside is narrow-narrow. He trod where it pointed, fell through, and hid while the fire burnt past; then the mouse brought the barb in its mouth, and all the mouse's children carried the feathers. His wife came out bearing mourning-implements and weeping, for she believed him dead; her father too went out upon the moor thinking him done for — and the young deity presented the arrow alive. Taking him into the house, the Great Deity seated him in an eight-foot spaced room and had him pick the lice from his head; but the head swarmed with centipedes. His wife gave him berries of the muku tree and red earth, and he chewed the berries and spat them out with the earth, so that his father-in-law believed him to be chewing up and spitting out the centipedes, grew fond of him, and fell asleep.",
+          "note": "Paraphrase of Kojiki, pp. 159-160 (trans. Chamberlain 1882); not verbatim."
+        },
+        {
+          "id": "4",
+          "text": "Then Great-Name-Possessor grasped the Great Deity's hair and tied it fast to the rafters, blocked up the floor with a rock of five hundred men's draught, took his wife Suseri-hime on his back, and carried off the great life-sword, the life-bow-and-arrows, and the heavenly speaking-lute, and ran out. But the lute brushed against a tree and the earth resounded; the sleeping Great Deity pulled down the house, and while he disentangled his hair from the rafters the fugitive fled far away. Pursuing him to the Even Pass of Hades, he gazed from afar and called out: With the great life-sword and life-bow-and-arrows you carry, pursue your half-brethren till they crouch on the slopes of the passes and are swept into the rivers; and do you, wretch, become the Deity Master-of-the-Great-Land and the Deity Spirit-of-the-Living-Land; make my daughter the Forward-Princess your consort, and dwell there, you villain. So, bearing the sword and bow, he scattered the eighty deities at every pass and river, and then he began to make the land. He brought home the Princess of Yakami as promised; but fearing Suseri-hime, she abandoned the child she had borne in a tree-fork and went back — the Tree-Fork-Deity.",
+          "note": "Paraphrase of Kojiki, pp. 160-161 (trans. Chamberlain 1882); not verbatim."
+        }
+      ],
+      "persons": [
+        "japanese-okuninushi",
+        "japanese-suserihime",
+        "susanoo",
+        "japanese-yakamihime"
+      ],
+      "language": "Old Japanese (phonetic use of Chinese characters, kanbun-style)",
+      "canonical_translation": "Basil Hall Chamberlain, A Translation of the Ko-ji-ki, Transactions of the Asiatic Society of Japan supplement, Kobe 1882 (public domain)",
+      "narrative": {
+        "en": "The Kojiki's great Izumo cycle opens with a hero made by suffering. The deity called Great-Name-Possessor — Okuninushi, the future Master of the Great Land — is first known as the youngest and least of eighty brothers, all marching to Inaba to court the Princess of Yakami. On the road the flayed White Hare of Inaba, cruelly advised by the eighty to bathe in salt water and dry in the wind, is healed by the youngest brother's counsel of fresh water and sedge pollen, and prophesies that he alone shall win the princess. The princess confirms the prophecy, and the enraged brothers begin to murder him.\n\nTHE TWO DEATHS. On Mount Tema in Hahaki the brothers decoy him with a boar of burning stone: he clutches it and is burned to death. His weeping mother ascends to Heaven and entreats the Divine-Producing-Wondrous-Deity, who sends Princess Cockle-Shell and Princess Clam; shell-ground and shell-water revive him as a beautiful youth. The brothers then lead him into the mountains, drive a wedge into a great felled tree, set him inside the cut, and withdraw the wedge, crushing him to death; his mother finds him, cleaves the tree, and revives him a second time, warning that he will be destroyed if he stays. She sends him to the Deity Great-House-Prince in the land of Ki, and from there, still pursued, he is directed onward: You must set off to the Nether-Distant-Land where dwells His Impetuous-Male-Augustness — the storm-god Susanoo — for that Great Deity will certainly counsel you.\n\nTHE DESCENT AND THE BRIDE. Okuninushi's journey to the Nether-Distant-Land (Ne-no-katsu-kuni) is a marriage-ordeal quest. At the house of Susanoo he meets the Forward-Princess, Suseri-hime; they exchange glances and are married at once. Susanoo, contemptuously calling him the Ugly-Male-Deity-of-the-Reed-Plains, sets the tests that are the myth's set-piece: first a night in the snake-house — Suseri-hime's snake-scarf, waved three times, quiets the serpents; then the centipede-and-wasp-house — disarmed by the second scarf; then the whizzing barb shot into a great moor which is fired on all sides, until a mouse directs him: The inside is hollow-hollow, the outside is narrow-narrow; he slips into the hollow earth while the fire passes over, and the mouse and its children bring back the arrow. Suseri-hime arrives with mourning-implements, weeping; her father, believing the young man dead, walks out onto the moor — and the living bridegroom presents the barb. Turned from victim to guest, Okuninushi is set to delousing Susanoo's head, which swarms with centipedes; Suseri-hime gives him muku berries and red earth to chew and spit, deceiving her father into thinking the vermin are being eaten. Fond at last, Susanoo sleeps.\n\nTHE FLIGHT AND THE BLESSING. The escape is a descent myth's return in miniature: Okuninushi ties Susanoo's hair to the rafters, blocks the floor with a five-hundred-man rock, takes Suseri-hime on his back, and carries off the three treasures — the great life-sword, the life-bow-and-arrows, and the heavenly speaking-lute. The lute brushes a tree; the earth resounds; Susanoo pulls down the house, frees his hair, and pursues the pair to the Even Pass of Hades. There, unable to cross, he calls the renunciation-blessing across the boundary: with the sword and bow pursue your half-brethren till they crouch on the slopes of the passes and are swept into the rivers; become the Deity Master-of-the-Great-Land and the Deity Spirit-of-the-Living-Land; take my daughter for your consort; build the temple-pillars on the nethermost rock-bottom and the cross-beams up to the Plain of High Heaven. Okuninushi returns with sword and bow, scatters the eighty deities at every pass and river, and begins to make the land. He marries the Princess of Yakami; fearing Suseri-hime, she abandons her child in a tree-fork — the Tree-Fork-Deity, the Deity-of-August-Wells — and goes home.\n\nThe story's cultural work is layered. It is a katabasis-and-return narrative in which sovereignty over the visible world is won in the world below and certified by a father-in-law's curse-blessing; the regalia carried up (sword, bow, lute) are the mythic forerunners of kingship emblems. The snake-house, wasp-house and burning-moor trials belong to the widespread son-in-law-trials genre (cf. the Aarne-Thompson bride-test tales), read by scholars as mythologized initiations. And the two deaths and revivals mark Okuninushi as a twice-born deity whose right to create and rule is earned through death, descent, and resurrection — the theological ground on which he will later yield the land to the heavenly descendants and retire to his nethermost-pillared palace at Izumo.",
+        "zh": "大己貴神為八十神之幼弟，因因幡白兔之預言與八上比賣之允婚，遭八十神兩度謀害：燒石如豬壓殺之，以貝神蛤神敷漿復活；又誘入山中，以巨木楔殺之，其母剖木復生，戒以出走。遂依大屋毘古神之勸，遠赴根之堅洲國謁須佐之男命。於門前遇其女須勢理毘賣，相視成婚。須佐之男呼之為葦原色許男醜男，先使宿蛇屋，妻授蛇比禮三振而蛇靜；次宿蚰蜒蜂屋，復以比禮免難；又射鳴鏑於大野而四面縱火，鼠教以內虛外狹，掘地而伏，火過乃出，銜鏑而歸。妻持喪具出哭，翁出視，己貴獻鏑得生。入室令拾頭蝨，髮滿蚰蜒；妻與構樹實與赤土，嚼而吐之，翁誤為食蝨，愛之而寢。己貴乃結翁髮於椽，以五百人引之石塞門，負妻背生大刀、生弓矢及天沼琴而逃。琴觸樹而地鳴，翁寤，拽髮拔椽，屋倒追之，至黃泉平坂不得過，遙祝曰：持劍弓追爾異母兄弟至阪途河曲，成大國主神、活土神，娶吾女為妻，於宇加山腳巖根堅柱，高天原架棟梁而居。遂驅八十神，始作國土，娶八上比賣；懼須勢理毘賣，棄子樹杈，是為木俁神，一名御井神。"
+      },
+      "functions": [
+        "Establishes the descent-and-return template of Japanese sovereignty myth: the ruler's land-claim is won through trials in the otherworld and sealed by a rival deity's curse-blessing at the boundary of Hades.",
+        "Charter of the Izumo shrine tradition: the temple-pillars on the nethermost rock-bottom and cross-beams to High Heaven prefigure the great Izumo sanctuary and Okuninushi's cult there.",
+        "Encodes the son-in-law trial-ordeal genre (snake-house, wasp-house, burning moor), read as mythologized initiation of the young hero by the powerful father-in-law.",
+        "Marks Okuninushi as a twice-born resurrection figure whose creative power follows death and revival, preparing the theology of the dying-and-yielding land-god of the kuni-yuzuri."
+      ],
+      "variants": [
+        {
+          "name": "Izanagi's flight from Yomi (Kojiki, Book 1)",
+          "text_tradition": "Kojiki, Sections on Yomi (trans. Chamberlain 1882)",
+          "summary": "The same descent-flight-boundary pattern a generation earlier: a living deity enters the world of the dead, wins or loses a spouse there, is pursued to the pass, and a boulder seals the boundary while the fugitive returns transformed. Okuninushi's Even Pass of Hades pursuit deliberately echoes Izanagi's flight.",
+          "cross_ref": "japanese-izanagi-izanami-yomi"
+        },
+        {
+          "name": "Inanna's Descent to the Netherworld",
+          "text_tradition": "Sumerian cuneiform epic (trans. from the Sumerian; English in Spence 1916 and later editions)",
+          "summary": "A deity descends to the land of the dead, is stripped of powers gate by gate, dies, and is revived by clever helpers, returning with new authority — the Mesopotamian parallel to the stripped-and-revived land deity's otherworld journey.",
+          "cross_ref": "inanna-descent"
+        },
+        {
+          "name": "Nihongi versions of the Okuninushi cycle",
+          "text_tradition": "Nihongi (Chronicles of Japan), Book I, one-writing variants (trans. Aston 1896)",
+          "summary": "The official chronicle preserves rival tellings in which Okuninushi (Ashinaduchi/Osobiko figures) undergoes persecution, receives the treasures from Susanoo, and cedes the land, with different name-forms and episode order.",
+          "cross_ref": "none"
+        }
+      ],
+      "primary_sources": [
+        {
+          "work": "Kojiki (Records of Ancient Matters), compiled 712 CE",
+          "citation": "Kojiki, trans. Basil Hall Chamberlain (1882), Wikisource djvu pages 155-161 (the White Hare, the two deaths, the Nether-Distant-Land journey, the trials, flight and blessing)",
+          "language": "Old Japanese"
+        }
+      ],
+      "secondary_sources": [
+        {
+          "work": "Donald L. Philippi, Kojiki",
+          "citation": "Philippi 1968, Tokyo: University of Tokyo Press — standard modern translation and commentary on the Okuninushi cycle."
+        },
+        {
+          "work": "Michael Ashkenazi, Handbook of Japanese Mythology",
+          "citation": "Ashkenazi 2003, Santa Barbara: ABC-CLIO — synthesis of Kojiki/Nihongi variants of the Okuninushi-Susanoo episodes."
+        }
+      ],
+      "source_urls": [
+        {
+          "url": "https://en.wikisource.org/wiki/Kojiki_(Chamberlain,_1882)",
+          "description": "Wikisource edition of Chamberlain's 1882 English translation of the Kojiki (public domain)",
+          "accessed": "2026-11-13"
+        }
+      ],
+      "sensitivity_flag": "living_tradition_low",
+      "sensitivity_guidance": "Kojiki narrative is living Shinto material and imperial mythology: Izumo Taisha maintains the active cult of Okuninushi. Present the myth comparatively and critically; avoid devotional or nationalist framing; note that passages are paraphrases of the public-domain Chamberlain translation.",
+      "provenance": {
+        "record_status": "complete",
+        "compiled": "2026-11-13",
+        "compiled_by": "agent",
+        "review_status": "unreviewed"
+      }
+    },
+    {
+      "id": "japanese-okuninushi-nunakawa-courtship",
+      "title": {
+        "en": "The Courtship Songs of Okuninushi and Nunakawa-hime, and the Pledge of Suseri-hime",
+        "zh": "大己貴神求沼河姬之歌與須勢理毘賣之盟"
+      },
+      "tradition": "japanese",
+      "category": "myth",
+      "region": {
+        "en": "Nunakaha in the land of Koshi (symbolic pin at the Noto Peninsula, Sea of Japan coast)",
+        "zh": "越之國沼河姬之鄉（日本海能登半島象徵性定位）"
+      },
+      "lat": 36.89,
+      "lon": 136.78,
+      "period": "Kojiki compiled 712 CE (trans. Chamberlain 1882)",
+      "source": {
+        "archive": "Wikisource",
+        "work": "Kojiki, trans. Basil Hall Chamberlain (1882)",
+        "url": "https://en.wikisource.org/wiki/Kojiki_(Chamberlain,_1882)"
+      },
+      "license": "Public domain (translation 1882)",
+      "summary": {
+        "en": "The Deity-of-Eight-Thousand-Spears (Okuninushi) travels to Koshi to woo the Princess of Nunakaha, and the two exchange courtship songs through her closed door; when his chief empress Suseri-hime grows jealous and he prepares to leave for Yamato, she offers him the great liquor-cup with a pledge-song, and the couple pledge each other by the cup and rest together to this day.",
+        "zh": "八千矛神往越之國求沼河姬，隔門互歌求婚；正妻須勢理毘賣妒之，八千矛神欲往大和，臨行歌別。須勢理毘賣奉大酒杯而歌：君有如草之妻無數，而我女子唯有君一人。遂交杯為誓，至今安眠——是為神語。"
+      },
+      "motifs": [
+        "divine-marriage",
+        "jealousy"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient Japanese court myth (Kojiki); the courtship songs are among the oldest recorded Japanese poetry. Passages are condensed paraphrases of public-domain translations, presented for comparative mythology."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The Deity-of-Eight-Thousand-Spears, having set his heart on wooing the Princess of Nunakaha in the land of Koshi, arrived at her house and sang a wooing-song at the door: he told how he had traversed night after night through the darkness of the pass, over the black hilly path, seeking her; how the little birds of the island had cried their ill-omened cries, and how he had wondered what devilish thing had guided him astray, while the star of the evening had dragged along and hung upon him. The song mixes longing, weariness of the road, and the fear of a malign power obstructing the lovers' meeting.",
+          "note": "Paraphrase of Kojiki, pp. 161-163 (trans. Chamberlain 1882); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "The Princess of Nunakaha, without yet opening the door, sang in reply from inside: she likened their love to birds of the beach — the dotterel and the gentle bird — who, though they strike their wings, will not mate wrongly; she declared that her jewel-like arms would be pillowed on no one else, and sang that the man should be the dear jewel-arm of the woman and the woman the jewel-arm of the man. Then, as the song said, that night they did not yet come together; but on the following night they came together in due and stately union. Later tellers add that the refrain-lines of the song were carried down by the singing-women as a messenger running to future ages.",
+          "note": "Paraphrase of Kojiki, pp. 163-165 (trans. Chamberlain 1882); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "Again this deity's chief empress, the Forward-Princess, was very jealous; the Deity-of-Eight-Thousand-Spears, distressed, was about to go up from Izumo to the land of Yamato. Standing attired at his horse's saddle, he sang his farewell: how he had changed his garments three times — black as the moor's true jewels, green as the kingfisher, madder-dyed from the mountain fields — and how, though his wife might not weep, when he departed like the flocking birds her head would hang like a single eulalia and her weeping would rise as the morning mist. Then his empress took a great liquor-cup, drew near, offered it, and sang: Oh, Deity-of-Eight-Thousand-Spears, my Master-of-the-Great-Land — being a man, you probably have wives like the young herbs everywhere; but I, being a woman, have no man but you; beneath the ornamented fence and the soft coverlet, your white arms patting my soft breast, let us interlace our jewel-arms and sleep. Lift up the luxuriant august liquor. Having thus sung, they pledged each other by the cup with their hands on each other's necks, and are at rest till the present time. These are called divine words.",
+          "note": "Paraphrase of Kojiki, pp. 165-167 (trans. Chamberlain 1882); not verbatim."
+        }
+      ],
+      "persons": [
+        "japanese-okuninushi",
+        "japanese-nunakawahime",
+        "japanese-suserihime"
+      ]
+    },
+    {
+      "id": "japanese-sukunabikona-land-making",
+      "title": {
+        "en": "The Tiny God Sukunabikona and the Making of the Land",
+        "zh": "少名毘古那神與共造國土"
+      },
+      "tradition": "japanese",
+      "category": "myth",
+      "region": {
+        "en": "The august cape of Miho, Izumo (symbolic pin; Mount Mimoro named in Yamato)",
+        "zh": "出雲美保岬（象徵性定位；三輪山在大和）"
+      },
+      "lat": 35.36,
+      "lon": 132.76,
+      "period": "Kojiki compiled 712 CE (trans. Chamberlain 1882)",
+      "source": {
+        "archive": "Wikisource",
+        "work": "Kojiki, trans. Basil Hall Chamberlain (1882)",
+        "url": "https://en.wikisource.org/wiki/Kojiki_(Chamberlain,_1882)"
+      },
+      "license": "Public domain (translation 1882)",
+      "summary": {
+        "en": "A tiny deity in flayed-goose skins rides the wave-crest to Miho cape in Izumo and answers no question until the toad sends Okuninushi to the Crumbling-Prince — the scarecrow who knows everything under heaven — who identifies him as Little-Prince-the-Renowned-Deity, child of the Divine-Producing-Wondrous-Deity; the two then consolidate the land together until the tiny god crosses to the Eternal Land, and Okuninushi, alone, is told by a deity of the sea to be worshipped on Mount Mimoro.",
+        "zh": "有神著剝鵝皮之衣，乘鏡船踏波至出雲美保岬，問名不答；蛙神曰腐朽神（田間稻草人）必知之，遂請其指認：此神產巢日神之子少名毘古那神，自其指間漏出者。二神遂共造國土；後少名毘古那神渡常世國去。己貴神獨嘆：與何神共造此國？有神光照海而至，曰：若善祭我，則與汝共造之——當祭於大和青垣東山之上，即三輪山之神。"
+      },
+      "motifs": [
+        "culture-hero",
+        "sacred-place"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient Japanese court myth (Kojiki); the Mimoro passage is the charter of the Omiwa (Miwa) shrine cult. Passages are condensed paraphrases of public-domain translations, presented for comparative mythology."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "When the Deity Master-of-the-Great-Land dwelt at the august cape of Miho in Izumo, there came riding on the crest of the waves a deity dressed in complete flayings of goose skins, in a boat of heavenly kagami. Asked his name, he replied not; the deities who accompanied him, though asked, all said they did not know him.",
+          "note": "Paraphrase of Kojiki, pp. 171-172 (trans. Chamberlain 1882); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Then a toad spoke: As for this, the Crumbling Prince will surely know it. The Master-of-the-Great-Land summoned the Crumbling-Prince — the figure who, though his legs do not walk, knows everything in the empire, and is now the scarecrow in the mountain fields — and he identified the stranger: This is Little-Prince-the-Renowned-Deity, the august child of the Deity-Producing-Wondrous-Deity, the child who dipped between the fork of that deity's hand. On respectfully informing the Divine-Producing-Wondrous-August-Ancestor, he replied: This is truly my child. Do he and you become brethren, and make and consolidate this land together.",
+          "note": "Paraphrase of Kojiki, pp. 172-173 (trans. Chamberlain 1882); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "From that time forward the two deities made and consolidated the land conjointly; but afterwards Little-Prince-the-Renowned-Deity crossed over to the Eternal Land, the world beyond the sea. Then the Master-of-the-Great-Land lamented: How shall I alone be able to make this land? With what deity can I make it? At that time a deity came, illuminating the sea, and said: If you will lay me to rest well, I can make it together with you; if not, the land cannot be made. Asked the manner of reverently laying him to rest, he replied: Reverently worship me on Yamato's green fence, on the top of the eastern mountain. This is the deity who dwells on the top of Mount Mimoro.",
+          "note": "Paraphrase of Kojiki, pp. 173-174 (trans. Chamberlain 1882); not verbatim."
+        }
+      ],
+      "persons": [
+        "japanese-okuninushi",
+        "japanese-sukunabikona"
+      ]
+    },
+    {
+      "id": "japanese-kuniyuzuri-amewakahiko",
+      "title": {
+        "en": "The Failed Missions and the Death of Ame-waka-hiko",
+        "zh": "天若日子受命不返中鏑矢而亡"
+      },
+      "tradition": "japanese",
+      "category": "myth",
+      "region": {
+        "en": "The Central Land of Reed-Plains and the Tranquil River of Heaven (symbolic pin at the Yamato/Nara court)",
+        "zh": "葦原中國與天上安河（大和宮廷象徵性定位）"
+      },
+      "lat": 34.68,
+      "lon": 135.83,
+      "period": "Kojiki compiled 712 CE (trans. Chamberlain 1882)",
+      "source": {
+        "archive": "Wikisource",
+        "work": "Kojiki, trans. Basil Hall Chamberlain (1882)",
+        "url": "https://en.wikisource.org/wiki/Kojiki_(Chamberlain,_1882)"
+      },
+      "license": "Public domain (translation 1882)",
+      "summary": {
+        "en": "Amaterasu deputizes the Central Land of Reed-Plains to her child, but her first envoys defect or tarry — Ame-no-hohi for three years, and the Heavenly-Young-Prince Ame-waka-hiko, who weds Okuninushi's daughter, for eight years. A pheasant messenger is shot dead by Ame-waka-hiko, and the returned arrow, tested by the High-Integrating-Deity, strikes him dead in his sleep; the funeral house built by his mourners is cut down in fury by the deity Ajishiki-takahikone, whom they had mistaken for the corpse.",
+        "zh": "天照大御神命其子治葦原中國，先遣天穗日神，三年不報；再遣天若日子，娶大己貴神之女下光比賣，八年不返。天神遣鳴女雉問責，天若日子受其妻之慫恿射殺之，其箭逆貫而上至高天原。神產巢日神試其心，回擲此箭，貫其胸而死。哭喪造喪屋，味耜高彥根神來弔，眾誤認其為死者，其怒拔十握劍斬喪屋——是故俗諺云唯雉為使者。"
+      },
+      "motifs": [
+        "taboo-transgression",
+        "oracle-divination",
+        "divine-marriage"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient Japanese court myth (Kojiki); passages are condensed paraphrases of public-domain translations, presented for comparative mythology."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The Heaven-Shining-Great-August-Deity commanded that the Luxuriant-Reed-Plains, the Land of Fresh Rice-ears of a Thousand Autumns, should be governed by her august child, and sent him down from Heaven. Standing on the Floating Bridge of Heaven, he looked and announced that the land was painfully uproarious, and immediately re-ascended to inform her. So the High-August-Producing-Wondrous-Deity and the Heaven-Shining-Great-August-Deity assembled the eight hundred myriad deities in the bed of the Tranquil River of Heaven, had the Deity Thought-Includer think of a plan, and sent the Deity Ame-no-hohi to subdue the violent and savage Earthly Deities. But he at once curried favour with the Deity Master-of-the-Great-Land, and for three years brought back no report.",
+          "note": "Paraphrase of Kojiki, pp. 179-180 (trans. Chamberlain 1882); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "A fresh mission was debated, and the Deity Thought-Includer replied: The Heavenly-Young-Prince, son of the Deity Heaven's-Earth-Spirit, should be sent. They bestowed on him the heavenly true deer-bow and the heavenly feathered arrows and sent him down. Descending to that land, the Heavenly-Young-Prince at once wedded Princess Under-Shining, daughter of the Deity Master-of-the-Great-Land, and moreover planned how he might gain possession of the land — and for eight years brought back no report.",
+          "note": "Paraphrase of Kojiki, p. 180 (trans. Chamberlain 1882); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "The Heavenly Deities then sent the pheasant called Name-Crying-Female to ask why he brought back no report. She descended, perched on the multitudinously-branching cassia-tree at his gate, and delivered the mandate; but the Heavenly-Spying-Woman who heard her said: The sound of this bird's cry is very bad; you should shoot it to death. Urged on, the Heavenly-Young-Prince took the heavenly bow and arrows and shot the pheasant dead; and the arrow, shot up upside down through the bird's breast, reached the place where the Heaven-Shining-Great-August-Deity and the High-Integrating-Deity were sitting in the bed of the Tranquil River of Heaven. The High-Integrating-Deity saw blood on the feathers, recognized the arrow bestowed on the Heavenly-Young-Prince, and showed it to all the deities, saying: If this be an arrow shot at the evil deities in obedience to our command, let it not hit him; if he has a foul heart, let the Heavenly-Young-Prince perish by this arrow. He took the arrow and thrust it back down through the arrow's hole, so that it struck the sleeping prince in the breast and he died; and the pheasant returned not. This is the origin of the proverb about the pheasant as sole messenger.",
+          "note": "Paraphrase of Kojiki, pp. 181-183 (trans. Chamberlain 1882); not verbatim."
+        },
+        {
+          "id": "4",
+          "text": "The wailing of the prince's wife, re-echoing in the wind, reached Heaven, and his father, wife and children came down with cries, built a mourning-house, and made the wild goose the head-hanging bearer, the heron the broom-bearer, the kingfisher the person of the august food, the sparrow the pounding-woman, and the pheasant the weeping woman, disporting themselves for eight days and eight nights. Then the Deity Ajishiki-takahikone came to condole; the mourners cried that their child, their lord was not dead, and clung to his hands and feet, for the two deities closely resembled each other in countenance. Then Ajishiki-takahikone was very angry: It was only because he was my dear friend that I came to condole. Why should I be likened to an unclean dead person? He drew the ten-grasp sabre girded on him, cut down the mourning-house, and kicked away the pieces, at what is called Mount Mourning in the land of Minu; the sword was named Great-Blade-Mower. He flew away in his anger, and his younger sister sang to reveal his august name.",
+          "note": "Paraphrase of Kojiki, pp. 183-185 (trans. Chamberlain 1882); not verbatim."
+        }
+      ],
+      "persons": [
+        "amaterasu",
+        "japanese-omoikane",
+        "japanese-amewakahiko",
+        "japanese-shitateruhime",
+        "japanese-okuninushi",
+        "japanese-ajishikitakahikone"
+      ]
+    },
+    {
+      "id": "japanese-takemikazuchi-kuniyuzuri",
+      "title": {
+        "en": "Takemikazuchi Takes the Land: The Surrender of Okuninushi",
+        "zh": "建御雷神平定葦原中國"
+      },
+      "tradition": "japanese",
+      "category": "myth",
+      "region": {
+        "en": "The little shore of Inasa, Izumo (symbolic pin at Izumo; Lake Suwa named in Shinano)",
+        "zh": "出雲稻佐濱（象徵性定位；信濃諏訪湖在傳說中）"
+      },
+      "lat": 35.36,
+      "lon": 132.76,
+      "period": "Kojiki compiled 712 CE (trans. Chamberlain 1882)",
+      "source": {
+        "archive": "Wikisource",
+        "work": "Kojiki, trans. Basil Hall Chamberlain (1882)",
+        "url": "https://en.wikisource.org/wiki/Kojiki_(Chamberlain,_1882)"
+      },
+      "license": "Public domain (translation 1882)",
+      "summary": {
+        "en": "After the failed missions, the Heavenly Deities send the Brave-Awful-Possessing-Male-Deity Takemikazuchi with the Deity Heavenly-Bird-Boat; the two descend to the little shore of Inasa, plant their ten-hand-breadth swords upside down on a wave-crest and sit cross-legged on the points to demand the land. Okuninushi's son Kotoshironushi consents and vanishes into the sea; the other son Takeminakata challenges the envoy to a trial of strength and is defeated and chased to the Sea of Suwa; and Okuninushi himself yields, exchanging the Central Land for a great palace at Tagishi in Izumo.",
+        "zh": "天之逆手不果，高皇產靈神與天照大神再集八百萬神，思兼神薦天之石屋之經津主神之子建御雷神。建御雷神與經津主神降至出雲稻佐濱，拔十握劍倒立於浪頭，盤坐劍尖問大己貴神之志。其子事代主神允諾，踏船緣化青柴垣而隱；次子建御名方神負千引石而來欲較力，建御雷神之手化冰劍，反握其手如取葦，逐至諏訪湖，名方神誓不離此土。大己貴神遂依二子之言獻國，惟求以出雲多藝志之濱建天御巢宮，隱於八十路曲而侍之。事代主神為百八十神之後先而奉仕；天八士神化鸕鶿取海底赤土，鑽火設膳。建御雷神歸天復命。"
+      },
+      "motifs": [
+        "sacred-kingship",
+        "storm-thunder",
+        "sacred-place"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient Japanese court myth (Kojiki): the kuni-yuzuri (transfer of the land) legitimates imperial rule over Izumo; present comparatively and critically. Passages are condensed paraphrases of public-domain translations."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "After the Heavenly-Young-Prince's death, the Heaven-Shining-Great-August-Deity asked again which deity should be sent. The Deity Thought-Includer and all the deities named the Deity Majestic-Point-Blade-Extended, who dwells in the Heavenly Rock-Dwelling by the source of the Tranquil River of Heaven — or, if not he, his child the Brave-Awful-Possessing-Male-Deity. Since the father had blocked and turned back the waters of the Tranquil River and dwelt with the road blocked up, so that other deities could not go there, the Heavenly-Deer-Deity was sent specially to ask him. He replied: I will obey, and will respectfully serve you. Nevertheless, on this errand send my child, the Brave-Awful-Possessing-Male-Deity — and at once offered his son to the Heaven-Shining-Great-August-Deity. So the Deity Heavenly-Bird-Boat was attached to the Brave-Awful-Possessing-Male-Deity, and the two were sent off.",
+          "note": "Paraphrase of Kojiki, pp. 185-186 (trans. Chamberlain 1882); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "The two deities descended to the little shore of Inasa in the land of Izumo, drew their swords ten hand-breadths long, stuck them upside down on the crest of a wave, seated themselves cross-legged on the points of the swords, and asked the Deity Master-of-the-Great-Land: The Heaven-Shining-Great-August-Deity and the High-Integrating-Deity have charged us and sent us to ask: We have deigned to charge our august child with your dominion, the Central Land of Reed-Plains, as the land which he should govern. So how is your heart? He replied: I am unable to say. My child the Deity Eight-Fold-Thing-Sign-Master will be the one to tell you; but he is gone to Cape Miho to pursue birds and catch fish and has not yet returned. So the Deity Bird-Boat was sent to summon him; and being graciously asked, the Deity Eight-Fold-Thing-Sign-Master spoke to his father: I will obey. Respectfully present this land to the august child of the Heavenly Deity — and thereupon he trod on the edge of his boat so as to capsize it, clapped his heavenly departing hands against the fence of green branches, and disappeared.",
+          "note": "Paraphrase of Kojiki, pp. 186-188 (trans. Chamberlain 1882); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "The envoys asked whether there was another son who should speak; and while the father spoke of his son the Deity Brave-August-Name-Firm, that deity came up bearing on the tips of his fingers a thousand-draught rock, saying: Who is this that has come to our land and thus secretly talks? I should like a trial of strength; let me begin by taking your hand. When the Brave-Awful-Possessing-Male-Deity let him take it, the grip turned it at once into an icicle, and then into a sword-blade, and the challenger drew back frightened. Then the envoy grasped the hand of Brave-August-Name-Firm, crushed it like a young reed, and cast it aside; the challenger fled, and the envoy pursued and came up with him at the Sea of Suha in the land of Shinanu and was about to slay him, when Brave-August-Name-Firm said: I will obey. Slay me not. I will go to no other place but this, neither will I go against the command of my father or the words of my brother. I will yield up this Central Land of Reed-Plains according to the command of the august child of the Heavenly Deities.",
+          "note": "Paraphrase of Kojiki, pp. 188-189 (trans. Chamberlain 1882); not verbatim."
+        },
+        {
+          "id": "4",
+          "text": "So they asked the Deity Master-of-the-Great-Land how his heart was now that both his children had consented. He replied: As my two children have said, I too will not go against them; in accordance with the heavenly command I will at once yield up this Central Land of Reed-Plains. But if you will make stout the temple-pillars on the nethermost rock-bottom and make high the cross-beams to the Plain of High Heaven, and will establish me there, I will hide in the eighty road-windings and wait on him; and if the Deity Eight-Fold-Thing-Sign-Master will be the rear and van of my hundred and eighty children, there will be no disobedient deities. Having thus spoken he hid himself; and they built a heavenly august abode on the shore of Tagishi in the land of Izumo. There the Deity Wondrous-Eight-Spirits was made butler of the heavenly banquet: turning into a cormorant he dived to the sea-bottom for red earth, made eighty platters, cut sea-weed stalks for a fire-drill, drilled out fire, and offered the heavenly true fish-food. Then the Brave-Awful-Possessing-Male-Deity re-ascended to Heaven and reported that he had subdued and pacified the Central Land of Reed-Plains.",
+          "note": "Paraphrase of Kojiki, pp. 189-191 (trans. Chamberlain 1882); not verbatim."
+        }
+      ],
+      "persons": [
+        "amaterasu",
+        "japanese-omoikane",
+        "japanese-takemikazuchi",
+        "japanese-okuninushi",
+        "japanese-kotoshironushi",
+        "japanese-takeminakata"
+      ]
+    },
+    {
+      "id": "japanese-ninigi-descent-kojiki",
+      "title": {
+        "en": "The Descent of Ninigi: Amaterasu's Grandson Comes Down to Takachiho",
+        "zh": "瓊瓊杵尊天降高千穗"
+      },
+      "tradition": "japanese",
+      "category": "myth",
+      "region": {
+        "en": "The peak of Kuzhifuru, Takachiho in Tsukushi (symbolic pin at the Takachiho plateau, Miyazaki)",
+        "zh": "筑紫日向高千穗峰狹梶山頂（宮崎高千穗高原象徵性定位）"
+      },
+      "lat": 32.73,
+      "lon": 131.3,
+      "period": "Kojiki compiled 712 CE (trans. Chamberlain 1882)",
+      "source": {
+        "archive": "Wikisource",
+        "work": "Kojiki, trans. Basil Hall Chamberlain (1882)",
+        "url": "https://en.wikisource.org/wiki/Kojiki_(Chamberlain,_1882)"
+      },
+      "license": "Public domain (translation 1882)",
+      "summary": {
+        "en": "With the Central Land subdued, the heir proposes that his child Prince-Rice-ear-Ruddy-Plenty (Ninigi) descend instead; at the eight-forking road of Heaven a deity of blinding radiance is confronted by the Heavenly-Alarming-Female Uzume, who learns he is the Deity Prince of Saruta come to serve as vanguard. The Heavenly Deities attach the mirror and curved jewels that once lured Amaterasu from the Rock-Dwelling, the Herb-Quelling-Great-Sword, and five chief companies, charge Ninigi to regard the mirror as their very spirit, and he descends, pushing asunder the eight-fold clouds, onto the peak of Takachiho.",
+        "zh": "天之石屋既平葦原中國，皇孫命其子天邇岐志國邇岐志天津日高日子番能邇邇藝命降臨。於天上八衢遇輝光普照之神，命天鈿女命問之，乃猿田毗古神自薦為嚮導。遂以八尺瓊勾玉與八咫鏡、草薙大刀，並思兼神、手力男神、天石屋戶神等五部眾授之，敕曰：以此鏡視為我靈，當如視我而奉之。邇邇藝命遂離天之石座，排八重天雲，分道而下，降於筑紫日向高千穗之狹梶山頂。"
+      },
+      "motifs": [
+        "sacred-kingship",
+        "theophany",
+        "mirror"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient Japanese court myth (Kojiki): Ninigi's descent and the mirror-charge are the charter myth of the imperial regalia and Ise shrine; present comparatively and critically. Passages are condensed paraphrases of public-domain translations."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Then the Heaven-Shining-Great-August-Deity and the High-Integrating-Deity charged the Heir Apparent, His Augustness Truly-Conqueror-I-Conquer-Conquering-Swift-Heavenly-Great-Great-Ears: The Brave-Awful-Possessing-Male-Deity says he has now finished pacifying the Central Land of Reed-Plains; do you, in accordance with our gracious charge, descend to it, dwell in it, and rule over it. The Heir Apparent replied: While I have been getting ready to descend, there has been born to me a child whose name is His Augustness Heaven-Plenty-Earth-Plenty-Heaven's-Sun-Height-Prince-Rice-ear-Ruddy-Plenty. This child should be sent down. So the Heavenly Deities laid their command on Prince-Rice-ear-Ruddy-Plenty: This Luxuriant Reed-Plain Land of Fresh Rice-ears is the land over which you shall rule; and he answered that he would descend from Heaven according to their commands.",
+          "note": "Paraphrase of Kojiki, pp. 192-193 (trans. Chamberlain 1882); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "When the prince was about to descend, at the eight-forking road of Heaven there stood a deity whose refulgence reached up to the Plain of High Heaven and down to the Central Land of Reed-Plains, so that his light made the way doubtful. The Heavenly Deities charged the Heavenly-Alarming-Female-Deity: Though you are but a delicate female, you are a deity who conquers in facing other deities; go and ask: This being the road by which our august child is about to descend from Heaven, who is it that stands there? To this gracious question he replied: I am an Earthly Deity named the Deity Prince of Saruta. Having heard of the intended descent of the august child of the Heavenly Deities, I have come humbly to meet him and respectfully offer myself as his vanguard.",
+          "note": "Paraphrase of Kojiki, pp. 193-194 (trans. Chamberlain 1882); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "So they joined to him five chiefs of companies — the Heavenly-Beckoning-Ancestor-Lord, Grand-Jewel, the Heavenly-Alarming-Female, I-shi-ko-ri-do-me, and Jewel-Ancestor — and to the prince they joined the eight-feet curved jewels and the mirror that had allured the Heaven-Shining-Great-August-Deity from the Rock-Dwelling, and the Herb-Quelling-Great-Sword, together with the Deity Thought-Includer, the Hand-Strength-Male-Deity, and the Deity Heavenly-Rock-Door-Opener of Eternal Night, charging him: Regard this mirror exactly as if it were our august spirit, and reverence it as if reverencing us; and let the Deity Thought-Includer take in hand our affairs and carry on the government.",
+          "note": "Paraphrase of Kojiki, pp. 194-197 (trans. Chamberlain 1882); not verbatim."
+        },
+        {
+          "id": "4",
+          "text": "Then the prince, leaving the Heavenly Rock-Seat, pushing asunder the eight-fold heavenly spreading clouds, and dividing a road with a mighty road-dividing, set off floating shut up in the Floating Bridge of Heaven, and descended onto the peak of Kuzhifuru, which is Takachiho in Tsukushi. His attendant deities, taking the heavenly rock-quivers on their backs, the mallet-headed swords at their sides, the heavenly vegetable-wax-tree bows in their hands, and clasping the heavenly true deer-arrows under their arms, stood in his august van in respectful attendance. He looked about him and said: This place is opposite to the land of Kara; one comes straight across to the august Cape of Kasasa; it is a land whereon the morning sun shines straight and the evening sun's sunlight illumines — an exceedingly good place. Having thus spoken, he made stout the temple-pillars on the nethermost rock-bottom, made high the cross-beams to the Plain of High Heaven, and dwelt there. He then charged the Heavenly-Alarming-Female to escort the Deity Prince of Saruta back, to bear that deity's august name, and to serve him; wherefore the Duchesses of Saru bear the name of the Prince of Saruta to this day.",
+          "note": "Paraphrase of Kojiki, pp. 197-199 (trans. Chamberlain 1882); not verbatim."
+        }
+      ],
+      "persons": [
+        "amaterasu",
+        "japanese-omoikane",
+        "japanese-ninigi",
+        "japanese-sarutahiko",
+        "japanese-uzume"
+      ]
+    },
+    {
+      "id": "japanese-sarutahiko-drowning",
+      "title": {
+        "en": "The Drowning of Sarutahiko and the Slit Mouth of the Sea-Cucumber",
+        "zh": "猿田毗古神溺海與海參裂口"
+      },
+      "tradition": "japanese",
+      "category": "myth",
+      "region": {
+        "en": "Azaka on the shore of Ise Bay (symbolic pin)",
+        "zh": "伊勢灣阿邪珂（象徵性定位）"
+      },
+      "lat": 34.55,
+      "lon": 136.87,
+      "period": "Kojiki compiled 712 CE (trans. Chamberlain 1882)",
+      "source": {
+        "archive": "Wikisource",
+        "work": "Kojiki, trans. Basil Hall Chamberlain (1882)",
+        "url": "https://en.wikisource.org/wiki/Kojiki_(Chamberlain,_1882)"
+      },
+      "license": "Public domain (translation 1882)",
+      "summary": {
+        "en": "The Deity Prince of Saruta, fishing at Azaka, has his hand caught by a hirabu shell-fish and drowns in the brine, receiving three posthumous names as he sinks, gurgles and bubbles; the Heavenly-Alarming-Female Uzume, returned from escorting him, musters all finned things and asks whether they will serve the august son of the Heavenly Deities — all consent except the bêche-de-mer, whose silent mouth she slits with her stiletto, whence its slit mouth today and the first-fruits of Shima granted to the Duchesses of Saru.",
+        "zh": "猿田毗古神於阿邪珂垂釣，手被海芹貝夾住，溺於鹹水。沉底時稱底觸之神，潮鳴時稱潮湧之神，泡沫起時稱泡開之神——故有三重御名。天鈿女命送之而歸，驅集諸海族問曰：汝等願奉仕天神之子乎？眾魚皆諾，唯海鼠不言。鈿女命曰：此乃無言之口也！遂以小針裂其口，故海鼠之口至今有裂。故歷代進獻志摩初穗之時，必以一分賜猿女之君。"
+      },
+      "motifs": [
+        "transformation"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient Japanese court myth (Kojiki); etiological episode for the sea-cucumber's mouth and the Sarume ritual guild. Passages are condensed paraphrases of public-domain translations."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Now when the Deity Prince of Saruta dwelt at Azaka, he went out fishing, and had his hand caught by a hirabu shell-fish, and was drowned in the brine of the sea. The name by which he was called when he sank to the bottom was the Bottom-Touching-August-Spirit; the name by which he was called when the sea-water gurgled up was the Gurgling-Up-August-Spirit; and the name by which he was called when the bubbles formed was the Bubble-Bursting-August-Spirit.",
+          "note": "Paraphrase of Kojiki, p. 200 (trans. Chamberlain 1882); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "The Heavenly-Alarming-Female, having escorted the Deity Prince of Saruta back, returned, and at once drove together all the things broad of fin and the things narrow of fin, and asked them: Will you respectfully serve the august son of the Heavenly Deities? All the fishes declared that they would respectfully serve him; only the bêche-de-mer said nothing. Then the Heavenly-Alarming-Female spoke to it: Ah, this mouth is a mouth that gives no reply! — and with these words slit its mouth with her stiletto. So at the present day the bêche-de-mer has a slit mouth; and wherefore, from august reign to august reign, when the offerings of the first-fruits of Shima are presented, a portion of them is granted to the Duchesses of Saru.",
+          "note": "Paraphrase of Kojiki, pp. 200-201 (trans. Chamberlain 1882); not verbatim."
+        }
+      ],
+      "persons": [
+        "japanese-sarutahiko",
+        "japanese-uzume",
+        "japanese-ninigi"
+      ]
+    },
+    {
+      "id": "japanese-konohanasakuya-marriage",
+      "title": {
+        "en": "Ninigi Rejects Iwanaga and Weds Konohanasakuya: The Origin of Mortal Lives",
+        "zh": "瓊瓊杵尊棄磐長娶木花咲耶姬：人壽不長之由"
+      },
+      "tradition": "japanese",
+      "category": "myth",
+      "region": {
+        "en": "The august cape of Kasasa, Satsuma (symbolic pin for the mythic meeting)",
+        "zh": "薩摩笠狹岬（象徵性定位）"
+      },
+      "lat": 30.78,
+      "lon": 130.37,
+      "period": "Kojiki compiled 712 CE (trans. Chamberlain 1882)",
+      "source": {
+        "archive": "Wikisource",
+        "work": "Kojiki, trans. Basil Hall Chamberlain (1882)",
+        "url": "https://en.wikisource.org/wiki/Kojiki_(Chamberlain,_1882)"
+      },
+      "license": "Public domain (translation 1882)",
+      "summary": {
+        "en": "At the cape of Kasasa, Ninigi meets Konohanasakuya, daughter of the Great-Mountain-Possessor, and asks for her; her father sends both daughters, but Ninigi, alarmed at the hideous elder Iwanaga (Long-as-the-Rocks), sends her back and keeps only the blossoming younger sister for one night. The shamed father explains that the rock-daughter would have given the heavenly offspring lives eternal as the rocks and the flower-daughter lives flourishing as tree-blossoms; because the rock-sister was rejected, the lives of the Heavenly Sovereigns are short as flowers to this day.",
+        "zh": "瓊瓊杵尊於笠狹岬遇木花咲耶姬，遣使求婚。大山津見神大喜，以百機盤盛禮，並送長女磐長姬與次女咲耶姬。磐長姬貌醜，尊懼而遣還之，獨留咲耶姬，一宵成婚。大山津見神恥之，遣使曰：吾所以並獻二女者，欲使磐長姬致天神御子壽如磐石，咲耶姬致其榮如花開；今遣還磐長姬，故天神御子之御壽必如木花之脆弱矣。故至今天皇御壽不長。"
+      },
+      "motifs": [
+        "divine-marriage",
+        "boon-curse"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient Japanese court myth (Kojiki); this is the mythic origin of imperial mortality and of the Konohan (Sakuya) shrine tradition. Passages are condensed paraphrases of public-domain translations."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Hereupon His Augustness Heaven's-Sun-Height-Prince-Rice-ear-Ruddy-Plenty met a beautiful person at the august cape of Kasasa, and asked her whose daughter she was. She replied: I am a daughter of the Deity Great-Mountain-Possessor, and my name is the Divine-Princess-of-Ata, another name by which I am called being Princess-Blossoming-Brilliantly-Like-the-Flowers-of-the-Trees. Asked whether she had brethren, she said: There is my elder sister, Princess-Long-as-the-Rocks. So he asked for her hand, sending the request to her father, the Deity Great-Mountain-Possessor, who was greatly delighted, respectfully sent her off, joined to her her elder sister, and caused merchandise to be carried on tables holding a hundred.",
+          "note": "Paraphrase of Kojiki, pp. 201-202 (trans. Chamberlain 1882); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "But owing to the elder sister being very hideous, His Augustness was alarmed at the sight of her, and sent her back, keeping only the younger sister, whom he wedded for one night. The Deity Great-Mountain-Possessor was covered with shame, and sent a message: My reason for presenting both my daughters together was that, by sending Princess-Long-as-the-Rocks, the august offspring of the Heavenly Deity, though the snow fall and the wind blow, might live eternally immovable like the enduring rocks; and again that by sending Princess-Blossoming-Brilliantly-Like-the-Flowers-of-the-Trees they might live flourishingly like the flowering of the blossoms of the trees: to insure this I offered them. But owing to your sending back Princess-Long-as-the-Rocks and keeping only her younger sister, the august offspring of the Heavenly Deity shall be but as frail as the flowers of the trees. So it is for this reason that down to the present day the august lives of the Heavenly Sovereigns are not long.",
+          "note": "Paraphrase of Kojiki, pp. 202-203 (trans. Chamberlain 1882); not verbatim."
+        }
+      ],
+      "persons": [
+        "japanese-ninigi",
+        "japanese-konohanasakuya",
+        "japanese-iwanagahime",
+        "japanese-oyamatsumi"
+      ]
+    },
+    {
+      "id": "japanese-konohanasakuya-birth-fire",
+      "title": {
+        "en": "The Ordeal by Fire: Konohanasakuya Gives Birth in the Burning Hall",
+        "zh": "木花咲耶姬火中產子之誓"
+      },
+      "tradition": "japanese",
+      "category": "myth",
+      "region": {
+        "en": "Himuka in Tsukushi (Kyushu)",
+        "zh": "筑紫日向"
+      },
+      "lat": 32.2,
+      "lon": 131.3,
+      "period": "Kojiki compiled 712 CE (trans. Chamberlain 1882)",
+      "source": {
+        "archive": "Wikisource",
+        "work": "Kojiki, trans. Basil Hall Chamberlain (1882)",
+        "url": "https://en.wikisource.org/wiki/Kojiki_(Chamberlain,_1882)"
+      },
+      "license": "Public domain (translation 1882)",
+      "summary": {
+        "en": "Pregnant after a single night, Konohanasakuya announces her delivery; Ninigi doubts her, saying the child must be an Earthly Deity's. She vows that if the child be of an Earthly Deity her delivery will be unfortunate, builds a hall eight fathoms long without doors, plasters up the entrance, and, when her time comes, sets fire to the hall and is delivered in the flames — of Fire-Shine, Fire-Climax, and Fire-Subside, the ancestors of the imperial line.",
+        "zh": "木花咲耶姬一宵而有身，臨產奏曰：妾今有孕，產期將至，天神御子不可私產，故以奉告。瓊瓊杵尊疑曰：一宵而孕，必非吾子，當是國神之子。姬誓曰：若所懷為國神之子，產必不吉；若為天神之子，則吉。遂造無戶八尋殿，入而以土堇其戶，臨產時縱火焚殿，於火中生三子：火照命、火須勢理命、火遠理命。"
+      },
+      "motifs": [
+        "miraculous-birth",
+        "oracle-divination",
+        "fire-ordeal"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient Japanese court myth (Kojiki); the fire-birth validates the divine descent of the imperial line. Passages are condensed paraphrases of public-domain translations."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Later on Princess-Blossoming-Brilliantly-Like-the-Flowers-of-the-Trees waited on His Augustness Prince-Rice-ear-Ruddy-Plenty and said: I am pregnant, and now the time for my delivery approaches. It is not fit for me to be delivered of the august offspring of Heaven privately, so I tell you. Then His Augustness said: Princess-Blossoming-Brilliantly! What — pregnant after one night? It cannot be my child. It must surely be the child of an Earthly Deity.",
+          "note": "Paraphrase of Kojiki, p. 203 (trans. Chamberlain 1882); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "She replied: If the child with which I am pregnant be the child of an Earthly Deity, my delivery will not be fortunate; if it be the august child of the Heavenly Deity, it will be fortunate. Thereupon she built a hall eight fathoms long without doors, went inside and plastered up the entrance with earth; and when the time came for her delivery, she set fire to the hall and was delivered. The child born when the fire was burning most fiercely was His Augustness Fire-Shine; the child born next was His Augustness Fire-Climax; and the child born next was His Augustness Fire-Subside — whose other name is His Augustness Heaven's-Sun-Height-Prince-Great-Rice-ears-Lord-Ears.",
+          "note": "Paraphrase of Kojiki, pp. 204-205 (trans. Chamberlain 1882); not verbatim."
+        }
+      ],
+      "persons": [
+        "japanese-ninigi",
+        "japanese-konohanasakuya",
+        "japanese-hoderi",
+        "japanese-hosuseri",
+        "japanese-hoori"
+      ]
+    },
+    {
+      "id": "japanese-hoderi-hoori-hook-exchange",
+      "title": {
+        "en": "The Luck Exchange and the Lost Fish-Hook of Hoori",
+        "zh": "火照命與火遠理命換福失鉤"
+      },
+      "tradition": "japanese",
+      "category": "myth",
+      "region": {
+        "en": "Himuka in Tsukushi (Kyushu); the brothers' fortunes of sea and mountain",
+        "zh": "筑紫日向；海幸山幸之福"
+      },
+      "lat": 32.2,
+      "lon": 131.3,
+      "period": "Kojiki compiled 712 CE (trans. Chamberlain 1882)",
+      "source": {
+        "archive": "Wikisource",
+        "work": "Kojiki, trans. Basil Hall Chamberlain (1882)",
+        "url": "https://en.wikisource.org/wiki/Kojiki_(Chamberlain,_1882)"
+      },
+      "license": "Public domain (translation 1882)",
+      "summary": {
+        "en": "Fire-Shine (Hoderi) holds the luck of the sea and Fire-Subside (Hoori) the luck of the mountains; at Hoori's thrice-repeated request the brothers exchange fortunes, but Hoori, angling with the borrowed sea-luck, catches nothing and loses the fish-hook in the sea. His brother demands the original hook back; Hoori breaks his own ten-grasp sabre to forge five hundred and then a thousand compensating hooks, all refused, and he weeps and laments on the sea-shore.",
+        "zh": "火照命得海之福，火遠理命得山之福。火遠理命三請相換其福，久乃得允。然其以兄之福釣魚，一魚不得，且失其鉤於海。兄索還原鉤，弟自斷其十握劍，作五百鉤以償，兄不受；復作千鉤以償，仍不受，曰：吾猶欲原鉤。弟遂泣於海濱。"
+      },
+      "motifs": [
+        "sibling-creators",
+        "boon-curse"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient Japanese court myth (Kojiki), the Umisachi-Yamasachi (sea-luck, mountain-luck) folktale core. Passages are condensed paraphrases of public-domain translations."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "His Augustness Fire-Shine was a prince who got his luck on the sea, and caught things broad of fin and things narrow of fin. His Augustness Fire-Subside was a prince who got his luck on the mountains, and caught things rough of hair and things soft of hair. Then Fire-Subside said to his elder brother: Let us mutually exchange, and use each other's luck. Though he thrice made the request, his elder brother would not accede to it; but at last with difficulty the mutual exchange was obtained.",
+          "note": "Paraphrase of Kojiki, p. 205 (trans. Chamberlain 1882); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Fire-Subside, undertaking the sea-luck, angled for fish but never got a single one, and moreover lost the fish-hook in the sea. Thereupon his elder brother asked for the fish-hook, saying: A mountain-luck is a luck of its own, and a sea-luck is a luck of its own; let each of us now restore to the other his luck. The younger brother replied: As for your fish-hook, I did not get a single fish by angling with it, and at last I lost it in the sea. But the elder brother required it of him the more urgently. So the younger brother broke the ten-grasp sabre girded on him and made five hundred fish-hooks of the fragments as compensation; but his brother would not take them. Again he made a thousand fish-hooks as compensation; but he would not receive them, saying: I still want the real original fish-hook. So the younger brother wept and lamented by the sea-shore.",
+          "note": "Paraphrase of Kojiki, pp. 205-206 (trans. Chamberlain 1882); not verbatim."
+        }
+      ],
+      "persons": [
+        "japanese-hoderi",
+        "japanese-hoori"
+      ]
+    },
+    {
+      "id": "japanese-hoori-sea-palace-toyotama",
+      "title": {
+        "en": "Hoori in the Sea Palace: Marriage to Toyotama-hime and the Tide Jewels",
+        "zh": "火遠理命入海宮娶豐玉姬得潮滿潮涸之珠"
+      },
+      "tradition": "japanese",
+      "category": "myth",
+      "region": {
+        "en": "The palace of the Deity-Ocean-Possessor beneath the sea (symbolic pin; undersea otherworld)",
+        "zh": "海神綿津見之宮（海底異界，象徵性定位）"
+      },
+      "lat": 33.2,
+      "lon": 132.3,
+      "period": "Kojiki compiled 712 CE (trans. Chamberlain 1882)",
+      "source": {
+        "archive": "Wikisource",
+        "work": "Kojiki, trans. Basil Hall Chamberlain (1882)",
+        "url": "https://en.wikisource.org/wiki/Kojiki_(Chamberlain,_1882)"
+      },
+      "license": "Public domain (translation 1882)",
+      "summary": {
+        "en": "The Deity Salt-Possessor builds Hoori a stout little boat and directs him to the palace of the Sea-Deity, built like fishes' scales, where he sits on the cassia tree above the well, wins the hand of Luxuriant-Jewel-Princess (Toyotama-hime) and dwells three years. Sighing for home, he is given back the fish-hook — found in the throat of the tahi — with cursing words to speak over it, and the tide-flowing and tide-ebbing jewels with which to drown or spare his brother and impoverish him within three years; the Sea-Deity then summons the crocodiles to escort him back to the Upper-Land.",
+        "zh": "鹽椎神為火遠理命造無隙小舟，教其循芳香之道至鱗如魚鱗之宮——海神綿津見之宮。其攀井上香木而坐，海神女豐玉姬之侍女汲水見光，奉水於尊，尊不飲而脫頸珠吐入器中，珠黏器不去。豐玉姬出視而喜，海神見之曰：此天照大神之子也。遂鋪八重海驢皮褥、八重絹褥，設百機盤之膳，以女妻之。尊居其國三年。一日深嘆，妻以告父。海神乃集大魚小魚，於鯛喉中取還魚鉤，授以咒鉤之語，並以潮滿珠、潮涸珠賜之：兄作高田汝作低田，兄作低田汝作高田，三年之內兄必貧；兄若怒而攻汝，出潮滿珠以溺之，兄若請命，出潮涸珠以活之。遂召鱷魚護送尊歸上國。"
+      },
+      "motifs": [
+        "otherworld-voyage",
+        "divine-marriage",
+        "boon-curse",
+        "undersea-realm"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient Japanese court myth (Kojiki), the sea-palace (Ryugu) episode of the Umisachi-Yamasachi cycle; the saga continues with the return and the birth in the burning hall beyond this batch's source range. Passages are condensed paraphrases of public-domain translations."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "As the younger brother was weeping and lamenting by the sea-shore, the Deity Salt-Possessor came and asked him the cause of the Sky's-Sun-Height's weeping and lamentation. He told how he had exchanged a fish-hook with his elder brother, lost it in the sea, and offered many compensating hooks in vain, his brother insisting that he still wanted the original. Then the Deity Salt-Possessor said: I will give good counsel to Thine Augustness — and built a stout little boat without interstices, set him in it, and instructed him: When I push the boat off, go on for some time. There will be a savoury august road; go along that road and there will appear a palace built like fishes' scales, which is the palace of the Deity-Ocean-Possessor. When you reach the august gate of that deity's palace, there will be a multitudinously-branching cassia-tree above the well at its side; sit on the top of that tree, and the Sea-Deity's daughter will see you and counsel you.",
+          "note": "Paraphrase of Kojiki, pp. 207-208 (trans. Chamberlain 1882); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Everything happened as the Salt-Possessor had said. When the handmaidens of the Sea-Deity's daughter Luxuriant-Jewel-Princess came to draw water with jewelled vessels, there was a light in the well; looking up, they saw a beautiful young man on the cassia-tree, more illustrious even than their king. He begged water of them, and, without drinking it, loosened the jewel at his neck, took it in his mouth, and spat it into the jewelled vessel; the jewel adhered to the vessel, and the handmaidens could not separate them, so they brought the vessel to their mistress. She went out to look, and was delighted at the sight. Having exchanged glances with the stranger, she told her father that a beautiful person was at their gate; and the Sea-Deity himself went out, saying: This person is the Sky's-Sun-Height, the august child of the Heaven's-Sun-Height. He led him into the interior of the palace, spread eight layers of rugs of sea-asses' skins and on the top eight more of silk rugs, set him on them, arranged merchandise on tables holding a hundred, made an august banquet, and forthwith gave him his daughter Luxuriant-Jewel-Princess in marriage; and he dwelt in that land for three years.",
+          "note": "Paraphrase of Kojiki, pp. 208-209 (trans. Chamberlain 1882); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "Then His Augustness thought of what had gone before, and heaved one deep sigh. His wife heard it and told her father, who asked his son-in-law the cause; and the prince told how his elder brother had pressed him for the lost fish-hook. The Sea-Deity summoned all the fishes of the sea and asked whether any had taken the hook; all replied that lately the tahi had complained of something sticking in its throat preventing it from eating. The hook was found in its throat, taken out, washed, and presented to Fire-Subside. The Great-Ocean-Possessor then instructed him: When you grant this fish-hook to your elder brother, say: This fish-hook is a big hook, an eager hook, a poor hook, a silly hook — and bestow it with your back hand. When your elder brother makes fields, make the opposite kind, and he will certainly be impoverished within three years, for I rule the water. If he attacks you, put forth the tide-flowing jewel to drown him; if he expresses grief, put forth the tide-ebbing jewel to let him live. He then gave him the two tide jewels and summoned the crocodiles to escort him back to the Upper-Land.",
+          "note": "Paraphrase of Kojiki, pp. 209-210 (trans. Chamberlain 1882); not verbatim."
+        }
+      ],
+      "persons": [
+        "japanese-hoori",
+        "japanese-toyotamahime",
+        "japanese-watatsumi",
+        "japanese-shiotsuchi",
+        "japanese-hoderi"
+      ]
+    }
+  ]
+}

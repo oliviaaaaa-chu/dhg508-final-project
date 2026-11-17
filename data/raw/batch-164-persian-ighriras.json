@@ -1,0 +1,59 @@
+{
+  "_comment": "Shahnama of Firdausi, trans. A. G. & E. Warner (1905), vol. I: Ighriras' clemency and death; Zal's feud oath. Paraphrase passages with notes.",
+  "texts": [
+    {
+      "id": "persian-ighriras-clemency",
+      "title": {
+        "en": "Ighriras Spares the Captives and Dies for It",
+        "zh": "伊格里拉斯釋俘而亡"
+      },
+      "tradition": "persian",
+      "category": "myth",
+      "region": {
+        "en": "Sari to Rai (symbolic pin)",
+        "zh": "薩里至賴伊（象徵性定位）"
+      },
+      "lat": 36.56,
+      "lon": 53.06,
+      "period": "Composed c. 1010 CE (Warner translation 1905)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Firdausi, Shahnama, trans. A. G. & E. Warner (1905), vol. I, Naudar secs. 11-13",
+        "url": "https://archive.org/details/shahnama01firduoft"
+      },
+      "license": "Public domain (translation 1905)",
+      "summary": {
+        "en": "After beheading Naudar in foul contempt, Afrasiyab would slaughter the captive host; virtuous Ighriras, his brother, pleads that slaying disarmed prisoners is base where we should look for magnanimity, and the captives are committed bound to his charge at Sari. When Zal swears a feud without rest, Ighriras agrees to quit Amul for Rai so the prisoners may escape the Dragon's clutch, and Kishwad frees them. At Rai Afrasiyab, raging like a mad elephant, cuts his merciful brother down: now shall the fortune of Afrasiyab be darkened, says Zal, and blows the trumpets for revenge.",
+        "zh": "阿弗拉西亞卜無禮斬殺瑙達爾後欲屠戮戰俘；其弟伊格里拉斯進言：處決放下兵刃之囚有失王者仁厚。俘虜被縛交由他看守於薩里。扎勒立誓血仇不休，伊格里拉斯遂棄阿穆爾退往賴伊，基什瓦德救出俘虜。在賴伊，阿弗拉西亞卜如狂象般揮刀斬殺仁兄——扎勒聞言：「阿弗拉西亞卜的氣運將晦暗，其王座將荒蕪。」遂吹號復仇。"
+      },
+      "motifs": ["taboo-transgression", "boon-curse", "quest-immortality"],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Epic literary source. Warner notes Ighriras (Aghrera) is in the Bundahishn a good spirit rewarded for saving the Iranians. No living community restriction."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "They haled the other captives forth in shame, asking quarter. Virtuous Ighriras saw this and anxiously besought the king: to slay so many noble warriors and horsemen in cold blood, mere prisoners disarmed, is base, and base where we should look for magnanimity. Commit them bound to me and I will prison them within a cavern, well guarded; prison will restore their wits; but shed not blood. At Ighriras' request, perceiving his distress and earnestness, the monarch spared their lives.",
+          "note": "Paraphrase of Firdausi, Shahnama, Naudar sec. 11 (Warner 1905); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "When Zal heard the news of Naudar's beheading he rent all his raiment and sat down with lamentable outcries in the dust. My trenchant blade shall ne'er behold sheath till the Resurrection, my white charger shall be my throne, a spear mine only tree, my place a stirrup and a dusky helm the crown upon my head; there is no rest or slumber in this feud. When the captives heard that the Iranians were upon the march for vengeance they neither ate nor slept, and a message came to Ighriras: if prudent Ighriras see fit to free us we will disperse and make thanksgiving unto God for him.",
+          "note": "Paraphrase of Firdausi, Shahnama, Naudar sec. 12 (Warner 1905); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "Wise Ighriras replied: this human Ahriman would be incensed, and my brother may turn upon me in vengeance. If now Zal is keen for war and will advance to fight us at Sari, I will deliver you to him, myself evacuate Amul, forbear to fight, and bring to infamy my honoured head. He blew the brazen trumpets, marched away his troops and left the captives at Sari; when Kishwad arrived he found the key to loose their bonds and sped toward Zabul, while Zal took the loved ones within the city and gave them palaces.",
+          "note": "Paraphrase of Firdausi, Shahnama, Naudar sec. 12 (Warner 1905); not verbatim."
+        },
+        {
+          "id": "4",
+          "text": "When Ighriras went from Amul to Rai the king asked: wherefore hast thou mingled colocynth with honey? Tears and compassion are not wholly needless, he answered; when thou hast the power to harm, fear God and do it not, for crown and girdle see many like thee but are no man's own for ever. At his reply the chieftain, raging like an elephant gone mad, drew forth his scimitar and cut his brother down; that man of wisdom and goodness passed away. Zal heard, and said: now shall the fortune of Afrasiyab be darkened and his throne laid waste; he blew the trumpets, arrayed the army like the eye of chanticleer, and went toward Pars in anger and revenge.",
+          "note": "Paraphrase of Firdausi, Shahnama, Naudar sec. 13 (Warner 1905); not verbatim."
+        }
+      ],
+      "persons": ["ighriras", "afrasiyab", "zal", "kishwad"]
+    }
+  ]
+}

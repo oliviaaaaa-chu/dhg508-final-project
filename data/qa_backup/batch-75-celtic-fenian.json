@@ -1,0 +1,448 @@
+{
+  "texts": [
+    {
+      "id": "celtic-fionn-boyhood-coming",
+      "title": {
+        "en": "The Coming of Finn: the Boy in the Wood and the Burning of Teamhair",
+        "zh": "芬恩之來臨：林中之童與塔拉大火"
+      },
+      "tradition": "celtic",
+      "category": "myth-religion",
+      "region": {
+        "en": "Slieve Bladhma (Slieve Bloom), Offaly/Laois, Ireland",
+        "zh": "愛爾蘭奧法利/萊斯郡斯利夫·布拉德瑪山（布盧姆山）"
+      },
+      "lat": 53.05,
+      "lon": -7.6,
+      "period": "Fenian cycle (Fianaigecht), medieval Irish MSS; Gregory retelling 1904",
+      "source": {
+        "archive": "Project Gutenberg",
+        "work": "Lady Augusta Gregory, Gods and Fighting Men (1904), Book One: Finn, Chapter I, eBook #14465",
+        "url": "https://www.gutenberg.org/cache/epub/14465/pg14465.txt"
+      },
+      "license": "Public domain (Gregory 1904)",
+      "summary": {
+        "en": "Born after his father Cumhal is killed by the sons of Morna, the boy Demne is nursed in secret in the woods of Slieve Bladhma, trained by two women druids in running, leaping and swimming, given the name Finn — the Fair — at a swimming match, finds the crane-skin treasure-bag of Manannan, eats the salmon of knowledge at the Boinn, and keeps Teamhair safe for a night from Aillen of the Sídhe by holding a spear against his forehead until sleep cannot come — winning the headship of the Fianna from Goll's own hand.",
+        "zh": "其父庫哈爾死於莫爾納諸子之手後出生的男孩德姆內，被秘密撫養於斯利夫·布拉德瑪山中；兩位女德魯伊訓練其跑、跳、泳；因游泳比賽得『芬恩』（俊美）之名；尋得瑪南南之鶴皮寶袋；於博因河食智慧之鮭；以矛抵額不眠、守塔拉整夜不被西德之艾倫焚毀——自戈爾之手贏得費恩納之首。"
+      },
+      "motifs": [
+        "miraculous-birth",
+        "wisdom-sacrifice",
+        "culture-hero",
+        "sacred-kingship"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "The salmon of knowledge episode overlaps the existing base record salmon-knowledge; this record cuts the whole coming-of-age arc, with the Aillen fire-fight as its climax. Finn's thumb of knowledge is the Fenian cycle's signature."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Condensed paraphrase of Gregory 1904: At the time Finn was born his father Cumhal of the sons of Baiscne, Head of the Fianna of Ireland, had been killed in battle by the sons of Morna that were fighting with him for the leadership; and his mother, beautiful long-haired Muirne, daughter of Tadg, son of Nuada of the Tuatha Dé Danann, did not dare to keep him with her; and two women, Bodhmall the woman Druid and Liath Luachra, came and brought him away to the woods of Slieve Bladhma and nursed him secretly. They gave him good training: one would run round a tree with a thorn switch, Finn after her with another switch; they left him in a field with hares and bid him not let the hares quit the field; to teach him swimming they threw him into the water and let him make his way out. Not verbatim.",
+          "note": "Condensed paraphrase of Gregory 1904, Book One ch. 1; not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Condensed paraphrase: Swimming against the lads of Magh Life, 'Fair he is and well shaped,' they said, and it was from that time he got the name of Finn, that is, Fair. He won seven games of chess from the king his mother had married, who guessed his blood and warned him away; he avenged a woman whose son had been killed, killing the champion who had given Cumhal his first wound, and took back the treasure-bag of crane-skin that had been Manannan's — Manannan's shirt and knife, Goibniu's belt and smith's hook, the shears of the King of Alban, the helmet of the King of Lochlann, the bones of Asal's pig — full at high tide and empty at ebb. Then for seven years he watched the salmon of the Boinn for the poet Finegas, and when it came and Finn roasted it, the blister on the skin burned his thumb and he put his thumb in his mouth: 'It is not Deimne but Finn your name is, and it is to you and not to myself the salmon was given in the prophecy.' Not verbatim.",
+          "note": "Condensed paraphrase of Gregory 1904, Book One ch. 1; not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "Condensed paraphrase: At Samhain Finn went up to the gathering of the High King at Teamhair and declared himself: 'I am Finn, son of Cumhal.' For nine years Aillen son of Midhna of Sidhe Finnachaidh had come every Samhain playing music of the Sídhe that put all who heard it to sleep, then breathing a flame out of his mouth and burning Teamhair. Finn pledged to keep it safe till morning: when the sorrowful music came he stripped the covering from the head of a deadly spear and held it to his forehead, so that sleep could not come on him; Aillen let his flame out, and Finn held up his fringed crimson cloak against it till the flame fell through the air into the ground; then Finn followed Aillen back to the Sídhe and cast the spear through his heart as he entered, and struck off his head. 'Well, Goll, is it your choice to quit Ireland or to put your hand in Finn's hand?' — and Goll, son of Morna, was the first to strike his hand in Finn's hand, the way there would be less shame on the rest. Not verbatim.",
+          "note": "Condensed paraphrase of Gregory 1904, Book One ch. 1; not verbatim."
+        }
+      ],
+      "language": "Old and Middle Irish",
+      "canonical_translation": "Lady Augusta Gregory, Gods and Fighting Men, London 1904 (public domain); underlying: Fianaigecht materials (MacNeill, 1908, public domain portions); Acallam na Senórach framework",
+      "narrative": {
+        "en": "Every hero-cycle needs a foundling, and the Fenian cycle's foundling grows up in a wood with two druid-women for schoolmistresses — and becomes the most just, most generous king of a company of wild men.\n\nAt the time Finn was born his father Cumhal of the sons of Baiscne, Head of the Fianna of Ireland, had been killed in battle by the sons of Morna that were fighting with him for the leadership; and his mother, beautiful long-haired Muirne, daughter of Tadg — son of Nuada of the Tuatha Dé Danann and of Ethlinn, mother of Lugh of the Long Hand — did not dare to keep him with her. Two women, Bodhmall the woman Druid and Liath Luachra, came and brought him away to care for, to the woods of Slieve Bladhma, and nursed him secretly because of his father's enemies. His mother came once in six years, through every lonely place, to find the little hunting cabin and kiss him and sing him a sleepy song, and go away again.\n\nHis education was a chase. One woman would run round a tree with a thorn switch, Finn after her with another switch, each trying to hit the other; they would leave him in a field with hares and bid him not let the hares quit the field, but keep before them whichever way they went; to teach him swimming they threw him into the water and let him make his way out. He killed his first wild duck by a cast that cut the wings from her. A herd of mountain deer went past the cabin once, and Finn caught two stags and brought them home: 'I will get one for you.'\n\nThe name came at a swimming match in Magh Life: beating the lads of the plain at their own sport, 'Fair he is and well shaped,' they said — and it was from that time he got the name of Finn, the Fair, put on him like a crown for swimming. Jealousy drove him on: seven games of chess won from the king who had married Muirne — and that king knew his blood at once, 'you are the son that Muirne my wife bore to Cumhal. And do not stop here any longer, that you may not be killed under my protection.'\n\nThen the spoils of ancestry. He avenged a woman whose only son had been killed, fighting and killing the great champion that had given Cumhal his first wound in his last battle — and took back from him the treasure-bag of crane-skin, whose pedigree runs through the whole mythological cycle: once the skin of Aoife, sweetheart of Ilbrec son of Manannan, changed to a crane through jealousy; kept in Manannan's house, holding Manannan's shirt and knife, Goibniu's belt and smith's hook, the shears of the King of Alban, the helmet of the King of Lochlann, and the bones of Asal's pig that the sons of Tuireann brought to Ireland — full at high tide and empty at ebb. It went from Manannan to Lugh son of Ethlinn, and after that to Cumhal, husband of Ethlinn's daughter: the Fenian cycle handing back to the Mythological cycle its own luggage.\n\nThen poetry, and the salmon. Finn went to learn from Finegas the poet living at the Boinn, for the poets thought it was always on the brink of water poetry was revealed; and he gave no name of his own but took the name of Demne. Seven years Finegas had watched the salmon of the Boinn, for it was in the prophecy that he would eat it and have all knowledge after. At last it came; he bade Finn roast it and not taste it; and when Finn brought it back, 'Did you eat any of it at all, boy?' 'I did not; but I burned my thumb putting down a blister that rose on the skin, and after doing that I put my thumb in my mouth.' 'It is not Deimne, but Finn your name is, and it is to you and not to myself the salmon was given in the prophecy' — and Finegas gave him the whole of the salmon, and from that time Finn had the knowledge that came from the nuts of the nine hazels of wisdom that grow beside the well that is below the sea. A second draught followed by accident: hunting by the well of the moon of Beag son of Buan, whose three daughter-guardians would not part with a vessel of it for less than red gold, one of them threw the vessel's water at him to stop him, and a share went into his mouth — all the knowledge that well could give.\n\nAnd then the master-feat of the cycle's beginning. At Samhain Finn went up to the High King's gathering at Teamhair and named himself before the horn of meetings: 'I am Finn, son of Cumhal... I am come now to get your friendship, and to give you my service.' For nine years, every Samhain, Aillen son of Midhna had come out of Sidhe Finnachaidh playing music of the Sídhe that put all who heard it to sleep — 'even women in their pains and men that were wounded would fall asleep' — and then breathed a flame out of his mouth and burned Teamhair. Finn pledged to keep it till morning, taking pledges of the king; and a fighting man, Fiacha son of Conga, who had loved Cumhal, sold him for a third of his winnings a deadly spear with a charm in its head: 'when you will hear the music of the Sídhe, let you strip the covering off the head of the spear and put it to your forehead, and the power of the spear will not let sleep come upon you.' The music came, the covering came off, the forehead took the spearhead's power; Aillen breathed his flame, and Finn held up his fringed crimson cloak against it until the flame fell down through the air and went into the ground. Then Finn followed Aillen back to the Sídhe and made the cast through his heart at the door, struck off his head and fixed it on a crooked pole at Teamhair till sunrise, while Aillen's mother keened: 'Nine times he burned Teamhair.'\n\nThe reward was the thing itself: 'Well, Goll, son of Morna, is it your choice to quit Ireland or to put your hand in Finn's hand?' 'By my word, I will give Finn my hand' — and when the charms of good luck had done their work, the chief men of the Fianna struck their hands in Finn's, Goll first, the way there would be less shame on the rest for doing it. The headship of the Fianna was Finn's until the end, at Almhuin of Leinster, in the white dun of Nuada of the Tuatha Dé Danann; and of him the sayings ran: a king and a seer and a poet; a Druid and a knowledgeable man; if his enemy and his own son had come before him to be judged, a fair judgment he would have given between them.",
+        "zh": "每個英雄故事圈都需要一個棄兒，而費恩納故事圈的棄兒在林中由兩位女德魯伊撫育成人——成為一隊野性男子的最公正、最慷慨之王。芬恩出生之時，其父——愛爾蘭費恩納之首、拜斯克尼之子庫哈爾——已在爭奪首領之位的戰鬥中被莫爾納諸子殺死；其母、美麗長髮的穆爾妮——塔德格之女、塔拉哈·迪·丹安之努阿達與魯格之母艾斯琳的後裔——不敢將他留在身邊。兩位婦女——女德魯伊波德馬爾與利亞·盧阿赫拉——將他帶往斯利夫·布拉德瑪山中秘密撫育。其母每六年穿過所有僻地來一次，尋到小獵屋、抱起他親吻、為他唱一支催眠短歌，而後離去。其教育即追逐：一名女子持棘枝繞樹奔跑、芬恩持另一枝追之互擊；他們把他與野兔留在田野、命他不許兔群離開田野、無論兔往何方都要趕在其前；教游泳之法是將他拋入水中、任其自行出水。他以一擊削去其翼殺死第一隻野鴨。一次一群山鹿經過小屋，芬恩追而捕得兩隻牡鹿帶回家：『我為你們弄一隻來。』其名得於馬格·利夫之游泳賽：他勝過平原上所有少年，眾人曰『他真俊美、身形真好』——自此他得名芬恩（俊美），如游泳之冠加於其身。嫉妒驅其前行：他從母親改嫁之王手中連勝七局棋——王即刻識出血統：『你便是穆爾妮為庫哈爾所生之子。別再停留於此，以免在我的庇護之下被殺。』繼而是祖先之戰利品。他為獨子被殺的婦人復仇，殺死曾在其父最後一戰中給予庫哈爾第一傷的巨漢——並取回鶴皮寶袋：其譜系貫穿整個神話故事圈——原為瑪南南之子伊爾布雷克之戀人艾奧菲因妒被化為鶴之皮；存於瑪南南家中，內藏瑪南南之衫與刀、戈伊布尼烏之帶與鍛鉤、阿爾巴王之剪、洛赫蘭王之盔、以及圖雷恩諾子攜來之阿薩爾豬骨——滿潮時滿、退潮時空。其袋由瑪南南傳至艾斯琳之子魯格、再至艾斯琳之女之夫庫哈爾：費恩納故事圈將神話故事圈自己的行李送還。繼而是詩與鮭。芬恩往博因河畔從詩人菲內加斯學詩——因詩人相信詩總在水邊顯現——隱名德姆內。菲內加斯守候博因智慧之鮭七年，因預言其食之而後得全知。鮭終至；他命芬恩烤之而不許嚐；芬恩捧鮭而回——『你究竟嚐過沒有，孩子？』『沒有；但皮上起了水泡、我按下去燙了拇指、隨後把拇指放進了嘴裡。』『你不叫德姆內，你的名字是芬恩，預言中的鮭是給你的、不是給我的』——菲內加斯將整條鮭給了他；自此芬恩擁有海底智慧泉旁九株榛樹堅果之知識。第二瓢知識又因意外而至：他在布安之子貝格的月亮井旁狩獵、三名持井之女不許他以少於赤金之價取水、其中一名擲水阻他、一口水入其口——該井所能給的知識盡歸於他。繼而是故事圈開篇之絕技。薩溫之夜芬恩上塔拉至至高王集會、於會議之角前自報家門：『我是芬恩、庫哈爾之子……我來求你的誼、獻我的忠。』九年來每逢薩溫，菲德納之子艾倫自北方菲納凱西德出來、奏西德之樂使聞者入睡——『連產中之婦與帶傷之男也會睡去』——繼而自口中吐火焚燒塔拉。芬恩立誓守至天明；曾敬庫哈爾的戰士菲亞赫以戰利品三分之一之價售他一支頭部藏咒的致命之矛：『聞西德之樂時，剝去矛頭之覆、以之抵額，矛之力便不容睡眠臨身。』樂聲至、覆布起、額頭承矛力；艾倫吐焰、芬恩舉紅穗斗篷相拒直至火焰穿空落地入土。隨後芬恩追艾倫至西德門前、乘其入門一矛穿心、斬首攜回塔拉、懸於彎杆至日昇，而艾倫之母哀哭：『他曾九次焚燒塔拉。』其賞即事物本身：『戈爾、莫爾納之子，你擇離開愛爾蘭、還是把手放進芬恩手中？』『我願把手交給芬恩』——吉兆咒行畢，費恩納首領們將手擊入芬恩手中、戈爾最先出手、好讓其餘之人少些羞恥。費恩納之首自始至終歸芬恩，於萊因斯特之阿爾文、塔拉哈·迪·丹安之努阿達所建白色雪堡之中；關於他的諺語如此流傳：王者、先知、詩人；德魯伊與博學之士；縱使仇敵與親子同至其前受審，他亦能公判。"
+      },
+      "functions": [
+        "Foundling-fosterage myth: the hidden heir trained in woodcraft, as charter of fosterage institutions",
+        "Thumb-of-knowledge theology: inspiration eaten by accident as the Fenian equivalent of the salmon-well",
+        "Treasure-bag genealogy: the crane-bag stitching the Fenian cycle back onto the Mythological cycle",
+        "Etiology of Samhain and of Teamhair's burning: the fireside watch as trial of the new leader"
+      ],
+      "variants": [
+        {
+          "name": "Macgnímartha Finn (The Boyhood Deeds of Finn)",
+          "text_tradition": "Acallam na Senórach framework and Laud 610, c. 1200",
+          "summary": "The older boyhood narrative gives the salmon-burning episode and the Fianna's tests (the shield, the pit of logs) which Gregory compresses.",
+          "cross_ref": "celtic-cattle-raid-cooley"
+        },
+        {
+          "name": "Aillen of the Sídhe (Fotha Catha Cnucha)",
+          "text_tradition": "Fotha Catha Cnucha, medieval tale",
+          "summary": "The Aillen episode stands as an independent tale of how Cumhal's son won the Fianna's headship; Gregory follows it closely.",
+          "cross_ref": "celtic-tuatha-under-hills"
+        }
+      ],
+      "primary_sources": [
+        {
+          "work": "The Coming of Finn (in Gregory's retelling)",
+          "citation": "Lady Augusta Gregory, Gods and Fighting Men, London 1904, Book One ch. 1 (public domain); underlying Fianaigecht materials.",
+          "language": "Old and Middle Irish"
+        }
+      ],
+      "secondary_sources": [
+        {
+          "work": "Proinsias Mac Cana, Celtic Mythology",
+          "citation": "Mac Cana 1970, Hamlyn — Finn as the poetic-seer type and the Fenian cycle's ideology."
+        },
+        {
+          "work": "Nora K. Chadwick, The Celts",
+          "citation": "Chadwick 1970, Penguin — the Fianna as institutions of the fiana-warband.",
+          "language": "English"
+        }
+      ],
+      "source_urls": [
+        {
+          "url": "https://www.gutenberg.org/cache/epub/14465/pg14465.txt",
+          "description": "Project Gutenberg — Gregory, Gods and Fighting Men (1904, public domain)",
+          "accessed": "2026-11-12"
+        }
+      ],
+      "sensitivity_flag": "none",
+      "provenance": {
+        "record_status": "complete",
+        "compiled": "2026-11-12",
+        "compiled_by": "DHG508 fieldwork compilation",
+        "review_status": "draft - pending human review"
+      }
+    },
+    {
+      "id": "celtic-diarmuid-grania-flight",
+      "title": {
+        "en": "Diarmuid and Grania: the Flight from Teamhair",
+        "zh": "迪爾木德與格蘭妮：逃出塔拉"
+      },
+      "tradition": "celtic",
+      "category": "myth-religion",
+      "region": {
+        "en": "Teamhair (Hill of Tara), Co. Meath, Ireland",
+        "zh": "愛爾蘭米斯郡塔拉王丘"
+      },
+      "lat": 53.59,
+      "lon": -6.54,
+      "period": "Tóraigheacht Dhiarmada agus Ghráinne, medieval MSS (16th c. recension); Gregory retelling 1904",
+      "source": {
+        "archive": "Project Gutenberg",
+        "work": "Lady Augusta Gregory, Gods and Fighting Men (1904), Book Seven: Diarmuid and Grania, Chapters I-II, eBook #14465",
+        "url": "https://www.gutenberg.org/cache/epub/14465/pg14465.txt"
+      },
+      "license": "Public domain (Gregory 1904)",
+      "summary": {
+        "en": "Grania, daughter of the High King, is betrothed to grey-haired Finn, Head of the Fianna, and regrets it at the wedding feast: a druid names each hero to her, the cap slips from Diarmuid's love-spot, an enchanted cup puts every man asleep, and she puts Diarmuid under geasa to carry her out — over the walls on the shafts of his spears, leaving unbroken bread behind him as proof he keeps his faith to Finn.",
+        "zh": "至高王之女格蘭妮被許給灰髮的費恩納之首芬恩，婚宴之上心生悔意：德魯伊為她逐一唱名英雄、迪爾木德的愛痣帽落、施咒之杯使滿座入睡；她以geasa束縛迪爾木德攜她出走——踏矛桿越牆而過、身後留下未掰開之麵包以證他對芬恩守其忠信。"
+      },
+      "motifs": [
+        "divine-marriage",
+        "taboo-transgression",
+        "quest-immortality",
+        "trickster"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "The elopement tale is Ireland's Helen-and-Paris story; the love-spot (ball seirce) granted to Diarmuid by the woman of the Sídhe makes consent literal and irresistible. Retold from public-domain print."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Condensed paraphrase of Gregory 1904: Finn sat out alone on the green lawn of Almhuin, without a wife or companion since Maighneis daughter of Black Garraidh died from him, and Diorraing the Druid named for him Grania, daughter of the High King of Ireland, 'the woman of the best make and shape and the best speech of the women of the whole world.' Oisin and Diorraing went to Teamhair to woo her; the king sent them to her own answer: 'If he is a fitting son-in-law for you, why would he not be a fitting husband for me?' But when Grania saw grey-haired Finn at the wedding, 'It is a great wonder it was not for Oisin Finn asked me, for he would be more fitting for me than a man that is older than my father.' Not verbatim.",
+          "note": "Condensed paraphrase of Gregory 1904, Book Seven chs. 1-2; not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Condensed paraphrase: Finn set her riddles and she answered better — 'What is sharper than a sword?' 'The wit of a woman between two men.' 'What is quicker than the wind?' 'A woman's mind.' At the feast a druid named to her each man of the Fianna, and of Diarmuid, grandson of Duibhne, said 'that is the best lover of women in the whole world.' Diarmuid kept his cap always over the love-spot the woman had left on his forehead, for no woman could see that spot but she would give him her love; parting the fighting dogs, the cap fell from him, Grania saw it, and great love came on her there and then. She filled the great golden cup with wine that had enchantment in it, and all drank of it but Oisin, Osgar, Caoilte, Diarmuid and Diorraing — and all that drank fell into a deep sleep. Not verbatim.",
+          "note": "Condensed paraphrase of Gregory 1904, Book Seven ch. 2; not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "Condensed paraphrase: 'Will you take my love, Diarmuid, son of Duibhne, and will you bring me away out of this house to-night?' 'I will not; I will not meddle with the woman that is promised to Finn.' 'Then I put you under Druid bonds, to bring me out of this house to-night before the awaking of Finn.' He asked the advice of each companion in turn — Oisin ('you are not guilty if the bonds were laid on you; follow Grania'), Osgar ('it is a pitiful man that would break his bonds'), Caoilte, Diorraing — and all said follow. He rose with tears of the size of mountain berries, passed over the wall of the dun on the shafts of his two spears — for 'every fighting man has leave to pass over the walls of any dun by the shafts of his spears' — and Grania met him on the grass. Wherever they went, Diarmuid left unbroken bread after him, as a sign to Finn he had kept his faith with him. Not verbatim.",
+          "note": "Condensed paraphrase of Gregory 1904, Book Seven chs. 1-2; not verbatim."
+        }
+      ],
+      "language": "Old and Middle Irish",
+      "canonical_translation": "Lady Augusta Gregory, Gods and Fighting Men, London 1904 (public domain); underlying: Tóraigheacht Dhiarmada agus Ghráinne (16th c. recension; 19th c. ed. O'Grady and Ní Shéaghdha)",
+      "narrative": {
+        "en": "The Pursuit of Diarmuid and Gráinne is Ireland's great romance of the elopement — a bride who chooses for herself at her own wedding, and a hero who obeys the law of geasa into the tragedy it foretells.\n\nFinn sat out alone on the green lawn of Almhuin of Leinster, without a wife or companion since Maighneis daughter of Black Garraidh had died from him, 'for quiet sleep is not used to come to a man that is without a fitting wife.' Oisin his son and Diorraing the Druid came to him, and Diorraing named the bride: Grania, daughter of the High King of Ireland, 'the woman of the best make and shape and the best speech of the women of the whole world.' Finn warned of the strife between himself and the High King; the two went to Teamhair to take the refusal for him. The king put them off to Grania's own answer — 'there is not a son of a king or of a great prince, there is not a champion in Ireland my daughter has not given a refusal to, and it is on me they all lay the blame' — and Grania answered with the wilful neatness of her whole character: 'If he is a fitting son-in-law for you, why would he not be a fitting husband for me?'\n\nThe wedding was set for a fortnight hence, and Finn gathered the seven battalions of the Fianna to Teamhair. But when Grania saw grey-haired Finn, she said it aloud: 'It is a great wonder it was not for Oisin Finn asked me, for he would be more fitting for me than a man that is older than my father.' Finn, who had the name of being quick with answers himself, set her riddles — what is whiter than snow (the truth), what is hotter than fire (the face of a hospitable man when he sees a stranger coming and the house empty), what is best for a champion (his doings to be high and his pride to be low), what is sharper than a sword ('the wit of a woman between two men'), what is quicker than the wind ('a woman's mind') — 'And indeed she was telling no lie when she said that.'\n\nAt the wedding feast, in the king's house of the Middle Court, the heroes were named to her one by one by a druid of Finn's people — Goll the ready fighter, Osgar son of Oisin, thin-legged Caoilte — and of the dark-haired man with cheeks like the rowan-berry, 'that is Diarmuid, grandson of Duibhne... the best lover of women in the whole world.' 'That is a good company,' said Grania. Diarmuid kept his cap always over the love-spot the woman of the Sídhe had left on his forehead — for no woman could see that spot but she would give him her love — and while he drove apart the fighting dogs, the cap fell; Grania saw it, and the blood rose in her heart. She sent for the great golden cup that held drink for nine times nine men, filled it with wine that had enchantment in it, and gave it first to Finn and then through the hall: all that drank fell into a heavy sleep, none waking but Oisin, Osgar, Caoilte, Diarmuid and Diorraing.\n\n'Will you take my love, Diarmuid, son of Duibhne, and will you bring me away out of this house to-night?' 'I will not. I will not meddle with the woman that is promised to Finn.' 'If that is so, I put you under Druid bonds, to bring me out of this house to-night before the awaking of Finn and of the King of Ireland from their sleep.' It is under bad bonds you are putting me, Grania — and he polled his friends like a judge: Oisin ('you are not guilty if the bonds were laid on you'), Osgar ('it is a pitiful man that would break his bonds'), Caoilte ('it would be better to me than all the riches of the world Grania to have given me that love'), Diorraing ('follow Grania, although you will get your death by it'). All said follow. He stood up and stretched out his hand for his weapons, and every tear he shed was of the size of a mountain berry; then he went out to the wall of the dun, put the shafts of his two spears under him — for 'every fighting man has leave to pass over the walls of any dun and of any strong place at all by the shafts of his spears' — rose with a light leap and came down on the grass outside, where Grania met him.\n\nHe tried once more to be honorable — turn back, and Finn will never get news of what you are after doing — and she refused: 'I will never part with you till death parts us.' He carried her to horses, and from there on foot, and wherever they went 'Diarmuid left unbroken bread after him, as a sign to Finn he had kept his faith with him.' At Doire-da-Bhoth, the Wood of the Two Huts, he cut down the wood around them and built a fence with seven doors of woven twigs, and set out a bed of soft rushes and birch tops for Grania in the very middle of the wood. The trackers found the trail the next morning; Finn's jealousy rose like weather; Bran the hound and Caoilte's shouting servant were sent as warnings by Oisin and Osgar; and Finn surrounded the wood. 'O Diarmuid, which of us is the truth with, myself or Oisin?' 'You never failed from your good judgment, Finn, and indeed I myself and Grania are here' — and Angus Og came on the cold wind and lifted the eloping pair over the hosts on his own cloak, and the pursuit of a lifetime began.",
+        "zh": "《迪爾木德與格蘭妮之追尋》乃愛爾蘭私奔愛情之大篇——在自己的婚禮上為自己做選擇的新娘，與服從geasa之法走入其預言之悲劇的英雄。芬恩獨坐萊因斯特阿爾文草場，自黑加雷之女梅西斯死後無妻無伴，『蓋無賢妻者夜間少得安眠』。其子奧辛與德魯伊迪奧林至其處；迪奧林報出新娘之名：愛爾蘭至高王之女格蘭妮——『全世婦女中身形最好、言談最佳之女』。芬恩自陳與至高王素有嫌隙；二人赴塔拉代其受拒。王把問題交還格蘭妮本人——『王族貴胄、全國勇士，我女無一不拒，責任全在我』——格蘭妮以其全篇性格之果斷俏答：『若他配作你之佳婿，為何不配作我之夫？』婚期定於兩週後，芬恩集費恩納七營至塔拉。而格蘭妮一見灰髮之芬恩便出聲：『奇哉，芬恩所求何不是我為奧辛所求，他比我父更年長之人更配於我。』芬恩自誇機敏、以謎語相試——什麼比雪更白（真理）、什麼比火更熱（屋空客至時好客者之面）、什麼於武士最佳（功高而傲低）、什麼比劍更利（『兩男之間一女之機智』）、什麼比風更快（『一女之心』）——『她說此話確無虛言』。婚宴於中廷王屋舉行，芬恩族中一德魯伊為她逐一唱名眾英雄——善戰者戈爾、奧辛之子奧斯加、瘦腿的卡爾特——而對那位黑髮、頰如花楸果之男子曰：『此即迪布內之孫迪爾木德……舉世最得女子歡心者。』『好一群人物，』格蘭妮曰。迪爾木德常年以帽覆西德女子留在其額上之愛痣——因無女子見痣而不以身相許——他驅散相鬥之犬時帽落；格蘭妮見之、心血上湧。她遣人取九九八十一人量之大金杯、盛以咒酒、先奉芬恩、再傳全廳：飲者皆入沉睡、不醒者惟奧辛、奧斯加、卡爾特、迪爾木德與迪奧林五人。『迪爾木德、迪布內之子，你願受我之愛、今夜攜我出此屋否？』『不願。我不染指許給芬恩之女。』『既如此，我以德魯伊之束縛加於你：今夜、在芬恩與愛爾蘭王醒來之前，攜我出此屋。』『格蘭妮，你加於我的是惡縛』——他如法官逐一問計於同伴：奧辛（『縛非你自取，則你無罪；追隨格蘭妮』）、奧斯加（『毀縛者可鄙』）、卡爾特（『格蘭妮若以那愛予我，勝過世上一切財富』）、迪奧林（『追隨格蘭妮，縱因此得死，亦令我痛』）。皆曰追隨。他起身伸手取兵器、每滴淚大如山莓；出至堡牆、以雙矛之桿撐身——『凡戰士皆有權踏矛桿越任何堡壘之牆』——輕躍而下、落於牆外草上、格蘭妮在彼相迎。他再試一次求其正——回去吧，芬恩永不知道你所行之事——她拒絕：『至死我與你不分離。』他攜她至馬、繼而步行；所到之處『迪爾木德身後皆留未掰開之麵包，作為對芬恩守其忠信之證』。於兩茅屋之林（Doire-da-Bhoth）他伐林四周、築七門編枝之籬、為格蘭妮於林之正中鋪設柔薦與樺梢之床。翌晨追蹤者循跡而至；芬恩之妒如天氣驟起；奧辛與奧斯加遣忠犬布蘭與卡爾特之呼聲僕人預警；芬恩圍林。『迪爾木德，你我之間誰說真話——我還是奧辛？』『芬恩，你的判斷從無差錯——我和格蘭妮確實在此』——安古斯·歐格乘冷風而來、以自己的斗篷將私奔二人送過大軍之頂，一生的追捕自此開始。"
+      },
+      "functions": [
+        "Charter of the geasa bond: the elopement compelled by debt-language as the cycle's central legal event",
+        "The love-spot doctrine: beauty as compulsion — consent engineered by the otherworld",
+        "The unbroken bread: loyalty display within betrayal — faith kept in the very act of its breach",
+        "Riddle-courtship of Finn and Grania: wisdom dialogue as character diagnosis before tragedy"
+      ],
+      "variants": [
+        {
+          "name": "Tóraigheacht Dhiarmada agus Ghráinne (16th c. recension)",
+          "text_tradition": "16th c. MSS; ed. O'Grady, Silva Gadelica (1892, public domain)",
+          "summary": "The full pursuit with the shelter-list of every household that refuses them — the tale's famous catalogue of refusals under Finn's threatened displeasure.",
+          "cross_ref": "celtic-fionn-boyhood-coming"
+        },
+        {
+          "name": "The love-spot (ball seirce) in Finn-tale tradition",
+          "text_tradition": "Fenian cycle, medieval and folk",
+          "summary": "The love-spot granted to Diarmuid by a woman of the Sídhe is the fixed device; later tellings add the cap falling while bathing or at chess.",
+          "cross_ref": "none"
+        }
+      ],
+      "primary_sources": [
+        {
+          "work": "Tóraigheacht Dhiarmada agus Ghráinne (in Gregory's retelling)",
+          "citation": "Lady Augusta Gregory, Gods and Fighting Men, London 1904, Book Seven chs. 1-2 (public domain); underlying: Tóraigheacht Dhiarmada agus Ghráinne, 16th c. recension.",
+          "language": "Old and Middle Irish"
+        }
+      ],
+      "secondary_sources": [
+        {
+          "work": "Proinsias Mac Cana, Celtic Mythology",
+          "citation": "Mac Cana 1970, Hamlyn — the pursuit tale and the love-triangle ideology of the Fenian cycle."
+        },
+        {
+          "work": "Nora K. Chadwick, The Celts",
+          "citation": "Chadwick 1970, Penguin — the Fenian material and its Pan-Celtic spread.",
+          "language": "English"
+        }
+      ],
+      "source_urls": [
+        {
+          "url": "https://www.gutenberg.org/cache/epub/14465/pg14465.txt",
+          "description": "Project Gutenberg — Gregory, Gods and Fighting Men (1904, public domain)",
+          "accessed": "2026-11-12"
+        }
+      ],
+      "sensitivity_flag": "none",
+      "provenance": {
+        "record_status": "complete",
+        "compiled": "2026-11-12",
+        "compiled_by": "DHG508 fieldwork compilation",
+        "review_status": "draft - pending human review"
+      }
+    },
+    {
+      "id": "celtic-diarmuid-boar-death",
+      "title": {
+        "en": "The Boar of Beinn Gulbain: the Death of Diarmuid",
+        "zh": "本·古爾班之野豬：迪爾木德之死"
+      },
+      "tradition": "celtic",
+      "category": "myth-religion",
+      "region": {
+        "en": "Beinn Gulbain (Benbulben), Co. Sligo, Ireland",
+        "zh": "愛爾蘭斯萊戈郡本·古爾班山（本布爾本山）"
+      },
+      "lat": 54.29,
+      "lon": -8.59,
+      "period": "Tóraigheacht Dhiarmada agus Ghráinne, medieval MSS (16th c. recension); Gregory retelling 1904",
+      "source": {
+        "archive": "Project Gutenberg",
+        "work": "Lady Augusta Gregory, Gods and Fighting Men (1904), Book Seven: Diarmuid and Grania, Chapter VIII, eBook #14465",
+        "url": "https://www.gutenberg.org/cache/epub/14465/pg14465.txt"
+      },
+      "license": "Public domain (Gregory 1904)",
+      "summary": {
+        "en": "At the peace-feast's end a hound's voice wakes Diarmuid in the night; against Angus's bonds and Grania's advice he takes the small weapons and meets the earless green boar of Beinn Gulbain — the very death Finn names for him; gored to the bowels he kills the boar with a sword-hilt, and calls on Finn for the drink from his two palms that would heal any sickness; Finn lets the water slip through his hands twice at the thought of Grania, and brings it the third time as Diarmuid dies.",
+        "zh": "和宴之末，夜間犬吠聲喚醒迪爾木德；他不顧安古斯之禁與格蘭妮之勸、攜小兵器迎向本·古爾班之無耳綠豬——芬恩親口言明之死因；他被剖至腸出、以劍柄擊斃野豬，求芬恩以其雙掌之水療疾；芬恩因想起格蘭妮兩度令水自指間流去，第三度送到時迪爾木德已死。"
+      },
+      "motifs": [
+        "taboo-transgression",
+        "prophetic-vision",
+        "sacred-kingship",
+        "transformation"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "The boar of Benbulben is the cycle's doom-beast (Angus's bond against hunting pigs); the healing drink from Finn's palms inverts the salmon of knowledge — the gift of life withheld. Benbulben is also W. B. Yeats's burial hill."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Condensed paraphrase of Gregory 1904: On the last night of the year of the peace-feast, Diarmuid was in his sleep at Rath Grania, and in the night he heard the voice of hounds; Grania caught him and bade him lie down — 'it is the Tuatha Dé Danann are doing that on you' — but the voice awakened him the third time, with the day come. 'Bring the Mor-alltach, the Great Fierce One, the sword of Manannan, with you, and the Gae Dearg,' said Grania. 'I will not; but I will take the Beag-alltach, the Little Fierce One, and the Gae Buidhe in the one hand, and the hound Mac an Chuill, the Son of the Hazel, in the other hand.' On the top of Beinn Gulbain he found Finn alone before him. 'It is the earless Green Boar of Beinn Gulbain is in it, and it is by him you will come to your death, and Angus knew that well when he put bonds on you not to go hunting pigs.' 'I never knew of those bonds; but however it is, I will not quit this through fear of him.' Not verbatim.",
+          "note": "Condensed paraphrase of Gregory 1904, Book Seven ch. 8; not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Condensed paraphrase: The Gae Buidhe gave the boar not a scratch; the Beag-alltach broke in two halves on his back; the boar charged, cut the sod from under Diarmuid's feet, and Diarmuid caught him on rising with a leg on each side and his face to his hinder parts, and rode him headlong down the hill and over the red stream of Ess Ruadh in three high leaps — until on the top of the mountain the boar freed himself, rushed at Diarmuid and ripped him open so his bowels came out about his feet. And Diarmuid made a cast at him with the hilt of his broken sword and dashed out his brains — and Rath na h-Amhrann, the Rath of the Sword Hilt, is the name of that place to this day. Not verbatim.",
+          "note": "Condensed paraphrase of Gregory 1904, Book Seven ch. 8; not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "Condensed paraphrase: Finn came with the Fianna as the pains of death were coming on Diarmuid. 'It is well pleased I am to see you that way, Diarmuid... For all that, you have power to heal me, Finn, if you had a mind to do it. For the time you were given the great gift of knowledge at the Boinn, you got this gift with it, that any one you would give a drink to out of the palms of your hands would be young and well again from any sickness after it.' 'You are not deserving of that drink from me.' Then Finn went to the well and took the full of his two hands of the water; but when he was no more than half-way back, the thought of Grania came on him, and he let the water slip through his hands. A second time he let it slip. 'I swear by my sword and by my spear,' said Osgar, 'that if you do not bring the water without any more delay, Finn, there will not leave this hill but yourself or myself.' Finn went the third time and brought the water, but as he reached him the life went out of Diarmuid's body; and the Fianna gave three great heavy shouts, keening for Diarmuid. Not verbatim.",
+          "note": "Condensed paraphrase of Gregory 1904, Book Seven ch. 8; not verbatim."
+        }
+      ],
+      "language": "Old and Middle Irish",
+      "canonical_translation": "Lady Augusta Gregory, Gods and Fighting Men, London 1904 (public domain); underlying: Tóraigheacht Dhiarmada agus Ghráinne, 16th c. recension",
+      "narrative": {
+        "en": "The death of Diarmuid is the Fenian cycle's tragedy of small omissions: the small sword taken instead of the great, the third waking not heeded, the water spilled twice — and a hero dead of arithmetic.\n\nPeace had been made. Grania had told Diarmuid it was a shame the two best men in Ireland — the High King and Finn — had never come to their house, and made a feast for them that lasted a year. And on the last night of the year, Diarmuid was in his sleep at Rath Grania, and in the night he heard the voice of hounds. He started up; Grania caught him with her two arms and bade him lie down — 'it is the Tuatha Dé Danann are doing that on you, on account of Angus of Brugh na Boinn.' The voice came again and he started up a second time; she caught him again. The third time, the day come with its full light, he said: 'I will go after the voice of the hound now, since the day is here.' 'If that is so,' said Grania, 'bring the Mor-alltach, the Great Fierce One, the sword of Manannan, with you, and the Gae Dearg.' 'I will not; but I will take the Beag-alltach, the Little Fierce One, and the Gae Buidhe in the one hand, and the hound Mac an Chuill, the Son of the Hazel, in the other hand.' The small weapons for a small errand: the whole tragedy in an inventory.\n\nOn the top of Beinn Gulbain he found Finn before him, without any one at all in his company. 'It is not a hunt I was making,' said Finn, 'but I and some of the Fianna went out after midnight, and one of our hounds came on the track of a wild boar... it is many a time the Fianna hunted him and he went away from them every time till now, and he has killed thirty of them this morning.' 'I will not leave the hill through fear of him,' said Diarmuid. 'It would be best for you, Diarmuid, for it is the earless Green Boar of Beinn Gulbain is in it, and it is by him you will come to your death, and Angus knew that well when he put bonds on you not to go hunting pigs.' 'I never knew of those bonds; but however it is, I will not quit this through fear of him. And let you leave Bran with me now, along with Mac an Chuill.' 'I will not,' said Finn, 'for it is often he met this boar before and could do nothing against him.' And Finn went away and left Diarmuid alone on the top of the hill. 'You made this hunt for my death, Finn; and if it is here I am to find my death, I have no use in going aside from it now.'\n\nThe fight is a lesson in wrong tools. The Gae Buidhe struck the boar full in the face and did not give him a scratch; the Beag-alltach made a full stroke at his back and broke in two halves. The boar charged and cut the sod from under Diarmuid's feet — and Diarmuid caught hold of him on rising, a leg on each side, his face to his hinder parts, and rode him headlong down the hill; the boar gave three high leaps over the red stream of Ess Ruadh backwards and forwards and could not rid himself of his rider; up the height of the mountain again, and at last he freed himself, rushed at the fallen man, and ripped him open, so that his bowels came out about his feet. And Diarmuid made a cast at him with the hilt of the broken sword yet in his hand, and dashed out his brains, so that he fell dead there and then — and Rath na h-Amhrann, the Rath of the Sword Hilt, is the name of that place to this day. Boar and man killed each other; the mountain kept the account.\n\nThen the payment scene the whole cycle is remembered by. Finn came with the Fianna as the pains of death were coming on Diarmuid: 'It is well pleased I am to see you that way, Diarmuid, and it is a pity all the women of Ireland not to be looking at you now, for your great beauty is turned to ugliness.' 'For all that, you have power to heal me, Finn, if you had a mind to do it. For the time you were given the great gift of knowledge at the Boinn, you got this gift with it, that any one you would give a drink to out of the palms of your hands would be young and well again from any sickness after it.' 'You are not deserving of that drink from me.' Diarmuid recited the ledger of his service — the three red rushes round the burning house, fifty killed in every rush without a wound; the loosing of Finn from the House of the Quicken Tree with his own blood and the blood of the Three Kings of the Island of Floods — 'and if I had asked a drink of you that night, you would not have refused it.' Osgar, nearer in blood to Finn than to Diarmuid, said he would not let the drink be refused, and swore by his sword that if it were not brought without delay there would not leave this hill but one of them. Finn went to the well, took the full of his two hands of the water — and no more than half-way back, the thought of Grania came on him, and he let the water slip through his hands. A second time. 'I give my word,' said Diarmuid, 'it was of your own will you let it from you.' The third time, pressed by Osgar's oath, Finn brought the water to Diarmuid — but as he reached him, the life went out of his body; and the whole company gave three great heavy shouts, keening for Diarmuid. Angus came on the cold wind for his foster-son, gave three terrible cries, and bore the body to the Brugh in the lasting rocks: 'and if I cannot bring him back to life, I will put life into him the way he can be talking with me every day.'",
+        "zh": "迪爾木德之死乃費恩納故事圈關於微小遺漏之悲劇：取小劍而非大劍、第三次醒來未被理會、水兩度潑灑——一位英雄死於算術。和解已成。格蘭妮曾對迪爾木德言：愛爾蘭最好的兩人——至高王與芬恩——從未光臨其家是羞恥，遂為他們設宴一年。歲末最後一夜，迪爾木德在格蘭妮堡中睡臥、夜間聽見犬吠之聲。他驚起；格蘭妮雙臂抱住他、命他躺下——『這是塔拉哈·迪·丹安因安古斯之故對你所作』。聲音再至、他第二次驚起；她又抓住他。第三次，天已大亮，他說：『既然天亮了，我現在就去追犬吠之聲。』『既如此，』格蘭妮曰，『帶上瑪南南之劍、偉大兇猛者摩爾-奧爾塔赫，與紅矛蓋·迪爾格。』『我不帶；我只一手持小劍貝格-奧爾塔赫與黃矛蓋·布維、另一手帶獵犬榛子之子麥克·安·庫伊爾。』小事帶小兵器：全篇悲劇濃縮於一張清單。本·古爾班山頂他先見到芬恩、身邊一無一人。『我不是在狩獵，』芬恩曰，『我與數名費恩納午夜後外出、一犬遇上野豬蹤跡……費恩納多次獵牠、牠每次都逃脫，今晨已殺死三十人。』『我不會因怕牠離開此山，』迪爾木德曰。『迪爾木德，那對你最好——因為那是本·古爾班的無耳綠豬，你將因牠而死；安古斯對你下過不得獵豬之縛時深知此事。』『我從不知道那些縛；無論如何，我不會因懼牠離開。讓布蘭與麥克·安·庫伊爾留在我身邊。』『不會，』芬恩曰，『牠多次遇此豬而無能為力。』芬恩離去、獨留迪爾木德於山頂。『芬恩，你此獵是為我死而設；若我命終於此，我現在也無須避開。』搏鬥是一堂錯誤兵器之課。黃矛正中豬面而不傷分毫；小劍全力擊其背、斷為兩截。野豬衝撞、剷走迪爾木德足下之草皮——迪爾木德起身抱住牠、一腿跨一側、面朝其後軀、騎豬衝下山岡；野豬在埃斯·魯阿紅流上向前向後三度高躍、仍不能擺脫其騎者；再上山頂、終於掙脫、撲向倒地之人、剖開其身、腸流於足邊。迪爾木德以手中尚存之斷劍劍柄擲擊、擊碎其腦——野豬當場死亡——該地至今名為劍柄之堡（Rath na h-Amhrann）。人豬互斃；山岳記下此帳。繼而是全故事圈所銘記之償付場景。死痛臨身之際芬恩率費恩納而至：『見你如此我甚為快意，迪爾木德——可惜全愛爾蘭的女子此刻不能一睹你的容顏，你的大美已變為醜陋。』『儘管如此，芬恩，你若有意，便有能力醫我。你當年在博因河得大知識之賜時，隨之得了此能力：凡你以雙掌奉飲之人，飲後皆能從任何疾病中回復年輕康健。』『你不配從我這裡得此飲。』迪爾木德歷數其功之帳——燃屋三紅衝、每衝殺五十而自身無傷；以己血與洪流島三王之血自快活樹之屋釋放芬恩——『那夜我若向你求飲，你不會拒絕。』奧斯加——血緣上更近芬恩——言必不許拒絕，並以其劍起誓：若不即刻送水，此山將只餘你們二人之一。芬恩赴井、雙手掬滿泉水——行至半途、格蘭妮之念襲來、水自指間流去。第二次又如此。『我以言語起誓，』迪爾木德曰，『是你自己願意放開的。』第三次、在奧斯加之誓下，芬恩把水送到迪爾木德面前——但剛一伸手，生氣已離其身；全隊發出三聲沉重之呼、為迪爾木德哀哭。安古斯乘冷風而來為其養子、發三聲可怖之呼、將遺體帶往永石之堡（Brugh na Boinne）：『若我不能使他復生，我便賦予他生命，使他每日能與我交談。』"
+      },
+      "functions": [
+        "Doom by inventory: the wrong weapons chosen as fate's mechanism — the small errand kills the great man",
+        "The healing drink withheld: Finn's palms as inverted sacrament of the salmon of knowledge",
+        "Guilt measured in water: two spilled handfuds as the cycle's precise unit of culpability",
+        "Etiology of Rath na h-Amhrann (the Rath of the Sword Hilt) on Beinn Gulbain"
+      ],
+      "variants": [
+        {
+          "name": "Tóraigheacht Dhiarmada agus Ghráinne (16th c. recension)",
+          "text_tradition": "16th c. MSS; ed. O'Grady, Silva Gadelica (1892, public domain)",
+          "summary": "The death scene with the full dialogue of the three attempts and Grania's lament, followed by Angus's carrying of the body to the Brugh.",
+          "cross_ref": "celtic-diarmuid-grania-flight"
+        },
+        {
+          "name": "Angus and the swans over Benbulben (folk tradition)",
+          "text_tradition": "Oral tradition of Sligo",
+          "summary": "Later tellings add four swans over the mountain singing Diarmuid's death-song — the otherworld keening attached to the hill itself.",
+          "cross_ref": "none"
+        }
+      ],
+      "primary_sources": [
+        {
+          "work": "Tóraigheacht Dhiarmada agus Ghráinne (in Gregory's retelling)",
+          "citation": "Lady Augusta Gregory, Gods and Fighting Men, London 1904, Book Seven ch. 8 (public domain); underlying: Tóraigheacht Dhiarmada agus Ghráinne, 16th c. recension.",
+          "language": "Old and Middle Irish"
+        }
+      ],
+      "secondary_sources": [
+        {
+          "work": "Proinsias Mac Cana, Celtic Mythology",
+          "citation": "Mac Cana 1970, Hamlyn — the death of Diarmuid as the Fenian Iliad's tragic center."
+        },
+        {
+          "work": "Nora K. Chadwick, The Celts",
+          "citation": "Chadwick 1970, Penguin — the pursuit-and-death narrative and its Scottish Gaelic ballad forms.",
+          "language": "English"
+        }
+      ],
+      "source_urls": [
+        {
+          "url": "https://www.gutenberg.org/cache/epub/14465/pg14465.txt",
+          "description": "Project Gutenberg — Gregory, Gods and Fighting Men (1904, public domain)",
+          "accessed": "2026-11-12"
+        }
+      ],
+      "sensitivity_flag": "none",
+      "provenance": {
+        "record_status": "complete",
+        "compiled": "2026-11-12",
+        "compiled_by": "DHG508 fieldwork compilation",
+        "review_status": "draft - pending human review"
+      }
+    },
+    {
+      "id": "celtic-oisin-tir-na-nog",
+      "title": {
+        "en": "Oisin in Tir na nOg: the Three Hundred Years and the Touch of Earth",
+        "zh": "奧辛於青春之鄉：三百年與觸土之詛"
+      },
+      "tradition": "celtic",
+      "category": "myth-religion",
+      "region": {
+        "en": "Tir na nOg (the Country of the Young), western ocean otherworld (symbolic pin off Kerry)",
+        "zh": "青春之鄉（提爾納諾格），西方海洋彼岸世界（象徵定位：克里的近海）"
+      },
+      "lat": 52.1,
+      "lon": -10.5,
+      "period": "Fenian cycle (Acallam na Senórach and later), medieval MSS; Gregory retelling 1904",
+      "source": {
+        "archive": "Project Gutenberg",
+        "work": "Lady Augusta Gregory, Gods and Fighting Men (1904), Book Ten: The End of the Fianna, Chapters II-III, and Book Eleven, Chapter I, eBook #14465",
+        "url": "https://www.gutenberg.org/cache/epub/14465/pg14465.txt"
+      },
+      "license": "Public domain (Gregory 1904)",
+      "summary": {
+        "en": "Niamh of the Golden Head rides out of the western sea on a white horse shod with gold and calls Oisin away from the last hunting of the Fianna to Tir na nOg — no death, no wasting, a hundred gifts — with one law: never set foot to ground. Three hundred years later he returns to Ireland for love of Finn's memory, helps a falling rider from his saddle by a stoop to the stone trough, and touches earth: the whole weight of the years falls on him at once, and the blind old man tells his story to Patrick.",
+        "zh": "金髮尼芙乘金蹄白馬自西方海上而來，喚奧辛離開費恩納最後一次狩獵、前往青春之鄉——無死、無衰、百般贈禮——惟一法度：足不可觸地。三百年後他因思念芬恩返回愛爾蘭，為扶助落鞍之騎手俯身於石槽、觸地——歲月之全部重量瞬間壓身；失明的老人向帕特里克講述自己的故事。"
+      },
+      "motifs": [
+        "otherworld-voyage",
+        "quest-immortality",
+        "taboo-transgression",
+        "prophetic-vision"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Tir na nOg is the Irish otherworld of youth (Mag Mell/Tír Tairngire type); the saddle-and-earth taboo is the cycle's version of the touched-shore law seen in Bran's voyage."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Condensed paraphrase of Gregory 1904: One misty morning what were left of the Fianna were gathered together to Finn, hunting near the borders of Loch Lein, and they saw coming towards them from the west a beautiful young woman riding on a very fast slender white horse, with a queen's crown on her head and a dark cloak of silk down to the ground having stars of red gold on it — and the horse shod with shining gold. 'Niamh of the Golden Head is my name, and I have a name beyond all the women of the world, for I am the daughter of the King of the Country of the Young... I have given my love and my affection to your own son, Oisin of the strong hands.' Not verbatim.",
+          "note": "Condensed paraphrase of Gregory 1904, Book Ten ch. 2; not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Condensed paraphrase: She sang Oisin her country's charter: 'It is the country is most delightful of all that are under sun; the trees are stooping down with fruit and with leaves and with blossom. Honey and wine are plentiful there... no wasting will come on you with the wasting away of time; you will never see death or lessening... You will get the royal crown of the King of the Young... a hundred glad young girls shining like the sun... you will get everything I have said to you, and delights beyond them, that I have no leave to tell; and I myself will be with you as a wife.' 'I put on you the bonds of a true hero, you to come away with me now to the Country of the Young.' And Oisin kissed Finn his father and bade him farewell and went up on the horse with Niamh; at the strand the horse shook himself and neighed three times and made for the sea, and the Fianna gave three great sorrowful shouts. Not verbatim.",
+          "note": "Condensed paraphrase of Gregory 1904, Book Ten ch. 2; not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "Condensed paraphrase: Hundreds of years — some say thousands — Oisin was in the Country of the Young, and it seemed short to him. He asked leave to go back to Ireland, and Niamh gave it three times warned: 'if you once get off the horse while you are away, or if you once put your foot to ground, you will never come back here again... you will be an old man, blind and withered.' He came back and found Finn gone and Almhuin's dun gone to weeds and nettles; and riding near a place where men were raising a stone, he saw a rider let his saddle-cushion slip, and he stooped to help him — 'and in the minute all the years came on me, and I was lying on the ground, and the horse took fright and went away and left me there, an old man, weak and spent, without sight, without shape, without comeliness, without strength or understanding, without respect.' And it was to Patrick Oisin was brought, and to him he told the whole story. Not verbatim.",
+          "note": "Condensed paraphrase of Gregory 1904, Book Eleven ch. 1; not verbatim."
+        }
+      ],
+      "language": "Old and Middle Irish",
+      "canonical_translation": "Lady Augusta Gregory, Gods and Fighting Men, London 1904 (public domain); underlying: Acallam na Senórach (ed. Standish Hayes O'Grady, 1900, public domain portions); Tucait Innarba na nEses Menn",
+      "narrative": {
+        "en": "The last great story of the Fenian cycle is a three-hundred-year goodbye — the hero who accepts an offer of immortality, and loses it to an act of kindness.\n\nOne misty morning what were left of the Fianna were gathered together to Finn, hunting near the borders of Loch Lein, where the bushes were in blossom and the birds singing, and they were waking up the deer that were as joyful as the leaves of a tree in summer-time. And it was not long till they saw coming towards them from the west a beautiful young woman riding on a very fast slender white horse: a queen's crown on her head, a dark cloak of silk down to the ground with stars of red gold on it, her eyes blue and as clear as the dew on the grass, a gold ring hanging down from every golden lock of her hair, her cheeks redder than the rose, her skin whiter than the swan upon the wave, her lips as sweet as honey mixed through red wine — and the horse shod with shining gold, a silver crown on the back of his head.\n\n'Niamh of the Golden Head is my name,' she said, 'and I have a name beyond all the women of the world, for I am the daughter of the King of the Country of the Young.' Finn asked her husband and her trouble; 'My husband is not gone from me, for I never went yet to any man. But O King of the Fianna, I have given my love and my affection to your own son, Oisin of the strong hands' — by reason of his great name, and the report of his bravery and comeliness. And when Oisin heard what she was saying, there was not a limb of his body that was not in love with beautiful Niamh.\n\nShe sang him the country's charter, the fullest otherworld advertisement in Irish: trees stooping down with fruit and leaves and blossom; honey and wine plentiful; 'no wasting will come on you with the wasting away of time; you will never see death or lessening'; feasts, music, silver and gold; a hundred swords, a hundred cloaks of the dearest silk, a hundred horses quickest in battle, a hundred willing hounds; the royal crown of the King of the Young; and 'delights beyond them, that I have no leave to tell; you will get beauty, strength and power, and I myself will be with you as a wife.' 'I put on you the bonds of a true hero,' she said, 'you to come away with me now to the Country of the Young.' Oisin kissed Finn his father, bade farewell to the Fianna, and went up on the horse; at the strand the horse shook himself and neighed three times, and made for the sea; and Finn said: 'It is my grief to see you going from me; and I am without a hope ever to see you coming back to me again.'\n\nHundreds of years — some say thousands — Oisin was in the Country of the Young, and it seemed short to him. He married Niamh, had two sons and a daughter, did not feel the time passing; and at last the desire came on him to see Finn and his comrades again. Niamh gave leave, and warned him three times with the same law: 'if you once get off the horse while you are away, or if you once put your foot to ground, you will never come back here again... you will be an old man, blind and withered, without liveliness, without mirth, without running, without leaping. And it is not now as it used to be, and you will not see Finn and his people, for there is not now in the whole of Ireland but a Father of Orders and armies of saints.'\n\nHe came back to green Ireland and looked about him, but there were no tidings to be got of Finn. A great troop of riders came toward him from the west and wondered at his size; and when he asked for Finn, they answered with the wound in one sentence: 'We often heard of Finn that lived long ago, and there is never was his equal for strength or bravery or a great name; and there is many a book written down by the sweet poets of the Gael about his doings and the doings of the Fianna.' Finn was a book now. At Almhuin of Leinster the great dun was weeds and nettles. Then the fatal kindness: riding near a place where men were raising a great stone, he saw a rider let his saddle-cushion slip, and, stooping to help him — 'I had such a wish and such a feeling for it that I forgot what I was told, and I got off the horse' — in the minute all the years came on him, and he was lying on the ground, and the horse took fright and went away and left him there, an old man, weak and spent, without sight, without shape, without comeliness, without strength or understanding, without respect.\n\nIt was to Patrick Oisin was brought; and in Patrick's house he told the whole story, and argued with the saint about Finn's soul — 'there is not a hell or a heaven there but I will put it down... if Osgar, my own son, is there, there is not in hell or in the Heaven of God a troop so great that he could not destroy it' — the last of the Fianna, keeping the old quarrel alive between the heroic age and the new one, one blind voice remembering everything.",
+        "zh": "費恩納故事圈最後的偉大故事是一場三百年的告別——接受不朽之邀的英雄，因一次善舉而失去它。一個多霧的清晨，費恩納的倖存者聚於芬恩身邊、在萊因湖畔狩獵——灌木開花、鳥兒歌唱、他們喚醒如夏日樹葉般歡欣的鹿群。不久他們見一絕美少女自西方乘一匹極快之細足白馬而來：頭戴王后之冠、身披及地黑絲斗篷綴赤金之星、雙眼湛藍清如草上之露、每縷金髮垂一金環、雙頰紅過玫瑰、膚白勝水上天鵝、唇甜如滲入紅酒之蜜——馬則釘著閃亮金蹄、腦後戴銀冠。『我的名字是金髮尼芙，我的名望超越世間所有女子，因我是青春之國王的女兒。』芬恩問其夫與其煩憂；『我沒有丈夫，因我從未嫁人。但費恩納之王啊，我已將我的愛戀與深情給了你的兒子、強手奧辛』——因他的大名與其勇武俊美之名。奧辛一聞此言，渾身無一處不愛美麗的尼芙。她為他唱出其國之憲章——愛爾蘭文學中最完整的彼岸廣告：果實、葉與花垂掛之樹；蜜與酒豐足；『隨時間流逝的衰竭不會臨於你；你永不見死亡或減損』；宴飲、音樂、金銀；百劍、百件極珍絲氅、百匹戰中最快之馬、百隻馴犬；青春之王的王冠；以及『更多樂趣，我無權言說；你將得美貌、力量與權柄，而我自己將為妻與你同在』。『我以真英雄之縛加於你：今夜隨我去青春之鄉。』奧辛親吻其父芬恩、辭別費恩納、上馬同行；至海灘馬嘶三聲、直奔大海；芬恩曰：『見你離我而去是我的悲痛；再見你歸來我已無望。』數百年——有人言數千年——奧辛居於青春之鄉，而於他恍如短暫。他娶尼芙、育二子一女、不覺時光流逝；最後思念芬恩與同伴之心湧起、求歸愛爾蘭。尼芙許之、三次以同一法度警示：『途中你若一次下馬、或一次足觸土地，便永不復返……你將成為盲而枯萎之老人，無生氣、無歡笑、無奔跑、無跳躍。而今日之愛爾蘭已非昔日，你將見不到芬恩與其族人，因全愛爾蘭今惟有一位修會之父與聖徒之軍。』他回到綠色的愛爾蘭、環顧四周、得不到芬恩的任何消息。一大隊騎者自西而來、驚其高大；他問起芬恩，他們一句話說出傷口：『我們常聽聞久遠之前的芬恩，其力量、勇武與大名無人能及；蓋爾甜美詩人所寫關於他與費恩納事蹟的書多得很。』芬恩如今是一本書。萊因斯特阿爾文的偉大白堡已蕪為雜草與蕁麻。繼而是致命的善舉：騎近眾人立石之處，他見一名騎者鞍墊滑落，俯身相助——『我對它有一種願望與情感，忘記了被告誡之事，下了馬』——一瞬之間，所有歲月一齊壓來，他倒在地上；馬受驚而逃、留下他於彼處——一位老者、衰弱力竭、無視力、無身形、無俊美、無力氣、無理解、無尊嚴。奧辛被送往帕特里克處；在聖人家中他講述整個故事、並就芬恩之靈與聖人爭辯——『無論地獄或天堂，無一支軍隊是我不敢摧毀的……若我子奧斯加在彼，地獄與上帝天堂之中無一支軍隊大到他能摧毀不了』——費恩納最後一人，在英雄時代與新時代之間讓舊日的爭吵繼續存活，一個失明的聲音記住了一切。"
+      },
+      "functions": [
+        "Immortality's exchange-rate: three hundred years purchased by one foot touching the ground",
+        "The touched-shore law: the otherworld's irreversible exchange, replayed from Bran's voyage",
+        "Charter of the transition of ages: the Fianna dead, Finn become literature, Patrick's Ireland begun",
+        "Kindness as fate: the hero lost not through pride but through helping a fallen rider"
+      ],
+      "variants": [
+        {
+          "name": "Acallam na Senórach (The Colloquy of the Ancients)",
+          "text_tradition": "12th c.; ed. Standish Hayes O'Grady, 1900 (public domain portions)",
+          "summary": "The frame in which Oisín and Caoilte, the last of the Fianna, tell Patrick the old tales — the cycle's own compilation fiction.",
+          "cross_ref": "celtic-fionn-boyhood-coming"
+        },
+        {
+          "name": "The Lay of Oisín in the Land of Youth (Scottish Gaelic ballads)",
+          "text_tradition": "18th-19th c. Gaelic ballad tradition",
+          "summary": "The Scottish ballad forms make the horse named and the return motivated by Finn's death in battle — the tale's Pan-Celtic life.",
+          "cross_ref": "none"
+        }
+      ],
+      "primary_sources": [
+        {
+          "work": "The Call of Oisin / Oisin's Story (in Gregory's retelling)",
+          "citation": "Lady Augusta Gregory, Gods and Fighting Men, London 1904, Book Ten chs. 2-3 and Book Eleven ch. 1 (public domain); underlying: Acallam na Senórach material.",
+          "language": "Old and Middle Irish"
+        }
+      ],
+      "secondary_sources": [
+        {
+          "work": "Proinsias Mac Cana, Celtic Mythology",
+          "citation": "Mac Cana 1970, Hamlyn — Tir na nOg and the Immrám-type voyage in the Fenian cycle."
+        },
+        {
+          "work": "Nora K. Chadwick, The Celts",
+          "citation": "Chadwick 1970, Penguin — the Oisín-and-Patrick frame as the cycle's own historicizing device.",
+          "language": "English"
+        }
+      ],
+      "source_urls": [
+        {
+          "url": "https://www.gutenberg.org/cache/epub/14465/pg14465.txt",
+          "description": "Project Gutenberg — Gregory, Gods and Fighting Men (1904, public domain)",
+          "accessed": "2026-11-12"
+        }
+      ],
+      "sensitivity_flag": "none",
+      "provenance": {
+        "record_status": "complete",
+        "compiled": "2026-11-12",
+        "compiled_by": "DHG508 fieldwork compilation",
+        "review_status": "draft - pending human review"
+      }
+    }
+  ]
+}

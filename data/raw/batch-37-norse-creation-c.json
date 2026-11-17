@@ -1,0 +1,366 @@
+{
+  "_comment": "Norse expansion batch 37 - Creation & Origin Myths III (topic 1): sun and moon, day and night, the first war. Sources: Poetic Edda (Codex Regius GKS 2365 4to), Snorri's Gylfaginning and Ynglinga saga. All passages are paraphrase and carry a note.",
+  "texts": [
+    {
+      "id": "norse-mundilfari-sun-moon",
+      "title": {
+        "en": "Mundilfari's Children: How the Sun and Moon Were Set in Their Courses",
+        "zh": "蒙迪爾法利之子：日月如何被置於天軌"
+      },
+      "tradition": "norse",
+      "category": "myth-religion",
+      "region": {
+        "en": "The courses of the sky (symbolic pin at Pingvellir, Iceland)",
+        "zh": "天空的軌道（象徵性定位於冰島辛格韋德利）"
+      },
+      "lat": 64.26,
+      "lon": -21.13,
+      "period": "Voluspa st. 5, c. 900-1000 CE; Gylfaginning c. 1220-1230; principal MSS Codex Regius GKS 2365 4to, GKS 2367 4to",
+      "source": {
+        "archive": "sacred-texts.com (Bellows 1923) / Project Gutenberg (Brodeur 1916)",
+        "work": "Voluspa st. 5; Snorri, Gylfaginning ch. 12; critical ed. Dronke (1997)",
+        "url": "https://www.sacred-texts.com/neu/poe/"
+      },
+      "license": "Public domain (Bellows 1923; Brodeur 1916); passages below are labeled paraphrases",
+      "summary": {
+        "en": "A man named Mundilfari had two children so fair he dared call the son Mani (Moon) and the daughter Sol (Sun). For that presumption the gods took both children and set them to drive the actual sun and moon across the sky in horse-drawn chariots - horses with frost-manes whose sweat is the morning dew, pursued by wolves who will one day catch them. Cosmic order is thus installed by punishment: arrogance supplies the personnel of time.",
+        "zh": "蒙迪爾法利有子女二人，貌美非凡，竟敢稱其子為「月」（瑪尼）、其女為「日」（索爾）。諸神因這僭越，奪走二子，令其駕馭真正的日與月，驅馬車橫越天際——馬鬃凝霜，汗水滴成清晨的露水，並有狼群窮追不捨，終有一日將吞日食月。宇宙秩序由此以懲罰方式確立：傲慢為時間提供了役使之人。"
+      },
+      "language": "Old Norse / Old Icelandic",
+      "canonical_translation": "Henry A. Bellows, The Poetic Edda, New York 1923 (public domain); Gylfaginning via Brodeur 1916",
+      "narrative": {
+        "en": "The sun and moon exist twice in Norse myth: once as the physical lights whose paths the gods laid out from Muspell's sparks, and once as persons - named Sol and Mani, children of the man Mundilfari. The doctrine joins both in one story of punishment. Mundilfari named his children after the great lights, and for that presumption the children were taken up into the sky: Sol drives the horses of the sun, the horses that draw the chariot of day, and Mani steers the moon and governs its waxing and waning.\n\nThe machinery is lovingly specified in Gylfaginning: the sun-horses are Arvakr (Early-Waker) and Alsvith (All-Strong), and to spare the horses the shield Svalinn is set before the sun - were it loosed, land and sea would burn. From the horses' manes falls the frost that is the morning dew. The moon-horses are Hrimfaxi (Rime-Mane), who brings the night's frost from his bit, and his son Skinfaxi (Shining-Mane), whose light wakes men to work. Behind both chariots run the wolves Skoll, who pursues the sun, and Hati, who goes before the moon - and of them the sibyl prophesies that one day, feasting on the blood of doomed men, they will swallow the lights, the first sign of Ragnarok.\n\nThe myth is thus a triple aition: of the daily path of the sun (a punished girl driving a chariot), of the dew and frost (the sweat and rime of the horses), and of eclipses and the world's end (the wolves forever closing). Voluspa has only the kernel - the sun, sister of the moon, out of the south; her right hand o'er the horse of heaven - a fragment some editors read as an eclipse omen; Snorri supplies the names, the presumptuous father, and the machinery. Time, in the Norse system, is not impersonal: it is labor performed by an exiled family under threat, a mythology of clocks driven by a household punished into service.\n\nThe motif's kinship with the Greek chariots of Helios and Selene is evident, and with the world-sun myths of the atlas generally: everywhere the sun is a person in a vehicle; only in the Norse case is the driver the punished child of a father's vanity, and her pursuer an apocalyptic wolf.\n\nThe machinery's completion-document (Gylfaginning's named horses, Arvakr and Alsvith for the sun; Skinfaxi for the moon's day) shows the doctrine's systematization: Snorri's catechism assembled the machinery from the eddic fragments, and the wolves' genealogy (Fenrir's kin in the iron-wood) links the punishment-family to the doom-animals - the sun-driver and her pursuers are one household's tragedy. And the comparative frame completes the record: the Greek Helios and Selene drive the same sky without the punishment-frame; only the Norse driver is a punished child, and her pursuer an apocalyptic wolf. The record thus anchors the sun-in-vehicle family: time as labor performed by an exiled family."
+      },
+      "functions": [
+        "Aition of the daily courses of sun and moon and of dew, frost and night",
+        "Punishment narrative: hybris (naming children after cosmic powers) conscripts the family into time-keeping",
+        "Eschatological hook: the pursuing wolves carry the prophecy of eclipse and Ragnarok",
+        "Personification doctrine: the lights are persons employed by the gods"
+      ],
+      "variants": [
+        {
+          "name": "Voluspa st. 5 (Poetic Edda)",
+          "text_tradition": "Codex Regius GKS 2365 4to; debated variant in Hauksbok",
+          "summary": "Only the kernel: the sun came out of the south, the moon's course was set, the right hand of the sun over the horse of heaven - read by some editors as an eclipse prophecy.",
+          "cross_ref": "norse-mundilfari-sun-moon"
+        },
+        {
+          "name": "Gylfaginning ch. 12 (Prose Edda)",
+          "text_tradition": "Codex Regius GKS 2367 4to",
+          "summary": "Snorri's full machinery: Mundilfari's presumption, Sol and Mani taken up, the named horses, the shield Svalinn, the dew and rime, and the wolves Skoll and Hati.",
+          "cross_ref": "norse-svalinn-shield"
+        },
+        {
+          "name": "Greek parallel: Helios and Selene",
+          "text_tradition": "Homeric Hymns 31, 32; Ovid, Metamorphoses 2 (Phaethon)",
+          "summary": "Sun and moon as charioteers of the Greek sky - the same vehicle-doctrine without the punishment frame; the Phaethon episode supplies the parallel catastrophe of the sun off-course.",
+          "cross_ref": "greek-ovid-phaethon"
+        }
+      ],
+      "primary_sources": [
+        {
+          "work": "Voluspa",
+          "citation": "Stanza 5. Principal MS Codex Regius GKS 2365 4to. Critical edition: Dronke 1997; public-domain English: Bellows 1923.",
+          "language": "Old Norse / Old Icelandic"
+        },
+        {
+          "work": "Snorri Sturluson, Edda: Gylfaginning",
+          "citation": "Ch. 12 (Mundilfari's children; Sol and Mani; horses, shield, dew, wolves). Critical ed. Faulkes 1987; English: Brodeur 1916.",
+          "language": "Old Norse / Old Icelandic"
+        }
+      ],
+      "secondary_sources": [
+        {
+          "work": "Ursula Dronke, The Poetic Edda, vol. II",
+          "citation": "Dronke 1997, Oxford - on st. 5's disputed Hauksbok reading and the eclipse interpretation."
+        },
+        {
+          "work": "Rudolf Simek, Dictionary of Northern Mythology",
+          "citation": "Simek 1993, Cambridge: D. S. Brewer - entries 'Sol', 'Mani', 'Arvakr', 'Svalinn', 'Skoll', 'Hati'."
+        }
+      ],
+      "source_urls": [
+        {
+          "url": "https://www.sacred-texts.com/neu/poe/poe03.htm",
+          "description": "Voluspa st. 5, Bellows translation (public domain)",
+          "accessed": "2026-11-01"
+        },
+        {
+          "url": "https://www.sacred-texts.com/neu/pre/pre04.htm",
+          "description": "Gylfaginning chs. 1-12, Brodeur translation (public domain)",
+          "accessed": "2026-11-01"
+        }
+      ],
+      "sensitivity_flag": "none",
+      "provenance": {
+        "record_status": "complete",
+        "compiled": "2026-11-01",
+        "compiled_by": "DHG508 fieldwork compilation",
+        "review_status": "draft - pending human review"
+      },
+      "motifs": [
+        "sun-capture",
+        "creation-chaos"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Historical literary corpus; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "There was a man named Mundilfari, who had two children so fair that he called the girl Sol and the boy Mani; for that presumption the gods were wroth, and they took the children and set them up in the sky, to drive the horses that draw the sun and the moon in their courses around the world.",
+          "note": "Paraphrase of Snorri, Gylfaginning ch. 12 (Brodeur 1916); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "The sun is driven by two horses for the cooling of its heat, and a shield is set before it, Svalinn by name; were that loosed, land and sea would burn. From the horses' manes falls the frost called the rime of the manes, which is the morning dew. Before the moon runs a wolf, and behind the sun another, and of the one the sibyl said that he would in the end swallow the moon.",
+          "note": "Paraphrase of Snorri, Gylfaginning ch. 12 (Brodeur 1916); not verbatim."
+        }
+      ]
+    },
+    {
+      "id": "norse-dagr-nott",
+      "title": {
+        "en": "Day and Night as Horsemen: Dagr, Nott and the Calendar of the North",
+        "zh": "騎馬的晝與夜：達格、諾特與北方的曆法"
+      },
+      "tradition": "norse",
+      "category": "myth-religion",
+      "region": {
+        "en": "Courses of day and night over Midgard (symbolic pin at Pingvellir, Iceland)",
+        "zh": "環繞人間的晝夜之軌（象徵性定位於冰島辛格韋德利）"
+      },
+      "lat": 64.26,
+      "lon": -21.13,
+      "period": "Vafthrudnismal st. 12-14, 25; Gylfaginning c. 1220-1230; principal MSS Codex Regius GKS 2365 4to, GKS 2367 4to",
+      "source": {
+        "archive": "sacred-texts.com (Bellows 1923) / Project Gutenberg (Brodeur 1916)",
+        "work": "Vafthrudnismal st. 12-14, 25; Snorri, Gylfaginning ch. 13; critical ed. Dronke (1997)",
+        "url": "https://www.sacred-texts.com/neu/poe/"
+      },
+      "license": "Public domain (Bellows 1923; Brodeur 1916); passages below are labeled paraphrases",
+      "summary": {
+        "en": "Night is a person: Nott, daughter of the giant Narfi, born dark like her kin, first married and bore Audr, then Annar (mother of Earth), then Delling of the light-elves, whose son Dagr is Day, bright as his father's people. The gods gave both riders horses - Nott a horse whose bit-frost makes the morning dew, Dagr a shining steed whose mane lights the sky - and they ride around the world each day. The myth is a calendar aition: it names who drives the daily cycle and preserves the northern custom of reckoning time by nights rather than days.",
+        "zh": "夜亦有其人格：諾特乃巨人納爾菲之女，生來如其族般黝黑；她先後三嫁，誕下奧德，再嫁安納爾而生出大地，最後嫁與光精靈一族之德靈，其子達格便是白晝，明亮如其父族。諸神賜予二騎者馬匹——諾特的馬以咬鐵凝霜，滴作清晨之露；達格的駿馬鬃毛發亮，照亮整片天穹——二者每日環繞世界奔馳。此神話是一則曆法起源故事：它確立了誰有資格驅動晝夜之輪，也保留了北方民族以夜計日的傳統。"
+      },
+      "language": "Old Norse / Old Icelandic",
+      "canonical_translation": "Henry A. Bellows, The Poetic Edda, New York 1923 (public domain); Gylfaginning via Brodeur 1916",
+      "narrative": {
+        "en": "The oldest layer is a riddle-answer. In Vafthrudnismal Odin asks whence came Nott and her kin, and the giant answers: Nott was born first to Narfi; she was given to three husbands - Audr, Annar, and Delling - and with Delling, of the race of the light-elves, she bore Dagr, Day; night and her son were given horses by the gods, that they might ride round the world: she is Hrimfaxi, whose bit-frost wets the earth in morning-dew, and he is Skinfaxi, whose shining mane raises light both north and south.\n\nSnorri expands the genealogy into a social map. Nott first married the man Naglfari, with whom she had Audr; then Annar, a giant, whose daughter Jord - Earth - is Odin's consort and Thor's mother; then Dellingr, of the race of the light-elves, whose son Dagr is as fair and bright as his father's people. The All-father took Nott and her son Dagr, gave them fine horses and set them in the sky, to ride round the world in every twenty-four hours - she first with the horse Frostmouth, drops from whose bit make the morning-dew, he after with Shining-man.\n\nThe record is thus the Norse calendar story par excellence: it explains the diurnal cycle by a household - a widow of three marriages whose children are Earth, Day, and the first Audr (a name meaning 'wealth', elsewhere the name of a king's line). It encodes the hierarchy of light: night is elder and giant-born, day younger and elf-lit, and the world is governed from the family up. And it preserves the deep northern time-reckoning: Scandinavians counted by nights ('a hundred nights and a hundred more'), so a myth of a night-rider leading the cycle is the calendar's mythic self-portrait.\n\nThe social content has been read as proto-ethnological: Nott's successive husbands mark the passage from the age of darkness (giant kin) to the age of light (elf/god kin), a genealogy of transition from the old world to the new that Vafthrudnismal elsewhere makes its business - the whole poem is a quiz on what will remain after Ragnarok. In the riddle-contest frame, Dagr's answer (Delling is Day's father, Nott his mother) is one of the cosmological facts that must survive the end of the world: day and night are meant to outlast the gods.\n\nThe nights-reckoning completes the record: Scandinavians counted time by nights ('a hundred nights and a hundred more' - the sagas' dating-formula), so a myth of a night-rider leading the cycle is the calendar's self-portrait - the deep northern custom documented as cosmology. And the family's social map completes the record: Nott's three marriages (Naglfari, Annar, Dellingr) produce the wealth-name (Audr), the earth (Jord, mother of Thor) and the day (Dagr) - the diurnal cycle explained as a widow's household, night elder and giant-born, day younger and elf-lit. The record thus anchors the calendar-story family: the day-cycle driven by an exiled family under punishment."
+      },
+      "functions": [
+        "Aition of the daily cycle of day and night and of the morning dew",
+        "Genealogy of transition from giant-kin darkness to elf-kin light",
+        "Calendar doctrine: the world reckoned in nights, led by a night-rider",
+        "Riddle-cosmology: day/night facts are certified as surviving Ragnarok"
+      ],
+      "variants": [
+        {
+          "name": "Vafthrudnismal st. 12-14, 25 (Poetic Edda)",
+          "text_tradition": "Codex Regius GKS 2365 4to",
+          "summary": "In the wisdom contest the giant answers on Nott's three husbands and the horses Hrimfaxi and Skinfaxi - the doctrine given as exam answers, not narrative.",
+          "cross_ref": "norse-dagr-nott"
+        },
+        {
+          "name": "Gylfaginning ch. 13 (Prose Edda)",
+          "text_tradition": "Codex Regius GKS 2367 4to",
+          "summary": "Snorri's expansion: Nott's three marriages, Jord's birth, the gods setting both riders in the sky, and the horses' named machinery.",
+          "cross_ref": "norse-ginnungagap-void"
+        }
+      ],
+      "primary_sources": [
+        {
+          "work": "Vafthrudnismal",
+          "citation": "Stanzas 12-14 and 25. Principal MS Codex Regius GKS 2365 4to. Critical edition: Dronke 1997; public-domain English: Bellows 1923.",
+          "language": "Old Norse / Old Icelandic"
+        },
+        {
+          "work": "Snorri Sturluson, Edda: Gylfaginning",
+          "citation": "Ch. 13 (Nott and Dagr; horses Frostmouth and Shining-man; the twenty-four hours). Critical ed. Faulkes 1987; English: Brodeur 1916.",
+          "language": "Old Norse / Old Icelandic"
+        }
+      ],
+      "secondary_sources": [
+        {
+          "work": "Ursula Dronke, The Poetic Edda, vol. II",
+          "citation": "Dronke 1997, Oxford - commentary on the Nott stanzas and the time-reckoning context."
+        },
+        {
+          "work": "Rudolf Simek, Dictionary of Northern Mythology",
+          "citation": "Simek 1993, Cambridge: D. S. Brewer - entries 'Nott', 'Dagr', 'Dellingr', 'Hrimfaxi', 'Skinfaxi'."
+        }
+      ],
+      "source_urls": [
+        {
+          "url": "https://www.sacred-texts.com/neu/poe/poe11.htm",
+          "description": "Vafthrudnismal st. 12-14, Bellows translation (public domain)",
+          "accessed": "2026-11-01"
+        },
+        {
+          "url": "https://www.sacred-texts.com/neu/pre/pre04.htm",
+          "description": "Gylfaginning ch. 13, Brodeur translation (public domain)",
+          "accessed": "2026-11-01"
+        }
+      ],
+      "sensitivity_flag": "none",
+      "provenance": {
+        "record_status": "complete",
+        "compiled": "2026-11-01",
+        "compiled_by": "DHG508 fieldwork compilation",
+        "review_status": "draft - pending human review"
+      },
+      "motifs": [
+        "creation-chaos",
+        "miraculous-birth",
+        "night-day-personified"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Historical literary corpus; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "First was Nott born to Narfi the giant; she was given three times in marriage, first to Naglfari and then to Annar, and her daughter by Annar is Jord, the Earth; and the third was Delling, of the race of the light-elves, and their son is Dagr, who is as fair and bright as his father's kin.",
+          "note": "Paraphrase of Snorri, Gylfaginning ch. 13 (Brodeur 1916); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "The All-father took Nott and Dagr her son, gave them two horses and set them in the sky to ride round the world in every twenty-four hours. She rides first with the horse called Frostmouth, and drops from its bit each morning are the dew; and after her rides Day with Shining-man, whose mane gleams from his crest and lights both heaven and earth.",
+          "note": "Paraphrase of Snorri, Gylfaginning ch. 13 (Brodeur 1916); not verbatim."
+        }
+      ]
+    },
+    {
+      "id": "norse-aesir-vanir-war",
+      "title": {
+        "en": "The First War in the World: Aesir, Vanir and the Origin of Divine Society",
+        "zh": "世間第一場戰爭：阿薩神族與華納神族，及神界秩序的起源"
+      },
+      "tradition": "norse",
+      "category": "myth-religion",
+      "region": {
+        "en": "The walls of Asgard (symbolic pin at Gamla Uppsala, Sweden)",
+        "zh": "阿斯加德城牆（象徵性定位於瑞典舊烏普薩拉）"
+      },
+      "lat": 59.9,
+      "lon": 17.64,
+      "period": "Voluspa st. 21-26, c. 900-1000 CE; Ynglinga saga c. 1225; principal MSS Codex Regius GKS 2365 4to, AM 41 4to (Kringla)",
+      "source": {
+        "archive": "sacred-texts.com (Bellows 1923; Laing, Heimskringla 1844)",
+        "work": "Voluspa st. 21-26; Snorri, Ynglinga saga chs. 1-4; critical ed. Dronke (1997)",
+        "url": "https://www.sacred-texts.com/neu/heim/"
+      },
+      "license": "Public domain (Bellows 1923; Laing 1844); passages below are labeled paraphrases",
+      "summary": {
+        "en": "The first war in the world began when the witch-woman Gullveig was burned three times and reborn three times in Odin's hall, and the Vanir - whom the wise gods had cheated of their pledge, Freyja - broke the peace. Shield against spear, the war staled to a stalemate, and the two divine nations made peace by spitting into a vat: from the mingled spittle was made Kvasir, wisest of all, and hostages Njord, Freyr and Freyja came to live among the Aesir. The war explains why the Norse pantheon has two houses, why sacrifice and magic are split between them, and why the gods' counsel, Mimir, paid for the treaty with his head.",
+        "zh": "世間第一場戰爭源於女巫古爾維格——她在奧丁的大廳被焚燒三次，又三次重生；被「睿智諸神」以人質芙蕾雅欺瞞的華納族遂背棄誓約。盾與矛相抗，戰事膠著，兩個神族最終以唾液匯入巨甕締結和平：混合的唾液誕生了全智的克瓦希爾，而人質尼奧德及其子女則前來阿薩神族定居。這場戰爭解釋了北歐神譜何以有兩個家族、祭祀與魔法何以分屬兩族，以及諸神的謀主密米爾何以為條約付出首級。"
+      },
+      "language": "Old Norse / Old Icelandic",
+      "canonical_translation": "Henry A. Bellows, The Poetic Edda, New York 1923 (public domain); Ynglinga saga via Laing 1844",
+      "narrative": {
+        "en": "The opening of Voluspa's war-fragment is a trial: she remembers the first war in the world, when Gullveig they pierced with spears and burned thrice - thrice burned, thrice reborn, ever anew she lives. Her name, Gold-drink or Gold-drunkenness, marks what the war was about; the sibyl then names her Heid, a witch in every house they saw her, teaching seid, the magic of prophecy, always delighting in evil. Then the war proper: the Vanir, whom the wise gods had overreached with oaths, broke their pledges - for Freyja had been given as a pledge and came back cheated, says Loki in Lokasenna, who claims he was there when it happened.\n\nThe prose tradition, Ynglinga saga, makes the casus belli explicit: Odin, leader of the Aesir in their Asiatic migration, cast his spear over the Vanir and began the first war. The Vanir defended their land so fiercely that the Aesir could not prevail, and peace was made on these terms: each side spat into a vat, and the mingled spittle - because no lie can come from it - was shaped into a man, Kvasir, wisest of all; and as hostages the Vanir sent Njord with Freyr and Freyja, while the Aesir sent Hoenir and Mimir to the Vanir. The exchange turns sour: Hoenir is handsome but dependent, answering every question 'let others decide', so the Vanir, discovering they were cheated, cut off Mimir's head and sent it back. Odin embalmed it with herbs, sang spells over it, and thereby gained the head that counsels him - wisdom preserved from an act of diplomatic atrocity.\n\nThe myth's cultural functions are heavy. It explains the composite pantheon: two houses, one of sky- and war-gods (Aesir) and one of sea-, wealth- and fertility-powers (Vanir), merged after an ethnic war - the mythic memory, some scholars think, of an actual merger of cults. It founds the ritual economy: hostageship and oath-fines, the spitting vat as the origin of the peace-oath, and Freyja's arrival as the introduction of seid magic into Asgard (the Vanir hostages bring the arts of prosperity and prophecy; the Aesir bring spear-luck). And it seeds the mead of poetry, for Kvasir, born of the peace, is killed by dwarfs whose brewing of his blood becomes the mead Odin will steal - the first war's peace-child turns into the very substance of skaldic art.\n\nThe war-fragment also preserves a motif of medieval politics: hostage-exchange as institution. In saga Iceland and viking Scandinavia, peace was sealed by fosterage and hostages; the myth casts the gods in the same legal forms, so that the divine order is literally a treaty, not a family tree alone."
+      },
+      "functions": [
+        "Aition of the composite pantheon: two divine nations merged by treaty",
+        "Origin of the ritual economy: oaths, hostages, and the spitting-vat peace",
+        "Introduction of seid magic and fertility cult into the Aesir's order",
+        "Seeds the Kvasir-mead myth: the peace-child becomes the origin of poetry"
+      ],
+      "variants": [
+        {
+          "name": "Voluspa st. 21-26 (Poetic Edda)",
+          "text_tradition": "Codex Regius GKS 2365 4to",
+          "summary": "The poem's fragmentary version: Gullveig thrice burned and reborn as Heid the witch; then the Vanir breaking oaths over Freyja's pledge; no vat, no hostages, no Kvasir.",
+          "cross_ref": "norse-aesir-vanir-war"
+        },
+        {
+          "name": "Ynglinga saga chs. 1-4 (Prose)",
+          "text_tradition": "AM 41 4to (Kringla leaf, 13th c.; text from later copies)",
+          "summary": "Snorri's narrative version: Odin's spear-cast, the stalemated war, the peace-vat, Kvasir, the hostage exchange, Mimir's beheading and embalmed head - the political-mythic core of his migration euhemerism.",
+          "cross_ref": "norse-ynglinga-odin-migration"
+        },
+        {
+          "name": "Skaldskaparmal (Prose Edda)",
+          "text_tradition": "Codex Regius GKS 2367 4to",
+          "summary": "Skaldskaparmal picks up where the war-fragment ends: the making of Kvasir, his killing by the dwarfs, and the brewing of the mead - the war's aftermath turned into the origin of poetry.",
+          "cross_ref": "norse-kvasir-mead"
+        }
+      ],
+      "primary_sources": [
+        {
+          "work": "Voluspa",
+          "citation": "Stanzas 21-26 (Gullveig/Heid; the first war; the Vanir's broken oaths). Principal MS Codex Regius GKS 2365 4to. Critical edition: Dronke 1997; public-domain English: Bellows 1923.",
+          "language": "Old Norse / Old Icelandic"
+        },
+        {
+          "work": "Snorri Sturluson, Ynglinga saga (Heimskringla)",
+          "citation": "Chs. 1-4 (the first war; the vat of spittle; Kvasir; hostages Njord, Freyr, Freyja; Hoenir and Mimir; Mimir's head). AM 41 4to (Kringla, 13th c., damaged; text from later paper copies). English: Laing 1844 (public domain).",
+          "language": "Old Norse / Old Icelandic"
+        }
+      ],
+      "secondary_sources": [
+        {
+          "work": "Ursula Dronke, The Poetic Edda, vol. II",
+          "citation": "Dronke 1997, Oxford - on Gullveig's name and the war-fragment's interpretation."
+        },
+        {
+          "work": "Margaret Clunies Ross, Prolonged Echoes, vol. 1",
+          "citation": "Clunies Ross 1994, Odense - the Aesir-Vanir war as a merger of divine nations and knowledge-exchange systems."
+        },
+        {
+          "work": "Gro Steinsland, Norron religion",
+          "citation": "Steinsland 2005, Oslo: Pax - sacred kingship and the treaty structure of Norse divine society."
+        }
+      ],
+      "source_urls": [
+        {
+          "url": "https://www.sacred-texts.com/neu/poe/poe03.htm",
+          "description": "Voluspa st. 21-26, Bellows translation (public domain)",
+          "accessed": "2026-11-01"
+        },
+        {
+          "url": "https://www.sacred-texts.com/neu/heim/00-yngl00.htm",
+          "description": "Ynglinga saga, Laing translation (public domain)",
+          "accessed": "2026-11-01"
+        }
+      ],
+      "sensitivity_flag": "none",
+      "provenance": {
+        "record_status": "complete",
+        "compiled": "2026-11-01",
+        "compiled_by": "DHG508 fieldwork compilation",
+        "review_status": "draft - pending human review"
+      },
+      "motifs": [
+        "culture-hero",
+        "wisdom-sacrifice",
+        "sacred-kingship",
+        "wise-advice",
+        "threefold"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Historical literary corpus; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "She remembers the first war in the world, when they stabbed Gullveig with spears and burned her thrice in the hall of the High One: thrice they burned her, thrice she was reborn, over and over she lives - and wherever they saw her, she was a witch called Heid, a seer in every house, and she delighted always in evil.",
+          "note": "Paraphrase of Voluspa st. 21-22 (Bellows 1923); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Then the wise gods broke their oaths with the Vanir, and the shield-sundering war began; spear against shield they strove till the war was worn out. At last they made peace in this way: each side spat into a vat, and from the mingled spittle they shaped a man, wisest of all, whose name was Kvasir.",
+          "note": "Paraphrase of Voluspa st. 24-25 and Ynglinga saga ch. 4 (Bellows; Laing); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "As hostages the Vanir sent to the Aesir Njord the Wealthy with his son Freyr and his daughter Freyja; the Aesir sent to the Vanir Hoenir and Mimir. But Hoenir, handsome and strong though he was, answered every question 'let others counsel'; the Vanir saw that they had been cheated, and they took Mimir and cut off his head and sent it to Odin, who preserved it with herbs and spells - and from it he won true counsel in every matter.",
+          "note": "Paraphrase of Ynglinga saga chs. 3-4 (Laing 1844); not verbatim."
+        }
+      ]
+    }
+  ]
+}

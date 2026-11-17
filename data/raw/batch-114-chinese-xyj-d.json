@@ -1,0 +1,446 @@
+{
+  "texts": [
+    {
+      "id": "chinese-xyj-liusha-he",
+      "title": {
+        "en": "The Sand Monk of the Flowing Sands River",
+        "zh": "流沙河收沙僧"
+      },
+      "tradition": "chinese",
+      "category": "myth",
+      "region": {
+        "en": "Flowing Sands River, eight hundred li of no-bottom water (pin: western deserts)",
+        "zh": "八百流沙界"
+      },
+      "lat": 36.5,
+      "lon": 98.0,
+      "period": "Journey to the West, 16th c. (attrib. Wu Cheng'en, ch. 22)",
+      "source": {
+        "archive": "Wikisource (zh)",
+        "work": "Journey to the West, ch. 22: the red-haired monster of the river, the nine skulls of the necklace, and Guanyin's conversion",
+        "url": "https://zh.wikisource.org/wiki/%E8%A5%BF%E9%81%8A%E8%A8%98"
+      },
+      "license": "Public domain (Ming novel; passages are compiler's renderings)",
+      "summary": {
+        "en": "In the Flowing Sands River, where even a goose feather sinks, lived a red-haired river-monster wearing a necklace of nine skulls — the nine previous pilgrims he had eaten, whose skulls alone could float on that water. The Monkey King could not fight him in his own element; Guanyin's disciple Muzha called him out, and the monster confessed: once the Curtain-Raising General of heaven, exiled for breaking a crystal cup at the Peach Banquet. Shorn and named, he became the third pilgrim, and his master's nine skulls made the raft that ferried the Tang monk west.",
+        "zh": "流沙河水鵝毛飄不起；沙僧項掛九個骷髏——九世取經人之頭骨；本是捲簾大將，蟠桃會上失手打碎琉璃盞被貶；拜三藏為師，九骷髏結成法船渡師西行。"
+      },
+      "motifs": [
+        "transformation",
+        "quest-immortality",
+        "otherworld-voyage",
+        "teacher-disciple",
+        "ferryman-dead"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Passages are the compiler's condensed paraphrases of the novel. The nine skulls of failed pilgrims are a dark recursion of the quest motif."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The Flowing Sands River runs eight hundred li of water so foul and lightless that even a goose feather sinks; in its reeds lived a red-haired, blue-faced monster wearing a necklace strung with nine human skulls — the nine pilgrims who had tried to cross before, whose heads alone floated on that water.",
+          "note": "Paraphrase of Journey to the West, ch. 22 (compiler's rendering); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Guanyin's disciple called him out of the water, and the monster told his fall: he had been the Curtain-Raising General of heaven, and at the Peach Banquet his hand had slipped and broken a crystal cup; for the cup he was exiled to this river, seven knives of heaven striking him every seventh day.",
+          "note": "Paraphrase of Journey to the West, ch. 22, the fall; not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "Named Wujing — Awakened to Purity — he took the fillet and joined the pilgrims; and when the Tang monk could not cross the sinking water, the nine skulls were strung into a raft-boat of the dead, and the ferry that bore the living monk west was made of the pilgrims who had failed before him.",
+          "note": "Paraphrase of Journey to the West, ch. 22, the skull-raft; not verbatim."
+        }
+      ],
+      "persons": [
+        "sunwukong",
+        "tang-sanzang"
+      ]
+    },
+    {
+      "id": "chinese-xyj-huangfeng-demon",
+      "title": {
+        "en": "The Yellow Wind Demon and the Wind That Blinded the Sky",
+        "zh": "黃風怪三昧神風"
+      },
+      "tradition": "chinese",
+      "category": "myth",
+      "region": {
+        "en": "Yellow Wind Ridge, west of Double-Fork Pass (pin: Gansu corridor)",
+        "zh": "黃風嶺"
+      },
+      "lat": 37.5,
+      "lon": 101.0,
+      "period": "Journey to the West, 16th c. (attrib. Wu Cheng'en, chs. 20-21)",
+      "source": {
+        "archive": "Wikisource (zh)",
+        "work": "Journey to the West, chs. 20-21: the samadhi wind that stung the fiery eyes, and the marten of Lingshan taken home",
+        "url": "https://zh.wikisource.org/wiki/%E8%A5%BF%E9%81%8A%E8%A8%98"
+      },
+      "license": "Public domain (Ming novel; passages are compiler's renderings)",
+      "summary": {
+        "en": "The Yellow Wind Demon breathed the true wind of samadhi — a wind that blackened the sky, whipped the rivers into the air, and struck the Monkey King's fiery eyes with a smart that no water could cool. Wukong fetched the Bodhisattva Lingji, whose wind-stopping pearl was the one thing the wind could not move; the demon's hole was blown open, and the demon proved to be a yellow marten stolen from under the Buddha's own lamp at Lingshan, led home by the collar.",
+        "zh": "黃風怪三昧神風，迷悟空火眼金睛；靈吉菩薩以定風珠破之；黃毛貂鼠原是靈山腳下得道之妖，偷琉璃盞內清油——押回靈山見如來。"
+      },
+      "motifs": [
+        "storm-thunder",
+        "taboo-transgression",
+        "meditation",
+        "bodhisattva"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Passages are the compiler's condensed paraphrases of the novel."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The Yellow Wind Demon breathed at his enemies the true wind of samadhi: a gale that rolled rocks and rivers into the sky, made the stars swim, and — worst of all — struck the Monkey King's fiery eyes with a stinging that neither stream nor salve could ease.",
+          "note": "Paraphrase of Journey to the West, chs. 20-21 (compiler's rendering); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Wukong sought the Bodhisattva Lingji, keeper of the wind-stopping pearl, the one thing in three realms the samadhi wind could not budge; with the pearl held against the gale, the demon's cave was broken open and the captor mastered. The demon proved to be a yellow marten that had lived at the foot of the Vulture Peak and drunk the oil of the Buddha's own lamp; for the theft and the harm it was led home by the collar to Lingshan, to be sentenced by the one whose lamp it had drunk dry.",
+          "note": "Paraphrase of Journey to the West, ch. 21, Lingji and the pearl; not verbatim. / Paraphrase of Journey to the West, ch. 21, the marten's origin; not verbatim."
+        }
+      ],
+      "persons": [
+        "sunwukong"
+      ]
+    },
+    {
+      "id": "chinese-xyj-heishui-he",
+      "title": {
+        "en": "The Black River Demon and the Prince Called Handsome",
+        "zh": "黑水河妖"
+      },
+      "tradition": "chinese",
+      "category": "myth",
+      "region": {
+        "en": "Black River, west of Cart-Slow Kingdom (pin: Qinghai–Gansu route)",
+        "zh": "黑水河"
+      },
+      "lat": 36.0,
+      "lon": 99.0,
+      "period": "Journey to the West, 16th c. (attrib. Wu Cheng'en, ch. 43)",
+      "source": {
+        "archive": "Wikisource (zh)",
+        "work": "Journey to the West, ch. 43: the alligator-demon of the Black River, the false ferryman, and the uncle who keeps his nephew's island",
+        "url": "https://zh.wikisource.org/wiki/%E8%A5%BF%E9%81%8A%E8%A8%98"
+      },
+      "license": "Public domain (Ming novel; passages are compiler's renderings)",
+      "summary": {
+        "en": "A ferry came for the Tang monk and sank with him in the middle of the Black River — the boatman was an alligator-demon who had seized a river-dragon prince's palace and wanted a taste of Tang monk for his table. His captive uncle, the dragon-prince Moto of the Western Sea, sent no rescue until Wukong confronted him: the prince fetched his own nephew out in chains, and the Black River returned to its rightful king.",
+        "zh": "黑水河鼉龍怪（涇河龍王之子）扮艄公攝三藏；西海龍王太子摩昂率兵擒甥——河歸原主。"
+      },
+      "motifs": [
+        "world-serpent",
+        "taboo-transgression"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Passages are the compiler's condensed paraphrases of the novel."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "A ferryman poled out to the pilgrims on the Black River; mid-stream the boat turned over, and the Tang monk was drawn down — the ferryman was an alligator-demon in man's shape, and his table wanted a taste of the flesh that grants long life.",
+          "note": "Paraphrase of Journey to the West, ch. 43 (compiler's rendering); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "The demon had a letter of kinship worth more than his stolen palace: he was a son of the slain Jinghe dragon, and the prince of the Western Sea — his mother's brother — held the nearest waters. Wukong carried the family's name up to the Dragon King of the West and put the choice plainly: your nephew eats the pilgrim, or your name pays for it.",
+          "note": "Paraphrase of Journey to the West, ch. 43, the kinship; not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "Prince Moto came down the river with a squadron, arrested his own nephew in the demon's own hall, and handed over the monk unspoiled; the stolen palace was returned to its dragon, and the Black River ferried the pilgrims across like any honest water.",
+          "note": "Paraphrase of Journey to the West, ch. 43, the arrest; not verbatim."
+        }
+      ],
+      "persons": [
+        "sunwukong"
+      ]
+    },
+    {
+      "id": "chinese-xyj-jindou-qingniu",
+      "title": {
+        "en": "The Green Ox of the Diamond Bracelet",
+        "zh": "金兜洞青牛精"
+      },
+      "tradition": "chinese",
+      "category": "myth",
+      "region": {
+        "en": "Golden-Helmet Cave, Jindou Mountain (pin: western route)",
+        "zh": "金兜山金兜洞"
+      },
+      "lat": 33.0,
+      "lon": 97.0,
+      "period": "Journey to the West, 16th c. (attrib. Wu Cheng'en, chs. 50-52)",
+      "source": {
+        "archive": "Wikisource (zh)",
+        "work": "Journey to the West, chs. 50-52: the green bull that swallowed every weapon in heaven, and the bracelet that collected them all",
+        "url": "https://zh.wikisource.org/wiki/%E8%A5%BF%E9%81%8A%E8%A8%98"
+      },
+      "license": "Public domain (Ming novel; passages are compiler's renderings)",
+      "summary": {
+        "en": "A single white-clothed demon boy in the Golden-Helmet cave disarmed three realms: his ring — Laozi's own diamond bracelet, carried off by a green bull that had wandered from the Tushita stable — sucked up the Monkey King's staff, the fire-spear of the fire-gods, the swords of the water-gods, even the vajra of the thunder-host. Heaven's armories came down and went home empty-handed; only Laozi himself, came down with his own knowledge of the bracelet's law, closed the ring on the bull's nose and led it home.",
+        "zh": "青牛精（兕大王）持金剛琢，套盡諸神兵器：金箍棒、火德星君火具、水德水具、雷公雷器皆被收；如來暗示，老君親至，以芭蕉扇喚出金剛琢套牛鼻——青牛歸兜率宮。"
+      },
+      "motifs": [
+        "boon-curse",
+        "sacred-kingship"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Passages are the compiler's condensed paraphrases of the novel."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "In the cave of the Golden Helmet a demon styled himself the Great King Rhino, and his weapon was a plain ring of white diamond. Thrown in the air, it collected anything made of metal or magic: the staff was sucked off the Monkey King's shoulder in mid-battle, and the monkey fled home weaponless for the first time in his life.",
+          "note": "Paraphrase of Journey to the West, chs. 50 (compiler's rendering); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "The fire-gods came down with spears of flame, the water-gods with torrents, the thunder-lords with their engines — and the ring drank them all; the hosts of heaven went home without their weapons, and the monkey went to the Buddha for a name rather than a spell.",
+          "note": "Paraphrase of Journey to the West, chs. 51, the disarmed heavens; not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "The Buddha hinted without naming, and Laozi came down the mountain road on his green bull's own trail: the ring was his diamond bracelet, lost five days ago from his own sleeve when the stable-door stood open and the bull walked out. With a wave of his plantain fan the bracelet turned, the ring closed on the bull's nose, and the whole armory of heaven rained back from the cave-mouth into its owners' hands.",
+          "note": "Paraphrase of Journey to the West, ch. 52, Laozi's retrieval; not verbatim."
+        }
+      ],
+      "persons": [
+        "sunwukong"
+      ]
+    },
+    {
+      "id": "chinese-xyj-jisai-pagoda",
+      "title": {
+        "en": "The Pagoda of Jisai and the Nine-Headed Son-in-Law",
+        "zh": "祭賽國掃塔辨冤"
+      },
+      "tradition": "chinese",
+      "category": "myth",
+      "region": {
+        "en": "Jisai Kingdom and the pagoda of golden relics (pin: western route)",
+        "zh": "祭賽國金光寺"
+      },
+      "lat": 31.0,
+      "lon": 96.0,
+      "period": "Journey to the West, 16th c. (attrib. Wu Cheng'en, chs. 62-63)",
+      "source": {
+        "archive": "Wikisource (zh)",
+        "work": "Journey to the West, chs. 62-63: the dimmed relic, the night-thief of the pagoda, and the nine-headed insect of the lake",
+        "url": "https://zh.wikisource.org/wiki/%E8%A5%BF%E9%81%8A%E8%A8%98"
+      },
+      "license": "Public domain (Ming novel; passages are compiler's renderings)",
+      "summary": {
+        "en": "In Jisai a pagoda held a relic whose light had kept the four seas in tribute — until the light went out, and the kingdom fell from wealth to beggary, and the monks of the pagoda were chained for a theft they never made. The Monkey King swept the pagoda by night like a menial, caught the thieves at their work — the nine-headed insect-prince of the Emerald Wave Lake and his dragon-kin — and brought back the relic-bud that lit the tower again.",
+        "zh": "祭賽國金光寺塔頂舍利放光，四夷朝貢；舍利被盜（亂石山碧波潭九頭蟲與萬聖龍王），國弱僧囚；悟空夜掃塔捉賊，二郎神助戰，舍利復明。"
+      },
+      "motifs": [
+        "sacred-place",
+        "boon-curse",
+        "world-serpent",
+        "relics"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Passages are the compiler's condensed paraphrases of the novel."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The pagoda of Jisai held a bone-relic whose light streamed so far that the kingdoms of four seas sent tribute unasked; one year the light went out, the tributes stopped, and the court, needing a criminal, chained the pagoda's monks in the courtyard.",
+          "note": "Paraphrase of Journey to the West, ch. 62 (compiler's rendering); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "The Monkey King took a broom and swept the pagoda's thirteen stories by night like a menial, and on the top floor caught the thieves at their second theft: the nine-headed insect-prince of the Emerald Wave Lake, with his dragon father-in-law's troopers, come back for another relic-stone.",
+          "note": "Paraphrase of Journey to the West, ch. 62, the night sweep; not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "The Erlang god came at the monkey's summons, his hound took one of the nine heads, and the insect-prince fled minus a skull to live nine-headed no longer; the relic-bud was carried back and set in the pagoda, and the light of Jisai shone again to the four seas — with its monks freed and its king kneeling in the courtyard dust.",
+          "note": "Paraphrase of Journey to the West, ch. 63, the battle and the relic; not verbatim."
+        }
+      ],
+      "persons": [
+        "sunwukong",
+        "erlang-shen"
+      ]
+    },
+    {
+      "id": "chinese-xyj-tuoluo-python",
+      "title": {
+        "en": "The Python of Tuoluo Village, Swallowed from the Inside",
+        "zh": "駝羅莊蟒蛇精"
+      },
+      "tradition": "chinese",
+      "category": "myth",
+      "region": {
+        "en": "Tuoluo Village, seven hundred li of thorny road (pin: western route)",
+        "zh": "駝羅莊"
+      },
+      "lat": 32.0,
+      "lon": 95.0,
+      "period": "Journey to the West, 16th c. (attrib. Wu Cheng'en, ch. 67)",
+      "source": {
+        "archive": "Wikisource (zh)",
+        "work": "Journey to the West, ch. 67: the python that ate a village's road, and the monkey who let himself be eaten",
+        "url": "https://zh.wikisource.org/wiki/%E8%A5%BF%E9%81%8A%E8%A8%98"
+      },
+      "license": "Public domain (Ming novel; passages are compiler's renderings)",
+      "summary": {
+        "en": "A python the size of the village's water-tank had closed the seven-hundred-li thorn road: it ate an old man's grandson, then a wealthy man's herd, then the village's hired exorcists, one Buddhist and one Taoist. The Monkey King took the shape of a goatherd on the python's own road, let the snake swallow him whole, and turned inside its belly with his staff: the python died split open, its eyes like two palace lanterns, and the village hired its people to clear the thorns it had guarded.",
+        "zh": "駝羅莊七百里蛇徑為大蟒所據；悟空變作牧童誘蛇吞之，入腹一棒自內穿破——蛇死橫路，目似燈籠；莊人復通其路。"
+      },
+      "motifs": [
+        "world-serpent",
+        "trickster",
+        "sacred-place",
+        "fish-swallow"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Passages are the compiler's condensed paraphrases of the novel."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The road west out of Tuoluo ran through seven hundred li of thorns, and in their heart a python as long as the village's water-tank had taken residence: it ate the village's hired exorcists — a Buddhist first, then a Taoist — and closed the road to every caravan.",
+          "note": "Paraphrase of Journey to the West, ch. 67 (compiler's rendering); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "The Monkey King went up the python's own road as a small goatherd with a flock of the village's sheep, and when the python came out with jaws like two palace gates, he let it swallow him whole — a volunteer, walking into the beast from the wrong end.",
+          "note": "Paraphrase of Journey to the West, ch. 67, the swallow; not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "Inside the belly he straightened his staff to its full thirteen-thousand pounds and drove it outward; the python burst and died in the road, its lantern-eyes darkening on the thorn-bushes. The village, saved, hired its own people back to clear the seven hundred li of thorns — the road opened by the beast's death was finished by the village's own hands.",
+          "note": "Paraphrase of Journey to the West, ch. 67, the death and the road; not verbatim."
+        }
+      ],
+      "persons": [
+        "sunwukong"
+      ]
+    },
+    {
+      "id": "chinese-xyj-jinping-rhinos",
+      "title": {
+        "en": "The Rhinoceros Thieves of the Oil-Vats",
+        "zh": "金平府犀牛精"
+      },
+      "tradition": "chinese",
+      "category": "myth",
+      "region": {
+        "en": "Jinping Prefecture and the Green Dragon Mountain (pin: western route)",
+        "zh": "金平府慈雲寺青龍山"
+      },
+      "lat": 30.5,
+      "lon": 94.0,
+      "period": "Journey to the West, 16th c. (attrib. Wu Cheng'en, chs. 91-92)",
+      "source": {
+        "archive": "Wikisource (zh)",
+        "work": "Journey to the West, chs. 91-92: the three rhinoceros spirits who posed as the Buddha of the lamp-oil, and the four stars of the wood? — the four star-lords who took them",
+        "url": "https://zh.wikisource.org/wiki/%E8%A5%BF%E9%81%8A%E8%A8%98"
+      },
+      "license": "Public domain (Ming novel; passages are compiler's renderings)",
+      "summary": {
+        "en": "In Jinping the people burned a thousand catties of lamp-oil a year to a 'Buddha' whose light came down on the festival night — a Buddha that was three rhinoceros spirits in the Green Dragon Mountain, drinking the vats of oil and taxing the county for the favor. The Monkey King broke the sham Buddha's light with his staff, and the four star-lords of the wood-palace came down with saws: three rhinos, three heads boxed for the court of Jinping, and the oil-vat tax forever ended.",
+        "zh": "金平府燈節供奉『佛爺』，實為青龍山三犀牛精冒佛食油；悟空戰之，四木禽星（角木蛟等）下界助戰，鋸角剝皮——犀角獻朝，油稅永免。"
+      },
+      "motifs": [
+        "transformation",
+        "trickster",
+        "boon-curse"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Passages are the compiler's condensed paraphrases of the novel."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Jinping burned a thousand catties of oil each festival year before a Buddha whose light descended on the altar — and the county called the tax fair, for the light was real. The pilgrims saw at once that the light was not the Buddha's: three rhinoceros spirits in the Green Dragon Mountain had worn the disguise for years, drinking the oil-vats and taxing the faithful.",
+          "note": "Paraphrase of Journey to the West, ch. 91 (compiler's rendering); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "The monkey broke the sham Buddha's night with one stroke of the staff; the rhinos fought, kidnapped the Tang monk for a second course, and fled to the sea-ice — where the four star-lords of the wood-palace, the rhino-kind's own celestial wardens, came down with ropes and saws.",
+          "note": "Paraphrase of Journey to the West, ch. 92, the pursuit; not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "Three rhinos were taken alive, three horns sawed, three hides boxed for the court of Jinping — presented as proof, with the oil-tax abolished forever and the vats of the festival given back to the lamps they were meant for.",
+          "note": "Paraphrase of Journey to the West, ch. 92, the sawing; not verbatim."
+        }
+      ],
+      "persons": [
+        "sunwukong"
+      ]
+    },
+    {
+      "id": "chinese-xyj-turtle-forgetting",
+      "title": {
+        "en": "The Old Turtle Asks His Age, and the Monkey Forgets",
+        "zh": "通天河老黿沉師"
+      },
+      "tradition": "chinese",
+      "category": "myth",
+      "region": {
+        "en": "Tongtian River, on the return road east (pin: western route)",
+        "zh": "通天河"
+      },
+      "lat": 32.5,
+      "lon": 95.0,
+      "period": "Journey to the West, 16th c. (attrib. Wu Cheng'en, ch. 99)",
+      "source": {
+        "archive": "Wikisource (zh)",
+        "work": "Journey to the West, ch. 99: the turtle's ferry on the return, the forgotten question, and the wet scriptures",
+        "url": "https://zh.wikisource.org/wiki/%E8%A5%BF%E9%81%8A%E8%A8%98"
+      },
+      "license": "Public domain (Ming novel; passages are compiler's renderings)",
+      "summary": {
+        "en": "Crossing the Tongtian River on the way west, the pilgrims rode the old white turtle who had ferried them before; he asked one fee — that the monkey ask the Buddha how many years a turtle of his merit might yet live. On the return crossing, loaded with scriptures, the monkey forgot the question, confessed it mid-stream — and the turtle, insulted, sank under them with the whole canon on his back: the scriptures saved from the water, but every page soaked, and the first sheets of the highest canon pasted to the rock to dry, torn where the drying tore them. The imperfection was kept: even the true books came home incomplete.",
+        "zh": "老黿馱經東歸，問壽數於如來；悟空忘問，至河心方認——黿怒沉經；經本全濕，曬於石上，石留經痕，數卷殘破——『天地本不全，經文殘缺也應不全之理』。"
+      },
+      "motifs": [
+        "taboo-transgression",
+        "boon-curse",
+        "quest-immortality",
+        "ferryman-dead"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Passages are the compiler's condensed paraphrases of the novel. The torn pages are the novel's final theological statement: completeness belongs to heaven, not to books."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The old white turtle of the Tongtian River carried the pilgrims west and named his fee: ask the Buddha how many years yet a turtle of my merit may live. The monkey promised; eight thousand li later, at the end of the quest, he forgot.",
+          "note": "Paraphrase of Journey to the West, ch. 99 (compiler's rendering); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "On the return crossing, mid-stream and laden with the whole canon, the monkey remembered — and confessed. The turtle, patient for fourteen years of pilgrim traffic, heard the forgetting and sank; the scriptures went into the river with the monks, and were fished out page by page in the shallows.",
+          "note": "Paraphrase of Journey to the West, ch. 99, the sinking; not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "The wet books were spread to dry on a sunlit rock, and the stone kept the characters' shadows; a few sheets of the highest canon stuck and tore away with the drying. The Buddha's own comment closed the novel's theology: the books of heaven are complete, but the world is not — the torn pages travel east because completeness is not for this shore.",
+          "note": "Paraphrase of Journey to the West, ch. 99, the drying and the comment; not verbatim."
+        }
+      ],
+      "persons": [
+        "sunwukong",
+        "tang-sanzang"
+      ]
+    }
+  ]
+}

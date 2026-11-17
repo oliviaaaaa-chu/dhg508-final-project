@@ -1,0 +1,1151 @@
+{
+ "texts": [
+  {
+   "id": "sumerian-flood-ziusudra",
+   "title": {
+    "en": "Ziusudra and the Great Flood",
+    "zh": "祖蘇德拉與大洪水"
+   },
+   "tradition": "sumerian",
+   "category": "myth",
+   "region": {
+    "en": "Shuruppak, Iraq",
+    "zh": "舒魯帕克（伊拉克）"
+   },
+   "lat": 31.782,
+   "lon": 45.515,
+   "period": "Old Babylonian manuscript (Nippur copy), c. 1700 BCE (ETCSL translation 2003)",
+   "source": {
+    "archive": "ETCSL (University of Oxford)",
+    "work": "The Flood story (ETCSL c.1.7.4)",
+    "url": "https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.1.7.4&charenc=j"
+   },
+   "license": "ETCSL translation (Oxford, 2003-2006); quoted in paraphrase with attribution",
+   "summary": {
+    "en": "The gods decide to destroy mankind; Ziusudra, the pious king of Shuruppak, hears in a dream the command to save the seed of mankind in a great boat, survives seven days of storm, and emerges to sacrifice — and is granted eternal life in Dilmun.",
+    "zh": "眾神決議滅絕人類；舒魯帕克虔誠之王祖蘇德拉於夢中得令，造巨舟保存人類種子。風暴七日，倖存登岸獻祭——獲賜永生，居於迪爾蒙。"
+   },
+   "motifs": [
+    "flood",
+    "quest-immortality",
+    "world-renewal"
+   ],
+   "sensitivity": {
+    "restricted": false,
+    "note": "Ancient myth; no living community restrictions."
+   },
+   "passages": [
+    {
+     "id": "1",
+     "text": "The great gods resolve to destroy mankind; the assembly of An and Enlil sends the flood. Ziusudra, the pious king of Shuruppak who stands each day with eyes and ears open to the gods, is warned in a dream: take apart the great boat, an old wall speaks to him.",
+     "note": "Paraphrase of ETCSL c.1.7.4, the decision and warning; not verbatim."
+    },
+    {
+     "id": "2",
+     "text": "The storm blows for seven days and seven nights; the flood covers the land, and the boat rides the waves. When the sun rises, Ziusudra opens a window, comes out, and offers sacrifice and libations before the rising sun. The king is granted life like a god's: An and Enlil breathe eternal life into him and set him in the land of Dilmun, the place where the sun rises — the first immortal, reward of the man who saved the seed of mankind.",
+     "note": "Paraphrase of ETCSL c.1.7.4, the storm and sacrifice; not verbatim. / Paraphrase of ETCSL c.1.7.4, the reward; not verbatim."
+    }
+   ],
+   "persons": [
+    "ziusudra",
+    "enlil",
+    "enki",
+    "ninhursag"
+   ],
+   "functions": [
+    "Oldest flood myth: charter of the deluge tradition",
+    "Reward theology: piety saves the seed of mankind",
+    "Link between kingship, sacrifice and the sunrise land"
+   ],
+   "variants": [
+    {
+     "name": "Atrahasis flood (Akkadian)",
+     "text_tradition": "Akkadian (Rogers 1912)",
+     "summary": "The Babylonian deluge with the boat's dimensions and the final fertility settlements.",
+     "cross_ref": "babylonian-atrahasis-flood"
+    },
+    {
+     "name": "Gilgamesh Tablet XI flood",
+     "text_tradition": "Akkadian (Wilson/Muss-Arnolt 1901)",
+     "summary": "Utnapishtim's telling of the same catastrophe.",
+     "cross_ref": "gilgamesh-flood"
+    },
+    {
+     "name": "Berossus' Xisuthrus",
+     "text_tradition": "Greek (George Smith 1876)",
+     "summary": "The late Babylonian flood as told by the priest of Bel.",
+     "cross_ref": "mesopotamian-berossus-flood"
+    }
+   ],
+   "language": "Sumerian",
+   "canonical_translation": "ETCSL team translation, Oxford, 2003-2006",
+   "primary_sources": [
+    {
+     "work": "The Flood story",
+     "citation": "ETCSL c.1.7.4, trans. ETCSL team (2003-2006), lines 250-295",
+     "language": "Sumerian"
+    }
+   ],
+   "secondary_sources": [
+    {
+     "work": "The Babylonian Story of the Deluge as Told by Assyrian Tablets from Nineveh",
+     "citation": "E. A. Wallis Budge, London, 1920, introduction"
+    }
+   ],
+   "source_urls": [
+    {
+     "url": "https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.1.7.4&charenc=j",
+     "description": "ETCSL c.1.7.4 text and translation",
+     "accessed": "2026-11-14"
+    }
+   ],
+   "sensitivity_flag": "none",
+   "provenance": {
+    "record_status": "complete",
+    "compiled": "2026-11-14",
+    "compiled_by": "opencode myth-collection session",
+    "review_status": "unreviewed"
+   }
+  },
+  {
+   "id": "sumerian-lahar-ashnan",
+   "title": {
+    "en": "Lahar and Ashnan: Grain and Sheep",
+    "zh": "拉哈爾與阿什南：五穀與羊群"
+   },
+   "tradition": "sumerian",
+   "category": "myth",
+   "region": {
+    "en": "The Dulkug, divine creation site (symbolic pin at Nippur)",
+    "zh": "杜爾庫格造物之地（象徵性定位於尼普魯）"
+   },
+   "lat": 32.126,
+   "lon": 45.23,
+   "period": "Old Babylonian manuscript, c. 1700 BCE (ETCSL translation 2003)",
+   "source": {
+    "archive": "ETCSL (University of Oxford)",
+    "work": "The debate between Grain and Sheep (ETCSL c.5.3.2)",
+    "url": "https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.5.3.2&charenc=j"
+   },
+   "license": "ETCSL translation (Oxford, 2003-2006); quoted in paraphrase with attribution",
+   "summary": {
+    "en": "Created to give the Anuna gods their food, the sisters Lahar (cattle) and Ashnan (grain) brawl drunk at the banquet, breaking each other's gifts; Enlil and Enki must separate them and assign their stations.",
+    "zh": "為供眾神飲食而造的姊妹——牛神拉哈爾與穀神阿什南——於宴上醉酒鬥毆，互毀所贈；恩利爾與恩基出面調停，各定其職。"
+   },
+   "motifs": [
+    "sibling-creators",
+    "culture-hero",
+    "ritual-origin"
+   ],
+   "sensitivity": {
+    "restricted": false,
+    "note": "Ancient debate poem; no living community restrictions."
+   },
+   "passages": [
+    {
+     "id": "1",
+     "text": "The Anuna gods, still fed like men, know neither cloth to wear nor grain to eat; Enlil and Enki create in the Dulkug two sisters, Lahar the cattle goddess and Ashnan the grain goddess, to feed the gods and the great household.",
+     "note": "Paraphrase of ETCSL c.5.3.2, creation of the sisters; not verbatim."
+    },
+    {
+     "id": "2",
+     "text": "But the two sisters, drunk at the gods' banquet, brawl in the dust: each destroys the other's gifts, the stalls and the fields suffer, and Enlil and Enki descend to separate them — cattle in its stall, grain in its field, each given its own decree of office.",
+     "note": "Paraphrase of ETCSL c.5.3.2, the brawl and settlement; not verbatim."
+    }
+   ],
+   "persons": [
+    "enlil",
+    "enki",
+    "ninhursag"
+   ],
+   "functions": [
+    "Charter myth of the mixed cattle-grain economy",
+    "Etiology of the banquet brawl as the origin of abundance-limiting rules",
+    "Debate-poem liturgy performed at New Year"
+   ],
+   "variants": [
+    {
+     "name": "Dumuzid and Enkimdu",
+     "text_tradition": "Sumerian (ETCSL c.1.4.2)",
+     "summary": "The same shepherd-farmer rivalry as courtship.",
+     "cross_ref": "sumerian-dumuzi-enkimdu"
+    },
+    {
+     "name": "The debate between Winter and Summer",
+     "text_tradition": "Sumerian (ETCSL c.5.3.3)",
+     "summary": "The seasonal brother debate of the same genre.",
+     "cross_ref": "sumerian-winter-summer"
+    }
+   ],
+   "language": "Sumerian",
+   "canonical_translation": "ETCSL team translation, Oxford, 2003-2006",
+   "primary_sources": [
+    {
+     "work": "The debate between Grain and Sheep",
+     "citation": "ETCSL c.5.3.2, trans. ETCSL team (2003-2006)",
+     "language": "Sumerian"
+    }
+   ],
+   "secondary_sources": [
+    {
+     "work": "The Harps that Once...",
+     "citation": "Thorkild Jacobsen, New Haven, 1987"
+    }
+   ],
+   "source_urls": [
+    {
+     "url": "https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.5.3.2&charenc=j",
+     "description": "ETCSL c.5.3.2 text and translation",
+     "accessed": "2026-11-14"
+    }
+   ],
+   "sensitivity_flag": "none",
+   "provenance": {
+    "record_status": "complete",
+    "compiled": "2026-11-14",
+    "compiled_by": "opencode myth-collection session",
+    "review_status": "unreviewed"
+   }
+  },
+  {
+   "id": "sumerian-winter-summer",
+   "title": {
+    "en": "Winter and Summer Before the Judge",
+    "zh": "冬夏受審"
+   },
+   "tradition": "sumerian",
+   "category": "myth",
+   "region": {
+    "en": "Nippur, Iraq",
+    "zh": "尼普魯（伊拉克）"
+   },
+   "lat": 32.126,
+   "lon": 45.23,
+   "period": "Old Babylonian manuscript, c. 1700 BCE (ETCSL translation 2003)",
+   "source": {
+    "archive": "ETCSL (University of Oxford)",
+    "work": "The debate between Winter and Summer (ETCSL c.5.3.3)",
+    "url": "https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.5.3.3&charenc=j"
+   },
+   "license": "ETCSL translation (Oxford, 2003-2006); quoted in paraphrase with attribution",
+   "summary": {
+    "en": "Enlil sows two seeds and begets two brothers, Enten the winter farmer and Emesh the summer builder; their boasts and quarrel come before Enlil, who judges in Enten's favor and names him the farmer of the gods — the origin of the agricultural year's order.",
+    "zh": "恩利爾播下兩粒種子，生下二兄弟：農夫恩騰（冬）與建造者埃梅什（夏）。二人誇耀爭執，訴於恩利爾；恩利爾判恩騰勝，封其為眾神之農夫——農事年序由此而定。"
+   },
+   "motifs": [
+    "sibling-creators",
+    "ritual-origin",
+    "oracle-divination"
+   ],
+   "sensitivity": {
+    "restricted": false,
+    "note": "Ancient debate poem; no living community restrictions."
+   },
+   "passages": [
+    {
+     "id": "1",
+     "text": "Enlil begets two seeds in the earth: Enten, the winter, who digs canals, brings the flood-waters, and stocks the granaries, and Emesh, the summer, who builds houses, plants trees and raises the herds' abundance. The brothers quarrel over seniority before Enlil; each recites his works. Enlil judges: Enten is the farmer of the gods, and Emesh shall honor him; the brothers are reconciled with gifts, and the year's order is fixed — sowing and harvest each in its season.",
+     "note": "Paraphrase of ETCSL c.5.3.3, the two brothers; not verbatim. / Paraphrase of ETCSL c.5.3.3, the judgment; not verbatim."
+    }
+   ],
+   "persons": [
+    "enlil",
+    "enten",
+    "emesh"
+   ],
+   "functions": [
+    "Etiology of the agricultural calendar's two seasons",
+    "Judgment myth for the school recitation tradition",
+    "Charter of the farmer's seniority in the temple economy"
+   ],
+   "variants": [
+    {
+     "name": "The debate between Grain and Sheep",
+     "text_tradition": "Sumerian (ETCSL c.5.3.2)",
+     "summary": "The sister debate of the same genre.",
+     "cross_ref": "sumerian-lahar-ashnan"
+    }
+   ],
+   "language": "Sumerian",
+   "canonical_translation": "ETCSL team translation, Oxford, 2003-2006",
+   "primary_sources": [
+    {
+     "work": "The debate between Winter and Summer",
+     "citation": "ETCSL c.5.3.3, trans. ETCSL team (2003-2006)",
+     "language": "Sumerian"
+    }
+   ],
+   "secondary_sources": [
+    {
+     "work": "The Harps that Once...",
+     "citation": "Thorkild Jacobsen, New Haven, 1987"
+    }
+   ],
+   "source_urls": [
+    {
+     "url": "https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.5.3.3&charenc=j",
+     "description": "ETCSL c.5.3.3 text and translation",
+     "accessed": "2026-11-14"
+    }
+   ],
+   "sensitivity_flag": "none",
+   "provenance": {
+    "record_status": "complete",
+    "compiled": "2026-11-14",
+    "compiled_by": "opencode myth-collection session",
+    "review_status": "unreviewed"
+   }
+  },
+  {
+   "id": "sumerian-bird-fish",
+   "title": {
+    "en": "The Debate between Bird and Fish",
+    "zh": "鳥魚之辯"
+   },
+   "tradition": "sumerian",
+   "category": "myth",
+   "region": {
+    "en": "Marshes and seashore of Sumer, Iraq",
+    "zh": "蘇美沼澤與海岸（伊拉克）"
+   },
+   "lat": 31.0,
+   "lon": 47.0,
+   "period": "Old Babylonian manuscript, c. 1700 BCE (ETCSL translation 2003)",
+   "source": {
+    "archive": "ETCSL (University of Oxford)",
+    "work": "The debate between Bird and Fish (ETCSL c.5.3.5)",
+    "url": "https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.5.3.5&charenc=j"
+   },
+   "license": "ETCSL translation (Oxford, 2003-2006); quoted in paraphrase with attribution",
+   "summary": {
+    "en": "Bird boasts of sky and high places, Fish of the waters' depth; their quarrel comes before Enki, who judges both to have their places and assigns neither supremacy — a world where every element keeps its station.",
+    "zh": "鳥誇天空與高地，魚誇深水之淵；二人爭執訴於恩基。恩基判定各安其位、無分高下——萬物各守其界的秩序。"
+   },
+   "motifs": [
+    "sibling-creators",
+    "ritual-origin"
+   ],
+   "sensitivity": {
+    "restricted": false,
+    "note": "Ancient debate poem; no living community restrictions."
+   },
+   "passages": [
+    {
+     "id": "1",
+     "text": "Bird mocks Fish as the eater of filth; Fish answers that Bird nests in dirt and cannot enter the water's abundance. Each recounts its realm's gifts — the sky's wide reach, the sea's deep freight — and the quarrel grows bitter. Enki judges: each has its own place and its own plenty; neither shall rule the other. The mother of both waters their quarrel to peace, and the elements are assigned their bounds.",
+     "note": "Paraphrase of ETCSL c.5.3.5, the debate; not verbatim. / Paraphrase of ETCSL c.5.3.5, the judgment; not verbatim."
+    }
+   ],
+   "persons": [
+    "enki"
+   ],
+   "functions": [
+    "Debate liturgy on the bounds of the elements",
+    "School recitation text of the dispute genre"
+   ],
+   "variants": [
+    {
+     "name": "The debate between Copper and Silver",
+     "text_tradition": "Sumerian (ETCSL c.5.3.6)",
+     "summary": "The mineral counterpart of the same genre.",
+     "cross_ref": "sumerian-copper-silver"
+    }
+   ],
+   "language": "Sumerian",
+   "canonical_translation": "ETCSL team translation, Oxford, 2003-2006",
+   "primary_sources": [
+    {
+     "work": "The debate between Bird and Fish",
+     "citation": "ETCSL c.5.3.5, trans. ETCSL team (2003-2006)",
+     "language": "Sumerian"
+    }
+   ],
+   "secondary_sources": [
+    {
+     "work": "The Harps that Once...",
+     "citation": "Thorkild Jacobsen, New Haven, 1987"
+    }
+   ],
+   "source_urls": [
+    {
+     "url": "https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.5.3.5&charenc=j",
+     "description": "ETCSL c.5.3.5 text and translation",
+     "accessed": "2026-11-14"
+    }
+   ],
+   "sensitivity_flag": "none",
+   "provenance": {
+    "record_status": "complete",
+    "compiled": "2026-11-14",
+    "compiled_by": "opencode myth-collection session",
+    "review_status": "unreviewed"
+   }
+  },
+  {
+   "id": "sumerian-copper-silver",
+   "title": {
+    "en": "The Debate between Copper and Silver",
+    "zh": "銅銀之辯"
+   },
+   "tradition": "sumerian",
+   "category": "myth",
+   "region": {
+    "en": "Metalwork of the temples, Sumer (symbolic pin at Lagash)",
+    "zh": "神廟金工作坊（象徵性定位於拉加什）"
+   },
+   "lat": 31.64,
+   "lon": 46.66,
+   "period": "Old Babylonian manuscript, c. 1700 BCE (ETCSL translation 2003)",
+   "source": {
+    "archive": "ETCSL (University of Oxford)",
+    "work": "The debate between Copper and Silver (ETCSL c.5.3.6)",
+    "url": "https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.5.3.6&charenc=j"
+   },
+   "license": "ETCSL translation (Oxford, 2003-2006); quoted in paraphrase with attribution",
+   "summary": {
+    "en": "Silver, the treasury's darling, mocks Copper as the smith's drudge; Copper answers with the tools and weapons that make civilization work. Enlil's judgment: the earth's metals are sisters, and Copper keeps its honor in use.",
+    "zh": "國庫寵兒白銀譏銅為工匠之役；銅答以文明賴以運轉的工具與武器。恩利爾裁斷：大地諸金屬本為姊妹，銅在實用中自有其榮。"
+   },
+   "motifs": [
+    "sibling-creators",
+    "ritual-origin"
+   ],
+   "sensitivity": {
+    "restricted": false,
+    "note": "Ancient debate poem; no living community restrictions."
+   },
+   "passages": [
+    {
+     "id": "1",
+     "text": "Silver boasts of the treasury and the bridal gifts; Copper answers that the axes, the ploughshares and the weapons that feed and defend the land are his work. Each catalogs the other's low uses. Enlil separates them in judgment: both are the earth's metals, each with its office — Silver for the temple's glory, Copper for the hand's work — and neither shall disown the other.",
+     "note": "Paraphrase of ETCSL c.5.3.6, the debate; not verbatim. / Paraphrase of ETCSL c.5.3.6, the judgment; not verbatim."
+    }
+   ],
+   "persons": [
+    "enlil"
+   ],
+   "functions": [
+    "Values debate on treasury wealth versus working metal",
+    "School recitation text of the dispute genre"
+   ],
+   "variants": [
+    {
+     "name": "The debate between Bird and Fish",
+     "text_tradition": "Sumerian (ETCSL c.5.3.5)",
+     "summary": "The elemental counterpart.",
+     "cross_ref": "sumerian-bird-fish"
+    }
+   ],
+   "language": "Sumerian",
+   "canonical_translation": "ETCSL team translation, Oxford, 2003-2006",
+   "primary_sources": [
+    {
+     "work": "The debate between Copper and Silver",
+     "citation": "ETCSL c.5.3.6, trans. ETCSL team (2003-2006)",
+     "language": "Sumerian"
+    }
+   ],
+   "secondary_sources": [
+    {
+     "work": "Sumerian Mythology",
+     "citation": "Samuel Noah Kramer, Philadelphia, 1944"
+    }
+   ],
+   "source_urls": [
+    {
+     "url": "https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.5.3.6&charenc=j",
+     "description": "ETCSL c.5.3.6 text and translation",
+     "accessed": "2026-11-14"
+    }
+   ],
+   "sensitivity_flag": "none",
+   "provenance": {
+    "record_status": "complete",
+    "compiled": "2026-11-14",
+    "compiled_by": "opencode myth-collection session",
+    "review_status": "unreviewed"
+   }
+  },
+  {
+   "id": "sumerian-palm-tamarisk",
+   "title": {
+    "en": "The Debate between Date Palm and Tamarisk",
+    "zh": "椰棗與檉柳之辯"
+   },
+   "tradition": "sumerian",
+   "category": "myth",
+   "region": {
+    "en": "Gardens of Uruk, Iraq",
+    "zh": "烏魯克園林（伊拉克）"
+   },
+   "lat": 31.324,
+   "lon": 45.637,
+   "period": "Old Babylonian manuscript, c. 1700 BCE (ETCSL translation 2003)",
+   "source": {
+    "archive": "ETCSL (University of Oxford)",
+    "work": "The debate between Date Palm and Tamarisk (ETCSL c.5.3.7)",
+    "url": "https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.5.3.7&charenc=j"
+   },
+   "license": "ETCSL translation (Oxford, 2003-2006); quoted in paraphrase with attribution",
+   "summary": {
+    "en": "The date palm, bread-tree of the south, and the tamarisk, wood of tools and temples, each claim the garden's crown; Enki judges the palm the more abundant — yet the tamarisk keeps the honor of the builder's timber.",
+    "zh": "南國之糧椰棗樹與造器築殿之木檉柳，各爭園中之冠；恩基判椰棗豐產為勝——然檉柳仍享工匠之木的榮光。"
+   },
+   "motifs": [
+    "sibling-creators",
+    "ritual-origin"
+   ],
+   "sensitivity": {
+    "restricted": false,
+    "note": "Ancient debate poem; no living community restrictions."
+   },
+   "passages": [
+    {
+     "id": "1",
+     "text": "The date palm catalogs its gifts: fruit, syrup, beer, ropes of fiber, shade for the garden. The tamarisk answers with its own: timber for tools, ploughs and temples, the wood that builds every house. Enki judges in the palm's favor for abundance — the south's bread-tree — while the tamarisk is honored as the builder's timber; both are praised and planted, each in its place.",
+     "note": "Paraphrase of ETCSL c.5.3.7, the debate; not verbatim. / Paraphrase of ETCSL c.5.3.7, the judgment; not verbatim."
+    }
+   ],
+   "persons": [
+    "enki"
+   ],
+   "functions": [
+    "Botanical charter of the southern garden economy",
+    "School recitation text of the dispute genre"
+   ],
+   "variants": [
+    {
+     "name": "The debate between Hoe and Plough",
+     "text_tradition": "Sumerian (ETCSL c.5.3.1)",
+     "summary": "The tools' counterpart debate.",
+     "cross_ref": "sumerian-hoe-plough"
+    }
+   ],
+   "language": "Sumerian",
+   "canonical_translation": "ETCSL team translation, Oxford, 2003-2006",
+   "primary_sources": [
+    {
+     "work": "The debate between Date Palm and Tamarisk",
+     "citation": "ETCSL c.5.3.7, trans. ETCSL team (2003-2006)",
+     "language": "Sumerian"
+    }
+   ],
+   "secondary_sources": [
+    {
+     "work": "The Harps that Once...",
+     "citation": "Thorkild Jacobsen, New Haven, 1987"
+    }
+   ],
+   "source_urls": [
+    {
+     "url": "https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.5.3.7&charenc=j",
+     "description": "ETCSL c.5.3.7 text and translation",
+     "accessed": "2026-11-14"
+    }
+   ],
+   "sensitivity_flag": "none",
+   "provenance": {
+    "record_status": "complete",
+    "compiled": "2026-11-14",
+    "compiled_by": "opencode myth-collection session",
+    "review_status": "unreviewed"
+   }
+  },
+  {
+   "id": "sumerian-hoe-plough",
+   "title": {
+    "en": "The Debate between Hoe and Plough",
+    "zh": "鋤犁之辯"
+   },
+   "tradition": "sumerian",
+   "category": "myth",
+   "region": {
+    "en": "Fields of Nippur, Iraq",
+    "zh": "尼普魯田疇（伊拉克）"
+   },
+   "lat": 32.126,
+   "lon": 45.23,
+   "period": "Old Babylonian manuscript, c. 1700 BCE (ETCSL translation 2003)",
+   "source": {
+    "archive": "ETCSL (University of Oxford)",
+    "work": "The debate between Hoe and Plough (ETCSL c.5.3.1)",
+    "url": "https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.5.3.1&charenc=j"
+   },
+   "license": "ETCSL translation (Oxford, 2003-2006); quoted in paraphrase with attribution",
+   "summary": {
+    "en": "The hoe claims the first dig of canals and graves, the plough the sowing that feeds the land; Enlil judges the plough the greater — and the hoe is honored for every task before and after the season of sowing.",
+    "zh": "鋤自誇掘渠挖墓之先功，犁誇播種養民之本業；恩利爾判犁為大——然鋤在播種前後的一切勞作中仍享其榮。"
+   },
+   "motifs": [
+    "sibling-creators",
+    "ritual-origin"
+   ],
+   "sensitivity": {
+    "restricted": false,
+    "note": "Ancient debate poem; no living community restrictions."
+   },
+   "passages": [
+    {
+     "id": "1",
+     "text": "The hoe boasts of the first works: digging the canals, opening the fields, digging the graves — the tool that starts and ends all labor. The plough answers with the sowing that feeds the land and the furrows of abundance. Enlil judges the plough the greater worker, and assigns the hoe its honor for every task around the season — the year's two tools reconciled to their offices.",
+     "note": "Paraphrase of ETCSL c.5.3.1, the debate; not verbatim. / Paraphrase of ETCSL c.5.3.1, the judgment; not verbatim."
+    }
+   ],
+   "persons": [
+    "enlil"
+   ],
+   "functions": [
+    "Dignification of agricultural labor as divine work",
+    "School recitation text of the dispute genre"
+   ],
+   "variants": [
+    {
+     "name": "The song of the hoe",
+     "text_tradition": "Sumerian (ETCSL c.5.5.4)",
+     "summary": "The hoe's own creation hymn.",
+     "cross_ref": "sumerian-song-of-hoe"
+    }
+   ],
+   "language": "Sumerian",
+   "canonical_translation": "ETCSL team translation, Oxford, 2003-2006",
+   "primary_sources": [
+    {
+     "work": "The debate between Hoe and Plough",
+     "citation": "ETCSL c.5.3.1, trans. ETCSL team (2003-2006)",
+     "language": "Sumerian"
+    }
+   ],
+   "secondary_sources": [
+    {
+     "work": "The Harps that Once...",
+     "citation": "Thorkild Jacobsen, New Haven, 1987"
+    }
+   ],
+   "source_urls": [
+    {
+     "url": "https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.5.3.1&charenc=j",
+     "description": "ETCSL c.5.3.1 text and translation",
+     "accessed": "2026-11-14"
+    }
+   ],
+   "sensitivity_flag": "none",
+   "provenance": {
+    "record_status": "complete",
+    "compiled": "2026-11-14",
+    "compiled_by": "opencode myth-collection session",
+    "review_status": "unreviewed"
+   }
+  },
+  {
+   "id": "sumerian-grain-sumer",
+   "title": {
+    "en": "How Grain Came to Sumer",
+    "zh": "五穀入蘇美記"
+   },
+   "tradition": "sumerian",
+   "category": "myth",
+   "region": {
+    "en": "The Dulkug to Sumer's fields (symbolic pin at Nippur)",
+    "zh": "自杜爾庫格至蘇美田疇（象徵性定位於尼普魯）"
+   },
+   "lat": 32.126,
+   "lon": 45.23,
+   "period": "Old Babylonian manuscript, c. 1700 BCE (ETCSL translation 2003)",
+   "source": {
+    "archive": "ETCSL (University of Oxford)",
+    "work": "How grain came to Sumer (ETCSL c.1.7.6)",
+    "url": "https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.1.7.6&charenc=j"
+   },
+   "license": "ETCSL translation (Oxford, 2003-2006); quoted in paraphrase with attribution",
+   "summary": {
+    "en": "In the Dulkug, Enlil lets barley sprout from the earth; Ninazu and Ninmada carry it from the mountains to Sumer so that the gods and men can have bread and beer — the origin of the south's staple.",
+    "zh": "恩利爾於杜爾庫格使大麥自地中生出；寧阿祖與寧瑪達自山中將其引入蘇美，令諸神與人類得有麵包與啤酒——南方主食之起源。"
+   },
+   "motifs": [
+    "culture-hero",
+    "ritual-origin"
+   ],
+   "sensitivity": {
+    "restricted": false,
+    "note": "Ancient myth; no living community restrictions."
+   },
+   "passages": [
+    {
+     "id": "1",
+     "text": "In the Dulkug, Enlil lets barley rise from the earth's heart; but the grain lies in the mountains, unknown to Sumer's people and gods. Ninazu and Ninmada carry the grain down from the mountain to Sumer; with it come bread and beer, the gods' food and the people's — and the land of the south receives its staple.",
+     "note": "Paraphrase of ETCSL c.1.7.6, the sprouting; not verbatim. / Paraphrase of ETCSL c.1.7.6, the transfer; not verbatim."
+    }
+   ],
+   "persons": [
+    "enlil",
+    "nisaba"
+   ],
+   "functions": [
+    "Etiology of agriculture's arrival in southern Mesopotamia",
+    "Charter of bread and beer as divine gifts"
+   ],
+   "variants": [
+    {
+     "name": "The debate between Grain and Sheep",
+     "text_tradition": "Sumerian (ETCSL c.5.3.2)",
+     "summary": "The grain goddess's own myth.",
+     "cross_ref": "sumerian-lahar-ashnan"
+    }
+   ],
+   "language": "Sumerian",
+   "canonical_translation": "ETCSL team translation, Oxford, 2003-2006",
+   "primary_sources": [
+    {
+     "work": "How grain came to Sumer",
+     "citation": "ETCSL c.1.7.6, trans. ETCSL team (2003-2006)",
+     "language": "Sumerian"
+    }
+   ],
+   "secondary_sources": [
+    {
+     "work": "Sumerian Mythology",
+     "citation": "Samuel Noah Kramer, Philadelphia, 1944"
+    }
+   ],
+   "source_urls": [
+    {
+     "url": "https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.1.7.6&charenc=j",
+     "description": "ETCSL c.1.7.6 text and translation",
+     "accessed": "2026-11-14"
+    }
+   ],
+   "sensitivity_flag": "none",
+   "provenance": {
+    "record_status": "complete",
+    "compiled": "2026-11-14",
+    "compiled_by": "opencode myth-collection session",
+    "review_status": "unreviewed"
+   }
+  },
+  {
+   "id": "sumerian-home-fish",
+   "title": {
+    "en": "The Home of the Fish",
+    "zh": "魚之居所"
+   },
+   "tradition": "sumerian",
+   "category": "myth",
+   "region": {
+    "en": "The marsh sea of the south, Iraq",
+    "zh": "南方沼海（伊拉克）"
+   },
+   "lat": 31.0,
+   "lon": 47.0,
+   "period": "Old Babylonian manuscript, c. 1700 BCE (ETCSL translation 2003)",
+   "source": {
+    "archive": "ETCSL (University of Oxford)",
+    "work": "The home of the fish (ETCSL c.5.9.1)",
+    "url": "https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.5.9.1&charenc=j"
+   },
+   "license": "ETCSL translation (Oxford, 2003-2006); quoted in paraphrase with attribution",
+   "summary": {
+    "en": "A catalog-poem of the fish and their stations: each fish named, its water, its catch and its place in the temple's fish-houses — a hymn to the marsh economy of the south.",
+    "zh": "點數群魚及其居所之詩：一一具名，記其水域、捕獲與神廟魚舍中之位——南方沼澤經濟之頌歌。"
+   },
+   "motifs": [
+    "sacred-place",
+    "culture-hero"
+   ],
+   "sensitivity": {
+    "restricted": false,
+    "note": "Ancient hymn; no living community restrictions."
+   },
+   "passages": [
+    {
+     "id": "1",
+     "text": "The home of the fish is cataloged fish by fish: where each spawns, what each eats, which net takes it, which temple's fish-house keeps it — the marsh's economy set in verse.",
+     "note": "Paraphrase of ETCSL c.5.9.1, the catalogue; not verbatim."
+    }
+   ],
+   "persons": [
+    "enki"
+   ],
+   "functions": [
+    "Verse map of the marsh fishery economy",
+    "Hymn of Enki's watery kingdom"
+   ],
+   "variants": [
+    {
+     "name": "The heron and the turtle",
+     "text_tradition": "Sumerian (ETCSL c.5.9.2)",
+     "summary": "The marsh fable of the same collection.",
+     "cross_ref": "sumerian-heron-turtle"
+    }
+   ],
+   "language": "Sumerian",
+   "canonical_translation": "ETCSL team translation, Oxford, 2003-2006",
+   "primary_sources": [
+    {
+     "work": "The home of the fish",
+     "citation": "ETCSL c.5.9.1, trans. ETCSL team (2003-2006)",
+     "language": "Sumerian"
+    }
+   ],
+   "secondary_sources": [
+    {
+     "work": "Sumerian Mythology",
+     "citation": "Samuel Noah Kramer, Philadelphia, 1944"
+    }
+   ],
+   "source_urls": [
+    {
+     "url": "https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.5.9.1&charenc=j",
+     "description": "ETCSL c.5.9.1 text and translation",
+     "accessed": "2026-11-14"
+    }
+   ],
+   "sensitivity_flag": "none",
+   "provenance": {
+    "record_status": "complete",
+    "compiled": "2026-11-14",
+    "compiled_by": "opencode myth-collection session",
+    "review_status": "unreviewed"
+   }
+  },
+  {
+   "id": "sumerian-heron-turtle",
+   "title": {
+    "en": "The Heron and the Turtle",
+    "zh": "鷺與龜"
+   },
+   "tradition": "sumerian",
+   "category": "myth",
+   "region": {
+    "en": "Marshes of the south, Iraq",
+    "zh": "南方沼澤（伊拉克）"
+   },
+   "lat": 31.0,
+   "lon": 47.0,
+   "period": "Old Babylonian manuscript, c. 1700 BCE (ETCSL translation 2003)",
+   "source": {
+    "archive": "ETCSL (University of Oxford)",
+    "work": "The heron and the turtle (ETCSL c.5.9.2)",
+    "url": "https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.5.9.2&charenc=j"
+   },
+   "license": "ETCSL translation (Oxford, 2003-2006); quoted in paraphrase with attribution",
+   "summary": {
+    "en": "The heron, fish-hunter of the marsh, is lured by the turtle's promise of an easy catch; the turtle drags him into the water and drowns him — a fable of greed, patience and the marsh's justice.",
+    "zh": "沼中捕魚之鷺為龜的易得之利所誘；龜將其拖入水中溺斃——貪婪、耐心與沼澤正義的寓言。"
+   },
+   "motifs": [
+    "trickster",
+    "parable-teaching"
+   ],
+   "sensitivity": {
+    "restricted": false,
+    "note": "Ancient fable; no living community restrictions."
+   },
+   "passages": [
+    {
+     "id": "1",
+     "text": "The heron hunts the marsh's fish; the turtle promises him an easy catch in the deep. The greedy bird follows — and the turtle grips his feet, drags him down, and drowns him in the water. The fable's moral is spoken by the marsh itself: the patient small one outwaits the greedy flyer; the one who hunts for ease is caught by the still one's cunning.",
+     "note": "Paraphrase of ETCSL c.5.9.2, the fable; not verbatim. / Paraphrase of ETCSL c.5.9.2, the moral; not verbatim."
+    }
+   ],
+   "persons": [],
+   "functions": [
+    "Animal fable of greed and patience",
+    "School text of the fable genre"
+   ],
+   "variants": [
+    {
+     "name": "Ninurta and the turtle",
+     "text_tradition": "Sumerian (ETCSL c.1.6.3)",
+     "summary": "The mythic cousin of the turtle's cunning.",
+     "cross_ref": "sumerian-ninurta-turtle"
+    }
+   ],
+   "language": "Sumerian",
+   "canonical_translation": "ETCSL team translation, Oxford, 2003-2006",
+   "primary_sources": [
+    {
+     "work": "The heron and the turtle",
+     "citation": "ETCSL c.5.9.2, trans. ETCSL team (2003-2006)",
+     "language": "Sumerian"
+    }
+   ],
+   "secondary_sources": [
+    {
+     "work": "Sumerian Mythology",
+     "citation": "Samuel Noah Kramer, Philadelphia, 1944"
+    }
+   ],
+   "source_urls": [
+    {
+     "url": "https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.5.9.2&charenc=j",
+     "description": "ETCSL c.5.9.2 text and translation",
+     "accessed": "2026-11-14"
+    }
+   ],
+   "sensitivity_flag": "none",
+   "provenance": {
+    "record_status": "complete",
+    "compiled": "2026-11-14",
+    "compiled_by": "opencode myth-collection session",
+    "review_status": "unreviewed"
+   }
+  },
+  {
+   "id": "sumerian-man-god",
+   "title": {
+    "en": "A Man and His God",
+    "zh": "人與其神"
+   },
+   "tradition": "sumerian",
+   "category": "myth",
+   "region": {
+    "en": "Nippur, Iraq",
+    "zh": "尼普魯（伊拉克）"
+   },
+   "lat": 32.126,
+   "lon": 45.23,
+   "period": "Old Babylonian manuscript, c. 1700 BCE (ETCSL translation 2003)",
+   "source": {
+    "archive": "ETCSL (University of Oxford)",
+    "work": "A man and his god (ETCSL c.5.2.4)",
+    "url": "https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.5.2.4&charenc=j"
+   },
+   "license": "ETCSL translation (Oxford, 2003-2006); quoted in paraphrase with attribution",
+   "summary": {
+    "en": "A righteous man who has done no wrong is stricken by his personal god; in his suffering he never curses, prays and weeps day and night — and his god, moved at last, restores him: the oldest righteous-sufferer poem.",
+    "zh": "一位未曾作惡的義人遭其守護神降禍；苦難中他從不咒罵，日夜祈禱哭泣——其神終受感動，使他復原：最古老的義人受苦詩。"
+   },
+   "motifs": [
+    "parable-teaching",
+    "quest-immortality",
+    "ritual-origin"
+   ],
+   "sensitivity": {
+    "restricted": false,
+    "note": "Ancient wisdom literature; no living community restrictions."
+   },
+   "passages": [
+    {
+     "id": "1",
+     "text": "A man who has done no wrong is stricken: sickness, loss and humiliation come from his own god, and no sin explains it. He does not curse; he weeps and prays day and night in the temple courts. His god, moved at last by the man's patient piety, turns and restores him: health, standing and prosperity return, and the poem closes blessing the man who did not curse his god in trouble.",
+     "note": "Paraphrase of ETCSL c.5.2.4, the suffering; not verbatim. / Paraphrase of ETCSL c.5.2.4, the restoration; not verbatim."
+    }
+   ],
+   "persons": [
+    "enlil"
+   ],
+   "functions": [
+    "Founding poem of the righteous-sufferer genre",
+    "Instruction in patient piety under unexplained suffering",
+    "Temple liturgy of the penitent"
+   ],
+   "variants": [
+    {
+     "name": "Ludlul bel nemeqi",
+     "text_tradition": "Akkadian (Rogers 1912)",
+     "summary": "The Babylonian righteous sufferer's full epic.",
+     "cross_ref": "babylonian-ludlul-suffering"
+    }
+   ],
+   "language": "Sumerian",
+   "canonical_translation": "ETCSL team translation, Oxford, 2003-2006",
+   "primary_sources": [
+    {
+     "work": "A man and his god",
+     "citation": "ETCSL c.5.2.4, trans. ETCSL team (2003-2006)",
+     "language": "Sumerian"
+    }
+   ],
+   "secondary_sources": [
+    {
+     "work": "The Harps that Once...",
+     "citation": "Thorkild Jacobsen, New Haven, 1987"
+    }
+   ],
+   "source_urls": [
+    {
+     "url": "https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.5.2.4&charenc=j",
+     "description": "ETCSL c.5.2.4 text and translation",
+     "accessed": "2026-11-14"
+    }
+   ],
+   "sensitivity_flag": "none",
+   "provenance": {
+    "record_status": "complete",
+    "compiled": "2026-11-14",
+    "compiled_by": "opencode myth-collection session",
+    "review_status": "unreviewed"
+   }
+  },
+  {
+   "id": "sumerian-poem-early-rulers",
+   "title": {
+    "en": "The Poem of Early Rulers",
+    "zh": "先王之歌"
+   },
+   "tradition": "sumerian",
+   "category": "myth",
+   "region": {
+    "en": "Sumer's earliest cities, Iraq",
+    "zh": "蘇美最早諸城（伊拉克）"
+   },
+   "lat": 31.5,
+   "lon": 45.5,
+   "period": "Old Babylonian manuscript, c. 1700 BCE (ETCSL translation 2003)",
+   "source": {
+    "archive": "ETCSL (University of Oxford)",
+    "work": "The poem of early rulers (ETCSL c.5.2.5)",
+    "url": "https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.5.2.5&charenc=j"
+   },
+   "license": "ETCSL translation (Oxford, 2003-2006); quoted in paraphrase with attribution",
+   "summary": {
+    "en": "The poem recalls the lost age of the five ancient cities and their flood, the wisdom of Enmeduranki and the deeds of early kings — and teaches that the days of old were god-favored, and the present must labor to match them.",
+    "zh": "詩篇追憶五古邦與洪水之前的年代、恩梅杜蘭基之智慧與先王的功業——教導昔日蒙神眷顧，今人當勉力追之。"
+   },
+   "motifs": [
+    "foundational-legend",
+    "parable-teaching",
+    "world-renewal"
+   ],
+   "sensitivity": {
+    "restricted": false,
+    "note": "Ancient wisdom literature; no living community restrictions."
+   },
+   "passages": [
+    {
+     "id": "1",
+     "text": "In ancient times, the five cities before the flood — Eridug, Bad-tibira, Larsa, Sippar and Shuruppak — were given their fates, and the flood swept them; their kings were taken up to heaven. The poem names the wise of old — Enmeduranki who sat in the gods' assembly — and the rulers whose justice kept the land, teaching the present to match their piety: the days of old were long, the days of now are brief.",
+     "note": "Paraphrase of ETCSL c.5.2.5, the lost age; not verbatim. / Paraphrase of ETCSL c.5.2.5, the wise and the teaching; not verbatim."
+    }
+   ],
+   "persons": [
+    "enlil"
+   ],
+   "functions": [
+    "Wisdom meditation on the antediluvian age",
+    "Charter of the sage tradition (Enmeduranki)",
+    "School text of nostalgia and imitation of the ancients"
+   ],
+   "variants": [
+    {
+     "name": "The Sumerian King List",
+     "text_tradition": "Sumerian (ETCSL c.2.1.1)",
+     "summary": "The prose counterpart of the antediluvian kings.",
+     "cross_ref": "sumerian-king-list"
+    }
+   ],
+   "language": "Sumerian",
+   "canonical_translation": "ETCSL team translation, Oxford, 2003-2006",
+   "primary_sources": [
+    {
+     "work": "The poem of early rulers",
+     "citation": "ETCSL c.5.2.5, trans. ETCSL team (2003-2006)",
+     "language": "Sumerian"
+    }
+   ],
+   "secondary_sources": [
+    {
+     "work": "The Harps that Once...",
+     "citation": "Thorkild Jacobsen, New Haven, 1987"
+    }
+   ],
+   "source_urls": [
+    {
+     "url": "https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.5.2.5&charenc=j",
+     "description": "ETCSL c.5.2.5 text and translation",
+     "accessed": "2026-11-14"
+    }
+   ],
+   "sensitivity_flag": "none",
+   "provenance": {
+    "record_status": "complete",
+    "compiled": "2026-11-14",
+    "compiled_by": "opencode myth-collection session",
+    "review_status": "unreviewed"
+   }
+  },
+  {
+   "id": "sumerian-ludijira",
+   "title": {
+    "en": "Ludingira's Message to His Mother",
+    "zh": "盧丁吉拉致母書"
+   },
+   "tradition": "sumerian",
+   "category": "myth",
+   "region": {
+    "en": "Ur to the borderlands, Iraq",
+    "zh": "烏爾至邊陲（伊拉克）"
+   },
+   "lat": 30.963,
+   "lon": 46.106,
+   "period": "Old Babylonian manuscript, c. 1700 BCE (ETCSL translation 2003)",
+   "source": {
+    "archive": "ETCSL (University of Oxford)",
+    "work": "The message of Lu-dingira to his mother (ETCSL c.5.5.1)",
+    "url": "https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.5.5.1&charenc=j"
+   },
+   "license": "ETCSL translation (Oxford, 2003-2006); quoted in paraphrase with attribution",
+   "summary": {
+    "en": "Ludingira, far from home, writes to his mother at the house of Ur-Namma: do not be anxious — the courier is sound, the roads safe — a tender message-poem in which love of mother and the dangers of travel are set against the distance of empires.",
+    "zh": "遠行的盧丁吉拉致書母親：勿憂——信使平安，道路無虞；母愛與旅途險阻對峙於帝國的距離之中，堪稱最溫柔的信息之詩。"
+   },
+   "motifs": [
+    "parable-teaching",
+    "otherworld-voyage"
+   ],
+   "sensitivity": {
+    "restricted": false,
+    "note": "Ancient letter-poem; no living community restrictions."
+   },
+   "passages": [
+    {
+     "id": "1",
+     "text": "Ludingira, traveling far, writes to his mother at Ur-Namma's house: mother, do not be anxious for me — the courier is sound, the roads are safe, and your son thinks of you. The poem's tenderness is its theme: the mother's worry set against the son's reassurance, love measured across the distances of empire — the earliest letter-poem of family love in world literature.",
+     "note": "Paraphrase of ETCSL c.5.5.1, the message; not verbatim. / Paraphrase of ETCSL c.5.5.1, the tenderness; not verbatim."
+    }
+   ],
+   "persons": [],
+   "functions": [
+    "Earliest letter-poem of family affection",
+    "School model of the letter genre"
+   ],
+   "variants": [
+    {
+     "name": "The elegy on the death of Nannaya",
+     "text_tradition": "Sumerian (ETCSL c.5.5.2)",
+     "summary": "The companion genre of mourning poems.",
+     "cross_ref": "sumerian-elegy-nannaya"
+    }
+   ],
+   "language": "Sumerian",
+   "canonical_translation": "ETCSL team translation, Oxford, 2003-2006",
+   "primary_sources": [
+    {
+     "work": "The message of Lu-dingira to his mother",
+     "citation": "ETCSL c.5.5.1, trans. ETCSL team (2003-2006)",
+     "language": "Sumerian"
+    }
+   ],
+   "secondary_sources": [
+    {
+     "work": "The Harps that Once...",
+     "citation": "Thorkild Jacobsen, New Haven, 1987"
+    }
+   ],
+   "source_urls": [
+    {
+     "url": "https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.5.5.1&charenc=j",
+     "description": "ETCSL c.5.5.1 text and translation",
+     "accessed": "2026-11-14"
+    }
+   ],
+   "sensitivity_flag": "none",
+   "provenance": {
+    "record_status": "complete",
+    "compiled": "2026-11-14",
+    "compiled_by": "opencode myth-collection session",
+    "review_status": "unreviewed"
+   }
+  }
+ ]
+}

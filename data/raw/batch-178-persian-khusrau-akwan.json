@@ -1,0 +1,353 @@
+{
+  "_comment": "Shahnama of Firdausi, trans. A. G. & E. Warner (1905), vol. III: Kai Khusrau's accession; the Div Akwan; Bizhan and Manizha. Paraphrase passages with notes.",
+  "texts": [
+    {
+      "id": "persian-kai-khusrau-homage",
+      "title": {
+        "en": "Kai Khusrau Takes the Throne and Rustam Does Homage",
+        "zh": "卡伊霍斯勞登基與魯斯塔姆朝賀"
+      },
+      "tradition": "persian",
+      "category": "myth",
+      "region": {
+        "en": "Throne of Iran (symbolic pin)",
+        "zh": "伊朗王座（象徵性定位）"
+      },
+      "lat": 29.9,
+      "lon": 52.9,
+      "period": "Composed c. 1010 CE (Warner translation 1905)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Firdausi, Shahnama, trans. A. G. & E. Warner (1905), vol. III, Kai Khusrau secs. 2-3",
+        "url": "https://archive.org/details/shahnama03firduoft"
+      },
+      "license": "Public domain (translation 1905)",
+      "summary": {
+        "en": "When Kai Khusrau acceded he sat upon the throne of king of kings, meted justice out to each, uprooting injustice from the earth: the moisture rained down from the clouds in spring and cleansed the face of earth from rust and sorrow, and the world was decked like Paradise by reason of his justice and his bounty. Rustam comes from Nimruz with Zal to offer homage, and the Shah descends from the throne to greet him: thou art the foster-sire of Siyawush and likewise of all men most wise and reticent. When Rustam marked the person of the Shah from head to foot the hero's cheek flushed up and his heart ached, so much reminded him of Siyawush: thou art the memory of thy sire.",
+        "zh": "卡伊霍斯勞登基後執掌萬王之王寶座，剷除不義；春雲降雨，大地如天堂般因他的公義與慷慨而煥然一新。魯斯塔姆攜扎勒自尼姆魯茲前來朝賀；王親自下座相迎：「你是西亞瓦什的養父，也是最賢明謹慎之人。」魯斯塔姆端詳王的容貌，面頰漲紅、心中作痛——太像他的父親了：「您正是令尊在世間的化身。」"
+      },
+      "motifs": [
+        "sacred-kingship",
+        "quest-immortality",
+        "foundational-legend"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Epic literary source; accession of the avenger-king. No living community restriction."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "When Kai Khusrau acceded, and the world had been apprised, he sat upon the throne of king of kings and donned the crown of greatness. He meted justice out to each, uprooting injustice from the earth. He cultivated waste lands and freed the mourners' hearts from woe; the moisture rained down from the clouds in spring, and cleansed the face of earth from rust and sorrow; 'twas decked like Paradise with goodly havings by reason of his justice and his bounty. The world was full of happiness and peace, the hands of Ahriman were barred from ill.",
+          "note": "Paraphrase of Firdausi, Shahnama, Kai Khusrau sec. 2 (Warner 1905); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "When Rustam's standard came in sight, and the host's dust mounted o'er the sun, shouts rose with sound of trump and kettledrum. Now when Khusrau beheld the elephantine warrior tears trickled from his eyelids down his cheeks; descending from the throne he greeted Rustam, who kissed the ground. The Shah said: Paladin! live ever glad and happy, for thou art the foster-sire of Siyawush and likewise art of all men most wise and reticent.",
+          "note": "Paraphrase of Firdausi, Shahnama, Kai Khusrau sec. 2 (Warner 1905); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "When Rustam marked from head to foot the person of the Shah, and how he sat, held converse, and advised, the hero's cheek flushed up and his heart ached, so much reminded him of Siyawush. He thus addressed the world's king: to the world thou art, O Shah, the memory of thy sire; I have not seen a king with Grace like thine, or one so like thy father.",
+          "note": "Paraphrase of Firdausi, Shahnama, Kai Khusrau sec. 2 (Warner 1905); not verbatim."
+        }
+      ],
+      "persons": [
+        "kai-khusrau",
+        "rustam",
+        "zal",
+        "giv"
+      ]
+    },
+    {
+      "id": "persian-div-akwan-sea-trick",
+      "title": {
+        "en": "The Div Akwan Offers Rustam His Choice",
+        "zh": "魔阿克萬令魯斯塔姆擇地而擲"
+      },
+      "tradition": "persian",
+      "category": "myth",
+      "region": {
+        "en": "Waste of Turan (symbolic pin)",
+        "zh": "圖蘭荒原（象徵性定位）"
+      },
+      "lat": 37.0,
+      "lon": 58.0,
+      "period": "Composed c. 1010 CE (Warner translation 1905)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Firdausi, Shahnama, trans. A. G. & E. Warner (1905), vol. III, Div Akwan sec. 4",
+        "url": "https://archive.org/details/shahnama03firduoft"
+      },
+      "license": "Public domain (translation 1905)",
+      "summary": {
+        "en": "The Div Akwan sees Rustam sleeping and delves the turf about him, raising it skyward: take thy choice to fall upon the mountains or the waves. Rustam reasons that the div will do contrary to what he says — if I say 'throw me in the sea' he will dash me on the mountains — so he quotes a sage of Chin: whosoever is drowned his soul will never see Suriish in Paradise; let me not fall upon the ocean, but drop me on the mountains that lions may behold a brave man's hands. The trick works: the div, acting contrary, drops him upon the sea, and Rustam fights his way to the shore past the crocodiles.",
+        "zh": "魔阿克萬見魯斯塔姆熟睡，便掘起他四周的土層拋上半空：「山與海，任你擇一。」魯斯塔姆料定此魔必反其道而行——「若說『擲入海中』，他必摔我於山岩」——便詐稱「溺水者靈魂不得見蘇魯什；請把我丟上山，好讓獅虎瞻仰勇士之手」。魔果然反其道，將他擲入大海；英雄揮劍破浪，擊退鱷群游上岸來。"
+      },
+      "motifs": [
+        "trickster",
+        "quest-immortality",
+        "descent-underworld"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Epic literary source; the wise-fool inversion motif. No living community restriction."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "When from afar Akwan saw Rustam sleeping he came as swift as wind, delved round about the place where Rustam lay, and raised it skyward. When Rustam woke from sleep he woke to sorrow, and his wise head was filled with consternation: so this foul div hath laid for me a snare like this! Who will take vengeance on this curst div? No one will match him now. Then said Akwan to Rustam in his plight: now, elephantine chieftain! take thy choice to fall upon the mountains or the waves; so whither shall I fling thee far from men?",
+          "note": "Paraphrase of Firdausi, Shahnama, Div Akwan sec. 4 (Warner 1905); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "The elephantine hero communed thus: in every case naught bettereth artifice. He will do contrary to what I say; he will not recognise an oath or keep a pact. If I say, throw me in the sea, then will this evil-natured Ahriman fling me upon the mountains, dash me there to pieces, and destroy me. A sage of Chin hath spoken well: whosoever is drowned his soul will never see Suriish in Paradise; let me not therefore fall upon the ocean to make the fishes' maws my winding-sheet, but drop me on the mountains that the lions and tigers may behold a brave man's hands.",
+          "note": "Paraphrase of Firdausi, Shahnama, Div Akwan sec. 4 (Warner 1905); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "Akwan at this roared like the sea and answered: now will I fling thee to the place wherein thou wilt be lost for ever to both worlds. And, acting contrary to Rustam's words, dropped him upon the sea. As Rustam fell he drew his sword, and when the crocodiles approached they turned aside from fighting him. He struck out with his feet and his left hand while with his right he fought his way along, and struggled bravely and reached the shore, and gave praises to the Maker who had delivered thus His slave from ill.",
+          "note": "Paraphrase of Firdausi, Shahnama, Div Akwan sec. 4 (Warner 1905); not verbatim."
+        }
+      ],
+      "persons": [
+        "rustam"
+      ]
+    },
+    {
+      "id": "persian-div-akwan-slain",
+      "title": {
+        "en": "Rustam Dashes Out the Brains of the Div Akwan",
+        "zh": "魯斯塔姆擊碎阿克萬之首"
+      },
+      "tradition": "persian",
+      "category": "myth",
+      "region": {
+        "en": "Horse-plain of Afrasiyab (symbolic pin)",
+        "zh": "阿弗拉西亞卜牧馬場（象徵性定位）"
+      },
+      "lat": 37.0,
+      "lon": 58.0,
+      "period": "Composed c. 1010 CE (Warner translation 1905)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Firdausi, Shahnama, trans. A. G. & E. Warner (1905), vol. III, Div Akwan sec. 5",
+        "url": "https://archive.org/details/shahnama03firduoft"
+      },
+      "license": "Public domain (translation 1905)",
+      "summary": {
+        "en": "Afrasiyab speeds forth like a blast to inspect his herds, and finds single-handed Rustam bearing them off: he rained shafts from his bow and strokes from his steel sword till sixty gallant chiefs were overthrown, and taking up his mace slew forty more. The div Akwan again encounters him: art thou not surfeited with strife? The peerless hero flings his twisted lasso about the div's waist, turns in his saddle, raises his mace as 'twere the hammer of a smith, smites the div upon the head and smashes it, brains and neck, then cuts off the head with his blue steel sword and offers up thanksgivings.",
+        "zh": "阿弗拉西亞卜疾馳巡視馬群，卻見單槍匹馬的魯斯塔姆驅群而去——箭如冰雹、刀光似雪，掀翻六十員戰將，又提錘再誅四十。魔阿克萬再度現身：「你殺夠了嗎？」英雄擲出套索纏其腰，鞍上回身，高舉巨錘如鐵匠之鎚，一擊碎其頭顱腦髓，再以青鋼劍斬落魔首，感謝造物主賜勝。"
+      },
+      "motifs": [
+        "world-serpent",
+        "culture-hero"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Epic literary source; no living community restriction."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "It happened strangely that Afrasiyab had sped forth like a blast to view his steeds, and brought with him wine, harps, and warriors to merrymake upon the watered plain. The monarch on arriving saw them not. Then suddenly rose clamour, and Afrasiyab saw far away the dust of Rakhsh and other noble chargers. The ancient herdsman rushed up franticly in evil plight: though single-handed, Rustam hath borne off our horse-herds, killed no few of us, and gone!",
+          "note": "Paraphrase of Firdausi, Shahnama, Div Akwan sec. 5 (Warner 1905); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "The monarch with four elephants and troops went in pursuit of Rustam, who, when they had overtaken him, took from his arm his bow and charged against them furiously. He rained upon them, as the clouds rain hail, shafts from his bow and strokes from his steel sword; he dropped his arrows and his scimitar when sixty gallant chiefs had been overthrown, and taking up his mace slew forty more. Afrasiyab in dudgeon showed his back while Rustam took the four white elephants.",
+          "note": "Paraphrase of Firdausi, Shahnama, Div Akwan sec. 5 (Warner 1905); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "The div Akwan again encountered him and said: art thou not surfeited with strife? Thou hast escaped the ocean and the claws of crocodiles; now shalt thou behold thy fate, for never shalt thou seek to fight henceforth. The peerless Rustam roared out like a lion of the fray, released his twisted lasso from its straps, flung it, and caught the div about the waist; then Rustam, turning in his saddle, raised his mace as 'twere the hammer of a smith, and smote the div like some mad elephant upon his head and smashed it, brains and neck; the hero lighted, drew his blue steel sword and cut the div's head off, then offered up thanksgivings to Almighty God through Whom he had achieved the victory that day.",
+          "note": "Paraphrase of Firdausi, Shahnama, Div Akwan sec. 5 (Warner 1905); not verbatim."
+        }
+      ],
+      "persons": [
+        "rustam",
+        "afrasiyab"
+      ]
+    },
+    {
+      "id": "persian-bizhan-manija-tryst",
+      "title": {
+        "en": "Gurgin Beguiles Bizhan; Manizha's Tent",
+        "zh": "古爾金誘比讚；瑪尼札之帳"
+      },
+      "tradition": "persian",
+      "category": "myth",
+      "region": {
+        "en": "Pleasure-ground near Turan (symbolic pin)",
+        "zh": "圖蘭近郊樂園（象徵性定位）"
+      },
+      "lat": 37.5,
+      "lon": 62.0,
+      "period": "Composed c. 1010 CE (Warner translation 1905)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Firdausi, Shahnama, trans. A. G. & E. Warner (1905), vol. III, Bizhan and Manizha secs. 4-6",
+        "url": "https://archive.org/details/shahnama03firduoft"
+      },
+      "license": "Public domain (translation 1905)",
+      "summary": {
+        "en": "Gurgin, jealous, spreads his nets upon the young man's path: there is a pleasure-ground two days' journey from Turan where Manizha, daughter of Afrasiyab, will set up her pavilion with a hundred fay-faced handmaids; now if we go toward that pleasure-ground we may bear off some of those damsels. Bizhan, the son of Giv, follows youthful fashion, some whiles pursuing fame and some whiles passion. He comes beneath a cypress by the fair's tent; her nurse is sent out — can it be Siyawush returned to life? — and Bizhan answers: I am not Siyawush or fairy-born, but from Iran, the country of the free. They feast three days, and when her time for going home arrives Manizha mingles a drug that maketh senseless with his draught and carries the sleeper veiled in a woman's wrapper into the palace of Afrasiyab.",
+        "zh": "古爾金心生嫉妒，在少年途中布下羅網：「圖蘭兩日之外有樂園，阿弗拉西亞卜之女瑪尼札將攜百名侍女設帳於此——我們或可虜得仙姿侍女！」比讚（吉夫之子）年少心熱，循情逐名。他立於帳旁柏樹下；奶媽出帳相問——「莫非西亞瓦什復生？」比讚答：「我非西亞瓦什，亦非仙胎，乃自由之邦伊朗人。」三日歡宴後，返程之期已至，瑪尼札在他的酒裡摻入迷藥，將昏睡的他裹以女袍，秘密載入阿弗拉西亞卜的王宮。"
+      },
+      "motifs": [
+        "trickster",
+        "taboo-transgression",
+        "divine-marriage",
+        "jealousy",
+        "threefold"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Epic literary source; Iran-Turan star-crossed lovers. No living community restriction."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Gurgin for his own profit and renown spread out his nets upon the young man's path and said: O paladin, thou Heart of combat, and Soul of wisdom! There is a pleasure-ground not far away, and only two days' journey from Turan, where thou wilt see a plain all red and yellow. Manizha, daughter of Afrasiyab, will make that garden radiant as the sun, and with a hundred handmaids, perfect pictures, all daughters of the Turkmans, will set up her pavilion on yon meadows. Now if we go toward that pleasure-ground and hurry o'er the journey in one day, we may bear off some of those fay-faced damsels, and win the approbation of Khusrau.",
+          "note": "Paraphrase of Firdausi, Shahnama, Bizhan and Manizha sec. 4 (Warner 1905); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "In this wise spake Gurgin. Bizhan was young, and all the paladin was stirred in him; he was a youth and followed youthful fashion, some whiles pursuing fame and some whiles passion. When the fair one saw the visage of the chieftain from her tent she yearned for love of him, who came in quest of love, and sent her nurse as envoy: can it be Siyawush returned to life, or else a fairy? He answered: I am not Siyawush or fairy-born, sweet-spoken messenger! But from Iran, the country of the free. Bizhan am I, the son of Giv.",
+          "note": "Paraphrase of Firdausi, Shahnama, Bizhan and Manizha secs. 4-5 (Warner 1905); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "Bizhan proceeded hastily afoot toward Manizha's tent and entered it. Manizha came and clasped him to her breast. They bathed his feet in musk and pure rose-water, then hasted to set meat, and held high revelry with wine and harp, excluding every stranger from the tent; old wine in crystal cups gave to Bizhan new strength, but, when three days and nights had passed in pleasure, sleep and drink prevailed at last.",
+          "note": "Paraphrase of Firdausi, Shahnama, Bizhan and Manizha sec. 6 (Warner 1905); not verbatim."
+        },
+        {
+          "id": "4",
+          "text": "Manizha, when her time for going home arrived, still longed to gaze upon Bizhan, and, since his face was gloomy, called her handmaids and bade them mingle with a grateful draught a drug that maketh senseless. This they gave him, and he, bemused already, swallowed it; his head sank down and he was lost to sense. On coming near the city she veiled the sleeper in a woman's wrapper, and, entering the palace privily by night, preserved her secret. He woke and found that jasmine-bosomed beauty in his arms, and in the palace of Afrasiyab!",
+          "note": "Paraphrase of Firdausi, Shahnama, Bizhan and Manizha sec. 7 (Warner 1905); not verbatim."
+        }
+      ],
+      "persons": [
+        "bizhan",
+        "manizha",
+        "gurgin"
+      ]
+    },
+    {
+      "id": "persian-bizhan-in-pit",
+      "title": {
+        "en": "Bizhan in the Pit under the Boulder of Akwan",
+        "zh": "比讚困於阿克萬巨岩之穴"
+      },
+      "tradition": "persian",
+      "category": "myth",
+      "region": {
+        "en": "Pit of Afrasiyab (symbolic pin)",
+        "zh": "阿弗拉西亞卜之囚穴（象徵性定位）"
+      },
+      "lat": 37.5,
+      "lon": 62.0,
+      "period": "Composed c. 1010 CE (Warner translation 1905)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Firdausi, Shahnama, trans. A. G. & E. Warner (1905), vol. III, Bizhan and Manizha secs. 9-11",
+        "url": "https://archive.org/details/shahnama03firduoft"
+      },
+      "license": "Public domain (translation 1905)",
+      "summary": {
+        "en": "Afrasiyab commands: prepare a gloomy pit and weighty bonds, secure with chains Bizhan's hands to a yoke, then throw him in the pit head first — no more of sun and moon for him! Fetch the boulder of the div Akwan, which covereth the dungeon of Arzhang, and cover Bizhan's, then leave him to go mad with anguish. Manizha is stripped of her fortune and dragged naked to the pit: behold thy house and home; henceforth thou art to be this prisoner's drudge. Then when a day and night had passed she came with lamentations and made a passage large enough to pass one hand, and thereafter gathered food at every door by day-long wanderings and passed it through the crevice to Bizhan.",
+        "zh": "阿弗拉西亞卜下令：掘暗穴、縛鐵鏈，將比讚頭朝下擲入穴中——「永不得見日月！」再搬來阿克萬巨岩封住穴口（那原是阿爾章地牢之蓋），讓他瘋癲於苦痛。瑪尼札被剝奪財富、赤足拖至穴邊：「這就是你的家！從今為囚徒做僕役。」一夜一日之後，她哭至穴旁鑿開一掌寬的小縫，從此日日沿門乞討，把食物遞進石縫。"
+      },
+      "motifs": [
+        "taboo-transgression",
+        "boon-curse",
+        "trickster"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Epic literary source; no living community restriction."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Afrasiyab commanded Garsiwaz: prepare a gloomy pit and weighty bonds, secure with chains Bizhan's hands to a yoke, then throw him in the pit head first — no more of sun and moon for him! Take elephants, and fetch the boulder of the div Akwan, which God raised from the ocean-depth; convey this stone, which covereth the dungeon of Arzhang, upon high-crested elephants, and cover Bizhan's, then leave him to go mad with anguish.",
+          "note": "Paraphrase of Firdausi, Shahnama, Bizhan and Manizha sec. 10 (Warner 1905); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "They carried out the monarch's evil purpose; they haled the son of Giv back from the gallows, and bore him to the pit's mouth in his bonds, there fettered him from head to foot in iron, while smiths with steel and hammers made secure the massive rivetings, and then they flung him head-foremost down the pit and set the stone upon it.",
+          "note": "Paraphrase of Firdausi, Shahnama, Bizhan and Manizha sec. 10 (Warner 1905); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "Garsiwaz thence led his troop to where the daughter of Afrasiyab dwelt, gave up all her treasury to spoil. Manizha was reduced to naked feet, bare head, and single wrap. Behold thy house and home! he said; henceforth thou art to be this prisoner's drudge. He turned back, and Manizha, the spouse of woe, roamed wailing o'er the plain. Now when a day and night had passed she came with lamentations to the pit, and made a passage large enough to pass one hand; thereafter she used to gather food at every door by day-long wanderings and pass it through the crevice to Bizhan, and weep.",
+          "note": "Paraphrase of Firdausi, Shahnama, Bizhan and Manizha secs. 10-11 (Warner 1905); not verbatim."
+        }
+      ],
+      "persons": [
+        "bizhan",
+        "manizha",
+        "afrasiyab",
+        "garsiwaz"
+      ]
+    },
+    {
+      "id": "persian-giv-gurgin-lie",
+      "title": {
+        "en": "Giv Brings Gurgin Before Khusrau",
+        "zh": "吉夫押古爾金見王"
+      },
+      "tradition": "persian",
+      "category": "myth",
+      "region": {
+        "en": "Court of Kai Khusrau (symbolic pin)",
+        "zh": "卡伊霍斯勞王庭（象徵性定位）"
+      },
+      "lat": 29.9,
+      "lon": 52.9,
+      "period": "Composed c. 1010 CE (Warner translation 1905)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Firdausi, Shahnama, trans. A. G. & E. Warner (1905), vol. III, Bizhan and Manizha sec. 12",
+        "url": "https://archive.org/details/shahnama03firduoft"
+      },
+      "license": "Public domain (translation 1905)",
+      "summary": {
+        "en": "Gurgin returns to Iran without Bizhan, leading the riderless steed, and lies about a fabled onager that was the White Div. Giv, rushing to the street with cheeks all tears, cries: Bizhan returneth not! He marks the confused account, the eyes that could not look him in the face, and ascertaining that the whole account was fraudulent restrains his hand — what shall I gain by slaying him? — and brings Gurgin before Khusrau: he hath come back with an idle tongue, with guilty soul, and evil news of him.",
+        "zh": "古爾金獨自返伊，牽著空鞍的戰馬，編造「化作白魔的野驢」之謊。吉夫聞訊衝上街頭、淚流滿面：「比讚沒有回來！」他識破那支離的謊言、不敢對視的目光，按住怒火——殺他何益？——遂押古爾金上殿：「他空言而歸，心懷鬼胎，還帶來我兒的噩耗。」"
+      },
+      "motifs": [
+        "trickster",
+        "taboo-transgression",
+        "sibling-creators"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Epic literary source; no living community restriction."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "When one week passed, and still Bizhan returned not, Gurgin began to search on every side in haste and bathed his face in tears of blood. He spied in the distance on the river-bank, with bridle broken and with saddle dragging, his comrade's steed, and knew: Bizhan is sped! By gibbet or by prison or by bonds ill hath befallen him from Afrasiyab.",
+          "note": "Paraphrase of Firdausi, Shahnama, Bizhan and Manizha sec. 11 (Warner 1905); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Giv heard of his brave son's loss, rushed to the street, pierced to the heart with anguish and with cheeks all tears, and cried: Bizhan returneth not! He marked Gurgin's confused account, those eyes that could not look him in the face, those cheeks grown wan with terror of the Shah, that body a-tremble, and that conscience-stricken heart, and ascertaining that the whole account was fraudulent. What shall I gain by slaying him save pleasing malignant Ahriman? he said; let us tarry till his guilt is clear before the Shah.",
+          "note": "Paraphrase of Firdausi, Shahnama, Bizhan and Manizha sec. 11 (Warner 1905); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "With bloodshot eyes and vengeance in his heart Giv went before the Shah: I had one son, a youth who was my care both night and day; and now Gurgin hath come back with an idle tongue, with guilty soul, and evil news of him. Gurgin hath brought a steed in disarray, but not another token of Bizhan! If now my lord will carefully consider my case he will do justice for me on Gurgin, the man that put this dust upon my head.",
+          "note": "Paraphrase of Firdausi, Shahnama, Bizhan and Manizha sec. 12 (Warner 1905); not verbatim."
+        }
+      ],
+      "persons": [
+        "giv",
+        "gurgin",
+        "kai-khusrau",
+        "bizhan"
+      ]
+    }
+  ]
+}

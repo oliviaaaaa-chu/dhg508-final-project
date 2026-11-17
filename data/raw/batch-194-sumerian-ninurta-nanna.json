@@ -1,0 +1,887 @@
+{
+  "texts": [
+    {
+      "id": "sumerian-ninurta-asag-battle",
+      "title": {
+        "en": "Ninurta Battles the Demon Asag",
+        "zh": "尼努爾塔大戰魔神阿薩格"
+      },
+      "tradition": "sumerian",
+      "category": "myth",
+      "region": {
+        "en": "Mountains at the edge of the world (symbolic pin in the eastern ranges)",
+        "zh": "世界邊緣群山（象徵性定位於東部山地）"
+      },
+      "lat": 35.5,
+      "lon": 46.5,
+      "period": "Old Babylonian manuscript, c. 1700 BCE (ETCSL translation 2003)",
+      "source": {
+        "archive": "ETCSL (University of Oxford)",
+        "work": "Ninurta's exploits (ETCSL c.1.6.2)",
+        "url": "https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.1.6.2&charenc=j"
+      },
+      "license": "ETCSL translation (Oxford, 2003-2006); quoted in paraphrase with attribution",
+      "summary": {
+        "en": "Asag, demon of stone and disease, boils the land's edge with fever; Ninurta, prompted by his mace Sharur, storms the mountain and destroys the demon and his stone army, river after river of battle.",
+        "zh": "石與疫病之魔阿薩格令大地邊緣沸騰；尼努爾塔受神杖沙魯爾之激，攻入群山，層層河戰，終誅魔神及其石軍。"
+      },
+      "motifs": [
+        "storm-thunder",
+        "creation-chaos",
+        "sacred-kingship"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient myth; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Asag rises in the mountains: his heat makes the land's edge boil, fevers run from river to river, and the stones rally to him. Ninurta's mace Sharur flies to him and speaks: the master must fight, for the demon defies the gods' order. Ninurta meets Asag by the rivers, forty and more, each battle a separate river-name; Asag's mother, weary of her son's deformity, works against him too. The warrior god prevails and the demon falls.",
+          "note": "Paraphrase of ETCSL c.1.6.2, the summons; not verbatim. / Paraphrase of ETCSL c.1.6.2, the battle of the rivers; not verbatim."
+        }
+      ],
+      "persons": [
+        "ninurta",
+        "asag",
+        "ninhursag"
+      ],
+      "functions": [
+        "Chaoskampf myth legitimating Ninurta's war cult",
+        "Etiology of the river names and the eastern mountain ranges",
+        "Performed at Ninurta's temple festivals in Nippur"
+      ],
+      "variants": [
+        {
+          "name": "Enuma Elish: Marduk and Tiamat",
+          "text_tradition": "Akkadian (Babylon)",
+          "summary": "The Babylonian parallel battle against chaos.",
+          "cross_ref": "babylonian-enuma-tiamat-battle"
+        }
+      ],
+      "language": "Sumerian",
+      "canonical_translation": "ETCSL team translation, Oxford, 2003-2006",
+      "primary_sources": [
+        {
+          "work": "Ninurta's exploits",
+          "citation": "ETCSL c.1.6.2, trans. ETCSL team (2003-2006)",
+          "language": "Sumerian"
+        }
+      ],
+      "secondary_sources": [
+        {
+          "work": "The Treasures of Darkness",
+          "citation": "Thorkild Jacobsen, New Haven, 1976"
+        }
+      ],
+      "source_urls": [
+        {
+          "url": "https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.1.6.2&charenc=j",
+          "description": "ETCSL c.1.6.2 text and translation",
+          "accessed": "2026-11-14"
+        }
+      ],
+      "sensitivity_flag": "none",
+      "provenance": {
+        "record_status": "complete",
+        "compiled": "2026-11-14",
+        "compiled_by": "opencode myth-collection session",
+        "review_status": "unreviewed"
+      }
+    },
+    {
+      "id": "sumerian-ninurta-cosmic-mountain",
+      "title": {
+        "en": "The Stones Become Mountains",
+        "zh": "群石化為山嶽"
+      },
+      "tradition": "sumerian",
+      "category": "myth",
+      "region": {
+        "en": "The hursag, highlands east of Sumer (symbolic pin)",
+        "zh": "庫爾薩格高地（象徵性定位）"
+      },
+      "lat": 35.0,
+      "lon": 46.0,
+      "period": "Old Babylonian manuscript, c. 1700 BCE (ETCSL translation 2003)",
+      "source": {
+        "archive": "ETCSL (University of Oxford)",
+        "work": "Ninurta's exploits, second half (ETCSL c.1.6.2)",
+        "url": "https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.1.6.2&charenc=j"
+      },
+      "license": "ETCSL translation (Oxford, 2003-2006); quoted in paraphrase with attribution",
+      "summary": {
+        "en": "Victorious, Ninurta piles the defeated stones into the hursag, the mountain barrier that dams the rivers and makes Sumer's flood-land fertile; Ninmah reproves him for his pride, and he makes peace with her.",
+        "zh": "大捷之後，尼努爾塔以敗亡之石堆成庫爾薩格山脈，攔住河流，令蘇美沖積平原沃野千里；寧瑪斥其傲慢，二神和解。"
+      },
+      "motifs": [
+        "creation-chaos",
+        "world-renewal",
+        "sacred-place"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient myth; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Ninurta heaps up the fallen stones into the hursag, the great mountain wall: it dams the floodwaters, holds back the waters of the deep, and turns the plain below into fertile flood-land for Sumer's fields. The stones themselves are praised in turn — each named for its new role, from flint to porphyry — as the spoils of chaos are organized into landscape. Ninmah, the mother goddess, rebukes the victor for the boastful massing of stones, and Ninurta makes peace, dedicating the hursag to her. The poem closes with the dedication: the mountain is Ninmah's seat, its produce her gift, and Ninurta returns to Nippur in triumph with the order of the world renewed.",
+          "note": "Paraphrase of ETCSL c.1.6.2, the mountain-building; not verbatim. / Paraphrase of ETCSL c.1.6.2, the stone catalogue and Ninmah's rebuke; not verbatim. / Paraphrase of ETCSL c.1.6.2, dedication; not verbatim."
+        }
+      ],
+      "persons": [
+        "ninurta",
+        "ninhursag"
+      ],
+      "functions": [
+        "Etiology of the eastern mountain ranges and the flood-plain",
+        "Reconciliation myth of Ninurta and Ninhursag",
+        "Catalogue liturgy performed with the exploits at Nippur"
+      ],
+      "variants": [
+        {
+          "name": "Enuma Elish: heaven and earth from Tiamat",
+          "text_tradition": "Akkadian (Babylon)",
+          "summary": "The Babylonian parallel of building the world from the slain chaos-monster.",
+          "cross_ref": "babylonian-enuma-cosmos-tiamat"
+        }
+      ],
+      "language": "Sumerian",
+      "canonical_translation": "ETCSL team translation, Oxford, 2003-2006",
+      "primary_sources": [
+        {
+          "work": "Ninurta's exploits",
+          "citation": "ETCSL c.1.6.2, trans. ETCSL team (2003-2006), later sections",
+          "language": "Sumerian"
+        }
+      ],
+      "secondary_sources": [
+        {
+          "work": "The Harps that Once...",
+          "citation": "Thorkild Jacobsen, New Haven, 1987"
+        }
+      ],
+      "source_urls": [
+        {
+          "url": "https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.1.6.2&charenc=j",
+          "description": "ETCSL c.1.6.2 text and translation",
+          "accessed": "2026-11-14"
+        }
+      ],
+      "sensitivity_flag": "none",
+      "provenance": {
+        "record_status": "complete",
+        "compiled": "2026-11-14",
+        "compiled_by": "opencode myth-collection session",
+        "review_status": "unreviewed"
+      }
+    },
+    {
+      "id": "sumerian-ninurta-return-nibru",
+      "title": {
+        "en": "Ninurta's Return to Nippur",
+        "zh": "尼努爾塔凱旋尼普魯"
+      },
+      "tradition": "sumerian",
+      "category": "myth",
+      "region": {
+        "en": "Nippur, Iraq",
+        "zh": "尼普魯（伊拉克）"
+      },
+      "lat": 32.126,
+      "lon": 45.23,
+      "period": "Old Babylonian manuscript, c. 1700 BCE (ETCSL translation 2003)",
+      "source": {
+        "archive": "ETCSL (University of Oxford)",
+        "work": "Ninurta's return to Nibru (ETCSL c.1.6.1)",
+        "url": "https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.1.6.1&charenc=j"
+      },
+      "license": "ETCSL translation (Oxford, 2003-2006); quoted in paraphrase with attribution",
+      "summary": {
+        "en": "Returning from battle, Ninurta stops at Nippur to be washed and blessed before entering the Ekur; his rituals of return — ablution, anointing, sacrifice — are narrated as the liturgy of the homecoming god.",
+        "zh": "征戰歸來，尼努爾塔先於尼普魯受淨洗祝福，方入埃庫爾神殿；歸返禮儀——洗滌、敷油、獻祭——一一鋪陳，如凱旋神祇之禮書。"
+      },
+      "motifs": [
+        "ritual-origin",
+        "storm-thunder",
+        "sacred-kingship"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient ritual narrative; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Ninurta, the warrior fresh from the mountains, halts outside the city; before entering the Ekur he must be purified: he is washed, anointed with fragrant oil, and dressed in clean linen. The city prepares his table: grain, cream and beer are offered, the Anuna gods praise him, and Ninurta decrees abundance for the fields and the house of Enlil as his gift of return. The hymn closes with the king's participation: the ruler who performs the warrior's return rites with Ninurta's zeal shall see the house of Enlil established and the year renewed.",
+          "note": "Paraphrase of ETCSL c.1.6.1, purification; not verbatim. / Paraphrase of ETCSL c.1.6.1, banquet and blessing; not verbatim. / Paraphrase of ETCSL c.1.6.1, royal application; not verbatim."
+        }
+      ],
+      "persons": [
+        "ninurta",
+        "enlil"
+      ],
+      "functions": [
+        "Return liturgy of the god and, by reflection, of the king",
+        "Charter of the purification rites before temple entry",
+        "Blessing text for abundance decreed by the war god"
+      ],
+      "variants": [
+        {
+          "name": "Enki's journey to Nibru",
+          "text_tradition": "Sumerian (ETCSL c.1.1.4)",
+          "summary": "The pilgrimage genre's senior member.",
+          "cross_ref": "sumerian-enki-journey-nibru"
+        }
+      ],
+      "language": "Sumerian",
+      "canonical_translation": "ETCSL team translation, Oxford, 2003-2006",
+      "primary_sources": [
+        {
+          "work": "Ninurta's return to Nibru",
+          "citation": "ETCSL c.1.6.1, trans. ETCSL team (2003-2006)",
+          "language": "Sumerian"
+        }
+      ],
+      "secondary_sources": [
+        {
+          "work": "The Treasures of Darkness",
+          "citation": "Thorkild Jacobsen, New Haven, 1976"
+        }
+      ],
+      "source_urls": [
+        {
+          "url": "https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.1.6.1&charenc=j",
+          "description": "ETCSL c.1.6.1 text and translation",
+          "accessed": "2026-11-14"
+        }
+      ],
+      "sensitivity_flag": "none",
+      "provenance": {
+        "record_status": "complete",
+        "compiled": "2026-11-14",
+        "compiled_by": "opencode myth-collection session",
+        "review_status": "unreviewed"
+      }
+    },
+    {
+      "id": "sumerian-ninurta-turtle",
+      "title": {
+        "en": "Ninurta and the Turtle: The Trick of Enki",
+        "zh": "尼努爾塔與龜：恩基之計"
+      },
+      "tradition": "sumerian",
+      "category": "myth",
+      "region": {
+        "en": "Marshes of the Abzu, Eridu, Iraq",
+        "zh": "埃利都阿卜祖沼澤（伊拉克）"
+      },
+      "lat": 30.629,
+      "lon": 44.428,
+      "period": "Old Babylonian manuscript, c. 1700 BCE (ETCSL translation 2003)",
+      "source": {
+        "archive": "ETCSL (University of Oxford)",
+        "work": "Ninurta and the turtle (ETCSL c.1.6.3)",
+        "url": "https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.1.6.3&charenc=j"
+      },
+      "license": "ETCSL translation (Oxford, 2003-2006); quoted in paraphrase with attribution",
+      "summary": {
+        "en": "Ninurta, swollen with victory over Asag, schemes to seize the powers; Enki sets a great turtle in the marsh, which digs a pit behind the strutting god and grips his foot — the proud warrior is caught in a ditch and learns that craft outruns strength.",
+        "zh": "誅阿薩格後志得意滿的尼努爾塔欲奪權柄；恩基於沼澤布一巨龜，在其身後掘陷坑、鉗其足——傲慢戰神陷於土坑，方悟智勝於力。"
+      },
+      "motifs": [
+        "trickster",
+        "taboo-transgression",
+        "wisdom-sacrifice",
+        "tortoise-trickster",
+        "pride-punished"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient myth; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Ninurta, having destroyed Asag, schemes with his heart against Enki's household, coveting the powers. Enki hears of it and smiles; he sets a great turtle in the Abzu's marshes to wait for the god. Ninurta struts through the marshland of victory; behind him the turtle digs a pit, before him it grips his foot, and the god falls in and cannot get out, however he strains and struggles. Enki arrives and mocks the captor caught: who dug the ditch? who grips the foot? Ninurta, humiliated, is released only to sit silent; the tale closes with the triumph of craft over strength.",
+          "note": "Paraphrase of ETCSL c.1.6.3, the scheme and the trap; not verbatim. / Paraphrase of ETCSL c.1.6.3, the pit; not verbatim. / Paraphrase of ETCSL c.1.6.3, the mockery; not verbatim."
+        }
+      ],
+      "persons": [
+        "ninurta",
+        "enki"
+      ],
+      "functions": [
+        "Comic check on the war god's cultic pride",
+        "Etiology of the turtle's cunning in exorcistic lore",
+        "Banquet recitation for Enki's festivals"
+      ],
+      "variants": [
+        {
+          "name": "The heron and the turtle",
+          "text_tradition": "Sumerian (ETCSL c.5.9.2)",
+          "summary": "A fable of the turtle's cunning in a natural setting.",
+          "cross_ref": "sumerian-heron-turtle"
+        }
+      ],
+      "language": "Sumerian",
+      "canonical_translation": "ETCSL team translation, Oxford, 2003-2006",
+      "primary_sources": [
+        {
+          "work": "Ninurta and the turtle",
+          "citation": "ETCSL c.1.6.3, trans. ETCSL team (2003-2006)",
+          "language": "Sumerian"
+        }
+      ],
+      "secondary_sources": [
+        {
+          "work": "Sumerian Mythology",
+          "citation": "Samuel Noah Kramer, Philadelphia, 1944"
+        }
+      ],
+      "source_urls": [
+        {
+          "url": "https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.1.6.3&charenc=j",
+          "description": "ETCSL c.1.6.3 text and translation",
+          "accessed": "2026-11-14"
+        }
+      ],
+      "sensitivity_flag": "none",
+      "provenance": {
+        "record_status": "complete",
+        "compiled": "2026-11-14",
+        "compiled_by": "opencode myth-collection session",
+        "review_status": "unreviewed"
+      }
+    },
+    {
+      "id": "sumerian-nanna-journey",
+      "title": {
+        "en": "Nanna-Suen's Journey to Nippur",
+        "zh": "南納-蘇恩赴尼普魯之行"
+      },
+      "tradition": "sumerian",
+      "category": "myth",
+      "region": {
+        "en": "Ur to Nippur by river, Iraq",
+        "zh": "烏爾至尼普魯河道（伊拉克）"
+      },
+      "lat": 30.963,
+      "lon": 46.106,
+      "period": "Old Babylonian manuscript, c. 1700 BCE (ETCSL translation 2003)",
+      "source": {
+        "archive": "ETCSL (University of Oxford)",
+        "work": "Nanna-Suen's journey to Nibru (ETCSL c.1.5.1)",
+        "url": "https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.1.5.1&charenc=j"
+      },
+      "license": "ETCSL translation (Oxford, 2003-2006); quoted in paraphrase with attribution",
+      "summary": {
+        "en": "The moon god loads his barge at Ur and sails up the river to Nippur, pausing at five sanctuaries where each goddess blesses the boat; at the Ekur, Enlil gives the voyage prosperity, and Nanna returns with fat cattle and grain for his city.",
+        "zh": "月神於烏爾裝載巨舟，溯河而上；沿途五聖所，各女神依次祝福。抵埃庫爾，恩利爾賜旅途昌盛；南納載肥牛佳穀歸城。"
+      },
+      "motifs": [
+        "sacred-place",
+        "ritual-origin",
+        "sacred-kingship"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient ritual narrative; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Nanna-Suen, lord of Ur, readies the barge: all kinds of goods are loaded, the crew assigned, and the god sails up the river past the marshes toward Nippur, stopping at five sanctuaries on the way. At each stopping place a goddess receives him — Ninmah, Ningal and the rest — and blesses the boat, the cargo and the road; the god offers sacrifices and continues north with his retinue. At the Ekur, Enlil receives his son and grants the fates of prosperity for the voyage; Nanna returns downriver to Ur with fat cattle and choice grain, and the city celebrates the moon god's advent.",
+          "note": "Paraphrase of ETCSL c.1.5.1, departure and voyage; not verbatim. / Paraphrase of ETCSL c.1.5.1, the five sanctuaries; not verbatim. / Paraphrase of ETCSL c.1.5.1, arrival and return; not verbatim."
+        }
+      ],
+      "persons": [
+        "nanna-suen",
+        "enlil",
+        "ninhursag"
+      ],
+      "functions": [
+        "Procession liturgy of the moon god's journey to Nippur",
+        "Charter of the Ur-Nippur river cult route",
+        "Blessing text for boats, cargo and travel"
+      ],
+      "variants": [
+        {
+          "name": "Enki's journey to Nibru",
+          "text_tradition": "Sumerian (ETCSL c.1.1.4)",
+          "summary": "The same genre's Enki version.",
+          "cross_ref": "sumerian-enki-journey-nibru"
+        }
+      ],
+      "language": "Sumerian",
+      "canonical_translation": "ETCSL team translation, Oxford, 2003-2006",
+      "primary_sources": [
+        {
+          "work": "Nanna-Suen's journey to Nibru",
+          "citation": "ETCSL c.1.5.1, trans. ETCSL team (2003-2006), lines 1-200",
+          "language": "Sumerian"
+        }
+      ],
+      "secondary_sources": [
+        {
+          "work": "The Treasures of Darkness",
+          "citation": "Thorkild Jacobsen, New Haven, 1976"
+        }
+      ],
+      "source_urls": [
+        {
+          "url": "https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.1.5.1&charenc=j",
+          "description": "ETCSL c.1.5.1 text and translation",
+          "accessed": "2026-11-14"
+        }
+      ],
+      "sensitivity_flag": "none",
+      "provenance": {
+        "record_status": "complete",
+        "compiled": "2026-11-14",
+        "compiled_by": "opencode myth-collection session",
+        "review_status": "unreviewed"
+      }
+    },
+    {
+      "id": "sumerian-nanna-festival",
+      "title": {
+        "en": "The Herds of Nanna",
+        "zh": "南納的牛群"
+      },
+      "tradition": "sumerian",
+      "category": "myth",
+      "region": {
+        "en": "Cattle pens of Ur, Iraq",
+        "zh": "烏爾牛欄（伊拉克）"
+      },
+      "lat": 30.963,
+      "lon": 46.106,
+      "period": "Old Babylonian manuscript, c. 1700 BCE (ETCSL translation 2003)",
+      "source": {
+        "archive": "ETCSL (University of Oxford)",
+        "work": "The herds of Nanna (ETCSL c.1.5.x)",
+        "url": "https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.1.5*&charenc=j"
+      },
+      "license": "ETCSL translation (Oxford, 2003-2006); quoted in paraphrase with attribution",
+      "summary": {
+        "en": "Nanna's great cattle-pens at Ur are catalogued — pen after pen of white-faced bulls and speckled cows — and the fattened herd is presented to Enlil: the moon god's wealth in livestock, praised as the glory of his city.",
+        "zh": "烏魯克月神南納的牛欄一一點數：白面公牛、斑點母牛，欄欄相接；肥育之群獻於恩利爾——月神之畜產豐盈，譽為其城之榮光。"
+      },
+      "motifs": [
+        "sacred-kingship",
+        "culture-hero"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient hymn; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The herds of Nanna are praised pen by pen: the white-faced bulls of the moon's color, the speckled cows, the fattened steers — each pen with its name, its keeper and its tally. The chosen beasts are driven to Nippur and presented to Enlil as the moon god's tribute; the god of herds is thus the purveyor of the high temple's offerings, and Ur's wealth in cattle is celebrated as his gift.",
+          "note": "Paraphrase of ETCSL c.1.5.3, the cattle catalogue; not verbatim. / Paraphrase of ETCSL c.1.5.3, the presentation; not verbatim."
+        }
+      ],
+      "persons": [
+        "nanna-suen",
+        "enlil"
+      ],
+      "functions": [
+        "Festival liturgy of the moon god's herds",
+        "Administrative hymn of Ur's cattle economy",
+        "Tribute narrative for the Enlil offerings"
+      ],
+      "variants": [
+        {
+          "name": "Nanna-Suen's journey to Nibru",
+          "text_tradition": "Sumerian (ETCSL c.1.5.1)",
+          "summary": "The journey hymn of the same cult.",
+          "cross_ref": "sumerian-nanna-journey"
+        }
+      ],
+      "language": "Sumerian",
+      "canonical_translation": "ETCSL team translation, Oxford, 2003-2006",
+      "primary_sources": [
+        {
+          "work": "The herds of Nanna",
+          "citation": "ETCSL c.1.5.3, trans. ETCSL team (2003-2006)",
+          "language": "Sumerian"
+        }
+      ],
+      "secondary_sources": [
+        {
+          "work": "Sumerian Mythology",
+          "citation": "Samuel Noah Kramer, Philadelphia, 1944"
+        }
+      ],
+      "source_urls": [
+        {
+          "url": "https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.1.5*&charenc=j",
+          "description": "ETCSL c.1.5.3 text and translation",
+          "accessed": "2026-11-14"
+        }
+      ],
+      "sensitivity_flag": "none",
+      "provenance": {
+        "record_status": "complete",
+        "compiled": "2026-11-14",
+        "compiled_by": "opencode myth-collection session",
+        "review_status": "unreviewed"
+      }
+    },
+    {
+      "id": "sumerian-song-of-hoe",
+      "title": {
+        "en": "The Song of the Hoe",
+        "zh": "鋤之歌"
+      },
+      "tradition": "sumerian",
+      "category": "myth",
+      "region": {
+        "en": "Nippur, Iraq",
+        "zh": "尼普魯（伊拉克）"
+      },
+      "lat": 32.126,
+      "lon": 45.23,
+      "period": "Old Babylonian manuscript, c. 1700 BCE (ETCSL translation 2003)",
+      "source": {
+        "archive": "ETCSL (University of Oxford)",
+        "work": "The song of the hoe (ETCSL c.5.5.4)",
+        "url": "https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.5.5.4&charenc=j"
+      },
+      "license": "ETCSL translation (Oxford, 2003-2006); quoted in paraphrase with attribution",
+      "summary": {
+        "en": "Enlil forms the hoe from a lump of clay of heaven and earth and creates with it the first men, the rivers, the temples and the underworld's office — the humble tool celebrated as the instrument of all creation.",
+        "zh": "恩利爾以天地之泥塑鋤，以之造出最初的人類、河流、神殿與冥界職司——卑微小器被頌為開天闢地之器。"
+      },
+      "motifs": [
+        "culture-hero",
+        "clay-humans",
+        "ritual-origin"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient hymn; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Enlil takes a lump of the earth that was separated from heaven and shapes the hoe: he creates with it the first men, splits the canals, and founds the temples — the tool of the digger is the tool of the maker of the world. The hoe is praised as the builder of every city, the digger of every grave, the instrument of birth and burial alike: with it Enlil assigns the underworld its officers and the earth its inhabitants.",
+          "note": "Paraphrase of ETCSL c.5.5.4, the hoe's creation; not verbatim. / Paraphrase of ETCSL c.5.5.4, the catalogue of works; not verbatim."
+        }
+      ],
+      "persons": [
+        "enlil",
+        "enki",
+        "ninhursag"
+      ],
+      "functions": [
+        "Etiological hymn dignifying corvee labor as cosmogony",
+        "Creation text of the hoe as the first instrument",
+        "Performed with the tools' blessing rites at New Year"
+      ],
+      "variants": [
+        {
+          "name": "Enki and Ninmah (creation from clay)",
+          "text_tradition": "Sumerian (ETCSL c.1.1.2)",
+          "summary": "The parallel creation-from-clay myth.",
+          "cross_ref": "sumerian-enki-ninmah-clay"
+        }
+      ],
+      "language": "Sumerian",
+      "canonical_translation": "ETCSL team translation, Oxford, 2003-2006",
+      "primary_sources": [
+        {
+          "work": "The song of the hoe",
+          "citation": "ETCSL c.5.5.4, trans. ETCSL team (2003-2006)",
+          "language": "Sumerian"
+        }
+      ],
+      "secondary_sources": [
+        {
+          "work": "The Harps that Once...",
+          "citation": "Thorkild Jacobsen, New Haven, 1987"
+        }
+      ],
+      "source_urls": [
+        {
+          "url": "https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.5.5.4&charenc=j",
+          "description": "ETCSL c.5.5.4 text and translation",
+          "accessed": "2026-11-14"
+        }
+      ],
+      "sensitivity_flag": "none",
+      "provenance": {
+        "record_status": "complete",
+        "compiled": "2026-11-14",
+        "compiled_by": "opencode myth-collection session",
+        "review_status": "unreviewed"
+      }
+    },
+    {
+      "id": "sumerian-nungal-ekur",
+      "title": {
+        "en": "Nungal in the Ekur: The Prison Goddess",
+        "zh": "寧嘎勒於埃庫爾：監獄女神"
+      },
+      "tradition": "sumerian",
+      "category": "myth",
+      "region": {
+        "en": "Prison-house of the Ekur, Nippur, Iraq",
+        "zh": "尼普魯埃庫爾監獄（伊拉克）"
+      },
+      "lat": 32.126,
+      "lon": 45.23,
+      "period": "Old Babylonian manuscript, c. 1700 BCE (ETCSL translation 2003)",
+      "source": {
+        "archive": "ETCSL (University of Oxford)",
+        "work": "Nungal in the Ekur (ETCSL c.4.28.1)",
+        "url": "https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.4.28.1&charenc=j"
+      },
+      "license": "ETCSL translation (Oxford, 2003-2006); quoted in paraphrase with attribution",
+      "summary": {
+        "en": "Nungal, daughter of Ereshkigal, is installed by Enlil in her prison-house at the Ekur: she tests the wicked in her dark house, humbles the guilty, and releases the true-hearted — a goddess of justice whose jail is an ordeal.",
+        "zh": "埃列什基伽勒之女寧嘎勒，受恩利爾安置於埃庫爾監獄：於幽暗之殿驗證惡者、挫其驕氣、釋放真心之人——她的牢獄是正義的熔爐。"
+      },
+      "motifs": [
+        "sacred-kingship",
+        "oracle-divination",
+        "ritual-origin"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient hymn; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Enlil installs Nungal, daughter of Ereshkigal, in her house of judgment beside the Ekur: the prison-house where the guilty are held for trial, its gates dark, its records kept in her own hand. In her dark house she humbles the wicked and tests them as metal in fire; the true-hearted she releases with honor, the guilty she keeps for the day of reckoning — the prison an ordeal of the goddess's justice.",
+          "note": "Paraphrase of ETCSL c.4.28.1, installation; not verbatim. / Paraphrase of ETCSL c.4.28.1, the ordeal; not verbatim."
+        }
+      ],
+      "persons": [
+        "nungal",
+        "ereshkigal",
+        "enlil"
+      ],
+      "functions": [
+        "Hymn and charter of the temple prison's judicial role",
+        "Ordeal theology: testing the heart in the goddess's house",
+        "Link between underworld lineage and city justice"
+      ],
+      "variants": [
+        {
+          "name": "Nungal in the Ekur (Eanna version)",
+          "text_tradition": "Sumerian (ETCSL c.4.28.1 variants)",
+          "summary": "Later recensions locate her house at Uruk's Eanna.",
+          "cross_ref": "none"
+        }
+      ],
+      "language": "Sumerian",
+      "canonical_translation": "ETCSL team translation, Oxford, 2003-2006",
+      "primary_sources": [
+        {
+          "work": "Nungal in the Ekur",
+          "citation": "ETCSL c.4.28.1, trans. ETCSL team (2003-2006)",
+          "language": "Sumerian"
+        }
+      ],
+      "secondary_sources": [
+        {
+          "work": "Gods, Demons and Symbols of Ancient Mesopotamia",
+          "citation": "Jeremy Black and Anthony Green, London, 1992, entry 'Nungal'"
+        }
+      ],
+      "source_urls": [
+        {
+          "url": "https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.4.28.1&charenc=j",
+          "description": "ETCSL c.4.28.1 text and translation",
+          "accessed": "2026-11-14"
+        }
+      ],
+      "sensitivity_flag": "none",
+      "provenance": {
+        "record_status": "complete",
+        "compiled": "2026-11-14",
+        "compiled_by": "opencode myth-collection session",
+        "review_status": "unreviewed"
+      }
+    },
+    {
+      "id": "sumerian-utu-hymn",
+      "title": {
+        "en": "Utu the Sun Rises",
+        "zh": "烏圖日出頌"
+      },
+      "tradition": "sumerian",
+      "category": "myth",
+      "region": {
+        "en": "Larsa temple of the sun, Iraq",
+        "zh": "拉爾薩太陽神殿（伊拉克）"
+      },
+      "lat": 31.287,
+      "lon": 45.853,
+      "period": "Old Babylonian manuscript, c. 1700 BCE (ETCSL translation 2003)",
+      "source": {
+        "archive": "ETCSL (University of Oxford)",
+        "work": "A hymn to Utu (Utu hymns, ETCSL c.4.32.x)",
+        "url": "https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.4.32*&charenc=j"
+      },
+      "license": "ETCSL translation (Oxford, 2003-2006); quoted in paraphrase with attribution",
+      "summary": {
+        "en": "The sun god rises from his bedchamber: he lights the great heaven and earth, the underworld's gates and the traveler's road; he judges all and helps all — the hymn greets the dawn as the daily return of justice.",
+        "zh": "太陽神自寢殿起身：照亮天地、冥門與旅人之路；裁斷萬物、庇護眾生——頌詩迎接黎明，如正義之每日重臨。"
+      },
+      "motifs": [
+        "theophany",
+        "sacred-kingship",
+        "ritual-origin"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient hymn; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Utu rises from his bedchamber in the east: he puts on his crown of radiance, takes the decisive word, and lights the great heaven and earth — the eyes of the world open with him. His light reaches everywhere: the highways of the land, the waters below, the gates of the netherworld's river. He sees the deeds of men and gods and judges them; the orphan and the widow he watches over, and the traveler he guides.",
+          "note": "Paraphrase of ETCSL c.4.32.1, sunrise; not verbatim. / Paraphrase of ETCSL c.4.32.1, the light's reach and judgment; not verbatim."
+        }
+      ],
+      "persons": [
+        "utu",
+        "inanna"
+      ],
+      "functions": [
+        "Morning liturgy of the sun cult at Larsa and Sippar",
+        "Charter of Utu's offices: light, judgment, protection of travelers",
+        "Oath text: the sun as witness in legal rites"
+      ],
+      "variants": [
+        {
+          "name": "Shamash hymn (Akkadian)",
+          "text_tradition": "Akkadian (Jastrow 1898)",
+          "summary": "The Babylonian sun god's hymn in the same judicial register.",
+          "cross_ref": "babylonian-shamash-justice"
+        }
+      ],
+      "language": "Sumerian",
+      "canonical_translation": "ETCSL team translation, Oxford, 2003-2006",
+      "primary_sources": [
+        {
+          "work": "A hymn to Utu",
+          "citation": "ETCSL c.4.32.1, trans. ETCSL team (2003-2006)",
+          "language": "Sumerian"
+        }
+      ],
+      "secondary_sources": [
+        {
+          "work": "The Treasures of Darkness",
+          "citation": "Thorkild Jacobsen, New Haven, 1976"
+        }
+      ],
+      "source_urls": [
+        {
+          "url": "https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.4.32*&charenc=j",
+          "description": "ETCSL c.4.32.1 text and translation",
+          "accessed": "2026-11-14"
+        }
+      ],
+      "sensitivity_flag": "none",
+      "provenance": {
+        "record_status": "complete",
+        "compiled": "2026-11-14",
+        "compiled_by": "opencode myth-collection session",
+        "review_status": "unreviewed"
+      }
+    },
+    {
+      "id": "sumerian-hymn-nergal",
+      "title": {
+        "en": "A Hymn to Nergal of Kutha",
+        "zh": "庫薩內爾伽勒頌"
+      },
+      "tradition": "sumerian",
+      "category": "myth",
+      "region": {
+        "en": "Kutha, Iraq",
+        "zh": "庫薩（伊拉克）"
+      },
+      "lat": 32.093,
+      "lon": 44.58,
+      "period": "Old Babylonian manuscript, c. 1700 BCE (ETCSL translation 2003)",
+      "source": {
+        "archive": "ETCSL (University of Oxford)",
+        "work": "A hymn to Nergal (ETCSL c.4.15.x)",
+        "url": "https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.4.15*&charenc=j"
+      },
+      "license": "ETCSL translation (Oxford, 2003-2006); quoted in paraphrase with attribution",
+      "summary": {
+        "en": "Nergal, lord of the Meslam temple at Kutha, is praised as the fear of the land and the terror of the battlefield: his heat is the plague wind, his face the burning sun of noon, and the hymn petitions the dread god for mercy.",
+        "zh": "庫薩梅斯拉姆神殿之主內爾伽勒，被譽為國之懼、戰場之怖：其熱為疫風，其容如正午烈日；頌詩向可畏之神祈求恩慈。"
+      },
+      "motifs": [
+        "storm-thunder",
+        "taboo-transgression",
+        "plague-sent"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient hymn; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Nergal, lord of Meslam, is hailed as the fear of the land: his is the heat that withers the harvest, the plague wind, the sun of noon that no man withstands. Yet the hymn's petition is mercy: the lord who punishes can spare, the god of the battle's terror can guard his city, and his worshipers ask him to turn his face kindly upon Kutha.",
+          "note": "Paraphrase of ETCSL c.4.15.1, praise; not verbatim. / Paraphrase of ETCSL c.4.15.1, petition; not verbatim."
+        }
+      ],
+      "persons": [
+        "nergal"
+      ],
+      "functions": [
+        "Appeasement liturgy of the plague and war god",
+        "Charter of the Meslam temple cult at Kutha"
+      ],
+      "variants": [
+        {
+          "name": "Erra and Ishum",
+          "text_tradition": "Akkadian (Spence 1916)",
+          "summary": "The Babylonian plague god's epic in the same fearsome register.",
+          "cross_ref": "babylonian-erra-restlessness"
+        }
+      ],
+      "language": "Sumerian",
+      "canonical_translation": "ETCSL team translation, Oxford, 2003-2006",
+      "primary_sources": [
+        {
+          "work": "A hymn to Nergal",
+          "citation": "ETCSL c.4.15.1, trans. ETCSL team (2003-2006)",
+          "language": "Sumerian"
+        }
+      ],
+      "secondary_sources": [
+        {
+          "work": "Gods, Demons and Symbols of Ancient Mesopotamia",
+          "citation": "Jeremy Black and Anthony Green, London, 1992, entry 'Nergal'"
+        }
+      ],
+      "source_urls": [
+        {
+          "url": "https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.4.15*&charenc=j",
+          "description": "ETCSL c.4.15.1 text and translation",
+          "accessed": "2026-11-14"
+        }
+      ],
+      "sensitivity_flag": "none",
+      "provenance": {
+        "record_status": "complete",
+        "compiled": "2026-11-14",
+        "compiled_by": "opencode myth-collection session",
+        "review_status": "unreviewed"
+      }
+    }
+  ]
+}

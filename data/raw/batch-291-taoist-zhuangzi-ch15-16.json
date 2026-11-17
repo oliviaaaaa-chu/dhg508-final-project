@@ -1,0 +1,103 @@
+{
+  "texts": [
+    {
+      "id": "taoist-zhuangzi-bear-stretching",
+      "title": {
+        "en": "Stretching Like a Bear, Craning Like a Bird (Zhuangzi)",
+        "zh": "吹呴呼吸，熊經鳥申（莊子）"
+      },
+      "tradition": "taoist",
+      "category": "religious",
+      "region": {
+        "en": "The hygienists' court (symbolic pin: Song, Henan, China)",
+        "zh": "導引之士（象徵定位：宋，今河南）"
+      },
+      "lat": 34.41,
+      "lon": 115.65,
+      "period": "Zhuangzi ch. 15, c. 4th-3rd c. BCE (trans. Giles, 1889)",
+      "source": {
+        "archive": "Project Gutenberg",
+        "work": "Chuang Tzu: Mystic, Moralist, and Social Reformer, trans. Herbert A. Giles, ch. 15",
+        "url": "https://www.gutenberg.org/ebooks/59709"
+      },
+      "license": "Public domain (translation 1889)",
+      "summary": {
+        "en": "Exhaling and inhaling, getting rid of the old and assimilating the new, stretching like a bear and craning like a bird — this is but valetudinarianism, affected by professors of hygiene and those who try to preserve the body to the age of P'êng Tsu. But in health without hygiene there is oblivion absolute coupled with possession of all things.",
+        "zh": "吹呴呼吸，吐故納新，熊經鳥申，為壽而已矣；此導引之士，養形之人，彭祖壽考者之所好也。"
+      },
+      "motifs": [
+        "ritual-origin",
+        "quest-immortality",
+        "parable-teaching"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Canonical text of the Taoist canon (Nanhua zhenjing); the earliest textual mention of daoyin health gymnastics, the aition of the breath-practices. Included as a comparative text."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Exhaling and inhaling, getting rid of the old and assimilating the new, stretching like a bear and craning like a bird,--this is but valetudinarianism, affected by professors of hygiene and those who try to preserve the body to the age of P'êng Tsu."
+        },
+        {
+          "id": "2",
+          "text": "But in self-esteem without self-conceit, in moral culture without charity and duty to one's neighbour, in government without rank and fame, in retirement without solitude, in health without hygiene,--there we have oblivion absolute coupled with possession of all things; an infinite calm which becomes an object to be attained by all. Such is the TAO of the universe, such is the virtue of the Sage."
+        }
+      ],
+      "persons": []
+    },
+    {
+      "id": "taoist-zhuangzi-death-unknown",
+      "title": {
+        "en": "When Death Was Unknown: Primeval Man's Perfect Tranquillity (Zhuangzi)",
+        "zh": "至一之世：莫之為而常自然（莊子）"
+      },
+      "tradition": "taoist",
+      "category": "religious",
+      "region": {
+        "en": "The world's infancy (symbolic pin: Song, Henan, China)",
+        "zh": "世界之幼年（象徵定位：宋，今河南）"
+      },
+      "lat": 34.41,
+      "lon": 115.65,
+      "period": "Zhuangzi ch. 16, c. 4th-3rd c. BCE (trans. Giles, 1889)",
+      "source": {
+        "archive": "Project Gutenberg",
+        "work": "Chuang Tzu: Mystic, Moralist, and Social Reformer, trans. Herbert A. Giles, ch. 16",
+        "url": "https://www.gutenberg.org/ebooks/59709"
+      },
+      "license": "Public domain (translation 1889)",
+      "summary": {
+        "en": "Primeval man enjoyed perfect tranquillity throughout life: the Positive and Negative were peacefully united, spiritual beings gave no trouble, the four seasons followed in due order, nothing suffered any injury — and death was unknown. Then virtue declined through the reigns of Sui Jen and Fu Hsi, Shên Nung and Huang Ti, until Yao and Shun introduced government and scattered man's original integrity.",
+        "zh": "至德之世：陰陽和靜，鬼神不擾，四時得節，萬物不傷，群生不夭，人雖有知，無所用之——此之謂至一。"
+      },
+      "motifs": [
+        "world-renewal",
+        "origin-of-death",
+        "sacred-kingship",
+        "primeval-waters"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Canonical text of the Taoist canon (Nanhua zhenjing); the Taoist myth of the age before death, an origin-of-death cluster analogue. Included as a comparative text."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Primeval man enjoyed perfect tranquillity throughout life. In his day, the Positive and Negative principles were peacefully united; spiritual beings gave no trouble; the four seasons followed in due order; nothing suffered any injury; death was unknown; men had knowledge, but no occasion to use it. This may be called perfection of unity."
+        },
+        {
+          "id": "2",
+          "text": "By and by, virtue declined. Sui Jen and Fu Hsi ruled the empire. There was still natural adaptation, but the unity was gone. A further decline in virtue. Shên Nung and Huang Ti ruled the empire. There was peace, but the natural adaptation was gone. Again virtue declined. Yao and Shun ruled the empire. Systems of government and moral reform were introduced. Man's original integrity was scattered. Goodness led him astray from TAO; his actions imperilled his virtue."
+        },
+        {
+          "id": "3",
+          "text": "Thus it may be said that the world destroys TAO, and that TAO destroys the world. And the world and TAO thus mutually destroying each other, how can the men of TAO elevate the world, and how can the world elevate TAO? TAO cannot elevate the world; neither can the world elevate TAO."
+        }
+      ],
+      "persons": [
+        "huangdi"
+      ]
+    }
+  ]
+}

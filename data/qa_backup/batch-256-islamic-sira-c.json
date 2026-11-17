@@ -1,0 +1,357 @@
+{
+  "texts": [
+    {
+      "id": "sira-mecca-conquered",
+      "title": {
+        "en": "The Opening of Mecca: Bilal on the Kaaba",
+        "zh": "麥加之開：比拉勒立於天房"
+      },
+      "tradition": "islamic",
+      "category": "myth-religion",
+      "region": {
+        "en": "Mecca, Kaaba courtyard (literal pin)",
+        "zh": "麥加天房庭院（實際定位）"
+      },
+      "lat": 21.42,
+      "lon": 39.83,
+      "period": "Sira material from Ibn Ishaq (d. c. 767) via Ibn Hisham; English: Muir, Life of Mahomet (1877)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Ibn Ishaq/Ibn Hisham, Sirat Rasul Allah (Arabic); English: William Muir, The Life of Mahomet (Smith, Elder, 1877)",
+        "url": "https://archive.org/stream/lifemahometfrom00muirgoog/lifemahometfrom00muirgoog_djvu.txt"
+      },
+      "license": "Public domain (English edition 1877; Arabic original 9th century)",
+      "summary": {
+        "en": "The treaty of Hudaybiyya is broken; the Prophet marches on Mecca with ten thousand and enters without battle. He circles the Kaaba, smashes the idols with the word of God — 'Truth hath come, and falsehood hath passed away' — and proclaims a general amnesty: 'Go, for ye are free.' Bilal ascends the Kaaba roof and gives the adhan over the city of his former bondage.",
+        "zh": "侯代比亞之約被毀；先知率萬人進軍麥加，不戰而入。他繞行天房，以真主之言擊碎偶像——『真理已至，虛妄已逝』——並宣佈大赦：『去吧，你們自由了。』比拉勒登上天房之頂，在其昔日為奴之城喚禮。"
+      },
+      "motifs": [
+        "foundational-legend",
+        "ritual-origin",
+        "sacred-place"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Sira tradition of a living religion; paraphrased from public-domain Arabic/English sources."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The Quraysh broke the treaty of Hudaybiyya by helping a tribe to attack an ally of the Prophet. He marched from Medina in Ramadan of the eighth year with ten thousand men, and entered Mecca almost without battle. He made his tawaf around the Kaaba and pointed with his staff at the idols around it — three hundred and sixty — and each fell as he recited: 'Truth hath come, and falsehood hath passed away; falsehood is ever doomed to vanish.'",
+          "note": "Paraphrase of Ibn Ishaq/Ibn Hisham, Sira (Muir 1877); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "He gathered the Meccans at Safa and said: 'O Quraysh, what do you expect me to do to you?' They said, 'Good — a noble brother, son of a noble brother.' He said: 'Go, for ye are free.' And they entered the faith in crowds. He ordered Bilal to ascend the roof of the Kaaba and give the call to prayer, and the adhan of the freed slave of Abyssinia sounded over the city of his former masters.",
+          "note": "Paraphrase of Ibn Ishaq/Ibn Hisham, Sira (Muir 1877); not verbatim."
+        }
+      ],
+      "persons": [
+        "muhammad",
+        "bilal"
+      ]
+    },
+    {
+      "id": "sira-hunayn",
+      "title": {
+        "en": "Hunayn and the Distribution of Spoils",
+        "zh": "侯奈因與戰利品分配"
+      },
+      "tradition": "islamic",
+      "category": "myth-religion",
+      "region": {
+        "en": "Valley of Hunayn, near Taif (literal pin)",
+        "zh": "塔伊夫附近侯奈因谷（實際定位）"
+      },
+      "lat": 21.4,
+      "lon": 40.4,
+      "period": "Sira material from Ibn Ishaq (d. c. 767) via Ibn Hisham; English: Muir, Life of Mahomet (1877)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Ibn Ishaq/Ibn Hisham, Sirat Rasul Allah (Arabic); English: William Muir, The Life of Mahomet (Smith, Elder, 1877)",
+        "url": "https://archive.org/stream/lifemahometfrom00muirgoog/lifemahometfrom00muirgoog_djvu.txt"
+      },
+      "license": "Public domain (English edition 1877; Arabic original 9th century)",
+      "summary": {
+        "en": "The tribes of Hawazin ambush the Muslims in the narrow valley of Hunayn; the army wavers, and the Prophet mounts a white mule, crying: 'I am the Prophet, no liar; I am the son of Abd al-Muttalib!' Abbas shouts the call, and the Muslims turn. The captives and herds of Hawazin are taken; when the tribes come pleading for their women and children, the Prophet gives back his own fifth and calls on the men of Muhajirun to do the same. To the new converts of the Delegation he gives camels by the hundred, and the old guard murmurs.",
+        "zh": "哈瓦津部族於侯奈因狹谷伏擊；穆斯林陣亂，先知乘白騾，呼喊：『我是先知，非謊者；我是阿布杜·穆塔利卜之子！』阿巴斯高聲召喚，穆斯林轉身。哈瓦津之俘與牛群盡取；部族前來求還婦孺；先知讓出其五分之一，並號召眾人同讓。對代歸信者賞以百駝；老兵低語。"
+      },
+      "motifs": [
+        "sacred-kingship",
+        "culture-hero",
+        "boon-curse"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Sira tradition of a living religion; paraphrased from public-domain Arabic/English sources."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The tribes of Hawazin and Thaqif gathered to attack the Muslims on their way from the conquest of Mecca, and lay in ambush in the valley of Hunayn. In the dawn the Muslims were struck from the heights; the army wavered and fell back. The Prophet mounted a white mule and rode into the press of the enemy, crying: 'I am the Prophet, no liar; I am the son of Abd al-Muttalib!' Abbas called out: 'O Companions of the acacia!' — and the Muslims turned and fought.",
+          "note": "Paraphrase of Ibn Ishaq/Ibn Hisham, Sira (Muir 1877); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "The captives of Hawazin were gathered, twenty-four thousand camels and six thousand women and children. The chiefs of Hawazin came pleading, saying, 'We are a people of kinship and of stock.' The Prophet said: 'Which is better, your women and children or your wealth?' They said, 'Our women and children.' He gave back his own fifth and called on the Muslims to do the same; and they gave up their portions. And to the new converts of the Delegation he gave each a hundred camels; and the men of the Muhajirun murmured, saying, 'We were in hunger and need.' He said: 'I have given to them to draw their hearts near; and you, return with the Prophet of God.'",
+          "note": "Paraphrase of Ibn Ishaq/Ibn Hisham, Sira (Muir 1877); not verbatim."
+        }
+      ],
+      "persons": [
+        "muhammad"
+      ]
+    },
+    {
+      "id": "sira-tabuk",
+      "title": {
+        "en": "Tabuk: The Three Who Stayed Behind",
+        "zh": "塔布克：缺席的三人"
+      },
+      "tradition": "islamic",
+      "category": "myth-religion",
+      "region": {
+        "en": "Tabuk oasis, north Arabian marches (literal pin)",
+        "zh": "北阿拉伯塔布克綠洲（實際定位）"
+      },
+      "lat": 28.38,
+      "lon": 36.57,
+      "period": "Sira material from Ibn Ishaq (d. c. 767) via Ibn Hisham; English: Muir, Life of Mahomet (1877)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Ibn Ishaq/Ibn Hisham, Sirat Rasul Allah (Arabic); English: William Muir, The Life of Mahomet (Smith, Elder, 1877)",
+        "url": "https://archive.org/stream/lifemahometfrom00muirgoog/lifemahometfrom00muirgoog_djvu.txt"
+      },
+      "license": "Public domain (English edition 1877; Arabic original 9th century)",
+      "summary": {
+        "en": "The Prophet marches to the Byzantine frontier in the heat of summer; three Muslims stay behind without excuse — Murara, Ka'b ibn Malik and Hilal. The army finds no enemy and returns. Ka'b buys two rides for himself and fails to set out; then he is shunned by the whole town for fifty days until the earth — even his own — is estranged from him. God accepts the repentance of the three, and the earth grows kindly again around Ka'b.",
+        "zh": "先知冒暑進軍拜占庭邊境；三名穆斯林無故缺席——穆拉拉、卡布·本·馬利克與希拉勒。軍中不見敵而返。卡布購二乘卻未出發；此後全城與之絕交五十日，直至大地——連他腳下的大地——也與他疏遠。主接受三人懺悔；大地又對卡布和善。"
+      },
+      "motifs": [
+        "taboo-transgression",
+        "boon-curse",
+        "ritual-origin"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Sira tradition of a living religion; paraphrased from public-domain Arabic/English sources."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The Prophet marched to Tabuk, on the borders of the Byzantine lands, in the heat of the summer, and all who were able rode out. Three stayed behind without excuse: Murara ibn al-Rabi, Ka'b ibn Malik and Hilal ibn Umayya. The army met no enemy; the Byzantines had withdrawn. The Prophet returned to Medina in the month of Ramadan.",
+          "note": "Paraphrase of Ibn Ishaq/Ibn Hisham, Sira (Muir 1877); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Ka'b told his own story: 'I had two rides ready, and yet I did not set out; and when the Prophet returned I came to him and spoke; and he was silent. Then he proclaimed that no one should speak to the three of us; and the town turned its face from us, and the earth itself, though vast, grew narrow for us. After fifty days God sent down our repentance: He has turned to the three of them. And the earth grew kindly again around me, and my friend wept.'",
+          "note": "Paraphrase of Ibn Ishaq/Ibn Hisham, Sira (Muir 1877); not verbatim."
+        }
+      ],
+      "persons": [
+        "muhammad"
+      ]
+    },
+    {
+      "id": "sira-muadh-yemen",
+      "title": {
+        "en": "Muadh Sent to Yemen: A Guide for a Guide",
+        "zh": "穆阿茲赴也門：引路者之引"
+      },
+      "tradition": "islamic",
+      "category": "myth-religion",
+      "region": {
+        "en": "Yemen, Sanaa (symbolic pin)",
+        "zh": "也門薩那（象徵性定位）"
+      },
+      "lat": 15.37,
+      "lon": 44.19,
+      "period": "Sira material from Ibn Ishaq (d. c. 767) via Ibn Hisham; English: Muir, Life of Mahomet (1877)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Ibn Ishaq/Ibn Hisham, Sirat Rasul Allah (Arabic); English: William Muir, The Life of Mahomet (Smith, Elder, 1877)",
+        "url": "https://archive.org/stream/lifemahometfrom00muirgoog/lifemahometfrom00muirgoog_djvu.txt"
+      },
+      "license": "Public domain (English edition 1877; Arabic original 9th century)",
+      "summary": {
+        "en": "The Prophet sends Muadh ibn Jabal to Yemen as teacher and governor. 'How will you judge when a matter comes to you?' — 'By the Book of God.' 'And if it is not found there?' — 'By the sunnah of the Messenger of God.' 'And if it is not found there?' — 'Then I shall judge by my own opinion, and not be remiss.' The Prophet strikes his hand upon Muadh's breast: 'Praise be to God who has made the messenger of the Messenger of God succeed.'",
+        "zh": "先知遣穆阿茲·本·賈巴勒赴也門為師與長。『遇事如何斷？』——『憑主之經典。』『經中無者呢？』——『憑使者之聖行。』『聖行中亦無者呢？』——『我以己意而斷，不致怠惰。』先知手按穆阿茲之胸：『讚美主，使主使者的使者成功。』"
+      },
+      "motifs": [
+        "ritual-origin",
+        "parable-teaching",
+        "sacred-kingship"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Sira tradition of a living religion; paraphrased from public-domain Arabic/English sources."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The Prophet sent Muadh ibn Jabal to Yemen as teacher and governor, and said to him: 'How will you judge when a matter comes to you?' He said, 'By the Book of God.' He said, 'And if you do not find it there?' He said, 'By the sunnah of the Messenger of God.' He said, 'And if you do not find it there?' He said, 'Then I shall judge by my own opinion, and not be remiss.' The Prophet struck his hand upon Muadh's breast and said: 'Praise be to God who has made the messenger of the Messenger of God succeed in what pleases the Messenger of God.'",
+          "note": "Paraphrase of Ibn Ishaq/Ibn Hisham, Sira (Muir 1877); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "He gave him a last instruction: 'Make things easy and not difficult; give good tidings and do not repel; and call to the worship of God alone.' And Muadh rode out to the tribes of Yemen.",
+          "note": "Paraphrase of Ibn Ishaq/Ibn Hisham, Sira (Muir 1877); not verbatim."
+        }
+      ],
+      "persons": [
+        "muhammad"
+      ]
+    },
+    {
+      "id": "sira-farewell-pilgrimage",
+      "title": {
+        "en": "The Farewell Pilgrimage: 'I Leave Among You Two Things'",
+        "zh": "辭朝：「我留下兩件事物」"
+      },
+      "tradition": "islamic",
+      "category": "myth-religion",
+      "region": {
+        "en": "Arafat plain, near Mecca (literal pin)",
+        "zh": "麥加附近阿拉法特平原（實際定位）"
+      },
+      "lat": 21.35,
+      "lon": 39.98,
+      "period": "Sira material from Ibn Ishaq (d. c. 767) via Ibn Hisham; English: Muir, Life of Mahomet (1877)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Ibn Ishaq/Ibn Hisham, Sirat Rasul Allah (Arabic); English: William Muir, The Life of Mahomet (Smith, Elder, 1877)",
+        "url": "https://archive.org/stream/lifemahometfrom00muirgoog/lifemahometfrom00muirgoog_djvu.txt"
+      },
+      "license": "Public domain (English edition 1877; Arabic original 9th century)",
+      "summary": {
+        "en": "In the tenth year the Prophet performs the pilgrimage of farewell with a hundred thousand. From the back of his camel at Arafat he preaches: blood and property are sacred; usury is forbidden; women have rights over their husbands; 'I leave among you two things — the Book of God and my sunnah; hold fast to them and you will not go astray.' Then from the valley he proclaims: 'This day I have perfected for you your religion.' And the pilgrims cry: 'We have heard and obeyed.'",
+        "zh": "第十年，先知與十萬人同行辭朝。於阿拉法特乘駝講道：血與財神聖；禁利；婦女於丈夫有權；『我留下兩件事物——主之經典與我的聖行；緊握之，必不迷失。』於谷中宣告：『今日我已為你們成全你們的宗教。』朝覲者呼：『我們聽從並順服。』"
+      },
+      "motifs": [
+        "ritual-origin",
+        "sacred-place",
+        "foundational-legend"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Sira tradition of a living religion; the Farewell Sermon is read as a constitutional text within the tradition; paraphrased from public-domain Arabic/English sources."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "In the tenth year of the Hijra the Prophet performed the pilgrimage of farewell, and the tribes came out to him from every road: it was said they were a hundred thousand. He rode to Arafat, and from the back of his she-camel, al-Qaswa, he preached: 'O people, your blood and your property are sacred to one another... Every usury is abolished; and fear God concerning women, for you have taken them under the protection of God: they have a right against you and you have a right against them.'",
+          "note": "Paraphrase of Ibn Ishaq/Ibn Hisham, Sira (Muir 1877); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "He said: 'O people, I leave among you two things: the Book of God, and my sunnah; if you hold fast to them you will not go astray. And know that every Muslim is the brother of every Muslim, and that the Muslims are one brotherhood.' Then from the valley he proclaimed: 'This day I have perfected for you your religion, and completed My favour upon you, and have chosen for you Islam as your religion.' And the pilgrims cried out: 'We have heard, and we obey.'",
+          "note": "Paraphrase of Ibn Ishaq/Ibn Hisham, Sira (Muir 1877); not verbatim."
+        }
+      ],
+      "persons": [
+        "muhammad"
+      ]
+    },
+    {
+      "id": "sira-muhammad-death",
+      "title": {
+        "en": "The Death of the Prophet",
+        "zh": "先知之死"
+      },
+      "tradition": "islamic",
+      "category": "myth-religion",
+      "region": {
+        "en": "Medina, Aisha's apartment (literal pin)",
+        "zh": "麥地那阿伊莎居室（實際定位）"
+      },
+      "lat": 24.47,
+      "lon": 39.61,
+      "period": "Sira material from Ibn Ishaq (d. c. 767) via Ibn Hisham; English: Muir, Life of Mahomet (1877)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Ibn Ishaq/Ibn Hisham, Sirat Rasul Allah (Arabic); English: William Muir, The Life of Mahomet (Smith, Elder, 1877)",
+        "url": "https://archive.org/stream/lifemahometfrom00muirgoog/lifemahometfrom00muirgoog_djvu.txt"
+      },
+      "license": "Public domain (English edition 1877; Arabic original 9th century)",
+      "summary": {
+        "en": "After the farewell pilgrimage the Prophet falls ill of fever; he is carried to Aisha's chamber. Abu Bakr is called to lead the prayer; the Prophet is laid to rest. 'There is no prophet after me.' He speaks of prayer and the servants, of the oath of Ghadir; and in the last words Aisha hears: 'Rather the Highest Companion, Paradise.' He is buried beneath her apartment; Umar weeps at his own days of ignorance, and Abu Bakr says to the crowd: 'Whoso worshipped Muhammad, Muhammad is dead; whoso worshipped God, God is living and does not die.'",
+        "zh": "辭朝後，先知染熱病；移居阿伊莎居室。請阿布·伯克爾領禮；先知安臥。『我之後再無先知。』他囑禮拜與僕人之事，及蓋迪爾之誓；臨終阿伊莎聞其言：『寧取至高之伴侶，樂園。』葬於其居室之下；歐瑪爾為其蒙昧時代之回憶而泣；阿布·伯克爾對眾言：『拜穆罕默德者，穆罕默德已死；拜真主者，真主永活不死。』"
+      },
+      "motifs": [
+        "origin-of-death",
+        "foundational-legend",
+        "prophetic-vision"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Sira tradition of a living religion; the death of the Prophet is treated with the same paraphrase discipline as other episodes."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "After the pilgrimage of farewell the Prophet fell ill of a fever. He was carried to the chamber of Aisha. He called for water for ablution, and led the prayer while sitting; then Abu Bakr was bidden to lead the prayers in his place, and the Muslims understood. The Prophet said: 'There is no prophet after me; and whoever of my people, after me, claims prophethood is a liar.'",
+          "note": "Paraphrase of Ibn Ishaq/Ibn Hisham, Sira (Muir 1877); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "His last words were heard by Aisha: 'God on high, the Highest Companion' — and she knew that he had chosen the higher of the two abodes. He was buried where he died, beneath her apartment. Umar refused to believe and drew his sword, till Abu Bakr came to the crowd and said: 'Whoso worshipped Muhammad, Muhammad is dead; whoso worshipped God, God is living and does not die.' And he recited the verse: 'Muhammad is only a messenger; messengers have passed away before him.'",
+          "note": "Paraphrase of Ibn Ishaq/Ibn Hisham, Sira (Muir 1877); not verbatim."
+        }
+      ],
+      "persons": [
+        "muhammad",
+        "abu-bakr",
+        "umar"
+      ]
+    },
+    {
+      "id": "sira-salman-seeker",
+      "title": {
+        "en": "Salman the Persian: Four Masters in Search of Truth",
+        "zh": "波斯人薩勒曼：尋求真理的四位導師"
+      },
+      "tradition": "islamic",
+      "category": "myth-religion",
+      "region": {
+        "en": "Isfahan to Medina, road of seekers (symbolic pin)",
+        "zh": "伊斯法罕至麥地那的求道之路（象徵性定位）"
+      },
+      "lat": 32.65,
+      "lon": 51.67,
+      "period": "Sira material from Ibn Ishaq (d. c. 767) via Ibn Hisham; English: Muir, Life of Mahomet (1877)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Ibn Ishaq/Ibn Hisham, Sirat Rasul Allah (Arabic); English: William Muir, The Life of Mahomet (Smith, Elder, 1877)",
+        "url": "https://archive.org/stream/lifemahometfrom00muirgoog/lifemahometfrom00muirgoog_djvu.txt"
+      },
+      "license": "Public domain (English edition 1877; Arabic original 9th century)",
+      "summary": {
+        "en": "Salman al-Farisi, a Persian of Isfahan, turns from fire-worship to Christianity and travels church by church, seeking the truest servant of God. The last master tells him of a prophet about to appear in the land of the Arabs — his signs: he accepts gifts and not alms; the seal of prophethood between his shoulders; he does not eat of charity. Salman is sold into slavery and passes through Medina; the test is made — the Prophet accepts the gift of dates and declines the charity — and Salman falls at his feet and confesses Islam.",
+        "zh": "伊斯法罕的波斯人薩勒曼，由拜火轉向基督教，逐一訪求最真誠的主僕。末位導師告訴他：阿拉伯之地將出先知——其兆：受饋贈而不受施捨；肩胛間有聖印；不吃施捨之物。薩勒曼被賣為奴，途經麥地那；試之——先知收椰棗禮而拒施捨——薩勒曼伏其足前而宣示歸信。"
+      },
+      "motifs": [
+        "culture-hero",
+        "oracle-divination",
+        "foundational-legend"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Sira tradition of a living religion; the Salman conversion legend is beloved of Persian Sufism; paraphrased from public-domain Arabic/English sources."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Salman was a Persian of Isfahan, the son of the chief of his village, who served the fire. Passing a church of the Christians he entered, and found their prayer fair; and he said, 'This religion is better than ours.' He told his father, who put him in chains; he escaped, and went from church to church, and from master to master, seeking the best of them. The last of the masters told him: 'A prophet is about to arise in the land of the Arabs, who accepts gifts and not alms, and between whose shoulders is the seal of prophethood.'",
+          "note": "Paraphrase of Ibn Ishaq/Ibn Hisham, Sira (Muir 1877); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Salman was treacherously sold to a Jew of Medina, and dug his ditch in the ditch of the Confederates. He saw the Prophet and tested him: he brought dates as charity and the Prophet did not eat; he brought them as a gift and the Prophet ate, and said to his Companions: 'Take and eat, but not from charity.' Salman fell at his feet and kissed them, and said: 'This is the master of whom my last master told me.' And the Prophet ordered his ransom and his freedom.",
+          "note": "Paraphrase of Ibn Ishaq/Ibn Hisham, Sira (Muir 1877); not verbatim."
+        }
+      ],
+      "persons": [
+        "muhammad"
+      ]
+    }
+  ]
+}

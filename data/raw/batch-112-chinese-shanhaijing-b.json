@@ -1,0 +1,744 @@
+{
+  "texts": [
+    {
+      "id": "chinese-shanhaijing-jiufeng",
+      "title": {
+        "en": "Jiufeng, the Nine-Headed Bird of the Northern Polar Mountain",
+        "zh": "九鳳九首人面"
+      },
+      "tradition": "chinese",
+      "category": "myth",
+      "region": {
+        "en": "Beiji Tiangui, the northern polar mountain (symbolic pin: far north)",
+        "zh": "北極天櫃（象徵性定位）"
+      },
+      "lat": 45.0,
+      "lon": 108.0,
+      "period": "Shanhaijing, Da Huang Bei Jing, compiled c. 4th-2nd c. BCE",
+      "source": {
+        "archive": "Wikisource (zh)",
+        "work": "Shanhaijing, Da Huang Bei Jing: the nine-headed god Jiufeng of the northern polar mountain (Guo Pu recension)",
+        "url": "https://zh.wikisource.org/wiki/%E5%B1%B1%E6%B5%B7%E7%B6%93"
+      },
+      "license": "Public domain (Classical Chinese text; passages are compiler's renderings)",
+      "summary": {
+        "en": "On the northern polar mountain, where the sea pours in from the north, dwells a god with nine heads on a bird's body and human faces — Jiufeng, the great nine-headed bird whom the Chu poets would later honor and storytellers fear: ancestor of the fire-birds and the ghost-phoenix of the south.",
+        "zh": "大荒北經北極天櫃：海水北注焉；有神九首，人面鳥身，名曰九鳳——楚地火鳥與鬼鳳之祖。"
+      },
+      "motifs": [
+        "sacred-place",
+        "transformation",
+        "sacred-mountain"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Passages are the compiler's condensed paraphrases of the Shanhaijing original. The nine-headed bird later becomes the 'nine-headed ghost-bird' (guiche/ye xiao) of Chinese folklore — a feared omen; the descent is noted."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "In the midst of the Great Waste there is a mountain called the Northern Polar Heaven-Cabinet, into which the sea pours itself from the north. On that mountain dwells a god with nine heads, human-faced, borne on a bird's body, and his name is Jiufeng, Nine-Phoenixes.",
+          "note": "Paraphrase of Shanhaijing, Da Huang Bei Jing, Jiufeng entry (compiler's rendering); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "The nine heads face nine ways at once, so the god sees the whole waste in every wind; commentators of the Chu lands took him for a form of the great fire-bird, and folklorists of later ages for the nine-headed night-owl that calls over village roofs — the same bird, feared when it is heard.",
+          "note": "Paraphrase of Shanhaijing entry with Guo Pu's traditional commentary; not verbatim."
+        }
+      ],
+      "persons": []
+    },
+    {
+      "id": "chinese-shanhaijing-tianwu",
+      "title": {
+        "en": "Tianwu, the Water God with Eight Heads and Eight Tails",
+        "zh": "天吳八首八尾"
+      },
+      "tradition": "chinese",
+      "category": "myth",
+      "region": {
+        "en": "Chaoyang Valley, the valley of the morning sun (symbolic pin: eastern waters)",
+        "zh": "朝陽之谷（象徵性定位）"
+      },
+      "lat": 32.0,
+      "lon": 122.0,
+      "period": "Shanhaijing, Hai Wai Dong Jing, compiled c. 4th-2nd c. BCE",
+      "source": {
+        "archive": "Wikisource (zh)",
+        "work": "Shanhaijing, Hai Wai Dong Jing: the god Tianwu of Chaoyang Valley (Guo Pu recension)",
+        "url": "https://zh.wikisource.org/wiki/%E5%B1%B1%E6%B5%B7%E7%B6%93"
+      },
+      "license": "Public domain (Classical Chinese text; passages are compiler's renderings)",
+      "summary": {
+        "en": "In Chaoyang Valley dwells the god Tianwu, Lord of the Waters: eight human faces on a body of eight tiger-colored parts, eight legs, eight tails, yellow-green all over — a god of the waters whose crest of backs was carved on Han-era water-gates and whose name means Heaven-Growl.",
+        "zh": "朝陽之谷，神曰天吳，是為水伯；其為獸也，八首人面、八足八尾，皆青黃——水伯天吳。"
+      },
+      "motifs": [
+        "world-serpent",
+        "sacred-place"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Passages are the compiler's condensed paraphrases of the Shanhaijing original."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The valley of the morning sun is in the wild of the east, and its god is Tianwu, the Lord of the Waters: eight human faces in a ring, eight feet, eight tails, his whole body banded green-yellow like a tiger's hide.",
+          "note": "Paraphrase of Shanhaijing, Hai Wai Dong Jing, Tianwu entry (compiler's rendering); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "He is the Water-Count of the book's gazetteer — the power of rivers and tides in animal form; later votive art puts a many-headed water god with beast faces on the gates of dams and wells, where the tiger-bands and eight tails still show the shape of Tianwu.",
+          "note": "Paraphrase of Shanhaijing entry with traditional commentary; not verbatim."
+        }
+      ],
+      "persons": []
+    },
+    {
+      "id": "chinese-shanhaijing-luwu",
+      "title": {
+        "en": "Luwu, Guardian of Kunlun and the Emperor's Parks",
+        "zh": "陸吾司崑崙"
+      },
+      "tradition": "chinese",
+      "category": "myth",
+      "region": {
+        "en": "Kunlun, the mountain of the gods (symbolic pin: Kunlun range)",
+        "zh": "崑崙之丘（象徵性定位）"
+      },
+      "lat": 36.0,
+      "lon": 84.0,
+      "period": "Shanhaijing, Xi Ci Er Jing, compiled c. 4th-2nd c. BCE",
+      "source": {
+        "archive": "Wikisource (zh)",
+        "work": "Shanhaijing, Xi Ci Er Jing: Kunlun and the guardian god Luwu (Guo Pu recension)",
+        "url": "https://zh.wikisource.org/wiki/%E5%B1%B1%E6%B5%B7%E7%B6%93"
+      },
+      "license": "Public domain (Classical Chinese text; passages are compiler's renderings)",
+      "summary": {
+        "en": "On Kunlun, the emperor's own mountain below the sky, dwells the god Luwu: body of a tiger, nine tails, a human face, claws like tiger's talons — the steward who administers the nine provinces of heaven and the seasons of the imperial game-parks. His salt-ponds flash red and his water-margins flash gold.",
+        "zh": "崑崙之丘，是實惟帝之下都，神陸吾司之：虎身九尾，人面虎爪；司天之九部及帝之囿時——崑崙之守。"
+      },
+      "motifs": [
+        "sacred-place",
+        "sacred-kingship",
+        "cosmic-mountain"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Passages are the compiler's condensed paraphrases of the Shanhaijing original."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Kunlun is the emperor's lower capital below the sky, and the god set over it is Luwu: a tiger's body with nine tails, a human face, and talons like a tiger's — he administers the nine districts of heaven and the seasons of the emperor's own hunting-parks.",
+          "note": "Paraphrase of Shanhaijing, Xi Ci Er Jing, Kunlun entry (compiler's rendering); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "On the mountain are salt-ponds that flash red and waters that flash gold at the margins; beasts of every kind live around them, and Luwu, with his nine tails and tiger-claws, is the steward of it all — the game-warden of heaven's own estate.",
+          "note": "Paraphrase of Shanhaijing, Xi Ci Er Jing; not verbatim."
+        }
+      ],
+      "persons": []
+    },
+    {
+      "id": "chinese-shanhaijing-yingzhao",
+      "title": {
+        "en": "Yingzhao, the Horse-Faced Warden of the Four Seas",
+        "zh": "英招徇於四海"
+      },
+      "tradition": "chinese",
+      "category": "myth",
+      "region": {
+        "en": "Huaijiang Mountain, west of Kunlun (symbolic pin: Kunlun west)",
+        "zh": "槐江之山（象徵性定位）"
+      },
+      "lat": 36.5,
+      "lon": 82.0,
+      "period": "Shanhaijing, Xi Ci San Jing, compiled c. 4th-2nd c. BCE",
+      "source": {
+        "archive": "Wikisource (zh)",
+        "work": "Shanhaijing, Xi Ci San Jing: Huaijiang Mountain and the god Yingzhao (Guo Pu recension)",
+        "url": "https://zh.wikisource.org/wiki/%E5%B1%B1%E6%B5%B7%E7%B6%93"
+      },
+      "license": "Public domain (Classical Chinese text; passages are compiler's renderings)",
+      "summary": {
+        "en": "Huaijiang Mountain, in sight of the Hanging Gardens, is held by the god Yingzhao: a horse's body with a human face, tiger-striped and winged, whose cry sounds like a rolling winnow, and who patrols the four seas crying aloud — the warden whose shout carries around the world's rim.",
+        "zh": "槐江之山，實惟帝之平圃；神英招司之，其狀馬身而人面，虎文而鳥翼，徇於四海，其音如榴——巡守四極之神。"
+      },
+      "motifs": [
+        "sacred-place",
+        "transformation"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Passages are the compiler's condensed paraphrases of the Shanhaijing original."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Huaijiang Mountain, looking up at the emperor's Hanging Gardens, is governed by the god Yingzhao — a horse's body with a human face, tiger-striped, with a bird's wings, and a voice that rolls like a winnowing-hail. His office is the circuit of the four seas: he patrols the coasts of the world crying aloud, and the book adds that the Yellow River's spring rises from this mountain — the warden's rounds begin where the great water begins.",
+          "note": "Paraphrase of Shanhaijing, Xi Ci San Jing, Yingzhao entry (compiler's rendering); not verbatim. / Paraphrase of Shanhaijing, Xi Ci San Jing; not verbatim."
+        }
+      ],
+      "persons": []
+    },
+    {
+      "id": "chinese-shanhaijing-yayu-erfu",
+      "title": {
+        "en": "Erfu Kills Yayu, and the Murdered God Becomes a Man-Eater",
+        "zh": "貳負殺窫窳"
+      },
+      "tradition": "chinese",
+      "category": "myth",
+      "region": {
+        "en": "Shushu Mountain, where the murderer was bound (symbolic pin: far west)",
+        "zh": "疏屬山（象徵性定位）"
+      },
+      "lat": 37.0,
+      "lon": 80.0,
+      "period": "Shanhaijing, Hai Wai Xi Jing, compiled c. 4th-2nd c. BCE",
+      "source": {
+        "archive": "Wikisource (zh)",
+        "work": "Shanhaijing, Hai Wai Xi Jing: Erfu and the murder of Yayu; Guo Pu's note on the revived monster",
+        "url": "https://zh.wikisource.org/wiki/%E5%B1%B1%E6%B5%B7%E7%B6%93"
+      },
+      "license": "Public domain (Classical Chinese text; passages are compiler's renderings)",
+      "summary": {
+        "en": "Yayu, a god with a snake's body and a human face, was murdered by Erfu and his minister Wei; the Emperor bound the murderers to Shushu Mountain with their right feet shackled. But Yayu's corpse revived wrongly — he rose again as a monster with a dragon's head, eating men, one of the very monsters Yi the archer would later shoot down in the ten-sun age.",
+        "zh": "貳負之臣曰危，與貳負殺窫窳，帝乃梏之疏屬之山，桎其右足；窫窳者蛇身人面——後復甦為龍首食人之獸，為羿所誅。"
+      },
+      "motifs": [
+        "transformation",
+        "resurrection",
+        "taboo-transgression"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Passages are the compiler's condensed paraphrases of the Shanhaijing original. Links to the Yi ten-suns record (chinese-huainanzi-yi-ten-suns): the revived god is one of Yi's prey."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Erfu, a god of the west, and his minister Wei murdered Yayu, a god with a snake's body and a human face — a killing among gods that could not go unpunished, for the murdered one was of the divine kindred.",
+          "note": "Paraphrase of Shanhaijing, Hai Wai Xi Jing, Erfu entry (compiler's rendering); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "The Emperor had the murderers seized and bound to Shushu Mountain, their right feet shackled in stone and their arms pierced and locked behind their backs to the mountain's rock. There the two stood until their term should run. But the murdered god did not stay dead rightly: he woke again as a beast with a dragon's head that ate people, one of the six monsters of the burned earth — so Guo Pu tells it — until Yi the archer's bow ended the revival.",
+          "note": "Paraphrase of Shanhaijing, Hai Wai Xi Jing, the binding; not verbatim. / Paraphrase of Guo Pu's commentary and the Yi-cycle cross-reference; not verbatim."
+        }
+      ],
+      "persons": [
+        "houyi"
+      ]
+    },
+    {
+      "id": "chinese-shanhaijing-wang-hai",
+      "title": {
+        "en": "Wang Hai, the Ox-Trader Murdered Among the Yi People",
+        "zh": "王亥僕牛"
+      },
+      "tradition": "chinese",
+      "category": "myth",
+      "region": {
+        "en": "Youyi, the land of the Yi people, north of the Yellow River (symbolic pin: northern Hebei)",
+        "zh": "有易之邦（象徵性定位）"
+      },
+      "lat": 38.0,
+      "lon": 115.5,
+      "period": "Shanhaijing, Da Huang Dong Jing, compiled c. 4th-2nd c. BCE (parallel in Guo Pu's quoted Bamboo Annals)",
+      "source": {
+        "archive": "Wikisource (zh)",
+        "work": "Shanhaijing, Da Huang Dong Jing: Wang Hai and the oxen of Youyi; the revenge of Shang Jia",
+        "url": "https://zh.wikisource.org/wiki/%E5%B1%B1%E6%B5%B7%E7%B6%93"
+      },
+      "license": "Public domain (Classical Chinese text; passages are compiler's renderings)",
+      "summary": {
+        "en": "Wang Hai, forefather of the Shang royal house, sojourned among the Yi people with his herds of oxen, and the lord of the Yi murdered him and took the cattle. His son Shang Jia raised a host and appealed to the River God, who armed his soldiers; the Yi lord was killed and his people scattered — the oldest narrative episode in the Shanhaijing, and the founding crime-and-vengeance tale of the Shang dynasty.",
+        "zh": "王亥託於有易、河伯僕牛，有易殺王亥，取僕牛；上甲微假師於河伯以伐有易，滅之——殷王子亥賓於有易，有易之君殺而放之（郭璞引竹書）。"
+      },
+      "motifs": [
+        "sacred-kingship",
+        "taboo-transgression",
+        "boon-curse"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Passages are the compiler's condensed paraphrases of the Shanhaijing original and Guo Pu's quoted Bamboo Annals note. The oldest continuous narrative in the Shanhaijing; foundational to Shang genealogy (cf. chinese-shijing-jian-di-blackbird)."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Wang Hai, a prince of the Shang royal line, took his droves of oxen and sojourned among the people of Youyi, trusting them with his herds and his household — the book says he traded with them through the River God's keeping.",
+          "note": "Paraphrase of Shanhaijing, Da Huang Dong Jing, Wang Hai entry (compiler's rendering); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "The lord of the Yi coveted the herds, murdered Wang Hai, and seized the oxen — the hospitality broken, the trader killed in the country that had received him. Wang Hai's son Shang Jia raised an army and asked the River God for soldiers; the River God lent his host, and the army of Shang Jia destroyed the lord of Youyi and scattered his people. Thus the house of Shang began its power in the vengeance of a murdered son — with a river-god as ally.",
+          "note": "Paraphrase of Shanhaijing, Da Huang Dong Jing, with Guo Pu's Bamboo Annals note; not verbatim. / Paraphrase of Shanhaijing, Da Huang Dong Jing, the revenge; not verbatim."
+        }
+      ],
+      "persons": []
+    },
+    {
+      "id": "chinese-shanhaijing-qigong-flying",
+      "title": {
+        "en": "The Flying Chariots of Qigong, the One-Armed Country",
+        "zh": "奇肱飛車"
+      },
+      "tradition": "chinese",
+      "category": "myth",
+      "region": {
+        "en": "Qigong, the one-armed country of the far west (symbolic pin: western deserts)",
+        "zh": "奇肱之國（象徵性定位）"
+      },
+      "lat": 36.0,
+      "lon": 78.0,
+      "period": "Shanhaijing, Hai Wai Xi Jing, compiled c. 4th-2nd c. BCE; flying-chariot note in Guo Pu (quoting Bowuzhi)",
+      "source": {
+        "archive": "Wikisource (zh)",
+        "work": "Shanhaijing, Hai Wai Xi Jing: the country of Qigong; Guo Pu's note on the wind-chariots of the westerners",
+        "url": "https://zh.wikisource.org/wiki/%E5%B1%B1%E6%B5%B7%E7%B6%93"
+      },
+      "license": "Public domain (Classical Chinese text; passages are compiler's renderings)",
+      "summary": {
+        "en": "Far west lives the country of Qigong, whose people have one arm, three eyes, yin and yang both in their bodies, and mastery of machines: they make chariots that ride the wind. Guo Pu's note preserves the tale of one such chariot that flew a visitor clear to Yu Province by night, and was grounded ten years, waiting for a west wind to carry its maker home.",
+        "zh": "奇肱之國，其人一臂三目，有陰有陽；郭璞注引博物志：奇肱人善為機巧，作飛車，乘風遠行——湯時飛車至豫州，十年西風乃歸。"
+      },
+      "motifs": [
+        "ascension",
+        "sacred-place",
+        "transformation"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Passages are the compiler's condensed paraphrases of the Shanhaijing text and Guo Pu's quoted Bowuzhi note."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "In the far west is the country of Qigong, whose people have a single arm and three eyes, yin and yang both in one body — and hands skilled beyond all other peoples in the making of machines. Their machines are wind-chariots, says the old note: carriages that ride the moving air for ten thousand li. One such chariot, in the age of Tang, came down by night into the province of Yu with a maker of Qigong in it; the Emperor kept the machine grounded, and for ten years it waited until a west wind rose to carry its maker home.",
+          "note": "Paraphrase of Shanhaijing, Hai Wai Xi Jing, Qigong entry (compiler's rendering); not verbatim. / Paraphrase of Guo Pu's note quoting the Bowuzhi; not verbatim."
+        }
+      ],
+      "persons": []
+    },
+    {
+      "id": "chinese-shanhaijing-nuchou",
+      "title": {
+        "en": "Nüchou, Burned to Death by the Ten Suns",
+        "zh": "女丑之屍"
+      },
+      "tradition": "chinese",
+      "category": "myth",
+      "region": {
+        "en": "North of the land of Husbands (symbolic pin: eastern waste)",
+        "zh": "丈夫之北（象徵性定位）"
+      },
+      "lat": 33.0,
+      "lon": 118.0,
+      "period": "Shanhaijing, Hai Wai Xi Jing, compiled c. 4th-2nd c. BCE",
+      "source": {
+        "archive": "Wikisource (zh)",
+        "work": "Shanhaijing, Hai Wai Xi Jing: the corpse of Nüchou, roasted alive by the ten suns",
+        "url": "https://zh.wikisource.org/wiki/%E5%B1%B1%E6%B5%B7%E7%B6%93"
+      },
+      "license": "Public domain (Classical Chinese text; passages are compiler's renderings)",
+      "summary": {
+        "en": "The corpse of Nüchou was born and roasted to death by the ten suns while she stood on a mountain north of the land of Husbands, shielding her face with her right hand — the ritual memory of the drought-ordeal in which a designated 'drought woman' is exposed to the sun's heat to break a dry spell, its victim fixed forever in the gazetteer.",
+        "zh": "女丑之屍，生而十日炙殺之，在丈夫北，以右手鄣其面；十日居上，女丑居山之上——旱曬巫儀之記憶。"
+      },
+      "motifs": [
+        "sun-capture",
+        "taboo-transgression",
+        "sacred-place"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Passages are the compiler's condensed paraphrases of the Shanhaijing original. Commentators read the entry as the mythic record of drought-exorcism rites using exposed women (the 'ba' ritual); sensitive for its treatment of a female ritual victim — noted."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The corpse called Nüchou — Woman Chou — was born, and the ten suns came out and roasted her to death; she stood on a mountain north of the land of Husbands, holding her right hand over her face as the heat came down.",
+          "note": "Paraphrase of Shanhaijing, Hai Wai Xi Jing, Nüchou entry (compiler's rendering); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "The entry is read by commentators as the memory of a rite: in drought, a woman set apart as the 'drought-phantom' was exposed on a height to the sun's fire, to draw the sky's anger down on herself and release the rain. The Shanhaijing keeps the rite's victim where the suns left her — on the mountain, hand at her face, under ten burning skies.",
+          "note": "Paraphrase of Shanhaijing entry with traditional commentary; not verbatim."
+        }
+      ],
+      "persons": []
+    },
+    {
+      "id": "chinese-shanhaijing-xiage",
+      "title": {
+        "en": "Xiage, the Headless General Who Still Stands",
+        "zh": "夏耕之屍"
+      },
+      "tradition": "chinese",
+      "category": "myth",
+      "region": {
+        "en": "Wushan, the Shamans' Mountain (pin: Three Gorges region)",
+        "zh": "巫山"
+      },
+      "lat": 31.1,
+      "lon": 110.1,
+      "period": "Shanhaijing, Da Huang Xi Jing, compiled c. 4th-2nd c. BCE",
+      "source": {
+        "archive": "Wikisource (zh)",
+        "work": "Shanhaijing, Da Huang Xi Jing: the headless corpse of Xiaiage, general of Jie",
+        "url": "https://zh.wikisource.org/wiki/%E5%B1%B1%E6%B5%B7%E7%B6%93"
+      },
+      "license": "Public domain (Classical Chinese text; passages are compiler's renderings)",
+      "summary": {
+        "en": "A figure stands in the Great Waste with no head, gripping his halberd and shield — Xiaiage, the corpse of the general whom Cheng-tang beheaded before him when he overthrew the last king of Xia. The headless general ran from his disgrace and descended on Wushan, the Shamans' Mountain, where he keeps his post to this day: defeat survived as standing.",
+        "zh": "有人無首，操戈盾立，名曰夏耕之屍；故成湯伐夏桀於章山，克之，斬耕厥前——耕既立，無首，走厥咎，乃降於巫山。"
+      },
+      "motifs": [
+        "resurrection",
+        "sacred-place",
+        "boon-curse",
+        "shaman-journey"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Passages are the compiler's condensed paraphrases of the Shanhaijing original. Pairs with Xingtian (existing combined record shanhaijing-kua-fu): two headless standing figures of the corpus."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "There stands in the Great Waste a man with no head, gripping his halberd and his shield — the corpse of Xiaiage, general in the host of the last king of Xia. When Cheng-tang overthrew Jie and cut the general down before the king's own face, the beheaded Xiaiage rose and ran from his disgrace — headless still — and came down upon Wushan, the mountain of the shamans, where he keeps his stand in the wind with his weapons up.",
+          "note": "Paraphrase of Shanhaijing, Da Huang Xi Jing, Xiaiage entry (compiler's rendering); not verbatim. / Paraphrase of Shanhaijing, Da Huang Xi Jing; not verbatim."
+        }
+      ],
+      "persons": []
+    },
+    {
+      "id": "chinese-shanhaijing-nuwa-shishen",
+      "title": {
+        "en": "The Ten Gods of Nüwa's Bowels",
+        "zh": "女媧之腸"
+      },
+      "tradition": "chinese",
+      "category": "myth",
+      "region": {
+        "en": "Liguang, the Wide Chestnut Wild (symbolic pin: western waste)",
+        "zh": "栗廣之野（象徵性定位）"
+      },
+      "lat": 35.0,
+      "lon": 96.0,
+      "period": "Shanhaijing, Da Huang Xi Jing, compiled c. 4th-2nd c. BCE",
+      "source": {
+        "archive": "Wikisource (zh)",
+        "work": "Shanhaijing, Da Huang Xi Jing: the ten gods born of Nüwa's entrails",
+        "url": "https://zh.wikisource.org/wiki/%E5%B1%B1%E6%B5%B7%E7%B6%93"
+      },
+      "license": "Public domain (Classical Chinese text; passages are compiler's renderings)",
+      "summary": {
+        "en": "In the Wide Chestnut Wild there stand ten gods, called 'the bowels of Nüwa,' who became gods and lie athwart the road — the oldest Shanhaijing witness of the creator goddess: even her discarded innards turn divine, ten powers laid across the travellers' way like a living gate.",
+        "zh": "有神十人，名曰女媧之腸，化為神，處栗廣之野，橫道而處——創世女神之腸亦化神。"
+      },
+      "motifs": [
+        "creation-chaos",
+        "dismembered-giant",
+        "sacred-place"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Passages are the compiler's condensed paraphrases of the Shanhaijing original. The oldest textual witness of Nüwa in the corpus; links to the dismembered-creator pattern (Pangu pre-existing record)."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "In the Wide Chestnut Wild of the Great Waste there are ten gods, and their name is the Bowels of Nüwa: the inner parts of the creator goddess, which changed into powers of themselves and took their place in the wild. They lie athwart the road, ten across the way — a gate of the goddess's own body, through which every traveller in the mythic west must pass; the entry is the oldest mention of Nüwa in the whole Shanhaijing.",
+          "note": "Paraphrase of Shanhaijing, Da Huang Xi Jing, Nüwa bowels entry (compiler's rendering); not verbatim. / Paraphrase of Shanhaijing entry with traditional commentary; not verbatim."
+        }
+      ],
+      "persons": [
+        "nuwa"
+      ]
+    },
+    {
+      "id": "chinese-shanhaijing-shuhai",
+      "title": {
+        "en": "Shu Hai Measures the World on Foot",
+        "zh": "豎亥步測天地"
+      },
+      "tradition": "chinese",
+      "category": "myth",
+      "region": {
+        "en": "From the east limit to the west limit of the world (symbolic pin: whole-earth survey)",
+        "zh": "自東極至於西極（象徵性定位）"
+      },
+      "lat": 35.0,
+      "lon": 105.0,
+      "period": "Shanhaijing, Hai Wai Dong Jing, compiled c. 4th-2nd c. BCE",
+      "source": {
+        "archive": "Wikisource (zh)",
+        "work": "Shanhaijing, Hai Wai Dong Jing: Shu Hai's world-measurement on the Emperor's command",
+        "url": "https://zh.wikisource.org/wiki/%E5%B1%B1%E6%B5%B7%E7%B6%93"
+      },
+      "license": "Public domain (Classical Chinese text; passages are compiler's renderings)",
+      "summary": {
+        "en": "The Emperor commanded Shu Hai to pace out the world: from the east limit to the west limit, five hundred million and a hundred thousand and nine thousand and eight hundred paces. Shu Hai walked with the reckoning-rods in his right hand, pointing north of the Green Mounds with his left — the surveying myth that founds China's map of the world.",
+        "zh": "帝命豎亥步，自東極至於西極，五億十萬九千八百步；豎亥右手把算，左手指青丘北——測地之神話。"
+      },
+      "motifs": [
+        "sacred-kingship",
+        "sacred-place"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Passages are the compiler's condensed paraphrases of the Shanhaijing original."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The Emperor commanded Shu Hai to pace out the world, and Shu Hai walked from the limit of the east to the limit of the west, reckoning as he went: five hundred million, ten myriad, and nine thousand and eight hundred paces.",
+          "note": "Paraphrase of Shanhaijing, Hai Wai Dong Jing, Shu Hai entry (compiler's rendering); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "He walked with the reckoning-rods in his right hand and his left hand pointed at the north of the Green Mounds — a surveyor's posture fixed forever in the gazetteer. The measured world is the Emperor's world: the numbers walked out are the ground of all the maps that follow.",
+          "note": "Paraphrase of Shanhaijing, Hai Wai Dong Jing; not verbatim."
+        }
+      ],
+      "persons": []
+    },
+    {
+      "id": "chinese-shanhaijing-dijun-lineage",
+      "title": {
+        "en": "The Lineage of Di Jun: Suns, Moons, and the Peoples of the Waste",
+        "zh": "帝俊世系"
+      },
+      "tradition": "chinese",
+      "category": "myth",
+      "region": {
+        "en": "The Great Waste in every direction (mythic geography)",
+        "zh": "大荒諸野"
+      },
+      "lat": 34.0,
+      "lon": 105.0,
+      "period": "Shanhaijing, Da Huang Jing chapters, compiled c. 4th-2nd c. BCE",
+      "source": {
+        "archive": "Wikisource (zh)",
+        "work": "Shanhaijing, Da Huang Dong/Nan/Xi/Bei Jing: the children of Di Jun — the suns of Xihe, the moons of Changxi, and the ancestors of the waste peoples",
+        "url": "https://zh.wikisource.org/wiki/%E5%B1%B1%E6%B5%B7%E7%B6%93"
+      },
+      "license": "Public domain (Classical Chinese text; passages are compiler's renderings)",
+      "summary": {
+        "en": "Di Jun, the supreme god of the Shanhaijing's genealogies, fathers the ten suns by Xihe and the twelve moons by Changxi — and by mortal wives the ancestors of the waste peoples: the Grain-growing country, the Black Teeth, the Middle-Rong, the Three-Body country, the Yan-long music-givers, and Houji himself, who in this version is Di Jun's son, not the footprint-child of the Shijing.",
+        "zh": "帝俊妻羲和生十日，妻常羲生月十有二；又生中容、晏龍、黑齒、三身之國；大荒西經言帝俊生后稷，稷降以百穀——帝俊為大荒譜系之樞。"
+      },
+      "motifs": [
+        "miraculous-birth",
+        "sibling-creators",
+        "sacred-kingship"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Passages are the compiler's condensed paraphrases of the Shanhaijing genealogies. Variant-ancestry conflict with the Shijing's footprint-birth of Houji is deliberate comparative material, not error."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Di Jun is the great father of the waste-world: by Xihe the sun-mother he begot the ten suns, by Changxi the moon-mother the twelve moons — the sky's whole order hangs on his two celestial marriages. By his mortal consorts he begot the founders of the waste peoples: the Grain-country, the Black Teeth who paint their teeth, the Middle-Rong, the Three-Body country of triple shadows, and Yan-long who first made music and invented the zither. The gazetteer turns blood into map: every people has a divine father to name.",
+          "note": "Paraphrase of Shanhaijing, Da Huang Dong Jing and Da Huang Xi Jing genealogies (compiler's rendering); not verbatim. / Paraphrase of Shanhaijing, Da Huang Jing genealogies; not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "One list even says Di Jun begot Houji, the Lord of Millet, who lowered the hundred grains from heaven for men — so in the Shanhaijing's version agriculture is a god's gift through a god's son, where the Shijing gives it through a footprint-born child. The genealogies disagree; the myth is richer for it.",
+          "note": "Paraphrase of Shanhaijing, Da Huang Xi Jing, Houji entry; not verbatim."
+        }
+      ],
+      "persons": [
+        "houji",
+        "xihe"
+      ]
+    },
+    {
+      "id": "chinese-shanhaijing-yandi-lineage",
+      "title": {
+        "en": "The Lineage of the Flame Emperor: Zhurong, Gonggong, and the Earth God",
+        "zh": "炎帝世系"
+      },
+      "tradition": "chinese",
+      "category": "myth",
+      "region": {
+        "en": "The rivers and wilds of the mythic south (symbolic pin: Yangzi basin)",
+        "zh": "江水之野（象徵性定位）"
+      },
+      "lat": 30.0,
+      "lon": 108.0,
+      "period": "Shanhaijing, Hai Nei Jing, compiled c. 4th-2nd c. BCE",
+      "source": {
+        "archive": "Wikisource (zh)",
+        "work": "Shanhaijing, Hai Nei Jing: the genealogy of the Flame Emperor — Yandi, Yanshi?, Zhurong, Gonggong, Houtu",
+        "url": "https://zh.wikisource.org/wiki/%E5%B1%B1%E6%B5%B7%E7%B6%93"
+      },
+      "license": "Public domain (Classical Chinese text; passages are compiler's renderings)",
+      "summary": {
+        "en": "The Hai Nei Jing strings the fire-line of the gods: the Flame Emperor's wife bore Yanshi, and the line ran through Jie-bing and Xi-qi, then Zhurong the fire-god, who went down to dwell on the Yangzi and fathered Gonggong — the pillar-striking water-power — and Gonggong fathered Houtu, the god of earth. Four elements in one dynasty: fire begets water begets earth.",
+        "zh": "炎帝之妻，赤水之子聽訞，生炎居，炎居生節並，節並生戲器，戲器生祝融；祝融降處於江水，生共工；共工生術器……及后土——火生水、水生土之譜。"
+      },
+      "motifs": [
+        "sibling-creators",
+        "sacred-kingship"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Passages are the compiler's condensed paraphrases of the Shanhaijing genealogy. The Gonggong of this line links to the pillar-striking myth (chinese-gonggong-buzhou)."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The Flame Emperor married a daughter of the Red Water, and their line ran: Yanshi, then Jie-bing, then Xi-qi, then Zhurong the lord of fire — the book keeps each generation named, a dynasty of flame in four steps. Zhurong came down to dwell on the Yangzi and fathered Gonggong, the water-power who would one day strike the sky-pillar; and Gonggong fathered Houtu, the god of earth, who gives the ground its name. Fire begets water, water begets earth — the elements arranged as a family tree.",
+          "note": "Paraphrase of Shanhaijing, Hai Nei Jing, Yandi genealogy (compiler's rendering); not verbatim. / Paraphrase of Shanhaijing, Hai Nei Jing; not verbatim."
+        }
+      ],
+      "persons": []
+    },
+    {
+      "id": "chinese-shanhaijing-huangdi-lineage",
+      "title": {
+        "en": "The Lineage of the Yellow Emperor: Changyi, Hanliu, and Zhuanxu",
+        "zh": "黃帝世系"
+      },
+      "tradition": "chinese",
+      "category": "myth",
+      "region": {
+        "en": "Ruoshui, the river of Changyi's descent (symbolic pin: Sichuan rivers)",
+        "zh": "若水（象徵性定位）"
+      },
+      "lat": 30.0,
+      "lon": 103.0,
+      "period": "Shanhaijing, Hai Nei Jing, compiled c. 4th-2nd c. BCE",
+      "source": {
+        "archive": "Wikisource (zh)",
+        "work": "Shanhaijing, Hai Nei Jing: Huangdi, Lei-zu, Changyi, and the birth of Zhuanxu",
+        "url": "https://zh.wikisource.org/wiki/%E5%B1%B1%E6%B5%B7%E7%B6%93"
+      },
+      "license": "Public domain (Classical Chinese text; passages are compiler's renderings)",
+      "summary": {
+        "en": "The Yellow Emperor's wife Lei-zu bore Changyi, who was sent down to live on the Ruoshui river and fathered Hanliu — a strange being with a long neck, small eyes, pig snout, and scaled body — who married a daughter of the Zhuo clan and fathered Zhuanxu, the emperor who would order the separation of heaven and earth: divinity passing through a pig-snouted river-lord to make the great regulator.",
+        "zh": "黃帝妻雷祖，生昌意；昌意降處若水，生韓流；韓流擢首、謹耳、人面、豕喙、渠股、豚止，取淖子曰阿女，生帝顓頊——五帝之一由此降生。"
+      },
+      "motifs": [
+        "miraculous-birth",
+        "sacred-kingship",
+        "transformation"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Passages are the compiler's condensed paraphrases of the Shanhaijing genealogy. The odd, animal-bodied ancestor (Hanliu) is a striking non-idealized genealogy entry — noted."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The Yellow Emperor's wife was Lei-zu, and she bore Changyi; Changyi was sent down to dwell on the waters of the Ruo, and there fathered a son named Hanliu. Hanliu was shaped strangely: a long head and small ears, a man's face and a pig's snout, the legs of a heron and the hooves of a pig. He married a daughter of the Zhuo clan, and she bore Zhuanxu — the High Lord who would one day cut the road between heaven and earth. The greatest of the emperors descends through the strangest of bodies.",
+          "note": "Paraphrase of Shanhaijing, Hai Nei Jing, Huangdi genealogy (compiler's rendering); not verbatim. / Paraphrase of Shanhaijing, Hai Nei Jing; see chinese-guoyu-chongli for Zhuanxu's act; not verbatim."
+        }
+      ],
+      "persons": [
+        "huangdi"
+      ]
+    },
+    {
+      "id": "chinese-shanhaijing-shiwu-lingshan",
+      "title": {
+        "en": "The Ten Shamans of Lingshan, Who Climb to Gather the Hundred Drugs",
+        "zh": "靈山十巫"
+      },
+      "tradition": "chinese",
+      "category": "myth",
+      "region": {
+        "en": "Lingshan, the Shamans' Mountain (pin: Three Gorges region, Wushan)",
+        "zh": "靈山（巫山）"
+      },
+      "lat": 31.1,
+      "lon": 110.1,
+      "period": "Shanhaijing, Da Huang Xi Jing, compiled c. 4th-2nd c. BCE",
+      "source": {
+        "archive": "Wikisource (zh)",
+        "work": "Shanhaijing, Da Huang Xi Jing: the ten shamans of Lingshan ascending and descending for the hundred medicines",
+        "url": "https://zh.wikisource.org/wiki/%E5%B1%B1%E6%B5%B7%E7%B6%93"
+      },
+      "license": "Public domain (Classical Chinese text; passages are compiler's renderings)",
+      "summary": {
+        "en": "There is a mountain called Lingshan, and on it live ten shamans named in the text — Wu Xian first among them — who go up and down between heaven and earth, gathering the hundred medicines: the ladder-climbing healers whose mountain, in later lore, is identified with the Wushan of the Three Gorges.",
+        "zh": "有靈山，巫咸、巫即、巫盼、巫彭、巫姑、巫真、巫禮、巫抵、巫謝、巫羅十巫，從此升降，百藥爰在——群巫升降之天梯。"
+      },
+      "motifs": [
+        "ascension",
+        "sacred-place",
+        "quest-immortality",
+        "shaman-journey"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Passages are the compiler's condensed paraphrases of the Shanhaijing original."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "There is a mountain called Lingshan, the mountain of the spirit, and on it the book names ten shamans: Wu Xian, Wu Ji, Wu Pan, Wu Peng, Wu Gu, Wu Zhen, Wu Li, Wu Di, Wu Xie, Wu Luo. The ten go up and down by the mountain as by a ladder — between heaven and earth at will — and the hundred medicines grow there for their gathering: healers whose road to the sky is a mountain whose slopes are a pharmacopoeia.",
+          "note": "Paraphrase of Shanhaijing, Da Huang Xi Jing, Lingshan entry (compiler's rendering); not verbatim. / Paraphrase of Shanhaijing, Da Huang Xi Jing; not verbatim."
+        }
+      ],
+      "persons": []
+    },
+    {
+      "id": "chinese-shanhaijing-wo-folk",
+      "title": {
+        "en": "The People of Wo, Who Eat the Phoenix's Eggs and Drink the Sweet Dew",
+        "zh": "沃民食卵"
+      },
+      "tradition": "chinese",
+      "category": "myth",
+      "region": {
+        "en": "Wo, the fertile wild of the west (symbolic pin: western paradise)",
+        "zh": "沃之野（象徵性定位）"
+      },
+      "lat": 35.0,
+      "lon": 90.0,
+      "period": "Shanhaijing, Da Huang Xi Jing, compiled c. 4th-2nd c. BCE",
+      "source": {
+        "archive": "Wikisource (zh)",
+        "work": "Shanhaijing, Da Huang Xi Jing: the wild of Wo and its people",
+        "url": "https://zh.wikisource.org/wiki/%E5%B1%B1%E6%B5%B7%E7%B6%93"
+      },
+      "license": "Public domain (Classical Chinese text; passages are compiler's renderings)",
+      "summary": {
+        "en": "There is a wild country called Wo — Fertile Ease — where people live on the eggs of the phoenix and drink the sweet dew, and whatever they desire is theirs at the wish: grain grows unasked, no plowing, no weeding, no toil, no theft and no grief — the Chinese Book of Earthly Delight, in one sentence of gazetteer.",
+        "zh": "有沃之國，沃民是食鳳卵，是飲甘露；凡其所欲，其味盡存；爰有甘華、甘柤……百獸相群爰處——不耕不穫，食之以和。"
+      },
+      "motifs": [
+        "sacred-place",
+        "world-renewal",
+        "quest-immortality"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Passages are the compiler's condensed paraphrases of the Shanhaijing original. The land-of-plenty archetype in the Chinese corpus."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "In the Great Waste of the west there is a wild called Wo, where the people live on phoenix eggs and drink sweet dew that falls from the sky; whatever taste they wish for is present there in its fullness.",
+          "note": "Paraphrase of Shanhaijing, Da Huang Xi Jing, Wo entry (compiler's rendering); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Nothing is sown and nothing is reaped; the hundred plants grow to the hand, the beasts live in their herds without fear, and there is no labor, no theft and no grief in that country — the mythic west keeps a paradise on its far margin, and the gazetteer files it between mountains like any other place.",
+          "note": "Paraphrase of Shanhaijing, Da Huang Xi Jing; not verbatim."
+        }
+      ],
+      "persons": []
+    }
+  ]
+}

@@ -1,0 +1,230 @@
+{
+  "texts": [
+    {
+      "id": "coyote-rolling-rock",
+      "title": {
+        "en": "Coyote and the Dragon; Coyote in the Buffalo Country",
+        "zh": "郊狼與惡龍；水牛之地的郊狼"
+      },
+      "tradition": "plateau",
+      "category": "myth",
+      "region": {
+        "en": "Columbia Plateau (Nez Perce and Flathead homelands, Idaho-Montana)",
+        "zh": "哥倫比亞高原（內茲珀斯人與弗拉特黑德人故地，愛達荷—蒙大拿）"
+      },
+      "lat": 46.4,
+      "lon": -116.9,
+      "period": "collected from Plateau narrators; retold 1910 (Katharine Berry Judson, Myths and Legends of the Pacific Northwest)",
+      "source": {
+        "archive": "Internet Archive (public-domain full text)",
+        "work": "Katharine Berry Judson (ed.), 'Myths and Legends of the Pacific Northwest', A.C. McClurg, 1910 — 'Coyote and the Dragon' (Nez Perce) and 'Coyote in the Buffalo Country' (Flathead)",
+        "url": "https://archive.org/stream/mythslegendsofpa00juds/mythslegendsofpa00juds_djvu.txt"
+      },
+      "license": "Public domain",
+      "summary": {
+        "en": "Two Coyote trickster tales from the Columbia Plateau. Coyote drags the sun down on a chain of arrows and hides it in a river, luring a light-fearing man-eating dragon into daylight where he can kill it; and in the buffalo country he defeats the greedy chief Bear, loses the herds through his own misrule, and finally out-tricks Wolf's revenge party.",
+        "zh": "兩則哥倫比亞高原郊狼故事：郊狼以箭鏈拉下太陽藏入河中，誘出懼光的食人怪龍並趁其目盲殺之；另在水牛之地以計除掉霸占獵物的酋長熊，卻因自家作法失去獸群，最終以更狡猾的詭計擊敗前來復仇的狼群。"
+      },
+      "motifs": [
+        "trickster",
+        "sun-capture",
+        "culture-hero",
+        "coyote-trickster",
+        "ascent-sky"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Passages are condensed paraphrases of two Plateau Coyote tales as retold in Katharine Berry Judson's Myths and Legends of the Pacific Northwest (1910), in the collector's own words. The intended 'Coyote and the Rolling Rock' could not be verified in a successfully fetched public-domain collection, so two canonical Plateau trickster tales from the same verified PD source are substituted ('Coyote and the Dragon', Nez Perce; 'Coyote in the Buffalo Country', Flathead), with tradition kept as 'plateau'. Category 'myth': trickster-etiological folk narratives, not liturgy; Judson's preface states that ceremonial and coarse content was excluded from her selection. No restricted ceremonial content was collected; only published folk-narrative versions are used. Coordinates mark the Nez Perce homeland as a regional reference only, not a story site."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "A man-eating dragon lived in a cave in the Willamette Valley, slipping out each night to seize and devour the people, who lived in fear of it. Coyote, the shrewdest and most cunning of all the animals, resolved to help them. Knowing the monster could not endure daylight, he climbed a mountain when the sun stood high and shot one arrow into the sun, then another into the end of the first, and another still, until a chain of arrows stretched from sky to earth. He pulled hard and dragged the sun down, hiding it in the Willamette River. Thinking night had come, the dragon crept out to attack the people; Coyote then broke the chain, the sun leapt back into the sky, and the blinded monster was killed. When white settlers later carried off the creature's great bones, the storytellers said, evil would come of it."
+        },
+        {
+          "id": "2",
+          "text": "Starving after his travels, Coyote heard Eagle mock that the buffalo country was closed to so poor a creature. Determined to prove otherwise, he walked fifteen days to a great camp near the falls, where the unpopular chief Bear kept the fat and good meat of every buffalo kill for himself. Coyote killed a buffalo and, playing host, wrapped a red-hot stone in fat and fed it to Bear, killing him; the grateful people made Coyote chief. Because the slain Bear had been a powerful medicine-man who had willed the herds to remain, all the buffalo vanished once Coyote ruled. Fleeing in shame, Coyote played dead on a trail, was thrown among a traveller's meat, and gorged himself; he then tricked Wolf into trying the same ruse, and the suspicious man clubbed Wolf nearly to death. Wolf gathered Bear and Mole for revenge, but Coyote, dressed like a great chief and aided by Cat and Dog, killed them all."
+        }
+      ]
+    },
+    {
+      "id": "loki-sif-hair",
+      "title": {
+        "en": "Loki Cuts Sif's Hair: Loki's Wager with the Dwarfs",
+        "zh": "洛基剪斷西芙的頭髮：與矮人的賭注"
+      },
+      "tradition": "norse",
+      "category": "myth-religion",
+      "region": {
+        "en": "Asgard - mythic Scandinavia (neutral marker, central Sweden)",
+        "zh": "阿斯加德——神話中的斯堪地那維亞（座標為瑞典中部的中性標記）"
+      },
+      "lat": 61.0,
+      "lon": 15.0,
+      "period": "Prose Edda c. 1220 CE; trans. Rasmus B. Anderson (1879)",
+      "source": {
+        "archive": "Project Gutenberg",
+        "work": "Snorri Sturluson, 'The Younger Edda' (Prose Edda), tr. Rasmus B. Anderson (1879), Skáldskaparmál: 'Loke's Wager with the Dwarfs', eBook #18947",
+        "url": "https://www.gutenberg.org/cache/epub/18947/pg18947.txt"
+      },
+      "license": "Public domain",
+      "summary": {
+        "en": "Loki's mischief and amends: after craftily cutting off Sif's hair, he saves himself from Thor's wrath by having dwarfs forge living hair of gold, the ship Skidbladnir, and Odin's spear. He then bets his head that Brok and Sindri can match those gifts, and though the fly-tormented Brok falters once, the boar Gullinbursti, the ring Draupnir, and the hammer Mjolnir are produced — with the hammer judged the best treasure.",
+        "zh": "洛基的惡作劇與補償：他偷剪西芙金髮，為免雷神之怒，讓矮人打造可生長的黃金髮、神船斯希布拉尼爾與奧丁長槍；又以自己的頭打賭布洛克兄弟的手藝，忍受化身蒼蠅的洛基干擾，鍛出黃金野豬、德羅普尼爾指環與雷神之鎚妙爾尼爾，眾神裁定鐵鎚為最上品。"
+      },
+      "motifs": [
+        "trickster",
+        "transformation"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Passages are condensed paraphrases of the Skáldskaparmál section 'Loke's Wager with the Dwarfs' as rendered in Anderson's 1879 public-domain translation, in the collector's own words. Classified as 'myth': mythological narrative from Snorri's thirteenth-century handbook of poetics, not a devotional text. Coordinates are a neutral inland-Scandinavia marker because Asgard is a mythic locus rather than a real place. The fly that torments Brok is identified as Loki in disguise, and the account closes on the gifts and the gods' judgment rather than on Loki's later punishment."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Loki, in a mean prank, craftily cut off all of Sif's hair. When Thor discovered it, he seized the trickster and would have broken every bone in his body; Loki saved himself by swearing an oath that the dark elves would forge for Sif golden hair that would grow like natural hair. He went to the dwarf brothers called Ivald's sons, who in their smithy made three treasures: the golden hair for Sif, which would grow as soon as it touched her head; the ship Skidbladnir, which always found a fair wind wherever its owner wished to sail and could be folded like a napkin and carried in a pocket; and Odin's spear Gungnir, which would never miss its mark."
+        },
+        {
+          "id": "2",
+          "text": "Loki then staked his own head with the dwarf Brok on a bet that Brok's brother Sindri could not forge three treasures equally fine. While Sindri worked the furnace, a fly — Loki in disguise — stung Brok, who worked the bellows: first his hand, then his neck, and at last between his eyes, where blood ran down and blurred his sight so that for a single instant he let go the bellows. From the forge came the golden-bristled boar Gullinbursti, which runs through air and sea and lights the darkest night; the ring Draupnir, which every ninth night drips eight new rings of equal weight; and the hammer Mjolnir, which never misses, always returns to the hand, and shrinks small enough to hide in one's bosom, its only flaw a rather short handle. The gods judged the hammer the best of all the treasures and the dwarf the winner of the wager."
+        }
+      ]
+    },
+    {
+      "id": "anansi-stories",
+      "title": {
+        "en": "Anansi Outwits Tiger: Tying Tiger and the Sheep-skin Suit",
+        "zh": "阿南西戲勝老虎：縛虎與羊皮套裝"
+      },
+      "tradition": "afroatlantic",
+      "category": "myth-religion",
+      "region": {
+        "en": "Jamaica - Mandeville and surrounding country districts",
+        "zh": "牙買加——曼德維爾及其周邊鄉村地區"
+      },
+      "lat": 18.19,
+      "lon": -77.5,
+      "period": "recorded 1919/1921 from Jamaican storytellers; published 1924 (Beckwith, Jamaica Anansi Stories)",
+      "source": {
+        "archive": "Internet Archive (public-domain full text)",
+        "work": "Martha Warren Beckwith, 'Jamaica Anansi Stories', Memoirs of the American Folk-Lore Society vol. XVII (1924) — 'Tying Tiger: The Fish-basket' and 'Tiger's Sheep-skin Suit' (both told by George Parkes of Mandeville)",
+        "url": "https://archive.org/stream/jamaicaanansisto00beck/jamaicaanansisto00beck_djvu.txt"
+      },
+      "license": "Public domain",
+      "summary": {
+        "en": "Jamaican spider stories taken down by Martha Warren Beckwith from named storytellers. Anansi repays Tiger for robbing his magically caught fish by tying the dozing bully to a tree with his own hair, leaving him to a hunter; and in a second tale he frames the same Tiger, dressed in a sheepskin suit, for the sheep thefts Anansi himself committed, winning the reward and the master's daughter.",
+        "zh": "貝克威思從牙買加說書人筆錄的蜘蛛故事：阿南西的魚獲被老虎強奪後，趁其打盹以長髮將其縛在樹上，任由獵人處置；另一則中他又把偷羊罪行設計到身穿羊皮套裝的老虎身上，老虎被定罪，阿南西贏得賞金與主人的女兒。"
+      },
+      "motifs": [
+        "trickster",
+        "culture-hero",
+        "spider-trickster",
+        "deceiver-deceived"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Passages are condensed paraphrases of Beckwith's transcribed tales 'Tying Tiger: The Fish-basket' and 'Tiger's Sheep-skin Suit' (both narrated by George Parkes of Mandeville), with the vernacular rendered into standard modern English in the collector's own words; no sentences are copied verbatim and no incidents are invented. Category 'myth' (folk narrative): Beckwith identifies Anansi as the culture hero of the Gold Coast remembered in Jamaican wake-night entertainment; these are social amusement tales, not restricted ceremonial or obeah material — the sorcery 'Old Stories' matter was avoided in favor of plain animal trickster tales. The remembered 'Anansi wins all the stories' theme is represented through the trickster-defeats-Tiger contests in this verified source. Coordinates mark Mandeville, Jamaica, where these variants were recorded."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "In a season of hunger, the spider Anansi went to the sea-shore with pot and basket, made a fire, and commanded the fish by magic — big fish come, little fish go, then the reverse — until pot and basket were full. He cooked and ate his fill, but on the road home he met the bully Tiger, who demanded the basket and ate every fish, spitting out the bones that Anansi humbly gnawed while murmuring about his wasted labor. Anansi began at once to scheme. Praising a wayside fruit tree, he coaxed Tiger beneath it, then offered to pick the lice from Tiger's long head-hair, and while Tiger dozed Anansi lashed the hair round the trunk, tying him fast like a hog. Anansi danced away singing of it, and a hunter who found the trapped Tiger killed him."
+        },
+        {
+          "id": "2",
+          "text": "Hired to mind Mr. Mighty's flock of two thousand sheep, Anansi stole them one by one until only a single animal remained. His master promised his best daughter and two hundred pounds to whoever could explain how the sheep were lost, and Anansi, who could fiddle, proposed a ball. He dressed his friend Tiger from cap to boots in a sheepskin suit, telling him that when the music sang 'Mister Mighty lost him sheep — it stands like a Tiger thief,' the song mocked some other Tiger from far country. Anansi then played the tune himself, denounced the sheepskin-clad musician as the very thief who had skinned the sheep to clothe himself, and Tiger, seized and convicted, drew ten years in prison, while Anansi collected the money and the daughter in marriage."
+        }
+      ]
+    },
+    {
+      "id": "tinguian-planting",
+      "title": {
+        "en": "How the Tinguian Learned to Plant",
+        "zh": "丁桂安人如何學會耕種"
+      },
+      "tradition": "philippine",
+      "category": "myth",
+      "region": {
+        "en": "Abra Province, northwestern Luzon, Philippines (Tinguian homeland)",
+        "zh": "菲律賓呂宋島西北部阿布拉省（丁桂安人故地）"
+      },
+      "lat": 17.4,
+      "lon": 120.75,
+      "period": "collected c. 1903-1908 among the Tinguian; published 1916 (Cole, Philippine Folk Tales)",
+      "source": {
+        "archive": "Project Gutenberg",
+        "work": "Mabel Cook Cole (comp.), 'Philippine Folk Tales', A.C. McClurg, 1916 — Group I (Tinguian): 'How the Tinguian Learned to Plant', eBook #12814",
+        "url": "https://www.gutenberg.org/cache/epub/12814/pg12814.txt"
+      },
+      "license": "Public domain",
+      "summary": {
+        "en": "A Tinguian origin story of agriculture and healing. The sky spirit Kaboniyan, sent by the Great Spirit Kadaklan, enters the ailing woman Dayapan as she bathes at a spring, gives her rice and sugar-cane, and teaches her planting, harvest, storage and the Sayung ceremony; because the dog then kills the ceremonial cock, some of the sick will die while others recover, and rice-planting passes from her to the people.",
+        "zh": "丁桂安人的農耕起源故事：天神卡達克蘭見族人飢病無醫，派使者卡博尼揚下凡，在病了七年的婦人達雅潘沐浴時進入她體內，賜予稻米與甘蔗，教導種植、收貯與Sayung治病儀式；因狗殺雞的徵兆，從此有人病癒有人死亡，耕種之法由達雅潘代代相傳。"
+      },
+      "motifs": [
+        "culture-hero",
+        "spirit-possession",
+        "parable-teaching"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Passages are condensed paraphrases of 'How the Tinguian Learned to Plant' as retold by Mabel Cook Cole in Philippine Folk Tales (1916), in the compiler's own words; nothing quoted verbatim and no elements added. Category 'myth' rather than 'religious': although the tale narrates the spirit-granted origin of the Sayung healing ceremony and rice-planting, it is a short folk etiological narrative as published for general readers; the rite is named and framed only, not described in operational detail, and no restricted ceremonial knowledge is reproduced. Coordinates mark the Abra river valley of northwestern Luzon, the Tinguian homeland, as a regional reference."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "In the very old times the Tinguian knew nothing of planting or harvest, gathering only wild forest foods and fish, and they had no way to cure sickness caused by the evil spirits, so many died who might have lived. Kadaklan, the Great Spirit who dwells in the sky, saw their hunger and sickness and sent his servant Kaboniyan down to teach them. In Caalang lived Dayapan, a woman who had been ill for seven years; bathing one day at the spring, she felt a spirit enter her body, bringing rice and sugar-cane. He told her to plant them, to reap and store the rice in a granary, to press the cane, and to hold the ceremony called Sayung, promising she would be well; and entering her again as she planted, the spirit showed her exactly what to do."
+        },
+        {
+          "id": "2",
+          "text": "When Dayapan had reaped the first rice and cane, she made the Sayung ceremony as the spirit directed, and when it was finished and her sickness gone, he told her to bathe in the river, tying a dog and a cock near the water as a sign that the rite was complete. While she bathed, the dog killed and ate the cock. Dayapan wept until Kaboniyan came and explained the omen: had the cock lived, no person would die when the ceremony was made, but now some of the sick would recover and some would die. She called the people together and taught them everything the spirit had shown her; seeing that she was healed, they believed, and ever since the Tinguian have planted rice and cane each year, while Dayapan treated the sick as she had been taught."
+        }
+      ]
+    },
+    {
+      "id": "ravens-speak",
+      "title": {
+        "en": "When the Ravens Could Speak (with The Raven and the Goose)",
+        "zh": "當渡鴉還會說話時（附：渡鴉與鵝）"
+      },
+      "tradition": "inuit",
+      "category": "myth",
+      "region": {
+        "en": "South-East Greenland (Angmagssalik/Ammassalik district)",
+        "zh": "格陵蘭東南部（昂馬沙利克地區）"
+      },
+      "lat": 65.61,
+      "lon": -37.64,
+      "period": "collected by Knud Rasmussen; published 1921 (Gyldendal), English by W. J. A. Worster",
+      "source": {
+        "archive": "Project Gutenberg",
+        "work": "Knud Rasmussen (ed.), 'Eskimo Folk-Tales', rendered into English by W. J. Alexander Worster, Gyldendal, 1921 — 'When the Ravens could speak' and 'The Raven and the Goose' (South-East Greenland tales; eBook #28932)",
+        "url": "https://www.gutenberg.org/cache/epub/28932/pg28932.txt"
+      },
+      "license": "Public domain",
+      "summary": {
+        "en": "Two very short Greenlandic pourquoi tales from Rasmussen's collection. Ravens once could talk, but always said the opposite of what they meant, until an old man magically took their speech away, leaving only shrieking; in the companion tale the raven's rude impatience while being painted by the goose leaves it black all over.",
+        "zh": "兩則格陵蘭短篇起源故事：渡鴉曾能說話，總是口是心非，被怒老人設法收回說話之能，從此只會嘶啞啼叫；姊妹篇中，渡鴉嫌棄鵝為其鳥羽畫上的花紋，激怒的鵝索性將其潑成一身黑，這便是渡鴉烏黑羽毛的由來。"
+      },
+      "motifs": [
+        "transformation",
+        "parable-teaching"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Passages are condensed paraphrases of two short tales from Knud Rasmussen's Eskimo Folk-Tales (1921), rendered into English by W. J. A. Worster, in the collector's own words. Because 'When the Ravens could speak' is only a few lines long, a second passage is drawn, as permitted, from the same verified public-domain book ('The Raven and the Goose', same source region); the book's notes place both tales among the South-East Greenland stories. Category 'myth' (folk narrative): brief etiological entertainments of the winter story-telling repertoire, not ceremonial or shamanic material. Coordinates mark the Angmagssalik (Ammassalik) district of East Greenland, the named source region."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Once, long ago, the ravens could talk — but their words carried the opposite of their meaning. Whenever they wished to thank someone, they spoke abuse, so that everything they said was the reverse of what they meant, a whole speech of lies. One day, the story goes, an old man came and, by magical means, took their power of speech away altogether, and since that time ravens can do nothing but shriek. Yet their nature was not changed along with their language: the storyteller adds that ravens remain to this day an ill-tempered, lying, thieving lot of birds."
+        },
+        {
+          "id": "2",
+          "text": "A second short tale explains the raven's color. In the days when all the birds were receiving their colours and the patterns of their coats, the raven and the goose met and agreed to paint one another. The raven went first, giving the goose a fine black coat with a pleasing white pattern showing between, and the goose found it very beautiful. But when the goose began painting the raven a coat exactly like its own, the raven fell into a rage, declaring the pattern frightfully ugly; and the goose, offended by all this fuss, simply splashed the raven black all over. That, says the teller, is why the raven is so dull and black in colour."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,487 @@
+{
+  "texts": [
+    {
+      "id": "chinese-chuci-tianwen",
+      "title": {
+        "en": "The Heaven Questions: A Catalog of Cosmic Riddles",
+        "zh": "天問"
+      },
+      "tradition": "chinese",
+      "category": "myth",
+      "region": {
+        "en": "The exiled poet's river country, south of the Yangzi (Chu, modern Hubei–Hunan)",
+        "zh": "楚地江湘（湖北湖南）"
+      },
+      "lat": 30.4,
+      "lon": 111.0,
+      "period": "Chu Ci, Tianwen, attributed Qu Yuan, 3rd c. BCE",
+      "source": {
+        "archive": "Wikisource (zh)",
+        "work": "Chu Ci (Songs of Chu), Tianwen: the question-catalog of origins, gods and dynastic history",
+        "url": "https://zh.wikisource.org/wiki/%E6%A5%9A%E8%BE%AD"
+      },
+      "license": "Public domain (Classical Chinese text; passages are compiler's renderings)",
+      "summary": {
+        "en": "An exile, blackened by slander, wrote on the walls of a temple the questions no one could answer: before heaven and earth divided, what could be examined? Who paced the unstrolling darkness? Who made the suns and set the stars? Why did Gun die by the knife and Yu live? Where did the black bird carry its egg? — one hundred and seventy questions hurled at heaven, preserving for the mythic corpus the oldest catalog of Chinese cosmogonic, divine and heroic lore.",
+        "zh": "屈原放逐，彷徨山澤，仰天歎息——見楚先王廟及公卿祠堂圖畫，呵而問之，遂作天問：遂古之初，誰傳道之？上下未形，何由考之？——一百七十餘問，貫穿開闢、神話、天象與興亡。"
+      },
+      "motifs": [
+        "oracle-divination",
+        "creation-chaos",
+        "quest-immortality"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Passages are the compiler's condensed paraphrases of the Chu Ci original. The Tianwen is the mythic corpus's master-index: nearly every pre-Han myth (Gun, Yi, the ten suns, Gun's transformation) is preserved here in question-form."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "At the very first of things, who told of it, who could measure it? Before the upper and the lower had taken shape, how could any examine them? Darkness and light went dark and bright, and who paced out their order? The spheres of heaven were wound and woven — who marked their crossing? What joined the cords of the nine heavens, and where are the steep-places of their borders?",
+          "note": "Paraphrase of Chu Ci, Tianwen, opening questions (compiler's rendering); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Who has numbered the hours of day and night? The brightness of the moon — what is it that dies in it and is born in it? The woman-queen and the she-goat, where do they gain their flavor? Where did Gun steal the living soil and try the dam? Why was he shut in the crag and cut open to the west? How, changed to a yellow bear, could he live on in the abyss?",
+          "note": "Paraphrase of Chu Ci, Tianwen, Gun questions; not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "Yi the archer, how did he shoot the suns, and why did the crows' plumage fall? Where did he win the elixir, and why could he not keep it? The dark bird that brought the mandate of Shang — why did it favor that house? And the emperors of the five rises and falls — where did their ten thousand years of mandate go? Heaven does not answer the poet, says the tradition; but the questions themselves are the inventory of the myth.",
+          "note": "Paraphrase of Chu Ci, Tianwen, Yi and dynastic questions; not verbatim."
+        }
+      ],
+      "persons": [
+        "gun",
+        "houyi"
+      ],
+      "language": "Classical Chinese",
+      "canonical_translation": "Compiler's English rendering from the public-domain original; consulted (copyright, summary only): David Hawkes, The Songs of the South, 1985",
+      "narrative": {
+        "en": "The Tianwen is not a narrative but a machine for generating one: one hundred and seventy questions strung in verse, asked of heaven about the origin of the cosmos, the acts of gods and heroes, and the rises and falls of dynasties. Tradition says the exiled Qu Yuan, wandering past the temples of Chu with their painted walls of gods and kings, interrogated the paintings question by question; the modern reader finds instead a survey of the mythic corpus in its most archaic stratigraphy.\n\nSTRUCTURE. The poem moves from cosmogony (what was before heaven and earth? who measured the darkness?) through cosmology (the suns, the moon's death and rebirth, the rain and the wind) into divine history (Gun and Yu, the flood and the living soil, Gun's transformation into the yellow bear; Yi and his sun-shooting and elixir; the black bird's gift to Shang) and ends in dynastic chronicle (the violent successions of Shang and Zhou, framed as questions about mandate and justice).\n\nSIGNIFICANCE FOR THE CORPUS. Because the Tianwen asks rather than tells, it preserves myth-fragments no prose source records: the yellow-bear transformation of Gun, the sun-birds dropping their plumage, the marriage customs of the gods, the perverse fates of dynastic founders. The Han commentators (Wang Yi onward) built the tradition's mythology largely by answering the Tianwen — so this question-catalog stands at the root of Chinese mythography.\n\nFUNCTION. As a ritual-poetic act, the Tianwen is itself a kind of oracle: the poet's questions, hurled at a silent heaven, dramatize the exile's quarrel with the mandate — if heaven orders all, why does the worthy perish? In cross-tradition terms it belongs with the catechism-forms of other cosmologies: the Zoroastrian questions, the Popol Vuh's dialogic divination, the Chinese tradition's own Book of Changes. Its uniqueness is the temper: irreverent, learned, and grieving at once. The poem's final movement turns from gods to kings: the violent successions of Shang and Zhou, the crowing of the white chicken, the oath at Meng Ford — history itself interrogated with the same breathless meter as the origin of the stars. For the mythic corpus this is invaluable: the Tianwen preserves myth-fragments in their most archaic stratigraphy — Gun's transformation into the yellow bear, the sun-birds dropping their plumage under Yi's arrows, the black bird's egg, the marriages of the gods — that no prose source records. The Han commentators, beginning with Wang Yi, built the tradition's mythology largely by answering the Tianwen, so this question-catalog stands at the root of Chinese mythography. As a ritual-poetic act it is itself a kind of oracle: the poet's questions, hurled at a silent heaven, dramatize the exile's quarrel with the mandate — if heaven orders all things, why does the worthy perish and the tyrant reign? In cross-tradition terms it belongs with the interrogative catechisms of other cosmologies, the dialogic divination of the Popol Vuh, and the Chinese tradition's own Book of Changes; its uniqueness is the temper — irreverent, learned, and grieving at once.",
+        "zh": "《天問》非敘事而為生成敘事之機器：百七十問貫穿宇宙起源、神話英雄與王朝興替。舊說屈原呵壁問天；實則為神話母體最古老之地層——鯀化黃熊、羿射日、玄鳥貽喜皆賴此篇而存。漢儒注疏多由答天問而建構神話學。功能：以問代占，流放者與天命之爭執；與瑣羅亞斯德問句、《波波爾烏》對話式占問同型，而其獨特處在憤懣與博學兼備。"
+      },
+      "functions": [
+        "Master-index of pre-Han myth in question-form (preserving otherwise-lost fragments)",
+        "Ritual-poetic interrogation of heaven: oracle as accusation",
+        "Charter of the exile's theology: worthiness against mandate",
+        "Foundation text of Chinese mythography (Han commentators answered it)"
+      ],
+      "variants": [
+        {
+          "name": "Han commentary tradition (Wang Yi)",
+          "text_tradition": "Chu Ci zhangju commentary, 2nd c. CE",
+          "summary": "Wang Yi's answers systematize the mythology behind the questions — the Tianwen as the key by which the mythic corpus was reconstructed.",
+          "cross_ref": "none"
+        },
+        {
+          "name": "Temple-wall pictures tradition",
+          "text_tradition": "Wang Yi's preface account",
+          "summary": "The poem as written commentary on the painted walls of the Chu ancestral temples — myth as gallery walk.",
+          "cross_ref": "none"
+        }
+      ],
+      "primary_sources": [
+        {
+          "work": "Chu Ci, Tianwen",
+          "citation": "Attributed Qu Yuan, 3rd c. BCE; Han recension in Wang Yi's Chu Ci zhangju. Classical Chinese via Wikisource.",
+          "language": "Classical Chinese"
+        }
+      ],
+      "secondary_sources": [
+        {
+          "work": "David Hawkes, The Songs of the South",
+          "citation": "Hawkes 1985, Harmondsworth: Penguin — annotated translation of the Chu Ci."
+        },
+        {
+          "work": "Sarah Allan, The Shape of the Turtle",
+          "citation": "Allan 1991, Albany: SUNY Press — the Tianwen's mythic stratigraphy."
+        }
+      ],
+      "source_urls": [
+        {
+          "url": "https://zh.wikisource.org/wiki/%E6%A5%9A%E8%BE%AD",
+          "description": "Wikisource (zh) — Chu Ci, public-domain Classical Chinese text",
+          "accessed": "2026-11-13"
+        }
+      ],
+      "sensitivity_flag": "none",
+      "provenance": {
+        "record_status": "complete",
+        "compiled": "2026-11-13",
+        "compiled_by": "DHG508 fieldwork compilation",
+        "review_status": "draft - pending human review"
+      }
+    },
+    {
+      "id": "chinese-chuci-xiang-lords",
+      "title": {
+        "en": "The Lords of the Xiang: Hymns of the River Gods",
+        "zh": "九歌湘君湘夫人"
+      },
+      "tradition": "chinese",
+      "category": "myth",
+      "region": {
+        "en": "The Xiang River, Dongting (Hunan)",
+        "zh": "湘水洞庭"
+      },
+      "lat": 28.8,
+      "lon": 112.5,
+      "period": "Chu Ci, Jiu Ge (Nine Songs), 4th-3rd c. BCE (ritual hymns of Chu)",
+      "source": {
+        "archive": "Wikisource (zh)",
+        "work": "Chu Ci, Jiu Ge: Xiang Jun and Xiang Furen, the paired hymns of waiting and the river gods",
+        "url": "https://zh.wikisource.org/wiki/%E6%A5%9A%E8%BE%AD"
+      },
+      "license": "Public domain (Classical Chinese text; passages are compiler's renderings)",
+      "summary": {
+        "en": "Two hymns of the Chu river-rites: in one, the shaman-king awaits the Lord of the Xiang at the north ford — lavishly rides, breaks the ice of the river, and at dusk leaves the jade trinkets by the water; in the other, the consort waits on the isle of the north, gathers lotus for a gift that will never be received, and throws her girdle and sash into the river in token of a love the gods answer in their own season.",
+        "zh": "湘君：君不行兮夷猶……捐玦遺佩兮遺浦；湘夫人：帝子降兮北渚，目眇眇兮愁予……捐餘袂兮江中，遺餘褋兮澧浦——迎神不至，待之彌篤。"
+      },
+      "motifs": [
+        "divine-marriage",
+        "sacred-place",
+        "theophany"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Passages are the compiler's condensed paraphrases of the Chu Ci original. Ritual hymns of the Chu shamanic cult, sung by priestesses for the river-gods; the two consorts are linked by later lore to Yao's daughters (chinese-shun-cangwu-xiangfei)."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The Lord of the Xiang does not come, and still he does not delay: the priestess on the north ford, her eyes misted with longing, chants of the beautiful one under the leaves of the autumn waves. She has washed the cups in the orchid water and paved the hall with pepper-herbs for the god's arrival.",
+          "note": "Paraphrase of Chu Ci, Jiu Ge: Xiang Jun (compiler's rendering); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "She flies the river in a boat of sandalwood with flags of orchid; she plucks the lotus of the far bank, sees her tears on the bamboo of the isle, and at dusk — the god not come — throws her jade ring into the river and her girdle into the far shore-bank, tokens of a meeting set for another season.",
+          "note": "Paraphrase of Chu Ci, Jiu Ge: Xiang Jun (compiler's rendering); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "In the answering hymn, the consort on the isle of the north waits with the same ritual of longing, gathers the duckweed for a gift, builds her dream-chamber of lotus and orchid and stone — and throws her sleeve into the river in token, for the Lord of the Xiang will come, says the hymn, though not when the priestess calls.",
+          "note": "Paraphrase of Chu Ci, Jiu Ge: Xiang Furen (compiler's rendering); not verbatim."
+        }
+      ],
+      "persons": []
+    },
+    {
+      "id": "chinese-chuci-simings",
+      "title": {
+        "en": "The Great and Lesser Masters of Fate",
+        "zh": "九歌大司命少司命"
+      },
+      "tradition": "chinese",
+      "category": "myth",
+      "region": {
+        "en": "The altars of Chu, south of the Yangzi",
+        "zh": "楚地祭壇"
+      },
+      "lat": 30.0,
+      "lon": 111.5,
+      "period": "Chu Ci, Jiu Ge, 4th-3rd c. BCE",
+      "source": {
+        "archive": "Wikisource (zh)",
+        "work": "Chu Ci, Jiu Ge: Da Siming and Shao Siming, the hymns to the masters of destiny",
+        "url": "https://zh.wikisource.org/wiki/%E6%A5%9A%E8%BE%AD"
+      },
+      "license": "Public domain (Classical Chinese text; passages are compiler's renderings)",
+      "summary": {
+        "en": "The Great Master of Fate descends through the nine heavens on the whirling wind and rain, master of mortal lifespans, whom no ritual can sway; the Lesser Master, god of birth and child-life, comes with the orchid of the autumn orchard, greets the assembled shamanesses, and leaves — and the singers ask of both the same question: why does the god of fate never let go what he has grasped, and why must the one he favors depart?",
+        "zh": "大司命：乘清氣兮御陰陽，君迴翔兮以下……固人命兮有當，孰離合兮可為；少司命：秋蘭兮麋蕪，羅生兮堂下……滿堂兮美人，忽獨與余兮目成——悲莫悲兮生別離。"
+      },
+      "motifs": [
+        "oracle-divination",
+        "theophany",
+        "taboo-transgression"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Passages are the compiler's condensed paraphrases of the Chu Ci original."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The Great Master of Fate comes down from the nine heavens riding the clear breath, commanding the yin and the yang; his coming is the whirl of wind and the wash of rain, and the priestess who awaits him knows that in his hands are the spans of all mortal lives — and that no rite can lengthen them.",
+          "note": "Paraphrase of Chu Ci, Jiu Ge: Da Siming (compiler's rendering); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "The Lesser Master of Fate comes down through the orchid-thick autumn air, attended by the green plants of birth; the hall of beautiful shamanesses greets him, and for one singer alone his glance kindles — and the hymn's lament is the farewell of that glance: 'Sorrow beyond all sorrow is the parting of the living.'",
+          "note": "Paraphrase of Chu Ci, Jiu Ge: Shao Siming (compiler's rendering); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "Of both masters the singers ask the same hard question: who can alter the fate a god has gripped? The hymns end in submission — the god of lifespans is worshipped, not bargained with — and in the Chu ritual year the two masters are honored as the bounds of birth and death.",
+          "note": "Paraphrase of Chu Ci, Jiu Ge, conclusion of the two Siming hymns; not verbatim."
+        }
+      ],
+      "persons": []
+    },
+    {
+      "id": "chinese-chuci-shan-gui",
+      "title": {
+        "en": "The Mountain Spirit: A Wildcat Cart and Red Leopard Team",
+        "zh": "九歌山鬼"
+      },
+      "tradition": "chinese",
+      "category": "myth",
+      "region": {
+        "en": "The deep mountains of Chu (Hubei–Hunan highlands)",
+        "zh": "楚地深山"
+      },
+      "lat": 31.0,
+      "lon": 110.5,
+      "period": "Chu Ci, Jiu Ge, 4th-3rd c. BCE",
+      "source": {
+        "archive": "Wikisource (zh)",
+        "work": "Chu Ci, Jiu Ge: Shan Gui, the mountain spirit's vigil with wine and herbs",
+        "url": "https://zh.wikisource.org/wiki/%E6%A5%9A%E8%BE%AD"
+      },
+      "license": "Public domain (Classical Chinese text; passages are compiler's renderings)",
+      "summary": {
+        "en": "A mountain spirit — girt with ivy, girdled with fragrant herb, riding a wildcat cart drawn by red leopards — waits in the bamboo darkness for the one she loves, mixing cassia wine and roasting herbs. She comes to the high places of the mountain; clouds gather below her, the rain darkens, the wind sighs and the trees rustle — and the one she waits for does not come: 'You thought of me, and did not come,' she sings into the storm.",
+        "zh": "若有人兮山之阿，被薜荔兮帶女蘿……乘赤豹兮從文狸，辛夷車兮結桂旗；留靈修兮憺忘歸——風颯颯兮木蕭蕭，思公子兮徒離憂。"
+      },
+      "motifs": [
+        "theophany",
+        "divine-marriage",
+        "sacred-place"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Passages are the compiler's condensed paraphrases of the Chu Ci original."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "There is someone in the fold of the mountain, girt with ivy and girdled with the fragrant herb, whose smile, when she smiles, is lovely — and who waits, they say, for one she loves.",
+          "note": "Paraphrase of Chu Ci, Jiu Ge: Shan Gui (compiler's rendering); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "She rides a cart of the magnolia flower hung with banners of cassia, drawn by a red leopard and followed by the striped wildcat; she gathers the flower of the mountain and the vine of the rocks, and says she will meet her beloved in the deep of the trees where no one goes.",
+          "note": "Paraphrase of Chu Ci, Jiu Ge: Shan Gui (compiler's rendering); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "She stays and stays, forgetting to go home, mixing wine of cassia and herb-broths for the guest who does not come; the clouds rise beneath her from the valley, the rain darkens the mountain, the wind sighs in the trees and the monkeys cry — and the mountain spirit's song ends in the storm: you thought of me, and did not come.",
+          "note": "Paraphrase of Chu Ci, Jiu Ge: Shan Gui (compiler's rendering); not verbatim."
+        }
+      ],
+      "persons": []
+    },
+    {
+      "id": "chinese-chuci-dong-jun",
+      "title": {
+        "en": "The East Lord: Hymn to the Sun God",
+        "zh": "九歌東君"
+      },
+      "tradition": "chinese",
+      "category": "myth",
+      "region": {
+        "en": "The dawn gates of the east, Chu rite (symbolic pin: eastern Chu)",
+        "zh": "東方日出之門（楚祭）"
+      },
+      "lat": 31.5,
+      "lon": 115.0,
+      "period": "Chu Ci, Jiu Ge, 4th-3rd c. BCE",
+      "source": {
+        "archive": "Wikisource (zh)",
+        "work": "Chu Ci, Jiu Ge: Dong Jun, the hymn of the rising and setting sun",
+        "url": "https://zh.wikisource.org/wiki/%E6%A5%9A%E8%BE%AD"
+      },
+      "license": "Public domain (Classical Chinese text; passages are compiler's renderings)",
+      "summary": {
+        "en": "The East Lord, the sun, comes out warm from the hedge of the eastern gate; he bathes his horses at the pool of the dawn and lashes his chariot up the evening sky, and in between he feasts with the priestesses: they strike the drums, ring the bells, play the reed-pipes and sing, until the sun's rank fills the hall — and the god, in his own voice, says he will take the long bow to shoot the wolf of the sky and take the northern star for his cup, and go home to help the wine.",
+        "zh": "東君：暾將出兮東方，照吾檻兮扶桑；撫余馬兮安驅，夜皎皎兮既明；羌聲色兮娛人，觀者憺兮忘歸；青雲衣兮白霓裳，舉長矢兮射天狼——操余弧兮反淪降，援北斗兮酌桂漿。"
+      },
+      "motifs": [
+        "sun-capture",
+        "theophany",
+        "storm-thunder"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Passages are the compiler's condensed paraphrases of the Chu Ci original. Tagging caveat: 'sun-capture' marks the archer's shooting of the sky-wolf star; the East Lord is a sun-god, not a sun-thief."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Warmth comes from the east: the East Lord rises out of the eastern gate and lights the rail of the hall; he strokes his horses to a gentle pace and the night, clear and bright, turns to day.",
+          "note": "Paraphrase of Chu Ci, Jiu Ge: Dong Jun (compiler's rendering); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "In the hall of the rite the drummers drum, the bell-chimes ring and the reed-pipes answer; the singers sing of the god's countenance, and the watching crowd, delighted, forget to go home — for the sun has come to his feast.",
+          "note": "Paraphrase of Chu Ci, Jiu Ge: Dong Jun (compiler's rendering); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "The god speaks: clothed in the blue clouds and the white rainbows, he draws the long bow to shoot the wolf-star of the sky, and takes the Northern Dipper for a ladle to pour the cassia wine — then loosens his reins and sinks westward, helping the rite's last cup as he goes down.",
+          "note": "Paraphrase of Chu Ci, Jiu Ge: Dong Jun (compiler's rendering); not verbatim."
+        }
+      ],
+      "persons": []
+    },
+    {
+      "id": "chinese-chuci-guoshang",
+      "title": {
+        "en": "Hymn to the Fallen of the War: Guo Shang",
+        "zh": "九歌國殤"
+      },
+      "tradition": "chinese",
+      "category": "myth",
+      "region": {
+        "en": "The battlefields of the Chu wars (Hubei frontier)",
+        "zh": "楚疆戰場"
+      },
+      "lat": 31.0,
+      "lon": 112.0,
+      "period": "Chu Ci, Jiu Ge, 4th-3rd c. BCE",
+      "source": {
+        "archive": "Wikisource (zh)",
+        "work": "Chu Ci, Jiu Ge: Guo Shang, the hymn for the war dead of Chu",
+        "url": "https://zh.wikisource.org/wiki/%E6%A5%9A%E8%BE%AD"
+      },
+      "license": "Public domain (Classical Chinese text; passages are compiler's renderings)",
+      "summary": {
+        "en": "The one hymn of the Nine Songs for human dead: chariots crosswise, drums of cloud, the swords of Wu and the hides of rhinoceros, the armies of Chu mingling with the enemy until the sun is darkened — the officers dead, the line broken, yet the men did not yield. 'Truly valiant and the strongest of all,' sings the ritual, 'strong beyond the strength of any land; the body dead, the spirit deathless — spirits of the fallen, you are the lords of ghosts.'",
+        "zh": "旌蔽日兮敵若雲，矢交墜兮士爭先；誠既勇兮又以武，終剛強兮不可凌；身既死兮神以靈，子魂魄兮為鬼雄——國殤之祭。"
+      },
+      "motifs": [
+        "resurrection",
+        "sacred-kingship"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Passages are the compiler's condensed paraphrases of the Chu Ci original. The war dead are apotheosized as ghost-lords (gui xiong) — the hymn is the ritual charter of ancestor-military cult."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Gripping the spear of rhinoceros-hide and clasping the drum of the chariots, the men of Chu went up in the dust of battle; the sky was darkened by their banners, the enemy dense as cloud, arrows falling crossing and crossing.",
+          "note": "Paraphrase of Chu Ci, Jiu Ge: Guo Shang (compiler's rendering); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "The enemy pressed in, trampling the line; the left chariot died, the right was wounded; the two wheels buried in mud, four horses entangled, the general still struck the drum. Heaven was dark and the might of the gods angry — and the men were killed, all of them, and the field was abandoned to the fallen.",
+          "note": "Paraphrase of Chu Ci, Jiu Ge: Guo Shang (compiler's rendering); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "The hymn that remains is not of defeat: 'Truly brave and truly strong, unbending to the end; the body dead, the spirit deathless — your souls are lords among ghosts.' The ritual gave the war dead of Chu a standing in the unseen world: not wanderers, but powers.",
+          "note": "Paraphrase of Chu Ci, Jiu Ge: Guo Shang (compiler's rendering); not verbatim."
+        }
+      ],
+      "persons": []
+    },
+    {
+      "id": "chinese-chuci-zhaohun",
+      "title": {
+        "en": "The Summons of the Soul: A Tour of the Four Quarters and the Underworld",
+        "zh": "招魂"
+      },
+      "tradition": "chinese",
+      "category": "myth",
+      "region": {
+        "en": "The Chu court and the four quarters (ritual geography)",
+        "zh": "楚廷與四方"
+      },
+      "lat": 30.4,
+      "lon": 111.0,
+      "period": "Chu Ci, Zhaohun, attributed Qu Yuan or Song Yu, 3rd c. BCE",
+      "source": {
+        "archive": "Wikisource (zh)",
+        "work": "Chu Ci, Zhaohun: the soul's four-quarters tour, the offerings of the summoning rite, and the return to the halls of Ying",
+        "url": "https://zh.wikisource.org/wiki/%E6%A5%9A%E8%BE%AD"
+      },
+      "license": "Public domain (Classical Chinese text; passages are compiler's renderings)",
+      "summary": {
+        "en": "A soul has left the body and wanders; the summoner — the shaman in the rite — calls it home by naming the perils of every direction: east has giants who feed on souls, south has men-eating snakes and nine-headed serpents, west has the quicksands of the red ants and the land of one-eyed things, north has the frozen mountains and the sky that swallows, and below is the underworld where the tiger's head steers the bull — 'your soul, come back!' — and only the halls of home are safe, with their foods, their music and their beds.",
+        "zh": "魂兮歸來！東方不可以託兮……南方不可以止兮，蝮蛇蓁蓁、封狐千里；西方之害，流沙千里；北方不可以止兮，增冰峨峨；魂兮歸來！君無下此幽都些——土伯九約，其角觜觜些——入修門些，歸來歸來！"
+      },
+      "motifs": [
+        "descent-underworld",
+        "world-serpent",
+        "transformation"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Passages are the compiler's condensed paraphrases of the Chu Ci original. The underworld tour of the summoning rite is the earliest full geography of the Chinese otherworld; the Tubo earth-master (tiger-horned warden of the dark capital) is the earliest Chinese hell-warden."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The summoner cries to the wandering soul: do not go east, where giants ten-thousand-feet tall seek souls to devour, with ten suns blazing in company; do not go south, where the vipers mass and the great foxes run for a thousand li, and the nine-headed serpent swallows men whole; do not go west, where the moving sands swallow, and the one-eyed folk, and the red ants as big as elephants.",
+          "note": "Paraphrase of Chu Ci, Zhaohun, the four-quarters tour (compiler's rendering); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Do not go north, where the piled ice gleams over snow and a hundred li of it; do not go up to heaven, where the tiger-leopards guard the gates and the nine-headed men shake the nine-fringed trees; and do not go down, for below is the dark capital, where Tubo, the earth-master, sits coiled with nine joints, his horns like a tiger's claws, his back bloody, chasing men with swift hands.",
+          "note": "Paraphrase of Chu Ci, Zhaohun, the underworld passage; not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "The soul is called home through all four quarters and the three worlds: to the gates of Ying, the halls and the antechambers, the winter-courtyard and the summer-hall, the foods of the feast and the wine of the court — 'return, return, for the old places are what they were.' The rite ends with the feast of the living offered for the return of the dead.",
+          "note": "Paraphrase of Chu Ci, Zhaohun, the homeward summons; not verbatim."
+        }
+      ],
+      "persons": []
+    },
+    {
+      "id": "chinese-chuci-lisao-ascension",
+      "title": {
+        "en": "Li Sao: The Poet's Flight Through the Gate of Heaven",
+        "zh": "離騷"
+      },
+      "tradition": "chinese",
+      "category": "myth",
+      "region": {
+        "en": "The river-lands of Chu and the gates of heaven (symbolic pin: the mythic route of the flight)",
+        "zh": "楚地至天門（象徵性定位）"
+      },
+      "lat": 30.0,
+      "lon": 110.0,
+      "period": "Chu Ci, Li Sao, attributed Qu Yuan, 3rd c. BCE",
+      "source": {
+        "archive": "Wikisource (zh)",
+        "work": "Chu Ci, Li Sao: the celestial flight of the poet, the matchmaking of the gods, and the fall back to the horse's tears",
+        "url": "https://zh.wikisource.org/wiki/%E6%A5%9A%E8%BE%AD"
+      },
+      "license": "Public domain (Classical Chinese text; passages are compiler's renderings)",
+      "summary": {
+        "en": "The poet, slandered and rejected, turns his chariot through the gates of heaven in a flight of ascension: the dragons of yu and egrets draw his carriage, Fenglong the thunder-god acts as matchmaker to Fu Fei of the Ji river, the court of heaven is sought and found closed; he passes the gates of spring, the gardens of the deva, and the gardens of Kunlun — and at the last, mounted into the sky with his dragon-team, he looks down at his old home and sees his groom and his horse weeping for him, and will go no farther.",
+        "zh": "吾令豐隆乘雲兮，求宓妃之所在；吾令帝閽開關兮，倚閶闔而望予；朝發軔於蒼梧兮，夕余至乎縣圃；陟升皇之赫戲兮，忽臨睨夫舊鄉——僕夫悲余馬懷兮，蜷局顧而不行。"
+      },
+      "motifs": [
+        "ascension",
+        "divine-marriage",
+        "taboo-transgression"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Passages are the compiler's condensed paraphrases of the Chu Ci original."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The poet, rejected by the court and slandered by the crowd, dresses himself in orchid and solomon's-seal and mounts the whirlwind on a team of jade-dragons and phoenix-birds: he starts at dawn from the park of Cangwu and by evening reaches the hanging gardens of the sky.",
+          "note": "Paraphrase of Chu Ci, Li Sao, the flight (compiler's rendering); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "He bids the thunder-lord Fenglong ride the clouds to seek Fu Fei of the Ji river as a bride, and the match fails of the goddess's temper; he comes to the gate of heaven and calls the gate-keeper, who leans on the Door of the Vast Sky and looks at him but does not open — and the poet, shut out of heaven as out of court, turns to the gardens below.",
+          "note": "Paraphrase of Chu Ci, Li Sao, matchmaking and gates; not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "At last, mounted high into the blaze of the rising sun, he looks down and sees the old country — and the groom grieves and the horse bends its head and refuses to move. The flight of Li Sao ends not in heaven but in the tears of a horse at the edge of home: the poet cannot ascend, because the land he served still pulls his heart.",
+          "note": "Paraphrase of Chu Ci, Li Sao, the close; not verbatim."
+        }
+      ],
+      "persons": []
+    }
+  ]
+}

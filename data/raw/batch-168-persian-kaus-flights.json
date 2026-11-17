@@ -1,0 +1,152 @@
+{
+  "_comment": "Shahnama of Firdausi, trans. A. G. & E. Warner (1905), vol. II: Hamavaran captivity, rescue by Rustam, eagle-throne flight. Paraphrase passages with notes.",
+  "texts": [
+    {
+      "id": "persian-kaus-hamavaran-captive",
+      "title": {
+        "en": "Kaus Weds Sudaba and Loses His Freedom",
+        "zh": "卡烏斯娶蘇達貝而失自由"
+      },
+      "tradition": "persian",
+      "category": "myth",
+      "region": {
+        "en": "Hamavaran (symbolic pin)",
+        "zh": "哈馬瓦蘭（象徵性定位）"
+      },
+      "lat": 34.5,
+      "lon": 45.0,
+      "period": "Composed c. 1010 CE (Warner translation 1905)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Firdausi, Shahnama, trans. A. G. & E. Warner (1905), vol. II, Kai Kaus Part II secs. 1-4",
+        "url": "https://archive.org/details/shahnama02firduoft"
+      },
+      "license": "Public domain (translation 1905)",
+      "summary": {
+        "en": "Flushed with his Mazandaran triumph, Kai Kaus marches on Hamavaran, demands the king's daughter Sudaba in marriage, and is made prisoner with all his host by the crafty king. The news reaches Zabul, and Afrasiyab, scenting Iran leaderless, invades the land. In the Zamyad Yasht this is the moment when Afrasiyab is recorded to have seized at last the kingly Glory which Zahhak himself sought in vain.",
+        "zh": "馬贊德蘭大捷後，卡烏斯揮師哈馬瓦蘭，索娶國王之女蘇達貝，卻中奸計連同全軍被擒。消息傳到扎布勒；阿弗拉西亞卜趁伊朗無主而入侵。《扎姆亞德頌》記載：此時阿弗拉西亞卜終於奪得連扎哈克都求而不得的王權光榮。"
+      },
+      "motifs": ["divine-marriage", "sacred-kingship", "taboo-transgression"],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Epic literary source. Cross-ref: Zamyad Yasht's account of Frangrasyan seizing the xvarənah (glory); cf. persian-rustam-course-lion context. No living community restriction."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "How Kai Kaus warred with the King of Hamavaran: the Shah, flushed with victory over Mazandaran, heard that the king of Hamavaran had a daughter named Sudaba, fairer than sun or moon. He demanded her to wife, and the wily king used the occasion to entrap him.",
+          "note": "Paraphrase of Firdausi, Shahnama, Kai Kaus Part II secs. 1-2 (Warner 1905); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "When the Shah was within his reach the king of Hamavaran made Kaus prisoner with his host, and the throne of Iran stood empty of its master. News came to Zabul, and Afrasiyab, hearing that Iran was Shahless and its army leaderless, invaded the land.",
+          "note": "Paraphrase of Firdausi, Shahnama, Kai Kaus Part II secs. 3-4 (Warner 1905); not verbatim."
+        }
+      ],
+      "persons": ["kai-kavus", "sudaba", "afrasiyab"]
+    },
+    {
+      "id": "persian-rustam-three-kings",
+      "title": {
+        "en": "Rustam Fights Three Kings and Frees Kaus",
+        "zh": "魯斯塔姆力戰三王救主"
+      },
+      "tradition": "persian",
+      "category": "myth",
+      "region": {
+        "en": "Plains of Hamavaran (symbolic pin)",
+        "zh": "哈馬瓦蘭平原（象徵性定位）"
+      },
+      "lat": 34.5,
+      "lon": 45.0,
+      "period": "Composed c. 1010 CE (Warner translation 1905)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Firdausi, Shahnama, trans. A. G. & E. Warner (1905), vol. II, Kai Kaus Part II sec. 6",
+        "url": "https://archive.org/details/shahnama02firduoft"
+      },
+      "license": "Public domain (translation 1905)",
+      "summary": {
+        "en": "Rustam arrays his forces against the armies of three monarchs and three realms, with eight score elephants of Barbaristan foaming like the Nile and a hundred more of Hamavaran: keep your eyelashes well apart to-day, he harangues; be the foe a hundred or a hundred thousand horse, their sum importeth not. Deigning not to slaughter common folk he charges the king of Sham and lassoes him, snatching him from the saddle like a ball struck by a polo-stick. The king of Barbar and forty chiefs are taken, the king of Hamavaran asks quarter, gives up Kaus and the treasures, and three hosts disband.",
+        "zh": "魯斯塔姆列陣對抗三王聯軍：巴巴里斯坦八頭象口沫如尼羅河，哈馬瓦蘭又添百象。他訓誡部眾：「睜大雙眼盯緊矛尖；敵軍百人萬人，皆不足懼。」他不屑屠戮小卒，直取沙姆之王，套索擒之如擊馬球般擲落；巴巴里國王與四十酋長就擒；哈馬瓦蘭王乞降獻出卡烏斯，三軍解散。"
+      },
+      "motifs": ["culture-hero", "sacred-kingship"],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Epic literary source; no living community restriction."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Next day they set the battle in array and raised their standards. When the peerless Rustam had led his forces to the field and viewed the armies of three monarchs and three realms, he thus harangued his noble warriors: keep your eyelashes well apart to-day, and look to mane and forelock, steed and rein, with both eyes on your spearpoints. Be the foe a hundred or a hundred thousand horse, their sum importeth not, for, since the All-holy is our ally, I will bring down their heads to dust.",
+          "note": "Paraphrase of Firdausi, Shahnama, Kai Kaus Part II sec. 6 (Warner 1905); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Barbaristan sent eight score elephants all foaming like the Nile, Hamavaran contributed a hundred more, huge beasts, and thirdly was arrayed the power of Misr. The atmosphere was darkened, earth was hidden, and thou hadst said: the world is all of iron. Then were the claws and hearts of lions rent, and lusty eagles flung their plumes away, for how could anything oppose such troops?",
+          "note": "Paraphrase of Firdausi, Shahnama, Kai Kaus Part II sec. 6 (Warner 1905); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "The peerless hero urged on Rakhsh and, deigning not to slaughter common folk, charged at the king of Sham and lassoed him, then snatched him from the saddle, like a ball struck by a polo-stick, and flung him down. They captured sixty of name and deluged plain and hill with blood; the monarch of Barbar and forty chiefs were taken prisoners, and when the monarch of Hamavaran beheld valiant Rustam creating Doomsday on the battlefield he felt this day is one of bale, and sent to Rustam to ask quarter, promising to give up Kai Kaus and restore the treasures, crowns, and jewels. They made a peace and then disbanded three hosts; the monarch of Hamavaran went home, sent and fetched Kaus, and righted him.",
+          "note": "Paraphrase of Firdausi, Shahnama, Kai Kaus Part II sec. 6 (Warner 1905); not verbatim."
+        }
+      ],
+      "persons": ["rustam", "kai-kavus"]
+    },
+    {
+      "id": "persian-kaus-eagle-throne",
+      "title": {
+        "en": "Kaus Ascends the Sky on the Eagle Throne",
+        "zh": "卡烏斯乘鷹輦登天"
+      },
+      "tradition": "persian",
+      "category": "myth",
+      "region": {
+        "en": "Forest near Amul (symbolic pin)",
+        "zh": "阿穆爾附近森林（象徵性定位）"
+      },
+      "lat": 36.5,
+      "lon": 52.4,
+      "period": "Composed c. 1010 CE (Warner translation 1905)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Firdausi, Shahnama, trans. A. G. & E. Warner (1905), vol. II, Kai Kaus Part II secs. 9-10",
+        "url": "https://archive.org/details/shahnama02firduoft"
+      },
+      "license": "Public domain (translation 1905)",
+      "summary": {
+        "en": "Iblis sends a shrewd div as a flattering youth to wean Kaus from God: heaven is thy fit home and earth thy slave; now take the heaven also in thy toils. The Shah, though the sky is ladderless and though stars be many, God but One, feeds eaglets a year on lamb and kabab, builds an aloe-wood throne with lamb's legs hung from the spear-tips, and ties the ravenous birds to it; they strive for the flesh and bear throne, spears, and Shah cloudward — and long flew the eagles, but they stopped at last, sulking exhausted, and brought the Shah down to a forest near Amul, where he tarried in shame, imploring relief from Almighty God.",
+        "zh": "伊布利斯遣巧魔化為諂媚青年：「天堂才是你的歸宿；如今把天空也納入掌握吧！」卡烏斯不知「天梯之不存在、星辰雖眾神唯一」，以羊腿懸於輦角、縛饑鷹於寶座，鷹爭食而起，載王與矛輦沖天——然而鷹終有盡時，筋疲力盡地將王摔落阿穆爾森林；羞愧的王在林中祈求真主寬宥。"
+      },
+      "motifs": ["ascension", "trickster", "taboo-transgression"],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Epic literary source. Hubris-flight motif paralleling Icarus/Bellerophon; Warner notes alternate versions of the motive. No living community restriction."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "One dawn Iblis, unknown to Kai Kaus, addressed the assembled divs: our daily task is one of cruel labour for the Shah; we need a div shrewd and presentable to tempt him, soil his Grace, wean him from God, and thus abate his tyranny. At length a wicked div arose and said: be mine this subtile task; I will pervert his mind from God as none but I can do.",
+          "note": "Paraphrase of Firdausi, Shahnama, Kai Kaus Part II sec. 9 (Warner 1905); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Appearing as a youth of good address and mien, he waited till the famous Shah went hunting from Pahlav, approached with roses to present, then kissed the ground and said: thy glory and thy Grace are such that heaven is thy fit home and earth thy slave. How is it that the sun concealeth from thee the secret of its rising and its setting? What is the moon? Thou hast the earth and all thou didst desire; now take the heaven also in thy toils.",
+          "note": "Paraphrase of Firdausi, Shahnama, Kai Kaus Part II sec. 9 (Warner 1905); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "The Shah's heart strayed, he tarried not to think, convinced that turning heaven favoured him. He knew not that the sky is ladderless, nor that, though stars be many, God but One. He bade men scale the aeries while the eagles were sleeping, had those eaglets fed a year and more with fowl, kabab, and at some whiles with lamb; when they were strong as lions he made a throne of aloe from Kumar with seats of gold, bound a lengthy spear at every corner, suspended a lamb's leg from every spear-head, brought four strong eagles, tied them to the throne, and took his seat, a cup of wine before him.",
+          "note": "Paraphrase of Firdausi, Shahnama, Kai Kaus Part II sec. 9 (Warner 1905); not verbatim."
+        },
+        {
+          "id": "4",
+          "text": "The swift-winged eagles, ravenous for food, strove lustily to reach the flesh, and raising the throne above earth's surface bore it cloudward. Kaus essayed the sky to outsoar angels. Long flew the eagles, but they stopped at last, like other slaves of greed; they sulked exhausted, they drooped their sweating wings and brought the Shah, his spears, and throne down from the clouds to earth, alighting in a forest near Amul. The world preserved him by a miracle; in answer to his prayers a duck appeared, for something must be had to eat and drink; instead of sitting on his throne in might his business then was penitence and travail, and he tarried in the wood in shame and grief imploring from Almighty God relief.",
+          "note": "Paraphrase of Firdausi, Shahnama, Kai Kaus Part II sec. 9 (Warner 1905); not verbatim."
+        }
+      ],
+      "persons": ["kai-kavus", "iblis"]
+    }
+  ]
+}

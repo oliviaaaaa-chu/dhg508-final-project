@@ -1,0 +1,305 @@
+{
+  "_comment": "Shahnama of Firdausi, trans. A. G. & E. Warner (1905), vol. I: Sam's dragon, Zal's riddles, birth of Rustam, the White Elephant. Paraphrase passages with notes.",
+  "texts": [
+    {
+      "id": "persian-sam-dragon-kashaf",
+      "title": {
+        "en": "Sam Slays the Dragon of the Kashaf",
+        "zh": "薩姆誅卡沙夫河之龍"
+      },
+      "tradition": "persian",
+      "category": "myth",
+      "region": {
+        "en": "River Kashaf near Tus (symbolic pin)",
+        "zh": "圖斯附近卡沙夫河（象徵性定位）"
+      },
+      "lat": 36.45,
+      "lon": 59.5,
+      "period": "Composed c. 1010 CE (Warner translation 1905)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Firdausi, Shahnama, trans. A. G. & E. Warner (1905), vol. I, Minuchihr sec. 20",
+        "url": "https://archive.org/details/shahnama01firduoft"
+      },
+      "license": "Public domain (translation 1905)",
+      "summary": {
+        "en": "In his letter to Minuchihr, Sam recounts his ordeal by a dragon haunting the river Kashaf, which made earth afoam from city to city and cleared sky of flying fowl and earth of beast of prey. Riding in God's strength with ox-head mace, bow, and shield, he pinned its tongue with three adamantine shafts, then smashed its skull like an elephant's, so that venom poured forth like the river Nile and Kashaf flowed like a stream of gall. There was no harvest in those parts for years, and Sam sickened many days with the venom.",
+        "zh": "薩姆致米努奇赫爾書中自述：一條巨龍盤踞卡沙夫河畔，自城至城攪動大地，飛鳥絕跡、猛獸匿形。他奉神之力，持牛首狼牙棒、弓與盾出征，以三支金剛箭釘住龍舌，復如碎象顱般擊碎其頭，毒液如尼羅河般傾瀉，卡沙夫河水如膽汁流淌。其地多年無收成，薩姆亦因蛇毒病臥多日。"
+      },
+      "motifs": [
+        "world-serpent",
+        "culture-hero",
+        "sacred-kingship",
+        "dragon-slaying"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Epic literary source. Dragon-slaying episode derived from Keresaspa's Avestan feats (Warner's note); cross-tradition serpent-slayer cluster. No living community restriction."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Sam wrote to the Shah: there was a dragon haunting the Kashaf and making earth afoam. It reached from city to city and from hill to hill, the hearts of all were filled with panic; men kept watch both night and day. That dragon cleared the sky of flying fowl and earth of beast of prey. It scorched the vulture's feathers with its blast, set earth a-blazing where its venom fell, dragged from the water gruesome crocodiles, and swiftly flying eagles from the air.",
+          "note": "Paraphrase of Firdausi, Shahnama, Minuchihr sec. 20 (Warner 1905); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Seeing that none dared to lay hand upon it, in God's strength Sam banished terror from his heart, girt up his loins in His exalted name, and rode his elephantine steed, his saddle bearing the ox-head mace, his bow upon his arm and shield at his neck. He went forth like a savage crocodile. The dragon seemed a lofty mountain and trailed upon the ground its hairs like lassos; its tongue was like a tree-trunk charred, its eyes were like two cisterns full of blood.",
+          "note": "Paraphrase of Firdausi, Shahnama, Minuchihr sec. 20 (Warner 1905); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "Like a gallant warrior Sam roared against that dragon and fitted to his bow a poplar arrow tipped with adamant, shooting it at the dragon's jaws to pin the tongue against the throat; the tongue lolled pinned. Again he shot, again he pierced the mouth; a third shaft went right adown its jaws and its heart's blood spouted seething. When it closed and pressed him hard he took his ox-head mace and, in the strength of God, smote the dragon's head: he smashed the skull as it had been a mighty elephant's, and venom poured forth like the river Nile.",
+          "note": "Paraphrase of Firdausi, Shahnama, Minuchihr sec. 20 (Warner 1905); not verbatim."
+        },
+        {
+          "id": "4",
+          "text": "So struck he that the dragon rose no more, while earth was levelled to the hills with brains. Kashaf was flowing like a stream of gall and all was peace. The mountain-tops were thronged with folk who called down blessings on his head, because that dragon was a fearful bane. On this account men called him One-blow Sam, and all threw jewels o'er him; but he departed with all his shining body bare of mail and sickened with the venom many days, for there was no harvest in those parts for years.",
+          "note": "Paraphrase of Firdausi, Shahnama, Minuchihr sec. 20 (Warner 1905); not verbatim."
+        }
+      ],
+      "persons": [
+        "sam",
+        "minuchihr"
+      ]
+    },
+    {
+      "id": "persian-zal-riddles",
+      "title": {
+        "en": "Zal Unmans the Archmages with Riddles",
+        "zh": "扎勒以謎語折服眾術士"
+      },
+      "tradition": "persian",
+      "category": "myth",
+      "region": {
+        "en": "Court of Minuchihr (symbolic pin)",
+        "zh": "米努奇赫爾王庭（象徵性定位）"
+      },
+      "lat": 34.0,
+      "lon": 51.4,
+      "period": "Composed c. 1010 CE (Warner translation 1905)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Firdausi, Shahnama, trans. A. G. & E. Warner (1905), vol. I, Minuchihr secs. 24-26",
+        "url": "https://archive.org/details/shahnama01firduoft"
+      },
+      "license": "Public domain (translation 1905)",
+      "summary": {
+        "en": "Minuchihr, seeking to prove Zal, has the shrewd archmages question him on riddles veiled in mystery: twelve cypresses with thirty boughs each; two steeds, one crystal bright and one pitchy sable, that chase each other in vain; thirty riders who seem twenty-nine; a mower who cuts green and dry alike; two cypresses with a bird nesting on one at morning and the other at eve; a walled city whose memory will awake when earth quakes. Zal answers: the twelve moons of the year, night and day, the moon's phases, Time the mower, the sun flying between winter and summer, and this Wayside Inn against the city that is built on high. The company wonder and rejoice, and Zal's horsemanship and javelin feats are shown before the Shah.",
+        "zh": "米努奇赫爾欲試扎勒，命術士以謎語考問：十二株三十枝之柏、追逐不休的黑白雙駿、視若二十九實為三十的騎者、青枯皆割的刈草人、晨昏棲於雙柏的神鳥、震後方為人憶的山城。扎勒一一答破：歲之十二月、晝與夜、月之盈虛、時間之鐮、飛行於冬夏之間的太陽，以及通往「高城」前的驛館人生。眾人驚嘆歡喜，扎勒更於王前顯露騎射絕技。"
+      },
+      "motifs": [
+        "oracle-divination",
+        "prophetic-vision",
+        "wisdom-sacrifice",
+        "riddle-contest"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Epic literary source; riddle-contest episode. Tagged with wisdom-sacrifice interpretively (wisdom through ordeal); no living community restriction."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The Shah called Zal to prove him by hard questions. The shrewd archmages and the men of lore sat in full conclave and examined him on many matters veiled in mystery. One asked: what are the dozen cypresses erect in all their bravery, each one of them with thirty boughs bedeckt? Another: what are those two steeds moving rapidly, as crystal bright is this one of the twain and that one sable as a pitchy sea, which gallop at their utmost speed and strain each one to catch the other but in vain? What are the thirty men who ride before their king and seem but twenty-nine to thee, but when thou countest them their number is complete?",
+          "note": "Paraphrase of Firdausi, Shahnama, Minuchihr sec. 24 (Warner 1905); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "What is the meadow-land to which a fierce man cometh with a scythe, sharp and long, who cutteth all the grass both green and dry, and if thou criest heareth not thy cry? What are those cypresses, a lofty pair, like reeds above a sea, and what bird nesteth on this at morning and on that at eve, the bird departing and the leaves turning pale, the bird arriving and they musk exhale? On a mountain I descried a city strongly fortified whose memory now hath gone; but some day suddenly the earth will quake, and remembrance of the city will awake.",
+          "note": "Paraphrase of Firdausi, Shahnama, Minuchihr sec. 24 (Warner 1905); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "Zal shook his plumage, spread his wings, and answered: the twelve cypresses are the twelve new moons of every year; the two chargers are night and day, the pulses of the sky; the thirty men are the phases of the moon, one night a phase from time to time eludeth sight. Time is the mower, and we are like the swath; the bird which flieth between the two cypresses is the sun; and the city built upon the mount is our long home, the scene of our account, while Thornbrake town is this Wayside Inn, at once our pleasure, treasure, pain and woe.",
+          "note": "Paraphrase of Firdausi, Shahnama, Minuchihr sec. 25 (Warner 1905); not verbatim."
+        },
+        {
+          "id": "4",
+          "text": "When Zal had thus expounded all the riddles the company both wondered and rejoiced, while Minuchihr cried well done. Then they exercised with mace, sword, shaft, and lance before the Shah, and never saw or heard of horsemanship like Zal's: he took his bow, urged on his steed, and pierced an ancient tree full in the centre with the royal shaft; he pierced three shields with his javelin and seized a famous cavalier from his saddle. The Shah said: none will see his peer; and he gave Zal a robe of honour that astonished all the chieftains.",
+          "note": "Paraphrase of Firdausi, Shahnama, Minuchihr sec. 26 (Warner 1905); not verbatim."
+        }
+      ],
+      "persons": [
+        "zal",
+        "minuchihr"
+      ]
+    },
+    {
+      "id": "persian-stars-of-rustam",
+      "title": {
+        "en": "The Stars Foretell Rustam, Whom the Eagle Will Not Overlook",
+        "zh": "星辰預言魯斯塔姆"
+      },
+      "tradition": "persian",
+      "category": "myth",
+      "region": {
+        "en": "Court of Minuchihr (symbolic pin)",
+        "zh": "米努奇赫爾王庭（象徵性定位）"
+      },
+      "lat": 34.0,
+      "lon": 51.4,
+      "period": "Composed c. 1010 CE (Warner translation 1905)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Firdausi, Shahnama, trans. A. G. & E. Warner (1905), vol. I, Minuchihr sec. 23",
+        "url": "https://archive.org/details/shahnama01firduoft"
+      },
+      "license": "Public domain (translation 1905)",
+      "summary": {
+        "en": "Minuchihr takes Sam's letter, is troubled yet resolved to grant Zal's wish, and commands the archimages and astrologers to read the stars. For three days they labour, then announce: no stagnant pool is here; there will arise from Sam's son and the daughter of Mihrab a hero full of prowess and fair fame, whose life will be prolonged for centuries, who will take the lion with his twisted lasso, roast whole onagers upon the fire, and make the air weep with his scimitar — the belted servant of the Shahs and shelter of the horsemen of Iran. The Shah charges them to disclose it to none.",
+        "zh": "米努奇赫爾收薩姆來信，心雖不悅仍允扎勒所願，命術士占星三日，而後宣告：此非死水；薩姆之子與米赫拉布之女將誕生勇武聞名的英雄，其壽延數百年，能以套索擒獅、架野驢於火、以彎刀使蒼天垂淚——他將是列王的腰帶僕從、伊朗騎士的庇護。王命他們不得外洩。"
+      },
+      "motifs": [
+        "oracle-divination",
+        "prophetic-vision",
+        "miraculous-birth",
+        "threefold"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Epic literary source; no living community restriction."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The Shah then took Sam's letter, read and smiled. Thou hast increased an ancient grief of mine, he said, yet for thy father's touching letter, although the matter hath much grieved my heart, I am resolved to think of it no more, and will perform and carry out thy wish, since that is all to thee; but tarry here while I deliberate on thine affairs.",
+          "note": "Paraphrase of Firdausi, Shahnama, Minuchihr sec. 23 (Warner 1905); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "The Shah commanded that the archimages, the nobles, wise men, and astrologers should meet at his high throne and read the stars. They met and laboured for three days and then announced: we have perused the circling sky, and this is what the stars prognosticate: no stagnant pool is here. There will arise from Sam's son and the daughter of Mihrab a hero full of prowess and fair fame.",
+          "note": "Paraphrase of Firdausi, Shahnama, Minuchihr sec. 23 (Warner 1905); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "His life will be prolonged for centuries; he will have strength, renown, and Grace, pluck, brains, and thews, and not a peer in fight or feast. Where'er his charger's coat shall run with sweat the liver of his foemen shall run dry. The eagle will not soar above his helm. He will take the lion with his twisted lasso, will roast whole onagers upon the fire, will make the air weep with his scimitar, will be the belted servant of the Shahs and shelter of the horsemen of Iran. Then said the exalted Shah: beware that ye disclose to none what ye have told to me.",
+          "note": "Paraphrase of Firdausi, Shahnama, Minuchihr sec. 23 (Warner 1905); not verbatim."
+        }
+      ],
+      "persons": [
+        "minuchihr",
+        "rustam",
+        "zal"
+      ]
+    },
+    {
+      "id": "persian-rustam-birth",
+      "title": {
+        "en": "The Birth of Rustam by the Simurgh's Craft",
+        "zh": "西摩爾格神技助產魯斯塔姆"
+      },
+      "tradition": "persian",
+      "category": "myth",
+      "region": {
+        "en": "Zabulistan (symbolic pin)",
+        "zh": "扎布勒斯坦（象徵性定位）"
+      },
+      "lat": 32.0,
+      "lon": 66.0,
+      "period": "Composed c. 1010 CE (Warner translation 1905)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Firdausi, Shahnama, trans. A. G. & E. Warner (1905), vol. I, Minuchihr sec. 29",
+        "url": "https://archive.org/details/shahnama01firduoft"
+      },
+      "license": "Public domain (translation 1905)",
+      "summary": {
+        "en": "Rudaba's time comes but not deliverance; she lies sleepless, one would have said her skin is stuffed with stones. Zal burns a feather of the Simurgh; the bird swoops down, prophesies the lion-child that will fillip bricks two miles, and instructs a caesarean birth: bemuse the lady with wine, let a cunning man pierce her side, stitch up the gash, and dress it with a herb bruised with milk and musk, anointing it with the plume. The archimage delivers the babe uninjured; ten nurses suckle him, and Sam, receiving a silken effigy of his grandson in mail with mace and bridle, showers drachms till the heap is level with the messenger's head.",
+        "zh": "魯達貝臨盆而不得娩，臥病不眠，皮膚如灌石。扎勒焚西摩爾格之羽，神鳥降至，預言「能擲磚兩里之獅子孩」，並授剖腹之法：以酒麻之，巧匠刺其側腹取出嬰孩，縫合傷口，以乳與麝香敷藥，再以神羽塗抹。術士順利娩出嬰兒；十乳母哺育之。薩姆收到身披甲冑、手執狼牙棒與韁繩的孫兒絲織像，喜而撒幣至信使頭頂。"
+      },
+      "motifs": [
+        "miraculous-birth",
+        "culture-hero",
+        "prophetic-vision"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Epic literary source; Warner compares the anaesthetic to the Bundahishn account of Ohrmazd's healing fruits for the Primeval Ox. No living community restriction."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Rudaba's time had come but not deliverance: by night and day she cried for help, sleepless and withered like a living corpse; one would have said her skin is stuffed with stones or iron. Then occurred a thought to Zal which eased him of his anguish: the plume of the Simurgh. He brought a censer, kindled fire, and burnt some of the plume; the air grew dark and that imperious bird swooped down, a cloud whose drops were pearls.",
+          "note": "Paraphrase of Firdausi, Shahnama, Minuchihr sec. 29 (Warner 1905); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "From this moon-faced and silver-bosomed Cypress will come a noble babe, said the Simurgh: the mighty lion will kiss the dust upon his feet, no cloud will dare to pass above him. When he shouteth the pard will split its skin and gnaw its paws. This child will prove in counsels and in rede a weighty Sam, in height a cypress-tree, in wrath a lion, in strength an elephant, and fillip bricks two miles. His birth will not be natural, so willeth He who giveth good.",
+          "note": "Paraphrase of Firdausi, Shahnama, Minuchihr sec. 29 (Warner 1905); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "Bring a blue-steel dagger and seek a cunning man: bemuse the lady first with wine to ease her pain and fear, then let him ply his craft and take the Lion from its lair by piercing her waist while all unconscious, then stitch up the gash. Bruise with milk and musk a herb that I will show thee, dress and anoint Rudaba's wound, and rub o'er the wound my plume; its gracious shade will prove a blessing. There came an archimage, one deft of hand, who made the moon-faced dame bemused with wine, then pierced her side while she was all unconscious and delivered her uninjured.",
+          "note": "Paraphrase of Firdausi, Shahnama, Minuchihr sec. 29 (Warner 1905); not verbatim."
+        },
+        {
+          "id": "4",
+          "text": "None had seen a thing so strange: the babe was like a lion, a hero tall and fair to look upon. They made of silk a herolet the size of that unsuckled Lion, stuffing it with sable's hair, with a mace in one hand and bridle in the other, and set the puppet on a chestnut horse to send to Sam, who looked thereon and said: this silken thing is just like me; if he is half this size his head will touch the sky. Ten nurses suckled Rustam, and being weaned he lived on bread and flesh, eating as much as five.",
+          "note": "Paraphrase of Firdausi, Shahnama, Minuchihr sec. 29 (Warner 1905); not verbatim."
+        }
+      ],
+      "persons": [
+        "rustam",
+        "rudaba",
+        "zal",
+        "sam"
+      ]
+    },
+    {
+      "id": "persian-rustam-white-elephant",
+      "title": {
+        "en": "Rustam Slays the White Elephant in His Sleep",
+        "zh": "魯斯塔姆睡中斃白象"
+      },
+      "tradition": "persian",
+      "category": "myth",
+      "region": {
+        "en": "Garden of Zal, Sistan (symbolic pin)",
+        "zh": "錫斯坦扎勒花園（象徵性定位）"
+      },
+      "lat": 32.0,
+      "lon": 66.0,
+      "period": "Composed c. 1010 CE (Warner translation 1905)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Firdausi, Shahnama, trans. A. G. & E. Warner (1905), vol. I, Minuchihr sec. 30",
+        "url": "https://archive.org/details/shahnama01firduoft"
+      },
+      "license": "Public domain (translation 1905)",
+      "summary": {
+        "en": "During a garden revel the chiefs' white elephant breaks loose. The revelling boy Rustam runs forth with Sam's mace, splits the gate-keeper's skull when the keepers bar the way, smashes chains and bolts like wind, and, roaring like the sea at a mountain that bellowed, deals it one blow on the head: Mount Bisitun shook to its core and tumbled at one blow vile and strengthless. Thus it fell, and matchless Rustam went lightly to his place again and slept.",
+        "zh": "花園宴飲之際，諸酋之白象掙脫而出。微醺的少年魯斯塔姆持薩姆狼牙棒衝出，守衛阻攔便擊碎其顱，如風般砸斷門鎖鏈栓，臨象怒吼如海，一擊擊其頭顱——比斯通山也為之震顫，白象一擊斃命。魯斯塔姆從容歸臥，酣然入睡。"
+      },
+      "motifs": [
+        "culture-hero",
+        "sacred-kingship"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Epic literary source; no living community restriction."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "It came to pass that as they spent a day in revel in a garden with their friends, while harp-strings ran the gamut of sweet sounds and all the chiefs were one in merriment, they quaffed red wine from crystal cups until their heads were dazed, and then Zal bade his son make ready robes of honour for his warriors. So Rustam gave gold, many Arab steeds caparisoned and other gifts; Zal sought the bower, while Rustam reeled to his chamber, laid him down and slept.",
+          "note": "Paraphrase of Firdausi, Shahnama, Minuchihr sec. 30 (Warner 1905); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Shouts rose outside his door: the chiefs' white elephant hath broken loose, and folk are in its danger! He heard, and urged by hardihood ran forth, snatched up Sam's mace and made toward the street. The keepers of the gate opposed him; wroth at the speaker's words the matchless Rustam smote him on the nape, and his head rolled from him; the others fled the paladin, who boldly went up to the gate and smashed the chains and bolts with blows that well befitted one of such noble name.",
+          "note": "Paraphrase of Firdausi, Shahnama, Minuchihr sec. 30 (Warner 1905); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "He went forth like wind with shouldered mace excitedly, approached the mighty beast and roared out like the sea. He looked and saw a mountain bellowing, the ground beneath it like a boiling pot, and his own nobles fleeing in dismay like sheep that spy a wolf. Roaring like a lion he went courageously against the beast, which charged at him like a mountain and reared its trunk to strike, but Rustam dealt it a mace-blow on the head; the mountain-form stooped, Mount Bisitun shook to its core, and tumbled at one blow vile and strengthless. Thus it fell, and matchless Rustam went lightly to his place again and slept.",
+          "note": "Paraphrase of Firdausi, Shahnama, Minuchihr sec. 30 (Warner 1905); not verbatim."
+        }
+      ],
+      "persons": [
+        "rustam",
+        "zal"
+      ]
+    }
+  ]
+}

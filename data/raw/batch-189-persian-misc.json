@@ -1,0 +1,273 @@
+{
+  "_comment": "Miscellaneous persian sources: Qissa-i Sanjan (Karaka 1884); Laili and Majnun (Atkinson 1836); Farvardin Yasht (Darmesteter 1883); Sikandar Nama (Clarke 1881). Paraphrase passages with notes.",
+  "texts": [
+    {
+      "id": "persian-sanjan-landing",
+      "title": {
+        "en": "The Parsi Flight to Sanjan and the Sixteen Schloks",
+        "zh": "帕西人渡海至桑詹與十六讚頌"
+      },
+      "tradition": "persian",
+      "category": "myth",
+      "region": {
+        "en": "Sanjan, coast of Gujarat (symbolic pin)",
+        "zh": "古吉拉特桑詹海岸（象徵性定位）"
+      },
+      "lat": 20.3,
+      "lon": 72.85,
+      "period": "Recorded 15th-17th century CE (Qissa-i Sanjan; Karaka translation 1884)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Qissa-i Sanjan, in D. F. Karaka, History of the Parsis, vol. I (1884), ch. I",
+        "url": "https://archive.org/details/historyofparsisi01karauoft"
+      },
+      "license": "Public domain (translation 1884)",
+      "summary": {
+        "en": "Fleeing Persia after the Arab conquest rather than abandon the faith of their fathers, the Parsis make themselves exiles for ever; in a storm at sea they offer up a prayer to the throne of the Most High, and the storm abates and a gentle gale carries them in safety to Sanjan, where they land about the year 716. The dastur explains their sufferings to the liberal chief Jadi Rana, and the most learned among them prepare sixteen schloks or distichs in which they briefly describe the tenets of their religion: we are worshippers of Ahura Mazda and the sun and the five elements; we wear the sacred garment, the sudra or shirt, the kusti or cincture for the loins.",
+        "zh": "阿拉伯人征服波斯後，帕西人不肯背棄祖傳信仰，寧為萬世流亡。海上風暴中，他們向至高者禱告，風浪頓息，和風將船隊平安送抵桑詹（約公元716年）。祭司向寬仁的酋長賈迪·拉納陳情；族中賢者遂作十六聯頌詩概括其教義：「我們崇奉阿胡拉·馬茲達、太陽與五行；我們穿聖衣——聖衫與腰間聖帶。」"
+      },
+      "motifs": [
+        "otherworld-voyage",
+        "foundational-legend",
+        "ritual-origin",
+        "prayer",
+        "exile"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Living-tradition narrative (Parsi community charter myth); recorded respectfully from published 19th-century translation. No restricted content."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Rather than abandon the faith they had inherited from their fathers, they had voluntarily made themselves exiles for ever from the land that gave them birth. In their helplessness they called to mind Him who is the author of all good, the Preserver, Supporter, and Cherisher of the poor and the distressed: deliver us, O Merciful Providence, from this trouble, and lead us to the right path, that we may escape from this sea to the shores of India; and we promise, O Lord, to kindle on high the flame sacred to Thee in grateful remembrance of Thy kindness and protection.",
+          "note": "Paraphrase of Qissa-i Sanjan, in Karaka, History of the Parsis I, ch. 1 (1884); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "We cannot doubt that this prayer of faith was heard, for the storm abated, and a gentle gale carried them in safety to Sanjan, some twenty-five miles south of Daman, where they landed about the year 716. The territory of Sanjan was then under the rule of a wise and liberal chief named Jadi Rana, to whom a venerable dastur or high priest of the Parsis was sent, with suitable presents, in order to ascertain from him the terms on which they would be permitted to land.",
+          "note": "Paraphrase of Qissa-i Sanjan, in Karaka, History of the Parsis I, ch. 1 (1884); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "The most learned among them prepared sixteen schloks or distichs, in which they briefly described the tenets of their religion and their mode of worship: we are worshippers of Ahura Mazda and the sun and the five elements; we observe silence while bathing, praying, making offerings to fire, and eating; we wear the sacred garment, the sudra or shirt, the kusti or cincture for the loins, and the cap of two folds. Consequently, Sanjan became the adopted country of the Parsis.",
+          "note": "Paraphrase of Qissa-i Sanjan, in Karaka, History of the Parsis I, ch. 1 (1884); not verbatim."
+        }
+      ],
+      "persons": []
+    },
+    {
+      "id": "persian-laili-majnun-school",
+      "title": {
+        "en": "Kais and Laili in the Schoolroom",
+        "zh": "凱斯與蕾莉同窗初戀"
+      },
+      "tradition": "persian",
+      "category": "myth",
+      "region": {
+        "en": "School of the Arab shaikhs (symbolic pin)",
+        "zh": "阿拉伯酋長學塾（象徵性定位）"
+      },
+      "lat": 26.4,
+      "lon": 54.0,
+      "period": "Composed 12th century CE (Atkinson translation 1836)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Nizami, Laili and Majnun, trans. J. Atkinson (1836), Canto I",
+        "url": "https://archive.org/details/lailandmajnnapo00atkigoog"
+      },
+      "license": "Public domain (translation 1836)",
+      "summary": {
+        "en": "In the school of the shaikhs of each tribe, Kais assiduously drew attainments and scattered pearls from lips of ruby hue; and there, of different tribe and gentle mien, a lovely maid of tender years was seen: her richly flowing locks were black as night, and Laili she was called. One single glance the nerves to frenzy wrought; and, when o'er Kais affection's blushing rose diffused its sweetness, from him fled repose. Love conquered both; they never dreamt to part; and, while the rest were poring o'er their books, they pensive mused, and read each other's looks: their only taste was love, and writing ghazels to each other's eyes.",
+        "zh": "各族酋長的學塾中，凱斯勤學善辯、口吐珠璣；另有一位異族的窈窕少女——秀髮如夜，人稱蕾莉。「一瞥便令心神狂亂」；當愛情的玫瑰在凱斯心中綻放，安寧便棄他而去。二人相愛，從未想過分離；同窗苦讀時，他們只默默相視——「他們唯一的功課，就是為彼此的眼睛寫抒情詩。」"
+      },
+      "motifs": [
+        "sibling-creators",
+        "divine-marriage",
+        "quest-immortality"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Epic literary source; the Arab romance Persianised by Nizami. No living community restriction."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Thence his attainments Kais assiduous drew, and scattered pearls from lips of ruby hue; and there, of different tribe and gentle mien, a lovely maid of tender years was seen: her mental powers an early bloom displayed. Her richly flowing locks were black as night, and Laili she was called, that heart's delight: one single glance the nerves to frenzy wrought; one single glance bewildered every thought.",
+          "note": "Paraphrase of Nizami, Laili and Majnun (Atkinson 1836), Canto I; not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Soon mutual pleasure warmed each other's heart; love conquered both, they never dreamt to part; and, while the rest were poring o'er their books, they pensive mused, and read each other's looks: while others various climes in books explored, both idly sat, adorer and adored. Science for them had now no charms to boast; their only taste was love, and love's sweet ties, and writing ghazels to each other's eyes.",
+          "note": "Paraphrase of Nizami, Laili and Majnun (Atkinson 1836), Canto I; not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "Immersed in love so deep, they hoped suspicion would be lulled asleep, and none be conscious of their amorous state; they hoped that none with prying eye, and gossip tongue invidiously, might to the busy world its truth relate. By worldly prudence uncontrolled, their every glance their feelings told; for true love never yet had skill to veil impassioned looks at will.",
+          "note": "Paraphrase of Nizami, Laili and Majnun (Atkinson 1836), Canto I; not verbatim."
+        }
+      ],
+      "persons": []
+    },
+    {
+      "id": "persian-laili-majnun-cave",
+      "title": {
+        "en": "Majnun in the Cave and His Father's Grave",
+        "zh": "瑪傑農穴居與亡父之墓"
+      },
+      "tradition": "persian",
+      "category": "myth",
+      "region": {
+        "en": "Rocky cave of Najd (symbolic pin)",
+        "zh": "納季德岩穴（象徵性定位）"
+      },
+      "lat": 25.5,
+      "lon": 45.0,
+      "period": "Composed 12th century CE (Atkinson translation 1836)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Nizami, Laili and Majnun, trans. J. Atkinson (1836), Cantos V-VI",
+        "url": "https://archive.org/details/lailandmajnnapo00atkigoog"
+      },
+      "license": "Public domain (translation 1836)",
+      "summary": {
+        "en": "To me the world is swallowed up: I see nothing but Laili, answers Majnun to his father's counsel in the cave; all is lost to me, save her bright image — father, mother, home, all buried in impenetrable gloom. Syd Omai, with unutterable grief, gazed on his son and parted from that dismal cave, wrapt in deepest anguish — but 'twas, alas, to his expected grave: gently he sank, by age and grief oppressed, from this vain world to that of endless rest. Majnun hears the sad tale, falls upon the earth insensible, and never rested night or day till he had reached the sad spot where lay his father's bones: his arms around the grave he flung, and to the earth delirious clung.",
+        "zh": "岩穴中，父親勸子回頭；瑪傑農答：「世界於我已空無一物——除蕾莉倩影，父母家園盡埋於不透光的黑暗！」老父西德·歐邁悲不自勝，踉蹌離穴歸家——竟一臥不起，溘然長逝。噩耗傳來，瑪傑農撲地昏厥，日夜狂奔至亡父墳前，雙臂環抱墓碑、緊抓塵土，以懺悔之淚澆灑聖遺。"
+      },
+      "motifs": [
+        "taboo-transgression",
+        "quest-immortality",
+        "sacred-place",
+        "wise-advice"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Epic literary source; the mad lover's withdrawal (majnun = possessed). No living community restriction."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Thy counsel, father, is the wisest, best, and I would gladly to thy wish conform: but what am I? a helpless wretch, a worm, without the power to do what I approve, enslaved, the victim of almighty love. To me the world is swallowed up: I see nothing but Laili; all is lost to me, save her bright image: father, mother, home, all buried in impenetrable gloom, beyond my feeling.",
+          "note": "Paraphrase of Nizami, Laili and Majnun (Atkinson 1836), Canto V; not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Syd Omai, with unutterable grief, gazed on his son, whose sorrows mocked relief; and, hopeless, wretched, every thought resigned that once was balm and comfort to his mind. Then, showering blessings o'er his offspring's head, groaning, he parted from that dismal cave, and, wrapt in deepest anguish, homeward sped; but 'twas, alas, to his expected grave: gently he sank, by age and grief oppressed, from this vain world, to that of endless rest.",
+          "note": "Paraphrase of Nizami, Laili and Majnun (Atkinson 1836), Canto V; not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "He fell upon the earth insensible, and, grovelling, with a frantic air, his bosom beat, he tore his hair, and never rested, night or day, till he had, wandering far away, reached the sad spot where peaceful lay his father's bones. His arms around the grave he flung, and to the earth delirious clung; grasping the ashes of the dead, he cast them o'er his prostrate head, and, with repentant tears, bedewed the holy relics round him strewed.",
+          "note": "Paraphrase of Nizami, Laili and Majnun (Atkinson 1836), Canto VI; not verbatim."
+        }
+      ],
+      "persons": []
+    },
+    {
+      "id": "persian-fravashis-farvardin",
+      "title": {
+        "en": "The Fravashis Hold Up the World",
+        "zh": "弗拉瓦希守護世界"
+      },
+      "tradition": "persian",
+      "category": "myth",
+      "region": {
+        "en": "Sea Vouru-Kasha (symbolic pin)",
+        "zh": "烏魯卡沙海（象徵性定位）"
+      },
+      "lat": 30.0,
+      "lon": 53.0,
+      "period": "Recorded in the Avesta, c. 6th-4th century BCE (Darmesteter translation 1883)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Farvardin Yasht (Zend-Avesta Part II), trans. J. Darmesteter, SBE 23 (1883)",
+        "url": "https://archive.org/details/zendavestapartii00darmuoft"
+      },
+      "license": "Public domain (translation 1883)",
+      "summary": {
+        "en": "Through their brightness and glory, O Zarathustra! I maintain the wide earth made by Ahura, the large and broad earth, that bears so much that is fine, that bears all the bodily world, the live and the dead, and the high mountains rich in pastures and waters. Through their brightness and glory I maintain in the womb the child that has been conceived, so that it does not die from the assaults of Vidotu. Had not the awful Fravashis of the faithful given help unto me, those animals and men of mine would not subsist; strength would belong to the Druj, the dominion would belong to the Druj, the material world would belong to the Druj.",
+        "zh": "憑弗拉瓦希（守護靈）之光輝榮耀——阿胡拉所造的寬廣大地、承載生者與亡者的高山草場才得以持立；胎中嬰兒才不致死於死神之手。若無忠信者的守護靈相助，牲畜與人類便不能存立——力量將歸惡魔德魯吉，王權將歸德魯吉，物質世界將歸德魯吉！"
+      },
+      "motifs": [
+        "resurrection",
+        "theophany",
+        "quest-immortality"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Avestan liturgical text; the Fravashis are the guardian-souls (Darmesteter compares the Hindu Pitrs). No living community restriction."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Through their brightness and glory, O Zarathustra! I maintain the wide earth made by Ahura, the large and broad earth, that bears so much that is fine, that bears all the bodily world, the live and the dead, and the high mountains, rich in pastures and waters; upon which run the many streams and rivers; upon which the many kinds of plants grow up from the ground, to nourish animals and men, and to help the faithful.",
+          "note": "Paraphrase of Farvardin Yasht 9-10 (Darmesteter, SBE 23, 1883); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Through their brightness and glory, O Zarathustra! I maintain in the womb the child that has been conceived, so that it does not die from the assaults of Vidotu, and I develop in it the bones, the hair, the entrails, the feet, and the sexual organs.",
+          "note": "Paraphrase of Farvardin Yasht 11 (Darmesteter, SBE 23, 1883); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "Had not the awful Fravashis of the faithful given help unto me, those animals and men of mine, of which there are such excellent kinds, would not subsist; strength would belong to the Druj, the dominion would belong to the Druj, the material world would belong to the Druj. Between the earth and the sky the immaterial creatures would be harassed by the Druj; and never afterwards would Angra-Mainyu give way to the blows of Spenta-Mainyu.",
+          "note": "Paraphrase of Farvardin Yasht 12-13 (Darmesteter, SBE 23, 1883); not verbatim."
+        }
+      ],
+      "persons": []
+    },
+    {
+      "id": "persian-nizami-sikandar-birth",
+      "title": {
+        "en": "Nizami's Tale of Sikandar's Birth",
+        "zh": "尼扎米筆下的亞歷山大誕生"
+      },
+      "tradition": "persian",
+      "category": "myth",
+      "region": {
+        "en": "Roads of Rum (symbolic pin)",
+        "zh": "羅姆國土（象徵性定位）"
+      },
+      "lat": 40.0,
+      "lon": 30.0,
+      "period": "Composed c. 1200 CE (Clarke translation 1881)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Nizami, The Sikandar Nama e Bara, trans. H. Wilberforce Clarke (1881), Canto XV",
+        "url": "https://archive.org/details/in.ernet.dli.2015.173384"
+      },
+      "license": "Public domain (translation 1881)",
+      "summary": {
+        "en": "In this tale of Sikandar's birth are many disputes, says Nizami; from the sages of Rum thus it came: that of that land and clime, the wife of a devotee became helpless on the day of bringing forth; she deposited her burden in a desolate place and died, saying: I know not who will cherish thee; what wild beast will devour thee. King Faylikus, game-overthrowing, advanced toward that woman; he beheld a woman dead in that pathway, at her feet a child, head uplifted; from want of the mother's milk the child sucked its own finger. He took up the child from the dust of the road — and, by wisdom and judgment, King of the World he became, from Kaf to Kaf territory-conqueror.",
+        "zh": "關於亞歷山大的誕生眾說紛紜，尼扎米取羅馬賢者之說：一位苦行僧之妻臨產無助，把嬰孩棄於荒野而亡，臨終悲呼：「誰來撫養你？哪只野獸會吞掉你？」英武的菲萊庫斯王行經此路，見產婦倒斃道上、腳邊嬰孩仰首吮指；他自塵埃抱起嬰兒——這孩子日後憑智慧與英斷，成為「自卡夫山至卡夫山」的征服者、天下之王。"
+      },
+      "motifs": [
+        "miraculous-birth",
+        "sacred-kingship",
+        "foundational-legend"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Epic literary source; Nizami's Iqbal-nama version of Alexander's birth legend. No living community restriction."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "In this tale of Sikandar's birth are many disputes: my ear is intent on everyone's speech. From the sages of Rum thus it came, that of that land and clime, the wife of a devotee became helpless on the day of bringing forth; she became a wanderer from her city and husband. When her time of burden-casting came near, the pang of delivery became strong upon her.",
+          "note": "Paraphrase of Nizami, Sikandar Nama (Clarke 1881), Canto XV; not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "She deposited her burden in a desolate place, and died; she suffered grief for the child and resigned her life to God, saying: I know not who will cherish thee; what wild beast will devour thee. Of this, news none heard, how the Omnipotent would cherish him in His bosom: what treasures He would draw within his load; what fortune He would draw into his bosom. When the woman died, that child remained friendless.",
+          "note": "Paraphrase of Nizami, Sikandar Nama (Clarke 1881), Canto XV; not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "From the enjoyment of the plain, King Faylikus advanced, game-overthrowing, towards that woman. He beheld a woman dead in that pathway: at her feet a child, head uplifted. From want of the mother's milk, the child sucked its own finger, and bit its own thumb in grief for its mother. He took up the child from the dust of the road — and, by wisdom and judgment, King of the World he became, from Kaf to Kaf territory-conqueror.",
+          "note": "Paraphrase of Nizami, Sikandar Nama (Clarke 1881), Canto XV; not verbatim."
+        }
+      ],
+      "persons": []
+    }
+  ]
+}

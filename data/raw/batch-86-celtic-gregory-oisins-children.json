@@ -1,0 +1,283 @@
+{
+  "texts": [
+    {
+      "id": "celtic-finn-phantoms-valley-yew",
+      "title": {
+        "en": "Finn and the Phantoms of the Elder-Wood House",
+        "zh": "芬恩與接骨木屋中的幻影"
+      },
+      "tradition": "celtic",
+      "category": "myth-religion",
+      "region": {
+        "en": "Berramain strand, Co. Kerry, Ireland",
+        "zh": "愛爾蘭克里郡貝拉曼海灘"
+      },
+      "lat": 51.9,
+      "lon": -9.5,
+      "period": "Fenian cycle, medieval Irish tradition; Lady Augusta Gregory retelling (1904)",
+      "source": {
+        "archive": "Project Gutenberg",
+        "work": "Lady Augusta Gregory, Gods and Fighting Men (1904), Book IV, ch. XIII, eBook #14465",
+        "url": "https://www.gutenberg.org/ebooks/14465.txt.utf-8"
+      },
+      "license": "Public domain (Gregory 1904)",
+      "summary": {
+        "en": "Winning a black horse at the races, Finn outruns Caoilte and Oisin over the Plain of Health to the hill of Bairnech, where night forces them into a house none knew was there: a headless man with one eye in his breast, a three-headed hag, nine harsh singers, and a grey host who flays the horses and serves raw meat — refusal of which brings battle in the dark until sunrise. The three Shapes out of the Valley of the Yew Tree, avenging their sister Cuillen whose son died of the Fianna's envy, vanish at the light.",
+        "zh": "賽馬得勝的芬恩縱黑馬疾馳，將卡爾特與歐辛甩在身後，夜宿於一處無名之屋：胸中生眼的無首者、三首巫嫗、九個尖嘯之影、剝馬皮奉生肉的灰衣主人——拒食即招致徹夜黑暗中的血戰。直到日出才知真相：他們是「紫杉谷三形」，為其妹「闊口之庫倫」復仇——她的兒子因菲亞納的嫉恨而亡。"
+      },
+      "motifs": [
+        "trickster",
+        "taboo-transgression",
+        "spirit-possession",
+        "jealousy"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "The bruiden-hostel horror sequence is the fixed Fenian-hostel genre (compare Da Derga's hostel); 'envy-killing' via the evil eye is an attested Irish belief-motif. Raw-meat refusal is a geis of Finn's. Pin symbolic on the strand."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Finn went to a gathering one time at Aonach Clochair, and the horses of the Fianna ran races against the horses of the men of Munster; Fiachu, son of Eoghan, gave him a lasting black horse that won the three prizes of the gathering, and a chariot, and a spear having a deadly spell. Finn went trying his black horse on the strand at Berramain, and it was only folly for Caoilte and Oisin to race against him, for he gave a blow to his horse and away with him to Traigh Liath and over the Plain of Health, till he came to the hill of Bairnech, and Caoilte and Oisin after him. \"Night is coming on us, and go look for some place where we can sleep.\" He looked round at the rocks on his left hand and saw a house with a fire shining out from it in the valley below: \"I never knew of a house in this valley.\" \"It is best for us to go see it, for there are many things we have no knowledge of.\"",
+          "note": "Condensed paraphrase of Gregory 1904, Book IV, ch. XIII; not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "The people of the house were very fierce and rough, and a big grey man took hold of their horses and shut the door with iron hooks: \"My welcome to you, Finn of the great name; it is a long time you were in coming here.\" They saw a hag in the house having three heads on her lean neck, and on the other side a man without a head, having one eye, and it in his breast. Nine bodies rose up out of the corner nearest the Fianna, and nine heads rose up on the other side of the bed, and they raised nine harsh screeches together, and the music that was sung went near to breaking the bones of their heads. Then the big grey man began striking at the horses, flaying and destroying them, and put pieces of the flesh on fifty pointed spits of rowan — but when he set them before Finn, it is raw the flesh was on them yet.",
+          "note": "Condensed paraphrase of Gregory 1904, Book IV, ch. XIII; not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "\"I have never eaten meat that was raw, and I never will eat it because of being without food for one day.\" \"If you are come into our house to refuse our food, we will surely go against yourselves.\" All in the house made an attack on the three, and the fight went on through the whole night in the darkness; and when the sun rose and lighted up the house, there was nothing to be seen of the house or of the people of it, but they had all vanished. And those three that fought against them were the three Shapes out of the Valley of the Yew Tree that came to avenge their sister, Cuillen of the Wide Mouth — for her son Fear Og, that was hardly in Ireland a man so good as himself in shape and in courage, died of a heavy sickness that fell on him through the eyes and the envy of the Fianna, after he had done better than them all in their games.",
+          "note": "Condensed paraphrase of Gregory 1904, Book IV, ch. XIII; not verbatim."
+        }
+      ]
+    },
+    {
+      "id": "celtic-angus-pig-hunt-bran-curse",
+      "title": {
+        "en": "The Pigs of Angus and the Curse on Bran",
+        "zh": "安古斯之豬與對布蘭的詛咒"
+      },
+      "tradition": "celtic",
+      "category": "myth-religion",
+      "region": {
+        "en": "Brugh na Boinne (Newgrange), Co. Meath, Ireland",
+        "zh": "愛爾蘭米斯郡博因墓丘"
+      },
+      "lat": 53.69,
+      "lon": -6.47,
+      "period": "Fenian cycle, medieval Irish tradition; Lady Augusta Gregory retelling (1904)",
+      "source": {
+        "archive": "Project Gutenberg",
+        "work": "Lady Augusta Gregory, Gods and Fighting Men (1904), Book IV, ch. XIV, eBook #14465",
+        "url": "https://www.gutenberg.org/ebooks/14465.txt.utf-8"
+      },
+      "license": "Public domain (Gregory 1904)",
+      "summary": {
+        "en": "At Angus Og's feast in Brugh na Boinne, Finn boasts that Bran and Sceolan would kill any pig the Men of Dea own; Angus sends a herd of deer-high pigs led by a black one — his own son in pig-shape. The hounds slaughter the herd, but Bran, hearing it is her foster-brother she holds, grips him like an enemy and keeps him for the Fianna; the unburnable pigs must be burned with three logs of unknown wood from Bran's foraging, and Angus curses her never to see with her eyes any deer she may kill. The breach is healed by fostering children between the houses.",
+        "zh": "在博因墓丘的宴席上，芬恩誇言布蘭與斯克奧蘭能殺神族任何一頭豬；安古斯遂遣出高如鹿群的野豬——領頭黑豬竟是其子所化。群犬屠戮豬群；布蘭聞知所擒正是乳弟，緊咬不放如同仇敵。豬身火不能燃，賴布蘭尋來三段無名之木方得焚化；安古斯詛咒布蘭：所殺之鹿永不可目見。兩族以互換撫養子而和解。"
+      },
+      "motifs": [
+        "transformation",
+        "taboo-transgression",
+        "boon-curse",
+        "trickster",
+        "miracle-cure"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "The cursing of Bran (never to see the deer she kills) is a dindsenchas-style etiology retold in the cycle; the fosterage exchange that settles god-mortal blood-debt reflects real Irish fosterage law. Pin is Newgrange."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Angus Og, son of the Dagda, made a feast one time at Brugh na Boinne for Finn and the Fianna of the Gael. \"It is a better life this is than to be hunting,\" said Angus out in a loud voice. There was anger on Finn: \"It is a worse life than hunting to be here, without hounds, without horses, without battalions, without the shouting of armies.\" \"As to the hounds you have, they would not kill so much as one pig.\" \"You have not yourself, and the whole host of the Tuatha de Danaan have not a pig that ever went on dry land that Bran and Sceolan would not kill.\" \"I will send you a pig that will go from you and your hounds, and that will kill them in the end.\"",
+          "note": "Condensed paraphrase of Gregory 1904, Book IV, ch. XIV; not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "At the end of a year Angus sent messengers asking Finn if he was ready to keep his word, and on the plain to the east they saw a terrible herd of great pigs, every one the height of a deer, and one pig out in front blacker than a smith's coal, with bristles like a thicket of thorn-trees. Caoilte let out Adhnuall, and she was the first to kill a pig; and then Bran made away from the leash, and came up with the pigs, and took hold of a pig of them. \"O Bran, fosterling of fair-haired Fergus, it is not a right thing you are doing, to kill my own son,\" said Angus; but when Bran heard that, her ways changed and it was like an enemy she took hold of the pig, and did not let it go, and kept it for the Fianna.",
+          "note": "Condensed paraphrase of Gregory 1904, Book IV, ch. XIV; not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "At evening there was not one pig of the whole herd without a hurt, but the hunt brought losses on the Fianna as well, for there were ten hundred of their men missing besides serving-lads and dogs. And they could not set fire to one pig till Bran went away and came back bringing three logs, and no one knows what wood it was they came from; and it is with them the pigs were burned, and their ashes thrown into the sea. And Angus said: \"It is a pity for you, sweet daring Bran, that you did not do something worth praise before killing your own foster-brother. And I will put a curse on you, Bran, beyond every hound in Ireland, that you will never see with your eyes any deer you may ever kill.\" There was anger on Finn, and Oisin said it was best for them to agree between themselves; so they made peace, and gave children to be fostered by one another — a son of Finn's to Angus, and a son of Angus Og to the Fianna.",
+          "note": "Condensed paraphrase of Gregory 1904, Book IV, ch. XIV; not verbatim."
+        }
+      ]
+    },
+    {
+      "id": "celtic-finn-grey-hair-lake-of-sorrow",
+      "title": {
+        "en": "Finn's Grey Hair and the Lake of Sorrow",
+        "zh": "芬恩的白髮與悲傷之湖"
+      },
+      "tradition": "celtic",
+      "category": "myth-religion",
+      "region": {
+        "en": "Loch Doghra, Slieve Cuilinn, Co. Down, Ireland",
+        "zh": "愛爾蘭唐郡庫林山悲傷湖"
+      },
+      "lat": 54.25,
+      "lon": -5.9,
+      "period": "Fenian cycle, medieval Irish tradition; Lady Augusta Gregory retelling (1904)",
+      "source": {
+        "archive": "Project Gutenberg",
+        "work": "Lady Augusta Gregory, Gods and Fighting Men (1904), Book IV, ch. XV, eBook #14465",
+        "url": "https://www.gutenberg.org/ebooks/14465.txt.utf-8"
+      },
+      "license": "Public domain (Gregory 1904)",
+      "summary": {
+        "en": "A grey fawn leads Finn and his two hounds to Slieve Cuilinn and vanishes; a sorrowful girl on the lake-side puts Finn under bonds to dive for a red-gold ring, leaps away as soon as he hands it up, and the head and leader of the Fianna comes out of the water a weak old man. The lake would have turned all the men of the world grey; only Cuilinn of Cuailgne — some say Manannan himself — can undo it, and after the Fianna have rooted up his hill for three days and nights he gives the restoring draught. Finn's shape comes back but his hair stays grey, and from the vessel that slipped into the earth grows a tree whose morning gaze, fasting, shows the day's events.",
+        "zh": "灰色母鹿引芬恩至庫林山後消失；湖畔愁容少女以誓約迫芬恩潛水尋回金環，接環即躍入水中。水中而出的菲亞納之首已成孱弱老人——此湖若照全人類，皆將白首。唯有庫伊爾涅的庫林——或謂即瑪那南——能解咒；菲亞納掘丘三日三夜，方得回春之飲。芬恩形貌復原而白髮不返；金杯遁入地處生出一樹，晨起齋戒觀其枝者可預知當日之事。"
+      },
+      "motifs": [
+        "transformation",
+        "trickster",
+        "oracle-divination",
+        "prophetic-vision",
+        "earth-diver"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Fionn's white hair (fionn = fair) is here re-lexicologised as aged grey through the jealousy-plot of Miluchradh, sister of Aine — a famous etiological myth of the cycle. The prophetic tree is a dindsenchas-style object. Pin symbolic at Slieve Cuilinn / Lough Shannagh area."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Finn was one time out on the green of Almhuin, and he saw what had the appearance of a grey fawn running across the plain. Neither hound nor man heard him but only Bran and Sceolan, and near as they kept to her, he himself kept nearer to them, till they reached to Slieve Cuilinn; but they were no sooner at the hill than the fawn vanished from them. Finn came to a lake, and there was sitting on the brink of it a young girl, the most beautiful he had ever seen, having hair of the colour of gold, and eyes like the stars in time of frost, but she seemed to be sorrowful. \"It is what I am fretting after, a ring of red gold I lost off my finger in the lake.",
+          "note": "Condensed paraphrase of Gregory 1904, Book IV, ch. XV; not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "And I put you under bonds, Finn of the Fianna, to bring it back to me out of the lake.\" Finn stripped off his clothes and went into the lake at the bidding of the woman, and went three times round the whole lake, till he brought back the ring; and no sooner had he handed it up out of the water than she gave a leap into the water and vanished. And when Finn came up on the bank of the lake, he, the head and the leader of the Fianna of Ireland, was but a grey old man, weak and withered, and Bran and Sceolan went on round the lake searching after their master, for they did not know him.",
+          "note": "Condensed paraphrase of Gregory 1904, Book IV, ch. XV; not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "When he was missed in Almhuin, Caoilte began asking after him, and Conan said: \"I never heard music pleased me better than to hear the son of Cumhal is missing. And that he may be so through the whole year, and I myself will be king over you all.\" At last they came to Slieve Cuilinn and saw a withered old man sitting beside the lake, and he had not the courage to say that he himself was Finn their leader, until Caoilte took out his sword: \"It is short till you will have knowledge of death unless you will tell us what happened those three.\" To the lake they gave the name of Loch Doghra, the Lake of Sorrow. \"I know well the enchantment was put on me by a woman of the Sidhe, Miluchradh, daughter of Cuilinn, through jealousy of her sister Aine.",
+          "note": "Condensed paraphrase of Gregory 1904, Book IV, ch. XV; not verbatim."
+        },
+        {
+          "id": "4",
+          "text": "And bring me to the hill that belongs to Cuilinn of Cuailgne, for he is the only one can give me my shape again.\" The seven battalions began digging and rooting up the whole hill through the length of three nights and three days, and at the end of that time Cuilinn of Cuailgne, that some say was Manannan, son of Lir, came out of the hill holding a vessel of red gold, and no sooner did Finn drink what was in the vessel than his own shape came back to him. But only his hair never got its own colour again, for the lake that Cuilinn's daughter had made for Finn would have turned all the men of the whole world grey if they had gone into it. And in the place where the vessel slipped from his hand into the earth, a tree grew up, and any one that would look at the branches of that tree in the morning, fasting, would have knowledge of all that was to happen on that day.",
+          "note": "Condensed paraphrase of Gregory 1904, Book IV, ch. XV; not verbatim."
+        }
+      ]
+    },
+    {
+      "id": "celtic-beara-salmon-shirt-eoghan",
+      "title": {
+        "en": "Beara's Salmon Shirt for Eoghan the Bright",
+        "zh": "貝亞拉的鮭魚襯衫與「光明者」歐文"
+      },
+      "tradition": "celtic",
+      "category": "myth-religion",
+      "region": {
+        "en": "River Eibhear, Co. Kerry, Ireland (symbolic pin)",
+        "zh": "愛爾蘭克里郡艾巴河（象徵定位）"
+      },
+      "lat": 52.1,
+      "lon": -9.9,
+      "period": "Fenian cycle genealogy, medieval Irish tradition; Lady Augusta Gregory retelling (1904)",
+      "source": {
+        "archive": "Project Gutenberg",
+        "work": "Lady Augusta Gregory, Gods and Fighting Men (1904), Book V, eBook #14465",
+        "url": "https://www.gutenberg.org/ebooks/14465.txt.utf-8"
+      },
+      "license": "Public domain (Gregory 1904)",
+      "summary": {
+        "en": "Eoghan, driven out of Ireland, lands in Spain the very night the Druid foretold: the King's daughter Beara goes east to the river Eibhear, finds a crimson-spotted salmon shining from head to tail, strips him of his clothing and makes a shining shirt for the husband the Druid promised her. The exile will not ask for her till he has treasures for poets and learned men; the king calls it the answer of a king, gives her that very night, and the shirt's shining is seen in every place — hence Eoghan the Bright.",
+        "zh": "被逐出愛爾蘭的歐文抵達西班牙之夜，恰如德魯伊所預言：國王之女貝亞拉東行至艾巴河，尋得一條通體閃耀紅斑的鮭魚，剝下其衣為德魯伊許諾的夫婿縫製光衫。流亡者自言無以饋贈詩人學者而不敢求婚；國王稱此乃王者之答，當夜許婚。襯衫光芒四射——「光明者歐文」由此得名。"
+      },
+      "motifs": [
+        "prophetic-vision",
+        "divine-marriage",
+        "transformation",
+        "doom-foretold",
+        "exile"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "A genealogical marriage-tale linking the Fenian cycle to Munster dynasty (Beara gives her name to Beara peninsula); salmon-hides clothing mortals parallels the seal-skin and swan-skin motif family. Symbolic pin on the river."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Oisin had a daughter that married the son of Oiliol, son of Eoghan, and of Beara, daughter of the King of Spain. It was that Eoghan was driven out of Ireland one time, and it is to Spain he went for safety. Beara, that was daughter of the King of Spain, was very shining and beautiful, and her father sent for his Druid and asked who would be her husband. \"I can tell you that, for the man that is to be her husband will come to land in Spain this very night. And let your daughter go eastward to the river Eibhear, and she will find a crimson-spotted salmon in that river, having shining clothing on him from head to tail. And let her strip that clothing off him, and make with it a shining shirt for her husband.\"",
+          "note": "Condensed paraphrase of Gregory 1904, Book V; not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "So Beara went to the river Eibhear, and found the golden salmon as the Druid had said, and she stripped him of his crimson clothing and made a shining shirt of it. As to Eoghan, the waves of the shore put a welcome before him, and he came the same night to the king's house, and it is what all the people said, that there was never seen a comelier man than Eoghan, or a woman more beautiful than Beara. But after a while the king sent his Druid to ask Eoghan why he did not ask for Beara. \"It would not be fitting for me to be refused a wife, and I am but an exile in this country, and I have brought no treasures or goods with me out of Ireland for giving to learned men and to poets. But for all that the king's daughter is dear to me.\"",
+          "note": "Condensed paraphrase of Gregory 1904, Book V; not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "\"That is the answer of a king,\" said the King of Spain; \"and bid my daughter to sit at Eoghan's right hand, and I will give her to him this very night.\" And when Beara heard that, she sent out her serving-maid to bring the shirt she had made for Eoghan, and he put it on him over his armour, and its shining was seen in every place; and it was from wearing that shirt he got the name of Eoghan the Bright. And Oiliol was the first son they had; it was he that had his ear bitten off by Aine of the Sidhe in revenge for her brother, and it was his son married Oisin's daughter afterwards.",
+          "note": "Condensed paraphrase of Gregory 1904, Book V; not verbatim."
+        }
+      ]
+    },
+    {
+      "id": "celtic-osgar-etain-race-marriage",
+      "title": {
+        "en": "Etain of the Fair Hair Races the Fianna",
+        "zh": "金髮艾汀與菲亞納賽跑"
+      },
+      "tradition": "celtic",
+      "category": "myth-religion",
+      "region": {
+        "en": "Slieve Crot, Co. Sligo, Ireland (symbolic pin)",
+        "zh": "愛爾蘭斯利戈郡克羅特山（象徵定位）"
+      },
+      "lat": 54.3,
+      "lon": -8.6,
+      "period": "Fenian cycle, medieval Irish tradition; Lady Augusta Gregory retelling (1904)",
+      "source": {
+        "archive": "Project Gutenberg",
+        "work": "Lady Augusta Gregory, Gods and Fighting Men (1904), Book V, eBook #14465",
+        "url": "https://www.gutenberg.org/ebooks/14465.txt.utf-8"
+      },
+      "license": "Public domain (Gregory 1904)",
+      "summary": {
+        "en": "A crimson-cloaked woman on Slieve Crot asks a man of the Fianna to race her, and all run from Badhamair to the Sidhe of Beinn Edair — beaten, it turns out, by Be-mannair the shapeshifting messenger who takes every shape and gathers every secret. The racer was Etain of the Fair Hair, whose lover among the Fianna is Osgar, son of Oisin: he pledges never to leave her but for her own fault, with Goll and Finn as sureties. But when Osgar lies wounded at Beinn Edair, greyness comes on her and her heart breaks in her like a nut.",
+        "zh": "克羅特山上的紅衣女子邀菲亞納賽跑，眾人自巴德馬爾一路狂奔至埃達山的仙丘——孰料勝過他們的，是能化萬形、窮盡秘密的信使貝·曼奈爾。賽跑者實為金髮艾汀，其菲亞納情郎乃歐辛之子奧斯加：他立誓除她自過，永不離棄，以戈爾與芬恩為保。然奧斯加重傷臥於埃達山時，她容顏灰敗，心如堅果碎裂而亡。"
+      },
+      "motifs": [
+        "divine-marriage",
+        "transformation",
+        "trickster",
+        "sacred-kingship",
+        "shapeshifting"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Etain name-complex recurs across the corpus (Midir's Etain, Etain mother of Conaire); this Fenian Etain is a distinct figure — the race-to-the-otherworld courtship is a fixed Fenian pattern (cf. Niamh and Oisin). Dying of grief at the husband's wound is the same motif as Credhe. Symbolic pin."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "One time Finn and his men came to Slieve Crot, and they saw a woman waiting there before them, having a crimson fringed cloak, and a band of yellow gold on her forehead. \"Etain of the Fair Hair is my name, daughter of Aedh of the White Breast, of the hill of the Sidhe at Beinn Edair, son of Angus Og. To ask a man of the Fianna of Ireland to run a race with me I am come.\" All of the Fianna that were there set out to run with her, and they ran to the height over Badhamair and on to Ath Cliath, and from that on to the hill of the Sidhe at Beinn Edair.",
+          "note": "Condensed paraphrase of Gregory 1904, Book V; not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "There they saw a nice fair-haired girl in front of the vats, giving out drink to every one: \"It seems to me that is the girl came asking the Fianna to race against her at Slieve Crot,\" said Finn. \"It is not, for that is the slowest woman there is among us. It was Be-mannair, daughter of Ainceol, woman-messenger of the Tuatha de Danaan, and it is she that changes herself into all shapes; and she will take the shape of a fly, and of a true lover, and every one leaves their secret with her. And it was she outran you coming from the east.\"",
+          "note": "Condensed paraphrase of Gregory 1904, Book V; not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "\"Etain of the Fair Hair, a daughter of my own, and a darling of the Tuatha de Danaan, and it is the way with her, she has a lover of the men of the Fianna — Osgar, son of Oisin.\" The son of the High King of Ireland had offered a great bride-price for her, three hundreds of the land and his own weight of gold; but they did not take it, since she had no mind for it herself. \"Never to leave me for anything at all but my own fault,\" said the girl, and Osgar made the agreement, giving the sureties of Goll for the sons of Morna and of Finn for the Fianna of Ireland; and the wedding-feast was made, and they stopped there for twenty nights.",
+          "note": "Condensed paraphrase of Gregory 1904, Book V; not verbatim."
+        },
+        {
+          "id": "4",
+          "text": "But a while after that, in a great battle at Beinn Edair, Osgar got so heavy a wound that Finn and the Fianna were as if they had lost their wits; and when Etain of the Fair Hair came to the bed where Osgar was lying and saw the great kinglike shape was gone from him, greyness and darkness came on her, and she went to her bed and her heart broke in her like a nut; and she died of grief for her husband and her first love.",
+          "note": "Condensed paraphrase of Gregory 1904, Book V; not verbatim."
+        }
+      ]
+    }
+  ]
+}

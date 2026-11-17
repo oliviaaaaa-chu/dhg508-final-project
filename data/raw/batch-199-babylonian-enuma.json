@@ -1,0 +1,939 @@
+{
+  "texts": [
+    {
+      "id": "babylonian-enuma-apsu-tiamat",
+      "title": {
+        "en": "In the Beginning: Apsu, Tiamat and the Young Gods",
+        "zh": "太初：阿普蘇、提亞馬特與新生諸神"
+      },
+      "tradition": "babylonian",
+      "category": "myth",
+      "region": {
+        "en": "Primordial waters, Babylon (symbolic pin)",
+        "zh": "原初之水，巴比倫（象徵性定位）"
+      },
+      "lat": 32.536,
+      "lon": 44.421,
+      "period": "Composed c. 1100 BCE, Nineveh copies (Muss-Arnolt translation 1901)",
+      "source": {
+        "archive": "Project Gutenberg",
+        "work": "Babylonian and Assyrian Literature, 'Legends of the Creation', trans. Muss-Arnolt (1901); cf. Budge, The Babylonian Legends of the Creation (1921)",
+        "url": "https://www.gutenberg.org/ebooks/10887"
+      },
+      "license": "Public domain (translations 1901, 1921)",
+      "summary": {
+        "en": "Before heaven and earth had names, mingled waters — Apsu the sweet, Tiamat the salt — gave birth to the gods. When the young gods' motion troubles the elders, Apsu plots their unmaking; Ea learns the plan through the waters and slays Apsu in his own hall.",
+        "zh": "天地未名之際，混合之水——甜水阿普蘇與鹹水提亞馬特——誕下眾神。新生諸神的躁動擾及長老，阿普蘇謀誅之；埃亞藉水得聞其謀，入其殿誅阿普蘇。"
+      },
+      "motifs": [
+        "creation-chaos",
+        "taboo-transgression",
+        "chaos-monster"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient myth; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "When on high heaven was unnamed and earth beneath unnamed, Apsu, the begetter, and Tiamat, the mother who bore them all, mingled their waters; no field, no marsh, no god had come to be — only the two deeps and the darkness between them.",
+          "note": "Paraphrase of Enuma Elish, Tablet I, lines 1-9 (Muss-Arnolt 1901); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "From the mingled waters the gods issue in pairs — Lahmu and Lahamu, Anshar and Kishar, then Anu, and in Anu's turn Nudimmud (Ea), wise beyond his fathers. The younger gods surge and play, troubling the ancient deep with their motion.",
+          "note": "Paraphrase of Enuma Elish, Tablet I, genealogy; not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "Apsu, unable to rest, plots with his vizier Mummu to destroy the young gods; Ea, wisest of them, learns the plan and speaks a spell that puts Apsu to sleep and slays him in his own hall, binding Mummu. On Apsu's body Ea builds his house, the Abzu, and in it begets Marduk.",
+          "note": "Paraphrase of Enuma Elish, Tablet I, end; not verbatim."
+        }
+      ],
+      "persons": [
+        "apsu",
+        "mummu",
+        "anshar",
+        "kishar",
+        "tiamat",
+        "enki",
+        "marduk",
+        "anu"
+      ],
+      "functions": [
+        "Cosmogony recited at the Akitu New Year festival",
+        "Political charter of Babylon's primacy and Marduk's kingship",
+        "Theology of order born from the primordial waters"
+      ],
+      "variants": [
+        {
+          "name": "Budge's translation of the Nineveh tablets",
+          "text_tradition": "Akkadian (Budge 1921)",
+          "summary": "The British Museum recension of the same poem.",
+          "cross_ref": "none"
+        },
+        {
+          "name": "Enuma Elish per King's Seven Tablets of Creation",
+          "text_tradition": "Akkadian (King 1902)",
+          "summary": "The fuller scholarly edition of the same text.",
+          "cross_ref": "none"
+        }
+      ],
+      "language": "Akkadian",
+      "canonical_translation": "Muss-Arnolt, Babylonian and Assyrian Literature, 1901",
+      "primary_sources": [
+        {
+          "work": "Enuma Elish (Babylonian creation epic)",
+          "citation": "Tablets I-VII, trans. Muss-Arnolt in Wilson, Babylonian and Assyrian Literature (1901); Nineveh recension",
+          "language": "Akkadian"
+        }
+      ],
+      "secondary_sources": [
+        {
+          "work": "Myths from Mesopotamia",
+          "citation": "Stephanie Dalley, Oxford, 1989, introduction to Enuma Elish"
+        }
+      ],
+      "source_urls": [
+        {
+          "url": "https://www.gutenberg.org/ebooks/10887",
+          "description": "Muss-Arnolt's 1901 translations",
+          "accessed": "2026-11-14"
+        }
+      ],
+      "sensitivity_flag": "none",
+      "provenance": {
+        "record_status": "complete",
+        "compiled": "2026-11-14",
+        "compiled_by": "opencode myth-collection session",
+        "review_status": "unreviewed"
+      }
+    },
+    {
+      "id": "babylonian-enuma-tiamat-rage",
+      "title": {
+        "en": "Tiamat Rises: Monsters and the Tablet of Destinies",
+        "zh": "提亞馬特之怒：怪物與天命泥板"
+      },
+      "tradition": "babylonian",
+      "category": "myth",
+      "region": {
+        "en": "The deep, Babylon (symbolic pin)",
+        "zh": "深海，巴比倫（象徵性定位）"
+      },
+      "lat": 32.536,
+      "lon": 44.421,
+      "period": "Composed c. 1100 BCE, Nineveh copies (Muss-Arnolt translation 1901)",
+      "source": {
+        "archive": "Project Gutenberg",
+        "work": "Babylonian and Assyrian Literature, 'Legends of the Creation', trans. Muss-Arnolt (1901)",
+        "url": "https://www.gutenberg.org/ebooks/10887"
+      },
+      "license": "Public domain (translation 1901)",
+      "summary": {
+        "en": "Maddened by Apsu's death, Tiamat breeds eleven monsters and makes Qingu her general, hanging the Tablet of Destinies on his breast; the elder gods flee before the host, and the assembly is left desperate for a champion.",
+        "zh": "喪夫之痛使提亞馬特狂怒，孕育十一怪物，立金古為大將，將天命泥板懸於其胸前；長老諸神見敵軍而遁，眾神會議急尋勇者。"
+      },
+      "motifs": [
+        "creation-chaos",
+        "dismembered-giant",
+        "boon-curse",
+        "chaos-monster"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient myth; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Tiamat, enraged by her husband's death, refuses the counsel of peace; she gives birth to eleven monsters — the horned serpent, the storm demon, the lion demon, the mad dog, the scorpion man — and dresses them in terrors. She exalts Qingu over the host, gives him the Tablet of Destinies to hang on his breast: your word shall be law, your command unaltered. The gods who fled before her return trembling to the assembly, and Anshar the old king bites his lip in helplessness.",
+          "note": "Paraphrase of Enuma Elish, Tablet I-II (Muss-Arnolt 1901); not verbatim. / Paraphrase of Enuma Elish, Tablet II; not verbatim."
+        }
+      ],
+      "persons": [
+        "tiamat",
+        "qingu",
+        "anshar",
+        "kishar"
+      ],
+      "functions": [
+        "Myth of chaos organized for war",
+        "Origin of the Tablet of Destinies motif",
+        "Recited at the Akitu as the preamble of Marduk's kingship"
+      ],
+      "variants": [
+        {
+          "name": "Anzu and the Tablet of Destinies",
+          "text_tradition": "Akkadian (Spence 1916)",
+          "summary": "The later myth of the same tablets stolen in heaven.",
+          "cross_ref": "babylonian-anzu-tablet-destinies"
+        }
+      ],
+      "language": "Akkadian",
+      "canonical_translation": "Muss-Arnolt, 1901",
+      "primary_sources": [
+        {
+          "work": "Enuma Elish",
+          "citation": "Tablets I-II, trans. Muss-Arnolt (1901)",
+          "language": "Akkadian"
+        }
+      ],
+      "secondary_sources": [
+        {
+          "work": "Myths from Mesopotamia",
+          "citation": "Stephanie Dalley, Oxford, 1989"
+        }
+      ],
+      "source_urls": [
+        {
+          "url": "https://www.gutenberg.org/ebooks/10887",
+          "description": "Muss-Arnolt's 1901 translations",
+          "accessed": "2026-11-14"
+        }
+      ],
+      "sensitivity_flag": "none",
+      "provenance": {
+        "record_status": "complete",
+        "compiled": "2026-11-14",
+        "compiled_by": "opencode myth-collection session",
+        "review_status": "unreviewed"
+      }
+    },
+    {
+      "id": "babylonian-enuma-marduk-chosen",
+      "title": {
+        "en": "Marduk Offers to Fight — For Kingship",
+        "zh": "馬爾杜克受命出征——索王權"
+      },
+      "tradition": "babylonian",
+      "category": "myth",
+      "region": {
+        "en": "Assembly of the gods, Babylon (symbolic pin)",
+        "zh": "眾神會議，巴比倫（象徵性定位）"
+      },
+      "lat": 32.536,
+      "lon": 44.421,
+      "period": "Composed c. 1100 BCE, Nineveh copies (Muss-Arnolt translation 1901)",
+      "source": {
+        "archive": "Project Gutenberg",
+        "work": "Babylonian and Assyrian Literature, 'Legends of the Creation', trans. Muss-Arnolt (1901)",
+        "url": "https://www.gutenberg.org/ebooks/10887"
+      },
+      "license": "Public domain (translation 1901)",
+      "summary": {
+        "en": "Anu and Ea are sent against Tiamat and both falter; the young Marduk agrees to fight on one condition — the assembly's fates be delivered to him, his word command the cosmos — and the gods consent over the wine.",
+        "zh": "安努與埃亞相繼出征皆怯；少年馬爾杜克允諾出戰，唯有一求——眾神議會將天命交付於他，令其言語主宰宇宙——眾神於酒宴中允之。"
+      },
+      "motifs": [
+        "sacred-kingship",
+        "creation-chaos",
+        "chaos-monster"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient myth; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Anshar sends Anu, then Ea, against Tiamat; both falter before her terrors. The assembly sits silenced until Marduk rises: I will fight for you — but gather the gods, and let me command fate as I please, my word unmoved forever. The gods sit down to the banquet, drink wine, and grant his request: Marduk is given kingship over the universe entire, his word the law of the fates.",
+          "note": "Paraphrase of Enuma Elish, Tablet II (Muss-Arnolt 1901); not verbatim. / Paraphrase of Enuma Elish, Tablet II end; not verbatim."
+        }
+      ],
+      "persons": [
+        "marduk",
+        "anshar",
+        "anu",
+        "enki",
+        "tiamat"
+      ],
+      "functions": [
+        "Founding contract of Marduk's kingship",
+        "Political allegory of Babylon's rise to supremacy",
+        "Akitu recitation establishing the king as Marduk's deputy"
+      ],
+      "variants": [
+        {
+          "name": "Ninurta's exploits (Sumerian)",
+          "text_tradition": "Sumerian (ETCSL c.1.6.2)",
+          "summary": "The Sumerian parallel of the champion's contract.",
+          "cross_ref": "sumerian-ninurta-asag-battle"
+        }
+      ],
+      "language": "Akkadian",
+      "canonical_translation": "Muss-Arnolt, 1901",
+      "primary_sources": [
+        {
+          "work": "Enuma Elish",
+          "citation": "Tablet II, trans. Muss-Arnolt (1901)",
+          "language": "Akkadian"
+        }
+      ],
+      "secondary_sources": [
+        {
+          "work": "Myths from Mesopotamia",
+          "citation": "Stephanie Dalley, Oxford, 1989"
+        }
+      ],
+      "source_urls": [
+        {
+          "url": "https://www.gutenberg.org/ebooks/10887",
+          "description": "Muss-Arnolt's 1901 translations",
+          "accessed": "2026-11-14"
+        }
+      ],
+      "sensitivity_flag": "none",
+      "provenance": {
+        "record_status": "complete",
+        "compiled": "2026-11-14",
+        "compiled_by": "opencode myth-collection session",
+        "review_status": "unreviewed"
+      }
+    },
+    {
+      "id": "babylonian-enuma-marduk-proved",
+      "title": {
+        "en": "The Test of Marduk's Word",
+        "zh": "馬爾杜克之言考驗"
+      },
+      "tradition": "babylonian",
+      "category": "myth",
+      "region": {
+        "en": "Assembly of the gods, Babylon (symbolic pin)",
+        "zh": "眾神會議，巴比倫（象徵性定位）"
+      },
+      "lat": 32.536,
+      "lon": 44.421,
+      "period": "Composed c. 1100 BCE, Nineveh copies (Muss-Arnolt translation 1901)",
+      "source": {
+        "archive": "Project Gutenberg",
+        "work": "Babylonian and Assyrian Literature, 'Legends of the Creation', trans. Muss-Arnolt (1901)",
+        "url": "https://www.gutenberg.org/ebooks/10887"
+      },
+      "license": "Public domain (translation 1901)",
+      "summary": {
+        "en": "Before arming, the gods test the bargain: let a garment vanish at Marduk's word and return at his second word. It vanishes and returns — the fates are his, and the gods shout his kingship.",
+        "zh": "出征之前，眾神先試其約：使一衣於馬爾杜克一言之下消失、再言之而復現。衣消失又復現——天命歸他，眾神高呼其王權。"
+      },
+      "motifs": [
+        "theophany",
+        "sacred-kingship",
+        "offended-deity"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient myth; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The gods test their champion: set a garment before him, and say — let it vanish. At Marduk's first word it vanishes; at his second, let it come again — and it comes again. The gods cry his five titles: he is the king, and his word now rules the fates. Armed with bow and storm-chariot, he rides out to face Tiamat.",
+          "note": "Paraphrase of Enuma Elish, Tablet III (Muss-Arnolt 1901); not verbatim. / Paraphrase of Enuma Elish, Tablet III end; not verbatim."
+        }
+      ],
+      "persons": [
+        "marduk",
+        "anshar",
+        "anu"
+      ],
+      "functions": [
+        "Proof of the creative word before cosmic war",
+        "Charter of divine speech as power"
+      ],
+      "variants": [
+        {
+          "name": "Song of the hoe (Sumerian)",
+          "text_tradition": "Sumerian (ETCSL c.5.5.4)",
+          "summary": "The Sumerian theology of the creative word and tool.",
+          "cross_ref": "sumerian-song-of-hoe"
+        }
+      ],
+      "language": "Akkadian",
+      "canonical_translation": "Muss-Arnolt, 1901",
+      "primary_sources": [
+        {
+          "work": "Enuma Elish",
+          "citation": "Tablet III, trans. Muss-Arnolt (1901)",
+          "language": "Akkadian"
+        }
+      ],
+      "secondary_sources": [
+        {
+          "work": "Myths from Mesopotamia",
+          "citation": "Stephanie Dalley, Oxford, 1989"
+        }
+      ],
+      "source_urls": [
+        {
+          "url": "https://www.gutenberg.org/ebooks/10887",
+          "description": "Muss-Arnolt's 1901 translations",
+          "accessed": "2026-11-14"
+        }
+      ],
+      "sensitivity_flag": "none",
+      "provenance": {
+        "record_status": "complete",
+        "compiled": "2026-11-14",
+        "compiled_by": "opencode myth-collection session",
+        "review_status": "unreviewed"
+      }
+    },
+    {
+      "id": "babylonian-enuma-tiamat-battle",
+      "title": {
+        "en": "Marduk and Tiamat: The Cosmic Battle",
+        "zh": "馬爾杜克與提亞馬特：宇宙之戰"
+      },
+      "tradition": "babylonian",
+      "category": "myth",
+      "region": {
+        "en": "The deep before creation, Babylon (symbolic pin)",
+        "zh": "創世前之深淵，巴比倫（象徵性定位）"
+      },
+      "lat": 32.536,
+      "lon": 44.421,
+      "period": "Composed c. 1100 BCE, Nineveh copies (Muss-Arnolt translation 1901)",
+      "source": {
+        "archive": "Project Gutenberg",
+        "work": "Babylonian and Assyrian Literature, 'Legends of the Creation', trans. Muss-Arnolt (1901)",
+        "url": "https://www.gutenberg.org/ebooks/10887"
+      },
+      "license": "Public domain (translation 1901)",
+      "summary": {
+        "en": "The champions meet: Marduk answers Tiamat's taunts with justice, nets her in his wind, shoots her opened heart, and stands on her carcass; Qingu is bound and the Tablet of Destinies taken from his breast.",
+        "zh": "二雄對決：馬爾杜克以正義回應提亞馬特的譏誚，以風網罩之、射其洞開之心，立於其屍之上；金古被縛，天命泥板自其胸前奪回。"
+      },
+      "motifs": [
+        "creation-chaos",
+        "dismembered-giant",
+        "world-serpent",
+        "chaos-monster"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient myth; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Tiamat taunts the young champion; Marduk answers that she has slandered the elders and stirred war without cause. He sends the evil wind into her opened mouth, nets her, and shoots the arrow into her heart: Tiamat falls, her host scatters. The eleven monsters are netted and bound; Qingu is taken and the Tablet of Destinies stripped from his breast and sealed on Marduk's own. The champion stands on the carcass of the slain sea — the chaoskampf is won.",
+          "note": "Paraphrase of Enuma Elish, Tablet IV (Muss-Arnolt 1901); not verbatim. / Paraphrase of Enuma Elish, Tablet IV; not verbatim."
+        }
+      ],
+      "persons": [
+        "marduk",
+        "tiamat",
+        "qingu"
+      ],
+      "functions": [
+        "Central chaoskampf of the Babylonian cosmos",
+        "Recited at the Akitu as the moment of Marduk's triumph",
+        "Origin of the cosmic order from the slain deep"
+      ],
+      "variants": [
+        {
+          "name": "Ninurta and Asag",
+          "text_tradition": "Sumerian (ETCSL c.1.6.2)",
+          "summary": "The Sumerian prototype of the god-against-chaos battle.",
+          "cross_ref": "sumerian-ninurta-asag-battle"
+        },
+        {
+          "name": "Inana and Ebih",
+          "text_tradition": "Sumerian (ETCSL c.1.3.2)",
+          "summary": "The goddess's war against the mountain.",
+          "cross_ref": "sumerian-inanna-ebih-destroyed"
+        }
+      ],
+      "language": "Akkadian",
+      "canonical_translation": "Muss-Arnolt, 1901",
+      "primary_sources": [
+        {
+          "work": "Enuma Elish",
+          "citation": "Tablet IV, trans. Muss-Arnolt (1901), lines 1-90",
+          "language": "Akkadian"
+        }
+      ],
+      "secondary_sources": [
+        {
+          "work": "Myths from Mesopotamia",
+          "citation": "Stephanie Dalley, Oxford, 1989"
+        }
+      ],
+      "source_urls": [
+        {
+          "url": "https://www.gutenberg.org/ebooks/10887",
+          "description": "Muss-Arnolt's 1901 translations",
+          "accessed": "2026-11-14"
+        }
+      ],
+      "sensitivity_flag": "none",
+      "provenance": {
+        "record_status": "complete",
+        "compiled": "2026-11-14",
+        "compiled_by": "opencode myth-collection session",
+        "review_status": "unreviewed"
+      }
+    },
+    {
+      "id": "babylonian-enuma-cosmos-tiamat",
+      "title": {
+        "en": "Heaven and Earth Cut from Tiamat's Body",
+        "zh": "剖提亞馬特之屍成天地"
+      },
+      "tradition": "babylonian",
+      "region": {
+        "en": "Babylon, Iraq",
+        "zh": "巴比倫（伊拉克）"
+      },
+      "lat": 32.536,
+      "lon": 44.421,
+      "category": "myth",
+      "period": "Composed c. 1100 BCE, Nineveh copies (Muss-Arnolt translation 1901)",
+      "source": {
+        "archive": "Project Gutenberg",
+        "work": "Babylonian and Assyrian Literature, 'Legends of the Creation', trans. Muss-Arnolt (1901)",
+        "url": "https://www.gutenberg.org/ebooks/10887"
+      },
+      "license": "Public domain (translation 1901)",
+      "summary": {
+        "en": "Marduk splits the slain sea like a shellfish: one half becomes the sky, firm against her waters leaking; the other becomes the earth, with the Euphrates and Tigris set flowing from her eyes. Her head becomes the mountains; her tail the Milky Way.",
+        "zh": "馬爾杜克如剖貝般剖開被誅之海：半為天穹，固若堤壩，滴水不漏；半為大地，兩河自其目中流出。其首化為群山，其尾化作銀河。"
+      },
+      "motifs": [
+        "dismembered-giant",
+        "creation-chaos",
+        "world-serpent",
+        "chaos-monster"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient myth; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Marduk splits Tiamat like a shellfish into two halves: one he raises as the sky, barred with a bolt so her waters cannot leak; the other he tramples as the earth, and from her eyes he sets the Tigris and Euphrates flowing.",
+          "note": "Paraphrase of Enuma Elish, Tablet IV, second half (Muss-Arnolt 1901); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Her tail he bends up to make the Milky Way; her crotch he fixes as the sky's pivot. Heaven and earth are founded, the sun appointed to mark the day and the months, and the gods are assigned their stations.",
+          "note": "Paraphrase of Enuma Elish, Tablet IV-V; not verbatim."
+        }
+      ],
+      "persons": [
+        "marduk",
+        "tiamat"
+      ],
+      "functions": [
+        "Dismemberment cosmogony of the slain chaos-monster",
+        "Etiology of the rivers, sky-barrier and Milky Way",
+        "Akitu recitation of the world's making"
+      ],
+      "variants": [
+        {
+          "name": "Ymir dismembered (Norse)",
+          "text_tradition": "Norse",
+          "summary": "The parallel dismemberment cosmogony of the north.",
+          "cross_ref": "none"
+        },
+        {
+          "name": "Ninurta's hursag (Sumerian)",
+          "text_tradition": "Sumerian (ETCSL c.1.6.2)",
+          "summary": "The Sumerian world-building from the defeated stones.",
+          "cross_ref": "sumerian-ninurta-cosmic-mountain"
+        }
+      ],
+      "language": "Akkadian",
+      "canonical_translation": "Muss-Arnolt, 1901",
+      "primary_sources": [
+        {
+          "work": "Enuma Elish",
+          "citation": "Tablet IV second half - Tablet V, trans. Muss-Arnolt (1901)",
+          "language": "Akkadian"
+        }
+      ],
+      "secondary_sources": [
+        {
+          "work": "Myths from Mesopotamia",
+          "citation": "Stephanie Dalley, Oxford, 1989"
+        }
+      ],
+      "source_urls": [
+        {
+          "url": "https://www.gutenberg.org/ebooks/10887",
+          "description": "Muss-Arnolt's 1901 translations",
+          "accessed": "2026-11-14"
+        }
+      ],
+      "sensitivity_flag": "none",
+      "provenance": {
+        "record_status": "complete",
+        "compiled": "2026-11-14",
+        "compiled_by": "opencode myth-collection session",
+        "review_status": "unreviewed"
+      }
+    },
+    {
+      "id": "babylonian-enuma-kingship-names",
+      "title": {
+        "en": "Esagila and the Fifty Names",
+        "zh": "埃薩吉拉與五十名號"
+      },
+      "tradition": "babylonian",
+      "category": "myth",
+      "region": {
+        "en": "Esagila temple, Babylon, Iraq",
+        "zh": "埃薩吉拉神殿，巴比倫（伊拉克）"
+      },
+      "lat": 32.536,
+      "lon": 44.421,
+      "period": "Composed c. 1100 BCE, Nineveh copies (Muss-Arnolt translation 1901)",
+      "source": {
+        "archive": "Project Gutenberg",
+        "work": "Babylonian and Assyrian Literature, 'Legends of the Creation', trans. Muss-Arnolt (1901)",
+        "url": "https://www.gutenberg.org/ebooks/10887"
+      },
+      "license": "Public domain (translation 1901)",
+      "summary": {
+        "en": "The grateful gods build Marduk's Esagila at Babylon — 'the gate of the gods' — its brickwork laid by Anunnaki themselves; then the king of the gods is honored with fifty names, each a power, whose recitation gives the reciter his share of rule.",
+        "zh": "感恩的眾神為馬爾杜克建造埃薩吉拉神殿——「眾神之門」，磚石由安努納基親手砌成；隨後以五十名號尊榮眾神之王，每一名皆為一種權能，誦之者分得統御之力。"
+      },
+      "motifs": [
+        "sacred-place",
+        "ritual-origin",
+        "sacred-kingship",
+        "helpful-animal"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient myth; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The gods build the Esagila at Babylon — the gate of the gods — its foundations deep as the Abzu, its brickwork laid by the Anunnaki with their own hands, its tower for the assemblies of heaven and earth. The fifty names follow, each a station of Marduk's power — Asarluhi, Tutu, and the rest — and the poem teaches: let the first man learn them and repeat them; the father shall teach the son, and the wise shall recite them before Marduk.",
+          "note": "Paraphrase of Enuma Elish, Tablet VI (Muss-Arnolt 1901); not verbatim. / Paraphrase of Enuma Elish, Tablet VII; not verbatim."
+        }
+      ],
+      "persons": [
+        "marduk",
+        "anu",
+        "enlil",
+        "enki"
+      ],
+      "functions": [
+        "Founding charter of the Esagila temple and Babylon's name",
+        "Liturgical recitation of the fifty names at the Akitu",
+        "Theological identification of Marduk with Anu, Enlil and Ea"
+      ],
+      "variants": [
+        {
+          "name": "Akitu recitation rite",
+          "text_tradition": "Babylonian ritual (Jastrow 1898)",
+          "summary": "The New Year performance of the epic and its names.",
+          "cross_ref": "mesopotamian-akitu-enuma-recitation"
+        }
+      ],
+      "language": "Akkadian",
+      "canonical_translation": "Muss-Arnolt, 1901",
+      "primary_sources": [
+        {
+          "work": "Enuma Elish",
+          "citation": "Tablets VI-VII, trans. Muss-Arnolt (1901)",
+          "language": "Akkadian"
+        }
+      ],
+      "secondary_sources": [
+        {
+          "work": "The Religion of Babylonia and Assyria",
+          "citation": "Morris Jastrow Jr., Boston, 1898, on the New Year festival"
+        }
+      ],
+      "source_urls": [
+        {
+          "url": "https://www.gutenberg.org/ebooks/10887",
+          "description": "Muss-Arnolt's 1901 translations",
+          "accessed": "2026-11-14"
+        }
+      ],
+      "sensitivity_flag": "none",
+      "provenance": {
+        "record_status": "complete",
+        "compiled": "2026-11-14",
+        "compiled_by": "opencode myth-collection session",
+        "review_status": "unreviewed"
+      }
+    },
+    {
+      "id": "babylonian-enuma-creation-man",
+      "title": {
+        "en": "Man from Qingu's Blood",
+        "zh": "以金古之血造人"
+      },
+      "tradition": "babylonian",
+      "category": "myth",
+      "region": {
+        "en": "Babylon, Iraq",
+        "zh": "巴比倫（伊拉克）"
+      },
+      "lat": 32.536,
+      "lon": 44.421,
+      "period": "Composed c. 1100 BCE, Nineveh copies (Muss-Arnolt translation 1901)",
+      "source": {
+        "archive": "Project Gutenberg",
+        "work": "Babylonian and Assyrian Literature, 'Legends of the Creation', trans. Muss-Arnolt (1901)",
+        "url": "https://www.gutenberg.org/ebooks/10887"
+      },
+      "license": "Public domain (translation 1901)",
+      "summary": {
+        "en": "Marduk plans a cunning craft: lullu-man shall be made to bear the gods' burden. Ea executes it — the rebel Qingu is executed, and from his blood mankind is kneaded, created to serve the gods and free them from labor.",
+        "zh": "馬爾杜克謀定巧計：造魯魯人承擔神之勞役。埃亞執行之——叛徒金古伏誅，以其血揉合造人，使人類服役於神，令眾神解脫勞苦。"
+      },
+      "motifs": [
+        "clay-humans",
+        "culture-hero"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient myth; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Marduk addresses the assembly: I will bring a cunning craft — lullu-man shall be his name, created to bear the service of the gods, that the rest may rest. Ea executes the plan: Qingu, the rebel general, is condemned and his blood drained; with it Ea kneads mankind, and man is made — servant of the gods, keeper of their temples, doer of their work.",
+          "note": "Paraphrase of Enuma Elish, Tablet VI (Muss-Arnolt 1901); not verbatim. / Paraphrase of Enuma Elish, Tablet VI; not verbatim."
+        }
+      ],
+      "persons": [
+        "marduk",
+        "enki",
+        "qingu"
+      ],
+      "functions": [
+        "Creation of mankind as divine labor relief",
+        "Etiology of human service in the temple economy",
+        "Akitu recitation of mankind's origin"
+      ],
+      "variants": [
+        {
+          "name": "Atrahasis: creation from clay and blood",
+          "text_tradition": "Akkadian (Rogers 1912)",
+          "summary": "The older Babylonian telling with the Igigu revolt as trigger.",
+          "cross_ref": "babylonian-igigi-rebellion"
+        },
+        {
+          "name": "Enki and Ninmah",
+          "text_tradition": "Sumerian (ETCSL c.1.1.2)",
+          "summary": "The Sumerian creation-from-clay prototype.",
+          "cross_ref": "sumerian-enki-ninmah-clay"
+        }
+      ],
+      "language": "Akkadian",
+      "canonical_translation": "Muss-Arnolt, 1901",
+      "primary_sources": [
+        {
+          "work": "Enuma Elish",
+          "citation": "Tablet VI, trans. Muss-Arnolt (1901), opening lines",
+          "language": "Akkadian"
+        }
+      ],
+      "secondary_sources": [
+        {
+          "work": "Myths from Mesopotamia",
+          "citation": "Stephanie Dalley, Oxford, 1989"
+        }
+      ],
+      "source_urls": [
+        {
+          "url": "https://www.gutenberg.org/ebooks/10887",
+          "description": "Muss-Arnolt's 1901 translations",
+          "accessed": "2026-11-14"
+        }
+      ],
+      "sensitivity_flag": "none",
+      "provenance": {
+        "record_status": "complete",
+        "compiled": "2026-11-14",
+        "compiled_by": "opencode myth-collection session",
+        "review_status": "unreviewed"
+      }
+    },
+    {
+      "id": "babylonian-enuma-tiamat-eleven",
+      "title": {
+        "en": "The Eleven Monsters of Tiamat",
+        "zh": "提亞馬特的十一魔物"
+      },
+      "tradition": "babylonian",
+      "category": "myth",
+      "region": {
+        "en": "The deep, Babylon (symbolic pin)",
+        "zh": "深淵，巴比倫（象徵性定位）"
+      },
+      "lat": 32.536,
+      "lon": 44.421,
+      "period": "Composed c. 1100 BCE, Nineveh copies (Muss-Arnolt translation 1901)",
+      "source": {
+        "archive": "Project Gutenberg",
+        "work": "Babylonian and Assyrian Literature, 'Legends of the Creation', trans. Muss-Arnolt (1901)",
+        "url": "https://www.gutenberg.org/ebooks/10887"
+      },
+      "license": "Public domain (translation 1901)",
+      "summary": {
+        "en": "The catalogue of chaos: the horned serpent, the great lion, the mad dog, the scorpion man, the storm bird, the fish-man, the bull-calf — eleven monsters Tiamat bears and dresses in terror, exalting Qingu above them.",
+        "zh": "混沌之目錄：角蛇、巨獅、狂犬、蠍人、暴風鳥、魚人、牛犢——提亞馬特孕育十一魔物，披以可怖，立金古於其上。"
+      },
+      "motifs": [
+        "world-serpent",
+        "creation-chaos",
+        "transformation",
+        "chaos-monster"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient myth; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Tiamat bears giant serpents, sharp of tooth and unsparing of fang; with poison instead of blood she fills their bodies; the great lion, the mad dog, the scorpion man, mighty storm demons, the fish-man and the bull-calf — terrible, clothed in terror. Eleven monster-species in all she creates, and above them she raises Qingu: command is yours, my husband Apsu's heir — the host of chaos marshaled for the war that will birth the world.",
+          "note": "Paraphrase of Enuma Elish, Tablet I-II catalogue (Muss-Arnolt 1901); not verbatim. / Paraphrase of Enuma Elish, Tablet II; not verbatim."
+        }
+      ],
+      "persons": [
+        "tiamat",
+        "qingu"
+      ],
+      "functions": [
+        "Catalogue of chaos-monsters for apotropaic iconography",
+        "Preamble of the cosmic war"
+      ],
+      "variants": [
+        {
+          "name": "Asag and the stone army",
+          "text_tradition": "Sumerian (ETCSL c.1.6.2)",
+          "summary": "The Sumerian chaos host of stones.",
+          "cross_ref": "sumerian-ninurta-asag-battle"
+        }
+      ],
+      "language": "Akkadian",
+      "canonical_translation": "Muss-Arnolt, 1901",
+      "primary_sources": [
+        {
+          "work": "Enuma Elish",
+          "citation": "Tablets I-II, catalogue sections, trans. Muss-Arnolt (1901)",
+          "language": "Akkadian"
+        }
+      ],
+      "secondary_sources": [
+        {
+          "work": "Gods, Demons and Symbols of Ancient Mesopotamia",
+          "citation": "Jeremy Black and Anthony Green, London, 1992, entry 'mukil-res-learti'"
+        }
+      ],
+      "source_urls": [
+        {
+          "url": "https://www.gutenberg.org/ebooks/10887",
+          "description": "Muss-Arnolt's 1901 translations",
+          "accessed": "2026-11-14"
+        }
+      ],
+      "sensitivity_flag": "none",
+      "provenance": {
+        "record_status": "complete",
+        "compiled": "2026-11-14",
+        "compiled_by": "opencode myth-collection session",
+        "review_status": "unreviewed"
+      }
+    },
+    {
+      "id": "babylonian-enuma-marduk-shrine",
+      "title": {
+        "en": "Babylon: The Gate of the Gods",
+        "zh": "巴比倫：眾神之門"
+      },
+      "tradition": "babylonian",
+      "category": "myth",
+      "region": {
+        "en": "Babylon, Iraq",
+        "zh": "巴比倫（伊拉克）"
+      },
+      "lat": 32.536,
+      "lon": 44.421,
+      "period": "Composed c. 1100 BCE, Nineveh copies (Muss-Arnolt 1901)",
+      "source": {
+        "archive": "Project Gutenberg",
+        "work": "Babylonian and Assyrian Literature, 'Legends of the Creation', trans. Muss-Arnolt (1901)",
+        "url": "https://www.gutenberg.org/ebooks/10887"
+      },
+      "license": "Public domain (translation 1901)",
+      "summary": {
+        "en": "When the gods see their champion's face they rejoice; they build him a shrine in Babylon whose top reaches the Apsu's floor of heaven — and name the city: Babylon, the gate of the gods, made the navel of the world.",
+        "zh": "眾神見其主宰之容而歡；遂於巴比倫為其建殿，殿頂直抵阿卜祖之天階——並命名此城：巴比倫，眾神之門，宇宙之臍。"
+      },
+      "motifs": [
+        "sacred-place",
+        "foundational-legend",
+        "ritual-origin"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient myth; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The gods, seeing Marduk's face, rejoice and speak: Babylon is your place — here shall be your throne and your shrine, and the city named the gate of the gods. The Esagila rises: its top touches the Apsu's heaven, its base founded on the underworld; here the assemblies of all the gods are held, and Babylon is made the navel of the world.",
+          "note": "Paraphrase of Enuma Elish, Tablet VI (Muss-Arnolt 1901); not verbatim. / Paraphrase of Enuma Elish, Tablet VI; not verbatim."
+        }
+      ],
+      "persons": [
+        "marduk"
+      ],
+      "functions": [
+        "Founding legend of Babylon and the Esagila",
+        "Political charter recited at the Akitu"
+      ],
+      "variants": [
+        {
+          "name": "Tower of Babel tradition",
+          "text_tradition": "Hebrew (Genesis 11)",
+          "summary": "The Hebrew memory of Babylon's tower.",
+          "cross_ref": "none"
+        }
+      ],
+      "language": "Akkadian",
+      "canonical_translation": "Muss-Arnolt, 1901",
+      "primary_sources": [
+        {
+          "work": "Enuma Elish",
+          "citation": "Tablet VI, shrine sections, trans. Muss-Arnolt (1901)",
+          "language": "Akkadian"
+        }
+      ],
+      "secondary_sources": [
+        {
+          "work": "The Religion of Babylonia and Assyria",
+          "citation": "Morris Jastrow Jr., Boston, 1898"
+        }
+      ],
+      "source_urls": [
+        {
+          "url": "https://www.gutenberg.org/ebooks/10887",
+          "description": "Muss-Arnolt's 1901 translations",
+          "accessed": "2026-11-14"
+        }
+      ],
+      "sensitivity_flag": "none",
+      "provenance": {
+        "record_status": "complete",
+        "compiled": "2026-11-14",
+        "compiled_by": "opencode myth-collection session",
+        "review_status": "unreviewed"
+      }
+    }
+  ]
+}

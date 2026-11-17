@@ -1,0 +1,1009 @@
+{
+ "texts": [
+  {
+   "id": "sumerian-enki-world-order",
+   "title": {
+    "en": "Enki Decrees the World Order",
+    "zh": "恩基頒定世界秩序"
+   },
+   "tradition": "sumerian",
+   "category": "myth",
+   "region": {
+    "en": "Eridu, Iraq (Abzu shrine)",
+    "zh": "埃利都（阿卜祖神殿，伊拉克）"
+   },
+   "lat": 30.629,
+   "lon": 44.428,
+   "period": "Old Babylonian manuscript, c. 1700 BCE (ETCSL translation 2003)",
+   "source": {
+    "archive": "ETCSL (University of Oxford)",
+    "work": "Enki and the world order (ETCSL c.1.1.3)",
+    "url": "https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.1.1.3&charenc=j"
+   },
+   "license": "ETCSL translation (Oxford, 2003-2006); quoted in paraphrase with attribution",
+   "summary": {
+    "en": "From his shrine in the Abzu, Enki allocates every land, river, tool and craft its role, then blesses Sumer, Urim and Meluhha in turn. When Inanna complains she was passed over, Enki soothes her with speeches of her powers.",
+    "zh": "恩基於阿卜祖神殿中，為各邦、河流、器物與技藝一一賦職，繼而依次祝福蘇美、烏爾與美魯哈。伊南娜埋怨遺漏，恩基以頌詞撫慰，盛讚其能。"
+   },
+   "motifs": [
+    "culture-hero",
+    "divine-marriage",
+    "sacred-kingship"
+   ],
+   "sensitivity": {
+    "restricted": false,
+    "note": "Ancient myth; presented as comparative-mythology material, not religious truth."
+   },
+   "passages": [
+    {
+     "id": "1",
+     "text": "Enki, lord of the Abzu, comes out of his shrine and decrees the fates. He fills the Tigris and Euphrates with bright waters, appoints the marshes and reeds, fills the sea and its trade, and sends the rains. He gives the plough to the earth, the yoke to the ox, and sets the great crafts — smithery, smithing of metal, weaving and building — in the hands of their lords.",
+     "note": "Paraphrase of ETCSL c.1.1.3, lines 1-100; not verbatim."
+    },
+    {
+     "id": "2",
+     "text": "He blesses the black-headed people of Sumer, then Urim with its lofty city-walls and cooling shade, then Meluhha with its black mountains and its ships of timber. He gives each its destiny like a shepherd allotting pasture. Nothing is left without its place, its god, or its due of praise.",
+     "note": "Paraphrase of ETCSL c.1.1.3, middle section; not verbatim."
+    },
+    {
+     "id": "3",
+     "text": "Inanna stands before him complaining: everywhere she looks she finds a lord and a decree, but for herself only a heap of words. Enki answers that she has not been passed over: heaven and earth were her gifts — she turns a woman into a man and a man into a woman, she holds battle, plunder and the plunderer's hand, and where she is, the assembly gathers.",
+     "note": "Paraphrase of ETCSL c.1.1.3, closing exchange; not verbatim."
+    }
+   ],
+   "persons": [
+    "enki",
+    "inanna",
+    "utu",
+    "enlil"
+   ],
+   "functions": [
+    "Charter text explaining why every land, craft and river has its divine patron",
+    "Ritual script for Inanna's claim of the me at the Uruk new year",
+    "Panegyric for Urim and the moon god legitimating Ur's primacy",
+    "Theological elevation of Inanna from city goddess to universal power"
+   ],
+   "variants": [
+    {
+     "name": "Inana and Enki (the theft of the me)",
+     "text_tradition": "Sumerian (ETCSL c.1.3.1)",
+     "summary": "Inanna gets Enki drunk and carries the me to Uruk; a variant plot in which the world order is seized rather than allocated.",
+     "cross_ref": "sumerian-inanna-enki-me"
+    },
+    {
+     "name": "Enuma Elish, Marduk allocates the cosmos",
+     "text_tradition": "Akkadian (Babylon)",
+     "summary": "The Babylonian parallel in which the young champion, having killed chaos, assigns every god his station.",
+     "cross_ref": "babylonian-enuma-cosmos-tiamat"
+    }
+   ],
+   "language": "Sumerian",
+   "canonical_translation": "ETCSL team translation, Oxford, 2003-2006",
+   "primary_sources": [
+    {
+     "work": "Enki and the world order",
+     "citation": "ETCSL c.1.1.3, trans. ETCSL team (2003-2006), lines 1-304",
+     "language": "Sumerian"
+    }
+   ],
+   "secondary_sources": [
+    {
+     "work": "Sumerian Mythology: A Study of Spiritual and Literary Achievement in the Third Millennium B.C.",
+     "citation": "Samuel Noah Kramer, Philadelphia, 1944, ch. on Enki"
+    }
+   ],
+   "source_urls": [
+    {
+     "url": "https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.1.1.3&charenc=j",
+     "description": "ETCSL c.1.1.3 text and translation",
+     "accessed": "2026-11-14"
+    }
+   ],
+   "sensitivity_flag": "none",
+   "provenance": {
+    "record_status": "complete",
+    "compiled": "2026-11-14",
+    "compiled_by": "opencode myth-collection session",
+    "review_status": "unreviewed"
+   }
+  },
+  {
+   "id": "sumerian-enki-ninmah-clay",
+   "title": {
+    "en": "Enki and Ninmah: Humans Shaped from Clay",
+    "zh": "恩基與寧瑪：黏土塑人"
+   },
+   "tradition": "sumerian",
+   "category": "myth",
+   "region": {
+    "en": "Eridu, Iraq",
+    "zh": "埃利都（伊拉克）"
+   },
+   "lat": 30.629,
+   "lon": 44.428,
+   "period": "Old Babylonian manuscript, c. 1700 BCE (ETCSL translation 2003)",
+   "source": {
+    "archive": "ETCSL (University of Oxford)",
+    "work": "Enki and Ninmah (ETCSL c.1.1.2)",
+    "url": "https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.1.1.2&charenc=j"
+   },
+   "license": "ETCSL translation (Oxford, 2003-2006); quoted in paraphrase with attribution",
+   "summary": {
+    "en": "The lesser gods, weary of digging canals, complain over Enki's beer; Nammu the primeval sea proposes that her womb-creatures shape men from clay, and Ninmah and Enki divide the work of forming bodies and fates. Their contest turns into a drinking game: Ninmah makes six disabled bodies, Enki finds each a livelihood, and her seventh lump he fixes unfinished.",
+    "zh": "諸下神倦於掘渠，於恩基的酒宴上抱怨；原初之海娜木提議以黏土塑人，寧瑪塑身，恩基定命。二人化比賽為酒戲：寧瑪造六具殘軀，恩基各予其生路；第七團泥，恩基令其不成而止。"
+   },
+   "motifs": [
+    "clay-humans",
+    "sibling-creators",
+    "divine-marriage"
+   ],
+   "sensitivity": {
+    "restricted": false,
+    "note": "Ancient myth; disability is depicted within an ancient theological framing, not endorsed."
+   },
+   "passages": [
+    {
+     "id": "1",
+     "text": "The junior gods, digging the canals day and night, come drunk with weariness to Enki's gate and refuse the shovel. Enki, lord of the Abzu, sits with Ninhursag and Nammu and drinks; the primeval sea, his mother, tells him to relieve them: her womb-creatures should knead clay and men should be made to carry the gods' baskets.",
+     "note": "Paraphrase of ETCSL c.1.1.2, opening; not verbatim."
+    },
+    {
+     "id": "2",
+     "text": "Ninmah takes the clay and shapes six bodies in Enki's sight: a weak-armed man, a blind man, one with broken feet, one who cannot urinate, a barren woman, and one without sex. Enki decrees each one's fate so that every shape can live: the weak-armed serves the king, the blind becomes a singer, the lame a worker for hire, and so the imperfect bodies are given perfect fates.",
+     "note": "Paraphrase of ETCSL c.1.1.2, central contest; not verbatim."
+    },
+    {
+     "id": "3",
+     "text": "Then Enki challenges Ninmah: whatever he shapes, let her decree its fate. He makes a seventh being with neither arms nor legs, neither penis nor vagina, a soft doll that cannot move, and sets it at her feet. Ninmah looks at it and cannot say a word; whatever she decrees, it cannot live. Enki laughs: how do you equal my decrees? — and the contest ends with the two reconciled over beer.",
+     "note": "Paraphrase of ETCSL c.1.1.2, closing contest; not verbatim."
+    }
+   ],
+   "persons": [
+    "enki",
+    "ninhursag",
+    "nammu"
+   ],
+   "functions": [
+    "Explains why humans labor for the gods — creation as relief of divine workers",
+    "Etiology of fate-decreeing and the naming of a child's destiny",
+    "Template of vocational roles for disabled persons within the temple economy",
+    "Drinking-banquet myth performed at Enki's festivals"
+   ],
+   "variants": [
+    {
+     "name": "Atrahasis, creation from clay and blood",
+     "text_tradition": "Akkadian, Old Babylonian (ETCSL parallel c.1.7.x; Rogers 1912)",
+     "summary": "The Babylonian version in which man is mixed of clay and a slain god's blood after the Igigu revolt.",
+     "cross_ref": "babylonian-igigi-rebellion"
+    },
+    {
+     "name": "Enuma Elish, mankind from Qingu's blood",
+     "text_tradition": "Akkadian (Babylon)",
+     "summary": "Marduk has Ea create lullu-man from the blood of the executed rebel Qingu to serve the gods.",
+     "cross_ref": "babylonian-enuma-creation-man"
+    }
+   ],
+   "language": "Sumerian",
+   "canonical_translation": "ETCSL team translation, Oxford, 2003-2006",
+   "primary_sources": [
+    {
+     "work": "Enki and Ninmah",
+     "citation": "ETCSL c.1.1.2, trans. ETCSL team (2003-2006), lines 1-166",
+     "language": "Sumerian"
+    }
+   ],
+   "secondary_sources": [
+    {
+     "work": "Myths from Mesopotamia: Creation, the Flood, Gilgamesh, and Others",
+     "citation": "Stephanie Dalley, Oxford, 1989, introduction to Atrahasis"
+    }
+   ],
+   "source_urls": [
+    {
+     "url": "https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.1.1.2&charenc=j",
+     "description": "ETCSL c.1.1.2 text and translation",
+     "accessed": "2026-11-14"
+    }
+   ],
+   "sensitivity_flag": "none",
+   "provenance": {
+    "record_status": "complete",
+    "compiled": "2026-11-14",
+    "compiled_by": "opencode myth-collection session",
+    "review_status": "unreviewed"
+   }
+  },
+  {
+   "id": "sumerian-enki-journey-nibru",
+   "title": {
+    "en": "Enki's Journey to Nippur",
+    "zh": "恩基赴尼普魯之行"
+   },
+   "tradition": "sumerian",
+   "category": "myth",
+   "region": {
+    "en": "Nippur, Iraq",
+    "zh": "尼普魯（伊拉克）"
+   },
+   "lat": 32.126,
+   "lon": 45.23,
+   "period": "Old Babylonian manuscript, c. 1700 BCE (ETCSL translation 2003)",
+   "source": {
+    "archive": "ETCSL (University of Oxford)",
+    "work": "Enki's journey to Nibru (ETCSL c.1.1.4)",
+    "url": "https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.1.1.4&charenc=j"
+   },
+   "license": "ETCSL translation (Oxford, 2003-2006); quoted in paraphrase with attribution",
+   "summary": {
+    "en": "Enki harnesses his boat of forty and sails from Eridu up the river to Nippur, where Enlil receives him at the Ekur with feasting. Over the banquet Enki officiates as ritual master and blesses the journey, and the poem ends with Enki's praise of the rites.",
+    "zh": "恩基套上四十人巨舟，自埃利都溯流而上抵尼普魯；恩利爾於埃庫爾殿設宴相迎。宴中恩基親執禮儀之職，為旅程祝福，詩末恩基頌揚諸儀。"
+   },
+   "motifs": [
+    "ritual-origin",
+    "sacred-place",
+    "sacred-kingship"
+   ],
+   "sensitivity": {
+    "restricted": false,
+    "note": "Ancient ritual narrative; no living community restrictions."
+   },
+   "passages": [
+    {
+     "id": "1",
+     "text": "In Eridu, Enki harnesses the great boat of forty and loads it with his gifts; he appoints theAbgal-priest and the masters of the rites to crew it, and the boat glides up the river like a giant among boats, its cabin of white cedar, its prow painted.",
+     "note": "Paraphrase of ETCSL c.1.1.4, opening voyage; not verbatim."
+    },
+    {
+     "id": "2",
+     "text": "Enki enters Nippur; the city gates open before him. At the Ekur, the temple of Enlil, he is made to sit at the great banquet; he stands and officiates as the master of ceremonies, offering to Enlil and the Anuna gods, and Enlil gives him the Abzu's destiny and the lapis-lazuli house of Eridu as reward.",
+     "note": "Paraphrase of ETCSL c.1.1.4, arrival and banquet; not verbatim."
+    },
+    {
+     "id": "3",
+     "text": "Over the cups Enki blesses each office and each rite in turn — the libations, the lustrations, the hymns — until the Anuna gods, drunk, bless Enki himself. The poem closes: whoever recites its lines by day shall have no sleepless nights, whoever recites them by night shall have no bad dreams.",
+     "note": "Paraphrase of ETCSL c.1.1.4, closing blessings; not verbatim."
+    }
+   ],
+   "persons": [
+    "enki",
+    "enlil"
+   ],
+   "functions": [
+    "Script for the liturgical banquet and the etiquette of offering",
+    "Myth of reciprocity between Nippur and Eridu, the two senior sanctuaries",
+    "Protective incantation: recitation wards off bad dreams",
+    "Charter for ritual journeys by barge along the river cult route"
+   ],
+   "variants": [
+    {
+     "name": "Nanna-Suen's journey to Nibru",
+     "text_tradition": "Sumerian (ETCSL c.1.5.1)",
+     "summary": "The moon god makes the same river journey to Nippur, a parallel pilgrimage text.",
+     "cross_ref": "sumerian-nanna-journey"
+    },
+    {
+     "name": "Pabilsag's journey to Nibru",
+     "text_tradition": "Sumerian (ETCSL c.1.7.8)",
+     "summary": "Another journey hymn in which a god sails to Enlil's city for blessing.",
+     "cross_ref": "sumerian-pabilsaj-journey"
+    }
+   ],
+   "language": "Sumerian",
+   "canonical_translation": "ETCSL team translation, Oxford, 2003-2006",
+   "primary_sources": [
+    {
+     "work": "Enki's journey to Nibru",
+     "citation": "ETCSL c.1.1.4, trans. ETCSL team (2003-2006), lines 1-239",
+     "language": "Sumerian"
+    }
+   ],
+   "secondary_sources": [
+    {
+     "work": "The Harps that Once...: Sumerian Poetry in Translation",
+     "citation": "Thorkild Jacobsen, New Haven, 1987, introduction"
+    }
+   ],
+   "source_urls": [
+    {
+     "url": "https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.1.1.4&charenc=j",
+     "description": "ETCSL c.1.1.4 text and translation",
+     "accessed": "2026-11-14"
+    }
+   ],
+   "sensitivity_flag": "none",
+   "provenance": {
+    "record_status": "complete",
+    "compiled": "2026-11-14",
+    "compiled_by": "opencode myth-collection session",
+    "review_status": "unreviewed"
+   }
+  },
+  {
+   "id": "sumerian-enlil-ninlil-courtship",
+   "title": {
+    "en": "Enlil and Ninlil by the Canal",
+    "zh": "恩利爾與寧利爾運河之遇"
+   },
+   "tradition": "sumerian",
+   "category": "myth",
+   "region": {
+    "en": "Nippur, Iraq",
+    "zh": "尼普魯（伊拉克）"
+   },
+   "lat": 32.126,
+   "lon": 45.23,
+   "period": "Old Babylonian manuscript, c. 1700 BCE (ETCSL translation 2003)",
+   "source": {
+    "archive": "ETCSL (University of Oxford)",
+    "work": "Enlil and Ninlil (ETCSL c.1.2.1)",
+    "url": "https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.1.2.1&charenc=j"
+   },
+   "license": "ETCSL translation (Oxford, 2003-2006); quoted in paraphrase with attribution",
+   "summary": {
+    "en": "Ninlil, warned by her mother Nunbar, bathes in the pure canal of Nippur; Enlil, young lord, lies with her there and is condemned by the fifty gods to leave the city. He accepts exile to the netherworld, and Ninlil, pregnant, follows him down.",
+    "zh": "寧利爾聽母親努恩巴之誡，沐浴於尼普魯清渠；青年主神恩利爾於彼處與之苟合，五十神議罪，判其離城。恩利爾受命放逐冥界，已有身孕的寧利爾隨之而入。"
+   },
+   "motifs": [
+    "divine-marriage",
+    "taboo-transgression",
+    "descent-underworld"
+   ],
+   "sensitivity": {
+    "restricted": false,
+    "note": "Ancient myth containing coercion; presented as comparative-mythology material without endorsement."
+   },
+   "passages": [
+    {
+     "id": "1",
+     "text": "Nunbar warns her daughter Ninlil: a man of the great city will lie with you in the dark canal-water if you bathe alone. Ninlil goes anyway to the Id-nunbirdu, the pure canal, and Enlil, the young lord, takes her there. Nunbar's word comes true, and Ninlil conceives Suen, the moon.",
+     "note": "Paraphrase of ETCSL c.1.2.1, opening; not verbatim."
+    },
+    {
+     "id": "2",
+     "text": "The fifty great gods and the seven Anuna catch Enlil and declare him ritually unclean: Sex-offender of Nippur, leave the city! Enlil, not disputing, walks out of the Ekur gate toward the netherworld, followed at a distance by Ninlil, whose pregnancy shows.",
+     "note": "Paraphrase of ETCSL c.1.2.1, judgment; not verbatim."
+    }
+   ],
+   "persons": [
+    "enlil",
+    "ninlil",
+    "nanna-suen"
+   ],
+   "functions": [
+    "Etiology of the gods of the three netherworld gates",
+    "Marriage myth for Enlil and Ninlil performed at Nippur",
+    "Explains Suen the moon as Enlil's heir born above ground",
+    "Narrative prelude to the rite of the sacred marriage"
+   ],
+   "variants": [
+    {
+     "name": "Enlil and Sud",
+     "text_tradition": "Sumerian (ETCSL c.1.2.2)",
+     "summary": "A gentler courtship in which Enlil wins Sud by proposal and bridewealth, and she is renamed Ninlil.",
+     "cross_ref": "sumerian-enlil-sud-marriage"
+    }
+   ],
+   "language": "Sumerian",
+   "canonical_translation": "ETCSL team translation, Oxford, 2003-2006",
+   "primary_sources": [
+    {
+     "work": "Enlil and Ninlil",
+     "citation": "ETCSL c.1.2.1, trans. ETCSL team (2003-2006), lines 1-134",
+     "language": "Sumerian"
+    }
+   ],
+   "secondary_sources": [
+    {
+     "work": "Sumerian Mythology",
+     "citation": "Samuel Noah Kramer, Philadelphia, 1944, ch. on Enlil and Ninlil"
+    }
+   ],
+   "source_urls": [
+    {
+     "url": "https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.1.2.1&charenc=j",
+     "description": "ETCSL c.1.2.1 text and translation",
+     "accessed": "2026-11-14"
+    }
+   ],
+   "sensitivity_flag": "none",
+   "provenance": {
+    "record_status": "complete",
+    "compiled": "2026-11-14",
+    "compiled_by": "opencode myth-collection session",
+    "review_status": "unreviewed"
+   }
+  },
+  {
+   "id": "sumerian-enlil-ninlil-underworld",
+   "title": {
+    "en": "Enlil in the Netherworld: Births at the Three Gates",
+    "zh": "恩利爾冥界三門誕子"
+   },
+   "tradition": "sumerian",
+   "category": "myth",
+   "region": {
+    "en": "Gate of the netherworld (symbolic pin at Nippur's underworld gate)",
+    "zh": "冥界之門（象徵性定位於尼普魯冥門）"
+   },
+   "lat": 32.126,
+   "lon": 45.23,
+   "period": "Old Babylonian manuscript, c. 1700 BCE (ETCSL translation 2003)",
+   "source": {
+    "archive": "ETCSL (University of Oxford)",
+    "work": "Enlil and Ninlil, second half (ETCSL c.1.2.1)",
+    "url": "https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.1.2.1&charenc=j"
+   },
+   "license": "ETCSL translation (Oxford, 2003-2006); quoted in paraphrase with attribution",
+   "summary": {
+    "en": "Marching into exile, Enlil takes the shape of three underworld officials in turn — the man of the gate, the man of the river, the ferryman of the lower world — and at each gate Ninlil conceives a god who will serve below, sparing the unborn Suen.",
+    "zh": "放逐途中，恩利爾先後化身冥界三職——守門者、冥河之人、擺渡者——於每道門前與寧利爾結合，令她各誕一神以代冥界服役，免尚在腹中的蘇恩受遣。"
+   },
+   "motifs": [
+    "descent-underworld",
+    "transformation",
+    "divine-marriage"
+   ],
+   "sensitivity": {
+    "restricted": false,
+    "note": "Ancient myth; no living community restrictions."
+   },
+   "passages": [
+    {
+     "id": "1",
+     "text": "Enlil, walking ahead into the dark, is stopped at the gate of the netherworld. He takes the shape of its gatekeeper and turns back for Ninlil, who is told by her mother to go and not to let the city of the dead hold her. At the gate they lie together and she conceives the man-eating Meslamtaea, who will stand in the netherworld in her child's stead.",
+     "note": "Paraphrase of ETCSL c.1.2.1, first gate; not verbatim."
+    },
+    {
+     "id": "2",
+     "text": "Deeper in, the man of the netherworld river bars the way; Enlil is there in that shape, and Ninlil conceives Ninazu, lord of the underworld's shrine. At the third gate, that of the great boat, Enlil as ferryman lies with her once more, and Enbilulu, the canal-inspector of the lower world, is born.",
+     "note": "Paraphrase of ETCSL c.1.2.1, second and third gates; not verbatim."
+    },
+    {
+     "id": "3",
+     "text": "The exchanges at the gates are spoken as riddling dialogue: each time the gatekeeper asks who passes, and each time Enlil answers with the words of his disguise. Ninlil, never deceived, goes anyway — because the child she must save is Suen, and the gods born below will take his place in the dead's service.",
+     "note": "Paraphrase of ETCSL c.1.2.1, dialogue structure; not verbatim."
+    }
+   ],
+   "persons": [
+    "enlil",
+    "ninlil",
+    "nanna-suen",
+    "nergal"
+   ],
+   "functions": [
+    "Etiology of the underworld's divine staff and gates",
+    "Explains the exemption of the moon god from netherworld service",
+    "Ritual text for the Enlil-Ninlil marriage rite at Nippur",
+    "Template for descent-with-encounters narratives"
+   ],
+   "variants": [
+    {
+     "name": "Descent of Inanna",
+     "text_tradition": "Sumerian (ETCSL c.1.4.1)",
+     "summary": "The famous descent in which the living goddess enters the netherworld and must send a substitute.",
+     "cross_ref": "inanna-descent"
+    },
+    {
+     "name": "Nergal and Ereshkigal",
+     "text_tradition": "Akkadian (Rogers 1912)",
+     "summary": "The Babylonian underworld tale in which a god descends and stays, as its king.",
+     "cross_ref": "babylonian-nergal-ereshkigal-amarna"
+    }
+   ],
+   "language": "Sumerian",
+   "canonical_translation": "ETCSL team translation, Oxford, 2003-2006",
+   "primary_sources": [
+    {
+     "work": "Enlil and Ninlil",
+     "citation": "ETCSL c.1.2.1, trans. ETCSL team (2003-2006), lines 60-134",
+     "language": "Sumerian"
+    }
+   ],
+   "secondary_sources": [
+    {
+     "work": "The Treasures of Darkness: A Survey of Mesopotamian Cosmology",
+     "citation": "Thorkild Jacobsen, New Haven, 1976, ch. on Enlil"
+    }
+   ],
+   "source_urls": [
+    {
+     "url": "https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.1.2.1&charenc=j",
+     "description": "ETCSL c.1.2.1 text and translation",
+     "accessed": "2026-11-14"
+    }
+   ],
+   "sensitivity_flag": "none",
+   "provenance": {
+    "record_status": "complete",
+    "compiled": "2026-11-14",
+    "compiled_by": "opencode myth-collection session",
+    "review_status": "unreviewed"
+   }
+  },
+  {
+   "id": "sumerian-enlil-sud-marriage",
+   "title": {
+    "en": "Enlil and Sud: The Bridewealth of Nippur",
+    "zh": "恩利爾與蘇德：尼普魯的聘禮"
+   },
+   "tradition": "sumerian",
+   "category": "myth",
+   "region": {
+    "en": "Nippur, Iraq",
+    "zh": "尼普魯（伊拉克）"
+   },
+   "lat": 32.126,
+   "lon": 45.23,
+   "period": "Old Babylonian manuscript, c. 1700 BCE (ETCSL translation 2003)",
+   "source": {
+    "archive": "ETCSL (University of Oxford)",
+    "work": "Enlil and Sud (ETCSL c.1.2.2)",
+    "url": "https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.1.2.2&charenc=j"
+   },
+   "license": "ETCSL translation (Oxford, 2003-2006); quoted in paraphrase with attribution",
+   "summary": {
+    "en": "Enlil, walking the street of Nippur, meets the young Sud at a woman's gate and proposes through her mother Nunbarshegunu. With proper bridewealth — a house, grain, and a mule — he wins her, and Enki names her Ninlil, lady of his city.",
+    "zh": "恩利爾漫步尼普魯街巷，於一女宅門前遇少女蘇德，託其母努恩巴謝古努提親。以宅第、穀物與騾馬為聘，終得佳人；恩基為她命名寧利爾——其城之女主。"
+   },
+   "motifs": [
+    "divine-marriage",
+    "ritual-origin"
+   ],
+   "sensitivity": {
+    "restricted": false,
+    "note": "Ancient myth; no living community restrictions."
+   },
+   "passages": [
+    {
+     "id": "1",
+     "text": "Enlil, the great lord, walks in the streets of Nippur in his splendor and sees the maiden Sud at the gate of her house. He greets her mother Nunbarshegunu with courtesy and asks for her daughter in marriage; the mother bargains with him like a real-world mother-in-law, requiring proper gifts.",
+     "note": "Paraphrase of ETCSL c.1.2.2, courtship; not verbatim."
+    },
+    {
+     "id": "2",
+     "text": "Enlil sends the bridewealth: a house of his choosing, rations of grain, a mule to carry her, and the finest of everything for the household. Sud is bathed, anointed and adorned, and led to his house with the rites of a city bride.",
+     "note": "Paraphrase of ETCSL c.1.2.2, wedding gifts; not verbatim."
+    },
+    {
+     "id": "3",
+     "text": "At the wedding Enki, lord of wisdom, gives the bride her new name: she shall be Ninlil, the lady of Enlil's city and of the grain; her breasts shall hold abundance for the land. The poem closes with blessings for the couple and for Nippur.",
+     "note": "Paraphrase of ETCSL c.1.2.2, naming and blessing; not verbatim."
+    }
+   ],
+   "persons": [
+    "enlil",
+    "ninlil",
+    "enki"
+   ],
+   "functions": [
+    "Wedding myth and liturgy for the Enlil-Ninlil cult at Nippur",
+    "Mirror of real bridewealth negotiation and wedding rites",
+    "Etiology of Ninlil's name and her grain-abundance identity"
+   ],
+   "variants": [
+    {
+     "name": "Enlil and Ninlil (canal version)",
+     "text_tradition": "Sumerian (ETCSL c.1.2.1)",
+     "summary": "The darker prequel of the union, beginning with the canal encounter and exile.",
+     "cross_ref": "sumerian-enlil-ninlil-courtship"
+    },
+    {
+     "name": "Martu's marriage",
+     "text_tradition": "Sumerian (ETCSL c.1.7.1)",
+     "summary": "A western god seeks a city bride by marriage negotiation in parallel form.",
+     "cross_ref": "sumerian-martu-marriage"
+    }
+   ],
+   "language": "Sumerian",
+   "canonical_translation": "ETCSL team translation, Oxford, 2003-2006",
+   "primary_sources": [
+    {
+     "work": "Enlil and Sud",
+     "citation": "ETCSL c.1.2.2, trans. ETCSL team (2003-2006), lines 1-110",
+     "language": "Sumerian"
+    }
+   ],
+   "secondary_sources": [
+    {
+     "work": "The Harps that Once...",
+     "citation": "Thorkild Jacobsen, New Haven, 1987, translator's notes"
+    }
+   ],
+   "source_urls": [
+    {
+     "url": "https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.1.2.2&charenc=j",
+     "description": "ETCSL c.1.2.2 text and translation",
+     "accessed": "2026-11-14"
+    }
+   ],
+   "sensitivity_flag": "none",
+   "provenance": {
+    "record_status": "complete",
+    "compiled": "2026-11-14",
+    "compiled_by": "opencode myth-collection session",
+    "review_status": "unreviewed"
+   }
+  },
+  {
+   "id": "sumerian-hymn-enlil",
+   "title": {
+    "en": "Enlil's Command: The Hymn to the Lord of the Ekur",
+    "zh": "恩利爾之令：埃庫爾之主頌"
+   },
+   "tradition": "sumerian",
+   "category": "myth",
+   "region": {
+    "en": "Nippur, Ekur temple, Iraq",
+    "zh": "尼普魯埃庫爾神殿（伊拉克）"
+   },
+   "lat": 32.126,
+   "lon": 45.23,
+   "period": "Old Babylonian manuscript, c. 1700 BCE (ETCSL translation 2003)",
+   "source": {
+    "archive": "ETCSL (University of Oxford)",
+    "work": "A hymn to Enlil (ETCSL c.4.05.1)",
+    "url": "https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.4.05.1&charenc=j"
+   },
+   "license": "ETCSL translation (Oxford, 2003-2006); quoted in paraphrase with attribution",
+   "summary": {
+    "en": "The great hymn proclaims Enlil the enlil of all lands: his word makes heaven and earth obey, his shepherding staff rules the black-headed people, and his Ekur is the navel of the world. City by city, the hymn names the shrines that rise under his decree.",
+    "zh": "偉大頌詩宣稱恩利爾為萬邦之恩利爾：其言一出，天地皆從；牧杖在手，統轄黑首之民；埃庫爾為世界之臍。頌詩逐一舉其敕命下興起的聖城。"
+   },
+   "motifs": [
+    "sacred-kingship",
+    "creation-chaos",
+    "sacred-place"
+   ],
+   "sensitivity": {
+    "restricted": false,
+    "note": "Ancient hymn; no living community restrictions."
+   },
+   "passages": [
+    {
+     "id": "1",
+     "text": "Enlil's command reaches the ends of the earth: without him no city is built, no settlement founded, no stable of cattle raised. He is the shepherd of the black-headed people, and his word makes heaven itself, the great gods, obey.",
+     "note": "Paraphrase of ETCSL c.4.05.1, opening; not verbatim."
+    },
+    {
+     "id": "2",
+     "text": "The Ekur, his house on Nippur's hill, is called the navel of heaven and earth: its brickwork rises like a mountain of lapis and silver, its rites are deep as the Abzu. City by city the hymn names Urim, Eridug, Unug and the rest, founded and fed under his decree.",
+     "note": "Paraphrase of ETCSL c.4.05.1, Ekur and city list; not verbatim."
+    },
+    {
+     "id": "3",
+     "text": "The hymn closes by hailing Enlil as father and mother of the gods: when he looks kindly, a city prospers; when he turns away, its people scatter. His is the floodwind and the good wind alike, and his mouth is the year's fate.",
+     "note": "Paraphrase of ETCSL c.4.05.1, closing; not verbatim."
+    }
+   ],
+   "persons": [
+    "enlil",
+    "nanna-suen",
+    "enki"
+   ],
+   "functions": [
+    "Central liturgical hymn of the Ekur at Nippur",
+    "Theological charter of Enlil's primacy over cities and kings",
+    "Recited at the new year and at temple dedications"
+   ],
+   "variants": [
+    {
+     "name": "Enlil in the Sumerian King List tradition",
+     "text_tradition": "Sumerian (ETCSL c.2.1.1)",
+     "summary": "Kingship descends from heaven to Nippur in the king list, the prose counterpart of the hymn's claim.",
+     "cross_ref": "sumerian-king-list"
+    }
+   ],
+   "language": "Sumerian",
+   "canonical_translation": "ETCSL team translation, Oxford, 2003-2006",
+   "primary_sources": [
+    {
+     "work": "A hymn to Enlil",
+     "citation": "ETCSL c.4.05.1, trans. ETCSL team (2003-2006), lines 1-167",
+     "language": "Sumerian"
+    }
+   ],
+   "secondary_sources": [
+    {
+     "work": "The Treasures of Darkness",
+     "citation": "Thorkild Jacobsen, New Haven, 1976, ch. on Enlil of Nippur"
+    }
+   ],
+   "source_urls": [
+    {
+     "url": "https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.4.05.1&charenc=j",
+     "description": "ETCSL c.4.05.1 text and translation",
+     "accessed": "2026-11-14"
+    }
+   ],
+   "sensitivity_flag": "none",
+   "provenance": {
+    "record_status": "complete",
+    "compiled": "2026-11-14",
+    "compiled_by": "opencode myth-collection session",
+    "review_status": "unreviewed"
+   }
+  },
+  {
+   "id": "sumerian-martu-marriage",
+   "title": {
+    "en": "The Marriage of Martu",
+    "zh": "瑪爾圖的婚事"
+   },
+   "tradition": "sumerian",
+   "category": "myth",
+   "region": {
+    "en": "Adab, Iraq",
+    "zh": "阿達布（伊拉克）"
+   },
+   "lat": 31.96,
+   "lon": 45.76,
+   "period": "Old Babylonian manuscript, c. 1700 BCE (ETCSL translation 2003)",
+   "source": {
+    "archive": "ETCSL (University of Oxford)",
+    "work": "The marriage of Martu (ETCSL c.1.7.1)",
+    "url": "https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.1.7.1&charenc=j"
+   },
+   "license": "ETCSL translation (Oxford, 2003-2006); quoted in paraphrase with attribution",
+   "summary": {
+    "en": "Martu, god of the western tent-dwellers, sees the daughters of Adab dance at Uruk's festival and demands one of them in marriage. His friend rebukes him for wanting city customs — the Amorites know no house, no wife, no burial — but Martu wins the bride by serving a city feast and honoring the city's rites.",
+    "zh": "西陲牧神瑪爾圖於烏魯克節慶見阿達布諸女起舞，執意求娶。友人譏其欲習城邦之俗——阿摩利人無宅、無妻、無葬禮——瑪爾圖卻以效勞城宴、恭謹循禮而終得佳偶。"
+   },
+   "motifs": [
+    "divine-marriage",
+    "culture-hero",
+    "taboo-transgression"
+   ],
+   "sensitivity": {
+    "restricted": false,
+    "note": "Ancient myth reflecting Sumerian prejudice toward nomads; included as literary-historical material, not endorsement."
+   },
+   "passages": [
+    {
+     "id": "1",
+     "text": "At the temple's great festival, the daughters of Adab dance in the courtyard. Martu, the god of the steppe, watches and declares: I will take one of these to wife. His companion mocks him — you are of the tent people, who know no honor of house or bride or grave.",
+     "note": "Paraphrase of ETCSL c.1.7.1, opening; not verbatim."
+    },
+    {
+     "id": "2",
+     "text": "Martu answers with deeds: he serves at the banquet, portions the offerings, and conducts himself with the manners of a townsman. The young woman he chose, seeing his courtesy, agrees to marry him, and her mother consents.",
+     "note": "Paraphrase of ETCSL c.1.7.1, service and consent; not verbatim."
+    },
+    {
+     "id": "3",
+     "text": "The marriage is performed with the full city rites — the bath, the anointing, the feast — and the poem closes praising Martu as lord of the west who has learned the ways of the city. The dialogue about nomad manners remains: his friend still says the Amorites eat their raw meat unmannered.",
+     "note": "Paraphrase of ETCSL c.1.7.1, wedding and closing debate; not verbatim."
+    }
+   ],
+   "persons": [
+    "martu"
+   ],
+   "functions": [
+    "Charter for the integration of Amorite worshippers into city cult",
+    "Satirical mirror of Sumerian attitudes toward nomads",
+    "Marriage liturgy for the festival of a western god"
+   ],
+   "variants": [
+    {
+     "name": "Enlil and Sud",
+     "text_tradition": "Sumerian (ETCSL c.1.2.2)",
+     "summary": "A parallel city marriage myth with bridewealth negotiation.",
+     "cross_ref": "sumerian-enlil-sud-marriage"
+    }
+   ],
+   "language": "Sumerian",
+   "canonical_translation": "ETCSL team translation, Oxford, 2003-2006",
+   "primary_sources": [
+    {
+     "work": "The marriage of Martu",
+     "citation": "ETCSL c.1.7.1, trans. ETCSL team (2003-2006), lines 1-80",
+     "language": "Sumerian"
+    }
+   ],
+   "secondary_sources": [
+    {
+     "work": "Gods, Demons and Symbols of Ancient Mesopotamia",
+     "citation": "Jeremy Black and Anthony Green, London, 1992, entry 'Amorites'"
+    }
+   ],
+   "source_urls": [
+    {
+     "url": "https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.1.7.1&charenc=j",
+     "description": "ETCSL c.1.7.1 text and translation",
+     "accessed": "2026-11-14"
+    }
+   ],
+   "sensitivity_flag": "none",
+   "provenance": {
+    "record_status": "complete",
+    "compiled": "2026-11-14",
+    "compiled_by": "opencode myth-collection session",
+    "review_status": "unreviewed"
+   }
+  },
+  {
+   "id": "sumerian-pabilsaj-journey",
+   "title": {
+    "en": "Pabilsang's Journey to Nippur",
+    "zh": "帕比爾薩格赴尼普魯之行"
+   },
+   "tradition": "sumerian",
+   "category": "myth",
+   "region": {
+    "en": "Larsa, Iraq",
+    "zh": "拉爾薩（伊拉克）"
+   },
+   "lat": 31.287,
+   "lon": 45.853,
+   "period": "Old Babylonian manuscript, c. 1700 BCE (ETCSL translation 2003)",
+   "source": {
+    "archive": "ETCSL (University of Oxford)",
+    "work": "Pabilsang's journey to Nibru (ETCSL c.1.7.8)",
+    "url": "https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.1.7.8&charenc=j"
+   },
+   "license": "ETCSL translation (Oxford, 2003-2006); quoted in paraphrase with attribution",
+   "summary": {
+    "en": "Pabilsang, the merchant's god of Isin, sails with his wife Nininsina from her city to Nippur to be blessed by Enlil, presenting gifts and earning the fates of prosperity for the barge, the crew and the journey.",
+    "zh": "伊辛商人守護神帕比爾薩格攜妻寧寧西那自其城登舟，前往尼普魯求恩利爾賜福；獻禮獻牲，為舟、為舟子、為旅途求得繁盛之命。"
+   },
+   "motifs": [
+    "sacred-place",
+    "sacred-kingship",
+    "ritual-origin"
+   ],
+   "sensitivity": {
+    "restricted": false,
+    "note": "Ancient hymn-narrative; no living community restrictions."
+   },
+   "passages": [
+    {
+     "id": "1",
+     "text": "Pabilsang, the lord of Isin, prepares the barge and takes aboard his wife Nininsina, the queen of the city. The boat sails up the river to Nippur, and the city that receives them is adorned for the god's arrival.",
+     "note": "Paraphrase of ETCSL c.1.7.8, voyage; not verbatim."
+    },
+    {
+     "id": "2",
+     "text": "At the Ekur, Pabilsang presents his gifts to Enlil and asks the blessing of fates for the barge, its sailors, the cargo and the road; Enlil grants each in turn, and the god of merchants is confirmed in his office.",
+     "note": "Paraphrase of ETCSL c.1.7.8, blessing of fates; not verbatim."
+    }
+   ],
+   "persons": [
+    "enlil"
+   ],
+   "functions": [
+    "Blessing liturgy for merchant caravans and river trade",
+    "Journey hymn in the Nippur pilgrimage genre",
+    "Charter of Isin's tutelary cult"
+   ],
+   "variants": [
+    {
+     "name": "Enki's journey to Nibru",
+     "text_tradition": "Sumerian (ETCSL c.1.1.4)",
+     "summary": "The senior journey hymn of the same pilgrimage pattern.",
+     "cross_ref": "sumerian-enki-journey-nibru"
+    }
+   ],
+   "language": "Sumerian",
+   "canonical_translation": "ETCSL team translation, Oxford, 2003-2006",
+   "primary_sources": [
+    {
+     "work": "Pabilsang's journey to Nibru",
+     "citation": "ETCSL c.1.7.8, trans. ETCSL team (2003-2006)",
+     "language": "Sumerian"
+    }
+   ],
+   "secondary_sources": [
+    {
+     "work": "Sumerian Mythology",
+     "citation": "Samuel Noah Kramer, Philadelphia, 1944"
+    }
+   ],
+   "source_urls": [
+    {
+     "url": "https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.1.7.8&charenc=j",
+     "description": "ETCSL c.1.7.8 text and translation",
+     "accessed": "2026-11-14"
+    }
+   ],
+   "sensitivity_flag": "none",
+   "provenance": {
+    "record_status": "complete",
+    "compiled": "2026-11-14",
+    "compiled_by": "opencode myth-collection session",
+    "review_status": "unreviewed"
+   }
+  },
+  {
+   "id": "sumerian-ninjiczida-journey",
+   "title": {
+    "en": "Ningishzida's Journey to the Netherworld",
+    "zh": "寧吉什茲達赴冥界之行"
+   },
+   "tradition": "sumerian",
+   "category": "myth",
+   "region": {
+    "en": "Girsu, Iraq (gateway of the netherworld, symbolic pin)",
+    "zh": "吉爾蘇（冥界之門，象徵性定位）"
+   },
+   "lat": 31.64,
+   "lon": 46.66,
+   "period": "Old Babylonian manuscript, c. 1700 BCE (ETCSL translation 2003)",
+   "source": {
+    "archive": "ETCSL (University of Oxford)",
+    "work": "Ningiszida's journey to the nether world (ETCSL c.1.7.3)",
+    "url": "https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.1.7.3&charenc=j"
+   },
+   "license": "ETCSL translation (Oxford, 2003-2006); quoted in paraphrase with attribution",
+   "summary": {
+    "en": "Ningishzida, the vegetative god who dies with the year, is called down to the netherworld; the poem laments his departure and his wife's grief, and celebrates his kingship in the land below where he sits in judgment with the dead.",
+    "zh": "歲末枯萎的草木神寧吉什茲達受冥界之召而去；詩篇哀其離別、其妻之慟，並頌其於冥土為王，與亡者同坐審判。"
+   },
+   "motifs": [
+    "descent-underworld",
+    "resurrection",
+    "sacred-kingship"
+   ],
+   "sensitivity": {
+    "restricted": false,
+    "note": "Ancient funerary literature; no living community restrictions."
+   },
+   "passages": [
+    {
+     "id": "1",
+     "text": "Ningishzida is called to the netherworld as the year turns: the date palm's lord must go below when his greenery dies. The poem laments the journey — the boat that carries him, the road that leads him down — and the desolation of his city without him.",
+     "note": "Paraphrase of ETCSL c.1.7.3, lament of departure; not verbatim."
+    },
+    {
+     "id": "2",
+     "text": "His wife's grief is described with the imagery of mourning women, and the netherworld receives him with honor: there he sits in judgment among the dead, a lord in the land of no return, where his decrees stand as law for the shades.",
+     "note": "Paraphrase of ETCSL c.1.7.3, netherworld enthronement; not verbatim."
+    }
+   ],
+   "persons": [
+    "geshtinanna",
+    "dumuzi"
+   ],
+   "functions": [
+    "Seasonal death myth for the vegetation god of the date palm",
+    "Funerary lament liturgy used in mourning rites",
+    "Underworld theology: the dead land has legitimate kingship"
+   ],
+   "variants": [
+    {
+     "name": "Dumuzid's dream and descent",
+     "text_tradition": "Sumerian (ETCSL c.1.4.3)",
+     "summary": "The parallel seasonal death of the shepherd god Dumuzid.",
+     "cross_ref": "sumerian-dumuzi-dream"
+    }
+   ],
+   "language": "Sumerian",
+   "canonical_translation": "ETCSL team translation, Oxford, 2003-2006",
+   "primary_sources": [
+    {
+     "work": "Ningiszida's journey to the nether world",
+     "citation": "ETCSL c.1.7.3, trans. ETCSL team (2003-2006)",
+     "language": "Sumerian"
+    }
+   ],
+   "secondary_sources": [
+    {
+     "work": "Death in Mesopotamia",
+     "citation": "papers of the XXIVe Rencontre assyriologique internationale, Copenhagen, 1980"
+    }
+   ],
+   "source_urls": [
+    {
+     "url": "https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.1.7.3&charenc=j",
+     "description": "ETCSL c.1.7.3 text and translation",
+     "accessed": "2026-11-14"
+    }
+   ],
+   "sensitivity_flag": "none",
+   "provenance": {
+    "record_status": "complete",
+    "compiled": "2026-11-14",
+    "compiled_by": "opencode myth-collection session",
+    "review_status": "unreviewed"
+   }
+  }
+ ]
+}

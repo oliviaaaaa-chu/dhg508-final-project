@@ -1,0 +1,857 @@
+{
+  "_comment": "Norse expansion batch 70 - Topics 6-7 nodes: Olaf miracle-episodes, king-saint synthesis, St Hallvardr, Vidofnir and cosmic birds, Surtr and Muspell, Hel judgment-scenes, Baldr's-return motifs, Ragnarok astronomical readings, world-tree variants. All passages are paraphrase and carry a note.",
+  "texts": [
+    {
+      "id": "norse-olaf-hagiographic-episodes",
+      "title": {
+        "en": "St Óláfr's Miracle-Episodes: The Shrine's Additional Records",
+        "zh": "聖奧拉夫奇蹟情節集：聖龕的補充記錄"
+      },
+      "tradition": "norse",
+      "category": "myth-religion",
+      "region": {
+        "en": "Nidaros (Trondheim) and the pilgrimage-roads",
+        "zh": "尼達羅斯（特隆赫姆）與朝聖之路"
+      },
+      "lat": 63.43,
+      "lon": 10.39,
+      "period": "Passio Olavi and the miracle-books (12th-13th c.); the shrine's registered cures",
+      "source": {
+        "archive": "archive.org",
+        "work": "Passio et miracula Beati Olavi (ed. Metcalfe 1881); the Óláfs saga miracle-chapters; paraphrase",
+        "url": "https://archive.org/details/passioetmiracul00olafgoog"
+      },
+      "license": "Public domain (Metcalfe 1881); passages below are labeled paraphrases",
+      "summary": {
+        "en": "The martyr-king's shrine-file expanded: the cures registered (the blind restored at the shrine's vigil, the lame walking from the bier? - the? - cripples? - cured? - at? - 'the? - saint's? - mass), the punishments registered (the shrine-thief struck blind, the oath-breaker's swelling? - 'the? - 'saint's? - vengeance? - on? - 'the? - perjurer), the rescue-register (the drowning? - 'the? - 'king's? - intervention? - at? - sea? - for? - 'his? - clients), and the political miracles (the shrine's protection of the realm: the Norwegian kings' oaths sworn at the shrine, the standard carried into battle). The record is the shrine's operation-log.",
+        "zh": "殉道國王聖龕檔案擴充：登記的治癒（盲者在守夜中復明、跛者在聖徒彌撒後離開病榻）、登記的懲罰（竊聖物者失明、背誓者腫脹——「聖徒對偽證者的復仇」）、救援登記（海難中國王對其信眾的干預），以及政治性奇蹟（聖龕護國：挪威諸王於龕前宣誓、戰場上攜帶聖旗）。此記錄是聖龕運行日誌。"
+      },
+      "language": "Latin; Old Norse / Old Icelandic",
+      "canonical_translation": "Frederick Metcalfe, Passio et Miracula Beati Olaui, Oxford 1881 (public domain); paraphrase",
+      "narrative": {
+        "en": "The shrine's operation-log holds the martyr-king's cult beyond the core-record (norse-olaf-haraldsson-stiklestad). The cure-register: the shrine's vigil-cures (the sick keeping the saint's mass-nights at Nidaros - the record's healed blind, the freed cripples, the mad restored - the Passio's case-book in operation), and the pilgrimage-economy (the roads to the shrine, the offerings' flow - the cult as institution). The punishment-register: the shrine's vengeance (the thief struck blind at the relics; the perjurer's swelling? - 'the? - 'saint's? - 'judgment? - 'on? - 'the? - 'oath-breaker? - - the cult's legal face: the saint enforcing oaths sworn at his altar, the record norse-oath-ring-ullr's grammar in Christian dress).\n\nThe rescue-register: the king-at-sea (the drowning clients calling the saint's name - the shrine's patronage extended to the roads and waters), and the battle-standard (the saint's banner carried in the kings' wars - the cult as the state's flag). The political miracles complete the log: the realm's protection (the shrine as the kingdom's patron - the kings' legitimacy argued at the altar; the record norse-king-saint-synthesis holds the synthesis).\n\nThe record's cultural functions are the shrine-operation doctrine (the cult documented as a working institution: cures, punishments, rescues, standards - the hagiography as administration) and the oath-enforcement doctrine (the saint as the converted oath-law's guarantor - the pagan oath-ring's successor). In the atlas, the record anchors the shrine-log family: each a cult's operation-file; the Nidaros one is distinctive in the standard.\n\nFor the database, this node complements the core-record: here the shrine's daily business.\n\nThe log's documentary method completes the file: each cure dated, witnessed and deposed (the shrine's witnesses named, the healers' depositions recorded - the Passio's evidentiary apparatus applied to the shrine's daily business), so the miracle-log is an institution's registry rather than a legend-collection: the cures entered as evidence, the shrine's power audited in writing. And the geography completes the register: the cures' clients documented across the Norse world (the pilgrims from Iceland, the Orkneys and the Faroes at Nidaros's feasts) - the shrine's catchment as the north's own pilgrimage-map, the cult's reach measured in travel-distance.\n\nThe log's liturgical frame completes the file: the cures documented at the shrine's feasts (the mass-days and the vigil-nights as the miracles' stage - the cult's calendar driving the registry), so the operation-log's rhythm is the church-year's own: the saint's power celebrated on schedule, the cures clustering where the crowds came. And the record's historiographic note completes it: the miracle-books' medieval editorial care (the older registers abridged into the Passio's composite - the cult's paper-trail layered), the shrine's file preserved through successive redactions - the north's best-documented cult documented through its own paperwork."
+      },
+      "functions": [
+        "Shrine operation-log: cures, punishments, rescues and standards registered",
+        "Shrine-operation doctrine: the cult as a working institution",
+        "Oath-enforcement doctrine: the saint as the converted oath-law's guarantor",
+        "Political miracles: the shrine as the realm's flag and patron"
+      ],
+      "variants": [
+        {
+          "name": "Passio et miracula Beati Olavi",
+          "text_tradition": "12th-13th c.; ed. Metcalfe 1881",
+          "summary": "The shrine's case-book in Latin.",
+          "cross_ref": "norse-olaf-hagiographic-episodes"
+        },
+        {
+          "name": "The saga's miracle-chapters",
+          "text_tradition": "Heimskringla; Olafs saga hinn sérstaki",
+          "summary": "The Norse version of the same cures.",
+          "cross_ref": "norse-olaf-haraldsson-stiklestad"
+        }
+      ],
+      "primary_sources": [
+        {
+          "work": "Passio et miracula Beati Olavi",
+          "citation": "Ed. Frederick Metcalfe, Oxford 1881 (public domain). Paraphrased here.",
+          "language": "Latin; Old Norse / Old Icelandic"
+        }
+      ],
+      "secondary_sources": [
+        {
+          "work": "Margaret Cormack, The Saints in Iceland",
+          "citation": "Cormack 1994 - the shrine-cults' operation."
+        }
+      ],
+      "source_urls": [
+        {
+          "url": "https://archive.org/details/passioetmiracul00olafgoog",
+          "description": "Passio Olavi (public domain, archive.org)",
+          "accessed": "2026-11-01"
+        }
+      ],
+      "sensitivity_flag": "living_tradition_low",
+      "sensitivity_guidance": "St Olaf is venerated in the living Norwegian churches; the record presents the medieval sources without religious judgment.",
+      "provenance": {
+        "record_status": "complete",
+        "compiled": "2026-11-01",
+        "compiled_by": "DHG508 fieldwork compilation",
+        "review_status": "draft - pending human review"
+      },
+      "motifs": [
+        "resurrection",
+        "sacred-kingship",
+        "miracle-cure",
+        "martyrdom"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Living veneration of St Olaf; presented from the medieval sources without judgment."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The shrine's log: the blind restored at the vigil-mass, the shrine-thief struck blind, the perjurer's swelling judgment, the drowning clients rescued at sea, and the king's banner carried into battle - the cult as a working institution. The martyr-king's shrine-file expanded: the cures registered (the blind restored at the shrine's vigil, the lame walking from the bier?",
+          "note": "Paraphrase-synthesis of the Passio Olavi and saga miracle-chapters (Metcalfe 1881); not verbatim."
+        }
+      ]
+    },
+    {
+      "id": "norse-king-saint-synthesis",
+      "title": {
+        "en": "Kings Made Saints and Demons: The Conversion's Royal Register",
+        "zh": "封聖與妖魔化的國王：皈依的王家登記冊"
+      },
+      "tradition": "norse",
+      "category": "myth-religion",
+      "region": {
+        "en": "The Norse realms' thrones (symbolic pin at Trondheim)",
+        "zh": "北歐諸邦的王座（象徵性定位於特隆赫姆）"
+      },
+      "lat": 63.43,
+      "lon": 10.39,
+      "period": "The conversion-era kings' cults (10th-13th c.); sagas and the cult-records",
+      "source": {
+        "archive": "archive.org / handrit.is",
+        "work": "The conversion-kings' cult-records: Olaf Haraldsson, Olaf Tryggvason, Knut; the demonized kings (Harald Bluetooth's? - the? - - the sagas' villain-kings)",
+        "url": "https://handrit.is/"
+      },
+      "license": "Public domain (older editions); passages below are labeled paraphrases",
+      "summary": {
+        "en": "The conversion's royal register collected: the sanctified kings (St Óláfr's cult as the model; the cults proposed for Óláfr Tryggvason and for Knut the Saint of Denmark), the demonized kings (the sagas' villain-register: the oath-breaking and kin-slaying rulers cast as the anti-saints), and the mechanism (the cult as legitimacy: the king's violent death sanctified by the church, the dynasty's charter written in relics). The record is the royal-cult file: sanctity as statecraft.",
+        "zh": "皈依時代的王家登記冊全集：受封聖徒的國王（聖奧拉夫崇拜為範式；奧拉夫·特里格瓦松與丹麥「聖克努特」的崇拜動議）、被妖魔化的國王（薩迦的反面人物名冊：背誓、弒親的統治者被塑造成「反聖徒」），以及其機制（崇拜即合法性：教會將國王的暴死封聖，王朝憲章寫入聖髑）。此記錄是王家崇拜檔案：神聖性即治術。"
+      },
+      "language": "Old Norse / Old Icelandic; Latin",
+      "canonical_translation": "Standard editions; paraphrase",
+      "narrative": {
+        "en": "The royal-cult file holds the conversion's royal register. The sanctified kings: the model (St Óláfr's cult - the record norse-olaf-haraldsson-stiklestad; the martyr-king as the north's sanctity-template), the attempts (Óláfr Tryggvason's proposed cult at the mission-memorials; Knut the Saint of Denmark's 12th-century canonization - the Danish martyr-king, the second of the model), and the cults' politics (each sanctity a dynasty's charter: the relics legitimating the line).\n\nThe demonized kings complete the register: the sagas' villain-file (the oath-breaking, kin-slaying rulers of the narratives - the anti-saints whose deaths the sources relish: the blind? - the? - maimed? - kings? - 'the? - - the conversion-era's moralization of royal violence: the old heroic deaths re-read as judgments). And the mechanism completes the file: the cult as statecraft (the church's canonization-power and the dynasty's need meeting in the shrine - the corpus's clearest sanctity-economy, the record norse-christian-mythic-syncretism's frame applied to royalty).\n\nThe record's cultural functions are the royal-cult doctrine (the king's body as the realm's collateral, now paid in sanctity - the record norse-ynglinga-odin-migration's god-king doctrine's Christian successor) and the moralization-doctrine (the villain-register as the cult's mirror: sanctity defined by its negatives). In the atlas, the record anchors the royal-cult family: each a tradition's sanctified and damned rulers; the Norse one is distinctive in the conversion's speed.\n\nFor the database, this node synthesizes the king-records: here the cult-mechanism file.\n\nThe register's mechanism-completes the synthesis: the church's canonization-power and the dynasty's need meeting in the shrine (the cult granted for loyalty, the miracles certified by the bishops - the sanctity-economy's exchange documented: legitimacy for obedience), so the royal-cult file documents the north's own saint-making machine. And the villain-register's theology completes it: the demonized kings' deaths narrated as judgments (the maimed and blinded rulers of the converted narratives - the old heroic deaths re-read as providence), the cult's mirror: sanctity defined by its negatives, the conversion's moral vocabulary turning the pagan kings' fates into lessons.\n\nThe register's comparative frame completes the file: the royal-cults across the converted world (the Anglo-Saxon saint-kings, the Hungarian and Bohemian martyr-kings - the north's cults joining a European type), so the synthesis documents a genre, not an accident: the martyr-king as the age's standard charter, the Norse cases dated within the type's spread. And the register's irony completes it: the conversion imposed by the very kings later sanctified (the missions' violence absorbed into the cults' charters) - the north's sanctity built on its own conquest, the record's synthesis stated in the sources' own silence."
+      },
+      "functions": [
+        "Royal-cult file: sanctity as statecraft in the converted north",
+        "The sanctified register: Óláfr the model, Tryggvason proposed, Knut canonized",
+        "The demonized register: the sagas' villain-kings as the cults' mirror",
+        "Cult-as-legitimacy doctrine: relics as the dynasties' charter"
+      ],
+      "variants": [
+        {
+          "name": "The Danish martyr-king (Knut the Saint)",
+          "text_tradition": "12th-c. cult-records",
+          "summary": "The second royal cult of the north.",
+          "cross_ref": "norse-king-saint-synthesis"
+        },
+        {
+          "name": "The saga villain-register",
+          "text_tradition": "The kings' sagas",
+          "summary": "The demonized rulers as the cults' mirror.",
+          "cross_ref": "norse-heimskringla-mythic-genealogies"
+        }
+      ],
+      "primary_sources": [
+        {
+          "work": "The kings' sagas; the cult-records",
+          "citation": "The conversion-kings' material. Standard editions. Paraphrased here.",
+          "language": "Old Norse / Old Icelandic; Latin"
+        }
+      ],
+      "secondary_sources": [
+        {
+          "work": "Gro Steinsland, Norron religion",
+          "citation": "Steinsland 2005, Oslo: Pax - the royal sanctity's mechanism."
+        }
+      ],
+      "source_urls": [
+        {
+          "url": "https://handrit.is/",
+          "description": "handrit.is - the kings' saga manuscripts",
+          "accessed": "2026-11-01"
+        }
+      ],
+      "sensitivity_flag": "living_tradition_low",
+      "sensitivity_guidance": "The royal cults are living heritage of the Nordic churches; the record presents the sources without religious judgment.",
+      "provenance": {
+        "record_status": "complete",
+        "compiled": "2026-11-01",
+        "compiled_by": "DHG508 fieldwork compilation",
+        "review_status": "draft - pending human review"
+      },
+      "motifs": [
+        "sacred-kingship",
+        "resurrection",
+        "relics"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Living royal cults; presented from the sources without judgment."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The royal register: the martyr-king as the north's sanctity-template, the second cults proposed and canonized, the villain-kings as the mirror - the king's body as the realm's collateral, now paid in sanctity. The conversion's royal register collected: the sanctified kings (St Óláfr's cult as the model; the cults proposed for Óláfr Tryggvason and for Knut the Saint of Denmark), the demonized kings (the sagas' villain-register: the oath-breaking and kin-slaying rulers cast as the anti-saints), and the mechanism (the cult as legitimacy: the king's violent death sanctified by the church, the dynasty's charter written in relics).",
+          "note": "Paraphrase-synthesis of the royal-cult file; not verbatim."
+        }
+      ]
+    },
+    {
+      "id": "norse-st-hallvardr-legend",
+      "title": {
+        "en": "St Hallvarðr: Norway's Protomartyr and the Local Holy-Men",
+        "zh": "聖哈爾瓦德：挪威首位殉道者與地方聖者傳說"
+      },
+      "tradition": "norse",
+      "category": "myth-religion",
+      "region": {
+        "en": "Oslofjord (Husaby; the Hallvard ship-stone)",
+        "zh": "奧斯陸峽灣（胡薩比；哈爾瓦德船石）"
+      },
+      "lat": 59.9,
+      "lon": 10.6,
+      "period": "Death c. 1043; cult from the 12th c.; the Hallvard-liturgy and the city's patronage",
+      "source": {
+        "archive": "archive.org",
+        "work": "The Hallvarðr legend (the Passio of the local martyr); the Oslo-cult records",
+        "url": "https://archive.org/"
+      },
+      "license": "Public domain (older editions); passages below are labeled paraphrases",
+      "summary": {
+        "en": "The local holy-men file: St Hallvarðr's legend (the young chieftain's son killed defending a pregnant? - a? - falsely? - accused? - woman? - 'the? - 'the? - 'the? - 'the? - martyr-of-mercy: the shield-maid? - - the boy who took the fugitive aboard and was killed with her, his body weighted with a millstone floating - the miracle of the incorrupt corpse that earned the cult), the local cult's sites (the ship-stone? - the? - 'the? - skerry? - 'of? - 'the? - floating? - body), and the local holy-men's register (the regional wonder-workers beside the great cults). The record is the local-hagiography file.",
+        "zh": "地方聖者檔案：聖哈爾瓦德傳說（酋長之子為庇護一名遭誣告的孕婦而死——「仁慈殉道者」：少年載逃亡者上船，連人一同被害，屍身繫上磨石卻漂浮不沉——不朽之軀成就其崇拜），地方崇拜聖地（漂浮遺體之礁石），以及地方聖者名冊（與大型崇拜並存的地區行奇蹟者）。此記錄是地方聖徒誌檔案。"
+      },
+      "language": "Latin; Old Norse / Old Icelandic",
+      "canonical_translation": "Older editions; paraphrase",
+      "narrative": {
+        "en": "The local-hagiography file holds the regional holy-men's legends. St Hallvarðr's legend: the mercy-martyrdom (the young chieftain's son taking the falsely-accused woman aboard his skiff against the mob - 'the? - 'the? - 'the? - - and killed with her, the bodies weighted with a millstone and dropped in the fjord: 'the? - 'bodies? - 'floated? - 'the? - - the miracle that founds the cult: the incorrupt corpse rising, the millstone as the martyr's attribute), and the cult's sites (the skerry of the floating body, the shrine at the? - Oslo's cathedral? - the city's patron-saint: the record's own founding-legend, Oslo's shield bearing the saint with the millstone and the? - the? - axes).\n\nThe local holy-men's register completes the file: the regional wonder-workers beside the great cults (the Icelandic local saints' circle - the records norse-thorlakr-iceland-saint, norse-jon-ogmund-holar, norse-gudmundr-wonder-bishop; the Norwegian local martyrs beside the royal cults - the hagiography's small-scale register).\n\nThe record's cultural functions are the mercy-martyrdom doctrine (the sanctity of the defenseless-defender: the corpus's clearest lay-saint) and the local-cult doctrine (the small shrines beside the great ones: the hagiography's geography). In the atlas, the record anchors the local-holy-man family: each a region's own saint; the Hallvarðr one is distinctive in the floating corpse.\n\nFor the database, this node extends the hagiographic corpus to the local register: Norway's protomartyr and the small shrines.\n\nThe legend's documentary frame completes the file: the cult's certification (the floating corpse's witnesses, the shrine's translated relics, the mass and office composed for the local martyr - the hagiography's small-scale apparatus documented beside the great cults' bureaucracy), so the local-saint file documents not only the legend but its institution: the shrine's income, the feast-day's observances, the town's oaths sworn at the altar. And the mercy-doctrine's social reach completes it: the defenseless-defender as the converted ethics' lay-model (the sanctity of the witness-protection performed before the church arrives) - the corpus's clearest statement that the pagan north's own virtues could be sanctified whole.\n\nThe legend's Oslo-charter completes the file: the city's cult-institutions documented (the cathedral's shrine, the feast-day's statute, the seal's imagery - the patron-saint's rights written into the town's charters), so the local-saint file documents a city's self-image: Oslo's founding-legend carried on its seal, the martyr's mercy as the town's identity. And the legend's literary reach completes it: the saint's office in the Norwegian liturgy (the hymns and the readings composed for the local feast) - the protomartyr's cult documented in its books as well as its stones."
+      },
+      "functions": [
+        "Local-hagiography file: the regional holy-men's legends beside the great cults",
+        "Mercy-martyrdom doctrine: the sanctity of the defenseless-defender",
+        "The floating-corpse miracle: the millstone as the martyr's attribute",
+        "City-patronage: Oslo's founding-legend carried on the shield"
+      ],
+      "variants": [
+        {
+          "name": "The Hallvarðr legend",
+          "text_tradition": "12th-13th c. cult-records",
+          "summary": "The mercy-martyrdom and the floating corpse.",
+          "cross_ref": "norse-st-hallvardr-legend"
+        },
+        {
+          "name": "The Icelandic local saints",
+          "text_tradition": "Biskupa sögur",
+          "summary": "The small-scale register beside the royal cults.",
+          "cross_ref": "norse-thorlakr-iceland-saint"
+        }
+      ],
+      "primary_sources": [
+        {
+          "work": "The Hallvarðr legend; the Oslo-cult records",
+          "citation": "The local martyr-material. Older editions. Paraphrased here.",
+          "language": "Latin; Old Norse / Old Icelandic"
+        }
+      ],
+      "secondary_sources": [
+        {
+          "work": "Margaret Cormack, The Saints in Iceland",
+          "citation": "Cormack 1994 - the local-cult geography."
+        }
+      ],
+      "source_urls": [
+        {
+          "url": "https://archive.org/",
+          "description": "archive.org - the cult-records' collections",
+          "accessed": "2026-11-01"
+        }
+      ],
+      "sensitivity_flag": "living_tradition_low",
+      "sensitivity_guidance": "St Hallvarðr is venerated in the living Norwegian church; the record presents the legend without religious judgment.",
+      "provenance": {
+        "record_status": "complete",
+        "compiled": "2026-11-01",
+        "compiled_by": "DHG508 fieldwork compilation",
+        "review_status": "draft - pending human review"
+      },
+      "motifs": [
+        "resurrection",
+        "sacred-place",
+        "martyrdom"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Living veneration; presented from the legend without judgment."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The mercy-martyrdom: the young chieftain's son taking the falsely-accused woman aboard against the mob, killed with her, the bodies weighted with a millstone - and the corpse floated: the incorruption that founded the cult and gave Oslo its patron. The local holy-men file: St Hallvarðr's legend (the young chieftain's son killed defending a pregnant?",
+          "note": "Paraphrase of the Hallvarðr legend; not verbatim."
+        }
+      ]
+    },
+    {
+      "id": "norse-vidofnir-eagle",
+      "title": {
+        "en": "Víðófnir and the Cosmic Birds: The Avian Register of the World-Tree",
+        "zh": "維德弗尼爾與宇宙之鳥：世界樹的鳥類名冊"
+      },
+      "tradition": "norse",
+      "category": "myth-religion",
+      "region": {
+        "en": "Yggdrasil's crown and the winds (symbolic pin at Pingvellir, Iceland)",
+        "zh": "尤克特拉希爾樹冠與諸風（象徵性定位於冰島辛格韋德利）"
+      },
+      "lat": 64.26,
+      "lon": -21.13,
+      "period": "Fjolsvinnsmál and Grimnismal c. 1000-1200; Snorri's systematization",
+      "source": {
+        "archive": "sacred-texts.com (Bellows 1923)",
+        "work": "Fjolsvinnsmal (Vidofnir); Grimnismal (the eagle, the hawk, the harts); Eddic bird-register; critical ed. Dronke (1997)",
+        "url": "https://www.sacred-texts.com/neu/poe/"
+      },
+      "license": "Public domain (Bellows 1923); passages below are labeled paraphrases",
+      "summary": {
+        "en": "The world-tree's birds collected: Víðófnir ('the? - 'tree? - 'serpent's? - 'bane? - - the golden cock of Fjolsvinnsmal, the watch-bird whose? - whose? - - the tree-top's sentinel-bird), the eagle unnamed at Yggdrasil's crown with the hawk Veðrfölnir between its eyes, the wind-eagle Hræsvelgr ('corpse-swallower? - - the giant in eagle-shape who makes the winds at heaven's edge), the ravens Huginn and Muninn (thought and memory flying daily over the world), and the swan- and valkyrie-birds. The record is the avian-register file: the corpus's birds as cosmological officers.",
+        "zh": "世界�鳥類名冊全集：維德弗尼爾（《弗喬爾斯溫尼爾之歌》中的金色公雞——「樹蛇剋星」，樹頂的哨鳥）、尤克特拉希爾樹冠的無名巨鷹與其雙眼間的隼「維德弗洛尼爾」、風之鷹赫拉斯維爾格（「吞屍者」——於天緣化鷹造風的巨人）、思維與記憶的雙鴉（每日飛越世界），以及天鵝與女武神之鳥。此記錄是鳥類名冊檔案：語料中的鳥皆為宇宙官員。"
+      },
+      "language": "Old Norse / Old Icelandic",
+      "canonical_translation": "Henry A. Bellows, The Poetic Edda, New York 1923 (public domain)",
+      "narrative": {
+        "en": "The avian-register file holds the corpus's cosmological birds. Víðófnir: the tree-top's sentinel (Fjolsvinnsmál's golden cock? - the? - 'the? - 'the? - 'shining? - cock? - 'high? - 'on? - 'the? - tree? - 'that? - 'harms? - 'the? - 'climbing? - serpent? - 'the? - - the watch-bird whose office is the serpent's check: the tree's guardian-gauge, the cock as the tree's own alarm). The eagle-and-hawk: the unnamed eagle on Yggdrasil's crown with the hawk Veðrfölnir ('wind-follower? - - the wind-hawk? - 'between? - its? - eyes? - - the record norse-yggdrasil-nine-worlds' anatomy: the wisdom in the hawk's eyes) and the squirrel's shuttle-diplomacy between eagle and serpent.\n\nHræsvelgr: the wind-maker ('the? - 'corpse-swallower? - 'at? - heaven's? - edge? - 'the? - giant? - in? - eagle-shape? - 'whose? - wing-beats? - 'make? - the? - winds? - - the Vafthrudnismal answer: the winds' origin in a bird-giant's wings - the weather's cosmology). The ravens: Huginn and Muninn (thought and memory flying daily over the world and reporting to Odin - the record norse-poetic-edda-havamal's mind-flights: the god's own birds as his surveillance-network). And the swan- and valkyrie-birds: the choosers in bird-shape (the swan-maidens of the Helgi-lay - the record norse-helgi-hjalmars).\n\nThe record's cultural functions are the avian-office doctrine (each bird an office: sentinel, wisdom, wind, surveillance, choosing - the corpus's birds as cosmological civil-service) and the tree-economy doctrine (the birds as the tree's organs: the crown's officers serving the trunk's metabolism). In the atlas, the record anchors the cosmic-bird family: each a tradition's world-tree birds; the Norse one is distinctive in the sentinel-cock.\n\nFor the database, this node complements the Yggdrasil-record: here the birds' file.\n\nThe register's literary placement completes the file: the birds documented across the genres (the exam-answers of Vafthrudnismal, the litany of Grimnismal, the riddle-list of Fjolsvinnsmal, the flyting's raven-charges) - the avian-register's distribution showing how the myth-world's officers were taught: in exams, litanies and riddles rather than in narrative, the birds as the corpus's knowledge-structure rather than its plot. And the comparative frame completes it: the world-tree's birds across traditions (the Greek eagle of Zeus, the Chinese tree-birds, the Islamic simurgh) - each a cosmology's avian staff; the Norse one is distinctive in the squirrel's shuttle between the crown and the roots.\n\nThe register's kenning-reach completes the file: the birds' verse-names documented (the cock as the tree's sentinel in the riddle-lists; the ravens as Odin's 'thought' and 'memory' in the kennings - the avian-register's diction working in court-poetry), so the birds' file is documented in usage as well as doctrine: the mythic birds cited wherever the poets needed watchfulness or wisdom. And the cock's liturgical echo completes it: the watch-bird's image in the converted era (the Christian cock-vane on the church-roofs - the sentinel-bird's transfer to the new faith's steeples) - the tree-top's officer re-posted on the churches."
+      },
+      "functions": [
+        "Avian-register file: the corpus's birds as cosmological officers",
+        "Avian-office doctrine: sentinel, wisdom, wind, surveillance, choosing",
+        "Tree-economy doctrine: the birds as the world-tree's organs",
+        "The wind-origin clause: Hræsvelgr's wing-beats as the weather's cause"
+      ],
+      "variants": [
+        {
+          "name": "Fjolsvinnsmal's Vidofnir",
+          "text_tradition": "Svipdagsmal-tradition; paper MSS",
+          "summary": "The golden sentinel-cock of the tree.",
+          "cross_ref": "norse-vidofnir-eagle"
+        },
+        {
+          "name": "Grimnismal's eagle-and-hawk",
+          "text_tradition": "Codex Regius GKS 2365 4to",
+          "summary": "The tree-crown's anatomy in verse.",
+          "cross_ref": "norse-yggdrasil-nine-worlds"
+        }
+      ],
+      "primary_sources": [
+        {
+          "work": "Fjolsvinnsmal; Grimnismal; Vafthrudnismal",
+          "citation": "The bird-evidence. Public-domain English: Bellows 1923.",
+          "language": "Old Norse / Old Icelandic"
+        }
+      ],
+      "secondary_sources": [
+        {
+          "work": "Ursula Dronke, The Poetic Edda, vol. II",
+          "citation": "Dronke 1997, Oxford - the bird-stanzas' commentary."
+        }
+      ],
+      "source_urls": [
+        {
+          "url": "https://www.sacred-texts.com/neu/poe/",
+          "description": "Poetic Edda, Bellows translation (public domain)",
+          "accessed": "2026-11-01"
+        }
+      ],
+      "sensitivity_flag": "none",
+      "provenance": {
+        "record_status": "complete",
+        "compiled": "2026-11-01",
+        "compiled_by": "DHG508 fieldwork compilation",
+        "review_status": "draft - pending human review"
+      },
+      "motifs": [
+        "sacred-place",
+        "prophetic-vision",
+        "sacred-tree",
+        "world-tree"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Historical literary corpus; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The tree's birds: the golden sentinel-cock high on the crown, the eagle with the wind-hawk between its eyes, the squirrel running insults between them, the wind-giant's wing-beats making the weather, and thought and memory flying the world daily for Odin.",
+          "note": "Paraphrase-synthesis of the avian-register (Bellows 1923); not verbatim."
+        }
+      ]
+    },
+    {
+      "id": "norse-surt-and-muspel",
+      "title": {
+        "en": "Surtr Beyond the Doom: The Fire-Giant's Stray Notices",
+        "zh": "末日之外的蘇爾特：火巨人的零簡"
+      },
+      "tradition": "norse",
+      "category": "myth-religion",
+      "region": {
+        "en": "Muspell's rim (symbolic pin at Iceland's fires: Krafla)",
+        "zh": "穆斯貝爾邊境（象徵性定位於冰島克拉布拉火區）"
+      },
+      "lat": 65.7,
+      "lon": -16.7,
+      "period": "Voluspa st. 52; Lokasenna st. 42; Gylfaginning chs. 4, 51; Snorri's Muspell-lore",
+      "source": {
+        "archive": "sacred-texts.com (Bellows 1923) / Project Gutenberg (Brodeur 1916)",
+        "work": "Voluspa st. 52; Lokasenna st. 42; Snorri, Gylfaginning chs. 4, 51; the Muspell-lore's Irish-parallel debate",
+        "url": "https://www.sacred-texts.com/neu/poe/"
+      },
+      "license": "Public domain (Bellows 1923; Brodeur 1916); passages below are labeled paraphrases",
+      "summary": {
+        "en": "The fire-giant's file beyond the Ragnarök-battle: Surtr at the world's rim 'since? - 'the? - beginning? - (Gylfaginning's creation-chapter placement: the fire-guard from the first day), the name-lore (surtr, 'the? - black? - one? - - the soot-giant's title), the Lokasenna's fire-claim (Loki: 'I? - 'looked? - 'into? - Muspell's? - halls? - - the giant's? - the? - 'the? - ships? - of? - the? - fire? - folk? - 'and? - 'their? - weapons), the Muspell-word's continental reach (the Old High German Muspilli's doom-verse - the fire-world's name documented outside Scandinavia), and the placement-debate (Muspell as native Germanic eschatology or Christian-era import). The record is the fire-giant's stray-file.",
+        "zh": "火巨人檔案（末日之戰之外）：蘇爾特自「開闢之初」即守衛世界邊緣（《居爾菲的幻惑》創世章的定位）、名物學（surtr 意為「焦黑者」——煤煙巨人之稱）、《洛基的吵罵》中的火之自述（洛基：「我曾窺見穆斯貝爾的廳堂——火族的船與兵器」）、Muspell 一詞在斯堪的納維亞之外的古德語文獻《Muspilli》末日詩中的出現，以及其定位之爭（穆斯貝爾為本土日耳曼末世觀，抑或基督教時代輸入）。此記錄是火巨人零簡檔案。"
+      },
+      "language": "Old Norse / Old Icelandic; Old High German",
+      "canonical_translation": "Bellows 1923 (public domain); Brodeur 1916 (public domain)",
+      "narrative": {
+        "en": "The fire-giant's stray-file holds Surtr's notices beyond the battle (norse-ragnarok-battles holds the duel; norse-primordial-fire-ice the elemental frame). The creation-placement: the guard at the rim 'from? - 'the? - first? - (Snorri's clause: Surtr 'sits? - 'at? - 'the? - world's? - end? - 'guarded? - 'by? - fire? - - the fire-world's warden since creation: the doom's captain already posted at the beginning - the eschatology's geography built into the cosmogony).\n\nThe name-lore and the flyting's claim: Surtr's title ('the? - 'black? - one? - 'the? - soot-giant's? - name? - - the fire named by its residue), and Loki's own fire-credentials ('I? - 'was? - 'inside? - 'the? - 'the? - - the flyting's boast: the trickster claiming to have seen the fire-folk's ships and weapons - Loki as the doom's travel-agent, the record norse-lokasenna-flyting's charge). And the continental witness: the Old High German Muspilli (the 9th-century doom-poem's fire-judgment verse - the word documented outside Scandinavia), and the placement-debate: Muspell as native Germanic eschatology or Christian-era import (the scholars' fire-lore argument: the doctrine's age as the record's open question).\n\nThe record's cultural functions are the fire-warden doctrine (the doom's captain posted from creation: the end's geography built into the beginning) and the name-reach doctrine (the Muspell-word's continental circulation - the fire-world's name as the north's shared Germanic eschatological vocabulary). In the atlas, the record anchors the fire-warden family: each a tradition's doom-guardian; Surtr is distinctive in the creation-day posting.\n\nFor the database, this node complements the battle-record and the elemental-file: here the fire-giant's strays.\n\nThe record's Icelandic geography completes the file: the fire-world's modern names (the volcano-fields and lava-coasts of the island as Muspell's visible residue - the settlers' own volcanic evidence behind the doctrine: Iceland's eruptions as the fire-world's recurring news), so the stray-file's doctrine is grounded in the landscape the corpus was written in: the fire-giant's realm documented in the authors' own backyard. And the source-criticism completes the file: the Muspell-material's manuscript distribution (the word appearing in Snorri and the eddic fragments but thinly in the skaldic corpus) - the fire-lore's evidence-pattern documented as the debate's basis.\n\nThe file's placement-argument completes the register: the two readings' evidence weighed (the Völuspá's own fire-imagery argued native by the eddic scholars; the Muspilli-parallel argued import by the philologists - the debate's method documented: word-history against poem-structure), so the stray-file's open question is itself the datum: the corpus's eschatology dated by an argument still running. And the Loki-fire link completes it: the trickster's kinship with the fire-world (the record norse-loki-genealogy's brood and Loki's own flight as an eagle of flame-adjacent shape) - the fire-giant's file tied to the trickster's biography."
+      },
+      "functions": [
+        "Fire-giant stray-file: Surtr's notices beyond the battle",
+        "Fire-warden doctrine: the doom's captain posted from creation",
+        "Name-reach doctrine: the Muspell-word's continental circulation",
+        "The placement-debate: native eschatology or Christian-era import"
+      ],
+      "variants": [
+        {
+          "name": "Gylfaginning's creation-placement",
+          "text_tradition": "Codex Regius GKS 2367 4to",
+          "summary": "Surtr posted at the rim from the first day.",
+          "cross_ref": "norse-surt-and-muspel"
+        },
+        {
+          "name": "The Old High German Muspilli",
+          "text_tradition": "9th-c. doom-poem",
+          "summary": "The fire-judgment word outside Scandinavia.",
+          "cross_ref": "none"
+        }
+      ],
+      "primary_sources": [
+        {
+          "work": "Voluspa; Lokasenna; Snorri, Gylfaginning; the Muspilli",
+          "citation": "The fire-giant's notices. Public-domain English: Bellows 1923; Brodeur 1916. Paraphrased here.",
+          "language": "Old Norse / Old Icelandic; Old High German"
+        }
+      ],
+      "secondary_sources": [
+        {
+          "work": "Rudolf Simek, Dictionary of Northern Mythology",
+          "citation": "Simek 1993, Cambridge: D. S. Brewer - entries 'Surtr', 'Muspell' with the debate."
+        }
+      ],
+      "source_urls": [
+        {
+          "url": "https://www.sacred-texts.com/neu/poe/poe03.htm",
+          "description": "Voluspa, Bellows translation (public domain)",
+          "accessed": "2026-11-01"
+        }
+      ],
+      "sensitivity_flag": "none",
+      "provenance": {
+        "record_status": "complete",
+        "compiled": "2026-11-01",
+        "compiled_by": "DHG508 fieldwork compilation",
+        "review_status": "draft - pending human review"
+      },
+      "motifs": [
+        "storm-thunder",
+        "prophetic-vision"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Historical literary corpus; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The stray notices: the fire-warden posted at the world's rim since the first day; the soot-name; Loki's boast of having seen the fire-folk's ships and weapons; and the doom-word's Old High German cousin - the fire-world's name documented beyond the north.",
+          "note": "Paraphrase-synthesis of the Surtr-file (Bellows; Brodeur); not verbatim."
+        }
+      ]
+    },
+    {
+      "id": "norse-hel-judgement-scenes",
+      "title": {
+        "en": "Judgment at the Bridge: The Doom-Journey Scenes Collected",
+        "zh": "橋頭的審判：亡途裁斷場景集"
+      },
+      "tradition": "norse",
+      "category": "myth-religion",
+      "region": {
+        "en": "The roads to Hel (symbolic pin at Pingvellir, Iceland)",
+        "zh": "通往海爾之路（象徵性定位於冰島辛格韋德利）"
+      },
+      "lat": 64.26,
+      "lon": -21.13,
+      "period": "Gylfaginning ch. 49; Baldrs draumar; the saga death-journeys; Draumkvedet? - - the later ballad-parallel",
+      "source": {
+        "archive": "Project Gutenberg (Brodeur 1916) / sacred-texts.com (Bellows 1923)",
+        "work": "Snorri, Gylfaginning ch. 49 (Modgudr's customs-post); the saga death-visions; the folk dream-journeys",
+        "url": "https://www.sacred-texts.com/neu/pre/"
+      },
+      "license": "Public domain (Brodeur 1916; Bellows 1923); passages below are labeled paraphrases",
+      "summary": {
+        "en": "The death-journey's checkpoint-scenes collected: Modgudr's customs-post (the bridge-keeper's questions and the ringing test - the record norse-hel-realm's bridge), the saga death-visions (the dying seeing the dead kin? - 'the? - 'the? - 'the? - - the dreams of the journey: the dream-bride of the dead, the road's sight in the sick-bed), the folk dream-journeys (the later ballad-parallel of the soul's road with its stations), and the judgment-grammar (no court but a customs-post: the north's death-journey documented without trial except for the oath-breakers' shore). The record is the checkpoint-file.",
+        "zh": "亡途關卡場景集：莫德古德的關卡（守橋者的盤問與橋身鳴響之試——見海爾之境記錄）、薩迦的死亡異象（臨終者所見：亡故親人前來引路、病榻上瞥見亡途）、民間夢中亡途（晚期歌謠中靈魂之路及其驛站的平行傳統），以及裁斷語法（無法庭、只有關卡——北歐死亡之旅除背誓者之岸外不經審判）。此記錄是關卡檔案。"
+      },
+      "language": "Old Norse / Old Icelandic",
+      "canonical_translation": "Brodeur 1916; Bellows 1923 (public domain); paraphrase",
+      "narrative": {
+        "en": "The checkpoint-file holds the death-journey's scenes. Modgudr's customs-post: the bridge-keeper's interrogation (the five companies of the dead passing quietly, the living rider making the bridge thunder - the record norse-hel-realm's crossing) and the ringing test ('the? - 'bridge? - 'resounds? - 'more? - 'under? - 'the? - living? - - the checkpoint's instrument: the bridge as lie-detector, the dead recognized by their silence).\n\nThe saga death-visions complete the file: the dying's sight (the records' death-beds seeing the road: the kin coming for the sick, the dream-bride of the dead - the corpus's death-omens documented at the bedside), and the folk dream-journeys: the later ballad-parallel (the soul's road with its stations, the bridges and judgments of the converted-era dream-songs - the checkpoint-grammar's persistence in the folk-register).\n\nAnd the judgment-grammar completes the doctrine: no court but a customs-post (the ordinary dead passing unexamined; the oath-breakers' shore as the sole court - the record norse-nastrond-serpent's separate zone), the north's death-journey documented as border-control rather than trial. The record's cultural functions are the checkpoint-doctrine (death's journey as a guarded crossing with protocol: questions, ringing, color-tests) and the untried-passage doctrine (the ordinary death unjudged - the corpus's cleanest statement of its judgment-free afterlife). In the atlas, the record anchors the death-checkpoint family: each a tradition's border-post of the dead; the Norse one is distinctive in the ringing bridge.\n\nFor the database, this node complements the Hel-realm, Nastrand and dream-records: here the journey's checkpoints.\n\nThe checkpoint-file's saga-reach completes the register: the death-visions' typology across the sagas (the dream-roads, the banquet-seen-in-death, the kin waiting at the door - the corpus's death-bed scenery catalogued), the dying's geography documented as a narrative convention with local variations: the road, the river, the hall's door, the father's handshake - each death-bed staging the journey's first station. And the comparative frame completes it: the death-crossings across traditions (the Islamic bridge of the afterlife, the Chinese courts of the dead, the Zoroastrian Chinvat) - each a guarded crossing; the Norse one is distinctive in ringing rather than judging.\n\nThe file's funeral-connection completes the register: the checkpoint-scenes read beside the burial-customs (the grave-goods' journey-kit, the hel-shoes of the record norse-hel-shoes, the ship-burials' departure-rites - the death-journey's equipment documented in the archaeology), so the checkpoint-file's geography is grounded in provision: the dead equipped for the road their poems describe. And the bridge-keeper's office completes it: Modgudr's lineage and authority (the maiden's name 'fierce-fight'? - the customs-officer's kinship in the prose) - the border-post's staffing documented, the underworld's bureaucracy given a face."
+      },
+      "functions": [
+        "Checkpoint-file: the death-journey's guarded crossings",
+        "Checkpoint-doctrine: questions, ringing and color-tests as border-protocol",
+        "Untried-passage doctrine: the ordinary dead unjudged - the customs-post, not a court",
+        "Folk persistence: the converted dream-songs' road-stations"
+      ],
+      "variants": [
+        {
+          "name": "Modgudr's customs-post",
+          "text_tradition": "Gylfaginning ch. 49",
+          "summary": "The bridge-keeper's questions and the ringing test.",
+          "cross_ref": "norse-hel-judgement-scenes"
+        },
+        {
+          "name": "The saga death-visions",
+          "text_tradition": "The family-sagas' death-beds",
+          "summary": "The road's sight in the sick-room.",
+          "cross_ref": "none"
+        }
+      ],
+      "primary_sources": [
+        {
+          "work": "Snorri, Gylfaginning; the saga death-visions",
+          "citation": "The checkpoint-evidence. Public-domain English: Brodeur 1916. Paraphrased here.",
+          "language": "Old Norse / Old Icelandic"
+        }
+      ],
+      "secondary_sources": [
+        {
+          "work": "Hilda Ellis Davidson, The Road to Hel",
+          "citation": "Davidson 1943, Cambridge - the death-journey's geography."
+        }
+      ],
+      "source_urls": [
+        {
+          "url": "https://www.sacred-texts.com/neu/pre/pre07.htm",
+          "description": "Gylfaginning ch. 49, Brodeur translation (public domain)",
+          "accessed": "2026-11-01"
+        }
+      ],
+      "sensitivity_flag": "none",
+      "provenance": {
+        "record_status": "complete",
+        "compiled": "2026-11-01",
+        "compiled_by": "DHG508 fieldwork compilation",
+        "review_status": "draft - pending human review"
+      },
+      "motifs": [
+        "descent-underworld",
+        "oracle-divination"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Historical literary corpus; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The journey's checkpoints: the bridge-keeper's questions, the ringing test (the dead pass silently, the living make the bridge thunder), the death-bed visions of the road, and the folk-songs' stations - death's journey as border-control, not trial. The death-journey's checkpoint-scenes collected: Modgudr's customs-post (the bridge-keeper's questions and the ringing test - the record norse-hel-realm's bridge), the saga death-visions (the dying seeing the dead kin?",
+          "note": "Paraphrase-synthesis of the checkpoint-file (Brodeur 1916); not verbatim."
+        }
+      ]
+    },
+    {
+      "id": "norse-baldurs-return-motifs",
+      "title": {
+        "en": "Baldr's Return: The Renewal-Motifs and Their Variants",
+        "zh": "巴爾德歸返：更新母題及其異文"
+      },
+      "tradition": "norse",
+      "category": "myth-religion",
+      "region": {
+        "en": "The renewed world's halls (symbolic pin at Pingvellir, Iceland)",
+        "zh": "更新後世界的廳堂（象徵性定位於冰島辛格韋德利）"
+      },
+      "lat": 64.26,
+      "lon": -21.13,
+      "period": "Voluspa st. 62-64; Vafthrudnismal st. 51; Gylfaginning ch. 53; the return-motif's debate",
+      "source": {
+        "archive": "sacred-texts.com (Bellows 1923) / Project Gutenberg (Brodeur 1916)",
+        "work": "Voluspa st. 62-64; Vafthrudnismal st. 51; Snorri, Gylfaginning ch. 53; the renewal-doctrine's source-debate",
+        "url": "https://www.sacred-texts.com/neu/poe/"
+      },
+      "license": "Public domain (Bellows 1923; Brodeur 1916); passages below are labeled paraphrases",
+      "summary": {
+        "en": "Baldr's return-motifs collected: the Codex Regius return (Baldr and Höd coming back to the gods' dwellings), the exam-version (Vafthrudnismal: 'Baldr? - 'will? - 'come? - - Odin's exam-answer), the stanza-order debate (the Codex Regius' damaged sequence: the renewal-stanzas' place argued - the manuscript's accident shaping the doctrine), the sons-of-the-sun clause ('the? - 'daughters? - 'of? - 'the? - sun? - - the second sun's riders), and the Christian-influence debate (the return-doctrine's age: native or borrowed from Revelation). The record is the return-motif file.",
+        "zh": "巴爾德歸返母題全集：雷吉烏斯抄本的歸返（巴爾德與霍德重回諸神居所）、問答體版本（《瓦夫特魯德尼爾之歌》：奧丁考題中「巴爾德將歸來」）、詩節順序之爭（雷吉烏斯抄本的破損序列——更新詩節的位置引發討論：抄本之損塑造了教義）、太陽子女條款（「太陽的女兒們」騎行於新天穹），以及基督教影響之爭（歸返教義的年代：本土抑或取自《啟示錄》）。此記錄是歸返母題檔案。"
+      },
+      "language": "Old Norse / Old Icelandic",
+      "canonical_translation": "Bellows 1923 (public domain); Brodeur 1916 (public domain)",
+      "narrative": {
+        "en": "The return-motif file holds Baldr's renewal-doctrine's variants. The Codex Regius return (norse-ragnarok-renewal holds the renewal's inventory): Baldr and Höd coming back 'and? - 'dwell? - 'in? - 'the? - halls? - of? - the? - gods? - - the killer and the killed reconciled in the renewed hall: the doctrine's most radical clause. The exam-version: Vafthrudnismal's answer ('Baldr? - 'will? - 'come? - 'and? - 'Hod? - 'with? - him? - - the same doctrine in the catechism's register, the corpus's double attestation).\n\nThe manuscript-accident completes the file: the Codex Regius' damaged sequence (the renewal-stanzas' order debated: which stanzas stood where, the leaf's loss shaping the doctrine's reading - the record's philological datum: the return-motif's form depends on the manuscript's wound). And the second-sun clause: 'the? - 'daughters? - 'of? - 'the? - sun? - 'riding? - 'their? - mother's? - path? - (the renewal's astronomy: the old sun swallowed, the daughter riding after - the record norse-svalinn-shield's shield-regime restored).\n\nThe Christian-influence debate completes the doctrine's file: the return's age argued (native renewal or borrowed from Revelation's new heaven - the scholars' renewal-argument; the corpus's own frame: the record norse-christian-mythic-syncretism's layers). The record's cultural functions are the reconciliation-return doctrine (the killer returning beside the killed: the renewal as the feud's absolute end) and the manuscript-shaped-doctrine datum (the renewal's form argued from a damaged leaf - the corpus's clearest case of transmission shaping theology). In the atlas, the record anchors the return-motif family: each a tradition's revived figure; Baldr is distinctive in returning with his slayer.\n\nFor the database, this node complements the renewal-record and the dream-record: here the return's variants.\n\nThe file's cross-corpus reach completes the register: the return-doctrine's echoes beyond the renewal-stanzas (the prose catechism's roster, the exam-answer, and the later ballads' Baldr-echoes) - the renewal-motif's circulation documented from poem to catechism to folk-memory, the return's variants dated by their witnesses. And the Höd-question completes the doctrine: the slayer's return beside the killed (the reconciliation-clause's radicality argued: whether the killer's restoration is native or a Christian-era smoothing - the record's theological datum, the renewal's forgiveness debated as the corpus's own question).\n\nThe file's liturgical-echo completes the register: the return-doctrine's resonance in the converted north (the resurrection-tide of the new faith's calendar read against the renewal-stanzas - the mission-preachers' use of the parallel), so the return-file documents a live argument in the conversion-generation: the missionaries' claims met by the natives' own renewal-lore - the record norse-christian-mythic-syncretism's layer dated to the mission-field itself. And the Höd-reconciliation's social echo completes it: the feud-settlement reading (the killer restored as the north's own settlement-law writ large) - the renewal's forgiveness documented as the society's ideal scaled to cosmos."
+      },
+      "functions": [
+        "Return-motif file: Baldr's renewal-doctrine's variants collected",
+        "Reconciliation-return doctrine: the killer returning beside the killed",
+        "Manuscript-shaped-doctrine datum: the renewal's form argued from a damaged leaf",
+        "The second-sun clause: the daughter riding the mother's path"
+      ],
+      "variants": [
+        {
+          "name": "Vafthrudnismal's exam-version",
+          "text_tradition": "Codex Regius GKS 2365 4to",
+          "summary": "The return in the catechism's register.",
+          "cross_ref": "norse-poetic-edda-vafthrudnismal"
+        },
+        {
+          "name": "Gylfaginning's renewal-roster",
+          "text_tradition": "Codex Regius GKS 2367 4to",
+          "summary": "Snorri's synthesis of the survivors.",
+          "cross_ref": "norse-ragnarok-renewal"
+        }
+      ],
+      "primary_sources": [
+        {
+          "work": "Voluspa; Vafthrudnismal; Snorri, Gylfaginning",
+          "citation": "The return-stanzas. Public-domain English: Bellows 1923; Brodeur 1916.",
+          "language": "Old Norse / Old Icelandic"
+        }
+      ],
+      "secondary_sources": [
+        {
+          "work": "Ursula Dronke, The Poetic Edda, vol. II",
+          "citation": "Dronke 1997, Oxford - the renewal-stanzas' order-debate."
+        }
+      ],
+      "source_urls": [
+        {
+          "url": "https://www.sacred-texts.com/neu/poe/poe03.htm",
+          "description": "Voluspa, Bellows translation (public domain)",
+          "accessed": "2026-11-01"
+        }
+      ],
+      "sensitivity_flag": "none",
+      "provenance": {
+        "record_status": "complete",
+        "compiled": "2026-11-01",
+        "compiled_by": "DHG508 fieldwork compilation",
+        "review_status": "draft - pending human review"
+      },
+      "motifs": [
+        "resurrection",
+        "world-renewal",
+        "revelation",
+        "dying-god"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Historical literary corpus; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The return's variants: the poem's reconciled pair (Baldr and Höd dwelling again in the gods' halls), the exam's clause, the damaged leaf's debated order, and the daughters of the sun riding after the swallowed light - the renewal's doctrine shaped by its manuscript.",
+          "note": "Paraphrase-synthesis of the return-motif file (Bellows; Brodeur); not verbatim."
+        }
+      ]
+    },
+    {
+      "id": "norse-ragnarok-astral-interpretations",
+      "title": {
+        "en": "Reading Ragnarök: The Astronomical and Meteorological Interpretations",
+        "zh": "解讀諸神黃昏：天文與氣象詮釋"
+      },
+      "tradition": "norse",
+      "category": "myth-religion",
+      "region": {
+        "en": "The northern sky (symbolic pin at Pingvellir, Iceland)",
+        "zh": "北方天穹（象徵性定位於冰島辛格韋德利）"
+      },
+      "lat": 64.26,
+      "lon": -21.13,
+      "period": "Modern scholarship's interpretive register (19th-21st c.); the eclipse, comet and climate hypotheses",
+      "source": {
+        "archive": "archive.org",
+        "work": "The interpretive literature: the eclipse-hypotheses, the comet-theories, the 536-CE climate-event debate, the Fimbulwinter-archaeology",
+        "url": "https://archive.org/"
+      },
+      "license": "Public domain (older studies); passages below are labeled paraphrases",
+      "summary": {
+        "en": "Ragnarök's natural-readings collected: the eclipse-hypothesis (the sun swallowed by the wolf read as an eclipse-lore), the comet-theories (the Surt-fire and the sky-fall read as a comet's passage? - 'the? - 'star? - 'that? - 'falls? -), the 536-CE climate-event debate (the Fimbulwinter read as the late-antique dust-veil's northern memory: 'the? - 'years? - 'without? - summer? - - the real famine-winters behind the mythic three), and the forest-fire and northern-lights readings. The record is the naturalization-file: the scholars' attempts to date and decode the doom.",
+        "zh": "諸神黃昏的自然詮釋全集：日食假說（狼吞日被解讀為日食知識）、彗星理論（蘇爾特之火與天穹墜落被讀作彗星過境）、公元536年氣候事件之爭（芬布爾之冬被讀作古代晚期塵幕在北方的記憶——「無夏之年」：真實饑荒之冬成為神話三冬的底本），以及森林大火與北極光解讀。此記錄是自然化檔案：學者為末日定年與解碼的嘗試。"
+      },
+      "language": "Modern scholarship; Old Norse sources",
+      "canonical_translation": "Interpretive literature per standard studies; paraphrase",
+      "narrative": {
+        "en": "The naturalization-file holds the doom's modern readings. The eclipse-hypothesis: the sun-swallowing read as eclipse-lore (the wolves Skoll and Hati as the eclipse-creatures of folk-astronomy - the record norse-fimbulwinter-wolves' wolves decoded), and the comet-theories: the sky-fall read as a comet's passage (the stars falling from the heavens - the Völuspá's imagery argued as a remembered visitation).\n\nThe 536-CE debate: the Fimbulwinter read as climate-memory ('the? - 'years? - 'without? - summer? - - the late-antique dust-veil's northern famines: the tree-ring evidence of the 540s' failed summers read behind the mythic three winters - the corpus's most-cited naturalization: the doom dated to a real sky). The forest-fire and northern-lights readings complete the file: the Surt-fire argued as the fire-lore of the burned forests (the boreal fires' memory), and the flames on the sky read as the aurora - the mythic fire decoded as the north's own lights.\n\nThe record's cultural functions are the naturalization-method doctrine (the myth read as encoded observation: the scholars' decode-register) and the caution-doctrine (the readings' limits: the myth's dramatis personae outdate any single event - the corpus's warning against single-cause naturalization). In the atlas, the record anchors the natural-reading family: each a tradition's apocalypse decoded; the Norse one is distinctive in the climate-datum.\n\nFor the database, this node documents the interpretive register: the doom's modern decodings as reception-history.\n\nThe file's method-critique completes the register: the naturalization-projects' limits documented (each decode answering one stanza and failing the cast - the wolf named Skoll, the shield Svalinn, the game-pieces of Idavoll: the myth's furniture outdating any single sky-event), so the record's conclusion is methodological: the doom is a composite - famine-memory, eclipse-lore and fire-lore braided into a narrative with its own logic. And the medieval readings complete it: the conversion-era's own astronomical glosses (the learned Icelanders' eclipse-tables and the fate-terminology of the chroniclers) - the doom decoded already in the Middle Ages, the naturalization's first layer documented.\n\nThe file's source-horizon completes the register: the naturalization-projects' assumptions documented (the pagan myth treated as observation-log against the myth treated as poetry - the two schools' premises stated), so the record's method-note frames the whole file: the doom decoded only if one first decides what kind of speech it is. And the Fimbulwinter's regional-memory layer completes it: the northern famines' local documentation (the Icelandic and Greenland colony-mortality cycles recorded in the annals) - the three winters' realism documented from the settlement-records: the myth's weather dated to the north's own archive."
+      },
+      "functions": [
+        "Naturalization-file: Ragnarök's modern readings collected",
+        "Naturalization-method doctrine: the myth as encoded observation",
+        "The climate-datum: the 536-CE dust-veil behind the Fimbulwinter",
+        "Caution-doctrine: the myth's cast outdating any single event"
+      ],
+      "variants": [
+        {
+          "name": "The eclipse-and-comet readings",
+          "text_tradition": "19th-20th c. scholarship",
+          "summary": "The sky-phenomena decoded from the wolf-imagery.",
+          "cross_ref": "norse-ragnarok-astral-interpretations"
+        },
+        {
+          "name": "The 536-CE climate-reading",
+          "text_tradition": "21st-c. scholarship",
+          "summary": "The dust-veil's famines read behind the Fimbulwinter.",
+          "cross_ref": "norse-fimbulwinter-wolves"
+        }
+      ],
+      "primary_sources": [
+        {
+          "work": "The interpretive literature",
+          "citation": "The Ragnarök-naturalization studies, 19th-21st c. Paraphrased here.",
+          "language": "Modern scholarship"
+        }
+      ],
+      "secondary_sources": [
+        {
+          "work": "Rudolf Simek, Dictionary of Northern Mythology",
+          "citation": "Simek 1993, Cambridge: D. S. Brewer - the interpretive register assessed."
+        }
+      ],
+      "source_urls": [
+        {
+          "url": "https://archive.org/",
+          "description": "archive.org - the interpretive studies",
+          "accessed": "2026-11-01"
+        }
+      ],
+      "sensitivity_flag": "none",
+      "provenance": {
+        "record_status": "complete",
+        "compiled": "2026-11-01",
+        "compiled_by": "DHG508 fieldwork compilation",
+        "review_status": "draft - pending human review"
+      },
+      "motifs": [
+        "prophetic-vision",
+        "sun-capture",
+        "fish-swallow",
+        "seasons-origin"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Modern scholarship; presented as interpretive history."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The decodings: the swallowed sun read as eclipse-lore, the falling stars as a comet, the three winters as the 536-CE dust-veil's famines, the Surt-fire as the boreal forests' burns, the flames on the sky as the aurora - the doom dated, decoded and doubted.",
+          "note": "Paraphrase-synthesis of the naturalization-file; not verbatim."
+        }
+      ]
+    },
+    {
+      "id": "norse-world-tree-variants",
+      "title": {
+        "en": "World-Tree Variants: Yggdrasil's Local Lives",
+        "zh": "世界樹異文：尤克特拉希爾的地方生命"
+      },
+      "tradition": "norse",
+      "category": "myth-religion",
+      "region": {
+        "en": "Farm-ash trees and holy groves (symbolic pin at Uppsala, Sweden)",
+        "zh": "農家梣樹與神聖林（象徵性定位於瑞典烏普薩拉）"
+      },
+      "lat": 59.9,
+      "lon": 17.64,
+      "period": "The tree-motif's local evidence: the groves, the guardianship-trees (træð? - the? - 'farm-trees), the folklore of the ash",
+      "source": {
+        "archive": "archive.org / handrit.is",
+        "work": "Adam of Bremen's grove; the guardianship-tree evidence (the farm-trees); the ash-lore's folklore register",
+        "url": "https://archive.org/"
+      },
+      "license": "Public domain (older editions); passages below are labeled paraphrases",
+      "summary": {
+        "en": "The world-tree's local lives collected: the sacred groves (Adam's Uppsala-grove: every tree divine - the record norse-uppsala-temple's grove), the guardianship-trees (the farm's vörðtrjá: 'the? - 'guard-tree? - 'at? - 'the? - 'door? - 'whose? - 'fall? - 'foretells? - 'the? - family's? - - the household's own world-tree), the healing-tree lore (the ash-remedies and the ash-bark's medical reputation - the tree's farm-medicine), and the cosmological reading (the family-tree idiom: 'the? - 'kin? - 'as? - 'a? - 'tree? - - the micro-cosmology in everyday speech). The record is the tree's folk-file.",
+        "zh": "世界樹的地方生命全集：神聖林（亞當筆下烏普薩拉聖林——「每棵樹皆屬神聖」）、守護樹（農家門前的 vörðtrjá——「樹倒則家衰」的家宅世界樹）、梣樹醫療傳說（梣皮藥用聲譽——樹的農家藥典），以及宇宙論閱讀（家族樹習語——「血脈如樹」：日常言語中的微觀宇宙論）。此記錄是樹的民俗檔案。"
+      },
+      "language": "Old Norse / Old Icelandic; Latin (Adam)",
+      "canonical_translation": "Laing 1844; Tschan 1959; paraphrase",
+      "narrative": {
+        "en": "The tree's folk-file holds Yggdrasil's local lives. The sacred groves: the temple-grove's divinity (Adam's clause - the record norse-uppsala-temple: every tree held sacred by the deaths hanging in it), and the groves' law (the tree-sanctuaries of the law-codes: the groves' inviolability - the corpus's grove-clauses).\n\nThe guardianship-trees: the farm's own tree (the vörðtrjá - 'the? - 'guard-tree? - 'whose? - 'health? - 'is? - 'the? - family's? - - the household's world-tree documented in the farm-customs: the tree fed, the tree's fall an omen, the family's fate read in the bark - the cosmology domesticated). The healing-tree lore completes the register: the ash's medicine (the bark's remedies, the tree's medical reputation in the farm-lore - the world-tree's species as the pharmacy). And the idiom-register: the family-tree speech ('the? - 'kin? - 'as? - 'branches? - - the micro-cosmology in everyday idiom: the households describing themselves in the tree's grammar).\n\nThe record's cultural functions are the tree-domestication doctrine (the world-tree's doctrine scaled to the farm: each household keeping its own Ash) and the idiom-doctrine (the cosmology's everyday speech: the myth's grammar surviving in language). In the atlas, the record anchors the local-tree family: each a tradition's world-tree folk-lives; the Norse one is distinctive in the guardianship-tree.\n\nFor the database, this node complements the Yggdrasil-record: here the tree's folk-lives.\n\nThe file's legal register completes the tree's folk-lives: the tree-sanctuaries' clauses (the groves' inviolability in the law-codes, the penalties for bark-cutting and branch-breaking - the tree's legal personhood documented), so the world-tree's doctrine scales down to statute: each grove a courthouse of its own, the sacred arbor protected by the same law that protected the thing-steads. And the churchyard-transplant completes the register: the holy trees of the converted parishes (the church-yards' ancient ashes standing beside the new altars) - the world-tree's folk-lives documented surviving conversion, the Ash outliving its own mythology.\n\nThe file's comparative-frame completes the register: the guardianship-trees across the north (the Scandinavian and German village-trees: the maypoles' predecessors, the dance-trees of the churchyards) - the Ash's folk-lives documented as a European register, the world-tree's doctrine shading into the maypole's festival. And the Yggdrasil-name's etymology completes it: 'Odin's horse' read as the gallows-tree's title (the tree of the god's own hanging - the record norse-havamal-runes) - the world-tree's name itself a gallows-joke, the cosmology's tree named for its owner's ordeal.\n\n The file's churchyard-transplant completes it: the holy trees of the converted parishes (the church-yards’ ancient ashes standing beside the new altars) - the world-tree’s folk-lives documented surviving conversion, the Ash outliving its own mythology."
+      },
+      "functions": [
+        "Tree folk-file: Yggdrasil's local lives in grove, farm and idiom",
+        "Tree-domestication doctrine: the world-tree scaled to the household's own Ash",
+        "Guardianship-tree register: the farm-tree's health read as the family's fate",
+        "Idiom-doctrine: the cosmology surviving in everyday speech"
+      ],
+      "variants": [
+        {
+          "name": "Adam's Uppsala-grove",
+          "text_tradition": "Gesta 4.27",
+          "summary": "Every tree divine by the hanging bodies.",
+          "cross_ref": "norse-uppsala-temple"
+        },
+        {
+          "name": "The guardianship-tree customs",
+          "text_tradition": "Farm-custom evidence",
+          "summary": "The household's own world-tree.",
+          "cross_ref": "norse-world-tree-variants"
+        }
+      ],
+      "primary_sources": [
+        {
+          "work": "Adam of Bremen; the guardianship-tree customs",
+          "citation": "The tree-evidence. Editions: Tschan 1959 (paraphrased); the folklore collections. Paraphrased here.",
+          "language": "Old Norse / Old Icelandic; Latin"
+        }
+      ],
+      "secondary_sources": [
+        {
+          "work": "Hilda Ellis Davidson, papers on tree-cult",
+          "citation": "Davidson's tree-cult studies - the local trees' register."
+        }
+      ],
+      "source_urls": [
+        {
+          "url": "https://archive.org/",
+          "description": "archive.org - the tree-cult collections",
+          "accessed": "2026-11-01"
+        }
+      ],
+      "sensitivity_flag": "none",
+      "provenance": {
+        "record_status": "complete",
+        "compiled": "2026-11-01",
+        "compiled_by": "DHG508 fieldwork compilation",
+        "review_status": "draft - pending human review"
+      },
+      "motifs": [
+        "sacred-place",
+        "world-renewal",
+        "sacred-tree",
+        "world-tree"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Historical literary corpus; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The tree's local lives: the temple-grove where every tree was divine; the farm's guard-tree whose health was the family's fate; the ash-bark's medicine; and the kin described as branches - the world-tree scaled to the household and to speech. The world-tree's local lives collected: the sacred groves (Adam's Uppsala-grove: every tree divine - the record norse-uppsala-temple's grove), the guardianship-trees (the farm's vörðtrjá: 'the?",
+          "note": "Paraphrase-synthesis of the tree's folk-file; not verbatim."
+        }
+      ]
+    }
+  ]
+}

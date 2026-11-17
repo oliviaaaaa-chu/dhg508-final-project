@@ -1,0 +1,289 @@
+{
+  "_comment": "Norse expansion batch 73 - Bonus whole-saga nodes: Hrolfs saga kraka, Gisla saga, Faereyinga saga. All passages are paraphrase and carry a note.",
+  "texts": [
+    {
+      "id": "norse-hrolf-kraki-saga",
+      "title": {
+        "en": "Hrólfs saga kraka: The Whole Saga of the Danish Hero-King",
+        "zh": "《赫羅爾夫·克拉基薩迦》：丹麥英雄王全傳"
+      },
+      "tradition": "norse",
+      "category": "myth-religion",
+      "region": {
+        "en": "Lejre, Zealand (Hrólf's hall)",
+        "zh": "丹麥西蘭萊爾（赫羅爾夫大廳）"
+      },
+      "lat": 55.57,
+      "lon": 11.86,
+      "period": "Hrolfs saga kraka 14th century (older heroic material); ed. Fornaldar sogur (Rafn 1829); English: Byock 1998",
+      "source": {
+        "archive": "archive.org / handrit.is",
+        "work": "Hrolfs saga kraka (complete); ed. Fornaldar sogur (Rafn 1829); English: Jesse Byock, The Saga of King Hrolf Kraki, 1998",
+        "url": "https://handrit.is/"
+      },
+      "license": "Public domain (Rafn edition); Byock 1998 passages are labeled paraphrases",
+      "summary": {
+        "en": "The whole saga of the Danish hero-king: the lineage's shape-tales (Halfdan's divided kingship, Frodi's usurpation, Helgi and the elf-woman, the bear-father Bjorn), the champions' assembly at Lejre, Hrólf's ring-giving kingship, the war with the elf-sister Skuld and her ghost-army, the hall's fall and the last battle, and the saga's afterlives (Saxo's Latin Rolfus, the Bjarkamal fragments, the Beowulf-kinship). The record is the whole-saga node: the corpus's great Danish cycle documented complete.",
+        "zh": "丹麥英雄王的完整薩迦：世系的化身故事（哈夫丹的分治王國、弗羅迪的篡位、赫爾吉與精靈女子、熊父比約恩）、萊爾的勇士集結、赫羅爾夫散金稱王、與精靈妹妹斯庫爾德的鬼魂軍團之戰、大廳傾覆與最後一戰，以及薩迦的身後流傳（薩克索拉丁文本、比亞克之歌殘篇、與《貝奧武甫》的親緣）。此記錄是全傳節點：語料中最重要的丹麥循環完整記錄。"
+      },
+      "language": "Old Norse / Old Icelandic",
+      "canonical_translation": "Jesse Byock, The Saga of King Hrolf Kraki, London 1998 (paraphrased); Fornaldar sogur ed. Rafn 1829 (public domain)",
+      "narrative": {
+        "en": "The whole-saga node holds the Danish cycle complete (norse-hrolf-kraki-cycle holds the cycle's doctrine; norse-bodvar-bjarki the champion's episode). The lineage's shape-tales: the divided kingship (Halfdan's murder and Frodi's usurpation - the brothers' feud opening the saga), the elf-woman (Helgi's valkyrie-shaped bride and the sons' shape-family: the bear-father Bjorn's enchantment, the witch-queen Hvit's transformations), and the champions' assembly (Böðvar's arrival at Lejre, the hall's roster, the single combats - the saga's first half built on the recruitment of the twelve).\n\nThe kingship and the fall: Hrólf's ring-giving (the generosity-test and the gold in the field), the war with Skuld (the elf-sister's ghost-army in boiled mail - the hall's fall by sorcery), the last battle (the Bjarkamal's exhortation-fragments as the hall's walls break), and the avengers (the surviving champions' vengeance-register). The afterlives complete the node: the cycle's four-media attestation (the saga, Saxo's Latin Rolfus-books, the Bjarkamal's fragments, and the Beowulf-kinship - the record norse-beowulf-norse-connections' cross-references).\n\nThe record's cultural functions are the whole-cycle doctrine (the Danish hero-king's biography complete: birth, hall, champions, fall - the corpus's Beowulf-generation documented as a single document) and the shape-lineage doctrine (the family's transformations as its identity: the bear, the elf and the witch-queen one lineage's register). In the atlas, the record anchors the whole-saga family: each a tradition's complete heroic biography.\n\nFor the database, this node holds the saga whole: the Danish cycle's single-document record.\n\nThe saga's literary-craft register completes the file: the composition's layers documented (the heroic verse-fragments embedded in the prose, the fornaldarsaga's anthology-mode: several cycle-styles in one document), so the whole-saga node documents not just the story but its making: the Danish cycle's transmission visible in the text's seams. And the saga's champions-roster completes it: the twelve named with their exploits (the hall's register kept like a war-anniversary list) - the cycle's society documented person by person.\n\nThe saga's Beowulf-workshop completes the file: the parallel-material's use documented (the saga read as the English poem's lost-context reconstruction: the hall, the bear-warrior, the dynastic feud - the comparative-method's workshop), so the whole-saga node documents a method: the Norse text as the Old English poem's field-guide, each episode mapping onto the poem's silences. And the saga's performance-history completes it: the Bjarkamal's battle-exhortation sung in the tradition (the fragments' fame in the skaldic schools) - the cycle's verse known to every court, the saga's core carried in meter.\n\n The file’s nickname-epithet completes it: Kraki’s name-story (the boy’s grain-scattering during the famine - the generosity that named the king), the cycle’s charter carried in the nickname’s own anecdote."
+      },
+      "functions": [
+        "Whole-saga node: the Danish hero-king's biography complete",
+        "Whole-cycle doctrine: birth, hall, champions, fall in one document",
+        "Shape-lineage doctrine: bear, elf and witch-queen as one family's register",
+        "Four-media attestation: saga, Saxo, the Bjarkamal and the Beowulf-kin"
+      ],
+      "variants": [
+        {
+          "name": "Hrolfs saga kraka (Rafn edition)",
+          "text_tradition": "14th-c. MSS",
+          "summary": "The saga's canonical form.",
+          "cross_ref": "norse-hrolf-kraki-saga"
+        },
+        {
+          "name": "Saxo's Rolfus-books",
+          "text_tradition": "Gesta Danorum books 2, 7",
+          "summary": "The Latin twin of the cycle.",
+          "cross_ref": "norse-agnar-bravalla"
+        }
+      ],
+      "primary_sources": [
+        {
+          "work": "Hrolfs saga kraka",
+          "citation": "In Fornaldar sogur nordrlanda ed. Rafn, Copenhagen 1829 (public domain). English: Byock 1998 (paraphrased).",
+          "language": "Old Norse / Old Icelandic"
+        }
+      ],
+      "secondary_sources": [
+        {
+          "work": "Jesse Byock, The Saga of King Hrolf Kraki",
+          "citation": "Byock 1998, London: Penguin - translation and the parallel-analysis."
+        }
+      ],
+      "source_urls": [
+        {
+          "url": "https://handrit.is/",
+          "description": "handrit.is - fornaldarsogur manuscript catalogue",
+          "accessed": "2026-11-01"
+        }
+      ],
+      "sensitivity_flag": "none",
+      "provenance": {
+        "record_status": "complete",
+        "compiled": "2026-11-01",
+        "compiled_by": "DHG508 fieldwork compilation",
+        "review_status": "draft - pending human review"
+      },
+      "motifs": [
+        "sacred-kingship",
+        "transformation",
+        "spirit-possession",
+        "succession-struggle"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Historical literary corpus; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The saga whole: the divided kingship and the shape-family; the champions' hall and the ring-giving; the elf-sister's ghost-army and the fall of Lejre; and the cycle's four-media afterlife from Saxo's Latin to the English poem's kin. The whole saga of the Danish hero-king: the lineage's shape-tales (Halfdan's divided kingship, Frodi's usurpation, Helgi and the elf-woman, the bear-father Bjorn), the champions' assembly at Lejre, Hrólf's ring-giving kingship, the war with the elf-sister Skuld and her ghost-army, the hall's fall and the last battle, and the saga's afterlives (Saxo's Latin Rolfus, the Bjarkamal fragments, the Beowulf-kinship).",
+          "note": "Paraphrase-synthesis of Hrolfs saga kraka (Byock 1998; Rafn 1829); not verbatim."
+        }
+      ]
+    },
+    {
+      "id": "norse-gisla-saga",
+      "title": {
+        "en": "Gísla saga: The Outlaw's Dream-Vigil and the Sister's Oath",
+        "zh": "《吉斯利薩迦》：亡命者的夢中守望與姊妹的背誓"
+      },
+      "tradition": "norse",
+      "category": "myth-religion",
+      "region": {
+        "en": "Haukadalur and Geirthjofs-fjord, Iceland",
+        "zh": "冰島豪卡達爾與格爾希約夫斯峽灣"
+      },
+      "lat": 65.35,
+      "lon": -23.6,
+      "period": "Gisla saga Surssonar 13th-14th century (events set c. 960-980); principal MSS 14th-17th c.; English: Dasent? - the saga-collections",
+      "source": {
+        "archive": "archive.org / handrit.is",
+        "work": "Gisla saga Surssonar; ed. Islenzk Fornrit VI (1943); English in saga-collections (e.g., The Sagas of the Icelanders)",
+        "url": "https://handrit.is/"
+      },
+      "license": "Public domain (older editions); passages below are labeled paraphrases",
+      "summary": {
+        "en": "The outlaw-saga's masterpiece: Gísli's oath-broken world (the blood-oath sworn and broken at the feast - the vengeance-oath Aðalbjörg? - 'the? - 'oath? - 'on? - 'the? - spear? - - the wife Aude's loyalty against the sister Thórdís's love), the secret killing (the brother-in-law Thorgrímr killed at night, 'the? - 'sacrificial? - verses? - 'the? - - the skaldic boast that betrays the deed), the dream-vigil (the two dream-women: the bright dream-wife who counsels stanzas and the blood-handed one who promises death), and the last stand (the hero leaping between boulders, the spear set in the hillside). The record is the outlaw's dream-file.",
+        "zh": "亡命者薩迦的傑作：吉斯利誓言破滅的世界（宴席上立血誓又遭破壞——以矛為誓；妻子奧德的忠誠對照妹妹索迪斯的愛情背叛）、秘密殺戮（夜殺妹婿索爾格里姆——吟出暴露行蹤的祭歌）、夢中守望（兩位夢中女子：勸其誦詩的光明夢妻與預告死亡的染血夢妻），以及最後一戰（在巨石間跳躍、長矛插於山坡的死亡姿態）。此記錄是亡命者之夢檔案。"
+      },
+      "language": "Old Norse / Old Icelandic",
+      "canonical_translation": "Islenzk Fornrit VI, Reykjavik 1943; paraphrase",
+      "narrative": {
+        "en": "The outlaw's dream-file holds Gísla saga's register. The oath-broken world: the blood-oath sworn and broken (the vengeance-oath at the feast - the record norse-ulf-outlaw-boundary's oath-grammar: 'the? - 'oath? - 'on? - 'the? - spear? - 'that? - 'the? - kin? - 'broke? - - the sisters' loyalty divided: Aude following her husband into exile, Thórdís loving her brother's killer's kin - the household split by the feud).\n\nThe secret killing: the brother-in-law killed at night (the sacrificial verses composed at the deed - 'the? - 'verse? - 'that? - 'betrayed? - the? - deed? - - the skaldic boast as the deed's witness: the corpus's poet-outlaw documenting his own crime in meter). The dream-vigil completes the file: the two dream-women ('the? - 'bright? - dream-wife? - 'who? - 'came? - 'every? - night? - 'counseling? - stanzas? - 'and? - 'the? - blood-handed? - one? - 'who? - 'promised? - death? - - the outlaw's fate in two dreams: comfort and sentence alternately, the corpus's most sustained dream-sequence).\n\nAnd the last stand: the hero's death-register (the leaps between the boulders, the spear set in the hillside for the final jump - the death-position the verse preserves; and the sister's hand in it: the record's oath-breach completed). The record's cultural functions are the dream-vigil doctrine (the outlaw's fate foretold nightly in two dreams - the corpus's dream-fate at its fullest) and the oath-breach doctrine (the family's loyalty split by the feud: the oath's social cost documented inside one household). In the atlas, the record anchors the dream-vigil family: each a tradition's haunted fugitive; the Gísli one is distinctive in the two women.\n\nFor the database, this node extends the outlaw-register: here the dream-file.\n\nThe saga's verse-integration completes the dream-file: the outlaw's stanzas embedded in the prose (the lausavisur composed at each crisis - the lausavísa-form as the fugitive's diary), so the dream-vigil is documented in two media: the prose-night and the verse-morning - the corpus's most integrated outlaw-text. And the saga's Christianity-frame completes it: the conversion-era's pious touches on the old material (the dream-women re-read in the saga's final chapters) - the fate-doctrine's persistence under the new faith documented in the text's own revisions.\n\nThe saga's law-craft completes the dream-file: the oath-breach's legal aftermath documented (the kin's compensation-cases run after the killing - the feud's paper-trail in the courts), so the dream-vigil's tragedy is grounded in procedure: the fate running through settlements as well as dreams. And the saga's two-transmission completes it: the longer and shorter versions documented (the saga's manuscripts preserving two redactions with variant dream-sequences) - the dream-vigil's variants documented, the fate-doctrine's transmission visible in its copies."
+      },
+      "functions": [
+        "Outlaw's dream-file: the dream-vigil and the oath-breach",
+        "Dream-vigil doctrine: the fate foretold nightly in two dreams",
+        "Oath-breach doctrine: the family's loyalty split by the feud",
+        "The skaldic boast as witness: the crime documented in the outlaw's own meter"
+      ],
+      "variants": [
+        {
+          "name": "Gísla saga (Islenzk Fornrit VI)",
+          "text_tradition": "14th-c. and later MSS",
+          "summary": "The saga's canonical form.",
+          "cross_ref": "norse-gisla-saga"
+        },
+        {
+          "name": "Grettis saga parallel",
+          "text_tradition": "14th-c.",
+          "summary": "The outlaw-twin in the saga corpus.",
+          "cross_ref": "norse-grettir-saga"
+        }
+      ],
+      "primary_sources": [
+        {
+          "work": "Gísla saga Surssonar",
+          "citation": "Edition: Islenzk Fornrit VI, Reykjavik 1943. English in saga-collections. Paraphrased here.",
+          "language": "Old Norse / Old Icelandic"
+        }
+      ],
+      "secondary_sources": [
+        {
+          "work": "Jesse Byock, Viking Age Iceland",
+          "citation": "Byock 2001, London: Penguin - the saga's fate-grammar."
+        }
+      ],
+      "source_urls": [
+        {
+          "url": "https://handrit.is/",
+          "description": "handrit.is - saga manuscript catalogue",
+          "accessed": "2026-11-01"
+        }
+      ],
+      "sensitivity_flag": "none",
+      "provenance": {
+        "record_status": "complete",
+        "compiled": "2026-11-01",
+        "compiled_by": "DHG508 fieldwork compilation",
+        "review_status": "draft - pending human review"
+      },
+      "motifs": [
+        "taboo-transgression",
+        "prophetic-vision",
+        "dream-vision",
+        "betrayal"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Historical literary corpus; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The dream-file: the vengeance-oath broken at the feast; the night-killing documented in the killer's own verses; the two dream-women (the bright counselor and the blood-handed one); and the last stand between the boulders with the spear set in the hillside - the outlaw's fate kept in dreams and meter.",
+          "note": "Paraphrase-synthesis of Gísla saga (Islenzk Fornrit VI); not verbatim."
+        }
+      ]
+    },
+    {
+      "id": "norse-faereyinga-saga",
+      "title": {
+        "en": "Færeyinga saga: The Faroe Islands' Conversion and Its Heroes",
+        "zh": "《法羅群島薩迦》：法羅群島的皈依及其英雄"
+      },
+      "tradition": "norse",
+      "category": "myth-religion",
+      "region": {
+        "en": "The Faroe Islands (Tórshavn and Suðuroy)",
+        "zh": "法羅群島（托爾斯港與蘇德羅伊）"
+      },
+      "lat": 62.0,
+      "lon": -6.8,
+      "period": "Faereyinga saga 13th century (events set c. 1000); principal MSS 17th-c. copies (older lost); ed. C. C. Rafn",
+      "source": {
+        "archive": "archive.org / handrit.is",
+        "work": "Faereyinga saga; ed. Fornaldar sogur (Rafn 1829); modern editions; paraphrase",
+        "url": "https://handrit.is/"
+      },
+      "license": "Public domain (Rafn edition); passages below are labeled paraphrases",
+      "summary": {
+        "en": "The Faroes' saga: the settler-generation (Grimur Kamban's first landing - 'the? - 'first? - settler? - 'whose? - name? - 'is? - Norwegian? - yet? - 'his? - deed? - Irish? - - the settlement-note), the conversion-struggle (Sigmundur Brestisson's mission and the forced christening at the Althing of the islands: 'the? - 'baptism? - 'at? - 'the? - assembly? - - the conversion imposed and revenged), Tróndr í Gøtu's resistance (the heathen chieftain 'with? - 'the? - gift? - of? - 'sight? - - the seer-chieftain), and Sigmundur's death and floating corpse (the drowned leader's body washing ashore with his ring? - 'the? - 'body? - 'that? - 'floated? - to? - 'his? - 'kin? - - the incorruption-motif in the islands). The record is the island-conversion file.",
+        "zh": "法羅群島薩迦：拓殖世代（格里穆爾·坎班首次登陸——「其名為挪威式，其事卻屬愛爾蘭」的首位定居者記載）、皈依之爭（西格蒙德·布雷斯蒂松的傳教與在群島議會上強行施洗——「在議會上受洗」：強加的皈依與隨之而來的復仇）、托爾德·伊·格特的海阻（「具預知之眼」的異教酋長），以及西格蒙德之死與漂浮遺體（溺亡領袖的屍身帶著指環漂回親族岸邊——群島版的不朽屍母題）。此記錄是島嶼皈依檔案。"
+      },
+      "language": "Old Norse / Old Icelandic",
+      "canonical_translation": "Fornaldar sogur ed. Rafn 1829 (public domain); paraphrase",
+      "narrative": {
+        "en": "The island-conversion file holds the Faroes' saga. The settler-generation: Grimur Kamban's landing (the first settler 'whose? - 'name? - 'is? - Norwegian? - 'yet? - 'his? - 'deed? - Irish? - - the settlement-note's own irony: the islands peopled from the west before the east - the corpus's settlement-geography). The conversion-struggle: Sigmundur's mission (the conversion-king's client imposing baptism at the islands' assembly - the forced christening and the vengeance it seeded: the record norse-olaf-tryggvason-conversions's method exported).\n\nTróndr í Gøtu's resistance: the heathen chieftain 'with? - 'the? - gift? - of? - sight? - - the seer-chieftain (the resistance's face: the old faith's last prophetic leader, the corpus's conversion-conflict in miniature), and Sigmundur's death and floating corpse: the drowned leader's body washing ashore with his ring ('the? - 'body? - 'that? - 'floated? - 'to? - 'his? - kin? - - the incorruption-motif's island-version: the record norse-st-hallvardr-legend's floating-corpse register).\n\nThe record's cultural functions are the island-conversion doctrine (the forced christening and the seer-resistance: the conversion-conflict's smallest theater) and the settlement-geography doctrine (the islands peopled from the west: the corpus's settlement-arc's western edge). In the atlas, the record anchors the island-conversion family: each a tradition's small-conversion file; the Faroese one is distinctive in the seer-chieftain.\n\nFor the database, this node extends the corpus to the Faroes: the islands' conversion-file.\n\nThe saga's source-criticism completes the island-file: the manuscript-history documented (the medieval saga lost, the 17th-century copies preserving two versions with variant politics - the conversion-story's text shaped by its copyists), so the island-conversion file documents its own fragility: the Faroese record surviving only in late copies, the church's conversion read through contested transmission. And the islands' geography completes it: the fjords and skerries of the narrative (the named landing-sites of the saga's voyages) - the conversion-conflict mapped onto the Faroese coast.\n\nThe saga's conversion-sequel completes the island-file: the post-christening generations documented (the islands' church-order established, the tithe-laws and the parish-lines - the conversion's institutions taking root), so the island-conversion file's arc runs from the mission's violence to the church's settlement: the smallest theater's full play. And the saga's Sigmundr-cult completes it: the leader's local veneration (the shrine-traditions at his grave-sites) - the drowned leader's floating corpse honored in the islands' memory, the corpus's smallest national saint.\n\n The file’s Sigmundr-return motif completes it: the leader’s posthumous sightings documented (the local traditions of the drowned chief appearing) - the island-conversion’s hero kept in the islands’ ghost-register."
+      },
+      "functions": [
+        "Island-conversion file: the Faroes' forced christening and seer-resistance",
+        "Island-conversion doctrine: the conversion-conflict's smallest theater",
+        "Settlement-geography doctrine: the islands peopled from the west",
+        "The floating-corpse motif: the drowned leader's incorruption in island form"
+      ],
+      "variants": [
+        {
+          "name": "Faereyinga saga (Rafn edition)",
+          "text_tradition": "17th-c. copies of the lost medieval saga",
+          "summary": "The islands' conversion-saga.",
+          "cross_ref": "norse-faereyinga-saga"
+        },
+        {
+          "name": "The Olaf Tryggvason-frame",
+          "text_tradition": "The conversion-kings' material",
+          "summary": "The mission-king's exported method.",
+          "cross_ref": "norse-olaf-tryggvason-conversions"
+        }
+      ],
+      "primary_sources": [
+        {
+          "work": "Faereyinga saga",
+          "citation": "In Fornaldar sogur nordrlanda ed. Rafn, Copenhagen 1829 (public domain); 17th-c. copies of the lost medieval saga. Paraphrased here.",
+          "language": "Old Norse / Old Icelandic"
+        }
+      ],
+      "secondary_sources": [
+        {
+          "work": "The Faroese-saga scholarship",
+          "citation": "The Faereyinga saga-studies - the manuscript-history and the conversion-chronology."
+        }
+      ],
+      "source_urls": [
+        {
+          "url": "https://handrit.is/",
+          "description": "handrit.is - the saga's manuscript entries",
+          "accessed": "2026-11-01"
+        }
+      ],
+      "sensitivity_flag": "living_tradition_low",
+      "sensitivity_guidance": "The Faroese conversion is living heritage of the Faroese church; the record presents the saga without religious judgment.",
+      "provenance": {
+        "record_status": "complete",
+        "compiled": "2026-11-01",
+        "compiled_by": "DHG508 fieldwork compilation",
+        "review_status": "draft - pending human review"
+      },
+      "motifs": [
+        "sacred-kingship",
+        "resurrection"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Living conversion-heritage; presented from the saga without judgment."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The islands' file: the settler whose name is Norwegian and whose deed is Irish; the baptism forced at the assembly; the heathen chieftain with the gift of sight; and the drowned leader's body floating ashore with his ring - the conversion-conflict's smallest theater, documented whole.",
+          "note": "Paraphrase of Faereyinga saga (Rafn 1829); not verbatim."
+        }
+      ]
+    }
+  ]
+}

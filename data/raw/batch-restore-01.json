@@ -1,0 +1,129 @@
+{
+  "texts": [
+    {
+      "id": "yu-flood",
+      "title": {
+        "en": "Yu the Great Tames the Waters",
+        "zh": "大禹治水"
+      },
+      "tradition": "chinese",
+      "region": {
+        "en": "Yellow River basin (Kaifeng)",
+        "zh": "黃河流域（開封）"
+      },
+      "lat": 34.79,
+      "lon": 114.31,
+      "period": "Shujing traditions, compiled c. 4th c. BCE",
+      "source": {
+        "archive": "Internet Sacred Texts Archive",
+        "work": "Shujing (Book of Documents), Yugong; Shanhaijing",
+        "url": "https://www.sacred-texts.com/cfi/index.htm"
+      },
+      "license": "Public domain",
+      "summary": {
+        "en": "For thirteen years Yu labors on channels and dredgings, passing his home three times without entering, and finally divides the Nine Provinces, guiding the flood to the sea.",
+        "zh": "大禹疏川導滯十三年，三過家門而不入，終分九州，導洪水入於海。"
+      },
+      "motifs": [
+        "flood",
+        "threefold"
+      ],
+      "category": "myth",
+      "sensitivity": {
+        "restricted": false,
+        "note": ""
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Yu dredged the rivers and opened the mountains; for thirteen years he passed the gate of his home three times and did not enter, until the waters were led down to the sea. Yu marked the Nine Provinces, measured the mountains and rivers, and set the grains to grow; the flood was mastered not by damming it in contention but by the way of the channels.",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "vasilisa-baba-yaga",
+      "title": {
+        "en": "Vasilisa and Baba Yaga",
+        "zh": "瓦西麗莎與巴巴雅加"
+      },
+      "tradition": "slavic",
+      "region": {
+        "en": "Vladimir, Russia",
+        "zh": "弗拉基米爾（俄羅斯）"
+      },
+      "lat": 56.13,
+      "lon": 40.4,
+      "period": "19th c. Russian collections (Afanasyev)",
+      "source": {
+        "archive": "Project Gutenberg (search)",
+        "work": "Vasilisa the Beautiful, in Alexander Afanasyev's collections",
+        "url": "https://www.gutenberg.org/ebooks/search/?query=vasilisa"
+      },
+      "license": "Public domain",
+      "summary": {
+        "en": "Sent by her cruel stepmother to the witch Baba Yaga for fire, Vasilisa survives the impossible tasks with the help of a magic doll; she leaves with a skull full of burning coals — and the fire consumes the stepmother's house.",
+        "zh": "繼母命瓦西麗莎往巫婆巴巴雅加處取火；她憑木偶之助通過種種試煉，攜一枚盛滿燃煤的骷髏歸家——骷髏之火焚盡繼母一家。"
+      },
+      "motifs": [
+        "trickster",
+        "fire-theft",
+        "impossible-task",
+        "stepmother"
+      ],
+      "category": "myth",
+      "sensitivity": {
+        "restricted": false,
+        "note": ""
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The doll's eyes glowed like fire, and it whispered: 'Fear nothing, ask no questions till the time is ripe'; so Vasilisa served Baba Yaga's night, her day, and her pressing tasks of poppy-seed and dust. Baba Yaga gave her a skull with blazing eyes set on a stick; at home the eyes burned on the stepmother and her daughters and consumed them to coals, and Vasilisa was rid of them, and fire remained in her house.",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "korean-sun-moon",
+      "title": {
+        "en": "The Siblings Who Became Sun and Moon",
+        "zh": "化為日月的兄妹"
+      },
+      "tradition": "korean",
+      "region": {
+        "en": "Andong, Korea",
+        "zh": "安東（韓國）"
+      },
+      "lat": 36.57,
+      "lon": 128.72,
+      "period": "Korean oral folktale; 20th c. collections",
+      "source": {
+        "archive": "UNESCO APCIEU folktale anthology (rendering of the Korean folktale)",
+        "work": "The Sun and the Moon (Haewa Dari Doen Onui), Korean folktale; earliest recorded telling narrated by O Su-hwa, South Gyeongsang, 1911",
+        "url": "http://asianfolktales.unescoapceiu.org/folktales/read/pdf/Korea/The_Sun_and_the_Moon.pdf"
+      },
+      "license": "Oral tradition (public domain); anthology rendering (c) UNESCO APCIEU — passages paraphrased",
+      "summary": {
+        "en": "A tiger, having eaten their mother, hunts the brother and sister; praying, they draw down a rope from heaven and climb it — one becomes the sun, the other the moon, and the tiger, unable to climb, falls among the millet stalks.",
+        "zh": "虎食其母而追兄妹二人；二人禱天，天上垂下繩索。兄化為日，妹化為月，登繩而升；虎攀繩不得，墜入高粱田中。"
+      },
+      "motifs": [
+        "transformation",
+        "sky-translation"
+      ],
+      "category": "myth",
+      "sensitivity": {
+        "restricted": false,
+        "note": ""
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The children prayed: 'Send down a rope, if we are innocent'; and a rope of silver came down from the sky; but where the tiger prayed, a rotten rope came down, and he fell into the millet. The brother became the moon, too cold and bright, and the sister became the sun — or the brother the sun, and she the moon — and that is why the moon's face bears the stains of the millet the tiger threw.",
+          "note": "Paraphrase of the Korean folktale \"The Sun and the Moon\" (O Su-hwa narration 1911, via UNESCO APCIEU anthology); not verbatim."
+        }
+      ]
+    }
+  ]
+}

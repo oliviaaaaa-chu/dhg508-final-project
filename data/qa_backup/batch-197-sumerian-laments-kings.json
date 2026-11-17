@@ -1,0 +1,1310 @@
+{
+ "texts": [
+  {
+   "id": "sumerian-lament-ur",
+   "title": {
+    "en": "The Lament for Ur",
+    "zh": "烏爾哀歌"
+   },
+   "tradition": "sumerian",
+   "category": "myth",
+   "region": {
+    "en": "Ur, Iraq",
+    "zh": "烏爾（伊拉克）"
+   },
+   "lat": 30.963,
+   "lon": 46.106,
+   "period": "Isin-Larsa period composition, c. 2000 BCE (ETCSL translation 2003)",
+   "source": {
+    "archive": "ETCSL (University of Oxford)",
+    "work": "The lament for Urim (ETCSL c.2.2.2)",
+    "url": "https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.2.2.2&charenc=j"
+   },
+   "license": "ETCSL translation (Oxford, 2003-2006); quoted in paraphrase with attribution",
+   "summary": {
+    "en": "When the storm god's wind is unleashed against Ur, the moon god's city falls: the temple desecrated, the people scattered as slaves, mothers and children dying of hunger — and at last Nanna mourns to Enlil and the city is promised restoration.",
+    "zh": "暴風之神之風襲向烏爾，月神之城傾覆：神殿被瀆，民眾被虜為奴，母與子飢餓而死——南納終向恩利爾哀告，城池蒙許復興。"
+   },
+   "motifs": [
+    "world-renewal",
+    "descent-underworld",
+    "sacred-kingship"
+   ],
+   "sensitivity": {
+    "restricted": false,
+    "note": "Ancient city lament; no living community restrictions."
+   },
+   "passages": [
+    {
+     "id": "1",
+     "text": "On the day the storm's order was given, Ur was smitten: its temple looted, its people herded away as captives, its cattle and grain carried off — the city that knew no enemy is stripped bare.",
+     "note": "Paraphrase of ETCSL c.2.2.2, the destruction; not verbatim."
+    },
+    {
+     "id": "2",
+     "text": "The lament's heart is hunger: mothers shut their doors against their children, the river runs with bodies, and Nanna, the moon god, has wrapped his city in silence and gone by boat to another place.",
+     "note": "Paraphrase of ETCSL c.2.2.2, the hunger; not verbatim."
+    },
+    {
+     "id": "3",
+     "text": "Nanna mourns before Enlil; the god of the storm answers that the decree was his, and Ur shall be restored: kingship returns to the city, the temple rebuilt, the people regathered — mourning becomes prophecy of return.",
+     "note": "Paraphrase of ETCSL c.2.2.2, the restoration promise; not verbatim."
+    }
+   ],
+   "persons": [
+    "nanna-suen",
+    "enlil"
+   ],
+   "functions": [
+    "Memorial liturgy for the fall of Ur III",
+    "Prototype of the city-lament genre",
+    "Prophecy text of restoration tied to royal ideology"
+   ],
+   "variants": [
+    {
+     "name": "The lament for Sumer and Ur",
+     "text_tradition": "Sumerian (ETCSL c.2.2.3)",
+     "summary": "The wider lament over the whole land's fall.",
+     "cross_ref": "sumerian-lament-sumer-ur"
+    },
+    {
+     "name": "The lament for Nibru",
+     "text_tradition": "Sumerian (ETCSL c.2.2.4)",
+     "summary": "The same genre for Enlil's city.",
+     "cross_ref": "sumerian-lament-nippur"
+    }
+   ],
+   "language": "Sumerian",
+   "canonical_translation": "ETCSL team translation, Oxford, 2003-2006",
+   "primary_sources": [
+    {
+     "work": "The lament for Urim",
+     "citation": "ETCSL c.2.2.2, trans. ETCSL team (2003-2006), lines 1-436",
+     "language": "Sumerian"
+    }
+   ],
+   "secondary_sources": [
+    {
+     "work": "The Lamentation over the Destruction of Sumer and Ur",
+     "citation": "Samuel Noah Kramer, Winona Lake, 1989"
+    }
+   ],
+   "source_urls": [
+    {
+     "url": "https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.2.2.2&charenc=j",
+     "description": "ETCSL c.2.2.2 text and translation",
+     "accessed": "2026-11-14"
+    }
+   ],
+   "sensitivity_flag": "none",
+   "provenance": {
+    "record_status": "complete",
+    "compiled": "2026-11-14",
+    "compiled_by": "opencode myth-collection session",
+    "review_status": "unreviewed"
+   }
+  },
+  {
+   "id": "sumerian-lament-sumer-ur",
+   "title": {
+    "en": "The Lament for Sumer and Ur",
+    "zh": "蘇美與烏爾哀歌"
+   },
+   "tradition": "sumerian",
+   "category": "myth",
+   "region": {
+    "en": "Sumer, southern Iraq",
+    "zh": "蘇美，南伊拉克"
+   },
+   "lat": 31.5,
+   "lon": 45.5,
+   "period": "Isin-Larsa period composition, c. 2000 BCE (ETCSL translation 2003)",
+   "source": {
+    "archive": "ETCSL (University of Oxford)",
+    "work": "The lament for Sumer and Urim (ETCSL c.2.2.3)",
+    "url": "https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.2.2.3&charenc=j"
+   },
+   "license": "ETCSL translation (Oxford, 2003-2006); quoted in paraphrase with attribution",
+   "summary": {
+    "en": "The whole land is visited by the flood-storm: city after city falls — Uruk, Lagash, Umma, Shuruppak — the temples emptied, the land made a wilderness, until the gods restore Sumer and the cities sing again.",
+    "zh": "洪水暴風席捲全境：烏魯克、拉加什、烏瑪、舒魯帕克相繼陷落，神殿空虛，大地化為荒野——直至眾神復興蘇美，諸城再啟歡歌。"
+   },
+   "motifs": [
+    "world-renewal",
+    "descent-underworld"
+   ],
+   "sensitivity": {
+    "restricted": false,
+    "note": "Ancient city lament; no living community restrictions."
+   },
+   "passages": [
+    {
+     "id": "1",
+     "text": "The flood-storm comes on the land by the gods' decree: city after city is named and smitten — Uruk, Lagash, Umma, Shuruppak — temples emptied, houses burned, the black-headed people scattered like sheep.",
+     "note": "Paraphrase of ETCSL c.2.2.3, the storm over the land; not verbatim."
+    },
+    {
+     "id": "2",
+     "text": "The lament catalogs each city's ruin, then turns: the gods restore Sumer, kingship returns to Ur, and the land is promised the days of abundance again — the lament closes in blessing.",
+     "note": "Paraphrase of ETCSL c.2.2.3, restoration; not verbatim."
+    }
+   ],
+   "persons": [
+    "enlil",
+    "nanna-suen",
+    "inanna"
+   ],
+   "functions": [
+    "Widest city lament: memorial of the land's fall",
+    "Restoration prophecy embedded in liturgy",
+    "Performed in the lament festivals of the Isin restoration"
+   ],
+   "variants": [
+    {
+     "name": "The lament for Urim",
+     "text_tradition": "Sumerian (ETCSL c.2.2.2)",
+     "summary": "The single-city lament of the same fall.",
+     "cross_ref": "sumerian-lament-ur"
+    }
+   ],
+   "language": "Sumerian",
+   "canonical_translation": "ETCSL team translation, Oxford, 2003-2006",
+   "primary_sources": [
+    {
+     "work": "The lament for Sumer and Urim",
+     "citation": "ETCSL c.2.2.3, trans. ETCSL team (2003-2006), lines 1-397",
+     "language": "Sumerian"
+    }
+   ],
+   "secondary_sources": [
+    {
+     "work": "The Lamentation over the Destruction of Sumer and Ur",
+     "citation": "Samuel Noah Kramer, Winona Lake, 1989"
+    }
+   ],
+   "source_urls": [
+    {
+     "url": "https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.2.2.3&charenc=j",
+     "description": "ETCSL c.2.2.3 text and translation",
+     "accessed": "2026-11-14"
+    }
+   ],
+   "sensitivity_flag": "none",
+   "provenance": {
+    "record_status": "complete",
+    "compiled": "2026-11-14",
+    "compiled_by": "opencode myth-collection session",
+    "review_status": "unreviewed"
+   }
+  },
+  {
+   "id": "sumerian-lament-nippur",
+   "title": {
+    "en": "The Lament for Nippur",
+    "zh": "尼普魯哀歌"
+   },
+   "tradition": "sumerian",
+   "category": "myth",
+   "region": {
+    "en": "Nippur, Iraq",
+    "zh": "尼普魯（伊拉克）"
+   },
+   "lat": 32.126,
+   "lon": 45.23,
+   "period": "Old Babylonian composition, c. 1700 BCE (ETCSL translation 2003)",
+   "source": {
+    "archive": "ETCSL (University of Oxford)",
+    "work": "The lament for Nibru (ETCSL c.2.2.4)",
+    "url": "https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.2.2.4&charenc=j"
+   },
+   "license": "ETCSL translation (Oxford, 2003-2006); quoted in paraphrase with attribution",
+   "summary": {
+    "en": "The storm reaches even Enlil's own city: the Ekur defiled, its rites silenced, the shepherd's flock scattered — and Enlil, whom no city may accuse, must be petitioned to restore his own house.",
+    "zh": "暴風竟及恩利爾之城：埃庫爾被瀆、祭儀止息、牧群四散——無人可責之神，須被懇求復興其殿。"
+   },
+   "motifs": [
+    "world-renewal",
+    "sacred-place"
+   ],
+   "sensitivity": {
+    "restricted": false,
+    "note": "Ancient city lament; no living community restrictions."
+   },
+   "passages": [
+    {
+     "id": "1",
+     "text": "The storm visits even Nippur: the Ekur defiled, its hymns silenced, its priests scattered; Enlil's own city learns what ruin is.",
+     "note": "Paraphrase of ETCSL c.2.2.4, the ruin; not verbatim."
+    },
+    {
+     "id": "2",
+     "text": "The petition to Enlil is unique in the genre: no god may be accused, so the lament asks the offended lord himself to remember his house — and the restoration of the Ekur restores the world's axis.",
+     "note": "Paraphrase of ETCSL c.2.2.4, the petition; not verbatim."
+    }
+   ],
+   "persons": [
+    "enlil"
+   ],
+   "functions": [
+    "Lament for the sanctuary of sanctuaries",
+    "Theology of petition without accusation"
+   ],
+   "variants": [
+    {
+     "name": "The lament for Eridu",
+     "text_tradition": "Sumerian (ETCSL c.2.2.6)",
+     "summary": "The lament of the oldest city.",
+     "cross_ref": "sumerian-lament-eridu"
+    }
+   ],
+   "language": "Sumerian",
+   "canonical_translation": "ETCSL team translation, Oxford, 2003-2006",
+   "primary_sources": [
+    {
+     "work": "The lament for Nibru",
+     "citation": "ETCSL c.2.2.4, trans. ETCSL team (2003-2006)",
+     "language": "Sumerian"
+    }
+   ],
+   "secondary_sources": [
+    {
+     "work": "The Harps that Once...",
+     "citation": "Thorkild Jacobsen, New Haven, 1987"
+    }
+   ],
+   "source_urls": [
+    {
+     "url": "https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.2.2.4&charenc=j",
+     "description": "ETCSL c.2.2.4 text and translation",
+     "accessed": "2026-11-14"
+    }
+   ],
+   "sensitivity_flag": "none",
+   "provenance": {
+    "record_status": "complete",
+    "compiled": "2026-11-14",
+    "compiled_by": "opencode myth-collection session",
+    "review_status": "unreviewed"
+   }
+  },
+  {
+   "id": "sumerian-lament-eridu",
+   "title": {
+    "en": "The Lament for Eridu",
+    "zh": "埃利都哀歌"
+   },
+   "tradition": "sumerian",
+   "category": "myth",
+   "region": {
+    "en": "Eridu, Iraq",
+    "zh": "埃利都（伊拉克）"
+   },
+   "lat": 30.629,
+   "lon": 44.428,
+   "period": "Old Babylonian composition, c. 1700 BCE (ETCSL translation 2003)",
+   "source": {
+    "archive": "ETCSL (University of Oxford)",
+    "work": "The lament for Eridug (ETCSL c.2.2.6)",
+    "url": "https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.2.2.6&charenc=j"
+   },
+   "license": "ETCSL translation (Oxford, 2003-2006); quoted in paraphrase with attribution",
+   "summary": {
+    "en": "The oldest city, Enki's own, is smitten: the Abzu defiled, wisdom's house emptied — and the lament mourns the first city as mourning one's own mother.",
+    "zh": "最古老的城、恩基之城遭劫：阿卜祖被瀆，智慧之殿空虛——哀歌以悼母之情悼第一城。"
+   },
+   "motifs": [
+    "world-renewal",
+    "sacred-place"
+   ],
+   "sensitivity": {
+    "restricted": false,
+    "note": "Ancient city lament; no living community restrictions."
+   },
+   "passages": [
+    {
+     "id": "1",
+     "text": "Eridu, the first of cities, Enki's own seat, is smitten by the storm: the Abzu defiled, wisdom's house emptied, the rites of the oldest temple silenced.",
+     "note": "Paraphrase of ETCSL c.2.2.6, the ruin; not verbatim."
+    },
+    {
+     "id": "2",
+     "text": "The lament mourns the first city as a mother; its restoration is the renewal of the world's beginning — when Eridu lives again, the order of things is re-founded.",
+     "note": "Paraphrase of ETCSL c.2.2.6, the restoration; not verbatim."
+    }
+   ],
+   "persons": [
+    "enki"
+   ],
+   "functions": [
+    "Lament for the first city and its sanctuary",
+    "Restoration theology anchored in origins"
+   ],
+   "variants": [
+    {
+     "name": "The lament for Unug",
+     "text_tradition": "Sumerian (ETCSL c.2.2.5)",
+     "summary": "The lament of Uruk in the same series.",
+     "cross_ref": "sumerian-lament-unug"
+    }
+   ],
+   "language": "Sumerian",
+   "canonical_translation": "ETCSL team translation, Oxford, 2003-2006",
+   "primary_sources": [
+    {
+     "work": "The lament for Eridug",
+     "citation": "ETCSL c.2.2.6, trans. ETCSL team (2003-2006)",
+     "language": "Sumerian"
+    }
+   ],
+   "secondary_sources": [
+    {
+     "work": "The Harps that Once...",
+     "citation": "Thorkild Jacobsen, New Haven, 1987"
+    }
+   ],
+   "source_urls": [
+    {
+     "url": "https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.2.2.6&charenc=j",
+     "description": "ETCSL c.2.2.6 text and translation",
+     "accessed": "2026-11-14"
+    }
+   ],
+   "sensitivity_flag": "none",
+   "provenance": {
+    "record_status": "complete",
+    "compiled": "2026-11-14",
+    "compiled_by": "opencode myth-collection session",
+    "review_status": "unreviewed"
+   }
+  },
+  {
+   "id": "sumerian-lament-unug",
+   "title": {
+    "en": "The Lament for Unug",
+    "zh": "烏魯克哀歌"
+   },
+   "tradition": "sumerian",
+   "category": "myth",
+   "region": {
+    "en": "Uruk, Iraq",
+    "zh": "烏魯克（伊拉克）"
+   },
+   "lat": 31.324,
+   "lon": 45.637,
+   "period": "Old Babylonian composition, c. 1700 BCE (ETCSL translation 2003)",
+   "source": {
+    "archive": "ETCSL (University of Oxford)",
+    "work": "The lament for Unug (ETCSL c.2.2.5)",
+    "url": "https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.2.2.5&charenc=j"
+   },
+   "license": "ETCSL translation (Oxford, 2003-2006); quoted in paraphrase with attribution",
+   "summary": {
+    "en": "The city of Inanna and Gilgamesh falls to the storm; the Eanna is defiled and its people scattered — the lament petitions the goddess herself to restore her own city, and Uruk's renewal is promised.",
+    "zh": "伊南娜與吉爾伽美什之城遭暴風之劫：埃安那被瀆，民眾四散——哀歌向女神本身祈求復興其城，烏魯克之新生蒙許。"
+   },
+   "motifs": [
+    "world-renewal",
+    "sacred-place"
+   ],
+   "sensitivity": {
+    "restricted": false,
+    "note": "Ancient city lament; no living community restrictions."
+   },
+   "passages": [
+    {
+     "id": "1",
+     "text": "The storm falls on Unug, city of Inanna and Gilgamesh: the Eanna defiled, its people scattered, the city of the great wall emptied by decree.",
+     "note": "Paraphrase of ETCSL c.2.2.5, the ruin; not verbatim."
+    },
+    {
+     "id": "2",
+     "text": "The lament petitions the lady of the city herself — she who was smitten must smite back the ruin — and Unug's renewal is promised with her restoration of the Eanna.",
+     "note": "Paraphrase of ETCSL c.2.2.5, the petition; not verbatim."
+    }
+   ],
+   "persons": [
+    "inanna",
+    "gilgamesh"
+   ],
+   "functions": [
+    "Lament of the Inanna city",
+    "Liturgical petition to the city goddess"
+   ],
+   "variants": [
+    {
+     "name": "The lament for Urim",
+     "text_tradition": "Sumerian (ETCSL c.2.2.2)",
+     "summary": "The genre's prototype.",
+     "cross_ref": "sumerian-lament-ur"
+    }
+   ],
+   "language": "Sumerian",
+   "canonical_translation": "ETCSL team translation, Oxford, 2003-2006",
+   "primary_sources": [
+    {
+     "work": "The lament for Unug",
+     "citation": "ETCSL c.2.2.5, trans. ETCSL team (2003-2006)",
+     "language": "Sumerian"
+    }
+   ],
+   "secondary_sources": [
+    {
+     "work": "The Harps that Once...",
+     "citation": "Thorkild Jacobsen, New Haven, 1987"
+    }
+   ],
+   "source_urls": [
+    {
+     "url": "https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.2.2.5&charenc=j",
+     "description": "ETCSL c.2.2.5 text and translation",
+     "accessed": "2026-11-14"
+    }
+   ],
+   "sensitivity_flag": "none",
+   "provenance": {
+    "record_status": "complete",
+    "compiled": "2026-11-14",
+    "compiled_by": "opencode myth-collection session",
+    "review_status": "unreviewed"
+   }
+  },
+  {
+   "id": "sumerian-king-list",
+   "title": {
+    "en": "The Sumerian King List: Kingship from Heaven",
+    "zh": "蘇美王表：王權自天而降"
+   },
+   "tradition": "sumerian",
+   "category": "myth",
+   "region": {
+    "en": "Nippur (compilation site), Iraq",
+    "zh": "尼普魯（編纂地，伊拉克）"
+   },
+   "lat": 32.126,
+   "lon": 45.23,
+   "period": "Compiled OB, based on older lists, c. 1800 BCE (ETCSL translation 2003)",
+   "source": {
+    "archive": "ETCSL (University of Oxford)",
+    "work": "The Sumerian king list (ETCSL c.2.1.1)",
+    "url": "https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.2.1.1&charenc=j"
+   },
+   "license": "ETCSL translation (Oxford, 2003-2006); quoted in paraphrase with attribution",
+   "summary": {
+    "en": "Kingship was lowered from heaven: in the five cities before the flood, eight kings reigned fantastic reigns of tens of thousands of years until the flood swept them; afterwards kingship came again to Kish and passed through the dynasties down to Isin.",
+    "zh": "王權自天而降：洪水之前五城八王，在位動輒數萬年；洪水掃盡其後，王權復臨基什，歷經諸朝，傳至伊辛。"
+   },
+   "motifs": [
+    "foundational-legend",
+    "sacred-kingship",
+    "flood"
+   ],
+   "sensitivity": {
+    "restricted": false,
+    "note": "Ancient historiographical myth; no living community restrictions."
+   },
+   "passages": [
+    {
+     "id": "1",
+     "text": "When kingship was lowered from heaven, it was in Eridug: Alulim reigned 28,800 years, Alalgar 36,000 — five cities, eight kings, five sars and more, until the flood swept over the land and kingship was taken to heaven.",
+     "note": "Paraphrase of ETCSL c.2.1.1, antediluvian section; not verbatim."
+    },
+    {
+     "id": "2",
+     "text": "After the flood kingship came again from on high, to Kish first: long reigns shorten through the dynasties — Kish, Uruk, Ur, Akkad, and again Uruk and Ur — each dynasty named, each king given his years, until the list closes with the kings of Isin.",
+     "note": "Paraphrase of ETCSL c.2.1.1, postdiluvian dynasties; not verbatim."
+    }
+   ],
+   "persons": [
+    "gilgamesh",
+    "sargon",
+    "nanna-suen",
+    "enlil"
+   ],
+   "functions": [
+    "Political charter: kingship as heaven-given office",
+    "Historiographical frame linking flood, dynasties and legitimacy",
+    "Reference text for scribal schools and chronicles"
+   ],
+   "variants": [
+    {
+     "name": "Berossus' ten antediluvian kings",
+     "text_tradition": "Greek (George Smith 1876)",
+     "summary": "The Babylonian priest's version of the antediluvian reigns.",
+     "cross_ref": "mesopotamian-berossus-oannes"
+    },
+    {
+     "name": "The Weld-Blundell prism recension",
+     "text_tradition": "Sumerian (King 1910)",
+     "summary": "The longest surviving manuscript of the list.",
+     "cross_ref": "none"
+    }
+   ],
+   "language": "Sumerian",
+   "canonical_translation": "ETCSL team translation, Oxford, 2003-2006",
+   "primary_sources": [
+    {
+     "work": "The Sumerian king list",
+     "citation": "ETCSL c.2.1.1, trans. ETCSL team (2003-2006), lines 1-260",
+     "language": "Sumerian"
+    }
+   ],
+   "secondary_sources": [
+    {
+     "work": "A History of Sumer and Akkad",
+     "citation": "L. W. King, London, 1910, ch. on the king list"
+    }
+   ],
+   "source_urls": [
+    {
+     "url": "https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.2.1.1&charenc=j",
+     "description": "ETCSL c.2.1.1 text and translation",
+     "accessed": "2026-11-14"
+    }
+   ],
+   "sensitivity_flag": "none",
+   "provenance": {
+    "record_status": "complete",
+    "compiled": "2026-11-14",
+    "compiled_by": "opencode myth-collection session",
+    "review_status": "unreviewed"
+   }
+  },
+  {
+   "id": "sumerian-rulers-lagash",
+   "title": {
+    "en": "The Rulers of Lagash",
+    "zh": "拉加什諸王"
+   },
+   "tradition": "sumerian",
+   "category": "myth",
+   "region": {
+    "en": "Lagash, Iraq",
+    "zh": "拉加什（伊拉克）"
+   },
+   "lat": 31.64,
+   "lon": 46.66,
+   "period": "Old Babylonian compilation of Ur III-Isin records, c. 1800 BCE (ETCSL translation 2003)",
+   "source": {
+    "archive": "ETCSL (University of Oxford)",
+    "work": "The rulers of Lagas (ETCSL c.2.1.2)",
+    "url": "https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.2.1.2&charenc=j"
+   },
+   "license": "ETCSL translation (Oxford, 2003-2006); quoted in paraphrase with attribution",
+   "summary": {
+    "en": "A dynastic list in which Lagash's rulers — Ur-Nanshe's line, Gudea's house, the soldier kings of the Gutian interlude — are remembered with their deeds, buildings and wars: city history as sacred memory.",
+    "zh": "拉加什王朝記：烏爾南什之系、古蒂亞之家、庫提人插曲中的戰士王——以功業、建築與戰事載入記憶：城邦史即神聖記憶。"
+   },
+   "motifs": [
+    "foundational-legend",
+    "sacred-kingship"
+   ],
+   "sensitivity": {
+    "restricted": false,
+    "note": "Ancient chronicle; no living community restrictions."
+   },
+   "passages": [
+    {
+     "id": "1",
+     "text": "The rulers of Lagash are remembered dynasty by dynasty: Ur-Nanshe who built the temples, Gudea who saw his god in a dream, the kings who warred with Umma over the boundary — each reign measured by deeds and buildings.",
+     "note": "Paraphrase of ETCSL c.2.1.2, the dynasties; not verbatim."
+    },
+    {
+     "id": "2",
+     "text": "The list closes with the restoration kings, whose piety returned Lagash's worship to its gods — city history told as a sacred ledger of justice and building.",
+     "note": "Paraphrase of ETCSL c.2.1.2, the close; not verbatim."
+    }
+   ],
+   "persons": [
+    "gudea",
+    "ningirsu"
+   ],
+   "functions": [
+    "City dynastic chronicle",
+    "Charter of Lagash's temple-building legitimacy"
+   ],
+   "variants": [
+    {
+     "name": "Gudea cylinders A and B",
+     "text_tradition": "Sumerian (ETCSL c.2.3.2)",
+     "summary": "The narrative expansion of Gudea's reign.",
+     "cross_ref": "sumerian-gudea-dream"
+    }
+   ],
+   "language": "Sumerian",
+   "canonical_translation": "ETCSL team translation, Oxford, 2003-2006",
+   "primary_sources": [
+    {
+     "work": "The rulers of Lagas",
+     "citation": "ETCSL c.2.1.2, trans. ETCSL team (2003-2006)",
+     "language": "Sumerian"
+    }
+   ],
+   "secondary_sources": [
+    {
+     "work": "A History of Sumer and Akkad",
+     "citation": "L. W. King, London, 1910"
+    }
+   ],
+   "source_urls": [
+    {
+     "url": "https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.2.1.2&charenc=j",
+     "description": "ETCSL c.2.1.2 text and translation",
+     "accessed": "2026-11-14"
+    }
+   ],
+   "sensitivity_flag": "none",
+   "provenance": {
+    "record_status": "complete",
+    "compiled": "2026-11-14",
+    "compiled_by": "opencode myth-collection session",
+    "review_status": "unreviewed"
+   }
+  },
+  {
+   "id": "sumerian-death-urnammu",
+   "title": {
+    "en": "The Death of Ur-Namma",
+    "zh": "烏爾納瑪之死"
+   },
+   "tradition": "sumerian",
+   "category": "myth",
+   "region": {
+    "en": "Ur, Iraq",
+    "zh": "烏爾（伊拉克）"
+   },
+   "lat": 30.963,
+   "lon": 46.106,
+   "period": "Ur III composition, c. 2100 BCE (ETCSL translation 2003)",
+   "source": {
+    "archive": "ETCSL (University of Oxford)",
+    "work": "The death of Ur-Namma (ETCSL c.2.4.1.x)",
+    "url": "https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.2.4.1*&charenc=j"
+   },
+   "license": "ETCSL translation (Oxford, 2003-2006); quoted in paraphrase with attribution",
+   "summary": {
+    "en": "Ur-Namma, the king who built the ziggurat and gave the land its laws, dies in battle; his son mourns him, and the king descends to the netherworld where the dead come out to greet him as their lord — a royal descent poem of consolation.",
+    "zh": "建神塔、定律法之王烏爾納瑪戰場殞身；其子哀悼，國王下冥，亡者出迎其主——一首慰藉性的王室冥界詩。"
+   },
+   "motifs": [
+    "descent-underworld",
+    "sacred-kingship",
+    "foundational-legend"
+   ],
+   "sensitivity": {
+    "restricted": false,
+    "note": "Ancient funerary literature; no living community restrictions."
+   },
+   "passages": [
+    {
+     "id": "1",
+     "text": "Ur-Namma, who built the temple and gave the land its measures and laws, falls in battle; his son Shulgi mourns: the shepherd is taken, the city's father is gone.",
+     "note": "Paraphrase of ETCSL c.2.4.1.2, the death; not verbatim."
+    },
+    {
+     "id": "2",
+     "text": "The king descends to the netherworld, and the dead come out to greet him as their lord: he is given his seat among the shades, and his offerings are appointed — the king in the land of the dead keeps his kingdom's order.",
+     "note": "Paraphrase of ETCSL c.2.4.1.2, the descent; not verbatim."
+    }
+   ],
+   "persons": [],
+   "functions": [
+    "Royal funerary liturgy of the Ur III founder",
+    "Theology of the dead king's netherworld reign",
+    "Charter of continuing royal offerings"
+   ],
+   "variants": [
+    {
+     "name": "The death of Gilgamesh",
+     "text_tradition": "Sumerian (ETCSL c.1.8.1.3)",
+     "summary": "The heroic prototype of the dead king's enthronement.",
+     "cross_ref": "sumerian-gilgamesh-death"
+    }
+   ],
+   "language": "Sumerian",
+   "canonical_translation": "ETCSL team translation, Oxford, 2003-2006",
+   "primary_sources": [
+    {
+     "work": "The death of Ur-Namma",
+     "citation": "ETCSL c.2.4.1.2, trans. ETCSL team (2003-2006)",
+     "language": "Sumerian"
+    }
+   ],
+   "secondary_sources": [
+    {
+     "work": "The Harps that Once...",
+     "citation": "Thorkild Jacobsen, New Haven, 1987"
+    }
+   ],
+   "source_urls": [
+    {
+     "url": "https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.2.4.1*&charenc=j",
+     "description": "ETCSL c.2.4.1.2 text and translation",
+     "accessed": "2026-11-14"
+    }
+   ],
+   "sensitivity_flag": "none",
+   "provenance": {
+    "record_status": "complete",
+    "compiled": "2026-11-14",
+    "compiled_by": "opencode myth-collection session",
+    "review_status": "unreviewed"
+   }
+  },
+  {
+   "id": "sumerian-shulgi-run",
+   "title": {
+    "en": "Shulgi's Run from Nippur to Ur",
+    "zh": "舒爾吉尼普魯烏爾長跑"
+   },
+   "tradition": "sumerian",
+   "category": "myth",
+   "region": {
+    "en": "Nippur to Ur, Iraq",
+    "zh": "尼普魯至烏爾（伊拉克）"
+   },
+   "lat": 31.5,
+   "lon": 45.7,
+   "period": "Ur III composition, c. 2100 BCE (ETCSL translation 2003)",
+   "source": {
+    "archive": "ETCSL (University of Oxford)",
+    "work": "A hymn to Inana (Shulgi cycle, ETCSL c.2.4.2.x)",
+    "url": "https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.2.4.2*&charenc=j"
+   },
+   "license": "ETCSL translation (Oxford, 2003-2006); quoted in paraphrase with attribution",
+   "summary": {
+    "en": "Shulgi boasts that in one day he ran from Nippur to Ur — a hundred miles through the storm — to bring offerings on the New Year; the self-deified king measures his kingship in feats: the run, the writing, the justice.",
+    "zh": "舒爾吉自誇一日之間自尼普魯奔至烏爾——穿越風暴的百里之程——為新年奉上祭品；自神化的國王以功業丈量王權：長跑、書寫、正義。"
+   },
+   "motifs": [
+    "sacred-kingship",
+    "culture-hero",
+    "ritual-origin"
+   ],
+   "sensitivity": {
+    "restricted": false,
+    "note": "Ancient royal hymn; no living community restrictions."
+   },
+   "passages": [
+    {
+     "id": "1",
+     "text": "Shulgi, king of Ur, boasts: I ran in the storm from Nippur to Ur in a single day, through the teeming rain, and brought the offerings of the New Year with my own hands.",
+     "note": "Paraphrase of ETCSL c.2.4.2.2, the run; not verbatim."
+    },
+    {
+     "id": "2",
+     "text": "The king's litany of feats continues: I learned the scribal art from the tablet-house, I know the songs and the games, I judge the land's cases with justice — the deified king as the complete man.",
+     "note": "Paraphrase of ETCSL c.2.4.2.2, the litany; not verbatim."
+    }
+   ],
+   "persons": [
+    "nanna-suen",
+    "inanna",
+    "enlil"
+   ],
+   "functions": [
+    "Manifesto of royal deification in the Ur III state",
+    "Charter of the New Year offering journey",
+    "School text of the royal-hymn genre"
+   ],
+   "variants": [
+    {
+     "name": "Shulgi A (the self-praise)",
+     "text_tradition": "Sumerian (ETCSL c.2.4.2.1)",
+     "summary": "The companion hymn of the king's praise.",
+     "cross_ref": "sumerian-shulgi-hymn"
+    }
+   ],
+   "language": "Sumerian",
+   "canonical_translation": "ETCSL team translation, Oxford, 2003-2006",
+   "primary_sources": [
+    {
+     "work": "A hymn to Inana (Shulgi B)",
+     "citation": "ETCSL c.2.4.2.2, trans. ETCSL team (2003-2006)",
+     "language": "Sumerian"
+    }
+   ],
+   "secondary_sources": [
+    {
+     "work": "The Harps that Once...",
+     "citation": "Thorkild Jacobsen, New Haven, 1987"
+    }
+   ],
+   "source_urls": [
+    {
+     "url": "https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.2.4.2*&charenc=j",
+     "description": "ETCSL c.2.4.2.2 text and translation",
+     "accessed": "2026-11-14"
+    }
+   ],
+   "sensitivity_flag": "none",
+   "provenance": {
+    "record_status": "complete",
+    "compiled": "2026-11-14",
+    "compiled_by": "opencode myth-collection session",
+    "review_status": "unreviewed"
+   }
+  },
+  {
+   "id": "sumerian-shulgi-hymn",
+   "title": {
+    "en": "Shulgi the Learned King",
+    "zh": "博學之王舒爾吉"
+   },
+   "tradition": "sumerian",
+   "category": "myth",
+   "region": {
+    "en": "Ur, Iraq",
+    "zh": "烏爾（伊拉克）"
+   },
+   "lat": 30.963,
+   "lon": 46.106,
+   "period": "Ur III composition, c. 2100 BCE (ETCSL translation 2003)",
+   "source": {
+    "archive": "ETCSL (University of Oxford)",
+    "work": "A praise poem of Shulgi (Shulgi cycle, ETCSL c.2.4.2.x)",
+    "url": "https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.2.4.2*&charenc=j"
+   },
+   "license": "ETCSL translation (Oxford, 2003-2006); quoted in paraphrase with attribution",
+   "summary": {
+    "en": "Shulgi praises himself as the son of Ninsun's line: learned in every scribal art, master of music and games, judge of the land — the king as literate demi-god whose praise was copied in schools for centuries.",
+    "zh": "舒爾吉自頌為寧蓀後裔：通曉書吏百藝、精於樂藝棋戲、審判全土——身為有學半神之王的讚歌，為校中傳抄數百年。"
+   },
+   "motifs": [
+    "sacred-kingship",
+    "culture-hero"
+   ],
+   "sensitivity": {
+    "restricted": false,
+    "note": "Ancient royal hymn; no living community restrictions."
+   },
+   "passages": [
+    {
+     "id": "1",
+     "text": "Shulgi, king of Ur, claims the pedigree of heroes: born of the line of Ninsun, nourished by Ninlil, he is the lord whom the great gods raised to shepherding the land.",
+     "note": "Paraphrase of ETCSL c.2.4.2.1, pedigree; not verbatim."
+    },
+    {
+     "id": "2",
+     "text": "His learning is the boast of a new age: from the tablet-house he learned the scribal art entire — Sumerian and the foreign tongue, the songs and the calculations — and the schools copied his praise for centuries after his death.",
+     "note": "Paraphrase of ETCSL c.2.4.2.1, the learning; not verbatim."
+    }
+   ],
+   "persons": [
+    "nanna-suen",
+    "ninhursag",
+    "ninlil"
+   ],
+   "functions": [
+    "Canonization of the deified king in school curricula",
+    "Ideology of the literate king"
+   ],
+   "variants": [
+    {
+     "name": "Shulgi B (the run)",
+     "text_tradition": "Sumerian (ETCSL c.2.4.2.2)",
+     "summary": "The companion hymn of the king's feats.",
+     "cross_ref": "sumerian-shulgi-run"
+    }
+   ],
+   "language": "Sumerian",
+   "canonical_translation": "ETCSL team translation, Oxford, 2003-2006",
+   "primary_sources": [
+    {
+     "work": "A praise poem of Shulgi (A)",
+     "citation": "ETCSL c.2.4.2.1, trans. ETCSL team (2003-2006)",
+     "language": "Sumerian"
+    }
+   ],
+   "secondary_sources": [
+    {
+     "work": "The Harps that Once...",
+     "citation": "Thorkild Jacobsen, New Haven, 1987"
+    }
+   ],
+   "source_urls": [
+    {
+     "url": "https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.2.4.2*&charenc=j",
+     "description": "ETCSL c.2.4.2.1 text and translation",
+     "accessed": "2026-11-14"
+    }
+   ],
+   "sensitivity_flag": "none",
+   "provenance": {
+    "record_status": "complete",
+    "compiled": "2026-11-14",
+    "compiled_by": "opencode myth-collection session",
+    "review_status": "unreviewed"
+   }
+  },
+  {
+   "id": "sumerian-iddindagan-inana",
+   "title": {
+    "en": "Iddin-Dagan's Bride of the New Year",
+    "zh": "伊丁達甘的新娘慶典"
+   },
+   "tradition": "sumerian",
+   "category": "myth",
+   "region": {
+    "en": "Isin, Iraq",
+    "zh": "伊辛（伊拉克）"
+   },
+   "lat": 31.885,
+   "lon": 45.159,
+   "period": "Isin dynasty composition, c. 1900 BCE (ETCSL translation 2003)",
+   "source": {
+    "archive": "ETCSL (University of Oxford)",
+    "work": "A hymn to Inana for Iddin-Dagan (Iddin-Dagan A, ETCSL c.2.5.3.1)",
+    "url": "https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.2.5.3.1&charenc=j"
+   },
+   "license": "ETCSL translation (Oxford, 2003-2006); quoted in paraphrase with attribution",
+   "summary": {
+    "en": "The morning of Inanna's festival: the goddess bathed and perfumed takes the hymn's stage — her assembling of the land, the sacred marriage bed prepared, the king blessed — the great liturgy of the goddess as bride of the city.",
+    "zh": "伊南娜慶典之晨：沐浴敷香的女神登台——她召集全境、備妥聖婚之床、祝福國王——女神身為城邦新娘的偉大祭儀。"
+   },
+   "motifs": [
+    "divine-marriage",
+    "sacred-kingship",
+    "ritual-origin"
+   ],
+   "sensitivity": {
+    "restricted": false,
+    "note": "Ancient cult hymn with sexual imagery in ritual register; presented as literature."
+   },
+   "passages": [
+    {
+     "id": "1",
+     "text": "On the morning of the festival, Inanna bathes and perfumes herself and takes her seat; the land assembles to her, the stars bow to the morning star, and the city is dressed for her advent.",
+     "note": "Paraphrase of ETCSL c.2.5.3.1, the advent; not verbatim."
+    },
+    {
+     "id": "2",
+     "text": "The bed is prepared with the king: the goddess claims her lord for the night of the sacred marriage, and through the union the year's abundance is secured for Isin — the rite sung as the goddess's bride-gift to the land.",
+     "note": "Paraphrase of ETCSL c.2.5.3.1, the marriage; not verbatim."
+    }
+   ],
+   "persons": [
+    "inanna",
+    "dumuzi"
+   ],
+   "functions": [
+    "Liturgy of the sacred marriage at Isin",
+    "Charter of the year's abundance through the royal union",
+    "Masterpiece of cult love-lyric"
+   ],
+   "variants": [
+    {
+     "name": "The wedding of Inanna and Dumuzid",
+     "text_tradition": "Sumerian (ETCSL c.4.08.1)",
+     "summary": "The Uruk cult song of the same rite.",
+     "cross_ref": "sumerian-dumuzi-wedding"
+    }
+   ],
+   "language": "Sumerian",
+   "canonical_translation": "ETCSL team translation, Oxford, 2003-2006",
+   "primary_sources": [
+    {
+     "work": "A hymn to Inana for Iddin-Dagan",
+     "citation": "ETCSL c.2.5.3.1, trans. ETCSL team (2003-2006), lines 1-205",
+     "language": "Sumerian"
+    }
+   ],
+   "secondary_sources": [
+    {
+     "work": "The Treasures of Darkness",
+     "citation": "Thorkild Jacobsen, New Haven, 1976"
+    }
+   ],
+   "source_urls": [
+    {
+     "url": "https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.2.5.3.1&charenc=j",
+     "description": "ETCSL c.2.5.3.1 text and translation",
+     "accessed": "2026-11-14"
+    }
+   ],
+   "sensitivity_flag": "none",
+   "provenance": {
+    "record_status": "complete",
+    "compiled": "2026-11-14",
+    "compiled_by": "opencode myth-collection session",
+    "review_status": "unreviewed"
+   }
+  },
+  {
+   "id": "sumerian-gudea-dream",
+   "title": {
+    "en": "Gudea's Dream of Ningirsu",
+    "zh": "古蒂亞夢見寧吉爾蘇"
+   },
+   "tradition": "sumerian",
+   "category": "myth",
+   "region": {
+    "en": "Lagash, Iraq",
+    "zh": "拉加什（伊拉克）"
+   },
+   "lat": 31.64,
+   "lon": 46.66,
+   "period": "Gudea Cylinder A, c. 2100 BCE (ETCSL translation 2003)",
+   "source": {
+    "archive": "ETCSL (University of Oxford)",
+    "work": "Gudea Cylinder A (ETCSL c.2.3.2.x)",
+    "url": "https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.2.3.2*&charenc=j"
+   },
+   "license": "ETCSL translation (Oxford, 2003-2006); quoted in paraphrase with attribution",
+   "summary": {
+    "en": "In a dream a giant stands by Gudea's bed — a winged storm bird at his feet, a woman with a stylus, a youth with a cornerstone — and the dream is read: Ningirsu orders his temple built, and the ruler obeys to the letter.",
+    "zh": "夢中巨神立於古蒂亞榻旁——足下振翅的暴風鳥、執書板的女子、持奠基石的少年——夢解為命：寧吉爾蘇命其建殿，統治者依夢而行。"
+   },
+   "motifs": [
+    "prophetic-vision",
+    "sacred-place",
+    "sacred-kingship"
+   ],
+   "sensitivity": {
+    "restricted": false,
+    "note": "Ancient royal inscription narrative; no living community restrictions."
+   },
+   "passages": [
+    {
+     "id": "1",
+     "text": "In his dream a giant stands by Gudea's bed, head to heaven; at his feet a winged storm bird, beside him a woman holding a lapis stylus and tablet, and a youth holding a cornerstone slab — the ruler wakes troubled and seeks the dream's meaning.",
+     "note": "Paraphrase of ETCSL c.2.3.2.1, the dream; not verbatim."
+    },
+    {
+     "id": "2",
+     "text": "Nanshe, lady of divination, reads it: the giant is Ningirsu, who orders his temple built; the storm bird is his weapon; the woman is Nisaba who will draw the plan. Gudea obeys: the temple Eninnu is begun exactly as the dream showed.",
+     "note": "Paraphrase of ETCSL c.2.3.2.1, the interpretation; not verbatim."
+    }
+   ],
+   "persons": [
+    "gudea",
+    "ningirsu",
+    "nisaba"
+   ],
+   "functions": [
+    "Charter of royal building as obedience to dream revelation",
+    "Detailed liturgy of temple construction",
+    "Cult myth of Ningirsu's Eninnu at Girsu"
+   ],
+   "variants": [
+    {
+     "name": "Gudea Cylinder B (the consecration)",
+     "text_tradition": "Sumerian (ETCSL c.2.3.2.x)",
+     "summary": "The completion and consecration of the temple.",
+     "cross_ref": "sumerian-gudea-temple"
+    }
+   ],
+   "language": "Sumerian",
+   "canonical_translation": "ETCSL team translation, Oxford, 2003-2006",
+   "primary_sources": [
+    {
+     "work": "Gudea Cylinder A",
+     "citation": "ETCSL c.2.3.2.1, trans. ETCSL team (2003-2006), lines 1-100",
+     "language": "Sumerian"
+    }
+   ],
+   "secondary_sources": [
+    {
+     "work": "A History of Sumer and Akkad",
+     "citation": "L. W. King, London, 1910, ch. on Gudea"
+    }
+   ],
+   "source_urls": [
+    {
+     "url": "https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.2.3.2*&charenc=j",
+     "description": "ETCSL c.2.3.2.1 text and translation",
+     "accessed": "2026-11-14"
+    }
+   ],
+   "sensitivity_flag": "none",
+   "provenance": {
+    "record_status": "complete",
+    "compiled": "2026-11-14",
+    "compiled_by": "opencode myth-collection session",
+    "review_status": "unreviewed"
+   }
+  },
+  {
+   "id": "sumerian-gudea-temple",
+   "title": {
+    "en": "Gudea's Temple Completed and Consecrated",
+    "zh": "古蒂亞建殿功成"
+   },
+   "tradition": "sumerian",
+   "category": "myth",
+   "region": {
+    "en": "Girsu, Iraq",
+    "zh": "吉爾蘇（伊拉克）"
+   },
+   "lat": 31.64,
+   "lon": 46.66,
+   "period": "Gudea Cylinder B, c. 2100 BCE (ETCSL translation 2003)",
+   "source": {
+    "archive": "ETCSL (University of Oxford)",
+    "work": "Gudea Cylinder B (ETCSL c.2.3.2.x)",
+    "url": "https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.2.3.2*&charenc=j"
+   },
+   "license": "ETCSL translation (Oxford, 2003-2006); quoted in paraphrase with attribution",
+   "summary": {
+    "en": "The temple Eninnu rises: materials gathered from every land, the foundations laid on the morning of propitious days, the god installed with a seven-day festival — and the land rests in abundance, the year of the temple's dedication blessed.",
+    "zh": "埃寧努神殿落成：建材自萬邦匯聚，擇吉晨奠基，七日慶典迎神入殿——國土休養生息，獻殿之年受福。"
+   },
+   "motifs": [
+    "ritual-origin",
+    "sacred-place",
+    "sacred-kingship"
+   ],
+   "sensitivity": {
+    "restricted": false,
+    "note": "Ancient royal inscription narrative; no living community restrictions."
+   },
+   "passages": [
+    {
+     "id": "1",
+     "text": "Materials come from every land for the Eninnu: cedar from the mountains, gold and lapis from far countries, and the foundations are laid on the propitious morning the omens chose.",
+     "note": "Paraphrase of ETCSL c.2.3.2.2, the building; not verbatim."
+    },
+    {
+     "id": "2",
+     "text": "Ningirsu is installed with a seven-day festival; the land rests, taxes are remitted, and the temple's year is blessed — Gudea's piety rewarded with abundance for Lagash.",
+     "note": "Paraphrase of ETCSL c.2.3.2.2, the consecration; not verbatim."
+    }
+   ],
+   "persons": [
+    "gudea",
+    "ningirsu"
+   ],
+   "functions": [
+    "Consecration liturgy of the Eninnu temple",
+    "World-renewal theology of temple dedication",
+    "Charter of the pious builder king"
+   ],
+   "variants": [
+    {
+     "name": "Gudea Cylinder A (the dream)",
+     "text_tradition": "Sumerian (ETCSL c.2.3.2.x)",
+     "summary": "The revelation that commissioned the building.",
+     "cross_ref": "sumerian-gudea-dream"
+    }
+   ],
+   "language": "Sumerian",
+   "canonical_translation": "ETCSL team translation, Oxford, 2003-2006",
+   "primary_sources": [
+    {
+     "work": "Gudea Cylinder B",
+     "citation": "ETCSL c.2.3.2.2, trans. ETCSL team (2003-2006)",
+     "language": "Sumerian"
+    }
+   ],
+   "secondary_sources": [
+    {
+     "work": "A History of Sumer and Akkad",
+     "citation": "L. W. King, London, 1910"
+    }
+   ],
+   "source_urls": [
+    {
+     "url": "https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.2.3.2*&charenc=j",
+     "description": "ETCSL c.2.3.2.2 text and translation",
+     "accessed": "2026-11-14"
+    }
+   ],
+   "sensitivity_flag": "none",
+   "provenance": {
+    "record_status": "complete",
+    "compiled": "2026-11-14",
+    "compiled_by": "opencode myth-collection session",
+    "review_status": "unreviewed"
+   }
+  },
+  {
+   "id": "sumerian-hammurabi-hymn",
+   "title": {
+    "en": "A Hymn to Inana for Hammurabi",
+    "zh": "漢謨拉比之伊南娜頌"
+   },
+   "tradition": "sumerian",
+   "category": "myth",
+   "region": {
+    "en": "Babylon, Iraq",
+    "zh": "巴比倫（伊拉克）"
+   },
+   "lat": 32.536,
+   "lon": 44.421,
+   "period": "Old Babylonian composition, c. 1750 BCE (ETCSL translation 2003)",
+   "source": {
+    "archive": "ETCSL (University of Oxford)",
+    "work": "A hymn to Inana for Hammu-rabi (ETCSL c.2.8.2.1)",
+    "url": "https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.2.8.2.1&charenc=j"
+   },
+   "license": "ETCSL translation (Oxford, 2003-2006); quoted in paraphrase with attribution",
+   "summary": {
+    "en": "The Babylonian dynasty's king is praised in Sumerian: Inana, lady of battle, is hymned in her thunder and beauty, and Hammurabi named her favorite — the old south's language put to work for a new empire's king.",
+    "zh": "巴比倫王朝之王以蘇美語受頌：戰爭女神伊南娜之雷霆與美麗入詩，漢謨拉比列名其寵——舊邦之語，為新帝之王所用。"
+   },
+   "motifs": [
+    "sacred-kingship",
+    "storm-thunder"
+   ],
+   "sensitivity": {
+    "restricted": false,
+    "note": "Ancient royal hymn; no living community restrictions."
+   },
+   "passages": [
+    {
+     "id": "1",
+     "text": "Inana is hymned in her double nature: the terror of battle whose heart is storm, and the beauty whose grace fills the temples — the goddess of both war and desire.",
+     "note": "Paraphrase of ETCSL c.2.8.2.1, the goddess; not verbatim."
+    },
+    {
+     "id": "2",
+     "text": "The hymn names Hammurabi her chosen: the king of Babylon, beloved of the lady, under whose justice the land finds order — Sumerian sung for a new empire's ruler.",
+     "note": "Paraphrase of ETCSL c.2.8.2.1, the king; not verbatim."
+    }
+   ],
+   "persons": [
+    "inanna"
+   ],
+   "functions": [
+    "Royal legitimacy hymn in the old language",
+    "Continuity of the Inanna hymn genre under Babylon"
+   ],
+   "variants": [
+    {
+     "name": "Iddin-Dagan A",
+     "text_tradition": "Sumerian (ETCSL c.2.5.3.1)",
+     "summary": "The Isin dynasty's hymn of the same goddess.",
+     "cross_ref": "sumerian-iddindagan-inana"
+    }
+   ],
+   "language": "Sumerian",
+   "canonical_translation": "ETCSL team translation, Oxford, 2003-2006",
+   "primary_sources": [
+    {
+     "work": "A hymn to Inana for Hammu-rabi",
+     "citation": "ETCSL c.2.8.2.1, trans. ETCSL team (2003-2006)",
+     "language": "Sumerian"
+    }
+   ],
+   "secondary_sources": [
+    {
+     "work": "Babylonian and Assyrian Laws, Contracts and Letters",
+     "citation": "C. H. W. Johns, New York, 1904"
+    }
+   ],
+   "source_urls": [
+    {
+     "url": "https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.2.8.2.1&charenc=j",
+     "description": "ETCSL c.2.8.2.1 text and translation",
+     "accessed": "2026-11-14"
+    }
+   ],
+   "sensitivity_flag": "none",
+   "provenance": {
+    "record_status": "complete",
+    "compiled": "2026-11-14",
+    "compiled_by": "opencode myth-collection session",
+    "review_status": "unreviewed"
+   }
+  }
+ ]
+}

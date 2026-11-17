@@ -1,0 +1,665 @@
+{
+  "_comment": "Texts removed when consolidating traditions (babylonian, aztec deleted per project owner; maori/hawaiian merged into polynesian; baltic merged into slavic). Restore any entry by copying it into a data/raw batch file.",
+  "texts": [
+    {
+      "id": "enuma-tiamat",
+      "title": {
+        "en": "Enuma Elish: Marduk and Tiamat",
+        "zh": "åŸƒåŠªç‘ªÂ·åŸƒåˆ©ä»€ï¼šé¦¬çˆ¾æœå…‹èˆ‡æäºžé¦¬ç‰¹"
+      },
+      "tradition": "babylonian",
+      "region": {
+        "en": "Babylon, Iraq",
+        "zh": "å·´æ¯”å€«ï¼ˆä»Šä¼Šæ‹‰å…‹ï¼‰"
+      },
+      "lat": 32.54,
+      "lon": 44.42,
+      "period": "c. 18thâ€“12th c. BCE (Seven Tablets of Creation)",
+      "source": {
+        "archive": "Internet Sacred Texts Archive",
+        "work": "Enuma Elish, The Babylonian Creation Epic (trans. L. W. King)",
+        "url": "https://www.sacred-texts.com/ane/index.htm"
+      },
+      "license": "Public domain",
+      "summary": {
+        "en": "The young god Marduk slays the dragon Tiamat, splits her body like a shellfish to make heaven and earth, and takes kingship of the gods; from the blood of the slain god Kingu humankind is made to serve.",
+        "zh": "å¹´è¼•ç¥žé¦¬çˆ¾æœå…‹èª…æ®ºå·¨é¾æäºžé¦¬ç‰¹ï¼Œå°‡å…¶å±èº«å‰–ç‚ºå…©åŠï¼Œåˆ†é€ å¤©èˆ‡åœ°ï¼Œä¸¦å–å¾—è«¸ç¥žä¹‹çŽ‹æ¬Šï¼›åˆä»¥è¢«æ®ºä¹‹ç¥žé‡‘å¤ä¹‹è¡€é€ äººï¼Œä½¿äººä¾å¥‰è«¸ç¥žã€‚"
+      },
+      "motifs": [
+        "creation-chaos",
+        "world-serpent",
+        "dismembered-giant"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": ""
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "He split her like a shellfish into two parts; of the one half of her he framed the arch of heaven, and of the other he made the earth, and he set watchmen over them lest the waters escape."
+        },
+        {
+          "id": "2",
+          "text": "They bound Kingu and held him before Ea, and cut the arteries of his blood; with his blood Ea created mankind, on whom he laid the service of the gods, and to whom he gave the burden of toil."
+        }
+      ],
+      "category": "myth"
+    },
+    {
+      "id": "gilgamesh-flood",
+      "title": {
+        "en": "Gilgamesh and Utnapishtim, Survivor of the Flood",
+        "zh": "å‰çˆ¾ä¼½ç¾Žä»€èˆ‡æ´ªæ°´å€–å­˜è€…çƒç‰¹ç´çš®ä»€æå§†"
+      },
+      "tradition": "babylonian",
+      "region": {
+        "en": "Uruk, Iraq",
+        "zh": "çƒé­¯å…‹ï¼ˆä»Šä¼Šæ‹‰å…‹ï¼‰"
+      },
+      "lat": 31.32,
+      "lon": 45.64,
+      "period": "Standard Babylonian version, c. 13thâ€“11th c. BCE",
+      "source": {
+        "archive": "Project Gutenberg (search)",
+        "work": "Epic of Gilgamesh (trans. various)",
+        "url": "https://www.gutenberg.org/ebooks/search/?query=gilgamesh"
+      },
+      "license": "Public domain",
+      "summary": {
+        "en": "Grieving his friend Enkidu, Gilgamesh seeks the immortal Utnapishtim, survivor of the flood; he fails the test of unbroken sleep, and the plant of youth is stolen by a serpent â€” death keeps even heroes.",
+        "zh": "å‰çˆ¾ä¼½ç¾Žä»€ç—›å¤±æ‘¯å‹æ©å¥‡éƒ½ï¼Œé è¡Œæ±‚è¦‹æ´ªæ°´å€–å­˜è€…ã€å·²ç²æ°¸ç”Ÿä¹‹çƒç‰¹ç´çš®ä»€æå§†ï¼›ä»–æœªé€šéŽã€Œå…­æ—¥ä¸çœ ã€ä¹‹è©¦ï¼Œé’æ˜¥ä¹‹è‰åˆè¢«è›‡ç«Šèµ°â€”â€”é€£è‹±é›„ä¹Ÿçµ‚æ­¸ä¸€æ­»ã€‚"
+      },
+      "motifs": [
+        "flood",
+        "quest-immortality"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": ""
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Utnapishtim said: 'I will reveal to you a secret: the flood came, and I built the ship; the flood went forth and destroyed the seed of all living, and I alone stood on the peak, and I was admitted to the assembly of the gods, and given life like a god.'"
+        },
+        {
+          "id": "2",
+          "text": "Gilgamesh found the plant of youth among the deep waters and said: 'I shall eat it and return to my youth'; but as he bathed, a serpent smelled it, took the plant, and casting its skin went back â€” and Gilgamesh wept."
+        }
+      ],
+      "category": "myth"
+    },
+    {
+      "id": "aztec-five-suns",
+      "title": {
+        "en": "The Five Suns",
+        "zh": "äº”å¤ªé™½ç´€"
+      },
+      "tradition": "aztec",
+      "region": {
+        "en": "Tenochtitlan (Mexico City)",
+        "zh": "ç‰¹è«¾å¥‡æç‰¹è˜­ï¼ˆä»Šå¢¨è¥¿å“¥åŸŽï¼‰"
+      },
+      "lat": 19.43,
+      "lon": -99.13,
+      "period": "16th c. CE (Florentine Codex and related)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Hubert Howe Bancroft, The Native Races, Vol. III: Myths and Languages (1882/1886), ch. II 'Origin and End of Things', Aztec Creation-Myths, pp. 58-61",
+        "url": "https://archive.org/download/nativerace03bancrich/nativerace03bancrich_djvu.txt"
+      },
+      "license": "Public domain (16th c. sources)",
+      "summary": {
+        "en": "Four worlds have already ended â€” by jaguars, wind, fire-rain, and flood â€” and the fifth sun of this age, sustained by sacrifice, must also one day fall; the people of this sun were raised from bones gathered from the underworld.",
+        "zh": "å››å€‹ä¸–ç•Œå·²ç›¸ç¹¼çµ‚çµâ€”â€”äº¡æ–¼ç¾Žæ´²è±¹ã€é¢¨æš´ã€ç«é›¨èˆ‡æ´ªæ°´â€”â€”ç¾ä»Šç¬¬äº”å¤ªé™½äº¦ä»¥çŠ§ç‰²ç‚ºé£Ÿï¼Œçµ‚æœ‰ä¸€æ—¥å°‡å¢œè½ï¼›æœ¬ä»£äººé¡žç”±è‡ªå†¥ç•Œå–å›žä¹‹éª¨éª¸æ‰€é€ ã€‚"
+      },
+      "motifs": [
+        "world-renewal",
+        "flood"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": " [Citation provenance: the original Wikipedia reference was replaced with the verified public-domain source recorded here.]"
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Four suns have passed: the sun of jaguars, the sun of wind, the sun of fire-rain, the sun of water â€” and in the sun of water, the heavens came down upon the people, and the sea overwhelmed them, and all was destroyed."
+        },
+        {
+          "id": "2",
+          "text": "The gods gathered at Teotihuacan to cast themselves into the fire, that a fifth sun might rise; and the lowly god who leaped first became the sun that now moves, which feeds on the hearts of men and cannot go on forever."
+        }
+      ],
+      "category": "myth"
+    },
+    {
+      "id": "quetzalcoatl-bones",
+      "title": {
+        "en": "Quetzalcoatl and the Bones of the Old People",
+        "zh": "ç¾½è›‡ç¥žèˆ‡å…ˆæ°‘ä¹‹éª¨"
+      },
+      "tradition": "aztec",
+      "region": {
+        "en": "Tula, Hidalgo, Mexico",
+        "zh": "åœ–æ‹‰ï¼ˆå¢¨è¥¿å“¥ä¼Šé”çˆ¾æˆˆå·žï¼‰"
+      },
+      "lat": 20.06,
+      "lon": -99.3,
+      "period": "16th c. CE (codex traditions)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Hubert Howe Bancroft, The Native Races, Vol. III: Myths and Languages (1882/1886), ch. II 'Origin and End of Things', Aztec Creation-Myths, pp. 58-61",
+        "url": "https://archive.org/download/nativerace03bancrich/nativerace03bancrich_djvu.txt"
+      },
+      "license": "Public domain (16th c. sources)",
+      "summary": {
+        "en": "After the old worlds perished, Quetzalcoatl descends to Mictlan, the land of the dead, to recover the bones of former humankind; tricked on the way, he spills them â€” and from the broken bones mixed with his own blood the new people arise.",
+        "zh": "èˆŠä¸–ç•Œæ»…çµ•å¾Œï¼Œç¾½è›‡ç¥žä¸‹è‡³æ­»è€…ä¹‹åœ‹å¯†å…‹ç‰¹è˜­å–å›žå…ˆæ°‘ä¹‹éª¨ï¼›é€”ä¸­å—æ­»ç¥žä¹‹è¨ˆçµ†å€’ï¼Œéª¨æ®–ç¢Žè£‚â€”â€”ä»¥ç¢Žéª¨æ··å…¶è‡ªèº«ä¹‹è¡€ï¼Œæ–°ä¸€ä»£äººé¡žæ–¼ç„‰è€Œç”Ÿã€‚"
+      },
+      "motifs": [
+        "descent-underworld",
+        "clay-humans",
+        "trickster"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": " [Citation provenance: the original Wikipedia reference was replaced with the verified public-domain source recorded here.]"
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Quetzalcoatl went to Mictlantecuhtli, lord of the land of the dead, for the precious bones of the peoples of past suns; the lord of the dead set him trials, and said: 'Go round my realm four times, and sound my shell trumpet.'"
+        },
+        {
+          "id": "2",
+          "text": "On the way out Quetzalcoatl stumbled and fell upon the bones, and they broke; and he gathered them up, and mixed them with his own blood, and from them the people of this sun were made â€” therefore all men are bent and varied."
+        }
+      ],
+      "category": "myth"
+    },
+    {
+      "id": "adapa-south-wind",
+      "title": {
+        "en": "Adapa and the Food of Life",
+        "zh": "阿達帕與生命之食"
+      },
+      "tradition": "babylonian",
+      "region": {
+        "en": "Eridu, Iraq",
+        "zh": "埃利都（伊拉克）"
+      },
+      "lat": 31.23,
+      "lon": 45.99,
+      "period": "Old Babylonian (Amarna copies, c. 14th c. BCE); trans. Rogers, 1912",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Cuneiform Parallels to the Old Testament, trans. Robert W. Rogers, 'The Myth of Adapa'",
+        "url": "https://archive.org/details/cuneiformparall00rogegoog"
+      },
+      "license": "Public domain",
+      "summary": {
+        "en": "Adapa, son of Ea, breaks the wing of the south wind; Ea warns him that food and water of death will be set before him in heaven — but Anu offers food and water of LIFE instead, and Adapa, obeying Ea, refuses them, losing immortality for himself and all mankind.",
+        "zh": "埃亞之子阿達帕折斷南風之翼；埃亞預警：天上必奉致死之食水，慎勿受——然安努所奉乃生命之食水，阿達帕遵師言而拒之，遂失永生，人類從此有死。"
+      },
+      "motifs": [
+        "quest-immortality",
+        "trickster"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient Babylonian myth; presented as a comparative-mythology text — a scholarly framing, not a claim about religious truth."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "O South wind, on the way I shall to thee [...] everything that, thy wing will I break. As he spoke with his mouth, the wing of the South wind was broken, seven days the South wind blew not upon the land. Anu called to his messenger Ilabrat: Why has the South wind not blown upon the land for seven days? His messenger Ilabrat answered him: \"My lord, Adapa, the son of Ea, the wing of the South wind has broken.\""
+        },
+        {
+          "id": "2",
+          "text": "Be astonished. Good words they will speak to Anu. A good countenance of Anu they will show thee. When thou standest before Anu, food of death they will set before thee, eat not. Water of death they will set before thee, drink not. Garments they will set before thee, put them on. Oil they will set before thee, anoint thyself. The counsel that I have given thee, forget not. The words which I have spoken, hold fast.\" The messenger of Anu came: \"Adapa has broken the wing of the South wind. Bring him before me.\" The road to Heaven he made him take, and to Heaven he ascended."
+        },
+        {
+          "id": "3",
+          "text": "\"Bring him, that we may eat.\" Food of life they brought him, but he ate not. Water of life they brought him, but he drank not. Garments they brought him. He clothed himself. Oil they brought him. He anointed himself. Anu looked at him; he wondered at him. \"Come, Adapa, why hast thou not eaten, not drunken? (Now) thou shalt not live. [...] Ea, my lord said: 'Eat not, drink not.' Take him and bring him back to his earth.\""
+        }
+      ],
+      "category": "myth"
+    },
+    {
+      "id": "huitzilopochtli-coatepec",
+      "title": {
+        "en": "The Birth of Huitzilopochtli at Coatepec",
+        "zh": "維齊洛波奇特利誕於蛇山"
+      },
+      "tradition": "aztec",
+      "region": {
+        "en": "Coatepec (mythic: Mexico City region)",
+        "zh": "蛇山（神話地：今墨西哥城一帶）"
+      },
+      "lat": 19.43,
+      "lon": -99.13,
+      "period": "Florentine Codex (Sahagun, c. 1578-80) and related codex traditions",
+      "source": {
+        "archive": "Project Gutenberg",
+        "work": "H. H. Bancroft, The Native Races of the Pacific States, vol. III: Myths and Languages (1875), Aztec chapter (after Clavigero's version of the Sahagun tradition)",
+        "url": "https://www.gutenberg.org/cache/epub/43123/pg43123.txt"
+      },
+      "license": "Public domain",
+      "summary": {
+        "en": "Coatlicue, sweeping on the hill of Coatepec, conceives from a ball of humming-bird feathers; her daughter Coyolxauhqui rallies the four hundred stars to slay her, but at the moment of her death the young Huitzilopochtli springs from her womb in full war-gear, and with the fire-serpent he dismembers his sister and routs the stars of night.",
+        "zh": "科阿特利庫埃於蛇山掃地，懷羽球而孕；其女科約爾沙赫吉聚四百星辰欲弒之。臨難之際，青年維齊洛波奇特利全副武裝自母腹躍出，持火蛇斬其姊，肢解其身，逐散夜之群星。"
+      },
+      "motifs": [
+        "miraculous-birth",
+        "dismembered-giant",
+        "sibling-creators"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Aztec (Mexica) codical tradition; passages are condensed paraphrases referencing the Florentine Codex. Presented as a comparative-mythology text. [Citation provenance: the original Wikipedia reference was replaced with the verified public-domain source recorded here.]"
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "[Condensed paraphrase] While Coatlicue swept the temple hill of Coatepec, a ball of humming-bird feathers descended upon her, and she gathered it into her bosom; when she sought it again it was gone, and she had conceived a child. Her daughter Coyolxauhqui, shamed by the pregnancy, stirred the four hundred of the southern stars to slay their mother."
+        },
+        {
+          "id": "2",
+          "text": "[Condensed paraphrase] At the moment the attackers reached the summit, Coatlicue gave birth to Huitzilopochtli, arrayed in shield, brand, and feather crest, with a face of blue stripes. He slew Coyolxauhqui with the fire-serpent, cut her pieces rolling down the hill, and put her mother's enemies to flight in all directions — and the mother's heart was made glad by her son."
+        }
+      ],
+      "category": "myth"
+    },
+    {
+      "id": "babylonian-gilgamesh-epic",
+      "title": {
+        "en": "The Epic of Gilgamesh: King, Friend, and Seeker of Immortality",
+        "zh": "吉爾伽美什史詩：王者、摯友與不死者之追尋"
+      },
+      "tradition": "babylonian",
+      "category": "myth",
+      "region": {
+        "en": "Uruk, southern Iraq",
+        "zh": "南伊拉克烏魯克"
+      },
+      "lat": 31.32,
+      "lon": 45.64,
+      "period": "Standard Babylonian recension (Sin-leqi-unninni) c. 13th-11th c. BCE, copied from Old Babylonian forerunners (c. 19th-17th c. BCE); principal mss: Nineveh/Kuyunjik library tablets (British Museum K-series), e.g. K 3375 = Tablet XI; Old Babylonian Pennsylvania tablet",
+      "source": {
+        "archive": "Oxford (critical edition: Andrew George) / ETCSL (Sumerian poems)",
+        "work": "The Epic of Gilgamesh, trans. Andrew George (Penguin, 1999); Electronic Text Corpus of Sumerian Literature for the Sumerian Bilgames poems",
+        "url": "https://etcsl.orinst.ox.ac.uk/"
+      },
+      "license": "Sumerian corpus translation (ETCSL) open access; Penguin translation quoted only as summary (copyright) — passages below are labeled paraphrases",
+      "summary": {
+        "en": "The tyrant king Gilgamesh and the wild man Enkidu become friends, kill Humbaba and the Bull of Heaven, and are punished by Enkidu's death; Gilgamesh crosses the world to Utnapishtim, fails the sleep test, loses the plant of youth to a serpent, and returns to carve his story on the walls of Uruk — death keeps even heroes, but the city remembers.",
+        "zh": "暴君吉爾伽美什與野人恩奇都結為摯友，共誅洪巴巴與天牛，卻因觸怒諸神而摯友亡故；吉爾伽美什橫越天際尋求不死，未通睡眠之試，青春之草又為蛇所竊；返鄉於烏魯克城垣刻其事——英雄終有一死，而城郭銘記其名。"
+      },
+      "motifs": [
+        "quest-immortality",
+        "flood",
+        "culture-hero",
+        "descent-underworld"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient literary text of a dead tradition; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Condensed paraphrase of Tablet XI (K 3375): Utnapishtim tells Gilgamesh how Ea warned him through the wall of a reed hut to tear down his house and build a ship; he sealed the boat, loaded the seed of all living, and the storm destroyed the land for seven days; the raven, sent last and not returning, showed him the receding waters. Not verbatim.",
+          "note": "Condensed paraphrase of Tablet XI (K 3375); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Condensed paraphrase of Tablet XI (end): Utnapishtim says, 'Death is the lot decreed for all: no one has ever seen the face of death, yet no one has ever escaped it.' Gilgamesh, woken after six days and seven nights of sleep he believed were minutes, fails the test; a serpent smells the plant of youth as he bathes, seizes it, and sloughs its skin — and Gilgamesh weeps. Not verbatim.",
+          "note": "Condensed paraphrase of Tablet XI (end); not verbatim."
+        }
+      ],
+      "language": "Akkadian (Standard Babylonian; Old Babylonian forerunners; Sumerian sources)",
+      "canonical_translation": "Andrew George, The Epic of Gilgamesh, Penguin Classics, 1999 (critical edition: Andrew George, The Babylonian Gilgamesh Epic, Oxford, 2003)",
+      "narrative": {
+        "en": "The Standard Babylonian epic assembles in twelve tablets a two-thousand-year-old literary history. It opens with a prologue inviting the reader to climb the walls of Uruk: 'See its foundation terrace, touch the masonry — is it not burnt brick and good? ... One league city, one league palm gardens, one league lowlands, the open area of the Ishtar Temple...' — and to read the box of lapis within, the story of 'him who saw the Deep' (sa naqba imuru), Gilgamesh, two-thirds god, one-third human, whom no one could equal.\n\nENKIDU. Gilgamesh, shepherd-king of Uruk, works his young men at the game-stick and exhausts the brides with his custom (the ius primae noctis in the Old Babylonian text). The people cry to heaven; Aruru pinches off a rival in the clay of the steppe: Enkidu, shaggy with hair like grain, who eats grass with gazelles and drinks at the water-holes, blocking the hunters' traps. A harlot (Shamhat) is sent to tame him: seven days of love-making 'after the manner of mankind' leave the gazelles shunning him; she clothes him, feeds him bread and beer, gives him shepherds' work, and news of Gilgamesh's wedding custom. Enkidu goes to Uruk to meet him at the wedding door; they wrestle furiously in the street — doorposts quake, the wall shakes — and Enkidu, defeated, embraces the king, and the two become fast friends.\n\nTHE CEDAR FOREST. Gilgamesh resolves to journey to the Cedar Forest and kill its guardian Humbaba, whose mouths are fire, whose breath is death, whom Enlil appointed to terrify men. The elders of Uruk counsel against it; Enkidu recalls he has seen the forest and knows its horror. Gilgamesh has doors made for Enlil from cedar and entreats Shamash for aid; Shamash promises eight winds behind him. They cross seven mountain ranges, and Enkidu, seized by dreams three times, keeps waking Gilgamesh: while he sleeps, Humbaba hears them and batters down the mountains. Shamash raises the winds — thirteen, like whips — and Humbaba, bound and helpless, offers surrender ('I will be your slave, my forest is yours'). Enkidu insists on killing him: 'Where is your strength of courage?' The guardian's head is severed and bagged; on the return Enkidu's broken door is dedicated to Enlil.\n\nISHTAR AND THE BULL. Back in Uruk, Ishtar offers herself in marriage; Gilgamesh refuses with the famous catalogue of her ruined lovers — the bird, the lion, the horse, the shepherd, the plant Tammuz — 'you are a brazier which goes out in the cold'. Enraged, Ishtar demands the Bull of Heaven from Anu; refused at first, then granted at threat of breaking the underworld doors. The Bull snorts a pit (one hundred men fall in), then another; Enkidu seizes its tail, Gilgamesh stabs it between neck and horns, and they dedicate its heart to Shamash while Ishtar curses from the wall. Enkidu hurls the right thigh at her. That night the gods deliberate: for killing Humbaba and the Bull, one of the two must die. Enkidu falls sick for twelve days, cursing first the door, then the harlot (who taught him mankind's ways), and blessing her after she is counseled back; he dreams of the House of Dust, where thrones are dust and Belit-Seri keeps the house, and where he sits for ever with kings and priests — and dies.\n\nTHE JOURNEY TO UTNAPISHTIM. Gilgamesh's grief is wild: he weeps six days and nights 'as a lioness', roams the steppe clothed in a lion's skin, resolves to go to Utnapishtim 'the Faraway', who escaped the flood, and ask the secret of life. He passes the twin peaks of Mashu whose gates guard the sun's path, and walks a dark league-road twelve leagues deep 'where there is neither light nor dark'; at a garden of jewel-trees he meets the alewife Siduri, who (in the older Old Babylonian telling, abbreviated in the Standard version) counsels feasting and love — 'when the gods made mankind they set death apart for mankind' — then directs him to the ferryman Urshanabi, who asks for the 'stone things'; Gilgamesh smashes them, and must cut wooden punts, kissing each pole before use to cross the Waters of Death.\n\nTHE FLOOD AND THE TEST. Utnapishtim tells him the secret the gods swore and Ea leaked through the reed hut's wall: 'Tear down the house, build a ship; leave possessions, save life'. The boat is a cube, 120 cubits a side, sealed with pitch and bitumen, loaded with gold, silver, cattle, beasts, craftsmen, and the seed of all living. The storm: 'the gods were frightened by the flood... the goddess wailed like a woman in childbirth'; after seven days the ship grounded on Nisir, and the birds went out — dove, swallow, raven (the raven did not return). Enlil, furious that a man survived, is appeased by Ea, who argues he should have sent plague, famine — not flood — and Enlil blesses Utnapishtim and his wife, making them like gods, to dwell 'at the mouth of the rivers'. Now the test: sleep six days and seven nights. Gilgamesh dozes at once; his wife bakes a loaf each day, and when he wakes he sees the bread's stages and knows he slept — 'death is the decree, the word of the assembly'. Utnapishtim sends him back; as a parting gift, the plant of youth (like a boxthorn, 'an old man will turn young'); on the homeward road Gilgamesh bathes in a pool, and a serpent smells the plant, seizes it, sloughs its skin, and vanishes. Gilgamesh weeps and returns to Uruk; the epic ends where it began, with the city walls. (Tablet 12, appended in the Nineveh library, translates a separate Sumerian poem in which Enkidu descends to retrieve Gilgamesh's ball and drum, is trapped, and his shade rises to describe the netherworld — a scribal appendix, not part of the main plot.)\n\nFUNCTIONS. The epic is the masterpiece of Mesopotamian wisdom literature: it critiques despotic kingship, mourns friendship, and sets human fame (the city's walls) against death; it served as school text and royal library copy (Ashurbanipal's collection); the flood episode fed Mesopotamian historiography and, via Berossus, into later comparative debate.",
+        "zh": "史詩始於烏魯克城垣之邀：觀其磚基，讀青金石匣中『見過深淵者』吉爾伽美什之事。野人恩奇都為母神所造，與神妓七日交好而開化；赴烏魯克與王角力，不敵而結為友。二人西赴雪松林誅洪巴巴，返城後吉爾伽美什拒伊什塔爾之婚，殺天牛、擲其腿；諸神議定二者取一，恩奇都病十二日，夢『塵土之家』而死。王披獅皮漫遊，越馬什雙峰、經酒肆西杜里之諭，與擺渡人烏爾沙那比渡死水；不死者烏特那皮什提告以洪水之秘：蘆牆內聞以利亞之諭，造方舟、納生靈、七日暴風、放鴉知地。又試以七日不眠而王立酣，麵包示時；遂返。臨別得青春之草，浴時為蛇竊去蛻皮而遁。王泣而歸，於烏魯克城垣自述其事。第十二板為蘇美譯文附編，述恩奇都冥府之行。全篇批判暴政、悼友、以城記勝死，為美索不達米亞智慧文學之巔。"
+      },
+      "functions": [
+        "Wisdom-literature meditation on mortality and the limits of kingship",
+        "Scribal curriculum text and royal library classic (Nineveh, Ashurbanipal)",
+        "Aition of Uruk's walls and of the hero's fame against death",
+        "Vessel for the Mesopotamian flood narrative (Tablet XI) in later traditions"
+      ],
+      "variants": [
+        {
+          "name": "Old Babylonian Pennsylvania tablet ('Surpassing all kings')",
+          "text_tradition": "Old Babylonian, c. 18th-17th c. BCE (Univ. of Pennsylvania Museum)",
+          "summary": "Opens with the meeting of Gilgamesh and Enkidu (incomplete: the middle is lost) and preserves the fuller wedding-custom and wrestling scene; the lacuna is bridged by scholarly restoration from context.",
+          "cross_ref": "babylonian-gilgamesh-epic"
+        },
+        {
+          "name": "Old Babylonian Yale tablet (Siduri's counsel)",
+          "text_tradition": "Old Babylonian, c. 18th-17th c. BCE (Yale Babylonian Collection)",
+          "summary": "Preserves the tavern-keeper's carpe diem speech almost whole ('when the gods created mankind, death they allotted to mankind'); in the Standard Babylonian recension the speech is reduced to a mention — the older text is our main witness.",
+          "cross_ref": "babylonian-gilgamesh-epic"
+        },
+        {
+          "name": "Sumerian poems of Bilgames",
+          "text_tradition": "Sumerian narratives c. 21st-17th c. BCE (Nippur copies; ETCSL 1.8.x)",
+          "summary": "Five independent poems — Bilgames and Huwawa; Bilgames, Enkidu and the Netherworld; The Death of Bilgames; etc. — in which Enkidu is the servant, Huwawa's killing is sacrilege, and death is met with wisdom; the Standard Babylonian epic reworks them into one arc.",
+          "cross_ref": "babylonian-gilgamesh-epic"
+        },
+        {
+          "name": "Hittite and Hurrian adaptations",
+          "text_tradition": "Bogazkoy tablets, c. 14th-13th c. BCE (fragmentary)",
+          "summary": "A Hittite adaptation (and Hurrian intermediaries) attests the epic's westward spread; heavily fragmentary — the narrative depends on reconstructed joining of scattered pieces (George 2003, vol. 2).",
+          "cross_ref": "babylonian-gilgamesh-epic"
+        }
+      ],
+      "primary_sources": [
+        {
+          "work": "Epic of Gilgamesh, Standard Babylonian version (twelve tablets)",
+          "citation": "Tablets I-II (Enkidu, friendship); IV-V (Cedar Forest); VI (Ishtar, Bull); VII-VIII (death, lament); IX-X (journey); XI (flood, test, plant). Principal mss: Kuyunjik (Nineveh) tablets, British Museum K-series (e.g. K 3375 = Tablet XI); OB Pennsylvania and Yale tablets for forerunners. Critical edition: Andrew George, The Babylonian Gilgamesh Epic, 2 vols., Oxford 2003; translation: George, Penguin 1999.",
+          "language": "Akkadian"
+        },
+        {
+          "work": "Sumerian poems of Bilgames",
+          "citation": "ETCSL 1.8.1.1-1.8.1.5 (trans. Jeremy Black et al., Oxford), esp. 'Bilgames and the Netherworld' for Tablet 12's source.",
+          "language": "Sumerian"
+        }
+      ],
+      "secondary_sources": [
+        {
+          "work": "Jeffrey H. Tigay, The Evolution of the Gilgamesh Epic",
+          "citation": "Tigay 1982, Philadelphia: University of Pennsylvania Press — tracks the Sumerian-to-Standard-Babylonian literary evolution tablet by tablet."
+        },
+        {
+          "work": "Stephanie Dalley, Myths from Mesopotamia",
+          "citation": "Dalley 1989, Oxford: Oxford World's Classics — alternate English translation of the Standard version with notes."
+        }
+      ],
+      "source_urls": [
+        {
+          "url": "https://etcsl.orinst.ox.ac.uk/",
+          "description": "Electronic Text Corpus of Sumerian Literature (Oxford) — Sumerian Bilgames poems, open access",
+          "accessed": "2026-11-01"
+        },
+        {
+          "url": "https://www.britishmuseum.org/collection",
+          "description": "British Museum collection database — Nineveh/Kuyunjik Gilgamesh tablets (search 'Kuyunjik Gilgamesh')",
+          "accessed": "2026-11-01"
+        }
+      ],
+      "sensitivity_flag": "none",
+      "provenance": {
+        "record_status": "reconstructed",
+        "compiled": "2026-11-01",
+        "compiled_by": "DHG508 fieldwork compilation",
+        "review_status": "draft - pending human review",
+        "reconstructed_segments": [
+          {
+            "segment": "Old Babylonian Pennsylvania tablet: middle of the narrative lost (wedding custom to friendship)",
+            "restored_in": "Andrew George, The Babylonian Gilgamesh Epic, Oxford 2003, vol. 1, pp. 158-175"
+          },
+          {
+            "segment": "Standard version, Tablet V: significant lacunae in the Cedar Forest battle, restored from the OB and Hittite versions",
+            "restored_in": "George 2003, vol. 1, pp. 418-433"
+          },
+          {
+            "segment": "Tablet 12: scribal appendix translating a Sumerian poem (not part of the SB plot)",
+            "restored_in": "George 2003, vol. 1, pp. 724-729; Sumerian source at ETCSL 1.8.1.4"
+          }
+        ]
+      }
+    },
+    {
+      "id": "babylonian-atrahasis-flood",
+      "title": {
+        "en": "Atrahasis: The Making of Humanity and the Great Flood",
+        "zh": "阿特拉哈西斯：人類之造與大洪水"
+      },
+      "tradition": "babylonian",
+      "category": "myth",
+      "region": {
+        "en": "Nippur / Sippar region, Iraq (tablet findspots; symbolic pin at Nippur)",
+        "zh": "伊拉克尼普爾／西帕爾地區（泥板出土地；象徵性定位於尼普爾）"
+      },
+      "lat": 32.13,
+      "lon": 45.23,
+      "period": "Old Babylonian version c. 17th c. BCE (principal ms by the scribe Ipiq-Aya); Neo-Assyrian and Neo-Babylonian copies (Kuyunjik, Sippar) c. 9th-6th c. BCE",
+      "source": {
+        "archive": "Internet Sacred Texts Archive (summaries) / Oxford (critical edition: Lambert and Millard)",
+        "work": "Atrahasis I-III, ed. and trans. W. G. Lambert and A. R. Millard, Atra-Hasis: The Babylonian Story of the Flood, Oxford, 1969",
+        "url": "https://www.sacred-texts.com/ane/index.htm"
+      },
+      "license": "Cuneiform text public domain; Lambert & Millard translation quoted only as summary (copyright) — passages below are labeled paraphrases",
+      "summary": {
+        "en": "The lesser gods, worn out digging rivers for the great gods, revolt; the wise Ea proposes the creation of humanity from clay mixed with a slain god's flesh to carry the labor. When humanity's noise disturbs Enlil, plague, drought, and finally flood are sent; Atrahasis is warned and saved, and the gods settle on regulated fertility rather than extinction.",
+        "zh": "小神為大神疏河役苦，罷工圍宮；埃亞獻策，以死者之肉血摻黏土造人代役。人丁繁盛、喧聲擾恩利爾，遂遣疫、旱，終降洪水；阿特拉哈西斯奉諭造舟得存，諸神末以管制生育之策定約。"
+      },
+      "motifs": [
+        "flood",
+        "clay-humans",
+        "world-renewal"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient literary text of a dead tradition; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Condensed paraphrase of Tablet I: the Igigi gods, having borne the gods' burden for 3,600 years, burn their tools and besiege Ellil's temple; Ea, called to counsel, proposes: let one god be slain, and the birth-goddess Nintu mix his flesh and blood with clay, so that a lullu — a human — is made to bear the toil of the gods. Not verbatim.",
+          "note": "Condensed paraphrase of Tablet I; not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Condensed paraphrase of Tablet III: Enlil's flood sweeps the land for seven days and nights; Atrahasis, forewarned by Ea through the wall of his reed hut, has sealed the boat and brought the seed of living things; when Enlil discovers the survivor, Ea defends the deed, and Enlil touches the boat and blesses the pair. Not verbatim.",
+          "note": "Condensed paraphrase of Tablet III; not verbatim."
+        }
+      ],
+      "language": "Akkadian (Old Babylonian dialect)",
+      "canonical_translation": "W. G. Lambert and A. R. Millard, Atra-Hasis: The Babylonian Story of the Flood, Oxford, 1969; alternate translation in Stephanie Dalley, Myths from Mesopotamia, Oxford, 1989",
+      "narrative": {
+        "en": "BEGINNING: WHEN THE GODS WERE MEN. The poem opens 'enuma ilu awilum' — 'when the gods, instead of men, bore the work and suffered the toil': the great gods (Anu, Enlil, Enki) allotted offices while the lesser Igigi dug the Tigris and Euphrates, heaped basket-loads, and endured 'excessive toil' for 3,600 years. The gods' burden in those days is the poem's first premise: heaven's society was already a labor economy.\n\nTHE STRIKE AND THE MAKING OF MAN. The Igigi finally burn their tools, and in the night surround the dwelling of Ellil (Enlil), the executive god: 'Come, let us meet the vizier, that he may save us from our heavy toil'. Enlil, alarmed, calls the assembly; Anu counsels appeasement, and the wise Ea (Enki) proposes the solution: let one of the rebels — the god We-ila, who has the spirit/understanding — be slain, and let the birth-goddess Nintu (Mami) mix his flesh and blood with clay. She does so, stamping out lullu-people, and the first human is created 'to bear the service of god and man'. The gods, freed of labor, weep for joy and praise the birth-goddess ('Nintu, lady of all created things'); she is named 'Mistress of All the Gods', and in a closing ritual frame the poem remarks that the mixed god-flesh and human are 'enclosed' — three quarters human, one quarter god — the theological anthropology of Mesopotamia.\n\nTHE NOISE. For 1,200 years the land is populous and noisy; 'their cry disturbed the god, their uproar disturbed Ellil' (ribaba — the babel of mouths). Enlil resolves to reduce humanity, first by plague (Namtar sent); Atrahasis, 'very wise' (ra'is napišti — the name means 'exceedingly wise', also 'he of the far-drawn life'), is counseled by Ea: the god of plague must be worshiped, and the people must stop calling on their own gods and honor Namtar alone — the plague abates. Then drought: Adad withholds rain; again Ea instructs Atrahasis to redirect worship to Adad — rain returns. A third escalation ('the famine was severe') fails likewise.\n\nTHE FLOOD. Enlil finally persuades the assembly to send the deluge and swears them to secrecy — but Ea, sworn and unable to tell Atrahasis directly, speaks to the wall of Atrahasis' reed hut with Atrahasis listening: 'Wall, hear me; reed-wall, understand all my words: Dismantle your house, build a boat... save life against the destruction of the seed of mankind'. The boat is sealed with pitch, loaded with cattle, 'beasts and birds', and Atrahasis' family. The flood: 'Adad roared in the clouds... the flood was seven days and seven nights'. Nintu/Mami 'cried out like a woman in childbirth', lamenting her creation swallowed in the sea; the gods sit weeping on the heaven's rim, 'gathered like flies over the offering' (the Gilgamesh XI version of this line). When the waters subside, Atrahasis offers sacrifice on the mountain peak; Enlil, smelling it, 'plucked at his garment and ascended to heaven', furious that a survivor exists; Ea defends the deed ('you who are wise erred by sending the flood'), and Enlil descends, boards the boat, and blesses Atrahasis and his wife: 'Atrahasis, you shall be called 'Exceedingly Wise'... he shall dwell at the mouth of the rivers' — immortality in the far-away.\n\nEND: THE COMPROMISE. The poem's final section (much restored) sets the new world-order: instead of another flood, Enlil institutes population control through Nintu. Certain women ('the Ugbabtu, the Enu, and the Entu' — priestess classes) shall not bear children; the pasittu demon shall snatch the baby from the mother's lap; and classes of women are exempted from childbearing while some infants die — the theology of infant mortality and 'barren' office. Creation's labor problem is solved forever by regulated fertility, not extinction.\n\nFUNCTIONS. Atrahasis is Mesopotamia's primeval-history epic: it aitiologizes human labor as the gods' relief, death's bite as demographic regulation, and ritual worship as the life-line of civilization; it is the direct source-text for Gilgamesh Tablet XI's flood, and through that channel (and Berossus) the ancestor-comparandum of all Near Eastern flood literature.",
+        "zh": "『當諸神尚如人類，負擔苦役』：伊吉吉挖河背土三千六百年，終焚工具圍困恩利爾。埃亞獻策誅韋伊拉，以其肉血摻黏土，生母寧圖捏成人形，名『盧魯』，代人負神役；諸神釋負歡呼。人丁繁盛一千二百年，喧聲擾恩利爾，遂遣疫癘、乾旱屢次；智者阿特拉哈西斯依埃亞之諭調整祭祀，瘟疫旱災皆退。恩利爾終遣洪水並令眾神守密；埃亞隔蘆牆傳諭：拆屋造舟、封以瀝青、納牲畜生靈。風暴七日，生母寧圖如產婦哀號，諸神聚泣如蠅。水退舟擱山巔，阿特拉哈西斯獻祭；恩利爾怒其倖存，埃亞抗辯，恩利爾登舟祝福：名之『極智者』，使居河口，得不死。末段記恩利爾立生育管制：設不產之女祭司，縱帕西圖魔奪嬰——以管轄人口代滅絕。全篇釋人類勞役、死之由、與祭祀之功能，並為吉爾伽美什第十一板洪水之源。"
+      },
+      "functions": [
+        "Primeval history: anthropology of labor (humans created to relieve the gods)",
+        "Theodicy of infant mortality and priestess classes as demographic theology",
+        "Source text for the Gilgamesh flood and later Near Eastern flood literature",
+        "Ritual theology of worship as the mechanism that stays plague and drought"
+      ],
+      "variants": [
+        {
+          "name": "Standard Babylonian Gilgamesh, Tablet XI",
+          "text_tradition": "Nineveh recension (K 3375)",
+          "summary": "The Atrahasis flood retold as embedded story within the epic, with added bird-test (dove, swallow, raven) and the 'gods gathered like flies' image; Gilgamesh's epic converts the tale to a meditation on mortality.",
+          "cross_ref": "babylonian-gilgamesh-epic"
+        },
+        {
+          "name": "Sumerian Ziusudra flood",
+          "text_tradition": "Nippur tablet Ni 9625 (OB copy of a Sumerian poem)",
+          "summary": "Earliest attested flood narrative: Ziusudra, warned in a dream, survives the deluge and is granted eternal life in Dilmun; fragmentary and reconstructed by Lambert & Millard's edition from joins.",
+          "cross_ref": "babylonian-atrahasis-flood"
+        },
+        {
+          "name": "Berossus' Xisuthros",
+          "text_tradition": "Babyloniaca (Hellenistic, 3rd c. BCE; preserved via Syncellus, c. 9th c. CE)",
+          "summary": "Greek-language Babylonian history retells the flood with Xisuthros (Cronos' warning by dream), the raven test, and the landing in Armenia; the classical channel through which Mesopotamian flood traditions reached antiquity's learned readers.",
+          "cross_ref": "babylonian-gilgamesh-epic"
+        },
+        {
+          "name": "Genesis flood (comparative)",
+          "text_tradition": "Genesis 6-9 (Masoretic Text)",
+          "summary": "Shares the ark-announcement through a wall ('wall, listen'), the sealed boat, the flood's seven-day/forty-day time-schemes, and the bird tests; theological frame inverted (corruption, not noise, motivates; covenant, not population control, ends the danger).",
+          "cross_ref": "hebrew-noah-flood"
+        }
+      ],
+      "primary_sources": [
+        {
+          "work": "Atrahasis (Old Babylonian version, three tablets)",
+          "citation": "Tablets I-III: I (strike, creation of man); II (plague, drought, further measures); III (flood, blessing, population regulation). Principal ms: OB tablet written by the scribe Ipiq-Aya (Lambert-Millard's principal exemplar); Neo-Assyrian copy Kuyunjik K 2782; OB Sippar tablets. Edition: W. G. Lambert and A. R. Millard, Atra-Hasis, Oxford 1969, pp. 42-103 (cuneiform) and translation pp. 104-113.",
+          "language": "Akkadian"
+        }
+      ],
+      "secondary_sources": [
+        {
+          "work": "W. G. Lambert and A. R. Millard, Atra-Hasis: The Babylonian Story of the Flood",
+          "citation": "Lambert & Millard 1969, Oxford: Clarendon Press — the standard critical edition; introductory survey of flood traditions (pp. 17-33) underpins the comparative framework."
+        },
+        {
+          "work": "Stephanie Dalley, Myths from Mesopotamia",
+          "citation": "Dalley 1989, Oxford: Oxford World's Classics, pp. 1-38 — English translation of Atrahasis with commentary on the reconstruction."
+        }
+      ],
+      "source_urls": [
+        {
+          "url": "https://www.sacred-texts.com/ane/index.htm",
+          "description": "Internet Sacred Texts Archive — Ancient Near East section (summaries and public-domain translations of Babylonian flood material)",
+          "accessed": "2026-11-01"
+        },
+        {
+          "url": "https://www.britishmuseum.org/collection",
+          "description": "British Museum collection database — Kuyunjik library tablets (search 'Kuyunjik flood')",
+          "accessed": "2026-11-01"
+        }
+      ],
+      "sensitivity_flag": "none",
+      "provenance": {
+        "record_status": "reconstructed",
+        "compiled": "2026-11-01",
+        "compiled_by": "DHG508 fieldwork compilation",
+        "review_status": "draft - pending human review",
+        "reconstructed_segments": [
+          {
+            "segment": "End of Tablet III (population-regulation section): the OB tablets are lacunose; restored principally from the Neo-Assyrian copies and scholarly joins",
+            "restored_in": "Lambert & Millard, Atra-Hasis, Oxford 1969, pp. 78-87 (III vii) with reconstruction notes"
+          },
+          {
+            "segment": "Intermediate sections of Tablets II-III (famine escalations): joined from several fragmentary exemplars",
+            "restored_in": "Lambert & Millard 1969, pp. 60-77"
+          }
+        ]
+      }
+    },
+    {
+      "id": "aztec-coatepec-huitzilopochtli",
+      "title": {
+        "en": "The Birth of Huitzilopochtli at Coatepec and the Defeat of Coyolxauhqui",
+        "zh": "威齊洛波奇特利於科阿特佩克山降生與科約爾沙赫基之敗"
+      },
+      "tradition": "aztec",
+      "category": "myth",
+      "region": {
+        "en": "Coatepec ('Serpent Mountain'), symbolic pin at Tenochtitlan's Templo Mayor, Mexico City",
+        "zh": "科阿特佩克『蛇山』；象徵性定位於墨西哥城大神廟"
+      },
+      "lat": 19.43,
+      "lon": -99.13,
+      "period": "Recorded 16th c. CE: Florentine Codex (Sahagun, 1575-77, Book 3); Codex Chimalpopoca/Anales de Cuauhtitlan; principal MS: Florentine Codex, Biblioteca Medicea Laurenziana, Mediceo Palatino 218-220",
+      "source": {
+        "archive": "Biblioteca Medicea Laurenziana (Florentine Codex) / scholarly translation (Dibble & Anderson)",
+        "work": "Florentine Codex Book 3 (The Origin of the Gods), trans. A. J. O. Anderson and C. E. Dibble, Santa Fe 1957; Codex Chimalpopoca, trans. John Bierhorst, Tucson 1992",
+        "url": "https://www.wdl.org/en/item/10096/"
+      },
+      "license": "16th-c. sources public domain; modern translations quoted only as summary (copyright) — passages are labeled paraphrases",
+      "summary": {
+        "en": "Coatlicue, sweeping the serpent mountain, conceives from a ball of quetzal feathers; her daughter Coyolxauhqui and the four hundred southern stars plot her death; at the moment of birth the child Huitzilopochtli springs up fully armed, beheads Coyolxauhqui, and scatters the four hundred — the charter myth of war, sacrifice, and the Templo Mayor.",
+        "zh": "科阿特利圭掃蛇山，得羽球而孕；女科約爾沙赫基與南方四百星神謀殺其母；臨產之際，威齊洛波奇特利全副武裝躍出，斬母姊之頭，驅散四百眾——此為戰爭、犧牲與大神廟之憲章神話。"
+      },
+      "motifs": [
+        "miraculous-birth",
+        "dismembered-giant",
+        "sacred-kingship"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Sources are colonial-era codices; living Nahua communities treat this heritage respectfully. Modern excavations at the Templo Mayor are Mexican national heritage."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Condensed paraphrase of Florentine Codex Book 3, ch. 1: Coatlicue, our mother, was sweeping at Coatepec; a ball of feathers fell before her; she took it and placed it at her waist and was found with child; her sons said: 'Who has done this? She has dishonored us.' Not verbatim.",
+          "note": "Condensed paraphrase of Florentine Codex Book 3, ch. 1; not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Condensed paraphrase of Florentine Codex Book 3, ch. 1 (ending): Just as Coyolxauhqui reached the summit, Huitzilopochtli was born, adorned with his shield, darts, and the blue serpent-sandal; he seized the turquoise serpent and struck his sister's head from her, and it fell below the mountain; he pursued and routed the four hundred, who became the stars. Not verbatim.",
+          "note": "Condensed paraphrase of Florentine Codex Book 3, ch. 1 (ending); not verbatim."
+        }
+      ],
+      "language": "Nahuatl (Florentine Codex parallel Nahuatl-Spanish)",
+      "canonical_translation": "A. J. O. Anderson and C. E. Dibble, Florentine Codex, General History of the Things of New Spain, Book 3, Santa Fe 1957 (copyright)",
+      "narrative": {
+        "en": "BEGINNING: THE CONCEPTION. The goddess Coatlicue ('Serpent Skirt'), mother of the gods, sweeps the temple on Coatepec ('Serpent Mountain') near Tula; a ball of quetzal feathers (some versions: white feathers) descends before her; she tucks it into her waistband and is found pregnant. Her daughter Coyolxauhqui ('Painted with Bells'), mistress of the moon or of the dismembered, gathers the four hundred sons — the Centzon Huitznahua, the 'four hundred of the south' (stars of the southern sky) — and plots to kill their mother in shame: 'Who has done this? She has dishonored us!' Coatlicue hears them coming and trembles; the child in her womb speaks: 'Do not fear, mother; I know what I must do.'\n\nMIDDLE: THE BIRTH IN ARMS. A messenger (Quauitlicac) runs ahead warning the besieged goddess; Coyolxauhqui leads the four hundred up the mountain, armed in ranks. At the moment of crisis, Huitzilopochtli ('Hummingbird of the South') is born — full-grown, armed with his shield (teueuelli), darts (tlacalhuaztli? tin? the atlatl darts), and the blue serpent-sandal (xiuhcoatl, the fire-serpent), painted with his war-paints (tlael? 'the refuse-smeared one' — tlaelquani, eater of filth, his ritual epithet). He seizes the xiuhcoatl and strikes Coyolxauhqui, cutting her head from her body; the head rolls down Coatepec and lands at their mother's feet. Huitzilopochtli chases the four hundred down the mountain slopes, routing them into the sky; those who die at his hand become the stars, and their scattered limbs were carved on the stone disk later found at the Templo Mayor.\n\nEND: THE TEMPLE AND THE RITUAL. The victory founds the sanctuary of Coatepec, and Huitzilopochtli takes the name Tetzahuitl Huitzilopochtli ('the terrifying one') — 'the people built the temple for him'; the goddesses who remained (Coyolxauhqui's sisters) mourn, and the ritual calendar builds on the battle: the festival of Panquetzaliztli raised banners to Huitzilopochtli; the Templo Mayor of Tenochtitlan reproduced Coatepec — Huitzilopochtli's temple on the south side, with the Coyolxauhqui disk at the stair's foot where sacrificed captives 'fell' like the moon-goddess; the serpent head at the temple's base marked the mountain. In 1978, excavations beneath Mexico City recovered the great Coyolxauhqui disk — the myth verified in stone.\n\nFUNCTIONS. The narrative is the charter of Aztec warfare and sacrifice: the sun/star battle mapped the sky (southern stars routed daily by the rising sun — in some tellings Huitzilopochtli as solar god), the sacrificial victim's fall down the temple stair re-enacted Coyolxauhqui's fall, and the Templo Mayor's twin shrines (rain/Tlaloc and war/Huitzilopochtli) reproduced the mythic mountain in urban stone. The 'four hundred' became the classifier of military units (the Centzon), and the hummingbird-god the patron of migration — the god who led the Mexica from Aztlan to Tenochtitlan.",
+        "zh": "母神科阿特利圭於圖拉附近蛇山掃殿，羽球自天而降，納於腰間而孕。女科約爾沙赫基聚南方四百子（南天星神）謀弒母：『誰人所為？辱及吾族！』腹中子聞聲曰：『母勿懼，我知所為。』信使夸維特利卡克先行報信；科約爾沙赫基率四百眾執械上山。危急之際，威齊洛波奇特利（『南方之蜂鳥』）誕生——全身戰妝，持盾、飛鏢與藍蛇靴（修修科阿特爾火蛇）；執蛇擊其姊，斷其首，首滾落山下至母足之前；遂驅四百眾下坡，四散者化為群星。山頂遂立神殿，尊號『可畏者』。特諾奇蒂特蘭大神廟即蛇山之復刻：南殿奉戰神，階下置科約爾沙赫基石盤，犧牲者自階上滾落如月神之墜；1978 年墨西哥城地下發掘得此石盤。功能：戰爭與犧牲之憲章、日月星之天象釋義、大神廟雙殿（雨神與戰神）之山形復刻、以及四百之軍制分類。"
+      },
+      "functions": [
+        "Charter of Aztec warfare and sacrifice: the victim's fall re-enacts Coyolxauhqui's",
+        "Solar theology: the rising sun routing the four hundred southern stars",
+        "Urban replication of myth: Templo Mayor as Coatepec, Coyolxauhqui disk at the stair",
+        "Migration cult: Huitzilopochtli as guide of the Mexica from Aztlan"
+      ],
+      "variants": [
+        {
+          "name": "Florentine Codex (Sahagun) version",
+          "text_tradition": "Book 3, chs. 1-2 (1575-77; Nahuatl-Spanish parallel)",
+          "summary": "The fullest telling, collected from Nahua elders of Tepepolco and Tlatelolco; supplies the feather-ball conception, the armed birth, the beheading, and the temple foundation.",
+          "cross_ref": "aztec-coatepec-huitzilopochtli"
+        },
+        {
+          "name": "Codex Chimalpopoca / Anales de Cuauhtitlan version",
+          "text_tradition": "16th-c. Nahuatl annals (Bierhorst 1992)",
+          "summary": "Embeds the birth in the migration sequence from Aztlan and adds the four hundred's ‘birthing' via sacrificial flaying motifs — the annalistic, historically-located telling.",
+          "cross_ref": "aztec-coatepec-huitzilopochtli"
+        },
+        {
+          "name": "Durán's colonial chronicle",
+          "text_tradition": "Diego Duran, Book of the Gods and Rites (1570s), trans. Doris Heyden (copyright)",
+          "summary": "Supplies the ritual calendar detail (Panquetzaliztli) and the temple-stair reenactment as eyewitnessed practice — the myth as liturgy.",
+          "cross_ref": "none"
+        },
+        {
+          "name": "Archaeological variant (Templo Mayor excavations)",
+          "text_tradition": "Coyolxauhqui monolith found 1978; Templo Mayor Project (Matos Moctezuma)",
+          "summary": "The excavated disk (3.25 m diameter) at the stair's foot and the serpent heads at the temple base verify the narrative's spatial program — a variant documented in stone rather than text.",
+          "cross_ref": "aztec-coatepec-huitzilopochtli"
+        }
+      ],
+      "primary_sources": [
+        {
+          "work": "Florentine Codex, Book 3 (The Origin of the Gods)",
+          "citation": "MS: Biblioteca Medicea Laurenziana, Mediceo Palatino 218-220 (1575-77). Translation: A. J. O. Anderson and C. E. Dibble, Santa Fe 1957, Book 3, chs. 1-2 (copyright).",
+          "language": "Nahuatl"
+        }
+      ],
+      "secondary_sources": [
+        {
+          "work": "Eduardo Matos Moctezuma, The Great Temple of the Aztecs",
+          "citation": "Matos Moctezuma 1988, London: Thames & Hudson — the excavated Coyolxauhqui disk and the temple as mythic mountain."
+        },
+        {
+          "work": "Davíd Carrasco, City of Sacrifice",
+          "citation": "Carrasco 1999, Boston: Beacon Press — the Coatepec narrative as urban ritual program."
+        }
+      ],
+      "source_urls": [
+        {
+          "url": "https://www.wdl.org/en/item/10096/",
+          "description": "World Digital Library — Florentine Codex facsimile (Laurenziana MS)",
+          "accessed": "2026-11-01"
+        }
+      ],
+      "sensitivity_flag": "colonial_era_collection_caution",
+      "sensitivity_guidance": "Key sources are colonial-era codices (Sahagun; Duran) with missionary framing; living Nahua communities hold this heritage. Prefer the Florentine Codex's Nahuatl side and contemporary Nahua scholarship (e.g. INAH's Templo Mayor publications); avoid sensationalizing sacrifice.",
+      "provenance": {
+        "record_status": "complete",
+        "compiled": "2026-11-01",
+        "compiled_by": "DHG508 fieldwork compilation",
+        "review_status": "draft - pending human review"
+      }
+    }
+  ]
+}

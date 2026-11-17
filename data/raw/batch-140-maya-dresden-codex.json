@@ -1,0 +1,915 @@
+{
+  "texts": [
+    {
+      "id": "maya-dresden-p74-flood",
+      "title": {
+        "en": "The Flood Page: The Goddess of the Cloud-Burst",
+        "zh": "洪水頁：雲爆女神"
+      },
+      "tradition": "maya",
+      "category": "myth",
+      "region": {
+        "en": "Dresden Codex (Yucatec tradition), symbolic pin at Uxmal, Yucatan",
+        "zh": "德累斯頓抄本（猶加敦傳統），以墨西哥猶加敦烏斯馬爾為象徵定位"
+      },
+      "lat": 20.36,
+      "lon": -89.77,
+      "period": "Codex drawn c. 1200-1250 (pre-conquest copy of older tradition); Forstemann facsimile 1880",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Dresden Codex, p. 74, Forstemann facsimile (1880); commentary in Schellhas, Representation of Deities of the Maya Manuscripts, trans. Parker & Rau, 1904",
+        "url": "https://archive.org/details/thedresdencodex"
+      },
+      "license": "Public domain (Forstemann facsimile 1880; Schellhas 1904 BAE translation)",
+      "summary": {
+        "en": "Dresden page 74: the aged water-goddess — crowned with the knotted serpent and wearing the cross-bones of the death-god — pours water from an overturned jar, while below stretches the great world-serpent and the blackened sun. Schellhas reads her as the personification of water in its quality of destroyer: the goddess of floods and cloud-bursts, the end of a world.",
+        "zh": "德累斯頓抄本第74頁：頭戴蛇結、身佩死神交叉骨的老水神，自傾覆之罐倒出大水；其下橫陳巨大世界之蛇，太陽黝黑。謝爾哈斯讀之為「以毀滅者形象現身的水」——洪水與雲爆之女神，即一個世界的終結。"
+      },
+      "motifs": [
+        "flood",
+        "world-renewal",
+        "world-serpent"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Published codex facsimile and public-domain commentary; paraphrase of scholarly description only."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The aged goddess appears repeatedly with claws of feet of the jaguar; she wears on her head a knotted serpent and with her hands pours water from a vessel. Evidently we have here a personification of water in its quality of destroyer, a goddess of floods and cloud-bursts, which, as we know, play an important part in Central America.",
+          "note": "Condensed from Schellhas, Representation of Deities of the Maya Manuscripts (1904), on goddess I; not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "In accordance with this character, on Dresden page 74, where something resembling a flood is represented, she wears the cross-bones of the death-god. In the Madrid manuscript the same goddess distinguished by symbols of flood and water appears; in both she is invariably marked by the serpent on her head, the symbol of the water flowing along and forming waves — and with her come the signs of the evil days.",
+          "note": "Condensed from Schellhas (1904), on goddess I and Dresden 74; not verbatim."
+        }
+      ],
+      "persons": [
+        "ixchel",
+        "chac"
+      ],
+      "language": "Maya hieroglyphic (Dresden Codex)",
+      "canonical_translation": "Forstemann facsimile (1880); Schellhas commentary, trans. Parker & Rau (1904)",
+      "narrative": {
+        "en": "Page 74 of the Dresden Codex is the Maya 'flood page' — a picture with no Long Count dates, unlike almost everything else in the book, set apart as a mythic scene of the ending of a world. In the upper register the aged water-goddess (Schellhas's Goddess I, generally identified with Ix Chel) turns an overturned jar and pours a stream of water out upon the world; she wears on her head the knotted serpent — the symbol of flowing, wave-forming water — and on her body the cross-bones of the death-god, marking the pouring as destruction rather than irrigation. The stream that falls from her jar is black, and the sun on the page is blackened: the sky's light is going out. Below stretches the great serpent frame of the sky, the double-headed world-serpent on which the heavens rest, and along its body the rain-gods (the Chacs with their lightning axes) and the uprooted trees and birds of the doomed world.\n\nThe page belongs to the cluster of world-destruction by water that runs through Maya narrative from the Popol Wuj's black-rain flood that ends the wooden people, through the Chilam Balam's 'sudden rush of water when the sky fell', to the colonial-era prophecies of a final deluge. In the codex it is likely the mythic template behind the katun-ending and New Year rites: the world is periodically drowned and re-founded, and the poured jar of the goddess is the picture of the boundary between a finished count and a new one.\n\nIts comparative weight in the Motif Atlas is high: the Maya flood belongs with the Sumerian Utanapishtim flood, Deucalion, Noah, Manu, and Bergelmir — but with a distinctive calendrical theology. The Maya flood is not punishment for a single sin; it is the end of a count, a period that has run its course. Ritual function: at the year-turning, the pouring of water (from jars, from the rain gods, from the cenote) re-enacts both the destruction and the renewal; the flood page is the template of that double act.\n\nIn the corpus of world floods the Dresden page stands out for its pictorial economy: no names, no dates, no words of dialogue - only the act. The goddess pours; the sun goes black; the serpent frame holds; the trees come down. This economy has made the page a touchstone for every discussion of Maya eschatology, from Forstemann onward, and its imagery is close enough to the descriptions of the Chilam Balam and the Popol Wuj floods that the three traditions are usually read together as one theology of periodic world-ending. For the Motif Atlas the page is the Maya anchor of the flood cluster, cross-referenced to the Mesopotamian, Hebrew, Hindu, and Norse deluge records, and to the Maya wooden-people flood whose black rain it mirrors."
+      },
+      "functions": [
+        "Picture-template of world destruction by water at the end of a count",
+        "Goddess I (Ix Chel) as destroyer: water with the death-god's cross-bones",
+        "Anchors the flood cluster in the Maya codical tradition"
+      ],
+      "variants": [
+        {
+          "name": "Popol Wuj: the black-rain flood",
+          "text_tradition": "Popol Vuh (Brasseur 1861)",
+          "summary": "The highland flood that destroys the wooden people — a resinous black rain day and night, with the implements in revolt.",
+          "cross_ref": "maya-wooden-people"
+        },
+        {
+          "name": "Chumayel: sky falls and water rushes in",
+          "text_tradition": "Book of Chilam Balam of Chumayel (Roys 1933)",
+          "summary": "The seizure of Oxlahun-ti-ku's insignia brings the sky down and a sudden rush of water.",
+          "cross_ref": "maya-chumayel-creation-world"
+        }
+      ],
+      "primary_sources": [
+        {
+          "work": "Dresden Codex, p. 74",
+          "citation": "Forstemann facsimile, Leipzig 1880",
+          "language": "Maya hieroglyphic"
+        }
+      ],
+      "secondary_sources": [
+        {
+          "work": "Paul Schellhas, Representation of Deities of the Maya Manuscripts",
+          "citation": "Schellhas, 1904, Washington: Bureau of American Ethnology (Annual Report 16)"
+        },
+        {
+          "work": "David Stuart, The Order of Days",
+          "citation": "Stuart, 2011, New York: Harper"
+        }
+      ],
+      "source_urls": [
+        {
+          "url": "https://archive.org/details/thedresdencodex",
+          "description": "Dresden Codex facsimile and studies",
+          "accessed": "2026-11-14"
+        },
+        {
+          "url": "https://archive.org/details/representationof00sche",
+          "description": "Schellhas 1904 English edition",
+          "accessed": "2026-11-14"
+        }
+      ],
+      "sensitivity_flag": "none",
+      "provenance": {
+        "record_status": "complete",
+        "compiled": "2026-11-14",
+        "compiled_by": "DHG508 fieldwork compilation",
+        "review_status": "draft - pending human review"
+      }
+    },
+    {
+      "id": "maya-dresden-venus-table",
+      "title": {
+        "en": "The Venus Table: The Morning Star's Spears",
+        "zh": "金星表：晨星之矛"
+      },
+      "tradition": "maya",
+      "category": "myth",
+      "region": {
+        "en": "Dresden Codex (Yucatec tradition), symbolic pin at Uxmal, Yucatan",
+        "zh": "德累斯頓抄本（猶加敦傳統），以墨西哥猶加敦烏斯馬爾為象徵定位"
+      },
+      "lat": 20.36,
+      "lon": -89.77,
+      "period": "Codex drawn c. 1200-1250; Forstemann facsimile 1880",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Dresden Codex, pp. 46-50, Forstemann facsimile (1880); commentary in Schellhas (1904)",
+        "url": "https://archive.org/details/thedresdencodex"
+      },
+      "license": "Public domain (Forstemann 1880; Schellhas 1904 BAE translation)",
+      "summary": {
+        "en": "The Venus table counts 584-day years: five pages in which the planet's heliacal rising is drawn as a god hurling a spear — the star's rays weaponized against victims below. Schellhas computes the grand period 1,366,560 days, thirteen Venus cycles of 584, and finds the same number again at Chichen Itza — the calendar war of the Morning Star.",
+        "zh": "金星表以584日為一年：五頁之中，行星的晨曦初升被繪為投擲長矛的神明——星光化作武器，射向下方的犧牲者。謝爾哈斯計得總數1,366,560日，即13個金星年，並發現同數出現於奇琴伊察——晨星之曆戰。"
+      },
+      "motifs": [
+        "sun-capture",
+        "world-serpent",
+        "prophetic-vision"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Published codex facsimile and public-domain commentary; paraphrase only."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The Venus table of the Dresden Codex, pages 46-50, counts the planet in Venus years of 584 days: its heliacal rising as the Morning Star, its greatest brilliancy, its disappearance and return. In each of the five pages the rising star is pictured as a god of war hurling a spear downward — the star's light drawn as a weapon, and its victims below.",
+          "note": "Condensed from Schellhas (1904) commentary and Forstemann's analysis of the Venus table; not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "The grand period of the table is 1,366,560 days, that is, precisely 416 solar years of 365 days each, or 260 Venus years of 584 days each — the product of the Tonalamatl multiplied by the Venus years. Seler finds this same period on a relief of Chichen Itza: the astronomy of the codex and the architecture of the city carry the same count.",
+          "note": "Condensed from Schellhas (1904), on the Venus table numbers; not verbatim."
+        }
+      ],
+      "persons": [
+        "kukulkan",
+        "chac"
+      ]
+    },
+    {
+      "id": "maya-dresden-p60-eclipse",
+      "title": {
+        "en": "Sun and Moon Combat on the Eclipse Page",
+        "zh": "日月相搏：蝕之頁"
+      },
+      "tradition": "maya",
+      "category": "myth",
+      "region": {
+        "en": "Dresden Codex (Yucatec tradition), symbolic pin at Uxmal, Yucatan",
+        "zh": "德累斯頓抄本（猶加敦傳統），以墨西哥猶加敦烏斯馬爾為象徵定位"
+      },
+      "lat": 20.36,
+      "lon": -89.77,
+      "period": "Codex drawn c. 1200-1250; Forstemann facsimile 1880",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Dresden Codex, pp. 59-60, Forstemann facsimile (1880); commentary in Schellhas (1904)",
+        "url": "https://archive.org/details/thedresdencodex"
+      },
+      "license": "Public domain (Forstemann 1880; Schellhas 1904 BAE translation)",
+      "summary": {
+        "en": "On Dresden page 60 sun and moon stand on a platform in combat — the moon the assailant, the sun making only a proud defensive gesture — and the animal beneath them embodies the eclipses to which they at times succumb. Venus triumphs over weak Mercury; Jupiter over bound Saturn, whose slowness of motion is his chains.",
+        "zh": "德累斯頓第60頁：日與月立於臺上相搏——月亮為進攻者，太陽僅作傲然自衛之勢——其下之獸即日月時或屈服的蝕之化身。金星勝過軟弱的墨丘利；木星勝過戴鐐的土星，其緩行即其囚禁。"
+      },
+      "motifs": [
+        "sun-capture",
+        "world-renewal"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Published codex facsimile and public-domain commentary; paraphrase only."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The sun and moon stand on the platform in the upper picture; their combat is equivalent to the eclipses to which they at times succumb. The moon is the assailant and the sun makes only a proud defensive gesture. The animal under the two persons is the embodiment of the eclipses, which the Aztecs interpreted as the act of being devoured by the jaguar.",
+          "note": "Condensed from Schellhas (1904), on Dresden page 60; not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "At the left, bottom, the powerful Venus triumphs over the weak Mercury; the two planets are real chronometers, by reason of the regular alternation of their appearance as morning and evening stars, and each is accompanied by a serpent, the usual symbol of time. On the right, Jupiter as the stronger has vanquished Saturn, whose bound arms symbolize his slowness of motion and his confinement to the same region of the sky.",
+          "note": "Condensed from Schellhas (1904), on Dresden page 60; not verbatim."
+        }
+      ],
+      "persons": [
+        "ixchel",
+        "chac"
+      ]
+    },
+    {
+      "id": "maya-dresden-p3-sacrifice",
+      "title": {
+        "en": "The Sacrificial Scene of Dresden 3",
+        "zh": "德累斯頓第3頁的獻祭圖"
+      },
+      "tradition": "maya",
+      "category": "myth",
+      "region": {
+        "en": "Dresden Codex (Yucatec tradition), symbolic pin at Uxmal, Yucatan",
+        "zh": "德累斯頓抄本（猶加敦傳統），以墨西哥猶加敦烏斯馬爾為象徵定位"
+      },
+      "lat": 20.36,
+      "lon": -89.77,
+      "period": "Codex drawn c. 1200-1250; Forstemann facsimile 1880",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Dresden Codex, p. 3, Forstemann facsimile (1880); commentary in Schellhas (1904)",
+        "url": "https://archive.org/details/thedresdencodex"
+      },
+      "license": "Public domain (Forstemann 1880; Schellhas 1904 BAE translation)",
+      "summary": {
+        "en": "On the upper half of page 3 a woman lies bound hand and foot on the sacrificial stone, the incision above the stomach already made, her eyes closed. Behind her rises the tree of life with a bird in its branches holding an end of the ribbon issuing from the victim's eyes; four gods surround the scene — the storm-god K above, the maize-god E with a dish of fruit, the serpent-god H, and the rain deity at the destroyed upper left.",
+        "zh": "第3頁上半：一名女子手足被縛，臥於祭石之上，胃上方切口已開，雙目緊閉。其後立生命之樹，枝上有鳥，銜著自犧牲者眼中抽出之物的一端；四神環繞——上方為風暴之神K，左下為持果盤的玉米神E，右下為蛇神H，左上之雨神像已殘。"
+      },
+      "motifs": [
+        "taboo-transgression",
+        "sacred-kingship",
+        "world-renewal",
+        "world-tree",
+        "tree-of-life"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Published codex facsimile and public-domain commentary; paraphrase only."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "We come now to the sacrificial scene proper, which practically fills the upper half of the page. The victim, a woman, lies bound hand and foot on the sacrificial stone, just as in Cortesianus 41-42; the incision above the stomach is already made and the eyes are closed. Behind her rises the tree of life with a bird (vulture?) sitting in its branches, which holds in its bill one end of an object resembling a ribbon issuing from the eyes of the victim.",
+          "note": "Condensed from Schellhas (1904), commentary on Dresden page 3; not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "This picture is surrounded by four gods. At the right above is K, the storm-god; the figure at the left above is almost entirely destroyed — a rain deity, so that these two gods signify the productive season. The two gods below may refer to the blessing upon the harvest and chase resulting from the season and the sacrifice: at the left below, the maize deity E holding a dish of fruit; at the right below sits the serpent deity H, and in front of him an animal with the noose still around its neck.",
+          "note": "Condensed from Schellhas (1904), commentary on Dresden page 3; not verbatim."
+        }
+      ],
+      "persons": [
+        "chac",
+        "ixchel",
+        "kukulkan"
+      ]
+    },
+    {
+      "id": "maya-schellhas-death-god",
+      "title": {
+        "en": "God A: The Death-God with Skeleton Face and Owl",
+        "zh": "神A：骷髏面與貓頭鷹的死神"
+      },
+      "tradition": "maya",
+      "category": "myth",
+      "region": {
+        "en": "Dresden Codex (Yucatec tradition), symbolic pin at Uxmal, Yucatan",
+        "zh": "德累斯頓抄本（猶加敦傳統），以墨西哥猶加敦烏斯馬爾為象徵定位"
+      },
+      "lat": 20.36,
+      "lon": -89.77,
+      "period": "Codex drawn c. 1200-1250; Schellhas 1904",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Schellhas, Representation of Deities of the Maya Manuscripts, trans. Parker & Rau, 1904",
+        "url": "https://archive.org/details/representationof00sche"
+      },
+      "license": "Public domain (Schellhas 1904 BAE translation)",
+      "summary": {
+        "en": "The death-god is a figure with exposed bony spine, truncated nose, and grinning teeth — a walking skull. He wears the stiff feather collar, the globular bells on hands and feet, and carries the owl as his animal; his hieroglyph is the head of a corpse with closed eyes beside a skull, and his sign is the day Cimi, death.",
+        "zh": "死神之形：裸露的骨脊椎、殘鼻與咧齒——行走的骷髏。佩硬羽領，手足綴鈴鐺，以貓頭鷹為其獸象；其神符為閉目屍首與骷髏之頭，其日名即西米（死亡）。"
+      },
+      "motifs": [
+        "taboo-transgression",
+        "transformation"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Published public-domain commentary; paraphrase only."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "God A is represented as a figure with an exposed bony spine, truncated nose and grinning teeth. It is plainly to be seen that the head of this god represents a skull and that the spine is that of a skeleton. The pictures of the death-god are so characteristic in the Maya manuscripts that the deity is always easily recognized.",
+          "note": "Condensed from Schellhas (1904), on God A; not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "A distinguishing ornament of the death-god consists of globular bells or rattles which he wears on his hands and feet, on his collar and as a head ornament. Among the symbols of the death-god a cross of two bones should be mentioned, which is also found in the Mexican manuscripts; it occurs as a death-sign and as the sign for the day Cimi, death.",
+          "note": "Condensed from Schellhas (1904), on God A; not verbatim."
+        }
+      ],
+      "persons": [
+        "camazotz"
+      ]
+    },
+    {
+      "id": "maya-schellhas-chac-rain",
+      "title": {
+        "en": "God B: The God with the Large Nose and Lolling Tongue",
+        "zh": "神B：巨鼻垂舌之神"
+      },
+      "tradition": "maya",
+      "category": "myth",
+      "region": {
+        "en": "Dresden Codex (Yucatec tradition), symbolic pin at Uxmal, Yucatan",
+        "zh": "德累斯頓抄本（猶加敦傳統），以墨西哥猶加敦烏斯馬爾為象徵定位"
+      },
+      "lat": 20.36,
+      "lon": -89.77,
+      "period": "Codex drawn c. 1200-1250; Schellhas 1904",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Schellhas, Representation of Deities of the Maya Manuscripts, trans. Parker & Rau, 1904",
+        "url": "https://archive.org/details/representationof00sche"
+      },
+      "license": "Public domain (Schellhas 1904 BAE translation)",
+      "summary": {
+        "en": "The most frequently represented deity of the manuscripts has a long proboscis-like pendent nose and a tongue or fangs hanging out of the mouth, with the knotted-bow head ornament. God B is evidently one of the most important of the Maya pantheon — a universal deity to whom the most varied elements, natural phenomena and activities are subject: the rain-god Chac.",
+        "zh": "抄本中最常出現的神祇：長鼻如象、舌齒垂於口外，頭飾如結環。神B顯然是馬雅萬神殿最重要者之一——無所不統的神，自然現象與諸般活動皆受其轄：即雨神查克。"
+      },
+      "motifs": [
+        "storm-thunder",
+        "theophany"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Published public-domain commentary; paraphrase only."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The deity represented most frequently in all the manuscripts is a figure with a long, proboscis-like, pendent nose and a tongue (or teeth, fangs) hanging out in front and at the sides of the mouth, also with a characteristic head ornament resembling a knotted bow and with a peculiar rim to the eye. God B is evidently one of the most important of the Maya pantheon.",
+          "note": "Condensed from Schellhas (1904), on God B; not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "He must be a universal deity, to whom the most varied elements, natural phenomena and activities are subject. He is represented with different attributes and symbols of power, with torches, with the serpent, and in the year-bearer pages of the Dresden Codex as the god who opens the sky in the four directions with the lightning axe — the Chac of the colonial texts.",
+          "note": "Condensed from Schellhas (1904), on God B, and Thompson's identification with Chac; not verbatim."
+        }
+      ],
+      "persons": [
+        "chac"
+      ]
+    },
+    {
+      "id": "maya-schellhas-moon-night-god",
+      "title": {
+        "en": "God D: The Moon- and Night-God",
+        "zh": "神D：月與夜之神"
+      },
+      "tradition": "maya",
+      "category": "myth",
+      "region": {
+        "en": "Dresden Codex (Yucatec tradition), symbolic pin at Uxmal, Yucatan",
+        "zh": "德累斯頓抄本（猶加敦傳統），以墨西哥猶加敦烏斯馬爾為象徵定位"
+      },
+      "lat": 20.36,
+      "lon": -89.77,
+      "period": "Codex drawn c. 1200-1250; Schellhas 1904",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Schellhas, Representation of Deities of the Maya Manuscripts, trans. Parker & Rau, 1904",
+        "url": "https://archive.org/details/representationof00sche"
+      },
+      "license": "Public domain (Schellhas 1904 BAE translation)",
+      "summary": {
+        "en": "An old man with aged face and sunken toothless mouth, distinguished by the Akbal (darkness, night) sign in his head ornament and surrounded by dots as an indication of the starry sky. His second name-sign consists of two sacrificial knives and the sign of the day Ahau — king. The moon glyph is his head in cursive form, doubled as the number 20.",
+        "zh": "一位面容衰老、口無牙的老者，頭飾中含阿克巴爾（黑暗、夜）之符，四圍星點以示星空。其第二神符由兩把祭刀與阿豪（王）日符組成。月之符即其頭的簡筆，兼作數字20。"
+      },
+      "motifs": [
+        "ascension",
+        "oracle-divination"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Published public-domain commentary; paraphrase only."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "This is a deity who is pictured in the form of an old man with an aged face and sunken, toothless mouth. He is frequently characterized by a long, pendent head ornament, in which is the sign Akbal, darkness, night, which also appears in his hieroglyph before the forehead of the deity, surrounded by dots as an indication of the starry sky.",
+          "note": "Condensed from Schellhas (1904), on God D; not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "The second sign consists of two sacrificial knives and the sign of the day Ahau, which is equivalent to 'king'. The head of this deity appears in reduced, cursive form as the sign of the moon; this character also has the significance of 20 as a number sign in the calendar — the association of moon, night, and the completed count.",
+          "note": "Condensed from Schellhas (1904), on God D; not verbatim."
+        }
+      ],
+      "persons": [
+        "itzamna",
+        "ixchel"
+      ]
+    },
+    {
+      "id": "maya-schellhas-maize-god",
+      "title": {
+        "en": "God E: The Maize-God",
+        "zh": "神E：玉米之神"
+      },
+      "tradition": "maya",
+      "category": "myth",
+      "region": {
+        "en": "Dresden Codex (Yucatec tradition), symbolic pin at Uxmal, Yucatan",
+        "zh": "德累斯頓抄本（猶加敦傳統），以墨西哥猶加敦烏斯馬爾為象徵定位"
+      },
+      "lat": 20.36,
+      "lon": -89.77,
+      "period": "Codex drawn c. 1200-1250; Schellhas 1904",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Schellhas, Representation of Deities of the Maya Manuscripts, trans. Parker & Rau, 1904",
+        "url": "https://archive.org/details/representationof00sche"
+      },
+      "license": "Public domain (Schellhas 1904 BAE translation)",
+      "summary": {
+        "en": "The maize-god bears on his head the Kan-sign and above it the ear of maize with leaves. His head was evolved out of the conventional drawing of the ear of maize: what was originally a head ornament finally passed into the form of the head itself, so that the god appears now as an ear of maize surrounded by leaves — the person of the corn itself.",
+        "zh": "玉米神頭戴坎符，其上為帶葉的玉米穗。其頭部由玉米穗的程式化描繪演化而來：原本的頭飾終於化為頭形本身，使神的面容即成被葉所繞的玉米穗——玉米本身即神身。"
+      },
+      "motifs": [
+        "clay-humans",
+        "transformation",
+        "world-renewal"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Published public-domain commentary; paraphrase only."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "This god bears on his head the Kan-sign and above it the ear of maize with leaves. The hieroglyph is definitely determined. The god is identical with the figures recurring with especial frequency in the Madrid manuscript, the heads of which are prolonged upward and curved backward in a peculiar manner.",
+          "note": "Condensed from Schellhas (1904), on God E; not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "This head was evolved out of the conventional drawing of the ear of maize: what was originally a head ornament finally passed into the form of the head itself, so that the latter appears now as an ear of maize surrounded by leaves. Compare the pictures of the maize plant in the Codex Troano with the head ornament of the god — the person of the corn become the corn itself.",
+          "note": "Condensed from Schellhas (1904), on God E; not verbatim."
+        }
+      ],
+      "persons": [
+        "balamquitze"
+      ]
+    },
+    {
+      "id": "maya-schellhas-sacrifice-war",
+      "title": {
+        "en": "God F: The God of War and Human Sacrifice",
+        "zh": "神F：戰爭與人祭之神"
+      },
+      "tradition": "maya",
+      "category": "myth",
+      "region": {
+        "en": "Dresden Codex (Yucatec tradition), symbolic pin at Uxmal, Yucatan",
+        "zh": "德累斯頓抄本（猶加敦傳統），以墨西哥猶加敦烏斯馬爾為象徵定位"
+      },
+      "lat": 20.36,
+      "lon": -89.77,
+      "period": "Codex drawn c. 1200-1250; Schellhas 1904",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Schellhas, Representation of Deities of the Maya Manuscripts, trans. Parker & Rau, 1904",
+        "url": "https://archive.org/details/representationof00sche"
+      },
+      "license": "Public domain (Schellhas 1904 BAE translation)",
+      "summary": {
+        "en": "A deity closely related to the death-god, resembling the Aztec Xipe, and without hesitation the god of human sacrifice — perhaps, more generally, of death by violence. His hieroglyph contains the number 11, and his distinguishing mark is a single black line running down the face near the eye.",
+        "zh": "一位與死神關係密切的神祇，形似阿茲特克的希佩，無疑是人祭之神——或更廣泛地，死於暴力之神。其神符含數字11；其面部近眼處一道黑線為其標記。"
+      },
+      "motifs": [
+        "taboo-transgression",
+        "sacred-kingship",
+        "human-sacrifice"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Published public-domain commentary; paraphrase only."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "This is a deity closely related to the death-god A, resembling the Aztec Xipe, and may, I think, without hesitation be regarded simply as the god of human sacrifice, perhaps even more generally as the god of death by violence. His hieroglyph contains the number 11.",
+          "note": "Condensed from Schellhas (1904), on God F; not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "The characteristic mark of god F is a single black line usually running perpendicularly down the face in the vicinity of the eye. These pictures of the maize-god E can always be unfailingly recognized by the peculiar shape of the head and should be distinguished from those representing F.",
+          "note": "Condensed from Schellhas (1904), on God F; not verbatim."
+        }
+      ],
+      "persons": [
+        "tohil"
+      ]
+    },
+    {
+      "id": "maya-schellhas-sun-god",
+      "title": {
+        "en": "God G: The Sun-God",
+        "zh": "神G：太陽之神"
+      },
+      "tradition": "maya",
+      "category": "myth",
+      "region": {
+        "en": "Dresden Codex (Yucatec tradition), symbolic pin at Uxmal, Yucatan",
+        "zh": "德累斯頓抄本（猶加敦傳統），以墨西哥猶加敦烏斯馬爾為象徵定位"
+      },
+      "lat": 20.36,
+      "lon": -89.77,
+      "period": "Codex drawn c. 1200-1250; Schellhas 1904",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Schellhas, Representation of Deities of the Maya Manuscripts, trans. Parker & Rau, 1904",
+        "url": "https://archive.org/details/representationof00sche"
+      },
+      "license": "Public domain (Schellhas 1904 BAE translation)",
+      "summary": {
+        "en": "God G's hieroglyph contains as its chief factor the sun-sign Kin, one of the signs with the Ben-ik prefix, doubtless denoting a month dedicated to the sun. It is surprising that a deity who from his nature must be considered very important is represented with such comparative infrequency.",
+        "zh": "神G的神符以太陽符「金」為主，屬帶貝-伊克前綴的符號之一，無疑表示獻給太陽的月份。令人訝異的是：這樣一位本性上必極重要的神，在抄本中出現得如此稀少。"
+      },
+      "motifs": [
+        "sun-capture",
+        "theophany"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Published public-domain commentary; paraphrase only."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "God G's hieroglyph contains as its chief factor the sun-sign Kin. It is one of the signs which has the Ben-ik prefix and doubtless denotes a month dedicated to the sun. There is no difference of opinion regarding the significance of this deity.",
+          "note": "Condensed from Schellhas (1904), on God G; not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "It is surprising that a deity who from his nature must be considered as very important is represented with such comparative infrequency. He occurs only a few times in the Dresden manuscript, and in the Codex Tro-Cortesianus — the sun in the codices is more often present as the day Kin than as a personal god.",
+          "note": "Condensed from Schellhas (1904), on God G; not verbatim."
+        }
+      ],
+      "persons": [
+        "itzamna"
+      ]
+    },
+    {
+      "id": "maya-schellhas-chicchan",
+      "title": {
+        "en": "God H: The Chicchan-God with the Serpent's Scale",
+        "zh": "神H：帶蛇鱗的奇坎神"
+      },
+      "tradition": "maya",
+      "category": "myth",
+      "region": {
+        "en": "Dresden Codex (Yucatec tradition), symbolic pin at Uxmal, Yucatan",
+        "zh": "德累斯頓抄本（猶加敦傳統），以墨西哥猶加敦烏斯馬爾為象徵定位"
+      },
+      "lat": 20.36,
+      "lon": -89.77,
+      "period": "Codex drawn c. 1200-1250; Schellhas 1904",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Schellhas, Representation of Deities of the Maya Manuscripts, trans. Parker & Rau, 1904",
+        "url": "https://archive.org/details/representationof00sche"
+      },
+      "license": "Public domain (Schellhas 1904 BAE translation)",
+      "summary": {
+        "en": "A god of frequent occurrence characterized by a skin-spot or a scale of a serpent on his temple, of the same shape as the hieroglyph of the day Chicchan (serpent). His representations differ so much that there are almost no other positive, unvarying characteristic marks to be specified.",
+        "zh": "一位常見的神，其太陽穴有蛇之鱗或皮斑，形如奇坎（蛇）日的神符。其形貌變化極大，幾乎無其他恆定的特徵可指認。"
+      },
+      "motifs": [
+        "world-serpent",
+        "transformation"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Published public-domain commentary; paraphrase only."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The figure of a deity of frequent occurrence in the Dresden manuscript is a god who is characterized by a skin-spot or a scale of a serpent on his temple of the same shape as the hieroglyph of the day Chicchan (serpent). The representations of the god himself differ very much, so that there are almost no other positive, unvarying characteristic marks to be specified.",
+          "note": "Condensed from Schellhas (1904), on God H; not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "The hieroglyph belonging to this deity likewise displays the Chicchan-sign as its distinguishing mark; several variants occur. The serpent of his temple-mark connects him with the great serpent of the sky band and the serpent deity who receives the catch in the sacrificial scenes.",
+          "note": "Condensed from Schellhas (1904), on God H; not verbatim."
+        }
+      ],
+      "persons": [
+        "kukulkan"
+      ]
+    },
+    {
+      "id": "maya-schellhas-water-goddess",
+      "title": {
+        "en": "Goddess I: The Water-Goddess with the Knotted Serpent",
+        "zh": "女神I：戴蛇結的水神"
+      },
+      "tradition": "maya",
+      "category": "myth",
+      "region": {
+        "en": "Dresden Codex (Yucatec tradition), symbolic pin at Uxmal, Yucatan",
+        "zh": "德累斯頓抄本（猶加敦傳統），以墨西哥猶加敦烏斯馬爾為象徵定位"
+      },
+      "lat": 20.36,
+      "lon": -89.77,
+      "period": "Codex drawn c. 1200-1250; Schellhas 1904",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Schellhas, Representation of Deities of the Maya Manuscripts, trans. Parker & Rau, 1904",
+        "url": "https://archive.org/details/representationof00sche"
+      },
+      "license": "Public domain (Schellhas 1904 BAE translation)",
+      "summary": {
+        "en": "The water-goddess is distinguished by tiger claws on her feet and by the knotted serpent on her head, the symbol of the water flowing along and forming waves. With her appear the oblong signs which Forstemann interprets as the sign of evil days — she is both the giver of the rain and the goddess of floods and cloud-bursts.",
+        "zh": "水神女神：足有虎爪，頭戴蛇結——即流淌成波之水的符號。與其相伴者有弗斯特曼讀為「凶日」符的長形符號——她既是賜雨者，亦是洪水與雲爆之神。"
+      },
+      "motifs": [
+        "flood",
+        "storm-thunder",
+        "transformation"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Published public-domain commentary; paraphrase only."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The goddess distinguished in the Madrid manuscript by symbols of flood and water is doubtless the same as goddess I of the Dresden manuscript; her unmistakable character of water-goddess in both manuscripts is in favor of this. In both manuscripts she is invariably distinguished by the serpent on her head, which, as we know, is a symbol of the water flowing along and forming waves.",
+          "note": "Condensed from Schellhas (1904), on Goddess I; not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "The well-known oblong signs, which Forstemann interprets as the sign for evil days, frequently occur with her. This would be appropriate for the goddess of floods — in the Dresden manuscript a few similar figures of women are found who, like goddess I, wear a knotted serpent on the head.",
+          "note": "Condensed from Schellhas (1904), on Goddess I; not verbatim."
+        }
+      ],
+      "persons": [
+        "ixchel"
+      ]
+    },
+    {
+      "id": "maya-schellhas-gods-lm",
+      "title": {
+        "en": "Gods L and M: The Old Black God and the Black God with Red Lips",
+        "zh": "神L與神M：老黑神與紅唇黑神"
+      },
+      "tradition": "maya",
+      "category": "myth",
+      "region": {
+        "en": "Dresden and Madrid Codices, symbolic pin at Uxmal, Yucatan",
+        "zh": "德累斯頓與馬德里抄本，以墨西哥猶加敦烏斯馬爾為象徵定位"
+      },
+      "lat": 20.36,
+      "lon": -89.77,
+      "period": "Codices drawn c. 1200-1250; Schellhas 1904",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Schellhas, Representation of Deities of the Maya Manuscripts, trans. Parker & Rau, 1904",
+        "url": "https://archive.org/details/representationof00sche"
+      },
+      "license": "Public domain (Schellhas 1904 BAE translation)",
+      "summary": {
+        "en": "God L is the old black god with the sunken toothless mouth and the black face, appearing entirely black in Dresden 7a; he does not occur in the Madrid or Paris manuscripts. God M, the black god with the red lips, is represented with special frequency in the Madrid manuscript, which treats of this deity with great fullness of detail — the merchant's god, Ek Chuah.",
+        "zh": "神L為老黑神，口無牙、面黑，在德累斯頓7a全黑示人；不見於馬德里與巴黎抄本。神M為紅唇黑神，在馬德里抄本中出現尤多、描繪極詳——即商人之神埃克·丘瓦。"
+      },
+      "motifs": [
+        "culture-hero",
+        "theophany"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Published public-domain commentary; paraphrase only."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "God L's features are those of an old man with sunken, toothless mouth. His hieroglyph is characterized by the black face. God L, who is also black, must not be confounded with M whose description follows. He is represented in Dresden 14b and 14c and 46b; he appears entirely black in Dr. 7a. This deity does not occur in the Madrid and Paris manuscripts.",
+          "note": "Condensed from Schellhas (1904), on Gods L and M; not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "God M is found in the Dresden manuscript only three times; on the other hand, god M appears with special frequency in the Madrid manuscript, which treats of this deity with great fullness of detail. While he is represented in the Dresden manuscript with his body striped, in the Madrid he is the black god with the red lips — the god of cacao traders and merchants, Ek Chuah of the later tradition.",
+          "note": "Condensed from Schellhas (1904), on Gods L and M; not verbatim."
+        }
+      ],
+      "persons": [
+        "kisin"
+      ]
+    },
+    {
+      "id": "maya-schellhas-year-end-god",
+      "title": {
+        "en": "God N: The God of the End of the Year",
+        "zh": "神N：歲末之神"
+      },
+      "tradition": "maya",
+      "category": "myth",
+      "region": {
+        "en": "Dresden Codex (Yucatec tradition), symbolic pin at Uxmal, Yucatan",
+        "zh": "德累斯頓抄本（猶加敦傳統），以墨西哥猶加敦烏斯馬爾為象徵定位"
+      },
+      "lat": 20.36,
+      "lon": -89.77,
+      "period": "Codex drawn c. 1200-1250; Schellhas 1904",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Schellhas, Representation of Deities of the Maya Manuscripts, trans. Parker & Rau, 1904",
+        "url": "https://archive.org/details/representationof00sche"
+      },
+      "license": "Public domain (Schellhas 1904 BAE translation)",
+      "summary": {
+        "en": "A deity with the features of an old man wearing a head ornament which contains the sign for the year of 360 days. His hieroglyph consists of the numeral 5 with the sign of the month Zac. Forstemann has recognized in god N the god of the five Uayeyab days, the unlucky intercalary days added at the end of the year — the god of the end of the year.",
+        "zh": "一位老者相貌的神，頭飾中含360日之年的符號。其神符由數字5與月份扎克之符組成。弗斯特曼認出神N即五個瓦耶亞布日——歲末所加的凶日——之神，即歲末之神。"
+      },
+      "motifs": [
+        "world-renewal",
+        "oracle-divination"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Published public-domain commentary; paraphrase only."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "We have here a deity with the features of an old man and wearing a peculiar head ornament, which contains the sign for the year of 360 days. The god's hieroglyph consists of the numeral 5 with the sign of the month Zac. Forstemann has recognized in god N the god of the five Uayeyab days, which were added as intercalary days at the end of the original year of 360 days, and were considered unlucky days.",
+          "note": "Condensed from Schellhas (1904), on God N; not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "N is, therefore, the god of the end of the year. He can be recognized in the Dresden manuscript in the passages of the year-bearer pages, where the old god presides over the five dangerous days before the new year is counted — the counterpart in picture of the rites that Landa records.",
+          "note": "Condensed from Schellhas (1904), on God N; not verbatim."
+        }
+      ],
+      "persons": [
+        "itzamna"
+      ]
+    },
+    {
+      "id": "maya-schellhas-frog-god",
+      "title": {
+        "en": "God P: The Frog-God Who Sows",
+        "zh": "神P：播種的蛙神"
+      },
+      "tradition": "maya",
+      "category": "myth",
+      "region": {
+        "en": "Madrid Codex, symbolic pin at Uxmal, Yucatan",
+        "zh": "馬德里抄本，以墨西哥猶加敦烏斯馬爾為象徵定位"
+      },
+      "lat": 20.36,
+      "lon": -89.77,
+      "period": "Codex drawn c. 1200-1250; Schellhas 1904",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Schellhas, Representation of Deities of the Maya Manuscripts, trans. Parker & Rau, 1904",
+        "url": "https://archive.org/details/representationof00sche"
+      },
+      "license": "Public domain (Schellhas 1904 BAE translation)",
+      "summary": {
+        "en": "We call him the frog-god because in Codex Troano 31 he is pictured with the club-shaped fingers of a frog. The blue background, his attribute twice in the same passage, points to a connection with water; and that the god has to do with agriculture may be deduced from the fact that he is pictured sowing seed and making furrows with the planting-stick.",
+        "zh": "所以稱蛙神，因在《特羅阿諾抄本》31頁，其手指呈蛙的棒狀。同頁兩次出現的藍色背景指向其與水的關係；而其播種、以播杖開溝的圖像，則表明此神與農耕有關。"
+      },
+      "motifs": [
+        "world-renewal",
+        "storm-thunder"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Published public-domain commentary; paraphrase only."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "We call him the frog-god because in the Codex Troano 31, he is pictured in the first and second lines with the club-shaped fingers of a frog, which occur only on this figure. The blue background, which is his attribute twice in the same passage, likewise points to a connection with water.",
+          "note": "Condensed from Schellhas (1904), on God P; not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "That the god also has something to do with agriculture may be deduced from the fact that he is pictured sowing seed and making furrows with the planting-stick. His head ornament is very characteristic and contains the sign for the year of 360 days; he therefore bears some unknown relation also to the end of the year.",
+          "note": "Condensed from Schellhas (1904), on God P; not verbatim."
+        }
+      ],
+      "persons": [
+        "chac"
+      ]
+    },
+    {
+      "id": "maya-schellhas-moan-bird",
+      "title": {
+        "en": "The Moan Bird, the Dog, and the Vulture: Mythological Animals",
+        "zh": "莫安鳥、犬與兀鷲：神話之獸"
+      },
+      "tradition": "maya",
+      "category": "myth",
+      "region": {
+        "en": "Dresden and Madrid Codices, symbolic pin at Uxmal, Yucatan",
+        "zh": "德累斯頓與馬德里抄本，以墨西哥猶加敦烏斯馬爾為象徵定位"
+      },
+      "lat": 20.36,
+      "lon": -89.77,
+      "period": "Codices drawn c. 1200-1250; Schellhas 1904",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Schellhas, Representation of Deities of the Maya Manuscripts, trans. Parker & Rau, 1904",
+        "url": "https://archive.org/details/representationof00sche"
+      },
+      "license": "Public domain (Schellhas 1904 BAE translation)",
+      "summary": {
+        "en": "Besides the gods, the codices keep a bestiary of mythic animals: the Moan bird that rests on a hand held beneath it in the sacrifice scenes; the serpent as the usual symbol of time accompanying the planets; the dog that carried the dead across the water; the vulture in the tree of life; the jaguar as devourer; the tortoise that carried the reassembled head.",
+        "zh": "除諸神外，抄本中還有一部神話獸譜：獻祭圖中歇於手持之上的莫安鳥；作為時間符號伴隨行星的蛇；載亡者渡水的犬；生命之樹上的兀鷲；吞噬者的美洲豹；以及承載復合之首的龜。"
+      },
+      "motifs": [
+        "transformation",
+        "descent-underworld",
+        "world-serpent",
+        "world-tree",
+        "tree-of-life"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Published public-domain commentary; paraphrase only."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "In addition to those discussed in this paper, there are a few animals in the manuscripts which probably also have a partial mythologic significance: the deer, while idealization with human bodies, with torches, hieroglyphic character on the head should be considered as an unmistakable sign of mythologic meaning. A mythologic significance also seems to belong to the bee which plays so prominent a part in the Madrid manuscript.",
+          "note": "Condensed from Schellhas (1904), on mythological animals; not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "The serpent appears in the manuscripts in connection with figures of gods as the usual symbol of time, accompanying the planets; the scorpion seems also to have an important mythologic significance, appearing with figures of gods. The Moan bird rests on a hand held beneath it in the sacrifice scenes; the vulture sits in the tree of life; the dog carries the dead across the water of the underworld; the tortoise carries the reassembled head of the ballplayer.",
+          "note": "Condensed from Schellhas (1904), on mythological animals; not verbatim."
+        }
+      ],
+      "persons": [
+        "camazotz",
+        "hunahpu"
+      ]
+    },
+    {
+      "id": "maya-brinton-kukulcan-ceremonies",
+      "title": {
+        "en": "The Ceremonies for Kukulcan in Dresden 65-69",
+        "zh": "德累斯頓65-69頁：庫庫爾坎之祭"
+      },
+      "tradition": "maya",
+      "category": "myth",
+      "region": {
+        "en": "Dresden Codex (Yucatec tradition), symbolic pin at Uxmal, Yucatan",
+        "zh": "德累斯頓抄本（猶加敦傳統），以墨西哥猶加敦烏斯馬爾為象徵定位"
+      },
+      "lat": 20.36,
+      "lon": -89.77,
+      "period": "Codex drawn c. 1200-1250; Brinton 1882",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Brinton, Aids to the Study of the Maya Codices (1882), on Dresden pp. 65-69; Forstemann facsimile 1880",
+        "url": "https://archive.org/details/aidstostudymaya00thomgoog"
+      },
+      "license": "Public domain (Brinton 1882)",
+      "summary": {
+        "en": "Through the lower division of pages 65 to 69 of the Dresden Codex runs a remarkably regular series of figures and written characters apparently devoted entirely to representations of incidents in the life of the culture-hero Kukulcan — the god with the snake-like tongue — or to the ceremonies to be performed in his honor.",
+        "zh": "德累斯頓抄本65至69頁下半部貫穿著一組異常規整的人物與文字系列，顯然專為描繪文化英雄庫庫爾坎——蛇舌之神——生平中的事蹟，或為在其名下舉行的祭典而設。"
+      },
+      "motifs": [
+        "culture-hero",
+        "sacred-kingship"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Published public-domain commentary; paraphrase only."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "A remarkably regular series of figures and written characters runs through the lower division of pages 65 to 69 of the Dresden Codex, apparently devoted entirely to representations of incidents in the life of the culture-hero Kukulcan, the deity mentioned on a subsequent page as the 'unknown god with the snake-like tongue', or to ceremonies to be performed in honor of this deity.",
+          "note": "Condensed from Brinton, Aids to the Study of the Maya Codices (1882); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Over each figure are three lines of written characters, in groups — one group of six compound characters over each figure of the series; there are thirteen glyphs of the left and thirteen of these groups of characters in the series. The third character of each group is the symbol of the deity and corresponds in the text with the figure of the god in the pictures.",
+          "note": "Condensed from Brinton (1882), on Dresden 65-69; not verbatim."
+        }
+      ],
+      "persons": [
+        "kukulkan"
+      ]
+    }
+  ]
+}

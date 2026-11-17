@@ -1,0 +1,354 @@
+{ "texts": [
+{
+  "id": "inca-creation-tiahuanaco-cycle",
+  "title": { "en": "The Making at Tiahuanaco: Creation, Fall and Second Making", "zh": "蒂亞瓦納科的創世:初造、墮落與再造" },
+  "tradition": "inca",
+  "category": "myth",
+  "region": { "en": "Tiahuanaco and Lake Titicaca, Collasuyu (symbolic pin)", "zh": "科利亞蘇尤蒂亞瓦納科與的的喀喀湖(象徵性標記)" },
+  "lat": -16.55, "lon": -68.68,
+  "period": "Compiled from testimonies sworn to Sarmiento de Gamboa, 1572; publ. Markham 1907",
+  "source": { "archive": "Project Gutenberg", "work": "Pedro Sarmiento de Gamboa, History of the Incas, chs. 6-7, trans. Sir Clements Markham, Hakluyt Society, 1907", "url": "https://www.gutenberg.org/ebooks/20218" },
+  "license": "Public domain (translation 1907)",
+  "summary": { "en": "The Inca creation cycle as sworn before Viceroy Toledo's court: Viracocha Pachayachachi made a dark world, painted giants on stone to test the scale of men, made men in his likeness who lived in darkness, gave them a precept they broke, and drowned the first world in the flood called unu pachacuti. Preserving three servants, he made the sun, moon and stars on the island of Titicaca - the moon first brighter, dimmed by a handful of the sun's ashes - and at Tiahuanaco sculptured all the nations on a great stone, sending his servants along the two roads calling the tribes out of lakes, fountains, caves and trees. The Creator himself walked the middle road, reached the equinoctial coast, and went over the water like foam.", "zh": "此為托萊多總督法庭上宣誓作證的印加創世循環:維拉科查·帕查亞查奇造出一個黑暗世界,先在石上繪出巨人以試人形之尺度,再照自己模樣造人,居於黑暗之中;賜一誡命,民違之,遂以「烏努-帕查庫提」洪水滅世。他留下三名僕從,在的的喀喀島造日月星辰——月本更亮,被太陽撒下的爐灰所黯——又在蒂亞瓦納科的巨石上雕出萬族之形,遣僕從循兩路呼喚各族從湖泉洞穴樹中走出。造物主自取中路而行,直至赤道海岸,踏海而去,身影如沫。" },
+  "motifs": ["creation-chaos", "flood", "clay-humans", "sibling-creators"],
+  "sensitivity": { "restricted": false, "note": "Colonial-era compilation commissioned to justify conquest; the creation cycle is read here as an archival record with source-critical caution." },
+  "passages": [
+    { "id": "1", "text": "The natives of this land affirm that in the beginning, and before this world was created, there was a being called Viracocha. He created a dark world without sun, moon or stars. And when he had created the world he formed a race of giants of disproportioned greatness, painted and sculptured, to see whether it would be well to make real men of that size. He then created men in his likeness as they are now; and they lived in darkness.", "note": "Condensed paraphrase of Sarmiento, History of the Incas, ch. 6 (Markham 1907); not verbatim." },
+    { "id": "2", "text": "Viracocha ordered these people that they should live without quarrelling, and that they should know and serve him. He gave them a certain precept which they were to observe on pain of being confounded if they should break it. But as there arose among them the vices of pride and covetousness, they transgressed the precept; and, falling under his indignation, some were turned into stones, others into other things, some were swallowed up by the earth, others by the sea, and over all there came a general flood which they call unu pachacuti, 'water that overturns the land.' They say that it rained 60 days and nights, that it drowned all created things, and that there alone remained some vestiges of those who were turned into stones, as a memorial of the event, in the edifices of Pucara.", "note": "Condensed paraphrase of Sarmiento, History of the Incas, ch. 6 (Markham 1907); not verbatim." },
+    { "id": "3", "text": "Viracocha Pachayachachi, when he destroyed that land, preserved three men, one of them named Taguapaca, that they might serve and help him in the creation of new people in the second age after the deluge. The flood being passed and the land dry, he went, with his servants, to a great lake in the Collao, in which there is an island called Titicaca; and presently ordered that the sun, moon, and stars should come forth and be set in the heavens to give light to the world, and it was so. They say that the moon was created brighter than the sun, which made the sun jealous: so the sun threw over the moon's face a handful of ashes, which gave it the shaded colour it now presents.", "note": "Condensed paraphrase of Sarmiento, History of the Incas, ch. 7 (Markham 1907); not verbatim." },
+    { "id": "4", "text": "He went to a place now called Tiahuanacu in the province of Colla-suyu, and in this place he sculptured and designed on a great piece of stone all the nations that he intended to create. He ordered his two servants to charge their memories with the names of all tribes, and to go by different roads, naming the tribes and ordering them all to go forth and people the country, saying with a loud voice: 'O you tribes and nations, hear and obey the order of Ticci Viracocha Pachayachachi, which commands you to go forth, and multiply and settle the land.' Viracocha himself did the same along the road between those taken by his two servants. At the sound of his voice every place obeyed, and people came forth, some from lakes, others from fountains, valleys, caves, trees, rocks and hills, spreading over the land and multiplying to form the nations which are to-day in Peru.", "note": "Condensed paraphrase of Sarmiento, History of the Incas, ch. 7 (Markham 1907); not verbatim." }
+  ],
+  "persons": ["viracocha"],
+  "language": "Spanish record of Quechua testimony",
+  "canonical_translation": "Sir Clements Markham, History of the Incas (Hakluyt Society, 1907)",
+  "narrative": { "en": "The Inca creation cycle survives in three near-complete tellings - Sarmiento de Gamboa's sworn compilations of 1572, Molina's fable collection of c. 1575, and Cieza de León's chapter on Ticiviracocha - and they agree on the architecture if not the details. Before this world there was a being called Viracocha, whom the titles hail as Pachayachachi, 'teacher of the world,' and Ticci Viracocha, 'the foundation.' His first creation was a world without light: no sun, moon or stars. In it he first painted and sculptured giants of disproportioned size on stone, as a trial of scale, then made men in his own likeness; and these men lived in darkness.\n\nThe first men were given a precept - the texts do not say what it was - and told to live without quarrelling and to know and serve their maker. Pride and covetousness broke the precept. Viracocha confounded and cursed them: some were turned into stones, others swallowed by earth or sea, and over all came a general flood, unu pachacuti, 'water that overturns the land,' raining for sixty days and nights until everything was drowned. The petrified remains, said the witnesses, stood at Pucara as a memorial: the edifices whose human-shaped stones later generations could not otherwise explain.\n\nFor the second making Viracocha kept three servants, one of whom, Taguapaca, disobeyed and was bound and launched on a reed boat into Lake Titicaca, blaspheming as he drifted away. Then the maker went to the island of Titicaca and ordered the sun, moon and stars to come forth. The texts differ on the order of brightness: Sarmiento says the moon was made brighter than the sun, until the jealous sun threw a handful of ashes over her face - which is why the moon has her shaded colour; Molina and Garcilaso put the darkness first and the light after. The luminaries were then fixed in their places, and Manco Capac and his siblings were sent underground to emerge at Paccari-tampu, the tavern of dawn.\n\nAt Tiahuanaco the maker sculptured on a great stone all the nations he intended to create - dresses, languages, songs, seeds - then dispatched his two surviving servants along the two roads of the Andes, the coastal heights and the eastern cordillera, while he himself walked the road between them. At the sound of his voice, people came forth from lakes, fountains, caves, trees and rocks, and spread over the land. The texts add the fallback legend: he first formed men too large, remade them of his own stature, and before their dispersal they spoke one language and built Tiahuanaco itself; afterwards their languages diverged, modelled on the cries of wild beasts, so that neighbours could no longer understand one another - an Andean Babel set at the gateway of the altiplano.\n\nThe cycle closes with the maker's journey: the fire from heaven at Cacha when men tried to kill him; the huaca he left at Urcos, later to receive the golden bench; the prophecy that impostors would come claiming to be Viracocha; and the departure over the sea, walking on the water like foam, which gave his people the name by which they - and later the Spaniards - were called. What the cycle accomplishes is a total history: a ruined first world that explains the megaliths, a judicial flood that explains moral evil, a re-creation that explains the diversity of peoples, and a departure that leaves the world awaiting its maker's messengers." },
+  "functions": [
+    "Explains the megalithic ruins of Tiahuanaco and Pucara as memorials of a first, fallen creation",
+    "Grounds the diversity of nations, languages and dress in a deliberate act of the Creator",
+    "Authorizes Inca kingship as descent from the era of light ordered by Viracocha at Titicaca",
+    "Provides the empire's Flood-and-renewal charter, paralleling deluge narratives across the world's traditions"
+  ],
+  "variants": [
+    {
+      "name": "Molina's Tiahuanaco version",
+      "text_tradition": "Molina of Cuzco, Fables and Rites (Markham 1873)",
+      "summary": "Molina narrates the deluge, the man and woman in the box, the clay nations made one by one at Tiahuanaco with painted dresses, languages and songs, and their emergence from caves, springs, hills and trees.",
+      "cross_ref": "inca-molina-deluge-box"
+    },
+    {
+      "name": "Cieza's Ticiviracocha chapter",
+      "text_tradition": "Cieza de León, Second Part, ch. 5 (Markham 1883)",
+      "summary": "Cieza's informants stress the long darkness, prayers for light, the sun coming forth from Titicaca, and the white man of great stature who made water flow from stones and walked into the waves as 'foam of the sea'.",
+      "cross_ref": "inca-white-man-of-great-stature"
+    }
+  ],
+  "primary_sources": [
+    { "work": "Pedro Sarmiento de Gamboa, History of the Incas, chs. 6-7", "citation": "MS 1572 (sworn testimonies before Viceroy Francisco de Toledo); trans. Sir Clements Markham, Hakluyt Society, 1907", "language": "Spanish record of Quechua testimony" },
+    { "work": "Molina of Cuzco, Fables and Rites of the Yncas", "citation": "MS c. 1575; in Narratives of the Rites and Laws of the Yncas, trans. C. R. Markham, Hakluyt Society, 1873", "language": "Spanish record of Quechua testimony" }
+  ],
+  "secondary_sources": [
+    { "work": "John H. Rowe, 'Inca Culture at the Time of the Spanish Conquest'", "citation": "Rowe 1946, Handbook of South American Indians vol. 2 (BAE Bulletin 143) - standard source-critical survey of the creation texts." },
+    { "work": "Gary Urton, Inca Myths", "citation": "Urton 1999, Austin: University of Texas Press - the mythic corpus with Quechua sources; used here for comparative context only." }
+  ],
+  "source_urls": [
+    { "url": "https://www.gutenberg.org/ebooks/20218", "description": "Sarmiento de Gamboa, History of the Incas (Markham 1907), Project Gutenberg #20218", "accessed": "2026-11-14" },
+    { "url": "https://www.gutenberg.org/ebooks/79927", "description": "Molina, Fables and Rites, in Narratives of the Rites and Laws of the Yncas (Markham 1873), Project Gutenberg #79927", "accessed": "2026-11-14" }
+  ],
+  "sensitivity_flag": "colonial_era_collection_caution",
+  "sensitivity_guidance": "The creation cycle was compiled under Viceroy Toledo's commission (1572) to document Inca 'tyranny'; the sworn-witness format is an instrument of colonial jurisprudence. Prefer Quechua/Aymara scholarship and community voices in commentary; treat Tiwanaku as a living Bolivian-Peruvian heritage site, not as 'dead' myth-scenery.",
+  "provenance": { "record_status": "complete", "compiled": "2026-11-14", "compiled_by": "DHG508 fieldwork compilation", "review_status": "draft - pending human review" }
+},
+{
+  "id": "inca-unu-pachacuti-flood",
+  "title": { "en": "Unu Pachacuti: The Water That Overturns the Land", "zh": "烏努-帕查庫提:顛覆大地之水" },
+  "tradition": "inca",
+  "category": "myth",
+  "region": { "en": "Villca-coto and Lake Titicaca (symbolic pin)", "zh": "維爾卡-科托與的的喀喀湖(象徵性標記)" },
+  "lat": -13.0, "lon": -72.0,
+  "period": "Huarochiri manuscript collected 1608; Sarmiento testimonies 1572; publ. Markham 1873/1907",
+  "source": { "archive": "Project Gutenberg", "work": "Avila, Narrative of the Errors of Huarochiri ch. 4; Sarmiento, History of the Incas ch. 6 (Markham)", "url": "https://www.gutenberg.org/ebooks/79927" },
+  "license": "Public domain (translations 1873/1907)",
+  "summary": { "en": "Two deluge traditions run through the Andean corpus: the highland Cuzco version in which Viracocha's sixty days and nights of rain drown a disobedient first creation, with only the petrified rebels left as memorials; and the Huarochiri version in which a tethered llama weeps 'yu' yu'', foretells that the sea will rise in five days, and leads its master to the summit of Villca-coto where the birds and animals are already gathered - the fox's tail washed black by the waves. In both, the flood is the hinge of the world: after it, either Viracocha remakes humanity from clay at Tiahuanaco, or the solitary man descends to father all living people.", "zh": "安第斯文獻中流傳著兩支洪水傳說:庫斯科高原版本中,維拉科查以六十晝夜之雨滅絕違命的初造之民,只留下化石為紀念;瓦羅奇里版本中,被拴的駝馬悲鳴「喲!喲!」,預言五日之後海水將淹沒大地,領主人登上維爾卡-科托山頂,那裡飛禽走獸已然會齊——狐狸的尾巴被浪打濕,至今尾尖猶黑。兩說之中,洪水皆是世界之樞:洪水之後,或維拉科查在蒂亞瓦納科以泥土再造人類,或那孤身之人下山人間,成為今日萬民之祖。" },
+  "motifs": ["flood", "oracle-divination", "world-renewal"],
+  "sensitivity": { "restricted": false, "note": "Deluge narratives from two provincial traditions; the llama-warning motif parallels the messenger-fails cluster cross-culturally." },
+  "passages": [
+    { "id": "1", "text": "As there arose among them the vices of pride and covetousness, they transgressed the precept of Viracocha Pachayachachi and, falling through this sin under his indignation, he confounded and cursed them. Then some were turned into stones, others into other things, some were swallowed up by the earth, others by the sea, and over all there came a general flood which they call unu pachacuti, which means 'water that overturns the land.' They say that it rained 60 days and nights, that it drowned all created things, and that there alone remained some vestiges of those who were turned into stones, as a memorial of the event, in the edifices of Pucara.", "note": "Condensed paraphrase of Sarmiento, History of the Incas, ch. 6 (Markham 1907); not verbatim." },
+    { "id": "2", "text": "An Indian was tethering his llama in a place where there was good pasture, and the animal resisted, showing sorrow and moaning after its manner, which it does by crying 'yu' yu''. The master, who happened to be eating a choclo, observing this, threw the core at the llama, saying: 'Fool, why do you moan and refrain from eating? Have I not put you where there is good pasture?' The llama thus replied: 'Madman! what do you know? Learn that I am not sad without good cause; for within five days the sea will rise and cover the whole earth, destroying all there is upon it.'", "note": "Condensed paraphrase of Avila, Narrative of the Errors of Huarochiri, ch. 4 (Markham 1873); not verbatim." },
+    { "id": "3", "text": "The man did as he was told, carrying his load on his back and leading the llama, and he arrived on the summit of the mountain, where he found many different kinds of birds and animals assembled. Just as he and his llama reached the top the sea began to rise, and the water filled the valleys and covered the tops of the hills, except that of Villca-coto... Among these was a fox, whose tail was washed by the waves, which they say is the reason that the tips of foxes' tails are black. At the end of five days the waters began to abate... but the whole earth was without inhabitants except that solitary man, from whom descend all the people who now exist.", "note": "Condensed paraphrase of Avila, Narrative of the Errors of Huarochiri, ch. 4 (Markham 1873); not verbatim." }
+  ],
+  "persons": [],
+  "language": "Spanish records of Quechua testimony",
+  "canonical_translation": "C. R. Markham (1873 and 1907)",
+  "narrative": { "en": "The Andean flood is not a single story but a hinge used by several different mythic systems, and the Inca corpus preserves at least four tellings. In the Cuzco dynastic version recorded by Sarmiento, the flood belongs to the Creator's justice: the first men broke the precept of Viracocha, and for sixty days and nights the water rose above the highest mountains, drowning everything. The only survivors were the petrified rebels themselves - the stones that still stand at Pucara, Tiahuanaco and elsewhere as warnings. Molina's Cuzco version softens this: one man and one woman escaped in a box, were carried by the wind to Huanaco near Tiahuanaco, and from them - or rather beside them - the Creator raised each nation of clay, painting its dress, giving its language, its songs, its seeds, and sending the finished figures underground to emerge where each belongs.\n\nThe Huarochiri version is of another order, an animal-warning flood of the worldwide messenger type. A man tethers his llama on good pasture; the animal weeps in its own way, 'yu' yu''. The master, eating an ear of maize, throws the cob at it: fool, why do you moan? The llama answers in speech - within five days the sea will rise and cover the whole earth. The man asks how they may be saved, and the llama leads him up the mountain called Villca-coto with five days' provisions. On the summit the birds and animals are already assembled. The water covers every hilltop but that one; a fox's tail is licked by the waves, which is why fox tails are black to this day. On the fifth day the waters sink, and the solitary man descends to father all the people now living - Avila, scandalized, notes that no woman is mentioned, and draws his own conclusions.\n\nThe Cañari version, told both by Molina and by Sarmiento, builds a people from the flood's survivors: two brothers escape up the growing mountain of Huaca-yñan or Guasano, are fed by mysterious visitants - macaw-women in Molina, Canari women in Sarmiento - and one brother survives to father ten sons, five Hanansaya and five Hurinsaya, the primal moieties of his nation. The Ancasmarca variant, in Molina, gives the warning to sheep that watch the stars: their sadness at the conjunction of stars tells the shepherd that the world will be destroyed by water, and he climbs with his six children and his flocks.\n\nWhat unites these tellings is the structure of world-time: the flood is not the end but the pivot between two creations, the moment when the land 'overturns' (pachacuti) and the moral order is reset. Every province had its own ark, cave or mountain; the Inca imperial version preferred to have no survivors at all, so that the dynasty's founding generation could be the first people of the new world rather than the heirs of an old one - a political theology of the deluge as clear as any in the ancient world." },
+  "functions": [
+    "Marks the boundary between the fallen first world and the present creation in highland cosmology",
+    "Explains provincial origin-sites (mountains, caves, lakes) as each nation's ark",
+    "Provides the moral charter of obedience: the flood as punishment for transgressing the Creator's precept",
+    "Fits the Inca into the worldwide flood cluster for comparative analysis (see Norse Bergelmir, Deucalion, Manu, Utnapishtim)"
+  ],
+  "variants": [
+    {
+      "name": "The box of Huanaco (Molina)",
+      "text_tradition": "Molina, Fables and Rites (Markham 1873)",
+      "summary": "A man and a woman survive in a box; the Creator makes each nation of clay at Tiahuanaco and sends them underground to emerge.",
+      "cross_ref": "inca-molina-deluge-box"
+    },
+    {
+      "name": "The Canari brothers",
+      "text_tradition": "Sarmiento ch. 6; Molina",
+      "summary": "Two brothers escape on the growing mountain, are fed by bird-women or Canari women, and father the ten ancestors of the Cañari moieties.",
+      "cross_ref": "inca-canaris-flood-brothers"
+    },
+    {
+      "name": "Ancasmarca sheep that watch the stars",
+      "text_tradition": "Molina, Fables and Rites (Markham 1873)",
+      "summary": "The sheep grow sad watching the star-conjunctions and tell the shepherd of the coming flood; he climbs with his six children.",
+      "cross_ref": "inca-ancasmarca-shepherd-flood"
+    }
+  ],
+  "primary_sources": [
+    { "work": "Francisco de Avila, Narrative of the Errors of Huarochiri, ch. 4", "citation": "Huarochiri MS collected 1608; publ. in Narratives of the Rites and Laws of the Yncas, trans. C. R. Markham, Hakluyt Society, 1873", "language": "Spanish record of Quechua tradition" },
+    { "work": "Pedro Sarmiento de Gamboa, History of the Incas, ch. 6", "citation": "MS 1572; trans. Sir Clements Markham, Hakluyt Society, 1907", "language": "Spanish record of Quechua testimony" }
+  ],
+  "secondary_sources": [
+    { "work": "Frank Salomon & George Urioste, The Huarochiri Manuscript", "citation": "Salomon & Urioste 1991, Austin: University of Texas Press - the standard modern translation; used for context only." },
+    { "work": "Gerald Taylor, Ritos y tradiciones de Huarochirí", "citation": "Taylor 1987, Lima - critical edition of the Quechua text." }
+  ],
+  "source_urls": [
+    { "url": "https://www.gutenberg.org/ebooks/79927", "description": "Narratives of the Rites and Laws of the Yncas (Avila, Molina, Polo; Markham 1873)", "accessed": "2026-11-14" },
+    { "url": "https://www.gutenberg.org/ebooks/20218", "description": "Sarmiento de Gamboa, History of the Incas (Markham 1907)", "accessed": "2026-11-14" }
+  ],
+  "sensitivity_flag": "living_tradition_low",
+  "sensitivity_guidance": "Flood traditions remain part of living Quechua storytelling; the Huarochiri manuscript is a foundational text of Peruvian national literature. Paraphrase rather than reproduce modern copyrighted translations (Salomon/Urioste, Taylor).",
+  "provenance": { "record_status": "complete", "compiled": "2026-11-14", "compiled_by": "DHG508 fieldwork compilation", "review_status": "draft - pending human review" }
+},
+{
+  "id": "inca-cavillaca-cycle-deep",
+  "title": { "en": "Cavillaca and the Beggar God: A Huarochiri Romance in Stone", "zh": "卡維利亞卡與乞丐神:瓦羅奇里石上情緣" },
+  "tradition": "inca",
+  "category": "myth",
+  "region": { "en": "Huarochiri to the coast of Pachacamac (symbolic pin)", "zh": "瓦羅奇里至帕查卡馬克海濱(象徵性標記)" },
+  "lat": -12.0, "lon": -76.5,
+  "period": "Huarochiri manuscript collected by Francisco de Avila, 1608; publ. Markham 1873",
+  "source": { "archive": "Project Gutenberg", "work": "Avila, Narrative of the Errors of Huarochiri, chs. 2-3, in Narratives of the Rites and Laws of the Yncas, trans. C. R. Markham, 1873", "url": "https://www.gutenberg.org/ebooks/79927" },
+  "license": "Public domain (translation 1873)",
+  "summary": { "en": "The masterpiece of the Huarochiri manuscript: the creator Cuniraya, disguised in beggar's rags, fathers a child on the virgin goddess Cavillaca through a lucma fruit; at the assembly of the gods the crawling child goes straight to the ragged figure and laughs at his feet. Cavillaca flees in shame to the sea and is turned to stone with her child; Cuniraya, now in golden robes, pursues her along the coast, blessing every animal that gives him good news (the condor, the lion, the falcon) and cursing those that give him bad news (the foxes, the parrots); at Pachacamac he fathers another child on the elder daughter of Urpi-huachac, empties her pond into the sea to create all the fishes, escapes her rock-building revenge trick, and wanders the highlands playing tricks. The two rocks off the coast are still shown as mother and child.", "zh": "瓦羅奇里抄本之傑作:造物主庫尼拉亞身披乞丐襤褸,借一顆盧克瑪果使處女神卡維利亞卡感孕;眾神大會之上,爬行的嬰兒逕直撲向襤褸的身影,歡笑著依偎其足。卡維利亞卡羞而奔海,與孩子一同化石;庫尼拉亞換上金袍沿岸追趕,報喜訊的獸受福(禿鷹、獅、隼),報惡信的受咒(狐、鸚鵡);至帕查卡馬克,他又與烏爾皮-瓜查克的長女生子,傾其魚池入海而造眾魚,躲過她築石復仇之計,重回高原惡作劇。至今海岸猶指兩石:母與子。" },
+  "motifs": ["trickster", "transformation", "miraculous-birth", "sacred-place"],
+  "sensitivity": { "restricted": false, "note": "The Cavillaca cycle is the most-studied narrative of the Huarochiri manuscript; the sexual content is retold soberly as the source has it." },
+  "passages": [
+    { "id": "1", "text": "At that time they also say that there was a woman who was a huaca. Her name was Cavillaca, and she was a most beautiful virgin, who was much sought after by the huacas, or principal idols, but she would never show favour to any of them. Once she sat down to weave a mantle at the foot of a lucma tree, when the wise Coniraya turned himself into a very beautiful bird, went up into the lucma tree, took some of his generative seed and made it into the likeness of a ripe and luxurious lucma, which he allowed to fall near the beautiful Cavillaca. She took it and ate it with much delight, and by it she was made pregnant without other contact with man.", "note": "Condensed paraphrase of Avila, Narrative of the Errors of Huarochiri, ch. 2 (Markham 1873); not verbatim." },
+    { "id": "2", "text": "When she found that all were silent, she said: 'As none of you will speak, I shall let the child go, and doubtless his father will be the one to whom he crawls, and at whose feet he rests.' So saying, she loosed the child, who, passing by all the others, went to where was his father Coniraya in his rags and dirt, and when the child reached him, it rejoiced and laughed, and rested at his feet. This conduct caused Cavillaca great shame and annoyance... Then she turned her back and fled away towards the sea-shore.", "note": "Condensed paraphrase of Avila, Narrative of the Errors of Huarochiri, ch. 2 (Markham 1873); not verbatim." },
+    { "id": "3", "text": "As he ran, he met a condor, to whom he said: 'Brother, tell me whether you encountered a woman with such and such marks?' The condor answered: 'I saw her very near this place...' Coniraya, rejoicing at the good news, blessed the condor: 'You shall live for ever... I further declare that he who kills you shall himself be killed.' ... A lion gave him good news and was blessed; the foxes that told him the goddess was far off were cursed... Thus he rewarded and granted privileges to all the animals that gave him news that accorded with his wishes, and cursed all those whose tidings were not agreeable to him.", "note": "Condensed paraphrase of Avila, Narrative of the Errors of Huarochiri, ch. 2 (Markham 1873); not verbatim." },
+    { "id": "4", "text": "In those days it is said that there were no fishes in the sea, but that this Urpi-huachac reared a few in a small pond. Coniraya was enraged that Urpi-huachac should be absent in the sea, visiting Cavillaca; so he emptied the fishes out of her pond into the sea, and thence all the fishes now in the sea have been propagated... While she was pretending to comb his head she was forming a rock over which she might hurl him when he was off his guard. He knew this through his great wisdom, and went back to the land of Huarochiri, where he wandered about for a long time, playing tricks both to whole villages and to single men or women.", "note": "Condensed paraphrase of Avila, Narrative of the Errors of Huarochiri, ch. 2 (Markham 1873); not verbatim." }
+  ],
+  "persons": ["cuniraya", "cavillaca", "pachacamac"],
+  "language": "Spanish record of Quechua tradition",
+  "canonical_translation": "C. R. Markham, Narrative of the Rites and Laws of the Yncas (1873)",
+  "narrative": { "en": "The Cavillaca cycle is the Huarochiri manuscript's narrative showpiece, and it does what the courtly Inca texts never attempt: it portrays the Creator as a disreputable wanderer and a goddess as a woman with her own unyielding judgement. Cuniraya Viracocha - whose name the people still invoked with a coca leaf in hand - appears in the form of the poorest of Indians, in rags, reviled by those who do not know him as a lousy wretch. His power is casual and immense: terraces rise at a word, canals flow at the throw of a hollow cane. He is also a trickster with a specialist's knowledge of huacas, and he invents deceits wherever he visits.\n\nThe virgin huaca Cavillaca is courted by every great idol and refuses them all. Weaving beneath a lucma tree, she is approached by the bird-disguised Cuniraya, whose seed he fashions into a ripe fruit and drops beside her. She eats it with delight, conceives, and bears a son in virginity, suckling him for a year without knowing whose he is. When the child can crawl she summons the assembly of the gods to Anchicocha, each of them groomed and dressed to be chosen. Since none will claim the child, she sets him loose: his father will be the one he crawls to. The child passes the whole adorned assembly and goes to the ragged figure in the lowest place, laughing, and rests at his feet.\n\nCavillaca's shame is the emotional engine of the rest of the cycle. Snatching up the child - 'What disgrace, that a lady such as I am should be made pregnant by a poor and filthy creature' - she flees toward the sea. Cuniraya dons golden robes in an instant, his splendour lighting the whole country, and pursues her with loving words; she will not turn her head, calling him a creature so vile and filthy. At the coast of Pachacamac she enters the sea with the child and both are turned into rock - the two stones offshore that the people still showed to Avila as mother and child.\n\nThe pursuit along the shore is a chain of animal judgements that etiologically ordains the relations between Andean people and animals. The condor's good news earns it eternal life, freedom of the wilderness, the right to eat the dead, and a taboo: who kills a condor dies. The lion's good news makes it the executioner of evildoers and ordains the festival use of its skin, with a llama sacrificed by whoever wears it. The falcon is given the hummingbird for breakfast and a place on dancers' heads. The two foxes and the parrots, bearers of bad news, are cursed to night-wandering, stench, persecution and noisy betrayal. Avila verified in his parish that each decree still governed conduct: condors untouchable even when dying of old age, villages turning out wholesale at a cry of 'fox!', falcon skins at every festival.\n\nAt Pachacamac the cycle doubles its sexual plot with the daughters of Urpi-huachac, wife of the god Pachacamac, guarding a great serpent. Cuniraya stills the serpent by his wisdom and takes the elder daughter; the younger escapes by turning into a dove, giving her mother her name, Urpi-huachac, 'mother of the doves'. Revenge follows: no fish yet live in the sea, only in the goddess's pond, and the enraged Cuniraya empties it into the ocean, stocking all the seas of the world from a single Andean pond. She pursues him with the offer of a head-combing; he accepts, and she builds a rock under her hands to hurl him from. He sees through it, excuses himself, and returns to the highlands, where he wanders playing tricks on villages and single men and women to the end of the story as we have it.\n\nThe cycle's theology is pointed: the creator of the Andes is not a triumphant sky-king but a poor man whom the dignified reject, and the goddess who rejects him is herself immortalized as sea-rock - the myth encodes the coastal valley's memory of contact between highland trickster-religion and the old Pachacamac pantheon, with Urpi-huachac's fishes and Pachacamac's wife as the local establishment the wanderer defeats. In motif terms it is a virgin-birth plus trickster-pursuit plus animal-decree chain; in Andean terms it is a myth of how the world's fish, the coast's rocks, the condor's sanctity and the fox's shame all got their character at once, on a single disastrous day of love." },
+  "functions": [
+    "Etiological charter for the animal world: condor-taboo, lion-skin festivals, fox-hunts, falcon headdresses",
+    "Explains the origin of all sea-fishes from one highland pond",
+    "Names and sanctifies the paired rocks off the coast of Pachacamac as mother and child",
+    "Encodes relations between highland and coastal cults (Cuniraya, Pachacamac, Urpi-huachac) in a romance"
+  ],
+  "variants": [
+    {
+      "name": "The Chaupiñamca cycle",
+      "text_tradition": "Huarochiri MS, later chapters (Salomon-Urioste 1991)",
+      "summary": "The sister-goddess Chaupiñamca of later Huarochiri chapters undergoes a parallel romance with the dancer Huatyacuri's line; the manuscript ends before Avila's translation of them.",
+      "cross_ref": "inca-fox-diagnosis-of-false-god"
+    },
+    {
+      "name": "Choque Suso at the canal-head",
+      "text_tradition": "Huarochiri MS ch. 7 (Markham 1873)",
+      "summary": "Another beloved turned to stone: Pariacaca's Choque Suso becomes the guardian stone of the Copara canal.",
+      "cross_ref": "inca-choque-suso-canal-love"
+    }
+  ],
+  "primary_sources": [
+    { "work": "Francisco de Avila, Narrative of the Errors of Huarochiri, chs. 2-3", "citation": "Huarochiri MS collected 1608; publ. in Narratives of the Rites and Laws of the Yncas, trans. C. R. Markham, Hakluyt Society, 1873", "language": "Spanish record of Quechua tradition" }
+  ],
+  "secondary_sources": [
+    { "work": "Frank Salomon & George Urioste, The Huarochiri Manuscript", "citation": "Salomon & Urioste 1991, Austin: University of Texas Press." },
+    { "work": "Gerald Taylor, Ritos y tradiciones de Huarochirí", "citation": "Taylor 1987, Lima: Instituto de Estudios Peruanos." }
+  ],
+  "source_urls": [
+    { "url": "https://www.gutenberg.org/ebooks/79927", "description": "Narratives of the Rites and Laws of the Yncas (Markham 1873)", "accessed": "2026-11-14" }
+  ],
+  "sensitivity_flag": "living_tradition_low",
+  "sensitivity_guidance": "The Huarochiri manuscript is a foundational text of Peruvian literature and Quechua heritage; condor and fox taboos persist in communities. Use published scholarly translations with paraphrase; do not present colonial demonology as native evaluation.",
+  "provenance": { "record_status": "complete", "compiled": "2026-11-14", "compiled_by": "DHG508 fieldwork compilation", "review_status": "draft - pending human review" }
+},
+{
+  "id": "inca-inti-raymi-and-situa-year",
+  "title": { "en": "The Sacred Year: Inti Raymi and the Situa Purification", "zh": "神聖歲時:太陽節與淨疾節" },
+  "tradition": "inca",
+  "category": "myth",
+  "region": { "en": "Cuzco great square and Coricancha (symbolic pin)", "zh": "庫斯科大廣場與科里坎查(象徵性標記)" },
+  "lat": -13.517, "lon": -71.979,
+  "period": "Molina's rite calendar c. 1575; publ. Markham 1873",
+  "source": { "archive": "Project Gutenberg", "work": "Molina of Cuzco, 'Fables and Rites of the Yncas', in Narratives of the Rites and Laws of the Yncas, trans. C. R. Markham, Hakluyt Society, 1873", "url": "https://www.gutenberg.org/ebooks/79927" },
+  "license": "Public domain (translation 1873)",
+  "summary": { "en": "Molina's month-by-month record of the Cuzco sacred year: the year opened in May with the festival of the Sun (Yutip-Raymi), sheep driven three times daily around the idols with the prayer 'O Creator, and Sun, and Thunder, be for ever young'; June was irrigation; July the sowing festival Yahuayra with the priests' fast; August the great Situa, when four hundred lances relayed the shout 'Go forth all evils!' along the four roads to the great rivers, the city shook its mantles, everyone bathed, and the blood-sprinkled sancu was eaten under oath not to betray the Sun or the Inca; November armed the knights at Huanacauri; December sent the year's ashes and offerings down the river to the sea; April harvested Mama Huaco's first maize; and the embalmed dead lords sat on golden benches in the square throughout.", "zh": "莫利納逐月記錄庫斯科神聖曆法:五月歲首慶太陽節(尤蒂普-雷米),牲羊每日三次繞神像而行,誦禱「造物主、太陽、雷啊,願你們永葆青春」;六月治水;七月行播種節「亞瓦伊拉」,祭司持齋;八月行大淨疾節,四百長矛接力高呼「疫惡速去!」沿四路奔向大河,全城抖氅、沐浴,共食血灑桑庫,立誓不叛太陽與印加王;十一月於瓦納考里受武封騎;十二月把全年灰燼祭品順流送入大海;四月收瑪瑪·瓦科的初植玉米;而先王的木乃伊始終端坐於廣場金座之上。" },
+  "motifs": ["ritual-origin", "world-renewal", "sacred-kingship"],
+  "sensitivity": { "restricted": false, "note": "Ritual calendar from a parish priest's compilation; the source of the modern Inti Raymi revival (1944) - a contested reconstruction, not a continuous ceremony." },
+  "passages": [
+    { "id": "1", "text": "They went to Curicancha in the morning, at noon, and at night, bringing the sheep that were to be sacrificed on that day, which they carried round the idols and huacas called Punchao Ynca, and Pachayachachi, and Chuqui-yllayllapa... the Priests said: 'O Creator, and Sun, and Thunder, be for ever young! do not grow old. Let all things be at peace! let the people multiply, and their food, and let all other things continue to increase.'", "note": "Condensed paraphrase of Molina, Fables and Rites, month of Hauca (Markham 1873); not verbatim." },
+    { "id": "2", "text": "Four hundred men of war assembled in the middle of the square... one hundred faced towards Colla-suyu, one hundred to the westward towards Chincha-suyu, another hundred towards Anti-suyu, and the last hundred towards the south. They cried 'Go forth all evils', and each party set out at great speed along its appointed road, handing the cries on from lineage to mitimaes... until at the great rivers they bathed themselves and washed their clothes and arms.", "note": "Condensed paraphrase of Molina, Fables and Rites, Situa festival (Markham 1873); not verbatim." },
+    { "id": "3", "text": "The high priest then said in a loud voice so that all might hear: 'Take heed how you eat this sancu; for he who eats it in sin, and with a double will and heart, is seen by our father the Sun, who will punish him with grievous troubles. But he who with a single heart partakes of it, to him the Sun and the Thunder will show favour, and will grant children and happy years, and abundance.'", "note": "Condensed paraphrase of Molina, Fables and Rites, Situa festival (Markham 1873); not verbatim." }
+  ],
+  "persons": [],
+  "language": "Spanish record of Quechua liturgy",
+  "canonical_translation": "C. R. Markham, Narrative of the Rites and Laws of the Yncas (1873)",
+  "narrative": { "en": "The Inca sacred year, as Molina took it down from elderly witnesses who had seen it under Huayna Capac, Huascar and Manco Inca, ran from one May to the next on a lunar-solar reckoning with the solstice festival at its heart. The year opened in Hauca, the month of rest, when the whole court retired to pleasure-houses and the flocks of the Sun and the Creator were driven in procession three times a day around their images, while the priests prayed that the gods 'be for ever young'. The golden sheep-figures, curi-napa and collque-napa, were carried on litters in memory - the witnesses said - of the flock that came out of the founding cave with the ancestors.\n\nJune was the month of canals. July, the sowing month, imposed its fast: the Tarpuntae priests ate nothing but boiled maize and herbs from sowing until the shoot stood a finger high, and the whole city sang the yahuayra in red robes, praying the Creator for a full harvest, the Sun for warmth, Thunder for rain without hail.\n\nAugust brought the year's great exorcism, the Situa, timed to the first rains and their fevers. Huacas were summoned to Cuzco from Quito to Chile; strangers, the deformed, even dogs were driven from the city. Four hundred warriors, a hundred to each quarter, faced the four suyos and cried 'O sicknesses, disasters, misfortunes, and dangers, go forth from the land!'; then they relay-ran the shout along the four highways, hand to hand, lineage to mitimaes, until at the great rivers - the Apurimac, the Vilcanota, the river of Cusipampa - the runners bathed themselves and their weapons, so that rivers of great volume would carry the evils to the sea. Everyone in the city shook their mantles from their doorways and bathed at dawn; then came the pancurcu torch-play, the sancu pudding smeared on doorposts and faces, and the yahuar-sancu, blood-sprinkled, eaten under a public oath of loyalty to Creator, Sun, Thunder and Inca, with not a crumb allowed to fall.\n\nThe third quarter of the year belonged to the young: the Ccapac Raymi of November armed the knights of royal blood with slings, breeches and pierced ears, racing at Anahuarqui and receiving the golden ear-plugs at Raurana, while their ancestors' mummies watched from the square. December opened with the chocanaco sling-battle between Hanan and Hurin, then the moro-urco, the four-coloured cable wound in a spiral 'like a snake'; and the month closed with mojocati, when the year's ashes, food, clothes and gold were thrown into the dammed river and swept to Ollantaytambo and the sea, so that the Creator would not find his people ungrateful.\n\nJanuary to March were working months; April harvested the sacred fields, beginning at Sausiru, the farm where Mama Huaco had sown the first maize, and the new knights carried the crop singing the yaravi. Through it all, the embalmed Incas sat on their golden benches in the great square, fed from the feast, warmed with sancu, washed in their own baths. The liturgical year thus moved the whole social body - crops, youths, ancestors, sicknesses, and the year's own refuse - through a cycle of renewal that ended where it began, at the doors of the Sun.\n\nAfter the conquest the cycle was broken; the festivals were suppressed by the 1570s idolatry campaigns that produced Molina's own report. The modern Inti Raymi celebrated in Cuzco since 1944 is a theatrical reconstruction of the June solstice feast - an invented tradition in Hobsbawm's sense - and should not be confused with the colonial-era ritual calendar recorded here, though both now compete to represent the Andean sacred year." },
+  "functions": [
+    "Synchronizes the agricultural, ritual and political calendars around the solstice",
+    "Renews the city's health annually by expelling sickness along the empire's four roads to the sea",
+    "Binds subjects to the Sun and Inca by the public sancu oath each year",
+    "Stages the ancestor cult as a permanent court, the dead Incas seated among the living"
+  ],
+  "variants": [
+    {
+      "name": "Polo's month list",
+      "text_tradition": "Polo de Ondegardo via Markham's note (1873)",
+      "summary": "Polo's festival sequence assigns the Sun festival to 22 June-22 July, the Situa to August-September, Ccapac Raymi to December-January - essentially Molina's sequence shifted by the calendar reform of the First Council of Lima.",
+      "cross_ref": "inca-polo-hanan-hurin-lineages"
+    },
+    {
+      "name": "Cobo's fuller liturgy",
+      "text_tradition": "Bernabé Cobo, Historia del Nuevo Mundo, book 13 (1890-93 Spanish ed.)",
+      "summary": "Cobo's later, fuller account of the same rites (used by Hamilton's modern translation) confirms the sequence and adds detail on the Capac Raymi dances; not quoted here as no public-domain English translation exists.",
+      "cross_ref": "none"
+    }
+  ],
+  "primary_sources": [
+    { "work": "Molina of Cuzco, Fables and Rites of the Yncas", "citation": "MS c. 1575; in Narratives of the Rites and Laws of the Yncas, trans. C. R. Markham, Hakluyt Society, 1873", "language": "Spanish record of Quechua liturgy" }
+  ],
+  "secondary_sources": [
+    { "work": "R. Tom Zuidema, 'Inca Civilization in Cuzco'", "citation": "Zuidema 1964/1990 - the structural analysis of the Cuzco calendar and ceque system." },
+    { "work": "Brian S. Bauer, Ancient Cuzco", "citation": "Bauer 2004, Austin: University of Texas Press - archaeology of the ritual landscape." }
+  ],
+  "source_urls": [
+    { "url": "https://www.gutenberg.org/ebooks/79927", "description": "Molina, Fables and Rites (Markham 1873)", "accessed": "2026-11-14" }
+  ],
+  "sensitivity_flag": "living_tradition_high",
+  "sensitivity_guidance": "Inti Raymi is today an officially staged festival in Cuzco and a focus of contemporary Quechua identity; the historical rites recorded here were suppressed in the 1570s idolatry persecutions. Commentators should distinguish the colonial record from the modern revival and respect community authority over present-day ceremony.",
+  "provenance": { "record_status": "complete", "compiled": "2026-11-14", "compiled_by": "DHG508 fieldwork compilation", "review_status": "draft - pending human review" }
+},
+{
+  "id": "inca-pururaucas-chanca-war-deep",
+  "title": { "en": "The Pururaucas: Stone Allies and the Chanca War", "zh": "普魯勞卡斯:石化盟軍與昌卡之戰" },
+  "tradition": "inca",
+  "category": "myth",
+  "region": { "en": "Yahuar-pampa and Cuzco (symbolic pin)", "zh": "亞瓦爾-潘帕與庫斯科(象徵性標記)" },
+  "lat": -13.53, "lon": -72.3,
+  "period": "Sarmiento testimonies 1572; Cieza Orejone accounts c. 1550; publ. Markham 1907/1883",
+  "source": { "archive": "Project Gutenberg", "work": "Sarmiento, History of the Incas chs. 26-29; Cieza de León, Second Part chs. 23-24 (Markham)", "url": "https://www.gutenberg.org/ebooks/20218" },
+  "license": "Public domain (translations 1907/1883)",
+  "summary": { "en": "The mythic core of Inca imperial ideology: while his father fled and the Chancas marched on Cuzco, the young Inca Yupanqui remained, saw the vision at Susurpuquio - a person like the Sun holding up a mirror in which the provinces of his future conquest were shown - and fought the city's battle with seven chiefs. Great numbers of men came down from the hills, which the tradition says were sent by Viracocha the creator as succour: the stones and bushes of the plain turned into men. After the victory the Inca announced that bearded men visible to none but himself had won it, and had been turned into stones; the Pururaucas were collected and carried to war as certain pledges of victory. Garcilaso calls the tale an Inca invention; the oracle that found the fringe on the Sun's image crowned the victor anyway.", "zh": "印加帝國意識形態的神話核心:父王出逃、昌卡進逼之際,少年印加·尤潘琪留守孤城,在蘇蘇爾普基奧見到異象——一位形貌如太陽者舉鏡示他未來征服的各省;遂與七位首領死守庫斯科。大群戰士自山上滾滾而下——相傳乃造物主維拉科查所遣的神兵:平原的石頭與灌木化為人形。大捷之後,印加王宣布:取勝的是唯有他能見的鬚髯神兵,戰後盡化石頭;這些「普魯勞卡斯」被拾取珍藏,出征必攜,視為必勝之質。加爾西拉索斥之為印加人的發明;而太陽神諭把王纓掛上神像,終究為凱旋者加冕。" },
+  "motifs": ["theophany", "transformation", "sacred-kingship"],
+  "sensitivity": { "restricted": false, "note": "The Chanca-war miracle exists in three significantly different versions (Sarmiento, Cieza, Garcilaso, Salcamayhua); the record preserves their disagreement." },
+  "passages": [
+    { "id": "1", "text": "One day he was at Susurpuquio in great affliction, thinking over the best plan for opposing his enemies, when there appeared a person in the air like the Sun, consoling him and animating him for the battle. This being held up to him a mirror in which the provinces he would subdue were shown, and told him that he would be greater than any of his ancestors: he was to have no doubt, but to return to the city, because he would conquer the Chancas who were marching on Cuzco.", "note": "Condensed paraphrase of Sarmiento, History of the Incas, ch. 27 (Markham 1907); not verbatim." },
+    { "id": "2", "text": "They cried out that the very stones and bushes of the plain were turning into men, and coming to fight in the service of the Prince, because the Sun and the god Uiracocha had so ordered it. The Chancas, being a credulous people, were much amazed by this fable; and afterwards it was believed by all the common people throughout that empire.", "note": "Condensed paraphrase of Garcilasso de la Vega, Royal Commentaries (Markham 1871); not verbatim." },
+    { "id": "3", "text": "As soon as he had gained the victory over the Chancas, he announced to his soldiers that they had not conquered their enemies, but that the victory had been gained by certain bearded men sent by the Uiracocha who were visible to none but himself, and that they had afterwards been turned into stones... They called them Pururaucas, and took them to the war with much devotion, holding that victory was certain with their assistance.", "note": "Condensed paraphrase of Acosta as quoted by Garcilasso (Markham 1871); not verbatim." }
+  ],
+  "persons": ["pachacuti"],
+  "language": "Spanish records of Quechua testimony",
+  "canonical_translation": "C. R. Markham (1871, 1883, 1907)",
+  "narrative": { "en": "No episode of Andean history is more mythologized than the Chanca war, and none better shows how a military crisis became a political theology. In the 1430s or thereabouts the Chanca confederation of Andahuaylas - two embalmed brothers, Uscovilca and Ancovilca, as its war-standards - marched on Cuzco. Viracocha Inca, old and afraid, fled the city with his favourite son Urco. His third son Cusi, detested by his father, refused to go: 'I will not abandon Cuzco, city of the Sun and of Viracocha, whose name you have taken.' Seven chiefs stayed with him.\n\nAt the spring of Susurpuquio, sunk in thought, the prince saw a person in the air like the Sun, who held up a mirror in which the provinces of his future conquest were displayed and told him he would be greater than any of his ancestors. (Molina tells the same spring-episode as a crystal apparition with sun-rays from the head, serpents twined about the arms, lions at the legs - the emblem that Pachacuti later had engraved in gold.) The battle itself was nearly lost; Salcamayhua has the prince struck down by a sling stone and recalled by a voice from heaven because he had forgotten the tupac-yauri sceptre. And then, in all versions, the thing happened: great numbers of men came down from the hills, and the Chancas broke. Sarmiento says they were sent by Viracocha the creator as succour for the Inca; Garcilaso, always the ironist, reports the Inca cry that the very stones and bushes of the plain were turning into men, and adds his own verdict - the Incas 'strove to magnify their deeds by fables', and the credulous believed.\n\nThe aftermath built the ideology. The prince offered the spoils to his father to tread - the triumphal rite - and the father refused, offering them to the despised Urco; the messenger's fury made the break irreversible. Cieza's Orejones say the Inca then announced that the victory had been won by bearded men visible to none but himself, sent by Ticiviracocha, and afterwards turned into stones: the boulders were collected near the mountains, carried to war ever after as the Pururaucas, the 'false allies' or stone soldiers, surety of victory. An oracle completed the transfer of power: at a grand sacrifice in the House of the Sun, the image itself was found wearing the fringe of gold and emeralds, as if offering it of its own will, and the high priest hailed the new Inca as Intip Apu, governor of the things of the Sun.\n\nThe name given him - Pachacuti, 'over-turner of the earth', also 'world-transformer' - became the dynasty's hinge. Whether the stones were allies petrified (Sarmiento's reading), an army of conjured villagers (Garcilaso's), or reinforcements from friendly ayllus re-described as miracle (the modern historian's), the Pururaucas did durable work: they made the young king's usurpation a cosmic mandate, converted a dynastic quarrel into a divine election, and supplied the empire's marching myth for the conquests that followed - carried, indeed, in stone, to every campaign." },
+  "functions": [
+    "Legitimizes Pachacuti's usurpation as divine election by the Creator and the Sun",
+    "Institutionalizes the Pururaucas (petrified allies) as portable war-sureties of the empire",
+    "Explains the name 'world-transformer' as both battle-saviour and cosmic renovator",
+    "Provides the Inca empire's founding victory myth, parallel to culture-hero battles across traditions"
+  ],
+  "variants": [
+    {
+      "name": "Salcamayhua's version",
+      "text_tradition": "Antiquities of Peru (Markham 1873)",
+      "summary": "The beautiful youth on the rock promises victory in the Creator's name; the old priest Tupac Ranchiri's dummy soldiers of stone come alive and fight.",
+      "cross_ref": "inca-chanca-war-beautiful-youth"
+    },
+    {
+      "name": "Molina's crystal apparition",
+      "text_tradition": "Fables and Rites (Markham 1873)",
+      "summary": "The Susurpuquio vision as a crystal fragment holding a sun-faced figure with serpent-coiled arms - the model for the golden statue of the Sun.",
+      "cross_ref": "inca-susur-puquio-apparition"
+    }
+  ],
+  "primary_sources": [
+    { "work": "Pedro Sarmiento de Gamboa, History of the Incas, chs. 26-29", "citation": "MS 1572; trans. Sir Clements Markham, Hakluyt Society, 1907", "language": "Spanish record of Quechua testimony" },
+    { "work": "Garcilasso de la Vega, Royal Commentaries (quoting Acosta and Roman)", "citation": "Markham trans., London 1871", "language": "Spanish (mestizo author)" }
+  ],
+  "secondary_sources": [
+    { "work": "John H. Rowe, 'An Account of the Cronica de Good Gallo'", "citation": "Rowe's Chanca-war studies (1946; 1960) - the standard critical treatment of the Pachacuti tradition." },
+    { "work": "María Rostworowski, Pachacutec Inca Yupanqui", "citation": "Rostworowski 1953/1999, Lima - the Peruvian historiographic reconstruction; cited for context, not quoted." }
+  ],
+  "source_urls": [
+    { "url": "https://www.gutenberg.org/ebooks/20218", "description": "Sarmiento de Gamboa, History of the Incas (Markham 1907)", "accessed": "2026-11-14" },
+    { "url": "https://www.gutenberg.org/ebooks/48785", "description": "Cieza de León, Second Part (Markham 1883)", "accessed": "2026-11-14" }
+  ],
+  "sensitivity_flag": "colonial_era_collection_caution",
+  "sensitivity_guidance": "The Chanca war tradition was compiled under the Toledo regime to delegitimize Inca rule; its heroization of Pachacuti also served later republican nationalism (Peru's academic and military institutions bear his name). Handle both overlays explicitly in commentary.",
+  "provenance": { "record_status": "complete", "compiled": "2026-11-14", "compiled_by": "DHG508 fieldwork compilation", "review_status": "draft - pending human review" }
+},
+{
+  "id": "inca-mummies-and-drinking-with-the-sun-deep",
+  "title": { "en": "The Living Dead of Cuzco: Mummies, Benches and the Sun's Dinner", "zh": "庫斯科的不死者:木乃伊、金座與日神的晚餐" },
+  "tradition": "inca",
+  "category": "myth",
+  "region": { "en": "Coricancha and the great square, Cuzco (symbolic pin)", "zh": "庫斯科科里坎查與大廣場(象徵性標記)" },
+  "lat": -13.516, "lon": -71.978,
+  "period": "Molina c. 1575; Garcilaso publ. 1609/1616; publ. Markham 1873/1871",
+  "source": { "archive": "Project Gutenberg", "work": "Molina, Fables and Rites (Markham 1873); Garcilasso, Royal Commentaries (Markham 1871)", "url": "https://www.gutenberg.org/ebooks/79927" },
+  "license": "Public domain (translations 1873/1871)",
+  "summary": { "en": "The Inca dead did not leave: their embalmed bodies sat on golden benches in the great square at every festival, fed from their favourite dishes by their lineage keepers, washed in the baths they had used alive, consulted as oracles and carried to war. Around the sun-plate of the Coricancha the mummified kings sat with sceptres in hand; each had his guauqui or oracle-brother. The living treated the Sun like a kinsman: they poured his chicha into a golden jar, 'declared that what appeared to be gone had been drunk by the Sun, and they said truly, for the Sun's heat had evaporated the liquor', set out plates of meat for him, and sent a chasqui runner with the news of victories. When Pizarro's men found the dead, they burned or looted them; the ashes were gathered and hidden in vases.", "zh": "印加死者從不離去:每逢節慶,他們敷香的遺體便端坐於大廣場的金座之上,由各世系專管之人以下生前的愛饌供養,以生前用過的浴池洗浴,受諮為神諭,戰時被抬往陣前。科里坎查的日盤四周,歷代印加王執杖而坐;每王各有「瓜烏基」——伴身兄弟神。活人待太陽如族人:將奇恰酒倒入金缸供其暢飲,「所謂消失之酒,乃太陽所飲——他們說得也不錯,因為那正是日頭蒸發了酒漿」,並為他擺上肉盤;大捷之後必遣「查斯基」信使報喜。皮薩羅的兵士找到這些死者,焚毀掠奪;土人收其骨灰,藏於甕中。" },
+  "motifs": ["ritual-origin", "sacred-kingship", "resurrection"],
+  "sensitivity": { "restricted": false, "note": "Ancestor-cult practices recorded under persecution; colonial body-burning is documented in the same texts." },
+  "passages": [
+    { "id": "1", "text": "They also brought out the bodies of the dead lords and ladies which were embalmed, each one being brought out by the person of the same lineage who had charge of it. During the night these bodies were washed in the baths which belonged to them when they were alive. They were then brought back to their houses, and warmed with the same coarse pudding called sancu; and the food they had been most fond of when they were alive was placed before them, and afterwards the persons who were in charge of the bodies consumed the food.", "note": "Condensed paraphrase of Molina, Fables and Rites, Situa festival (Markham 1873); not verbatim." },
+    { "id": "2", "text": "For these Yncas, although they held the Sun to be god, treated him as if he had been a man like themselves... they poured the Sun's drink into a half tinajon of gold... They declared that what appeared to be gone had been drank by the Sun, and they said truly, for the Sun's heat had evaporated the liquor. They also put out plates of meat that the Sun might eat.", "note": "Condensed paraphrase of Garcilasso de la Vega, Royal Commentaries (Markham 1871); not verbatim." },
+    { "id": "3", "text": "Around this dazzling sphere were seated the mummified corpses of the Inca kings, each on his throne, with sceptre in hand... In the temple of the moon... around this the mummies of the Inca queens sat in a semicircle.", "note": "Paraphrase of Spence, Myths of Mexico and Peru (1913), from conquistador testimonies; not verbatim." }
+  ],
+  "persons": ["mancocapac", "pachacuti"],
+  "language": "Spanish records of Quechua practice",
+  "canonical_translation": "C. R. Markham (1871, 1873)",
+  "narrative": { "en": "Andean death was a career change, not an exit. The Inca's body, carefully dried and dressed, remained a person: it kept its palace, its servants, its lands, its yana retinue, and a veto over the living. Each dead king sat in state at every festival on a bench of gold, in the order of his reign, Hanan-cuzcos on one side of the square and Hurin-cuzcos on the other; his lineage (panaca) maintained the cult, and its members consumed the offerings after the dead lord had 'taken' them. Molina describes the festival rounds of washing - in the baths the mummy had used alive - warming with sancu, and serving the dishes the dead king had loved best; the food given to the body was then eaten by its keepers, an economy of presence in which the dead dignified the living meal.\n\nThe corpses were political instruments. They ratified successions, were carried in triumphs, were consulted through their huauqui or oracle-brother - the idol in which each king's familiar spirit spoke - and on campaign served as standards: the Chanca war was fought around the embalmed Uscovilca; Huayna Capac took his ancestor Manco's statue to Quito. When Huascar needed legitimacy he had his mother ritually married to his father's mummy. When the Spaniards arrived, the mummies became resistance: many were hidden, and Polo de Ondegardo's 1559 confiscations - recovering Manco Capac's stone, Sinchi Rocca's body and fish-shaped idol, Viracocha's ashes in a vase after Gonzalo Pizarro had burned the body for gold - read like an archaeology of a suppressed government.\n\nBeside the dead kings sat the living god. In the Coricancha the great gold plate bore the sun's face; around it the kings sat with sceptres, as around a hearth. The Sun was fed like the mummies: chicha poured into a gold jar in the courtyard, meat set out on plates, and - Garcilaso's inimitable rationalization - the liquor that disappeared had truly been drunk, by the sun's heat. A runner carried news of victories to the temple, as to a living lord; the priests got up thanksgivings and new sacrifices. Between the ancestors and the Sun the whole apparatus of Andean presence is visible: personhood does not stop at death, divinity does not stop at matter, and a court is a form of eternity.\n\nThe colonial destruction of this system was thorough - bodies burned, idols melted, names forbidden - yet the practice left descendants: the Montesinos-era 'mummy oracles', the Qorikancha as church and museum, and modern Quechua ancestor practices at the same shrines. The record assembled here is necessarily the persecutors' inventory: it is precisely because the mummies were confiscated, described and catalogued as evidence that we know how they lived." },
+  "functions": [
+    "Maintains the dead king's personhood as a continuing political actor in the state",
+    "Organizes the panaca lineages as cult corporations of each deceased Inca",
+    "Sanctifies royal successions and wars through the presence of ancestral bodies",
+    "Models divine and human presence alike as feeding, washing and counsel - the Andean ontology of the living dead"
+  ],
+  "variants": [
+    {
+      "name": "Polo's confiscation inventory",
+      "text_tradition": "Polo de Ondegardo via Sarmiento and Cobo",
+      "summary": "Polo's 1559 recovery of the bodies and guauquis of Manco Capac, Sinchi Rocca and others - the administrative record of the cult's suppression.",
+      "cross_ref": "inca-manco-capac-stone-bimbilla"
+    },
+    {
+      "name": "Salcamayhua's Huayna Capac obsequies",
+      "text_tradition": "Antiquities of Peru (Markham 1873)",
+      "summary": "The mourning for Huayna Capac: white vicuña wool, soldiers bearing the body through the city singing a war-song, women with shorn hair flogging themselves for a week.",
+      "cross_ref": "inca-mourning-viracocha-inca"
+    }
+  ],
+  "primary_sources": [
+    { "work": "Molina of Cuzco, Fables and Rites of the Yncas", "citation": "MS c. 1575; publ. Markham 1873", "language": "Spanish record of Quechua practice" },
+    { "work": "Garcilasso de la Vega, Royal Commentaries", "citation": "publ. 1609 Lisbon/1616 Córdoba; trans. Markham, London 1871", "language": "Spanish (mestizo author)" }
+  ],
+  "secondary_sources": [
+    { "work": "R. Tom Zuidema, 'The Lion in the City'", "citation": "Zuidema's studies of Cuzco's social structure and royal mummies (1964-1990)." },
+    { "work": "Carolyn Dean, A Culture of Stone", "citation": "Dean 2010, Duke University Press - on Inca petrification and lithic personhood." }
+  ],
+  "source_urls": [
+    { "url": "https://www.gutenberg.org/ebooks/79927", "description": "Molina, Fables and Rites (Markham 1873)", "accessed": "2026-11-14" },
+    { "url": "https://archive.org/details/firstpartroyalc01markgoog", "description": "Garcilasso de la Vega, Royal Commentaries (Markham 1871)", "accessed": "2026-11-14" }
+  ],
+  "sensitivity_flag": "colonial_era_collection_caution",
+  "sensitivity_guidance": "The record derives largely from confiscation inventories compiled during the 1559-72 idolatry campaigns; descendant communities (panaca lineages in Cuzco) and Peruvian heritage authorities hold the memory of these bodies. Do not treat looted funerary objects as neutral museum artifacts in commentary.",
+  "provenance": { "record_status": "complete", "compiled": "2026-11-14", "compiled_by": "DHG508 fieldwork compilation", "review_status": "draft - pending human review" }
+}
+] }

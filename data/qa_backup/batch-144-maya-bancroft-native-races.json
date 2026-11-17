@@ -1,0 +1,537 @@
+{
+  "texts": [
+    {
+      "id": "maya-bancroft-zamna-kukulcan",
+      "title": {
+        "en": "Zamna and Kukulcan, Lords of the Dawn",
+        "zh": "扎姆納與庫庫爾坎：黎明之主"
+      },
+      "tradition": "maya",
+      "category": "myth",
+      "region": {
+        "en": "Izamal, Yucatan, Mexico",
+        "zh": "墨西哥猶加敦伊扎馬爾"
+      },
+      "lat": 20.92,
+      "lon": -89.03,
+      "period": "Compendium of sixteenth-century sources (Cogolludo, Lizana, Landa); Bancroft 1883",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Hubert Howe Bancroft, The Native Races of the Pacific States, vol. III: Myths and Languages (1883), ch. XI",
+        "url": "https://archive.org/details/nativeracesofpac03banc"
+      },
+      "license": "Public domain (Bancroft 1883)",
+      "summary": {
+        "en": "Zamna came from the west after the fall of the Quinamean Empire and was received with respect wherever he stayed; he invented the alphabet and named every point and place in the country. Over his grave rose the city of Izamal, a chief center of pilgrimage, where the afflicted resorted to the temple of the working hand, Kab Ul, whose touch restored health.",
+        "zh": "基納梅安帝國傾覆之後，扎姆納自西方而來，所至之處皆受尊禮；他發明文字，為國中每一處所命名。其墓上起城伊扎馬爾，遂為半島朝聖之中心；病者往其「工作之手」（卡布·烏爾）神廟，謂觸之可癒。"
+      },
+      "motifs": [
+        "culture-hero",
+        "sacred-kingship",
+        "sacred-place"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Compendium of sixteenth-century colonial sources; paraphrase of public-domain text only."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The tradition relates that some time after the fall of the Quinamean Empire, Zamna appeared in Yucatan, coming from the west, and was received with great respect wherever he stayed. Besides being the inventor of the alphabet, he is said to have named all points and places in the country. Over his grave rose a city called Izamal, which soon became one of the chief centres of pilgrimage in the peninsula, especially for the afflicted.",
+          "note": "Condensed from Bancroft (1883), ch. XI; not verbatim throughout."
+        },
+        {
+          "id": "2",
+          "text": "This class of devotees generally resorted to the temple where he was represented in the form of a hand, Kab Ul, or working hand, whose touch was sufficient to restore health. The most popular names were Zamna and Cukulcan, both culture-heroes, and considered by some to be identical; a very probable supposition when we consider that Quetzalcoatl, who is admitted to be the same as Cukulcan, had the attribute of the strong hand, as well as Zamna.",
+          "note": "Condensed from Bancroft (1883), ch. XI; not verbatim throughout."
+        }
+      ],
+      "persons": [
+        "itzamna",
+        "kukulkan"
+      ]
+    },
+    {
+      "id": "maya-bancroft-kinich-kakmo",
+      "title": {
+        "en": "Kinich Kakmo Draws the Fire of Noon",
+        "zh": "基尼奇·卡克莫引取正午之火"
+      },
+      "tradition": "maya",
+      "category": "myth",
+      "region": {
+        "en": "Izamal, Yucatan, Mexico",
+        "zh": "墨西哥猶加敦伊扎馬爾"
+      },
+      "lat": 20.92,
+      "lon": -89.03,
+      "period": "Compendium of sixteenth-century sources; Bancroft 1883",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Hubert Howe Bancroft, The Native Races of the Pacific States, vol. III (1883), ch. XI",
+        "url": "https://archive.org/details/nativeracesofpac03banc"
+      },
+      "license": "Public domain (Bancroft 1883)",
+      "summary": {
+        "en": "In the same city was an image of Kinich Kakmo, 'face or eye of the sun', whom Landa represents as the offspring of the sun, but who subsequently became identified with that luminary. He is represented in the act of sacrifice, pointing the finger toward a ray from the midday sun, as if to draw a spark wherewith to kindle the sacred fire; to this idol the people resorted in times of calamity and sickness.",
+        "zh": "同城有基尼奇·卡克莫之像——「日之面或目」——蘭達記其為太陽之子，後與太陽合一。像作獻祭之狀，指日中光芒，似欲引取火星以燃聖火；凡遭災病，民皆詣此求諭。"
+      },
+      "motifs": [
+        "fire-theft",
+        "theophany",
+        "oracle-divination"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Compendium of sixteenth-century colonial sources; paraphrase of public-domain text only."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "In the same city was an image of Kinich Kakmo, 'face or eye of the sun', whom Landa represents to be the offspring of the sun, but who subsequently became identified with that luminary and received divine honors in the very temple that he had erected to his father. He is represented in the act of sacrifice, pointing the finger toward a ray from the midday sun, as if to draw a spark wherewith to kindle the sacred fire.",
+          "note": "Condensed from Bancroft (1883), ch. XI; not verbatim throughout."
+        },
+        {
+          "id": "2",
+          "text": "To this idol the people resorted in times of calamity and sickness, bringing offerings to induce oracular advice. Lizana translates the name as 'Sol con rostro' — the sun with a face whose rays are of fire.",
+          "note": "Condensed from Bancroft (1883), ch. XI; not verbatim throughout."
+        }
+      ],
+      "persons": [
+        "itzamna"
+      ]
+    },
+    {
+      "id": "maya-bancroft-deified-kings",
+      "title": {
+        "en": "Yuncemil, Acat, and Baklum Chaam: The Deified Kings of Yucatan",
+        "zh": "尤恩塞米爾、阿卡特與巴克盧姆·查姆：猶加敦的神化君王"
+      },
+      "tradition": "maya",
+      "category": "myth",
+      "region": {
+        "en": "Merida (Tihoo), Yucatan, Mexico",
+        "zh": "墨西哥猶加敦梅里達（蒂霍）"
+      },
+      "lat": 20.97,
+      "lon": -89.62,
+      "period": "Compendium of sixteenth-century sources; Bancroft 1883",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Hubert Howe Bancroft, The Native Races of the Pacific States, vol. III (1883), ch. XI",
+        "url": "https://archive.org/details/nativeracesofpac03banc"
+      },
+      "license": "Public domain (Bancroft 1883)",
+      "summary": {
+        "en": "The gods of Yucatan were almost all kings placed among the divinities by gratitude or terror. Yuncemil was Lord of Death, propitiated with offerings of food; Acat was God of Life, who formed the infant in the womb; at Tihoo stood the temple of Yahau Kuna where Baklum Chaam, the Priapus of the Mayas, was worshipped; Chac, a former king of Izamal, was honored as god of fields and inventor of agriculture.",
+        "zh": "猶加敦諸神幾乎皆為君王，因感恩或畏懼而位列神班。尤恩塞米爾為死亡之主，以食祭安撫；阿卡特為生命之神，於母腹中塑胎兒；蒂霍有雅豪·庫納神廟，供奉馬雅的普里阿普斯巴克盧姆·查姆；查克——伊扎馬爾昔日之王——尊為田疇之神、農耕之發明者。"
+      },
+      "motifs": [
+        "sacred-kingship",
+        "sacred-place",
+        "theophany"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Compendium of sixteenth-century colonial sources; paraphrase of public-domain text only."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Yuncemil was Lord of Death, or, perhaps, the personification of death itself; this dread deity was propitiated with offerings of food. Acat was God of Life; he it was that formed the infant in the womb. At Tihoo, the present Merida, stood the magnificent temple of Yahau Kuna in which Baklum Chaam, the Priapus of the Mayas and their most ancient god was worshipped.",
+          "note": "Condensed from Bancroft (1883), ch. XI; not verbatim throughout."
+        },
+        {
+          "id": "2",
+          "text": "Chac, or Chaac, a former king of Izamal, was honored as the god of fields, and fertility, and the inventor of agriculture. Some distance southwest of this city was the temple of Hunpictok, 'commander of eight thousand lances', a title given also to the general of the army. The most popular names were Zamna and Cukulcan, both culture-heroes.",
+          "note": "Condensed from Bancroft (1883), ch. XI; not verbatim throughout."
+        }
+      ],
+      "persons": [
+        "chac",
+        "itzamna",
+        "kukulkan"
+      ]
+    },
+    {
+      "id": "maya-bancroft-cross-cozumel",
+      "title": {
+        "en": "The Cross of Cozumel and the Prophecy of the Strangers",
+        "zh": "科蘇梅爾之十字與異邦人預言"
+      },
+      "tradition": "maya",
+      "category": "myth",
+      "region": {
+        "en": "Cozumel, Yucatan, Mexico",
+        "zh": "墨西哥猶加敦科蘇梅爾"
+      },
+      "lat": 20.5,
+      "lon": -86.98,
+      "period": "Compendium of sixteenth-century sources; Bancroft 1883",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Hubert Howe Bancroft, The Native Races of the Pacific States, vol. III (1883), ch. XI",
+        "url": "https://archive.org/details/nativeracesofpac03banc"
+      },
+      "license": "Public domain (Bancroft 1883)",
+      "summary": {
+        "en": "Among the prophets who arose before the Conquest was one who predicted the coming of a strange people from the direction of the rising sun, who would bring a monotheistic faith having the cross for its emblem; he admonished them to accept the new religion and erected a cross as a token of his prophecy. The first cross the Spaniards found stood in a temple on Cozumel, of lime and stone, and to it the natives prayed for rain, offering quails in times of drought.",
+        "zh": "征服前夕，諸先知中有一位預言：將有奇異之族自日出之方而來，攜一神教，以十字為其表記；並勸民納新教，且立一十字為其預言之證。西班牙人所見的第一座十字立於科蘇梅爾島神廟之中，以石灰與石所造；土人向之祈雨，逢旱抬犧牲列隊而祭。"
+      },
+      "motifs": [
+        "prophetic-vision",
+        "theophany",
+        "sacred-place"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Compendium of colonial sources; paraphrase of public-domain text only."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The natives had a tradition, however, which placed the introduction of the cross a few years before the conquest. Among the many prophets who arose at that time was one who predicted the coming of a strange people from the direction of the rising sun, who would bring with them a monotheistic faith having the cross for its emblem. He admonished them to accept the new religion, and erected a cross as a token of his prophecy.",
+          "note": "Condensed from Bancroft (1883), ch. XI; not verbatim throughout."
+        },
+        {
+          "id": "2",
+          "text": "The first cross noticed by the Spaniards stood within the turreted courtyard of a temple on Cozumel Island; it was composed of lime and stone, and was ten spans in height. To this cross the natives prayed for rain, and in times of drought went in procession to offer vahomche, as they called the symbol, quails and other propitiatory gifts.",
+          "note": "Condensed from Bancroft (1883), ch. XI; not verbatim throughout."
+        }
+      ],
+      "persons": [
+        "chilambalam"
+      ]
+    },
+    {
+      "id": "maya-bancroft-ekchuah-heaps",
+      "title": {
+        "en": "Stones for Ekchuah: The Wayfarer's Heap",
+        "zh": "埃克丘瓦之石：行旅的石堆"
+      },
+      "tradition": "maya",
+      "category": "myth",
+      "region": {
+        "en": "Roads of Yucatan, Mexico",
+        "zh": "墨西哥猶加敦道路"
+      },
+      "lat": 20.6,
+      "lon": -89.0,
+      "period": "Compendium of sixteenth-century sources; Bancroft 1883",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Hubert Howe Bancroft, The Native Races of the Pacific States, vol. III (1883), ch. XI",
+        "url": "https://archive.org/details/nativeracesofpac03banc"
+      },
+      "license": "Public domain (Bancroft 1883)",
+      "summary": {
+        "en": "Ekchuah, the Holy Ghost of the traders, was the patron god of merchants and travelers. It was the custom of Yucatec wayfarers, when passing some prominent point on the road where an image of Ekchuah stood, to add a stone or two to the heap already accumulated there — an act of devotion similar to that performed by the Romans in honor of Mercury.",
+        "zh": "埃克丘瓦——商旅的「聖靈」——為商賈與行旅的守護神。猶加敦旅人凡過路旁立有埃克丘瓦像之處，必投一石於既有石堆之上——一如羅馬人向墨丘利致敬之俗。"
+      },
+      "motifs": [
+        "sacred-place",
+        "culture-hero"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Compendium of sixteenth-century colonial sources; paraphrase of public-domain text only."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "It was the custom of Yucatec wayfarers, when passing some prominent point on the road or spot where an image of Echuah stood, to add a stone or two to the heap already accumulated there, an act of devotion similar to that performed by the Romans in honor of Mercury. Echuah, or the Holy Ghost, was the patron god of merchants and travelers.",
+          "note": "Condensed from Bancroft (1883), ch. XI; not verbatim throughout."
+        }
+      ],
+      "persons": [
+        "kisin"
+      ]
+    },
+    {
+      "id": "maya-bancroft-votan-palenque",
+      "title": {
+        "en": "Votan, the Heart of the People: Founder of Palenque",
+        "zh": "沃坦——民族之心：帕倫克奠基者"
+      },
+      "tradition": "maya",
+      "category": "myth",
+      "region": {
+        "en": "Palenque (Nachan), Chiapas, Mexico",
+        "zh": "墨西哥恰帕斯帕倫克（納昌）"
+      },
+      "lat": 17.48,
+      "lon": -92.04,
+      "period": "Tzendal tradition recorded by Nunez de la Vega and Ordonez y Aguiar; Bancroft 1883",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Hubert Howe Bancroft, The Native Races of the Pacific States, vol. III (1883), ch. X",
+        "url": "https://archive.org/details/nativeracesofpac03banc"
+      },
+      "license": "Public domain (Bancroft 1883)",
+      "summary": {
+        "en": "Votan — 'heart', the most prominent deity of the Tzendals of Chiapas — proceeded by divine command to America and portioned out the land. Departing from Valum Chivim, passing the dwelling of the thirteen snakes, he arrived at Valum Votan, took several of his family, ascended the Usumacinta, and founded Nachan, or Palenque, the future metropolis of a mighty kingdom.",
+        "zh": "沃坦——恰帕斯操特桑達爾語者最尊之神，其名意為「心」——奉神命而至美洲，分配其地。自瓦盧姆·奇維姆啟程，經「十三蛇之居」，抵瓦盧姆·沃坦；攜家族數人，上溯烏蘇馬辛塔河，建納昌——即帕倫克，日後強大帝國之都。"
+      },
+      "motifs": [
+        "culture-hero",
+        "sacred-place",
+        "otherworld-voyage"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Colonial-recorded Tzendal tradition; paraphrase of public-domain text only."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "From the confused tradition of the Tzendals, as rendered by Nunez de la Vega and Ordonez y Aguiar, it seems that Votan proceeded by divine command to America and there portioned out the land. He accordingly departed from Valum Chivim, passed by the dwelling of the thirteen snakes, and arrived in Valum Votan, where he took with him several of his family to form the nucleus of the settlement.",
+          "note": "Condensed from Bancroft (1883), ch. X; not verbatim throughout."
+        },
+        {
+          "id": "2",
+          "text": "With them he passed through the island-strewn Laguna de Terminos, ascended the Usumacinta, and here, on one of its tributaries, founded Nachan, or Palenque, the future metropolis of a mighty kingdom. The Tzendal inhabitants bestowed upon the strange-looking new-comers the name Tzequiles, 'men with petticoats', on account of their long robes, but soon exchanged ideas and customs with them.",
+          "note": "Condensed from Bancroft (1883), ch. X; not verbatim throughout."
+        }
+      ],
+      "persons": [
+        "kukulkan"
+      ]
+    },
+    {
+      "id": "maya-bancroft-house-of-darkness",
+      "title": {
+        "en": "The House of Darkness and the Serpent Hole of Votan",
+        "zh": "沃坦的黑暗之屋與蛇穴"
+      },
+      "tradition": "maya",
+      "category": "myth",
+      "region": {
+        "en": "Huehuetan River, Chiapas, Mexico",
+        "zh": "墨西哥恰帕斯韋韋坦河"
+      },
+      "lat": 16.1,
+      "lon": -92.6,
+      "period": "Tzendal tradition recorded by Nunez de la Vega and Ordonez y Aguiar; Bancroft 1883",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Hubert Howe Bancroft, The Native Races of the Pacific States, vol. III (1883), ch. X",
+        "url": "https://archive.org/details/nativeracesofpac03banc"
+      },
+      "license": "Public domain (Bancroft 1883)",
+      "summary": {
+        "en": "Among the monuments left by the hero was a temple on the Huehuetan River called 'house of darkness', from its subterranean chambers, where the records of the nation were deposited under the charge of a fixed number of old men called tlapianes, or guardians, and an order of priestesses. A Tzendal legend relates that a subterranean passage leading from Palenque was constructed in commemoration of the celestial passage, the 'serpent hole', into which Votan, in his quality of snake, was admitted.",
+        "zh": "英雄遺跡中，有韋韋坦河畔一廟，因地下密室而名「黑暗之屋」，國之典冊藏於其中，由定數的老者（特拉皮亞內斯，守護者）與一女祭司團看管。另傳帕倫克外有一地下甬道，為紀念那「蛇穴」而建——沃坦以其蛇身曾蒙允進入的天上通道。"
+      },
+      "motifs": [
+        "sacred-place",
+        "descent-underworld",
+        "world-serpent"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Colonial-recorded Tzendal tradition; paraphrase of public-domain text only."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Among the monuments left by the hero was a temple on the Huehuetan River, called 'house of darkness', from its subterranean chambers, where the records of the nation were deposited under the charge of a fixed number of old men, termed tlapianes, or guardians, and an order of priestesses, whose superior was likewise the head of the male members. Here were also kept a number of tapirs, a sacred animal among the people.",
+          "note": "Condensed from Bancroft (1883), ch. X; not verbatim throughout."
+        },
+        {
+          "id": "2",
+          "text": "A Tzendal legend relates that a subterranean passage, leading from Palenque to Tulha, near Ococingo, was constructed in commemoration of the celestial passage, or 'serpent hole', into which Votan, in his quality of snake, was admitted. One of his titles was 'lord of the hollow tree', the teponaztli.",
+          "note": "Condensed from Bancroft (1883), ch. X; not verbatim throughout."
+        }
+      ],
+      "persons": [
+        "kukulkan"
+      ]
+    },
+    {
+      "id": "maya-bancroft-comizahual",
+      "title": {
+        "en": "Comizahual, the Flying Tigress of Cerquin",
+        "zh": "塞爾欽的飛豹女科米薩瓦爾"
+      },
+      "tradition": "maya",
+      "category": "myth",
+      "region": {
+        "en": "Cerquin (Gracias), Honduras",
+        "zh": "宏都拉斯塞爾欽（格拉西亞斯）"
+      },
+      "lat": 14.5,
+      "lon": -88.6,
+      "period": "Tradition recorded by Palacio and Torquemada; Bancroft 1883",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Hubert Howe Bancroft, The Native Races of the Pacific States, vol. III (1883), ch. XI",
+        "url": "https://archive.org/details/nativeracesofpac03banc"
+      },
+      "license": "Public domain (Bancroft 1883)",
+      "summary": {
+        "en": "The culture-tradition of Cerquin speaks of a beautiful white woman, Comizahual, 'the flying tigress', a reputed sorceress, as the introducer of civilization. She descended from heaven, was carried by an invisible hand to the city of Cealcoquin, where she built a palace and set in the chief temple a stone bearing three hideous faces on each of its three sides, by whose aid she conquered her enemies. A virgin, yet three sons were born to her; grown old, she commanded her attendants to carry her bed to the highest part of the palace, and suddenly disappeared amid thunder and lightning — whereupon a beautiful bird flew upward and vanished.",
+        "zh": "塞爾欽的文明起源傳說講到一位美麗的白人女子科米薩瓦爾——「飛豹」，傳為女巫，文明之引入者。她自天而降，被無形之手攜至西亞爾科欽城，建宮殿，於主廟立一石——三面各有三張猙獰面孔——憑此石降服諸敵。她守貞而誕三子；年老之際，命侍者抬其臥榻至宮殿最高處，遂於雷電之中消失——其時有一美鳥騰空而逝。"
+      },
+      "motifs": [
+        "miraculous-birth",
+        "ascension",
+        "sacred-kingship",
+        "transformation"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Sixteenth-century colonial-recorded tradition; paraphrase of public-domain text only."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Their culture-tradition speaks of a beautiful white woman, called Comizahual, or 'flying tigress', a reputed sorceress, as the introducer of civilization in Cerquin. She is said to have descended from heaven and to have been transported by an invisible hand to the city of Cealcoquin, where she built a palace adorned with monstrous figures of men and animals, and placed in the chief temple a stone having on each of its three sides three faces of strange and hideous aspect; by aid of this stone she conquered her enemies.",
+          "note": "Condensed from Bancroft (1883), ch. XI; not verbatim throughout."
+        },
+        {
+          "id": "2",
+          "text": "She remained a virgin, yet three sons were born to her, among whom she divided the kingdom when she grew old. After arranging her affairs, she commanded her attendants to carry her on her bed to the highest part of the palace, whence she suddenly disappeared amid thunder and lightning, doubtless to resume her place among the gods; directly afterwards a beautiful bird was seen to fly upwards and disappear. The people erected a temple in her honor, where the priest delivered her oracles.",
+          "note": "Condensed from Bancroft (1883), ch. XI; not verbatim throughout."
+        }
+      ],
+      "persons": [
+        "ixchel"
+      ]
+    },
+    {
+      "id": "maya-bancroft-horse-worship",
+      "title": {
+        "en": "The Itza Adore the Horse of Cortes",
+        "zh": "伊察人拜科爾特斯之馬"
+      },
+      "tradition": "maya",
+      "category": "myth",
+      "region": {
+        "en": "Tayasal, Lake Peten, Guatemala",
+        "zh": "危地馬拉佩滕湖塔亞薩爾"
+      },
+      "lat": 16.92,
+      "lon": -89.89,
+      "period": "Events of 1525; recorded by Villagutierre (1701); Bancroft 1883",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Hubert Howe Bancroft, The Native Races of the Pacific States, vol. III (1883), ch. XI, on the Itza worship",
+        "url": "https://archive.org/details/nativeracesofpac03banc"
+      },
+      "license": "Public domain (Bancroft 1883)",
+      "summary": {
+        "en": "When Cortes passed through the Itza country in 1525 he left a lame horse behind, which the Itza fed with flowers, flesh, and incense as a god; the offerings did not sustain it, and before long the bones of the apotheosized charger were all that remained to his worshippers. In another place was a stone-and-lime imitation of the horse, seated on the floor on its haunches, which the natives adored in the same manner — animal worship the more readily admitted since their gods were supposed to assume such forms.",
+        "zh": "1525年科爾特斯過伊察之地，遺下一匹跛馬；伊察人奉之為神，以花、肉與香祭養；然供養不足，不久此「神馬」唯餘骸骨，徒留拜者。另處尚有一座以石灰石仿製的馬像，蹲坐於地，土人亦以同禮敬拜——因他們本信諸神可化獸形，故獸崇拜易被接受。"
+      },
+      "motifs": [
+        "theophany",
+        "taboo-transgression",
+        "sacred-kingship"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Colonial-recorded tradition; paraphrase of public-domain text only."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "They brought it thunder, and brought it flowers, flesh, and incense; but such offerings did not sustain life, and it was not long before the bones of the apotheosized charger were all that remained to his worshippers. In another place was a stone and lime imitation of this horse, seated on the floor on its haunches, which the natives adored in the same manner. This animal-worship was the more readily admitted, since their gods were supposed to assume such forms.",
+          "note": "Condensed from Bancroft (1883), ch. XI, on the Itza worship (Villagutierre 1701); not verbatim throughout."
+        }
+      ],
+      "persons": [
+        "kukulkan"
+      ]
+    },
+    {
+      "id": "maya-bancroft-lacandon-sun",
+      "title": {
+        "en": "The Lacandones Adore the Sun Without Images",
+        "zh": "拉坎敦人不立像而拜日"
+      },
+      "tradition": "maya",
+      "category": "myth",
+      "region": {
+        "en": "Chiapas, Mexico",
+        "zh": "墨西哥恰帕斯"
+      },
+      "lat": 16.7,
+      "lon": -92.0,
+      "period": "Compendium of sources; Bancroft 1883",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Hubert Howe Bancroft, The Native Races of the Pacific States, vol. III (1883), ch. XI",
+        "url": "https://archive.org/details/nativeracesofpac03banc"
+      },
+      "license": "Public domain (Bancroft 1883)",
+      "summary": {
+        "en": "The purest form of sun-worship appears among the Lacandones, who adored the luminary without the intervention of an image, and sacrificed before it in the Mexican fashion. They had temples, the walls of which were decorated with hieroglyphs of the sun and moon, and with a figure in the act of praying to the sun.",
+        "zh": "拉坎敦人保有最純粹的太陽崇拜：他們不假像設，直拜日輪，並仿墨西哥之式於日前獻祭。彼有神廟，牆上繪日月之象形文字，並繪一人向日祈禱之像。"
+      },
+      "motifs": [
+        "theophany",
+        "sun-capture"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Living Lacandón religion described in a compendium; paraphrase of public-domain text only."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The purest form of sun-worship appears among the Lacandones, who adored the luminary without the intervention of an image, and sacrificed before it in the Mexican fashion. They had temples, however, the walls of which were decorated with hieroglyphs of the sun and moon, and with a figure in the act of praying to the sun.",
+          "note": "Condensed from Bancroft (1883), ch. XI; not verbatim throughout."
+        }
+      ],
+      "persons": [
+        "hachakyum"
+      ]
+    },
+    {
+      "id": "maya-bancroft-chamalcan",
+      "title": {
+        "en": "Chamalcan: The Bat God of the Zotzil Royal House",
+        "zh": "查馬爾坎：佐茲爾王室的蝙蝠神"
+      },
+      "tradition": "maya",
+      "category": "myth",
+      "region": {
+        "en": "Guatemala highlands",
+        "zh": "危地馬拉高地"
+      },
+      "lat": 15.1,
+      "lon": -91.35,
+      "period": "Compendium of sources (Brasseur 1861); Bancroft 1883",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Hubert Howe Bancroft, The Native Races of the Pacific States, vol. III (1883), ch. XI",
+        "url": "https://archive.org/details/nativeracesofpac03banc"
+      },
+      "license": "Public domain (Bancroft 1883)",
+      "summary": {
+        "en": "The chief god of the Cakchiquels, Chamalcan, had many of the attributes of Tohil but took the form of a bat, the symbol of the royal house of the Zotzil. Every seventh and thirteenth day of the month the priests placed before him bloodstained thorns, fresh white resin, bark and branches of pine, and a cat, the emblem of night, which were burned in his honor.",
+        "zh": "卡克奇克爾主神查馬爾坎具托希爾之諸德，卻以蝙蝠為形——此乃佐茲爾王室之徽。每月第七與第十三日，祭司置染血之刺、新潔白脂、松皮松枝，及象徵黑夜之貓於其前，焚之以為其榮。"
+      },
+      "motifs": [
+        "theophany",
+        "taboo-transgression",
+        "sacred-kingship"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Compendium of sources; paraphrase of public-domain text only."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The chief god of the Cakchiquels, Chamalcan, had many of the attributes of Tohil, but took the form of a bat, the symbol of the royal house of Zotzil. Every seventh and thirteenth day of the month the priests placed before him bloodstained thorns, fresh white resin, bark and branches of pine, and a cat, the emblem of night, which were burned in his honor.",
+          "note": "Condensed from Bancroft (1883), ch. XI; not verbatim throughout."
+        }
+      ],
+      "persons": [
+        "camazotz",
+        "tohil"
+      ]
+    }
+  ]
+}

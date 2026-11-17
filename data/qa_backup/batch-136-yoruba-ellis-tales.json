@@ -1,0 +1,189 @@
+{
+  "texts": [
+    {
+      "id": "yoruba-goblin-palm-oil-girls",
+      "title": { "en": "The Goblin and the Two Palm-Oil Sellers", "zh": "妖靈與兩個賣油女" },
+      "tradition": "yoruba",
+      "category": "myth-religion",
+      "region": { "en": "Yoruba market-roads to Deadland (symbolic pin: road from the market at Ile-Ife)", "zh": "約魯巴通往冥土的市路（象徵定位：伊費市集外的大路）" },
+      "lat": 7.5,
+      "lon": 4.54,
+      "period": "Yoruba oral tradition; recorded 1894 (Ellis)",
+      "source": { "archive": "Internet Archive", "work": "A. B. Ellis, The Yoruba-speaking Peoples of the Slave Coast of West Africa (London, 1894), ch. XIV", "url": "https://archive.org/details/yorubaspeakingp01elligoog" },
+      "license": "Public domain (published 1894)",
+      "summary": { "en": "A short-changed girl follows a goblin past head-pounders, a river of filth, a bloody river, gloomy forest, and a craggy mountain, into the land of the dead, where she does everything backwards — oil for the dregs, fruit for the peel — and is rewarded with three ados that break into slaves, herds, and a houseful of cowries. The jealous head-wife sends her own daughter, who cheats the goblin and does everything forwards — and the last ado she breaks calls up lions, leopards, hyenas and snakes that tear her apart at her own door.", "zh": "賣油女被妖靈短找一枚貝幣，鍥而不捨追進冥土：經過頭杵搗薯之國、穢水之河、血河、幽林與危崖。在那裡她事事反著做——油自留、渣奉主、果自吃、皮奉主——得三枚小葫蘆為賞：途中碎一枚，奴馬隨行；門前碎一枚，牛羊雞群湧至；入屋碎一枚，貝幣盈室。妒忌的大婦遣親女效仿，卻欺妖賴帳、事事順做，最後一枚葫蘆一碎，獅豹鬣蛇蜂擁而出，將她咬死在自家門檻。" },
+      "motifs": ["descent-underworld", "trickster", "boon-curse"],
+      "sensitivity": { "restricted": false, "note": "Living Yoruba tradition; classic two-sisters wonder tale with a katabasis (journey to the land of the dead). Cross-tradition parallels abound; descent to the underworld cluster. Cross-refs: greek-odyssey-nekuia (motif family only)." },
+      "persons": [],
+      "passages": [
+        { "id": "1", "text": "A woman's little girl made palm-oil and stayed in the market selling it until it was quite dark, when a goblin came to buy and paid her with cowries — one short. She cried that her mother would beat her, and followed the goblin, who warned her to turn back, for no one can enter the country where he lives. \"Wherever you go I will follow, until you pay me my cowry,\" she said. So she followed past the country where people stand on their heads in their mortars and pound yams with their heads, past a river of filth, a bloody river, a gloomy forest, and a craggy mountain — he singing \"You must turn back,\" she singing \"Save I get my cowry, I'll not leave your track\" — until they arrived at the land of dead people.", "note": "Paraphrase of Ellis, The Yoruba-speaking Peoples, ch. XIV (1894); not verbatim." },
+        { "id": "2", "text": "There the goblin gave her palm-nuts to make oil and bade her eat the oil and give him the ha-ha, the stringy remains; but when it was made she gave him the oil and ate the ha-ha herself, and he said, \"Very well.\" He gave her a banana and told her to eat it and bring him the skin; she peeled it and gave him the fruit and ate the skin herself. Then he told her to pick three small calabashes, not those which cried \"Pick me, pick me, pick me,\" but those which said nothing, and to break one half-way home, one at the house-door, and one inside. At the first break slaves and horses appeared and followed her; at the second, sheep, goats, and fowls, more than two hundred; and at the third the house was filled to overflowing with cowries.", "note": "Paraphrase of Ellis, The Yoruba-speaking Peoples, ch. XIV (1894); not verbatim." },
+        { "id": "3", "text": "The mother carried a royal present of cloths, beads, sheep and fowls to the head wife, who refused them and sent her own daughter to do the same. This girl short-changed the goblin herself, hiding a cowry and demanding payment, and followed him to the land of the dead — where she did everything exactly as told: ate the oil and gave him the ha-ha, ate the banana and gave him the skin, and picked the three calabashes that cried \"Pick me.\" Half-way home she broke the first, and numbers of lions, leopards, hyenas and snakes appeared, harassing and biting her all the way to the door; at the second break more ferocious beasts came upon her, and there, upon the threshold — the deaf person within hearing nothing — the wild beasts killed the little girl.", "note": "Paraphrase of Ellis, The Yoruba-speaking Peoples, ch. XIV (1894); not verbatim." }
+      ]
+    },
+    {
+      "id": "yoruba-aranran-bird-bounty",
+      "title": { "en": "The Aranran Bird and the Two Mothers", "zh": "阿蘭蘭神鳥與兩位母親" },
+      "tradition": "yoruba",
+      "category": "myth-religion",
+      "region": { "en": "Yoruba forest (symbolic pin: tall tree in the woodcutting wood, near Ile-Ife)", "zh": "約魯巴森林（象徵定位：伊費近郊伐木高樹）" },
+      "lat": 7.5,
+      "lon": 4.54,
+      "period": "Yoruba oral tradition; recorded 1894 (Ellis)",
+      "source": { "archive": "Internet Archive", "work": "A. B. Ellis, The Yoruba-speaking Peoples of the Slave Coast of West Africa (London, 1894), ch. XIV", "url": "https://archive.org/details/yorubaspeakingp01elligoog" },
+      "license": "Public domain (published 1894)",
+      "summary": { "en": "A poor young woman's baby is snatched into a tall tree by the aranran bird; three times she sings her plea, refusing coral beads and treasure until the bird brings down the child itself — and she goes home rich. The head-wife, greedy for the same fortune, sets another wife's child under the tree: the bird eats it, and answers her songs with a bag of filth, a broken calabash of water, and the child's bones — for which murder the king has her put to death.", "zh": "貧婦伐薪時，幼子被神鳥阿蘭蘭攫上高樹。她三度唱歌求還，先拋下珊瑚珠串、再拋下財寶，她皆不取，直至神鳥親銜孩子落地——她從此富貴。大婦豔羨，竟將別房妻室的孩子置於樹下。神鳥食之，回以一袋穢物、一破甕冷水、一捧孩骨。事發，國王判大婦死刑。" },
+      "motifs": ["boon-curse", "taboo-transgression"],
+      "sensitivity": { "restricted": false, "note": "Living Yoruba tradition; the discomfiture of the iyale (head-wife) is a favourite Yoruba tale-theme, noted by Ellis. Contains the killing of a child within the tale; reported as recorded." },
+      "persons": [],
+      "passages": [
+        { "id": "1", "text": "There was a poor young woman who had a child, so poor that she could not even buy a cloth to wear, her child held on her back with a plantain-leaf. Going into the forest to cut firewood, she put the child to sleep in the shade of a tall tree; and in this tree there was an aranran, a bird of prey, which while she worked seized the child and carried it up into the tree-top. When she could not find her baby she ran to and fro crying, till she looked up and saw him in the claws of the bird, and began to sing: \"Aranran, wild bird of the bush, give me back my child; here is a rope of tie-tie; quickly let my child down.\"", "note": "Paraphrase of Ellis, The Yoruba-speaking Peoples, ch. XIV (1894); not verbatim." },
+        { "id": "2", "text": "At her song the bird threw down a bag of coral beads; the child was not in it, so she sang again, and the aranran threw down all kinds of valuable property; still no child. She sang a third time, and the bird took the child and flew down with it and placed it gently on the ground. She carried him home on her back, picked up all the things the bird had thrown down, and from being poor became rich. Returning, she offered the iyale (head wife) twenty strings of coral beads; but the iyale, when she learned how they were come by, refused them and declared she would send her own child and get as much.", "note": "Paraphrase of Ellis, The Yoruba-speaking Peoples, ch. XIV (1894); not verbatim." },
+        { "id": "3", "text": "The iyale took a child belonging to one of the other wives and carried it into the bush, setting it under the tree of the aranran, and went away to cut wood. While she was away the bird carried off the child and killed and ate it. When she returned she sang the young woman's song; but the bird voided copiously into a bag and threw it down, then made water in a large calabash which broke upon her head, and at the third song threw down the bones of the child. She cried that it was not her child and went home — but the true mother demanded her baby, and after three months carried the case before the king. \"If this woman belonged to you, what would you do with her?\" asked the king; and all the people replied, \"We would put her to death.\" And so the iyale was killed.", "note": "Paraphrase of Ellis, The Yoruba-speaking Peoples, ch. XIV (1894); not verbatim." }
+      ]
+    },
+    {
+      "id": "yoruba-ajao-unburied",
+      "title": { "en": "Why the Ajao Remained Unburied", "zh": "阿賈奧狐蝠無人送葬之由" },
+      "tradition": "yoruba",
+      "category": "myth-religion",
+      "region": { "en": "Yoruba village (symbolic pin: burial ground near Ile-Ife)", "zh": "約魯巴村落（象徵定位：伊費近郊墓地）" },
+      "lat": 7.5,
+      "lon": 4.54,
+      "period": "Yoruba oral tradition; recorded 1894 (Ellis)",
+      "source": { "archive": "Internet Archive", "work": "A. B. Ellis, The Yoruba-speaking Peoples of the Slave Coast of West Africa (London, 1894), ch. XIV", "url": "https://archive.org/details/yorubaspeakingp01elligoog" },
+      "license": "Public domain (published 1894)",
+      "summary": { "en": "The ajao, a great flying-fox, dies alone. The birds refuse the funeral — he has no feathers; the rats refuse it — he has no tail. Having no relations, the ajao remained unburied.", "zh": "大狐蝠阿賈奧病歿屋中。鄰人先請鳥族送葬——鳥說他無羽，非我族類；再請鼠族——鼠說他無尾，亦非親眷。兩邊不認，阿賈奧遂暴屍無葬。" },
+      "motifs": ["transformation"],
+      "sensitivity": { "restricted": false, "note": "Living Yoruba tradition; animal etiology, the in-between creature refused by both kin-groups — cf. the Ogumefu bat tale and the Kipling-era motif of the outcast bat." },
+      "persons": [],
+      "passages": [
+        { "id": "1", "text": "The ajao lay in his house very sick, and there was no one to tend him. The ajao died. The neighbours said, \"The ajao is dead; we must call his relatives to come and perform the funeral ceremonies and bury him.\" And they went and called the birds, saying, \"Your relation is dead.\" The birds came, and when they saw that the deceased was an ajao they said, \"This is not one of our family. All our family wear feathers, and you see the ajao has none. He does not belong to us.\" And they went away.", "note": "Paraphrase of Ellis, The Yoruba-speaking Peoples, ch. XIV (1894); not verbatim." },
+        { "id": "2", "text": "The neighbours consulted together: \"The birds are right. The ajao has no feathers, and is not of the family of birds. He must be of the family of rats.\" And they went and called the rats, saying, \"Your relation is dead.\" The rats came, but when they saw that the deceased was an ajao they also denied him: \"This is not one of our family. Everyone who is of our family has a tail, and you see the ajao has none.\" And they went away. Thus the ajao, having no relations, remained unburied.", "note": "Paraphrase of Ellis, The Yoruba-speaking Peoples, ch. XIV (1894); not verbatim." }
+      ]
+    },
+    {
+      "id": "yoruba-kini-kini-cowries",
+      "title": { "en": "The Kini-Kini Bird and the King's Slap", "zh": "基尼基尼鳥與國王一巴掌" },
+      "tradition": "yoruba",
+      "category": "myth-religion",
+      "region": { "en": "Yoruba royal town (symbolic pin: cleared ground before the palace, near Oyo)", "zh": "約魯巴王城（象徵定位：奧約宮前空地）" },
+      "lat": 7.84,
+      "lon": 3.93,
+      "period": "Yoruba oral tradition; recorded 1894 (Ellis)",
+      "source": { "archive": "Internet Archive", "work": "A. B. Ellis, The Yoruba-speaking Peoples of the Slave Coast of West Africa (London, 1894), ch. XIV", "url": "https://archive.org/details/yorubaspeakingp01elligoog" },
+      "license": "Public domain (published 1894)",
+      "summary": { "en": "The king calls all the birds to clear his ground — but forgets the kini-kini, who each noon sings the grass and bush back up over their work. Trapped at last with birdlime, the bird buys pardon by voiding cowries at every slap of the king's hand; when it escapes through a boy's curiosity, the furious king cuts off his son's ear. The boy drums the bird out of hiding, catches it, and a dead leaf laid where the ear was softens and grows into an ear.", "zh": "國王召群鳥墾地，獨忘基尼基尼。正午鳥雀歇工，牠飛上臭椿高唱，草莽隨聲復生，一連三日。群鳥以黏鳥膠擒之，鳥以貝幣贖命——國王一拍手，牠便噴出滿屋貝幣。後王子偷揭籃蓋縱鳥，王怒削其子一耳。孩子以小鼓誘鳥出林就擒；王取枯葉補耳，枯葉竟軟化生肉，長成一隻新耳。" },
+      "motifs": ["trickster", "boon-curse", "resurrection"],
+      "sensitivity": { "restricted": false, "note": "Living Yoruba tradition; bird-trickster tale with a healing miracle ending. Note: the king mutilates his own son within the tale; reported as recorded." },
+      "persons": [],
+      "passages": [
+        { "id": "1", "text": "One day the king called all the birds to come and clear a piece of ground, but he forgot to call the kini-kini, the small black-and-white doctor-bird. All the birds came and cleared a large piece of ground; but in the middle stood an odan tree, and at mid-day, when the sun was hot and the birds had left their work, the kini-kini came and perched on it and sang his song, and the grass and bush sprang up over the cleared ground. This happened again the next day and the day after; and when the birds saw what had happened the third time, they asked the king for authority to seize the trickster, and put a great quantity of birdlime on the odan tree. At mid-day the kini-kini came, sang his song, found himself held by the birdlime, and was seized and brought before the king.", "note": "Paraphrase of Ellis, The Yoruba-speaking Peoples, ch. XIV (1894); not verbatim." },
+        { "id": "2", "text": "\"What have I done to you?\" asked the king. \"When you called all my companions to clear the ground you left me out, therefore I have revenged myself,\" said the bird. The king raised his hand to slap it. \"Pardon, pardon — if I find any cowries I will give them to you.\" The king gave him a slap, and the kini-kini voided out cowries till the room was filled; a second slap brought still more. The king summoned all his people for the fifth day to see the marvel, but his little son uncovered the basket to slap the bird himself and it flew away. In his anger the king beat the boy and cut off one of his ears, and pushed him out to find the bird.", "note": "Paraphrase of Ellis, The Yoruba-speaking Peoples, ch. XIV (1894); not verbatim." },
+        { "id": "3", "text": "The boy made a little drum and sat down where the birds were accustomed to come; he beat on his drum, and all the birds flocked round and danced in turn. The kini-kini refused, but at last, begged by all, he twisted and turned, dancing closer and closer, until the boy thrust out his hand and seized him by the leg. \"Here he is. Won't you do something now to restore my ear?\" Then the king got up, took a dead leaf and put it in the place of the ear; and the dead leaf softened and changed into an ear.", "note": "Paraphrase of Ellis, The Yoruba-speaking Peoples, ch. XIV (1894); not verbatim." }
+      ]
+    },
+    {
+      "id": "yoruba-tortoise-sigo-drum",
+      "title": { "en": "Sigo in the Tortoise's Drum", "zh": "西戈困於龜鼓" },
+      "tradition": "yoruba",
+      "category": "myth-religion",
+      "region": { "en": "Yoruba hunting country (symbolic pin: rain-gully on the hunting road, near Ile-Ife)", "zh": "約魯巴獵場（象徵定位：伊費近郊獵路雨溝）" },
+      "lat": 7.5,
+      "lon": 4.54,
+      "period": "Yoruba oral tradition; recorded 1894 (Ellis)",
+      "source": { "archive": "Internet Archive", "work": "A. B. Ellis, The Yoruba-speaking Peoples of the Slave Coast of West Africa (London, 1894), ch. XIV", "url": "https://archive.org/details/yorubaspeakingp01elligoog" },
+      "license": "Public domain (published 1894)",
+      "summary": { "en": "A cloudburst washes the young hunter Sigo into a gully, and Tortoise — the bald-headed elf — pulls him out on terms of slavery, then shuts him inside a big drum whose song tells the whole story at court. The mistresses who own Sigo free him at a dance while the elf gorges and sleeps; and when Tortoise beats the rescued drum, out croaks only a crow.", "zh": "驟雨把少年獵人西戈沖入深溝。禿頭精靈龜君救他出水，代價是為奴——並把他藏進一面大鼓。龜鼓在宮廷上一敲便唱出全部來歷，舉座驚駭。西戈的主母們趁龜君宴飲醉眠，開鼓放人、原樣封好。龜君醒後再擊鼓，鼓中只剩一隻烏鴉呱呱作響。" },
+      "motifs": ["trickster", "transformation"],
+      "sensitivity": { "restricted": false, "note": "Living Yoruba tradition; Tortoise (Ijapa/Awon) trickster cycle; the talking-drum-singer conceit is native to Yoruba drum culture. Ellis's tale; greed defeats the trickster." },
+      "persons": ["ijapa-tortoise"],
+      "passages": [
+        { "id": "1", "text": "Olu had a son named Sigo, and Sigo determined to be a hunter. His father gave him a horse, his mother a sheep, and he rode away into the bush with bow and arrows. At last he arrived at the haunt of animals; then the sky became overcast, the rain poured in torrents, and Sigo was washed by the water into a deep gully, whence he could not get out, but remained weeping and lamenting. The rain ceased, and Tortoise, always on the look-out for opportunities, came to the gully. \"What will you give me if I pull you out?\" he asked. \"I will be your slave,\" replied Sigo; and the bald-headed elf climbed down and took him out.", "note": "Paraphrase of Ellis, The Yoruba-speaking Peoples, ch. XIV (1894); not verbatim." },
+        { "id": "2", "text": "\"I am going to make a large drum, and shall put you inside it,\" said Tortoise. \"When we come to any house and I begin playing on the drum, take care that you sing well.\" At his own town Tortoise boasted of the fine sound of his drum before the king, who summoned the whole town to a dance. The drum sounded, singing: \"Sigo is the son of Olu — ah, let me be rescued! His mother gave him a sheep, his father gave him a horse, and told him to go and hunt; he went to the elephant's haunt, to the buffalo's lair; the flood of the rain washed him into the cleft; and so he became the Tortoise's slave — ah, let me be rescued!\" The people clapped their hands to their mouths in wonder.", "note": "Paraphrase of Ellis, The Yoruba-speaking Peoples, ch. XIV (1894); not verbatim." },
+        { "id": "3", "text": "Before long the mistresses of the house to which Sigo belonged asked Tortoise to come and beat his drum at a dance. They made gruel of Indian corn and bought rum; Tortoise ate and drank, and, becoming drunk, fell asleep. When he was asleep they took his drum, took off the drum-head, took Sigo out, and put the head back as it was before. When Tortoise awoke and began beating on it, a crow croaked in the drum; he beat harder and quicker, and the crow croaked louder, and he cried: \"Why, when you were eating, did you not give something to eat to the drum? Why, when you were drinking, did not you give some of the rum to the drum?\" He went home, took off the drum-head, and found a crow in the drum.", "note": "Paraphrase of Ellis, The Yoruba-speaking Peoples, ch. XIV (1894); not verbatim." }
+      ]
+    },
+    {
+      "id": "yoruba-tortoise-dumb-bola",
+      "title": { "en": "Tortoise Makes the Dumb Princess Speak", "zh": "龜君讓啞公主開口" },
+      "tradition": "yoruba",
+      "category": "myth-religion",
+      "region": { "en": "Yoruba royal town (symbolic pin: princess's bush cottage near Oyo)", "zh": "約魯巴王城（象徵定位：奧約城外公主林舍）" },
+      "lat": 7.84,
+      "lon": 3.93,
+      "period": "Yoruba oral tradition; recorded 1894 (Ellis)",
+      "source": { "archive": "Internet Archive", "work": "A. B. Ellis, The Yoruba-speaking Peoples of the Slave Coast of West Africa (London, 1894), ch. XIV", "url": "https://archive.org/details/yorubaspeakingp01elligoog" },
+      "license": "Public domain (published 1894)",
+      "summary": { "en": "For half his palace, Tortoise undertakes to make the king's dumb daughter speak. He lays a bottle of honey in the bush, hides, and slaps the princess crying \"Thief!\" — and rope and slander-song wring her first words from her. The king, hearing his daughter answer the trickster's taunts in song, divides his house, and that is how Tortoise succeeds in everything.", "zh": "龜君立誓讓啞語的公主開口，酬勞是半座宮殿。他在林中放一瓶蜜，藏身其後，待公主伸手便衝出拍她肩：「賊！偷我蜜吃！」又以繩縛之，編歌誣其為竊。公主羞憤難抑，開口以歌相答。國王聞女兒之歌聲驚喜交集，分宮半座予龜君——龜君事事得逞，此其一例。" },
+      "motifs": ["trickster"],
+      "sensitivity": { "restricted": false, "note": "Living Yoruba tradition; Tortoise trickster cycle. The trick is deceptive slander within the tale; reported as recorded." },
+      "persons": ["ijapa-tortoise"],
+      "passages": [
+        { "id": "1", "text": "The king had a daughter who was dumb. The girl's name was Bola. He did all he could to make her speak, but all was of no avail, so he did not keep her in the town; he sent her to live in the country. Tortoise, of the thousand cunning tricks, came to the king and said: \"What will you give me if I make your child speak?\" \"I will divide my house into two halves, and I will give you one half,\" said the king. The bald-headed elf bought a bottle of honey, went to the bush where the girl was living, put the honey on the ground and hid himself.", "note": "Paraphrase of Ellis, The Yoruba-speaking Peoples, ch. XIV (1894); not verbatim." },
+        { "id": "2", "text": "The girl came, saw the honey, and put out her hand to it. Tortoise came out of his hiding-place, came behind her, and gave her a slap, crying: \"Thief! So it is you who steal my honey and eat it.\" \"I?\" said the girl. \"I have stolen your honey to eat?\" Then Tortoise tied her with a rope and sang: \"Bola stole honey to eat; Bola is a cunning cheat; Bola is a shameless thief.\" And the young girl sang back: \"Into the wood of the elephant I went with the elephant; into the wood of the buffalo I went with the buffalo; and Tortoise has come to accuse me of stealing honey to eat.\" Tortoise led her back to the town, he singing and she answering, until before the king the father cried out with astonishment: \"My daughter, who has never been heard to speak, speaks to-day!\" The king divided his palace in half and gave one half to Tortoise, the bald-headed elf. That is how Tortoise succeeds in everything.", "note": "Paraphrase of Ellis, The Yoruba-speaking Peoples, ch. XIV (1894); not verbatim." }
+      ]
+    },
+    {
+      "id": "yoruba-tortoise-rides-elephant",
+      "title": { "en": "Tortoise Rides the Elephant to Town", "zh": "龜騎象入城" },
+      "tradition": "yoruba",
+      "category": "myth-religion",
+      "region": { "en": "Yoruba forest-to-town road (symbolic pin: road from the bush into Oyo)", "zh": "約魯巴林間入城道（象徵定位：自林入奧約之路）" },
+      "lat": 7.84,
+      "lon": 3.93,
+      "period": "Yoruba oral tradition; recorded 1894 (Ellis)",
+      "source": { "archive": "Internet Archive", "work": "A. B. Ellis, The Yoruba-speaking Peoples of the Slave Coast of West Africa (London, 1894), ch. XIV", "url": "https://archive.org/details/yorubaspeakingp01elligoog" },
+      "license": "Public domain (published 1894)",
+      "summary": { "en": "Tortoise wagers the animals he will ride the elephant into town. He flatters the beast that all the world mocks him as too big for town, climbs aboard on the plea of tired legs, and engineers a gallop — \"my father's slave!\" The enraged elephant hurls him where Tortoise begs to be thrown, into the swamp, where the elf dives and surfaces elsewhere, crowing his triumph; and since then the elephant has not come to town any more.", "zh": "龜君與眾獸打賭：他能騎象入城。他先煽動大象「眾獸笑你笨重不敢入城」，再以腿軟為由討騎，又教象「我抓背你就跑，我敲背你快跑」——一路疾馳入城，口口聲聲「我父親的奴僕！」大象羞怒欲摔死他，龜君反求「扔我去沼澤吧」。象信以為真，把牠扔進爛泥，龜卻潛水他處浮出，再次高呼得勝。自此大象再也不肯進城。" },
+      "motifs": ["trickster"],
+      "sensitivity": { "restricted": false, "note": "Living Yoruba tradition; Tortoise trickster cycle. The elephant's humiliation etiology; the title slavery-language is the tale's own rhetoric of boasting." },
+      "persons": ["ijapa-tortoise"],
+      "passages": [
+        { "id": "1", "text": "The bald-headed elf one day told the other animals that he would ride the elephant, but they said: \"No, you can't ride the elephant.\" \"Well, I will make a wager that I will ride the elephant into town.\" So Tortoise went into the forest and met the elephant. \"My father, all the animals say you are too stout and big to come to town.\" The elephant was vexed: \"The animals are fools. If I do not come to town it is because I prefer the forest. Besides, I do not know the way.\" \"Then come with me; I will show you the way, and you can put all the animals to shame.\" When they were near the town, \"My father, I am tired. Will you kindly allow me to get on your back?\" The elephant knelt down, and Tortoise climbed up.", "note": "Paraphrase of Ellis, The Yoruba-speaking Peoples, ch. XIV (1894); not verbatim." },
+        { "id": "2", "text": "\"When I scratch your back you must run, and when I knock my head against your back you must run faster; then you will make a fine display in the town.\" Near the town Tortoise scratched the elephant's back and he began to run; he knocked his back with his head and the elephant ran faster. The animals, frightened, went into their houses but looked out of their windows; and Tortoise called out: \"Did I not say I would ride my father's slave to town?\" \"What do you mean by your father's slave?\" said the elephant, growing angry. \"I am only praising you,\" said Tortoise. \"I will throw you down on the hard stones here and break you to pieces!\" \"Yes, that is right — throw me down here; then I shall not die. If you really want to kill me, carry me to a swamp: there the mud and water will drown me at once.\"", "note": "Paraphrase of Ellis, The Yoruba-speaking Peoples, ch. XIV (1894); not verbatim." },
+        { "id": "3", "text": "The elephant believed the bald-headed elf, ran to the swamp, and threw Tortoise into the mud; then he stretched out his foot to kick him, but the elf dived in the mire and came up in another place. The other animals were looking on, and Tortoise called out again: \"Did I not say I would ride my father's slave to town?\" When the elephant found he could not catch him, he ran at full speed back to the forest and told the other elephants what that broken-back had done to him. They said, \"You were a fool to carry that broken-back to town.\" Since then the elephant has not come to town any more.", "note": "Paraphrase of Ellis, The Yoruba-speaking Peoples, ch. XIV (1894); not verbatim." }
+      ]
+    },
+    {
+      "id": "yoruba-adun-borrowed-limbs",
+      "title": { "en": "Adun and the Borrowed-Limbs Suitor", "zh": "阿敦與借肢求婚者" },
+      "tradition": "yoruba",
+      "category": "myth-religion",
+      "region": { "en": "Yoruba country (symbolic pin: market-day road near Ile-Ife)", "zh": "約魯巴地方（象徵定位：伊費附近趕集之路）" },
+      "lat": 7.5,
+      "lon": 4.54,
+      "period": "Yoruba oral tradition; recorded 1894 (Ellis)",
+      "source": { "archive": "Internet Archive", "work": "A. B. Ellis, The Yoruba-speaking Peoples of the Slave Coast of West Africa (London, 1894), ch. XIV", "url": "https://archive.org/details/yorubaspeakingp01elligoog" },
+      "license": "Public domain (published 1894)",
+      "summary": { "en": "The beautiful Adun, who has refused rich and chief and king alike, accepts on market-day a stranger assembled of borrowed legs, arms and body. On the road home each lender reclaims his part until only the head remains, and Adun, nearly dead with fear, is taken to the head's house. Tortoise, set to sound the horn if she tries to escape, is bribed with ekuru cakes stuffed into his horn — he eats, eats, eats, and Adun runs away.", "zh": "美婦阿敦拒盡富豪酋王，卻在趕集日心許一位借得雙腿、雙臂、身軀拼成的「完人」。歸途中債主逐一討回，最後只剩一顆頭顱獨行，阿敦嚇得魂飛魄散，被帶回首顱之家。頭顱命龜君守望報信；阿敦按祭師之計，把浸油的豆餅塞滿號角——龜君吹號即食，食而不已，阿敦趁機奔逃。" },
+      "motifs": ["transformation", "trickster"],
+      "sensitivity": { "restricted": false, "note": "Living Yoruba tradition; variant of the disembodied-suitor tale. Strong parallel with Ogumefu's Head tale and with European Horned-Women/demon-lover plots. Cross-refs: yoruba-the-head-body-borrowing." },
+      "persons": ["ijapa-tortoise"],
+      "passages": [
+        { "id": "1", "text": "Adun was very beautiful, and all the men wanted her; they were always entreating her, but she always refused. One market-day a person borrowed legs from one, arms from another, and a body from a third, joined all together, and went to the market. He wanted Adun, and he would have her. His appearance pleased her, and they talked together; although he belonged to a distant country, she consented to go with him, and her mothers said, \"Very well, go with him.\"", "note": "Paraphrase of Ellis, The Yoruba-speaking Peoples, ch. XIV (1894); not verbatim." },
+        { "id": "2", "text": "They went. On the road, the master of the legs took away the legs, the master of the arms took away the arms, and the master of the body took away the body. Nothing was left but the head. And the head went on, on, while Adun, nearly dead with fear, could not run away. They arrived at the house of the head. Next morning, before he went to work in his plantation, the head said to Tortoise: \"If Adun tries to run away, sound the horn to warn me.\" Scarcely had he gone out of sight when Adun took her bundle and began to run away; Tortoise sounded the horn, and the head ran up and made big round eyes. Every day Adun tried to run away, but without success, until she went to ask the babalawo what she should do. \"Buy plenty of ekuru cakes, soak them in palm-oil, and stuff them into Tortoise's horn,\" said the diviner. She did as she was told, took up her bundle, and started off; Tortoise took the horn to blow it, the ekurus came into his mouth, he ate and ate and ate — and Adun ran away.", "note": "Paraphrase of Ellis, The Yoruba-speaking Peoples, ch. XIV (1894); not verbatim." }
+      ]
+    },
+    {
+      "id": "yoruba-tortoise-yam-rock",
+      "title": { "en": "Tortoise, the Lizard, and the Yam-Rock", "zh": "龜、蜥與藥薯岩" },
+      "tradition": "yoruba",
+      "category": "myth-religion",
+      "region": { "en": "Yoruba farm country (symbolic pin: yam plantation rock near Ile-Ife)", "zh": "約魯巴農鄉（象徵定位：伊費近郊薯田巨岩）" },
+      "lat": 7.5,
+      "lon": 4.54,
+      "period": "Yoruba oral tradition; recorded 1894 (Ellis)",
+      "source": { "archive": "Internet Archive", "work": "A. B. Ellis, The Yoruba-speaking Peoples of the Slave Coast of West Africa (London, 1894), ch. XIV", "url": "https://archive.org/details/yorubaspeakingp01elligoog" },
+      "license": "Public domain (published 1894)",
+      "summary": { "en": "In famine, the lizard learns a farmer's secret — \"Rock, open... Rock, shut\" — and feeds daily. Tortoise wheedles his way in, loads himself with yams, and forgets the closing words; caught by the owner and tied to the lizard as informer, he finds the lizard playing dead. The farmer smashes Tortoise, and the cockroach and the ant come and mend him — the rough patches of the tortoise's shell are where they mended him.", "zh": "饑年，蜥蜴偷學到農夫的口訣——「岩石，開！……岩石，合！」——日日取薯。龜君哄其同行，貪多延宕，忘了合巖咒語；被農夫捉住，又被縛去對質裝死的蜥蜴。農夫一怒把龜砸個粉碎。蟑螂與螞蟻前來替他拼補——龜甲上那些粗糙的補丁，正是牠倆修補之處。" },
+      "motifs": ["trickster", "taboo-transgression"],
+      "sensitivity": { "restricted": false, "note": "Living Yoruba tradition; Tortoise trickster cycle with a shell etiology, the greed-moral Ellis notes in his commentary." },
+      "persons": ["ijapa-tortoise"],
+      "passages": [
+        { "id": "1", "text": "There was a famine, and a great scarcity of food all through the country. One day the lizard, searching in a plantation, found a large rock full of yams, and saw the owner cry \"Rock, open,\" go in, take yams, come out, and say \"Rock, shut\" — whereupon the rock closed up. Every morning at cock-crow the lizard did the same. One day Tortoise met the lizard carrying yams, and wheedled out the secret: \"No, I will not say a word to anyone. Please take me.\" They agreed to go together at cock-crow.", "note": "Paraphrase of Ellis, The Yoruba-speaking Peoples, ch. XIV (1894); not verbatim." },
+        { "id": "2", "text": "At the rock the lizard opened it, took yams, and warned Tortoise it was time to go; but the bald-headed elf stayed behind, putting yams on his back, his head, his arms and his legs. The lizard went home, lit a fire, and lay on his back with his feet in the air as if dead. When Tortoise was ready to go he could not remember the right words; he said many words, but not the right ones, and the rock remained shut. By-and-by came the plantation-owner, opened the rock, found Tortoise inside, and beat him badly. \"Who brought you here?\" \"It was the lizard who brought me.\" So the man tied a string to Tortoise and took him to the lizard's house, where the lizard lay on his back with his feet in the air. \"I?\" said the lizard. \"You can see for yourself it is impossible. I am not in a state to go out. I have been sick here for three months, lying on my back.\" Then the man took Tortoise and smashed him. And Tortoise, groaning and moaning, said in a pitiful voice: \"Cockroach, come and mend me. Ant, come and mend me.\" And the cockroach and the ant mended him — and the places where they mended him are those parts of Tortoise which are rough.", "note": "Paraphrase of Ellis, The Yoruba-speaking Peoples, ch. XIV (1894); not verbatim." }
+      ]
+    }
+  ]
+}

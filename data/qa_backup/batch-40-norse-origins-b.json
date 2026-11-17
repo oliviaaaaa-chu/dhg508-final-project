@@ -1,0 +1,716 @@
+{
+  "_comment": "Norse expansion batch 40 - Creation & Origin VI (topic 1): Vanir society, origin of kennings, Alfheim, Hymir's kettle, the mill Grotti, Freyr and Gerd. All passages are paraphrase and carry a note.",
+  "texts": [
+    {
+      "id": "norse-vanir-society",
+      "title": {
+        "en": "Njord, Freyr and Freyja: The Vanir Hostages and Their Arts",
+        "zh": "尼奧德、弗雷與芙蕾雅：華納人質及其技藝"
+      },
+      "tradition": "norse",
+      "category": "myth-religion",
+      "region": {
+        "en": "Noatun and Asgard (symbolic pin at Gamla Uppsala, Sweden)",
+        "zh": "諾阿頓與阿斯加德（象徵性定位於瑞典舊烏普薩拉）"
+      },
+      "lat": 59.9,
+      "lon": 17.64,
+      "period": "Ynglinga saga c. 1225; Gylfaginning c. 1220-1230 (older material); principal MSS AM 41 4to, GKS 2367 4to",
+      "source": {
+        "archive": "sacred-texts.com (Laing 1844) / Project Gutenberg (Brodeur 1916)",
+        "work": "Snorri, Ynglinga saga ch. 4; Gylfaginning chs. 23-24; critical ed. Faulkes (1987)",
+        "url": "https://www.sacred-texts.com/neu/heim/"
+      },
+      "license": "Public domain (Laing 1844; Brodeur 1916); passages below are labeled paraphrases",
+      "summary": {
+        "en": "After the war between the divine nations, the Vanir sent Njord the Wealthy with his son Freyr and daughter Freyja to live among the Aesir, and the three brought with them the arts of the other nation: mastery of sea and wind, of harvests and plenty, of love and of seid magic. Njord can calm sea and fire; Freyr rules rain, sunshine and the fruits of the earth, and it is good to call on him for plenty; Freyja teaches the gods a magic they did not have, rides a chariot of cats, and takes half the battle-slain. The record explains the hybrid pantheon's division of labor.",
+        "zh": "兩神族交戰之後，華納族遣富裕的尼奧德攜其子弗雷、女芙蕾雅定居阿薩神族之中，三人帶來另一神族的技藝：統御海與風、豐收與富足、愛情與賽德巫術。尼奧德能平海息火；弗雷掌雨澤、日光與大地果實，求豐者宜呼其名；芙蕾雅傳授諸神所未有的魔法，駕貓車而行，且可取陣亡者之半。此記錄解釋了混合神譜的分工。"
+      },
+      "language": "Old Norse / Old Icelandic",
+      "canonical_translation": "Samuel Laing, Heimskringla, London 1844 (public domain); Gylfaginning via Brodeur 1916",
+      "narrative": {
+        "en": "The treaty that ended the first war gave the Aesir the Vanir's richest house. Njord came with his two children, and the prose sources describe what they brought. Njord is so rich and wealthy that he can give wealth and land to whoever calls on him; he was reared in the land of the Vanir, but the Aesir gave him as a hostage, and he rules the course of the wind and stills sea and fire; sailors pray to him, and he has the sea-hall Noatun. Freyr his son is the god of rain and sunshine and of the fruits of the earth, 'and it is good to call on him for plenty and peace'; he also rules the wealth of men. Freyja his daughter is the greatest of goddesses: she owns the hall Folkvangr and takes half the battle-slain, the other half going to Odin; she rides a chariot drawn by two cats; she teaches the seid magic that the Vanir practiced, and she weeps tears of gold for her lost husband Od.\n\nThe record's cultural function is to explain the two-nation pantheon by its division of labor. The Aesir retain the sky's offices - thunder, law, war-leadership, the runes; the Vanir immigrants hold the economy - sea-luck, harvest, wealth, love and the magic of knowing. Every prayer has an address: to Njord for a fair passage, to Freyr for a wedding's plenty, to Freyja for love or for a share of the fallen. The Ynglinga account adds a dynastic key: Njord's line becomes the royal house of Sweden (the Ynglings are Freyr's descendants), so the hostage-exchange wrote itself into the genealogies of real kings.\n\nThe hybrid pantheon is also an ethnic myth in the founding-people sense: scholars have long read the Aesir-Vanir merger as mythic memory of an actual cult-merger between two Scandinavian communities (possibly linked to Indo-European and non-Indo-European strata). The record documents how a society explains having two kinds of gods: it tells a war story about them, then a treaty story, then assigns each house its offices - theology as annexation protocol.\n\nFor the motif atlas, the three Vanir anchor the divine-marriage and fertility-cult clusters (Njord-Skadi's failed marriage; Freyr-Gerd's wooing; Freyja's necklace and Od-grief), each of which has its own record. This one carries the treaty-of-offices itself.\n\nThe dynasty-clause completes the record: Njord's line becomes the Ynglings - the royal house of Sweden descended from the hostages - so the treaty wrote itself into the real kings' genealogies, and Ynglingatal's death-catalog is the hostages' descendants' ledger. And the cult-geography completes the record: Njord's Noatun by the sea, Freyr's Uppsala in the plain, Freyja's Folkvangr for the battle-slain - the Vanir offices mapped onto Sweden's sacred landscape, the treaty's division of labor inscribed in place. The record thus anchors the composite-pantheon family: two divine nations merged by war and treaty, each house keeping its offices."
+      },
+      "functions": [
+        "Explains the two-house pantheon by a treaty with assigned offices",
+        "Prayer-address doctrine: sea-luck to Njord, plenty to Freyr, love and the slain to Freyja",
+        "Dynastic charter: the Yngling kings of Sweden descend from the hostages",
+        "Mythic memory of a real cult-merger between Scandinavian communities"
+      ],
+      "variants": [
+        {
+          "name": "Ynglinga saga ch. 4 (Prose)",
+          "text_tradition": "AM 41 4to (Kringla)",
+          "summary": "Snorri's migration-era version: the hostages sent at the peace, Njord's two marriages, Freyr's kingship of the Swedes and his mound at Uppsala.",
+          "cross_ref": "norse-ynglinga-odin-migration"
+        },
+        {
+          "name": "Gylfaginning chs. 23-24 (Prose Edda)",
+          "text_tradition": "Codex Regius GKS 2367 4to",
+          "summary": "The systematic profiles: Njord's wealth and Noatun, Freyr's fruitfulness, Freyja's Folkvangr, cat-chariot, seid and golden tears.",
+          "cross_ref": "norse-freyr-beli-cult"
+        },
+        {
+          "name": "Adam of Bremen, Gesta Hammaburgensis 4.26-27",
+          "text_tradition": "Latin chronicle c. 1070s",
+          "summary": "The Uppsala triad as observed: Thor in the center, Wodan and Fricco (Freyr) on either side - the outsider's documentary confirmation of the composite pantheon's cult center.",
+          "cross_ref": "norse-uppsala-temple"
+        }
+      ],
+      "primary_sources": [
+        {
+          "work": "Snorri Sturluson, Ynglinga saga (Heimskringla)",
+          "citation": "Ch. 4 (the hostages at the peace). English: Laing 1844 (public domain).",
+          "language": "Old Norse / Old Icelandic"
+        },
+        {
+          "work": "Snorri Sturluson, Edda: Gylfaginning",
+          "citation": "Chs. 23-24 (Njord, Freyr, Freyja). Critical ed. Faulkes 1987; English: Brodeur 1916.",
+          "language": "Old Norse / Old Icelandic"
+        }
+      ],
+      "secondary_sources": [
+        {
+          "work": "Margaret Clunies Ross, Prolonged Echoes, vol. 1",
+          "citation": "Clunies Ross 1994, Odense - the Aesir-Vanir division of divine labor."
+        },
+        {
+          "work": "Gro Steinsland, Norron religion",
+          "citation": "Steinsland 2005, Oslo: Pax - Vanir cult and sacred kingship."
+        },
+        {
+          "work": "Rudolf Simek, Dictionary of Northern Mythology",
+          "citation": "Simek 1993, Cambridge: D. S. Brewer - entries 'Vanir', 'Njordr', 'Freyr', 'Freyja'."
+        }
+      ],
+      "source_urls": [
+        {
+          "url": "https://www.sacred-texts.com/neu/heim/00-yngl00.htm",
+          "description": "Ynglinga saga, Laing translation (public domain)",
+          "accessed": "2026-11-01"
+        },
+        {
+          "url": "https://www.sacred-texts.com/neu/pre/pre05.htm",
+          "description": "Gylfaginning chs. 23-24, Brodeur translation (public domain)",
+          "accessed": "2026-11-01"
+        }
+      ],
+      "sensitivity_flag": "none",
+      "provenance": {
+        "record_status": "complete",
+        "compiled": "2026-11-01",
+        "compiled_by": "DHG508 fieldwork compilation",
+        "review_status": "draft - pending human review"
+      },
+      "motifs": [
+        "divine-marriage",
+        "sacred-kingship"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Historical literary corpus; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "At the peace the Vanir sent their best: Njord the Wealthy with his son Freyr and daughter Freyja. Njord is so rich that he gives wealth and land to those who call on him, and he rules the wind and stills sea and fire; to him sailors pray. Freyr is the god of rain and sunshine and of earth's fruits, and it is good to call on him for plenty. Freyja is the greatest of goddesses, and she took for herself half the battle-slain, teaching the gods a magic they had not had.",
+          "note": "Paraphrase of Ynglinga saga ch. 4 and Gylfaginning chs. 23-24 (Laing; Brodeur); not verbatim."
+        }
+      ]
+    },
+    {
+      "id": "norse-kenning-origin",
+      "title": {
+        "en": "Why Poets Serve Odin: Aegir's Feast and the Craft of Kennings",
+        "zh": "詩人何以事奉奧丁：埃吉爾的宴席與隱喻之技"
+      },
+      "tradition": "norse",
+      "category": "myth-religion",
+      "region": {
+        "en": "Aegir's hall at Hlesey (symbolic pin at Laeso island, Denmark)",
+        "zh": "埃吉爾之廳，赫勒色島（象徵性定位於丹麥萊瑟島）"
+      },
+      "lat": 57.27,
+      "lon": 11.0,
+      "period": "Skaldskaparmal c. 1220-1230; principal MSS Codex Regius GKS 2367 4to, Codex Trajectinus",
+      "source": {
+        "archive": "Project Gutenberg (Brodeur 1916)",
+        "work": "Snorri Sturluson, Edda: Skaldskaparmal prologue; Gylfaginning ch. 2; critical ed. Faulkes (1987)",
+        "url": "https://www.gutenberg.org/ebooks/search/?query=prose+edda"
+      },
+      "license": "Public domain (Brodeur 1916); passages below are labeled paraphrases",
+      "summary": {
+        "en": "The sea-giant Aegir, having been forced to brew ale for the gods, holds a feast at which the skald-god Bragi teaches him the craft of poetry: the names of the gods and of things, and the system of kennings - to speak of gold as 'Freyja's tears', of a ship as 'the horse of the sea'. Snorri frames the whole Edda as a manual written for a young Norwegian king's skald, and opens it with the doctrine that poetry is a gift won by Odin from the giants and taught to men: whoever speaks skillfully serves a god, and whoever lacks the gift may still learn its grammar.",
+        "zh": "海巨人埃吉爾被迫為諸神釀造麥酒之後，設宴款待，吟遊詩神布拉基在席間向他傳授詩藝：諸神與萬物之名，以及「隱喻」之技——稱黃金為「芙蕾雅之淚」，稱船為「海之馬」。斯諾里將整部《埃達》寫成獻給挪威年輕國王的吟遊詩人手册，開篇即言：詩乃奧丁自巨人處贏得並傳授於人的天賦——凡出口成章者即事奉一神，而無天賦者亦可習得其法度。"
+      },
+      "language": "Old Norse / Old Icelandic",
+      "canonical_translation": "A. G. Brodeur, Snorri Sturluson: The Prose Edda, New York 1916 (public domain)",
+      "narrative": {
+        "en": "Skaldskaparmal - 'the language of poetry' - opens with a frame story that is itself a myth of a cultural institution. The sea-giant Aegir, whose hall glitters with gold and whose nine wave-daughters pour the ale, has been summoned to brew for the gods; at the feast, Aegir asks the skald-god Bragi 'whence came the art that is called poetry?', and Bragi answers with the mead-myth: the art came from Odin, who won it from the giants at the cost of murder and seduction, and gave it to gods and to men skilled in the craft. Then, at Aegir's request, Bragi teaches the apparatus: the names of gods, giants, dwarfs and things; the kennings and their rules; the metres. The dialogue between a god and a converted giant is the textbook's own myth of pedagogy - poetry is taught at a feast, over the ale, by an immortal to a foreigner.\n\nThe doctrine of the kenning is Snorri's real subject. A kenning is a compressed metaphor with a mythic warrant: gold is 'Freyja's tears' (from her weeping for Od), 'Sif's hair', 'Draupnir's drops' - each name valid because a myth underwrites it; the sea is 'Aegir's ale', 'Ymir's blood', 'the whale-road'; a ship is 'the horse of the sea', a warrior 'the feeder of the wolf'. To compose is thus to cite the myth-cycle: skaldic verse is a liturgical citation system, and the Edda is its concordance. Snorri writes for a specific audience - the young king Hakon IV's court - and says so: the art is 'long and learned', and 'these matters must be told to young poets who desire to learn the language of poetry and to furnish themselves with a wide choice of terms'.\n\nThe cultural function is a charter for a professional class. Thirteenth-century Iceland lived off its poets' services at Norwegian courts; the myth that poetry descends from Odin's theft, taught at a giant's feast, licenses the profession's claims (skills worth gold, to be paid in ships and rings) and its etiquette (the mead can be squandered - the poetaster's share is real). The record joins the atlas's teaching-god cluster: Prometheus' crafts, Odin's runes, Bragi's feast - each a myth of how a technical language is transmitted from the immortal world to a working class of specialists.\n\nThe kenning-system's working examples complete the doctrine: the sea as 'Ymir's blood' (citing the creation-myth), gold as 'Freyja's tears' (citing the necklace-myth), the ship as 'the horse of the sea' - each kenning a compressed citation that requires the whole myth-cycle as its reference-work, so the Edda is the verse-craft's concordance. And the professional frame completes the record: Snorri writes for the young king Hakon's court, licensing the skalds' fees and their etiquette (the poetaster's share as the licensed low register) - the myth as the profession's charter. The record thus anchors the taught-language family: a technical poetry transmitted by a god at a giant's feast, distinctive in being an economy of citations."
+      },
+      "functions": [
+        "Charter of the skaldic profession: poetry as Odin's gift, paid for in murder and seduction",
+        "Grammar of myth: kennings as citations that require the whole myth-cycle as reference",
+        "Pedagogy myth: the art taught at a feast by a god to a giant convert",
+        "Economic doctrine: skills worth gold, with a licensed low register (the poetaster's share)"
+      ],
+      "variants": [
+        {
+          "name": "Skaldskaparmal prologue and Bragi's teaching (Prose Edda)",
+          "text_tradition": "Codex Regius GKS 2367 4to",
+          "summary": "The frame-story and the kenning-catalog: names of gods and giants, the mead-myth retold, and the lists that follow through the whole work.",
+          "cross_ref": "norse-kenning-origin"
+        },
+        {
+          "name": "Gylfaginning ch. 2 (Prose Edda)",
+          "text_tradition": "Codex Regius GKS 2367 4to",
+          "summary": "The prologue's other half: Snorri's address to young poets and kings, explaining why the book exists and whom it serves.",
+          "cross_ref": "norse-gylfaginning-frame"
+        },
+        {
+          "name": "Havamal st. 139-142 (Poetic Edda)",
+          "text_tradition": "Codex Regius GKS 2365 4to",
+          "summary": "Odin's self-descriptions as the find of words, and the warning that the unwise will squander the mead - the poem's own charter of the poet's craft.",
+          "cross_ref": "norse-havamal-runes"
+        }
+      ],
+      "primary_sources": [
+        {
+          "work": "Snorri Sturluson, Edda: Skaldskaparmal",
+          "citation": "Prologue and ch. 1 (Aegir's feast; the mead; the kenning-system). Critical edition: Anthony Faulkes, Edda, London 1987. MSS Codex Regius GKS 2367 4to, Codex Trajectinus. English: Brodeur 1916 (public domain).",
+          "language": "Old Norse / Old Icelandic"
+        }
+      ],
+      "secondary_sources": [
+        {
+          "work": "Margaret Clunies Ross, A History of Old Norse Poetry and Poetics",
+          "citation": "Clunies Ross 2005, Cambridge: D. S. Brewer - the skaldic profession and its mythic charter."
+        },
+        {
+          "work": "Anthony Faulkes, Edda (ed. and commentary)",
+          "citation": "Faulkes 1987, London: Everyman - commentary on Skaldskaparmal's frame."
+        },
+        {
+          "work": "Rudolf Simek, Dictionary of Northern Mythology",
+          "citation": "Simek 1993, Cambridge: D. S. Brewer - entries 'Skaldskaparmal', 'Bragi', 'Aegir'."
+        }
+      ],
+      "source_urls": [
+        {
+          "url": "https://www.sacred-texts.com/neu/pre/pre06.htm",
+          "description": "Skaldskaparmal prologue, Brodeur translation (public domain)",
+          "accessed": "2026-11-01"
+        }
+      ],
+      "sensitivity_flag": "none",
+      "provenance": {
+        "record_status": "complete",
+        "compiled": "2026-11-01",
+        "compiled_by": "DHG508 fieldwork compilation",
+        "review_status": "draft - pending human review"
+      },
+      "motifs": [
+        "parable-teaching",
+        "wisdom-sacrifice"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Historical literary corpus; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "At Aegir's feast the sea-giant asked Bragi whence came the art called poetry, and Bragi answered that Odin had won it from the giants and given it to gods and to men skilled in the craft; and then, at Aegir's request, he taught him the names of things and the rules of kennings, so that he might understand how poets speak.",
+          "note": "Paraphrase of Snorri, Skaldskaparmal prologue (Brodeur 1916); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Gold is called Freyja's tears, Sif's hair, Draupnir's drops; the sea is Aegir's ale and Ymir's blood; a ship is the horse of the sea; a warrior is the feeder of the wolf. Each name is a kenning, and each kenning is a myth compressed - whoever would speak the one must know the other.",
+          "note": "Paraphrase of Snorri, Skaldskaparmal kenning-lists (Brodeur 1916); not verbatim."
+        }
+      ]
+    },
+    {
+      "id": "norse-alfheim-elves",
+      "title": {
+        "en": "Alfheim and the Two Elf-Peoples: Freyr's Tooth-Gift and the Light in the Dark",
+        "zh": "精靈之鄉與兩支精靈族：弗雷的長牙之禮與暗中之光"
+      },
+      "tradition": "norse",
+      "category": "myth-religion",
+      "region": {
+        "en": "Alfheim, the elf-home (symbolic pin at Gimsoy, Lofoten, Norway)",
+        "zh": "精靈之鄉阿爾夫海姆（象徵性定位於挪威羅弗敦群島吉姆瑟島）"
+      },
+      "lat": 68.2,
+      "lon": 13.7,
+      "period": "Gylfaginning c. 1220-1230; Grimnismal st. 5, 13; principal MSS Codex Regius GKS 2365 4to, GKS 2367 4to",
+      "source": {
+        "archive": "sacred-texts.com (Bellows 1923) / Project Gutenberg (Brodeur 1916)",
+        "work": "Snorri, Gylfaginning ch. 17; Grimnismal st. 5, 13; critical ed. Faulkes (1987)",
+        "url": "https://www.sacred-texts.com/neu/pre/"
+      },
+      "license": "Public domain (Brodeur 1916; Bellows 1923); passages below are labeled paraphrases",
+      "summary": {
+        "en": "When Freyr cut his first tooth, the Aesir gave him as a tooth-gift the realm called Alfheim, home of the light-elves - fairer than the sun to look on. Below, in the dark, dwell the dark-elves, blacker than pitch. The passage is the Norse doctrine of the two elf-peoples, the gift-economy of childhood (a god's first tooth is worth a country), and the origin of the European fairy-land: the realm given away at a teething party.",
+        "zh": "弗雷初次長牙之時，阿薩神族以名為阿爾夫海姆的國度相贈，那是光之精靈的居所——其貌美於太陽。而在下方幽暗之處，住著比柏油更黑的暗精靈。此段是北歐「兩支精靈族」的學說、童年的饋贈經濟（神的乳牙抵得一國），亦是歐洲仙境（fairy-land）的起源：一片在長牙宴上被送出的國土。"
+      },
+      "language": "Old Norse / Old Icelandic",
+      "canonical_translation": "A. G. Brodeur, Snorri Sturluson: The Prose Edda, New York 1916 (public domain)",
+      "narrative": {
+        "en": "Gylfaginning installs the elves in two sentences attached to Freyr's biography: when the young Freyr cut his first tooth, the Aesir gave him as a tooth-gift the realm of Alfheim - and in it dwell the light-elves, fairer than the sun to look upon. But the dark-elves dwell below the earth, and they are unlike them in appearance, and unlike them too in their deeds: they are blacker than pitch. The two peoples, bright and black, share one name-family (alfar) and one geography: above, the shining; below, the pitch.\n\nGrimnismal confirms the upper geography in its litany of halls: Alfheim the gods gave to Freyr of old as a tooth-payment - confirming the tooth-gift doctrine in verse. The eddic elsewhere adds a third register: the elves appear as a people with their own halls (Lokasenna: why should the Aesir quarrel in the elves' home - the feast is held at Aegir's, but Loki's insults fly at elf-halls too), and as healers' kin (the ritual phrase 'helping-runes for birth ... on the beams of the elves' in Sigrdrifumal), and as a race whose women are dangerous to marry (the shield-maiden Brynhild warns of the elf-women). The sagas complete the picture: Iceland's social world is haunted by alf-folk, and the Kormaks saga hero is cured by an elf-sacrifice on a mound.\n\nThe cultural functions are threefold. First, an aition of the fairy-realm: medieval and modern 'elfland' - Tolkien's and Shakespeare's alike - descends from this doctrine of a bright country given away at a child's teething, populated by beings fairer than the sun. Second, a gift-economy of childhood: the Norse elite celebrated a boy's first tooth with a present of territory; the myth both mirrors and magnifies the real custom. Third, a moral geography: the light-elves and dark-elves encode the same above/below polarity as Asgard/Hel - illumination is a matter of residence, not species, since both peoples are alfar.\n\nIn the atlas's comparative frame, Alfheim answers the Greek Elysium and the Japanese Takamagahara: each tradition imagines a bright near-world adjacent to the human; the Norse one is distinctive for having been privately owned - a god's childhood fee.\n\nThe elves' wider economy completes the doctrine: the eddic poems' elf-halls (Lokasenna's feast at Aegir's attended by elf-kind), the healing-runes 'cut on the elves' beams' (Sigrdrifumal), and the sagas' elf-sacrifice cures (Kormaks saga's mound-offering) document the elf-folk as healers, neighbors and dangerous kin - a people in legal-social relation with humans, not mere spirits. And the tooth-gift's real custom completes the record: the Norse elite's teething-gifts (a boy's first tooth celebrated with a present) are the myth's mirror, the god's country-sized fee magnifying the farm's gift. The record thus anchors the elf-geography family: the bright above and the pitch-dark below, one name-family divided by residence."
+      },
+      "functions": [
+        "Aition of the fairy-realm: elfland as a realm gifted at a god's first tooth",
+        "Two-elf doctrine: light-elves above, dark-elves below - residence, not species, as moral geography",
+        "Gift-economy of childhood: mirrors the real Norse tooth-gift custom",
+        "Links elves to healing, prophecy and dangerous marriage in eddic and saga material"
+      ],
+      "variants": [
+        {
+          "name": "Gylfaginning ch. 17 (Prose Edda)",
+          "text_tradition": "Codex Regius GKS 2367 4to",
+          "summary": "The tooth-gift frame and the two-elf doctrine in two sentences - the fullest prose statement.",
+          "cross_ref": "norse-alfheim-elves"
+        },
+        {
+          "name": "Grimnismal st. 5 (Poetic Edda)",
+          "text_tradition": "Codex Regius GKS 2365 4to",
+          "summary": "The verse confirmation: Alfheim given to Freyr of old as tooth-payment.",
+          "cross_ref": "norse-alfheim-elves"
+        },
+        {
+          "name": "Greek parallel: Elysium",
+          "text_tradition": "Hesiod, Works and Days 167-173; Odyssey 4.561-569",
+          "summary": "The bright near-world for the favored dead - the comparative analog without the property-title: Elysium is unowned, Alfheim is Freyr's.",
+          "cross_ref": "greek-odyssey-nekuia"
+        }
+      ],
+      "primary_sources": [
+        {
+          "work": "Snorri Sturluson, Edda: Gylfaginning",
+          "citation": "Ch. 17 (Alfheim; light-elves and dark-elves). Critical ed. Faulkes 1987; English: Brodeur 1916.",
+          "language": "Old Norse / Old Icelandic"
+        },
+        {
+          "work": "Grimnismal",
+          "citation": "Stanzas 5 and 13. Principal MS Codex Regius GKS 2365 4to. Public-domain English: Bellows 1923.",
+          "language": "Old Norse / Old Icelandic"
+        }
+      ],
+      "secondary_sources": [
+        {
+          "work": "Alaric Hall, Elves in Anglo-Saxon England",
+          "citation": "Hall 2007, Woodbridge: Boydell - the elf-lexicon and its social meanings across Germanic material."
+        },
+        {
+          "work": "Rudolf Simek, Dictionary of Northern Mythology",
+          "citation": "Simek 1993, Cambridge: D. S. Brewer - entries 'Alfheimr', 'alfar', 'dokkalfar'."
+        }
+      ],
+      "source_urls": [
+        {
+          "url": "https://www.sacred-texts.com/neu/pre/pre05.htm",
+          "description": "Gylfaginning ch. 17, Brodeur translation (public domain)",
+          "accessed": "2026-11-01"
+        },
+        {
+          "url": "https://www.sacred-texts.com/neu/poe/poe10.htm",
+          "description": "Grimnismal st. 5, Bellows translation (public domain)",
+          "accessed": "2026-11-01"
+        }
+      ],
+      "sensitivity_flag": "none",
+      "provenance": {
+        "record_status": "complete",
+        "compiled": "2026-11-01",
+        "compiled_by": "DHG508 fieldwork compilation",
+        "review_status": "draft - pending human review"
+      },
+      "motifs": [
+        "sacred-place",
+        "miraculous-birth"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Historical literary corpus; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "When Freyr cut his first tooth, the Aesir gave him as a tooth-gift the realm called Alfheim; and in it dwell the light-elves, fairer than the sun to look upon.",
+          "note": "Paraphrase of Snorri, Gylfaginning ch. 17 (Brodeur 1916); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "But the dark-elves dwell below the earth, and they are unlike the light-elves in appearance and in deeds: they are blacker than pitch. Alfheim the gods gave to Freyr in days of old as a tooth-payment, so says the poem.",
+          "note": "Paraphrase of Snorri, Gylfaginning ch. 17, and Grimnismal st. 5 (Brodeur; Bellows); not verbatim."
+        }
+      ]
+    },
+    {
+      "id": "norse-hymir-kettle",
+      "title": {
+        "en": "The Kettle of the Gods' Feast: Thor and Tyr Fetch Hymir's Cauldron",
+        "zh": "諸神盛宴之鍋：索爾與提爾取回希米爾的巨釜"
+      },
+      "tradition": "norse",
+      "category": "myth-religion",
+      "region": {
+        "en": "Hymir's hall at the edge of heaven (symbolic pin at Lofoten, Norway)",
+        "zh": "天之盡頭的希米爾之廳（象徵性定位於挪威羅弗敦）"
+      },
+      "lat": 68.2,
+      "lon": 13.7,
+      "period": "Hymiskvida c. 900-1000 CE; Gylfaginning c. 1220-1230; principal MSS Codex Regius GKS 2365 4to, GKS 2367 4to",
+      "source": {
+        "archive": "sacred-texts.com (Bellows 1923) / Project Gutenberg (Brodeur 1916)",
+        "work": "Hymiskvida; Snorri, Gylfaginning ch. 45; critical ed. Dronke (1997)",
+        "url": "https://www.sacred-texts.com/neu/poe/"
+      },
+      "license": "Public domain (Bellows 1923; Brodeur 1916); passages below are labeled paraphrases",
+      "summary": {
+        "en": "The gods want a kettle big enough to brew ale for all of them at once, and only one exists: the mile-deep cauldron of the giant Hymir. Thor and Tyr travel east to fetch it; on the trip Thor fishes up the World-Serpent with an ox-head bait, and in the hall Tyr lifts the cauldron's lid by its ring while Thor carries the whole vessel out on his head, breaking gates and pillars - then slays the pursuing giants and the kettle's owner. The myth is the aition of the communal feast: the brewing-vessel of the gods is war-booty from the giants, hauled home through the frontier.",
+        "zh": "諸神想要一口足以一次為全體釀酒的巨鍋，而世上僅有一口：巨人希米爾深達一里的巨釜。索爾與提爾東行取鍋；途中索爾以牛頭為餌釣起世界之蛇；在廳中，提爾以手扣住鍋環掀起鍋蓋，索爾則以頭頂起整口巨釜，撞碎門扉與立柱而歸——隨後誅殺追來的巨人與鍋之主人。此神話是「共食盛宴」的起源：諸神的釀酒巨器乃自巨人處奪得的戰利品，穿越邊境而歸。"
+      },
+      "language": "Old Norse / Old Icelandic",
+      "canonical_translation": "Henry A. Bellows, The Poetic Edda, New York 1923 (public domain); Gylfaginning via Brodeur 1916",
+      "narrative": {
+        "en": "The myth begins, like so much Norse myth, at a party that cannot happen. The gods want to brew ale for all of them together, and the prophetesses find no kettle big enough until the giant Hymir's is named - a cauldron a mile deep. Thor and Tyr set out to steal it. Tyr's own father is Hymir (a monstrous detail: the law-god has giant kin), and at the hall Thor eats two of the oxen at a sitting, which enrages the giant and leads to the fishing trip: to test the god's table-manners, Hymir rows out to his deep-sea fishing grounds with the ox-head as bait.\n\nThe fishing is the myth's famous center. Thor baits the hook with the head of Hymir's best ox, rows past the giants' shores to where the World-Serpent lies, and hooks it; the serpent's head comes up, jaw over the gunwale, venom and eye glaring; Thor reaches for his hammer to kill it - and Hymir, terrified, cuts the line. The serpent sinks, and Thor strikes it a blow on the head as it goes - the wound that will not close until Ragnarok. (Snorri makes the giants cut the line out of fear; the poem blames Hymir's cowardice or cunning.)\n\nThe kettle heist completes the logic. At Hymir's hall the tests of strength multiply: Thor breaks a goblet against a rock (it shatters - against the giant's forehead, the rock of the world's edge); the cauldron's three-mile depth is weighed; and in the escape Tyr lifts the lid by its ring, Thor hauls the vessel on his head through doors and posts, and when the giants pursue with a hundred-headed troop, Thor kills Hymir and the troop with the returning hammer. The kettle arrives in Asgard: from now on the gods can brew ale for everyone at the winter feasts.\n\nThe record is a compact institutional myth: the communal feast - the core ritual of Scandinavian society - is equipped by theft from the borderlands. The kettle is the one object whose absence prevents the gods' society from functioning (a feast without enough ale is not a feast), and it can only be got by a joint operation of the two most boundary-crossing gods: Thor (strength) and Tyr (law and giant-kinship). Skaldic poetry confirms the myth's age: Bragi's Ragnarsdrapa (9th c.) and Eysteinn's lausavisa both depict the fishing, centuries before Snorri - the myth is attested at every stage of its transmission. In the atlas's frame, it answers the Greek amphictyony-cauldrons and the Chinese ding-tripods: ritual vessels as the emblems of the communal order, here won in single combat with the wild."
+      },
+      "functions": [
+        "Aition of the communal feast: the gods' brewing-vessel as war-booty from the giants",
+        "Frontier myth: society's core equipment obtained by a joint strongman-lawman raid",
+        "Anchor of the Thor-fishing myth-plex, attested in skaldic verse from the 9th century",
+        "Tests-of-strength narrative: table, goblet, kettle - the feast as strength-contest"
+      ],
+      "variants": [
+        {
+          "name": "Hymiskvida (Poetic Edda)",
+          "text_tradition": "Codex Regius GKS 2365 4to",
+          "summary": "The poem's version: Tyr's giant-kinship, the goat-eating, the ox-head fishing, the line cut, the goblet broken on the forehead, the kettle hauled through gates.",
+          "cross_ref": "norse-hymir-kettle"
+        },
+        {
+          "name": "Gylfaginning ch. 45 (Prose Edda)",
+          "text_tradition": "Codex Regius GKS 2367 4to",
+          "summary": "Snorri's retelling with the giants cutting the line, the mile-deep kettle, and the slaughter of the hundred-headed pursuers.",
+          "cross_ref": "norse-hymir-kettle"
+        },
+        {
+          "name": "Skaldic attestations: Ragnarsdrapa; Eysteinn Valdason",
+          "text_tradition": "Corpus Poeticum Boreale (Vigfusson & Powell 1883)",
+          "summary": "Bragi's 9th-century shield-description and Eysteinn's lausavisur depict Thor's fishing for the serpent - independent pre-Snorri evidence for the myth-plex.",
+          "cross_ref": "norse-thor-fishing-serpent"
+        }
+      ],
+      "primary_sources": [
+        {
+          "work": "Hymiskvida",
+          "citation": "Complete poem. Principal MS Codex Regius GKS 2365 4to. Critical edition: Dronke 1997; public-domain English: Bellows 1923.",
+          "language": "Old Norse / Old Icelandic"
+        },
+        {
+          "work": "Snorri Sturluson, Edda: Gylfaginning",
+          "citation": "Ch. 45 (the kettle-quest; the fishing; the escape). Critical ed. Faulkes 1987; English: Brodeur 1916.",
+          "language": "Old Norse / Old Icelandic"
+        }
+      ],
+      "secondary_sources": [
+        {
+          "work": "Ursula Dronke, The Poetic Edda, vol. II",
+          "citation": "Dronke 1997, Oxford - commentary on Hymiskvida's composition and date."
+        },
+        {
+          "work": "Russell Poole, 'Hymiskvida' in Poetry on Christian authors (Skaldic Poetry of the Scandinavian Middle Ages)",
+          "citation": "Poole 2007, Turnhout: Brepols - skaldic attestations of the fishing myth."
+        }
+      ],
+      "source_urls": [
+        {
+          "url": "https://www.sacred-texts.com/neu/poe/poe11.htm",
+          "description": "Hymiskvida, Bellows translation (public domain)",
+          "accessed": "2026-11-01"
+        },
+        {
+          "url": "https://www.sacred-texts.com/neu/pre/pre07.htm",
+          "description": "Gylfaginning chs. 41-47, Brodeur translation (public domain)",
+          "accessed": "2026-11-01"
+        }
+      ],
+      "sensitivity_flag": "none",
+      "provenance": {
+        "record_status": "complete",
+        "compiled": "2026-11-01",
+        "compiled_by": "DHG508 fieldwork compilation",
+        "review_status": "draft - pending human review"
+      },
+      "motifs": [
+        "storm-thunder",
+        "world-serpent"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Historical literary corpus; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Thor and Tyr rode east to the giant Hymir's hall to fetch the mile-deep kettle in which ale is brewed for the gods. On the trip Thor took an ox-head for bait, and rows with Hymir past the deeps where the World-Serpent lies; he hooks it, and the serpent's head comes up over the gunwale with venom dripping, and Thor reaches for the hammer - but Hymir, pale with terror, cuts the line, and the serpent sinks away struck once on the head.",
+          "note": "Paraphrase of Hymiskvida st. 17-26 and Gylfaginning ch. 45 (Bellows; Brodeur); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Tyr lifted the kettle's lid by the ring; Thor raised the cauldron on his head and bore it out through doors and posts, shattering them; and when the hundred-headed giants pursued, he slew Hymir and the troop with the hammer come back to his hand - and the kettle was carried home, and from it ale is brewed for all the gods together.",
+          "note": "Paraphrase of Hymiskvida st. 31-38 (Bellows 1923); not verbatim."
+        }
+      ]
+    },
+    {
+      "id": "norse-grotti-mill",
+      "title": {
+        "en": "The Mill Grotti: Gold, Peace and the Roaring Sea",
+        "zh": "格羅蒂磨坊：黃金、和平與咆哮的大海"
+      },
+      "tradition": "norse",
+      "category": "myth-religion",
+      "region": {
+        "en": "The king's mill-hall and the open sea (symbolic pin at Laeso island, Denmark)",
+        "zh": "王的磨坊大廳與外海（象徵性定位於丹麥萊瑟島）"
+      },
+      "lat": 57.27,
+      "lon": 11.0,
+      "period": "Grottasongr c. 900-1100 CE; Skaldskaparmal c. 1220-1230; principal MSS Codex Regius GKS 2365 4to, GKS 2367 4to",
+      "source": {
+        "archive": "sacred-texts.com (Bellows 1923) / Project Gutenberg (Brodeur 1916)",
+        "work": "Grottasongr; Snorri, Skaldskaparmal ch. 8 (the story of Grottasongr); critical ed. Dronke (1997)",
+        "url": "https://www.sacred-texts.com/neu/poe/"
+      },
+      "license": "Public domain (Bellows 1923; Brodeur 1916); passages below are labeled paraphrases",
+      "summary": {
+        "en": "A magic mill named Grotti grinds whatever its operator commands: gold, peace, happiness - anything. Two giant-maidens, Fenja and Menja, are bought from Sweden and set to turn it; they grind gold and peace for the Danish king Frodi so well that he never needs to buy a man's life or justice - until the king overworks them, gives them no rest but the time a song takes, and they grind out an army and their own revenge. The mill is flung into the sea, where it still grinds - the aition of the maelstrom and, with it, of why the sea's salt is endless.",
+        "zh": "神磨格羅蒂能磨出操作者所求之物：黃金、和平、幸福——無所不能。兩名巨人族少女芬婭與梅尼婭購自瑞典，被迫轉動神磨；她們為丹麥王弗羅迪磨出黃金與和平，令其無須買命或買公正——直到國王苛使她們，只許她們歇息一首歌的工夫，她們便磨出大軍與自身的復仇。神磨最終被拋入海中，至今仍在磨轉——這是漩渦（maelstrom）的起源故事，也解釋了海水何以無盡地鹹。"
+      },
+      "language": "Old Norse / Old Icelandic",
+      "canonical_translation": "Henry A. Bellows, The Poetic Edda, New York 1923 (public domain); Skaldskaparmal via Brodeur 1916",
+      "narrative": {
+        "en": "The mill is the Norse myth of prosperity's machinery. Grotti - 'the grinder' - is a quern-stone so heavy no man can turn it; its first wheel-turn was before any land existed, it ground the gravel that became the earth, and it has ground gold ever since. King Frodi of Denmark finds the two giant-maidens Fenja and Menja, daughters of the mountain-giant Hrungnir's kin, buys them as slaves from Sweden, and sets them at the mill; he orders them to grind gold, peace and happiness, and grants them no rest longer than the time a song takes.\n\nThe maidens comply - and compose. Their work-song (the poem Grottasongr itself) is a labor-arithmetic: they have turned the mill through wars and fortunes; they ground for Yngvi's hosts, ground the unsteady gold, ground peace for Frodi; and the king's wealth was such that no man needed to buy another's life or sue another for justice. But the song remembers too what they are: giant-kin, stronger than the strongest, born before the world. Their patience breaks: 'weary are we of the labor' - and they change the order. Now they grind out a host against the king: warships, warriors, a banner - and the sea-king Mysing comes, sacks the hall, burns Frodi's peace, and carries off the mill and the maidens.\n\nOn Mysing's ship he orders one last grinding - salt. The ship is heavy-laden; at midnight the maidens ask whether they are wearying the crew; the sea-king says they have ground long enough; but the mill has ground to the hull's waterline, and down goes the ship - mill, maidens, salt - and where it sank there has been a whirlpool ever since, where the sea runs through the eye of the stone: the maelstrom, whose waters are salt because the grinding never stopped.\n\nThe cultural functions are dense. The myth aitions three institutions at once: peace (it can be ground like gold - and it is perishable, resting on the labor of the unfree), the maelstrom (a whirlpool whose salt explains the sea), and the ethics of forced labor (the mill runs on giant-women bought as slaves, and their song is the exact price-list of the king's prosperity). Snorri embeds it in Skaldskaparmal as a kenning-source - 'Frodi's meal', 'the maidens' sea-mill' - and as a political fable for a thirteenth-century audience that understood grinding gold out of subject labor. In the atlas, Grotti answers the Chinese mulberry-field catastrophes and the Greek water-mill legends: machinery, labor and apocalypse in one mechanism."
+      },
+      "functions": [
+        "Aition of the maelstrom and the sea's endless salt",
+        "Political fable: peace and gold ground from the labor of unfree giant-women",
+        "The work-song as price-list: Grottasongr documents the cost of prosperity",
+        "Apocalypse mechanism: prosperity-machinery flung into the sea still operating"
+      ],
+      "variants": [
+        {
+          "name": "Grottasongr (Poetic Edda)",
+          "text_tradition": "Codex Regius GKS 2365 4to",
+          "summary": "The poem itself: the work-song of Fenja and Menja from purchase to revenge, with the prose frame of the Codex Regius giving the plot.",
+          "cross_ref": "norse-grotti-mill"
+        },
+        {
+          "name": "Skaldskaparmal ch. 8 (Prose Edda)",
+          "text_tradition": "Codex Regius GKS 2367 4to",
+          "summary": "Snorri's retelling with the mill's pre-cosmic first grinding, the Mysing voyage, and the whirlpool doctrine - his source is the poem plus oral elaboration.",
+          "cross_ref": "norse-grotti-mill"
+        },
+        {
+          "name": "Parallel: the legend of the bottomless salt-mill",
+          "text_tradition": "Nordic folk tradition (documented 19th c.)",
+          "summary": "The folk-tale of the mill that grinds salt at the bottom of the sea descends from Grotti's doctrine - the myth's folk afterlife.",
+          "cross_ref": "none"
+        }
+      ],
+      "primary_sources": [
+        {
+          "work": "Grottasongr",
+          "citation": "Complete poem with Codex Regius prose frame. Principal MS Codex Regius GKS 2365 4to. Critical edition: Dronke 1997; public-domain English: Bellows 1923.",
+          "language": "Old Norse / Old Icelandic"
+        },
+        {
+          "work": "Snorri Sturluson, Edda: Skaldskaparmal",
+          "citation": "Ch. 8 (the story of Grottasongr; the whirlpool). Critical ed. Faulkes 1987; English: Brodeur 1916.",
+          "language": "Old Norse / Old Icelandic"
+        }
+      ],
+      "secondary_sources": [
+        {
+          "work": "Ursula Dronke, The Poetic Edda, vol. II",
+          "citation": "Dronke 1997, Oxford - commentary on Grottasongr's metre, its dating and its political reading."
+        },
+        {
+          "work": "Rudolf Simek, Dictionary of Northern Mythology",
+          "citation": "Simek 1993, Cambridge: D. S. Brewer - entries 'Grottasongr', 'Fenja', 'Menja', 'Frodi'."
+        }
+      ],
+      "source_urls": [
+        {
+          "url": "https://www.sacred-texts.com/neu/poe/poe16.htm",
+          "description": "Grottasongr, Bellows translation (public domain)",
+          "accessed": "2026-11-01"
+        },
+        {
+          "url": "https://www.sacred-texts.com/neu/pre/pre06.htm",
+          "description": "Skaldskaparmal ch. 8, Brodeur translation (public domain)",
+          "accessed": "2026-11-01"
+        }
+      ],
+      "sensitivity_flag": "none",
+      "provenance": {
+        "record_status": "complete",
+        "compiled": "2026-11-01",
+        "compiled_by": "DHG508 fieldwork compilation",
+        "review_status": "draft - pending human review"
+      },
+      "motifs": [
+        "transformation",
+        "sacred-kingship"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Historical literary corpus; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The two maidens turned the mill that ground gold for the king of Denmark, and peace and happiness therewith; his wealth was such that no man needed to buy another's life, and no man needed to sue another for justice, so long as the gold-meal came from the quern.",
+          "note": "Paraphrase of Grottasongr st. 6-10 (Bellows 1923); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "But the king gave them no longer rest than the singing of a song; and the maidens changed their grinding: now they ground out a host and warships against the hall, and the sea-king Mysing came, burned the king's peace, and carried off the mill and the maidens. On his ship he bade them grind salt; they ground until the ship sank, and since then the sea has run through the eye of the stone, and the waters there are salt.",
+          "note": "Paraphrase of Grottasongr st. 10-13 with Codex Regius frame (Bellows 1923); not verbatim."
+        }
+      ]
+    },
+    {
+      "id": "norse-freyr-gerd-skirnir",
+      "title": {
+        "en": "Skirnismal: Freyr's Wooing, the Pledged Sword and the Greening of the Fields",
+        "zh": "斯基尼爾之歌：弗雷的求愛、抵押的寶劍與田野回青"
+      },
+      "tradition": "norse",
+      "category": "myth-religion",
+      "region": {
+        "en": "Gymir's garden, Jotunheimr (symbolic pin at Jotunheimen, Norway)",
+        "zh": "約頓海姆基米爾的花園（象徵性定位於挪威尤通黑門山）"
+      },
+      "lat": 61.7,
+      "lon": 8.5,
+      "period": "Skirnismal c. 900-1000 CE; Gylfaginning c. 1220-1230; principal MSS Codex Regius GKS 2365 4to, GKS 2367 4to",
+      "source": {
+        "archive": "sacred-texts.com (Bellows 1923) / Project Gutenberg (Brodeur 1916)",
+        "work": "Skirnismal; Snorri, Gylfaginning ch. 37; critical ed. Dronke (1997)",
+        "url": "https://www.sacred-texts.com/neu/poe/"
+      },
+      "license": "Public domain (Bellows 1923; Brodeur 1916); passages below are labeled paraphrases",
+      "summary": {
+        "en": "Seated on Odin's all-seeing throne, Freyr looks into Gymir's garden and falls mortally lovesick for the giant-maiden Gerd. His servant Skirnir rides as envoy, first offering her eleven golden apples and the ring Draupnir, then cursing her: her limbs shall wither, her face be seen only by terror, madness and misery follow her - unless she consents. She consents, nine nights hence, in the grove Barri. But the price is the god's own sword: Freyr has pledged it to Skirnir, and when Ragnarok comes he must fight Surtr bare-handed - and fall. The myth is the Norse aition of the harvest: the fertility god buys the earth's yielding with his own weapon, and pays at the world's end.",
+        "zh": "弗雷坐上奧丁的全知王座，望見基米爾花園，為巨人族少女葛德害上致命的相思。其僕斯基尼爾奉命為使，先以十一枚金蘋果與指環德羅普尼爾相誘，後以咒語相脅：若不容應，其肢體將枯萎，其容顏只被恐懼所見，瘋狂與悲苦隨行——葛德遂允於九夜之後在巴里林中相會。然而代價是神自己的寶劍：弗雷已將其抵押給斯基尼爾，末日之戰來臨時他只能空手迎戰蘇爾特——並因此殞命。此神話是北歐豐收的起源故事：豐饒之神以自己的兵器換取大地的饋贈，並在世界終結之時償付。"
+      },
+      "language": "Old Norse / Old Icelandic",
+      "canonical_translation": "Henry A. Bellows, The Poetic Edda, New York 1923 (public domain); Gylfaginning via Brodeur 1916",
+      "narrative": {
+        "en": "The myth begins with surveillance. Freyr sits one day in Hlidskjalf, Odin's high seat from which all worlds are seen, though no one but its owner should sit there; he looks north to Jotunheim, sees a maiden walking from her father Gymir's hall to the storehouse, and the sight does its work: his hand grows slack, his mind sick, and no one can speak with him. Njord sends Skirnir, Freyr's servant, to ask the matter; Freyr confesses, and asks the impossible: to woo the girl for him, over her father's will and her own.\n\nSkirnir names his fee and takes the gear: Freyr's sword, the one that fights of itself. Then the embassy: past the hounds of Gymir's fence, to the garden where Gerd sits. First the gold: eleven apples of the goddess Iunn, the ring Draupnir that drops eight rings of its own kind every ninth night - she refuses: 'Gymir's gold I need not, nor the ring'. Then threats, in escalating verse: Skirnir draws (with what? the text withholds) a threatening shape and curses her: she shall sit lonely on the eagle's cliff, look toward the worlds, and find food more loathsome to her than to any man; she shall be seen of all as a terror; madness, misery and the restless urge shall follow her; her limbs shall grow; her face shall strike dread; with a three-leaved thurst-staff the giant Hrimgrimnir shall have her below the corpses' gate - and the wretched maid shall always serve, 'ever beneath the grips of men'. The curses land: Gerd bids him welcome - the ninth night, in the grove Barri, she will grant the god her love.\n\nBut the poem has one more stanza of freight: when Skirnir asks his wages, the exchange is stark - 'the sword I gave you is your fee; the maiden you won for me; and I know it well, that my fall draws near'. Gylfaginning confirms: because Freyr gave the sword away, he had none when he met Surtr at Ragnarok, and he slew Beli with a horn's point - and the Prose account adds the economics: had he kept the sword, the gods would have been served by it at Ragnarok. The sword bought the union of god and earth-giantess; the price is deferred to doomsday.\n\nThe record's cultural functions are the harvest-doctrine and the marriage-ethics of the north. Skirnismal is the aition of the fields' fruitfulness: the union of the god (rain, sunshine) with Gerd (the fenced garden, her name means 'enclosure') is agriculture itself - a marriage of cultivation and enclosure. And it is a courtship-law myth: consent extracted by escalating threats, negotiated by an envoy who is paid in weapons - the poem's own editors debate whether the curses are ritual magic (a warlock's wooing) or a legal parable of forced marriage. For the atlas, the pledged sword is the pattern of the culture-gift bought with doom - the myth answers Prometheus' fire-theft and Freyr's own corn-splendor with a mortgage: the fertility god's armament is pawned to buy the harvest, and the interest comes due at the end of the world."
+      },
+      "functions": [
+        "Aition of the harvest: the god's marriage to the enclosure (Gerd) as agriculture itself",
+        "Doctrine of priced consent: wooing by escalating threat, negotiated by a paid envoy",
+        "The pledged sword: the fertility god's armament pawned for the harvest, due at Ragnarok",
+        "Surveillance motif: Hlidskjalf's all-seeing throne as the trigger of love and doom"
+      ],
+      "variants": [
+        {
+          "name": "Skirnismal (Poetic Edda)",
+          "text_tradition": "Codex Regius GKS 2365 4to",
+          "summary": "The poem itself: lovesick Freyr on Hlidskjalf, Skirnir's embassy, the refusal, the curses, the consent, and the fatal fee of the sword.",
+          "cross_ref": "norse-freyr-gerd-skirnir"
+        },
+        {
+          "name": "Gylfaginning ch. 37 (Prose Edda)",
+          "text_tradition": "Codex Regius GKS 2367 4to",
+          "summary": "Snorri's retelling and his eschatological accounting: without the sword Freyr slew Beli with a horn-point and will fall to Surtr.",
+          "cross_ref": "norse-ragnarok-battles"
+        },
+        {
+          "name": "Skaldic echo: Hrafnkels saga's Frey-cult",
+          "text_tradition": "Hrafnkels saga Freysgoda (14th c.)",
+          "summary": "The cultic afterlife: a chieftain dedicates half his livestock to Freyr, whom the god protects - the fertility-god's bargains extended to Iceland's farms.",
+          "cross_ref": "norse-freyfaxi-taboo"
+        }
+      ],
+      "primary_sources": [
+        {
+          "work": "Skirnismal",
+          "citation": "Complete poem. Principal MS Codex Regius GKS 2365 4to. Critical edition: Dronke 1997; public-domain English: Bellows 1923.",
+          "language": "Old Norse / Old Icelandic"
+        },
+        {
+          "work": "Snorri Sturluson, Edda: Gylfaginning",
+          "citation": "Ch. 37 (Freyr and Gerd; the pledged sword; Beli). Critical ed. Faulkes 1987; English: Brodeur 1916.",
+          "language": "Old Norse / Old Icelandic"
+        }
+      ],
+      "secondary_sources": [
+        {
+          "work": "Ursula Dronke, The Poetic Edda, vol. II",
+          "citation": "Dronke 1997, Oxford - commentary on Skirnismal's magic-vocabulary and its cultic background."
+        },
+        {
+          "work": "Gro Steinsland, Norron religion",
+          "citation": "Steinsland 2005, Oslo: Pax - the sacred-marriage reading of Freyr and Gerd."
+        },
+        {
+          "work": "Rudolf Simek, Dictionary of Northern Mythology",
+          "citation": "Simek 1993, Cambridge: D. S. Brewer - entries 'Skirnir', 'Gerd', 'Barri', 'Hlidskjalf'."
+        }
+      ],
+      "source_urls": [
+        {
+          "url": "https://www.sacred-texts.com/neu/poe/poe07.htm",
+          "description": "Skirnismal, Bellows translation (public domain)",
+          "accessed": "2026-11-01"
+        },
+        {
+          "url": "https://www.sacred-texts.com/neu/pre/pre05.htm",
+          "description": "Gylfaginning ch. 37, Brodeur translation (public domain)",
+          "accessed": "2026-11-01"
+        }
+      ],
+      "sensitivity_flag": "none",
+      "provenance": {
+        "record_status": "complete",
+        "compiled": "2026-11-01",
+        "compiled_by": "DHG508 fieldwork compilation",
+        "review_status": "draft - pending human review"
+      },
+      "motifs": [
+        "divine-marriage",
+        "transformation",
+        "sacred-kingship"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Historical literary corpus; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Freyr sat in Hlidskjalf, Odin's high seat, and looked into all worlds; northward he saw a fair maiden walking from her father Gymir's hall, and at that sight his hand fell and his mind grew sick. No man might speak with him, until Skirnir his servant asked and was told the cause.",
+          "note": "Paraphrase of Skirnismal st. 1-7 (Bellows 1923); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Skirnir offered the maiden eleven golden apples and the ring Draupnir, which drops eight rings of itself every ninth night; she refused them. Then he cursed her: lonely on the eagle's cliff she should sit, her limbs wither, her face be seen only as terror, madness and misery follow her, and a giant have her below the corpses' gate - and at that she consented: the ninth night hence, in the grove Barri, she would grant the god her love.",
+          "note": "Paraphrase of Skirnismal st. 16-36 (Bellows 1923); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "When Skirnir asked his fee, Freyr answered that he had given him the sword: 'you won the maiden; and I know it well, that my fall draws near'. For the sword was pledged, and when Ragnarok came Freyr had none, and met Surtr, and fell.",
+          "note": "Paraphrase of Skirnismal st. 40 and Gylfaginning ch. 37 (Bellows; Brodeur); not verbatim."
+        }
+      ]
+    }
+  ]
+}

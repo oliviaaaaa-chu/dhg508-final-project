@@ -1,0 +1,199 @@
+{
+  "texts": [
+    {
+      "id": "maya-lacandon-grave-dogs",
+      "title": {
+        "en": "Palm-Leaf Dogs for the Grave of the Dead",
+        "zh": "亡者墓上的棕櫚葉犬"
+      },
+      "tradition": "maya",
+      "category": "myth",
+      "region": {
+        "en": "Lake Petha region, Chiapas",
+        "zh": "恰帕斯佩塔湖地區"
+      },
+      "lat": 16.5,
+      "lon": -90.9,
+      "period": "Recorded 1901-03 (Tozzer fieldwork), published 1907",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Alfred M. Tozzer, A Comparative Study of the Mayas and the Lacandones (1907), Part II",
+        "url": "https://archive.org/details/comparativestudy00tozz"
+      },
+      "license": "Public domain (Tozzer 1907)",
+      "summary": {
+        "en": "A mound about a foot high is made; ashes are sprinkled over it, and at each of the four corners there is placed a small figure made of palm leaves representing a dog — these are supposed to accompany the soul as guardians to its final resting place. Around the grave is a line of small sticks with bits of cloth dipped in beeswax, lit as rude candles, and a shelter of palm leaves is built over the grave with gourds of posol, water, and tortillas for the journey.",
+        "zh": "墓上起一呎高的土冢，撒以灰；四隅各置棕櫚葉所製的小犬——人信其為靈之護衛，伴魂至其安息之地。墓環細枝一匝，枝頂置蘸蠟布片，家人點為粗燭；更以棕葉覆墓成棚，懸波索爾、水與玉米餅三瓢，以備魂之旅資。"
+      },
+      "motifs": [
+        "descent-underworld",
+        "transformation"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Published public-domain ethnography (1907); living funerary practice — describe respectfully."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "A mound about a foot high is made. Ashes are sprinkled over the mound, and at each of the four corners there is placed a small figure made of palm leaves and representing a dog. These are supposed to accompany the soul as guardians to its final resting place. Around the grave is a line of small sticks about four inches apart; on the top of each stick is a bit of cloth dipped in beeswax, lit by each member of the family as rude candles.",
+          "note": "Condensed from Tozzer (1907), Part II; not verbatim throughout."
+        },
+        {
+          "id": "2",
+          "text": "A shelter of palm leaves is finally built over the grave. From the roof there is suspended a gourd filled with posol, another with water, and a third containing tortillas — this food, together with that placed directly on the grave, provisions the soul for its journey to the upper heavens.",
+          "note": "Condensed from Tozzer (1907), Part II; not verbatim throughout."
+        }
+      ],
+      "persons": [
+        "hachakyum",
+        "kisin"
+      ]
+    },
+    {
+      "id": "maya-chumayel-cease-maya",
+      "title": {
+        "en": "They Ceased to Be Called Maya",
+        "zh": "他們不再被稱為馬雅人"
+      },
+      "tradition": "maya",
+      "category": "myth",
+      "region": {
+        "en": "Yucatan, Mexico",
+        "zh": "墨西哥猶加敦"
+      },
+      "lat": 20.6,
+      "lon": -89.0,
+      "period": "Chumayel MS. written late 18th c.; Roys translation 1933",
+      "source": {
+        "archive": "Sacred Texts Archive (Carnegie Institution edition)",
+        "work": "The Book of Chilam Balam of Chumayel, trans. Ralph L. Roys, 1933, ch. XX",
+        "url": "https://sacred-texts.com/nam/maya/bbc/index.htm"
+      },
+      "license": "Public domain (Roys 1933, not renewed at US Copyright Office)",
+      "summary": {
+        "en": "8 Ahau was when their town was abandoned and they were scattered throughout the entire district. In the sixth katun after they were dispersed, then they ceased to be called Maya. 11 Ahau was the name of the katun when the Maya men ceased to be called Maya: they were called Christians, and their entire province became subject to St. Peter and the reigning King of Spain.",
+        "zh": "八阿赫之年，其城被棄，族眾散於全境。離散後的第六卡特倫，他們便不再被稱為馬雅人。十一阿赫之卡特倫，馬雅人不再稱為馬雅：他們被稱為基督徒，全境臣服於聖伯多祿與西班牙在位之王。"
+      },
+      "motifs": [
+        "world-renewal",
+        "taboo-transgression"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Published colonial-era text; quote/paraphrase of Roys public-domain translation only."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "8 Ahau was when their town was abandoned and they were scattered throughout the entire district. In the sixth katun after they were dispersed, then they ceased to be called Maya. 11 Ahau was the name of the katun when the Maya men ceased to be called Maya: they were called Christians; their entire province became subject to St. Peter and the reigning King of Spain.",
+          "note": "Quoted from Roys translation (1933), ch. XX; lightly condensed; not verbatim throughout."
+        }
+      ],
+      "persons": [
+        "chilambalam"
+      ]
+    },
+    {
+      "id": "maya-chumayel-third-chronicle",
+      "title": {
+        "en": "The Third Chronicle: Katuns of the Itza",
+        "zh": "第三編年：伊察的卡特倫"
+      },
+      "tradition": "maya",
+      "category": "myth",
+      "region": {
+        "en": "Chichen Itza to Lake Peten, Yucatan-Guatemala",
+        "zh": "自奇琴伊察至佩滕湖（猶加敦-危地馬拉）"
+      },
+      "lat": 19.5,
+      "lon": -89.2,
+      "period": "Chumayel MS. written late 18th c.; Roys translation 1933",
+      "source": {
+        "archive": "Sacred Texts Archive (Carnegie Institution edition)",
+        "work": "The Book of Chilam Balam of Chumayel, trans. Ralph L. Roys, 1933, ch. XXI",
+        "url": "https://sacred-texts.com/nam/maya/bbc/index.htm"
+      },
+      "license": "Public domain (Roys 1933, not renewed at US Copyright Office)",
+      "summary": {
+        "en": "5 Ahau was when the town of the ruler of Izamal, Kinich Kakmoo as well as Pop-hol Chan, was destroyed by Hunac Ceel. 1 Ahau was when the remainder of the Itza were driven out of Chichen, in the third tun of Katun 1 Ahau when Chichen was depopulated; 8 Ahau was the katun when the remainder of the Itza founded their town, coming forth from beneath the trees and bushes at Tan-Xuluc-Mul.",
+        "zh": "五阿赫之年，伊扎馬爾王城——基尼奇·卡克穆與波普-霍爾·張——為胡納克·塞爾所毀。一阿赫之年，伊察餘部被逐出奇琴——奇琴於一阿赫卡特倫第三圖恩被遺空；八阿赫之卡特倫，伊察餘部自塔恩-許盧克-穆爾的樹叢之下出而建城。"
+      },
+      "motifs": [
+        "sacred-place",
+        "sacred-kingship",
+        "otherworld-voyage"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Published colonial-era text; quote/paraphrase of Roys public-domain translation only."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "5 Ahau was when the town of the ruler of Izamal, Kinich Kakmoo as well as Pop-hol Chan, was destroyed by Hunac Ceel. 1 Ahau was when the remainder of the Itza were driven out of Chichen. It was the third tun of Katun 1 Ahau when Chichen was depopulated.",
+          "note": "Quoted from Roys translation (1933), ch. XXI; lightly condensed; not verbatim throughout."
+        },
+        {
+          "id": "2",
+          "text": "8 Ahau was the katun when the remainder of the Itza founded their town, coming forth from beneath the trees and bushes at Tan-Xuluc-Mul, as it was called — the flight to the forest southward that ended only when the last Itza town on the Lake of Peten fell in 1697.",
+          "note": "Condensed from Roys translation (1933), ch. XXI; not verbatim throughout."
+        }
+      ],
+      "persons": [
+        "chilambalam",
+        "kukulkan"
+      ]
+    },
+    {
+      "id": "maya-schellhas-god-k",
+      "title": {
+        "en": "God K: The God with the Ornamented Nose",
+        "zh": "神K：飾鼻之神"
+      },
+      "tradition": "maya",
+      "category": "myth",
+      "region": {
+        "en": "Dresden Codex (Yucatec tradition), symbolic pin at Uxmal, Yucatan",
+        "zh": "德累斯頓抄本（猶加敦傳統），以墨西哥猶加敦烏斯馬爾為象徵定位"
+      },
+      "lat": 20.36,
+      "lon": -89.77,
+      "period": "Codex drawn c. 1200-1250; Schellhas 1904",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Schellhas, Representation of Deities of the Maya Manuscripts, trans. Parker & Rau, 1904",
+        "url": "https://archive.org/details/representationof00sche"
+      },
+      "license": "Public domain (Schellhas 1904 BAE translation)",
+      "summary": {
+        "en": "The god with the ornamented nose is not identical with God B, but is probably closely related to him. He is represented in Dresden 25 as perhaps conceived of as a priest wearing a mask with the face of the god; very frequently the well-known group 3 Oc is given with him — Forstemann sees in this the great period of the planet Venus, and the god as the storm-god of the sacrificial scenes.",
+        "zh": "飾鼻之神與神B非同一，然關係密切。德累斯頓25頁中，他或被表現為戴神面假面的祭司；與其常伴者為著名的「三奧克」組合——弗斯特曼於此見金星大週期之數，而謝爾哈斯則於獻祭圖中視之為風暴之神。"
+      },
+      "motifs": [
+        "storm-thunder",
+        "theophany",
+        "sacred-kingship"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Published public-domain commentary; paraphrase only."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "This god, as already mentioned in connection with B, is not identical with the latter, but is probably closely related to him. He is represented in Dr. 25 (centre) where he is perhaps conceived of as a priest wearing a mask with the face of the god; also in Dr. 7a, 12a (with his own hieroglyph and that of E), 26 (bottom) with a variant of the sign.",
+          "note": "Condensed from Schellhas (1904), on God K; not verbatim throughout."
+        },
+        {
+          "id": "2",
+          "text": "Very frequently the well-known group 3 Oc is given with him and in connection with his hieroglyph; Forstemann sees in this the great period of the planet Venus. In the sacrificial scenes of the Dresden Codex the figure at the right above is K, the storm-god, signifying with the rain deity at the left the productive season.",
+          "note": "Condensed from Schellhas (1904), on God K and the sacrificial scene; not verbatim throughout."
+        }
+      ],
+      "persons": [
+        "chac"
+      ]
+    }
+  ]
+}

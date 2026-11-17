@@ -1,0 +1,431 @@
+{
+  "texts": [
+    {
+      "id": "amazonian-okonorote-brett",
+      "title": {
+        "en": "Okonorote and the Cotton Ladder (Brett Version)",
+        "zh": "奧科諾羅特與棉梯（布雷特版）"
+      },
+      "tradition": "amazonian",
+      "category": "myth",
+      "region": {
+        "en": "Sky-land above the Warau swamps",
+        "zh": "瓦勞沼地之上天界"
+      },
+      "lat": 7.2,
+      "lon": -58.9,
+      "period": "Warrau oral tradition; recorded 1880 (Brett)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "W. H. Brett, Legends and Myths of the Aboriginal Indians of British Guiana (1880), Part II 'Legends of the Waraus', 'Legend of Okonorote'",
+        "url": "https://archive.org/details/cu31924020443218"
+      },
+      "license": "Public domain (book 1880)",
+      "summary": {
+        "en": "'Say, Okonorote, thou archer so gay, whither away?' In that high abode, above the blue sky, were no living creatures save those that could fly, and the young Warau race, placed there by their Maker, the Wise and the Good. Pursuing a rare bird with lovely plumage, he transfixed it with a keen arrow — but arrow and bird were nowhere to be found, till he saw a deep pit and, approaching with care, saw daylight beneath him: far below he could see forests grow, wide plains and savannahs where rivulets flow, deer and peccary, the choice paca, and birds soaring near the sky. The tribe prepared a rope ladder of cotton — it took many months, and was lengthened till it grappled the trees of this lower ground. Okonorote ventured below, shot a young deer, kindled a flame, and found the venison excellent food. Ascending again with a portion of game, his words and its flavour put all in a glow: 'We cannot stay here!' So they came down the rope ladder to this world below — all reached the ground in safety save one poor woman, the last, who got wedged in the hole which the others had passed; she fills it up, and that is why the Waraus never can get a fair peep through the sky.",
+        "zh": "瓦勞祖居天界，天上惟有飛鳥與瓦勞人。獵人奧科諾羅特射異鳥，鳥與箭俱失；覓至深穴，俯見穴下有天光：森林、平原、河流、鹿豚盡在。族人採棉為繩梯，歷數月乃成，延至下界之樹。彼下而射鹿，取火炙肉，攜歸示眾；眾皆願遷。遂相繼而下——惟末行一婦卡於穴口，推挽不動。彼塞穴口，故瓦勞人不得窺天之孔也。"
+      },
+      "motifs": [
+        "descent-underworld",
+        "foundational-legend"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Warrau oral tradition recorded by the missionary Brett 1880 in verse; paraphrased into prose. Variant of the Warau sky-descent records."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "He could only shoot birds, for above the blue sky were no living creatures, save those that could fly, and the young Warau race, who in that high abode had been placed by their Maker, the Wise and the Good. Pursuing a rare bird with its plumage so gay, he crawled within shot and transfixed the bright beauty with a keen arrow; but, searching all the ground, arrow and bird were nowhere to be found — till he saw a deep pit, and, the sides being steep, approached it with care. Gone was his arrow for ever and aye, gone too that bright bird; and he, fascinated, unable to move, saw daylight beneath him as well as above.",
+          "note": "Condensed paraphrase of Brett 1880, 'Legend of Okonorote'; not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Far, far below he could see forests grow; wide plains, and savannahs, where rivulets flow. He could see there the deer and the peccary go, the choice paca, and others which now we all know, while birds which soar high, rising near to the sky, his clear vision could spy. 'Prepare a rope ladder; I must go below and see if those creatures are useful or no. If I lose my life, one man only is slain.' All to the woods, picking cotton, would go: it took many months, but the ladder they made — lengthened above when too short it was found, till it grappled the trees upon this lower ground.",
+          "note": "Condensed paraphrase of Brett 1880, 'Legend of Okonorote'; not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "He shot a young deer, kindled a flame in the Indian style with two pieces of wood, and found the venison excellent food. Ascending again — oh, what labour and pain! — a portion of game he brought up from below, sufficient his people to show; his words (and its flavour) put all in a glow: 'Oh! we cannot stay here; animal food we know to abound on that lower ground which Okonorote for Waraus has found!' So they came down the rope ladder to this world below, all reaching the ground in safety, save one — a poor woman, the last, who got wedged in the hole which the others had passed. She fills up the hole; and that is why we never can get a fair peep through the sky!",
+          "note": "Condensed paraphrase of Brett 1880, 'Legend of Okonorote'; not verbatim."
+        }
+      ],
+      "persons": []
+    },
+    {
+      "id": "amazonian-warau-drought-karima",
+      "title": {
+        "en": "The Legend of the Drought: the Warau Prayers for Rain",
+        "zh": "旱魃之傳：瓦勞祈雨之辭"
+      },
+      "tradition": "amazonian",
+      "category": "myth",
+      "region": {
+        "en": "Warau swamps, Orinoco delta",
+        "zh": "奧里諾科三角洲瓦勞沼地"
+      },
+      "lat": 8.0,
+      "lon": -60.5,
+      "period": "Warrau oral tradition; recorded 1880 (Brett)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "W. H. Brett, Legends and Myths of the Aboriginal Indians of British Guiana (1880), Part II 'Legends of the Waraus', 'Legend of the Drought'",
+        "url": "https://archive.org/details/cu31924020443218"
+      },
+      "license": "Public domain (book 1880)",
+      "summary": {
+        "en": "See the Warau race begin life in this new world below: with their bows the hunters won plenteous food, yet they felt within them grow anxious dread of future woe — savage beasts of prey abounded, reptiles coiled in trees around, and one thing filled all with fear: scanty water and unclean, for streamlets small in marshes green were then all that could be seen. 'Oh, where shall we water find, till the wished-for rain shall fall? Other woes we bear resigned, but this thirst consumes us all! Let us now, both great and small, on our mighty Maker call. O Karima (Father) Thou! We Thy place no more shall see. Ka-idamo (Master) Thou! All things are at Thy command. Must we perish beneath Thy hand, wretched, miserable band?' Kanonatu, throned on high — so Waraus the Maker call — heard, and from the darkening sky caused the welcome rain to fall, and made the rivers great and small which abundance bring to all; women filled their vessels to the brim, while the men saw joyfully glitt'ring fish in rivers swim.",
+        "zh": "瓦勞人初居下界，獵者弓下得食甚豐；然猛獸毒蛇環伺，尤懼水之少且穢——溪流細小，皆在綠沼中。眾呼曰：『何處得水，以候甘霖？他苦可忍，此渴難支！請呼我造物主。卡里瑪（父也）！我等不復見爾之居。凱伊達莫（主也）！萬物皆在爾手。我儕將滅於爾掌乎？可憐之眾！』高居之卡諾納圖——瓦勞人之造者也——聞之，使甘霖自陰雲而降，成大小諸河；婦人滿其器，男子見銀鱗之魚游於川。"
+      },
+      "motifs": [
+        "theophany",
+        "storm-thunder",
+        "ritual-origin",
+        "prayer"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Warrau oral tradition recorded by the missionary Brett 1880. im Thurn explicitly suspected this 'prayer for rain' of being introduced under European teaching (Indians 'make no prayer'); the record is kept with that caution."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "See the Warau race begin life in this new world below: with their bows the hunters win plenteous food — no want they know; yet they feel within them grow anxious dread of future woe. Safety, which in heaven they had, here on earth cannot be found; good is mingled here with bad; savage beasts of prey abound. One thing then filled all with fear: scanty water and unclean — streamlets small, in marshes green, then were all that could be seen.",
+          "note": "Condensed paraphrase of Brett 1880, 'Legend of the Drought'; not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "'Oh, where shall we water find, till the wished-for rain shall fall? Other woes we bear, resigned, but this thirst consumes us all! Let us now, both great and small, on our mighty Maker call. We forsook our Father-friend; we forsook His place on high; death by thirst He now will send. O Karima (Father) Thou! We Thy place no more shall see. Ka-idamo (Master) Thou! All things are at Thy command. Must we perish beneath Thy hand, wretched, miserable band?'",
+          "note": "Condensed paraphrase of Brett 1880, 'Legend of the Drought'; not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "Kanonatu, throned on high (so Waraus the Maker call), heard, and from the darkening sky caused the welcome rain to fall; made the rivers great and small, which abundance bring to all. Women then, with happy glee, filled their vessels to the brim, while the men saw joyfully glitt'ring fish in rivers swim: strange it seemed, and, like a dream, food and drink in every stream!",
+          "note": "Condensed paraphrase of Brett 1880, 'Legend of the Drought'; not verbatim."
+        }
+      ],
+      "persons": []
+    },
+    {
+      "id": "amazonian-warau-great-waters",
+      "title": {
+        "en": "The Legend of the Great Waters: Eight Men and Six Women",
+        "zh": "大水之傳：八男六女"
+      },
+      "tradition": "amazonian",
+      "category": "myth",
+      "region": {
+        "en": "Warau swamps, Orinoco delta",
+        "zh": "奧里諾科三角洲瓦勞沼地"
+      },
+      "lat": 8.0,
+      "lon": -60.5,
+      "period": "Warrau oral tradition; recorded 1880 (Brett)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "W. H. Brett, Legends and Myths of the Aboriginal Indians of British Guiana (1880), Part II 'Legends of the Waraus', 'Legend of the Great Waters'",
+        "url": "https://archive.org/details/cu31924020443218"
+      },
+      "license": "Public domain (book 1880)",
+      "summary": {
+        "en": "Years rolled on, and men, grown hateful, ceased their passions to restrain; they took their Maker's gifts, ungrateful, thanked Him not for sun and rain, and forsook Him once again when they ceased to suffer pain. Kanonatu, seeing slaughter, acts of rapine, deeds unclean, sent their punishment by water, which had once their blessing been: floods, obeying Him, were seen o'er the hills and valleys green. Eight poor men, in that disaster, with six women, trembling stood; pausing in His wrath, the Master saw their hearts still true and good, bade them take the bahbi wood, safe to float amidst the flood. Evil spirits of the waters saw them float past undrowned: they were saved that sons and daughters might again on earth be found, and from them mankind abound, fish, and hunt, and till the ground. He who saved them had provided land to which they might repair; streams appeared as floods subsided, one small lake shone bright and fair — yet of that He said: 'Beware! Shun its waters, bathe not there!' Well our sires obeyed the warning; ages pass, and no Warau goes where those waters calm repose.",
+        "zh": "年久而人惡，縱欲不制；忘恩於日雨之賜，痛止則復棄主。卡諾納圖見殺戮掠奪諸穢行，乃以水罰之——水昔其恩賜也。洪過陵谷。八男六女，戰慄而存；主察其心尚善，命取巴巴木以浮。水鬼見之而不得溺。彼等得存，俾子孫再殖於地——漁獵耕種皆自此出。主備其土；水退川現，一小湖明澈——然主誡曰：『慎之！毋浴其中！』先祖謹遵；至今瓦勞人無敢近彼靜水者。"
+      },
+      "motifs": [
+        "flood-punishment",
+        "world-renewal",
+        "taboo-transgression",
+        "helpful-animal",
+        "opposed-twins"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Warrau oral tradition recorded by the missionary Brett 1880 in verse; paraphrased into prose. Flood-cluster record."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Years rolled on, and men, grown hateful, ceased their passions to restrain; took their Maker's gifts, ungrateful, thanked Him not for sun and rain; but forsook Him once again, when they ceased to suffer pain. Kanonatu, seeing slaughter, acts of rapine, deeds unclean, sent their punishment by water, which had once their blessing been: floods, obeying Him, were seen o'er the hills and valleys green.",
+          "note": "Condensed paraphrase of Brett 1880, 'Legend of the Great Waters'; not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Eight poor men, in that disaster, with six women, trembling stood. Pausing in His wrath, the Master saw their hearts still true and good, bade them take the bahbi wood, safe to float amidst the flood. Evil spirits of the waters saw them then float past undrowned. They were saved that sons and daughters might again on earth be found, and from them mankind abound, fish, and hunt, and till the ground.",
+          "note": "Condensed paraphrase of Brett 1880, 'Legend of the Great Waters'; not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "He who saved them had provided land, to which they might repair. Streams appeared as floods subsided, one small lake shone bright and fair. Yet of that he said: 'Beware! Shun its waters, bathe not there!' Well our sires obeyed the warning; some to guard that lake they chose, lest some bather, danger scorning, there should meet with deadly foes. Ages pass. No Warau goes where those waters calm repose!",
+          "note": "Condensed paraphrase of Brett 1880, 'Legend of the Great Waters'; not verbatim."
+        }
+      ],
+      "persons": []
+    },
+    {
+      "id": "amazonian-korobona-charmed-rod",
+      "title": {
+        "en": "Korobona and the Rod of Charmed Wood",
+        "zh": "科羅波納與符木之杖"
+      },
+      "tradition": "amazonian",
+      "category": "myth",
+      "region": {
+        "en": "Waramuri, Barima River, Guyana (Warrau)",
+        "zh": "蓋亞那巴里馬河瓦拉穆里瓦勞之地"
+      },
+      "lat": 7.85,
+      "lon": -59.4,
+      "period": "Warrau oral tradition; recorded 1880 (Brett)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "W. H. Brett, Legends and Myths of the Aboriginal Indians of British Guiana (1880), Part II 'Legends of the Waraus', 'Legend of Korobona' (1)",
+        "url": "https://archive.org/details/cu31924020443218"
+      },
+      "license": "Public domain (book 1880)",
+      "summary": {
+        "en": "Two Warau maidens sweetly sang of the waters calm and clear; though their brothers said, 'Beware, the lake is fatal, bathe not there!' they dared to venture nigh. Fair Korobona, the elder sister, led: 'We, by an idle threat restrained, from these clear waters have refrained; come, sister, bathe with me.' She plunged in and, diving and swimming, saw before her a rod of charmed wood — oh that some power had stayed her hand, and forced the maid to let it stand, her safeguard while it stood! But wild with glee she shook the rod and broke the mighty charm; they saw a man-like form arise, and Korobona was his prize, held by a powerful arm. (A water spirit, beneath the wave, lay bound by mightier power, till some one swimming in the lake should dare that charmed rod to shake: that was the destined hour.) 'O Warau maid!' the spirit said, 'thy sister there may go; but thee I hold: thou for a time my home must share, and come with me below.'",
+        "zh": "二瓦勞女常至靜湖之畔而歌；兄誡曰：『彼湖致命，勿浴！』長姊科羅波納曰：『虛言何足懼，妹其偕我浴。』入水而游，見水中一符木之杖——惜乎！彼不持之，自毀其護符。杖折魅解；水中起一人形，強臂執之——蓋水鬼為大神所縛，待泳者搖杖之時而脫，此其注定之刻也。鬼曰：『瓦勞女！汝妹可去；汝則留，暫居吾水底之家。』"
+      },
+      "motifs": [
+        "divine-marriage",
+        "taboo-transgression",
+        "transformation"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Warrau oral tradition recorded by the missionary Brett 1880 in verse; paraphrased into prose."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Two Warau maidens sweetly sang: 'O waters calm and clear! We love our happy walks to take by thy sweet margin, woodland lake, and find our pleasure here.' Those maidens, from the hills at first that guarded spot would spy; then, though their brothers said 'Beware, the lake is fatal, bathe not there!' they dared to venture nigh.",
+          "note": "Condensed paraphrase of Brett 1880, 'Legend of Korobona'; not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "At length fair Korobona said (the elder sister she): 'We, by an idle threat restrained, from these clear waters have refrained; come, sister, bathe with me. For what is here to do us harm? We maidens are alone.' Straight she plunged in, and both, through waters fair and clear, began to dive and swim. Before her Korobona saw a rod of charmed wood — oh that some power had stayed her hand, and forced the maid to let it stand, her safeguard while it stood!",
+          "note": "Condensed paraphrase of Brett 1880, 'Legend of Korobona'; not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "But, wild with glee, she shook the rod and broke the mighty charm. They saw a man-like form arise, and Korobona was his prize, held by a powerful arm. (A water spirit, 'neath the wave, lay bound by mightier power, till some one, swimming in the lake, should dare that charmed rod to shake: that was the destined hour.) 'O Warau maid!' the spirit said, 'Thy sister there may go; but thee I hold. O woman fair! Thou for a time my home must share, and come with me below.'",
+          "note": "Condensed paraphrase of Brett 1880, 'Legend of Korobona'; not verbatim."
+        }
+      ],
+      "persons": []
+    },
+    {
+      "id": "amazonian-korobona-first-carib",
+      "title": {
+        "en": "Korobona's Son: the First Carib Rises from the Grave",
+        "zh": "科羅波納之子：首加勒比自墓而起"
+      },
+      "tradition": "amazonian",
+      "category": "myth",
+      "region": {
+        "en": "Waramuri, Barima River, Guyana (Warrau)",
+        "zh": "蓋亞那巴里馬河瓦拉穆里瓦勞之地"
+      },
+      "lat": 7.85,
+      "lon": -59.4,
+      "period": "Warrau oral tradition; recorded 1880 (Brett)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "W. H. Brett, Legends and Myths of the Aboriginal Indians of British Guiana (1880), Part II 'Legends of the Waraus', 'Legend of Korobona' (3-4)",
+        "url": "https://archive.org/details/cu31924020443218"
+      },
+      "license": "Public domain (book 1880)",
+      "summary": {
+        "en": "The hapless Korobona now lives in the woods alone; another babe she hides from view, for if her fault her brothers knew, blood only could atone. One, passing by, heard the infant's cry and told her brethren hunting near; soon she saw the four appear, all wild with rage and shame: two dragged their sister home, two pierced the child through with an arrow and left him where he lay. But the care she gave revived that hapless child, who grew far more than other babes in wisdom and in size, shunning all eyes but hers. Her track, by small footprints shown, told each brother her secret; they hunted her through the woods, screened her from their arrows, and cut him into pieces small. She cursed their cruelty: 'Vile slayers of the innocent! The woes you fear will now be sent — and come through you, not me!' A mighty wonder happened then, for that great change which waits all men touched not the serpent child: the flower-decked heap began with life to heave, and a mighty warrior rose from the mound, white down adorning his short black hair, his skin like copper, his cheeks and brow besmeared with vermilion like blood — thus the first Carib stern arose. No Warau could his strength withstand; he slaughtered those who faced his club, forced the rest to flee, took their daughters for wives, and as his children increased they took the Warau's place.",
+        "zh": "科羅波納獨居林中，再匿其子。兄四人怒而尋至；二人曳姊歸，二人以箭貫兒而棄之。母護而活之，其兒智體逾常，匿於密樹，惟母得見。足跡洩秘；眾追而射之，碎其體。母咒曰：『戮無辜者，禍將自爾出！』屍上花開，異變忽至：一切人皆有之死，不能加於蛇子之身。丘中有生，首肩漸起；偉武之人出焉——白絨飾短黑髮，膚如銅，頰額涂朱如血——首加勒比遂起。瓦勞莫能禦；其子孫繁衍，遂代瓦勞而興。"
+      },
+      "motifs": [
+        "foundational-legend",
+        "resurrection",
+        "transformation"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Warrau oral tradition recorded by the missionary Brett 1880 in verse; paraphrased into prose."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The hapless Korobona now lives in the woods alone; another babe there hides from view, for if her fault her brothers knew, blood only could atone. One, passing by, the infant's cry heard, and upon her came; then told her brethren, hunting near, and soon she saw the four appear, all wild with rage and shame. Two of them dragged their sister home; two turned the child to slay: they with an arrow pierced him through, and left him where he lay.",
+          "note": "Condensed paraphrase of Brett 1880, 'Legend of Korobona'; not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "'The child is dead,' the slayers said — but knew not that the care she gave revived that hapless child. He grew far more than other babes in wisdom and in size, and, still concealed in some thick tree, till he his mother's form could see, would shun all other eyes. With food she daily sought the woods where he was doomed to stay; but Korobona quite forgot that some her track might know — her track, by those small footprints shown. Each brother then, her secret known, prepared the shaft and bow; they screened her from his foes, cut him into pieces small, and she cursed their cruelty: 'Vile slayers of the innocent! The woes you fear will now be sent — and come through you, not me!'",
+          "note": "Condensed paraphrase of Brett 1880, 'Legend of Korobona'; not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "A mighty wonder happened then, for that great change which waits all men touched not the serpent child. At length that heap, with flowers bedecked, began with life to heave; she seemed these words to hear: 'Thy son shall now avenge his murder done: O mother, cease to grieve!' And first a head and shoulders rose, slow growing from that mound: a mighty form appeared, well armed, with limbs complete and sound — white down adorned his short black hair, his skin like copper shone, more fair than with Waraus had been, his cheeks and brow besmeared with vermilion like blood. Thus the first Carib stern arose. No Warau could his strength withstand; he slaughtered those who dared his club, forced the rest to flee, took their daughters for wives, and as his children still increased, they took the Warau's place — invincible, from Wahma sprung.",
+          "note": "Condensed paraphrase of Brett 1880, 'Legend of Korobona'; not verbatim."
+        }
+      ],
+      "persons": []
+    },
+    {
+      "id": "amazonian-warau-departed-souls",
+      "title": {
+        "en": "Warau Ideas Concerning Departed Souls",
+        "zh": "瓦勞亡魂之觀"
+      },
+      "tradition": "amazonian",
+      "category": "myth",
+      "region": {
+        "en": "Warau swamps and Trinidad",
+        "zh": "瓦勞沼地與特立尼達"
+      },
+      "lat": 8.0,
+      "lon": -60.0,
+      "period": "Warrau oral tradition; recorded 1880 (Brett)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "W. H. Brett, Legends and Myths of the Aboriginal Indians of British Guiana (1880), Part II 'Legends of the Waraus', 'Warau Ideas of Departed Souls'",
+        "url": "https://archive.org/details/cu31924020443218"
+      },
+      "license": "Public domain (book 1880)",
+      "summary": {
+        "en": "When Waraus were oppressed by stronger foes, the fears which they through life had known beset them at its close. Each charged his children when he died to place his weapons at his side: 'Lay bow and arrows in my grave, that I may keep at bay the souls of foemen fierce and brave, and all who bar my way. My soul, thus armed, none dare withstand, to keep it from the spirit land.' How different was the legend told on Trinidad's fair isle, where Waraus gathered fruits of old and rested there awhile: there souls of good men they could find in glittering humming birds enshrined — those birds, like flashing jewels seen, bedecked each lovely bower; as ruby, topaz, emerald green, they kissed each fragrant flower, and saw fair hills and forests rise around their blissful paradise. But Chaymas dared those birds molest — then sank beneath the ground; and now, where happy souls had rest, the lake of pitch is found.",
+        "zh": "瓦勞人受強鄰之迫，生時之懼臨終猶在。各遺命子孫置武器於其側：『以弓箭殉我，俾我魂禦仇魂之擊，無阻我歸靈土之路。』異哉，特立尼達島之傳：昔瓦勞人採果於彼，善者之魂棲於閃爍蜂鳥之身——如寶石之鳥，吻每朵香花，繞其極樂之丘林。然查馬人敢擾其鳥，遂陷地中；今善魂所棲之處，乃為瀝青之湖。"
+      },
+      "motifs": [
+        "otherworld-voyage",
+        "transformation",
+        "ritual-origin"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Warrau oral tradition recorded by the missionary Brett 1880; includes the Pitch Lake legend retold by Charles Kingsley, read critically."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "When Waraus were, as we have shown, oppressed by stronger foes, the fears which they through life had known beset them at its close. Each charged his children when he died to place his weapons at his side: 'Lay bow and arrows in my grave, that I may keep at bay the souls of foemen fierce and brave, and all who bar my way. My soul, thus armed, none dare withstand, to keep it from the spirit land!'",
+          "note": "Condensed paraphrase of Brett 1880, 'Warau Ideas of Departed Souls'; not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "How different was the legend told on Trinidad's fair isle, where Waraus gathered fruits of old and rested there awhile: there souls of good men they could find in glittering humming birds enshrined. Those birds, like flashing jewels seen, bedecked each lovely bower; as ruby, topaz, emerald green, they kissed each fragrant flower, and saw fair hills and forests rise around their blissful paradise.",
+          "note": "Condensed paraphrase of Brett 1880, 'Warau Ideas of Departed Souls'; not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "But Chaymas dared those birds molest, and then sank beneath the ground; and now, where happy souls once had rest among the fragrant bowers, the lake of pitch is found: a wild Warau myth of ages past, told to English readers at last, and kept here as a record of how paradise can turn to bitumen in the telling.",
+          "note": "Condensed paraphrase of Brett 1880, 'Warau Ideas of Departed Souls'; not verbatim."
+        }
+      ],
+      "persons": []
+    },
+    {
+      "id": "amazonian-abore-inventions",
+      "title": {
+        "en": "Abore the Father of Inventions and Wowtah the Frog-Queen",
+        "zh": "發明之父阿博雷與蛙后瓦特"
+      },
+      "tradition": "amazonian",
+      "category": "myth",
+      "region": {
+        "en": "Barima River, Guyana (Warrau)",
+        "zh": "蓋亞那巴里馬河瓦勞之地"
+      },
+      "lat": 7.9,
+      "lon": -59.4,
+      "period": "Warrau oral tradition; recorded 1880 (Brett)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "W. H. Brett, Legends and Myths of the Aboriginal Indians of British Guiana (1880), Part II 'Legends of the Waraus', 'Legend of Abore (the Warau Father of Inventions)'",
+        "url": "https://archive.org/details/cu31924020443218"
+      },
+      "license": "Public domain (book 1880)",
+      "summary": {
+        "en": "Abore the clever, Abore the brave, had served Wowtah's caprices like some household slave: bows, arrows, and such things he strove to improve, but she was most jealous lest aught he should love more than her, and sent him daily into the dense forests for bees' nests. A kind spirit met him at the root of a hollow tree and revealed the truth: 'Wowtah is a spirit, such also am I. Wowtah chose to be the great queen of the frogs; by day or by night it was her delight, with a terrible croak, other creatures to fright.' She told how as a boy he was seen by Wowtah and became her chief joy; how, in the form of a woman, she deceived his parents, who soon died — suspected by every Warau; how he had grown a tall youth through her mighty charms and would soon have to make her his bride. 'Seek not to slay! Having grown beneath her charm, still her slave thou must be, unless thou canst flee from her over the wide sea.' So Abore floated a gourd-half, then modelled a vessel from an oblong seed-pod, made a large vessel of wax, shaped till it was a woibka — canoe; his mistress broke the waxen craft; with a young cousin he worked in the bush, made paddles, strengthened the wax, lured Wowtah into a hollow tree after honey, drove a wedge fast, and launched: 'Ho, Waraus! This, this is the shape which your vessels must have. Make your woibakas so, friends; but make them of wood.' And the Warau land saw their last of Abore — they saw him no more.",
+        "zh": "阿博雷智勇兼備，然如家奴之侍蛙后瓦特。彼思改良弓箭諸器，而瓦特妒之，日遣其入密林取蜜。一善靈語之曰：『瓦特乃鬼也，吾亦鬼。瓦特擇為蛙群之后，日夜以怖吼嚇百獸。』又述其幼時為瓦特所中，偽為婦人入其父母之家，父母旋死——眾皆疑之。『勿圖殺之！汝既為其術所困，非越大海不得脫。』阿博雷乃試葫蘆之半，繼以長莢為模，製蠟舟，形如今之所謂woibka（獨木舟也）。瓦特碎其蠟舟；遂與從弟匿林中製槳固蠟，誘瓦特入空心樹取蜜，緊楔其內，遂發舟曰：『瓦勞人乎！舟之形當如此；依此製之，然以木為之！』瓦勞之地，從此不復見阿博雷矣。"
+      },
+      "motifs": [
+        "culture-hero",
+        "trickster",
+        "transformation",
+        "jealousy",
+        "revelation"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Warrau oral tradition recorded by the missionary Brett 1880 in verse; paraphrased into prose."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Abore the clever, Abore the brave, had served her caprices like some household slave. To follow her wishes the youth was content, although his keen mind on inventions was bent: bows, arrows, and such things he strove to improve; but she was most jealous lest aught he should love more than her, and from all his works sent him away, to search the dense forests for bees, day by day.",
+          "note": "Condensed paraphrase of Brett 1880, 'Legend of Abore'; not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "When he saw, sitting down on the root of a tree, a young Indian maid — fair and graceful was she — he passed without notice, as good Indians do. But she said: 'Abore! Thy parents I knew. Wowtah is a spirit. Such also am I! We spirits assume any figure we please: some appear as bush-hogs, some as jaguars or dogs; while some, as large snakes, love the rivers and bogs — but Wowtah chose to be the great queen of the frogs. By day or by night it was her delight, with a terrible croak, other creatures to fright.' She told him how, when a young boy, he was seen by Wowtah and became her chief joy; how she, in the form of a woman, deceived his parents, and how his parents soon died — Wowtah suspected by every Warau.",
+          "note": "Condensed paraphrase of Brett 1880, 'Legend of Abore'; not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "'O seek not to slay! But heed well what I say: 'twould be vain to shed blood, nor canst thou flee away. Having grown beneath her charm, still her slave thou must be, unless thou canst flee from her o'er the wide sea!' The half of a gourd he could readily float, but its shape would not do for a boat; from an oblong seed-pod his best model he drew. He formed a large vessel of wax, improved on its shape till our people might view what they call woibka, but others 'canoe'. His mistress came there, severely eyed, then broke it, and scattered the wax far and wide. With a young cousin he worked in the bush, lured Wowtah with a nest of fine honey deep in the heart of a large hollow tree, drove a great wedge tightly in — and launched: 'Ho, Waraus! This, this is the shape which your vessels must have. Make your woibakas so, friends; but make them of wood.' And thus they beheld, from the wild ocean shore, their last of Abore — they saw him no more!",
+          "note": "Condensed paraphrase of Brett 1880, 'Legend of Abore'; not verbatim."
+        }
+      ],
+      "persons": []
+    },
+    {
+      "id": "amazonian-abore-sequel",
+      "title": {
+        "en": "The Sequel: Abore Among the White People",
+        "zh": "阿博雷後篇：居白人之間"
+      },
+      "tradition": "amazonian",
+      "category": "myth",
+      "region": {
+        "en": "Across the sea (Warrau modern tradition)",
+        "zh": "海外之地（瓦勞近世傳說）"
+      },
+      "lat": 6.0,
+      "lon": -55.0,
+      "period": "Warrau oral tradition (modern addition); recorded 1880 (Brett)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "W. H. Brett, Legends and Myths of the Aboriginal Indians of British Guiana (1880), Part II 'Legends of the Waraus', 'Sequel to the Ancient Legend'",
+        "url": "https://archive.org/details/cu31924020443218"
+      },
+      "license": "Public domain (book 1880)",
+      "summary": {
+        "en": "'Waraus heard of Abore at last. He went over a smooth sea and, ere long, found land — some island — and landed upon that new strand. There, discarding the wax, he made a craft of wood, and visited places just as he thought good. At last he arrived where white people abound, whom poor and distressed above all men he found: they did support life, he could hardly tell how; far more wretched were they than the lowest Warau. When he saw them his heart with compassion flowed o'er, and he said, 'I will make my abode on this shore.' So he made up his mind the white people to raise: they, squalid and bare, had no garments to wear, till taught by Abore good clothes to prepare. He taught the white people to weave and to sew, to be skilful in wood and in iron, from a nail to a gun. To the whole world a friend, the good things he had made in large ships he would send; he improved the rough plan of his first waxen boat to the huge ships we see now — great monsters afloat — which bring you all things, from a pin to a coat. 'Tis said that Abore still lives: the magical power which, when he was young, that spirit imparted has made his life long; if he were to return she would claim him again, so he's forced in the white people's land to remain.'",
+        "zh": "『瓦勞人終聞阿博雷之音。彼渡靜海，得一小島而登焉；棄蠟舟而製木舟，遍遊諸地。末至白人之國——見其窮困，更甚於最低之瓦勞——憫然曰：『吾將居此岸。』遂教白人織衣縫裳，授以木工鐵工，自鐵釘以至火銃。彼以大舟運其良器於天下；改良初之蠟舟而為今之巨舶——浮海之怪也——自衣針而至大氅，無所不載。相傳阿博雷今猶在世：靈所賦之力延其年壽；若返故里，瓦特必再索之，故終老於白人之邦。』"
+      },
+      "motifs": [
+        "culture-hero",
+        "parable-teaching"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Warrau oral tradition recorded by the missionary Brett 1880; an acknowledged modern addition to the ancient legend, read critically."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "'He went o'er a smooth sea, and, ere long, he found land — some island — and landed upon that new strand. There, discarding the wax, he a craft made of wood, and visited places, just as he thought good. At last he arrived where white people abound, whom poor and distressed above all men he found. They did support life, he could hardly tell how; far more wretched were they than the lowest Warau. When he saw them his heart with compassion flowed o'er, and he said: I will make my abode on this shore.'",
+          "note": "Condensed paraphrase of Brett 1880, 'Sequel to the Ancient Legend'; not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "'So he made up his mind the white people to raise. They, squalid and bare, had no garments to wear, till taught by Abore good clothes to prepare. He taught the white people to weave and to sew, to be skilful in wood and in iron — from a nail to a gun. To the whole world a friend, the good things he had made in large ships he would send. He improved the rough plan of his first waxen boat to the huge ships we see now — great monsters afloat — which bring you all things, from a pin to a coat.'",
+          "note": "Condensed paraphrase of Brett 1880, 'Sequel to the Ancient Legend'; not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "'Tis said that Abore still lives, though no tree that grows in our woods can be older than he. The magical power which, when he was young, that spirit imparted has made his life long; if he were to return she would claim him again, so he's forced in the white people's land to remain. Knife and gun, ammunition, a cutlass and hoe, rum, needles and pins, with some coarse calico, were once freely given to each Warau — the price of assistance to Indians paid: when slavery ceased their help was not required, so the custom of annual presents expired.",
+          "note": "Condensed paraphrase of Brett 1880, 'Sequel to the Ancient Legend'; not verbatim."
+        }
+      ],
+      "persons": []
+    }
+  ]
+}

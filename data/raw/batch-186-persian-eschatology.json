@@ -1,0 +1,172 @@
+{
+  "_comment": "Pahlavi apocalyptic and funerary texts (SBE 4/5/18): Vendidad XIX temptation; Dadestan-i Denig three nights; Bundahishn XXX resurrection (deep record). Paraphrase passages with notes.",
+  "texts": [
+    {
+      "id": "persian-zarathushtra-tempted",
+      "title": {
+        "en": "Angra Mainyu Tempts Zarathushtra by the Dareja",
+        "zh": "阿赫里曼誘惑查拉圖什特拉"
+      },
+      "tradition": "persian",
+      "category": "myth",
+      "region": {
+        "en": "River Dareja, house of Pourushaspa (symbolic pin)",
+        "zh": "達雷賈河畔（象徵性定位）"
+      },
+      "lat": 36.5,
+      "lon": 53.5,
+      "period": "Recorded in the Avesta, c. 6th-4th century BCE (Darmesteter translation 1880)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Vendidad Fargard XIX (Zend-Avesta Part I), trans. J. Darmesteter, SBE 4 (1880)",
+        "url": "https://archive.org/details/zendavestaparti0"
+      },
+      "license": "Public domain (translation 1880)",
+      "summary": {
+        "en": "Zarathustra, unshaken by the evil spirit, by the hardness of his malignant riddles, swings stones in his hand, stones as big as a house, which he obtained from the Maker, Ahura Mazda, and answers: I will smite the creation of the Daeva. Again the guileful one says: thou art the son of Pourushaspa, just born of thy mother; renounce the good law of the worshippers of Mazda, and thou shalt gain such a boon as the murderer gained, the ruler of the nations. No! never will I renounce the good law of the worshippers of Mazda, though my body, my life, my soul should burst! The sacred mortar, the sacred cup, the Haoma, the Words taught by Mazda — these are my weapons, my best weapons.",
+        "zh": "查拉圖什特拉立於達雷賈河畔、父親普魯沙斯帕的宅邸山上，手掄房舍般巨石（那是造物主所賜），毫不為魔王的謎語所動：「我要粉碎群魔的造物！」魔王再度誘惑：「你剛離母腹；放棄馬茲達信眾的正法吧——你將如那殺人者一樣統治萬國！」答曰：「縱使我身、我命、我魂崩裂，也絕不放棄正法！聖臼、聖杯、豪馬汁與馬茲達親授之言——這便是我的武器、我最利的武器！」"
+      },
+      "motifs": [
+        "theophany",
+        "taboo-transgression",
+        "boon-curse",
+        "riddle-contest",
+        "opposed-twins"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Avestan liturgical text; Darmesteter compares the riddle-contest to Oedipus and the Sphinx. No living community restriction."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Zarathustra, unshaken by the evil spirit, by the hardness of his malignant riddles, swinging stones in his hand, stones as big as a house, which he obtained from the Maker, Ahura Mazda, he the holy Zarathustra. At what on this wide, round earth, whose ends lie afar, at what dost thou swing those stones, thou who standest by the river Dareja, upon the mountains, in the mansion of Pourushaspa?",
+          "note": "Paraphrase of Vendidad Fargard XIX, 4-5 (Darmesteter, SBE 4, 1880); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Thus Zarathustra answered Angra Mainyu: O evil-doer, Angra Mainyu! I will smite the creation of the Daeva; I will smite the Nasu, a creature of the Daeva; I will smite the Pairika Knathaiti, till the fiend-smiter Saoshyant come up to life out of the lake Kasava, from the region of the dawn.",
+          "note": "Paraphrase of Vendidad Fargard XIX, 5 (Darmesteter, SBE 4, 1880); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "Again to him said the guileful one, the Maker of the evil world, Angra Mainyu: do not destroy my creatures, O holy Zarathustra! Thou art the son of Pourushaspa, just born of thy mother. Renounce the good law of the worshippers of Mazda, and thou shalt gain such a boon as the murderer gained, the ruler of the nations. Thus in answer to him said Spitama Zarathustra: No! never will I renounce the good law of the worshippers of Mazda, though my body, my life, my soul should burst!",
+          "note": "Paraphrase of Vendidad Fargard XIX, 6-7 (Darmesteter, SBE 4, 1880); not verbatim."
+        },
+        {
+          "id": "4",
+          "text": "By whose Word wilt thou strike, by whose Word wilt thou repel? asked Angra Mainyu. Thus in answer to him said Spitama Zarathustra: the sacred mortar, the sacred cup, the Haoma, the Words taught by Mazda, these are my weapons, my best weapons! By this Word will I strike, by this Word will I repel, by this weapon the good creatures will strike and repel thee, O evil-doer, Angra Mainyu! To me Spenta Mainyu gave it, he gave it to me in the boundless Time; to me the Amesha Spentas, the all-ruling, the all-beneficent, gave it.",
+          "note": "Paraphrase of Vendidad Fargard XIX, 8-9 (Darmesteter, SBE 4, 1880); not verbatim."
+        }
+      ],
+      "persons": []
+    },
+    {
+      "id": "persian-soul-three-nights",
+      "title": {
+        "en": "The Soul's Three Nights and the Bridge of Many Sides",
+        "zh": "亡魂三夜與多棱之橋"
+      },
+      "tradition": "persian",
+      "category": "myth",
+      "region": {
+        "en": "Peak of Judgment, Mount Alburz (symbolic pin)",
+        "zh": "阿爾布茲判決峰（象徵性定位）"
+      },
+      "lat": 36.44,
+      "lon": 52.93,
+      "period": "Recorded 9th century CE (Pahlavi; West translation 1882)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Dadestan-i Denig chs. XX-XXI (Pahlavi), trans. E. W. West, SBE 18 (1882)",
+        "url": "https://archive.org/details/pahlavitextspart02westuoft"
+      },
+      "license": "Public domain (translation 1882)",
+      "summary": {
+        "en": "The souls of the dead are three nights on earth: the first night satisfaction comes to them from their good thoughts and vexation from their evil thoughts, the second night pleasure from their good words and discomfort from their evil words, and the third night exaltation from their good deeds and punishment from their evil deeds. That third night, in the dawn, they go to the place of account on Alburz; the account being rendered they proceed to the bridge, and he who is righteous passes over the bridge on the ascent. The bridge is like a beam of many sides: its broad sides are so large that its width is twenty-seven reeds, and its sharp sides so contracted that in thinness it is just like the edge of a razor — it turns to that side which is suitable to the necessities of the souls arriving.",
+        "zh": "亡魂在塵世停留三夜：第一夜，善念予其慰、惡念予其苦；第二夜，善言予其樂、惡言予其罰；第三夜，善行使其升揚、惡行使其受刑。第三夜黎明時分，亡魂前往阿爾布茲山上的清算之所，過秤後行至「別傳之橋」——義者拾級而升。此橋如多棱之樑：寬面廣達二十七葦之闊，利面薄如剃刀之刃——橋隨亡魂善惡而自行翻轉。"
+      },
+      "motifs": [
+        "descent-underworld",
+        "quest-immortality",
+        "sacred-place",
+        "threefold"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Pahlavi doctrinal Q&A rendered as myth; pairs with arda-viraf-vision and chinvat-bridge (different sources). No living community restriction."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The reply is this, that it is thus said that the souls of those passed away and of the dead are three nights on earth; and the first night satisfaction comes to them from their good thoughts and vexation from their evil thoughts, the second night come pleasure from their good words and discomfort and punishment from their evil words, and the third night come exaltation from their good deeds and punishment from their evil deeds. And that third night, in the dawn, they go to the place of account on Alburz; the account being rendered they proceed to the bridge, and he who is righteous passes over the bridge on the ascent.",
+          "note": "Paraphrase of Dadestan-i Denig ch. XX, 2-3 (West, SBE 18, 1882); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "He who is of the wicked falls from the lower end of the bridge, or from the middle of the bridge; he falls head-foremost to hell, and is precipitated unto that grade which is suitable for his wickedness. As it were that bridge is like a beam of many sides, of whose edges there are some which are broad, and there are some which are thin and sharp; its broad sides are so large that its width is twenty-seven reeds, and its sharp sides are so contracted that in thinness it is just like the edge of a razor.",
+          "note": "Paraphrase of Dadestan-i Denig chs. XX, 4, XXI, 2-3 (West, SBE 18, 1882); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "And when the souls of the righteous and wicked arrive it turns to that side which is suitable to their necessities, through the great glory of the creator and the command of him who takes the just account. Moreover, the bridge becomes a broad bridge for the righteous, as much as the height of nine spears; and for the wicked, that they may fall from it, it becomes sharp as a needle's point, so that they slip down head-foremost into darkness.",
+          "note": "Paraphrase of Dadestan-i Denig ch. XXI, 4-5 (West, SBE 18, 1882); not verbatim."
+        }
+      ],
+      "persons": []
+    },
+    {
+      "id": "persian-frashegird-resurrection",
+      "title": {
+        "en": "Frashegird: Ohrmazd Answers Zarathushtra About the Resurrection",
+        "zh": "弗拉肖格爾德：馬茲達答復活之問"
+      },
+      "tradition": "persian",
+      "category": "myth",
+      "region": {
+        "en": "Renovated world of the future (symbolic pin)",
+        "zh": "未來更新之世（象徵性定位）"
+      },
+      "lat": 30.0,
+      "lon": 53.0,
+      "period": "Recorded 9th century CE (Pahlavi; West translation 1880)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Bundahishn ch. XXX (Pahlavi), trans. E. W. West, SBE 5 (1880)",
+        "url": "https://archive.org/details/pahlavitextspart00westuoft"
+      },
+      "license": "Public domain (translation 1880)",
+      "summary": {
+        "en": "Zarathust asks of Auharmazd: whence does a body form again, which the wind has carried and the water conveyed? And Auharmazd answers: when through me the sky arose from the substance of the ruby, without columns, on the spiritual support of far-compassed light; when by me corn was created so that, scattered about in the earth, it grew again and returned with increase; when by me a son was created and fashioned in the womb of a mother — each one of them, when created by me, was herein more difficult than causing the resurrection; observe that when that which was not was then produced, why is it not possible to produce again that which was?",
+        "zh": "查拉圖什特拉問阿胡拉·馬茲達：「被風吹散、被水帶走的屍身，如何重新聚成形體？復活如何發生？」答曰：「天空由紅寶石之質憑無柱的光支柱起；五穀入土復生且結實增多；嬰兒在母腹中成形——這些創造都比復活更難！既然『無』能生『有』，為何不能讓『已有』者復生？」"
+      },
+      "motifs": [
+        "resurrection",
+        "world-renewal",
+        "prophetic-vision"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Pahlavi doctrinal text rendered as myth; the Saoshyant-resurrection parallels the Osiris/Jesus resurrection cluster. No living community restriction."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "After Soshyans comes they prepare the raising of the dead, as it says, that Zarathust asked of Auharmazd thus: whence does a body form again, which the wind has carried and the water conveyed? and how does the resurrection occur? Ahharmazd answered thus: when through me the sky arose from the substance of the ruby, without columns, on the spiritual support of far-compassed light.",
+          "note": "Paraphrase of Bundahishn ch. XXX, 4-5 (West, SBE 5, 1880); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "When by me the sun and moon and stars are conducted in the firmament of luminous bodies; when by me corn was created so that, scattered about in the earth, it grew again and returned with increase; when by me colour of various kinds was created in plants; when by me fire was created in plants and other things without combustion.",
+          "note": "Paraphrase of Bundahishn ch. XXX, 5 (West, SBE 5, 1880); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "When by me a son was created and fashioned in the womb of a mother, and the structure severally of the skin, nails, blood, feet, eyes, ears, and other things was produced; when by me legs were created for the water, so that it flows away, and the cloud was created which carries the water of the world and rains there where it has a purpose — each one of them, when created by me, was herein more difficult than causing the resurrection. Observe that when that which was not was then produced, why is it not possible to produce again that which was?",
+          "note": "Paraphrase of Bundahishn ch. XXX, 5-6 (West, SBE 5, 1880); not verbatim."
+        }
+      ],
+      "persons": []
+    }
+  ]
+}

@@ -1,0 +1,566 @@
+{
+  "_comment": "Hindu expansion 175-drive A: Rigveda hymn-myths of the great gods (Griffith 1896, public domain). All passages paraphrase.",
+  "texts": [
+    {
+      "id": "hindu-rigveda-agni-birth",
+      "title": {
+        "en": "The Birth of Agni",
+        "zh": "阿耆尼之誕生"
+      },
+      "tradition": "hindu",
+      "category": "myth-religion",
+      "region": {
+        "en": "Punjab plains (symbolic pin)",
+        "zh": "旁遮普平原（象徵性定位）"
+      },
+      "lat": 31.0,
+      "lon": 75.0,
+      "period": "Rigveda, Books 1, 3, 10 (Griffith translation, 1896)",
+      "source": {
+        "archive": "Wikisource (Griffith 1896)",
+        "work": "The Hymns of the Rigveda, trans. R. T. H. Griffith (1896), hymns to Agni (e.g. 10.21, 3.1, 1.143)",
+        "url": "https://en.wikisource.org/wiki/The_Rigveda"
+      },
+      "license": "Public domain (translation 1896)",
+      "summary": {
+        "en": "Agni, youngest of the gods, was born three times: hidden in the waters, in the sky, and among men at the friction of two sticks. He fled his birthplace from fear, the gods hunted him, and his finding became the model of every sacrifice - the priestly fire-drama in which man grants the god his seat.",
+        "zh": "阿耆尼為諸神最幼者，三次誕生：藏於水中、藏於天、以及於人間兩木相磨之中。彼懼而遁離誕生之處，諸神逐之；尋獲之儀遂成為一切祭祀之範式——人授予神座席的祭司劇。"
+      },
+      "motifs": [
+        "miraculous-birth",
+        "fire-theft",
+        "youngest-son",
+        "threefold"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient hymn still recited; classified 'myth'."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Agni was born three times over: once in the highest heaven, once among the waters, once at the rubbing of two woods. Of the three births the men of old sang that the god's might was one; the same burning one is present in the kindled hearth and in the lightning's fall.",
+          "note": "Paraphrase of Rigveda hymns to Agni (Griffith 1896); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "But Agni fled and hid. He concealed himself in the waters and in the plants, afraid of the office set upon him - to carry the offerings to the gods. The gods searched, and found him by his track of smoke; they anointed him and set the priesthood on him as on a king, saying: carry up our oblations, be the messenger between worlds.",
+          "note": "Paraphrase of Rigveda hymns to Agni (Griffith 1896); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "From that finding the sacrificial order came: the fire is kindled in a new place for each rite, the god is invited as a guest to the prepared seat, and he, the youngest, becomes the eldest of the gods by office - for through him every prayer travels, and whoever invites him becomes a sharer of heaven.",
+          "note": "Paraphrase of Rigveda hymns to Agni (Griffith 1896); not verbatim."
+        }
+      ],
+      "persons": [
+        "agni",
+        "indra"
+      ],
+      "language": "Vedic Sanskrit",
+      "canonical_translation": "Ralph T. H. Griffith, 1896 (public domain)"
+    },
+    {
+      "id": "hindu-rigveda-matarishvan-fire",
+      "title": {
+        "en": "Matarishvan Brings the Hidden Fire",
+        "zh": "摩達利濕梵取回隱藏之火"
+      },
+      "tradition": "hindu",
+      "category": "myth-religion",
+      "region": {
+        "en": "Rasa, the far stream (symbolic pin)",
+        "zh": "羅娑，遠方之流（象徵性定位）"
+      },
+      "lat": 35.5,
+      "lon": 74.0,
+      "period": "Rigveda, Books 1, 3, 10 (Griffith translation, 1896)",
+      "source": {
+        "archive": "Wikisource (Griffith 1896)",
+        "work": "The Hymns of the Rigveda, trans. R. T. H. Griffith (1896), hymns naming Matarishvan (1.93, 3.29, 10.181)",
+        "url": "https://en.wikisource.org/wiki/The_Rigveda"
+      },
+      "license": "Public domain (translation 1896)",
+      "summary": {
+        "en": "In the age before worship, the sacrificial fire lay hidden far away, kept among the waters by Ahi, the greedy watcher. The seer Matarishvan went, found the hidden flame where the great snake guarded it, and bore it to Bhrigu and Angiras, who first set it among men - the Vedic fire-theft that made worship possible.",
+        "zh": "祭祀之火太古時遠藏他方，由貪守者阿希護於水中。仙人摩達利濕梵尋得藏於巨蛇守衛之處的隱焰，攜歸交予弗利伊與盎耆羅，二人首置火於人間——吠陀之盜火，使祭祀成為可能。"
+      },
+      "motifs": [
+        "fire-theft",
+        "culture-hero"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient hymn; classified 'myth'. Fire-theft motif tag is a Euro-American index category - noted."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "In the earlier ages the god's flame lay hidden, withheld: it shone far off in the water, and the snake Ahi, the greedy one, kept guard over it where no worshipper could reach. Then the seer Matarishvan went where the fire lay hidden, passed the watcher, laid hold of the flame, and bore it back to the race of Bhrigu and Angiras, the first priests.",
+          "note": "Paraphrase of Rigveda hymns to Matarishvan (Griffith 1896); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Bhrigu and Angiras set the fire among men and made from it the first offerings; by that flame the gods came to eat the sacrifice, and men came to speak with heaven. Every hearth lit since is a descendant of that stolen, carried light.",
+          "note": "Paraphrase of Rigveda hymns to Matarishvan (Griffith 1896); not verbatim."
+        }
+      ],
+      "persons": [
+        "agni"
+      ],
+      "language": "Vedic Sanskrit",
+      "canonical_translation": "Ralph T. H. Griffith, 1896 (public domain)"
+    },
+    {
+      "id": "hindu-rigveda-indra-birth",
+      "title": {
+        "en": "The Miraculous Birth of Indra",
+        "zh": "因陀羅的奇蹟誕生"
+      },
+      "tradition": "hindu",
+      "category": "myth-religion",
+      "region": {
+        "en": "Punjab plains (symbolic pin)",
+        "zh": "旁遮普平原（象徵性定位）"
+      },
+      "lat": 31.0,
+      "lon": 75.0,
+      "period": "Rigveda, Books 2, 8 (Griffith translation, 1896)",
+      "source": {
+        "archive": "Wikisource (Griffith 1896)",
+        "work": "The Hymns of the Rigveda, trans. R. T. H. Griffith (1896), hymns on Indra's birth (2.12, 8.45, 10.73)",
+        "url": "https://en.wikisource.org/wiki/The_Rigveda"
+      },
+      "license": "Public domain (translation 1896)",
+      "summary": {
+        "en": "Indra is born sidewise from his mother's flank so as not to be born normally - for he is already drunk with strength. He drinks the Soma his mothers offer, fills both worlds with his body, and before his first day is out has seized the thunderbolt and declared heaven and earth to be his.",
+        "zh": "因陀羅自母體側腹斜出而生，非循常道——因其力已醉滿。他飲母親們獻上的蘇摩，軀體撐滿兩界，未滿一日已握雷霆杵，宣稱天地皆屬於他。"
+      },
+      "motifs": [
+        "miraculous-birth",
+        "storm-thunder"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient hymn; classified 'myth'."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "No ordinary womb could hold Indra; he turned himself as he was born and came out by his mother's side, and the mothers of the god stood about him offering the pressed Soma before he could even stand. He drank the Soma and grew - a body that filled two worlds; he overshadowed the sky and trod the earth, and the gods fled before their own newborn king until they set him at the head of all.",
+          "note": "Paraphrase of Rigveda hymns on Indra's birth (Griffith 1896); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "On the day of his birth he took the thunderbolt, made the sister-rivers flow, and slew the serpent - so the hymn compresses his whole career into his birthday: the king who does everything at once, before his first morning is over.",
+          "note": "Paraphrase of Rigveda hymns on Indra's birth (Griffith 1896); not verbatim."
+        }
+      ],
+      "persons": [
+        "indra"
+      ],
+      "language": "Vedic Sanskrit",
+      "canonical_translation": "Ralph T. H. Griffith, 1896 (public domain)"
+    },
+    {
+      "id": "hindu-rigveda-maruts",
+      "title": {
+        "en": "The Maruts, the Howling Storm-Boys",
+        "zh": "摩魯多：呼嘯的風暴兄弟"
+      },
+      "tradition": "hindu",
+      "category": "myth-religion",
+      "region": {
+        "en": "Punjab plains (symbolic pin)",
+        "zh": "旁遮普平原（象徵性定位）"
+      },
+      "lat": 31.0,
+      "lon": 75.0,
+      "period": "Rigveda, Books 1, 5, 8 (Griffith translation, 1896)",
+      "source": {
+        "archive": "Wikisource (Griffith 1896)",
+        "work": "The Hymns of the Rigveda, trans. R. T. H. Griffith (1896), hymns to the Maruts (e.g. 1.85, 5.54, 8.20)",
+        "url": "https://en.wikisource.org/wiki/The_Rigveda"
+      },
+      "license": "Public domain (translation 1896)",
+      "summary": {
+        "en": "The Maruts are the storm-brigade of young gods - spearmen with lightning in their fists, deer-clad, who tear up trees, split mountains, and can barely be distinguished from their own thunder. They follow Indra to his fights and howl like newborn lions; Rudra their father disowns their manners but not their worship.",
+        "zh": "摩魯多為風暴青年兵團——持雷於拳、披鹿皮而鬧，拔樹裂山，其咆哮幾乎與雷聲難分。他們隨因陀羅赴戰，吼如新生的獅群；其父樓陀羅斥其行徑而未拒其崇拜。"
+      },
+      "motifs": [
+        "storm-thunder"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient hymn; classified 'myth'."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "They come as a cohort, not as a king: spears of light in their hands, golden breastplates, deerskins on their backs, and voices that break the frame of the sky. Where they go the trees are torn up by the roots and the mountains are carved like soft wood.",
+          "note": "Paraphrase of Rigveda hymns to the Maruts (Griffith 1896); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "They are the youths of Rudra the howler, and they take after their father; yet even Rudra is said to have disowned the manner of their birth - the hymn-writers joke that a god so disciplined has sons so unruly. With Indra they are invincible: the storm-king and his storm-brigade clear the sky of serpents and open the rains. Their favor is asked like the favor of weather itself, for they are the monsoon's own retinue.",
+          "note": "Paraphrase of Rigveda hymns to the Maruts (Griffith 1896); not verbatim."
+        }
+      ],
+      "persons": [
+        "indra"
+      ],
+      "language": "Vedic Sanskrit",
+      "canonical_translation": "Ralph T. H. Griffith, 1896 (public domain)"
+    },
+    {
+      "id": "hindu-rigveda-varuna-bond",
+      "title": {
+        "en": "Varuna's Thousand Ropes",
+        "zh": "伐樓那的千索"
+      },
+      "tradition": "hindu",
+      "category": "myth-religion",
+      "region": {
+        "en": "Punjab plains (symbolic pin)",
+        "zh": "旁遮普平原（象徵性定位）"
+      },
+      "lat": 31.0,
+      "lon": 75.0,
+      "period": "Rigveda, Books 1, 7 (Griffith translation, 1896)",
+      "source": {
+        "archive": "Wikisource (Griffith 1896)",
+        "work": "The Hymns of the Rigveda, trans. R. T. H. Griffith (1896), hymns to Varuna (e.g. 1.25, 7.86, 7.88)",
+        "url": "https://en.wikisource.org/wiki/The_Rigveda"
+      },
+      "license": "Public domain (translation 1896)",
+      "summary": {
+        "en": "Varuna, king of the order of things, watches with spies the thousand witnesses he has set in heaven, and binds liars with a thousand ropes. The sinner Varuna's own poet sings his debt - 'not wilfully, but wine and dice and anger undid me' - and begs the god who fetters the guilty to loose the fetter.",
+        "zh": "伐樓那，萬物秩序之王，以天中所置的千名見證者與密探監視，以千索縛謊者。詩人自詠其罪——『非有心，乃酒與骰與怒毀我』——乞那位縛罪者的神親手解索。"
+      },
+      "motifs": [
+        "taboo-transgression",
+        "oracle-divination"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient hymn; classified 'myth'."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Varuna has numbered the breaths and winkings of men, set a thousand watchers over the lie, and placed his spies in heaven; his cords are said to be a hundred in his seat, a thousand as they go down the roads - whoever they seize shall not slip free.",
+          "note": "Paraphrase of Rigveda hymns to Varuna (Griffith 1896); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "The confession-hymns give Varuna a sinner's own voice: I told the lie, not wilfully - wine and dice and anger undid me; my elders erred, and I erred after them. O god, let not the stone break me, as a man breaks a dish.",
+          "note": "Paraphrase of Rigveda hymns to Varuna (Griffith 1896); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "The answer sought is not battle but release: loosen the bond that holds me, and my sin shall not again be found; and the poet dreams of going to Varuna's house to see the wise king whose order keeps the rivers running and the stars from straying.",
+          "note": "Paraphrase of Rigveda hymns to Varuna (Griffith 1896); not verbatim."
+        }
+      ],
+      "persons": [],
+      "language": "Vedic Sanskrit",
+      "canonical_translation": "Ralph T. H. Griffith, 1896 (public domain)"
+    },
+    {
+      "id": "hindu-rigveda-ushas-dawn",
+      "title": {
+        "en": "Ushas, the Awakener of Mankind",
+        "zh": "烏莎斯，人類的喚醒者"
+      },
+      "tradition": "hindu",
+      "category": "myth-religion",
+      "region": {
+        "en": "Punjab plains (symbolic pin)",
+        "zh": "旁遮普平原（象徵性定位）"
+      },
+      "lat": 31.0,
+      "lon": 75.0,
+      "period": "Rigveda, Books 1, 7, 10 (Griffith translation, 1896)",
+      "source": {
+        "archive": "Wikisource (Griffith 1896)",
+        "work": "The Hymns of the Rigveda, trans. R. T. H. Griffith (1896), hymns to Ushas (e.g. 1.113, 7.77, 10.73)",
+        "url": "https://en.wikisource.org/wiki/The_Rigveda"
+      },
+      "license": "Public domain (translation 1896)",
+      "summary": {
+        "en": "Every dawn the goddess Ushas drives the same red-heifer chariot over the same road, and every dawn she is praised as if brand new - the hymns admit the joke: she is the 'old one' worshipped young, sister of Night, rival of the Sun, awakened by the priests' songs before the birds.",
+        "zh": "每逢黎明，女神烏莎斯駕同一輛紅牛之車行同一條路，而每個黎明都被讚為嶄新——頌詩自承這一玩笑：她是『古老者』以青春受拜，夜之姊妹，日之勁敵，先於群鳥被祭司的歌聲喚醒。"
+      },
+      "motifs": [
+        "sun-capture",
+        "sibling-creators",
+        "divine-rivalry"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient hymn; classified 'myth'."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Dawn comes to wake the world: she drives her bright heifer-car over the dark road, shakes open the closed eye of the sky, and the sleepers wake and the birds rise from their nests to sing before her. The hymns dare a human honesty: she is the old goddess come back with a new face - the same one we praised at every yesterday, and she goes before the Sun like a bride before a lord, or dances out of the east like a dancer out of the house.",
+          "note": "Paraphrase of Rigveda hymns to Ushas (Griffith 1896); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Her power is mortal time itself: she extends the life of men, sets the many days upon their way, and casts down darkness as a matron casts out a drunkard; one dawn, the singers say, is worth all the nights of hoarded gold.",
+          "note": "Paraphrase of Rigveda hymns to Ushas (Griffith 1896); not verbatim."
+        }
+      ],
+      "persons": [
+        "ushas"
+      ],
+      "language": "Vedic Sanskrit",
+      "canonical_translation": "Ralph T. H. Griffith, 1896 (public domain)"
+    },
+    {
+      "id": "hindu-rigveda-sarasvati",
+      "title": {
+        "en": "Sarasvati, the Great River and the Word",
+        "zh": "薩拉斯瓦蒂：大河與言語"
+      },
+      "tradition": "hindu",
+      "category": "myth-religion",
+      "region": {
+        "en": "Sarasvati river course (symbolic pin)",
+        "zh": "薩拉斯瓦蒂河道（象徵性定位）"
+      },
+      "lat": 27.5,
+      "lon": 74.5,
+      "period": "Rigveda, Books 2, 6, 10 (Griffith translation, 1896)",
+      "source": {
+        "archive": "Wikisource (Griffith 1896)",
+        "work": "The Hymns of the Rigveda, trans. R. T. H. Griffith (1896), hymns to Sarasvati (e.g. 2.41, 6.61, 10.75 river hymn)",
+        "url": "https://en.wikisource.org/wiki/The_Rigveda"
+      },
+      "license": "Public domain (translation 1896)",
+      "summary": {
+        "en": "Sarasvati is addressed as a real river - roaring from the mountains' ice, breaking ridges 'like a verdant elephant-horn', mightier than all other waters - and at the same time as the goddess of the Word that flows from the speaker's mouth. The river that later dried is the goddess that never did.",
+        "zh": "薩拉斯瓦蒂被稱呼為真實的河流——自群山冰隙咆哮而下，『如青翠象牙』裂開山脊，壯於眾水——同時亦是自說者之口流出的言語女神。後來枯竭的河，成了永不枯竭的女神。"
+      },
+      "motifs": [
+        "sacred-place",
+        "culture-hero",
+        "sacred-waters"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient hymn; classified 'myth'."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Sarasvati, mightiest of rivers, flows roaring from the mountains with the flood of her ice, breaking the ridges of the hills like a pierced elephant's tusk, a very army of waters going down to the sea. She is asked to enrich the sacrifice: come with thy floods, dear one, that our singers may be like rain-fed corn; she grants wealth, offspring and fame, and she is the mother of the Word itself. The same name runs through the tradition: the goddess of speech who later carries the veena, and the river whose dry bed stretches across the northwest plains - the geography the hymns loved and the language remembers.",
+          "note": "Paraphrase of Rigveda hymns to Sarasvati (Griffith 1896); not verbatim."
+        }
+      ],
+      "persons": [
+        "sarasvati"
+      ],
+      "language": "Vedic Sanskrit",
+      "canonical_translation": "Ralph T. H. Griffith, 1896 (public domain)"
+    },
+    {
+      "id": "hindu-rigveda-rudra",
+      "title": {
+        "en": "Rudra, the Howler of the Mountains",
+        "zh": "樓陀羅：山間的呼嘯者"
+      },
+      "tradition": "hindu",
+      "category": "myth-religion",
+      "region": {
+        "en": "Punjab plains (symbolic pin)",
+        "zh": "旁遮普平原（象徵性定位）"
+      },
+      "lat": 31.0,
+      "lon": 75.0,
+      "period": "Rigveda, Books 1, 2, 7 (Griffith translation, 1896)",
+      "source": {
+        "archive": "Wikisource (Griffith 1896)",
+        "work": "The Hymns of the Rigveda, trans. R. T. H. Griffith (1896), hymns to Rudra (e.g. 1.43, 1.114, 2.33)",
+        "url": "https://en.wikisource.org/wiki/The_Rigveda"
+      },
+      "license": "Public domain (translation 1896)",
+      "summary": {
+        "en": "Rudra is the dangerous god: strong bow, hundred-faced darts, dogs with frightening mouths, dwelling in the mountains. The hymns are half praise, half bargaining - 'spare us, smite not us or our cattle; pass by us with thy felicity' - the first shape of the god who becomes Shiva.",
+        "zh": "樓陀羅是危險之神：強弓、百面之鏢、嘴可畏的犬、居於群山。頌詩半為讚美，半為討價——『饒恕我們，勿擊我與我畜；攜吉慶繞過我們』——這就是後來成為濕婆之神的最初形態。"
+      },
+      "motifs": [
+        "taboo-transgression"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient hymn; classified 'myth'."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Rudra of the mountains, the strong one with the fair-limbed bow, has arrows that are sickness and darts that are fevers; his messengers are dogs with terrifying mouths, and his company walks the wild passes with him. The hymn prays like a neighbor soothing a temper: oh, divinity, be kind; spare us, injure not our strong steed nor our ram nor our offspring; put far from us thy bolt of heaven and thy stone of earth. But the danger is also medicine: he is the healer whose hand both strikes and cures, lord of herbs in the hill-forests, and the fierce god praised most sweetly becomes in the later tradition Shiva, the gracious one.",
+          "note": "Paraphrase of Rigveda hymns to Rudra (Griffith 1896); not verbatim."
+        }
+      ],
+      "persons": [
+        "shiva"
+      ],
+      "language": "Vedic Sanskrit",
+      "canonical_translation": "Ralph T. H. Griffith, 1896 (public domain)"
+    },
+    {
+      "id": "hindu-rigveda-soma-plant",
+      "title": {
+        "en": "Soma, the God That Is a Drink",
+        "zh": "蘇摩：即是飲料的神"
+      },
+      "tradition": "hindu",
+      "category": "myth-religion",
+      "region": {
+        "en": "Mujuvant mountains (symbolic pin)",
+        "zh": "木周萬特山（象徵性定位）"
+      },
+      "lat": 33.0,
+      "lon": 76.0,
+      "period": "Rigveda, Book 9 (Soma Mandala) and others (Griffith translation, 1896)",
+      "source": {
+        "archive": "Wikisource (Griffith 1896)",
+        "work": "The Hymns of the Rigveda, trans. R. T. H. Griffith (1896), Book 9, hymns to Soma Pavamana",
+        "url": "https://en.wikisource.org/wiki/The_Rigveda"
+      },
+      "license": "Public domain (translation 1896)",
+      "summary": {
+        "en": "The Soma hymns praise the plant as it is pressed: the god filtered through sheep's wool, roaring as he runs, cleaning himself like a horse washed in a river. He is the drink that makes gods immortal and poets invincible - Indra's ammunition - and the whole ninth book is a single day's brewing turned into liturgy.",
+        "zh": "蘇摩頌讚那正在榨汁的植物：神經羊毛衣而濾清，奔流時如雷而吼，如河浴之馬自淨。他是使諸神不死、使詩人無敵的飲料——因陀羅的彈藥——第九冊整卷即把一日的榨釀化作禮儀。"
+      },
+      "motifs": [
+        "transformation",
+        "resurrection",
+        "sacred-meal"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient hymn; classified 'myth'."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The Soma is brought down from the mountains in carts; it is pressed between stones, filtered through the sheep's wool, and as it streams it is called Pavamana, the flowing clear one - the god washing himself as he runs.",
+          "note": "Paraphrase of Rigveda Book 9 hymns (Griffith 1896); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "He mounts the sky as he flows: he begets light, sets the dawns in motion, drives the Sun upon his way, and puts strength into Indra's arms for the next serpent-slaying. The theology is intoxication made cosmic: whoever drinks of the pressed god becomes a seer; Indra himself grew so great on Soma that he filled two worlds - the hymns are the liturgy of a sacrament that means what it does.",
+          "note": "Paraphrase of Rigveda Book 9 hymns (Griffith 1896); not verbatim."
+        }
+      ],
+      "persons": [
+        "indra"
+      ],
+      "language": "Vedic Sanskrit",
+      "canonical_translation": "Ralph T. H. Griffith, 1896 (public domain)"
+    },
+    {
+      "id": "hindu-rigveda-mitra-varuna",
+      "title": {
+        "en": "Mitra and Varuna: The Twin Upholders",
+        "zh": "密多羅與伐樓那：雙位撐持者"
+      },
+      "tradition": "hindu",
+      "category": "myth-religion",
+      "region": {
+        "en": "Punjab plains (symbolic pin)",
+        "zh": "旁遮普平原（象徵性定位）"
+      },
+      "lat": 31.0,
+      "lon": 75.0,
+      "period": "Rigveda, Books 3, 5, 7 (Griffith translation, 1896)",
+      "source": {
+        "archive": "Wikisource (Griffith 1896)",
+        "work": "The Hymns of the Rigveda, trans. R. T. H. Griffith (1896), dual hymns to Mitra-Varuna (e.g. 3.59, 5.62, 7.64)",
+        "url": "https://en.wikisource.org/wiki/The_Rigveda"
+      },
+      "license": "Public domain (translation 1896)",
+      "summary": {
+        "en": "The twin sovereigns of the Vedic heaven: Mitra the friendship, Varuna the bond - together they prop the sky, direct the rivers, and sit as judges over oath and truth. Their shared hymns describe two kings of one law, one of them sovereign of the waters' deep and the other of the compact between men.",
+        "zh": "吠陀天界的雙位君主：密多羅為友誼，伐樓那為盟約——同撐天穹、導引河流，並為誓言與真理之判官。其合頌描繪同一法律下的二王：一位為深水之主，一位為人際契約之王。"
+      },
+      "motifs": [
+        "sibling-creators",
+        "oracle-divination"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient hymn; classified 'myth'."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Mitra, when he speaks, stirs men to labor and to friendship; Varuna, when he decrees, holds the bound by their bonds. Together the two uphold the sky and the earth, and the hymns address them as one kingship with two names.",
+          "note": "Paraphrase of Rigveda dual hymns (Griffith 1896); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "They made the streams run to the sea, set the Sun upon his high road, and look down upon the dealings of men: the oath-breaker and the promise-keeper alike arrive at their seat, and the pair are invoked over every covenant. In the later spread of the god-language Mitra travels west - the Persian contract-god, the Roman Mithras - but in the Vedic home the two are the law's own face: order as friendship, order as fetter.",
+          "note": "Paraphrase of Rigveda dual hymns (Griffith 1896); not verbatim."
+        }
+      ],
+      "persons": [],
+      "language": "Vedic Sanskrit",
+      "canonical_translation": "Ralph T. H. Griffith, 1896 (public domain)"
+    },
+    {
+      "id": "hindu-rigveda-yama-dogs",
+      "title": {
+        "en": "The Two Dogs of the Dead",
+        "zh": "亡者的雙犬"
+      },
+      "tradition": "hindu",
+      "category": "myth-religion",
+      "region": {
+        "en": "Yama's pasture road (symbolic pin at Gaya)",
+        "zh": "閻摩牧野之路（象徵性定位於伽耶）"
+      },
+      "lat": 24.79,
+      "lon": 85.0,
+      "period": "Rigveda, Book 10 (Griffith translation, 1896)",
+      "source": {
+        "archive": "Wikisource (Griffith 1896)",
+        "work": "The Hymns of the Rigveda, trans. R. T. H. Griffith (1896), Book 10, hymns 14, 135-136 (the dogs of Yama)",
+        "url": "https://en.wikisource.org/wiki/The_Rigveda"
+      },
+      "license": "Public domain (translation 1896)",
+      "summary": {
+        "en": "On the path to Yama's pasture two four-eyed, broad-nosed dogs guard the road of the departed, dark of hue, with Sarama the divine bitch for their mother. The funeral hymns ask them to be lenient - to let the father through to the company of the old ones - while the dead man is sent ahead with gifts for the gate-keepers.",
+        "zh": "通往閻摩牧野之路上，兩隻四眼闊鼻的犬守衛亡者之路，色暗，母親為神犬薩羅摩。葬歌求它們寬待——放父親入古者之群——死者則被先行差遣，攜禮物賄賂守門者。"
+      },
+      "motifs": [
+        "descent-underworld",
+        "transformation"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient funeral hymn; classified 'myth'."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Run forward along the ancient paths, the hymn tells the dead man, where our forefathers have gone: there the two kings Yama and Varuna keep their seat, and the two dogs, the four-eyed ones, watch the path. The dogs are described by their mouths: broad-nosed, dark of body, drawn from the divine Sarama - one takes the black, one the parti-colored; they sit at Yama's city and lick at the lot of the dead.",
+          "note": "Paraphrase of Rigveda 10.14 (Griffith 1896); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "The offering is practical theology: give these two dogs of thine, O father, thy rice and thy cake - they watch the road of the fathers - and then enter, with the old ones and their flocks, to the pasture of delight.",
+          "note": "Paraphrase of Rigveda 10.14 (Griffith 1896); not verbatim."
+        }
+      ],
+      "persons": [
+        "yama"
+      ],
+      "language": "Vedic Sanskrit",
+      "canonical_translation": "Ralph T. H. Griffith, 1896 (public domain)"
+    }
+  ]
+}

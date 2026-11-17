@@ -1,0 +1,200 @@
+{
+  "texts": [
+    {
+      "id": "inca-three-eggs-gold-silver-copper",
+      "title": {
+        "en": "Three Eggs of Gold, Silver and Copper: Kings, Priests and Slaves",
+        "zh": "金銀銅三卵:王者、祭司與僕隸"
+      },
+      "tradition": "inca",
+      "category": "myth",
+      "region": {
+        "en": "Cuzco (symbolic pin)",
+        "zh": "庫斯科(象徵性標記)"
+      },
+      "period": "Retold by Lewis Spence, 1913, from colonial chroniclers",
+      "source": {
+        "archive": "Project Gutenberg",
+        "work": "Lewis Spence, The Myths of Mexico and Peru, London 1913",
+        "url": "https://www.gutenberg.org/ebooks/53080"
+      },
+      "license": "Public domain (Spence 1913)",
+      "summary": {
+        "en": "Occasionally we find the sun acting as a kind of demiurge or sub-creator. He it is who in later legend founds the city of Cuzco, and sends thither three eggs composed of gold, silver, and copper, from which spring the three classes of Peruvians, kings, priests, and slaves.",
+        "zh": "太陽有時儼然一位造化之神、次級創世者。後期傳說中,正是他建立了庫斯科城,並向城中送去金、銀、銅三枚卵;秘魯人的三個等級——王者、祭司與僕隸——便由這三卵中孕育而出。"
+      },
+      "motifs": [
+        "miraculous-birth",
+        "foundational-legend"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Spence is a retelling compiler (1913); the egg-caste myth he cites matches the version reported by Cabello Valboa via later writers; period flagged as retold."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Occasionally we find the sun acting as a kind of demiurge or sub-creator. He it is who in later legend founds the city of Cuzco, and sends thither three eggs composed of gold, silver, and copper, from which spring the three classes of Peruvians, kings, priests, and slaves.",
+          "note": "Paraphrase of Spence, The Myths of Mexico and Peru (1913), Peru chapters; not verbatim."
+        }
+      ],
+      "persons": [],
+      "language": "English (retelling)",
+      "canonical_translation": "Spence 1913 (reteller)",
+      "lat": -13.517,
+      "lon": -71.979
+    },
+    {
+      "id": "inca-yarma-son-of-the-sun-dismembered",
+      "title": {
+        "en": "From His Teeth Grew Maize: The Son of the Sun Slain at Yarma",
+        "zh": "齒中生玉米:太陽之子在利馬谷遇害"
+      },
+      "tradition": "inca",
+      "category": "myth",
+      "region": {
+        "en": "Coastal valley of Rimac (Yarma), below Lima (symbolic pin)",
+        "zh": "利馬下方海岸利馬(亞爾馬)谷(象徵性標記)"
+      },
+      "lat": -12.05,
+      "lon": -77.0,
+      "period": "Retold by Lewis Spence, 1913, from colonial chroniclers",
+      "source": {
+        "archive": "Project Gutenberg",
+        "work": "Lewis Spence, The Myths of Mexico and Peru, London 1913",
+        "url": "https://www.gutenberg.org/ebooks/53080"
+      },
+      "license": "Public domain (Spence 1913)",
+      "summary": {
+        "en": "In some of the more isolated valleys of Peru we discover local creation-myths. For example, in the coastal valley of Rimac Pachacamac was not considered to be the creator of the sun, but to be himself a descendant of it. The first human beings created by him were speedily separated, as the man died of hunger, but the woman supported herself by living on roots. The sun took compassion upon her and gave her a son, whom Pachacamac slew and buried. But from his teeth there grew maize, from his ribs the long white roots of the manioc plant, and from his flesh various esculent plants.",
+        "zh": "秘魯較偏遠的一些河谷還保存著地方性的創世神話。例如在海岸的利馬谷,帕查卡馬克並非太陽的創造者,而是太陽的後裔。他所造的第一對人很快便天各一方:男子飢餓而死,女子靠食草根存活。太陽憐憫這女子,賜她一子;帕查卡馬克卻殺死此子,加以掩埋。然而,從孩子的牙齒裡長出了玉米,從肋骨間長出木薯修長的白根,從血肉中長出各樣可食的植物。"
+      },
+      "motifs": [
+        "dismembered-giant",
+        "ritual-origin",
+        "culture-hero"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "The Andean dismemberment cluster (crops from the slain body); Spence retells the Yarma/Pachacamac myth from Cabello Valboa's line of tradition. Cross-ref to Ymir/Pangu/Tiamat parallels."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "In the coastal valley of Rimac Pachacamac was not considered to be the creator of the sun, but to be himself a descendant of it. The first human beings created by him were speedily separated, as the man died of hunger, but the woman supported herself by living on roots.",
+          "note": "Paraphrase of Spence, The Myths of Mexico and Peru (1913), Peru chapters; not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "The sun took compassion upon her and gave her a son, whom Pachacamac slew and buried. But from his teeth there grew maize, from his ribs the long white roots of the manioc plant, and from his flesh various esculent plants.",
+          "note": "Paraphrase of Spence, The Myths of Mexico and Peru (1913), Peru chapters; not verbatim."
+        }
+      ],
+      "persons": [
+        "pachacamac"
+      ],
+      "language": "English (retelling)",
+      "canonical_translation": "Spence 1913 (reteller)"
+    },
+    {
+      "id": "inca-golden-garden-of-intipampa",
+      "title": {
+        "en": "Intipampa, the Field of the Sun: Golden Trees and Mummified Kings",
+        "zh": "因蒂潘帕「日之田野」:金樹與環繞祭壇的王木乃伊"
+      },
+      "tradition": "inca",
+      "category": "myth",
+      "region": {
+        "en": "Coricancha, Cuzco (symbolic pin)",
+        "zh": "庫斯科科里坎查(象徵性標記)"
+      },
+      "lat": -13.516,
+      "lon": -71.978,
+      "period": "Retold by Lewis Spence, 1913, from conquistador testimonies",
+      "source": {
+        "archive": "Project Gutenberg",
+        "work": "Lewis Spence, The Myths of Mexico and Peru, London 1913",
+        "url": "https://www.gutenberg.org/ebooks/53080"
+      },
+      "license": "Public domain (Spence 1913)",
+      "summary": {
+        "en": "One of the most remarkable monuments of the Peruvian civilisation was the Coricancha (Town of Gold) at Cuzco, the principal fane of the sun-god. Its inner and outer walls were covered with plates of pure gold. Situated upon an eminence eighty feet high, the temple looked down upon gardens filled, according to the conquering Spaniards, with treasures of gold and silver. The animals, insects, the very trees, say the chroniclers, were of the precious metals, as were the spades, hoes, and other implements employed for keeping the ground in cultivation. Through the pleasances rippled the river Huatenay. Such was the glittering Intipampa (Field of the Sun). The interior displayed an ornate richness which impressed even the Spaniards: the gold-lust must have swelled within their hearts at sight of the great altar, behind which was a huge plate of the shining metal engraved with the features of the sun-god. The surface of this plate was enriched by a thousand gems, the scintillation of which was, according to eye-witnesses, almost insupportable. Around this dazzling sphere were seated the mummified corpses of the Inca kings, each on his throne, with sceptre in hand. Surrounding the Coricancha several lesser temples clustered, dedicated to the moon, to Cuycha the rainbow, and to Chasca the planet Venus. In the temple of the moon, the mythic mother of the Inca dynasty, a great plate of silver depicted the features of the moon-goddess, and around this the mummies of the Inca queens sat in a semicircle. In the rainbow temple of Cuycha the seven-hued arch was depicted by a great arc of gold. The colossal representation of the sun became the property of a certain Mancio Serra de Leguizano, a reckless cavalier and noted gambler, who lost it on a single throw of the dice.",
+        "zh": "秘魯文明最壯麗的遺蹟之一,是庫斯科的科里坎查——「金城」,太陽神的主廟。內外牆壁皆覆純金之板。神廟踞於八十呎高地,俯瞰著征服者所說的滿園金銀的園林:據編年史家所言,園中的禽鳥、昆蟲乃至樹木,皆以貴金屬製成;耕作土地的鏟、鋤等農具亦然。瓦特納伊河流經園苑,粼粼生輝——這便是「因蒂潘帕」——日之田野。殿內窮奢極麗,連見多識廣的西班牙人也為之目眩:大祭壇之後懸著一塊巨大的金板,上鐫日神面容;板上鑲嵌千顆寶石,據目擊者言,其光芒幾乎令人不能逼視。圍繞這奪目的日盤,歷代印加王的木乃伊各據王座,手持權杖而坐。科里坎查四周簇擁著幾座小廟:月神廟——印加王族的傳說母親——供銀鑄月神面容之板,歷代王后的木乃伊如配偶一般在彼環坐成半圓;彩虹廟「庫伊查」以金弧呈七色長虹;金星廟奉「查斯卡」。至於那面巨大的太陽金盤,後來落入亡命賭徒曼西奧·塞拉·德·萊吉薩諾之手——他一擲骰子,便把它輸了個精光!"
+      },
+      "motifs": [
+        "sacred-place",
+        "ritual-origin"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "The Coricancha as described from conquistador loot-testimony; the dice anecdote (Mancio Serra) is a well-attested colonial story."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The animals, insects, the very trees, say the chroniclers, were of the precious metals, as were the spades, hoes, and other implements employed for keeping the ground in cultivation. Through the pleasances rippled the river Huatenay. Such was the glittering Intipampa (Field of the Sun).",
+          "note": "Paraphrase of Spence, The Myths of Mexico and Peru (1913), Peru chapters; not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "The surface of this plate was enriched by a thousand gems, the scintillation of which was, according to eye-witnesses, almost insupportable. Around this dazzling sphere were seated the mummified corpses of the Inca kings, each on his throne, with sceptre in hand... In the temple of the moon, the mythic mother of the Inca dynasty, a great plate of silver depicted the features of the moon-goddess, and around this the mummies of the Inca queens sat in a semicircle.",
+          "note": "Paraphrase of Spence, The Myths of Mexico and Peru (1913), Peru chapters; not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "The colossal representation of the sun became the property of a certain Mancio Serra de Leguicano, a reckless cavalier and noted gambler, who lost it on a single throw of the dice! Such was the spirit of the adventurers who conquered this golden realm for the crown of Spain.",
+          "note": "Paraphrase of Spence, The Myths of Mexico and Peru (1913), Peru chapters; not verbatim."
+        }
+      ],
+      "persons": [],
+      "language": "English (retelling)",
+      "canonical_translation": "Spence 1913 (reteller)"
+    },
+    {
+      "id": "inca-virgin-buried-village-razed",
+      "title": {
+        "en": "The Nun Who Broke Her Vow: Buried Alive, Her Village Razed",
+        "zh": "破誓的太陽貞女:活埋與夷村"
+      },
+      "tradition": "inca",
+      "category": "myth",
+      "region": {
+        "en": "Provinces of Ttahuantin-suyu (symbolic pin: Cuzco)",
+        "zh": "大蘇尤諸省(象徵性標記:庫斯科)"
+      },
+      "lat": -13.517,
+      "lon": -71.979,
+      "period": "Retold by Lewis Spence, 1913, from colonial chroniclers",
+      "source": {
+        "archive": "Project Gutenberg",
+        "work": "Lewis Spence, The Myths of Mexico and Peru, London 1913",
+        "url": "https://www.gutenberg.org/ebooks/53080"
+      },
+      "license": "Public domain (Spence 1913)",
+      "summary": {
+        "en": "The legal code of the Incas was severe in the extreme. Murderers and adulterers were punished by death, and the unpardonable sin appears to have been blasphemy against the sun, or his earthly representative, the Inca. The Virgin of the Sun (or nun) who broke her vow was buried alive, and the village from whence she came was razed to the ground. Flogging was administered for minor offences. A peculiar and very trying punishment must have been that of carrying a heavy stone for a certain time.",
+        "zh": "印加的法典嚴酷至極。殺人者與姦淫者皆處死刑;而不可赦之罪,似乎是褻瀆太陽——或其在世上的代表印加王。破誓的太陽貞女(修女)被活埋,她出生的村莊亦被夷為平地。輕罪處以鞭刑。還有一種奇特而難熬的刑罰:令罪犯負重石而行,歷時有定。"
+      },
+      "motifs": [
+        "ritual-origin",
+        "taboo-transgression",
+        "broken-oath",
+        "adultery"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "The collective punishment of the nun's home village - Spence's legal summary drawn from Garcilaso and Acosta."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The legal code of the Incas was severe in the extreme. Murderers and adulterers were punished by death, and the unpardonable sin appears to have been blasphemy against the sun, or his earthly representative, the Inca. The Virgin of the Sun (or nun) who broke her vow was buried alive, and the village from whence she came was razed to the ground.",
+          "note": "Paraphrase of Spence, The Myths of Mexico and Peru (1913), Peru chapters; not verbatim."
+        }
+      ],
+      "persons": [],
+      "language": "English (retelling)",
+      "canonical_translation": "Spence 1913 (reteller)"
+    }
+  ]
+}

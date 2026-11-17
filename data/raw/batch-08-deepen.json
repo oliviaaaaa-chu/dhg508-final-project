@@ -1,0 +1,504 @@
+{
+  "texts": [
+    {
+      "id": "theogony-chaos",
+      "title": {
+        "en": "Theogony: Creation from Chaos and the Fall of Cronos",
+        "zh": "神譜：混沌創世與克羅諾斯之傾覆"
+      },
+      "tradition": "greek",
+      "category": "myth",
+      "region": {
+        "en": "Greece (Boeotia)",
+        "zh": "希臘（維奧蒂亞）"
+      },
+      "lat": 38.338,
+      "lon": 23.075,
+      "period": "c. 700 BCE (Hesiod, trans. Evelyn-White 1914)",
+      "source": {
+        "archive": "Theoi Classical Texts Library",
+        "work": "Hesiod, Theogony, trans. H. G. Evelyn-White, Loeb Classical Library 57 (1914), lines 116-149",
+        "url": "https://www.theoi.com/Text/HesiodTheogony.html"
+      },
+      "license": "Public domain",
+      "summary": {
+        "en": "Hesiod's Theogony opens the Greek cosmos with Chaos, from which came Gaia, Tartarus, and Eros. Gaia then bears Ouranos (Heaven), and their union produces the Titans, including Cronos, who hates his father.",
+        "zh": "赫西俄德《神譜》以混沌開篇，混沌之中先有大地該亞、深淵塔爾塔羅斯與愛神厄洛斯；該亞再生天空烏拉諾斯，二神結合而生克羅諾斯等泰坦諸神。"
+      },
+      "motifs": [
+        "creation-chaos",
+        "miraculous-birth",
+        "sibling-creators",
+        "sacred-kingship",
+        "storm-thunder"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Coordinates placed at Ascra in Boeotia, Hesiod's home village, as a symbolic inland anchor (the cosmogony has no geographic setting). Quoted from a standard public-domain academic translation as comparative mythology scholarship, not as any religious truth claim. [Merged 2026-11-11: the entry 'greek-theogony-succession' (same Evelyn-White Theogony, succession myth and Titanomachy) was folded in as passage 3; its opening passage duplicated passage 1 and was dropped, and the duplicate entry removed. Sacred-kingship and storm-thunder motifs come from the folded material.]"
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Verily at the first Chaos came to be, but next wide-bosomed Earth, the ever-sure foundations of all the deathless ones who hold the peaks of snowy Olympus, and dim Tartarus in the depth of the wide-pathed Earth, and Eros (Love), fairest among the deathless gods, who unnerves the limbs and overcomes the mind and wise counsels of all gods and all men within them. From Chaos came forth Erebus and black Night; but of Night were born Aether and Day, whom she conceived and bare from union in love with Erebus. And Earth first bare starry Heaven, equal to herself, to cover her on every side, and to be an ever-sure abiding-place for the blessed gods."
+        },
+        {
+          "id": "2",
+          "text": "But afterwards she lay with Heaven and bare deep-swirling Oceanus, Coeus and Crius and Hyperion and Iapetus, Theia and Rhea, Themis and Mnemosyne and gold-crowned Phoebe and lovely Tethys. After them was born Cronos the wily, youngest and most terrible of her children, and he hated his lusty sire."
+        },
+        {
+          "id": "3",
+          "text": "Condensed paraphrase of Theogony 453-506: Rhea, cheated of each child, hands Kronos a swaddled stone, which he swallows whole; the infant Zeus is smuggled to a Cretan cave, grows to strength, and forces his father to disgorge his swallowed siblings — the stone last of all. Not verbatim."
+        }
+      ]
+    },
+    {
+      "id": "isis-secret-name",
+      "title": {
+        "en": "Isis and the Secret Name of Ra",
+        "zh": "伊希斯與拉的秘名"
+      },
+      "tradition": "egyptian",
+      "category": "myth",
+      "region": {
+        "en": "Egypt (Heliopolis)",
+        "zh": "埃及（赫利奧波利斯）"
+      },
+      "lat": 30.1194,
+      "lon": 31.3236,
+      "period": "c. 1300-1100 BCE (Ramesside Turin Papyrus; Budge, Legends of the Gods, 1912)",
+      "source": {
+        "archive": "Project Gutenberg (eBook #9411; Sacred Texts returned HTTP 403)",
+        "work": "Legends of the Gods: The Egyptian Texts, ed. and trans. E. A. Wallis Budge (London, 1912), ch. III, 'The Legend of Ra and the Snake-bite'",
+        "url": "https://www.gutenberg.org/cache/epub/9411/pg9411.txt"
+      },
+      "license": "Public domain",
+      "summary": {
+        "en": "In this Egyptian legend, Isis seeks Ra's hidden name, in which his very existence and power are bound up. She fashions a venomous serpent to wound the aging sun god, and only by surrendering his secret name can Ra be healed, transferring his power to Isis.",
+        "zh": "在這則埃及傳說中，伊西斯謀求太陽神拉的秘名——其生命與神力之所繫。她鑄成毒蛇使年邁的拉受傷，拉為求痊癒只得獻出秘名，權柄遂歸伊西斯所有。"
+      },
+      "motifs": [
+        "trickster",
+        "wisdom-sacrifice",
+        "miracle-cure"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "The story follows Ra's daily journey through Egypt, so coordinates are placed at Heliopolis (ancient Anu), Ra's chief cult city, as an approximate anchor. Ancient Egyptian religious text quoted for comparative scholarship; Budge's 1912 wording is dated in style but is the cited public-domain source, presented without religious truth claims."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "she decided that she could only obtain the power she wanted if she possessed the knowledge of the secret name of Ra, in which his very existence was bound up. Ra guarded this name most jealously, for he knew that if he revealed it to any being he would henceforth be at that being's mercy. Isis saw that it was impossible to make Ra declare his name to her by ordinary methods, and she therefore thought out the following plan. It was well known in Egypt and the Sudan at a very early period that if a magician obtained some portion of a person's body, e.g., a hair, a paring of a nail, a fragment of skin, or a portion of some efflux from the body, spells could be used upon them which would have the effect of causing grievous harm to that person."
+        },
+        {
+          "id": "2",
+          "text": "Then Isis said to him with guile, \"Divine Father, tell me thy name, for he who uttereth his own name shall live.\" Thereupon Ra proceeded to enumerate the various things that he had done, and to describe his creative acts, and ended his speech to Isis by saying, that he was Khepera in the morning, Ra at noon, and Temu in the evening. Apparently he thought that the naming of these three great names would satisfy Isis, and that she would immediately pronounce a word of power and stop the pain in his body, which, during his speech, had become more acute. Isis, however, was not deceived, and she knew well that Ra had not declared to her his hidden name; this she told him, and she begged him once again to tell her his name."
+        }
+      ]
+    },
+    {
+      "id": "book-of-dead-heart",
+      "title": {
+        "en": "The Weighing of the Heart",
+        "zh": "稱量心臟（亡靈書）"
+      },
+      "tradition": "egyptian",
+      "category": "myth",
+      "region": {
+        "en": "Egypt (Thebes)",
+        "zh": "埃及（底比斯）"
+      },
+      "lat": 25.6872,
+      "lon": 32.6396,
+      "period": "c. 1550-1292 BCE (New Kingdom funerary spells; Budge, 1920)",
+      "source": {
+        "archive": "Project Gutenberg (eBook #7145; Sacred Texts returned HTTP 403)",
+        "work": "The Book of the Dead, ed. E. A. Wallis Budge (1920), ch. CXXV, the Judgment Hall and Negative Confession",
+        "url": "https://www.gutenberg.org/cache/epub/7145/pg7145.txt"
+      },
+      "license": "Public domain",
+      "summary": {
+        "en": "Chapter 125 of the Book of the Dead places the deceased in the Hall of Maati, where his heart is weighed before Osiris. Addressing the Forty-Two gods, he recites the Negative Confession, declaring innocence of a catalogue of sins before the Great Scales and the Eater of the Dead.",
+        "zh": "《亡靈書》第一二五咒將亡者置於瑪阿特之廳，其心臟須在奧西里斯面前受稱量。亡者向四十二神逐條背誦「否定懺悔」，在審判大天秤與亡者吞噬者面前宣告無罪。"
+      },
+      "motifs": [
+        "descent-underworld",
+        "theophany",
+        "judgment-of-souls",
+        "celestial-bureaucracy",
+        "secret-book"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Category reclassified from religious to myth at the editor's direction: Chapter 125 is canonical funerary scripture, but its core is a narrative of the underworld Hall of Maati — Osiris, the Forty-Two assessors, the devourer of hearts — which this project reads as a myth of judgment rather than a scripture narrative; the interpretive division (README) is noted here. Classed religious rather than myth was the initial call because Chapter 125 is a funerary script used by worshippers. Coordinates are a neutral inland point at Thebes (Luxor), the source of the Papyrus of Ani, since the judgment occurs in the mythic Hall of Maati. Egyptian funerary text quoted for comparative scholarship on ancient afterlife beliefs, not as religious truth claims; Budge's 1920 translation is dated but is the cited public-domain source."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "When the deceased had repeated the magical names of the doors of the Hall, he entered it and saw these gods arranged in two rows, twenty-one on each side of the Hall. At the end, near Osiris, were the Great Scales, under the charge of Anpu (Anubis), and the monster Amemit, the Eater of the Dead, i.e., of the hearts of the wicked who were condemned in the Judgment of Osiris. The deceased advanced along the Hall and, addressing each of the Forty-Two gods by his name, declared that he had not committed a certain sin, thus: \"O Usekh-nemmit, comer forth from Anu, I have not committed sin. O Fenti, comer forth from Khemenu, I have not robbed. O Neha-hau, comer forth from Re-stau, I have not killed men. O Neba, comer forth in retreating, I have not plundered the property of God."
+        },
+        {
+          "id": "2",
+          "text": "Homage to thee, O Great God, Lord of Maati, I have come to thee, O my Lord, that I may behold thy beneficence. I know thee, and I know thy name, and the names of the Forty-Two who live with thee in the Hall of Maati, who keep ward over sinners, and feed upon their blood on the day of estimating characters before Un-Nefer ... Behold, I have come to thee, and I have brought maat (i.e., truth, integrity) to thee. I have destroyed sin for thee. I have not sinned against men. I have not oppressed [my] kinsfolk. I have done no wrong in the place of truth."
+        }
+      ]
+    },
+    {
+      "id": "gilgamesh-humbaba",
+      "title": {
+        "en": "Gilgamesh, Enkidu and Humbaba",
+        "zh": "吉爾伽美什、恩奇都與洪巴巴"
+      },
+      "tradition": "mesopotamian",
+      "category": "myth",
+      "region": {
+        "en": "Cedar Forest (Mount Lebanon range) and Uruk",
+        "zh": "雪松林（黎巴嫩山區）與烏魯克"
+      },
+      "lat": 34,
+      "lon": 36,
+      "period": "Sumerian/Babylonian epic, recorded c. 2100-1200 BCE (Spence 1916)",
+      "source": {
+        "archive": "Project Gutenberg",
+        "work": "Myths & Legends of Babylonia & Assyria, by Lewis Spence (1916), eBook #45137",
+        "url": "https://www.gutenberg.org/files/45137/45137-0.txt"
+      },
+      "license": "Public domain",
+      "summary": {
+        "en": "Gilgamesh and his companion Eabani (Enkidu) plan an expedition against Khumbaba, the terrifying guardian appointed by Bel over the Forest of Cedars. The heroes seek the blessing of Shamash through Gilgamesh's mother before entering the forest, where they slay the monster.",
+        "zh": "吉爾伽美什與摯友恩奇都遠征貝勒所任命的雪松林守護巨怪洪巴巴；臨行前二人託祭司之母向太陽神沙瑪什祈求庇佑，終於林中誅殺怪物。"
+      },
+      "motifs": [
+        "quest-immortality",
+        "sacred-kingship"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Coordinates placed in the cedar-bearing Mount Lebanon range, the customary identification of the epic's mythic Cedar Forest. Spence's 1916 text is a retelling (one step removed from the tablets) using period transliterations (Khumbaba, Eabani), so passages are clearly-labeled condensed recounts in the template's terms; the combat belongs to heroic legend rather than temple cult, so it is classed as myth."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The old priestess advises her son and his friend how to proceed, and after they have gone we see her alone in the temple, her hands raised to the sun-god, invoking his blessing on Gilgamesh: \"Why hast thou troubled the heart of my son Gilgamesh? Thou hast laid thy hand upon him, and he goeth away, on a far journey to the dwelling of Khumbaba; he entereth into a combat (whose issue) he knoweth not; he followeth a road unknown to him. Till he arrive and till he return, till he reach the Forest of Cedars, till he hath slain the terrible Khumbaba and rid the land of all the evil that thou hatest, till the day of his return -- let Aya, thy betrothed, thy splendour, recall him to thee.\""
+        },
+        {
+          "id": "2",
+          "text": "Khumbaba, whom Bel had appointed to guard the cedar (_i.e._, one particular cedar which appears to be of greater height and sanctity than the others), is a creature of most terrifying aspect, the very presence of whom in the forest makes those who enter it grow weak and impotent. As the heroes draw near Eabani complains that his hands are feeble and his arms without strength, but Gilgamesh speaks words of encouragement to him."
+        }
+      ]
+    },
+    {
+      "id": "etana-eagle",
+      "title": {
+        "en": "Etana and the Eagle",
+        "zh": "伊塔那與神鷹"
+      },
+      "tradition": "mesopotamian",
+      "category": "myth",
+      "region": {
+        "en": "Kish, Babylonia",
+        "zh": "巴比倫尼亞基什城邦"
+      },
+      "lat": 32.54,
+      "lon": 44.61,
+      "period": "Old Babylonian Akkadian legend, tablets from c. 1800-1100 BCE (Jastrow 1898)",
+      "source": {
+        "archive": "Project Gutenberg",
+        "work": "The Religion of Babylonia and Assyria, by Morris Jastrow, Jr. (1898), eBook #20758",
+        "url": "https://www.gutenberg.org/ebooks/20758.txt.utf-8"
+      },
+      "license": "Public domain",
+      "summary": {
+        "en": "The shepherd-king Etana, whose wife cannot deliver the child she has conceived, appeals to Shamash for the 'plant of birth.' Carried on the eagle's pinions, he ascends gate after gate toward the heaven of Anu until, flying too high, eagle and rider are hurled back to earth.",
+        "zh": "牧者之王伊塔那因妻子難產，向沙瑪什祈求「生育之草」；他乘神鷹之翼層層昇上安努天門，終因飛得太高而與鷹一同墜回大地。"
+      },
+      "motifs": [
+        "ascension",
+        "miraculous-birth",
+        "flight-sky"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Coordinates placed at Kish (Tell al-Uhaymir), the traditional seat of Etana's royal line in the Sumerian King List. Bracketed footnote numbers from Jastrow's text have been removed; his 1898 rendering reconstructs the legend from then-known fragments, exemplifying early comparative philology before later tablet finds altered some readings."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Etana's wife is in distress because she is unable to bring to the world a child which she has conceived. Etana appeals to Shamash. Through the mediation of the priests he has offered sacrifices, and he now prays to Shamash to show him the \"plant of birth.\" The oracles have completed my sacrifices, They have completed my free-will offerings to the gods. O Lord, let thy mouth command, And give me the plant of birth, Reveal to me the plant of birth, Bring forth the fruit, grant me an offspring."
+        },
+        {
+          "id": "2",
+          "text": "Etana obeys, and thus, securely attached to the eagle, begins the daring journey. They fly for the space of a double hour, when The eagle addresses Etana: Look, my friend, how the earth appears; Look at the sea and at its side, the house of wisdom; The earth appears as a mountain, the sea has become a pool (?). A second double hour he (i.e., the eagle) carried him on high. The eagle spoke to Etana: Look, my friend, how the earth appears; The sea is a mere belt (?) around the earth. A third double hour he carried him on high. The eagle spoke to Etana: Look, my friend, how the earth appears; The sea is a mere gardener's ditch."
+        }
+      ]
+    },
+    {
+      "id": "salmon-knowledge",
+      "title": {
+        "en": "The Salmon of Knowledge",
+        "zh": "智慧鮭魚"
+      },
+      "tradition": "celtic",
+      "category": "myth-religion",
+      "region": {
+        "en": "River Boyne, Ireland",
+        "zh": "愛爾蘭博因河"
+      },
+      "lat": 53.71,
+      "lon": -6.49,
+      "period": "Irish Fenian cycle, medieval Irish tales; retold in Lady Augusta Gregory's Gods and Fighting Men (1904)",
+      "source": {
+        "archive": "Project Gutenberg",
+        "work": "Gods and Fighting Men, by Lady Augusta Gregory (1904), eBook #14465",
+        "url": "https://www.gutenberg.org/ebooks/14465.txt.utf-8"
+      },
+      "license": "Public domain",
+      "summary": {
+        "en": "The poet Finegas waits seven years on the River Boyne for the salmon of knowledge, foretold to grant all wisdom to whoever eats it. His pupil Finn, roasting the fish, burns his thumb and sucks it, tasting the salmon first; Finegas gives him the whole fish, and Finn gains the wisdom of the nine hazels.",
+        "zh": "詩人菲尼加斯守候博因河七年，只待預言中食之可獲全智的智慧鮭魚；弟子芬恩烤魚時燙傷拇指，吮指之際先嚐其味，菲尼加斯遂將全魚相讓，芬恩因此得自海底靈井旁九株智慧榛樹的知識。"
+      },
+      "motifs": [
+        "wisdom-sacrifice",
+        "doom-foretold"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Coordinates placed on the River Boyne near Slane, where Finegas kept watch by the water for the salmon of knowledge. Lady Gregory's stylised 'Kiltartanese' English deliberately mirrors Irish oral idiom; the tale belongs to Fenian heroic lore but is classed as myth per the project scheme, presented as comparative scholarship."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "And then he said farewell to Crimall, and went on to learn poetry from Finegas, a poet that was living at the Boinn, for the poets thought it was always on the brink of water poetry was revealed to them. And he did not give him his own name, but he took the name of Deimne. Seven years, now, Finegas had stopped at the Boinn, watching the salmon, for it was in the prophecy that he would eat the salmon of knowledge that would come there, and that he would have all knowledge after. And when at the last the salmon of knowledge came, he brought it to where Finn was, and bade him to roast it, but he bade him not to eat any of it."
+        },
+        {
+          "id": "2",
+          "text": "And when Finn brought him the salmon after a while he said: \"Did you eat any of it at all, boy?\" \"I did not,\" said Finn; \"but I burned my thumb putting down a blister that rose on the skin, and after doing that, I put my thumb in my mouth.\" \"What is your name, boy?\" said Finegas. \"Deimne,\" said he. \"It is not, but it is Finn your name is, and it is to you and not to myself the salmon was given in the prophecy.\" With that he gave Finn the whole of the salmon, and from that time Finn had the knowledge that came from the nuts of the nine hazels of wisdom that grow beside the well that is below the sea."
+        }
+      ]
+    },
+    {
+      "id": "children-of-lir",
+      "title": {
+        "en": "The Children of Lir",
+        "zh": "里爾的孩子們"
+      },
+      "tradition": "celtic",
+      "category": "myth-religion",
+      "region": {
+        "en": "Killarney lakes region, Ireland",
+        "zh": "愛爾蘭基拉尼湖區"
+      },
+      "lat": 52.03,
+      "lon": -9.55,
+      "period": "Old Irish saga of the Tuatha De Danann cycle, retold in Joseph Jacobs' More Celtic Fairy Tales (1894)",
+      "source": {
+        "archive": "Project Gutenberg",
+        "work": "More Celtic Fairy Tales, ed. Joseph Jacobs (1894), eBook #34453 (Stephens' Irish Fairy Tales, 1920, was checked and does not include this tale)",
+        "url": "https://www.gutenberg.org/ebooks/34453.txt.utf-8"
+      },
+      "license": "Public domain",
+      "summary": {
+        "en": "Oifa (Aoife), consumed by jealousy of her sister's children, strikes the four children of Lir with a Druid's wand, transforming them into four perfectly white swans. Doomed to wander the lakes and streams of Erin for nine hundred years, they retain their speech and a plaintive music unmatched in the world.",
+        "zh": "因嫉恨而心生惡念的艾伊芙，以德魯伊魔杖將里爾的四名子女化為四隻純白天鵝，令其在愛爾蘭諸湖諸川漂流九百年；天鵝們保有人言，其哀婉歌聲世間無雙。"
+      },
+      "motifs": [
+        "transformation",
+        "jealousy"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Coordinates placed at Lough Leane, Killarney, the customary identification of the lake where Aoife's spell was cast. The 900-year swan exile is one of the 'three sorrows of story-telling' and involves harm to children by a foster-mother; framed here for comparative scholarship."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Then she would have raised a sword herself to kill and destroy the children, but her own womanhood and her weakness prevented her; so she drove the children of Lir into the lake to bathe, and they did as Oifa told them. As soon as they were upon the lake she struck them with a Druid's wand of spells and wizardry and put them into the forms of four beautiful, perfectly white swans, and she sang this song over them: \"Out with you upon the wild waves, children of the king! Henceforth your cries shall be with the flocks of birds.\""
+        },
+        {
+          "id": "2",
+          "text": "Oifa laughed and said: \"Never shall ye be free until the woman from the south be united to the man from the north, until Lairgnen of Connaught wed Deoch of Munster; nor shall any have power to bring you out of these forms. Nine hundred years shall you wander over the lakes and streams of Erin. This only I will grant unto you: that you retain your own speech, and there shall be no music in the world equal to yours, the plaintive music you shall sing.\""
+        }
+      ]
+    },
+    {
+      "id": "baba-yaga-kind-heart",
+      "title": {
+        "en": "Baba Yaga and the Little Girl with the Kind Heart",
+        "zh": "芭芭雅嘎與善良的小女孩"
+      },
+      "tradition": "slavic",
+      "category": "myth",
+      "region": {
+        "en": "Russia (forest village, central Russia)",
+        "zh": "俄羅斯（中央俄羅斯森林村莊）"
+      },
+      "lat": 56,
+      "lon": 37.6,
+      "period": "retold 1916 (Ransome)",
+      "source": {
+        "archive": "Project Gutenberg",
+        "work": "Old Peter's Russian Tales, told by Arthur Ransome (1916), tale 'Baba Yaga and the Little Girl with the Kind Heart', eBook #16981",
+        "url": "https://www.gutenberg.org/cache/epub/16981/pg16981.txt"
+      },
+      "license": "Public domain",
+      "summary": {
+        "en": "A kind stepdaughter is sent into the forest to the witch Baba Yaga. Kindness to the gate, dog, cat, and birch wins their help, and she escapes from the hut on hen's legs, flinging down a towel that becomes a river and a comb that becomes a deep forest to hold off Baba Yaga chasing in her flying mortar.",
+        "zh": "善良的女孩被狠心的繼母送到森林女巫芭芭雅嘎處，幸得行善相助脫逃：先後丟下化為大河的毛巾和化為密林的木梳，擋住駕石臼飛追而來的鐵齒女巫，平安返家。"
+      },
+      "motifs": [
+        "trickster",
+        "transformation",
+        "stepmother"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Coordinates point to central European Russia, the broadly named setting of Ransome's collection, since the tale's forest is symbolic. Ransome retells for children 'from memory' from Afanasyev-type published collections and frames the tale through the narrator Old Peter, so passages are verbatim from his 1916 telling; a European literary folktale with no sacred or restricted subject matter."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "\"And her hut?\" said Vanya. He had often heard about it before, but he wanted to hear about it again. \"She lives in a little hut which stands on hen's legs. Sometimes it faces the forest, sometimes it faces the path, and sometimes it walks solemnly about. But in some of the stories she lives in another kind of hut, with a railing of tall sticks, and a skull on each stick. And all night long fire glows in the skulls and fades as the dawn rises.\""
+        },
+        {
+          "id": "2",
+          "text": "Baba Yaga gnashed at them with her iron teeth. Then she jumped into the mortar and sat down. She drove it along with the pestle, and swept up her tracks with a besom, and flew off in pursuit of the little girl. The little girl ran and ran. She put her ear to the ground and listened. Bang, bang, bangety bang! she could hear Baba Yaga beating the mortar with the pestle. Baba Yaga was quite close. There she was, beating with the pestle and sweeping with the besom, coming along the road. As quickly as she could, the little girl took out the towel and threw it on the ground. And the towel grew bigger and bigger, and wetter and wetter, and there was a deep, broad river between Baba Yaga and the little girl."
+        }
+      ]
+    },
+    {
+      "id": "rasmussen-coming-of-men",
+      "title": {
+        "en": "The Coming of Men, a Long, Long While Ago",
+        "zh": "很久很久以前，人類的來臨"
+      },
+      "tradition": "inuit",
+      "category": "myth",
+      "region": {
+        "en": "East Greenland (Ammassalik district)",
+        "zh": "東格陵蘭（安馬沙利克一帶）"
+      },
+      "lat": 65.61,
+      "lon": -37.64,
+      "period": "collected 1921 (Rasmussen)",
+      "source": {
+        "archive": "Project Gutenberg",
+        "work": "Eskimo Folk-Tales, collected by Knud Rasmussen, ed. and trans. W. J. Alexander Worster (1921), eBook #28932",
+        "url": "https://www.gutenberg.org/cache/epub/28932/pg28932.txt"
+      },
+      "license": "Public domain",
+      "summary": {
+        "en": "The earth fell down from the sky long ago, and children came out of the willow bushes. Men who could not die became too many, so a mighty flood from the sea drowned many of them; then two old women agreed that light and death should both come to the world — and when men die they go up into the sky to become brightly shining things.",
+        "zh": "遠古時大地自天而降，孩童從柳叢中出生；不識死亡的人類過多，海上滔天洪水淹沒許多人。兩位老婦議定光與死並至，自此人死後升上天際，化為光芒閃亮的太陽、月亮和星辰。"
+      },
+      "motifs": [
+        "flood",
+        "creation-chaos",
+        "ascension"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "A creation tale, not tied to one place; coordinates mark Ammassalik, East Greenland, the district where parts of the volume's material was collected. No restricted (sacral/ceremonial) content was collected; the tale is a published folk narrative version from a 1921 public-domain collection, not ceremonial knowledge."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "A long, long time ago, when the earth was to be made, it fell down from the sky. Earth, hills and stones, all fell down from the sky, and thus the earth was made. And then, when the earth was made, came men. It is said that they came forth out of the earth. Little children came out of the earth. They came forth from among the willow bushes, all covered with willow leaves. And there they lay among the little bushes: lay and kicked, for they could not even crawl. And they got their food from the earth."
+        },
+        {
+          "id": "2",
+          "text": "But these men who did not know how to die, they grew to be too many, and crowded the earth. And then there came a mighty flood from the sea. Many were drowned, and men grew fewer. We can still see marks of that great flood, on the high hill-tops, where mussel shells may often be found. And now that men had begun to be fewer, two old women began to speak thus: \"Better to be without day, if thus we may be without death,\" said the one. \"No; let us have both light and death,\" said the other. And when the old woman had spoken these words, it was as she had wished. Light came, and death."
+        }
+      ]
+    },
+    {
+      "id": "pele-volcano",
+      "title": {
+        "en": "How Pele Came to Hawaii",
+        "zh": "火神佩蕾如何來到夏威夷"
+      },
+      "tradition": "polynesian",
+      "category": "myth",
+      "region": {
+        "en": "Hawaiian Islands (Kilauea, Hawaii Island)",
+        "zh": "夏威夷群島（夏威夷島基拉韋厄火山）"
+      },
+      "lat": 19.4069,
+      "lon": -155.267,
+      "period": "retold 1916 (Westervelt)",
+      "source": {
+        "archive": "Project Gutenberg",
+        "work": "Hawaiian Legends of Volcanoes, collected and retold by W. D. Westervelt (1916), eBook #66516",
+        "url": "https://www.gutenberg.org/cache/epub/66516/pg66516.txt"
+      },
+      "license": "Public domain",
+      "summary": {
+        "en": "The fire-goddess Pele and her family are driven across the ocean by the vengeance of her sea-goddess sister. Wherever Pele strikes her magic pa-oa, a fire-pit opens, but the sea drowns her fires on island after island until she settles in Kilauea; even after her body is broken in battle, her spirit lives on in the volcanic smoke of Mauna Loa.",
+        "zh": "火神佩蕾一家遭其姊、海神追復仇而流亡海上；佩蕾以魔鏟處處掘火坑，屢被海水撲熄，最後在基拉韋厄安身。即使肉身被毀，其神魂仍化作火山口的煙火，永為火山火神。"
+      },
+      "motifs": [
+        "theophany",
+        "transformation",
+        "flood",
+        "divine-retribution"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Coordinates mark the Kilauea fire-pit, the permanent home Pele digs and occupies at the end of her epic journey. Drawn from a 1916 published retelling by a non-Hawaiian collector; Westervelt's spellings and interpretations are of his era and do not represent present-day kumu teachings, and no restricted content was collected."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "When Pele came to the island Hawaii, she first stopped at a place called Ke-ahi-a-laka in the district of Puna. From this place she began her inland journey toward the mountains. As she passed on her way there grew within her an intense desire to go at once and see Ai-laau, the god to whom Kilauea belonged, and find a resting-place with him as the end of her journey. She came up, but Ai-laau was not in his house. Of a truth he had made himself thoroughly lost. He had vanished because he knew that this one coming toward him was Pele. He had seen her toiling down by the sea at Ke-ahi-a-laka. Trembling dread and heavy fear overpowered him. He ran away and was entirely lost. When Pele came to that pit she laid out the plan for her abiding home, beginning at once to dig up the foundations. She dug day and night and found that this place fulfilled all her desires. Therefore, she fastened herself tight to Hawaii for all time."
+        },
+        {
+          "id": "2",
+          "text": "The battle was fought by the two sisters hand to hand. The conflict lasted for a long time along the western slope of the mountain Hale-a-ka-la. Na-maka-o-ka-hai tore the body of Pele and broke her lava bones into great pieces which lie to this day along the seacoast of the district called Kahiki-nui. The masses of broken lava are called Na-iwi-o-Pele (The bones of Pele). Pele was thought to be dead and was sorely mourned by the remaining brothers and sisters. Na-maka-o-ka-hai went off toward Nuu-mea-lani rejoicing in the destruction of her hated enemy. By and by she looked back over the wide seas. The high mountains of the island Hawaii, snow covered, lay in the distance. But over the side of the mountain known as Mauna Loa she saw the uhane, the spirit form of Pele in clouds of volcanic smoke tinged red from the flames of raging fire-pits below. She passed on to Nuu-mea-lani, knowing that she could never again overcome the spirit of Pele, the goddess of fire."
+        }
+      ]
+    },
+    {
+      "id": "cole-tagalog-creation",
+      "title": {
+        "en": "The Creation Story (Tagalog)",
+        "zh": "創世故事（他加祿人）"
+      },
+      "tradition": "philippine",
+      "category": "myth",
+      "region": {
+        "en": "Luzon, Philippines (Tagalog lowlands)",
+        "zh": "菲律賓呂宋島（他加祿族低地）"
+      },
+      "lat": 14.6,
+      "lon": 120.98,
+      "period": "recorded 1916 (Cole)",
+      "source": {
+        "archive": "Project Gutenberg",
+        "work": "Philippine Folk Tales, compiled and annotated by Mabel Cook Cole (1916), eBook #12814",
+        "url": "https://www.gutenberg.org/cache/epub/12814/pg12814.txt"
+      },
+      "license": "Public domain",
+      "summary": {
+        "en": "In the beginning there was no land, only the sea and the sky with a kite flying between. The bird stirs up the sea until the sky showers islands upon it; then a bamboo born of the married breezes splits open to release the first man and woman, whose scattered, hiding children become the ancestors of the different peoples.",
+        "zh": "太初無陸地，只有海與天，其間飛著一隻鳶；海鳥攪動海水，天便降下許多島嶼鎮住大海。其後風與風成婚生出一竿竹子，竹中迸出世界第一對男女；其後裔因躲避父母責打而四散，從此分化為酋長、奴隸與各族之人。"
+      },
+      "motifs": [
+        "creation-chaos",
+        "miraculous-birth"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "A creation-dawn story of the Tagalog lowlands, pinned to Manila Bay on Luzon as the ethnic heartland. The verbatim text carries period racial labels from the 1916 edition, quoted unmodified for documentary accuracy; Cole's footnote marks that later tellers adapted the ending to name known peoples. Bracketed footnote markers [154]/[155] and one printer's typo ('stea' for 'sea', in the Gutenberg text) have been removed/corrected."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "When the world first began there was no land, but only the sea and the sky, and between them was a kite. One day the bird which had nowhere to light grew tired of flying about, so she stirred up the sea until it threw its waters against the sky. The sky, in order to restrain the sea, showered upon it many islands until it could no longer rise, but ran back and forth. Then the sky ordered the kite to light on one of the islands to build her nest, and to leave the sea and the sky in peace."
+        },
+        {
+          "id": "2",
+          "text": "Many children were born to the couple, and from them came all the different races of people. After a while the parents grew very tired of having so many idle and useless children around, and they wished to be rid of them, but they knew of no place to send them to. Time went on and the children became so numerous that the parents enjoyed no peace. One day, in desperation, the father seized a stick and began beating them on all sides. This so frightened the children that they fled in different directions, seeking hidden rooms in the house -- some concealed themselves in the walls, some ran outside, while others hid in the fireplace, and several fled to the sea. Now it happened that those who went into the hidden rooms of the house later became the chiefs of the Islands; and those who concealed themselves in the walls became slaves. Those who ran outside were free men; and those who hid in the fireplace became negroes; while those who fled to the sea were gone many years, and when their children came back they were the white people."
+        }
+      ]
+    }
+  ]
+}

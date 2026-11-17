@@ -1,0 +1,276 @@
+{
+  "texts": [
+    {
+      "id": "athena-birth",
+      "title": {
+        "en": "The Birth of Athena",
+        "zh": "雅典娜的誕生"
+      },
+      "tradition": "greek",
+      "category": "myth",
+      "region": {
+        "en": "Athens (Acropolis, Attica), Greece",
+        "zh": "雅典衛城（阿提卡，希臘）"
+      },
+      "lat": 37.9715,
+      "lon": 23.7257,
+      "period": "retold 1893, rev. 1921 (Guerber, Myths of Greece and Rome)",
+      "source": {
+        "archive": "Project Gutenberg",
+        "work": "H. A. Guerber, 'Myths of Greece and Rome' (1893/1921), eBook #39250",
+        "url": "https://www.gutenberg.org/cache/epub/39250/pg39250.txt"
+      },
+      "license": "Public domain",
+      "summary": {
+        "en": "Suffering agonizing head pains, Zeus orders his son Hephaestus to cleave his skull open, and Athena springs out full-grown and armed for war. Later she wins the naming of Athens over Poseidon by raising the olive tree.",
+        "zh": "宙斯頭痛難忍，命兒子赫菲斯托斯以斧劈開其顱骨，全副武裝的雅典娜躍然而出。其後她以橄欖樹擊敗波塞冬，贏得為雅典城命名的權利。"
+      },
+      "motifs": [
+        "miraculous-birth",
+        "theophany",
+        "sacred-place",
+        "divine-smith"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "All passages are condensed paraphrases of Guerber's retelling in the collector's own words. Myth plus aition: the birth explains Athena's cult, and the olive contest explains the city's name; coordinates point to the Acropolis of Athens. Source caveat: Guerber uses Latinized names (Jupiter, Vulcan, Minerva, Neptune) and the most popular version; the Homeric Hymn to Athena differs (birth by the river Triton, no axe)."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Even the deathless gods could suffer pain. Zeus was one day seized with a splitting headache so severe that he summoned the gods of Olympus and begged them for relief. Every remedy failed, even those proposed by Apollo, the divine physician. Unable to bear the torment longer, Zeus commanded his son Hephaestus — the lame smith-god — to split his skull open with an axe. The smith obeyed, and in that instant Athena (whom the Romans called Minerva) leaped out of her father's head, full-grown, glinting in shining armor, spear raised, singing a shout of victory. The assembled gods drew back in alarm, and a mighty trembling over land and sea bore witness that a great new divinity had arrived."
+        },
+        {
+          "id": "2",
+          "text": "The newborn goddess came to preside over wisdom, skill, and peaceful warfare. Soon afterward a Phoenician named Cecrops founded a fine city in Attica, and the gods contended for the honor of naming it. Eventually only Athena and Poseidon remained, so Zeus declared that whoever gave the city's people the most useful gift would win. Poseidon struck the rock and a splendid horse sprang out, drawing cries of amazement; the onlookers mocked Athena's quieter offering, an olive tree. But when she explained how wood, fruit, and leaves of the olive all serve humankind, and that it stands for peace and prosperity rather than war, the judges granted her the city. She named it Athens in her own honor, and the Athenians worshipped her as their guardian goddess, with the great Parthenon raised to her on their citadel."
+        }
+      ]
+    },
+    {
+      "id": "judgment-paris",
+      "title": {
+        "en": "The Judgment of Paris",
+        "zh": "帕里斯的裁判"
+      },
+      "tradition": "greek",
+      "category": "myth",
+      "region": {
+        "en": "Mount Ida near Troy, Anatolia",
+        "zh": "特洛伊附近的伊達山（安納托利亞）"
+      },
+      "lat": 39.7,
+      "lon": 26.66,
+      "period": "retold 1855 (Bulfinch, The Age of Fable, rev. E. E. Hale)",
+      "source": {
+        "archive": "Project Gutenberg",
+        "work": "Thomas Bulfinch, 'Bulfinch's Mythology: The Age of Fable' (1855), eBook #3327",
+        "url": "https://www.gutenberg.org/cache/epub/3327/pg3327.txt"
+      },
+      "license": "Public domain",
+      "summary": {
+        "en": "Left off the guest list at the wedding of Peleus and Thetis, the goddess of Discord tosses a golden apple inscribed for the most beautiful. Zeus hands judgment to the shepherd Paris, who chooses Venus — carrying Helen to Troy and sparking the Trojan War.",
+        "zh": "婚禮上未曾獲邀的爭執女神在佩琉斯與忒提斯的婚宴擲下金蘋果，宙斯把裁判交給牧人帕里斯；他選擇維納斯，並將海倫帶回特洛伊，遂爆發特洛伊戰爭。"
+      },
+      "motifs": [
+        "divine-marriage",
+        "prophetic-vision",
+        "sacred-kingship"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "All passages are condensed paraphrases of Bulfinch in the collector's own words. The Peleus–Thetis wedding anchors the divine-marriage motif; Bulfinch follows the Roman naming (Juno, Minerva, Venus) and his golden-apple telling is a 19th-century synthesis rather than Hesiod. Coordinates point to Mount Ida (39.70, 26.66) where the judgment occurs; the wedding itself is at Pelion in Thessaly, so one anchor covers the tale."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "At the wedding feast of Peleus and Thetis every god had been invited except Eris, the goddess of Discord. Furious at being excluded, she caused a golden apple to appear among the guests, engraved with the words \"for the most beautiful.\" Juno, Minerva, and Venus each claimed it as her prize, and Zeus, unwilling to be dragged into so delicate a dispute, sent the three goddesses to settle their own quarrel on Mount Ida near Troy, where a young shepherd named Paris tended his flocks. Each tried to bribe him: Juno offered power and dominion, Minerva glory in war, and Venus promised the most beautiful woman alive as his wife."
+        },
+        {
+          "id": "2",
+          "text": "Paris judged in Venus's favor and handed her the golden apple, gaining her favor but making perpetual enemies of the other two goddesses. Venus later guided Paris across the sea to Greece, where he was received hospitably by Menelaus, king of Sparta. Venus had destined Helen, Menelaus' wife and the most beautiful woman in the world, to belong to Paris; during the king's absence Paris persuaded her to flee with him to Troy. The Greek princes had sworn an oath to defend the marriage of whoever won Helen's hand, so when Menelaus called upon them they mounted a great expedition to reclaim her — the Trojan War of Homer's epics."
+        }
+      ]
+    },
+    {
+      "id": "cuchulain-boyhood",
+      "title": {
+        "en": "Cuchulain's Boyhood Deeds",
+        "zh": "庫丘林的少年事蹟"
+      },
+      "tradition": "celtic",
+      "category": "myth-religion",
+      "region": {
+        "en": "Emain Macha (Navan Fort), Ulster, Ireland",
+        "zh": "埃馬因馬哈（納文堡，阿爾斯特，愛爾蘭）"
+      },
+      "lat": 54.3446,
+      "lon": -6.6946,
+      "period": "retold 1909 (Eleanor Hull, Cuchulain the Hound of Ulster)",
+      "source": {
+        "archive": "Project Gutenberg",
+        "work": "Eleanor Hull, 'Cuchulain, the Hound of Ulster' (1909), ch. III-IV, eBook #52963",
+        "url": "https://www.gutenberg.org/cache/epub/52963/pg52963.txt"
+      },
+      "license": "Public domain",
+      "summary": {
+        "en": "The boy Setanta runs to Emain Macha at four years old, beats the whole boy-corps at their own game and withstands their assault, and takes the King's protection. Later he kills the smith Culain's giant guard-hound on his way to a feast and pledges himself as its replacement, earning the name Cuchulain, 'the Hound of Culain.'",
+        "zh": "四歲的塞坦塔獨自奔至埃馬因馬哈，曲棍技壓整支少年兵團，奮力擋下圍攻，由國王親自庇護。其後赴宴途中殺死鐵匠庫倫的巨犬，自願替補其職，從而得名庫丘林——「庫倫之犬」。"
+      },
+      "motifs": [
+        "culture-hero",
+        "transformation"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "All passages are condensed paraphrases of chapters III-IV of Hull's retelling in the collector's own words. Coordinates point to Emain Macha / Navan Fort (54.3446, -6.6946), the royal seat of Ulster. Source caveat: Hull (1909) is an English retelling that re-arranges and prunes the Irish originals (her own admission); the heroic-fury description ('hero-fury', hair crowned with light) follows her version of the twelfth-century texts."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Not yet past four years old, the boy heard tales of the boy-corps of King Conor at Emain Macha and could not be held back. Arming himself with a brass hurley and a ball of silver, a toy javelin and a toy spear, he ran the long road north-west over the Slieve Fuad Mountains, driving ball, hurley, and spears before him in an unbroken game. Without asking anyone's leave he dived into the midst of the hundred and fifty princes' sons, caught the ball between his legs, and drove it home to the goal. When the corps attacked the unknown intruder with their spears, hurleys and balls all at once, he parried every throw — and then his 'hero-fury' seized him: his hair rose and seemed crowned with fire, he grew taller in furious contortion, and, springing like a young lion, he stretched fifty of the boys on the ground before the King stopped him at the chessboard and granted the newcomer protection under his own name."
+        },
+        {
+          "id": "2",
+          "text": "Some time later the smith Culain prepared a feast for the King, warning that his grounds held no room for a great company. The King, lingering fascinated by the boy's games, left the child behind to finish a ball-game and forgot him; and Culain, told that the company was complete, loosed his great watch-dog, brought from Spain, with the strength of a hundred hounds, to guard the district. Setanta, following the chariot-trails of the royal party, came to the fort alone with club and ball. The mastiff charged open-jawed; the boy flung his ball down its throat, caught the choking beast's head in his hands, and dashed it against the pillars of the door until it lay dead. When the grieving smith lamented the loss of his defense and safeguard, the boy promised to rear a new whelp of that breed — and meanwhile to serve as Culain's own hound in defense of his cattle and house. \"Then your name shall no longer be Setanta,\" the assembly cried, \"but Cu-Chulain, the Hound of Culain!\""
+        }
+      ]
+    },
+    {
+      "id": "sigurd-dragon",
+      "title": {
+        "en": "Sigurd Slaying Fafnir",
+        "zh": "西格德屠龍"
+      },
+      "tradition": "norse",
+      "category": "myth-religion",
+      "region": {
+        "en": "Gnita Heath (Rhineland), Germanic North",
+        "zh": "格尼塔荒原（萊茵地區，北歐傳說地）"
+      },
+      "lat": 50.4,
+      "lon": 7.5,
+      "period": "Saga c. 12th-13th c.; tr. William Morris & Eirikr Magnusson (1888)",
+      "source": {
+        "archive": "Project Gutenberg",
+        "work": "The Story of the Volsungs (Volsunga Saga), tr. William Morris & Eirikr Magnusson (1888), ch. XIII-XVIII, eBook #1152",
+        "url": "https://www.gutenberg.org/cache/epub/1152/pg1152.txt"
+      },
+      "license": "Public domain",
+      "summary": {
+        "en": "The smith Regin tells Sigurd of the cursed gold of Andvari, which turned the smith's brother Fafnir into a great dragon brooding on its hoard. Sigurd slays the dragon from a hidden pit, roasts its heart, and tastes its blood — gaining the understanding of bird-speech, which warns him to slay his treacherous tutor.",
+        "zh": "鐵匠雷金向西格德講述安德瓦里的詛咒黃金——正是這份黃金使其兄法夫尼爾化為盤踞寶藏的巨龍。西格德於隱蔽坑洞中一劍誅龍，烤食其心、啖其血而通鳥語，鳥言警其誅殺反噬的親師，遂得寶藏。"
+      },
+      "motifs": [
+        "wisdom-sacrifice",
+        "transformation",
+        "dragon-slaying",
+        "patricide"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "All passages are condensed paraphrases of the Morris/Magnusson translation, chapters XIII-XVIII, in the collector's own words; the birds' counsel and Odin's disguise as an old bearded man follow the saga. Saga version, not the Poetic Edda; coordinates are a neutral spot in the Rhineland, the unnamed 'Gnita-heath' of the Germanic legend-cycle."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Regin, the smith who fostered him, told Sigurd the tale of his family: Hreidmar and his three sons — the smith Regin, the mighty Fafnir, and Otter the fisher — lived alongside the gods. When Odin, Hoenir, and Loki slew Otter in his beast-shape, Hreidmar demanded as ransom an otter-skin's weight of gold, forcing Odin to extort the whole hoard of the dwarf Andvari, whom Loki robbed of his magic ring. The dwarf cursed the gold, dooming it to destroy every owner; the doom soon fell, for Fafnir killed their father for the treasure and, transformed into a great dragon of malice and greed, brooded over his gold on the heath, while Regin nursed his claim on the next generation — the fostered hero Sigurd, son of Sigmund, owner of the reforged sword Gram."
+        },
+        {
+          "id": "2",
+          "text": "On the heath Sigurd saw the track of the worm marvellously great; Regin, shaking in fear, showed him where to dig. As Sigurd dug, an old bearded man appeared, advised him to make many pits for the running blood, then vanished — Odin in disguise. When the dragon crept down to drink, shaking the earth and snorting venom before him, Sigurd thrust his sword Gram up under Fafnir's left shoulder to the hilt. The dying worm lashed out with head and tail, smashing all that stood before him, and warned Sigurd: the same gold he had owned would be Sigurd's bane too. Regin bade the victor roast Fafnir's heart for him; tasting the dragon's blood on his finger, Sigurd Suddenly understood the speech of birds, and the wood-peckers' chatter warned him that Regin meant to beguile him — so he took the gold, struck off Regin's head, and rode on toward Hindfell, where the fire slept."
+        }
+      ]
+    },
+    {
+      "id": "yi-shoots-suns",
+      "title": {
+        "en": "Yi, the Divine Archer, and the False Suns",
+        "zh": "后羿射落偽日"
+      },
+      "tradition": "chinese",
+      "category": "myth",
+      "region": {
+        "en": "Tung-t'ing Lake region, China",
+        "zh": "洞庭湖一帶（中國）"
+      },
+      "lat": 29.28,
+      "lon": 112.98,
+      "period": "told of the reign of Yao (c. 2346 BCE) as dated by tradition; retold 1922 (Werner, Myths and Legends of China, ch. VI)",
+      "source": {
+        "archive": "Project Gutenberg",
+        "work": "E. T. C. Werner, 'Myths and Legends of China' (1922), ch. VI 'Myths of Thunder, Lightning, Wind, and Rain' — 'The Divine Archer', eBook #15250",
+        "url": "https://www.gutenberg.org/cache/epub/15250/pg15250.txt"
+      },
+      "license": "Public domain",
+      "summary": {
+        "en": "Under the emperor Yao, the marvel archer Ch'ih-chiang Tzu-yü is renamed Shên I, the Divine Archer, and sent against the calamities ravaging the land — storms, floods, a thousand-foot serpent and giant boars, and ten burning suns. He tames the wind-spirit Fei Lien, shoots down the nine suns born of fire-blowing birds, wins the water-spirit's sister Hêng O as wife, and is canonized as Pacifier of the Country.",
+        "zh": "帝堯在位時，異士赤將子輿獲賜名神羿，奉命討平肆虐大地之災禍——狂風、洪水、千尺巨蛇與大野豬，以及天上的十個毒日。他降服風神飛廉，射落妖鳥吹成之九個偽日，娶水神之妹嫦娥，受封「定國侯」。"
+      },
+      "motifs": [
+        "sun-capture",
+        "culture-hero",
+        "quest-immortality"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "All passages are condensed paraphrases of Werner's chapter VI in the collector's own words. Werner (1922) renders a composite Chinese legend-cycle drawn from the Feng shên yen i and related works; in his version the archer (Shên I / Yi) shoots down nine suns created by fire-blowing birds rather than nine of ten true suns, and the same cycle includes his marriage to Hêng O and the pill of immortality — motif 'sun-capture' hence covers the ten-sun excess and 'quest-immortality' the immortality-pill episode in this culture-hero cycle. Coordinates mark the Tung-t'ing Lake region, tied to the serpent episode."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "In the twelfth year of the reign of the Emperor Yao — dated by tradition to 2346 BCE — the emperor met in the streets of Huai-yang a man bearing a bow bound with red cloth. He was Ch'ih-chiang Tzu-yü, who claimed to be a skilful archer able to fly on the wings of the wind. To test him, Yao ordered an arrow shot at a pine on a neighbouring mountain: an arrow transfixed the tree, and the bowman soared up the current of air to fetch it back. Named Shên I, 'the Divine Archer,' and attached to the imperial suite, he helped face the calamities then laying waste the land: ten suns burnt up the crops, storms uprooted trees and overturned houses, floods covered the country, a serpent a thousand feet long devoured people near the Tung-t'ing Lake, and boars of enormous size ravaged the east."
+        },
+        {
+          "id": "2",
+          "text": "Studying the storms from Mount Ch'ing Ch'iu, Shên I found they poured out of the sack of Fei Lien, Spirit of the Wind, whose blows he mastered — Fei Lien sued for mercy and swore friendship, and the tempests ceased. Then, discovering nine extraordinary birds on three neighbouring peaks of the Hsi Ho blowing out fire that made nine new suns in the sky, he shot nine arrows in succession, pierced the birds, and watched the false suns dissolve into red clouds; the nine arrows stood fast in nine red stones on the mountains. He slew the Tung-t'ing serpent with an arrow in its left eye, trapped and killed the monstrous boars, married Hêng O the sister of Ho Po the water-spirit, and for these exploits the emperor Yao canonized him with the title Marquis Pacifier of the Country."
+        }
+      ]
+    },
+    {
+      "id": "shiva-parvati-wives",
+      "title": {
+        "en": "The Wives of Shiva: Sati, Uma, and Parvati",
+        "zh": "濕婆之妻：薩蒂、烏瑪與帕爾瓦蒂"
+      },
+      "tradition": "hindu",
+      "category": "myth-religion",
+      "region": {
+        "en": "Mount Kailasa, Himalayas; Daksha's sacrifice-house, the Ganges plain",
+        "zh": "凱拉薩山（喜馬拉雅）；祭祀罪火場（恆河平原）"
+      },
+      "lat": 31.07,
+      "lon": 81.31,
+      "period": "Puranic synthesis, c. 500-1000 CE; retold 1913 (Donald A. Mackenzie, Indian Myth and Legend, ch. VIII)",
+      "source": {
+        "archive": "Project Gutenberg",
+        "work": "Donald A. Mackenzie, 'Indian Myth and Legend' (1913), ch. VIII 'Divinities of the Epic Period', eBook #47228",
+        "url": "https://www.gutenberg.org/cache/epub/47228/pg47228.txt"
+      },
+      "license": "Public domain",
+      "summary": {
+        "en": "Shiva's brides reflect his many aspects: Sati, the ideal of wifely devotion, dies on her father's sacrificial fire when her husband is slighted; reborn as Uma and as Parvati, she wins Shiva again and bears him Ganesa and Kartikeya. The love god Kamadeva, rousing the widowed god, is burned to ashes by the flame of Shiva's third eye.",
+        "zh": "濕婆的伴侶映照其多面：薩蒂在父親祭祀之際受辱殉火，死後化身烏瑪與帕爾瓦蒂，再度贏得濕婆，生下智慧神象鼻與戰神韋馱。試以愛神箭激醒鰥居之神的迦摩天，遂被濕婆第三眼之火燒成灰燼。"
+      },
+      "motifs": [
+        "divine-marriage",
+        "resurrection",
+        "transformation",
+        "reincarnation"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "All passages are condensed paraphrases of Mackenzie's chapter VIII in the collector's own words. A Puranic synthesis rather than one scripture; Mackenzie (1913) serves as a secondary PD compilation and his naming follows period conventions (Sivá, Parvati, Himavat omitted). Coordinates mark Mount Kailasa, Shiva's dwelling per Mackenzie, a mythic Himalayan site. The widows' self-immolation (sati) is reported as a named historical custom in the source and treated here as mythic-historical, not endorsed."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Shiva's complex character is mirrored in the many forms his bride assumes. As Sati she is the ideal of the devoted wife: when her father, the sage Daksha, slighted her spouse at the sacrifice, the goddess cast herself onto the sacrificial fire — and the widows who later died on their husbands' funeral pyres were called Sati in imitation of the faithful goddess. Sati, however, was reborn as Uma, 'Light,' the impersonation of divine wisdom; as Amvika she was Rudra's sister and counterpart; and as Parvati, another form of the same goddess, she endured Shiva's taunt about her dark skin, retired to austerities, and so regained a golden complexion. One Varaha Purana myth makes the three goddess-forms — white Saraswati, red Lakshmi, and black Parvati — originally a single goddess, divided into shapes representing Past, Present, and Future."
+        },
+        {
+          "id": "2",
+          "text": "Two more tales wreathe the divine marriage. After Sati's death the sorrowing Shiva was wounded by Kamadeva, the love god — son of Vishnu and Lakshmi, who shoots flowery arrows and whose wife Rati symbolizes Spring; a flame darted from Shiva's third eye burned Kamadeva to ashes. Of the god's own children, Ganesa, the four-armed elephant-headed god of wisdom and good fortune, invoked at the beginning of books, houses and journeys, is a son of Shiva and Parvati — a Purana tells how the cursed gaze of Saturn decapitated the infant, and Vishnu, flying on Garuda, replaced the head with that of Indra's elephant; the son Kartikeya is the celestial general and slayer of demons."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,193 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "narrative-record.schema.json",
+  "title": "Motif Atlas deep narrative record (base corpus fields + fieldwork extension)",
+  "description": "Superset of data/template/corpus.template.json. A record is 'deep' iff it carries a 'narrative' object; deep records are additionally validated by scripts/04_qa_narratives.py. Base fields are validated by scripts/01_build_corpus.py.",
+  "type": "object",
+  "required": ["id", "title", "tradition", "category", "region", "lat", "lon", "period", "source", "summary", "motifs", "sensitivity", "passages"],
+  "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$"
+    },
+    "title": {
+      "type": "object",
+      "properties": {
+        "en": { "type": "string", "minLength": 1 },
+        "zh": { "type": "string" }
+      },
+      "required": ["en"]
+    },
+    "tradition": { "type": "string", "minLength": 2 },
+    "category": { "enum": ["myth", "religious", "folk"] },
+    "region": {
+      "type": "object",
+      "properties": {
+        "en": { "type": "string" },
+        "zh": { "type": "string" }
+      }
+    },
+    "lat": { "type": "number", "minimum": -90, "maximum": 90 },
+    "lon": { "type": "number", "minimum": -180, "maximum": 180 },
+    "period": { "type": "string", "minLength": 3 },
+    "source": {
+      "type": "object",
+      "properties": {
+        "archive": { "type": "string" },
+        "work": { "type": "string" },
+        "url": { "type": "string", "format": "uri" }
+      }
+    },
+    "license": { "type": "string" },
+    "summary": {
+      "type": "object",
+      "properties": {
+        "en": { "type": "string" },
+        "zh": { "type": "string" }
+      }
+    },
+    "motifs": {
+      "type": "array",
+      "items": { "type": "string" },
+      "description": "Ids must exist in src/data/motifs.json (QA warns on unknown ids)."
+    },
+    "sensitivity": {
+      "type": "object",
+      "properties": {
+        "restricted": { "type": "boolean" },
+        "note": { "type": "string" }
+      }
+    },
+    "passages": {
+      "type": "array",
+      "minItems": 1,
+      "maxItems": 4,
+      "items": {
+        "type": "object",
+        "properties": {
+          "id": { "type": "string" },
+          "text": { "type": "string", "minLength": 20 },
+          "note": {
+            "type": "string",
+            "description": "MANDATORY when the passage is a condensed paraphrase rather than a verbatim public-domain quotation."
+          }
+        }
+      }
+    },
+
+    "language": {
+      "type": "string",
+      "description": "Language of the primary source, e.g. 'Standard Babylonian Akkadian'."
+    },
+    "canonical_translation": {
+      "type": "string",
+      "description": "The translation relied on for the narrative text, with translator + year."
+    },
+    "narrative": {
+      "type": "object",
+      "properties": {
+        "en": {
+          "type": "string",
+          "minLength": 50,
+          "description": "Complete narrative summary (target 400-2500 words) with beginning, middle, end, principal characters, key events, outcome, and cultural/ritual function. <50 words is flagged as a stub by QA."
+        }
+      },
+      "required": ["en"]
+    },
+    "functions": {
+      "type": "array",
+      "items": { "type": "string" },
+      "description": "Cultural / ritual functions of the narrative."
+    },
+    "variants": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "required": ["name", "summary"],
+        "properties": {
+          "name": { "type": "string" },
+          "text_tradition": { "type": "string" },
+          "summary": { "type": "string" },
+          "cross_ref": {
+            "type": "string",
+            "description": "Record id of a related variant (e.g. 'hawaiian-maui') or 'none'."
+          }
+        }
+      }
+    },
+    "primary_sources": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "required": ["work", "citation"],
+        "properties": {
+          "work": { "type": "string" },
+          "citation": {
+            "type": "string",
+            "description": "Edition, translator/editor, year, book/canto/lines/folio/verse, manuscript siglum where known."
+          },
+          "language": { "type": "string" }
+        }
+      }
+    },
+    "secondary_sources": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "required": ["work", "citation"],
+        "properties": {
+          "work": { "type": "string" },
+          "citation": { "type": "string", "description": "Author, year, publisher/journal." }
+        }
+      }
+    },
+    "source_urls": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "required": ["url", "accessed"],
+        "properties": {
+          "url": { "type": "string", "format": "uri" },
+          "description": { "type": "string" },
+          "accessed": { "type": "string", "pattern": "^\\d{4}-\\d{2}-\\d{2}$" }
+        }
+      }
+    },
+    "sensitivity_flag": {
+      "enum": ["none", "living_tradition_low", "living_tradition_high", "indigenous_oral_consent", "colonial_era_collection_caution"],
+      "description": "living_tradition_low/high for living faiths; indigenous_oral_consent for oral traditions requiring community consent; colonial_era_collection_caution when key printed sources are colonial-era ethnography."
+    },
+    "sensitivity_guidance": {
+      "type": "string",
+      "description": "Short community-protocol guidance (required when sensitivity_flag != none)."
+    },
+    "provenance": {
+      "type": "object",
+      "required": ["record_status"],
+      "properties": {
+        "record_status": {
+          "enum": ["complete", "reconstructed", "stub"],
+          "description": "reconstructed = narrative depends on scholarly restoration of fragmentary sources (must carry reconstructed_segments)."
+        },
+        "compiled": { "type": "string" },
+        "compiled_by": { "type": "string" },
+        "review_status": { "type": "string" },
+        "reconstructed_segments": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": ["segment", "restored_in"],
+            "properties": {
+              "segment": { "type": "string" },
+              "restored_in": { "type": "string", "description": "Critical edition or scholar who restored the segment." }
+            }
+          }
+        }
+      }
+    }
+  }
+}

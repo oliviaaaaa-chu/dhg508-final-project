@@ -1,0 +1,400 @@
+{
+  "_comment": "Polynesian expansion batch 153 - Grey, Polynesian Mythology (1855), ch. 6 'The Murder of Tuwhakararo and its Revenge' (pp. 99-107), ch. 7 'The Adventures of Rata' (108-122 incl. appendix variant of Whakatau's destruction of Te Tihi-o-Manono). Topics 3 heroic tales, 5 ritual/etiological, 8 trickster. All passages are labeled paraphrase.",
+  "texts": [
+    {
+      "id": "polynesian-tuwhakararo-murder",
+      "title": {
+        "en": "The Murder of Tuwhakararo",
+        "zh": "圖瓦卡拉羅遇害"
+      },
+      "tradition": "polynesian",
+      "category": "myth",
+      "region": {
+        "en": "Te Uru-o-Manono, house of the Ati-Hapai (symbolic pin)",
+        "zh": "阿蒂哈派部落大屋特烏魯奧馬諾諾（象徵性定位）"
+      },
+      "lat": -37.02,
+      "lon": 174.94,
+      "period": "Oral tradition; recorded 1855 (Grey, Polynesian Mythology)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "George Grey, Polynesian Mythology and Ancient Traditional History of the New Zealand Race, ch. 6, The Murder of Tuwhakararo (London 1855)",
+        "url": "https://archive.org/details/polynesianmythol00greyuoft"
+      },
+      "license": "Public domain (Grey 1855)",
+      "summary": {
+        "en": "Visiting his married sister Mairatea among the Ati-Hapai, the wrestler Tuwhakararo throws a young rival twice amid general laughter. While dressing, sand is thrown in his eyes and he is struck dead; the tribe devours his body and hangs his bones under the ridge-pole of their great house. There the bones rattle by night crying 'Tauparoro', and his sister mocks them - until the news reaches his brother Whakatau-potiki, who resolves on revenge.",
+        "zh": "圖瓦卡拉羅前往探望嫁至阿蒂哈派的姐姐瑪伊拉泰亞，角力場上連勝年輕對手兩回，惹得全場哄笑。對手趁他穿衣以沙撒其眼，趁亂擊殺；部落分食其屍，將其骨懸於大屋脊樑之下。夜半骸骨自相碰擊，聲如『陶帕羅羅』；姐姐斥其白響——然凶信終傳至其弟瓦卡陶波蒂基耳中，復仇之志遂定。"
+      },
+      "motifs": [
+        "taboo-transgression",
+        "boon-curse"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Colonial-era collection; cannibal-vengeance episode reproduced as paraphrase only."
+      },
+      "persons": [],
+      "passages": [
+        {
+          "id": "1",
+          "text": "Tuhuruhuru, the son of Rupe's sister, married Apakura, and she bore a son named Tuwhakararo, and afterwards a daughter named Mairatea. When Mairatea grew up she was married to the son of a chief named Poporokewa, chief of the Ati-Hapai tribe, and went to his home; but Tuwhakararo remained at his own village, and after a time longed to see his sister and went to pay her a visit, arriving at a very large house belonging to the tribe Poporokewa, named Uru-o-Manono, where all the family of Poporokewa lived.",
+          "note": "Paraphrase of George Grey, Polynesian Mythology, ch. 6 (1855); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Some of the young men of the Ati-Hapai tribe asked him to wrestle, and the competitor who came forward was the sweetheart of his brother-in-law's young sister. Tuwhakararo laid hold of the young man and soon gave him a severe fall; they stood up again and he gave him another severe fall, and all the young people burst out laughing at the youth, who sat on the ground looking foolish and sulky. Tuwhakararo sat down too and began to put on his clothes again; while he was putting his head through his cloak, the young man he had thrown ran up and threw a handful of sand in his eyes. Wild with pain he could see nothing and began rubbing his eyes; the young man then struck him on the head and killed him. The people of the Ati-Hapai ran in upon him, cut his body up, devoured it, and hung his bones in the roof under the ridge-pole of their house Te Uru-o-Manono.",
+          "note": "Paraphrase of George Grey, Polynesian Mythology, ch. 6 (1855); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "Whilst they were hung up there the bones rattled together, and his sister heard them, and it seemed to her as if they made a sound like 'Tauparoro, Tauparoro'; and she listened again, and again heard the words. And the sister of Tuwhakararo, looking up to the bones, said, 'You rattle in vain, O bones of him who was devoured by the Ati-Hapai tribe, for who is there to lament over him or to avenge his death?' At last the news of the sad event reached the ears of his brother Whakatau-potiki and of his other brothers; they were grieved and pained, and Whakatau-potiki adopted a firm resolution to go and avenge Tuwhakararo's death.",
+          "note": "Paraphrase of George Grey, Polynesian Mythology, ch. 6 (1855); not verbatim."
+        }
+      ]
+    },
+    {
+      "id": "polynesian-whakatau-burns-uru-o-manono",
+      "title": {
+        "en": "Whakatau-potiki Burns Uru-o-Manono",
+        "zh": "瓦卡陶火焚烏魯奧馬諾諾"
+      },
+      "tradition": "polynesian",
+      "category": "myth",
+      "region": {
+        "en": "Thousand-canoe armada, Hawaiki seas (symbolic pin)",
+        "zh": "哈瓦基海域千舟艦隊（象徵性定位）"
+      },
+      "lat": -21.23,
+      "lon": -159.78,
+      "period": "Oral tradition; recorded 1855 (Grey, Polynesian Mythology)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "George Grey, Polynesian Mythology and Ancient Traditional History of the New Zealand Race, ch. 6 (London 1855)",
+        "url": "https://archive.org/details/polynesianmythol00greyuoft"
+      },
+      "license": "Public domain (Grey 1855)",
+      "summary": {
+        "en": "In a thousand named canoes Whakatau-potiki sails to avenge his brother. At night his own band pulls the plugs from every other canoe so that a thousand crews sink and turn back, and his seven warriors alone reach Uru-o-Manono. Disguised with cropped hair and charcoal, he laughs with the crowd until Poporokewa laughs - revealing his broken tooth - then drops a noose over his head, hauls him out, and fires the house with all within it.",
+        "zh": "瓦卡陶率千艘戰舟渡海復仇。夜色中他命親隨拔去其餘各舟之排水木塞，千舟盡沉、千隊敗退，唯其七勇士抵達烏魯奧馬諾諾。他剪短頭髮、以炭塗面混入屋中；待波波羅基瓦大笑露出缺齒，他趁機套索於其頸，將其拽出，隨即縱火焚屋，連人帶屋化為灰燼。"
+      },
+      "motifs": [
+        "trickster",
+        "foundational-legend"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Colonial-era collection."
+      },
+      "persons": [],
+      "passages": [
+        {
+          "id": "1",
+          "text": "The rest of the tribe agreed in the purpose of revenge, and they began without delay to build canoes, naming some of them the Whiritoa, the Tapatapahukarere, the Toroa-i-taipakihi, the Haki-ere, and the Mahunu-awatea. When they had finished lashing on the top-boards, their mother Apakura with all her female attendants began to beat and prepare fern-root for the warriors as provisions, repeating a lament for the young man as they worked, to rouse the feelings of the war party. Lo, the army of Whakatau-potiki embarked in a thousand canoes and floated out into the open sea.",
+          "note": "Paraphrase of George Grey, Polynesian Mythology, ch. 6 (1855); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "At a landing on the route the army had a review, column after column charging with fierce shouts, and Whakatau's own chosen band leaping a creek in good order while others failed. Then Whakatau made a speech: they would not finish the voyage until dark night, lest they should be seen and fail in surprising the enemy. Just as it was dark he ordered his chosen band to go and pull the plugs out of all the canoes but their own, and they did so to the whole thousand. The canoes launched in the darkness one after another presently began to sink, one after the other, and the crews were compelled again to seek the shore; meanwhile the chosen band of Whakatau urged on their canoes, leaving the others behind.",
+          "note": "Paraphrase of George Grey, Polynesian Mythology, ch. 6 (1855); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "Drawing near the great house called the Uru-o-Manono they landed; the warriors silently surrounded the house in ranks, guarding each of its eight doors with a band of men. Whakatau caught a man named Hioi outside the house and questioned him: where was his sister; where did Poporokewa sleep - at the foot of the large pillar that supports the ridge-pole; by what mark might he know him - one of his teeth was broken. Then Whakatau took the fellow and cut out his tongue, and made him talk; still he spoke quite distinctly, so he cut the tongue off quite close to the root and sent him in to call out Whakatau's sister.",
+          "note": "Paraphrase of George Grey, Polynesian Mythology, ch. 6 (1855); not verbatim."
+        },
+        {
+          "id": "4",
+          "text": "The sister of Whakatau guessed in a moment this was some device of her brother's, went out to him, and they wept together. She warned him that many of the Ati-Hapai had seen him before and would know him, so she cut his hair quite close and rubbed his face all over with charcoal. When they entered, the people cried 'Here's a stranger, make up the fire', blew it up brightly, came to look at Whakatau-potiki, broke out laughing - 'What a black-looking fellow he is!' - and even Poporokewa burst out laughing at his appearance. Whakatau at once recognised him by his broken tooth. He had taken a stout rope with him, coiled in his hand with a noose at one end; as soon as he recognised Poporokewa he slily dropped the noose over his head and hauled it tight round his neck, then, lengthening the rope as he went, he and his sister rushed out, and he climbed up on the roof repeating a powerful incantation. Each warrior sprang up from concealment, set fire to the house in several places at once, and slaughtered all who tried to escape. Thus they burnt the Uru-o-Manono and all who were in it, and returned with joyful news to Apakura, the mother of Tuwhakararo.",
+          "note": "Paraphrase of George Grey, Polynesian Mythology, ch. 6 (1855); not verbatim."
+        }
+      ]
+    },
+    {
+      "id": "polynesian-whakatau-apron-born",
+      "title": {
+        "en": "Whakatau, Formed from the Cast-off Apron",
+        "zh": "由棄裙所化的瓦卡陶"
+      },
+      "tradition": "polynesian",
+      "category": "myth",
+      "region": {
+        "en": "Sea-shore of Apakura, Hawaiki (symbolic pin)",
+        "zh": "哈瓦基阿帕庫拉海濱（象徵性定位）"
+      },
+      "lat": -21.1,
+      "lon": -159.9,
+      "period": "Oral tradition; recorded 1855 (Grey, Polynesian Mythology)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "George Grey, Polynesian Mythology and Ancient Traditional History of the New Zealand Race, ch. 7, The Adventures of Rata (London 1855)",
+        "url": "https://archive.org/details/polynesianmythol00greyuoft"
+      },
+      "license": "Public domain (Grey 1855)",
+      "summary": {
+        "en": "Rata's son Tuwhakararo weds Apakura, who bears first Whakatau - not born as mortals are, but formed by the god Rongotakawiu from the little apron Apakura threw into the ocean, who then taught him every kind of enchantment. As a boy Whakatau flies kites while running about at the bottom of the waters; when watchers try to seize him he slips back under the sea, and only his mother Apakura can catch and hold him. He becomes a renowned hero, hiding nothing from his magic knowledge.",
+        "zh": "圖瓦卡拉羅娶阿帕庫拉，生子瓦卡陶——他非同凡人而生：一日阿帕庫拉將所穿小圍裙擲入海中，神祇龍戈塔卡維烏拾起塑之賦形，瓦卡陶由此得生，並習得各種法術。幼年最愛放風箏，卻一邊執線一邊在海底奔跑；岸上之人屢屢捉拿，他都滑回水中，唯母親阿帕庫拉方能擒住。長大後他成了名震一方的英雄。"
+      },
+      "motifs": [
+        "miraculous-birth",
+        "culture-hero",
+        "clay-humans"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Object-born hero parallel to the 'humans molded' cluster; tagging interpretive."
+      },
+      "persons": [],
+      "passages": [
+        {
+          "id": "1",
+          "text": "Rata took Tongarautawhiri as one of his wives, and she bore him a son whom he named Tuwhakararo; when this son came to man's estate he took Apakura as one of his wives, and from her sprang a son named Whakatau. He was not born in the manner that mortals are, but came into being in this way: one day Apakura went down upon the sea-coast and took off the little apron she wore in front as a covering and threw it into the ocean, and a god named Rongotakawiu took it and shaped it and gave it form and being, and Whakatau sprang into life, and his ancestor Rongotakawiu taught him magic and the use of enchantments of every kind.",
+          "note": "Paraphrase of George Grey, Polynesian Mythology, ch. 7 (1855); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "When Whakatau was a little lad, his favourite amusement was flying kites. Mortals then often observed kites flying in the air and could see nothing else, for Whakatau was running about at the bottom of the waters still holding the end of the string. One day he stole up out of the water by degrees and came upon the shore, when his whole body was plainly seen by some people near, and they ran as fast as they could to catch him; he slipped back again into the water and continued flying his kite as before. The watchers sat down upon the bank to wait, and when he came up out of the water again they all ran at full speed to seize him.",
+          "note": "Paraphrase of George Grey, Polynesian Mythology, ch. 7 (1855); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "Whakatau cried out to them, 'You had better go and bring Apakura here; she is the only person who can catch me and hold me fast.' One of them ran to fetch her, and as soon as she saw little Whakatau she called out, 'Here I am, I am Apakura.' Whakatau stopped running, she caught hold of him with her hands and questioned him, 'Whom do you belong to?' And he answered, 'I am your child; you one day threw the little apron which covered you on the sands of the sea, and the god Rongotakawiu, my ancestor, formed me from it, and I grew up a human being, and he named me Whakatau.' From that time he left the water and lived on shore; nothing was concealed from him, and when he grew to be a man he became a renowned hero.",
+          "note": "Paraphrase of George Grey, Polynesian Mythology, ch. 7 (1855); not verbatim."
+        }
+      ]
+    },
+    {
+      "id": "polynesian-rata-slays-matuku",
+      "title": {
+        "en": "Rata Ambushes Matuku at the Fountains",
+        "zh": "拉塔泉邊伏殺馬圖庫"
+      },
+      "tradition": "polynesian",
+      "category": "myth",
+      "region": {
+        "en": "Two fountains of Matuku-takotako (symbolic pin)",
+        "zh": "馬圖庫塔科塔科之雙泉（象徵性定位）"
+      },
+      "lat": -21.05,
+      "lon": -159.85,
+      "period": "Oral tradition; recorded 1855 (Grey, Polynesian Mythology)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "George Grey, Polynesian Mythology and Ancient Traditional History of the New Zealand Race, ch. 7, The Adventures of Rata (London 1855)",
+        "url": "https://archive.org/details/polynesianmythol00greyuoft"
+      },
+      "license": "Public domain (Grey 1855)",
+      "summary": {
+        "en": "Rata, son of Wahieroa, sets out to avenge his father and finds a keeper who serves the man-eater Matuku-takotako - a being who rises from the earth at every new moon to devour men. The keeper warns that Matuku cannot be killed at the mirror-fountain (where a shadow would betray the ambusher), only at the fountain where he combs and washes his hair. At the next new moon Rata hides at the hair-washing fountain, and as Matuku lifts his streaming head from the water, seizes him by the hair and slays him.",
+        "zh": "拉塔——瓦希耶羅亞之子——踏上為父復仇之途。守門人告知：吃人的馬圖庫每逢新月自地底鑽出；其不可在照影之泉旁殺之——影子會暴露埋伏者；唯有在其梳理洗滌亂髮之泉邊方可下手。新月初升之夜，拉塔藏於洗髮泉邊；馬圖庫跪地解開髮辮，將頭探入清泉，拉塔在其抬頭出水之際一手抓髮、一手揮擊，終於手刃仇敵。"
+      },
+      "motifs": [
+        "quest-immortality",
+        "descent-underworld",
+        "trickster",
+        "betrayal",
+        "mirror"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Colonial-era collection."
+      },
+      "persons": [],
+      "passages": [
+        {
+          "id": "1",
+          "text": "Before Tawhaki ascended up into the heavens a son named Wahieroa had been born to him by his first wife. As soon as Wahieroa grew to man's estate he took Kura for a wife, and she bore him a son whom they called Rata. Wahieroa was slain treacherously by a chief named Matukutakotako, but his son Rata was born some time before his death. It therefore became his duty to revenge the death of his father, and having grown up, he gave his dependants orders and started on the journey, saying he was about to go in search of the man who slew his father.",
+          "note": "Paraphrase of George Grey, Polynesian Mythology, ch. 7 (1855); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "At the entrance to the place of Matukutakotako he found a man left in charge sitting at the entrance to the court-yard, and asked where the man was who killed his father. The keeper answered that he lived beneath in the earth there, and that he himself was left to call to him and warn him when the new moon appeared; at that season Matuku rises and comes forth upon the earth and devours men as his food. Rata asked how he would know when the proper time came, and the keeper answered, 'I call aloud to him.' The new moon would be in two nights hence; Rata was to return to his village and come again on the morning of the second day.",
+          "note": "Paraphrase of George Grey, Polynesian Mythology, ch. 7 (1855); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "The keeper showed him the two fountains of clear water. 'The spot we stand on is the place where Matuku rises up from the earth; yonder fountain is the one in which he combs and washes his dishevelled hair, but this fountain is the one he uses to reflect his face in whilst he dresses it.",
+          "note": "Paraphrase of George Grey, Polynesian Mythology, ch. 7 (1855); not verbatim."
+        },
+        {
+          "id": "4",
+          "text": "You cannot kill him whilst he is at the fountain he uses to reflect his face in, because your shadow would also be reflected in it and he would see it; but at the fountain in which he washes his hair, you may smite and slay him.' That evening the moon became visible; the keeper shouted aloud, 'Ho, the new moon is visible - a moon two days old!' Matuku heard him, seized his two-handed wooden sword, rose up from the earth and went straight to his two fountains; he laid the sword down at the mirror-fountain, knelt beside it, loosened the strings that bound his long locks, shook out his dishevelled hair and plunged his head into the cool clear waters. Rata crept from his hiding, rapidly moved up and stood behind him; and as Matuku-takotako raised his head from the water, Rata with one hand seized him by the hair, while with the other he smote and slew him - thus avenging the death of his father Wahieroa.",
+          "note": "Paraphrase of George Grey, Polynesian Mythology, ch. 7 (1855); not verbatim."
+        }
+      ]
+    },
+    {
+      "id": "polynesian-rata-enchanted-tree",
+      "title": {
+        "en": "Rata and the Offspring of Hakuturi",
+        "zh": "拉塔與哈庫圖里的子嗣"
+      },
+      "tradition": "polynesian",
+      "category": "myth",
+      "region": {
+        "en": "Forest of Tane, Hawaiki (symbolic pin)",
+        "zh": "哈瓦基塔內之林（象徵性定位）"
+      },
+      "lat": -21.15,
+      "lon": -159.75,
+      "period": "Oral tradition; recorded 1855 (Grey, Polynesian Mythology)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "George Grey, Polynesian Mythology and Ancient Traditional History of the New Zealand Race, ch. 7, The Adventures of Rata (London 1855)",
+        "url": "https://archive.org/details/polynesianmythol00greyuoft"
+      },
+      "license": "Public domain (Grey 1855)",
+      "summary": {
+        "en": "Seeking a canoe to fetch his father's bones, Rata fells a tall straight tree without first asking the forest's leave. Overnight the offspring of Hakuturi - the multitudes of insects, birds and spirits of the forest - replace every chip and shaving, singing their incantation: 'Fly together, chips and shavings; stand upright again, O tree!' Twice the tree rises; on the third day Rata hides and seizes them, is rebuked - 'Who gave you authority to fell the forest god?' - and, ashamed, returns home while the children of Tane complete his canoe for him in a moment.",
+        "zh": "拉塔欲造獨木舟赴遠方取回父親遺骨，未經森林首肯便砍倒一棵高直大樹。夜裡，哈庫圖里的子嗣——林中無數蟲鳥與精靈——將每一片木屑木刨一一復位，齊聲誦咒：『木屑木刨，飛回原處，緊緊相連；大樹啊，重新挺立！』樹兩度復原；第三日拉塔藏身灌木窺伺、將其一舉擒獲，眾靈責問：『誰許你砍倒森林之神？』拉塔羞愧而歸；塔內的子嗣們霎時為他造好獨木舟，名為里瓦魯。"
+      },
+      "motifs": [
+        "ritual-origin",
+        "taboo-transgression",
+        "sacred-place",
+        "magic-word",
+        "threefold"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Etiological record: forest etiquette (permission from Tane's offspring before felling) explained by myth."
+      },
+      "persons": [],
+      "passages": [
+        {
+          "id": "1",
+          "text": "Upon hearing that the bones of his father Wahieroa had been carried off by a strange people who live at a distance, Rata returned to his own village and reflected over many designs by which he might recover them. At length he thought of an excellent plan: he went into the forest, found a very tall tree, quite straight throughout its entire length, felled it, and cut off its noble branching top, intending to fashion the trunk into a canoe. All the insects which inhabit trees, and the spirits of the forests, were very angry at this.",
+          "note": "Paraphrase of George Grey, Polynesian Mythology, ch. 7 (1855); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "As soon as Rata had returned to the village at evening, when his day's work was ended, they all came and took the tree and raised it up again, and the innumerable multitude of insects, birds and spirits who are called 'The offspring of Hakuturi' worked away at replacing each little chip and shaving in its proper place, singing aloud their incantations as they worked: 'Fly together, chips and shavings; stick ye fast together; hold ye fast together; stand upright again, O tree!' Early the next morning back came Rata; if that fine tall straight tree which he saw standing whole and sound in the forest was the same he thought he had cut down, there it was now erect again. He stepped up to it and manfully hewing away felled it to the ground once more, and began to hollow out the hull and to slope off prow and stern; and in the evening, when it became too dark to work, returned to his village.",
+          "note": "Paraphrase of George Grey, Polynesian Mythology, ch. 7 (1855); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "As soon as he was gone, back came the innumerable multitudes and raised up the tree upon its stump once more, singing incantations as they worked, until the tree again stood sound as ever in its former place. The morning dawned and Rata returned once more; was not he amazed to see the tree standing up in the forest, untouched, just as he had at first found it? Nothing daunted, he hews away again and down it topples crashing to the earth; then he turned back and hid himself in the underwood.",
+          "note": "Paraphrase of George Grey, Polynesian Mythology, ch. 7 (1855); not verbatim."
+        },
+        {
+          "id": "4",
+          "text": "He had not been hidden long when he heard the innumerable multitude of the children of Tane approaching, singing their incantations; he rushed upon them, seized some of them, and shouted, 'Ha, it is you, then, who have been exercising your magical arts upon my tree?' The children of Tane all cried aloud in reply, 'Who gave you authority to fell the forest god to the ground? You had no right to do so.' Rata was quite overcome with shame at what he had done. Then the offspring of Tane called out aloud to him, 'Return, O Rata, to thy village; we will make a canoe for you.' He obeyed without delay, and they were so numerous and understood each what to do so well, that they no sooner began to adze out a canoe than it was completed; the name they gave to that canoe was Riwaru.",
+          "note": "Paraphrase of George Grey, Polynesian Mythology, ch. 7 (1855); not verbatim."
+        }
+      ]
+    },
+    {
+      "id": "polynesian-rata-titikura-resurrection",
+      "title": {
+        "en": "Rata Steals the Chant Titikura",
+        "zh": "拉塔竊得復生咒提提庫拉"
+      },
+      "tradition": "polynesian",
+      "category": "myth",
+      "region": {
+        "en": "Ponaturi sacred place (symbolic pin)",
+        "zh": "波納圖里聖地（象徵性定位）"
+      },
+      "lat": -21.2,
+      "lon": -159.7,
+      "period": "Oral tradition; recorded 1855 (Grey, Polynesian Mythology)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "George Grey, Polynesian Mythology and Ancient Traditional History of the New Zealand Race, ch. 7, The Adventures of Rata (London 1855)",
+        "url": "https://archive.org/details/polynesianmythol00greyuoft"
+      },
+      "license": "Public domain (Grey 1855)",
+      "summary": {
+        "en": "Sailing to the Ponaturi, Rata finds their priests at the sacred fire beating his father's bones together as time-keepers for the powerful incantation Titikura, known to no one else. He listens until he knows it by heart, rushes the priests and slays them, and snatches the bones of Wahieroa. A thousand warriors pursue him and worst his tribe; but Rata repeats Titikura and his sixty slain warriors rise again to the combat, until the whole thousand pursuers are slain.",
+        "zh": "拉塔率一百四十勇士航海至波納圖里。其祭司正在聖火旁，以瓦希耶羅亞之骨相互敲擊打拍，誦唸外人無從得知的強力咒語『提提庫拉』。拉塔潛聽至爛熟於心，驟然撲殺祭司，奪回父骨。千名敵兵追至，其族人戰死六十；拉塔默誦提提庫拉，死者悉數復起再戰，終將追兵千眾盡數殲滅。"
+      },
+      "motifs": [
+        "resurrection",
+        "quest-immortality",
+        "taboo-transgression",
+        "magic-word"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Resurrection cluster: battlefield revival through a stolen chant; tagging interpretive."
+      },
+      "persons": [],
+      "passages": [
+        {
+          "id": "1",
+          "text": "When the canoe was afloat upon the sea, 140 warriors embarked on board it, and without delay they paddled off to seek their foes. One night, just at nightfall, they reached the fortress of their enemies, who were named Ponaturi. Rata alone landed, leaving the canoe afloat and all his warriors on board; as he stole along the shore he saw that a fire was burning on the sacred place, where the Ponaturi consulted their gods and offered sacrifices to them.",
+          "note": "Paraphrase of George Grey, Polynesian Mythology, ch. 7 (1855); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Rata crept directly towards the fire and hid himself behind thick bushes of harakeke; on the other side of the same bushes were priests serving at the sacred place, who, to assist themselves in their magical arts, were making use of the bones of Wahieroa, knocking them together to beat time while repeating a powerful incantation, known only to themselves, the name of which was Titikura. Rata listened attentively to this incantation until he learnt it by heart; then he rushed suddenly upon the priests. Surprised and ignorant of the numbers of their enemy, they made little resistance and were in a moment smitten and slain. The bones of his father Wahieroa were eagerly snatched up; he hastened back to the canoe, embarked, and his warriors at once paddled away, striving to reach his fortified village.",
+          "note": "Paraphrase of George Grey, Polynesian Mythology, ch. 7 (1855); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "In the morning some of the Ponaturi repaired to their sacred place and found their priests lying dead there just as they were slain by Rata; without delay a thousand warriors of their tribe pursued him. This army reached the fortress of Rata, and an engagement at once took place in which the tribe of Rata was worsted and sixty of its warriors slain. At this moment Rata bethought him of the spell he had learnt from the priests; immediately repeating the potent incantation Titikura, his slain warriors were by its power once more restored to life. Then they rushed again to the combat, and the Ponaturi were slaughtered by Rata and his tribe - the whole thousand were slain. Thus ended Rata's task of avenging his father's death.",
+          "note": "Paraphrase of George Grey, Polynesian Mythology, ch. 7 (1855); not verbatim."
+        }
+      ]
+    },
+    {
+      "id": "polynesian-whakatau-tihi-o-manono",
+      "title": {
+        "en": "Whakatau Pulls Down Tihi-o-Manono",
+        "zh": "瓦卡陶拉倒提希奧馬諾諾"
+      },
+      "tradition": "polynesian",
+      "category": "myth",
+      "region": {
+        "en": "Great house Tihi-o-Manono (symbolic pin)",
+        "zh": "大屋提希奧馬諾諾（象徵性定位）"
+      },
+      "lat": -21.18,
+      "lon": -159.82,
+      "period": "Oral tradition; recorded 1855 (Grey, Polynesian Mythology, appendix variant)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "George Grey, Polynesian Mythology and Ancient Traditional History of the New Zealand Race, ch. 7 appendix: second legend of the destruction of Te Tihi-o-Manono (London 1855)",
+        "url": "https://archive.org/details/polynesianmythol00greyuoft"
+      },
+      "license": "Public domain (Grey 1855)",
+      "summary": {
+        "en": "In the often-quoted second recension, Tinirau sends Hine-i-te-iwaiwa to recruit Whakatau against the tribe that slew Tuwhakararo. Feasting the warriors with potted birds, Whakatau claims all the oil, crosses the sea by night with six men, and in single combat tricks ten champion warriors to their deaths - the diver Mango-huritapena transfixed through transparent oil, the leaper Pitakataka snared in mid-air. Disguised among firewood carriers, he ropes the great house Tihi-o-Manono post by post; when Mango-Pare finally names him as the strangler, he hauls the house down over the tribe and fires the ruin, its flames lighting the horizon as his sign to the watching widow.",
+        "zh": "蒂尼勞遣希內特伊瓦伊瓦求賢，瓦卡陶受命復仇。他令大宴戰士、禽脂盡歸己用，夜渡大海。陣前連挫十位成名勇士：潛水冠軍被澄如明鏡的油水照見，一矛穿心；跳高冠軍凌空落網。他混入拾柴隊伍潛入大屋，用長繩逐柱纏繞整座提希奧馬諾諾；當被饒命的芒果帕雷認出『那個割舌者』時，他應聲承認，猛然拉繩——大屋轟然倒塌，全族葬身其中；烈焰映紅半邊天，正如他與守望寡婦約定的勝利信號。"
+      },
+      "motifs": [
+        "trickster",
+        "quest-immortality",
+        "foundational-legend",
+        "combat-ordeal"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Recorded as a variant appendix because it differs considerably from the main tale and is often alluded to in ancient poems."
+      },
+      "persons": [],
+      "passages": [
+        {
+          "id": "1",
+          "text": "Tinirau determined to attempt to avenge the death of his descendant Tuwhakararo, and thought the best person to do this was Whakatau, whom he knew to be very skilful in war and in enchantments; so he directed his wife Hine-i-te-iwaiwa to find Whakatau. She found the kite-flying hero at last, and he told her: return at once and give a great feast to the warriors, abundance of potted birds from the forests, but let all the oil in which the birds were preserved be kept for me; do not go to the feast yourself, but, decking your head with a mourning dress of feathers, remain seated in the house of mourning.",
+          "note": "Paraphrase of George Grey, Polynesian Mythology, ch. 7 appendix (1855); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Whakatau and six warriors crossed to the anchorage before Tihi-o-Manono. Champions came forth one by one. Mango-huritapena declared himself a most skilful diver and plunged under the canoe; one of Whakatau's men poured Hine-i-te-iwaiwa's oil into the sea, the waters became quite transparent, and as the warrior came floating up beneath them Whakatau transfixed him with a wooden spade. Pitakataka boasted that he leapt so skilfully he seemed to fly in the air; Whakatau laid a noose upon the canoe, and as the warrior alighted in it he drew it tight and caught him as a bird in a springe. Thus one after the other he slew ten of the most famous warriors of his enemies; one he saved alive, but cut out his tongue, sending him back to tell them how he had overcome them all.",
+          "note": "Paraphrase of George Grey, Polynesian Mythology, ch. 7 appendix (1855); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "He sent his men back with a sign: if heavy rain fell in large drops, he had been killed; but if a light misty rain fell and the whole horizon was lighted up with flames, he had conquered and burnt Tihi-o-Manono. Just before nightfall he dropped in amongst the people of the great chief Whitinakonako collecting firewood, pushed in front of them into the house with a long rope in his hand, pushed one end between each side-post and the plank walls until the rope had gone quite round the house, and made it fast to the last post, holding the other end.",
+          "note": "Paraphrase of George Grey, Polynesian Mythology, ch. 7 appendix (1855); not verbatim."
+        },
+        {
+          "id": "4",
+          "text": "Ten fires were lit as the great house filled; when Mango-Pare, whose tongue he had cut out, was made to describe the strangler and finally declared, 'He looks very like this fellow - perhaps it is he himself', Whakatau shouted aloud, 'You are right, it was I.' As they sprang to their feet he laid hold of the rope-end, rushed out, pulled it with all his strength, and straightway the house fell down, crushing all within it. He set it on fire, and Hine-i-te-iwaiwa, watching from the roof of her house, saw one whole part of the heavens red with its flames and knew her enemies were destroyed.",
+          "note": "Paraphrase of George Grey, Polynesian Mythology, ch. 7 appendix (1855); not verbatim."
+        }
+      ]
+    }
+  ]
+}

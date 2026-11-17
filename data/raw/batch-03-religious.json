@@ -1,0 +1,774 @@
+{
+  "texts": [
+    {
+      "id": "exodus-burning-bush",
+      "title": {
+        "en": "Moses and the Burning Bush (Exodus)",
+        "zh": "摩西與焚而不燬的荊棘（出埃及記）"
+      },
+      "tradition": "hebrew",
+      "region": {
+        "en": "Mount Horeb (Sinai), Egypt",
+        "zh": "何烈山（西奈，埃及）"
+      },
+      "lat": 28.56,
+      "lon": 33.95,
+      "period": "Exodus, compiled c. 6th-5th c. BCE (KJV, 1611)",
+      "source": {
+        "archive": "Project Gutenberg",
+        "work": "Exodus 3, King James Version",
+        "url": "https://www.gutenberg.org/ebooks/10"
+      },
+      "license": "Public domain",
+      "summary": {
+        "en": "Moses keeps the flock of Jethro beyond the wilderness and comes to Horeb, the mountain of God; the angel of the Lord appears in a flame out of the bush that burns yet is not consumed, and God, speaking from the bush, sends Moses to bring Israel out of Egypt and reveals the name I AM THAT I AM.",
+        "zh": "摩西牧羊至何烈山——神的山；耶和華的使者於荊棘火焰中顯現，荊棘被火燒著卻不燬壞。神自荊棘中呼召摩西領以色列人出埃及，並啟示聖名：「我是自有永有的。」"
+      },
+      "motifs": [
+        "theophany",
+        "exodus-deliverance",
+        "wilderness-wandering"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Living tradition of Judaism. Included as a comparative text in a digital-history corpus — a scholarly framing, not a claim about religious truth."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "And the angel of the LORD appeared unto him in a flame of fire out of the midst of a bush: and he looked, and, behold, the bush burned with fire, and the bush was not consumed. And Moses said, I will now turn aside, and see this great sight, why the bush is not burnt. And when the LORD saw that he turned aside to see, God called unto him out of the midst of the bush, and said, Moses, Moses. And he said, Here am I."
+        },
+        {
+          "id": "2",
+          "text": "And God said unto Moses, I AM THAT I AM: and he said, Thus shalt thou say unto the children of Israel, I AM hath sent me unto you. And God said moreover unto Moses, Thus shalt thou say unto the children of Israel, The LORD God of your fathers, the God of Abraham, the God of Isaac, and the God of Jacob, hath sent me unto you: this is my name for ever, and this is my memorial unto all generations."
+        }
+      ],
+      "category": "religious"
+    },
+    {
+      "id": "ezekiel-chariot",
+      "title": {
+        "en": "Ezekiel's Vision of the Divine Chariot",
+        "zh": "以西結見神之御座車"
+      },
+      "tradition": "hebrew",
+      "region": {
+        "en": "River Chebar, Babylonian Exile (Iraq)",
+        "zh": "迦巴魯河畔（巴比倫之囚，伊拉克）"
+      },
+      "lat": 32.1,
+      "lon": 45.2,
+      "period": "Ezekiel, c. 593-571 BCE (KJV, 1611)",
+      "source": {
+        "archive": "Project Gutenberg",
+        "work": "Ezekiel 1, King James Version",
+        "url": "https://www.gutenberg.org/ebooks/10"
+      },
+      "license": "Public domain",
+      "summary": {
+        "en": "By the river Chebar in exile, the priest Ezekiel sees the heavens open: a whirlwind out of the north, four living creatures, and above the firmament the likeness of a throne of sapphire — the appearance of the glory of the Lord, at which he falls upon his face.",
+        "zh": "被擄至迦巴魯河畔的祭司以西結見天開：北方颶風挾大雲與火，四活物自火中而出；穹蒼之上彷彿藍寶石寶座，其上有彷彿人的形狀——耶和華榮耀之形，以西結俯伏在地。"
+      },
+      "motifs": [
+        "prophetic-vision",
+        "exile"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Living tradition of Judaism; a foundational text of later Merkabah mysticism. Included as a comparative text — a scholarly framing, not a claim about religious truth."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "And I looked, and, behold, a whirlwind came out of the north, a great cloud, and a fire infolding itself, and a brightness was about it, and out of the midst thereof as the colour of amber, out of the midst of the fire. Also out of the midst thereof came the likeness of four living creatures. And this was their appearance; they had the likeness of a man."
+        },
+        {
+          "id": "2",
+          "text": "And above the firmament that was over their heads was the likeness of a throne, as the appearance of a sapphire stone: and upon the likeness of the throne was the likeness as the appearance of a man above upon it. And I saw as the colour of amber, as the appearance of fire round about within it, from the appearance of his loins even upward, and from the appearance of his loins even downward, I saw as it were the appearance of fire, and it had brightness round about. This was the appearance of the likeness of the glory of the LORD. And when I saw it, I fell upon my face, and I heard a voice of one that spake."
+        }
+      ],
+      "category": "religious"
+    },
+    {
+      "id": "pentecost-acts",
+      "title": {
+        "en": "Pentecost and the Coming of the Spirit (Acts)",
+        "zh": "五旬節聖靈降臨（使徒行傳）"
+      },
+      "tradition": "christian",
+      "region": {
+        "en": "Jerusalem, Judea",
+        "zh": "耶路撒冷（猶太地）"
+      },
+      "lat": 31.78,
+      "lon": 35.22,
+      "period": "Acts of the Apostles, c. 80-90 CE (KJV, 1611)",
+      "source": {
+        "archive": "Project Gutenberg",
+        "work": "Acts 2, King James Version",
+        "url": "https://www.gutenberg.org/ebooks/10"
+      },
+      "license": "Public domain",
+      "summary": {
+        "en": "When the day of Pentecost is fully come, a sound as of a rushing mighty wind fills the house, cloven tongues like fire sit upon the disciples, and all are filled with the Holy Ghost and speak with other tongues; Peter declares it the Spirit poured out, as the prophet Joel had promised.",
+        "zh": "五旬節那日，天上有響聲如大風充滿屋子，火焰之舌分落門徒頭上，眾人皆被聖靈充滿、說起別國的話來；彼得宣告此乃先知約珥所預言：神要將祂的靈澆灌凡有血氣的。"
+      },
+      "motifs": [
+        "theophany",
+        "spirit-possession",
+        "teacher-disciple"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Living tradition of Christianity. Included as a comparative text alongside other spirit-pouring and possession narratives — a scholarly framing, not a claim about religious truth."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "And suddenly there came a sound from heaven as of a rushing mighty wind, and it filled all the house where they were sitting. And there appeared unto them cloven tongues like as of fire, and it sat upon each of them. And they were all filled with the Holy Ghost, and began to speak with other tongues, as the Spirit gave them utterance."
+        },
+        {
+          "id": "2",
+          "text": "But this is that which was spoken by the prophet Joel; And it shall come to pass in the last days, saith God, I will pour out of my Spirit upon all flesh: and your sons and your daughters shall prophesy, and your young men shall see visions, and your old men shall dream dreams: and on my servants and on my handmaidens I will pour out in those days of my Spirit; and they shall prophesy."
+        }
+      ],
+      "category": "religious"
+    },
+    {
+      "id": "revelation-new-jerusalem",
+      "title": {
+        "en": "A New Heaven and a New Earth (Revelation)",
+        "zh": "新天新地（啟示錄）"
+      },
+      "tradition": "christian",
+      "region": {
+        "en": "Patmos, Aegean Sea (symbolic: New Jerusalem)",
+        "zh": "拔摩島（象徵位置：新耶路撒冷）"
+      },
+      "lat": 37.31,
+      "lon": 26.55,
+      "period": "Revelation, c. 95 CE (KJV, 1611)",
+      "source": {
+        "archive": "Project Gutenberg",
+        "work": "Revelation 21-22, King James Version",
+        "url": "https://www.gutenberg.org/ebooks/10"
+      },
+      "license": "Public domain",
+      "summary": {
+        "en": "John sees a new heaven and a new earth, the holy city new Jerusalem coming down from God out of heaven as a bride adorned for her husband, and the river of the water of life flowing from the throne with the tree of life whose leaves are for the healing of the nations — where there shall be no more night.",
+        "zh": "約翰見新天新地，聖城新耶路撒冷由神那裡從天而降，如妝飾整齊等候丈夫的新婦；又有生命水之河自寶座流出，兩岸生命樹月月結果，其葉可醫萬民——那裡再無黑夜。"
+      },
+      "motifs": [
+        "prophetic-vision",
+        "world-renewal",
+        "elixir-life",
+        "world-tree",
+        "pilgrimage"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Living tradition of Christianity. Included as a comparative text alongside other world-renewal narratives — a scholarly framing, not a claim about religious truth."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "And I saw a new heaven and a new earth: for the first heaven and the first earth were passed away; and there was no more sea. And I John saw the holy city, new Jerusalem, coming down from God out of heaven, prepared as a bride adorned for her husband. And I heard a great voice out of heaven saying, Behold, the tabernacle of God is with men, and he will dwell with them, and they shall be his people, and God himself shall be with them, and be their God."
+        },
+        {
+          "id": "2",
+          "text": "And he shewed me a pure river of water of life, clear as crystal, proceeding out of the throne of God and of the Lamb. In the midst of the street of it, and on either side of the river, was there the tree of life, which bare twelve manner of fruits, and yielded her fruit every month: and the leaves of the tree were for the healing of the nations. And there shall be no night there; and they need no candle, neither light of the sun; for the Lord God giveth them light."
+        }
+      ],
+      "category": "religious"
+    },
+    {
+      "id": "quran-first-revelation",
+      "title": {
+        "en": "The First Revelation: 'Read!' (Surah al-Alaq)",
+        "zh": "首次啟示：「你讀！」（古蘭經·血塊章）"
+      },
+      "tradition": "islamic",
+      "region": {
+        "en": "Cave of Hira, Jabal al-Nur, Mecca, Saudi Arabia",
+        "zh": "希拉山洞（麥加，沙烏地阿拉伯）"
+      },
+      "lat": 21.46,
+      "lon": 39.86,
+      "period": "Qur'an, Surah al-'Alaq 96:1-8, c. 610 CE (trans. Sale, 1734)",
+      "source": {
+        "archive": "Project Gutenberg",
+        "work": "The Koran (Al-Qur'an), trans. George Sale, ch. 96",
+        "url": "https://www.gutenberg.org/ebooks/7440"
+      },
+      "license": "Public domain",
+      "summary": {
+        "en": "In the cave of Hira above Mecca the angel commands the Prophet to read — the first revealed words of the Qur'an; God, who made man from congealed blood and taught the use of the pen, teaches man what he did not know, and unto the Lord shall be the return of all.",
+        "zh": "在麥加希拉山洞中，天使命令先知「你讀！」——此為《古蘭》最早啟示的經文；那造人於血塊、教人用筆的主，教人所未知的道理，萬物終必歸於主。"
+      },
+      "motifs": [
+        "prophetic-vision",
+        "revelation"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Sacred text of a living tradition, presented as a public-domain eighteenth-century translation for comparative study — a scholarly framing, not a claim about religious truth."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "READ, in the name of thy LORD, who hath created all things; who hath created man of congealed blood. Read, by thy most beneficent LORD; who taught the use of the pen; who teacheth man that which he knoweth not. Verily man becometh insolent, because he seeth himself abound in riches. Verily unto thy LORD shall be the return of all."
+        }
+      ],
+      "category": "myth-religion"
+    },
+    {
+      "id": "quran-yusuf-well",
+      "title": {
+        "en": "Joseph Cast into the Well (Surah Yusuf)",
+        "zh": "約瑟被投井（古蘭經·優素福章）"
+      },
+      "tradition": "islamic",
+      "region": {
+        "en": "Canaan to Egypt (symbolic: Nile Valley)",
+        "zh": "迦南至埃及（象徵位置：尼羅河谷）"
+      },
+      "lat": 29.79,
+      "lon": 31.25,
+      "period": "Qur'an, Surah Yusuf 12, c. 610-632 CE (trans. Sale, 1734)",
+      "source": {
+        "archive": "Project Gutenberg",
+        "work": "The Koran (Al-Qur'an), trans. George Sale, ch. 12",
+        "url": "https://www.gutenberg.org/ebooks/7440"
+      },
+      "license": "Public domain",
+      "summary": {
+        "en": "Cast into a well by jealous brothers who show their father Jacob a blood-stained garment and cry that a wolf has devoured Joseph, the boy is drawn up by travellers and sold as merchandise — the Qur'anic retelling of the Joseph story, which it calls the best of narratives.",
+        "zh": "忌妒的兄長將約瑟投入井中，向父親葉爾孤白展示染血的長衫，哭稱惡狼吞之；旅人汲水時救起童子，轉手賣為奴僕——《古蘭》重述約瑟故事，稱之為最優美的敘事。"
+      },
+      "motifs": [
+        "trickster",
+        "parable-teaching",
+        "jealousy"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Sacred text of a living tradition, presented as a public-domain eighteenth-century translation for comparative study — a scholarly framing, not a claim about religious truth."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "And when they had carried him with them, and agreed to set him at the bottom of the well, they executed their design: and we sent a revelation unto him, saying, Thou shalt hereafter declare this their action unto them; and they shall not perceive thee to be Joseph."
+        },
+        {
+          "id": "2",
+          "text": "And they came to their father at even, weeping, and said, Father, we went and ran races with one another, and we left Joseph with our baggage, and the wolf hath devoured him; but thou wilt not believe us, although we speak the truth. And they produced his inner garment stained with false blood. Jacob answered, Nay, but ye yourselves have contrived the thing for your own sakes: however patience is most becoming, and GOD'S assistance is to be implored to enable me to support the misfortune which ye relate."
+        },
+        {
+          "id": "3",
+          "text": "And certain travellers came, and sent one to draw water for them; and he let down his bucket, and said, Good news! this is a youth. And they concealed him, that they might sell him as a piece of merchandise: but GOD knew that which they did."
+        }
+      ],
+      "category": "myth-religion"
+    },
+    {
+      "id": "quran-nuh-warns",
+      "title": {
+        "en": "Noah Warns His People (Surah Nuh)",
+        "zh": "努哈警告族人（古蘭經·努哈章）"
+      },
+      "tradition": "islamic",
+      "region": {
+        "en": "Mesopotamia (symbolic: Baghdad region, Iraq)",
+        "zh": "美索不達米亞（象徵位置：伊拉克巴格達一帶）"
+      },
+      "lat": 33.3,
+      "lon": 44.4,
+      "period": "Qur'an, Surah Nuh 71, c. 610-632 CE (trans. Sale, 1734)",
+      "source": {
+        "archive": "Project Gutenberg",
+        "work": "The Koran (Al-Qur'an), trans. George Sale, ch. 71",
+        "url": "https://www.gutenberg.org/ebooks/7440"
+      },
+      "license": "Public domain",
+      "summary": {
+        "en": "Sent to warn his people before a grievous punishment overtakes them, Noah calls them night and day; they put their fingers in their ears; and their chiefs refuse to forsake the idols Wadd, Sowa, Yaghuth, Yauk, and Nesr — so the Qur'anic Noah pleads against the unbelievers who were drowned for their sins.",
+        "zh": "努哈奉命警告族人重罰將至；他晝夜呼喚，眾人卻以指塞耳、以衣蒙首；諸酋長拒絕捨棄瓦德、素瓦、雅巫斯、葉歐克、奈斯爾諸偶像——悖逆者因罪而溺亡。"
+      },
+      "motifs": [
+        "flood",
+        "idol-contest",
+        "flood-punishment"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Sacred text of a living tradition, presented as a public-domain eighteenth-century translation for comparative study — a scholarly framing, not a claim about religious truth."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "VERILY we sent Noah unto his people, saying, Warn thy people, before a grievous punishment overtake them. Noah said, O my people, verily I am a public warner unto you; wherefore serve GOD, and fear him, and obey me; he will forgive you part of your sins, and will grant you respite until a determined time: for GOD'S determined time, when it cometh, shall not be deferred; if ye were men of understanding, ye would know this."
+        },
+        {
+          "id": "2",
+          "text": "He said, LORD, verily I have called my people night and day; but my calling only increaseth their aversion: and whensoever I call them to the true faith, that thou mayest forgive them, they put their fingers in their ears, and cover themselves with their garments, and persist in their infidelity, and proudly disdain my counsel."
+        },
+        {
+          "id": "3",
+          "text": "And they devised a dangerous plot against Noah: and the chief men said to the others, Ye shall by no means leave your gods; neither shall ye forsake Wadd, nor Sowa, nor Yaghuth, and Yauk, and Nesr. And they seduced many; (for thou shalt only increase error in the wicked:) because of their sins they were drowned, and cast into the fire of hell; and they found none to protect them against GOD."
+        }
+      ],
+      "category": "myth-religion"
+    },
+    {
+      "id": "gita-cosmic-vision",
+      "title": {
+        "en": "Krishna's Cosmic Form (Bhagavad Gita 11)",
+        "zh": "黑天的宇宙本相（薄伽梵歌·十一章）"
+      },
+      "tradition": "hindu",
+      "region": {
+        "en": "Kurukshetra, India",
+        "zh": "庫魯克謝特拉（印度）"
+      },
+      "lat": 29.97,
+      "lon": 76.88,
+      "period": "Bhagavad Gita 11, c. 2nd c. BCE-2nd c. CE (trans. Arnold, 1885)",
+      "source": {
+        "archive": "Project Gutenberg",
+        "work": "The Song Celestial, trans. Sir Edwin Arnold, ch. 11",
+        "url": "https://www.gutenberg.org/ebooks/2388"
+      },
+      "license": "Public domain",
+      "summary": {
+        "en": "Arjuna asks to see Krishna's universal form; the vision shows countless eyes, mouths, and celestial ornaments gathered into one blazing Body — as if a thousand suns should rise at once — and the Lord declares Himself Time, the slayer who brings all to doom, before whom the hosts of battle already stand destroyed.",
+        "zh": "阿周那求見黑天的宇宙本相；異象中無數眼目、面孔與天飾匯於一體熾然之軀——如千日齊昇——主自稱為「時」，誅滅萬物之時，戰場之眾在他眼中業已不存。"
+      },
+      "motifs": [
+        "theophany"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Living tradition of Hinduism. Included as a comparative text alongside other divine-manifestation narratives — a scholarly framing, not a claim about religious truth."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Out of countless eyes beholding,\nOut of countless mouths commanding,\nCountless mystic forms enfolding\nIn one Form: supremely standing\nCountless radiant glories wearing,\nCountless heavenly weapons bearing,\nCrowned with garlands of star-clusters,\nRobed in garb of woven lustres,\nBreathing from His perfect Presence\nBreaths of every subtle essence\nOf all heavenly odours; shedding\nBlinding brilliance; overspreading--\nBoundless, beautiful--all spaces\nWith His all-regarding faces;\nSo He showed! If there should rise\nSuddenly within the skies\nSunburst of a thousand suns\nFlooding earth with beams undeemed-of,\nThen might be that Holy One's\nMajesty and radiance dreamed of!"
+        },
+        {
+          "id": "2",
+          "text": "Thou seest Me as Time who kills,\nTime who brings all to doom,\nThe Slayer Time, Ancient of Days, come hither to consume;\nExcepting thee, of all these hosts of hostile chiefs arrayed,\nThere stands not one shall leave alive the battlefield! Dismayed\nNo longer be! Arise! obtain renown! destroy thy foes!\nFight for the kingdom waiting thee when thou hast vanquished those.\nBy Me they fall--not thee! the stroke of death is dealt them now,\nEven as they show thus gallantly; My instrument art thou!"
+        }
+      ],
+      "category": "myth-religion"
+    },
+    {
+      "id": "rigveda-nasadiya",
+      "title": {
+        "en": "The Hymn of Creation (Nasadiya Sukta)",
+        "zh": "無有歌（創造頌）"
+      },
+      "tradition": "hindu",
+      "region": {
+        "en": "Punjab, Indus plains (India/Pakistan)",
+        "zh": "旁遮普（印度河平原）"
+      },
+      "lat": 30.9,
+      "lon": 75.85,
+      "period": "Rigveda 10.129, c. 1500-1200 BCE (trans. Griffith, 1896)",
+      "source": {
+        "archive": "Wikisource",
+        "work": "The Hymns of the Rigveda, Book 10, Hymn 129 (trans. Ralph T. H. Griffith)",
+        "url": "https://en.wikisource.org/wiki/The_Hymns_of_the_Rigveda/Book_10/Hymn_129"
+      },
+      "license": "Public domain",
+      "summary": {
+        "en": "The celebrated 'Hymn of Creation' asks what was before being and non-being: no death, no sign of day and night, darkness wrapped in darkness — until Warmth begot the One and Desire arose, the first seed of mind; even the gods are later than this creation, and perhaps the highest overseer knows not how it came to be.",
+        "zh": "著名的「無有歌」追問存在與非存在之先：無死無不死、無晝夜之分，黑暗為黑暗所蔽——熱力生「太一」，愛欲初起為心之種子；諸神晚於此造，究極之主或亦未知世界何自而生。"
+      },
+      "motifs": [
+        "creation-chaos",
+        "origin-agriculture"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Living scriptural tradition of Hinduism. Included as a comparative text — a scholarly framing, not a claim about religious truth."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "THEN was not non-existent nor existent: there was no realm of air, no sky beyond it.\nWhat covered in, and where? and what gave shelter? Was water there, unfathomed depth of water?\nDeath was not then, nor was there aught immortal: no sign was there, the day's and night's divider.\nThat One Thing, breathless, breathed by its own nature: apart from it was nothing whatsoever."
+        },
+        {
+          "id": "2",
+          "text": "Darkness there was: at first concealed in darkness this All was indiscriminate chaos.\nAll that existed then was void and formless: by the great power of Warmth was born that Unit.\nWho verily knows and who can here declare it, whence it was born and whence comes this creation?\nThe Gods are later than this world's production. Who knows then whence it first came into being?\nHe, the first origin of this creation, whether he formed it all or did not form it,\nWhose eye controls this world in highest heaven, he verily knows it, or perhaps he knows not."
+        }
+      ],
+      "category": "myth-religion"
+    },
+    {
+      "id": "katha-nachiketa",
+      "title": {
+        "en": "Nachiketas and Death (Katha Upanishad)",
+        "zh": "那啟凱多與死神（加陀奧義書）"
+      },
+      "tradition": "hindu",
+      "region": {
+        "en": "Yama's realm (symbolic: North India)",
+        "zh": "閻摩之境（象徵位置：北印度）"
+      },
+      "lat": 27.0,
+      "lon": 80.0,
+      "period": "Katha Upanishad, c. 5th-1st c. BCE (trans. Müller, 1884)",
+      "source": {
+        "archive": "Wikisource",
+        "work": "Sacred Books of the East, Vol. 15: Katha-upanishad (trans. F. Max Müller)",
+        "url": "https://en.wikisource.org/wiki/Sacred_Books_of_the_East/Volume_15/Katha-upanishad"
+      },
+      "license": "Public domain",
+      "summary": {
+        "en": "Vagashravasa surrenders all he possesses at a sacrifice, and when the boy Nachiketas presses him — 'To whom wilt thou give me?' — the father answers in anger, 'Unto Death I give thee.' Three nights a guest in Yama's house, Nachiketas is granted three boons; the third is the question whether a man who is dead still is.",
+        "zh": "婆遮沙瑞士行祭許獻所有，童子那啟凱多再三追問「父親將把我給誰？」父怒答「給死神！」那啟凱多入閻摩之宮三夕為客，獲三項恩賜——最後一問：人死之後，存耶？亡耶？"
+      },
+      "motifs": [
+        "quest-immortality",
+        "descent-underworld",
+        "threefold",
+        "magic-gifts"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Living scriptural tradition of Hinduism. Included as a comparative text — a scholarly framing, not a claim about religious truth."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Vagasravasa, desirous (of heavenly rewards), surrendered (at a sacrifice) all that he possessed. He had a son of the name of Nakiketas. When the (promised) presents were being given (to the priests), faith entered into the heart of Nakiketas, who was still a boy, and he thought: Unblessed, surely, are the worlds to which a man goes by giving (as his promised present at a sacrifice) cows which have drunk water, eaten hay, given their milk, and are barren. He said to his father: Dear father, to whom wilt thou give me? He said it a second and a third time. Then the father replied (angrily): I shall give thee unto Death."
+        },
+        {
+          "id": "2",
+          "text": "The son said: I go as the first, at the head of many (who have still to die); I go in the midst of many (who are now dying). What will be the work of Yama (the ruler of the departed) which to-day he has to do unto me? Look back how it was with those who came before, look forward how it will be with those who come hereafter. A mortal ripens like corn, like corn he springs up again."
+        },
+        {
+          "id": "3",
+          "text": "Nakiketas said: There is that doubt, when a man is dead, — some saying, he is; others, he is not. This I should like to know, taught by thee; this is the third of my boons. Death said: On this point even the gods have doubted formerly; it is not easy to understand. That subject is subtle. Choose another boon, O Nakiketas, do not press me, and let me off that boon."
+        },
+        {
+          "id": "4",
+          "text": "Nakiketas said: These things last till tomorrow, O Death, for they wear out this vigour of all the senses. Even the whole of life is short. Keep thou thy horses, keep dance and song for thyself. No man can be made happy by wealth. Shall we possess wealth, when we see thee? Shall we live, as long as thou rulest? Only that boon (which I have chosen) is to be chosen by me."
+        }
+      ],
+      "category": "myth-religion"
+    },
+    {
+      "id": "lotus-burning-house",
+      "title": {
+        "en": "The Parable of the Burning House (Lotus Sutra)",
+        "zh": "火宅之喻（法華經）"
+      },
+      "tradition": "buddhist",
+      "region": {
+        "en": "Vulture Peak, Rajagriha, India",
+        "zh": "靈鷲山（王舍城，印度）"
+      },
+      "lat": 24.83,
+      "lon": 85.44,
+      "period": "Lotus Sutra 3, c. 1st-2nd c. CE (trans. Kern, 1884)",
+      "source": {
+        "archive": "Wikisource",
+        "work": "Sacred Books of the East, Vol. 21: The Lotus of the True Law, ch. 3 (trans. Hendrik Kern)",
+        "url": "https://en.wikisource.org/wiki/Sacred_Books_of_the_East/Volume_21/Chapter_3"
+      },
+      "license": "Public domain",
+      "summary": {
+        "en": "The Buddha teaches with the parable of the burning house: an old man's children, playing heedless within a tottering mansion all ablaze, will not come out until he promises them three toy-carts — the three vehicles by which the Tathagata, father of the world, lures beings from the triple world aflame with birth, age, disease, and death.",
+        "zh": "佛陀以火宅喻說法：老父宅邸朽壞、四面起火，諸童子嬉戲其中不肯出；父許以三種玩具之車誘之——如來為世間之父，以三乘引渡眾生，出離為生老病死所焚之三界火宅。"
+      },
+      "motifs": [
+        "parable-teaching"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Living scriptural tradition of Buddhism. Included as a comparative text — a scholarly framing, not a claim about religious truth."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "In a certain village, town, borough, province, kingdom, or capital, there was a certain housekeeper, old, aged, decrepit, very advanced in years, rich, wealthy, opulent; he had a great house, high, spacious, built a long time ago and old, inhabited by some two, three, four, or five hundred living beings. The house had but one door, and a thatch; its terraces were tottering, the bases of its pillars rotten, the coverings and plaster of the walls loose. On a sudden the whole house was from every side put in conflagration by a mass of fire."
+        },
+        {
+          "id": "2",
+          "text": "He, the Tathagata, endowed with Buddha-knowledge, forces, absence of hesitation, uncommon properties, and mighty by magical power, is the father of the world, who has reached the highest perfection in the knowledge of skilful means, who is most merciful, long-suffering, benevolent, compassionate. He appears in this triple world, which is like a house the roof and shelter whereof are decayed, (a house) burning by a mass of misery, in order to deliver from affection, hatred, and delusion the beings subject to birth, old age, disease, death, grief, wailing, pain, melancholy, despondency, the dark enveloping mists of ignorance, in order to rouse them to supreme and perfect enlightenment."
+        },
+        {
+          "id": "3",
+          "text": "Do not delight in this triple world, which is like a burning house, in these miserable forms, sounds, odours, flavours, and contacts. For in delighting in this triple world ye are burnt, heated, inflamed with the thirst inseparable from the pleasures of the five senses. Fly from this triple world; betake yourselves to the three vehicles: the vehicle of the disciples, the vehicle of the Pratyekabuddhas, the vehicle of the Bodhisattvas."
+        }
+      ],
+      "category": "religious"
+    },
+    {
+      "id": "ifa-divination-odu",
+      "title": {
+        "en": "Ifa, the Great Oracle of the Yoruba",
+        "zh": "伊法：約魯巴大神諭"
+      },
+      "tradition": "yoruba",
+      "region": {
+        "en": "Yoruba country (symbolic: Ile-Ife, Nigeria)",
+        "zh": "約魯巴之地（象徵位置：奈及利亞伊費）"
+      },
+      "lat": 7.52,
+      "lon": 4.54,
+      "period": "Yoruba oral tradition; recorded 1906 (Johnson, in Dennett)",
+      "source": {
+        "archive": "Internet Sacred Texts Archive",
+        "work": "At the Back of the Black Man's Mind, Appendix: 'Yoruba Heathenism' (Rt. Rev. James Johnson, in R. E. Dennett, 1906)",
+        "url": "https://sacred-texts.com/afr/mind/mind24.htm"
+      },
+      "license": "Public domain",
+      "summary": {
+        "en": "Ifa, the great oracle of Yoruba country, speaks through sixteen palm nuts whose grasp and mark combinations name the Odu — 256 principal signs, each connected with sixteen subordinates, 4,096 in all; from each sign and its traditional stories the babalawo takes and delivers divination, with the aid of lot casting and the opele.",
+        "zh": "伊法為約魯巴之大神諭：以十六枚棕櫚果仁的執取與刻痕組合命名「奧杜」——主卦二百五十六，每卦又轄十六，合計四千零九十六卦；巴巴拉沃（占卜師）依卦象及其傳統故事，配合擲占與奧佩勒鏈為人占問。"
+      },
+      "motifs": [
+        "oracle-divination"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Living religious system of the Yoruba. Recorded here from a 1906 public-domain publication by a Yoruba-born bishop; presented as an archival record, not as permission to speak for Ifa practitioners."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The great Oracle of the Yoruba country is Ifa. He is represented chiefly by 16 palm nuts each having from four to 10 or more eyelets on them. Behind each one of these representative nuts are 16 subordinate Divinities. Each one of the whole lot is termed an Odu - which means a chief, a head. This makes the number of Odu altogether 256. Besides these, there are 16 other Odus connected with each of the 256, and this makes the whole number of Odus 4,096. Some increase this large number still by an addition of 16 more to each of the last number of Odus, but the 16 principal ones are those more frequently in requisition."
+        },
+        {
+          "id": "2",
+          "text": "Divination is taken by a Babalawo on a highly esteemed broad circular bowl or four cornered fan of a moderate size, which is generally covered with white flour from a dry tree, and upon which he works, and with one of the fingers of the right hand imprints certain signs, representing such Ifa representatives as may be left in the palm of his left hand, after he has attempted with one grasp of the palm of his right hand to take up all the 16, where they were all held."
+        }
+      ],
+      "category": "myth-religion"
+    },
+    {
+      "id": "obatala-alamorere",
+      "title": {
+        "en": "Obatala, Owner of the Best Clay",
+        "zh": "奧巴塔拉：得美土之主"
+      },
+      "tradition": "yoruba",
+      "region": {
+        "en": "Ile-Ife, Nigeria",
+        "zh": "奈及利亞伊費"
+      },
+      "lat": 7.48,
+      "lon": 4.54,
+      "period": "Yoruba oral tradition; recorded 1894 (Ellis)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "A. B. Ellis, The Yoruba-speaking Peoples of the Slave Coast of West Africa (1894), ch. 2",
+        "url": "https://archive.org/details/yorubaspeakingp01elligoog"
+      },
+      "license": "Public domain",
+      "summary": {
+        "en": "In the priests' doctrine recorded by Ellis, Olorun made Obatala and handed over to him the management of the firmament and the world; Obatala — 'Owner of the best clay,' 'the Orisha who kneads clay' — made the first man and woman out of clay, and forms every child in the mother's womb, so that women who desire to become mothers address their prayers to him.",
+        "zh": "埃利斯所錄祭司教義：奧洛倫造奧巴塔拉，並將蒼穹與世界交其掌理；「得美土之主」「摶土之神」奧巴塔拉以土造首對男女，且於母腹中塑造每一嬰孩——求子之婦皆向其祈禱。"
+      },
+      "motifs": [
+        "clay-humans",
+        "creation-chaos",
+        "prayer"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Living religious system of the Yoruba. Recorded from an 1894 colonial-era collection; presented as an archival record, not as permission to speak for Orisha worshippers."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Obatala, say the priests, was made by Olorun, who then handed over to him the management of the firmament and the world, and himself retired to rest. Obatala is thus also a sky-god, but is a more anthropomorphic conception than Olorun, and performs functions which are not in the least connected with the firmament. According to a myth, which is, however, contradicted by another, Obatala made the first man and woman out of clay, on which account he has the title of Alamorere, 'Owner of the best clay;' and because he kneaded the clay himself he is called Orisha Iyokpo, 'The Orisha who kneads clay' (kpo, to knead or temper clay). Though this point is disputed by some natives, all are agreed that Obatala forms the child in the mother's womb, and women who desire to become mothers address their prayers to him."
+        }
+      ],
+      "category": "myth-religion"
+    },
+    {
+      "id": "shango-cloud-palace",
+      "title": {
+        "en": "Shango in His Brazen Palace of Clouds",
+        "zh": "珊戈：雲端銅宮中的雷神"
+      },
+      "tradition": "yoruba",
+      "region": {
+        "en": "Oyo, Nigeria",
+        "zh": "奈及利亞奧約"
+      },
+      "lat": 7.84,
+      "lon": 3.93,
+      "period": "Yoruba oral tradition; recorded 1894 (Ellis)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "A. B. Ellis, The Yoruba-speaking Peoples of the Slave Coast of West Africa (1894), ch. 2",
+        "url": "https://archive.org/details/yorubaspeakingp01elligoog"
+      },
+      "license": "Public domain",
+      "summary": {
+        "en": "Ellis records the priests' account of the thunder-god: Shango dwells in the clouds in an immense brazen palace with a great retinue, hurling red-hot chains of iron forged by his brother Ogun upon those who offend him; and a later myth makes him an earthly king of Oyo whose tyranny ended in flight — after which the people proclaimed that Shango was not dead, but had become an orisha.",
+        "zh": "埃利斯錄雷神祭司之說：珊戈居雲中廣大銅宮，侍從車馬甚眾，以兄長奧貢鍛造之赤熱鐵鏈擊罰冒犯者；晚出神話則謂其本為奧約人王，因暴虐遭逐出逃——族人遂宣告：珊戈未死，已升為歐里沙（神）。"
+      },
+      "motifs": [
+        "storm-thunder",
+        "sacred-kingship"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Living religious system of the Yoruba. Recorded from an 1894 colonial-era collection; presented as an archival record, not as permission to speak for Orisha worshippers."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "He dwells in the clouds in an immense brazen palace, where he maintains a large retinue and keeps a great number of horses; for, besides being the thunder-god, he is also the god of the chase and of pillage. From his palace, Shango hurls upon those who have offended him red-hot chains of iron, which are forged for him by his brother Ogun."
+        },
+        {
+          "id": "2",
+          "text": "This Shango was King of Oyo, capital of Yoruba, and became so unbearable through rapacity, cruelty, and tyranny, that the chiefs and people at last sent him a calabash of parrots' eggs, in accordance with the custom that has already been mentioned; with a message that he must be fatigued with the cares of government, and that it was time for him to go to sleep. On receiving this intimation, Shango, instead of allowing himself to be quietly strangled by his wives, defied public opinion and endeavoured to assemble his adherents; and, when this failed, sought safety in flight."
+        }
+      ],
+      "category": "myth-religion"
+    },
+    {
+      "id": "vodou-serpent-ceremony",
+      "title": {
+        "en": "The Vaudoux Ceremony at the Serpent's Box",
+        "zh": "伏都儀式：靈蛇之匣"
+      },
+      "tradition": "afroatlantic",
+      "region": {
+        "en": "Port-au-Prince, Haiti",
+        "zh": "海地太子港"
+      },
+      "lat": 18.54,
+      "lon": -72.34,
+      "period": "Haitian Vodou; recorded 1884 (St. John, after Moreau de St. Méry)",
+      "source": {
+        "archive": "Project Gutenberg",
+        "work": "Sir Spenser St. John, Hayti; or, The Black Republic (1884), ch. 5",
+        "url": "https://www.gutenberg.org/ebooks/68592"
+      },
+      "license": "Public domain",
+      "summary": {
+        "en": "A nineteenth-century diplomatic record of a Vaudoux gathering: worshippers gathered in a secure place adore the serpent kept in a box upon the altar, renew the oath of secrecy holding the hands of the king and queen of the order, and fall into a contagious frenzy that shakes the whole circle until some fall senseless to the ground.",
+        "zh": "十九世紀外交官所錄伏都聚會：信眾於隱密之地環繞祭壇膜拜匣中之蛇，執該會王與后之手重申守密之誓，繼而全圈陷入相互感染之癲狂痙攣，直至有人昏厥倒地。"
+      },
+      "motifs": [
+        "spirit-possession",
+        "world-serpent"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Colonial-era source strongly shaped by hostile outsider framing. Recorded here as an archival account of Haitian Vodou; the details reflect what its opponents reported, not the self-understanding of the living religion."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The King and Queen place themselves at one end of the room, near a kind of altar, on which is a box where the serpent is kept, and where each adept can see it through the bars of its cage. When they have verified that no curious stranger has penetrated into the place, they commence the ceremony by the adoration of the serpent, by protestations of being faithful to its worship and entirely submissive to its commands. They renew, holding the hands of the King and Queen, the oath of secrecy, which is the foundation of the association, and it is accompanied by everything horrible which delirium could imagine to render it more imposing."
+        },
+        {
+          "id": "2",
+          "text": "This ceremony over, the King places his hand or his foot on the box in which the serpent is confined, and soon becomes agitated. This impression he communicates to the Queen, and from her it gains the whole circle, and every one commences certain movements, in which the upper part of the body, the head and shoulders, appear to be dislocated. The Queen above all is a prey to the most violent agitation. From time to time she approaches the serpent in order to add to her frenzy; she shakes the box, and the hawkbells attached to it sound like a fool's bauble, and the excitement goes on increasing."
+        }
+      ],
+      "category": "myth-religion"
+    },
+    {
+      "id": "voodoo-congo-square-song",
+      "title": {
+        "en": "The Voodoo Dance and Chant of Louisiana",
+        "zh": "路易斯安那伏都舞歌"
+      },
+      "tradition": "afroatlantic",
+      "region": {
+        "en": "New Orleans, Louisiana, USA",
+        "zh": "美國路易斯安那紐奧良"
+      },
+      "lat": 29.95,
+      "lon": -90.07,
+      "period": "Louisiana Voodoo; recorded 1886 (Cable)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "George W. Cable, 'Creole Slave Songs,' The Century Magazine, XXXI (Apr. 1886)",
+        "url": "https://archive.org/details/creoleslavesongs00cabl"
+      },
+      "license": "Public domain",
+      "summary": {
+        "en": "Cable's magazine account of Louisiana Voodoo: worship is paid to a snake kept in a box; a queen presides over a midnight forest gathering around the unseen living serpent; and the chant alternating between king and chorus — 'Eh! eh! Bomba, honc! honc! Canga bafio tay...' — drives the ring of dancers till the novice falls in convulsions.",
+        "zh": "凱布爾所錄路易斯安那伏都信仰：信眾膜拜匣中之蛇；王與后主持林中夜會，祭壇上靜臥未見之活蛇；王與眾合唱之咒歌——「欸！欸！邦巴，哄！哄！崗加巴菲奧泰……」——令舞圈狂轉，新手痙攣倒地。"
+      },
+      "motifs": [
+        "spirit-possession",
+        "world-serpent"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Colonial-era source written for a popular magazine, framed by hostile stereotypes. Recorded here as an archival account of Louisiana Voodoo and of a chant as transcribed in 1886; not representative of the living religion."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The worship of Voodoo is paid to a snake kept in a box. The worshipers are not merely a sect, but in some rude, savage way also an order. A man and woman chosen from their own number to be the oracles of the serpent deity are called the king and queen. The queen is the more important of the two, and even in the present dilapidated state of the worship in Louisiana, where the king's office has almost or quite disappeared, the queen is still a person of great note."
+        },
+        {
+          "id": "2",
+          "text": "When the queen decides that such a celebration shall take place, she appoints a night for the gathering, and some remote, secluded spot in the forest for the rendezvous. Thither all the worshipers are summoned. The silence of midnight is overhead, the gigantic forms and shadows and still, dank airs of the tropical forest close in around, and on the altar, in a small box ornamented with little tinkling bells, lies, unseen, the living serpent."
+        },
+        {
+          "id": "3",
+          "text": "But the dance goes on about the snake. The contortions of the upper part of the body, especially of the neck and shoulders, are such as threaten to dislocate them. The queen shakes the box and tinkles its bells, the rum-bottle gurgles, the chant alternates between king and chorus —\n\n\"Eh! eh! Bomba, honc! honc!\nCanga bafio tay,\nCanga moon day lay,\nCanga do keelah, Canga li —\""
+        }
+      ],
+      "category": "myth-religion"
+    },
+    {
+      "id": "congo-king-coronation-brazil",
+      "title": {
+        "en": "The King of the Congo Nation in Brazil",
+        "zh": "巴西剛果族王加冕禮"
+      },
+      "tradition": "afroatlantic",
+      "region": {
+        "en": "Itamaraca, Pernambuco, Brazil",
+        "zh": "巴西伯南布哥伊塔馬拉卡"
+      },
+      "lat": -7.75,
+      "lon": -34.9,
+      "period": "Afro-Brazilian brotherhood rite; recorded 1816 (Koster)",
+      "source": {
+        "archive": "Project Gutenberg",
+        "work": "Henry Koster, Travels in Brazil (1816), ch. 12",
+        "url": "https://www.gutenberg.org/ebooks/48960"
+      },
+      "license": "Public domain",
+      "summary": {
+        "en": "Koster describes the yearly festival of Our Lady of the Rosary, directed by negroes, at which the Congo nation of slaves and freedmen elects a king and queen and crowns them before the vicar in the church — an African nation-rite carried across the Atlantic and woven into Brazilian Catholic brotherhood worship.",
+        "zh": "科斯特記玫瑰聖母年度慶典：由黑人主持，巴西的黑人「剛果族」——奴隸與自由民——選立王與后，於教堂中跪在本堂神父前加冕——非洲族群儀式橫渡大西洋，與巴西天主教善會崇拜合流。"
+      },
+      "motifs": [
+        "sacred-kingship"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Colonial-era source; the term 'mock jurisdiction' is Koster's own framing. Recorded here as an archival account of an Afro-Brazilian coronation rite, not as representative of the participants' own understanding."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "In March took place the yearly festival of our Lady of the Rosary, which was directed by negroes; and at this period is chosen the King of the Congo nation, if the person who holds this situation has died in the course of the year, has from any cause resigned, or has been displaced by his subjects. The Congo negroes are permitted to elect a king and queen from among the individuals of their own nation; the personages who are fixed upon may either actually be slaves, or they may be manumitted negroes."
+        },
+        {
+          "id": "2",
+          "text": "About eleven o'clock I proceeded to the church with the vicar. We were standing at the door, when there appeared a number of male and female negroes, habited in cotton dresses of colours and of white, with flags flying and drums beating; and as they approached we discovered among them the king and queen, and the secretary of state. Each of the former wore upon their heads a crown, which was partly covered with gilt paper, and painted of various colours. The king was dressed in an old fashioned suit of divers tints, green, red, and yellow; coat, waistcoat, and breeches; his sceptre was in his hand, which was of wood, and finely gilt."
+        }
+      ],
+      "category": "myth-religion"
+    }
+  ]
+}

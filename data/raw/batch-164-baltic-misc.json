@@ -1,0 +1,301 @@
+{
+  "_comment": "Baltic miscellaneous records: eclipse lore and dainas from Gray (1918), the Romowe shrine and Prussian triad from the sources summarized in Machal, Mythology of All Races III (1918), after Grunau's Preussische Chronik, and reconstructed creation tales from the Vellius corpus. All passages paraphrase.",
+  "texts": [
+    {
+      "id": "baltic-eclipse-dragons-witches",
+      "title": {
+        "en": "Eclipses of the Lights: Dragons, Serpents, and Witches",
+        "zh": "日月的蝕：龍、蛇與女巫"
+      },
+      "tradition": "baltic",
+      "category": "myth",
+      "region": {
+        "en": "Baltic skies (symbolic pin at Riga)",
+        "zh": "波羅的海天空（象徵性定位於里加）"
+      },
+      "lat": 56.95,
+      "lon": 24.11,
+      "period": "Belief recorded 19th c.; recorded by Gray 1918",
+      "source": {
+        "archive": "Wikisource / Internet Archive",
+        "work": "L. H. Gray, Baltic Mythology, Mythology of All Races III (1918), Part V",
+        "url": "https://en.wikisource.org/wiki/The_Mythology_of_All_Races/Volume_3/Slavic/Part_5"
+      },
+      "license": "Public domain (1918)",
+      "summary": {
+        "en": "Like the sun, the moon is liable to be destroyed — eclipsed — by dragons, serpents, and witches; the Baltic lights can be swallowed by the same powers that eat them in the rest of the Indo-European world, and the noise of the village rises to frighten the eater away.",
+        "zh": "如日一般，月亦可能被龍、蛇與女巫所毀——即遭蝕；波羅的海的光明會被與整個印歐世界相同的吞噬者所食，村中喧聲齊起以嚇退吞者。"
+      },
+      "motifs": [
+        "world-serpent",
+        "sun-capture",
+        "taboo-transgression",
+        "fish-swallow"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Eclipse-demon cluster; cross-tagged with Slavic vlkodlak and Norse wolf."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The moon, in the dainas, wears a mantle of stars and — like the sun — is liable to be destroyed, that is, eclipsed, by dragons, serpents, and witches. Whatever darkens the lights above the Baltic village is read as an eater: the worm in the sky, the witch riding the wind, the serpent that has wound itself around the moon's silver wheel.",
+          "note": "Paraphrase of Gray, Baltic Mythology, Mythology of All Races III (1918), Part V; not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "The remedy is as old as the belief: noise. Drums, bells, shouts, and shot-drive the eater away, as among the Slavs the vlkodlak who devours the sun is frightened off by the same uproar. The Baltic sky is a battlefield as well as a farm, and every eclipse is an alarm to be answered.",
+          "note": "Paraphrase of Gray (1918); not verbatim."
+        }
+      ],
+      "persons": [
+        "perkunas"
+      ]
+    },
+    {
+      "id": "baltic-romowe-kriwe",
+      "title": {
+        "en": "Romowe and the Kriwe: The Baltic Pope and the Eternal Fire",
+        "zh": "羅莫沃與克里維：波羅的海教宗與長明火"
+      },
+      "tradition": "baltic",
+      "category": "myth",
+      "region": {
+        "en": "Romowe shrine, Prussia (symbolic pin)",
+        "zh": "普魯士羅莫沃聖所（象徵性定位）"
+      },
+      "lat": 54.9,
+      "lon": 21.9,
+      "period": "Recorded by Simon Grunau (c. 1526) and later chroniclers; summarized in Machal 1918",
+      "source": {
+        "archive": "Wikisource / Internet Archive",
+        "work": "The Romowe shrine as summarized in Mythology of All Races III (1918), plate and note, after Simon Grunau, Preussische Chronik",
+        "url": "https://en.wikisource.org/wiki/The_Mythology_of_All_Races/Volume_3/Slavic/Part_5"
+      },
+      "license": "Public domain (1918)",
+      "summary": {
+        "en": "At Romowe the eternal fire of oak-wood burned before the gods in the great evergreen oak, tended by the Kriwe — the 'Baltic pope', whose decrees ran as far as the flame's fame — with the Waidelots, the ordinary priests, in their houses round about, and a pot with a sacred serpent fed by the priests.",
+        "zh": "羅莫沃聖所中，橡木長明火於常青巨橡之前燃燒，由克里維——『波羅的海教宗』，其令行於火之名所及之地——看管；普通祭司韋德洛特環列四周，並有祭司飼養的聖蛇一壺。"
+      },
+      "motifs": [
+        "sacred-place",
+        "fire-theft",
+        "sacred-kingship"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Grunau's accounts are treated critically by modern scholarship (Machal notes 'grave doubt'); flagged."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The great centre of the cult of the ancient Prussians was at Romowe, a place of uncertain localization. There lived the head priest, the Kriwe, and there a perpetual fire was maintained — a fire of oak-wood which, once out, could be rekindled only by friction of the sacred wood. The Kriwe's authority ran through the whole Baltic world; his decrees, the sources say, were carried as far as the fame of the flame.",
+          "note": "Paraphrase of the Romowe material summarized in Mythology of All Races III (1918), after Simon Grunau; not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "In the great oak, which remained green summer and winter and was screened from profane gaze, were the idols of the gods: a perpetual fire of oak before Perkunas, and a pot containing a serpent, carefully fed by the priests, before Potrimpo. In the open spaces lay piles of wood for the sacred fire, and the houses of the Waidelots — the ordinary priests — surrounded the whole. Modern scholarship doubts much of Grunau's picture; what is certain is that the Baltic religion kept a central fire, a central priest, and a sacred serpent in its own great sanctuary.",
+          "note": "Paraphrase of the plate-note material in Machal (1918); not verbatim."
+        }
+      ],
+      "persons": [
+        "perkunas"
+      ]
+    },
+    {
+      "id": "baltic-prussian-triad-gods",
+      "title": {
+        "en": "The Prussian Triad: Perkunas, Potrimpo, and Patollo",
+        "zh": "普魯士三聯神：佩爾庫納斯、波特里姆波、帕托洛"
+      },
+      "tradition": "baltic",
+      "category": "myth",
+      "region": {
+        "en": "Romowe, Prussia (symbolic pin)",
+        "zh": "普魯士羅莫沃（象徵性定位）"
+      },
+      "lat": 54.9,
+      "lon": 21.9,
+      "period": "Recorded by Simon Grunau (c. 1526); summarized in Machal 1918",
+      "source": {
+        "archive": "Wikisource / Internet Archive",
+        "work": "The Prussian triad as summarized in Mythology of All Races III (1918), plate note, after Grunau's Preussische Chronik II",
+        "url": "https://en.wikisource.org/wiki/The_Mythology_of_All_Races/Volume_3/Slavic/Part_5"
+      },
+      "license": "Public domain (1918)",
+      "summary": {
+        "en": "In Grunau's old chronicle the Prussians worshipped a triad in the Romowe oak: Perkunas, god of thunder with the eternal fire; Potrimpo, god of rivers and springs, of vegetation and good fortune, with his sacred serpent; and Patollo, god of the underworld, before whom stood the heads of a man, a horse, and a cow.",
+        "zh": "格勞瑙古編年史載普魯士人於羅莫沃橡中奉三聯神：掌長明火之雷神佩爾庫納斯；司河流泉源、豐饒與幸運之神波特里姆波，伴以聖蛇；以及冥界之神帕托洛，其前置人、馬、牛三首。"
+      },
+      "motifs": [
+        "sacred-place",
+        "storm-thunder",
+        "descent-underworld"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Grunau is a late and doubtful source (Machal's caveat); interpretive reconstruction flagged."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "According to the historian Simon Grunau, writing in the early part of the sixteenth century, a triad of gods received adoration at Romowe: Perkunas, deity of thunder, with his perpetual fire of oak; Potrympus, deity of rivers and springs — and hence of vegetation and good fortune — with a pot containing a serpent carefully fed by the priests; and Patollus, deity of the underworld.",
+          "note": "Paraphrase of the plate-note summary in Machal, Mythology of All Races III (1918), after Grunau; not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Each god had his emblem in the evergreen oak: before Patollo stood the heads of a man, a horse, and a cow — the dead and the beasts he receives. We have, however, no certain evidence that the ancient Prussians possessed idols of their gods at all, and in many respects the statements of Grunau are open to grave doubt; the triad stands as the best-remembered shape of a religion recorded only by its destroyers. (Interpretive reconstruction flagged.)",
+          "note": "Paraphrase of the Machal (1918) caveat and material; not verbatim."
+        }
+      ],
+      "persons": [
+        "perkunas"
+      ]
+    },
+    {
+      "id": "baltic-widewuto-bruteno",
+      "title": {
+        "en": "Widewuto and Bruteno: The First Kings of the Prussians",
+        "zh": "維德武托與布魯特諾：普魯士的初代君王"
+      },
+      "tradition": "baltic",
+      "category": "myth",
+      "region": {
+        "en": "Prussia, Romowe (symbolic pin)",
+        "zh": "普魯士羅莫沃（象徵性定位）"
+      },
+      "lat": 54.9,
+      "lon": 21.9,
+      "period": "Recorded by Simon Grunau, Preussische Chronik (c. 1526); documented by later scholarship",
+      "source": {
+        "archive": "Internet Archive / chronicle editions",
+        "work": "Simon Grunau, Preussische Chronik (c. 1526), the legend of Widewuto and Bruteno; documented in Gray (1918) and Gimbutas, The Balts (1963)",
+        "url": "https://archive.org/details/balts0000gimb"
+      },
+      "license": "Scholarly documentation of public-domain chronicle; passages are paraphrase",
+      "summary": {
+        "en": "Grunau's chronicle makes the Prussians descend from two brothers: Widewuto, the king, and Bruteno, the priest-king of the sacred grove; Widewuto's twelve sons gave their names to the lands of Prussia, and the old king ended his fifty-two years by burning himself, his wife, and his people's gifts in the pyre at Romowe.",
+        "zh": "格勞瑙編年史謂普魯士人源自兩兄弟：國王維德武托與聖林祭司王布魯特諾；維德武托十二子之名分賜普魯士諸地；老王執政五十二年，於羅莫沃火葬堆中自焚其身、其妻與人民之獻禮。"
+      },
+      "motifs": [
+        "foundational-legend",
+        "sacred-kingship",
+        "ritual-origin"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Late legendary genealogy; flagged as unreliable by modern scholarship."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The legend recorded by Simon Grunau makes the Prussian nation begin with two brothers: Widewuto the king, who gave the country its laws, its ploughing, and its names, and Bruteno the priest, lord of the sacred grove where the eternal fire burned. Widewuto reigned fifty-two years, dividing the land among his twelve sons, from whom — so the tale goes — the Prussian lands took their names.",
+          "note": "Paraphrase of Grunau's Preussische Chronik legend as documented in Gray (1918) and Gimbutas (1963); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "When his time came Widewuto went to Romowe, the great sanctuary of his father's faith, laid himself on the pyre with his wife, and burned, as the law of his own founding required — the king who had given the fire to his people returning himself to it. The story is a late construction of a people remembering its freedom; but the two offices it names, the king and the priest of the fire, are the two pillars the Baltic religion truly kept. (Late and doubtful source; flagged.)",
+          "note": "Paraphrase of the legend with scholarly caveat; not verbatim."
+        }
+      ],
+      "persons": []
+    },
+    {
+      "id": "baltic-first-man-clay",
+      "title": {
+        "en": "The First Man of Clay and the Devil's Spit",
+        "zh": "泥土初人與魔之唾"
+      },
+      "tradition": "baltic",
+      "category": "myth",
+      "region": {
+        "en": "Lithuania (symbolic pin at Vilnius)",
+        "zh": "立陶宛（象徵性定位於維爾紐斯）"
+      },
+      "lat": 54.69,
+      "lon": 25.28,
+      "period": "Recorded 19th-20th c.; documented by Vellius (1979)",
+      "source": {
+        "archive": "Internet Archive / scholarly editions",
+        "work": "Creation-of-man tales; documented in Vellius, Lithuanian Mythological Tales (1979)",
+        "url": "https://archive.org/details/lithuanianmythol0000veli"
+      },
+      "license": "Scholarly documentation of public-domain folk material; passages are paraphrase",
+      "summary": {
+        "en": "God made the first man of clay and set him in the sun to dry; the Devil, passing by, spat on him — and every illness and crookedness in the human body is the mark of that spitting, while what God made clean is the part of us that still obeys.",
+        "zh": "神以泥土造初人，置於日下晾曬；魔經過時唾之——人體中一切疾病與歪斜皆為唾痕，而神所造之潔處，即人仍聽命之部分。"
+      },
+      "motifs": [
+        "clay-humans",
+        "trickster",
+        "taboo-transgression"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Clay-humans cluster (cross-tagged with Sumerian, Greek, Chinese parallels); framing reconstructed."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "God made the first man of clay and set him in the sun to dry. The Devil, walking by and jealous of the new creature, spat upon him; the spit dried into the body, and from that day the human frame has carried its crookedness and its sicknesses — every pain is the mark of the Devil's spitting, and every part that works well is the part God made.",
+          "note": "Paraphrase of the creation-of-man tale as documented in Vellius, Lithuanian Mythological Tales (1979); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "The tale explains both the body and the medicine: what the doctors can mend, the tales say, is only the Devil's spitting scraped off again, for the clay God made was good. The record's framing is reconstructed from the motif as documented in the collection; the tellers' wording varies. (Reconstructed segments: the drying-in-the-sun scene; restored from the documented motif.)",
+          "note": "Paraphrase of the documented motif; framing reconstructed (Vellius 1979); not verbatim."
+        }
+      ],
+      "persons": []
+    },
+    {
+      "id": "baltic-snake-venom-devil",
+      "title": {
+        "en": "Why the Snake Bites: The Devil's Gift of Venom",
+        "zh": "蛇何以噬人：魔賜之毒"
+      },
+      "tradition": "baltic",
+      "category": "myth",
+      "region": {
+        "en": "Lithuanian meadows (symbolic pin at Kaunas)",
+        "zh": "立陶宛草地（象徵性定位於考納斯）"
+      },
+      "lat": 54.9,
+      "lon": 23.9,
+      "period": "Recorded 19th-20th c.; documented by Vellius (1979)",
+      "source": {
+        "archive": "Internet Archive / scholarly editions",
+        "work": "Etiological snake tales; documented in Vellius, Lithuanian Mythological Tales (1979)",
+        "url": "https://archive.org/details/lithuanianmythol0000veli"
+      },
+      "license": "Scholarly documentation of public-domain folk material; passages are paraphrase",
+      "summary": {
+        "en": "The snake was made gentle, but the Devil — or a jealous master — gave it venom; hence the house-snake is fed and honoured like a god, while the field-snake is feared as the Devil's beast wearing the same scales.",
+        "zh": "蛇本溫馴，然魔（或忌妒者）賜其毒；故家蛇如神般受飼受敬，而田間之蛇則被視為披同鱗之魔獸而懼。"
+      },
+      "motifs": [
+        "creation-chaos",
+        "taboo-transgression",
+        "transformation",
+        "jealousy"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Etiological tale; framing reconstructed."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "In the beginning the snake was made gentle and harmless, a creature of the households — the same being the Lithuanians fed with milk as the guardian žaltys. But the Devil, envious of a beast so favoured, gave the field-snake its venom, and from that hour the same shape walked abroad in two fortunes: the house-snake honoured as a god, the field-snake feared as the Devil's beast.",
+          "note": "Paraphrase of the etiological tale as documented in Vellius, Lithuanian Mythological Tales (1979); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "The tale explains why the same creature is worshipped and killed: it is not the scales that decide but the side of the creation the beast serves. The house-snake's milk-dish stands at the hearth to this day in the old stories, and the field-snake's bite is the Devil's signature — one animal, two creators, as in all the Baltic making. (Framing reconstructed from the motif as documented.)",
+          "note": "Paraphrase of the documented motif; framing reconstructed (Vellius 1979); not verbatim."
+        }
+      ],
+      "persons": []
+    }
+  ]
+}

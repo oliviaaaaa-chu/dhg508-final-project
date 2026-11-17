@@ -1,0 +1,206 @@
+{
+  "_comment": "Shahnama of Firdausi, trans. A. G. & E. Warner (1905), vol. I: Mount Sipand, Naudar's misrule, Afrasiyab's invasion. Paraphrase passages with notes.",
+  "texts": [
+    {
+      "id": "persian-rustam-sipand-salt",
+      "title": {
+        "en": "Rustam Takes Mount Sipand Behind a Cargo of Salt",
+        "zh": "魯斯塔姆假商取錫潘德山堡"
+      },
+      "tradition": "persian",
+      "category": "myth",
+      "region": {
+        "en": "Mount Sipand, Pars (symbolic pin)",
+        "zh": "帕爾斯錫潘德山（象徵性定位）"
+      },
+      "lat": 30.5,
+      "lon": 51.8,
+      "period": "Composed c. 1010 CE (Warner translation 1905)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Firdausi, Shahnama, trans. A. G. & E. Warner (1905), vol. I, Minuchihr secs. 31-33",
+        "url": "https://archive.org/details/shahnama01firduoft"
+      },
+      "license": "Public domain (translation 1905)",
+      "summary": {
+        "en": "Sam, avenging Nariman who fell before the cloud-capt stronghold of Mount Sipand, bids Rustam take it by artifice as a caravan-driver bearing salt — for the garrison have no salt to eat. Rustam conceals his mace in a load of salt, is welcomed within, and at night strikes the castellan down with one blow; by sunrise not one of the garrison remained alive that was not wounded, and Rustam fires the hold and turns home like rushing wind.",
+        "zh": "薩姆欲為納里曼復仇——那位英雄曾攻雲端要塞錫潘德而隕落——遂命魯斯塔姆以販鹽商隊智取：守軍無鹽可食。魯斯塔姆將狼牙棒藏於鹽馱中入城，夜間一擊斃守將；至日出，守軍無一完好者，魯斯塔姆焚堡如疾風而歸。"
+      },
+      "motifs": ["trickster", "culture-hero", "foundational-legend"],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Epic literary source; no living community restriction."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "So ere thy spreading fame shall thwart thine action, take vengeance for the blood of Nariman, said Sam: speed forth to Mount Sipand where thou wilt see a cloud-capt stronghold four leagues square, whereover the eagle hath not soared. There is but one approach; 'tis through a gate as high as heaven, and Nariman, who bore the ball from all the chiefs, approached the stronghold by order of Shah Faridun and held the road. The siege went on both night and day with stratagems and spells above a year, until the foe hurled down a rock, and the host retreated to the Shah.",
+          "note": "Paraphrase of Firdausi, Shahnama, Minuchihr sec. 31 (Warner 1905); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Now is the time, my son, for artifice: go with a caravan in merry pin, so that the watchmen may not find thee out. Don camel-drivers' clothes and carry naught but salt, for that is precious there; though the castle towereth above its gate they have no salt to eat, so all will run to greet thee when they see loads of it coming unexpectedly. Rustam concealed his mace within a load of salt, hid the arms within the camels' loads, and merry at the artifice sped on to Mount Sipand.",
+          "note": "Paraphrase of Firdausi, Shahnama, Minuchihr sec. 32 (Warner 1905); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "The chief rose, glad and smiling, bade his men unbar the gate and let the strangers in; young Rustam entered the bazar and the people chaffered with him unsuspectingly. At night brave Rustam and his warriors, armed for the fray, made for the castellan, who strove against them, but the Matchless one struck him a mace-blow on the head and buried his head and crown in dust. Night gloomed, blades flashed, and earth was like the ruby; of all the garrison not one remained alive that was not wounded. Then he set fire to Mount Sipand, whose reek rose skyward, and turned away light-hearted, going home like rushing wind.",
+          "note": "Paraphrase of Firdausi, Shahnama, Minuchihr secs. 32-33 (Warner 1905); not verbatim."
+        }
+      ],
+      "persons": ["rustam", "sam", "zal"]
+    },
+    {
+      "id": "persian-naudar-misrule",
+      "title": {
+        "en": "Naudar's Misrule and Sam's Rebuke",
+        "zh": "瑙達爾暴政與薩姆之諫"
+      },
+      "tradition": "persian",
+      "category": "myth",
+      "region": {
+        "en": "Throne of Iran (symbolic pin)",
+        "zh": "伊朗王座（象徵性定位）"
+      },
+      "lat": 34.0,
+      "lon": 51.4,
+      "period": "Composed c. 1010 CE (Warner translation 1905)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Firdausi, Shahnama, trans. A. G. & E. Warner (1905), vol. I, Naudar secs. 1-2",
+        "url": "https://archive.org/details/shahnama01firduoft"
+      },
+      "license": "Public domain (translation 1905)",
+      "summary": {
+        "en": "Naudar blots out the customs of his sire, grows severe to chief and archimage, and is enslaved to pelf; the peasants rise and bold spirits claim the realm. The unjust Shah writes in terror to Sam, who marches from Mazandaran; the magnates would make Sam king, but he refuses: would God approve? Naudar hath royal blood and sitteth belted on the royal seat. He brings the Grace back, makes earth grow young, and warms the chiefs' hearts toward their sovereign.",
+        "zh": "瑙達爾毀棄父法，苛待群臣術士，貪財成性；農民起事，豪強覬覦王國。驚恐的君王致書薩姆求援；貴族們欲擁薩姆為王，他卻拒絕：「神會允許嗎？瑙達爾是王族血脈，正束腰坐於王座之上。」薩姆重振王綱，令大地如春，並勸和君臣。"
+      },
+      "motifs": ["sacred-kingship", "taboo-transgression"],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Epic literary source; no living community restriction."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "But matters changed, the monarch proved unjust, laments went up on all sides, and men's heads were whitened by the Shah. He blotted out the customs of his sire and grew severe to chief and archimage, spurned gracious ways and was enslaved to pelf. The peasants rose, bold spirits claimed the realm, and tumults followed. The unjust Shah in terror wrote to Sam, then at Sagsar within Mazandaran.",
+          "note": "Paraphrase of Firdausi, Shahnama, Naudar sec. 1 (Warner 1905); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "The magnates in Iran went out to meet the approaching troops and spake with Sam of all the actions done by Naudar: he hath made earth a desert, the Grace of God hath left him. How would it be if Sam with his shrewd mind were seated on the throne? His fortune would regenerate the world, and we all would pledge our lives for fealty to him. But Sam replied: would God approve? Naudar hath royal blood and sitteth belted on the royal seat; could I lay hands upon the realm and crown? Impossible!",
+          "note": "Paraphrase of Firdausi, Shahnama, Naudar sec. 2 (Warner 1905); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "If Naudar hath left the way trod by his sire, the iron is not so rust-eaten yet as to be hard to furbish. I will bring the Grace back and make all desire his love; the dust of Minuchihr shall be my throne, the print of his son's horseshoe be my crown. The chiefs repented and made fealty afresh; that prosperous-footed paladin made earth grow young throughout, and from each province came tax and tribute out of fear of Sam, the swift of wrath.",
+          "note": "Paraphrase of Firdausi, Shahnama, Naudar sec. 2 (Warner 1905); not verbatim."
+        }
+      ],
+      "persons": ["naudar", "sam"]
+    },
+    {
+      "id": "persian-afrasiyab-takes-naudar",
+      "title": {
+        "en": "Afrasiyab Invades Iran and Takes Naudar",
+        "zh": "阿弗拉西亞卜入侵伊朗並擒瑙達爾"
+      },
+      "tradition": "persian",
+      "category": "myth",
+      "region": {
+        "en": "Wastes of Dahistan (symbolic pin)",
+        "zh": "達希斯坦荒原（象徵性定位）"
+      },
+      "lat": 37.0,
+      "lon": 54.0,
+      "period": "Composed c. 1010 CE (Warner translation 1905)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Firdausi, Shahnama, trans. A. G. & E. Warner (1905), vol. I, Naudar secs. 3-7",
+        "url": "https://archive.org/details/shahnama01firduoft"
+      },
+      "license": "Public domain (translation 1905)",
+      "summary": {
+        "en": "Pashang, king of Turan, hears of Minuchihr's death and Naudar's misrule and sends his son Afrasiyab to wash the blood-tears from their cheeks. A host without a middle or an end crosses Jihun; Karan falls, Karan fights, Shamasas is sent against Zabul while Sam is dead and Zal busy with his obsequies. The armies meet at Dahistan; in three battles defeat draws ever nearer to Naudar; Karan goes to save the women of Pars, and when the Shah seeks the waste Afrasiyab follows like a lion and takes him with twelve hundred nobles.",
+        "zh": "帕尚格聞米努奇赫爾死訊與瑙達爾暴政，遣子阿弗拉西亞卜「洗去眼中血淚」。一支無首無尾的大軍渡過烏滸水；卡蘭迎戰，薩馬薩斯則趁薩姆已死、扎勒治喪之機攻扎布勒。兩軍戰於達希斯坦；三度交鋒，敗象漸近瑙達爾；卡蘭趕去救帕爾斯的婦孺，國王逃向荒原，阿弗拉西亞卜如獅追至，連同一千二百名貴族一併擒獲。"
+      },
+      "motifs": ["sacred-kingship", "taboo-transgression", "sibling-creators"],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Epic literary source. Afrasiyab (Frangrasyan) is the Turanian arch-foe of the Avesta; read as literary legend, not ethnic polemic. No living community restriction."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "News of Shah Minuchihr's decease, and how things fared ill with Naudar, came to Turan, whose folk held commune with the malcontents. Pashang, the Turkman ruler, also heard and contemplated war. He summoned all the captains and grandees, as Ighriras, Barman, and Garsiwaz, that raging Lion Kulbad, and generals like skilful Wisa, and also called his son Afrasiyab, to whom he said concerning Salm and Tur: now is the time for action and revenge, the time to wash the blood-tears from our cheeks.",
+          "note": "Paraphrase of Firdausi, Shahnama, Naudar sec. 2 (Warner 1905); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "To fight with Lions is my work, I match myself against Naudar, bragged Afrasiyab; now whatsoe'er my grandsire left undone of vengeance-seeking, fight, and stratagem is left for my sharp sword to execute; the time of turmoil is the time for me. When herbage made the plain like painted silk, an army marched forth from Turan and Chin with mace-men from the Western lands, a host without a middle or an end; and the fortune of Naudar was young no longer.",
+          "note": "Paraphrase of Firdausi, Shahnama, Naudar secs. 2-3 (Warner 1905); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "Afrasiyab surveyed them and despatched by night a cameleer to bear Pashang a letter: the expected good hath come; Naudar's whole host is as a quarry to us, and Sam is dead; I feared none in Iran but him. By this time Shamasas is in Nimruz enthroned and crowned. The armies fought, and while the javelins put the earth in shade defeat drew ever nearer to Naudar; upon the side where bold Shapur was stationed the ranks were broken and the troops dispersed, but he maintained his post till he was slain.",
+          "note": "Paraphrase of Firdausi, Shahnama, Naudar secs. 3-6 (Warner 1905); not verbatim."
+        },
+        {
+          "id": "4",
+          "text": "Karan, moved with jealousy for the women of Iran, went with all his valiant men toward Pars, and slew Barman on the way, avenging his brother Kubad. Naudar, on hearing that Karan had gone, sped after him, all instant to escape the evil day. Afrasiyab gat tidings, collected troops, and followed as 'twere a lion. They fought all night till noonday, and at length the Shah was taken with twelve hundred nobles; strive as they might to flee they were ensnared within the net of bale, and Afrasiyab put into bonds the captured host and Shah.",
+          "note": "Paraphrase of Firdausi, Shahnama, Naudar secs. 6-7 (Warner 1905); not verbatim."
+        }
+      ],
+      "persons": ["afrasiyab", "naudar", "karan", "pashang"]
+    },
+    {
+      "id": "persian-kubad-barman-duel",
+      "title": {
+        "en": "Old Kubad Accepts Death and Falls to Barman",
+        "zh": "老將庫巴德赴死"
+      },
+      "tradition": "persian",
+      "category": "myth",
+      "region": {
+        "en": "Plain of Dahistan (symbolic pin)",
+        "zh": "達希斯坦平原（象徵性定位）"
+      },
+      "lat": 37.0,
+      "lon": 54.0,
+      "period": "Composed c. 1010 CE (Warner translation 1905)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Firdausi, Shahnama, trans. A. G. & E. Warner (1905), vol. I, Naudar sec. 4",
+        "url": "https://archive.org/details/shahnama01firduoft"
+      },
+      "license": "Public domain (translation 1905)",
+      "summary": {
+        "en": "Barman the Turkman shouts a challenge, and none responds but valiant old Kubad, Karan's brother, who knows the rolling sky hath given him enough: no mortal passeth into heaven alive; man is death's quarry. Make me a royal charnel in your love, he says, then sallies forth like a fierce elephant. The two contend from dawn till shadows lengthen; a dart through mail and buckle strikes his hip, and that ancient lion-heart falls headlong, leaving Karan to take up his blood-feud.",
+        "zh": "突厥人巴爾曼陣前叫陣，應戰者唯有卡蘭之兄、老將庫巴德：「上天已給足我壽數；凡人無法活著進天堂，人皆為死之獵物。」他懇求弟弟日後為他築王家陵寢，便如猛象般出陣。二人自晨戰至日影斜長，一鏢穿甲扣中其臀，老獅之心轰然倒下——卡蘭從此背負血仇。"
+      },
+      "motifs": ["quest-immortality", "boon-curse", "sibling-creators"],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Epic literary source; no living community restriction."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Barman pricked forth and shouted to Karan: in all the army of the famed Naudar hast thou a man who will contend with me? Karan looked round upon his mighty men for one to volunteer, but none responded save valiant old Kubad. The prudent chief was grieved and troubled when his brother spake, and wept for wrath, that with so many young to fight, one old man only volunteered.",
+          "note": "Paraphrase of Firdausi, Shahnama, Naudar sec. 4 (Warner 1905); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "The rolling sky hath given me enough, said Kubad in presence of the troops. Know, brother, that the body is for death; my head and neck were meant to wear a helm. No mortal passeth into heaven alive; man is death's quarry; one the scimitar destroyeth mid the mellay, and another's life is ended on his bed. Make me a royal charnel in your love, give musk, rose-water, camphor for my head, my body to the place of endless sleep; this do, live peacefully, and trust in God.",
+          "note": "Paraphrase of Firdausi, Shahnama, Naudar sec. 4 (Warner 1905); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "This said, he grasped his spear and sallied forth like some fierce elephant. The sky gave me my share long since, said he to Barman, and he whose hour hath come will have to die where'er he be: that time is not ill-timed at any time. He spake and urged his sable steed, denying his ardent heart all rest. The two contended from dawn till shadows lengthened; in the end the victory was Barman's, who as he rode hurled at Kubad a dart which struck his hip and pierced his belt. That ancient lion-heart fell headlong and so passed, and Karan, when Kubad was slain, drew out his army and attacked.",
+          "note": "Paraphrase of Firdausi, Shahnama, Naudar sec. 4 (Warner 1905); not verbatim."
+        }
+      ],
+      "persons": ["kubad", "barman", "karan"]
+    }
+  ]
+}

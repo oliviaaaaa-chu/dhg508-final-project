@@ -1,0 +1,227 @@
+{
+  "_comment": "Polynesian expansion batch 165 - E. W. Gifford, Tongan Myths and Tales (Bishop Museum Bulletin 8, 1924): Maui cycle (pp. 21-25), Tui Tonga cycle (pp. 25-30), kava origin (pp. 71-72), Hikuleo's house (pp. 171-174), misc tales (pp. 201-203). All passages are labeled paraphrase.",
+  "texts": [
+    {
+      "id": "polynesian-maui-kisikisi-tongan-fire",
+      "title": { "en": "The Maui Brothers Bring Fire from Pulotu", "zh": "毛伊兄弟自普洛圖攜火而來" },
+      "tradition": "polynesian",
+      "category": "myth",
+      "region": { "en": "Pulotu to Tongatabu (symbolic pin)", "zh": "自普洛圖至湯加塔布（象徵性定位）" },
+      "lat": -21.2,
+      "lon": -175.2,
+      "period": "Tongan oral tradition; recorded 1924 (Gifford)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "E. W. Gifford, Tongan Myths and Tales, pp. 21-23 (Honolulu 1924)",
+        "url": "https://archive.org/details/tonganmythstales0000giff"
+      },
+      "license": "Public domain (Bishop Museum Bulletin 8, 1924)",
+      "summary": {
+        "en": "The Maui brothers come from Pulotu bringing fire, for there is none on earth - wrapped in the loin-cloth of Maui Motua, where it smoulders. Their first work on earth is weeding; Maui Motua warns Maui Kisikisi not to look back lest the grass grow again, but the junior cheats, keeps looking back, and grass grows on forever. Quarrelling, Maui Kisikisi tears the fire-end from his brother's cloth and commands the fire to run into the different trees - where it is now - then flees to Pulotu with his brother chasing.",
+        "zh": "毛伊諸兄弟自普洛圖而來，攜火入世——地上本無火，火裹在毛伊穆圖亞的纏腰布中陰燃。下界第一樁工作是鋤草；兄長囑弟勿回頭，否則草復生；弟作弊回望，草遂世世叢生。兄弟反目，毛伊基斯基斯基扯下藏火之布，喝令火遁入各種樹木——火至今猶在木中——隨即奔逃，兄長窮追至普洛圖。"
+      },
+      "motifs": ["fire-theft", "trickster", "culture-hero"],
+      "sensitivity": { "restricted": false, "note": "Tongan fire-origin variant." },
+      "persons": [],
+      "passages": [
+        { "id": "1", "text": "The first thing was their coming from Pulotu: first Maui Motua, then Maui Kisikisi and Maui Atalanga, and another Maui whose other name I do not remember. And the thing that they brought with them was fire. It is said that there was no fire on earth; that is why they brought the fire. It was only brought to be taken back to Pulotu; it was wrapped in the end of Maui Motua's loin cloth, which smouldered.", "note": "Paraphrase of E. W. Gifford, Tongan Myths and Tales, pp. 21-23 (1924); not verbatim." },
+        { "id": "2", "text": "It is said that the first work done on earth was to weed. Maui Motua told Maui Kisikisi, 'Don't look behind when you dig, lest the grass grow again. When the grass is first dug it will not grow again and no other bush or weed will grow forever, but the land will be clear forever.' But Maui Kisikisi cheated when he weeded, for he kept looking back. That is the reason why the grass keeps growing. While they were weeding Maui Motua felt his body pain him and he felt weak; then he turned and looked back, and behold all the weeds had grown where he had dug. Maui Kisikisi had kept looking behind as he weeded, and Maui Motua was very angry with him.", "note": "Paraphrase of E. W. Gifford, Tongan Myths and Tales, pp. 21-23 (1924); not verbatim." },
+        { "id": "3", "text": "Maui Kisikisi tore off a piece of the loin cloth of Maui Motua that had the fire smouldering in it, and told the fire to run into the different trees - that is where it is now. After that Maui Kisikisi ran and Maui Motua chased him to Pulotu. That is the end of my poor story about Maui; please excuse me if it is wrong, for I am only of the present day.", "note": "Paraphrase of E. W. Gifford, Tongan Myths and Tales, pp. 21-23 (1924); not verbatim." }
+      ]
+    },
+    {
+      "id": "polynesian-maui-kisikisi-raises-sky",
+      "title": { "en": "Maui Pushes Up the Teve-propped Sky", "zh": "毛伊撐起芋菇所支之天" },
+      "tradition": "polynesian",
+      "category": "myth",
+      "region": { "en": "Tonga sky (symbolic pin)", "zh": "湯加之天（象徵性定位）" },
+      "lat": -21.17,
+      "lon": -175.18,
+      "period": "Tongan oral tradition; recorded 1924 (Gifford)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "E. W. Gifford, Tongan Myths and Tales, pp. 21-24 (Honolulu 1924)",
+        "url": "https://archive.org/details/tonganmythstales0000giff"
+      },
+      "license": "Public domain (Bishop Museum Bulletin 8, 1924)",
+      "summary": {
+        "en": "The boundary of the sky was a teve plant; Maui stood and pushed up the sky with a stick, so that we might walk upright under the sky. In Lavaka's account the sky was supported by teve plants, and it is Maui Kisikisi who raises it, not Maui Atalanga. In Moli's telling the elder Maui was preparing his earth oven when his poker got jammed in the sky; he reversed it and pushed the sky until it was very high - the reason the sky is black being that the end of Maui's oven stick was dirty.",
+        "zh": "湯加傳說：天界之邊界曾是一株芋菇；毛伊以杖撐天，使世人得以直腰行走。拉瓦卡記述：天原由芋菇諸株承托，舉天者為毛伊基斯基斯基。莫利則說：長兄毛伊設灶時，灶箸卡進天底；他倒轉箸柄將天一推至極高——天空之所以發黑，只因毛伊的灶箸末梢沾了灶灰。"
+      },
+      "motifs": ["creation-chaos", "culture-hero", "sun-capture"],
+      "sensitivity": { "restricted": false, "note": "Sky-lifting cluster, Tongan recension." },
+      "persons": [],
+      "passages": [
+        { "id": "1", "text": "It is said that the boundary of the sky was a teve plant, that Maui stood and pushed up the sky with a stick for a confined woman, so that we might under the sky walk upright. In Lavaka's account, before the sky was pushed up to its present height it was supported by certain plants which were known as teve; in that account it is Maui Kisikisi who raises the sky, not Maui Atalanga.", "note": "Paraphrase of E. W. Gifford, Tongan Myths and Tales, pp. 21-24 (1924); not verbatim." },
+        { "id": "2", "text": "Moli's version of the sky-raising is as follows: It is said that the sky was low in olden days. The elder Maui was preparing his earth oven; when he used his poker it got jammed in the sky. Then he reversed his poker and pushed up the sky until it was very high. They say the reason of the sky being black is because the end of Maui's oven stick was dirty. The poem adds that Maui lifted the eel from the hole of the cave in Kulukave, and that where he turned he shook the earth and did it again - the places Utukakai and Talaamohi, and Namalata which was very rough.", "note": "Paraphrase of E. W. Gifford, Tongan Myths and Tales, pp. 21-24 (1924); not verbatim." }
+      ]
+    },
+    {
+      "id": "polynesian-maui-mosolahi-islets",
+      "title": { "en": "Maui Plants Food and Casts Two Sons into the Sea", "zh": "毛伊墾地並將二子擲海成島" },
+      "tradition": "polynesian",
+      "category": "myth",
+      "region": { "en": "Ngaunoho, Utungake island, Vavau", "zh": "瓦瓦烏群島烏通加凱恩加烏諾霍" },
+      "lat": -18.73,
+      "lon": -174.03,
+      "period": "Tongan oral tradition; recorded 1924 (Gifford)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "E. W. Gifford, Tongan Myths and Tales, pp. 23-24 (Honolulu 1924)",
+        "url": "https://archive.org/details/tonganmythstales0000giff"
+      },
+      "license": "Public domain (Bishop Museum Bulletin 8, 1924)",
+      "summary": {
+        "en": "Maui resides at Ngaunoho in Utungake island, walking about all day while his wife and children weep - they are starving. He digs between the islands so hard that the land rocks and they cry out in fear; so he kills his two sons, Mosolahi and Mososii, and throws them into the sea, where they become two little islets that bear their names.",
+        "zh": "毛伊居烏通加凱的恩加烏諾霍，終日閒遊，妻兒啼泣——因家無隔宿之糧。他遂往兩島之間奮力墾土，掘得大地撼搖，妻兒驚懼痛哭。於是他殺了兩個兒子莫索拉希與莫索希伊，擲入大海——二童化作兩座小島，島即以其名名之。"
+      },
+      "motifs": ["transformation", "sacred-place", "taboo-transgression"],
+      "sensitivity": { "restricted": false, "note": "Child-sacrifice motif in the Tongan Maui cycle; recorded as in source." },
+      "persons": [],
+      "passages": [
+        { "id": "1", "text": "Maui resided at Ngaunoho in Utungake island, Vavau group, and lived there with his wife and children. Every day he only walked around, and his wife and children wept. He at last inquired of them the reason of their tears. So his wife replied: 'We are weeping because you always go away and leave us starving.' 'Very well', said Maui, 'I will go and plant something for us to eat.'", "note": "Paraphrase of E. W. Gifford, Tongan Myths and Tales, pp. 23-24 (1924); not verbatim." },
+        { "id": "2", "text": "He went between Ngaunoho and Utungake and started digging the soil there. He dug so hard that the land rocked and his children and his wife cried. Maui heard them and returned and asked them what was the matter and why they were crying. They told him: 'We are frightened.' And Maui said: 'You are frightened because I went to plant something to eat.' Then he killed his two sons and threw them into the sea. The names of the boys were Mosolahi and Mososii, and two little islets are called after them, because when the two boys were cast into the sea they were transformed into these two islets.", "note": "Paraphrase of E. W. Gifford, Tongan Myths and Tales, pp. 23-24 (1924); not verbatim." }
+      ]
+    },
+    {
+      "id": "polynesian-ahoeitu-first-tui-tonga",
+      "title": { "en": "Ahoeitu, the Divine First Tui Tonga", "zh": "阿霍埃圖：首任神裔湯加王" },
+      "tradition": "polynesian",
+      "category": "myth",
+      "region": { "en": "Popua and Holohiufi, Tongatabu", "zh": "湯加塔布波普阿與霍洛希菲" },
+      "lat": -21.14,
+      "lon": -175.17,
+      "period": "Tongan oral tradition; recorded 1924 (Gifford, from Reiter 1907)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "E. W. Gifford, Tongan Myths and Tales, pp. 25-29 (Honolulu 1924)",
+        "url": "https://archive.org/details/tonganmythstales0000giff"
+      },
+      "license": "Public domain (Bishop Museum Bulletin 8, 1924)",
+      "summary": {
+        "en": "The sky-god Tangaloa Eitumatupua descends the great casuarina of Toonangakava to the fisher-woman Ilaheva; their son Ahoeitu climbs the ironwood tree to the sky. Jealous celestial brothers tear him in pieces, cook and eat him, throwing his head into the hoi bush. Their father makes them vomit the flesh, gathers the head and bones in a bowl of water covered with nonuhaha leaves, and the boy sits up alive. He descends to become the first divine Tui Tonga; his brothers are distributed into the offices of the Tongan polity - 'Did he descend from the sky?' is still the test of a chief.",
+        "zh": "天神坦加羅亞埃圖馬圖普瓦沿大木麻黃樹而下，與漁婦伊拉赫瓦生子阿霍埃圖。少年攀鐵木登天尋父；天上眾兄弟妒而肢解其身、烹而食之，頭顱擲入霍伊叢。父親命諸子嘔吐還肉，將頭骨納入水盆、覆以海蒲桃葉——死者竟於盆中坐起！阿霍埃圖下凡為首任神裔湯加王；其兄弟分任護衛執政——至今湯加人猶以『他是否自天而降？』考驗酋長之尊。"
+      },
+      "motifs": ["resurrection", "sacred-kingship", "divine-marriage", "taboo-transgression"],
+      "sensitivity": { "restricted": false, "note": "Founding legend of the Tui Tonga sacred line; cannibal revenge summarized." },
+      "persons": [],
+      "passages": [
+        { "id": "1", "text": "There first appeared on the earth the human offspring of a worm or grub, and the head of the worm became Tui Tonga; his name was Kohai and he was the first Tui Tonga in the world. A large casuarina tree grew on the island of Toonangakava, between the islands of Mataaho and Talakite in the lagoon of Tongatabu; this great casuarina tree reached to the sky, and a god came down from the sky by this great tree. This god was Tangaloa Eitumatupua. When he came down there was a woman fishing; her name was Ilaheva, and also Vaepopua. The god from the sky came to her and caught her, and they cohabited; their sleeping place was called Mohenga. The woman Ilaheva became pregnant and gave birth to a male child, and tended the child on earth while the god dwelt in the sky.", "note": "Paraphrase of E. W. Gifford, Tongan Myths and Tales, pp. 25-29 (1924); not verbatim." },
+        { "id": "2", "text": "After a time the god returned and asked the woman about their child, and said, 'His name shall be Ahoeitu, Day-has-dawned.' He asked whether her soil was clay or sand, and, hearing that her place was sandy, said, 'Wait until I throw down a piece of clay from the sky, to make a garden for the boy Ahoeitu, and also a yam for the garden of our child.' So the god poured down the mount called Holohiufi, Pour-the-yam, and brought down the yam from the sky. The mother and son lived together until the child Ahoeitu was big; then he asked who his father was, and his mother told him his father was in the sky, named Eitumatupua, and that the great casuarina was the road to the sky. The boy climbed the great casuarina tree and reached the sky; he went along the big wide road, found the mound, and saw his father catching pigeons. When his father saw him approaching, he sat down because he was overpowered at seeing his son; they pressed noses and cried, and had kava and food.", "note": "Paraphrase of E. W. Gifford, Tongan Myths and Tales, pp. 25-29 (1924); not verbatim." },
+        { "id": "3", "text": "That day the celestial sons of Eitumatupua were having an entertainment, playing the game called sikaulutoa, played with a reed throwing-stick with a head of toa or casuarina wood. The god sent Ahoeitu to the entertainment of his brothers in the green. The people saw the lad and all gazed at him with one accord, for he was very handsome and well formed; his brothers were immediately jealous of him. They sprang upon and tore him to pieces, then cooked and ate him - some accounts say his flesh was eaten uncooked; his head was left over, so they threw it among the plants called hoi, which caused one kind of hoi to become bitter. After a little while Ahoeitu's father said to a woman, 'Go and seek the lad at the entertainment, so that he may eat.' They searched but could not find him. Eitumatupua suspected that Ahoeitu's brothers had killed the lad; therefore he sent a message for them to come and asked where the lad was. They lied, saying, 'We do not know.' Then their father said, 'Come and vomit.' A big wooden bowl was brought; they were told to tickle their throats so that they would vomit up the flesh of the lad and also the blood, in fact all the parts they had eaten; they all had their throats tickled and they vomited, filling the wooden bowl. They were asked where his head was; the murderers replied that they threw it into the bush, into the hoi bush.", "note": "Paraphrase of E. W. Gifford, Tongan Myths and Tales, pp. 25-29 (1924); not verbatim." },
+        { "id": "4", "text": "Then the god Eitumatupua sent a messenger to seek the head of Ahoeitu; they also collected his bones and put them together with his head into the bowl and poured water on to the flesh and blood. Then were plucked and brought the leaves of the nonuhaha tree, whose leaves placed on a sick person possess the virtue of bringing immediate recovery, even if the person is nigh unto death. So the nonuhaha leaves were covered over the remains of Ahoeitu, and the bowl containing them was put behind the house; they visited the bowl continually, and after a time poured out the water - the flesh of his body had become compact. They visited the bowl again and again and at last found him sitting up in it. Then they told Eitumatupua that Ahoeitu was alive, and brought him into the house into the presence of his father, who spoke, ordering that the brothers of Ahoeitu, who ate him, be brought. 'You have killed Ahoeitu. He shall descend as the ruler of Tonga, while you, his brothers, remain here.' But the brothers loved Ahoeitu, as they had just realized that he was their real brother, and pleaded with their father to be allowed to accompany him; the plea was finally granted. Ahoeitu returned to earth and became Tui Tonga, the first divine Tui Tonga of the world; the Tui Tonga who originated from the offspring of the worm were displaced. The Tui Tonga and their families are of the highest rank, because Ahoeitu came originally from the sky; his divine origin makes his descendants real chiefs. In fact, it became customary to ask of one who is proud or thinks himself a chief: 'Is he a chief? Did he descend from the sky?'", "note": "Paraphrase of E. W. Gifford, Tongan Myths and Tales, pp. 25-29 (1924); not verbatim." }
+      ]
+    },
+    {
+      "id": "polynesian-kava-origin-kavaonau",
+      "title": { "en": "Kavaonau: The Leper Girl and the First Kava Bowl", "zh": "卡瓦奧瑙：痲瘋少女與第一碗卡瓦" },
+      "tradition": "polynesian",
+      "category": "myth",
+      "region": { "en": "Eueiki island, Tonga", "zh": "湯加埃烏埃基島" },
+      "lat": -21.13,
+      "lon": -175.03,
+      "period": "Tongan oral tradition; recorded 1924 (Gifford, from Mrs. Rachel Tonga)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "E. W. Gifford, Tongan Myths and Tales, pp. 71-72 (Honolulu 1924)",
+        "url": "https://archive.org/details/tonganmythstales0000giff"
+      },
+      "license": "Public domain (Bishop Museum Bulletin 8, 1924)",
+      "summary": {
+        "en": "Famine on Eueiki: Fefafa and Fevanga, attendants of the Tui Tonga, have only one great kape plant - which they cut while chief Loau sits beside it - and no meat, so they kill their daughter Kavaonau for the oven. Loau rebukes them and has her buried: from her head grows a great kava plant, from her intestines a great sugar-cane; a rat that chews the kava is partly paralysed, chewing the cane it recovers - showing cane must follow kava. Loau's instructions name the strainer, the bowl, the master of ceremonies and the banana-leaf cup: the kava ceremony of Tonga is born from the leper girl's grave.",
+        "zh": "埃烏埃基島饑饉：僕夫婦費法法與費旺加只有一株大芋菇——趁洛奧酋長坐於其旁時砍倒作食——肉則以女兒卡瓦奧瑙充之。洛奧斥責並令安葬：頭上生出大卡瓦，腸中長出大甘蔗；老鼠嚼卡瓦則半身麻痺，嚼甘蔗則康復奔跳——故卡瓦必須配甘蔗同服。洛奧吩咐備濾纖維、制酒碗、設司儀、鋪蕉葉承盃——湯加的卡瓦儀式自此而生。"
+      },
+      "motifs": ["ritual-origin", "taboo-transgression", "sacred-kingship"],
+      "sensitivity": { "restricted": false, "note": "Human-sacrifice origin of the kava ceremony; retained as the record states it." },
+      "persons": [],
+      "passages": [
+        { "id": "1", "text": "Two persons called Fefafa and Fevanga dwelt at Eueiki; the man was an attendant of the Tui Tonga, and after continually going to visit the Chief at Mua he addressed him and asked him to sail over on a pleasure trip to the island. And Tui Tonga went to Eueiki at a time when there was a scarcity of food at the island. Only one big kape plant, a plant whose root is eaten but is very peppery, stood on the man's premises; and when they landed the gear of the vessel of the chiefs was taken and placed against the kape plant, and they went to see the man. The couple went and prepared the native oven, and desired earnestly to get the big kape plant against which Loau's canoe gear was resting. They asked Loau to go into the house so they might be at liberty to cut the big kape; after some time the chief went into the house, then they cut down the big kape and baked the food. But they had no meat, so they killed Kavaonau, their daughter, as meat for their oven.", "note": "Paraphrase of E. W. Gifford, Tongan Myths and Tales, pp. 71-72 (1924); not verbatim." },
+        { "id": "2", "text": "The food was cooked and brought to the Chief Loau, and he thanked them for preparing the food, but he said, 'Why did not know that it was a kava plant; have you destroyed your child?' Then he told them to take it away and bury it. They told their people to bury it at the rear of their house; but the intestines and head were buried separately. And for five nights they kept visiting the grave; after five nights there grew from the head a big kava plant, while from the intestines there grew a big sugar-cane. The kava plant grew big and also the sugar cane. It is said that a rat came and chewed the big kava and became partly paralysed; then it chewed the sugar cane and recovered and ran about. The rat continually did this, which showed that the sugar cane had to be eaten with the kava.", "note": "Paraphrase of E. W. Gifford, Tongan Myths and Tales, pp. 71-72 (1924); not verbatim." },
+        { "id": "3", "text": "When the two plants were big Fefafa and Fevanga dug them up and took them to Loau. When they brought the plants to him, Loau saw them, and laughed and said: 'Chewing kava, a leper from Faimata in Eueiki, the child of Fevanga and Fefafa! Bring some coconut fiber to strain it, a bowl to contain it, some one as master of ceremonies, some young leaves of the banana as a receiver, and some one for the bowl to be turned to.' And they knew by this that it was kava and sugar cane. That is the origin of the kava: the shoots of the kava grow and split and become limy, or gray, like the skin of a leper, because the woman Kavaonau was a leper; and those that drink too much kava become scaly like a leper, because the kava grew out of the body of a woman that was a leper.", "note": "Paraphrase of E. W. Gifford, Tongan Myths and Tales, pp. 71-72 (1924); not verbatim." }
+      ]
+    },
+    {
+      "id": "polynesian-hikuleo-bone-house-pulotu",
+      "title": { "en": "Fetching the House of Hikuleo from Pulotu", "zh": "自普洛圖迎取希庫萊奧之屋" },
+      "tradition": "polynesian",
+      "category": "myth",
+      "region": { "en": "Pulotu Tuumau, land of shades (symbolic pin)", "zh": "冥府普洛圖圖毛（象徵性定位）" },
+      "lat": -21.15,
+      "lon": -175.1,
+      "period": "Tongan oral tradition; recorded 1924 (Gifford, from Heamasi Latu)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "E. W. Gifford, Tongan Myths and Tales, pp. 171-174 (Honolulu 1924)",
+        "url": "https://archive.org/details/tonganmythstales0000giff"
+      },
+      "license": "Public domain (Bishop Museum Bulletin 8, 1924)",
+      "summary": {
+        "en": "A Tui Tonga sets his two patient servants impossible tasks: a reed fence, a rowing canoe of whale ivory, and last the house of Hikuleo, sovereign of Pulotu, constructed of human bones. Voyaging with the goddess Haelefeke - who swallows kava, ovens and a man-eating shark whole - they smash Hikuleo's own canoe, hide in the house posts, drink a hundred ovens and eight bowls dry, and knock loose the gods who sit upon the bone house to carry it home to Tongatabu.",
+        "zh": "某代湯加王接連刁難兩位僕人：編蘆籬、造鯨牙大舟，最後竟要他們去冥府普洛圖搬回人骨造成之屋——希庫萊奧之居。女神哈埃萊費凱同行相助：一口吞盡八大碗卡瓦連碗帶濾網、整樹維果與食人鯊；他們撞碎冥主之舟、藏身屋柱、掀翻壓屋的諸神，最終把白骨之屋運回湯加塔布。"
+      },
+      "motifs": ["descent-underworld", "quest-immortality", "trickster"],
+      "sensitivity": { "restricted": false, "note": "Pulotu journey; Hikuleo as sovereign of the shades." },
+      "persons": [],
+      "passages": [
+        { "id": "1", "text": "There was a Tui Tonga who annoyed his people considerably with irksome tasks. However, two men agreed that they would not be distressed by executing his errands, so they went and resided with the Tui Tonga and did his errands. The first order the Tui Tonga issued was that they build a reed fence around his plantation; after this was accomplished he ordered them to build a large rowing canoe of whale ivory. They constructed the canoe and executed many other orders besides; then the Tui Tonga said that there was still one more task to be done: to go to Pulotu and fetch Hikuleo's house, which was constructed of human bones. The two faithful servants set out from Tongatabu in the ivory canoe on their voyage to Pulotu.", "note": "Paraphrase of E. W. Gifford, Tongan Myths and Tales, pp. 171-174 (1924); not verbatim." },
+        { "id": "2", "text": "Upon reaching Haapai they noticed a woman standing on a beach waving a white fly whisk; they did not approach, but continued on their voyage to Vavau, where they again saw the same woman waving to them. Still they disregarded her signal and continued to Samoa, where the same woman was seen on a beach. The man who had been sitting near the bow suggested it would be well to discover what the woman wanted, as it was truly remarkable that she should beckon from so many places. When they reached her she spoke: 'I told you to come to me, because I want to know where you are going.' The two men took the woman aboard; she was really a goddess and her name was Haelefeke. So they all three voyaged in search of Pulotu, the road to which is guarded by the south and the north winds; usually the sea would be rough and the winds strong, but when the Tui Tonga's vessel went, the sea was neither rough nor the wind boisterous, and they arrived without mishap at Pulotu Tuumau, where a feast was being held at Pulotu Akaaka at which Hikuleo, the sovereign of Pulotu, was in attendance.", "note": "Paraphrase of E. W. Gifford, Tongan Myths and Tales, pp. 171-174 (1924); not verbatim." },
+        { "id": "3", "text": "Haelefeke ordered the two men to put their boat into the canoe shed, removing the one already there and throwing it down heavily outside; the canoe that rightfully belonged there was thrown out and broken, and the Tui Tonga's ivory canoe placed in its stead. The three entered Hikuleo's house while she was away; Haelefeke instructed the two men to each enter a house post and hide there, and she herself turned into a stone in the house. When Hikuleo heard the crash of her falling canoe she sent people to see what was the trouble; they saw that Hikuleo's canoe was smashed and that in its place was an ivory canoe. Hikuleo gave orders to be carried to Pulotu Tuumau and bade all the prophets and conjecturers assemble there to ascertain who had broken the canoe; they failed, so Hikuleo called out to the hidden intruders: 'Be so good as to show yourselves. If you are from the Tui Tonga, you may enter.' Thereupon Haelefeke arose, showing herself, and called the two men to come out of the posts.", "note": "Paraphrase of E. W. Gifford, Tongan Myths and Tales, pp. 171-174 (1924); not verbatim." },
+        { "id": "4", "text": "Hikuleo greeted them and ordered her people to prepare food for the reception of the chiefs from Tonga: the contents of one hundred ovens were brought and kava was made in eight bowls. Haelefeke told her two companions to drink from one bowl; they could not drain it, but Haelefeke drained all the bowls, swallowing them, the strainer, and the cups. She told her companions to eat of the baskets of food, but all they took was a liver, which they broke in two and ate and were satisfied; but Haelefeke ate all the food, crumbs, skins, baskets, the poles on which the baskets were carried, and everything appertaining to the feast. Next morning Hikuleo ordered them to consume entirely a huge vi tree heavily laden with fruit; the two plucked one fruit, divided it, and were satisfied, while Haelefeke changed herself into a great octopus stationed at the foot of the tree, and ate the fruit, then the whole tree and all the people thereon. She suggested they go to the sea for a surf ride, knowing full well there was a ferocious man-eating shark lurking near the surf; when they stranded on the beach for the third time the great shark was stranded with them, and Haelefeke swallowed the fish whole. Then she told the Tui Tonga's purpose; Hikuleo replied, 'Very well. Take the house with you.' The gods of Pulotu were sitting on the house so that it could not be lifted; Haelefeke smote the house and knocked off the people of Pulotu who were holding it down, and the house was carried to the beach and put aboard the vessel. The house was taken to the Tui Tonga and he thanked his faithful servants, telling them they had accomplished all that was necessary.", "note": "Paraphrase of E. W. Gifford, Tongan Myths and Tales, pp. 171-174 (1924); not verbatim." }
+      ]
+    },
+    {
+      "id": "polynesian-tangaloa-carpenters-fort",
+      "title": { "en": "Tangaloa's Floating Fortress", "zh": "坦加羅亞漂流的木堡" },
+      "tradition": "polynesian",
+      "category": "myth",
+      "region": { "en": "Fiji (symbolic pin)", "zh": "斐濟（象徵性定位）" },
+      "lat": -17.8,
+      "lon": 178.0,
+      "period": "Tongan oral tradition; recorded 1924 (Gifford)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "E. W. Gifford, Tongan Myths and Tales, p. 201 (Honolulu 1924)",
+        "url": "https://archive.org/details/tonganmythstales0000giff"
+      },
+      "license": "Public domain (Bishop Museum Bulletin 8, 1924)",
+      "summary": {
+        "en": "The god Tangaloa comes down from heaven with his son to sojourn in Tonga and build a fortress in Fiji so strong none could enter without consent. The jealous Fijians fight in vain until one of their gods commands a deluge of rain; the carpenters' water-tight wooden wall keeps the water in, and after hours of downpour the whole fort floats - scattering the builders to all parts of the world. For this reason carpenters may be found wherever you go.",
+        "zh": "天神坦加羅亞攜子下凡，居湯加、赴斐濟築堡，堅不可摧。斐濟人妒而攻之，屢攻不克；後其神喚來傾盆暴雨——匠人木牆滴水不漏，水積堡中，數時之後整座堡壘浮起，匠人隨之漂散天涯海角——所以如今走到哪裡都能遇上木匠。"
+      },
+      "motifs": ["flood", "foundational-legend", "trickster"],
+      "sensitivity": { "restricted": false, "note": "Deluge-parody explaining the diaspora of craftsmen." },
+      "persons": [],
+      "passages": [
+        { "id": "1", "text": "There was a god named Tangaloa, who came down from heaven in ancient times; he brought a son with him. After sojourning awhile in Tonga they went over to Fiji; there they built a strong fort for themselves, so strong that none could enter there without its occupants' consent.", "note": "Paraphrase of E. W. Gifford, Tongan Myths and Tales, p. 201 (1924); not verbatim." },
+        { "id": "2", "text": "The Fijians were jealous of these carpenters and came and fought them. They tried and tried to take the fort, but without success. One day one of the gods of Fiji came down and told the Fijians to let him fight for them against the god Tangaloa and his carpenters. This Fijian god commanded the rain to pour down; the rain came down very hard on the carpenters' fort. The wooden wall, which the carpenters had built round the fort, was water tight; it excluded the water, and after many hours of downpour the fort floated. The carpenters were thus scattered to all parts of the world - for this reason you are now likely to find carpenters in any part of the world, wherever you may go.", "note": "Paraphrase of E. W. Gifford, Tongan Myths and Tales, p. 201 (1924); not verbatim." }
+      ]
+    },
+    {
+      "id": "polynesian-tuavavau-virgin-utungake",
+      "title": { "en": "Tuavavau, the Virgin of Utungake", "zh": "烏通加凱的貞女圖阿瓦瓦烏" },
+      "tradition": "polynesian",
+      "category": "myth",
+      "region": { "en": "Utungake island, Vavau", "zh": "瓦瓦烏群島烏通加凱島" },
+      "lat": -18.72,
+      "lon": -174.04,
+      "period": "Tongan oral tradition; recorded 1924 (Gifford, from Fakatava)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "E. W. Gifford, Tongan Myths and Tales, pp. 202-203 (Honolulu 1924)",
+        "url": "https://archive.org/details/tonganmythstales0000giff"
+      },
+      "license": "Public domain (Bishop Museum Bulletin 8, 1924)",
+      "summary": {
+        "en": "The most beautiful woman in the world, Tuavavau of Utungake, knows nothing of men. Chief Tui Lakepa comes snaring pigeons and falls in love; his friends follow until her hill is ringed with the houses of lovestruck chiefs. When she beckons Tui Lakepa and asks what they all want - her head, her feet, her arms? - he shows her, and she understands: 'Alas, I never knew that there was such a bad thing in the world as this, that a man should treat a woman as a rooster treats a hen. Such a world is not a good place for me.' She runs and leaps from the hilltop into the sea, and so dies.",
+        "zh": "天下第一美人圖阿瓦瓦烏居烏通加凱，不解男女之事。酋長圖伊拉凱帕獵鴿至此墜入情網；眾友相繼而至，環山築屋圍住她的山丘。她喚圖伊拉凱帕問他們究竟要什麼——要她的頭、她的腳、她的手臂？酋長以身相示。她恍然長嘆：『世間竟有如此醜事，男子對待女子竟如公雞對待母雞——這樣的世界不配我居。』言罷奔上崖頂，縱身躍海而死。"
+      },
+      "motifs": ["taboo-transgression", "trickster"],
+      "sensitivity": { "restricted": false, "note": "Tragic legend; assault referenced obliquely as in the source narrative." },
+      "persons": [],
+      "passages": [
+        { "id": "1", "text": "Tuavavau was the most beautiful woman, not only in Vavau, but in the entire world. She lived at Utungake island with some maiden friends who shared her house; she was not the daughter of a chief, but her beauty made her respected and the recipient of many attentions from her maiden friends. The chief Tui Lakepa went to snare pigeons at Utungake; one day he saw the beautiful Tuavavau and fell in love with her, so he built his house close by where he could often see her. Many of his young chief friends, wondering at the continued absence of Tui Lakepa, went to search for him; when they found him they asked what he was doing there, and he answered that he was waiting to snare the fairest pigeon in all the world. When they saw the beautiful girl, they all fell in love with her; then each chief built himself a house near by until they entirely surrounded her house on the landward side.", "note": "Paraphrase of E. W. Gifford, Tongan Myths and Tales, pp. 202-203 (1924); not verbatim." },
+        { "id": "2", "text": "Tuavavau had never been much among men and was entirely ignorant of all sex matters; when she saw all these chiefs camped about the mound upon which she lived she greatly wondered what they had come for. One day, as she looked out of the gate of the enclosure in which her house stood, she saw Tui Lakepa looking at her; she beckoned him to come up to her, and when he came, asked him what had brought all these men to live there. He answered that he could only speak for himself and that he was there because he liked her. 'What do you like about me?' she asked - 'My head, my feet, my arms?' He then told her that he wanted to sleep with her; not being able to understand this, Tuavavau asked him to come into the house and show her just what it was that he wanted. So the chief followed her into the house and had his way with her. When he had finished she said to him, 'So that is what you chiefs have come for! Now go, and don't come here any more!' Then Tuavavau called her companions and said to them, 'Alas, I never knew that there was such a bad thing in the world as this, that a man should treat a woman as a rooster treats a hen. Such a world is not a good place for me.' So saying, she ran and leaped from the hill top over the steep precipice into the sea. So died Tuavavau.", "note": "Paraphrase of E. W. Gifford, Tongan Myths and Tales, pp. 202-203 (1924); not verbatim." }
+      ]
+    }
+  ]
+}

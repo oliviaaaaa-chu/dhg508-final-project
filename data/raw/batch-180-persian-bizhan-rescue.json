@@ -1,0 +1,59 @@
+{
+  "_comment": "Shahnama of Firdausi, trans. A. G. & E. Warner (1905), vol. III: Bizhan freed from the pit; Rustam attacks the palace of Afrasiyab. Paraphrase passages with notes.",
+  "texts": [
+    {
+      "id": "persian-bizhan-rescue",
+      "title": {
+        "en": "Rustam Hurls the Boulder and Frees Bizhan",
+        "zh": "魯斯塔姆搬岩救比讚"
+      },
+      "tradition": "persian",
+      "category": "myth",
+      "region": {
+        "en": "Pit of Afrasiyab (symbolic pin)",
+        "zh": "阿弗拉西亞卜之囚穴（象徵性定位）"
+      },
+      "lat": 37.5,
+      "lon": 62.0,
+      "period": "Composed c. 1010 CE (Warner translation 1905)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Firdausi, Shahnama, trans. A. G. & E. Warner (1905), vol. III, Bizhan and Manizha secs. 13-24",
+        "url": "https://archive.org/details/shahnama03firduoft"
+      },
+      "license": "Public domain (translation 1905)",
+      "summary": {
+        "en": "On New Year's Day Khusrau takes up Jamshid's cup, sees the seven climes, and beholds Bizhan fast fettered in the pit with the daughter of Afrasiyab attending him: none save deft Rustam can liberate Bizhan. Rustam draws up the seven warriors, and when their hands gall in vain on the boulder he himself grasps, raises, and hurls it back to the forest of the land of Chin; earth shook thereat. He draws up Bizhan with fettered feet, snaps the chains, and that night breaks bolt and bar into the palace of Afrasiyab: for thy bed thou hadst a throne, Bizhan had but a pit — let no one thus maltreat a son-in-law!",
+        "zh": "新年之日，霍斯勞舉起賈姆希德的寶杯，望見七洲之中比讚被縛於穴、瑪尼札相伴——「唯巧捷的魯斯塔姆能救他！」七勇士合力搬不動巨岩，英雄束甲請力於神，獨力舉起擲回秦地森林，大地為之震動。他垂索救出比讚、捏斷鎖鏈；當夜破門闖入阿弗拉西亞卜王宮：「你睡的是寶座，比讚睡的是土穴——休得如此虐待女婿！」"
+      },
+      "motifs": ["quest-immortality", "culture-hero", "oracle-divination"],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Epic literary source; Jamshid's cup pairs with the Jamshid records. No living community restriction."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "When jocund New Year's Day arrived Giv yearned for consultation with that glorious cup. Thence returning to his throne Khusrau assumed the Kaian crown, took up the cup, and gazed: he saw the seven climes reflected there, and every act and presage of high heaven; in that cup the wizard-king was wont to see futurity. He scanned the seven climes for traces of Bizhan, and, when he reached the Kargasars, beheld him by God's decree fast fettered in the pit, and praying in his misery for death, with one, the daughter of a royal race, attending him.",
+          "note": "Paraphrase of Firdausi, Shahnama, Bizhan and Manizha sec. 13 (Warner 1905); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Bizhan is yet alive; be of good cheer, said the Shah: he is now a prisoner in Turan, attended by a maid of noble birth. Who will come forward to rescue him? Who is there that will brave the Dragon's breath? None save deft Rustam, he who from the deep will drag the crocodile. Then matchless Rustam led them toward the fire; when he approached the boulder of Akwan, that pit of sorrow, smart, and anguish, he told the seven warriors to strive to clear the pit's mouth of the stone; they strove in vain and sorely galled their hands.",
+          "note": "Paraphrase of Firdausi, Shahnama, Bizhan and Manizha secs. 13-24 (Warner 1905); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "Now while their sweat ran, for the stone stood still, the lion-chief alighted, hitched his skirt of mail beneath his belt and, asking strength from God its source, grasped, raised, and hurled the boulder back to the forest of the land of Chin: earth shook thereat. Then Rustam let his lasso down the pit and drew up thus Bizhan with fettered feet; now Rustam cried aloud when he beheld Bizhan with body hidden by the iron, and putting forth his hands he snapped the chains and bonds, and freed Bizhan from ring and fetter.",
+          "note": "Paraphrase of Firdausi, Shahnama, Bizhan and Manizha sec. 24 (Warner 1905); not verbatim."
+        },
+        {
+          "id": "4",
+          "text": "The seven warriors set forth with Rustam; while all slept within he reached the court-gate of Afrasiyab, and, breaking with his hands both bolt and bar, fierce as a lion flung himself inside. May sweet sleep distaste thee! cried Rustam in the porch; for thy bed thou hadst a throne, Bizhan had but a pit. I am Rustam of Zabul, the son of Zal; I have burst through thy prison, door and bar; Bizhan is free both head and foot from bonds: let no one thus maltreat a son-in-law!",
+          "note": "Paraphrase of Firdausi, Shahnama, Bizhan and Manizha sec. 25 (Warner 1905); not verbatim."
+        }
+      ],
+      "persons": ["rustam", "bizhan", "manizha", "kai-khusrau", "afrasiyab"]
+    }
+  ]
+}

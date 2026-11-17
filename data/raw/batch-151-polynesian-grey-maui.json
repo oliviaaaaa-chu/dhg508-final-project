@@ -1,0 +1,300 @@
+{
+  "_comment": "Polynesian expansion batch 151 - Grey, Polynesian Mythology (1855), ch. 2 'The Legend of Maui' (pp. 10-58): birth, jawbone hook, fishing up the land, Mahuika fire, Irawaru. Sun-snaring and death by Hine-nui-te-po are covered by existing records maui-sun / maui-death. Topic 3 heroic tales + topic 8 trickster. All passages are labeled paraphrase.",
+  "texts": [
+    {
+      "id": "polynesian-maui-found-in-sea-foam",
+      "title": {
+        "en": "Maui Formed in the Sea Foam",
+        "zh": "海沫所育的毛伊：五子相認"
+      },
+      "tradition": "polynesian",
+      "category": "myth",
+      "region": {
+        "en": "Bay of Plenty coast, Aotearoa (symbolic pin)",
+        "zh": "紐西蘭豐盛灣海岸（象徵性定位）"
+      },
+      "lat": -37.68,
+      "lon": 176.18,
+      "period": "Oral tradition; recorded 1855 (Grey, Polynesian Mythology)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "George Grey, Polynesian Mythology and Ancient Traditional History of the New Zealand Race, ch. 2, The Legend of Maui (London 1855)",
+        "url": "https://archive.org/details/polynesianmythol00greyuoft"
+      },
+      "license": "Public domain (Grey 1855)",
+      "summary": {
+        "en": "Taranga prematurely bore her fifth son, bound him in a tuft of her own hair, and threw him into the surf. Seaweed formed him; he was rescued from birds and flies by his ancestor Tama-nui-ki-te-Rangi, who hung him in the warm smoke of his house. Years later the boy crept into the dancing house, sat behind his brothers, and proved his birth by reciting the names Maui-taha, Maui-roto, Maui-pae and Maui-waho, winning his name Maui-tikitiki-o-Taranga, 'formed in the top-knot of Taranga'.",
+        "zh": "塔朗加早產產下第五子，剪下自己的一束頭髮裹住嬰兒，拋入海浪泡沫之中。海草纏裹將其塑造成形；先祖大魯基基特朗基趕走啄食的飛鳥與蠅群，將其救起懸於屋內火煙取暖。多年後幼童潛入歌舞大廳，坐於諸兄身後，背誦毛伊塔哈、毛伊羅托、毛伊派、毛伊瓦霍四兄弟之名以證身世，得名副『塔朗加髮結所育之毛伊』。"
+      },
+      "motifs": [
+        "miraculous-birth",
+        "transformation",
+        "culture-hero",
+        "trickster-founder"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Colonial-era collection from named Te Arawa informants; Grey's footnote on discarded premature infants retained as cultural context only."
+      },
+      "persons": [
+        "maui",
+        "taranga",
+        "tangaroa"
+      ],
+      "passages": [
+        {
+          "id": "1",
+          "text": "One night, while the relations were dancing in the great House of Assembly, little Maui the infant crept into the house and sat behind one of his brothers. When their mother counted her children to stand up for the dance she said, 'One, that is Maui-taha; two, Maui-roto; three, Maui-pae; four, Maui-waho' - and then she saw another and cried out, 'Hollo, where did this fifth come from?' Little Maui answered, 'Ah, I am your child too.' She counted again, declared there could only be four, and told him to leave the house at once as no child of hers.",
+          "note": "Paraphrase of George Grey, Polynesian Mythology, ch. 2 (1855); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Then the boy spoke boldly: he said he was born at the side of the sea, wrapped by her in a tuft of hair cut from her own head, and thrown into the foam of the surf. The seaweed formed and fashioned him as the surges rolled him from side to side; the breezes drifted him on shore; jelly-fish rolled round him to protect him; flies and flocks of birds collected to devour him, until his great ancestor Tama-nui-ki-te-Rangi ran up, stripped off the encircling jelly-fish, found a human being within, carried him to his house and hung him in the roof to feel the warm smoke and heat of the fire. In proof he recited his brothers' names one by one, and called himself Maui-the-baby, Maui-tikitiki-a-Taranga, formed in the top-knot of Taranga.",
+          "note": "Paraphrase of George Grey, Polynesian Mythology, ch. 2 (1855); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "Taranga wept for joy: 'You dear little child, you are indeed my last-born, the son of my old age; your name shall be Maui-tikitiki-o-Taranga.' She bade him sleep with her; the elder brothers murmured jealously against the 'little abortion' thrown into the ocean who had come back a living human being, but the eldest reminded them of the children of Rangi-nui and Papa-tu-a-nuku, who fostered divisions until brother fought brother, and counselled peace: let him be their dear brother, and their murmuring ended there.",
+          "note": "Paraphrase of George Grey, Polynesian Mythology, ch. 2 (1855); not verbatim."
+        }
+      ]
+    },
+    {
+      "id": "polynesian-maui-jawbone-hook",
+      "title": {
+        "en": "Maui Wins the Enchanted Jawbone",
+        "zh": "毛伊智取祖妣顎骨"
+      },
+      "tradition": "polynesian",
+      "category": "myth",
+      "region": {
+        "en": "Path to Muri-ranga-whenua's dwelling (symbolic pin, inland)",
+        "zh": "通往穆里朗加維努阿居所之路（象徵性定位）"
+      },
+      "lat": -38.64,
+      "lon": 176.08,
+      "period": "Oral tradition; recorded 1855 (Grey, Polynesian Mythology)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "George Grey, Polynesian Mythology and Ancient Traditional History of the New Zealand Race, ch. 2, The Legend of Maui (London 1855)",
+        "url": "https://archive.org/details/polynesianmythol00greyuoft"
+      },
+      "license": "Public domain (Grey 1855)",
+      "summary": {
+        "en": "Noticing that his parents' household sent daily food offerings to the ancestress Muri-ranga-whenua, Maui carries them himself and quietly lays them aside, never delivering them. At last the old chieftainess sniffs the breeze, detects the scent of a man from the west, and her distended stomach - ready to devour the cheat - shrinks when she learns he is her descendant. Challenged, Maui confesses he wanted the jawbone by which great enchantments are wrought; she gives it, for it had been reserved for him, and with it he fashions his magic fish-hook.",
+        "zh": "毛伊發現父母家宅每日送食獻予祖妣穆里朗加維努阿，便自薦代送，卻把祭食私下擱置，從不交到她手中。老婦終起疑心，嗅風辨味，西風送來人氣；她膨脹欲吞詐欺者的胃腹一聽是孫裔便回縮原狀。被質問時，毛伊坦言欲得其顎骨——大法術所繫之骨；老嫗道此骨本為他而留，遂予之，毛伊以之製成神鉤。"
+      },
+      "motifs": [
+        "trickster",
+        "culture-hero",
+        "wisdom-sacrifice",
+        "chant-mantra"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Colonial-era collection of living oral tradition."
+      },
+      "persons": [
+        "maui",
+        "taranga"
+      ],
+      "passages": [
+        {
+          "id": "1",
+          "text": "Whilst Maui stayed with his parents he remarked that some of their people daily carried away a present of food for some person, and at last asked them who it was for. They answered it was for his ancestress, Muri-ranga-whenua. He said that would do - leave the present with him and he would carry it himself. From that time the daily offerings were carried by Maui himself, but he never gave them to her to eat; he quietly laid them by on one side, and did this for many days.",
+          "note": "Paraphrase of George Grey, Polynesian Mythology, ch. 2 (1855); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "At last Muri-ranga-whenua suspected something wrong. The next time he came along the path the old chieftainess sniffed and sniffed until she thought she smelt something coming, and was greatly exasperated, and her stomach began to distend itself, that she might be ready to devour Maui as soon as he arrived. She turned southward and sniffed - no scent; north, east - nothing; almost she thought she must have been mistaken. She tried once more, toward the westward: ah! the scent of a man came plainly to her, and she called aloud that she knew somebody was close by. Maui murmured assent, and knowing him her descendant, her swollen stomach at once shrank and contracted again. Had the western breeze not carried his scent, she would have eaten him up.",
+          "note": "Paraphrase of George Grey, Polynesian Mythology, ch. 2 (1855); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "Her voice asked, 'Art thou Maui?' - 'Even so.' 'Wherefore hast thou served thy old ancestress in this deceitful way?' Maui answered that he was anxious that her jawbone, by which the great enchantments can be wrought, should be given to him. She replied, 'Take it; it has been reserved for thee.' Maui took it and returned home, and with a barb pointed from that jawbone he soon after snooded his enchanted fish-hook, twisted a stout fishing-line to it, and set out for the open sea.",
+          "note": "Paraphrase of George Grey, Polynesian Mythology, ch. 2 (1855); not verbatim."
+        }
+      ]
+    },
+    {
+      "id": "polynesian-maui-fishing-up-land",
+      "title": {
+        "en": "Maui Fishes Up the Great Fish of Tonganui",
+        "zh": "毛伊釣起大地之魚"
+      },
+      "tradition": "polynesian",
+      "category": "myth",
+      "region": {
+        "en": "Open sea east of Hawke's Bay, Aotearoa (symbolic pin)",
+        "zh": "紐西蘭霍克灣以東遠海（象徵性定位）"
+      },
+      "lat": -39.6,
+      "lon": 177.9,
+      "period": "Oral tradition; recorded 1855 (Grey, Polynesian Mythology)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "George Grey, Polynesian Mythology and Ancient Traditional History of the New Zealand Race, ch. 2, The Legend of Maui (London 1855)",
+        "url": "https://archive.org/details/polynesianmythol00greyuoft"
+      },
+      "license": "Public domain (Grey 1855)",
+      "summary": {
+        "en": "Hid under the bottom boards of his brothers' canoe, Maui steers them far out of sight of land, baits his enchanted hook with his own blood, and hauls up the house of old Tonganui - a portion of Papa-tu-a-Nuku drowned by Rangi and Tawhiri. While he fetches a priest and offerings, the greedy brothers cut up the fish unlawfully; the land thrashes and contorts, and so New Zealand stands rough with mountains, valleys and cliffs instead of lying smooth as the model of the world.",
+        "zh": "毛伊藏於兄船底板之下，隨船遠出海，以自身之血作餌，鉤住海底古屋，將被朗基與塔維里沉於海底的大地一隅——老湯加努伊之屋——緩緩釣起。他回村取祭品請祭司之際，貪嘴的兄長們違禁割切魚身；巨魚翻騰扭動，遂令此島山巒谷壑嶙峋，不能如大地典範般平坦光整。"
+      },
+      "motifs": [
+        "culture-hero",
+        "sacred-place",
+        "taboo-transgression",
+        "dismembered-giant",
+        "chant-mantra"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Foundational legend of Aotearoa; 'dismembered-giant' motif tags the dismembered fish-land, an interpretive extension of the cluster list."
+      },
+      "persons": [
+        "maui",
+        "tangaroa",
+        "taranga"
+      ],
+      "passages": [
+        {
+          "id": "1",
+          "text": "When it was dark night, Maui went down to the shore, got into his brothers' canoe and hid himself under the bottom boards. Next forenoon they launched and paddled out to sea without seeing him; when they discovered him they wanted to turn back, but Maui by his enchantments stretched out the sea until the shore was far out of view. He persuaded them to paddle past every fishing ground, out of sight of land, quite into the open sea. There the brothers' lines had hardly touched bottom before each pulled up a fish; twice only they let down their lines, and behold, the canoe was filled.",
+          "note": "Paraphrase of George Grey, Polynesian Mythology, ch. 2 (1855); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Maui then drew out his own hook, carved and ornamented with tufts of dog-tail hair, the point of the jawbone of Muri-ranga-whenua. His brothers refused him bait, so he doubled his fist, struck his nose violently until the blood gushed out, smeared his hook with his own blood, and cast it into the sea. It sank down and down till it reached the carved figure on the roof of a house at the bottom of the sea, slid along the carved rafters, fell in at the doorway, and caught in the sill. Then he hauled in his line: the house of that old fellow Tonganui ascended; foam and bubbles gurgled up as from an island emerging, and Maui chanted the incantation Hiki, which makes heavy weights light, asking why Tonganui held so obstinately below.",
+          "note": "Paraphrase of George Grey, Polynesian Mythology, ch. 2 (1855); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "There floated up hanging to his line the fish of Maui, a portion of the earth of Papa-tu-a-Nuku, dry land fished up after it had been hidden under the ocean by Rangi and Tawhiri-ma-tea. Maui left his brothers, charging them to be patient, not to eat until his return and not to cut up the fish until offerings had been carried to the gods and fitting prayers made. Hardly had he gone than they trampled his words underfoot and began to eat and to cut up the fish. Then the gods turned with wrath upon them: the fish began to toss his head from side to side and lash his tail and fins, springing about on shore as briskly as if in the water. That is why this island is now so rough and uneven - here a mountain, there a plain, here a vale, there a cliff; had the brothers not acted deceitfully, the huge fish would have lain flat and smooth, a model for the rest of the earth. This was the second evil after the separation of Heaven from Earth.",
+          "note": "Paraphrase of George Grey, Polynesian Mythology, ch. 2 (1855); not verbatim."
+        }
+      ]
+    },
+    {
+      "id": "polynesian-maui-mahuika-fire",
+      "title": {
+        "en": "Maui and Mahuika, the Fire Mother",
+        "zh": "毛伊與火祖母瑪惠卡"
+      },
+      "tradition": "polynesian",
+      "category": "myth",
+      "region": {
+        "en": "Mahuika's dwelling inland, Aotearoa (symbolic pin)",
+        "zh": "紐西蘭內陸火神居所（象徵性定位）"
+      },
+      "lat": -39.13,
+      "lon": 175.64,
+      "period": "Oral tradition; recorded 1855 (Grey, Polynesian Mythology)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "George Grey, Polynesian Mythology and Ancient Traditional History of the New Zealand Race, ch. 2, The Legend of Maui (London 1855)",
+        "url": "https://archive.org/details/polynesianmythol00greyuoft"
+      },
+      "license": "Public domain (Grey 1855)",
+      "summary": {
+        "en": "After extinguishing every hearth in the village, Maui trickster-styles his way to Mahuika, goddess of fire, who pulls fire from her finger- and toe-nails one after another. He douses each gift and demands more until her last nail kindles the world: fire pursues him as eagle, boiling the very sea and burning land and forest, until he calls on Tawhiri-ma-tea for deluging rain that nearly kills Mahuika. Yet she saves a few sparks in the kaikomako tree - whence men kindle fire to this day.",
+        "zh": "毛伊滅盡村中爐火，戲弄火祖母瑪惠卡：她一根根拔出指趾之甲，指甲生火贈他；他卻逐一弄熄，再索再討。最後一枚趾甲擲地即燃遍天地：火追毛伊化鷹而逃，海水近沸，陸林俱焚；他呼喚塔維里馬泰亞降下傾盆大雨滅火，反令瑪惠卡幾遭滅頂。然火神終將數粒火種擲入卡伊科馬科樹中珍藏——人們至今仍以此木取火。"
+      },
+      "motifs": [
+        "fire-theft",
+        "trickster",
+        "culture-hero",
+        "transformation"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Fire-theft cluster: Polynesian Maui parallel to Prometheus; note the variant motif of fire-giving ancestress rather than fire stolen from gods."
+      },
+      "persons": [
+        "maui",
+        "mahuika",
+        "tawhiri",
+        "taranga"
+      ],
+      "passages": [
+        {
+          "id": "1",
+          "text": "The hero now thought he would extinguish and destroy the fires of his ancestress Mahuika. He got up in the night and put out the fires left in the cooking-houses of each family in the village; then quite early in the morning he called aloud that he hungered and food must be cooked, but every fire in the village was out and no light could be got. When Maui's mother heard this she told the servants to go to her great ancestress Mahuika and tell her that fire had been lost upon earth; but the slaves were alarmed and refused to obey, so Maui said he would fetch down fire for the world himself, and his parents directed him to the broad path leading to her dwelling.",
+          "note": "Paraphrase of George Grey, Polynesian Mythology, ch. 2 (1855); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "When he reached the abode of the goddess of fire he was filled with wonder, and begged fire from her. The aged woman pulled out one of her nails, and as she pulled it out fire flowed from it, and she gave it to him; but he went a short distance off and put the light out, then returned and asked for another. Thus he went on and on, until she had pulled out all the nails of one hand, then the other, then the nails of her feet - all but the nail of one big toe. Then she said to herself that this fellow was surely playing tricks with her.",
+          "note": "Paraphrase of George Grey, Polynesian Mythology, ch. 2 (1855); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "Out she pulled the one toe-nail she had left, and it too became fire; as she dashed it down on the ground the whole place caught fire, and she cried to Maui, 'There, you have it all now!' He ran off to escape, changing himself into a fleet-winged eagle, but the fire pursued and almost caught him as he flew; he dashed into a pool of water and found it almost boiling; the forests, the earth, the sea all caught fire, and Maui was very near perishing in the flames. Then he called on Tawhiri-ma-tea and Whatitiri-matakataka to send abundant water; squalls and gales appeared, heavy pelting rain fell and quenched the fire, and before Mahuika could reach shelter she almost perished, her shrieks as loud as Maui's had been.",
+          "note": "Paraphrase of George Grey, Polynesian Mythology, ch. 2 (1855); not verbatim."
+        },
+        {
+          "id": "4",
+          "text": "Thus was extinguished the fire of Mahuika, the goddess of fire; but before it was all lost she saved a few sparks, which she threw, to protect them, into the Kaikomako and a few other trees, where they are still cherished; hence men yet use portions of the wood of these trees for fire when they require a light. When Maui returned to the village his parents told him he had heard their warning and played tricks with his ancestress all the same, and it served him right; the young fellow answered that his perverse proceedings would not stop for this, and he intended to go on in the same way for ever.",
+          "note": "Paraphrase of George Grey, Polynesian Mythology, ch. 2 (1855); not verbatim."
+        }
+      ]
+    },
+    {
+      "id": "polynesian-maui-irawaru-dog",
+      "title": {
+        "en": "Maui Turns Irawaru into the First Dog",
+        "zh": "毛伊將伊拉瓦魯化為第一犬"
+      },
+      "tradition": "polynesian",
+      "category": "myth",
+      "region": {
+        "en": "Fishing shore, east coast Aotearoa (symbolic pin)",
+        "zh": "紐西蘭東岸漁灘（象徵性定位）"
+      },
+      "lat": -37.06,
+      "lon": 178.3,
+      "period": "Oral tradition; recorded 1855 (Grey, Polynesian Mythology)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "George Grey, Polynesian Mythology and Ancient Traditional History of the New Zealand Race, ch. 2, The Legend of Maui (London 1855)",
+        "url": "https://archive.org/details/polynesianmythol00greyuoft"
+      },
+      "license": "Public domain (Grey 1855)",
+      "summary": {
+        "en": "Fishing with a barbless hook, Maui loses his temper when his brother-in-law Irawaru keeps hauling in fish. Feigning reconciliation, he crushes Irawaru under the capsized outrigger, tramples him, stretches his backbone into a tail, and by enchantment transforms him into a dog. Hinauri, told to call 'Mo-i, mo-i' for her husband, hears only the howling 'Ao! ao!' from the scrub; distracted with grief she casts herself with her enchanted girdle into the ocean. From Irawaru springs all dogs, and New Zealanders still call their dogs 'Mo-i'.",
+        "zh": "毛伊無倒鉤釣魚屢屢落空，妹夫伊拉瓦魯卻連連獲魚，他怒火中燒。假意和好後，他令伊拉瓦魯以背撐起翻覆之舷外浮架，趁機壓下全身重量踩踏其身，拉長其脊椎成尾，以咒術將其化為犬。海娜烏里遵囑喚『毛伊、毛伊』，只聞灌木叢中『嗷、嗷』犬吠；她悲慟欲絕，攜魔法腰帶縱身入海。伊拉瓦魯遂為群犬之祖，至今毛利人喚犬仍呼『毛伊』。"
+      },
+      "motifs": [
+        "trickster",
+        "transformation",
+        "taboo-transgression",
+        "chant-mantra"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Etiological origin of the dog; colonial-era collection. Grey records an alternative telling in a footnote (enchanted sleep while hair-dressing)."
+      },
+      "persons": [
+        "maui",
+        "hinauri"
+      ],
+      "passages": [
+        {
+          "id": "1",
+          "text": "Maui had a young sister named Hinauri, who was exceedingly beautiful; she married Irawaru. One day Maui and his brother-in-law went down to the sea to fish. Maui caught not a single fish with his hook, which had no barb to it, while Irawaru continued catching plenty. Then their lines entangled, each pulled for the fish; Maui hauled it in, and found, to his wrath, that it was on Irawaru's barbed hook, and that he had no chance with his barbless hook of catching as many fish as his brother-in-law.",
+          "note": "Paraphrase of George Grey, Polynesian Mythology, ch. 2 (1855); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "When they reached the land and were going to haul the canoe up on the beach, Maui told his brother-in-law to get under the outrigger of the canoe and lift it up with his back. As soon as he had done so, Maui jumped on it and pressed the whole weight down upon him, almost killing Irawaru; then he trampled on his body, lengthened his back-bone, and by his enchantments drew it out into the form of a tail, transforming Irawaru into a dog, and fed him with dung. He went home as if nothing unusual had happened, and told Hinauri that if she did not see her husband on the beach she should call out 'Mo-i, mo-i, mo-i'.",
+          "note": "Paraphrase of George Grey, Polynesian Mythology, ch. 2 (1855); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "Hinauri hurried down to the beach and called as she had been told; Irawaru, running about the bushes in the form of a dog, recognised her voice and answered, 'Ao! ao! ao!' howling like a dog, and followed her back to the village frisking along and wagging his tail. From him sprang all dogs, so that he is regarded as their progenitor, and New Zealanders still call their dogs by the words 'Mo-i, mo-i, mo-i'. When Hinauri saw that her husband had been changed into a dog she was distracted with grief; she caught up her enchanted girdle, ran to the rocks at the ocean's edge, lamented her cruel fate, repeated an incantation, and threw herself into the sea, and the tide swept her off from the shore.",
+          "note": "Paraphrase of George Grey, Polynesian Mythology, ch. 2 (1855); not verbatim."
+        }
+      ]
+    }
+  ]
+}

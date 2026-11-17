@@ -1,0 +1,183 @@
+/* Text entity links.
+   Sitewide CSS uses text-decoration: none !important, so underlines
+   are drawn with a background line.
+
+   Expected tags (generated from the DB):
+   <a about="https://topostext.org/place/380233PMeg" class="place1" long="23.34285" lat="37.997" pleiades="570468">Megara</a>
+
+   place1 / ethnic1  major, mapped, worth clicking
+   place2 / ethnic2  solid place, fewer hits
+   place3 / ethnic3  located but a one-off mention
+   place4            noticed as a place, no link or coordinates
+*/
+
+#content a[href^="/people/"],
+#content a[href*="/people/"] {
+	color: #7a6938 !important;
+	font-weight: 600 !important;
+	text-decoration: none !important;
+	padding: 0 0.08em 0.12em;
+	border-radius: 2px;
+	background-image: linear-gradient(#c6c09c, #c6c09c) !important;
+	background-position: 0 100% !important;
+	background-repeat: no-repeat !important;
+	background-size: 100% 1.5px !important;
+	background-color: transparent;
+	box-decoration-break: clone;
+	-webkit-box-decoration-break: clone;
+	transition: color 0.2s ease, background-color 0.2s ease, background-size 0.2s ease, box-shadow 0.2s ease;
+}
+
+#content a[href^="/people/"]:hover,
+#content a[href*="/people/"]:hover {
+	color: #4f4220 !important;
+	background-color: rgba(198, 192, 156, 0.3) !important;
+	background-size: 100% 2.5px !important;
+	box-shadow: 0 0 0 3px rgba(198, 192, 156, 0.18);
+}
+
+#content a.place,
+#content a.place1,
+#content a.place2,
+#content a.place3,
+#content a.ethnic,
+#content a.ethnic1,
+#content a.ethnic2,
+#content a.ethnic3,
+#content a.demonym,
+#content a.demonym1,
+#content a.demonym2,
+#content a.demonym3 {
+	text-decoration: none !important;
+	cursor: pointer;
+	padding: 0 0.08em 0.12em;
+	border-radius: 2px;
+	background-color: transparent;
+	background-repeat: no-repeat !important;
+	background-position: 0 100% !important;
+	box-decoration-break: clone;
+	-webkit-box-decoration-break: clone;
+	transition: color 0.2s ease, background-color 0.2s ease, background-size 0.2s ease, box-shadow 0.2s ease;
+}
+
+/* Places: ink blue. 1 bold+underline, 2 underline, 3 color only */
+#content a.place,
+#content a.place1,
+#content a.place2,
+#content a.place3 {
+	color: #1d5a8c !important;
+}
+
+#content a.place,
+#content a.place1 {
+	font-weight: 700 !important;
+	background-image: linear-gradient(#1d5a8c, #1d5a8c) !important;
+	background-size: 100% 1.5px !important;
+}
+
+#content a.place2 {
+	font-weight: 400 !important;
+	background-image: linear-gradient(#1d5a8c, #1d5a8c) !important;
+	background-size: 100% 1.5px !important;
+}
+
+#content a.place3 {
+	font-weight: 400 !important;
+	background-image: none !important;
+}
+
+/* Ethnics / demonyms: teal, same rank steps */
+#content a.ethnic,
+#content a.ethnic1,
+#content a.ethnic2,
+#content a.ethnic3,
+#content a.demonym,
+#content a.demonym1,
+#content a.demonym2,
+#content a.demonym3 {
+	color: #0b6b5c !important;
+}
+
+#content a.ethnic,
+#content a.ethnic1,
+#content a.demonym,
+#content a.demonym1 {
+	font-weight: 700 !important;
+	background-image: linear-gradient(#0b6b5c, #0b6b5c) !important;
+	background-size: 100% 1.5px !important;
+}
+
+#content a.ethnic2,
+#content a.demonym2 {
+	font-weight: 400 !important;
+	background-image: linear-gradient(#0b6b5c, #0b6b5c) !important;
+	background-size: 100% 1.5px !important;
+}
+
+#content a.ethnic3,
+#content a.demonym3 {
+	font-weight: 400 !important;
+	background-image: none !important;
+}
+
+/* Unlocated / unlinked: noticed, not worth a click */
+#content a.place4,
+#content a.ethnic4,
+#content a.demonym4 {
+	color: #2c2a24 !important;
+	font-weight: 400 !important;
+	font-style: italic;
+	cursor: default;
+	text-decoration: none !important;
+	background-image: none !important;
+	padding: 0;
+}
+
+#content a.place:hover,
+#content a.place1:hover,
+#content a.place2:hover,
+#content a.place3:hover {
+	color: #143e63 !important;
+	background-color: rgba(29, 90, 140, 0.12) !important;
+	background-size: 100% 2.5px !important;
+	box-shadow: 0 0 0 3px rgba(29, 90, 140, 0.12);
+}
+
+#content a.ethnic:hover,
+#content a.ethnic1:hover,
+#content a.ethnic2:hover,
+#content a.ethnic3:hover,
+#content a.demonym:hover,
+#content a.demonym1:hover,
+#content a.demonym2:hover,
+#content a.demonym3:hover {
+	color: #085247 !important;
+	background-color: rgba(11, 107, 92, 0.12) !important;
+	background-size: 100% 2.5px !important;
+	box-shadow: 0 0 0 3px rgba(11, 107, 92, 0.12);
+}
+
+.modal-trigger:hover {
+	transform: none !important;
+	-ms-transform: none !important;
+	-webkit-transform: none !important;
+}
+
+@media (prefers-reduced-motion: reduce) {
+	#content a.place,
+	#content a.place1,
+	#content a.place2,
+	#content a.place3,
+	#content a.ethnic,
+	#content a.ethnic1,
+	#content a.ethnic2,
+	#content a.ethnic3,
+	#content a.demonym,
+	#content a.demonym1,
+	#content a.demonym2,
+	#content a.demonym3,
+	#content a[href^="/people/"],
+	#content a[href*="/people/"] {
+		transition: none;
+	}
+}

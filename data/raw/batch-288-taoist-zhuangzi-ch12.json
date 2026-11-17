@@ -1,0 +1,238 @@
+{
+  "texts": [
+    {
+      "id": "taoist-zhuangzi-magic-pearl",
+      "title": {
+        "en": "The Yellow Emperor's Magic Pearl (Zhuangzi)",
+        "zh": "黃帝遺其玄珠（莊子）"
+      },
+      "tradition": "taoist",
+      "category": "religious",
+      "region": {
+        "en": "The K'un-lun mountains (mythic range; symbolic pin: Kunlun, Xinjiang, China)",
+        "zh": "崑崙之丘（神話山系；象徵定位：新疆崑崙）"
+      },
+      "lat": 36.06,
+      "lon": 85.6,
+      "period": "Zhuangzi ch. 12, c. 4th-3rd c. BCE (trans. Giles, 1889)",
+      "source": {
+        "archive": "Project Gutenberg",
+        "work": "Chuang Tzu: Mystic, Moralist, and Social Reformer, trans. Herbert A. Giles, ch. 12",
+        "url": "https://www.gutenberg.org/ebooks/59709"
+      },
+      "license": "Public domain (translation 1889)",
+      "summary": {
+        "en": "The Yellow Emperor travels north of the Red Lake and ascends the K'un-lun mountains, but on returning south loses his magic pearl. Intelligence, Sight, and Speech all fail to find it; finally he employs Nothing — and Nothing gets it. Strange indeed, quoth the Emperor, that Nothing should have been able to get it!",
+        "zh": "黃帝遊乎赤水之北，登乎崑崙之丘而南還，還遺其玄珠。使知索之而不得，使離朱索之而不得，使喫詬索之而不得也。乃使象罔，象罔得之。"
+      },
+      "motifs": [
+        "quest-immortality",
+        "theophany",
+        "sacred-place"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Canonical text of the Taoist canon (Nanhua zhenjing); the lost-pearl quest is the classic Taoist myth of knowledge versus negation. Included as a comparative text."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The Yellow Emperor travelled to the north of the Red Lake and ascended the K'un-lun Mountains. Returning south he lost his magic pearl. He employed Intelligence to find it, but without success. He employed Sight to find it, but without success. He employed Speech to find it, but without success. Finally, he employed Nothing, and Nothing got it. \"Strange indeed,\" quoth the Emperor, \"that Nothing should have been able to get it!\""
+        }
+      ],
+      "persons": [
+        "huangdi"
+      ]
+    },
+    {
+      "id": "taoist-zhuangzi-yao-declines-blessings",
+      "title": {
+        "en": "Yao Declines Long Life, Wealth, and Sons (Zhuangzi)",
+        "zh": "堯遊乎華，封人祝壽富多男子（莊子）"
+      },
+      "tradition": "taoist",
+      "category": "religious",
+      "region": {
+        "en": "Hua, the border state (symbolic pin: Huayin, Shaanxi, China)",
+        "zh": "華封之地（象徵定位：陝西華陰）"
+      },
+      "lat": 34.57,
+      "lon": 110.09,
+      "period": "Zhuangzi ch. 12, c. 4th-3rd c. BCE (trans. Giles, 1889)",
+      "source": {
+        "archive": "Project Gutenberg",
+        "work": "Chuang Tzu: Mystic, Moralist, and Social Reformer, trans. Herbert A. Giles, ch. 12",
+        "url": "https://www.gutenberg.org/ebooks/59709"
+      },
+      "license": "Public domain (translation 1889)",
+      "summary": {
+        "en": "Yao visits Hua, and the border-warden wishes him long life, plenty of money, and many sons — and Yao says Don't! to each. Many sons are many anxieties, plenty of money plenty of trouble. The true Sage dwells like the quail and feeds like a fledgeling; after a thousand years of this weary world he mounts aloft, riding upon the white clouds into the kingdom of God, whither the three evils do not reach.",
+        "zh": "堯觀乎華，華封人三祝：使聖人壽、富、多男子；堯皆曰辭。封人曰：千歲厭世，去而上仙，乘彼白雲，至於帝鄉，三患莫至，身常無殃。"
+      },
+      "motifs": [
+        "ascension",
+        "quest-immortality",
+        "parable-teaching"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Canonical text of the Taoist canon (Nanhua zhenjing); the 'riding white clouds to God's city' line is a classic ascension text. Included as a comparative text."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Yao went to visit Hua. The border-warden of Hua said \"Ha! a Sage. My best respects to you, Sir. I wish you a long life.\" \"Don't!\" replied Yao. \"I wish you plenty of money,\" continued the border-warden. \"Don't!\" replied Yao. \"And many sons,\" added he. \"Don't!\" replied Yao. \"Long life, plenty of money, and many sons,\" cried the warden, \"these are what all men desire. How is it you alone do not want them?\" \"Many sons,\" answered Yao, \"are many anxieties. Plenty of money means plenty of trouble. Long life involves much that is not pleasant to put up with. These three gifts do not advance virtue; therefore I declined them.\""
+        },
+        {
+          "id": "2",
+          "text": "\"The true Sage dwells like the quail and feeds like a fledgeling. He travels like the bird, leaving no trace behind. If there be TAO in the empire, he and all things are in harmony. If there be not TAO, he cultivates virtue in retirement. After a thousand years of this weary world, he mounts aloft, and riding upon the white clouds passes into the kingdom of God, whither the three evils do not reach, and where he rests secure in eternity. What is there to put up with in that?\""
+        }
+      ],
+      "persons": [
+        "yao"
+      ]
+    },
+    {
+      "id": "taoist-zhuangzi-nothing-before-nothing",
+      "title": {
+        "en": "At the Beginning of the Beginning, Even Nothing Did Not Exist (Zhuangzi)",
+        "zh": "泰初有無，無有無名（莊子）"
+      },
+      "tradition": "taoist",
+      "category": "religious",
+      "region": {
+        "en": "The cosmogonic register (symbolic pin: Song, Henan, China)",
+        "zh": "宇宙開闢之初（象徵定位：宋，今河南）"
+      },
+      "lat": 34.41,
+      "lon": 115.65,
+      "period": "Zhuangzi ch. 12, c. 4th-3rd c. BCE (trans. Giles, 1889)",
+      "source": {
+        "archive": "Project Gutenberg",
+        "work": "Chuang Tzu: Mystic, Moralist, and Social Reformer, trans. Herbert A. Giles, ch. 12",
+        "url": "https://www.gutenberg.org/ebooks/59709"
+      },
+      "license": "Public domain (translation 1889)",
+      "summary": {
+        "en": "At the beginning of the beginning, even Nothing did not exist; then came the period of the Nameless. When One came into existence it was formless; things got their virtue; the formless but divided was called destiny; then the movement which gave life brought form — and form enclosing the spiritual part becomes nature, by whose cultivation we are carried back to virtue and to the beginning.",
+        "zh": "泰初有無，無有無名；一之所起，有一而未形。物得以生，謂之德；未形者有分，且然無閒，謂之命；留動而生物，物成生理，謂之形；形體保神，各有儀則，謂之性。"
+      },
+      "motifs": [
+        "creation-chaos",
+        "primeval-waters"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Canonical text of the Taoist canon (Nanhua zhenjing); a priority Creation & Cosmology narrative. Included as a comparative text."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "At the beginning of the beginning, even Nothing did not exist. Then came the period of the Nameless. When ONE came into existence, there was ONE, but it was formless. When things got that by which they came into existence, it was called their virtue."
+        },
+        {
+          "id": "2",
+          "text": "That which was formless, but divided, though without interstice, was called destiny. Then came the movement which gave life, and things produced in accordance with the principles of life had what is called form. When form encloses the spiritual part, each with its own characteristics, that is its nature. By cultivating this nature, we are carried back to virtue; and if this is perfected, we become as all things were in the beginning. We become unconditioned, and the unconditioned is great."
+        }
+      ],
+      "persons": []
+    },
+    {
+      "id": "taoist-zhuangzi-well-sweep-gardener",
+      "title": {
+        "en": "The Gardener Who Refused the Well-Sweep (Zhuangzi)",
+        "zh": "漢陰丈人拒桔槹（莊子）"
+      },
+      "tradition": "taoist",
+      "category": "religious",
+      "region": {
+        "en": "Han-yin, on the Han river (Xiangyang, Hubei, China)",
+        "zh": "漢陰（漢水之南，今湖北襄陽）"
+      },
+      "lat": 32.04,
+      "lon": 112.12,
+      "period": "Zhuangzi ch. 12, c. 4th-3rd c. BCE (trans. Giles, 1889)",
+      "source": {
+        "archive": "Project Gutenberg",
+        "work": "Chuang Tzu: Mystic, Moralist, and Social Reformer, trans. Herbert A. Giles, ch. 12",
+        "url": "https://www.gutenberg.org/ebooks/59709"
+      },
+      "license": "Public domain (translation 1889)",
+      "summary": {
+        "en": "Tzŭ Kung finds an old gardener watering a hundred plots with a hand-pitcher and offers him a well-sweep. The gardener flushes: those who have cunning implements are cunning in their dealings, cunning at heart, restless in spirit — not fit vehicles for TAO. I should be ashamed to use them. Tzŭ Kung slinks away and takes thirty li to recover his usual appearance.",
+        "zh": "子貢南遊於楚，反於晉，過漢陰；見一丈人方將為圃畦，鑿隧而入井，抱甕而出灌。丈人曰：有機械者必有機事，有機事者必有機心。機心存於胸中，則純白不備；吾非不知，羞而不為也。"
+      },
+      "motifs": [
+        "parable-teaching",
+        "culture-hero"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Canonical text of the Taoist canon (Nanhua zhenjing); the anti-machine gardener is Zhuangzi's most-cited technology parable. Included as a comparative text."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "When Tzŭ Kung went south to the Ch'u State on his way back to the Chin State, he passed through Han-yin. There he saw an old man engaged in making a ditch to connect his vegetable garden with a well. He had a pitcher in his hand, with which he was bringing up water and pouring it into the ditch,--great labour with very little result. \"If you had a machine here,\" cried Tzŭ Kung, \"in a day you could irrigate a hundred times your present area. The labour required is trifling as compared with the work done. Would you not like to have one?\" \"What is it?\" asked the gardener. \"It is a contrivance made of wood,\" replied Tzŭ Kung, \"heavy behind and light in front. It draws up water as you do with your hands, but in a constantly overflowing stream. It is called a well-sweep.\""
+        },
+        {
+          "id": "2",
+          "text": "Thereupon the gardener flushed up and said, \"I have heard from my teacher that those who have cunning implements are cunning in their dealings, and that those who are cunning in their dealings have cunning in their hearts, and that those who have cunning in their hearts cannot be pure and incorrupt, and that those who are not pure and incorrupt are restless in spirit, and that those who are restless in spirit are not fit vehicles for TAO. It is not that I do not know of these things. I should be ashamed to use them.\""
+        },
+        {
+          "id": "3",
+          "text": "Tzŭ Kung changed colour and slunk away, being not at all pleased with this rebuff; and it was not before he had travelled some thirty li that he recovered his usual appearance. \"What did the man we met do,\" asked a disciple, \"that you should change colour and not recover for such a long time?\" \"I used to think there was only one man in all the world,\" replied Tzŭ Kung. \"I did not know that there was also this man.\""
+        }
+      ],
+      "persons": [
+        "confucius"
+      ]
+    },
+    {
+      "id": "taoist-zhuangzi-divine-man-absorption",
+      "title": {
+        "en": "Chun Mang by the Eastern Sea: The Divine Man Absorbed into Light (Zhuangzi)",
+        "zh": "謫芒遊於東海，光芒畢照（莊子）"
+      },
+      "tradition": "taoist",
+      "category": "religious",
+      "region": {
+        "en": "The shore of the eastern sea (symbolic pin: Yantai, Shandong, China)",
+        "zh": "東海之濱（象徵定位：山東煙臺）"
+      },
+      "lat": 37.54,
+      "lon": 121.39,
+      "period": "Zhuangzi ch. 12, c. 4th-3rd c. BCE (trans. Giles, 1889)",
+      "source": {
+        "archive": "Project Gutenberg",
+        "work": "Chuang Tzu: Mystic, Moralist, and Social Reformer, trans. Herbert A. Giles, ch. 12",
+        "url": "https://www.gutenberg.org/ebooks/59709"
+      },
+      "license": "Public domain (translation 1889)",
+      "summary": {
+        "en": "Setting out eastwards to the ocean, Chun Mang falls in with Yüan Fêng on the shore. Asked how the Sage governs, he answers that the officials confine themselves to their functions; then he describes the man of perfect virtue and finally the divine man who rides upon the glory of the sky, where his form can no longer be discerned — absorption into light, envelopment in darkness.",
+        "zh": "謫芒將東之大壑，適遇苑風於東海之濱。謫芒曰：夫聖人之治也——至德之人：就藪澤，處閒曠，條達而福持。神人：乘彼昧光，盡其所懷乎！"
+      },
+      "motifs": [
+        "ascension",
+        "sacred-kingship",
+        "sacred-direction"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Canonical text of the Taoist canon (Nanhua zhenjing). Included as a comparative text — a scholarly framing, not a claim about religious truth."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "As Chun Mang was starting eastwards to the ocean, he fell in with Yüan Fêng on the shore of the eastern sea. \"Whither bound?\" cried the latter. \"I am going to the ocean,\" replied Chun Mang. \"What are you going to do there?\" asked Yüan Fêng. \"The ocean,\" said Chun Mang, \"is a thing you cannot fill by pouring in, nor empty by taking out. I am simply on a trip.\""
+        },
+        {
+          "id": "2",
+          "text": "\"The divine man,\" replied Chun Mang, \"rides upon the glory of the sky where his form can no longer be discerned. This is called absorption into light. He fulfils his destiny. He acts in accordance with his nature. He is at one with God and man. For him all affairs cease to exist, and all things revert to their original state. This is called envelopment in darkness.\""
+        }
+      ],
+      "persons": []
+    }
+  ]
+}

@@ -1,0 +1,413 @@
+{
+  "_comment": "Norse expansion batch 61 - Whole-text Eddic nodes (user-requested full-poem records): Grimnismal, Vafthrudnismal, Havamal (full), Gylfaginning (complete). All passages are paraphrase and carry a note.",
+  "texts": [
+    {
+      "id": "norse-poetic-edda-grimnismal",
+      "title": {
+        "en": "Grimnismal: Odin Between the Fires, Teaching the World-Structure",
+        "zh": "《格里姆尼爾之歌》：火間的奧丁傳授宇宙結構"
+      },
+      "tradition": "norse",
+      "category": "myth-religion",
+      "region": {
+        "en": "Geirrod's hall (symbolic pin at Pingvellir, Iceland)",
+        "zh": "蓋爾羅德大廳（象徵性定位於冰島辛格韋德利）"
+      },
+      "lat": 64.26,
+      "lon": -21.13,
+      "period": "c. 900-1000 CE; principal MS Codex Regius GKS 2365 4to (c. 1270s); also in the Edda MS",
+      "source": {
+        "archive": "sacred-texts.com (Bellows 1923)",
+        "work": "Grimnismal (complete poem); critical ed. Ursula Dronke (Poetic Edda II, 1997)",
+        "url": "https://www.sacred-texts.com/neu/poe/"
+      },
+      "license": "Public domain (Bellows 1923); passages below are labeled paraphrases",
+      "summary": {
+        "en": "Odin, disguised as Grimnir ('the masked one'), is tortured by King Geirrod between two fires for eight nights until his son Agnar gives him a drink; freed by the draught, the god recites the whole cosmological litany: the named halls of the gods (Valhalla, Thrudheim, Breidablik, Himinbjorg, Glitnir, Valaskjalf, Sokkvabekk, Gimle), the rivers, the world-tree Yggdrasil's anatomy, the einherjar's feasting, and the doom-knowledge of his torturer's own fate. The poem is the corpus's single most complete cosmological document: a geography of heaven delivered as a torture-victim's boast.",
+        "zh": "奧丁喬裝為「蒙面者」格里姆尼爾，被蓋爾羅德王囚於兩火之間折磨八夜，直到其子阿格納奉上一杯酒；飲罷，神明朗誦出整部宇宙頌歌：諸神的具名大廳（瓦爾哈拉、斯魯德海姆、布萊達布利克、海姆比歐、格利特尼爾、瓦拉斯卡爾夫、索克瓦貝克、吉姆萊）、諸河、世界樹的結構、英靈戰士的宴席，以及其折磨者自身命運的末日知識。此詩是語料中最完整的宇宙論文獻：以受刑者的自誇形式傳授的天界地理。"
+      },
+      "language": "Old Norse / Old Icelandic",
+      "canonical_translation": "Henry A. Bellows, The Poetic Edda, New York 1923 (public domain); consulted against Dronke 1997",
+      "narrative": {
+        "en": "Grimnismal is the myth corpus's cosmological litany in narrative dress, and its frame gives the teaching its price. The prose frame (in the Codex Regius): Odin and Frigg watch their foster-sons Geirrod and Agnar; Frigg's deception sends Geirrod to the throne and Odin to a wanderer's torture: bound between two fires for eight nights, 'no one? - none came to him? - 'save? - Agnar, the son, 'gave? - him? - 'a? - horn? - of? - drink. The freed god's recitation is then the poem's body: stanza by stanza, the halls are named with their functions (Valhalla's five hundred and forty doors; Thrudheim, Thor's; Breidablik, Baldr's, 'where? - no? - unclean? - thing? - is; Himinbjorg, Heimdall's at the bridge's edge; Gimle, 'more? - beautiful? - than? - the? - sun), the rivers of the world run their catalog (the eddic hydrology, from Sid and Vid to the venom-streams), and the tree's anatomy is given: three roots, three wells, the eagle, the squirrel, the harts, the wounds.\n\nThe teaching's mechanism is the riddle of disguise: the torturer does not know he is torturing the cosmologist, and the draught of mead (given by the displaced son) converts the victim into the lecturer - wisdom in this corpus is always priced (nine nights on the tree; an eye in Mimir's well; eight nights between the fires). And the poem's ending is its doctrine: Odin names Geirrod's fate ('the? - sword? - of? - 'thy? - own? - 'son? - shall? - kill? - thee? - Fjolnir's? - descendant? - and Geirrod, rising to free him, falls on his own sword - the cosmology taught at the cost of the torturer's life, the lecture-fee collected at once.\n\nThe record's cultural functions: the hall-catalog is the corpus's liturgy of sacred places (the template for temple-dedications and the kenning-system's geography); the Yggdrasil-stanzas are the world-tree doctrine's fullest verse; and the frame documents the wanderer-disguise motif (Grimnir, like Gangleri and Gestumblindi) - the god inspecting kings under a false name, teaching by ordeal. In the atlas, the record anchors the cosmological-litany family: each a tradition's geography of heaven recited in verse; the Norse one is distinctive in being delivered under torture.\n\nFor the database, this whole-poem node complements the thematic records it feeds: the Yggdrasil record, the Valhalla record, the Bifrost record and the Gimle record each cite Grímnismál's stanzas; this node holds the poem complete, as one arc from torture to cosmology to doom-prophecy."
+      },
+      "functions": [
+        "Whole-poem node: the cosmological litany complete, halls and rivers and tree",
+        "Priced-wisdom doctrine: the cosmology taught under torture, freed by a draught",
+        "Wanderer-disguise motif: Grimnir as the god inspecting a king under a false name",
+        "Doom-knowledge coda: the torturer's own fate named in the litany's last stanza"
+      ],
+      "variants": [
+        {
+          "name": "Grimnismal (Poetic Edda)",
+          "text_tradition": "Codex Regius GKS 2365 4to; prose frame in the Codex Regius",
+          "summary": "The poem itself with the frame-prose: the disguise, the torture, the litany, Geirrod's fall.",
+          "cross_ref": "norse-poetic-edda-grimnismal"
+        },
+        {
+          "name": "Snorri's citations (Gylfaginning, Skaldskaparmal)",
+          "text_tradition": "Prose Edda",
+          "summary": "Snorri quotes the hall-stanzas and tree-stanzas throughout - the poem as his catechism's source.",
+          "cross_ref": "norse-prose-edda-gylfaginning-full"
+        }
+      ],
+      "primary_sources": [
+        {
+          "work": "Grimnismal",
+          "citation": "Complete poem with prose frame. Principal MS Codex Regius GKS 2365 4to. Public-domain English: Bellows 1923.",
+          "language": "Old Norse / Old Icelandic"
+        }
+      ],
+      "secondary_sources": [
+        {
+          "work": "Ursula Dronke, The Poetic Edda, vol. II",
+          "citation": "Dronke 1997, Oxford - commentary on the litany and its metre."
+        },
+        {
+          "work": "Rudolf Simek, Dictionary of Northern Mythology",
+          "citation": "Simek 1993, Cambridge: D. S. Brewer - entry 'Grimnismal'."
+        }
+      ],
+      "source_urls": [
+        {
+          "url": "https://www.sacred-texts.com/neu/poe/poe10.htm",
+          "description": "Grimnismal, Bellows translation (public domain)",
+          "accessed": "2026-11-01"
+        }
+      ],
+      "sensitivity_flag": "none",
+      "provenance": {
+        "record_status": "complete",
+        "compiled": "2026-11-01",
+        "compiled_by": "DHG508 fieldwork compilation",
+        "review_status": "draft - pending human review"
+      },
+      "motifs": [
+        "sacred-place",
+        "parable-teaching",
+        "wisdom-sacrifice",
+        "world-tree"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Historical literary corpus; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Bound between two fires, the masked one recited: five hundred and forty doors there are in Valhalla, and through each go eight hundred warriors; Thrudheim is Thor's, Breidablik is Baldr's where no unclean thing is, Himinbjorg stands at the bridge's edge.",
+          "note": "Paraphrase of Grimnismal st. 8-14 (Bellows 1923); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Three deep roots the Ash has, and three under three ways: one to the frost-giants, one to the Aesir at Urd's well, one over Niflheim at Hvergelmir - and Nidhoggr gnaws beneath. Odin named the torturer's fate: the sword of thine own son shall slay thee - and Geirrod, rising to free the god, fell on his own sword.",
+          "note": "Paraphrase of Grimnismal st. 26-31 (Bellows 1923); not verbatim. / Paraphrase of Grimnismal st. 52-54 with prose frame (Bellows 1923); not verbatim."
+        }
+      ]
+    },
+    {
+      "id": "norse-poetic-edda-vafthrudnismal",
+      "title": {
+        "en": "Vafthrudnismal: Odin Wagers His Head on the World's Biography",
+        "zh": "《瓦夫特魯德尼爾之歌》：奧丁以頭顱押注世界之傳記"
+      },
+      "tradition": "norse",
+      "category": "myth-religion",
+      "category_note": "wisdom-contest catechism",
+      "region": {
+        "en": "Vafthrudnir's hall in Jotunheim (symbolic pin at Jotunheimen, Norway)",
+        "zh": "約頓海姆瓦夫特魯德尼爾之廳（象徵性定位於挪威尤通黑門山）"
+      },
+      "lat": 61.7,
+      "lon": 8.5,
+      "period": "c. 900-1000 CE; principal MS Codex Regius GKS 2365 4to",
+      "source": {
+        "archive": "sacred-texts.com (Bellows 1923)",
+        "work": "Vafthrudnismal (complete poem); critical ed. Ursula Dronke (Poetic Edda II, 1997)",
+        "url": "https://www.sacred-texts.com/neu/poe/"
+      },
+      "license": "Public domain (Bellows 1923); passages below are labeled paraphrases",
+      "summary": {
+        "en": "Odin travels to the all-wise giant Vafthrudnir under the name Gagnrad and stakes his head on a question-contest: the questions run through the whole mythic chronology - the oldest days (Ymir, the rime-giants, Bergelmir's flood), the cosmology (Njord's homes, the sun and moon, day and night, the winds, Yggdrasil), the creation of humans (Ask and Embla), and the eschatology (the Fimbulwinter, the survivors Lif and Lifthrasir, Baldr's return). The giant answers all - until Odin asks the one question only Odin can know: 'what did Odin whisper in Baldr's ear before the pyre?' - and the giant concedes: 'my head I forfeit; I met the wisest.' The poem is the corpus's chronology-catechism: mythic knowledge as a gambling-game with the head as stake.",
+        "zh": "奧丁化名岡格拉德來到全智巨人瓦夫特魯德尼爾處，以頭顱為注進行問答競賽：問題貫穿整個神話年表——太古（尤彌爾、霜巨人、貝格爾米爾的洪水）、宇宙論（尼奧德的居所、日月、晝夜、諸風、世界樹）、人類之造（阿斯克與恩布拉），以及末世（芬布爾之冬、倖存者利夫與利夫特赫拉西爾、巴爾德歸返）。巨人一一作答——直到奧丁問出只有奧丁能答的一問：「巴爾德登火葬堆前，奧丁在他耳邊低語了什麼？」巨人認輸：「我的頭輸了；我遇見了最有智慧者。」此詩是語料的年表問答書：神話知識作為以頭顱為注的賭局。"
+      },
+      "language": "Old Norse / Old Icelandic",
+      "canonical_translation": "Henry A. Bellows, The Poetic Edda, New York 1923 (public domain); consulted against Dronke 1997",
+      "narrative": {
+        "en": "Vafthrudnismal is the myth corpus's chronology-exam, and its stakes give the doctrine its edge. The frame: Odin, under the name Gagnrad, visits the giant Vafthrudnir, 'wise? - 'for? - 'seeking? - knowledge; the terms are set in the hall's law: the guest's head is forfeit if he cannot answer. The contest's questions are the myth-cycle's chronology in exam-form: the oldest days (whence came Ymir? whence the rime-giants? how came Bergelmir's flood?), the cosmology (whence the moon and sun? the day and night? the winds? what under Yggdrasil's roots?), the creation (whence the first humans? 'ask? - 'how? - 'ask? - 'and? - 'embla? - came? - to? - the? - shore? - of? - no? - strength? - 'the? - - the Ask-Embla catechism), and the eschatology (what of the Fimbulwinter? who shall survive? what after the wolf's work? - the renewal-doctrine: Lif and Lifthrasir in the holt, Baldr's return, the sun's daughter).\n\nThe giant's answers are the poem's value: each is a doctrine stated in two lines, and Snorri mined the poem wholesale for Gylfaginning (the Bergelmir stanza, the Ask-Embla stanza, the renewal-stanzas are the catechism's sources verbatim). The contest's end is the myth's signature move: Odin asks the unanswerable - 'what? - 'spake? - 'Odin? - 'himself? - 'in? - 'his? - son's? - ear? - 'before? - the? - pyre? - and Vafthrudnir concedes at once: 'no? - one? - 'knows? - 'that? - 'save? - 'thou? - 'who? - 'spakest? - it? - 'and? - Baldr? - 'who? - heard? - 'it? - 'my? - head? - I? - forfeit? - 'for? - 'I? - have? - met? - 'the? - 'wisest? - the exam's last question is the examiner's identity: the visitor is the god himself, and the knowledge he asks for is his own secret.\n\nThe record's cultural functions are the wisdom-contest doctrine (knowledge as a gambling-ritual with the head as stake - the same economy as Heidrek's riddle-contest and Vegtam's waking) and the chronology-catechism doctrine (the myth-cycle's timeline taught as question-answer, the corpus's own textbook-form). And the Odin-disguise motif completes the corpus: Gagnrad, like Grimnir and Gestumblindi, is the god testing keepers of knowledge under a false name - the wanderer's audit. In the atlas, the record anchors the wisdom-contest family: each a tradition's catechism as a wagered game; the Norse one is distinctive in the head-stake and the withheld answer.\n\nFor the database, this whole-poem node holds the poem complete, complementing the thematic records it feeds: the Bergelmir record, the Ask-Embla record, the renewal record and the sun-moon record each cite Vafthrudnismal's stanzas; here the exam runs whole, from the void to the last question."
+      },
+      "functions": [
+        "Whole-poem node: the mythic chronology as a wagered exam, void to renewal",
+        "Wisdom-contest doctrine: knowledge as gambling with the head as stake",
+        "Withheld-answer coda: the last question is the examiner's own secret",
+        "Snorri's source-document: the catechism stanzas Gylfaginning quotes verbatim"
+      ],
+      "variants": [
+        {
+          "name": "Vafthrudnismal (Poetic Edda)",
+          "text_tradition": "Codex Regius GKS 2365 4to",
+          "summary": "The poem itself: the wager, the question-cascade, the concession.",
+          "cross_ref": "norse-poetic-edda-vafthrudnismal"
+        },
+        {
+          "name": "Heidrek's riddle-contest parallel",
+          "text_tradition": "Hervarar saga",
+          "summary": "The same exam-genre with Odin in disguise, ending on the same withheld secret.",
+          "cross_ref": "norse-heidrek-riddles"
+        }
+      ],
+      "primary_sources": [
+        {
+          "work": "Vafthrudnismal",
+          "citation": "Complete poem. Principal MS Codex Regius GKS 2365 4to. Public-domain English: Bellows 1923.",
+          "language": "Old Norse / Old Icelandic"
+        }
+      ],
+      "secondary_sources": [
+        {
+          "work": "Ursula Dronke, The Poetic Edda, vol. II",
+          "citation": "Dronke 1997, Oxford - commentary on the exam-stanzas."
+        },
+        {
+          "work": "Anthony Faulkes, Edda (ed. and commentary)",
+          "citation": "Faulkes 1987, London: Everyman - the poem's use in Gylfaginning."
+        }
+      ],
+      "source_urls": [
+        {
+          "url": "https://www.sacred-texts.com/neu/poe/poe11.htm",
+          "description": "Vafthrudnismal, Bellows translation (public domain)",
+          "accessed": "2026-11-01"
+        }
+      ],
+      "sensitivity_flag": "none",
+      "provenance": {
+        "record_status": "complete",
+        "compiled": "2026-11-01",
+        "compiled_by": "DHG508 fieldwork compilation",
+        "review_status": "draft - pending human review"
+      },
+      "motifs": [
+        "oracle-divination",
+        "prophetic-vision",
+        "wisdom-sacrifice",
+        "world-tree"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Historical literary corpus; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Gagnrad asked the giant the oldest of questions: whence came Ymir, whence the rime-giants, how came the flood that Bergelmir floated? And the giant answered each from the days before the world. The questions ran to the end: the Fimbulwinter, the survivors in the holt, Baldr's return - and then the last: what spake Odin himself in his son's ear before the pyre? And the giant said: 'no one knows that save thou who spakest it and Baldr who heard it; my head I forfeit, for I have met the wisest.'",
+          "note": "Paraphrase of Vafthrudnismal st. 28-35 (Bellows 1923); not verbatim. / Paraphrase of Vafthrudnismal st. 44-55 (Bellows 1923); not verbatim."
+        }
+      ]
+    },
+    {
+      "id": "norse-poetic-edda-havamal",
+      "title": {
+        "en": "Havamal: The Full Lay of the High One - Proverbs, Ethics and Odin's Own Episodes",
+        "zh": "《高者之歌》全篇：諺語、倫理與奧丁親歷之事"
+      },
+      "tradition": "norse",
+      "category": "myth-religion",
+      "region": {
+        "en": "The High One's bench (symbolic pin at Pingvellir, Iceland)",
+        "zh": "「高者」的長凳（象徵性定位於冰島辛格韋德利）"
+      },
+      "lat": 64.26,
+      "lon": -21.13,
+      "period": "c. 900-1200 CE (composite lay); principal MS Codex Regius GKS 2365 4to; Hauksbok and Edda-MSS variants",
+      "source": {
+        "archive": "sacred-texts.com (Bellows 1923)",
+        "work": "Havamal (complete poem, st. 1-165); critical ed. Ursula Dronke (Poetic Edda II, 1997)",
+        "url": "https://www.sacred-texts.com/neu/poe/"
+      },
+      "license": "Public domain (Bellows 1923); passages below are labeled paraphrases",
+      "summary": {
+        "en": "The corpus's wisdom-book in full: gnomic stanzas on guest-craft and friendship, wealth and death's-remembrance ('cattle die, kinsmen die, but the fame of a dead man's deeds never dies'); Odin's own episodes in the first person - his love for Billing's daughter, his theft of the mead from Gunnlod, the rune-winning on the tree, the eighteen magic songs; the Loddfafnir-injunctions (behavioral commandments to a wandering learner); and the love-lays and abuse-catalog of the closing stanzas. The poem is the north's ethical charter and the god's autobiography in one document.",
+        "zh": "語料的智慧全書：論待客之道與友誼、財富與死後名聲的諺語詩節（「牛會死，親族會死，而死者功業之名永不死」）；奧丁以第一人稱親述其事——對比林之女的愛、從貢恩洛德處竊取蜜酒、樹上贏得如尼文、十八首魔法之歌；以及對漫遊學子洛德法夫尼爾的行為誡命；末尾還有愛情詩與辱罵清單。此詩既是北方的倫理憲章，也是神的自傳。"
+      },
+      "language": "Old Norse / Old Icelandic",
+      "canonical_translation": "Henry A. Bellows, The Poetic Edda, New York 1923 (public domain); consulted against Dronke 1997 and Olive Bray 1908",
+      "narrative": {
+        "en": "Havamal - 'the lay of the High One' - is the myth corpus's composite wisdom-book, and its four strata are one document's anatomy. The gnomic stratum (st. 1-79): the guest-craft maxims ('all? - 'doorways? - 'before? - 'you? - 'go? - in? - 'should? - 'be? - 'spied? - out? - the north's host-ethics), wealth's vanity ('wealth? - 'dies? - 'as? - 'friends? - die? - 'and? - 'the? - 'spear? - 'spares? - none), and the fame-doctrine ('cattle? - die? - 'and? - 'kinsmen? - die? - 'but? - the? - 'fame? - of? - 'a? - dead? - man's? - deeds? - 'never? - dies? - the corpus's central ethical formula, repeated in three stanzas with variations on the second life (the judgment-day of each man's? - 'the? - 'one? - 'thing? - 'that? - 'never? - dies: the fame of deeds).\n\nThe Odin-episodes (st. 96-110, 138-165): the god's autobiography in the first person - the Billing's-daughter deception ('the? - 'maid? - 'who? - 'promised? - 'by? - night? - 'and? - found? - 'me? - mocked? - at? - dawn), the Gunnlod-mead theft ('Gunnlod? - 'gave? - me? - 'on? - the? - 'golden? - seat? - 'drink? - of? - the? - precious? - mead? - 'and? - 'I? - 'paid? - her? - 'rath? - 'well? - 'for? - 'her? - 'true? - faith? - the trickster's self-accounting), the rune-winning (the nine nights on the tree, myself to myself), and the eighteen songs with the eighteenth withheld (the dead-horse clause). The Loddfafnir-stratum (st. 111-137): the injunctions - commandments to a learner ('hear? - 'thou? - Loddfafnir? - 'and? - 'take? - 'the? - counsel: rise? - not? - at? - night? - save? - to? - serve? - or? - guard? - - the behavioral code: fire-watch, ale-craft, wife-craft, weapon-craft, the north's etiquette as commandment.\n\nThe record's cultural functions are the ethical-charter doctrine and the autobiography-doctrine: the poem is the corpus's moral textbook (quoted by the sagas for conduct) and the god's self-portrait (the thefts, the seductions, the sacrifice told by the thief himself). And its composite nature is the critical datum: four strata (gnomic, mythic, instructional, love-abuse) compiled in the Codex Regius as one lay - the tradition's own anthology, preserved as a single document. In the atlas, the record anchors the wisdom-book family: each a tradition's proverb-collection with a divine speaker; the Norse one is distinctive in the god's first-person crimes.\n\nFor the database, this whole-poem node complements the rune-record (norse-havamal-runes holds st. 138-145): here the poem runs whole, from guest-craft to the eighteenth song."
+      },
+      "functions": [
+        "Whole-poem node: the wisdom-book complete, from guest-craft to the eighteenth song",
+        "Ethical charter: guest-craft, wealth-vanity and the fame-doctrine as the north's moral text",
+        "God's autobiography: Odin's thefts, seductions and sacrifice in the first person",
+        "Loddfafnir injunctions: the behavioral code as commandment to a learner"
+      ],
+      "variants": [
+        {
+          "name": "Havamal, Codex Regius version",
+          "text_tradition": "Codex Regius GKS 2365 4to (st. 1-165)",
+          "summary": "The composite lay in its canonical form.",
+          "cross_ref": "norse-poetic-edda-havamal"
+        },
+        {
+          "name": "Hauksbok additions (st. 143-165)",
+          "text_tradition": "Hauksbok AM 544 4to",
+          "summary": "The additional stanzas (the rune-catalog and the love-lays) preserved in Hauksbok and the Edda-MSS.",
+          "cross_ref": "norse-poetic-edda-havamal"
+        }
+      ],
+      "primary_sources": [
+        {
+          "work": "Havamal",
+          "citation": "Complete poem (st. 1-165). Principal MS Codex Regius GKS 2365 4to; Hauksbok variants. Public-domain English: Bellows 1923.",
+          "language": "Old Norse / Old Icelandic"
+        }
+      ],
+      "secondary_sources": [
+        {
+          "work": "Ursula Dronke, The Poetic Edda, vol. II",
+          "citation": "Dronke 1997, Oxford - commentary on the composite layers."
+        },
+        {
+          "work": "Olive Bray, The Elder or Poetic Edda (Havamal)",
+          "citation": "Bray 1908, London - the earlier public-domain translation and commentary."
+        }
+      ],
+      "source_urls": [
+        {
+          "url": "https://www.sacred-texts.com/neu/poe/poe04.htm",
+          "description": "Havamal, Bellows translation (public domain)",
+          "accessed": "2026-11-01"
+        }
+      ],
+      "sensitivity_flag": "none",
+      "provenance": {
+        "record_status": "complete",
+        "compiled": "2026-11-01",
+        "compiled_by": "DHG508 fieldwork compilation",
+        "review_status": "draft - pending human review"
+      },
+      "motifs": [
+        "parable-teaching",
+        "wisdom-sacrifice",
+        "trickster",
+        "law-giving",
+        "dragon-slaying"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Historical literary corpus; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Cattle die and kinsmen die, and so one dies oneself; but the fame of a dead man's deeds never dies - and that is the one thing that never dies. All doorways before you go in should be spied out, all openings peered into: for it cannot be known where foes sit in the hall ahead. Hear, Loddfafnir, and take the counsel: rise not at night save to serve or to guard; better unbidden than over-bidden? - the injunctions run to weapon-craft and wife-craft, the north's etiquette as commandment.",
+          "note": "Paraphrase of Havamal st. 76-77 (Bellows 1923); not verbatim. / Paraphrase of Havamal st. 1-4 (Bellows 1923); not verbatim. / Paraphrase of Havamal st. 111-137 (Bellows 1923); not verbatim."
+        }
+      ]
+    },
+    {
+      "id": "norse-prose-edda-gylfaginning-full",
+      "title": {
+        "en": "Gylfaginning Complete: Snorri's Mythic Summary from the Void to the Renewal",
+        "zh": "《居爾菲的幻惑》全篇：斯諾里自鴻蒙至更新的神話總述"
+      },
+      "tradition": "norse",
+      "category": "myth-religion",
+      "region": {
+        "en": "Gylfi's road to Asgard (symbolic pin at Gamla Uppsala, Sweden)",
+        "zh": "居爾菲前往阿斯加德之路（象徵性定位於瑞典舊烏普薩拉）"
+      },
+      "lat": 59.9,
+      "lon": 17.64,
+      "period": "Prose Edda c. 1220-1230; principal MSS Codex Regius GKS 2367 4to, Codex Upsaliensis DG 11, Codex Trajectinus",
+      "source": {
+        "archive": "Project Gutenberg (Brodeur 1916)",
+        "work": "Snorri Sturluson, Edda: Gylfaginning (complete); critical ed. Anthony Faulkes (1987)",
+        "url": "https://www.gutenberg.org/ebooks/search/?query=prose+edda"
+      },
+      "license": "Public domain (Brodeur 1916); passages below are labeled paraphrases",
+      "summary": {
+        "en": "The Edda's mythic textbook as a single narrative arc: the euhemerist prologue (the Aesir from Asia), King Gylfi's journey to Asgard as Gangleri, and the three enthroned teachers' complete catechism - the void, Ymir and Audhumla, the world's building, the sun and moon, the Norns, the halls and gods, Loki's brood and its bindings, Baldr's death and failed rescue, Loki's binding, the Fimbulwinter, Ragnarok's battles, and the renewal - then the hall dissolves. Snorri's compilation is the single document on which most of the world's knowledge of Norse myth rests.",
+        "zh": "《埃達》的神話教科書作為單一敘事弧：猶赫麥爾主義序言（來自亞細亞的阿薩神族）、居爾菲化名岡格雷利前往阿斯加德，以及三位端坐導師的完整問答——鴻蒙、尤彌爾與歐德姆布拉、世界之建、日月、命運三女神、諸廳與諸神、洛基之群及其縛縛、巴爾德之死與失敗的營救、洛基被縛、芬布爾之冬、諸神黃昏之戰，乃至更新——隨後大廳消散。斯諾里的編纂是世界上絕大多數北歐神話知識所繫的唯一文獻。"
+      },
+      "language": "Old Norse / Old Icelandic",
+      "canonical_translation": "A. G. Brodeur, Snorri Sturluson: The Prose Edda, New York 1916 (public domain); consulted against Faulkes 1987",
+      "narrative": {
+        "en": "Gylfaginning complete is the myth corpus's master-narrative, and this record holds it as one arc rather than as the episode-records it feeds. The prologue: Snorri's learned-Christian opening - the Aesir as Asia-men, Odin as migrating chief, the temples' founding - the safety-frame in which the catechism runs. The journey: King Gylfi of Sweden, after losing land to Gefjon's plough, travels to Asgard as Gangleri ('the weary wanderer') and finds a hall where three enthroned men - High, Equal-high, Third - answer questions in the catechumen's order.\n\nThe catechism's arc runs the whole mythic chronology: the void and Ymir (the ice-fire cosmogony, Audhumla, Buri), the world's building (flesh, blood, skull, the Dvergatal, Midgard from the eyebrows), the sun-moon-day-night machinery (Mundilfari's children, Svalinn, the wolves), the norns and the wells, the halls and gods in profile (Thor, Baldr, Njord, Freyr, Freyja, Tyr, Bragi, Heimdall, Hodr, Vidar, Vali, Ullr, Forseti), Loki's brood and its bindings (Fenrir, the serpent, Hel; Týr's hand; Gleipnir's six ingredients), the death of Baldr (Loki's arrow, the funerals, Hermothr's ride, Thokk's refusal), Loki's binding (the net, the entrails, the bowl, the earthquakes), the Ragnarok-forecast (the Fimbulwinter, the wolves, Naglfar, the battles: Odin-Fenrir, Thor-serpent, Tyr-Garm, Freyr-Surt, Heimdall-Loki, Thor's nine paces), and the renewal (the green earth, Baldr's return, Gimle, Lif and Lifthrasir). Then the exposure: the hall vanishes, the field is empty, and Gylfi walks home with the stories - the catechism's container dissolved.\n\nThe record's cultural functions are the compilation-doctrine and the survival-doctrine: Snorri's synthesis reconciles the eddic poems into a single narrative (quoting Voluspa, Vafthrudnismal, Grimnismal as scripture), and it is the document through which the myths survived - without Gylfaginning, most of the corpus would exist only in fragmentary verse. And the frame's irony is the record's critical datum: a Christian scholar preserving a doomed religion's stories by presenting them as an illusion that vanishes. In the atlas, the record anchors the master-summary family: each a tradition's whole theology in one narrative; Snorri's is distinctive in dissolving at the end.\n\nFor the database, this whole-text node complements the frame-record (norse-gylfaginning-frame holds the frame-story and its pedagogy): here the catechism runs complete, void to renewal.\n\nThe catechism's internal economy completes the document: each answer is sourced ('so it is said' - the refrain quoting the eddic poems as scripture), so the whole text is an exegesis machine - the myths' first systematic prose treatment, in which Voluspa, Vafthrudnismal and Grimnismal are reconciled into one chronology. And the record's survival-claim is the critical datum: most of the world's knowledge of Norse myth runs through this one document - the catechism's apparatus (the named horses, the six Gleipnir-ingredients, the renewal-roster) exists nowhere else in prose, so the whole-text node documents both the myths and the document that carries them."
+      },
+      "functions": [
+        "Whole-text node: Snorri's complete catechism, void to renewal, as one arc",
+        "Compilation doctrine: the eddic poems reconciled into a single narrative",
+        "Survival doctrine: the document through which most of the corpus survived",
+        "Dissolving container: the frame's irony - a Christian scholar preserving the old stories as illusion"
+      ],
+      "variants": [
+        {
+          "name": "Codex Regius version (GKS 2367 4to)",
+          "text_tradition": "c. 1300-1325",
+          "summary": "The fullest version of the catechism.",
+          "cross_ref": "norse-prose-edda-gylfaginning-full"
+        },
+        {
+          "name": "Codex Upsaliensis version (DG 11)",
+          "text_tradition": "c. 1300-1325; often closer to Snorri's autograph",
+          "summary": "The shorter, tighter version of the same chapters.",
+          "cross_ref": "norse-gylfaginning-frame"
+        }
+      ],
+      "primary_sources": [
+        {
+          "work": "Snorri Sturluson, Edda: Gylfaginning",
+          "citation": "Complete. Critical edition: Anthony Faulkes, Edda, London 1987. MSS: Codex Regius GKS 2367 4to; Codex Upsaliensis DG 11; Codex Trajectinus. English: Brodeur 1916 (public domain).",
+          "language": "Old Norse / Old Icelandic"
+        }
+      ],
+      "secondary_sources": [
+        {
+          "work": "Anthony Faulkes, Edda (ed. and commentary)",
+          "citation": "Faulkes 1987, London: Everyman - the definitive commentary on the whole catechism."
+        },
+        {
+          "work": "Margaret Clunies Ross, Prolonged Echoes, vol. 1",
+          "citation": "Clunies Ross 1994, Odense - Snorri's synthesis assessed."
+        }
+      ],
+      "source_urls": [
+        {
+          "url": "https://www.sacred-texts.com/neu/pre/",
+          "description": "Prose Edda, Brodeur translation (public domain)",
+          "accessed": "2026-11-01"
+        },
+        {
+          "url": "https://handrit.is/",
+          "description": "handrit.is - the Edda manuscript catalogue entries",
+          "accessed": "2026-11-01"
+        }
+      ],
+      "sensitivity_flag": "none",
+      "provenance": {
+        "record_status": "complete",
+        "compiled": "2026-11-01",
+        "compiled_by": "DHG508 fieldwork compilation",
+        "review_status": "draft - pending human review"
+      },
+      "motifs": [
+        "parable-teaching",
+        "creation-chaos",
+        "prophetic-vision",
+        "cosmic-cow"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Historical literary corpus; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The three enthroned teachers answered in order: the void, Ymir and the cow, the world from the giant's body, the sun and moon set on their courses, the norns under the tree, the halls of the gods, and each god's office - so the catechism ran from the beginning to the Renewal. And when the teaching was done, Gangleri looked about and saw a great plain, no hall and no lords; he went his way and came to his kingdom, and told what he had seen and heard.",
+          "note": "Paraphrase-synthesis of Gylfaginning chs. 3-53 (Brodeur 1916); not verbatim. / Paraphrase of Gylfaginning ch. 53 (Brodeur 1916); not verbatim."
+        }
+      ]
+    }
+  ]
+}

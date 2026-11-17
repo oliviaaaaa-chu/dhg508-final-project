@@ -1,0 +1,1256 @@
+{
+  "_comment": "Theme-expansion batch: origin & deity-behaviour, festival, quest, underworld, taboo stories, brewed from Hesiod, Apollodorus, Pausanias and Ovid (all public-domain translations). All passages are paraphrase with notes.",
+  "texts": [
+    {
+      "id": "greek-apollodorus-argonautic-adventures",
+      "title": {
+        "en": "The Argonauts' Road: Hylas, Amycus, Phineus, and the Clashing Rocks",
+        "zh": "阿爾戈英雄之路：許拉斯、阿密科斯、菲紐斯與撞擊岩"
+      },
+      "tradition": "greek",
+      "category": "myth",
+      "region": {
+        "en": "Mysia to the Black Sea (mythic geography)",
+        "zh": "密細亞至黑海（神話地理）"
+      },
+      "lat": 40.5,
+      "lon": 28.0,
+      "period": "Compiled c. 1st-2nd century CE (attrib. Apollodorus; Frazer translation 1921)",
+      "source": {
+        "archive": "ToposText (J. G. Frazer, Loeb 1921)",
+        "work": "Apollodorus, Library, trans. J. G. Frazer (1921), §§ 1.9.19-1.9.23",
+        "url": "https://topostext.org/work/150"
+      },
+      "license": "Public domain (Frazer translation 1921)",
+      "summary": {
+        "en": "On their way to Colchis, the crew of the Argo lose their beloved squire Hylas to the nymphs at Mysia; Heracles goes after him, and the ship sails. They land in the land of Amycus, who forces strangers to box him to the death, and is killed by Pollux. At Salmydessus they free the blind seer Phineus of the Harpies, who foul his every meal; the winged sons of Boreas pursue the bird-women away, and Phineus teaches them how to get past the Symplegades — the rocks of two shores that clap together on every ship that dares the strait.",
+        "zh": "阿爾戈號駛向科爾基斯的途中，在密細亞失去帖身侍從許拉斯（被仙女擄去），赫拉克勒斯尋友而滯留，船隊分開前進；接著拳王阿密科斯強迫客人互毆至死，被波呂丟刻斯一拳擊斃；至色雷斯救出被哈爾庇厄折磨的盲眼先知菲紐斯，清除了妖鳥；菲紐斯教授他們如何強闖撞擊岩海峽——兩岸巨石相合而生船隻於其間粉碎。"
+      },
+      "motifs": [
+        "trickster",
+        "culture-hero"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient literary source; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "At Mysia the Argonauts fell out of their company. Hylas, son of Thiodamas, a minion of Heracles, had been sent to draw water and was ravished away by the nymphs of the springs on account of his beauty. Polyphemus heard him cry out, gave chase, found Heracles, and told the hero of the loss; and in searching for the boy the ship put out to sea without them.",
+          "note": "Paraphrase of Apollodorus, Library 1.9.19 (Frazer 1921); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Polyphemus, thus left ashore, founded a city in Mysia, Cius, and reigned there as king; and Heracles returned to Argos. But from Mysia the Argonauts put to sea and came to the land of the Bebryces, where reigned Amycus, son of Poseidon and a Bithynian nymph, a doughty man who compelled strangers that landed to box it out with him, and made an end of them.",
+          "note": "Paraphrase of Apollodorus, Library 1.9.19-1.9.20 (Frazer 1921); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "So Pollux undertook to box him, and killed him with a blow; and when the Bebryces made a rush to avenge their king, the chiefs snatched up their arms and put the mob to flight with great slaughter. Thence they came to Salmydessus in Thrace, where dwelt Phineus, a seer who had lost the sight of both eyes for revealing to men the future. The gods also sent the Harpies to him: winged women, who when a table was laid for the seer flew down from the sky and snatched most of the viands, and what little they left stank so that no man could touch it.",
+          "note": "Paraphrase of Apollodorus, Library 1.9.20 (Frazer 1921); not verbatim. / Paraphrase of Apollodorus, Library 1.9.21 (Frazer 1921); not verbatim."
+        },
+        {
+          "id": "4",
+          "text": "Phineus promised his advice if they would rid him of the Harpies: and the winged sons of Boreas, Zetes and Calais, drew their swords and pursued the birds through the air. So the Harpies were driven away, and Phineus, owing them his freedom, showed them the passage of the Symplegades — the two clashing rocks of the straits, each bar to the other, that flattened every ship that tried to pass in the narrows — and the Argonauts escaped from it with their oars and their lives, to go on to Colchis for the fleece.",
+          "note": "Paraphrase of Apollodorus, Library 1.9.21-1.9.23 (Frazer 1921); not verbatim."
+        }
+      ],
+      "persons": [
+        "boreas"
+      ]
+    },
+    {
+      "id": "greek-apollodorus-atalanta-race",
+      "title": {
+        "en": "Atalanta and the Golden Apples",
+        "zh": "阿塔蘭忒與金蘋果"
+      },
+      "tradition": "greek",
+      "category": "myth",
+      "region": {
+        "en": "Arcadia (symbolic pin)",
+        "zh": "阿卡迪亞（象徵性定位）"
+      },
+      "lat": 37.5,
+      "lon": 22.0,
+      "period": "Compiled c. 1st-2nd century CE (attrib. Apollodorus; Frazer translation 1921)",
+      "source": {
+        "archive": "ToposText (J. G. Frazer, Loeb 1921)",
+        "work": "Apollodorus, Library, trans. J. G. Frazer (1921), §§ 3.9.2-3.9.3",
+        "url": "https://topostext.org/work/150"
+      },
+      "license": "Public domain (Frazer translation 1921)",
+      "summary": {
+        "en": "Exposed by her father for being a girl, Atalanta is raised by a she-bear, then by hunters; she grows into a virgin huntress who kills the centaurs that molested her, hunts the Calydonian boar, and wrestles and beats Peleus at the games of Pelias. Her father wants her wed: she runs for her hand in a racecourse marked with a three-cubit stake, beating and killing wooer after wooer, until Melanion (Hippomenes in other tellings), armed with golden apples of Aphrodite, drops them one by one and wins her.",
+        "zh": "因性別被父親拋棄的阿塔蘭忒，母熊撫養、獵人教練；她拒絕婚事、箭殺人馬怪、親臨獵野豬，並在比賽場上擊敗珀琉斯。至父親催婚時，她自立賽道：三肘高木樁為標，未婚夫跑在她前面，被打 上 者 死。密蘭尼翁（另譯希波墨涅斯）以阿芙羅狄忒所贈三個金蘋果擲落，誘其拾取而打敗她， 得 其 為妻；二 人 入 宙 不 敬 而 變 作 獅 子。"
+      },
+      "motifs": [
+        "culture-hero",
+        "taboo-transgression",
+        "great-hunt"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient literary source; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Iasus had a daughter Atalanta, and exposed her in the wild because she was not a boy. But a she-bear came to her and gave her suck, until hunters found her and brought her up among themselves. Grown to womanhood, she kept herself virgin and armed, and preferred the wilderness to husbands.",
+          "note": "Paraphrase of Apollodorus, Library 3.9.2 (Frazer 1921); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "The centaurs Rhoecus and Hylaeus tried to force her, and she shot them down. She went with the chiefs to hunt the Calydonian boar; and at the games held in honour of Pelias she wrestled with Peleus — and won.",
+          "note": "Paraphrase of Apollodorus, Library 3.9.2 (Frazer 1921); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "When she had been recovered by her parents, her father pressed her to wed: so she went away and measured out a racecourse, planting a stake three cubits high in the middle of it, and caused her wooers to race before her from that spot, while she ran herself in arms. If the wooer was caught up by her, his due was death on the spot; if he got past her, his due was marriage.",
+          "note": "Paraphrase of Apollodorus, Library 3.9.2 (Frazer 1921); not verbatim."
+        },
+        {
+          "id": "4",
+          "text": "Many had already perished when Melanion came, bringing golden apples — from Aphrodite, as some say — and running with them hidden. As she gained on him he threw one down; she stopped to pick it up; another, and another; and the maiden, gathering the shining fruit as fast as they fell, was beaten in the race, and married.",
+          "note": "Paraphrase of Apollodorus, Library 3.9.2 (Frazer 1921); not verbatim."
+        },
+        {
+          "id": "5",
+          "text": "But the tale does not end with the marriage. Once, out hunting together, they came to the precinct of Zeus, and there taking their fill of love were changed into lions — a punishment the god kept for those who profaned his sacred precinct; and, as some said, because of it, their son Parthenopaeus would one day march against Thebes. Others held that Atalanta was not a daughter of Iasus but of Schoeneus, and that her husband was not Melanion but Hippomenes: the myth itself is scoreless in the matter.",
+          "note": "Paraphrase of Apollodorus, Library 3.9.2-3.9.3 (Frazer 1921); not verbatim."
+        }
+      ],
+      "persons": [
+        "melanion-arcad"
+      ]
+    },
+    {
+      "id": "greek-apollodorus-ellenes-tribes",
+      "title": {
+        "en": "Hellen's Sons: The Making of the Greek Tribes",
+        "zh": "赫倫之子：希臘諸部族的起源"
+      },
+      "tradition": "greek",
+      "category": "myth",
+      "region": {
+        "en": "Thessaly &amp; Peloponnese (mythic geography)",
+        "zh": "色薩利與伯羅奔尼撒（神話地理）"
+      },
+      "lat": 39.5,
+      "lon": 22.0,
+      "period": "Compiled c. 1st-2nd century CE (attrib. Apollodorus; Frazer translation 1921)",
+      "source": {
+        "archive": "ToposText (J. G. Frazer, Loeb 1921)",
+        "work": "Apollodorus, Library, trans. J. G. Frazer (1921), §§ 1.7.1-1.7.4",
+        "url": "https://topostext.org/work/150"
+      },
+      "license": "Public domain (Frazer translation 1921)",
+      "summary": {
+        "en": "Deucalion's son Hellen, from whom all Greeks take their name, has sons by the nymph Orseis: Dorus, Xuthus, and Aeolus. He divides the land among them, and from the three lines come the Greeks' own tribal names: Dorus' settlers become Dorians; Aeolus, ruling in Thessaly, gives the Aeolians their name; and Xuthus' sons Achaeus and Ion (by Creusa, daughter of Erechtheus) name Achaeans and Ionians. The node is small but it is the charter of Greek ethnicity: the heroes bear the tribes as their children bear their fathers' names.",
+        "zh": "丟卡利翁之子赫倫為「希臘人（Hellenes）」得名之源；其與水仙俄耳塞斯生三子：多洛斯、克蘇托斯、埃俄羅斯。分地而治，奠基三支：多洛斯的居民稱多利安人；色薩利之埃俄羅斯後代稱埃俄利亞人；克蘇托斯（克瑞烏薩所生）之二子阿卡俄斯與伊翁，又分別成為「阿卡亞人」與「伊奧尼亞人」之祖。"
+      },
+      "motifs": [
+        "sibling-creators",
+        "sacred-kingship"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient literary source; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Deucalion, the flood survivor and son of Prometheus, had a son Hellen, who — as Apollodorus tells it — became the father of the race all Greeks belong to: for those who had been called Greeks he now named Hellenes after himself.",
+          "note": "Paraphrase of Apollodorus, Library 1.7.2-1.7.3 (Frazer 1921); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Hellen had three sons by a nymph, Orseis: Dorus, Xuthus, and Aeolus. He divided the country among them, and out of the shares came the names of the tribes. Xuthus received the Peloponnese; and by Creusa, daughter of Erechtheus, he had two sons, Achaeus and Ion, from whom the Achaeans and the Ionians take their names. Dorus received the country over against the Peloponnese and called its settlers Dorians after himself; and Aeolus, reining over the lands about Thessaly, named the inhabitants Aeolians.",
+          "note": "Paraphrase of Apollodorus, Library 1.7.3 (Frazer 1921); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "From Aeolus's own stock came seven further sons — Cretheus, Sisyphus, Athamas, Salmoneus, Deion, Magnes and Perieres — and five daughters; and under these lines runs the whole heroic genealogy of the Greek race. In so brief a tale Apollodorus has drawn the charter of Greek identity: one race, parted among grandsons, each tribe bearing the name of its eponymous lord.",
+          "note": "Paraphrase of Apollodorus, Library 1.7.3 (Frazer 1921); not verbatim."
+        }
+      ],
+      "persons": [
+        "atlas"
+      ]
+    },
+    {
+      "id": "greek-epitome-pious-aeneas",
+      "title": {
+        "en": "Aeneas the Pious Founder",
+        "zh": "篤信的埃涅阿斯"
+      },
+      "tradition": "greek",
+      "category": "myth",
+      "region": {
+        "en": "Troy to the Tiber (mythic geography)",
+        "zh": "特洛伊至台伯河畔（神話地理）"
+      },
+      "lat": 41.9,
+      "lon": 12.5,
+      "period": "Composed from the lost epics (c. 7th century BCE; summary in Apollodorus; Frazer translation 1921)",
+      "source": {
+        "archive": "ToposText (J. G. Frazer, Loeb 1921)",
+        "work": "Apollodorus, Library, trans. J. G. Frazer (1921), Epitome e.5.21",
+        "url": "https://topostext.org/work/837"
+      },
+      "license": "Public domain (Frazer translation 1921)",
+      "summary": {
+        "en": "Of all the Trojans, one alone is allowed to walk free at the sack: Aeneas, son of Aphrodite, who carried his father Anchises on his back through the burning city. The Greeks,奥林匹克 the summary says, let him go because of his piety; the tradition that grew from that single sentence — of a voyage to Italy, of Trojan refugees whose seed would later be said to have founded Rome — begins, in the oldest telling, with a small mercy in a ruined town.",
+        "zh": "特洛伊屠城中，僅有一人被容許自由離開：女神之子埃涅阿斯，背著父親安喀塞斯穿過火海。希臘人因他「孝悌」而放行。就在這一句之上，後來長成了遷徙至義大利、傳說中孕育羅馬的 數 條 史 話 —— 但最早的版本只是一 臺 陳 城 裡一 場 小 小 的 憐 憫。"
+      },
+      "motifs": [
+        "sacred-kingship",
+        "culture-hero"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient literary source; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Neoptolemus slew men at the altar of Zeus Herkeios; Menelaus cut down Deiphobus and led away Helen; but one man in the city, Aeneas the son of Aphrodite, was different. He lifted his father Anchises upon his shoulders, and fled from the burning city, and the Greeks let him alone.",
+          "note": "Paraphrase of Apollodorus, Library, Epitome e.5.21 (Frazer 1921); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "The summary in Apollodorus gives the reason in two words: on account of his piety. He had not abandoned his father when every wall was in flames and every door a road of escape; and the victors judged the man who remembered his father through the ruin worth sparing. Later tellings carried the spared man as far as Latium, a wanderer with a god's mandate, and made his Latian house the root of Roman kingship in the mould that Ovid's Rome would still be telling.",
+          "note": "Paraphrase of Apollodorus, Library, Epitome e.5.21 (Frazer 1921); not verbatim."
+        }
+      ],
+      "persons": []
+    },
+    {
+      "id": "greek-hymn-demophon",
+      "title": {
+        "en": "Demophon: Demeter's Nurse-Child and the Eleusinian Rites",
+        "zh": "得摩豐：農神養子與厄琉息斯祭典"
+      },
+      "tradition": "greek",
+      "category": "myth",
+      "region": {
+        "en": "Eleusis, Attica (symbolic pin)",
+        "zh": "阿提卡厄琉息斯（象徵性定位）"
+      },
+      "lat": 38.04,
+      "lon": 23.9,
+      "period": "Composed c. 7th-6th century BCE (Lang translation 1899)",
+      "source": {
+        "archive": "Project Gutenberg eBook 16338 (A. Lang, 1899)",
+        "work": "Homeric Hymns II (To Demeter), trans. Andrew Lang (1899)",
+        "url": "https://www.gutenberg.org/ebooks/16338"
+      },
+      "license": "Public domain (Lang translation 1899)",
+      "summary": {
+        "en": "Wandering in black mourning for the stolen Persephone, Demeter takes the shape of an old nurse and comes to the house of Celeus at Eleusis, and gets hire for the nurture of young Demophon, the queen Metanira's son. Set over the fire at night and anointed with ambrosia, the child would have been beyond mortal harm — but his mother wakes and cries out, and the goddess flings him to the ground. She tells the Eleusinians who she is, and they build her a great temple on the hill of Callichoron; and before she goes back to her own gladness, she teaches at this temple the rites and mysteries none may transgress, know, or pry into — the sacred initiation of the maid, as it is held at Eleusis.",
+        "zh": "喪女的得墨忒耳化身老嫗，受僱於厄琉西斯王克勒俄斯家，哺育幼主得摩豐：她夜把孩子置於火中、以仙品擦身，要 使 他 免老、得永生。母親墨塔涅拉夜半窺見而 大 驚 ， 起 兒 大 哭 ，女神 遷ՠ怒把孩子放回地下並 顯 神 身 ；又 要求 建 廟 於 卡利 科 洛 ， 返鄉 前 誦 以 厄琉息 斯 祕 儀 ： 凡 初 入 無 醞 者 亦 應 世 界 之 往 復 歸 於 遂 。"
+      },
+      "motions": [],
+      "motifs": [
+        "oracle-divination",
+        "culture-hero",
+        "magic-food",
+        "initiation"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient literary source; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Demeter, mourning her ravished daughter, left the fields, and rode her wanderings in sorrow: no man knew her, no god knew her as she crossed the roads. She came at last, in the shape of an ancient woman — the goddess of harvest walking in a nurse's dress — to the house of Celeus, king of Eleusis, and sat, unremembered, by the olive tree at the gates, and waited till the daughters of the house came out to fetch water.",
+          "note": "Paraphrase of Homeric Hymns, To Demeter (Lang 1899); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "The eldest daughter, Callidice, invited her in; and Metanira the queen, hearing that a stranger of stature and grace sat in the hall, made welcome, and gave her nurse's place over her own youngest son, Demophon, born late and sought for in sorrowful need. The goddess took the chid in her lap, and, except for food of ambrosia, gave him no milk but only what her own breasts yielded.",
+          "note": "Paraphrase of Homeric Hymns, To Demeter (Lang 1899); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "By day she fed him like any mortal nurse; by night she hid him in the heart of a fire, like a brand in the embers, and wrought over him charms unknown — by which, would his parents have suffered it, the child would have been rid of old age all his days. Demophon grew in beauty beyond his years, for the goddess's training was on him.",
+          "note": "Paraphrase of Homeric Hymns, To Demeter (Lang 1899); not verbatim."
+        },
+        {
+          "id": "4",
+          "text": "But Metanira watched from her chamber and caught the strangest deed: she shrieked in terror, for she knew not what she saw. Then Demeter's mind was troubled: she took the child from the fire with her own hands and laid him gently on the ground, for her heart was torn between the thanks for the parents and her wrath. And she declared her true self, with a majesty that filled the hall: Daughter of Rhea, holder of the harvest, not a nurse at all; and she bade the Eleusinians build her a great temple and an altar below the town upon a rising hill, to make her rites in their season.",
+          "note": "Paraphrase of Homeric Hymns, To Demeter (Lang 1899); not verbatim."
+        },
+        {
+          "id": "5",
+          "text": "The people built it; and after she had gone back to her daughter, she went from temple to hall: coming to the kings and princes of Eleusis, Triptolemus, Diocles, and Eumolpus, she called to them the sacred law, and showed unutterable rites to all of them; and Triptolemos, swiftest of the princes, was sent out with chariot and seed to teach men everywhere the sowing. Whosoever is initiated in these mysteries has a share of a good lot below the earth, and to the uninitiated the same darkness comes as to those who told their own tale.",
+          "note": "Paraphrase of Homeric Hymns, To Demeter (Lang 1899); not verbatim."
+        }
+      ],
+      "persons": [
+        "demeter",
+        "persephone",
+        "eumolpus"
+      ]
+    },
+    {
+      "id": "greek-hymn-eros-aphrodite",
+      "title": {
+        "en": "Eros and the Foamborn Aphrodite",
+        "zh": "厄若斯與海沫誕生的阿芙洛狄忒"
+      },
+      "tradition": "greek",
+      "category": "myth",
+      "region": {
+        "en": "Cythera &amp; Cyprus (mythic geography)",
+        "zh": "基西拉與賽普勒斯（神話地理）"
+      },
+      "lat": 36.54,
+      "lon": 23.0,
+      "period": "Composed c. 700 BCE (Evelyn-White translation 1914)",
+      "source": {
+        "archive": "Theoi Classical Texts Library (Evelyn-White 1914)",
+        "work": "Hesiod, Theogony (the birth of Aphrodite and the birth of Eros)",
+        "url": "https://www.theoi.com/Text/HesiodTheogony.html"
+      },
+      "license": "Public domain (Evelyn-White 1914)",
+      "summary": {
+        "en": "Love is born twice in Hesiod's cosmogony: once with the first beings — Eros, the beautiful immortal who loosens the limbs of gods and men — and again, in foam, from Ouranos' cut-off flesh at sea: Aphrodite, goddess of smiles, with Eros her companion and Himeros attending her from the day of her birth, given from the immortal gods their office over the maiden's whisper and the bride's desire and the deceits of lovers.",
+        "zh": "在赫西俄德的創譜裡，愛出生兩次：太初即有厄若斯——肢解神人的美麗女神；其後，又有從烏拉諾斯被閹肉體漂於海面所生「海沫」的阿芙洛狄忒。自誕生之日起，厄若斯與「神望」伊墨若斯聯袂相伴；二神執掌少女的羞容、少男的欲望、以及戀人的甜蜜欺瞞。"
+      },
+      "motifs": [
+        "creation-chaos",
+        "divine-marriage",
+        "sea-birth"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient literary source; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "In the first telling, Eros was there before the worlds of men: born among Chaos and Earth and Tartarus, the most beautiful of the immortal gods, the limb-loosener, who overmasters the mind and wise counsel in the breasts of all gods and of all men.",
+          "note": "Paraphrase of Theogony (Evelyn-White 1914); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "For his second birth, out of the sea, came a foam-maiden: the immortal flesh of Ouranos was carried a long time in the deep, and white foam rose, and within a maiden grew, who came last to Cyprus, gods and men call her Aphrodite, because she grew out of the foam.",
+          "note": "Paraphrase of Theogony (Evelyn-White 1914); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "Eros followed beside her, and Himeros, beautiful Desire, stood near her side from the moment of her birth, going with her when she was appointed among the undying gods her honoured place. And her office among both gods and men, from the beginning, was the office of the marriage-bed: the whispers of maidens, the smiles and deceits and sweet delight and friendliness and gentleness of young women. So the foam-maiden governs the rites of love from the underworld's first breath to the wedding-song's last breath; and her son Eros is always at her side.",
+          "note": "Paraphrase of Theogony (Evelyn-White 1914); not verbatim."
+        }
+      ],
+      "persons": [
+        "zeus",
+        "eros"
+      ]
+    },
+    {
+      "id": "greek-ovid-bull-europa",
+      "title": {
+        "en": "Jupiter and Europa",
+        "zh": "宙斯與歐羅巴"
+      },
+      "tradition": "greek",
+      "category": "myth",
+      "region": {
+        "en": "Phoenicia to Crete (mythic geography)",
+        "zh": "腓尼基至克里特（神話地理）"
+      },
+      "lat": 35.0,
+      "lon": 25.0,
+      "period": "Composed c. 8 CE (Latin; Riley translation 1851)",
+      "source": {
+        "archive": "Project Gutenberg eBook 21765 (H. T. Riley, trans.)",
+        "work": "Ovid, Metamorphoses, Book II (Fable XIV)",
+        "url": "https://www.gutenberg.org/ebooks/21765"
+      },
+      "license": "Public domain (Riley translation 1851)",
+      "summary": {
+        "en": "In the fields by the shore, the daughter of Agenor plays with her maidens while the father of gods sees her and burns, and, casting off his own majesty, becomes a bull — white as untrodden snow, small horns, a face of mildness. He breathes in the flowers at her feet, plays on the sand as gentle as a pet, invites her to sit: she climbs his back with her friends' help, calling them to come, and he runs with her into the sea, carrying away to Crete the girl whose name the whole continent would afterwards take.",
+        "zh": "阿革諾耳之女在沙灘與侍女採花；宙斯化作一頭雪白小角公牛，溫馴地伏臥草間，邀她坐上牛背；她與同伴嬉鬧、被放 上牛 背，神 即跃 入海水， 搭 至 克 里 特。 歐羅巴 也因此成為整片大陸之 名。"
+      },
+      "motifs": [
+        "transformation",
+        "divine-marriage"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient literary source; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The son of Saturn, seeing Europa from on high among the Tyrian girls, took the shape of a bull — but not of the common breed: a bull small, sleck, and set for nothing but youth; white as the snows before rains and the waves that have not yet been trodden by the southern gale.",
+          "note": "Paraphrase of Ovid, Metamorphoses II, Fable XIV (Riley 1851); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "He stood low among the herds, and the maiden, who had seen him grazing with her maidens, came to her hands and stroked his sides, decked him with garlands, and offered to their fearlessness that the bull could be blamed even if he contained no danger: fair, beautiful, gentle. His eyes had not the wrath of the bull in them, but the manner of a peaceful being around the pastures.",
+          "note": "Paraphrase of Ovid, Metamorphoses II, Fable XIV (Riley 1851); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "The maiden, though frightened, came closer to him; and he crept her no further, but, moving forward softly in the sand, stroked his nose along her hand, breathing sweetness — a way of telling her that his shape was not real.",
+          "note": "Paraphrase of Ovid, Metamorphoses II, Fable XIV (Riley 1851); not verbatim."
+        },
+        {
+          "id": "4",
+          "text": "And now he loosened his own costliness, ambling on the sand with his horns curved back on his neck, and turning the maiden to sit; she sat, taking the yellow flowers for her adornment, in a swim about the calf's back, not knowing what she rode.",
+          "note": "Paraphrase of Ovid, Metamorphoses II, Fable XIV (Riley 1851); not verbatim."
+        },
+        {
+          "id": "5",
+          "text": "Then did the god step slowly along the sand of the sea-shore, until with the stretch of his fake feet he crept on his knees, and on the water broke; and Europa, left clinging on his back for fear of the water, called out to her companions left behind, beckoning to the shore with her right hand; and the god, till he reached Crete, never once joined the helm from the sea but touched not the sand of his alliance, nor the maiden's own native soil.",
+          "note": "Paraphrase of Ovid, Metamorphoses II, Fable XIV (Riley 1851); not verbatim."
+        }
+      ],
+      "persons": [
+        "zeus"
+      ]
+    },
+    {
+      "id": "greek-ovid-cadmus-serpents",
+      "title": {
+        "en": "Cadmus and Harmonia Into Serpents",
+        "zh": "卡德穆斯與和諧女神化蛇"
+      },
+      "tradition": "greek",
+      "category": "myth",
+      "region": {
+        "en": "Illyria (mythic geography)",
+        "zh": "伊呂里里亞（神話地理）"
+      },
+      "lat": 42.0,
+      "lon": 20.5,
+      "period": "Composed c. 8 CE (Latin; Riley translation 1851)",
+      "source": {
+        "archive": "Project Gutenberg eBook 21765 (H. T. Riley, trans.)",
+        "work": "Ovid, Metamorphoses, Book IV (Cadmus &amp; Hermione)",
+        "url": "https://www.gutenberg.org/ebooks/21765"
+      },
+      "license": "Public domain (Riley translation 1851)",
+      "summary": {
+        "en": "Cadmus, his daughters and grandsons wrecked one after another and his son-in-law Athamas mad, becomes an Ethiopian old man and speaks of the dragon he killed in the fields of Thebes: was it, some say, a god? If so, Cadmus himself has become transformed indeed. And the god who has been watching his family fall answers with a serpent in the end: Cadmus and his wife Harmonia, walking to Illyria, become snakes, wound together and collapse onto grass, spitting venom on the lives of the men and women around them.",
+        "zh": "卡德穆斯妻兒先後遭難，女婿阿塔瑪斯發瘋成狂；他自己移民成為埃塞俄比亞老者，途中回想起底比斯毅龍之事，間或自疑：那龍莫非神物？萬一有神相伴，自己也是被變形的對象。神最終的答案卻是蛇：走入伊呂里里亞路上，夫婦二人漸化巨蛇、盤繞草中——他們也「相信那條巨龍 是 神」."
+      },
+      "motifs": [
+        "taboo-transgression",
+        "transformation",
+        "dragon-slaying"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient literary source; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Cadmus, in the poem of transformations, lived long enough to see his children struck down one after another — Semele burned by lightning, his grandsons torn up by their own watchman; and, leaving Thebes at last with his wife Harmonia, he wandered to a hill-country among the Illyrians.",
+          "note": "Paraphrase of Ovid, Metamorphoses IV (Riley 1851); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "There he looked back over his life, and of all else in the story, that dragon he killed on the founding came back to mind: would it be, he thought, that the serpent was sacred, and that he, the slayer, had been all those years under the god's own watch?",
+          "note": "Paraphrase of Ovid, Metamorphoses IV (Riley 1851); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "Cadmus said, softly: 'Was that dragon I killed, not a serpent but a god? For a serpent's guilt, my children's children have been destroyed; and for a serpent's guilt, farther things have arrived at me.' The two of them spread out their arms in token of their old days and laughed at the wonder.",
+          "note": "Paraphrase of Ovid, Metamorphoses IV (Riley 1851); not verbatim."
+        },
+        {
+          "id": "4",
+          "text": "And it was not empty talk. The changes came — from the feet upward, in the manner of the old myth. Scales covered their members; their skins wrapped their hands with a milder coat, and the walking shape went out of them: their two olan bodies, pressed together one against the other, were drawn on the ground, each to the other; and when it was late — that had still of Cadmus, that they might be called serpent, his wife, too — a serpent. And after that, they lived in green lands, neither hiding themselves nor afraid of themselves, so that men still tell of them as the only couple the gods made into serpents instead of into stone.",
+          "note": "Paraphrase of Ovid, Metamorphoses IV (Riley 1851); not verbatim."
+        }
+      ],
+      "persons": []
+    },
+    {
+      "id": "greek-ovid-cupid-dis",
+      "title": {
+        "en": "Cupid's Arrow: Love Wins the Lord of the Dead",
+        "zh": "丘比特之箭：愛之神射亡國之王"
+      },
+      "tradition": "greek",
+      "category": "myth",
+      "region": {
+        "en": "Sicily to the underworld (mythic geography)",
+        "zh": "西西里至冥府（神話地理）"
+      },
+      "lat": 37.35,
+      "lon": 14.7,
+      "period": "Composed c. 8 CE (Latin; Riley translation 1851)",
+      "source": {
+        "archive": "Project Gutenberg eBook 21765 (H. T. Riley, trans.)",
+        "work": "Ovid, Metamorphoses, Book V (Fable I)",
+        "url": "https://www.gutenberg.org/ebooks/21765"
+      },
+      "license": "Public domain (Riley translation 1851)",
+      "summary": {
+        "en": "Ovid's version of the rape of Proserpine begins with a boy's arrow: Venus, laughing, tells her son Cupid to harness the most unlikely of lovers, and he steps down into the underworld and shoots Dis with the dart that kindles rapture under his very eye. The god of the dead, smitten, springs up through the cleft in Sicily to carry off Ceres' daughter — love, the poem says, has no realm it cannot enter, and the house of death has its own wedding.",
+        "zh": "奧維德講述普洛塞庇娜被掠版本：維納斯笑命其子丘比特去射死亡之主；愛神自地縫射出一箭，魅人愛火直入幽王腹中。普路托於是破土而出，擄走刻瑞斯之女。此則神話說明愛情無界，死亡之屋亦可為婚禮場所。"
+      },
+      "motifs": [
+        "divine-marriage",
+        "taboo-transgression"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient literary source; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "If we believe their leaders, Ovid says, there was a place in the middle of the world called by the Greeks the Navel: there, in the shade of a huge wood, a girl — the daughter of Ceres, Proserpine, maiden and owner of nothing but her body — wandered among the flowers. And Venus, above, looked down and saw, and said to her Cupid gaily: bring the god beneath the earth under the same yoke as all the rest.",
+          "note": "Paraphrase of Ovid, Metamorphoses V, Fable I (Riley 1851); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "She unslung the quiver from her son's shoulder and said to him, playing mother: 'My son, my arms and my hands give you strength to tame all else. You know him, the ruler of the world below — of those who die. Why should the Styx alone escape your darts? Succumb the heavens, and this land of Tritonia, and the courts of the king beneath: a third part of the world is yet without my station.'",
+          "note": "Paraphrase of Ovid, Metamorphoses V, Fable I (Riley 1851); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "The god bound on his quiver, and, unseen, shot through the air and came down to the folds of the underworld. There he shot the god of the dead full in the breast: the dart, the rapture-bearing one, found its weakest place, and it went home. And the god smitten said nothing aloud, for the wedge of love was deeper than speech.",
+          "note": "Paraphrase of Ovid, Metamorphoses V, Fable I (Riley 1851); not verbatim."
+        },
+        {
+          "id": "4",
+          "text": "And while the girl played among the flowers and gathered for her lap the tender, bending stalks, the Underworld opened with a roar: out of the cleft sprang the king of the dead, in his own chariot, pale as the horse beneath him was black, and (as he had desired) carried her off — she, still calling piteously to her mother, to her companions, and above all to her mother; and her veil was loosened in the rushing. And above all this, her gathered flowers had been scattered by her fall.",
+          "note": "Paraphrase of Ovid, Metamorphoses V, Fable I (Riley 1851); not verbatim."
+        }
+      ],
+      "persons": [
+        "demeter",
+        "persephone",
+        "zeus",
+        "eros"
+      ]
+    },
+    {
+      "id": "greek-ovid-ino-leucothea",
+      "title": {
+        "en": "Ino into Leucothea",
+        "zh": "伊諾化為白女神"
+      },
+      "tradition": "greek",
+      "category": "myth",
+      "region": {
+        "en": "Corinth to the Balearic strait (mythic geography)",
+        "zh": "底比斯至西西里海岬（神話地理）"
+      },
+      "lat": 38.2,
+      "lon": 16.0,
+      "period": "Composed c. 8 CE (Latin; Riley translation 1851)",
+      "source": {
+        "archive": "Project Gutenberg eBook 21765 (H. T. Riley, trans.)",
+        "work": "Ovid, Metamorphoses, Book IV (Ino &amp; Athamas)",
+        "url": "https://www.gutenberg.org/ebooks/21765"
+      },
+      "license": "Public domain (Riley translation 1851)",
+      "summary": {
+        "en": "Ino, daughter of Cadmus, had been nurse to the infant Bacchus — which Juno could not abide: she barred his cradle with her dark obsession, and sent Tisiphone from Hell with a vial of madness to the house of Athamas. The Fury walks in the king's hall in the shape of his wife's old nurse, hurls her poisonous comb at Ino's own milk, and takes Athamas' wits; he seizes his little son Learchus and dashes him against the wall. Ino leaps from the cliff into the sea with the younger child Melicertes in her arms — and the gods remade the pair: Ino into Leucothea, the goddess of sailors' hands, and Melicertes into Palaemon, honored at the Isthmian games.",
+        "zh": "底比斯王后伊諾曾祕乳幼小酒神巴克斯，赫拉嫉恨，遣復仇三女神之底西福涅赴阿塔瑪斯王宮撒毒。國王神智盡失，抱幼子勒阿爾科斯摔於牆上而亡；伊諾抱起幼子美利刻忒斯投海。眾神哀其無辜，化伊諾為海中白女神勒科忒亞（即奧德修斯漂流時的救星），其子成為海神帕拉埃蒙，地峽運動會以其為祭。"
+      },
+      "motifs": [
+        "taboo-transgression",
+        "resurrection",
+        "sacred-place"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient literary source; the story contains violence; presented as ancient material without endorsement."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Cadmus' daughter Ino, wife of Athamas of Boeotia, had brought up the child Bacchus by stealth in her own halls — fed him a god's meal of milk — for the little one, hidden from those who would have destroyed him, had been given to her keeping, in a peach-flavored cradle of cedar wood.",
+          "note": "Paraphrase of Ovid, Metamorphoses IV (Riley 1851); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "This Juno could not endure; it was the god, the rival of her hated family, alive and growing; and she rose up, and sent Tisiphone out of Hell with her snakes and a stamped badge, a mind-stuff of poisonous hatred, since no Fury's liver can be satisfied without crime. And the Fury, set upon the house of Athamas — she, that binds heaven, earth, the sea, and all men's evil and their damage — crossed with the hell-flies, and of her own kind, tracked the man with her darkened eyes.",
+          "note": "Paraphrase of Ovid, Metamorphoses IV (Riley 1851); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "Tisiphone, coming to the palace door, put on the shape of aged Beroe, Ino's old nurse, and, thanking the queen for keeping the boy for Bacchus' sake, went in; and when she entered the nursery she flung two venomous snakes at her and the poison vial bound round with the Furies' hair. Then she sang a word of the old kind: away, then, with love and with piety: let no son of this house outlive his father, then turned her back and made good her escape; and Athamas, in the blood of his mind, fell on the spot and, halting in the middle of the room, brought his infant son Learchus high and hurled him head-first against the wall, breaking bone and killing him in one convulsion.",
+          "note": "Paraphrase of Ovid, Metamorphoses IV (Riley 1851); not verbatim."
+        },
+        {
+          "id": "4",
+          "text": "And Ino, with the younger child Melicertes, ran from the palace and made for the cliffs; she climbed the rock, cried the name of Bacchus, whom she had nursed, three times aloud, and hurled herself and the child into the waves. The sea took them both up gently; and the gods, who would not have the queen who had nursed a god die condemned, remade Ino into Leucothea, the sea-nymph who gives sailors her white scarf of rescue, and grew Melicertes into the sea-god Palaemon, in whose honour the Isthmian games are still kept at Corinth.",
+          "note": "Paraphrase of Ovid, Metamorphoses IV (Riley 1851); not verbatim."
+        }
+      ],
+      "persons": [
+        "dionysus",
+        "hera"
+      ]
+    },
+    {
+      "id": "greek-ovid-io-argus",
+      "title": {
+        "en": "Io and the Hundred Eyes of Argus",
+        "zh": "伊娥與阿耳戈斯百眼"
+      },
+      "tradition": "greek",
+      "category": "myth",
+      "region": {
+        "en": "Arcadia to the Nile (mythic geography)",
+        "zh": "阿卡迪亞至尼羅河（神話地理）"
+      },
+      "lat": 30.0,
+      "lon": 31.0,
+      "period": "Composed c. 8 CE (Latin; Riley translation 1851)",
+      "source": {
+        "archive": "Project Gutenberg eBook 21765 (H. T. Riley, trans.)",
+        "work": "Ovid, Metamorphoses, Book I (Fable IX)",
+        "url": "https://www.gutenberg.org/ebooks/21765"
+      },
+      "license": "Public domain (Riley translation 1851)",
+      "summary": {
+        "en": "Argus, the watchman with a hundred eyes, horns on his brow, is set by Juno to guard Io, whom Jupiter has turned into a white heifer to hide her from his wife. Mercury, sent to free his father's sweetheart, tells the sleepy story of Pan and Syrinx till Argus closes his hundred eyes, then cuts off the head; and Juno picks up the eyes of the watchman and sets them — all shining, all alive — in the tail of her peacock, where they still glitter today.",
+        "zh": "百眼看守阿耳戈斯受朱諾所遣，監視化為小白牛的伊娥。墨丘利奉父命以潘與緒任克斯的故事哄其入睡，遂斬其首；朱諾拾起百隻眼睛，鑲嵌在她聖鳥孔雀的尾屏上——那便是孔雀羽毛上點點「眼睛」的由來。"
+      },
+      "motifs": [
+        "transformation",
+        "trickster"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient literary source; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Argus had a hundred eyes, and — a strange thing — of every two, one took its turn at rest, and the other kept its watch. He stood where he could see Io, the white heifer Jupiter had turned his human love into, wherever she was led to graze, watching the king of gods' beloved for his own wife, who did not wish to lose her.",
+          "note": "Paraphrase of Ovid, Metamorphoses I, Fable VIII-IX (Riley 1851); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Jupiter, well knowing her olive-tressed satellite, was bound not to lose the maiden his wife; and so he sent his son Mercury to be the death of him, and loosen the heifer by a stratagem. He told her the tale till the hundred eyes dropped close in sleep: he told her of the Syrinx, how the nymph of the Arcadian hills was pursued by the goat-legged god Pan, and fled to the pondside, where her sisters turned her into reeds — the reeds out of which Pan now cut the pipe, the measurer of breath — and hid his hands in the hollow stalks that had held her words.",
+          "note": "Paraphrase of Ovid, Metamorphoses I, Fable IX (Riley 1851); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "At last he touched the watchman's drowsy eye-lids with his own staff, and, while he slept, put his own curved blade to the neck that held the hundred eyes, and struck the head from the body. Juno took those eyes — those vocal eyes — and set them in the feathers of her own bird, the peacock, which till then had no bright tail at all; and its tail shone ever after with the eyes of Argus bright and painted gold-green, as it is to this day.",
+          "note": "Paraphrase of Ovid, Metamorphoses I, Fable IX (Riley 1851); not verbatim."
+        }
+      ],
+      "persons": [
+        "hera",
+        "hermes",
+        "zeus"
+      ]
+    },
+    {
+      "id": "greek-ovid-lycaon-impiety",
+      "title": {
+        "en": "Lycaon's Impiety: The Wolf-Guest of Arcadia",
+        "zh": "呂卡翁的瀆神：狼化的阿卡迪亞王"
+      },
+      "tradition": "greek",
+      "category": "myth",
+      "region": {
+        "en": "Maeander / Arcadia (mythic geography)",
+        "zh": "邁安德 / 阿卡迪亞（神話地理）"
+      },
+      "lat": 38.0,
+      "lon": 22.5,
+      "period": "Composed c. 8 CE (Latin; Riley translation 1851)",
+      "source": {
+        "archive": "Project Gutenberg eBook 21765 (H. T. Riley, trans.)",
+        "work": "Ovid, Metamorphoses, Book I (Fable VII)",
+        "url": "https://www.gutenberg.org/ebooks/21765"
+      },
+      "license": "Public domain (Riley translation 1851)",
+      "summary": {
+        "en": "Iron-Age men had come to their own wickedness, and Jupiter came down to find it for himself. He crossed into the land of Arcadia in the dress of a poor man, and knocked at the door of Lycaon, a king whose regulation of impiety was legendary: the guest was served, at supper, with the limbs of a human body. Lycaon resolved to test whether his visitor was, in truth, a god; he committed a sacrilege in the name of faith: a human being, boiled, set before the king of heaven. The god burned down the house with a bolt from the sky, and Lycaon, fleeing in terror, turned about — for the heavens' judgment was already in his body: the ferine aspect of a wolf.",
+        "zh": "鐵之時代人犯下罪惡，宙斯下凡親察；喬裝窮人叩呂卡翁之門。阿卡迪亞王不信神、欲以人肉宴其客。神一聲雷擊焚其宮，呂卡翁倉惶奔逃，回頭已是狼形——狼嘯、毛髮灰白、眼放紅光。此神話即以凡人之罪為起點，亦為大洪水之因由：人類僅剩丟卡利翁與皮拉二人。"
+      },
+      "motifs": [
+        "taboo-transgression",
+        "transformation"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient literary source; violence presented as historical material without endorsement."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The offspring of Saturn could no longer endure the impious words of men in the Iron Age, and, though he had already heard the reports of Jove'sown, decided to go down and see for himself; he put on the shape of a poor man, and, leaning on a staff, came to the palace of Lycaon in Arcadia, a king famous for impieties.",
+          "note": "Paraphrase of Ovid, Metamorphoses I, Fable VII (Riley 1851); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "His tidings of Jupiter's coming were everywhere met with laughter, and Lycaon derided the piety that believed in gods above: and, to make trial whether his visitor was a god, determined to put him to the proof at night with a monstrous dish.",
+          "note": "Paraphrase of Ovid, Metamorphoses I, Fable VII (Riley 1851); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "In the night he cut the throat of a Trojan hostage who had been sent to him in pledge of peace, and boiled the parts of the body, some in seething water and some roasting on the fire, and laid the dish before the table of the guest. The avenging deity at once tipped over the table with a bolt from heaven, and the house blazed with sky-flames.",
+          "note": "Paraphrase of Ovid, Metamorphoses I, Fable VII (Riley 1851); not verbatim."
+        },
+        {
+          "id": "4",
+          "text": "Lycaon fled in terror, and, having reached the silent fields, howled aloud; for the features of a wolf came over him, and the blue-grey hair of the beast; his tongue grew a ravening tongue; his nails sharpened into claws; and his arms, in their human craft, decaying even to the strength of the other beasts, stony and uncurable. He was a wolf now, and he kept the old manly white in his grey hairs; and the same fierce look remained in his face, the same hunger for blood, and for the sla's saherent.",
+          "note": "Paraphrase of Ovid, Metamorphoses I, Fable VII (Riley 1851); not verbatim."
+        },
+        {
+          "id": "5",
+          "text": "And Jupiter, upon considering these wicked doings of men, was minded to destroy the race of mortals; and upon the top of Parnassus, alone of the earth, there yet remained unimpaired two mortals, Deucalion and Pyrrha, from whose stones the new race was to come.",
+          "note": "Paraphrase of Ovid, Metamorphoses I, Fable VII, with the flood transition of Fables VII-VIII; not verbatim."
+        }
+      ],
+      "persons": [
+        "zeus"
+      ]
+    },
+    {
+      "id": "greek-ovid-mercury-herse",
+      "title": {
+        "en": "Mercury and Herse",
+        "zh": "墨丘利與赫爾塞"
+      },
+      "tradition": "greek",
+      "category": "myth",
+      "region": {
+        "en": "Acropolis, Athens (symbolic pin)",
+        "zh": "雅典衛城（象徵性定位）"
+      },
+      "lat": 37.97,
+      "lon": 23.72,
+      "period": "Composed c. 8 CE (Latin; Riley translation 1851)",
+      "source": {
+        "archive": "Project Gutenberg eBook 21765 (H. T. Riley, trans.)",
+        "work": "Ovid, Metamorphoses, Book II (Fable XIII)",
+        "url": "https://www.gutenberg.org/ebooks/21765"
+      },
+      "license": "Public domain (Riley translation 1851)",
+      "summary": {
+        "en": "At the festival of Pallas on the Acropolis, three sisters carry the sacred basket: Aglauros, Herse and Pandrosos. Mercury loves the middle sister; Aglauros, corrupted by the poison of Envy, whom Minerva summons from her own black house, stands in the god's way at the hall-door. He touches her with his staff; the serpent of her envy curls her into black stone, which stands true to its shape at the door forever after.",
+        "zh": "雅典衛城帕拉斯祭日，三姊妹阿革勞羅斯、赫爾塞與潘德羅索斯捧聖籃上山。墨丘利愛慕次女赫爾塞；大姐阿革勞羅斯中了嫉妒女神之毒，堵在門前不許愛神入內。神以蛇杖輕點，她蜷成一具烏黑的石像，永遠停立在門邊。"
+      },
+      "motifs": [
+        "taboo-transgression",
+        "transformation",
+        "jealousy"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient literary source; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The grandson of Atlas, Mercury, was on his way home when he saw through the air the maiden Herse, one of the three sisters who carry the sacred baskets for the rites of the goddess in the city of Cecrops, the first Athenian king.",
+          "note": "Paraphrase of Ovid, Metamorphoses II, Fable XII (Riley 1851); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Her elder sister Aglauros was jealous of her middle sister's good fortune, and planned to obstruct the god at the gate of the temple: she told Mercury, in the manner of a serpent, that his love was madness, and that the dignity of a household could not be resolved by his approach.",
+          "note": "Paraphrase of Ovid, Metamorphoses II, Fable XII (Riley 1851); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "Minerva, watching this, came down and called up Envy from her own black house. Envy saw happiness only as an affront to herself, and fed on snakes; she rubbed her poison into the heart of Aglauros, and the elder sister began to waste away in grief and jealousy, dreaming her sister's good fortune and nursing the wish for her harm.",
+          "note": "Paraphrase of Ovid, Metamorphoses II, Fable XIII (Riley 1851); not verbatim."
+        },
+        {
+          "id": "4",
+          "text": "So when the god came to the gate, Aglauros blocked it and refused him. Mercury touched her softly with his staff, and a heavy sleep came on her soul; her body slowly stiffened into the shape it was in when she stood at the door, stone-hearted, and the marble of the Acropolis holds her — for that was the lasting judgment of the god — to this very day.",
+          "note": "Paraphrase of Ovid, Metamorphoses II, Fable XIII (Riley 1851); not verbatim."
+        }
+      ],
+      "persons": [
+        "hermes",
+        "zeus",
+        "aglauros",
+        "cecrops",
+        "hers",
+        "pandrosos",
+        "tiresias"
+      ]
+    },
+    {
+      "id": "greek-ovid-niobe",
+      "title": {
+        "en": "Niobe, the Stone of Tears",
+        "zh": "尼俄柏：落淚之石"
+      },
+      "tradition": "greek",
+      "category": "myth",
+      "region": {
+        "en": "Thebes &amp; Mount Sipylus (symbolic pin)",
+        "zh": "底比斯與西皮勒斯山（象徵性定位）"
+      },
+      "lat": 38.5,
+      "lon": 27.65,
+      "period": "Composed c. 8 CE (Latin; Riley translation 1851)",
+      "source": {
+        "archive": "Project Gutenberg eBook 21765 (H. T. Riley, trans.)",
+        "work": "Ovid, Metamorphoses, Book VI (Niobe)",
+        "url": "https://www.gutenberg.org/ebooks/21765"
+      },
+      "license": "Public domain (Riley translation 1851)",
+      "summary": {
+        "en": "Niobe, daughter of Tantalus, wife of Amphion, and mother of seven sons and seven daughters, refuses the temple rites of Latona — bribed by her own abundance. Latona's children repay her boast: Apollo and Diana come down and shoot all fourteen. Amphion dies of grief; Niobe herself, past weeping, is borne away in a wind to her father Tantalus' mountain in Lydia and turned, there, into stone that weeps still each summer.",
+        "zh": "尼俄柏，坦塔羅斯之女、安菲翁之妻、十四儿女之母，拒絕在勒托神壇前獻祭——因自己的富足婚姻而傲慢。勒托一对子女復仇：阿波羅和阿爾忒彌斯 射 死 其 全 部 十四 子 女。安菲翁因悲痛而死；尼俄柏哭到不甘雨水而呼喚風雨，被 風 捲 到 父 親 坦 塔 羅斯 的 呂 底 亞 山 中 化 石， 每 年 夏 日 仍 涙。"
+      },
+      "motifs": [
+        "taboo-transgression",
+        "transformation"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient literary source; the story contains violence; presented as ancient material without endorsement."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Niobe had counted her own good fortune in the manner of the rich: one husband of song, royal sons and daughters in number fourteen, and in every child more beauty than her rival's brood under Latona; so, as she paraded through the town, she forbade the citizens any longer to worship Latona.",
+          "note": "Paraphrase of Ovid, Metamorphoses VI (Riley 1851); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "The mother of twins heard the slander and answered with quiet menace: 'I will show you what a goddess is, if your children are not as few as my two.' Then the children of Latona did not delay: Apollo and Diana came down in silence, their bows at the string. One of Niobe's seven sons fell in the act of sacrifice, then the second in the saddle, and so, one after another, the whole rank of her boys: her husband Amphion, hearing the deaths, perished by his own sword. Then Niobe stood in her palace doorway among the corpses, and her daughters begged their owns deaths in turn.",
+          "note": "Paraphrase of Ovid, Metamorphoses VI (Riley 1851); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "The bow answered them too, until the youngest was left. Niobe, wrapping her arms about the last child, begged the god for one of the seven: leave me but one, the least of all my daughters! And as she prayed, the prayer was heard with a slackness: the girl died too. Then Niobe, past weeping, sat still where she was.",
+          "note": "Paraphrase of Ovid, Metamorphoses VI (Riley 1851); not verbatim."
+        },
+        {
+          "id": "4",
+          "text": "Ovid's version gives her a visible ending: a wind carried her off to her father's own country, and there, on Mount Sipylus in Lydia, she is a stone, which even now weeps in summer heat — the tears of a goddess's punishment keeping the shape of a woman who forgot there are gods above her.",
+          "note": "Paraphrase of Ovid, Metamorphoses VI, with Pausanias's local legend of the Niobe rock (8.11; Shilleto translation); not verbatim."
+        }
+      ],
+      "persons": [
+        "niobe-theban"
+      ]
+    },
+    {
+      "id": "greek-ovid-pentheus",
+      "title": {
+        "en": "Pentheus Refuses the God",
+        "zh": "彭透斯拒神"
+      },
+      "tradition": "greek",
+      "category": "myth",
+      "region": {
+        "en": "Thebes, Cadmea (symbolic pin)",
+        "zh": "底比斯卡德美亞（象徵性定位）"
+      },
+      "lat": 38.14,
+      "lon": 22.55,
+      "period": "Composed c. 8 CE (Latin; Riley translation 1851)",
+      "source": {
+        "archive": "Project Gutenberg eBook 21765 (H. T. Riley, trans.)",
+        "work": "Ovid, Metamorphoses, Book III (Fable VIII)",
+        "url": "https://www.gutenberg.org/ebooks/21765"
+      },
+      "license": "Public domain (Riley translation 1851)",
+      "summary": {
+        "en": "As the worship of Bacchus spreads, Pentheus, grandson of Cadmus, mocks the god, ridicules the seer Tiresias' warning, and has the disguised god flogged and imprisoned. The chains fall away by themselves; the prison doors swing open; Pentheus climbs a tree to watch the rites unseen — and is torn apart by the very women he came to spy on, his mother and aunts among them. From that time, Ovid says, the Thebans honour the rites of Bacchus with real respect; the story that begins as a dispute about a god ends as the founding of a cult in his city.",
+        "zh": "酒神祭祀在底比斯蔓延時，彭透斯（卡德穆斯外孫）嘲弄新神、斥責提瑞西阿斯之預言，甚至將微服的神捉去鞭笞下獄。鐐銬自行脫落、牢門自開；他上樹偷看祭典，反被（其生母與姨母在內的）狂女所撕。自此底比斯人敬奉酒神之儀，祭祀確立。"
+      },
+      "motifs": [
+        "taboo-transgression",
+        "theophany"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient literary source; violence presented as historical material without endorsement."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Bacchus, grandson of Cadmus through Semele, had brought his own worship to the Greeks. But Pentheus, his cousin, mocked the entire cult and pressed his people to ignore the god; he scoffed at the blind prophet Tiresias when the seer alone honored the new deity, crying that the praises of awhirled god would be mere madness in a man!",
+          "note": "Paraphrase of Ovid, Metamorphoses III, Fable VIII (Riley 1851); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Tiresias warned him to respect the god; and Pentheus, to show he would not, had the disguised stranger — came in boyflight to Thebes, a showman of Lydian dances, recounting the marvels of the Eastern rites — seized and bound, and put in a strong prison. Yet the fetters fell away from him; the dungeon doors opened of themselves, and the god walked out.",
+          "note": "Paraphrase of Ovid, Metamorphoses III, Fable VIII (Riley 1851); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "The secret thrills of the rite drew him, in person, to Cithaeron, the hill of the rites: he climbed into a tree, and watched, hidden, the sacred dances. And the god, from the height of the tallest pine, sent his own aegis (we might almost say, his own eye) on the whole mother-troupe: the women rushing to the sound of the cymbals looked up, saw a king, and tore him out of the tree limb by limb. From that time, Ovid tells us, the Thebans honor the rites of Bacchus; the god became theirs; and the temple of Pentheus was built no more.",
+          "note": "Paraphrase of Ovid, Metamorphoses III, Fable VIII (Riley 1851); not verbatim."
+        }
+      ],
+      "persons": [
+        "ares",
+        "dionysus"
+      ]
+    },
+    {
+      "id": "greek-ovid-proserpine-pomegranate",
+      "title": {
+        "en": "Proserpine and the Pomegranate",
+        "zh": "普洛塞庇娜與石榴籽"
+      },
+      "tradition": "greek",
+      "category": "myth",
+      "region": {
+        "en": "Sicily &amp; the underworld (mythic geography)",
+        "zh": "西西里與冥府（神話地理）"
+      },
+      "lat": 37.35,
+      "lon": 14.6,
+      "period": "Composed c. 8 CE (Latin; Riley translation 1851)",
+      "source": {
+        "archive": "Project Gutenberg eBook 21765 (H. T. Riley, trans.)",
+        "work": "Ovid, Metamorphoses, Book V (Fables II-V)",
+        "url": "https://www.gutenberg.org/ebooks/21765"
+      },
+      "license": "Public domain (Riley translation 1851)",
+      "summary": {
+        "en": "Carried to Dis' hall amid the flowers she had gathered in Sicily, the girl weeps and starves, until in the garden a child of the field plucks a pomegranate and holds it to her; Proserpine takes seven seeds out of its rind — and by that act is bound to the court of the dead. Ceres, who has wandered the world, her torches unlit and her search inconclusive, learns from Arethusa in her spring that her daughter is in the halls of Dis, and forces a bargain: for the seeds tasted, her daughter shall spend half each year above and half below.",
+        "zh": "普洛塞庇娜在花叢中被擄至冥王之殿，啼哭絕食，唯在花園裡由 野 孩 子 摘 下 石 榴； 她 食 七 粒， 從 而 受困 於 冥 。其 母 刻 瑞 斯 亦 到 處 流 離、 沿 路 求 訪， 至 阿 瑞 圖 莎 泉水 處 得 知 女 兒 下 落， 遂 迫 迪 斯 調 停： 食 七 粒 者 按 節 半 年 在 天、 半 年 在 冥。"
+      },
+      "motifs": [
+        "oracle-divination",
+        "sacred-place"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient literary source; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Now see what a secret fate she had carried away by while story of the disputation of Venus; and she, alone in the halls of Dis, neither would take her repast, nor would she please him: grieving in speechless unhappiness, her body slowly wasted. And yet while she remained with him at her side, refusing his bed, and the food of the living, she kept, as best she could, the memory of her flower-columned Sicily.",
+          "note": "Paraphrase of Ovid, Metamorphoses V, Fable II-III (Riley 1851); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "In a garden not far from the halls Ascalaphus, a child-feed of the underworld, saw her, and tried to woo the girl: first he held a pomegranate, and taking in this hand the fruit, cut a round fruit out of the rind... seven; seven seeds enough, to break the law that says an hostage doomed to the dead shall not taste the fruit of earth.",
+          "note": "Paraphrase of Ovid, Metamorphoses V, Fable III (Riley 1851); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "And Proserpine admitted the cheat — she tasted; and while she sat suspecting nothing of what she had swallowed, Ascalaphus the gardener appeared, gave surlily and declared that the maiden had eaten seven pomegranate seeds in the fields of the dead; and she was condemned by what he saw.",
+          "note": "Paraphrase of Ovid, Metamorphoses V, Fable III (Riley 1851); not verbatim."
+        },
+        {
+          "id": "4",
+          "text": "Ceres, the searcher, went the way of the world to find her; and, having questioned nymphs and rivers, came in time to the spring of Arethusa — where the Sicilian waters pass under the sea — who told the tale of her own pursuit, and reported that the father of Dis had taken the maiden for his wife, but had born a son.",
+          "note": "Paraphrase of Ovid, Metamorphoses V, Fable IV (Riley 1851); not verbatim."
+        },
+        {
+          "id": "5",
+          "text": "So Ceres went up into the heavens, and the queen of the dead found herself before two judges: the mother's rival — none other than Jove — and the lord of the dead, whose marriage tie she had witnessed. Dis bargained: let the daughter Abide half the year with each of them; and so, because of the seeds she had tasted, is the law that you see the boundary of: for six months, her mother's pomegranate bears her name; until six others, she is in the courts of the sun.",
+          "note": "Paraphrase of Ovid, Metamorphoses V, Fable V (Riley 1851); not verbatim."
+        }
+      ],
+      "persons": [
+        "demeter",
+        "persephone"
+      ]
+    },
+    {
+      "id": "greek-ovid-underworld-punishments",
+      "title": {
+        "en": "The Punishments Below: Tityus, Tantalus, Sisyphus, Ixion",
+        "zh": "冥府諸刑：提提俄斯、坦塔羅斯、西敘福斯與伊克西翁"
+      },
+      "tradition": "greek",
+      "category": "myth",
+      "region": {
+        "en": "The Underworld (mythic geography)",
+        "zh": "冥府（神話地理）"
+      },
+      "lat": 36.47,
+      "lon": 22.49,
+      "period": "Composed c. 8 CE (Latin; Riley translation 1851)",
+      "source": {
+        "archive": "Project Gutenberg eBook 21765 (H. T. Riley, trans.)",
+        "work": "Ovid, Metamorphoses, Book IV (Juno's visit to the Underworld)",
+        "url": "https://www.gutenberg.org/ebooks/21765"
+      },
+      "license": "Public domain (Riley translation 1851)",
+      "summary": {
+        "en": "In the hall of Athamas, Juno sends Tisiphone with her underworld badge; and Ovid pauses for a catalogue of the punished dead — Tityus, whose entrails are torn across nine acres; Tantalus, who can catch no water and never eat the fruit that hangs over his mouth; Sisyphus, pushing his stone to the top only to watch it roll back; Ixion, who both pursues and flees his own wheel; and the granddaughters of Belus, who, plotting the ruin of their cousins, pour forever waters they vainly try to hold — each punishment a different shape of the same self-defeating greed.",
+        "zh": "赫拉親下冥府，遣復仇三女神往阿塔瑪斯之宮：沿途可見典型刑罰——提提俄斯（因侵犯勒托被殺）臟腑永被啄食；坦塔羅斯欲飲不得水、欲食果則枝頭上移；西敘福斯推石上山即刻回滾；伊克西翁永旋於火輪；柏羅斯之外孫女永汲無底之水——每一刑罰展現自我無法滿足的欲念的獨特形態。"
+      },
+      "motifs": [
+        "descent-underworld",
+        "taboo-transgression",
+        "forbidden-food"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient literary source; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The hall of Dis, the poem tells, has no space and yet holds every ghost; the dead are bloodless, but the shades of the realm are the fleshless bodies of men, and one after another they come down the ways to the palace of the infernal prince, where each has his own punishment and each suffering is harvested and kept.",
+          "note": "Paraphrase of Ovid, Metamorphoses IV (Riley 1851); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Juno herself comes down to this place, going to Tisiphone, and the underworld is thrown open before her; she sees, at the gates of adamant, the Furies combing vipers from their hair; and, before she goes on, the catalogue of the punished is set out before her as a display of what justice is in that land.",
+          "note": "Paraphrase of Ovid, Metamorphoses IV (Riley 1851); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "See, the place is named 'the accursed': Tityus gives his entrails to be mangled, and is stretched over nine acres; by thee, Tantalus, no waters are reached, and the tree above thee starts away; Sisyphus, thou art caught by the stone destined to fall again; Ixion is whirled round and both follows and flies from himself.",
+          "note": "Paraphrase of Ovid, Metamorphoses IV, with Riley's explanatory notes (1851); not verbatim."
+        },
+        {
+          "id": "4",
+          "text": "And the fifty granddaughters of Belus, who had plotted the destruction of their cousins the sons of Aegyptus, are everlastingly taking up water that escapes from the bottomless vessels — Ovid's shortest line, and one that has stuck in memory for the way it shows the punishment and the crime as the same shape: a hand that pours, a vessel with a hole in it.",
+          "note": "Paraphrase of Ovid, Metamorphoses IV, with Riley's explanatory note (1851); not verbatim."
+        }
+      ],
+      "persons": [
+        "ixion",
+        "pelops-atenid",
+        "sisyphus"
+      ]
+    },
+    {
+      "id": "greek-pausanias-zeus-daedala",
+      "title": {
+        "en": "Zeus, Hera, and the Wooden Bride: Origin of the Daidala",
+        "zh": "宙斯、赫拉與木製新娘：代達拉節之起源"
+      },
+      "tradition": "greek",
+      "category": "myth",
+      "region": {
+        "en": "Mount Cithaeron, Plataea (symbolic pin)",
+        "zh": "普拉提亞基塞隆山（象徵性定位）"
+      },
+      "lat": 38.23,
+      "lon": 23.05,
+      "period": "Written c. 2nd century CE (Shilleto/Bohn translation; G. B. 68680)",
+      "source": {
+        "archive": "Project Gutenberg eBook 68680 (A. R. Shilleto, trans.)",
+        "work": "Pausanias, Description of Greece IX.3",
+        "url": "https://www.gutenberg.org/ebooks/68680"
+      },
+      "license": "Public domain (Shilleto translation)",
+      "summary": {
+        "en": "A festival myth of marriage as an institution: Hera, angry with Zeus, goes off to Euboea; Zeus cannot win her back; but Cithaeron, king of Plataea and cleverest of men, advises him to dress up a wooden statue as a bride and parade it with yoked oxen, announcing his marriage to Plataea, daughter of Asopus. Hera, jealous, comes at once, tears the clothes off the statue and, finding only wood, laughs and returns to Zeus. In memory of this reconciliation the Plataeans keep, still, the little Daidala festival — the wooden bride dressed in bridal clothes, drawn by oxen to the river Asopus, and burnt with fire, the marriage unwedded and the wrath forgotten.",
+        "zh": "赫拉怒而離開宙斯、前往优卑亚；宙斯無法安撫。机灵的基塞隆王教他做一具木制新娘、套牛車帕拉提亚游城、宣布婚娶阿索波斯之女普拉提亚。赫拉 Thus 趕返，怒撕 Surgeon 衣 浸 沉 一象； 惟 見 樹 木 而 笑 ， 怒 气 顿 消， 與 宙斯 和 解 磊 磊。 为 记 之 和，普拉提亚人每 年 舁木 娶 女 泳 车 至 河 邊 灰 灰 化 之 —— 代 達 拉 节 之 由 ， 亦 婚礼 之 神话 起 源。"
+      },
+      "motifs": [
+        "divine-marriage",
+        "parable-teaching",
+        "jealousy"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient literary source; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "In the traditions of the Plataeans around the temple of Hera, the goddess grew angry with Zeus for a wrong and went off to Euboea to sulk; and Zeus could not think of any way to bring her again to Olympus in good temper.",
+          "note": "Paraphrase of Pausanias 9.3 (Shilleto); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "So he went to Cithaeron, who then ruled at Plataea, and who was inferior to no one in ingenuity — the one king, on Pausanias' account, cleverer even than the gods in the matter of sutures. He recommended to the god a plan: the making of a wooden statue, dressed in bridal fashion, drawn in a waggon by a yoke of oxen, while a report went round that Zeus was to marry the daughter of Asopus, Plataea herself.",
+          "note": "Paraphrase of Pausanias 9.3 (Shilleto); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "Hera heard, and returned to Plataea at once, and walked straight up to the waggon and tore the bridal clothes off the statue — only to find in the statue a block of wood. And she burst out laughing. That was enough for the marriage, and, the anger over the imposture mopped up in the joke, she was reconciled to her husband.",
+          "note": "Paraphrase of Pausanias 9.3 (Shilleto); not verbatim."
+        },
+        {
+          "id": "4",
+          "text": "In memory of the reconciliation the Plataeans celebrate the festival of Daidala, which they keep — on the evidence of antiquarian guides — once every seventh year in the small form, and once every sixth in the great form. In the plain beneath the oak-grove of Alalcomenae the priests put cuts of meat on the boughs, for the crows that come to plunder, and the branch the bird selects becomes the wood for the bridal statue.",
+          "note": "Paraphrase of Pausanias 9.3 (Shilleto); not verbatim."
+        },
+        {
+          "id": "5",
+          "text": "Fourteen cities of Boeotia provide the wooden brides each year; the statue is dressed, drawn to the Asopus on a waggon, and burnt there with fire: the quarrel is remembered in the image and the marriage is renewed with laughter, so that — in the whole calendar of Zeus and Hera — the rule of marriage between god and goddess is as much a comedy as a sacrament.",
+          "note": "Paraphrase of Pausanias 9.3 (Shilleto); not verbatim."
+        }
+      ],
+      "persons": [
+        "hera",
+        "zeus"
+      ]
+    },
+    {
+      "id": "greek-theogony-aegis-origin",
+      "title": {
+        "en": "The Origin of the Aegis",
+        "zh": "宙斯神盾的由來"
+      },
+      "tradition": "greek",
+      "category": "myth",
+      "region": {
+        "en": "Mount Olympus (mythic geography)",
+        "zh": "奧林波斯山（神話地理）"
+      },
+      "lat": 40.09,
+      "lon": 22.35,
+      "period": "Composed c. 700 BCE (Evelyn-White translation 1914)",
+      "source": {
+        "archive": "Theoi Classical Texts Library / ToposText (Evelyn-White 1914; Frazer 1921)",
+        "work": "Hesiod, Theogony, and Apollodorus, Library, trans. H. G. Evelyn-White (1914) and J. G. Frazer (1921)",
+        "url": "https://www.theoi.com/Text/HesiodTheogony.html"
+      },
+      "license": "Public domain (Evelyn-White 1914; Frazer 1921)",
+      "summary": {
+        "en": "The aegis — the storm-shield of Zeus that makes men flee and favours him in battle — is the emblem granted to his daughter Athena, and its last piece is added from the spoils of her ally: when Perseus beheads Medusa, he gives the Gorgon's head to Athena, who sets it, face-up, into the middle of her shield so terror is worn on the god's arm.",
+        "zh": "宙斯神盾（aegis）恐駭人類、助王得勝，是父親的手中寶物；宙斯將此盾授予女兒雅典娜。而它的最後一件戰利品由其友珀爾修斯獻上：斬下美杜莎後，他把蛇髮女妖之首交予雅典娜，她便將那可以炙殺人的頭像嵌在神盾正中——恐懼從此佩戴在神的臂上。"
+      },
+      "motifs": [
+        "sacred-kingship",
+        "culture-hero"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient literary source; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "In Hesiod, the daughter bore also the aegis — the terrible shield fringed with golden tassels, with which Zeus shakes the clouds in anger; and the glory of it belonged to the thunderer, who, when he chose, strode among men with his bolt and his buckler and the terrible shining on his arm.",
+          "note": "Paraphrase of Theogony, lines ca. 444-447 (Evelyn-White 1914); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "His daughter Athena carried the aegis in his service: with it, the grey-eyed maiden armed for war could fright fear into line and field, and bring the terrors of her father's heaven to the side she chose. Into that shield came a second terror. After Perseus had slain the Gorgon, he carried the head with him in the kibisis; and, when he had turned Polydectes and his friends to stone, he gave up the terrible head to Athena.",
+          "note": "Paraphrase of Theogony, lines ca. 444-447 (Evelyn-White 1914); not verbatim. / Paraphrase of Apollodorus, Library 2.4.3 (Frazer 1921); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "She, in turn, set the head of Medusa in the middle of her own aegis; and some said the Gorgon had earned such attention by daring — like the Trojan ancestry of several heroines — to match her beauty against the goddess herself. Thus, from that day on, the aegis is not only the storm-shield of the king of gods turned foe-turner, but bears the death-face of the petrifying maiden, and the horror on it does the work of war without a blow.",
+          "note": "Paraphrase of Apollodorus, Library 2.4.3 (Frazer 1921); not verbatim."
+        }
+      ],
+      "persons": [
+        "athena",
+        "zeus",
+        "aegis"
+      ]
+    },
+    {
+      "id": "greek-theogony-metis-swallowed",
+      "title": {
+        "en": "Metis Swallowed: Zeus and the Wisest Wife",
+        "zh": "墨提斯入腹：宙斯與最智慧的妻子"
+      },
+      "tradition": "greek",
+      "category": "myth",
+      "region": {
+        "en": "Mount Olympus (mythic geography)",
+        "zh": "奧林波斯山（神話地理）"
+      },
+      "lat": 40.09,
+      "lon": 22.35,
+      "period": "Composed c. 700 BCE (Evelyn-White translation 1914)",
+      "source": {
+        "archive": "Theoi Classical Texts Library (Evelyn-White 1914)",
+        "work": "Hesiod, Theogony, trans. Hugh G. Evelyn-White (1914), lines ca. 886-900",
+        "url": "https://www.theoi.com/Text/HesiodTheogony.html"
+      },
+      "license": "Public domain (Evelyn-White 1914)",
+      "summary": {
+        "en": "Zeus's first wife is Metis, the wisest of gods and men, herself daughter of Ocean and Tethys. But Earth and Heaven warn him what her children will be: first a daughter equal to her father in counsel and strength, then after her a son who would be king. Zeus, no sooner warned than trickster in his own house, swallows the pregnant wife by the contrivance that she should turn into his own belly; and for ever after, out of his head — when Hephaestus keeps him open by the golden axe — is born the grey-eyed daughter, Athena, safe from any second mother in Metis and equal to her sire in wisdom alone.",
+        "zh": "宙斯的第一位妻子是墨提斯——俄刻阿諾斯與忒堤斯的智慧之女。預言壓在其父耳上：她的第一胎將是女兒，聰慧武力與父親相當；第二胎將誕一子，取而代之主宰眾神。宙斯一聽預言便吞下有身之妻；後經赫菲斯托斯之斧劈開顱骨，雅典娜全副武裝自其頭中降世——最智慧的父親，孕育出智慧的姊妹。"
+      },
+      "motifs": [
+        "miraculous-birth",
+        "sacred-kingship",
+        "wise-advice",
+        "divine-smith"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient literary source; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Now king Zeus took as his first wife Metis, who knew more than all gods and mortal men. But as soon as she was ready to bring forth the gleaming-eyed goddess Athena, then the crafty father deceived her with flattering words, and swallowed her down into his own belly; for Earth and starry Heaven had given him counsel — that this would come to pass, lest some other deathless holder of the thunder should come to be king in Zeus's place.",
+          "note": "Paraphrase of Theogony, lines ca. 886-900 (Evelyn-White 1914); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "For the two elders had prophesied what children Metis would bear: first the bright-eyed maiden who would be her father's equal in strength and wisdom; then a son, the rash king of gods and men. To forestall this, Zeus swallowed Metis while the child was on the point of being born, so that the goddess might counsel him in the sitter's own heart, and teach him the good from the evil deed and counsel his charity.",
+          "note": "Paraphrase of Theogony, lines ca. 886-900 (Evelyn-White 1914); not verbatim."
+        }
+      ],
+      "persons": [
+        "metis",
+        "athena",
+        "zeus"
+      ]
+    },
+    {
+      "id": "greek-theogony-sun-moon-dawn",
+      "title": {
+        "en": "The Making of the Sun, Moon and Dawn",
+        "zh": "日月晨光的誕生"
+      },
+      "tradition": "greek",
+      "category": "myth",
+      "region": {
+        "en": "Mount Olympus side-paths (mythic geography)",
+        "zh": "奧林波斯東面山道（神話地理）"
+      },
+      "lat": 39.6,
+      "lon": 22.5,
+      "period": "Composed c. 700 BCE (Evelyn-White translation 1914)",
+      "source": {
+        "archive": "Theoi Classical Texts Library (Evelyn-White 1914)",
+        "work": "Hesiod, Theogony, trans. Hugh G. Evelyn-White (1914), lines ca. 371-376",
+        "url": "https://www.theoi.com/Text/HesiodTheogony.html"
+      },
+      "license": "Public domain (Evelyn-White 1914)",
+      "summary": {
+        "en": "The shining lights of the sky are born of a single marriage of the older gods: Theia, Radiant Titaness of the shining eye, weds Hyperion, and their children are three — Helios who lights the world for gods and for men, Selene the round and bright-collared moon, and Eos, Dawn, whose Palinodes are for every morning's return of all mortals and immortals on the earth.",
+        "zh": "日月晨光同屬一族：發光眼睛的提坦女忒亞嫁給許珀里翁，生下三子——普照神人的赫利俄斯（太陽）、頭戴圓冠的塞勒涅（月）、及每日為神人「再開晨光」的厄俄斯（黎明）。奧維德《變形記》中亦有此系統：法厄同為太陽神之子，其遭遇將是不太理想的冒險，代危性的神請他握韁、不可逞其父之私人之力。"
+      },
+      "motifs": [
+        "sibling-creators",
+        "sun-capture"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient literary source; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Now again to Hyperion wed Theia, element of brightness, and bare to him great children — Helios the Sun, and Selene the Moon, and Eos, the early-born Dawn — who shines upon all that dwell on the earth, and on the deathless gods who hold the wide heaven above.",
+          "note": "Paraphrase of Theogony, lines ca. 371-376 (Evelyn-White 1914); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "The poem follows the family's own paths: from Eos in her love with Astraeus came the great winds — clearing Zephyrus, swift Boreas, and sultry Notus — and after them Heosphoros, the morning star, and every shining star that graces the heavens. In Ovid's later Roman account, Phaethon is set in this same family lineage — the Sun irradiates the lineage but his son insists on the reins, driven to ruin, and the celestial body takes the road of flood and fire.",
+          "note": "Paraphrase of Theogony, lines ca. 371-383, with Ovid II. (Evelyn-White 1914; Riley 1851); not verbatim."
+        }
+      ],
+      "persons": [
+        "astraeus",
+        "hyperion",
+        "theia",
+        "eos",
+        "helios",
+        "selene"
+      ]
+    }
+  ]
+}

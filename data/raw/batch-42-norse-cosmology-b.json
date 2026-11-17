@@ -1,0 +1,688 @@
+{
+  "_comment": "Norse expansion batch 42 - Cosmology & Eschatology II (topic 7): Hel's realm, Hermod's ride, Baldr's dreams, Valhalla and the einherjar, Nastrond, the Voluspa sibyl. All passages are paraphrase and carry a note.",
+  "texts": [
+    {
+      "id": "norse-hel-realm",
+      "title": {
+        "en": "Hel's Realm: The Road North, the Bridge of Echoes and the Corpse-Gate",
+        "zh": "海爾之境：向北之路、迴聲之橋與屍骸之門"
+      },
+      "tradition": "norse",
+      "category": "myth-religion",
+      "region": {
+        "en": "Hel, ninth world of the dead (symbolic pin at Pingvellir, Iceland)",
+        "zh": "海爾——第九世界，死者之國（象徵性定位於冰島辛格韋德利）"
+      },
+      "lat": 64.26,
+      "lon": -21.13,
+      "period": "Gylfaginning c. 1220-1230 (older material); Voluspa st. 37-39; principal MSS Codex Regius GKS 2367 4to, GKS 2365 4to",
+      "source": {
+        "archive": "Project Gutenberg (Brodeur 1916) / sacred-texts.com (Bellows 1923)",
+        "work": "Snorri, Gylfaginning chs. 34, 49; Voluspa st. 37-39; critical ed. Faulkes (1987)",
+        "url": "https://www.sacred-texts.com/neu/pre/"
+      },
+      "license": "Public domain (Brodeur 1916; Bellows 1923); passages below are labeled paraphrases",
+      "summary": {
+        "en": "Hel is a country with a compass: her realm lies northward and downward, nine nights' ride from the living, past the echoing river Gjoll, over the bridge Gjallarbru that rings under a living rider, through the iron-fenced gate Helgrind, into the hall Eljudnir ('damp-with-sleet'), where platters are 'hunger', the knife is 'famine', and the fallen stand. The dead of sickness and age go there; the battle-slain go to Odin. The record is the Norse geography of ordinary death - unmajestic, domestic, and strictly zoned.",
+        "zh": "海爾之境自有方位：其國在北而向下，距生者九夜之程，越過迴聲之河吉奧爾，踏過吉亞拉爾橋——活人過橋時橋身轟響——穿過鐵柵之門海爾格林德，進入大廳埃爾尤德尼爾（「落雹濕冷」），廳中碗盤名為「飢」，餐刀名為「匱」，床位名為「病」。病老而死者入此國；戰死者則歸奧丁。此記錄是北歐對「尋常之死」的地理描述——無榮耀、居家氣息、且分區嚴明。"
+      },
+      "language": "Old Norse / Old Icelandic",
+      "canonical_translation": "A. G. Brodeur, Snorri Sturluson: The Prose Edda, New York 1916 (public domain)",
+      "narrative": {
+        "en": "Gylfaginning assigns the realm its place and its people. When Odin threw Loki's daughter Hel down into Niflheim, he gave her authority over nine worlds, 'that she should apportion all abodes to those that were sent to her': this is the underworld of the unchosen dead - those who die of sickness or old age, as against the battle-slain whom the valkyries take to Odin. Her hall is Eljudnir, 'sprinkled with rain'; her dishes 'Hunger', her knife 'Famine', her thralls 'Sloth' and 'Sourness', her thresholds 'Pitfall', her bed 'Sickness', her curtains 'Misfortune' - a hall named for the deficits of a starving household. She is half flesh-colored and half blue-black, 'easily recognized, and more downcast and fierce-looking than the others'.\n\nThe geography is mapped in the Hermothr episode. The rider comes to the river Gjoll, the bridge Gjallarbru across it, 'roofed with shining gold', and meets the maiden Modgudr, who keeps it: five companies of dead men rode over, but it rang less under them; nothing is darker than under the dead man's eyebrows; the rider shakes the bridge and resounds like gold, and has not the color of dead men - his 'breast heaves with more hot air than a dead man's breath'. The bridge-keeper's questions are a customs post between the living and the dead; only Sleipnir's eight legs and a god's heat could cross ringing. Beyond lies the iron gate Helgrind ('the gates of Hel'), through which even Hermothr must creep sidewise past the hound Garmr.\n\nThe record's cultural functions are a taxonomy of deaths and a domestication of the grave. Norse society sorted its dead by manner of dying: the field of battle to Valhalla or Freyja, the sea to Ran's net, the bed to Hel - and this record maps the last, ordinary, majority death, without glory and without punishment, in a hall that is simply poverty and sickness continued. That absence of judgment is the record's sharpest comparative datum: Hel is not a hell; she is a large, gray household. (Völuspá's Náströnd, with its serpent and corpse-shore, is the separate doctrine for oath-breakers and murderers - a different record here.)\n\nIn the atlas's cosmology family, Hel's realm answers the Greek Hades and the Mesopotamian House of Dust - each an unmajestic underworld for the ordinary dead - but the Norse one adds a bridge-keeper, a customs-post, and a ring underfoot: the afterlife with the acoustics of frontier law."
+      },
+      "functions": [
+        "Taxonomy of deaths: the ordinary dead (sickness, age) zoned to Hel, the battle-slain to Odin",
+        "Geography of the grave: nine nights, echoing river, ringing bridge, iron gate",
+        "Domestic underworld without judgment: a hall named for hunger and sickness, not sin",
+        "Bridge-keeper motif: the customs-post between living and dead"
+      ],
+      "variants": [
+        {
+          "name": "Gylfaginning chs. 34, 49 (Prose Edda)",
+          "text_tradition": "Codex Regius GKS 2367 4to",
+          "summary": "Hel's appointment, appearance and named household; the geography as mapped by Hermothr's ride.",
+          "cross_ref": "norse-hel-realm"
+        },
+        {
+          "name": "Voluspa st. 37-39 (Poetic Edda)",
+          "text_tradition": "Codex Regius GKS 2365 4to",
+          "summary": "The eddic kernel: Hel's hall eastward in Nastrand's shadow, the doors northward, venom-dripping, and the separate doom-hall of oath-breakers.",
+          "cross_ref": "norse-nastrond-serpent"
+        },
+        {
+          "name": "Greek parallel: Hades",
+          "text_tradition": "Odyssey 11 (Nekuia); greek-odyssey-nekuia",
+          "summary": "The unmajestic underworld of the ordinary dead - same zone, different furniture: the Greek dead retain their minds; the Norse hall is named for hunger.",
+          "cross_ref": "greek-odyssey-nekuia"
+        }
+      ],
+      "primary_sources": [
+        {
+          "work": "Snorri Sturluson, Edda: Gylfaginning",
+          "citation": "Ch. 34 (Hel's appointment and hall) and ch. 49 (the ride: Gjoll, Gjallarbru, Modgudr, Helgrind). Critical ed. Faulkes 1987; English: Brodeur 1916.",
+          "language": "Old Norse / Old Icelandic"
+        },
+        {
+          "work": "Voluspa",
+          "citation": "Stanzas 37-39. Principal MS Codex Regius GKS 2365 4to. Public-domain English: Bellows 1923.",
+          "language": "Old Norse / Old Icelandic"
+        }
+      ],
+      "secondary_sources": [
+        {
+          "work": "Rudolf Simek, Dictionary of Northern Mythology",
+          "citation": "Simek 1993, Cambridge: D. S. Brewer - entries 'Hel', 'Eljudnir', 'Gjallarbru', 'Garmr'."
+        },
+        {
+          "work": "Gro Steinsland, Norron religion",
+          "citation": "Steinsland 2005, Oslo: Pax - Hel as ruler of the unchosen dead and her cultic traces."
+        }
+      ],
+      "source_urls": [
+        {
+          "url": "https://www.sacred-texts.com/neu/pre/pre05.htm",
+          "description": "Gylfaginning chs. 34-35, Brodeur translation (public domain)",
+          "accessed": "2026-11-01"
+        },
+        {
+          "url": "https://www.sacred-texts.com/neu/poe/poe03.htm",
+          "description": "Voluspa st. 37-39, Bellows translation (public domain)",
+          "accessed": "2026-11-01"
+        }
+      ],
+      "sensitivity_flag": "none",
+      "provenance": {
+        "record_status": "complete",
+        "compiled": "2026-11-01",
+        "compiled_by": "DHG508 fieldwork compilation",
+        "review_status": "draft - pending human review"
+      },
+      "motifs": [
+        "descent-underworld",
+        "sacred-place"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Historical literary corpus; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Hel's hall is called Eljudnir, her dish 'Hunger', her knife 'Famine', her thralls 'Sloth' and 'Sourness', her bed 'Sickness'; her gates are called 'Stumbling-block', and to those sent to her she apportions all abodes. She is half blue-black and half flesh-colored, easily known, and more downcast and fierce in look than the others.",
+          "note": "Paraphrase of Snorri, Gylfaginning ch. 34 (Brodeur 1916); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "The road lies northward and downward, nine nights' ride; the river Gjoll runs by the iron gates of Hel, and the bridge Gjallarbru, roofed with shining gold, crosses it. The maiden Modgudr keeps the bridge: five companies of dead rode over, and it rang less under them; but a living rider makes it thunder like gold.",
+          "note": "Paraphrase of Snorri, Gylfaginning ch. 49 (Brodeur 1916); not verbatim."
+        }
+      ]
+    },
+    {
+      "id": "norse-hermod-ride",
+      "title": {
+        "en": "Hermothr's Ride: Odin's Son Rides to Hel for Baldr",
+        "zh": "赫爾莫德之行：奧丁之子騎往冥府救巴爾德"
+      },
+      "tradition": "norse",
+      "category": "myth-religion",
+      "region": {
+        "en": "The road from Asgard to Hel's gates (symbolic pin at Pingvellir, Iceland)",
+        "zh": "自阿斯加德通往海爾之門的路（象徵性定位於冰島辛格韋德利）"
+      },
+      "lat": 64.26,
+      "lon": -21.13,
+      "period": "Gylfaginning c. 1220-1230 (older material); principal MS Codex Regius GKS 2367 4to",
+      "source": {
+        "archive": "Project Gutenberg (Brodeur 1916)",
+        "work": "Snorri, Gylfaginning ch. 49; critical ed. Faulkes (1987)",
+        "url": "https://www.sacred-texts.com/neu/pre/"
+      },
+      "license": "Public domain (Brodeur 1916); passages below are labeled paraphrases",
+      "summary": {
+        "en": "After Baldr's death, Frigg asks who will ride to Hel to offer ransom for her son, and Hermothr the swift takes Sleipnir, Odin's eight-legged horse, and rides nine nights through dark valleys to the bridge of the dead. Hel answers the gods' plea: if all things weep Baldr alive, he shall return; if anything refuses, he stays. Hermothr rides back with the message - and the failure of the weeping (one giantess refuses) leaves Baldr in Hel until the world's renewal. The record is the Norse descent-and-return that fails: a rescue mission defeated by a single withheld tear.",
+        "zh": "巴爾德死後，弗麗格問誰願騎往冥府為兒子獻上贖金，迅捷的赫爾莫德乘上奧丁的八足神馬斯萊普尼爾，歷九夜穿過幽暗山谷，抵達死者之橋。海爾答覆諸神之求：若世間萬物皆為巴爾德哭泣，他便可復生；若有任何一物拒絕，他便長留。赫爾莫德帶著口信返程——而哭泣之約因一位女巨人拒哭而失敗，巴爾德遂留於冥府，直至世界更新。此記錄是北歐「下冥府而歸」故事中的失敗案例：一場營救，敗於一滴不肯落下的眼淚。"
+      },
+      "language": "Old Norse / Old Icelandic",
+      "canonical_translation": "A. G. Brodeur, Snorri Sturluson: The Prose Edda, New York 1916 (public domain)",
+      "narrative": {
+        "en": "Gylfaginning's Baldr-chapter turns to rescue after the funeral. Frigg asks whether any among the gods will ride to Hel to seek Baldr; Hermothr, called the messenger of the gods, agrees, and takes Sleipnir to ride down. The journey is specified like a courier's itinerary: nine nights through dark and deep valleys, until he comes to the river Gjoll and the bridge Gjallarbru, roofed with shining gold. The bridge-keeper Modgudr interrogates him: five companies of dead men rode over yesterday, and it rang less under them; nothing is blacker than under a dead man's eyebrows; but this rider makes the bridge thunder and does not have the color of dead men - why does he ride the paths of death? Hermothr answers that he rides to seek Baldr, and asks whether she saw him pass; she says Baldr rode below, over the bridge, and the road down lies north.\n\nHermothr rides on to the gates of Hel, dismounts, tightens the girth, mounts and spurs; Sleipnir leaps so hard over the gate that he comes nowhere near it. Then Hermothr is in the hall, and sees his brother Baldr in the high seat, and Nanna his wife, sent down dead of grief. He stays the night; in the morning Hel gives the terms: Baldr shall ride home if all things, quick and dead, weep for him - 'and if anything speak against him or refuse to weep, then he shall remain with her; and thence he came home'. Hermothr rides back with the answer, bringing also the gifts Hel and Baldr sent up: the ring Draupnir, which Odin had laid on the pyre, back to Odin, and Nanna's gifts to Frigg.\n\nThe rescue then passes out of Hermothr's hands into the world's: the Aesir send messengers through all worlds to ask everything to weep Baldr out of Hel, and all things consent - men, animals, earth, stones, trees, metals - until a giantess called Thokk, Loki in disguise, dry-eyed, refuses: 'let Hel hold what it has.' The record's cultural function is thus double. It is the Norse katabasis that fails: unlike Herakles' or Orpheus' descents, the mission succeeds in reaching and negotiating, and is defeated only at the collection of tears - the ransom is not paid in gold but in a world-wide ritual of grief, and one dissenter voids it. And it specifies the mythic grammar of the resurrection: return from death is contractually possible - the underworld is negotiable - but the contract is unanimous consent, a doctrine of total participation with a single point of failure.\n\nFor the atlas, Hermothr's ride is the bridge between the descent-underworld family (Orpheus, Inanna, Hadding's ride in Saxo) and the world-renewal record: Baldr stays in Hel exactly until the renewal, when 'Baldr and Hothr shall come back' - the failed rescue and the scheduled return are the two halves of one doctrine: death cannot be ransomed piecemeal; it can only be outlived by the world."
+      },
+      "functions": [
+        "Failed katabasis: the descent succeeds, the negotiation succeeds, the collection of tears fails",
+        "Doctrine of resurrection as unanimous consent: one withheld weeping voids the ransom",
+        "Geography and protocol of the underworld: bridge-keeper, customs questions, gate-leap",
+        "Links the failed rescue to the scheduled return of Baldr at the world's renewal"
+      ],
+      "variants": [
+        {
+          "name": "Gylfaginning ch. 49 (Prose Edda)",
+          "text_tradition": "Codex Regius GKS 2367 4to",
+          "summary": "The full narrative: the mission, the bridge-keeper, the negotiation with Hel, the gifts sent back, and the world-wide weeping that follows.",
+          "cross_ref": "norse-hermod-ride"
+        },
+        {
+          "name": "Baldrs draumar (Poetic Edda)",
+          "text_tradition": "Codex Regius GKS 2365 4to",
+          "summary": "The earlier eddic descent: Odin, not Hermothr, rides down (as Vegtam) to wake a dead volva and learn Baldr's fate - the prose rescue-ride's older sibling.",
+          "cross_ref": "norse-baldrs-dream"
+        },
+        {
+          "name": "Greek parallel: Orpheus' failed retrieval",
+          "text_tradition": "Ovid, Metamorphoses 10; Virgil, Georgics 4",
+          "summary": "Retrieval from death defeated at the exit condition - in Orpheus the glance backward, in Norse myth the withheld tear: the same single point of failure.",
+          "cross_ref": "greek-ovid-underworld-punishments"
+        }
+      ],
+      "primary_sources": [
+        {
+          "work": "Snorri Sturluson, Edda: Gylfaginning",
+          "citation": "Ch. 49 (Hermothr's ride; Modgudr; Hel's terms; the gifts). Critical ed. Faulkes 1987; English: Brodeur 1916.",
+          "language": "Old Norse / Old Icelandic"
+        }
+      ],
+      "secondary_sources": [
+        {
+          "work": "Anthony Faulkes, Edda (ed. and commentary)",
+          "citation": "Faulkes 1987, London: Everyman - commentary on the rescue chapter and its sources."
+        },
+        {
+          "work": "Rudolf Simek, Dictionary of Northern Mythology",
+          "citation": "Simek 1993, Cambridge: D. S. Brewer - entries 'Hermothr', 'Modgudr', 'Nanna'."
+        }
+      ],
+      "source_urls": [
+        {
+          "url": "https://www.sacred-texts.com/neu/pre/pre07.htm",
+          "description": "Gylfaginning ch. 49, Brodeur translation (public domain)",
+          "accessed": "2026-11-01"
+        }
+      ],
+      "sensitivity_flag": "none",
+      "provenance": {
+        "record_status": "complete",
+        "compiled": "2026-11-01",
+        "compiled_by": "DHG508 fieldwork compilation",
+        "review_status": "draft - pending human review"
+      },
+      "motifs": [
+        "descent-underworld",
+        "quest-immortality"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Historical literary corpus; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Frigg asked who among the gods would ride to Hel and seek Baldr, and Hermothr, the swift messenger, took Sleipnir and rode down: nine nights through dark and deep valleys, to the river Gjoll and the bridge of the dead, roofed with gold. The keeper asked him why he rode the ways of death, and he said he rode to find Baldr - and she told him the road lay below, northward.",
+          "note": "Paraphrase of Snorri, Gylfaginning ch. 49 (Brodeur 1916); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Hel said that Baldr should ride home if all things, quick and dead, wept for him; but if anything spoke against him and refused to weep, then he should remain with her. Hermothr rode back with that answer, and also with the ring Draupnir, which the dead had sent to Odin, and Nanna's gifts to Frigg.",
+          "note": "Paraphrase of Snorri, Gylfaginning ch. 49 (Brodeur 1916); not verbatim."
+        }
+      ]
+    },
+    {
+      "id": "norse-baldrs-dream",
+      "title": {
+        "en": "Baldr's Dreams: Odin Rides Down to Wake a Dead Seeress",
+        "zh": "巴爾德之夢：奧丁騎行喚醒亡故女先知"
+      },
+      "tradition": "norse",
+      "category": "myth-religion",
+      "region": {
+        "en": "Niflhel, the gate of the dead (symbolic pin at Pingvellir, Iceland)",
+        "zh": "尼福赫爾，死者之門（象徵性定位於冰島辛格韋德利）"
+      },
+      "lat": 64.26,
+      "lon": -21.13,
+      "period": "Baldrs draumar c. 1000-1200 CE; principal MS Codex Regius GKS 2365 4to (added at end)",
+      "source": {
+        "archive": "sacred-texts.com (Bellows 1923)",
+        "work": "Baldrs draumar; critical ed. Ursula Dronke (Poetic Edda II, 1997)",
+        "url": "https://www.sacred-texts.com/neu/poe/"
+      },
+      "license": "Public domain (Bellows 1923); passages below are labeled paraphrases",
+      "summary": {
+        "en": "Baldr dreams evil dreams of his death; the gods saddle horses and ride to the halls to inquire. Odin rides to Niflhel's gate, wakes a dead volva with spells at her grave, and she rises - 'what man is this who drives me on my road, cold rains I have known long enough?' - and under the name Vegtam he extracts the fate: a hand slender and fair shall slay Baldr, and Höd shall do the deed, and Loki compels it; and one woman shall be born in the iron-woods, the wolf-kin's kinswoman, who shall bring grief to Odin. The seeress recognizes him and cries 'ride home, none waked me for you' - and lies down again. The record is the Norse descent-for-prophecy: the oracle of the dead consulted in the first person by the god who must lose.",
+        "zh": "巴爾德屢作死亡噩夢；諸神備馬而出，分赴各地打聽。奧丁騎至尼福赫爾之門，於墓中誦咒喚起亡故女先知——「什麼人騎行催我上路？嚴寒霜雨我已受夠了！」——他化名維格塔姆，逼問出命運：那纖細而俊美的手將殺死巴爾德，行凶者為霍德，而洛基乃其幕後主使；並有一女子將誕於鐵林，乃狼族之親，她將為奧丁帶來悲傷。女先知認出他，喊道「回家去吧，無人為你而醒」，隨即躺回墓中。此記錄是北歐「為預言而下冥府」的故事：註定失去的神親自向死者的神諭問路。"
+      },
+      "language": "Old Norse / Old Icelandic",
+      "canonical_translation": "Henry A. Bellows, The Poetic Edda, New York 1923 (public domain)",
+      "narrative": {
+        "en": "Baldrs draumar ('Baldr's dreams') is a short, dark poem appended at the end of the Codex Regius, and it is the eddic version of the descent-for-prophecy. The frame: Baldr dreamed evil dreams, and the gods saddled horses and rode to the halls to ask after them; then Odin rode down 'the way of the dead' to Niflhel, and woke the volva 'wise in her grave' with the incantations proper to waking the dead. Her first words are the poem's signature: 'What man is this that drives me on my road, that compels me on my journey? I was showered with snow, beaten with rain, drenched with dew; long have I been dead.' A god is compelling a corpse to commute.\n\nUnder the name Vegtam ('the way-tamed', the wanderer), Odin asks: for whom are the benches strewn and the rings hung with rings? She answers: for Baldr the mead is brewed, a shield hangs over the vessel - 'and I spoke unwillingly; now I am silent, and will speak no more'. Odin presses: who shall slay Baldr? The hand slender and fair, the fair and famous Höd - Loki's forcing lies behind it. And: who is the woman born in the east's iron-woods, whose kin are the wolves? She shall be Vali's mother? no - the answer names a new-born woman 'of the wolf-kin', and the poem cuts: Odin asks one more riddle and she recognizes him: 'You are not Vegtam, as I thought - you are Odin, the old one, the famous.' He answers: 'You are no volva, nor a wise woman, but the mother of three monsters' - and the exchange ends in mutual unmasking, each denying the other's dignity. She says: 'Ride home, no one woke you; none shall come here again, till Loki has got loose from his fetters and the destroyers come' - and the dead lie still.\n\nThe record's cultural functions are the oracle-of-the-dead as an institution, and the economy of doom. Consulting the dead for prophecy was real practice in the Norse world (the volva's seance of Eirik's saga is its living, Christian-era form); the poem shows the god performing it himself, in disguise, under compulsion - because the knowledge he seeks is his son's death, and the ritual's reversals (waker unmasked, waker unmasked) show what such consultations cost their performers. And the poem's last lines schedule Ragnarok: the dead seeress refuses further consultations until Loki is loose and the destroyers ride - the first prophecy in the corpus to name the interval between doom and doom.\n\nFor the atlas, the record anchors the necromantic-oracle family: the Gita's? - no - the Greek nekuia of Odyssey 11, the Chinese ghost-consultations of the supernatural records, and the saga volva-seance all belong here; Baldrs draumar is the version in which the questioner is a god and the oracle is a corpse with grievances about the weather."
+      },
+      "functions": [
+        "Institution of the oracle-of-the-dead: waking the grave-bound seeress with spells",
+        "Economy of doom: prophecy extracted at the cost of the oracle's peace and the asker's disguise",
+        "Mutual unmasking: god and corpse deny each other's dignity at the consultation's end",
+        "Schedules Ragnarok: no further waking until Loki is loose"
+      ],
+      "variants": [
+        {
+          "name": "Baldrs draumar (Poetic Edda)",
+          "text_tradition": "Codex Regius GKS 2365 4to",
+          "summary": "The poem itself, fourteen stanzas, appended at the Codex Regius' end; sole manuscript authority.",
+          "cross_ref": "norse-baldrs-dream"
+        },
+        {
+          "name": "Gylfaginning ch. 49 (Prose Edda)",
+          "text_tradition": "Codex Regius GKS 2367 4to",
+          "summary": "Snorri's parallel rescue-ride assigns the descent to Hermothr and the negotiation to Hel - the poem's death-oracle reframed as a ransom mission.",
+          "cross_ref": "norse-hermod-ride"
+        },
+        {
+          "name": "Greek parallel: the Nekuia",
+          "text_tradition": "Odyssey 11; greek-odyssey-nekuia",
+          "summary": "Consulting the dead by blood-offering at a trench - the comparative frame: Odysseus' trench versus Odin's grave-waking.",
+          "cross_ref": "greek-odyssey-nekuia"
+        }
+      ],
+      "primary_sources": [
+        {
+          "work": "Baldrs draumar",
+          "citation": "Complete poem, appended at the end of Codex Regius GKS 2365 4to. Public-domain English: Bellows 1923.",
+          "language": "Old Norse / Old Icelandic"
+        }
+      ],
+      "secondary_sources": [
+        {
+          "work": "Ursula Dronke, The Poetic Edda, vol. II",
+          "citation": "Dronke 1997, Oxford - commentary on the poem's date, style and ritual vocabulary."
+        },
+        {
+          "work": "Rudolf Simek, Dictionary of Northern Mythology",
+          "citation": "Simek 1993, Cambridge: D. S. Brewer - entry 'Baldrs draumar'."
+        }
+      ],
+      "source_urls": [
+        {
+          "url": "https://www.sacred-texts.com/neu/poe/poe14.htm",
+          "description": "Baldrs draumar, Bellows translation (public domain)",
+          "accessed": "2026-11-01"
+        }
+      ],
+      "sensitivity_flag": "none",
+      "provenance": {
+        "record_status": "complete",
+        "compiled": "2026-11-01",
+        "compiled_by": "DHG508 fieldwork compilation",
+        "review_status": "draft - pending human review"
+      },
+      "motifs": [
+        "descent-underworld",
+        "oracle-divination",
+        "prophetic-vision",
+        "doom-foretold"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Historical literary corpus; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Baldr dreamed evil dreams, and the gods saddled their horses and rode to the halls to ask what the dreams meant. Odin rode the way of the dead to Niflhel, and woke the volva wise in her grave, until she rose unwillingly from the dead.",
+          "note": "Paraphrase of Baldrs draumar st. 1-3 (Bellows 1923); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "'What man is this that drives me on my road? I was showered with snow, beaten with rain, drenched with dew; long have I been dead.' The rider asked for whom the benches were strewn, and she said: for Baldr the mead is brewed. He asked who should slay him, and she said: the hand slender and fair, the fair and famous Höd - and Loki compels it.",
+          "note": "Paraphrase of Baldrs draumar st. 4-12 (Bellows 1923); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "Then she knew him: 'You are not Vegtam, as I thought - you are Odin, the old one.' He answered: 'You are no volva, but the mother of three monsters.' She said: 'Ride home; no one woke you, and none shall come here again, till Loki has got loose from his fetters and the destroyers come.'",
+          "note": "Paraphrase of Baldrs draumar st. 13-14 (Bellows 1923); not verbatim."
+        }
+      ]
+    },
+    {
+      "id": "norse-valhalla-einherjar",
+      "title": {
+        "en": "Valhalla: The Hall of the Battle-Slain and Its Daily War",
+        "zh": "瓦爾哈拉：陣亡者之廳及其日復一日的戰鬥"
+      },
+      "tradition": "norse",
+      "category": "myth-religion",
+      "region": {
+        "en": "Valhalla in Asgard (symbolic pin at Gamla Uppsala, Sweden)",
+        "zh": "阿斯加德瓦爾哈拉（象徵性定位於瑞典舊烏普薩拉）"
+      },
+      "lat": 59.9,
+      "lon": 17.64,
+      "period": "Grimnismal st. 8-10, 18, 21-26 c. 900-1000 CE; Gylfaginning c. 1220-1230; Eiriksmal c. 954; principal MSS Codex Regius GKS 2365 4to, GKS 2367 4to",
+      "source": {
+        "archive": "sacred-texts.com (Bellows 1923) / Project Gutenberg (Brodeur 1916)",
+        "work": "Grimnismal st. 8-10, 18, 21-26; Snorri, Gylfaginning chs. 20, 38; critical ed. Dronke (1997)",
+        "url": "https://www.sacred-texts.com/neu/poe/"
+      },
+      "license": "Public domain (Bellows 1923; Brodeur 1916); passages below are labeled paraphrases",
+      "summary": {
+        "en": "Valhalla ('hall of the slain') has five hundred and forty doors, each wide enough for eight warriors abreast; the roof is thatched with golden shields, its rafters are spears. Its inmates, the einherjar, spend every day fighting and killing each other to pieces, and rise at evening, healed, to ride home and feast: the boar Saehrimnir is boiled every day and is whole again by evening; Odin's wolves feed on the corpses of war; the mead-blesser goat Heidrun hangs from the roof and fills the cups. The hall is the cosmos's recruitment system: the chosen dead are trained daily for the army of Ragnarok.",
+        "zh": "瓦爾哈拉（「陣亡者之廳」）有五百四十扇門，每扇門可容八名戰士並肩出入；屋頂以金盾覆蓋，椽條皆為長矛。廳中居民——恩赫里亞（獨臂勇士戰士們）——每日互相搏殺至支離破碎，傍晚復原而起，騎馬歸席赴宴：公豬薩赫利姆尼爾日日烹煮，夜夜復原；奧丁的狼群以戰場屍骸為食；屋樑懸掛的乳山羊海德倫使蜜酒盈杯。此廳是宇宙的徵兵制度：被選中的死者每日操練，以備末日之戰的大軍。"
+      },
+      "language": "Old Norse / Old Icelandic",
+      "canonical_translation": "Henry A. Bellows, The Poetic Edda, New York 1923 (public domain); Gylfaginning via Brodeur 1916",
+      "narrative": {
+        "en": "Grimnismal, Odin's cosmological litany, gives the hall's census and its cuisine: five hundred and forty doors, eight hundred warriors through each - the figure is best read as the count of the einherjar who will issue from the gates to fight the wolf at Ragnarok; the roof thatched with shields, the benches strewn with byrnies, spears as rafters; the boar Saehrimnir, boiled every day, whole again by evening - 'few know what the einherjar feed on'; the goat Heidrun on Valhalla's roof eating from the tree Laerath's boughs, from whose udders runs the mead that fills the cups; and the stag Eikthyrnir above, whose antlers drip the rivers of the world. The wolves Geri and Freki, Odin's war-wolves, get the battle-slain; Odin himself lives on wine alone.\n\nGylfaginning adds the daily timetable: each day, as soon as they are clothed and have put on their battle-gear, the einherjar go out to the courtyard and fight and kill each other - 'this is their sport' - and when the meal-hour comes they ride home to the hall and sit down together, healed. Odin sends the valkyries to every battle: they allot death and govern victory, and those they choose ride with them to Valhalla; also (the political clause) they wait on the tables and bear the ale at the feast. The hall is thus a barracks with a liturgy: training-war by day, feast by night, maid-service by the choosers of the slain.\n\nThe cultural function is a doctrine of chosen death. Norse society drew its elite from the battle-dead: to die in the field with weapon in hand was to be drafted into the god's standing army, and the valkyries' choosing made every battle a recruitment - the myth of the einherjar is the ideological engine that made the battlefield valuable. Its eschatological purpose is explicit: all this training exists 'for the wolf' - the einherjar are held in reserve as Ragnarok's final levy, five hundred and forty doors' worth. And the hall's economy is a resurrection-economy in miniature: the boar that is eaten daily and rises whole each evening is the training table of immortality - death rehearsed and undone at every meal.\n\nSkaldic poetry documents the hall's working reality: Eiriksmal (c. 954), composed for the death of Eirik Bloodaxe, dramatizes Valhalla preparing to receive a king - 'why is the day darkened, what means the din of arms?' - Bragi answers: the All-father has bidden Eirik with his host to come up; Sigmund and the chosen heroes rise to bid him welcome; the poem's humor (Sigmund asks why Odin has not taken more famous kings and left Eirik to die of disease) shows the hall as a working institution with politics. In the atlas's frame, Valhalla answers the Islamic jannah's gardens and the Chinese courts of the dead - each afterlife adapted to its society's ideal manhood; the Norse one is the only one that is an army mess."
+      },
+      "functions": [
+        "Doctrine of chosen death: the battle-slain drafted into the god's standing army",
+        "Recruitment engine: the valkyries' choosing makes every battle a levy for Ragnarok",
+        "Resurrection-economy in miniature: the daily slain-and-healed einherjar, the ever-renewed boar",
+        "Skaldic documentation: Eiriksmal shows the hall as a working, political institution"
+      ],
+      "variants": [
+        {
+          "name": "Grimnismal st. 8-10, 18, 21-26 (Poetic Edda)",
+          "text_tradition": "Codex Regius GKS 2365 4to",
+          "summary": "The verse anatomy: doors, shields, the boar, the goat, the wolves, the rivers - the hall as cosmological organ.",
+          "cross_ref": "norse-valhalla-einherjar"
+        },
+        {
+          "name": "Gylfaginning chs. 20, 38 (Prose Edda)",
+          "text_tradition": "Codex Regius GKS 2367 4to",
+          "summary": "The daily timetable of training-war and feast; the valkyries' double office as choosers and cup-bearers.",
+          "cross_ref": "norse-valhalla-einherjar"
+        },
+        {
+          "name": "Eiriksmal (Skaldic, c. 954)",
+          "text_tradition": "Corpus Poeticum Boreale (Vigfusson & Powell 1883); quoted in Fagrskinna",
+          "summary": "The hall in action: Valhalla prepares for Eirik Bloodaxe's arrival; Sigmund's welcome and the politics of choice - the earliest extant vision of the hall from inside.",
+          "cross_ref": "norse-eiriksmal"
+        }
+      ],
+      "primary_sources": [
+        {
+          "work": "Grimnismal",
+          "citation": "Stanzas 8-10, 18, 21-26. Principal MS Codex Regius GKS 2365 4to. Public-domain English: Bellows 1923.",
+          "language": "Old Norse / Old Icelandic"
+        },
+        {
+          "work": "Snorri Sturluson, Edda: Gylfaginning",
+          "citation": "Chs. 20 and 38 (Valhalla; the einherjar; the valkyries). Critical ed. Faulkes 1987; English: Brodeur 1916.",
+          "language": "Old Norse / Old Icelandic"
+        }
+      ],
+      "secondary_sources": [
+        {
+          "work": "Ursula Dronke, The Poetic Edda, vol. II",
+          "citation": "Dronke 1997, Oxford - commentary on the hall-stanzas and the einherjar arithmetic."
+        },
+        {
+          "work": "Gro Steinsland, Norron religion",
+          "citation": "Steinsland 2005, Oslo: Pax - Valhalla and the ideology of royal death."
+        },
+        {
+          "work": "Rudolf Simek, Dictionary of Northern Mythology",
+          "citation": "Simek 1993, Cambridge: D. S. Brewer - entries 'Valhallr', 'einherjar', 'Saehrimnir', 'Heidrun'."
+        }
+      ],
+      "source_urls": [
+        {
+          "url": "https://www.sacred-texts.com/neu/poe/poe10.htm",
+          "description": "Grimnismal st. 8-10, Bellows translation (public domain)",
+          "accessed": "2026-11-01"
+        },
+        {
+          "url": "https://www.sacred-texts.com/neu/pre/pre04.htm",
+          "description": "Gylfaginning ch. 20, Brodeur translation (public domain)",
+          "accessed": "2026-11-01"
+        }
+      ],
+      "sensitivity_flag": "none",
+      "provenance": {
+        "record_status": "complete",
+        "compiled": "2026-11-01",
+        "compiled_by": "DHG508 fieldwork compilation",
+        "review_status": "draft - pending human review"
+      },
+      "motifs": [
+        "ascension",
+        "sacred-kingship",
+        "resurrection",
+        "miracle-cure"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Historical literary corpus; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Five hundred and forty doors there are in Valhalla, and through each go eight hundred warriors when they issue to fight the wolf; its roof is thatched with shields, its benches strewn with byrnies, and its rafters are spears. Every day the einherjar go out into the courtyard and fight and slay each other; when the meal-hour comes they ride home to the hall and sit down together, healed of their wounds. The boar Saehrimnir is boiled every day and is whole again by evening; the goat Heidrun hangs from the roof and fills the cups with mead.",
+          "note": "Paraphrase of Grimnismal st. 8-9, 23 (Bellows 1923); not verbatim. / Paraphrase of Grimnismal st. 18, 25-26 and Gylfaginning ch. 38 (Bellows; Brodeur); not verbatim."
+        }
+      ]
+    },
+    {
+      "id": "norse-nastrond-serpent",
+      "title": {
+        "en": "Nastrond and Nidhoggr: The Corpse-Shore Where Oath-Breakers Go",
+        "zh": "納斯特隆德與尼德霍格：背誓者所在的屍骸之濱"
+      },
+      "tradition": "norse",
+      "category": "myth-religion",
+      "region": {
+        "en": "Nastrand, the shore of corpses in Hel's east (symbolic pin at Pingvellir, Iceland)",
+        "zh": "納斯特隆德——海爾東境的屍骸之濱（象徵性定位於冰島辛格韋德利）"
+      },
+      "lat": 64.26,
+      "lon": -21.13,
+      "period": "Voluspa st. 37-39, 66 c. 900-1000 CE; principal MS Codex Regius GKS 2365 4to",
+      "source": {
+        "archive": "sacred-texts.com (Bellows 1923)",
+        "work": "Voluspa st. 37-39, 66; critical ed. Ursula Dronke (1997)",
+        "url": "https://www.sacred-texts.com/neu/poe/"
+      },
+      "license": "Public domain (Bellows 1923); passages below are labeled paraphrases",
+      "summary": {
+        "en": "Völuspá's eschatology has one hall set apart: a hall stands far from the sun, its doors facing north, dripping venom, on Nastrand, the shore of corpses - through it flows a river of knives. Oath-breakers, murderers and those who seduce others' wives wade there; but worse is Nidhoggr: the dragon sucks the bodies of the dead, and at the end of the vision it flies from Nastrand, the corpses in its feathers. The record is the Norse doctrine of posthumous punishment - the only zone of moral judgment in a death-system otherwise without hell.",
+        "zh": "在《女先知的預言》的末世圖景中，有一座大廳被單獨劃出：那廳遠離太陽，門朝北方，滴落毒液，立於納斯特隆德——屍骸之濱——廳中流過一條以刀刃匯成的河。背誓者、殺人者與誘惑他人妻子者在此涉水而行；而更為可怕的是尼德霍格：那條龍吸食死者的屍體，並在幻象終結之時自納斯特隆德飛出，羽翼間夾帶屍骸。此記錄是北歐關於死後懲罰的教義——在原本無「地獄」可言的死亡體系中，這是唯一帶有道德審判色彩的區域。"
+      },
+      "language": "Old Norse / Old Icelandic",
+      "canonical_translation": "Henry A. Bellows, The Poetic Edda, New York 1923 (public domain)",
+      "narrative": {
+        "en": "Voluspa's underworld geography distinguishes two zones. The first is Hel's ordinary realm - the hall eastward in the cold realms, the doors northward, venom dripping from the roof: 'that hall is woven of serpents' spines'. The second is the punishment-hall: on Nastrand, the corpse-strand, stands a great hall 'far from the sun', its doors facing north; venom-drops fall through its smoke-hole; and through its doorway runs a river, Slidr, made of knives. Oath-breakers, murderers and seducers of others' wives wade through it 'each and every day', and Nidhoggr - the corpse-gnawing dragon of Yggdrasil's root - 'sucks the corpses of the dead'.\n\nThe record's cultural function is to install a moral perimeter inside an otherwise judgment-free death system. Norse eschatology is famously unmoralistic: ordinary death goes to Hel's gray household, battle-death to Valhalla, sea-death to Ran - none of it graded by virtue. The only transgressions that earn posthumous fire are legal ones - oath-breaking, killing, and the destruction of marriage-bonds - the three crimes of a society built on contract and kinship. The myth thereby encodes the point that morality in the Norse system is contract-morality: heaven and hell are divided not by faith but by whether you kept your word.\n\nThe dragon itself is a doctrine of duration. Nidhoggr appears twice in the sibyl's vision: at the root of the world-tree (the cosmological gnawing, Grimnismal) and here on the corpse-shore (the moral gnawing); at the vision's end it flies 'from Nastrand, corpses in its feathers' - the final image of the poem before the sibyl sinks away, a dragon flying off with its harvest even after the world's burning. The persistence is the point: in the renewal stanza where Baldr returns and the fields grow, the dragon is allowed no place - it flies away rather than perishes. The cosmos can be made green again; the record of crimes cannot.\n\nIn the atlas's afterlife family, Nastrand answers the Greek Tartarus and the Chinese underworld courts: each a punishment-zone inside a larger death-real; the Norse one is distinctive for naming its crimes in legal vocabulary (perjury, homicide, adultery) rather than sins of belief, and for its river made of knives - the punishment mirroring the weapon-crime.\n\nThe dragon's double appearance completes the doctrine: at Yggdrasil's root (the cosmological gnawing, Grimnismal's limb) and on the corpse-shore (the moral gnawing, Voluspa's punishment-limb) - one beast serving both the world-tree's metabolism and the moral order's enforcement. And the final image completes the eschatology: at the vision's end the dragon flies from Nastrand with corpses in its feathers - the only being that leaves the renewed world without being renewed - so the record's closure is the doctrine: the cosmos can be made green again, but the record of crimes cannot be erased. The record thus anchors the punishment-zone family: the sole hell in a judgment-free death-system, its crimes named in legal vocabulary and its executioner a dragon."
+      },
+      "functions": [
+        "Sole zone of posthumous moral punishment in an otherwise judgment-free death system",
+        "Contract-morality doctrine: oath-breaking, homicide, adultery as the punishables",
+        "Punishment mirroring crime: a river of knives for weapon-crimes",
+        "Duration doctrine: Nidhoggr outlasts the world's burning - crimes outlive renewal"
+      ],
+      "variants": [
+        {
+          "name": "Voluspa st. 37-39, 66 (Poetic Edda)",
+          "text_tradition": "Codex Regius GKS 2365 4to",
+          "summary": "The poem itself: the serpent-woven hall, the knife-river, the three crimes, the sucking dragon, and its final flight with corpses in its feathers.",
+          "cross_ref": "norse-nastrond-serpent"
+        },
+        {
+          "name": "Gylfaginning chs. 34, 52-53 (Prose Edda)",
+          "text_tradition": "Codex Regius GKS 2367 4to",
+          "summary": "Snorri's systematization places Nastrand's features around Hel's realm and the renewal; his geography merges the two zones more loosely than the poem.",
+          "cross_ref": "norse-hel-realm"
+        },
+        {
+          "name": "Greek parallel: Tartarus",
+          "text_tradition": "Hesiod, Theogony 721-819; greek-ovid-underworld-punishments",
+          "summary": "The punishment-zone with named punishables and a river - the comparative frame; Tartarus punishes rebels against divine order, Nastrand oath-breakers against human contracts.",
+          "cross_ref": "greek-ovid-underworld-punishments"
+        }
+      ],
+      "primary_sources": [
+        {
+          "work": "Voluspa",
+          "citation": "Stanzas 37-39 and 66. Principal MS Codex Regius GKS 2365 4to. Critical edition: Dronke 1997; public-domain English: Bellows 1923.",
+          "language": "Old Norse / Old Icelandic"
+        }
+      ],
+      "secondary_sources": [
+        {
+          "work": "Ursula Dronke, The Poetic Edda, vol. II",
+          "citation": "Dronke 1997, Oxford - commentary on the Nastrand stanzas and their legal vocabulary."
+        },
+        {
+          "work": "Rudolf Simek, Dictionary of Northern Mythology",
+          "citation": "Simek 1993, Cambridge: D. S. Brewer - entries 'Nastrand', 'Slidr', 'Nidhoggr'."
+        }
+      ],
+      "source_urls": [
+        {
+          "url": "https://www.sacred-texts.com/neu/poe/poe03.htm",
+          "description": "Voluspa st. 37-39, 66, Bellows translation (public domain)",
+          "accessed": "2026-11-01"
+        }
+      ],
+      "sensitivity_flag": "none",
+      "provenance": {
+        "record_status": "complete",
+        "compiled": "2026-11-01",
+        "compiled_by": "DHG508 fieldwork compilation",
+        "review_status": "draft - pending human review"
+      },
+      "motifs": [
+        "descent-underworld",
+        "taboo-transgression",
+        "world-serpent"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Historical literary corpus; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "On Nastrand, the shore of corpses, stands a great hall far from the sun, its doors facing north; venom-drops fall through its smoke-hole, and the hall is woven of serpents' spines. There shall wade, each and every day, the sworn oath-breakers and murderers, and those who seduce the wives of others; through the doorway runs a river made of knives. But Nidhoggr sucks the corpses of the dead; and the wolf shall tear men - do you understand yet, or what? At the vision's end she sees a dragon come flying from Nastrand, corpses in its feathers - and the sibyl sinks away, her song done.",
+          "note": "Paraphrase of Voluspa st. 37-38 (Bellows 1923); not verbatim. / Paraphrase of Voluspa st. 38-39 (Bellows 1923); not verbatim. / Paraphrase of Voluspa st. 66 (Bellows 1923); not verbatim."
+        }
+      ]
+    },
+    {
+      "id": "norse-voluspa-sibyl",
+      "title": {
+        "en": "The Sibyl of Voluspa: Odin Questions a Dead Prophetess",
+        "zh": "《女先知的預言》中的女先知：奧丁質詢亡故預言者"
+      },
+      "tradition": "norse",
+      "category": "myth-religion",
+      "region": {
+        "en": "The sibyl's hall between worlds (symbolic pin at Pingvellir, Iceland)",
+        "zh": "兩界之間的女先知之廳（象徵性定位於冰島辛格韋德利）"
+      },
+      "lat": 64.26,
+      "lon": -21.13,
+      "period": "Voluspa c. 900-1000 CE; principal MS Codex Regius GKS 2365 4to (c. 1270s); Hauksbok variant",
+      "source": {
+        "archive": "sacred-texts.com (Bellows 1923)",
+        "work": "Voluspa (complete poem); critical ed. Ursula Dronke (Poetic Edda II, 1997)",
+        "url": "https://www.sacred-texts.com/neu/poe/"
+      },
+      "license": "Public domain (Bellows 1923); passages below are labeled paraphrases",
+      "summary": {
+        "en": "The most important mythic document of the north is staged as an interrogation: a vala - a dead or trance-bound prophetess - is summoned from her grave to recite before 'the sons of Heimdall' the whole history of the world, from the void to Ragnarok to the green renewal. She asks for silence and spells; she names herself one whom men hallowed when Heimdall's kind yet lived; she demands to know why she is compelled, and agrees to recite 'till they bid me carry my keg of mead, till I die'. The poem is a complete cosmology and eschatology delivered by an unwilling professional woman - the genre-selfportrait of Norse myth.",
+        "zh": "北方最重要的神話文獻以質詢的形式呈現：一位女先知——亡故或入迷的預言者——被自墓中喚起，向「海姆達爾的子孫」述說世界自鴻蒙至諸神黃昏、再到大地回青的全部歷史。她要求安靜與咒語；自稱曾受人祝聖，彼時海姆達爾的族類尚在；她質問自己為何被迫開口，又答應述說，「直至他們命我端起蜜酒桶，直至我死去」。這首詩由一位不情願的職業女性傳述，是北歐神話的完整宇宙論與末世論——也是這一文類的自畫像。"
+      },
+      "language": "Old Norse / Old Icelandic",
+      "canonical_translation": "Henry A. Bellows, The Poetic Edda, New York 1923 (public domain)",
+      "narrative": {
+        "en": "Voluspa - 'the sibyl's prophecy' - opens with the sibyl demanding the audience's attention and stating her credentials: attention I ask from the sacred races, great and small, the sons of Heimdall; father of the sword-slain? - 'you, Valfather, willed that I should tell the oldest tales of men, those I remember'. She recites the cosmogony (the void, Ymir, the sun and moon set on courses, the first humans of Ask and Embla), the golden age, the first war, the deaths of Baldr, the family of Loki, the doom-litany, the battles of Ragnarok, the renewal - sixty-six stanzas, the world's whole biography.\n\nBut the performance is contractual, and the sibyl's voice is its most important datum. She is not a spontaneous oracle: she asks for silence and spells ('be silent all, ye holy races... I tell of the giant-sibyl of old'), and there is a missing stanza - the Hauksbok preserves st. 28's ritual frame of 'sitting out' (utiseta), in which a practitioner performs necromantic spellwork; the prose of later manuscripts says Odin summoned her with magic from her grave. Her resistance is explicit: in the Hauksbok version she demands, 'would you have me tell further, of the doom of the gods?'; she delays ('I know how many nights have passed'), and Baldrs draumar shows the same ritual economy at the grave: the waking costs spells, and the oracle resents being compelled. The profession is real: staff-bearing traveling seeresses performed exactly such recitations at farmsteads (Eirik's saga's Greenland seance), and the poem's stage directions are the liturgy of that profession.\n\nThe record's cultural functions are threefold. First, it is the corpus's frame-story: the myth database's oldest complete document is itself a myth about myth-telling - prophecy as a paid, compelled, gendered performance. Second, it is the doctrinal master-text: the creation, the Norns, the first war, Baldr's death, the Fimbulwinter, the battles, the renewal - the skeleton on which Snorri built Gylfaginning. Third, it is the document of the myth's own death: the sibyl is dead, or lives by spells; she speaks 'the oldest tales'; the last lines have her sinking away - 'now she sinks' - and the poem ends with the dragon flying off and the formula 'she saw and she saw' fading into vision. In a Christian Iceland that kept the old verses, the sibyl's withdrawal is the tradition's own image of its transmission: performed once more, from a grave, for a listening elite.\n\nFor the atlas, the record anchors the prophetic-vision genre across the whole collection: the Maya priests' books, the Chinese oracle-bones' divisions, the Zoroastrian apocalypse of Bahman Yasht - each tradition's end-time text; the Norse one is delivered by an unwilling woman who invoices her audience in mead."
+      },
+      "functions": [
+        "Genre-selfportrait: myth as a compelled, paid, gendered prophetic performance",
+        "Master-text of the Norse cosmology and eschatology: the skeleton of Gylfaginning",
+        "Documents the volva profession's liturgy: silence, spells, mead-payment, utiseta",
+        "The tradition's transmission-image: prophecy from a grave for a listening elite"
+      ],
+      "variants": [
+        {
+          "name": "Voluspa, Codex Regius version (Poetic Edda)",
+          "text_tradition": "Codex Regius GKS 2365 4to",
+          "summary": "The canonical sixty-plus stanzas; the sibyl's frame present but leaner.",
+          "cross_ref": "norse-voluspa-sibyl"
+        },
+        {
+          "name": "Voluspa, Hauksbok version",
+          "text_tradition": "Hauksbok AM 544 4to (c. 1300-1310)",
+          "summary": "Adds the utiseta frame (st. 28), the giant-sibyl's title, and 'the greatest of forest-trees' interpolations - the ritual apparatus more explicit.",
+          "cross_ref": "norse-voluspa-sibyl"
+        },
+        {
+          "name": "Parallel: the Greenland volva's seance",
+          "text_tradition": "Eiriks saga rauda",
+          "summary": "The living practice behind the poem: a staff-borne seeress performed by song into trance at a farmstead - the profession the sibyl represents.",
+          "cross_ref": "norse-volva-seance"
+        }
+      ],
+      "primary_sources": [
+        {
+          "work": "Voluspa",
+          "citation": "Complete poem. Principal MS Codex Regius GKS 2365 4to (c. 1270s); Hauksbok variant AM 544 4to. Critical edition: Dronke 1997; public-domain English: Bellows 1923.",
+          "language": "Old Norse / Old Icelandic"
+        }
+      ],
+      "secondary_sources": [
+        {
+          "work": "Ursula Dronke, The Poetic Edda, vol. II",
+          "citation": "Dronke 1997, Oxford - the definitive commentary on Voluspa's text and ritual frame."
+        },
+        {
+          "work": "Gro Steinsland, Norron religion",
+          "citation": "Steinsland 2005, Oslo: Pax - the sibyl's profession and the sacral politics of prophecy."
+        },
+        {
+          "work": "Terry Gunnell, The Drama of the Dramatic Edda? papers on eddic performance",
+          "citation": "Gunnell 1995/2000s - performance approaches to the volva's recitation."
+        }
+      ],
+      "source_urls": [
+        {
+          "url": "https://www.sacred-texts.com/neu/poe/poe03.htm",
+          "description": "Voluspa, Bellows translation (public domain)",
+          "accessed": "2026-11-01"
+        },
+        {
+          "url": "https://handrit.is/",
+          "description": "Codex Regius GKS 2365 4to and Hauksbok AM 544 4to - manuscript catalogue entries",
+          "accessed": "2026-11-01"
+        }
+      ],
+      "sensitivity_flag": "none",
+      "provenance": {
+        "record_status": "complete",
+        "compiled": "2026-11-01",
+        "compiled_by": "DHG508 fieldwork compilation",
+        "review_status": "draft - pending human review"
+      },
+      "motifs": [
+        "prophetic-vision",
+        "oracle-divination",
+        "spirit-possession",
+        "trance-healing"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Historical literary corpus; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Attention I ask from the sacred races, great and small, the sons of Heimdall: you, Valfather, willed that I should tell the old tales of men, the oldest I remember - I remember giants born in the early days, who long ago reared me.",
+          "note": "Paraphrase of Voluspa st. 1-2 (Bellows 1923); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Still I remember yet more, and speak of Ragnarok: I see the dark doom of the gods, the battle coming; the high gods fall, the world burns, and afterward the earth rises green again from the sea, and the gods meet on Idavoll and find the golden game-pieces in the grass. And there she sees, grim to see, a dragon come flying from Nastrand, corpses in its feathers - and now she will sink.",
+          "note": "Paraphrase of Voluspa st. 57-61 (Bellows 1923); not verbatim. / Paraphrase of Voluspa st. 66 (Bellows 1923); not verbatim."
+        }
+      ]
+    }
+  ]
+}

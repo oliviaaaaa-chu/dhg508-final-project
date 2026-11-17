@@ -1,0 +1,64 @@
+.modal3 {
+	position: fixed;
+	left: 0;
+	top: 0;
+	width: 100%;
+	height: 100%;
+	background-color: rgba(0, 0, 0, 0.5);
+	opacity: 0;
+	visibility: hidden;
+	transform: scale(1.1);
+	transition: visibility 0s linear 0.25s, opacity 0.25s 0s, transform 0.25s;
+	z-index: 1100;
+}
+
+.modal3-content {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	background-color: #fff;
+	padding: 1.5rem 1.75rem 1.75rem;
+	width: 36rem;
+	max-width: 90vw;
+	border-radius: 0.5rem;
+	color: #2c2a24;
+}
+
+.show-modal3 {
+	opacity: 1;
+	visibility: visible;
+	transform: scale(1);
+	transition: visibility 0s linear 0s, opacity 0.25s 0s, transform 0.25s;
+}
+
+.person-modal-card h3 {
+	margin: 0 2rem 0.6rem 0;
+	font-size: 1.4rem;
+	color: #32231b;
+}
+
+.person-modal-card p {
+	margin: 0 0 0.55rem;
+	line-height: 1.45;
+}
+
+.person-modal-card a {
+	color: #7a6938;
+}
+
+.person-modal-index {
+	display: inline-block;
+	margin-top: 0.65rem;
+	background: #c6c09c;
+	color: #32231b !important;
+	padding: 0.45rem 0.9rem;
+	border-radius: 0.25rem;
+	font-weight: 600;
+	text-decoration: none !important;
+}
+
+.person-modal-index:hover {
+	background: #32231b;
+	color: #c6c09c !important;
+}

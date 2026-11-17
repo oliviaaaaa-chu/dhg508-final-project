@@ -1,0 +1,214 @@
+{
+  "_comment": "Norse expansion batch 56 - Sacred Landscape & Place Myths I (topic 9): Godafoss and Thorgeirr, Helgafell. All passages are paraphrase and carry a note.",
+  "texts": [
+    {
+      "id": "norse-godafoss-thorgeirr",
+      "title": {
+        "en": "The Waterfall of the Gods: Thorgeirr's Arbitration and the Idols Thrown In",
+        "zh": "眾神瀑布：掌法者的仲裁與投入瀑布的神像"
+      },
+      "tradition": "norse",
+      "category": "myth-religion",
+      "region": {
+        "en": "Godafoss, Ljosavatn district, Iceland",
+        "zh": "冰島略薩瓦滕地區眾神瀑布"
+      },
+      "lat": 65.68,
+      "lon": -17.56,
+      "period": "Islendingabok c. 1122-1133; Njals saga ch. 105; Thordar saga hreda; principal MSS 17th c. and saga-MSS",
+      "source": {
+        "archive": "handrit.is",
+        "work": "Islendingabok (the conversion-chapter); Njals saga ch. 105; ed. Islenzk Fornrit I and XII",
+        "url": "https://handrit.is/"
+      },
+      "license": "Public domain (older editions); passages below are labeled paraphrases",
+      "summary": {
+        "en": "At the Althing of 1000 CE, Iceland faces civil war over the Christian mission; the arbitration is given to Thorgeirr, the lawspeaker of Ljosavatn, a heathen priest. He lies under a fur-cloak for a day and a night and returns with the sentence: men should have one law and one faith - all Christian, with three exceptions: infant exposure, horse-flesh, and private sacrifice if kept secret. And the place-myth: Thorgeirr, coming home, took the idols of his own temple and threw them into the waterfall, and from then it has been called Godafoss, the Waterfall of the Gods.",
+        "zh": "西元1000年冰島議會上，基督教傳教引發內戰之虞；仲裁權交予略薩瓦滕的掌法者——異教祭司索蓋爾。他蒙氈臥伏一日一夜，起身宣讀判詞：法律要求一部法律、一種信仰——全民皈依基督教，僅保留三項例外：棄嬰、馬肉、以及秘密進行的私下祭祀。而此地名的由來是：索蓋爾歸家途中，親手將自家神廟的神像投入瀑布——「自此，那瀑布便被稱作眾神瀑布（Godafoss）」。"
+      },
+      "language": "Old Norse / Old Icelandic",
+      "canonical_translation": "Islendingabok in Islenzk Fornrit I, Reykjavik 1968; Njals saga in Islenzk Fornrit XII",
+      "narrative": {
+        "en": "The conversion of 1000 is the Icelandic commonwealth's constitutional drama, and its place-myth is Godafoss. The crisis: the mission of the priest Thangbrand has failed and the feud has reached the Althing; Christians and heathens each declare their own law, and the commonwealth faces split - the two laws cannot both stand.\n\nThe arbitration: the leaders agree on one judge, Thorgeirr Thorkellsson, the lawspeaker, a heathen priest of Ljosavatn; his price of deliberation is the saga's own clause: he lies under a fur-cloak a day and a night and speaks not a word - the decision delivered from silence. The sentence: men should have one law and one faith, for if the law were torn in pieces the peace would be torn in pieces too - the constitution's logic stated as a threat; and it was resolved that all men should be Christian and be baptized, with three exceptions: infant exposure as before, the eating of horse-flesh as before, and private sacrifice if kept secret - the three concessions the old cult keeps (the private-sacrifice clause later annulled, the record's own clause-history).\n\nThe place-myth: when Thorgeirr came home to Ljosavatn, he went to his temple, took the idols, and threw them into the waterfall - and from then it has been called Godafoss, the Waterfall of the Gods: the arbiter's own temple-cleansing staged at the landmark is the place-name's charter.\n\nThe record's cultural functions are the arbitration-conversion doctrine (conversion as constitutional settlement with named exceptions) and the idol-drowning doctrine (the old gods' furniture as the new faith's landmark). In the atlas, the record anchors the conversion-place family: each a landscape renamed by a faith-change; the Icelandic one is distinctive in the waterfall's furniture and in the exceptions-clause.\n\nThe conversion's exceptions-clause is the record's constitutional core: the three concessions (infant exposure, horse-flesh, private sacrifice) were each later annulled in sequence (the private-sacrifice clause within a generation), so the record documents not a single settlement but a staged transition - the conversion negotiated, then tightened. And the place-name's afterlife is the record's own: Godafoss remains the north's most visited landmark of the conversion, and the story of the idols' drowning is Iceland's founding image of the faith-change - the arbiter's own temple emptied into the falls. The record thus anchors the conversion-place family: a landscape renamed by a constitutional act, its name a document of the old gods' furniture.\n\nThe lawspeaker's deliberation-clause is the record's dramatic core: the cloak of silence (a day and a night without speech) is the saga's image of the arbiter's ritual isolation - the decision delivered from the hushed space between the factions, as the volva's prophecies are delivered from the grave. And the exceptions' history completes the document: the private-sacrifice clause was annulled within a generation (the Christians' pressure on the hidden rites), so the record preserves not one settlement but a staged transition - the conversion negotiated at the Althing and tightened in the following decades. The record thus anchors the arbitration-conversion family: the law-speaker's verdict as the faith-change's instrument, distinctive in the named exceptions and the drowned idols."
+      },
+      "functions": [
+        "Arbitration-conversion doctrine: conversion as constitutional settlement with named exceptions",
+        "Trance-deliberation: the lawspeaker's decision delivered from a cloak of silence",
+        "Idol-drowning charter: the old gods' furniture as the new faith's landmark",
+        "Place-name theology: Godafoss as the north's most famous conversion-toponym"
+      ],
+      "variants": [
+        {
+          "name": "Islendingabok (conversion-chapter)",
+          "text_tradition": "c. 1122-1133; MSS 17th c.",
+          "summary": "The oldest witness: the arbitration, the three exceptions, the annulment-clauses.",
+          "cross_ref": "norse-godafoss-thorgeirr"
+        },
+        {
+          "name": "Njals saga ch. 105",
+          "text_tradition": "13th c.; Islenzk Fornrit XII",
+          "summary": "The saga's dramatic retelling with the cloak-scene.",
+          "cross_ref": "norse-althing-founding"
+        },
+        {
+          "name": "Thordar saga hreda",
+          "text_tradition": "14th-c. saga",
+          "summary": "The idol-throwing chapter as the place-name's fullest telling.",
+          "cross_ref": "norse-godafoss-thorgeirr"
+        }
+      ],
+      "primary_sources": [
+        {
+          "work": "Islendingabok; Njals saga; Thordar saga hreda",
+          "citation": "The conversion-chapters. Editions: Islenzk Fornrit I (1968), XII (1954).",
+          "language": "Old Norse / Old Icelandic"
+        }
+      ],
+      "secondary_sources": [
+        {
+          "work": "Jesse Byock, Viking Age Iceland",
+          "citation": "Byock 2001, London: Penguin - the conversion as constitutional settlement."
+        },
+        {
+          "work": "Orri Vesteinsson, The Christianization of Iceland",
+          "citation": "Vesteinsson 2000 - the conversion's institutions."
+        }
+      ],
+      "source_urls": [
+        {
+          "url": "https://handrit.is/",
+          "description": "handrit.is - Islendingabok and saga manuscript entries",
+          "accessed": "2026-11-01"
+        }
+      ],
+      "sensitivity_flag": "living_tradition_low",
+      "sensitivity_guidance": "The conversion is living heritage of the Icelandic national church; the record presents the literary sources' account without religious judgment and notes the annulled exceptions' history.",
+      "provenance": {
+        "record_status": "complete",
+        "compiled": "2026-11-01",
+        "compiled_by": "DHG508 fieldwork compilation",
+        "review_status": "draft - pending human review"
+      },
+      "motifs": [
+        "sacred-place",
+        "oracle-divination",
+        "sacred-waters",
+        "idol-contest"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Conversion-heritage of the Icelandic church; presented from the literary sources without judgment."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Thorgeirr the lawspeaker lay under a fur-cloak a day and a night and spoke not a word; then he gave the sentence: men should have one law and one faith, for if the law were torn in pieces the peace would be torn too.",
+          "note": "Paraphrase of Islendingabok and Njals saga ch. 105 (Islenzk Fornrit I, XII); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "All were to be Christian, with three exceptions - infant exposure, horse-flesh, and private sacrifice if kept secret; and Thorgeirr, coming home, threw the idols of his own temple into the waterfall, and from then it has been called Godafoss, the Waterfall of the Gods.",
+          "note": "Paraphrase of Islendingabok and Thordar saga hreda (Islenzk Fornrit I); not verbatim."
+        }
+      ]
+    },
+    {
+      "id": "norse-helgafell-mountain",
+      "title": {
+        "en": "Helgafell: The Holy Mountain That Receives the Dead",
+        "zh": "赫爾加費爾：接納亡者的神聖山嶽"
+      },
+      "tradition": "norse",
+      "category": "myth-religion",
+      "region": {
+        "en": "Helgafell, Snaefellsnes, Iceland",
+        "zh": "冰島斯奈山半島赫爾加費爾"
+      },
+      "lat": 64.92,
+      "lon": -22.75,
+      "period": "Eyrbyggja saga chs. 4-5 (13th-14th c.); Landnamabok parallel; principal MSS 14th c.",
+      "source": {
+        "archive": "handrit.is",
+        "work": "Eyrbyggja saga chs. 4-5 (the holy mountain); Landnamabok; ed. Islenzk Fornrit IV (1935)",
+        "url": "https://handrit.is/"
+      },
+      "license": "Public domain (older editions); passages below are labeled paraphrases",
+      "summary": {
+        "en": "Thorolf Mostrarskegg believes in the mountain on his land with such devotion that neither he nor his household would look at it unwashed, and nothing might be killed there till it went of itself down to the sea; and he believes that he and his kinsmen shall go into the mountain when they die. The saga's testimony: when Thorstein died, his shepherd saw the mountain open, and the dead man went in with his kinsmen, was welcomed to the high-seat, and sat at the feast - as into a hall.",
+        "zh": "莫斯特爾長鬚索爾夫對自己土地上的山嶽懷有如此虔信，以至他與家人觀山之前必先沐浴，且不得在山上濺血；「他與族人相信，死後將進入山嶽之中」。薩迦並作證：索爾斯泰因死時，其牧羊人親見山嶽開啟——亡者隨親族步入山中，受到迎接，坐上山嶽的高座，如入廳堂般赴宴。"
+      },
+      "language": "Old Norse / Old Icelandic",
+      "canonical_translation": "William Morris and Eirikr Magnusson, The Saga of the Ere-Dwellers, London 1892 (public domain); Islenzk Fornrit IV",
+      "narrative": {
+        "en": "The Helgafell-doctrine is the saga corpus's most complete mountain-afterlife, attested as family belief. The devotion: Thorolf believed in the mountain on his land so devotedly that neither he nor his household would wash before looking at it; nothing might be killed on it, man or beast, till it went of itself down to the sea - the purity-law and the self-giving-beast clause (animals that flee to the mountain are its own, dying by themselves); and he called the mountain Helgafell, the Holy Mountain, and believed that he and his kinsmen should go into it when they died - the afterlife-clause stated as the family's creed.\n\nThe testimony: when Thorstein Cod-biter, Thorolf's son, died, the shepherd saw the mountain open, and the dead man went in with his father and kinsmen, was welcomed to the high-seat, and sat at the feast - the mountain as a hall with the dead feasting; and the shepherd was bidden tell the family of what he saw - the witness-clause: the mountain's opening documented by the household's own man and reported, the afterlife as a documentable event.\n\nThe record's cultural functions are the mountain-hall doctrine and the family-landscape doctrine: the dead do not leave for a mythic elsewhere but enter the family's own mountain, feasting at the high-seat - the afterlife as the estate's interior. And the doctrine's persistence: the saga records the mountain-cult in Christian-era Iceland, showing the landscape-afterlife surviving conversion in family memory.\n\nIn the atlas, the record anchors the mountain-afterlife family: each a sacred mountain as the dead's destination; the Norse one is distinctive in the family-hall image and the witness-clause.\n\nThe doctrine's extension through the family is documented in the saga's later chapters: the household's dead continuing to enter the mountain, the Helgafell-estate passing with the belief intact, and - the saga's most famous clause - Snorri goði, the saga's great legalist, choosing to be carried into the mountain's shadow for his burial, the mountain-belief persisting in the commonwealth's most law-minded family. And the purity-law's details (the washing-clause, the blood-taboo, the self-dying beasts) document the cult's practice as a landscape-regime: the mountain's sanctity is a legal order on the farm, complete with its own jurisdiction. The record thus anchors the Icelandic landscape-cult family: the pillars, the temples and the holy mountains as one settlement-theology, the afterlife inside the estate.\n\nThe mountain-cult's geography completes the record: Helgafell stands over the family's estate (Thorolf's temple at Hofsvag within sight), so the afterlife-land and the living-land are one view - the dead's hall visible from the farmhouse. And the doctrine's comparative depth completes it: the Norse mountain-afterlife answers the Chinese sacred-peak cults and the Greek mountain-haunts of the dead - each tradition housing its dead in high ground; the Norse one is distinctive in the family-estate frame and the shepherd's witness-clause. The record thus anchors the landscape-afterlife family: the pillars, the temples and the holy mountains as one settlement-theology, the estate's interior as eternity."
+      },
+      "functions": [
+        "Mountain-hall doctrine: the dead enter the family's own mountain and feast at the high-seat",
+        "Purity-law of the landscape: no unwashed glances, no bloodshed on the holy ground",
+        "Self-giving-beast clause: animals fleeing to the mountain belong to it and die by themselves",
+        "Witness-clause: the mountain's opening documented by the household's own shepherd"
+      ],
+      "variants": [
+        {
+          "name": "Eyrbyggja saga chs. 4-5",
+          "text_tradition": "MSS 14th c.; Islenzk Fornrit IV",
+          "summary": "The devotion, the purity-law, the shepherd's testimony.",
+          "cross_ref": "norse-helgafell-mountain"
+        },
+        {
+          "name": "Landnamabok parallel",
+          "text_tradition": "Sturlubok/Hauksbok",
+          "summary": "The settlement-book's record of the mountain-belief.",
+          "cross_ref": "norse-ingolf-iceland"
+        }
+      ],
+      "primary_sources": [
+        {
+          "work": "Eyrbyggja saga",
+          "citation": "Chs. 4-5. Edition: Islenzk Fornrit IV, Reykjavik 1935. English: Morris & Magnusson, London 1892 (public domain).",
+          "language": "Old Norse / Old Icelandic"
+        }
+      ],
+      "secondary_sources": [
+        {
+          "work": "Terry Gunnell, papers on landscape and afterlife",
+          "citation": "Gunnell and others - the mountain-hall doctrine in context."
+        },
+        {
+          "work": "Hilda Ellis Davidson, The Road to Hel",
+          "citation": "Davidson 1943, Cambridge - the mountain-afterlife within the death-system."
+        }
+      ],
+      "source_urls": [
+        {
+          "url": "https://handrit.is/",
+          "description": "handrit.is - Eyrbyggja saga manuscript entries",
+          "accessed": "2026-11-01"
+        }
+      ],
+      "sensitivity_flag": "none",
+      "provenance": {
+        "record_status": "complete",
+        "compiled": "2026-11-01",
+        "compiled_by": "DHG508 fieldwork compilation",
+        "review_status": "draft - pending human review"
+      },
+      "motifs": [
+        "sacred-place",
+        "descent-underworld",
+        "sacred-mountain"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Historical literary corpus; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Thorolf believed in the mountain on his land with such devotion that he and his household would not wash before looking at it, and nothing might be killed there till it went of itself down to the sea; he called it Helgafell, the Holy Mountain, and believed he and his kinsmen would go there when they died. When Thorstein died, his shepherd saw the mountain open, and the dead man went in with his father and kinsmen, was welcomed to the high-seat, and sat at the feast - as into a hall.",
+          "note": "Paraphrase of Eyrbyggja saga chs. 4-5 (Islenzk Fornrit IV); not verbatim."
+        }
+      ]
+    }
+  ]
+}

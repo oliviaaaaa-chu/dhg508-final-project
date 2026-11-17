@@ -1,0 +1,98 @@
+{
+  "_comment": "Shahnama of Firdausi (Warner 1905) vol. VI and Nizami's Sikandar Nama (Clarke 1881) Canto XXX: Dara's fall. Paraphrase passages with notes.",
+  "texts": [
+    {
+      "id": "persian-dara-van-sikandar",
+      "title": {
+        "en": "Darab's Son and Sikandar's Ambition",
+        "zh": "大流士與亞歷山大爭鋒"
+      },
+      "tradition": "persian",
+      "category": "myth",
+      "region": {
+        "en": "Field between Iran and Rum (symbolic pin)",
+        "zh": "伊朗與羅姆之間的戰場（象徵性定位）"
+      },
+      "lat": 37.0,
+      "lon": 42.0,
+      "period": "Composed c. 1010 CE (Warner translation 1905)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Firdausi, Shahnama, trans. A. G. & E. Warner (1905), vol. VI, Dara secs. 1-6",
+        "url": "https://archive.org/details/shahnama06firduoft"
+      },
+      "license": "Public domain (translation 1905)",
+      "summary": {
+        "en": "Dara harangued the chiefs and took order for the realm; and when Failakus died and Sikandar acceded to the throne of Rum, Sikandar went as his own ambassador to Dara, demanding tribute and submission. Dara fought with Sikandar and was worsted; the hosts fought a second time; and when Sikandar fought with Dara the third time, Dara fled to Kirman, his fortune sunk, the war-cry rising from both sides and the troops having little rest.",
+        "zh": "大流士整軍經武；菲萊庫斯死後亞歷山大繼羅馬王位，竟親作使節赴波斯索貢。三度交鋒，大流士屢戰屢敗，終棄都奔往克爾曼——兩軍吶喊、征塵蔽日，士卒疲於奔命。"
+      },
+      "motifs": ["sacred-kingship", "taboo-transgression", "quest-immortality"],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Epic literary source; the Shahnama's Alexander-as-Persian-prince romance. No living community restriction."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Sikandar went as his own ambassador to Dara, demanding tribute and submission; and Dara harangued the chiefs and took order for the realm. The two met in the field, and Dara fought with Sikandar and was worsted.",
+          "note": "Paraphrase of Firdausi, Shahnama, Dara secs. 1-4 (Warner 1905); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Dara fought with Sikandar the second time; and when Sikandar fought with Dara the third time, and Dara fled to Kirman, the war-cry rose from both sides and the troops had little rest. Sikandar ranged his host, the air grew dark, earth viewless.",
+          "note": "Paraphrase of Firdausi, Shahnama, Dara secs. 5-6 (Warner 1905); not verbatim."
+        }
+      ],
+      "persons": ["dara", "sikandar"]
+    },
+    {
+      "id": "persian-nizami-dara-slain",
+      "title": {
+        "en": "Nizami on Dara's Murder and Sikandar's Victory",
+        "zh": "尼扎米詠大流士之弑"
+      },
+      "tradition": "persian",
+      "category": "myth",
+      "region": {
+        "en": "Night-camp of the two hosts (symbolic pin)",
+        "zh": "兩軍夜營（象徵性定位）"
+      },
+      "lat": 37.0,
+      "lon": 42.0,
+      "period": "Composed c. 1200 CE (Clarke translation 1881)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Nizami, The Sikandar Nama e Bara, trans. H. Wilberforce Clarke (1881), Canto XXX",
+        "url": "https://archive.org/details/in.ernet.dli.2015.173384"
+      },
+      "license": "Public domain (translation 1881)",
+      "summary": {
+        "en": "The representer of the verse of this history uttered words according to the manner of truthful ones: when the fire of the bright day passed away the vault swiftly revolving became full of the smoke of darkness. Both armies secretly prayer-uttering, saying: would that to-night had been long, perhaps its length would have made delay, the battle-day would have appeared with great delay. Then Dara's own officers abandoned the right due to favours of obligation to the king; they took up the pursuit of slaying the king — and when the thief took the ruby of the sun, the world pressed its foot in ruby-seeking: the murderer of Dara won no glory, and the kingdom passed to Sikandar.",
+        "zh": "尼扎米寫道：白日之火熄滅、夜幕如煙籠罩穹廬；兩軍各自密禱：「但願今夜長些，好讓決戰之日遲些來臨！」然而大流士麾下重臣竟背棄君恩、陰謀弑主——「竊賊竊走紅寶石般的落日」——弑君者未得榮耀，江山終歸亞歷山大。"
+      },
+      "motifs": ["taboo-transgression", "trickster", "sacred-kingship"],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Epic literary source; Nizami's moralising version of the regicide. No living community restriction."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The representer of the verse of this history uttered words according to the manner of true ones, saying: when the fire of the bright day passed away, the vault swiftly revolving became full of the smoke of the darkness of night. Night established the ornament of the moon; the light of the moon in the dark shade of night was a wonderful thing.",
+          "note": "Paraphrase of Nizami, Sikandar Nama (Clarke 1881), Canto XXX; not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Both armies secretly prayer-uttering, saying: would that to-night had been long; perhaps its length would have made delay; the battle-day would have appeared with great delay. By the coming and going of the watchman the night bird rested not; from fear of the raging elephant many a sleeper leaped from sleep.",
+          "note": "Paraphrase of Nizami, Sikandar Nama (Clarke 1881), Canto XXX; not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "They abandoned the right due to favours of obligation to the king; they took up the pursuit of slaying the king. When the thief took the ruby of the sun, the world pressed its foot in ruby-seeking; with theft of the sun they seized the moon, saying it took away that pure jewel, the setting sun.",
+          "note": "Paraphrase of Nizami, Sikandar Nama (Clarke 1881), Canto XXX; not verbatim."
+        }
+      ],
+      "persons": []
+    }
+  ]
+}

@@ -1,0 +1,694 @@
+{
+  "_comment": "Baltic (Lithuanian/Lettish) myths cut from L. H. Gray, 'Baltic Mythology', Mythology of All Races III (1918), Part V, after the dainas and older sources. All passages paraphrase.",
+  "texts": [
+    {
+      "id": "baltic-sun-tower-hammer",
+      "title": {
+        "en": "The Sun in the Tower: Why the Iron Hammer Is Worshipped",
+        "zh": "塔中日頭：鐵錘受拜之故"
+      },
+      "tradition": "baltic",
+      "category": "myth",
+      "region": {
+        "en": "Lithuania (symbolic pin at Vilnius)",
+        "zh": "立陶宛（象徵性定位於維爾紐斯）"
+      },
+      "lat": 54.69,
+      "lon": 25.28,
+      "period": "Recorded by Aeneas Sylvius (Pius II, d. 1464) from missionary Jerome; recorded by Gray 1918",
+      "source": {
+        "archive": "Wikisource / Internet Archive",
+        "work": "L. H. Gray, Baltic Mythology, Mythology of All Races III (1918), Part V, after Aeneas Sylvius",
+        "url": "https://en.wikisource.org/wiki/The_Mythology_of_All_Races/Volume_3/Slavic/Part_5"
+      },
+      "license": "Public domain (1918)",
+      "summary": {
+        "en": "A mighty king once imprisoned the sun for months in a strongly fortified tower; the signs of the zodiac broke the tower with a huge hammer and set the sun free — which is why, the missionaries reported, the old Lithuanians worshipped an iron hammer of rare size.",
+        "zh": "古有強王將太陽囚於堅塔數月；黃道諸宮以巨錘破塔救日——傳教士所記立陶宛人敬奉特大鐵錘之由即在此。"
+      },
+      "motifs": [
+        "sun-capture",
+        "fire-theft",
+        "resurrection"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Early missionary report through Papal circles; tagged interpretively."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Aeneas Sylvius (afterward Pope Pius II) reports, on the information of the Camaldolite hermit Jerome who had long served as missionary in Lithuania, that a Lithuanian people worshipped the sun and venerated with curious cult an iron hammer of rare size. When the priests were asked what the veneration meant, they answered that once upon a time the sun was not seen for several months, because a most mighty king had imprisoned it in the dungeon of a tower right strongly fortified.",
+          "note": "Paraphrase of Gray, Baltic Mythology, Mythology of All Races III (1918), Part V, after Aeneas Sylvius; not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Then the signs of the zodiac bore aid to the sun, broke the tower with a huge hammer, and restored to men the liberated sun — so that the instrument by which mortals regained the light was held worthy of veneration. Mannhardt read the myth as the darkening of the sun in winter and its return in the storms of spring; the real destroyer of the tower was Perkunas, god of thunder and chief Baltic deity. Lithuanians call the prehistoric stone celt 'Perkunas's ball' or 'Perkunas's stone' — the parallel with Thor's hammer is immediate.",
+          "note": "Paraphrase of Gray, Baltic Mythology, Mythology of All Races III (1918), Part V; not verbatim."
+        }
+      ],
+      "persons": [
+        "perkunas"
+      ]
+    },
+    {
+      "id": "baltic-perkune-tete-bath",
+      "title": {
+        "en": "Perkune Tete, Mother of Lightning: Who Bathes the Weary Sun",
+        "zh": "雷母佩爾庫內·泰特：為倦日沐浴"
+      },
+      "tradition": "baltic",
+      "category": "myth",
+      "region": {
+        "en": "Lithuania (symbolic pin at Kaunas)",
+        "zh": "立陶宛（象徵性定位於考納斯）"
+      },
+      "lat": 54.9,
+      "lon": 23.9,
+      "period": "Recorded from Lithuanian folk tradition; recorded by Gray 1918",
+      "source": {
+        "archive": "Wikisource / Internet Archive",
+        "work": "L. H. Gray, Baltic Mythology, Mythology of All Races III (1918), Part V",
+        "url": "https://en.wikisource.org/wiki/The_Mythology_of_All_Races/Volume_3/Slavic/Part_5"
+      },
+      "license": "Public domain (1918)",
+      "summary": {
+        "en": "Perkune Tete, mother of lightning and thunder, receives at night the weary, dusty sun; she washes her and sends her forth on the morrow bathed and shining — the nightly return of the day.",
+        "zh": "雷電之母佩爾庫內·泰特，夜間迎回塵勞之倦日；為之沐浴，翌晨送其容光煥發而升——晝夜更替即如此夜夜重演。"
+      },
+      "motifs": [
+        "world-renewal",
+        "resurrection"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Folk fragment."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The second of the two old myths recorded of the Lithuanians is still briefer than the first: Perkune Tete, 'Mother of Lightning and Thunder', receives at night the weary, dusty sun, whom she sends forth on the morrow bathed and shining.",
+          "note": "Paraphrase of Gray, Baltic Mythology, Mythology of All Races III (1918), Part V; not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "In the dainas the same daily round is sung as an economy: Morning Star makes the Sun's fire and Evening Star prepares her couch; the golden cock on the edge of the Great Water rouses the sun's daughter to spin the silver thread of dawn. The Baltic sky is run like a great household, and the mother of lightning is the bath-keeper of the world's light.",
+          "note": "Paraphrase of Gray, Baltic Mythology, Mythology of All Races III (1918), Part V; not verbatim."
+        }
+      ],
+      "persons": [
+        "perkunas"
+      ]
+    },
+    {
+      "id": "baltic-moon-forsook-sun",
+      "title": {
+        "en": "Why the Moon Wanes: The Moon Who Forsook the Sun",
+        "zh": "月之所以虧：棄日而奔晨星之月"
+      },
+      "tradition": "baltic",
+      "category": "myth",
+      "region": {
+        "en": "Latvia (symbolic pin at Riga)",
+        "zh": "拉脫維亞（象徵性定位於里加）"
+      },
+      "lat": 56.95,
+      "lon": 24.11,
+      "period": "Daina recorded 19th c. (Mannhardt); material pre-Christian; recorded by Gray 1918",
+      "source": {
+        "archive": "Wikisource / Internet Archive",
+        "work": "L. H. Gray, Baltic Mythology, Mythology of All Races III (1918), Part V, after the dainas collected by Mannhardt",
+        "url": "https://en.wikisource.org/wiki/The_Mythology_of_All_Races/Volume_3/Slavic/Part_5"
+      },
+      "license": "Public domain (1918)",
+      "summary": {
+        "en": "In the primal spring the Moon wedded the Sun, but he forsook her and loved the Morning Star; Perkunas, filled with wrath, smote the Moon with his sword — 'Wherefore hast thou left thy Sun?' — and the god's grief-struck blow is the waning of the moon.",
+        "zh": "原初之春，月娶日，旋棄之而愛晨星；佩爾庫納斯怒不可遏，拔劍擊月——『何故棄汝之日？』——那一擊之痛，即月之盈虧。"
+      },
+      "motifs": [
+        "divine-marriage",
+        "taboo-transgression",
+        "transformation"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Celestial-marriage cluster parallel to Sumerian Nanna-Sarru? tagged as daina translation (Mannhardt's German rendering, PD)."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Home the Moon once led the Sun in the very primal spring; early did the Sun arise, but the Moon from her withdrew. Leaving her, he roamed afar, and the Morning Star he loved. Perkunas then was filled with wrath, and with his sword he smote the Moon: 'Wherefore hast thou left thy Sun? Wherefore roam'st thou alone by night? Wherefore lovest thou Morning Star?' Full of sorrow was his heart.",
+          "note": "Paraphrase of the daina as rendered by Gray, Baltic Mythology, Mythology of All Races III (1918), Part V; not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "The daina holds the myth of the conjunction of sun and moon, their gradual divergence until the moon stands with the morning star, the wrath of Perkunas — who is not merely god of thunder but the great Baltic deity — and the explanation of the moon's changing form as he wanes. In the Baltic languages the sun is feminine and the moon masculine; the Lettish variant carries the tale further, for there the moon and sun have many children, the stars.",
+          "note": "Paraphrase of Gray, Baltic Mythology, Mythology of All Races III (1918), Part V; not verbatim."
+        }
+      ],
+      "persons": [
+        "perkunas"
+      ]
+    },
+    {
+      "id": "baltic-suns-daughter-wedding-oak",
+      "title": {
+        "en": "The Broken Oak at the Wedding: The Sun's Daughter Washes Out the Blood",
+        "zh": "婚禮上斷裂的橡樹：日之女洗滌血漬"
+      },
+      "tradition": "baltic",
+      "category": "myth",
+      "region": {
+        "en": "Latvia (symbolic pin at Riga)",
+        "zh": "拉脫維亞（象徵性定位於里加）"
+      },
+      "lat": 56.95,
+      "lon": 24.11,
+      "period": "Daina recorded 19th c. (Mannhardt); recorded by Gray 1918",
+      "source": {
+        "archive": "Wikisource / Internet Archive",
+        "work": "L. H. Gray, Baltic Mythology, Mythology of All Races III (1918), Part V",
+        "url": "https://en.wikisource.org/wiki/The_Mythology_of_All_Races/Volume_3/Slavic/Part_5"
+      },
+      "license": "Public domain (1918)",
+      "summary": {
+        "en": "When Morning Star wed the Sun's daughter, Perkunas rode through the doorway and shattered the green oak; its blood — the red rays of evening — spattered the bride's garments, and for three years she gathered the seared leaves, asking where to wash, where to dry, where to don her white — 'upon that day when nine suns shall be shining.'",
+        "zh": "晨星娶日之女之日，佩爾庫納斯縱馬穿門、劈裂綠橡；橡之血——即暮空紅霞——濺遍新娘衣裙；三年間她拾枯葉，問何處可洗、何處可晾、何處可著素衣——『待九日同輝之時。』"
+      },
+      "motifs": [
+        "divine-marriage",
+        "transformation",
+        "world-renewal"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Daina."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "When Morning Star was wedded, Perkunas rode through the doorway and the green oak he shattered; then forth the oak's blood spurted, besprinkling all the bride's garments and her crownlet. With streaming eyes the Sun's daughter for three years collected the leaves, all sear and withered.",
+          "note": "Paraphrase of the daina as rendered by Gray, Baltic Mythology, Mythology of All Races III (1918), Part V; not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "'Oh where, oh where, my mother, shall I now wash my garments, and where wash out the blood-stains? — My daughterling, so youthful, swift haste unto the fountain wherein nine brooks are flowing. And where dry them in the breezes? — In the garden where roses nine are blooming. And where don my garments bright gleaming in their whiteness? — Upon that day, my daughter, when nine suns shall be shining.' The fountain of nine brooks, the nine roses, the nine suns, the apple-tree of nine branches — all are the rays of the sun.",
+          "note": "Paraphrase of the daina as rendered by Gray, Baltic Mythology, Mythology of All Races III (1918), Part V; not verbatim."
+        }
+      ],
+      "persons": [
+        "perkunas"
+      ]
+    },
+    {
+      "id": "baltic-perkunas-devil-seven-years",
+      "title": {
+        "en": "The Devil Struck Down for Seven Years: Perkunas and the Unending Battle",
+        "zh": "魔墮七年：佩爾庫納斯與無盡之戰"
+      },
+      "tradition": "baltic",
+      "category": "myth",
+      "region": {
+        "en": "Lithuania (symbolic pin at Vilnius)",
+        "zh": "立陶宛（象徵性定位於維爾紐斯）"
+      },
+      "lat": 54.69,
+      "lon": 25.28,
+      "period": "Folk belief recorded 19th c.; recorded by Gray 1918",
+      "source": {
+        "archive": "Wikisource / Internet Archive",
+        "work": "L. H. Gray, Baltic Mythology, Mythology of All Races III (1918), Part V",
+        "url": "https://en.wikisource.org/wiki/The_Mythology_of_All_Races/Volume_3/Slavic/Part_5"
+      },
+      "license": "Public domain (1918)",
+      "summary": {
+        "en": "When Perkunas smites a devil with his bolt he does not kill him but casts him down to hell for seven years, after which the fiend is abroad again — the same unfinished victory as Indra's over the storm-dragon, so the battle between thunder-god and demon must be forever renewed.",
+        "zh": "佩爾庫納斯以雷擊魔，不誅而逐之入冥七年；期满魔復出——與因陀羅之戰龍同一未竟之局，雷神與魔之戰遂永無終期。"
+      },
+      "motifs": [
+        "storm-thunder",
+        "resurrection",
+        "descent-underworld"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Folk belief; Indo-European dragon-fight cluster."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "All sources for Baltic religion agree that Perkunas, god of thunder and lightning, was the chief deity: thunder was his voice, by which he revealed his will to men, and he sent the fertilizing rains — the Indra of the Prussians, Lithuanians, and Letts. He has, moreover, Indra's most telling resemblance: when he smites a devil with his bolt, he does not kill the fiend.",
+          "note": "Paraphrase of Gray, Baltic Mythology, Mythology of All Races III (1918), Part V; not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "He merely strikes the demon down to hell for seven years, after which time the fiend again appears on earth — exactly as Indra and his Iranian doublets do not slay the storm-dragon but only wound him or imprison him so insecurely that he escapes. The battle must therefore be constantly renewed; every bolt that splits an oak in the Lithuanian summer is another round of a fight that never ends.",
+          "note": "Paraphrase of Gray, Baltic Mythology, Mythology of All Races III (1918), Part V; not verbatim."
+        }
+      ],
+      "persons": [
+        "perkunas"
+      ]
+    },
+    {
+      "id": "baltic-god-sons-nine",
+      "title": {
+        "en": "The Nine Sons of God: Three Shatter, Three Thunder, Three Lighten",
+        "zh": "神之九子：三碎三轟三閃"
+      },
+      "tradition": "baltic",
+      "category": "myth",
+      "region": {
+        "en": "Latvia (symbolic pin at Riga)",
+        "zh": "拉脫維亞（象徵性定位於里加）"
+      },
+      "lat": 56.95,
+      "lon": 24.11,
+      "period": "Dainas recorded 19th c. (Mannhardt); recorded by Gray 1918",
+      "source": {
+        "archive": "Wikisource / Internet Archive",
+        "work": "L. H. Gray, Baltic Mythology, Mythology of All Races III (1918), Part V",
+        "url": "https://en.wikisource.org/wiki/The_Mythology_of_All_Races/Volume_3/Slavic/Part_5"
+      },
+      "license": "Public domain (1918)",
+      "summary": {
+        "en": "The dainas speak of God's sons — nine in number: three who shatter in pieces, three who thunder, three who lighten; they live in Germany, in the darkening west, where their father rides with smoke-grey horses to seek a bride.",
+        "zh": "達伊納斯詠神之九子：三者碎物、三者鳴雷、三者閃電；皆居『德意志』——即西沉之暗方；其父乘灰雲之馬，往彼處覓偶。"
+      },
+      "motifs": [
+        "sibling-creators",
+        "storm-thunder",
+        "sun-capture"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Daina; 'God' here = Perkunas as all-god."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "In the dainas 'God' (Lettish Dievs) can mean in Baltic none other than Perkunas, the deity par excellence, just as in Greece the unqualified 'god' means Zeus. His sons are nine in number: three shatter in pieces, three thunder, and three lighten; in other poems he has only five; but in any case they all live in Germany — in other words, in the darkening west, whither their father himself goes, across the sea, to seek a bride.",
+          "note": "Paraphrase of Gray, Baltic Mythology, Mythology of All Races III (1918), Part V; not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "He smites the demonic Iohdi, the spirits that battle in the northern lights; he strikes the sea in which the sun is drowned at evening. But where he goes with his gentle smoke-grey horses — the clouds — the meadows flourish: the sun rises through the saddle of his steed and the moon through the bit, and at the end of the rein is the morning star. He gives the moon a hundred sons, the stars: a sky-god in process of elevation to all-god.",
+          "note": "Paraphrase of Gray, Baltic Mythology, Mythology of All Races III (1918), Part V; not verbatim."
+        }
+      ],
+      "persons": [
+        "perkunas"
+      ]
+    },
+    {
+      "id": "baltic-saule-silver-shoes",
+      "title": {
+        "en": "The Sun in Silver Shoes: Dances on the Silver Mount",
+        "zh": "銀履之太陽：舞於銀山"
+      },
+      "tradition": "baltic",
+      "category": "myth",
+      "region": {
+        "en": "Latvia (symbolic pin at Riga)",
+        "zh": "拉脫維亞（象徵性定位於里加）"
+      },
+      "lat": 56.95,
+      "lon": 24.11,
+      "period": "Dainas recorded 19th c. (Mannhardt); recorded by Gray 1918",
+      "source": {
+        "archive": "Wikisource / Internet Archive",
+        "work": "L. H. Gray, Baltic Mythology, Mythology of All Races III (1918), Part V",
+        "url": "https://en.wikisource.org/wiki/The_Mythology_of_All_Races/Volume_3/Slavic/Part_5"
+      },
+      "license": "Public domain (1918)",
+      "summary": {
+        "en": "In the dainas the Sun wears silver shoes and dances on the silver mount, sails a silver sea, is herself a silver apple; at evening she crowns the linden with gold, the oak with silver, each little willow with a ring — and weeps because the golden apple has fallen from the tree.",
+        "zh": "達伊納斯中之太陽著銀履、舞銀山、泛銀海，其身亦如銀蘋果；日暮時以金冠贈菩提、銀冠贈橡樹、戒指贈柳枝——又因金蘋果離樹而泣。"
+      },
+      "motifs": [
+        "sun-capture",
+        "world-renewal",
+        "transformation"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Daina."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "We think of the sun as golden, and rightly; yet in the dainas she wears silver shoes and dances on the silver mount, sails over a silver sea, scatters gifts of silver, sows silver, or is herself a silver apple, a boat of silver, bronze, and gold, or half gold and half silver — all the shadings of her various stations in the sky. Her hundred brown horses are her rays; in the east, where she rises, lives a gold and diamond steed.",
+          "note": "Paraphrase of Gray, Baltic Mythology, Mythology of All Races III (1918), Part V; not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "When she sets she gives a golden crown to the linden, a silver coronet to the oak, and a golden ring to each little willow. She weeps bitterly because the golden apple has fallen from the tree — a myth of sunset — but 'God' will make her another of gold, brass, or silver. She herself is an apple sleeping in an apple-garden, decked with apple-blossoms: the fleecy clouds of dawn.",
+          "note": "Paraphrase of Gray, Baltic Mythology, Mythology of All Races III (1918), Part V; not verbatim."
+        }
+      ],
+      "persons": []
+    },
+    {
+      "id": "baltic-suns-daughter-drowned",
+      "title": {
+        "en": "The Drowned Daughter: Fishing the Sun's Ring from the Sea",
+        "zh": "溺沒之女：自海中釣回太陽之戒"
+      },
+      "tradition": "baltic",
+      "category": "myth",
+      "region": {
+        "en": "Latvia, river Daugava (symbolic pin)",
+        "zh": "拉脫維亞道加瓦河（象徵性定位）"
+      },
+      "lat": 56.9,
+      "lon": 24.5,
+      "period": "Dainas recorded 19th c. (Mannhardt); recorded by Gray 1918",
+      "source": {
+        "archive": "Wikisource / Internet Archive",
+        "work": "L. H. Gray, Baltic Mythology, Mythology of All Races III (1918), Part V",
+        "url": "https://en.wikisource.org/wiki/The_Mythology_of_All_Races/Volume_3/Slavic/Part_5"
+      },
+      "license": "Public domain (1918)",
+      "summary": {
+        "en": "The Sun's daughter's chief task is to wash her golden jug — the solar disk — at evening; she loses it and is herself drowned, falling into a golden boat left behind on the waves — until 'God's sons' row out and rescue her, that she may reappear at dawn.",
+        "zh": "日之女之務為日暮洗其金壺——即日輪；壺失人溺，身墜金舟，舟尚留於浪間——直至『神之子』搖櫓而出，救其上岸，以待黎明重現。"
+      },
+      "motifs": [
+        "resurrection",
+        "descent-underworld",
+        "sibling-creators",
+        "rescue-captive"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Daina."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The daughters of the sun and the sons of God are the Baltic counterparts of the Vedic Usas and Asvins, of the Greek Helen and Dioskouroi. The sun's daughter's chief task is to wash her golden jug — the solar disk — at evening. This she loses, and she herself is drowned; or else she falls into a golden boat which remains behind her on the waves.",
+          "note": "Paraphrase of Gray, Baltic Mythology, Mythology of All Races III (1918), Part V; not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Sometimes 'God's sons' row the boat which rescues her as she wades in the sea, so that she can reappear at dawn. Occasionally the youth stands passively on the mountain while she sinks; or instead of wedding her he merely escorts her to Germany. Behind the mountain stands the oak beneath which the lovers dance: there 'God's son' hangs his girdle and the sun's daughter her crown. When, in other dainos, the solar jug is broken by 'little John', it is the waning strength of the sun's rays after Midsummer Eve.",
+          "note": "Paraphrase of Gray, Baltic Mythology, Mythology of All Races III (1918), Part V; not verbatim."
+        }
+      ],
+      "persons": []
+    },
+    {
+      "id": "baltic-fountain-ring-courtship",
+      "title": {
+        "en": "Under the Maple: God's Son Courts the Sun's Daughter",
+        "zh": "楓樹泉畔：神之子求愛日之女"
+      },
+      "tradition": "baltic",
+      "category": "myth",
+      "region": {
+        "en": "Latvia (symbolic pin at Riga)",
+        "zh": "拉脫維亞（象徵性定位於里加）"
+      },
+      "lat": 56.95,
+      "lon": 24.11,
+      "period": "Dainas recorded 19th c. (Mannhardt); recorded by Gray 1918",
+      "source": {
+        "archive": "Wikisource / Internet Archive",
+        "work": "L. H. Gray, Baltic Mythology, Mythology of All Races III (1918), Part V",
+        "url": "https://en.wikisource.org/wiki/The_Mythology_of_All_Races/Volume_3/Slavic/Part_5"
+      },
+      "license": "Public domain (1918)",
+      "summary": {
+        "en": "'Neath a maple lies a fountain whither God's sons hasten to dance with God's daughters while the moon shines: the maiden washing her face loses her ring in the water, and the young hero on the brown charger comes asking her to speak of love where the stream is deepest — her mother chides, and the swans excuse was not believed.",
+        "zh": "楓下有泉，神之子月明中疾趨與神之女共舞；少女濯面失戒於水，騎棕馬之少年來求她共語情長於最深处——母親嗔怪，天鵝攪水之託辭亦未獲信。"
+      },
+      "motifs": [
+        "divine-marriage",
+        "trickster"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Daina."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "'Neath a maple lies a fountain whither God's sons hastening go to dance with God's own daughters while the moon shines o'er them. In the fountain by the maple the maiden was laving her white face — and lo, her ring she washed off. 'Will the sons of God come hither with their nets all silken? Will they fish my ring so tiny from the depths of water?'",
+          "note": "Paraphrase of the daina as rendered by Gray, Baltic Mythology, Mythology of All Races III (1918), Part V; not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Then there came a youthful hero, his brown charger riding, his shoes golden. 'Hither come, O maiden — with fair words let us be speaking, where the stream is deepest and love is sweetest.' 'Nay, I cannot, hero, for my mother dear will chide me if I tarry longer.' 'Speak thus to her: two swans came flying and troubled the water's depth; till it cleared I waited.' But the mother knew: 'Not true, my daughter — beneath the maple with a youth thou wast exchanging words of love's sweet language.'",
+          "note": "Paraphrase of the daina as rendered by Gray, Baltic Mythology, Mythology of All Races III (1918), Part V; not verbatim."
+        }
+      ],
+      "persons": []
+    },
+    {
+      "id": "baltic-orphan-twilight-tempted",
+      "title": {
+        "en": "The Orphan Girl of the Golden Hedge",
+        "zh": "金籬笆下的孤女"
+      },
+      "tradition": "baltic",
+      "category": "myth",
+      "region": {
+        "en": "Latvia (symbolic pin at Riga)",
+        "zh": "拉脫維亞（象徵性定位於里加）"
+      },
+      "lat": 56.95,
+      "lon": 24.11,
+      "period": "Dainas recorded 19th c. (Mannhardt); recorded by Gray 1918",
+      "source": {
+        "archive": "Wikisource / Internet Archive",
+        "work": "L. H. Gray, Baltic Mythology, Mythology of All Races III (1918), Part V",
+        "url": "https://en.wikisource.org/wiki/The_Mythology_of_All_Races/Volume_3/Slavic/Part_5"
+      },
+      "license": "Public domain (1918)",
+      "summary": {
+        "en": "When the sun is drowned in the sea her daughter is an orphan; God makes a golden hedge — the sunset — and sets the orphan girl as its guardian, charging her not to break off the golden boughs; she disobeys and flees to Mary's bath-chamber, the darkness of night, where God and his sons refuse her forgiveness.",
+        "zh": "日沉於海，其女成孤；神築金籬——即晚霞——立孤女為守，戒其勿折金枝；她抗命而逃至瑪利亞浴堂——夜之幽暗——神與其子至，拒予赦免。"
+      },
+      "motifs": [
+        "taboo-transgression",
+        "descent-underworld",
+        "boon-curse",
+        "orphan-hero"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Daina; 'Mary' read as Christianized evening star."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "When the sun is drowned in the sea, her daughter is naturally regarded as an orphan; and thus a daina tells how God makes a golden hedge — the sunset — to which his sons come riding on sweating horses. There they find the orphan girl, whom they make its guardian, charging her not to break off the golden boughs — the rays of the setting sun.",
+          "note": "Paraphrase of Gray, Baltic Mythology, Mythology of All Races III (1918), Part V; not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "She disobeys, and flees to the valley of Mary's bath-chamber — the darkness of night. Thither God and his sons come, but refuse forgiveness for her transgression of their commands. 'Mary' is perhaps a Christianized substitute for the planet Venus as the evening star: the orphan of the golden hedge is twilight itself, punished for outliving her parent light.",
+          "note": "Paraphrase of Gray, Baltic Mythology, Mythology of All Races III (1918), Part V; not verbatim."
+        }
+      ],
+      "persons": []
+    },
+    {
+      "id": "baltic-key-house-of-souls",
+      "title": {
+        "en": "The Key to the House of Souls",
+        "zh": "亡魂之家的鑰匙"
+      },
+      "tradition": "baltic",
+      "category": "myth",
+      "region": {
+        "en": "Latvia, river Daugava (symbolic pin)",
+        "zh": "拉脫維亞道加瓦河（象徵性定位）"
+      },
+      "lat": 56.9,
+      "lon": 24.5,
+      "period": "Dainas recorded 19th c. (Mannhardt); recorded by Gray 1918",
+      "source": {
+        "archive": "Wikisource / Internet Archive",
+        "work": "L. H. Gray, Baltic Mythology, Mythology of All Races III (1918), Part V",
+        "url": "https://en.wikisource.org/wiki/The_Mythology_of_All_Races/Volume_3/Slavic/Part_5"
+      },
+      "license": "Public domain (1918)",
+      "summary": {
+        "en": "The Great Water — the celestial Daugawa — flows black at evening because it is full of the souls of the departed; at midnight a star descends to the house of souls. The Sun's daughter keeps the key to the realm of the dead, and Mother Earth is besought to give it that a brother's grave may be unlocked.",
+        "zh": "偉大之水——天上道加瓦——暮時流黑，因滿載逝者之魂；子夜一星降至亡魂之家。日之女掌冥界之鑰；欲啟亡兄之墓，須求大地之母賜鑰。"
+      },
+      "motifs": [
+        "descent-underworld",
+        "sacred-place",
+        "world-renewal"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Daina."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The sea of the dainas is the celestial ocean of Indo-Iranian mythology, and the 'Great Water' (Daugawa), though now identified by the Letts with the river Dvina, is to be read in the same way. This Daugawa flows black at evening because it is full of the souls of the departed, and at midnight a star descends to 'the house of souls'.",
+          "note": "Paraphrase of Gray, Baltic Mythology, Mythology of All Races III (1918), Part V; not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Very appropriately, therefore, the sun's daughter has the key to the realm of the dead; and at evening 'Mother Earth' (Zemes Mate), from whom one asks whatever may be lost or hidden, is besought to give this key. In the afternoon God's children shut the door of heaven, so that one should be buried in the morning; and the sun's daughter is entreated to give a key that an only brother's grave may be unlocked.",
+          "note": "Paraphrase of Gray, Baltic Mythology, Mythology of All Races III (1918), Part V; not verbatim."
+        }
+      ],
+      "persons": []
+    },
+    {
+      "id": "baltic-telyaveli-celestial-smith",
+      "title": {
+        "en": "Telyaveli: The Smith Who Forged the Sun for Perkunas",
+        "zh": "特利亞韋利：為佩爾庫納斯鑄日之鐵匠"
+      },
+      "tradition": "baltic",
+      "category": "myth",
+      "region": {
+        "en": "Lithuania (symbolic pin at Vilnius)",
+        "zh": "立陶宛（象徵性定位於維爾紐斯）"
+      },
+      "lat": 54.69,
+      "lon": 25.28,
+      "period": "Recorded in the Russian redaction (1261) of John Malalas; recorded by Gray 1918",
+      "source": {
+        "archive": "Wikisource / Internet Archive",
+        "work": "L. H. Gray, Baltic Mythology, Mythology of All Races III (1918), Part V, after the Malalas redaction of 1261",
+        "url": "https://en.wikisource.org/wiki/The_Mythology_of_All_Races/Volume_3/Slavic/Part_5"
+      },
+      "license": "Public domain (1918)",
+      "summary": {
+        "en": "In his sky-forge on the edge of the sea or of the Daugawa, the celestial smith Telyaveli makes spurs and a girdle for God's son and a crown and ring for the sun's daughter — the rays of the rising sun and the solar disk themselves; the old redaction says he 'forged for Perkunas the sun as it shines on earth, and set the sun in heaven.'",
+        "zh": "天上鐵匠特利亞韋利於海畔或道加瓦畔之爐中，為神之子鑄馬刺與腰帶，為日之女鑄冠與環——即朝陽之芒與日輪本身；古抄本云其『為佩爾庫納斯鑄世上所照之太陽，置於天上』。"
+      },
+      "motifs": [
+        "fire-theft",
+        "culture-hero",
+        "sun-capture"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Smith-god parallels Tvasty, Ilmarinen, Wieland, Hephaistos."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The celestial smith has his forge in the sky, on the edge either of the sea or of the Daugawa; there he makes spurs and a girdle for 'God's son', and a crown and ring for the sun's daughter — in other words, from his smithy come the rays of the rising sun and the solar disk itself. Mannhardt regards this smith as the glow of dawn or sunset, and compares him to the Finno-Ugric Ilmarinen, the Teutonic Wieland, and the Greek Hephaistos.",
+          "note": "Paraphrase of Gray, Baltic Mythology, Mythology of All Races III (1918), Part V; not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "A still closer analogue is the Vedic Tvasty who wrought the cup that holds the gods' nectar; and it is even possible that he is ultimately the same as the Slavic deity Svarog, the heavenly smith. His name is given as Telyaveli or Telyavelik in the Russian redaction (dating from 1261) of the Byzantine historian John Malalas, which says that he 'forged for him (Perkunas) the sun as it shines on earth, and set the sun in heaven.'",
+          "note": "Paraphrase of Gray, Baltic Mythology, Mythology of All Races III (1918), Part V; not verbatim."
+        }
+      ],
+      "persons": [
+        "perkunas",
+        "svarog"
+      ]
+    },
+    {
+      "id": "baltic-rose-tree-to-heaven",
+      "title": {
+        "en": "Up the Rose-Tree to Heaven: The Deserted Daughter's Climb",
+        "zh": "沿玫瑰樹攀天：被棄之女的攀登"
+      },
+      "tradition": "baltic",
+      "category": "myth",
+      "region": {
+        "en": "Latvia (symbolic pin at Riga)",
+        "zh": "拉脫維亞（象徵性定位於里加）"
+      },
+      "lat": 56.95,
+      "lon": 24.11,
+      "period": "Daina recorded 19th c. (Mannhardt); recorded by Gray 1918",
+      "source": {
+        "archive": "Wikisource / Internet Archive",
+        "work": "L. H. Gray, Baltic Mythology, Mythology of All Races III (1918), Part V",
+        "url": "https://en.wikisource.org/wiki/The_Mythology_of_All_Races/Volume_3/Slavic/Part_5"
+      },
+      "license": "Public domain (1918)",
+      "summary": {
+        "en": "Zemina the flower-giver bids the deserted maiden plant her roses on the lofty mountain-summit; from the rose-trunk springs a mighty tree whose branches reach the heavens, and the girl climbs it to find a youthful hero riding God's charger — the evening star — who sends her down to the valley where her parents plan her sister's marriage.",
+        "zh": "花之賜予者澤米娜命被棄少女將玫瑰植於高山之巔；玫瑰幹中長出參天巨樹，枝達天穹；少女攀樹上天，遇騎神駒之少年英雄——即晚星——被遣往山谷，父母正為其妹籌婚。"
+      },
+      "motifs": [
+        "ascension",
+        "otherworld-voyage",
+        "divine-marriage"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Daina; parallel to the Jack-and-the-Beanstalk cycle noted by Gray."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "'O Zemina, flower-giver, where shall I now plant the roses?' — 'On the lofty mountain-summit, by the ocean, by the sea-side.' 'Where shall I find father, mother, I, deserted and a pauper?' — 'Haste thee to the lofty mountain.' Forth then from the rose-trunk springing grew a mighty tree and lofty till its branches reached the heavens: 'I will climb up to the heavens on the branches of the roses.'",
+          "note": "Paraphrase of the daina as rendered by Gray, Baltic Mythology, Mythology of All Races III (1918), Part V; not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "There she found a youthful hero riding on God's charger. 'O fair youth, hast thou not seen father, mother?' — 'Seek the region of the valley; there thy father, there thy mother plan the marriage of thy sister.' So she hasted to the valley: 'Why did ye leave me, an infant, to the mercy of the stranger?' — 'Grown to be a sturdy maiden, I alone have found the cradle where in childhood I was happy.' Here sun and moon have departed from their daughter, the morning twilight; the hero on God's charger is the evening star, and the valley is the place of sunset in the darkening west.",
+          "note": "Paraphrase of the daina as rendered by Gray, Baltic Mythology, Mythology of All Races III (1918), Part V; not verbatim."
+        }
+      ],
+      "persons": []
+    },
+    {
+      "id": "baltic-aurora-borealis-battle",
+      "title": {
+        "en": "The Battling Souls of the Northern Lights",
+        "zh": "極光中的亡魂之戰"
+      },
+      "tradition": "baltic",
+      "category": "myth",
+      "region": {
+        "en": "Lithuania and Latvia, northern sky (symbolic pin)",
+        "zh": "立陶宛與拉脫維亞北方天空（象徵性定位）"
+      },
+      "lat": 56.0,
+      "lon": 24.0,
+      "period": "Folk belief recorded 19th c.; recorded by Gray 1918",
+      "source": {
+        "archive": "Wikisource / Internet Archive",
+        "work": "L. H. Gray, Baltic Mythology, Mythology of All Races III (1918), Part V",
+        "url": "https://en.wikisource.org/wiki/The_Mythology_of_All_Races/Volume_3/Slavic/Part_5"
+      },
+      "license": "Public domain (1918)",
+      "summary": {
+        "en": "When the Aurora Borealis flames over the Baltic sky, the Murgi or Iohdi — spirits of the air and souls of the dead — are battling, or the souls of warriors are engaged in combat; Perkunas himself rides to smite the demonic Iohdi.",
+        "zh": "極光燃於波羅的海夜空之時，乃穆爾吉／約赫迪——風中精靈與亡者之魂——正在交戰，或戰士之魂廝殺；佩爾庫納斯親往擊魔靈。"
+      },
+      "motifs": [
+        "spirit-possession",
+        "storm-thunder",
+        "prophetic-vision"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Folk belief."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Baltic mythology survives chiefly as sun-myths, but other sky-phenomena had their readings too. When the Aurora Borealis appears, the Murgi or Iohdi — spirits of the air and souls of the dead — are battling, or the souls of warriors are engaged in combat; it is against the demonic Iohdi that Perkunas rides out to strike.",
+          "note": "Paraphrase of Gray, Baltic Mythology, Mythology of All Races III (1918), Part V; not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "The moon, in the dainas, wears a mantle of stars and, like the sun, is liable to be destroyed — eclipsed — by dragons, serpents, and witches; the celestial court is thus a world at war as well as a world at work, with souls, demons, and gods contending in the lights above the darkening sea.",
+          "note": "Paraphrase of Gray, Baltic Mythology, Mythology of All Races III (1918), Part V; not verbatim."
+        }
+      ],
+      "persons": [
+        "perkunas"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,201 @@
+{
+  "_comment": "Vendidad Fargards III and XXXIV-adjacent, Bundahishn XXXIV (West, SBE 5/4): the earth's joys and griefs, sowing holiness, the reckoning of the years. Paraphrase passages with notes.",
+  "texts": [
+    {
+      "id": "persian-vendidad-joys-earth",
+      "title": {
+        "en": "The Five Joys and the Five Griefs of the Earth",
+        "zh": "大地的五喜與五悲"
+      },
+      "tradition": "persian",
+      "category": "myth",
+      "region": {
+        "en": "Neck of Arezura, gate of hell (symbolic pin)",
+        "zh": "地獄之門阿雷祖拉山頸（象徵性定位）"
+      },
+      "lat": 30.0,
+      "lon": 53.0,
+      "period": "Recorded in the Avesta, c. 6th-4th century BCE (Darmesteter translation 1880)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Vendidad Fargard III (Zend-Avesta Part I), trans. J. Darmesteter, SBE 4 (1880)",
+        "url": "https://archive.org/details/zendavestaparti0"
+      },
+      "license": "Public domain (translation 1880)",
+      "summary": {
+        "en": "Which is the first place where the Earth feels most happy? It is the place whereon one of the faithful steps forward with the holy wood in his hand, the baresma in his hand, the holy meat in his hand, the holy mortar in his hand, fulfilling the law with love. Which is the first place where the Earth feels sorest grief? It is the neck of Arezura, whereon the hosts of fiends rush forth from the burrow of the Drug — the mount at the gate of hell. The second grief is the place wherein most corpses of dogs and of men lie buried; the third, the place whereon stand most of those Dakhmas on which corpses of men are deposited; the fourth, the place wherein are most burrows of the creatures of Angra Mainyu; and the fifth, the place whereon the wife and children of one of the faithful are driven along the way of captivity, the dry, the dusty way, and lift up a voice of wailing.",
+        "zh": "大地何處最喜？——信徒手持聖薪、聖枝、聖肉與聖臼行禮之處！大地何處最悲？——阿雷祖拉山頸：群魔自地獄洞穴湧出之門！其後四悲：犬與人的屍骨密集之地、屍體高疊的寂靜塔、惡靈洞穴遍布之地，以及信徒妻兒被驅上塵土俘虜之路、一路哀哭之處。"
+      },
+      "motifs": ["sacred-place", "ritual-origin", "taboo-transgression"],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Avestan law-text read as sacred geography; Dakhma and Arezura lore. No living community restriction."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "O Maker of the material world, thou Holy One! Which is the first place where the Earth feels most happy? Ahura Mazda answered: it is the place whereon one of the faithful steps forward, O Spitama Zarathustra! with the holy wood in his hand, the baresma in his hand, the holy meat in his hand, the holy mortar in his hand, fulfilling the law with love.",
+          "note": "Paraphrase of Vendidad Fargard III, 1 (Darmesteter, SBE 4, 1880); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "O Maker of the material world, thou Holy One! Which is the first place where the Earth feels sorest grief? Ahura Mazda answered: it is the neck of Arezura, whereon the hosts of fiends rush forth from the burrow of the Drug.",
+          "note": "Paraphrase of Vendidad Fargard III, 7 (Darmesteter, SBE 4, 1880); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "It is the place wherein most corpses of dogs and of men lie buried; it is the place whereon stand most of those Dakhmas on which corpses of men are deposited; it is the place wherein are most burrows of the creatures of Angra Mainyu; and it is the place whereon the wife and children of one of the faithful, O Spitama Zarathustra! are driven along the way of captivity, the dry, the dusty way, and lift up a voice of wailing.",
+          "note": "Paraphrase of Vendidad Fargard III, 8-11 (Darmesteter, SBE 4, 1880); not verbatim."
+        }
+      ],
+      "persons": []
+    },
+    {
+      "id": "persian-sowing-holiness",
+      "title": {
+        "en": "He Who Sows Corn Sows Holiness",
+        "zh": "播種五穀者播撒聖潔"
+      },
+      "tradition": "persian",
+      "category": "myth",
+      "region": {
+        "en": "Barley-fields of the faithful (symbolic pin)",
+        "zh": "信徒的大麥田（象徵性定位）"
+      },
+      "lat": 30.0,
+      "lon": 53.0,
+      "period": "Recorded in the Avesta, c. 6th-4th century BCE (Darmesteter translation 1880)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Vendidad Fargard III (Zend-Avesta Part I), trans. J. Darmesteter, SBE 4 (1880)",
+        "url": "https://archive.org/details/zendavestaparti0"
+      },
+      "license": "Public domain (translation 1880)",
+      "summary": {
+        "en": "Who is the first that rejoices the Earth with greatest joy? It is he who digs out most of those corpses of dogs and men; the second is he who pulls down most of those Dakhmas. But it is he who sows corn, sows holiness: he makes the law of Mazda grow higher and higher, he makes the law of Mazda as fat as he can with a hundred acts of adoration, a thousand oblations, ten thousand sacrifices. When barley is coming forth, the Daevas start up; when the corn is growing rank, then faint the Daevas' hearts; when the corn is being ground, the Daevas groan; when wheat is coming forth, the Daevas are destroyed. In that house they can no longer stay; it is as though red hot iron were turned about in their throats, when there is plenty of corn.",
+        "zh": "誰最能使大地歡喜？——掘淨犬屍人屍者、拆毀寂靜塔者；但真正的至喜乃是「播種五穀者即播撒聖潔」——他使馬茲達之法茁壯高升！大麥抽芽，群魔跳起；禾苗繁茂，魔心衰竭；磨麥之聲起，群魔呻吟；麥浪湧現，群魔滅亡——屋裡麥香彌漫之處，惡魔如遭烙鐵燒喉，再也待不下去！"
+      },
+      "motifs": ["ritual-origin", "culture-hero", "world-renewal"],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Avestan law-text; the husbandry-as-holiness digression. No living community restriction."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "O Maker of the material world, thou Holy One! Who is the first that rejoices the Earth with greatest joy? Ahura Mazda answered: it is he who digs out most of those corpses of dogs and men. The second is he who pulls down most of those Dakhmas on which corpses of men are deposited.",
+          "note": "Paraphrase of Vendidad Fargard III, 12-13 (Darmesteter, SBE 4, 1880); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "He who sows corn, sows holiness: he makes the law of Mazda grow higher and higher; he makes the law of Mazda as fat as he can with a hundred acts of adoration, a thousand oblations, ten thousand sacrifices. When barley is coming forth, the Daevas start up; when the corn is growing rank, then faint the Daevas' hearts.",
+          "note": "Paraphrase of Vendidad Fargard III, 31-32 (Darmesteter, SBE 4, 1880); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "When the corn is being ground, the Daevas groan; when wheat is coming forth, the Daevas are destroyed. In that house they can no longer stay, from that house they are beaten away, wherein wheat is thus coming forth. It is as though red hot iron were turned about in their throats, when there is plenty of corn.",
+          "note": "Paraphrase of Vendidad Fargard III, 32 (Darmesteter, SBE 4, 1880); not verbatim."
+        }
+      ],
+      "persons": []
+    },
+    {
+      "id": "persian-nasu-corpse-alone",
+      "title": {
+        "en": "The Corpse Carried Alone and the Thirty Paces",
+        "zh": "獨自負屍者與三十步之罰"
+      },
+      "tradition": "persian",
+      "category": "myth",
+      "region": {
+        "en": "Barren place of banishment (symbolic pin)",
+        "zh": "荒涼的放逐地（象徵性定位）"
+      },
+      "lat": 30.0,
+      "lon": 53.0,
+      "period": "Recorded in the Avesta, c. 6th-4th century BCE (Darmesteter translation 1880)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Vendidad Fargard III (Zend-Avesta Part I), trans. J. Darmesteter, SBE 4 (1880)",
+        "url": "https://archive.org/details/zendavestaparti0"
+      },
+      "license": "Public domain (translation 1880)",
+      "summary": {
+        "en": "Let no man alone by himself carry a corpse: if a man alone by himself carry a corpse, the Nasu rushes upon him, to defile him, from the nose of the dead, from the eye, from the tongue, from the jaws, from the sexual organ, from the hinder parts; this Drug, this Nasu, falls upon him, stains him even to the end of the nails, and he is unclean, thenceforth, for ever and ever. What shall be the place of that man who has carried a corpse alone? Thirty paces from the fire, thirty paces from the water, thirty paces from the consecrated bundles of baresma, three paces from the faithful: there shall they erect an enclosure, and therein shall they establish him with the coarsest food and with the most worn-out clothes.",
+        "zh": "任何人不得獨自負屍！若獨負屍體，「屍毒」惡靈便從死者之鼻、眼、舌、口、私處與後竅撲來，沾染他直至指甲之端——他從此永世不潔！其罰所為：離聖火三十步、離聖水三十步、離聖枝束三十步、離信徒三步——眾人在彼築一圍屋，以最粗劣的食物與最破舊的衣衫供其度日。"
+      },
+      "motifs": ["taboo-transgression", "ritual-origin", "descent-underworld"],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Avestan purity law read as mythic boundary-drawing; corpse-pollution lore. No living community restriction."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Let no man alone by himself carry a corpse. If a man alone by himself carry a corpse, the Nasu rushes upon him, to defile him, from the nose of the dead, from the eye, from the tongue, from the jaws, from the sexual organ, from the hinder parts. This Drug, this Nasu, falls upon him, stains him even to the end of the nails, and he is unclean, thenceforth, for ever and ever.",
+          "note": "Paraphrase of Vendidad Fargard III, 14 (Darmesteter, SBE 4, 1880); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "O Maker of the material world, thou Holy One! What shall be the place of that man who has carried a corpse alone? Ahura Mazda answered: thirty paces from the fire, thirty paces from the water, thirty paces from the consecrated bundles of baresma, three paces from the faithful.",
+          "note": "Paraphrase of Vendidad Fargard III, 15-17 (Darmesteter, SBE 4, 1880); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "There, on that place, shall the worshippers of Mazda erect an enclosure, and therein shall they establish him with food, therein shall they establish him with clothes, with the coarsest food and with the most worn-out clothes. That food he shall live on, those clothes he shall wear, and thus shall they let him live, until he has grown to the age of a Hana, or of a Zaurura.",
+          "note": "Paraphrase of Vendidad Fargard III, 18-19 (Darmesteter, SBE 4, 1880); not verbatim."
+        }
+      ],
+      "persons": []
+    },
+    {
+      "id": "persian-reckoning-years",
+      "title": {
+        "en": "The Twelve Thousand Years and the Zodiac of Kings",
+        "zh": "一萬二千年與黃道諸王朝"
+      },
+      "tradition": "persian",
+      "category": "myth",
+      "region": {
+        "en": "Wheel of the constellations (symbolic pin)",
+        "zh": "星座之輪（象徵性定位）"
+      },
+      "lat": 30.0,
+      "lon": 53.0,
+      "period": "Recorded 9th century CE (Pahlavi; West translation 1880)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Bundahishn ch. XXXIV (Pahlavi), trans. E. W. West, SBE 5 (1880)",
+        "url": "https://archive.org/details/pahlavitextspart00westuoft"
+      },
+      "license": "Public domain (translation 1880)",
+      "summary": {
+        "en": "Time was for twelve thousand years; three thousand years was the duration of the spiritual state, where the creatures were unthinking, unmoving, and intangible; and three thousand years was the duration of Gayomart, with the ox, in the world. As this was six thousand years the series of millennium reigns of Cancer, Leo, and Virgo had elapsed, and when the millennium reign came to Libra the adversary rushed in, and Gayomart lived thirty years in tribulation. After the millennium reign came to Scorpio, Dahak ruled a thousand years; after it came to Sagittarius, Fretun reigned five hundred years; and so the reigns run from constellation to constellation down to Ardashir son of Papak and the Sasanians, four hundred and sixty years, and then it went to the Arabs.",
+        "zh": "宇宙之壽一萬二千年：前三千年為「無形無思」的靈界之世；其後三千年伽堯馬特與原牛居於世界。黃道三千年的王朝依次輪轉——巨蟹、獅子、室女座之後，輪至天秤時惡靈破界而入，伽堯馬特苦難三十年！天蠍座千年是扎哈克的暴政；人馬座五百屬法里東……歷數至阿爾達希爾與薩珊王朝四百六十年，而後天下歸於阿拉伯人。"
+      },
+      "motifs": ["oracle-divination", "prophetic-vision", "quest-immortality"],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Pahlavi cosmological chronology; the zodiac-millennium scheme. No living community restriction."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Time was for twelve thousand years; and it says in revelation, that three thousand years was the duration of the spiritual state, where the creatures were unthinking, unmoving, and intangible; and three thousand years was the duration of Gayomart, with the ox, in the world.",
+          "note": "Paraphrase of Bundahishn ch. XXXIV, 1 (West, SBE 5, 1880); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "As this was six thousand years the series of millennium reigns of Cancer, Leo, and Virgo had elapsed, because it was six thousand years when the millennium reign came to Libra, the adversary rushed in, and Gayomart lived thirty years in tribulation. After the millennium reign came to Scorpio, Dahak ruled a thousand years; after the millennium reign came to Sagittarius, Fretun reigned five hundred years.",
+          "note": "Paraphrase of Bundahishn ch. XXXIV, 2-6 (West, SBE 5, 1880); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "Ardashir son of Papak and the number of the Sasanians four hundred and sixty years, and then it went to the Arabs. The Adamians bore the title in an uninterrupted sovereignty two hundred and eighty-four years, and Darai son of Darai fourteen years; Alexander the Ruman fourteen years.",
+          "note": "Paraphrase of Bundahishn ch. XXXIV, 8-9 (West, SBE 5, 1880); not verbatim."
+        }
+      ],
+      "persons": []
+    }
+  ]
+}

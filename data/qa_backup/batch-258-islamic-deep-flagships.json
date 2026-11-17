@@ -1,0 +1,503 @@
+{
+ "texts": [
+  {
+   "id": "islamic-creation-seven-days",
+   "title": {
+    "en": "The Six Days and the Seven Heavens (Qur'an)",
+    "zh": "六日與七重天（古蘭經）"
+   },
+   "tradition": "islamic",
+   "category": "myth-religion",
+   "region": {
+    "en": "Mecca / Medina recitation contexts (symbolic pin)",
+    "zh": "麥加／麥地那誦經語境（象徵性定位）"
+   },
+   "lat": 21.42,
+   "lon": 39.83,
+   "period": "Qur'an revealed c. 610-632 CE; canonical rasm fixed under Uthman c. 650 CE; tafsir tradition from al-Tabari (d. 923 CE)",
+   "source": {
+    "archive": "Project Gutenberg",
+    "work": "Qur'an 41:9-12; 7:54; 50:38; 25:59 (Arabic text; English: J. M. Rodwell, The Koran, 1861)",
+    "url": "https://www.gutenberg.org/ebooks/2800"
+   },
+   "license": "Arabic text public domain; Rodwell 1861 translation public domain",
+   "summary": {
+    "en": "The Lord who created the heavens and the earth in six days — 'and His throne was upon the water' — made the heavens as seven stories and adorned the lowest with lamps. The earth was spread like a carpet, the mountains cast down as weights, and every goodly thing appointed in pairs. He rose over the throne: 'Say: ask Him who created the heavens and the earth — is He not better than that which they worship?'",
+    "zh": "主於六日中造天地——『其寶座原在水上』——造七層天，以燈飾最近之天。地如毯鋪展，山為重錘鎮壓，美善之物皆成雙配對。他升於寶座之上：『你說：造天地者——豈非勝過你們所拜者？』"
+   },
+   "motifs": [
+    "creation-chaos",
+    "clay-humans",
+    "theophany"
+   ],
+   "sensitivity": {
+    "restricted": false,
+    "note": "Sacred text of a living tradition; translations are interpretations, and only public-domain translations are quoted with the Arabic as primary. 'Six days' in the Qur'an (41:9-12) is compared by exegetes with the Biblical week; the Qur'an does not say God rested."
+   },
+   "narrative": {
+    "en": "The Qur'an speaks of creation not as a story told once but as a set of sayings scattered through the revelation, each answering a different need. To the Meccans who worshipped many gods it says: ask yourselves who made the heavens and the earth in six days — 'Ask them: is it they who created the heavens and the earth, or are they stronger in creation?' (52:35-36). The earliest account runs: 'Your Lord is God, who created the heavens and the earth in six days, and then mounted the throne; He makes the night enfold the day, pursuing it ceaselessly; the sun and the moon and the stars are made subject to His command' (7:54). A second passage gives the order: 'Say: do you disbelieve in Him who created the earth in two days, and set up equals to Him? He made therein firm mountains and blessed it, and measured therein its sustenance in four days, alike for those who ask. Then He mounted to the heaven, while it was smoke, and said to it and to the earth: come ye, willingly or unwillingly. They said: we come willingly. And He completed them seven heavens in two days, and revealed in every heaven its command; and We adorned the lowest heaven with lamps, and made it a guard' (41:9-12).\n\nThe keynote of the account is measure: the earth is a carpet spread out, the mountains are pegs driven in to keep it from shifting under the inhabitants; the heaven is raised without pillars that you can see, and the water cycle is the mercy by which the dead land is revived. The spirit is breathed into man of God's own breath; the angels are made of light, and jinn of smokeless fire; and the first man is taught the names of all things. Creation is an act of command — 'Be' — not of labour: when the unbelievers taunt God with weariness after creating the heavens and the earth, the answer is that a day with the Lord is as a thousand years of your reckoning, and that weariness does not touch Him; the Qur'an says expressly that He created in six days and 'did not feel wearied' (50:38).\n\nIn the exegetical tradition the days are variously reckoned; al-Tabari reports that they are days of the unseen order, not the days of this earth; al-Biruni, the eleventh-century astronomer, discusses the question in his Chronology and notes that the six days of the Qur'an are not six solar days but six periods, so that the age of the world is a matter of the divine command rather than of the sun's circuit. The throne upon the water is a proof-text for the theologians of the divine superiority: the water existed first, beneath the throne, and the heavens and the earth were brought forth from it in the appointed measure. The seven heavens are the storeys of a tower of command, each with its own law; the lowest is adorned with lamps — the stars — and guarded against the satans who seek to listen. In the popular qisas the whole of creation is gathered into a single week of wonders, the week ending with the creation of Adam on Friday, the day of the great assembly; the theologians hold instead that the days are six periods and that their order is a mystery of the command.\n\nCulturally, the creation sayings of the Qur'an function as the ground of worship: the daily prayers turn to the East because the sun and the moon are made subject to command; the fast of Ramadan is timed by the moon because the moon is one of the measured things; and the sabbath-like rest is absent precisely because God does not rest — the world runs on His command without weariness, and the Muslim's week has no day of divine repose.",
+    "zh": "古蘭經以散見各章的言述講創造：『你們的主是造天地於六日的主，然後升於寶座；夜追逐晝，絡繹不絕；日月星辰皆受其命』。地如毯鋪展，山為釘鎮，天無柱而升；『主造之而毫無倦意』。七重天各有其律；最近之天飾以燈。『其寶座原在水上』。經注家解六日為主之時期，非地上之日。"
+   },
+   "functions": [
+    "Grounds the five daily prayers in the cosmic order (sun and moon subject to command)",
+    "Provides the doctrine of divine measure (qadar): creation in appointed proportions, not chance",
+    "Serves as the principal argument against idolatry: none of the gods can create",
+    "Frames the Islamic week: no day of divine rest, since God does not weary"
+   ],
+   "variants": [
+    {
+     "name": "Tabari's tafsir on 41:9-12",
+     "text_tradition": "Sunni tafsir (al-Tabari, d. 923)",
+     "summary": "The days are 'days of the unseen order'; the throne on the water precedes the earth; the heavens are completed in two days after four.",
+     "cross_ref": "islamic-adam-creation"
+    },
+    {
+     "name": "Al-Biruni, Chronology of Ancient Nations (Sachau 1879)",
+     "text_tradition": "Islamic astronomical exegesis (11th century)",
+     "summary": "The six days are six periods, not solar days; Biruni reconciles the Qur'anic week with the astrological week of the Persians and Greeks.",
+     "cross_ref": "none"
+    },
+    {
+     "name": "Popular qisas week",
+     "text_tradition": "Qisas al-Anbiya (al-Kisa'i, Arabic)",
+     "summary": "Creation retold as a week of wonders with Adam made on Friday, the day of assembly.",
+     "cross_ref": "islamic-adam-creation"
+    }
+   ],
+   "language": "Arabic",
+   "canonical_translation": "J. M. Rodwell, The Koran (1861); E. H. Palmer, The Qur'an (Sacred Books of the East, 1880)",
+   "primary_sources": [
+    {
+     "work": "Qur'an",
+     "citation": "Surahs 41:9-12, 7:54, 50:38, 25:59, 52:35-36 (Arabic rasm, c. 650 CE; English: Rodwell 1861)",
+     "language": "Arabic"
+    },
+    {
+     "work": "al-Biruni, Al-Athar al-Baqiya (Chronology of Ancient Nations)",
+     "citation": "ed. & trans. C. E. Sachau, London 1879, sections on the creation days",
+     "language": "Arabic"
+    }
+   ],
+   "secondary_sources": [
+    {
+     "work": "al-Tabari, Jami' al-Bayan (Tafsir)",
+     "citation": "al-Tabari (d. 923), commentary on 41:9-12 and 7:54; Arabic, Bulaq ed."
+    }
+   ],
+   "source_urls": [
+    {
+     "url": "https://www.gutenberg.org/ebooks/2800",
+     "description": "Rodwell's Koran (1861), public-domain English translation of the Arabic Qur'an",
+     "accessed": "2026-11-15"
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Qisas_al-Anbiya",
+     "description": "Reference article on the Qisas al-Anbiya genre used for the popular variant",
+     "accessed": "2026-11-15"
+    }
+   ],
+   "sensitivity_flag": "living_tradition_low",
+   "sensitivity_guidance": "The Qur'an is the literal word of God within Islam; all English renderings are interpretations. Records present the text in public-domain translation with the Arabic as primary and avoid doctrinal commentary.",
+   "provenance": {
+    "record_status": "complete",
+    "compiled": "2026-11-15",
+    "compiled_by": "opencode myth-collection session",
+    "review_status": "self-reviewed"
+   },
+   "persons": [],
+   "passages": [
+    {
+     "id": "1",
+     "text": "Your Lord is God, who created the heavens and the earth in six days, and then mounted the throne; He makes the night enfold the day, pursuing it ceaselessly; and the sun and the moon and the stars are made subject to His command. ... It is He who made the sun a shining light and the moon a reflected light.",
+     "note": "Paraphrase of Qur'an 7:54; 10:5 (Rodwell 1861); not verbatim; ellipsis marks omitted clause."
+    },
+    {
+     "id": "2",
+     "text": "Say: do you disbelieve in Him who created the earth in two days, and set up equals to Him? He made therein firm mountains and blessed it, and measured therein its sustenance in four days, alike for those who ask. Then He mounted to the heaven while it was smoke, and said to it and to the earth: Come, willingly or unwillingly! They said: We come willingly. And He made seven heavens in two days, and revealed in every heaven its command; and We adorned the lowest heaven with lamps for watchfulness. Such is the ordaining of the Mighty, the Knowing.",
+     "note": "Paraphrase of Qur'an 41:9-12 (Rodwell 1861); not verbatim."
+    },
+    {
+     "id": "3",
+     "text": "And He created the heavens and the earth in six days — and His throne was upon the water — that He might try which of you is the best in deeds; ... We created the heavens and the earth and what is between them in six days, and no weariness touched Us; and the angels celebrate the praise of their Lord.",
+     "note": "Paraphrase of Qur'an 11:7; 50:38 (Rodwell 1861); not verbatim."
+    }
+   ]
+  },
+  {
+   "id": "islamic-nuh-flood",
+   "title": {
+    "en": "Nuh and the Flood: The Ark, the Son, and the Wave",
+    "zh": "努哈與洪水：方舟、其子與巨浪"
+   },
+   "tradition": "islamic",
+   "category": "myth-religion",
+   "region": {
+    "en": "Mesopotamian plain and Mount Judi (traditional landing; literal pin)",
+    "zh": "美索不達米亞平原與朱迪山（傳統停靠地；實際定位）"
+   },
+   "lat": 37.38,
+   "lon": 42.24,
+   "period": "Qur'an revealed c. 610-632 CE; Surahs Hud 11:25-49, Nuh 71, al-Qamar 54:9-17; Rodwell 1861",
+   "source": {
+    "archive": "Project Gutenberg",
+    "work": "The Koran (Al-Qur'an), trans. J. M. Rodwell, 1861, Suras 11:25-49 and 71",
+    "url": "https://www.gutenberg.org/ebooks/2800"
+   },
+   "license": "Arabic text public domain; Rodwell 1861 translation public domain",
+   "summary": {
+    "en": "Noah is sent to his people who serve five idols; he builds the Ark while they mock, and boards it with the believers and a pair of every species. His own son refuses the call — 'I will take refuge in a mountain that will save me from the water' — and the wave passes between father and son. The fountains of the great deep are burst, the earth's valleys stream; the Ark is said to have rested on Judi, and the last word: 'Peace on Nuh among all creatures.'",
+    "zh": "努哈被遣至拜五偶像之民；他造方舟而受嘲，攜信士及各類成雙之獸登舟。其親子拒召——『我將避於能救我的山』——巨浪從父子之間經過。大淵的泉源盡裂，山谷奔流；相傳方舟停於朱迪山。末語：『願平安歸於努哈，在眾世界之間。』"
+   },
+   "motifs": [
+    "flood",
+    "world-renewal",
+    "taboo-transgression"
+   ],
+   "sensitivity": {
+    "restricted": false,
+    "note": "Sacred text of a living tradition; the flood of Nuh is a cardinal narrative shared with the Biblical deluge; presented in public-domain translation."
+   },
+   "narrative": {
+    "en": "Noah is the first of the great warners of the Qur'an. He is sent to his people, who worship the idols Wadd, Suwa, Yaghuth, Ya'uq and Nasr; he calls them night and day, and they put their fingers in their ears. He says: 'I am to you a plain warner: serve God and fear Him and obey me; He will forgive you your sins and respite you to an appointed term; but the term of God when it comes is not deferred — did you but know it.' The chiefs answer: 'You are no more than a man like us; you wish to turn us from what our fathers worshipped; bring the punishment you promise if you speak truth.'\n\nThen comes the command of God: 'Build the Ark under Our eyes and Our revelation, and do not speak to Me for the wrongdoers; they shall be drowned.' Noah builds in the open, and the people laugh as they pass: 'What do you build?' — 'An ark; you will know.' The waters come. 'Load into it of every species two by two, and your family, except those against whom the word has gone before; and do not speak to Me for those who have done wrong.' The fountains of the great deep are burst open and the windows of heaven opened, and the earth's valleys stream together. Noah calls to his son, who had kept apart: 'Embark with us, my son, and be not with the unbelievers.' The son answers: 'I will take refuge on a mountain that will save me from the water.' 'There is no safety this day from the command of God, except for him on whom He has mercy' — and the wave passes between the two, and the son is among the drowned.\n\nThe Ark runs with them between waves like mountains. Noah calls to his son who is riding apart: 'Embark with us.' 'I will take refuge in a mountain.' 'There is no refuge today from the command of God except for him on whom He has mercy.' And the wave comes between them. When the command comes and the oven — the tannur — boils over, the sign of the end, the earth's valleys stream together: 'We opened the gates of heaven with water pouring down, and made the earth to gush forth with fountains, and the waters met, as was the matter decreed. And We bore him on a vessel of planks and nails, which ran under Our eyes — a reward for him who had been disbelieved. And We left it a sign: is there then any that will be mindful?'\n\nThe flood rises and covers all, and the Ark is carried until it rests, the tradition says, on Judi — the mountain of the north Mesopotamian border. Noah calls to his Lord: 'My Lord, my son is of my family, and Thy promise is true.' The answer is the severest lesson of the story: 'He is not of thy family; he hath wrought a work that is not right. Ask Me not for what thou knowest not; I admonish thee lest thou become one of the ignorant.' 'My Lord, I take refuge with Thee, lest I ask Thee that whereof I have no knowledge.' Then comes the end: 'Depart in peace, Nuh, and blessings on thee and on the nations that spring from those with thee; and blessings on some of them, but the rest shall be suffered to go astray.' The story closes with the formula of peace: 'Peace on Nuh among all creatures' — and with the promise that this is a warning to the world: the flood is both judgement and renewal, the washing of the earth for a new people.\n\nCulturally the story stands behind the Qur'anic doctrine of the messengers: every prophet tells his people the same three things — worship God alone, fear the Day, follow the guide — and every people answers with the same refusal. The flood of Nuh is the archetype of the destroyed generations (Aad, Thamud, Lut's people, the people of Shu'ayb), and its remembrance is built into the calendar of Muslim practice: the fast of Ashura, the tenth of Muharram, is kept in the tradition in memory of the day the Ark came to rest.",
+    "zh": "努哈是古蘭經第一位大警誡者。其民拜瓦德、素瓦、葉巫斯、葉歐克與奈斯爾；他日夜呼喚，他們以指塞耳。主諭：『造舟於我鑒與我啟示之下；勿為不義者代求，他們必被淹死。』眾人譏笑；舟成，『各類成雙而載，你的家眷——惟此前已被判決者除外』。大淵泉源裂，天門開，山谷奔流。其子拒登：『我將避於一山』——『今日主之命令，非蒙慈者無人可避』——巨浪經於父子之間。舟載於波峰如山之間，停於朱迪山。努哈求其子；主諭：『他非你的家眷；勿問你不知道的事。』結語：『平安歸於努哈，在眾世界之間。』阿舒拉日之齋，相傳紀念方舟靠岸之日。"
+   },
+   "functions": [
+    "Archetype of the destroyed generations: grounds the Qur'anic pattern of messenger, refusal, judgement",
+    "Establishes the doctrine that kinship is not salvation: 'he is not of thy family'",
+    "Remembrance in the fast of Ashura, kept in memory of the Ark's resting",
+    "Underlies the ethic of da'wa (calling) under mockery: build, and wait"
+   ],
+   "variants": [
+    {
+     "name": "The warning sura (Surah Nuh, 71)",
+     "text_tradition": "Qur'an, Meccan sura",
+     "summary": "Tells the warning in the first person: night and day calling, fingers in ears, the five idols named.",
+     "cross_ref": "quran-nuh-warns"
+    },
+    {
+     "name": "Qisas expansion: the Ark's beasts and Satan's stowaway",
+     "text_tradition": "Qisas al-Anbiya (al-Kisa'i, Arabic)",
+     "summary": "Adds the donkey with Satan hidden in it, the raven and the dove, the resting on Judi.",
+     "cross_ref": "qisas-noah-satan-donkey"
+    },
+    {
+     "name": "Parallel: the Mesopotamian flood (Utanapishtim)",
+     "text_tradition": "Gilgamesh XI (cuneiform)",
+     "summary": "The flood-hero warned to build a boat, loaded with beasts, landed on a mountain; shared Mesopotamian motif-complex.",
+     "cross_ref": "none"
+    }
+   ],
+   "language": "Arabic",
+   "canonical_translation": "J. M. Rodwell, The Koran (1861); E. H. Palmer, The Qur'an (1880)",
+   "primary_sources": [
+    {
+     "work": "Qur'an",
+     "citation": "Surahs 11:25-49, 71, 54:9-17 (Arabic rasm, c. 650 CE; English: Rodwell 1861)",
+     "language": "Arabic"
+    },
+    {
+     "work": "al-Tabari, Tarikh al-Rusul wa'l-Muluk",
+     "citation": "al-Tabari (d. 923), history of Nuh; Arabic",
+     "language": "Arabic"
+    }
+   ],
+   "secondary_sources": [
+    {
+     "work": "al-Tabari, Jami' al-Bayan (Tafsir)",
+     "citation": "al-Tabari (d. 923), commentary on Surah Hud; Arabic, Bulaq ed."
+    }
+   ],
+   "source_urls": [
+    {
+     "url": "https://www.gutenberg.org/ebooks/2800",
+     "description": "Rodwell's Koran (1861), public-domain English translation",
+     "accessed": "2026-11-15"
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Qisas_al-Anbiya",
+     "description": "Reference article on the Qisas genre behind the popular expansions",
+     "accessed": "2026-11-15"
+    }
+   ],
+   "sensitivity_flag": "living_tradition_low",
+   "sensitivity_guidance": "Sacred narrative of a living religion; presented in public-domain translation with the Arabic as primary and no doctrinal commentary.",
+   "provenance": {
+    "record_status": "complete",
+    "compiled": "2026-11-15",
+    "compiled_by": "opencode myth-collection session",
+    "review_status": "self-reviewed"
+   },
+   "persons": [
+    "nuh"
+   ],
+   "passages": [
+    {
+     "id": "1",
+     "text": "Build the Ark under Our eyes and Our revelation, and do not speak to Me for the wrongdoers; they shall be drowned. ... Load into it of every species two by two, and your family, except those against whom the word has gone before; and do not speak to Me for those who have done wrong.",
+     "note": "Paraphrase of Qur'an 11:37, 40 (Rodwell 1861); not verbatim; ellipsis marks omitted verse."
+    },
+    {
+     "id": "2",
+     "text": "Noah called to his son, who had kept apart: Embark with us, and be not with the unbelievers! He said: I will betake me to a mountain that shall secure me from the water. He said: There is no security today from the decree of God, except for him on whom He shall have mercy; and a wave passed between them, and he was among the drowned. And it was said: O Earth, swallow up thy water; and, O heaven, withhold thy rain. And the waters abated, and the decree was fulfilled, and the Ark rested upon Al-Judi.",
+     "note": "Paraphrase of Qur'an 11:42-44 (Rodwell 1861); not verbatim."
+    },
+    {
+     "id": "3",
+     "text": "It was said: O Noah, disembark in peace from Us, and blessings on you and on the peoples with you; but there shall be people whom we will suffer to enjoy a brief respite. This is a history of the cities which We narrate to you; some are standing, and others have been cut off. Noah cried: My Lord, leave not one family of the unbelievers on the earth! For if Thou leave them, they will seduce Thy servants and will beget none but ungrateful sinners.",
+     "note": "Paraphrase of Qur'an 11:48-49; 71:26-27 (Rodwell 1861); not verbatim."
+    }
+   ]
+  },
+  {
+   "id": "islamic-miraj-night-journey",
+   "title": {
+    "en": "The Night Journey and Ascension (Isra and Mi'raj)",
+    "zh": "夜行與登霄（伊斯拉與米爾拉吉）"
+   },
+   "tradition": "islamic",
+   "category": "myth-religion",
+   "region": {
+    "en": "Mecca to Jerusalem to the seven heavens (route pin at Jerusalem)",
+    "zh": "自麥加至耶路撒冷至七重天（路線定位於耶路撒冷）"
+   },
+   "lat": 31.78,
+   "lon": 35.22,
+   "period": "Event placed c. 619-621 CE; recorded 9th century CE in Sahih al-Bukhari (Kitab as-Salat, no. 349); hadith narrative tradition",
+   "source": {
+    "archive": "Sunnah.com (Arabic original)",
+    "work": "Sahih al-Bukhari, Kitab as-Salat, no. 349 — the Hadith of the Night Journey, narrated by Anas ibn Malik; Qur'an 17:1",
+    "url": "https://sunnah.com/bukhari:349"
+   },
+   "license": "Arabic original public domain (9th century CE); original English paraphrase",
+   "summary": {
+    "en": "Carried by Buraq from the Kaaba to 'the farthest mosque' of Jerusalem, Muhammad leads the prophets in prayer; then from the Rock he is taken up through the heavens: he meets Adam, Yahya and Isa, Yusuf, Idris, Harun, Musa and Ibrahim; sees Paradise and Hell; receives the command of fifty prayers, negotiated down to five. In the morning he tells his story in Mecca; Abu Bakr believes him at once, and the mosque of Jerusalem and the five prayers are the legacy of the night.",
+    "zh": "乘布拉克由天房至耶路撒冷『遠寺』；先知率眾先知禮拜；後自磐石登七重天：遇阿丹、葉海雅與爾撒、優素福、易德里斯、哈倫、穆薩與易卜拉欣；見樂園與火獄；受五十拜之命，經折衷定為五拜。晨返麥加述其事；阿布·伯克爾即刻相信；耶路撒冷之寺與五番拜乃那一夜之遺產。"
+   },
+   "motifs": [
+    "ascension",
+    "prophetic-vision",
+    "theophany"
+   ],
+   "sensitivity": {
+    "restricted": false,
+    "note": "Canonical hadith of a living tradition; the Night Journey is a cardinal miracle. Presented as a paraphrase of the Arabic original; no doctrinal commentary."
+   },
+   "narrative": {
+    "en": "In the year of sorrows, after the deaths of Khadija and Abu Talib, the Prophet was taken by night from the Sacred Mosque of Mecca to 'the farthest mosque' — al-Aqsa, in Jerusalem — on a white steed, Buraq, 'long as a mule and higher than a donkey, whose stride reached as far as the eye could see.' At Jerusalem he tethered Buraq at the Rock, and led the prophets of God in prayer: the meeting of the envoys of the old covenant with the Seal.\n\nThen he was taken up. From the first heaven, guarded by an angel, he met Adam; in the second, Yahya and Isa, cousins and relatives of the Word; in the third, Yusuf, given half of beauty; in the fourth, Idris; in the fifth, Harun with his white beard; in the sixth, Musa, weeping — because, he said, a young man will enter Paradise after me, and more of his people than of mine; in the seventh, Ibrahim, sitting with his back against the Bait al-Ma'mur, the House of the Frequented, where seventy thousand angels pray every day and do not return. And above the seventh heaven he saw Sidrat al-Muntaha, the Lote Tree of the Utmost Boundary, whose fruits are like great jars and its leaves like elephants' ears; and beyond it the divine majesty: 'And I was given three things: the five prayers, the last verses of Surah al-Baqarah, and the pardon of my people who die not joining aught with God.'\n\nThe command that came down was fifty prayers a day. On the way back Musa stopped him: 'Your people will not bear it; go back and ask for less.' Between the Throne and the Prophet the toll went down to five, and Musa still said, 'Go back'; but the Prophet said: 'I am ashamed before God; I will not go back again.' Then a voice said: 'Five prayers, and they are as fifty: the word is not changed before Me.'\n\nIn the morning he told the story in Mecca, and the Quraysh mocked: a caravan returns from Syria in ten days, and Muhammad says he went to Jerusalem by night and back before dawn. Abu Bakr answered at once: 'If he says so, it is true' — and was called al-Siddiq, the Verifier. The tradition adds the answer of the Prophet: as he rode, caravans passed him; he told the Quraysh where they were, and the news, checked, confirmed him. The legacy of the night is twofold: the five daily prayers, whose number was settled in the ascent, and the sanctity of Jerusalem, whose farthest mosque is the qibla of the first years and the third sanctuary of Islam.\n\nThe Isra and Mi'raj stand in the cross-tradition company of the seer's ascensions — Ezekiel's chariot-throne, Arda Viraf's tour of heaven and hell, Er's vision at the end of Plato's Republic — but with its own centre: the Prophet does not see his own soul's fate; he intercedes, and the number of prayers is the outcome. In Sufism the Mi'raj becomes the model of the mystic's own ascent; in popular devotion the 27th of Rajab is kept as the Night of the Ascension; and in the Qur'an the night is covered by a single verse — 'Glory to Him who carried His servant by night from the Sacred Mosque to the Farthest Mosque, whose precincts We have blessed, to show him of Our signs' (17:1) — with the ascent alluded to in the Sura of the Star: 'He saw him in another descent, at the Lote-Tree of the Boundary, near which is the Garden of Refuge.'",
+    "zh": "憂傷之年，先知夜間乘白騸布拉克——『其奔馳及目力所及』——自麥加禁寺至耶路撒冷遠寺。繫驂於磐石，率眾先知禮拜。隨後登霄：第一天遇阿丹；第二天遇葉海雅與爾撒；第三天遇優素福；第四天遇易德里斯；第五天遇哈倫；第六天遇穆薩——因見其後進樂園者更多而泣；第七天遇易卜拉欣，倚於日日有七萬天使禮拜的『常訪之殿』。其上見極境之酸棗樹，果如大甕、葉如象耳；受賜三事：五番拜、黃牛章末數節、及不以物配主而亡者的赦宥。降命五十拜；穆薩屢勸求減，至五拜而先知言：『我於主前羞愧，不復往矣。』有聲曰：『五拜同於五十拜，主前之言不變。』晨返麥加述之，古萊氏譏之；阿布·伯克爾即信，被稱為『誠信者』。那一夜的遺產：五番拜與耶路撒冷的聖所地位。"
+   },
+   "functions": [
+    "Establishes the five daily prayers, whose number was fixed during the ascent",
+    "Consecrates Jerusalem as the third sanctuary of Islam and first qibla",
+    "Model of the Sufi ascent: the mystic's journey follows the Prophet's Mi'raj",
+    "Kept in popular devotion as Laylat al-Mi'raj, the 27th of Rajab"
+   ],
+   "variants": [
+    {
+     "name": "The Qur'anic verse alone (17:1; 53:13-18)",
+     "text_tradition": "Qur'an, Meccan suras",
+     "summary": "The night journey and the Lote-Tree alluded to without detail; the hadith fills the narrative.",
+     "cross_ref": "none"
+    },
+    {
+     "name": "Sahih Muslim version of the Isra",
+     "text_tradition": "Sahih Muslim (Kitab al-Iman)",
+     "summary": "Anas's longer narration with the caravan tests and the meeting of the caravans.",
+     "cross_ref": "none"
+    },
+    {
+     "name": "Parallel: Arda Viraf's heavenly journey",
+     "text_tradition": "Zoroastrian Book of Arda Viraf (Pahlavi)",
+     "summary": "The righteous seer tours heaven and hell and reports back; shared ascension cluster.",
+     "cross_ref": "none"
+    }
+   ],
+   "language": "Arabic",
+   "canonical_translation": "Arabic original; paraphrase; cf. M. Muhsin Khan's modern translation (used as reference only)",
+   "primary_sources": [
+    {
+     "work": "Sahih al-Bukhari",
+     "citation": "Kitab as-Salat, no. 349 (Anas ibn Malik); Arabic, c. 870 CE",
+     "language": "Arabic"
+    },
+    {
+     "work": "Qur'an",
+     "citation": "17:1; 53:13-18 (Arabic rasm)",
+     "language": "Arabic"
+    }
+   ],
+   "secondary_sources": [
+    {
+     "work": "Ibn Ishaq/Ibn Hisham, Sira",
+     "citation": "the Isra/Mi'raj sections; Arabic, 9th century"
+    },
+    {
+     "work": "W. Muir, The Life of Mahomet",
+     "citation": "Muir 1877, chapter on the Night Journey",
+     "language": "English"
+    }
+   ],
+   "source_urls": [
+    {
+     "url": "https://sunnah.com/bukhari:349",
+     "description": "Hadith of the Night Journey, Sahih al-Bukhari no. 349 (Arabic with translation)",
+     "accessed": "2026-11-15"
+    },
+    {
+     "url": "https://www.gutenberg.org/ebooks/2800",
+     "description": "Rodwell's Koran (1861), for Qur'an 17:1 and 53",
+     "accessed": "2026-11-15"
+    }
+   ],
+   "sensitivity_flag": "living_tradition_low",
+   "sensitivity_guidance": "Canonical hadith of a living religion; presented as a paraphrase of the Arabic original with no doctrinal commentary.",
+   "provenance": {
+    "record_status": "complete",
+    "compiled": "2026-11-15",
+    "compiled_by": "opencode myth-collection session",
+    "review_status": "self-reviewed"
+   },
+   "persons": [
+    "muhammad",
+    "abu-bakr",
+    "musa",
+    "ibrahim"
+   ],
+   "passages": [
+    {
+     "id": "1",
+     "text": "Glory be to Him who carried His servant by night from the Sacred Mosque to the Farthest Mosque, whose precincts We have blessed, that We might show him of Our signs; He it is who hears and sees. The Prophet is mounted on Buraq, the steed with the face of a woman and the body of a horse, guided by Gabriel; he leads the prophets in prayer at Jerusalem — Abraham, Moses, Jesus — then is raised through the seven heavens, where he meets the fathers of the faith at each gate, until above the Lote-tree of the boundary he draws near 'as two bow-shots or nearer', and the prayer is enjoined upon the believers, fifty bowed down to five by the intercession of Moses.",
+     "note": "Paraphrase of Qur'an 17:1 (Rodwell 1861); not verbatim. / Paraphrase of the Isra and Mi'raj hadith tradition; not verbatim; composite of Bukhari/Muslim narratives as summarized."
+    },
+    {
+     "id": "2",
+     "text": "Muhammad said: While I was at the House in a state between sleep and wakefulness, an angel came to me and split open my breast, and washed it with the water of Zamzam in a basin of gold; then a white animal was brought, between a mule and an ass, and I was set upon it, and Gabriel went with me to the Farthest Mosque, and thence upward; and I saw paradise and the fire.",
+     "note": "Paraphrase of the Mi'raj hadith tradition; not verbatim; paraphrased from the classical accounts."
+    }
+   ]
+  },
+  {
+   "id": "islamic-last-judgment",
+   "title": {
+    "en": "The Day of Judgment: The Trumpet, the Scales, the Bridge",
+    "zh": "審判日：號角、天秤與橋樑"
+   },
+   "tradition": "islamic",
+   "category": "myth-religion",
+   "region": {
+    "en": "Plain of Resurrection (symbolic pin at Medina)",
+    "zh": "復活的平原（象徵性定位於麥地那）"
+   },
+   "lat": 24.47,
+   "lon": 39.61,
+   "period": "Qur'an revealed c. 610-632 CE (Surahs 75, 81, 82, 99); hadith tradition compiled 9th century CE",
+   "source": {
+    "archive": "Project Gutenberg / Sunnah.com",
+    "work": "Qur'an 75:1-19; 81:1-14; 99:1-8 (English: Rodwell 1861); with Sahih al-Bukhari, Kitab al-Riqaq (eschatological traditions)",
+    "url": "https://www.gutenberg.org/ebooks/2800"
+   },
+   "license": "Arabic text public domain; Rodwell 1861 translation public domain",
+   "summary": {
+    "en": "When the sun is folded up and the stars fall, when the trumpet is blown and all who are in the heavens and the earth swoon save whom God wills, the dead are raised: 'I swear by the Day of Resurrection, and by the self-accusing soul.' The books are opened — 'whoever's book is in his right hand, an easy reckoning; whoever's in his left, would that he had not received a book' — the scales are set, and the Sirat is stretched over Hell thinner than a hair. The sun draws near; the earth tells its tidings; and judgment is God's alone.",
+    "zh": "日月纏裹、星辰殞落、號角吹響，天地間萬物昏厥——惟主所欲者除外。死者被復起：『我以復活日盟誓，以自責的靈魂盟誓。』功過簿展開——右手得簿者，易於清算；左手得簿者，恨不得未曾得簿——天秤已設，火獄之上的橋比髮絲還細。日臨近；大地報其消息；清算惟屬主。"
+   },
+   "motifs": [
+    "world-renewal",
+    "oracle-divination",
+    "resurrection"
+   ],
+   "sensitivity": {
+    "restricted": false,
+    "note": "Sacred eschatology of a living tradition; presented in public-domain translation with the Arabic as primary."
+   },
+   "narrative": {
+    "en": "The Qur'an speaks of the Last Day in a vocabulary of catastrophe and courtroom. The signs are drawn in the earliest Meccan suras: 'When the sun shall be folded up, and the stars shall fall, and when the mountains shall be made to pass away... when the seas shall suffer ebullition, and when souls shall be paired' (81:1-2). The earth is shaken with its earthquake and brings forth its burdens: 'On that day she shall tell her tidings' (99:1-4). The trumpet — sur — is blown by the angel Israfil, and all that are in the heavens and the earth swoon away, save him whom God pleases; then it is blown again, and they rise and look on.\n\nThe dead come forth from their graves 'as if they were locusts spread abroad'; the sky is opened and becomes as gates; the mountains are driven forth and become as mirage. Every soul is brought with its driver and witness: the earth is ordered to bring out its record — 'this day it shall tell its tidings, for thy Lord hath inspired it.' The books are opened: whoever's book is given into his right hand shall be reckoned with an easy reckoning and return rejoicing to his people; but whoever's book is in his left hand, or behind his back, 'would that he had not received a book, and had not known his reckoning' (69:19-25). The scales (mizan) are set: those whose good deeds are heavy are the prosperous; those whose good deeds are light — their books are empty — are those who have undone themselves, in Hell to abide. Even the deeds that seemed small are weighed: 'an atom's weight of good shall see it, and an atom's weight of evil shall see it' (99:7-8).\n\nThe bridge — Sirat — is stretched over the Fire, finer than a hair and sharper than a sword: the believers cross it with the speed of lightning, and the feet of the wicked slip. Under the bridge is Hell, whose fuel is men and stones, whose keepers are stern angels; above is Paradise, 'as broad as the heavens and the earth,' with rivers of water that does not corrupt and milk whose taste changes not, and the shade where there is no oppressive heat. Between the scales and the abodes stand the account and the intercession: the Prophet's intercession is asked, the believers are brought to the Pool of Kawthar, and the last word belongs to God: 'To whom belongeth the kingdom this day? To God, the One, the Almighty' (40:16).\n\nIn the hadith the scene is filled out with the interrogation in the grave by Munkar and Nakir, the blowing of Israfil, the standing of mankind for 'a day whose measure is fifty thousand years', and the arrival of the Judgement throne borne by the eight angels. The Prophet is told that the first suit between God's creatures will be about blood wrongly shed; that the feet of a man will not move before he is asked of four things — his life, his youth, his wealth, and his knowledge. The tradition also holds out the mercy: whoever has an atom of faith will be brought out of the Fire at last; the last of the people of Hell is the last to enter Paradise; and God laughs at the man who asks for less than is prepared for him. The Last Day is thus at once terror and arithmetic: the scales, the books, the bridge — and, at the end of it, the Presence.",
+    "zh": "古蘭經以災變與法庭的語彙講末日：日月纏裹、星辰殞落、群山流逝、海洋鼎沸（81:1-2）；大地震動並吐其重負，『是日它將報告其消息』（99:1-4）。號角吹響，天地萬物昏厥；再吹則復起。死者如蝗蟲四散而出；功過簿展開——右手得簿者易算而歸於家人喜悅；左手得簿者恨不得未曾得簿（69:19-25）。天秤設立；善行重者為成功者；『一微塵之善必見之，一微塵之惡必見之』。火獄之上的橋比髮絲細、比劍利；信者如電掠過，惡者足滑。聖訓補足：墓中之審問（蒙卡爾與納基爾）、伊斯拉菲勒吹號、五萬年之久的一日、以及最終的憐憫——『凡有一微塵信仰者，終將自火中得出』。"
+   },
+   "functions": [
+    "Grounds Islamic ethics in final accountability: the scales and the books",
+    "Centres the daily prayers and the creed in eschatological hope and fear",
+    "Provides the imagery of the sermon and the mosque: the Trumpet, the Bridge, the Pool",
+    "Supports the doctrine of intercession and the mercy at the end of the Fire"
+   ],
+   "variants": [
+    {
+     "name": "Hadith of the grave and the Trumpet (Bukhari, Kitab al-Jana'iz)",
+     "text_tradition": "Sahih al-Bukhari, 9th century",
+     "summary": "The interrogation by Munkar and Nakir, the angels of the grave; Israfil and the two blastings.",
+     "cross_ref": "hadith-last-man-hell"
+    },
+    {
+     "name": "The sign traditions (Hudhayfa; Tamim al-Dari)",
+     "text_tradition": "Sahih al-Bukhari / Sahih Muslim",
+     "summary": "The ten signs of the Hour and the voyage to the island of Dajjal.",
+     "cross_ref": "hadith-tamim-dari-dajjal"
+    },
+    {
+     "name": "Parallel: Zoroastrian judgement (Chinvat bridge)",
+     "text_tradition": "Avestan tradition",
+     "summary": "The bridge of judgement, wider or narrower by the soul's deeds; shared eschatological cluster.",
+     "cross_ref": "none"
+    }
+   ],
+   "language": "Arabic",
+   "canonical_translation": "J. M. Rodwell, The Koran (1861)",
+   "primary_sources": [
+    {
+     "work": "Qur'an",
+     "citation": "Surahs 75, 81:1-14, 82, 99:1-8, 69:13-37, 40:16 (Arabic rasm; English: Rodwell 1861)",
+     "language": "Arabic"
+    },
+    {
+     "work": "Sahih al-Bukhari",
+     "citation": "Kitab al-Riqaq, nos. 6560-6580 (eschatological traditions); Arabic, c. 870 CE",
+     "language": "Arabic"
+    }
+   ],
+   "secondary_sources": [
+    {
+     "work": "al-Tabari, Jami' al-Bayan (Tafsir)",
+     "citation": "al-Tabari (d. 923), on Surah 81 and 99; Arabic, Bulaq ed."
+    }
+   ],
+   "source_urls": [
+    {
+     "url": "https://www.gutenberg.org/ebooks/2800",
+     "description": "Rodwell's Koran (1861), public-domain English translation",
+     "accessed": "2026-11-15"
+    },
+    {
+     "url": "https://sunnah.com/bukhari:6571",
+     "description": "Eschatological traditions of Sahih al-Bukhari (Arabic with translation)",
+     "accessed": "2026-11-15"
+    }
+   ],
+   "sensitivity_flag": "living_tradition_low",
+   "sensitivity_guidance": "Sacred eschatology of a living religion; presented in public-domain translation with no doctrinal commentary.",
+   "provenance": {
+    "record_status": "complete",
+    "compiled": "2026-11-15",
+    "compiled_by": "opencode myth-collection session",
+    "review_status": "self-reviewed"
+   },
+   "persons": [],
+   "passages": [
+    {
+     "id": "1",
+     "text": "When the earth shall be shaken with a terrible shaking, and the mountains shall crumble and pass away, and become as scattered dust; and the ranks of men shall be ranged — and the day of the rising blast, the day on which a man shall fly from his brother, his mother, his father, his wife and his sons, on that day every man shall have business enough to occupy him.",
+     "note": "Paraphrase of Qur'an 80:33-37 (Rodwell 1861); not verbatim; opening scene of the Great Awakening."
+    },
+    {
+     "id": "2",
+     "text": "The trumpet is sounded — and, lo, from the graves they hasten forth to their Lord. We will call up the registers, and the wicked book of the sinners is set out. Weigh with exact weights on that day; they whose balances are heavy are the prosperous; but they whose balances are light have ruined themselves. And there shall be a cry: O people of the Book, why did ye disbelieve the signs of God? And a bridge is set over hell, thinner than a hair, sharper than a sword, over which all must pass; the righteous cross as lightning, the wicked fall.",
+     "note": "Paraphrase of Qur'an 7:8-9; 36:51; 19:68-69; and eschatological hadith tradition (Rodwell 1861 + hadith summaries); not verbatim; composite."
+    },
+    {
+     "id": "3",
+     "text": "The day whereon neither wealth nor sons shall avail, except him who bringeth to God a sound heart; and the day the heaven shall be cloven asunder, and the earth stretched forth, and hell made to gape, and the gardens brought near; then shall he know what he hath brought forward and what he hath left behind.",
+     "note": "Paraphrase of Qur'an 26:88-89; 81:10-13; 100:9-10 (Rodwell 1861); not verbatim."
+    }
+   ]
+  }
+ ]
+}

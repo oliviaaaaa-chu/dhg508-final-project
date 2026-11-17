@@ -1,0 +1,263 @@
+{
+  "texts": [
+    {
+      "id": "egyptian-nebertcher-creation",
+      "title": {
+        "en": "The Book of Knowing the Evolutions of Ra: Neb-er-tcher Creates the World",
+        "zh": "《知拉演化之書》：內伯-特切爾創世"
+      },
+      "tradition": "egyptian",
+      "category": "myth",
+      "region": {
+        "en": "Thebes, Egypt (temple library of Amen-Ra; the Book of Overthrowing Apep was recited to secure the sunrise)",
+        "zh": "埃及底比斯（阿蒙-拉神廟藏書；《滅阿波菲斯之書》誦讀處）"
+      },
+      "lat": 25.7188,
+      "lon": 32.6396,
+      "period": "Papyrus copied c. 305 BCE (BM Papyrus 10188, reign of Alexander II), containing mythic material of far greater antiquity (Budge translation 1912)",
+      "source": {
+        "archive": "Project Gutenberg (eBook #9411)",
+        "work": "Legends of the Gods: The Egyptian Texts, ed. and trans. E. A. Wallis Budge (London, 1912), ch. I, 'The Legend of the God Neb-er-tcher and the History of Creation'",
+        "url": "https://www.gutenberg.org/cache/epub/9411/pg9411.txt"
+      },
+      "license": "Public domain (translation 1912)",
+      "summary": {
+        "en": "In the only connected Egyptian creation account, the infinite god Neb-er-tcher takes the form of Khepera and speaks the cosmos into being over the primeval ocean Nu: naming each thing lays its foundation, Shu and Tefnut are self-begotten, Geb and Nut form earth and sky, the sun and moon are the two Eyes, and humankind springs from the god's own tears.",
+        "zh": "埃及唯一連貫的創世敘事：無限之神內伯-特切爾化為凱佩拉，於原初大洋努之上以言語創世——呼名即奠基，舒與泰芙努特自生，蓋布與努特成天地，日月為神之二眼，人類則自神之淚滴而出。"
+      },
+      "motifs": [
+        "creation-chaos",
+        "clay-humans",
+        "world-renewal",
+        "sibling-creators",
+        "world-parents"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient literary-funerary corpus with no living community restrictions. Tagging note: 'clay-humans' is used here in the sense of humans formed directly from the creator's body-fluid (tears), the closest motif match in the Thompson-style index; this is an interpretive stretch recorded deliberately."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Nebertcher says: 'I am the creator of what hath come into being. I myself came into being under the form of the god Khepera. I came into being under the form of Pautti (or, in primeval time), I formed myself out of the primeval matter, I made myself out of the substance that was in primeval time.' Nothing existed at that time except the great primeval watery mass called NU, but in this there were the germs of everything that came into being subsequently. There was no heaven, and no earth, and the god found no place on which to stand; nothing, in fact, existed except the god. He says, 'I was alone.' He first created himself by uttering his own name as a word of power, and when this was uttered his visible form appeared. He then uttered another kind of word of power, and as a result of this his soul came into being, and it worked in connection with his heart or mind.",
+          "note": "Verbatim excerpt of Budge, Literature of the Ancient Egyptians (1910), ch. VI, summarizing BM Papyrus 10188."
+        },
+        {
+          "id": "2",
+          "text": "Before every act of creation Nebertcher, or his visible form Khepera, thought out what form the thing to be created was to take, and when he had uttered its name the thing itself appeared in heaven or earth. To fill the heaven, or place where he lived, the god next produced from his body and its shadow the two gods Shu and Tefnut. These with Nebertcher, or Khepera, formed the first triad of gods, and the 'one god became three.' The tradition of the begetting of Shu and Tefnut is as old as the time of the pyramids, for it is mentioned in the text of Pepi I. The next act of creation resulted in the emerging of the Eye of Nebertcher (later identified with Ra) from the watery mass (NU), and light shone upon its waters. Shu and Tefnut then united and they produced Keb, the Earth-god, and Nut, the Sky-goddess.",
+          "note": "Verbatim excerpt of Budge (1910), ch. VI; not verbatim of the ancient text itself, which Budge renders from two parallel versions."
+        },
+        {
+          "id": "3",
+          "text": "The text then refers to some calamity which befell the Eye of Nebertcher or of Khepera, but what it was is not clear; at all events the Eye became obscured, and it ceased to give light. This period of darkness is, of course, the night, and to obviate the inconvenience caused by this recurring period of darkness, the god made a second Eye, i.e. the Moon, and set it in the heavens. The greater Eye ruled the day, and the lesser Eye the night. One of the results of the daily darkness was the descent of the Sky-goddess Nut to the Earth-god Keb each evening.",
+          "note": "Verbatim excerpt of Budge (1910), ch. VI."
+        },
+        {
+          "id": "4",
+          "text": "Men and women were first formed from the tears that fell from the Eye of Khepera, or the Sun-god, upon his body; the old Egyptian word for 'men' very closely resembles in form and sound the word for 'tears.' Plants, vegetables, herbs, and trees owe their origin to the light of the moon falling upon the earth. Our text contains no mention of a special creation of the 'beasts of the field,' but the god states distinctly that he created the children of the earth, or creeping things of all kinds, and among this class quadrupeds are probably included. The men and women, and all the other living creatures that were made at that time by Nebertcher, or Khepera, reproduced their species, each in his own way, and thus the earth became filled with their descendants as we see at the present time.",
+          "note": "Verbatim excerpt of Budge (1910), ch. VI."
+        }
+      ],
+      "language": "Egyptian (hieratic, late New Kingdom/Ptolemaic copy of far older mythic material)",
+      "canonical_translation": "E. A. Wallis Budge, Legends of the Gods: The Egyptian Texts (London, 1912), and Budge, Egyptian Hieratic Papyri in the British Museum (London, 1910)",
+      "narrative": {
+        "en": "Egyptian religion never produced a single canonical cosmogony; instead each great cult center proclaimed its own god the creator. The one connected narrative of creation that has survived comes, fittingly, from a magical working: it is embedded in the Book of Overthrowing Apep, a liturgy recited in the temple of Amen-Ra at Thebes to keep the monstrous serpent Apep from blocking the sunrise. The scribe Nes-Menu copied it about 305 BCE onto BM Papyrus 10188, inserting two versions of the creation story amid the anti-Apep spells — apparently because the mere recital of the world's first words was held to be a spell of the most potent kind, deadly to every fiend of darkness.\n\nBEGINNING: THE LORD OF THE LIMIT. The narrator calls himself Neb-er-tcher, 'the Lord to the uttermost limit' — a title that later Egyptian Christians (the Copts) used for God Almighty. Before heaven, before earth, before any place to stand, he exists as pure boundless being over the primeval ocean Nu, a vast inert mass of water holding the germs of every future thing, 'helpless and inert.' The god desires to create, and takes the form of Khepera, the self-created scarab-god, the creator par excellence. Khepera raises himself out of Nu into empty space and finds nothing beneath him. So he turns inward: he thinks out in his heart — the Egyptian word means literally 'laying the foundation in the heart' — the standing-place he needs, and when he speaks its name, it comes into being. Speech is not description here but manufacture: to name a thing is to make it exist.\n\nMIDDLE: THE GOD BECOMES THREE, THE ENNEAD MULTIPLIES. Khepera next unites with his own shadow, and from this self-fecundation Shu (air, dryness) and Tefnut (liquids, moisture) are born — the Pyramid Texts of Pepi I preserve the older, franker form of this doctrine. From the union of Shu and Tefnut come Geb the Earth and Nut the Sky, the fundamental division of the cosmos. The god's Eye emerges from Nu and light first shines on the waters. But the Eye suffers a calamity — night, eclipse, or storm — and goes dark; the creator responds by making a second, lesser Eye, the Moon, ruling the night while the greater Eye, the Sun, rules the day. The legend then folds the Heliopolitan Ennead into the account: Nut's embraces with Geb bring forth five gods at one birth — Osiris, Horus, Set, Isis, and Nephthys — with Osiris singled out as the essence of the primeval matter itself, a reincarnation of the great-grandfather god, the ancestor and savior of souls. The moon, made to supply the sun's stolen splendor, governs the growth of trees, plants, and herbs — an etiology of lunar fertility.\n\nEND: TEARS OF HUMANKIND. Humans do not arise from the earth's clay as in Mesopotamia or China; they spring directly from the creator's own body. Khepera places his members together and weeps upon them, and men and women come into being from the tears that fall from his eyes — an etymology the Egyptians themselves read in the near-identity of the words for 'men' (remut) and 'tears' (remut). The god adds creeping things of every kind, presumably including the larger quadrupeds, and lets every species reproduce after its kind until the earth is filled. The account closes with theology rather than story: the Deity is too exalted to meddle in mortal affairs, while the subordinate 'gods' remain amenable to spells, flattery, and gifts — which is why the creation narrative itself functions as a weapon against Apep.\n\nFUNCTION IN THE CORPUS. This record anchors the Egyptian creation cluster: it supplies the cosmogonic frame (chaos-waters, self-created god, generation of the Ennead) that the separate Memphite and Hermopolitan traditions reinterpret, and it links the birth of the world to the Osiris myth via the five children of Nut."
+      },
+      "functions": [
+        "Liturgical weapon: recited within the Book of Overthrowing Apep to guarantee the sun's rise against the chaos-serpent",
+        "Synthesizes the Heliopolitan theology (self-created god, Ennead) into narrative form for a late temple liturgy",
+        "Explains daily and nightly cosmic order (sun/moon as the two Eyes; Nut's nightly descent) and lunar plant-growth",
+        "Etiology of humanity: humans born of the creator's tears, linking human mortality to divine sorrow"
+      ],
+      "variants": [
+        {
+          "name": "Two parallel versions in the same papyrus",
+          "text_tradition": "BM Papyrus 10188, cols. XXVI 21–XXVII 6 (short version) and XXVIII 20–XXIX 6 (longer version)",
+          "summary": "The papyrus contains two copies of the creation legend; the longer adds the heart-soul as co-creator and expands the Eye-of-the-sun material. Whether the scribe copied two sources or expanded the short version as he wrote is unknown.",
+          "cross_ref": "egyptian-nebertcher-creation"
+        },
+        {
+          "name": "Heliopolitan Ennead cosmogony (Pyramid Texts)",
+          "text_tradition": "Pyramid Texts of the 5th–6th Dynasty pyramids (Unas, Teta, Pepi I), c. 2350–2175 BCE",
+          "summary": "The older doctrine: Atum-Tem self-arises on the benben stone at Heliopolis and generates the Ennead; fragments preserved in Budge's Literature of the Ancient Egyptians ch. II (Hymn to Tem-Kheprer) and in the king-in-heaven spells.",
+          "cross_ref": "egyptian-king-in-heaven"
+        },
+        {
+          "name": "Memphite theology (Ptah creates by heart and tongue)",
+          "text_tradition": "Shabaka Stone, 25th Dynasty copy of Memphite doctrine",
+          "summary": "Ptah creates all things by conceiving them in his heart and commanding them with his tongue — a philosophical restatement of the same 'foundation in the heart' doctrine that this legend makes narrative. Recorded as a pending record in the Egyptian ledger.",
+          "cross_ref": "none"
+        }
+      ],
+      "primary_sources": [
+        {
+          "work": "The Book of knowing the evolutions of Ra and of overthrowing Apep (BM Papyrus 10188)",
+          "citation": "British Museum Papyrus 10188, 21 + 12 columns of hieratic, copied in the 12th year of Alexander (c. 311–305 BCE) by the scribe Nes-Menu; embedded in the Book of Overthrowing Apep, cols. XXVI 21–XXVII 6 and XXVIII 20–XXIX 6. Ed. and trans. E. A. W. Budge, Archaeologia vol. 52 (1891) and Egyptian Hieratic Papyri in the British Museum (London, 1910); reprinted in Legends of the Gods (London, 1912).",
+          "language": "Egyptian (hieratic)"
+        }
+      ],
+      "secondary_sources": [
+        {
+          "work": "Donald A. Mackenzie, Egyptian Myth and Legend",
+          "citation": "Mackenzie 1913, London: Gresham Publishing — popular synthesis situating the creation legend among the Heliopolitan, Memphite, and Hermopolitan cosmogonies."
+        },
+        {
+          "work": "Miriam Lichtheim, Ancient Egyptian Literature, vol. III",
+          "citation": "Lichtheim 1980, Berkeley: University of California Press — canonical modern translation of the Papyrus of Nes-Amsu/Nes-Menu texts ('The Book of Knowing the Evolutions of Ra and of Felling Apep'), cited for scholarly context only (copyrighted; quoted only as summary)."
+        }
+      ],
+      "source_urls": [
+        {
+          "url": "https://www.gutenberg.org/cache/epub/9411/pg9411.txt",
+          "description": "Project Gutenberg eBook #9411 — Budge, Legends of the Gods (1912), full text used at collection time",
+          "accessed": "2026-11-13"
+        },
+        {
+          "url": "https://www.britishmuseum.org/collection",
+          "description": "British Museum collection database — BM Papyrus 10188 (Rhind Papyrus), search 'Papyrus 10188'",
+          "accessed": "2026-11-13"
+        }
+      ],
+      "sensitivity_flag": "none",
+      "sensitivity_guidance": null,
+      "provenance": {
+        "record_status": "complete",
+        "compiled": "2026-11-13",
+        "compiled_by": "DHG508 fieldwork compilation",
+        "review_status": "draft - pending human review",
+        "reconstructed_segments": null
+      }
+    },
+    {
+      "id": "egyptian-celestial-cow",
+      "title": {
+        "en": "The Heavenly Cow: Nut Carries Ra Up to the First Heaven",
+        "zh": "天牛：努特背拉升上天界"
+      },
+      "tradition": "egyptian",
+      "category": "myth",
+      "region": {
+        "en": "Valley of the Kings, Thebes, Egypt (tomb of Seti I, where the Book of the Heavenly Cow is inscribed)",
+        "zh": "埃及底比斯帝王谷（塞提一世陵墓，天牛之書刻壁處）"
+      },
+      "lat": 25.7417,
+      "lon": 32.6017,
+      "period": "Composed late Middle Kingdom, best preserved in tomb of Seti I (c. 1294–1279 BCE) and tombs of Tutankhamun, Ramesses III–IV (paraphrase; canonical trans. Lichtheim 1976)",
+      "source": {
+        "archive": "Internet Archive (Lichtheim, Ancient Egyptian Literature vol. II) — modern translation quoted only as paraphrase",
+        "work": "The Book of the Heavenly Cow (tomb of Seti I, KV 17; earlier copy in tomb of Tutankhamun); canonical trans. Miriam Lichtheim, Ancient Egyptian Literature vol. II (Berkeley, 1976)",
+        "url": "https://archive.org/details/ancientegyptianl0000lich"
+      },
+      "license": "Ancient text public domain; Lichtheim translation copyrighted — passages below are labeled paraphrases",
+      "summary": {
+        "en": "Sequel to the Destruction of Mankind: grown weary of ruling blood-soaked humans, the aged sun god rides up on the back of Nut, who becomes a great cow lifted by Shu, and is enthroned in the sky away from humanity; from the darkness of his flight come the stars, and the Greeks' own sky-scape of the Milky Way and constellations is fixed.",
+        "zh": "〈滅人類〉之續篇：年邁的太陽神厭於統治沾血的人類，騎上升上天牛之背——努特被舒舉起成為巨牛——退居高天不再臨世；其飛行暗影化為星辰，天域秩序由此定型。"
+      },
+      "motifs": [
+        "transformation",
+        "sacred-kingship",
+        "taboo-transgression"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient funerary-royal corpus, no living community restrictions. The Lichtheim translation is copyrighted, so all passages are condensed paraphrases with mandatory notes, as the project rules require for modern copyrighted translations."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "After the goddess Sekhmet has slaughtered nearly all humankind in her frenzy, Ra reconsiders: men whom he still needs to live have been punished enough. But he has now seen what his creatures are, and the king who once ruled personally grows old and weary on his throne. He tells the assembled gods that he is exhausted and can no longer dwell among mankind; the rebellious Nine Bows have been repelled, but the delight of kingship over them is gone.",
+          "note": "Paraphrase of The Book of the Heavenly Cow (tomb of Seti I recension), opening column (trans. Lichtheim 1976); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Ra commands Nun to fetch Nut, and the sky-goddess assumes the form of a great cow, Mehueret, upon whose back the god mounts. Yet when she rises she trembles with the height, and Ra calls on the other gods to support her: Shu is set beneath her belly to lift her, and eight gods at each corner steady her legs — the origin of the eight sustainer-gods of heaven. The cow's belly becomes the sky we see; her four legs become the pillars at the horizon.",
+          "note": "Paraphrase of the Book of the Heavenly Cow (trans. Lichtheim 1976); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "As Ra is borne upward through the primordial darkness, he cries out for light, and from his flight come the stars of the night sky; the constellations, the Fields of Rushes, and the river of stars are fixed as annals of his journey. Ra declares the future of heaven: he will withdraw into the sky itself, no longer reigning directly over men, but ruling through his breath, his Ba, and his moon — Thoth is created to be his night-deputy and scribe.",
+          "note": "Paraphrase of the Book of the Heavenly Cow (trans. Lichtheim 1976); not verbatim."
+        },
+        {
+          "id": "4",
+          "text": "The text closes with the 'annals' Ra decrees: the sky is his palace in the West, the serpent Apophis his enemy, the Nine Bows of mankind his subjects yet kept at a distance, and the judgment of the dead assigned to the gods of the netherworld. The sun's return each morning re-enacts the ascent: he sails in the barque beneath the cow's belly, seen by no one until dawn.",
+          "note": "Paraphrase of the Book of the Heavenly Cow (trans. Lichtheim 1976); not verbatim."
+        }
+      ],
+      "language": "Egyptian (Middle Egyptian, royal tomb wall)",
+      "canonical_translation": "Miriam Lichtheim, Ancient Egyptian Literature, vol. II: The New Kingdom (Berkeley, 1976), 'The Myth of the Heavenly Cow'",
+      "narrative": {
+        "en": "The Book of the Heavenly Cow is the sequel to the Destruction of Mankind, and together the two texts form Egypt's strangest theological drama: a sun god who governs the world directly, loses his patience with it, and abdicates into the sky. The myth is attested from the late Middle Kingdom and is inscribed in full on the walls of the tombs of Seti I, Tutankhamun, Ramesses III, and Ramesses IV in the Valley of the Kings — royal texts, buried with kings, dealing with the abdication of kingship itself.\n\nBEGINNING: THE WEARY KING. When the Eye of Ra, in the form of the lioness Sekhmet, has waded knee-deep in human blood and been tricked with dyed beer into sparing the rest (that episode is cut separately in this corpus as 'The Destruction of Mankind'), the matter is not simply resolved. The assembled gods congratulate Ra on avenging himself, but the god does not share their relief. He has now learned what his creatures are — the rebels of the Nine Bows have been repelled, but ruling over them has lost its sweetness. He speaks the weary words of an old king: he is exhausted, his body is old, and he can no longer dwell among mankind. Divine kingship, so grand elsewhere in Egyptian ideology, here becomes a burden.\n\nMIDDLE: THE ASCENT. Ra commands Nun, the primeval water, to fetch his daughter Nut. She comes and is transformed into the great celestial cow, Mehueret, and Ra mounts her back. But no sooner is she aloft than she shudders — the height of the sky is terror, not triumph — and Ra commands the gods of the primeval company to assist her. Shu is placed beneath her belly as her eternal support; eight gods are set at her four legs, two to each, to steady her; the four legs become the four pillars of the sky at the horizon, and her belly with its stars becomes the vault we look at every night. The gods whom Ra had threatened with punishment are appeased; the Egyptians of the deserts and the foreigners of the Nine Bows remain below, no longer under the god's eye but under his distance.\n\nEND: THE DARK JOURNEY AND THE STARS. During the ascent the sun passes through absolute darkness, and from that night-flight come the stars and constellations — the text calls them the 'annals' of the journey, a celestial gazetteer written across the sky. Ra, enthroned at last in the deep of heaven, decrees the new order: he will reside in the western horizon and the deep of the sky; Thoth is created as his deputy to rule the night and record all things; the serpent Apophis remains his enemy; humankind will see him no longer in person but only in his forms — sun, moon, and barque. The daily renewal of creation continues, but at one remove: the cow's belly is between the god and his people. The myth thus explains both the Milky Road of stars and the theological distance of the solar god in the New Kingdom, and it grounds a ritual function: recited in royal tombs, it enacts the king's own hope of riding the same sky-cow into eternity.\n\nRELATION TO OTHER TRADITIONS. In motif terms the record joins the 'withdrawal of the god' family — deities who rule, are wounded or disillusioned, and relocate to a distant heaven — and shares with Nut-centered records the separation of sky from earth as a primordial event."
+      },
+      "functions": [
+        "Explains the fixed order of the night sky (stars, constellations, the cow's belly as heaven) as records of the god's ascent",
+        "Royal-tomb liturgy: equips the dead king to make the same ascent on the celestial cow into the first heaven",
+        "Theology of divine distance: the sun god withdraws from direct rule; Thoth installed as night-deputy",
+        "Sequel to the Destruction of Mankind, resolving the theme of divine disillusionment with humankind"
+      ],
+      "variants": [
+        {
+          "name": "The Destruction of Mankind (same mythic cycle, first episode)",
+          "text_tradition": "Book of the Heavenly Cow prologue / parallel text in temple of Amen at Hibis and Papyrus of Nes-Menu (BM 10188)",
+          "summary": "The preceding episode: Sekhmet, the Eye of Ra, is unleashed on rebellious humanity and must be intoxicated with blood-red beer. Cut in this corpus as a separate base record.",
+          "cross_ref": "destruction-of-mankind"
+        },
+        {
+          "name": "Nut-Shu separation (Pyramid Texts hymns)",
+          "text_tradition": "Pyramid Texts of Pepi II (ll. 61–64 and related), Old Kingdom",
+          "summary": "Shorter version of the sky's elevation: hymns to Nut as the sky-goddess who lifts the dead king, who leapt 'in the womb of her mother Tefnut'; Budge's Literature preserves the hymns. Cut as 'The Sky-goddess Hymn of Pepi II'.",
+          "cross_ref": "egyptian-sky-goddess-hymn"
+        },
+        {
+          "name": "Classical echo: withdrawal of the solar god",
+          "text_tradition": "Plutarch, De Iside et Osiride 12–19, reflecting late Egyptian solar theology",
+          "summary": "Classical retellings preserve the motif of a supreme god who, disillusioned or weary, departs from direct governance of the world — a pattern compared by Egyptologists with the Heavenly Cow's abdication theology.",
+          "cross_ref": "egyptian-osiris-cycle"
+        }
+      ],
+      "primary_sources": [
+        {
+          "work": "The Book of the Heavenly Cow",
+          "citation": "Tomb of Seti I (KV 17), wall inscription, c. 1294–1279 BCE; earlier partial copy in tomb of Tutankhamun (KV 62); later copies in tombs of Ramesses III (KV 11) and Ramesses IV (KV 2). Canonical trans. M. Lichtheim, Ancient Egyptian Literature vol. II (Berkeley, 1976), 'The Myth of the Heavenly Cow.' Also trans. E. Hornung, Die Nachtfahrt der Sonne (1968).",
+          "language": "Middle Egyptian"
+        }
+      ],
+      "secondary_sources": [
+        {
+          "work": "Miriam Lichtheim, Ancient Egyptian Literature, vol. II",
+          "citation": "Lichtheim 1976, Berkeley: University of California Press — the standard annotated translation, with commentary on the myth's theological structure."
+        },
+        {
+          "work": "Henri Frankfort, Kingship and the Gods",
+          "citation": "Frankfort 1948, Chicago: University of Chicago Press — kingship theology of the divine abdication motif."
+        }
+      ],
+      "source_urls": [
+        {
+          "url": "https://archive.org/details/ancientegyptianl0000lich",
+          "description": "Internet Archive — Lichtheim, Ancient Egyptian Literature vol. II (lending copy; paraphrase basis)",
+          "accessed": "2026-11-13"
+        },
+        {
+          "url": "https://www.thebanmappingproject.com/",
+          "description": "Theban Mapping Project — tomb of Seti I (KV 17), location and description of the Book of the Heavenly Cow inscription",
+          "accessed": "2026-11-13"
+        }
+      ],
+      "sensitivity_flag": "none",
+      "sensitivity_guidance": null,
+      "provenance": {
+        "record_status": "reconstructed",
+        "compiled": "2026-11-13",
+        "compiled_by": "DHG508 fieldwork compilation",
+        "review_status": "draft - pending human review",
+        "reconstructed_segments": [
+          {
+            "segment": "All four passages are condensed paraphrases; no public-domain full translation of the Book of the Heavenly Cow was obtainable online (sacred-texts and Lichtheim both inaccessible verbatim), so the passages were rebuilt from the published descriptions of the Lichtheim translation and secondary syntheses.",
+            "restored_in": "passages 1-4"
+          }
+        ]
+      }
+    }
+  ]
+}

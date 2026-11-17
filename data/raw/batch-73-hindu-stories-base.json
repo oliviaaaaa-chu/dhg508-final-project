@@ -1,0 +1,181 @@
+{
+  "_comment": "Hindu expansion part 5: base story records cut per episode (Hanuman's leap, Nala and Damayanti, Ahalya's redemption). All passages are paraphrases of public-domain translations.",
+  "texts": [
+    {
+      "id": "hindu-ramayana-hanuman-leap",
+      "title": {
+        "en": "Hanuman's Leap to Lanka",
+        "zh": "哈奴曼躍海抵楞伽"
+      },
+      "tradition": "hindu",
+      "category": "myth-religion",
+      "region": {
+        "en": "Dhanushkodi, Rameswaram (leaping-off shore, symbolic pin)",
+        "zh": "羅摩梭瓦蘭之達努什科迪（躍海之岸，象徵性定位）"
+      },
+      "lat": 9.15,
+      "lon": 79.45,
+      "period": "Ramayana of Valmiki, oldest strata c. 2nd c. BCE-2nd c. CE (Griffith translation, 1870-74)",
+      "source": {
+        "archive": "Project Gutenberg (Griffith translation)",
+        "work": "The Ramayan of Valmiki, trans. Ralph T. H. Griffith (1870-74), Sundara Kanda (Book V), the ocean leap",
+        "url": "https://www.gutenberg.org/ebooks/search/?query=ramayana"
+      },
+      "license": "Public domain (translation 1870-74)",
+      "summary": {
+        "en": "Tasked to cross the ocean and find Sita, Hanuman stands on Mahendra's peak, grows to cosmic size, and leaps - dodging the mountain Mainaka's rest-offer and the serpent-mother Surasa's jaws by wit as much as muscle, then burning down the groves of Lanka after finding her. The jump is the monkey-general's charter: strength, obedience, and trickery in one body.",
+        "zh": "奉命渡海尋悉多，哈奴曼立於摩訶恩陀羅之峰，身軀漲至宇宙之量，一躍而起——以機智與膂力閃過梅納卡山『棲歇』之勸與蛇母蘇羅薩之顎，尋得悉多後火燒楞伽林苑。此躍即猴將之憲章：力量、順服與詭計集於一身。"
+      },
+      "motifs": [
+        "transformation",
+        "trickster"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Living tradition: Hanuman cult is major (Hanuman Chalisa recitation, temples across India). Classified 'myth'."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "On the peak of Mahendra, Hanuman gathered himself: he grew, larger and larger, crushing the flowers and shaking the trees, his tail high as a banner, until the mountain could hardly hold him; the animals fled, and the birds of the sea scattered before his shadow. Then, folding himself like a thunderbolt, he rose and sprang over the ocean toward Lanka.",
+          "note": "Paraphrase of Ramayana, Sundara Kanda (Griffith 1870-74); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "The mountain Mainaka rose from the sea and offered him rest: Son of the Wind, sit, refresh yourself, the sea is wide. Hanuman answered that he had a message and no leisure; and the serpent-mother Surasa, sent by the gods to test him, opened her jaws and declared: thou must pass through my mouth. Hanuman grew huge; she opened wider; at last he shrank to a thumb, shot through her jaws and out, doubling back - trick answered by trick, both laughing.",
+          "note": "Paraphrase of Ramayana, Sundara Kanda (Griffith 1870-74); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "He crossed, shrank to a cat's size, and searched Lanka by night: houses, parks, Ravana's palace - and at last the Ashoka grove, where Sita sat under a tree, worn, surrounded by demoness guards, refusing to look at anyone. Hanuman, transformed to a tiny form, saw her, knew her by the marks of her devotion, and sat above her in the tree to begin the work of hope.",
+          "note": "Paraphrase of Ramayana, Sundara Kanda (Griffith 1870-74); not verbatim."
+        }
+      ],
+      "persons": [
+        "hanuman",
+        "sita",
+        "ravana"
+      ],
+      "language": "Sanskrit (epic)",
+      "canonical_translation": "Ralph T. H. Griffith, The Ramayan of Valmiki, Benares, 1870-74 (public domain); modern: Robert P. Goldman & Sally J. Sutherland Goldman, vol. V, Princeton, 2009"
+    },
+    {
+      "id": "hindu-mahabharata-nala-damayanti",
+      "title": {
+        "en": "Nala and Damayanti: The King Ruined by Dice",
+        "zh": "那羅與達摩延蒂：毀於骰子的王"
+      },
+      "tradition": "hindu",
+      "category": "myth-religion",
+      "region": {
+        "en": "Nishadha kingdom (symbolic pin, Vindhya uplands)",
+        "zh": "尼沙陀王國（象徵性定位，溫迪亞高地）"
+      },
+      "lat": 23.0,
+      "lon": 77.5,
+      "period": "Mahabharata, Vana Parva (Nalopakhyana), composition layers c. 400 BCE-400 CE (Ganguli translation, 1883-96)",
+      "source": {
+        "archive": "Project Gutenberg (Ganguli translation)",
+        "work": "The Mahabharata of Krishna-Dwaipayana Vyasa, trans. K. M. Ganguli (1883-96), Vana Parva, the story of Nala",
+        "url": "https://www.gutenberg.org/ebooks/search/?query=mahabharata"
+      },
+      "license": "Public domain (translation 1883-96)",
+      "summary": {
+        "en": "A swan carries Damayanti's choice to Nala; at her svayamvara four gods disguise themselves identically as the king, and she recognizes him by his sincerity. The demon Kali, cheated of her, enters the dice, and Nala loses his kingdom and wanders in the wilds; after servitude as a cook and the medicine of birds and snakes, husband and wife find each other, and the king wins back his realm with a second throw of the dice.",
+        "zh": "天鵝把達摩延蒂的選擇帶給那羅；在她的自擇婚禮上，四位天神幻化為一模一樣的國王，她以其誠摯認出他。被騙過的惡魔伽利潛入骰子，那羅賠上王國，流浪荒野；為廚師為僕，得禽鳥與蛇之藥，夫婦終得重逢，王以再擲骰子贏回其國。"
+      },
+      "motifs": [
+        "trickster",
+        "taboo-transgression",
+        "recognition-token"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Living tradition (recited in epic performance; the Nalopakhyana is also a Sanskrit primer text). Classified 'myth'."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "A golden swan flew between the courts and praised each to the other; Damayanti resolved on Nala, and the swan carried the message. At her svayamvara, the gods Indra, Agni, Varuna and Yama came unseen, and each took Nala's exact form; five identical kings sat before her. She saw the truth by their conduct: four wore their glory as gods, but one was dusty with the road, and his sincerity was his face - she garlanded the man, and the gods blessed the marriage and let themselves be mocked.",
+          "note": "Paraphrase of Mahabharata, Vana Parva, Nalopakhyana (Ganguli 1883-96); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Kali the demon of the age, cheated of Damayanti's swayamvara, waited years for his moment; entering the dice, he moved Nala's hand. At the dice, against warnings, Nala staked kingdom, treasure and self, and lost all; in rags he walked into the wilderness, leaving his sleeping wife; she woke alone and began her search - servant to merchants, nurse to a queen, barefoot through forests, asking every stranger for a king with a wife who loved him.",
+          "note": "Paraphrase of Mahabharata, Vana Parva, Nalopakhyana (Ganguli 1883-96); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "Nala, transformed into a dwarf by the snake-king's poison-bite (with the promise: when the poison burns you will be whole), served as cook in Ayodhya under a false name; the serpent's gift was the knowledge of horses. Damayanti's father offered a second svayamvara to draw him out; the gods' disguise was tried again - and this time Nala, seated among men, was found by a single verse, a riddle of hunger and thorns that only the true husband could answer. Husband and wife met, the snake-bite burned out, and Nala, dice-skilled now in both directions, threw once against Kali's king and won back everything - then forgave the dice, having learned what they were.",
+          "note": "Paraphrase of Mahabharata, Vana Parva, Nalopakhyana (Ganguli 1883-96); not verbatim."
+        }
+      ],
+      "persons": [
+        "nala",
+        "damayanti",
+        "indra",
+        "yama"
+      ],
+      "language": "Sanskrit (epic)",
+      "canonical_translation": "Kisari Mohan Ganguli, The Mahabharata of Krishna-Dwaipayana Vyasa, 1883-96 (public domain); modern: J. A. B. van Buitenen, The Mahabharata, vol. 3, Chicago, 1975"
+    },
+    {
+      "id": "hindu-ramayana-ahalya",
+      "title": {
+        "en": "Ahalya Redeemed from Stone",
+        "zh": "阿訶利耶自石中解脫"
+      },
+      "tradition": "hindu",
+      "category": "myth-religion",
+      "region": {
+        "en": "Ahalya's hermitage near Buxar, on the Sarayu (traditional site)",
+        "zh": "薩羅逾河畔布克薩爾附近的阿訶利耶仙居（傳統聖地）"
+      },
+      "lat": 25.56,
+      "lon": 83.98,
+      "period": "Ramayana of Valmiki, oldest strata c. 2nd c. BCE-2nd c. CE (Griffith translation, 1870-74)",
+      "source": {
+        "archive": "Project Gutenberg (Griffith translation)",
+        "work": "The Ramayan of Valmiki, trans. Ralph T. H. Griffith (1870-74), Bala Kanda (Book I), the redemption of Ahalya",
+        "url": "https://www.gutenberg.org/ebooks/search/?query=ramayana"
+      },
+      "license": "Public domain (translation 1870-74)",
+      "summary": {
+        "en": "Indra, disguised as her husband Gautama, deceives the sage's wife Ahalya; the sage's curse turns her to stone in the forest grasses, to be freed only when Rama's dust-marked feet reach her. Rama and Lakshmana, en route to Mithila, arrive; his foot falls upon the stone; Ahalya rises, pure again, and the host of heaven sings - the first act of redemption in the Ramayana.",
+        "zh": "因陀羅幻化為其夫喬達摩之形，誑惑仙妻阿訶利耶；仙人咒之，使其化為林間草中頑石，唯待羅摩足塵所及方可解脫。羅摩與羅什曼那赴彌提羅途中至此；其足落於石上；阿訶利耶起立，重獲純潔，諸天同聲而歌——此為《羅摩衍那》第一場救贖。"
+      },
+      "motifs": [
+        "transformation",
+        "taboo-transgression"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Living tradition (Ahalya sthan pilgrimage site at Buxar; gendered readings contested). Classified 'myth'."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Indra, king of the gods, wearing the exact form of the sage Gautama, came at dusk to the hermitage and deceived the sage's wife: Ahalya, knowing or half-knowing, was deceived with him; the true husband returning found the gods' king fleeing in his own shape, and his wife standing where she had fallen.",
+          "note": "Paraphrase of Ramayana, Bala Kanda (Griffith 1870-74); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "The sage's curse was double: for Indra, loss of manhood, restored later by the gods' assembly in a different form; for Ahalya, the harder sentence - stone. Body turned to rock, she lay in the deserted hermitage among the grasses, airless, unseen, and the years burned above her, with one clause of mercy: when Rama, son of Dasharatha, shall walk this path and his foot shall mark the stone, then shalt thou be purified.",
+          "note": "Paraphrase of Ramayana, Bala Kanda (Griffith 1870-74); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "Years upon years; the forest grew over the place. Then two youths in bark garments came with the sage Vishvamitra - Rama and Lakshmana, walking to Mithila. At Vishvamitra's word Rama set his foot on the stone clod; dust of his feet touched her; the stone grew warm, split gently, and Ahalya rose from the ground as from sleep - her sin burnt away, her beauty restored, pure as the dawn. She offered the strangers the hospitality of a hostess restored to life; the hosts of heaven rained flowers, and the story ends in her husband's welcome: the sage received his wife, purged and shining.",
+          "note": "Paraphrase of Ramayana, Bala Kanda (Griffith 1870-74); not verbatim."
+        }
+      ],
+      "persons": [
+        "rama",
+        "ahalya",
+        "indra"
+      ],
+      "language": "Sanskrit (epic)",
+      "canonical_translation": "Ralph T. H. Griffith, The Ramayan of Valmiki, Benares, 1870-74 (public domain); modern: Robert P. Goldman et al., vol. I, Princeton, 1984"
+    }
+  ]
+}

@@ -1,0 +1,614 @@
+{
+  "texts": [
+    {
+      "id": "yoruba-braima-destroys-idols",
+      "title": {
+        "en": "Braima Hew the Idols in Pieces",
+        "zh": "布萊瑪碎神像記"
+      },
+      "tradition": "yoruba",
+      "category": "myth-religion",
+      "region": {
+        "en": "The East ('Mecca' of Yoruba tradition; symbolic pin: the road of the 90 days' flight westward)",
+        "zh": "傳說中的東方（約魯巴傳統的「麥加」；象徵定位：九十日西行的流亡之路）"
+      },
+      "lat": 8.0,
+      "lon": 6.0,
+      "period": "Yoruba tradition recorded 1921 (Johnson); the migration legend itself older",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Rev. Samuel Johnson, The History of the Yorubas (London, 1921), Part I ch. I",
+        "url": "https://archive.org/details/historyofyorubas00john"
+      },
+      "license": "Public domain (published 1921)",
+      "summary": {
+        "en": "Asara, priest and image-maker of the idolatrous Crown Prince Oduduwa, had a son Braima, brought up a Mohammedan, who hated his father's trade and cried \"Who would purchase falsehood?\" When the men were away hunting for three days, Braima hewed the idols in pieces and left the axe hanging on the neck of the chief idol. \"Ask that huge idol who did it,\" he said; \"Can he speak?\" \"Then why do you worship things which cannot speak?\" He was condemned to be burnt alive — a thousand loads of wood were heaped for the stake — and the signal for civil war was given: Lamurudu the king was slain, and Oduduwa's party driven from the town.",
+        "zh": "奉偶像教之王儲奧杜杜瓦的祭司兼造像師阿薩拉，有一子名布萊瑪，自幼信奉回教，憎惡父業，賣像時高呼「誰要買謊言？」趁獵人出城三日，他將眾神像剁碎，斧頭掛在大神像頸上。「問那尊大神像是誰幹的！」「牠會說話嗎？」「既然不能說話，你們為何拜牠？」他被判活焚——千擔柴堆於刑柱之下——內戰自此爆發：國王拉穆魯杜被殺，奧杜杜瓦一黨被逐出城。"
+      },
+      "motifs": [
+        "taboo-transgression",
+        "theophany",
+        "idol-contest",
+        "threefold"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Recorded 1921 by the Yoruba pastor-historian Samuel Johnson. Johnson himself notes the tale is a garbled scriptural story (Gideon, Judges 6:28-33) — the Yoruba migration legend braided with Biblical memory. Religious-conflict content reported as the recorded tradition states it."
+      },
+      "persons": [
+        "oduduwa"
+      ],
+      "passages": [
+        {
+          "id": "1",
+          "text": "The Crown Prince Oduduwa relapsed into idolatry during his father's reign, and as he was possessed of great influence, he drew many after him. His purpose was to transform the state religion into paganism, and hence he converted the great mosque of the city into an idol temple, and this Asara, his priest, who was himself an image maker, studded with idols. Asara had a son called Braima, who was brought up a Mohammedan. During his minority he was a seller of his father's idols, an occupation which he thoroughly abhorred, but which he was obliged to engage in; but in offering for sale his father's handiwork he usually invited buyers by calling out: \"Who would purchase falsehood?\"",
+          "note": "Paraphrase of Johnson, The History of the Yorubas, Part I ch. I (1921); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "When Braima was old enough he seized the opportunity of one of the king's hunting absences to destroy the gods whose presence had caused the sacred mosque to become desecrated. The axe with which the idols were hewed in pieces was left hanging on the neck of the chief idol, a huge thing in human shape. Enquiry being made, it was soon discovered who the iconoclast was, and when accosted, he gave replies not unlike those which Joash gave to the Abiezrites who accused his son Gideon of a similar act. Said Braima, \"Ask that huge idol who did it.\" The men replied, \"Can he speak?\" \"Then,\" said Braima, \"Why do you worship things which cannot speak?\" He was immediately ordered to be burnt alive for this act of gross impiety. A thousand loads of wood were collected for a stake, and several pots of oil were brought for the purpose of firing the pile. This was signal for a civil war: Lamurudu the King was slain, and all his children, with those who sympathized with them, were expelled from the town.",
+          "note": "Paraphrase of Johnson, The History of the Yorubas, Part I ch. I (1921); not verbatim."
+        }
+      ]
+    },
+    {
+      "id": "yoruba-oduduwa-ninety-days",
+      "title": {
+        "en": "The Ninety Days' Flight: Oduduwa Comes to Ile-Ife",
+        "zh": "九十日流亡——奧杜杜瓦抵達伊費"
+      },
+      "tradition": "yoruba",
+      "category": "myth-religion",
+      "region": {
+        "en": "Ile-Ife, Nigeria (end of the eastward flight)",
+        "zh": "奈及利亞伊費城（東來流亡的終點）"
+      },
+      "lat": 7.48,
+      "lon": 4.54,
+      "period": "Yoruba tradition recorded 1921 (Johnson)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Rev. Samuel Johnson, The History of the Yorubas (London, 1921), Part I ch. I",
+        "url": "https://archive.org/details/historyofyorubas00john"
+      },
+      "license": "Public domain (published 1921)",
+      "summary": {
+        "en": "The Yorubas say they sprang from Lamurudu, one of the kings of \"Mecca\"; driven out after the civil war, the princes went their ways — westward to Gogobiri and Kukawa, eastward Oduduwa, who travelled ninety days and finally settled at Ile-Ife, where he met Agbonniregun (Setilu), the founder of the Ifa worship. Oduduwa's party escaped with two idols; Sahibu's army sent against them was defeated, and among the booty was a copy of the Koran, preserved in a temple and worshipped to this day as Idi, Something Tied Up. Johnson notes that \"Mecca\" is really the East — the Yoruba came from the East, and their \"Mecca\" is their word for it.",
+        "zh": "約魯巴人自述乃「麥加」王拉穆魯杜之裔；內戰之後諸王子四散——西往戈戈比里與庫卡瓦，東行者奧杜杜瓦則走了九十日，終於定居伊萊-伊費，並在此遇見伊法崇拜的創始者阿貢尼雷貢（塞蒂盧）。奧杜杜瓦一行攜兩尊神像逃出；前來征討的薩希布大軍戰敗，戰利品中有一部《可蘭經》，供奉於廟中，至今以「伊迪」（綁起之物）之名受拜。約翰遜指出：此「麥加」實指東方——約魯巴人自東而來，「麥加」即他們口中的東方。"
+      },
+      "motifs": [
+        "culture-hero",
+        "sacred-place",
+        "idol-contest",
+        "sacred-direction"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Recorded 1921; the migration charter of the Yoruba royal tradition. Johnson's critical argument (Mecca = the East; Ife marbles Egyptian in form) is reported alongside the tradition. Cross-refs: yoruba-ife-navel-world, yoruba-oduduwa-sand-hen."
+      },
+      "persons": [
+        "oduduwa"
+      ],
+      "passages": [
+        {
+          "id": "1",
+          "text": "The Yorubas are said to have sprung from Lamurudu one of the kings of Mecca, whose offspring were: Oduduwa, the ancestor of the Yorubas, and the Kings of Gogobiri and of the Kukawa, two tribes in the Hausa country. The Crown Prince Oduduwa's party, expelled after the civil war, went their ways: the Princes who became Kings of Gogobiri and of the Kukawa went westwards, and Oduduwa eastwards. He travelled 90 days from Mecca, and after wandering about finally settled down at Ile Ife, where he met with Agbonniregun (or Setilu) the founder of the Ifa worship.",
+          "note": "Paraphrase of Johnson, The History of the Yorubas, Part I ch. I (1921); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Oduduwa and his children had escaped with two idols to Ile Ife. Sahibu, being sent with an army to destroy or reduce them to submission, was defeated, and amongst the booty secured by the victors was a copy of the Koran. This was afterwards preserved in a temple and was not only venerated by succeeding generations as a sacred relic, but is even worshipped to this day under the name of Idi, signifying Something Tied Up. That the Yorubas came originally from the East there cannot be the slightest doubt, as their habits, manners and customs all go to prove: with them the East is Mecca and Mecca is the East.",
+          "note": "Paraphrase of Johnson, The History of the Yorubas, Part I ch. I (1921); not verbatim."
+        }
+      ]
+    },
+    {
+      "id": "yoruba-olowu-crown-child",
+      "title": {
+        "en": "The Child Who Kept the Crown",
+        "zh": "抱走王冠的孩子"
+      },
+      "tradition": "yoruba",
+      "category": "myth-religion",
+      "region": {
+        "en": "Ile-Ife, Nigeria (the king's knees where the crown was claimed)",
+        "zh": "奈及利亞伊費城（王膝上得冠之地）"
+      },
+      "lat": 7.48,
+      "lon": 4.54,
+      "period": "Yoruba tradition recorded 1921 (Johnson)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Rev. Samuel Johnson, The History of the Yorubas (London, 1921), Part I ch. I",
+        "url": "https://archive.org/details/historyofyorubas00john"
+      },
+      "license": "Public domain (published 1921)",
+      "summary": {
+        "en": "Oduduwa's eldest daughter chose to marry her father's priest, and from them came Olowu, ancestor of the Owus. Playing on his grandfather's knees, the child pulled at the crown on the old king's head; the indulgent parent set it on the child's head, and like some spoiled children he refused to give it up — so it was left with him. When he fell asleep in his mother's arms she returned it, but the king told her to keep it for her son, he seemed so anxious to have it. Hence the right of the Olowu to wear a crown like his uncles — and the same right was afterwards accorded to the Alaketu, progenitor of the Ketu people.",
+        "zh": "奧杜杜瓦的長女下嫁其父的祭司，所生之子即奧武人之祖「奧洛烏」。此兒在祖父膝上玩耍，伸手去抓老人頭上的王冠；溺愛的祖父便把王冠扣在孩子頭上——這孩子嬌縱不還，祖父只得另戴一頂。孩子戴著王冠在母親懷中睡去；母親欲奉還，國王卻道：既如此珍愛，便留給你的兒子吧。奧洛烏遂得與諸叔王同等戴冠之權——其後阿凱圖（凱圖人之祖）亦援此例。"
+      },
+      "motifs": [
+        "sacred-kingship",
+        "miraculous-birth"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Recorded 1921; crown-right etiology of the Owu royal line, told of a princess who married a commoner priest."
+      },
+      "persons": [
+        "oduduwa"
+      ],
+      "passages": [
+        {
+          "id": "1",
+          "text": "The Yoruba princesses had (and still have) the liberty of choosing husbands according to their fancy from any rank in life; the King's eldest daughter chose to marry her father's priest, for whom she had the Olowu. This young prince was one day playing on his grandfather's knees, and he pulled at the crown on his head; the indulgent parent thereupon placed it on the child's head, but like some spoiled children, he refused to give it up when required, and so it was left with him, the grandfather putting on another.",
+          "note": "Paraphrase of Johnson, The History of the Yorubas, Part I ch. I (1921); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "The child had the crown on his head until he fell asleep in his mother's arms, when she took it off and returned it to her father; but the latter told her to keep it for her son, as he seemed so anxious to have it. Hence the right of the Olowu to wear the crown like his uncles. The same right was subsequently accorded to the Alaketu, i.e., the progenitor of the Ketu people.",
+          "note": "Paraphrase of Johnson, The History of the Yorubas, Part I ch. I (1921); not verbatim."
+        }
+      ]
+    },
+    {
+      "id": "yoruba-oranyan-land-inheritance",
+      "title": {
+        "en": "Oranyan Inherits the Land",
+        "zh": "奧蘭揚承地為業"
+      },
+      "tradition": "yoruba",
+      "category": "myth-religion",
+      "region": {
+        "en": "Ile-Ife, Nigeria (the partition of Oduduwa's estate)",
+        "zh": "奈及利亞伊費城（家產分封之地）"
+      },
+      "lat": 7.48,
+      "lon": 4.54,
+      "period": "Yoruba tradition recorded 1921 (Johnson)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Rev. Samuel Johnson, The History of the Yorubas (London, 1921), Part I ch. I",
+        "url": "https://archive.org/details/historyofyorubas00john"
+      },
+      "license": "Public domain (published 1921)",
+      "summary": {
+        "en": "On Oduduwa's death the inheritance was divided: the King of Benin got the money, the Orangun of Ila the wives, the King of Sabe the cattle, the Olupopo the beads, the Olowu the garments, the Alaketu the crowns — and nothing was left Oranyan but the land. Some say he was away on a warlike expedition when the partition was made. But Oranyan turned his portion to good account: he held his brothers as tenants on the land which was his, and for rents received money, women, cattle, beads, garments and crowns — hence the common saying \"Alafin l'oni ile,\" the Alafin is the lord of the land. Another account gives him only a rag of earth, twenty-one pieces of iron and a cock on a world covered with water, the cock scattering the earth until dry land appeared, his brothers paying annual tribute to live on it.",
+        "zh": "奧杜杜瓦身後分產：貝寧王得錢財，伊拉之奧蘭貢得妻妾，薩貝王得牛群，奧盧波波得珠子，奧洛烏得衣裳，阿凱圖得王冠——留給奧蘭揚的唯有土地。或謂分產時他正領兵在外。但他把家業經營得蒸蒸日上：諸兄皆為他土地上的佃戶，歲納金錢、婦女、牛群、珠貝、衣冠為租——故有諺語「阿勞芬乃土地之主」。另一說：他只得一方裹於布中的泥土、二十一塊鐵器與一隻雄雞，當時大地盡為洪水所覆；雞爪撒土，乾地處處浮現，諸兄欲居陸上者歲納貢賦。"
+      },
+      "motifs": [
+        "sacred-kingship",
+        "creation-chaos"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Recorded 1921; the dynastic inheritance charter (Johnson's version of the Oranyan tale, complementing Ogumefu's folk version yoruba-oranyan-iron-cock-soil). Johnson calls the flood version a travesty of creation or flood stories."
+      },
+      "persons": [
+        "oranyan",
+        "oduduwa"
+      ],
+      "passages": [
+        {
+          "id": "1",
+          "text": "On the death of the King, their grandfather, his property was unequally divided among his children as follows: the King of Benin inherited his money (consisting of cowry shells), the Orangun of Ila his wives, the King of Sabe his cattle, the Olupopo the beads, the Olowu the garments, and the Alaketu the crowns, and nothing was left for Oranyan but the land. Some assert that he was absent on a warlike expedition when the partition was made, and so he was shut out of all movable properties. Oranyan was, however, satisfied with his portion, which he proceeded forthwith to turn to good account with the utmost skill: he held his brothers as tenants living on the land which was his; for rents he received money, women, cattle, beads, garments, and crowns, which were his brothers' portions, as all these were more or less dependent on the soil.",
+          "note": "Paraphrase of Johnson, The History of the Yorubas, Part I ch. I (1921); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "According to another account, Oranyan had only a bit of rag left him, containing earth, 21 pieces of iron, and a cock. The whole surface of the earth was then covered with water. Oranyan laid his portion on the surface of the water, and placed on it the cock, which scattered the earth with his feet; the wide expanse of water became filled up, and the dry land appeared everywhere. His brothers, preferring to live on dry land rather than on the surface of the water, were permitted to do so on their paying an annual tribute for sharing with their younger brother his own portion. It will be noticed that both traditions attribute the land to Oranyan; hence the common saying \"Alafin l'oni ile\" (the Alafin is the lord of the land): the pieces of iron representing underground treasures, and the cock such as subsist on the land.",
+          "note": "Paraphrase of Johnson, The History of the Yorubas, Part I ch. I (1921); not verbatim."
+        }
+      ]
+    },
+    {
+      "id": "yoruba-boa-founds-oyo",
+      "title": {
+        "en": "Follow the Boa: How Oyo Was Founded",
+        "zh": "跟著巨蟒走——奧約建城記"
+      },
+      "tradition": "yoruba",
+      "category": "myth-religion",
+      "region": {
+        "en": "Oyo-Ile (Katunga), Nigeria (the hill Ajaka where the boa vanished)",
+        "zh": "奈及利亞舊奧約城（卡通加；巨蟒消失的阿賈卡山下）"
+      },
+      "lat": 8.6,
+      "lon": 4.1,
+      "period": "Yoruba tradition recorded 1921 (Johnson)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Rev. Samuel Johnson, The History of the Yorubas (London, 1921), Part I ch. I",
+        "url": "https://archive.org/details/historyofyorubas00john"
+      },
+      "license": "Public domain (published 1921)",
+      "summary": {
+        "en": "Marching to avenge his great-grandfather against \"Mecca,\" Oranyan found the old route impassable — an army of black ants had blocked the path — and took the Tapa road instead. At Igangan his brothers quarrelled over a pot of beer and dispersed. Reaching the Niger he could not force a crossing, and to return to Ife was too humiliating; so he consulted the King of Ibariba, who made a charm, fixed it on a boa constrictor, and advised him to follow the track of the boa and build his town wherever it remained seven days and then disappeared. At the foot of a hill called Ajaka the reptile did so, and there Oranyan built Oyo Ajaka — the ancient city of Oyo, Katunga.",
+        "zh": "奧蘭揚率師東征「麥加」以報曾祖之仇，舊路卻被成群的螞蟻堵死，只好改走塔帕（努佩）之路。行至伊甘貢，諸弟為一壺啤酒爭吵四散。他兵抵尼日河，無法強渡，返回伊費又覺羞辱；遂問計於伊巴里巴王。王製符咒繫於巨蟒之身，教他跟隨蟒蹤——蟒若在一處停留七日而後消失，便在彼建城。蟒行至阿賈卡山下果然如此；奧蘭揚遂建「奧約阿賈卡」城——即古奧約，卡通加。"
+      },
+      "motifs": [
+        "sacred-place",
+        "culture-hero",
+        "oracle-divination"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Recorded 1921; founding legend of the Oyo capital by oracle-guided serpent. Cross-ref: yoruba-staff-of-oranyan (Ogumefu's version of his return)."
+      },
+      "persons": [
+        "oranyan"
+      ],
+      "passages": [
+        {
+          "id": "1",
+          "text": "It is said that the route by which they came from \"Mecca\" and which occupied 90 days was by this time rendered impassable owing to an army of black ants blocking up the path, and hence Oranyan was obliged to take another route which led through the Nupe or Tapa country. All his brothers but the eldest joined him, but at Igangan they quarrelled over a pot of beer and dispersed, refusing to follow his lead. The eldest brother, calculating the distance through the Tapa country, lost courage and went eastward. Oranyan pushed on until he found himself on the banks of the River Niger.",
+          "note": "Paraphrase of Johnson, The History of the Yorubas, Part I ch. I (1921); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "The Tapas are said to have opposed his crossing the river, and as he could not force his way through, he was obliged to remain for a while near the banks, and afterwards resolved to retrace his steps. To return, however, to Ile Ife was too humiliating to be thought of, and hence he consulted the King of Ibariba near whose territory he was then encamping as to where he should make his residence. Tradition has it that the King of Ibariba made a charm and fixed it on a boa constrictor and advised Oranyan to follow the track of the boa, and wherever it remained for 7 days and then disappeared, there he was to build a town. Oranyan and his army followed his directions and went after the boa up to the foot of a hill called Ajaka, where the reptile remained 7 days and then disappeared. According to instructions Oranyan halted there, and built a town called Oyo Ajaka — the ancient city of Oyo, marked in ancient maps as Eyeo or Katunga.",
+          "note": "Paraphrase of Johnson, The History of the Yorubas, Part I ch. I (1921); not verbatim."
+        }
+      ]
+    },
+    {
+      "id": "yoruba-adimu-oluwo-oni",
+      "title": {
+        "en": "The Son of the Sacrificial Victim: How the Oni Got His Name",
+        "zh": "祭品之子——奧尼之名的由來"
+      },
+      "tradition": "yoruba",
+      "category": "myth-religion",
+      "region": {
+        "en": "Ile-Ife, Nigeria (the custodianship of the national treasures)",
+        "zh": "奈及利亞伊費城（王室珍寶守護之地）"
+      },
+      "lat": 7.48,
+      "lon": 4.54,
+      "period": "Yoruba tradition recorded 1921 (Johnson)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Rev. Samuel Johnson, The History of the Yorubas (London, 1921), Part I ch. I",
+        "url": "https://archive.org/details/historyofyorubas00john"
+      },
+      "license": "Public domain (published 1921)",
+      "summary": {
+        "en": "Oranyan left Adimu, one of his father's trusty servants, in charge of the royal treasures and the charms, with strict injunction to observe the customary worship of the national gods Idi and Orisa Osi during his absence. Adimu was originally the son of a woman condemned to death who, being found at execution to be in the way of becoming a mother, was temporarily reprieved; the child was dedicated to the perpetual service of the gods, especially Obatala, to whom his mother was to have been sacrificed. When the kings and princes around were told of the appointment, all asked \"And who is this Adimu?\" The answer: \"Omo Oluwo ni\" — the son of a sacrificial victim — contracted to Ooni. When the seat of government moved permanently to Oyo, Adimu became supreme at Ile-Ife, and his successors to this day are the Ooni, high priests of the whole Yoruba nation.",
+        "zh": "奧蘭揚東征之前，將王室珍寶與符咒託付乃父的忠僕阿迪穆，囑其謹守國神「伊迪」與「奧里莎奧西」的常祭。阿迪穆本是死囚之子：其母臨刑時已懷身孕，獲暫緩死刑，嬰孩生下便被永獻神前——尤其獻給其母本應祭予的奧巴塔拉。當諸王聞知此任命，皆問「阿迪穆是何人？」答曰：「奧莫奧盧沃尼」——祭品之子。此語縮為「奧尼」。王都既永久遷奧約，阿迪穆便為伊費之主，其後裔至今即全約魯巴的大祭司——奧尼。"
+      },
+      "motifs": [
+        "sacred-kingship",
+        "taboo-transgression"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Recorded 1921; the Ooni title etymology, anchored in a reprieve-from-sacrifice birth. Historical human-sacrifice context reported as the recorded tradition states it."
+      },
+      "persons": [
+        "oranyan",
+        "obatala"
+      ],
+      "passages": [
+        {
+          "id": "1",
+          "text": "He left Adimu one of his father's trusty servants in charge of the royal treasures and the charms, with a strict injunction to observe the customary worship of the national gods Idi and Orisa Osi. But this Adimu, who became of so much consequence from his performing royal functions, was originally the son of a woman condemned to death, but being found at the time of execution to be in the way of becoming a mother she was temporarily reprieved, until the child was born. This child at its birth was dedicated to the perpetual service of the gods, especially the god Obatala, to which his mother was to have been sacrificed. He was said to be honest, faithful and devoted to the King as to his own father, and therefore he was loved and trusted.",
+          "note": "Paraphrase of Johnson, The History of the Yorubas, Part I ch. I (1921); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "When Adimu was announced to the Kings and Princes all around as the person appointed by the King to take charge of the treasures, and to worship the national deities during his absence, it was generally asked \"And who is this Adimu?\" The answer comes: \"Omo Oluwo ni\" — the son of a sacrificial victim: this is contracted to Ooni (Oluwo being the term for a sacrificial victim). So in subsequent years, when the seat of government was removed permanently to Oyo but not the national deities, Adimu became supreme at Ile Ife, and his successors to this day have been termed the Ooni — the high priests to the king and people of the whole Yoruba nation, the duties of the office being not local or tribal, but national.",
+          "note": "Paraphrase of Johnson, The History of the Yorubas, Part I ch. I (1921); not verbatim."
+        }
+      ]
+    },
+    {
+      "id": "yoruba-ida-oranyan-coronation",
+      "title": {
+        "en": "Oranyan's Sword: No King May Order an Execution Without It",
+        "zh": "奧蘭揚之劍——無劍不得行刑"
+      },
+      "tradition": "yoruba",
+      "category": "myth-religion",
+      "region": {
+        "en": "Ile-Ife, Nigeria (the grave from which the sword is fetched)",
+        "zh": "奈及利亞伊費城（取劍之王陵）"
+      },
+      "lat": 7.48,
+      "lon": 4.54,
+      "period": "Yoruba tradition recorded 1921 (Johnson)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Rev. Samuel Johnson, The History of the Yorubas (London, 1921), Part I ch. I",
+        "url": "https://archive.org/details/historyofyorubas00john"
+      },
+      "license": "Public domain (published 1921)",
+      "summary": {
+        "en": "As the Yorubas worship the dead and believe prayers at an ancestor's grave potent for blessing, all succeeding kings on their accession, before coronation, send to perform acts of worship at the grave of Oduduwa and receive the benediction of the priest. The sword of justice known as Ida Oranyan (Oranyan's sword) must be brought from Ile-Ife, where Oranyan is buried, and ceremoniously placed in the new king's hands; without this, the king has no authority whatever to order an execution. Oranyan himself, though he died (as is probable) at Oko, is shown buried at Ife — for the Yoruba custom is to pare the nails and shave the head of anyone dying far from his burial-place and bury those relics there with full obsequies; his grave bears the obelisk called Opa Oraniyan, with characters said to suggest a Phoenician origin.",
+        "zh": "約魯巴人拜祭亡者，深信在祖陵前祈禱可致福佑；故歷代君王即位加冕之前，必遣人赴伊費奧杜杜瓦陵前致祭，並受祭司祝禱。稱為「伊達奧蘭揚」（奧蘭揚之劍）的正義之劍必自伊費——奧蘭揚安葬之地——迎來，莊嚴地置於新王之手；未經此儀，國王無權下令處決任何人。相傳奧蘭揚雖或卒於奧科，伊費卻有其陵——按風俗，客死遠方者剪指甲、剃髮攜歸安葬，葬儀與全屍無異。陵上立有碑柱「奧帕奧蘭揚」，其上刻文，或謂有腓尼基之源。"
+      },
+      "motifs": [
+        "sacred-kingship",
+        "sacred-place",
+        "prayer",
+        "relics"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Recorded 1921; the coronation charter binding every crowned Yoruba king to Ife. Cross-ref: yoruba-staff-of-oranyan."
+      },
+      "persons": [
+        "oranyan",
+        "oduduwa"
+      ],
+      "passages": [
+        {
+          "id": "1",
+          "text": "As the Yorubas worship the dead, and have the belief that prayers offered at the grave of deceased ancestors are potent to procure temporal blessings, all succeeding Yoruba kings on their accession and before coronation are expected to send to perform acts of worship at the grave of Oduduwa and to receive the benediction of the priest. The sword of justice known as Ida Oranyan (Oranyan's sword) is to be brought from Ile Ife and ceremoniously placed in their hands; without this being done, the King has no authority whatever to order an execution.",
+          "note": "Paraphrase of Johnson, The History of the Yorubas, Part I ch. I (1921); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Oranyan may have actually died at Oko, but his grave with an obelisk over it is certainly shown at Ile Ife to this day. It is a custom among the Yorubas, observed to this day, to pare the nails and shave the head of anyone who dies at a considerable distance from the place where they would have him buried; these relics are taken to the place of interment and there decently buried, the funeral obsequies being scrupulously observed as if the corpse itself were buried there. The most notable of the Ife marbles is what is known as the Opa Oraniyan (Oraniyan's staff), an obelisk standing on the site of Oraniyan's supposed grave, having characters cut in it which suggest a Phoenician origin.",
+          "note": "Paraphrase of Johnson, The History of the Yorubas, Part I ch. I (1921); not verbatim."
+        }
+      ]
+    },
+    {
+      "id": "yoruba-ijebu-obanita-survivor",
+      "title": {
+        "en": "Obanita: The Sacrifice on the Highway Who Lived",
+        "zh": "奧巴尼塔——路口祭壇上的生還者"
+      },
+      "tradition": "yoruba",
+      "category": "myth-religion",
+      "region": {
+        "en": "Ijebu country, Nigeria (the Aha forest where the survivor ascended to heaven)",
+        "zh": "奈及利亞伊傑布之地（生還者升天的阿哈森林）"
+      },
+      "lat": 6.8,
+      "lon": 3.9,
+      "period": "Yoruba tradition recorded 1921 (Johnson)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Rev. Samuel Johnson, The History of the Yorubas (London, 1921), Part I ch. II",
+        "url": "https://archive.org/details/historyofyorubas00john"
+      },
+      "license": "Public domain (published 1921)",
+      "summary": {
+        "en": "The Ijebus themselves claim descent from Oba-nita — \"servants of Obanita.\" Tradition says he was a victim of sacrifice by the Olowu, offered where two roads cross: a sacrifice on the highway, Ebo-ni-ita. The victim was mangled and left for dead, but revived at night, crawled into the forest, recovered and survived — living on fruits and the chase, then a little farming. As the oldest man in those parts he was regarded as the father of newcomers, and the tribe that grew around him took his name: Ebonita, a sacrifice on the highway, converted to Obanita, a king on the highway. There never really was anyone of that name; a forest near the village of Aha is still shown where he is annually worshipped, whence he is supposed to have ascended into heaven. The annual victim of Obanita was never killed, but made demented by unknown arts and left to wander the Aha Forest until he perished — as the ancestor himself was not killed outright.",
+        "zh": "伊傑布人自稱乃「奧巴尼塔的僕人」之後。相傳此人是奧洛烏王在兩路交叉口所獻的祭品——所謂「路口之祭」。他被剁傷棄置等死，卻在夜間甦醒，爬入森林，活了下來，以野果狩獵為生，後又墾荒。因其為當地最年長者，陸續前來的移民皆奉之為父；其後裔遂稱他為祖先——「路口之祭」（埃博尼塔）遂轉訛為「路口之王」（奧巴尼塔）。其實並無此人。阿哈村附近至今猶存一片森林，歲歲向他致祭，相傳他即由此升天。獻給奧巴尼塔的年度祭品從不處死，卻被不知名的法術弄得神智失常，在阿哈林中遊蕩至死——正如其先祖未曾被殺死。"
+      },
+      "motifs": [
+        "resurrection",
+        "taboo-transgression",
+        "sacred-place",
+        "conversion"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Recorded 1921; tribe-origin legend of the Ijebu from a surviving sacrificial victim. Johnson notes both Ijebu accounts derive the tribe from human-sacrifice victims ('the food of the deep' and Obanita). Presented as the recorded tradition states it."
+      },
+      "persons": [],
+      "passages": [
+        {
+          "id": "1",
+          "text": "The Ijebus themselves claim to have descended from Oba-nita, as they say of themselves, \"Ogetiele, eru Obanita\" — Ogetiele, servants of Obanita. But who was this Oba-nita? Tradition says he was a victim of sacrifice by the Olowu, or King of Owu. It was said that the Olowu offered in sacrifice a human being where two roads cross; this was termed Ebo-ni-ita, a sacrifice on the highway, the victim being mangled and left for dead. He, however, revived at night, and crawled away into the forest, where he subsequently recovered and survived.",
+          "note": "Paraphrase of Johnson, The History of the Yorubas, Part I ch. II (1921); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "He lived on fruits, on the chase, and then did a bit of farming. With an access of population, being the oldest man met in those parts, he was regarded as the father, and subsequent generations call him their ancestor, and so the Ijebu tribe was formed, and the term Ebonita (a sacrifice on the highway) was converted to Obanita (a king on the highway). There was really nobody of that name. A forest is still shown near the village of Aha where he is annually worshipped, from whence he was supposed to have ascended into heaven.",
+          "note": "Paraphrase of Johnson, The History of the Yorubas, Part I ch. II (1921); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "It is rather curious that both accounts should have made them descended from victims of human sacrifice. The victim also usually offered to Obanita annually was always a human being, but this was never killed; he was, however, always acted upon in some way or other unknown (by magic arts) that he always became demented, and left to wander about sheepishly in the Aha Forest until he perished there. This is no doubt due to the fact that the ancestor Ebonita himself, when a victim, was not killed outright.",
+          "note": "Paraphrase of Johnson, The History of the Yorubas, Part I ch. II (1921); not verbatim."
+        }
+      ]
+    },
+    {
+      "id": "yoruba-ijesa-food-of-gods",
+      "title": {
+        "en": "Ijesa: The Food of the Gods, and the Sons of Sticks",
+        "zh": "伊傑薩——眾神之食與木棍之子"
+      },
+      "tradition": "yoruba",
+      "category": "myth-religion",
+      "region": {
+        "en": "Ibokun and Ilesa, Nigeria (the cattle-pen of victims and the okra king's garden)",
+        "zh": "奈及利亞伊博昆與伊萊薩（祭品欄與秋葵王的花園）"
+      },
+      "lat": 7.63,
+      "lon": 4.74,
+      "period": "Yoruba tradition recorded 1921 (Johnson)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Rev. Samuel Johnson, The History of the Yorubas (London, 1921), Part I ch. II",
+        "url": "https://archive.org/details/historyofyorubas00john"
+      },
+      "license": "Public domain (published 1921)",
+      "summary": {
+        "en": "Two accounts tell of the Ijesas. In the earliest times, before Shango's reign, human sacrifices were common; to have victims ready to hand a number of slaves were purchased and located in the district of Ibokun, tended as cattle under the care of Owaju, from whom selections were made for sacrificial purposes — hence the term Ijesa, from Ije Orisa, the food of the gods. Another legend says that when the royal family were appointing kings from Ile-Ife, a brave young scion appointed first Owa over the Ijesas complained his subjects were too few; the sire ordered a large bundle of sticks and converted them into human beings for him — hence the Ijesas are nicknamed Omo Igi, offspring of sticks. Johnson calls this a pure myth of wily neighbours. Yet one fact held into modern times: the Ifes preferred an Ijesa victim to any other, sacrifices being considered more acceptable as the food of the gods. When the later Ijesas migrated and took the country, they spared the kindly old principal chief called Oba Ila, the Okra King, from his okra plantation, and made him second in rank — a title, Obala, continued to this day.",
+        "zh": "關於伊傑薩人有兩說。最古之世（尚戈王之前），人祭盛行；為求祭品隨手可得，人們購買奴隸圈養於伊博昆之地，由奧瓦茹看管如牛群，不時挑選獻祭——「伊傑薩」即「眾神之食」之意。又一傳說：王室自伊費分封諸王時，受封伊傑薩的青年勇士抱怨子民太少；先王命取一大捆木棍，化為人形賜他添丁——故伊傑薩人被鄰族謔稱「奧莫伊吉」，木棍之子。約翰遜斥此為刁滑鄰邦編造的神話。然而直到近代，伊費人獻祭時總優先挑選伊傑薩人，因其為「眾神之食」。後來伊傑薩人東山再起奪回鄉土時，獨獨放過了慈祥的老酋——因種秋葵而得名的「秋葵王」奧巴拉——尊為次席，其號「奧巴拉」沿用至今。"
+      },
+      "motifs": [
+        "clay-humans",
+        "taboo-transgression",
+        "sacred-kingship",
+        "magic-food",
+        "conversion"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Recorded 1921. Contains historical human-sacrifice practice ('food of the gods') reported as the recorded tradition states it, in Johnson's own frankly critical register; the Omo-Igi sticks myth parallels Ogumefu's Sons of Sticks (yoruba-sons-of-sticks)."
+      },
+      "persons": [],
+      "passages": [
+        {
+          "id": "1",
+          "text": "The first account relates to the earliest period when the Yorubas had just entered into and subdued the country, and the Alafins then resided at Ile Ife, i.e., prior to the reign of Shango. Human sacrifices were common in those days, and in order to have victims ready to hand, a number of slaves were purchased and located in the district of Ibokun; there they were tended as cattle, under the care of Owaju, and from them selections were made from time to time for sacrificial purposes; hence the term Ijesa from Ije Orisa (the food of the gods).",
+          "note": "Paraphrase of Johnson, The History of the Yorubas, Part I ch. II (1921); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "There is also a legend that when the nations began to disperse from Ile Ife and members of the Royal Family were appointed kings and rulers in divers places, a young and brave scion of the house was appointed the first Owa or king over the Ijesas, but he returned to the Alafin and complained that his territory was too small and his subjects few; the sire thereupon ordered a large bundle of sticks to be brought to him, and these sticks he converted into human beings for the Owa, in order to increase the number of his subjects. Hence to this day the Ijesas are often termed by their neighbours Omo Igi (offspring of sticks!). This, of course, is a pure myth invented by their more wily neighbours to account for the notorious characteristics of the Ijesas generally, who are as proverbially deficient in wit as they are remarkably distinguished for brute strength.",
+          "note": "Paraphrase of Johnson, The History of the Yorubas, Part I ch. II (1921); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "The other account relates chiefly to the present day Ijesas of Ilesa (the home of the gods). They hailed from the Ekitis, or from the neighbourhood of Ibokun, migrating first to Ipole near Ondo and thence back to Ilesa. Finding game plentiful, the climate agreeable, and the inhabitants simple, peaceful, and unwarlike, while at home they endured much oppression from their Owa, they there and then settled, and reduced the aboriginal inhabitants into subjection. They spared the principal chief, a kindly old gentleman who had an extensive garden plantation, called Oba Ila, the Okra King, from his Okra plantation, and placed him next in rank to the chief of the marauders; that nickname is continued to the present time as the title Obala, conferred on the most distinguished chief after the Owa of Ilesa.",
+          "note": "Paraphrase of Johnson, The History of the Yorubas, Part I ch. II (1921); not verbatim."
+        }
+      ]
+    },
+    {
+      "id": "yoruba-owa-ajaka-brine",
+      "title": {
+        "en": "Ajaka and the Salt Water from the Sea",
+        "zh": "阿賈卡與取自大海的鹽水"
+      },
+      "tradition": "yoruba",
+      "category": "myth-religion",
+      "region": {
+        "en": "Ile-Ife and Ilesa, Nigeria (the blind king's palace and the sea-road)",
+        "zh": "伊費與伊萊薩（失明老王的宮廷與尋海之路）"
+      },
+      "lat": 7.6,
+      "lon": 4.6,
+      "period": "Yoruba tradition recorded 1921 (Johnson)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Rev. Samuel Johnson, The History of the Yorubas (London, 1921), Part I ch. II",
+        "url": "https://archive.org/details/historyofyorubas00john"
+      },
+      "license": "Public domain (published 1921)",
+      "summary": {
+        "en": "When the Olofin of Ife became blind from old age, a man came forward with a sure remedy containing salt water — but none of his children would go to fetch it except his youngest grandson, the warlike prince Ajaka, \"one who fights everywhere.\" Away many years and given up for lost, the king divided his property: to the Oloyo, most beloved, the land — \"settle nowhere till you come to a slippery place\"; hence Oyo, the slippery, and hence Oyos are such slippery customers. Then the young adventurer turned up with water from the sea; the king used it as prescribed and regained his sight — hence the Ijesas, who became his subjects, are called Omo Obokun, children of the brine procurer. Having nothing left, he gave Ajaka his own sword with leave to attack any of his brothers and possess himself of their wealth; the Owa cut the fringes off his grandfather's crown in wantonness, and the old man swore never to wear a fringed crown again — and took away Aregbajo's crown, never returning it: kings of Igbajo wear none to this day.",
+        "zh": "伊費的老王奧洛芬因年老而失明，有人獻上含鹽水的良方——可兒子們無一人肯去取水，唯幼孫阿賈卡（綽號「處處開戰者」）慨然請行。去經多年、音信全無，老王分了家產：把土地給最寵愛的奧約奧——「遇到濕滑之地方可定居」——故名奧約（濕滑之意），奧約人也因此出了名的滑頭。不料少年探險者竟攜海水而歸！老王照方服用，重見光明——其後裔伊傑薩人遂稱「奧莫奧博貢」，取鹽水者之子。家產已盡，他便把佩劍賜給阿賈卡，許他攻打任何兄弟、奪其財貨。而阿賈卡探視祖父時，竟揮劍削去王冠的流蘇；老王大怒立誓：有生之年再戴無蘇之冠；他還奪走阿雷加喬的王冠不還——伊巴喬之王至今無冠。"
+      },
+      "motifs": [
+        "quest-immortality",
+        "sacred-kingship",
+        "boon-curse"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Recorded 1921; the Obokun (brine-procurer) etiology of the Ijesa royal house and the Oyo-slippery name etiology in one narrative complex."
+      },
+      "persons": [],
+      "passages": [
+        {
+          "id": "1",
+          "text": "The Olofin (Alafin) king of Ife had several children, grandchildren and great-grandchildren. When the Olofin became blind from old age he was much depressed in mind; efforts were put forth to effect his cure, all of which proved fruitless, when a certain man came forward and prescribed for him a sure remedy which among other ingredients contained salt water. He put the case before his children, but none made any effort to procure some for him save his youngest grandson, a very brave and warlike prince who bore the title of Esinkin among the King's household warriors, and was surnamed Ajaka, i.e., one who fights everywhere, on account of his proclivities, being fond of adventures. He volunteered to go and fetch some wherever procurable.",
+          "note": "Paraphrase of Johnson, The History of the Yorubas, Part I ch. II (1921); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Having been away for many years and not heard of, the aged sire and everyone else despaired of his ever coming back; so the King divided his property among the remaining grown-up children. Although the Alado (king of Benin) was the eldest, yet the Oloyo was the most beloved, and to him he gave the land, and told him to scour it all over, and settle nowhere till he came to a slippery place, and there make his abode; hence the term Oyo (slippery), and hence Oyos are such slippery customers! After they had all gone and settled in their respective localities, all unexpectedly, the young adventurer turned up with water from the sea! The monarch made use of it as per prescription and regained his sight! Hence the Ijesas who subsequently became his subjects are sometimes termed Omo Obokun, children of the brine procurer.",
+          "note": "Paraphrase of Johnson, The History of the Yorubas, Part I ch. II (1921); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "Having distributed all his property he had nothing left for Ajaka; he therefore gave him a sword lying by his side with leave to attack any of his brothers, especially the Alara or Alado, and possess himself of their wealth, but should he fail, to retire back to him; hence the appellation Owa Ajaka Onida raharaha (Owa the ubiquitous fighter, a man with a devastating sword). The Owa Ajaka settled a little way from his grandfather, and on one occasion he paid him a visit, and found him sitting alone with his crown on his head — and out of sheer wantonness he cut off some of the fringes with his sword. The old man was enraged by this act, and swore that he would never wear a crown with fringes on. The Aregbajo was one of those who had a crown given to him, but the Owa Ajaka, paying him a visit, saw it, took it away, and never returned it: hence the kings of Igbajo never wear a crown to this day.",
+          "note": "Paraphrase of Johnson, The History of the Yorubas, Part I ch. II (1921); not verbatim."
+        }
+      ]
+    },
+    {
+      "id": "yoruba-ondo-twins-exile",
+      "title": {
+        "en": "The Spared Twins of Ode Ondo",
+        "zh": "奧德奧恩多——被赦的雙生子"
+      },
+      "tradition": "yoruba",
+      "category": "myth-religion",
+      "region": {
+        "en": "Ode Ondo, Nigeria (the settlement named The Settlers)",
+        "zh": "奈及利亞奧恩多城（名為「定居者」的城邑）"
+      },
+      "lat": 6.83,
+      "lon": 4.83,
+      "period": "Yoruba tradition recorded 1921 (Johnson)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Rev. Samuel Johnson, The History of the Yorubas (London, 1921), Part I ch. II",
+        "url": "https://archive.org/details/historyofyorubas00john"
+      },
+      "license": "Public domain (published 1921)",
+      "summary": {
+        "en": "The custom of killing twins prevailed all over the country in early times; it has died out so long ago that no one can say precisely when or by whom a stop was put to it. But it happened once upon a time, when the practice still prevailed, that one of the wives of the Alafin (King Ajaka) gave birth to twins, and the King was loth to destroy them; he gave orders that they should be removed, with the mother, to a remote part of the kingdom and there remain, and be regarded as dead. So she left with a large number of friends and retinue to the site of the present Ode Ondo, then sparsely peopled by a tribe named Idoko, and there settled — hence the term Ondo, the Settlers. The people of the district, knowing who the strangers were, yielded ready obedience, and the strangers became rulers of the district. Probably it was from this time that infanticide received its death-blow in Yoruba proper.",
+        "zh": "太古之世，殺嬰之俗遍行全國，廢除已久，無人能確言起於何時何人。相傳尚在行此俗的年代，阿勞芬王（阿賈卡王）的一位妃子誕下雙生子，王不忍加誅，遂下令將母子連同大批親隨遷往王國邊陲，視同已死。一行人來到今日奧德奧恩多城之地——其時此地稀疏地住著名叫伊多科的部落——定居下來，故名「奧恩多」：定居者。當地人得知來歷，俯首聽命，客居者遂為其主。殺嬰之俗在約魯巴本部的死刑，大概自此而始。"
+      },
+      "motifs": [
+        "sibling-creators",
+        "taboo-transgression",
+        "sacred-kingship"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Recorded 1921; twin-sparing legend founding the Ondo kingdom — the key Yoruba record for the twins motif cluster alongside Ibeji devotion. Cross-refs: yoruba-ibeji-ere-figures, yoruba-twin-brothers-ajaka, maya-popol-vuh-creation-twins."
+      },
+      "persons": [],
+      "passages": [
+        {
+          "id": "1",
+          "text": "The custom of killing twins prevailed all over the country in early times; it has died out all over the greater part of it so long ago that no one can say precisely when or by whom a stop was put to it. But it happened once upon a time when the practice still prevailed that one of the wives of the Alafin (King Ajaka) gave birth to twins, and the King was loth to destroy them; he thereupon gave orders that they should be removed — with the mother — to a remote part of the kingdom and there to remain and be regarded as dead.",
+          "note": "Paraphrase of Johnson, The History of the Yorubas, Part I ch. II (1921); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "So she left with a large number of friends and retinue to the site of the present Ode Ondo, then sparsely peopled by a tribe named Idoko, and there settled, hence the term Ondo, signifying the Settlers. The people of the district, knowing who the strangers were, yielded them ready obedience, and the strangers became rulers of the district. Probably it was from this time that infanticide received its death blow — in Yoruba Proper at least.",
+          "note": "Paraphrase of Johnson, The History of the Yorubas, Part I ch. II (1921); not verbatim."
+        }
+      ]
+    },
+    {
+      "id": "yoruba-osile-blood-oko",
+      "title": {
+        "en": "The Osile Who Walked on Blood: Oko, the Pelting Stone",
+        "zh": "踏血而行的奧西勒——「投石」之城"
+      },
+      "tradition": "yoruba",
+      "category": "myth-religion",
+      "region": {
+        "en": "Oko (Egba Oke-Ona), Nigeria (the Ogboni house doorway)",
+        "zh": "奈及利亞奧科城（奧格博尼會堂門檻）"
+      },
+      "lat": 7.3,
+      "lon": 3.3,
+      "period": "Yoruba tradition recorded 1921 (Johnson)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Rev. Samuel Johnson, The History of the Yorubas (London, 1921), Part I ch. II",
+        "url": "https://archive.org/details/historyofyorubas00john"
+      },
+      "license": "Public domain (published 1921)",
+      "summary": {
+        "en": "The Osile is said to be an unfortunate title because, more than any of the other divisions, the Oke-Ona people were prone to slaughter human victims: every time the Osile entered the Ogboni house he must walk on the blood of a male victim, and when he came out, on that of a female. Also, Osiles never die a natural death; when their excesses became unbearable they were usually stoned to death — hence the appellation of their chief town, Oko, a pelting stone. For that reason the Egbas were reluctant to resuscitate the title at Abeokuta until 1897, when the Governor of Lagos ordered the Egbas to reorganise their government and fill up vacant titles.",
+        "zh": "「奧西勒」據說是個不祥的尊號：奧克-奧納人最嗜人祭——奧西勒每次進奧格博尼會堂，須踏過男祭品之血；出門時，又須踏過女祭品之血。而且奧西勒從無善終者：惡行積重難返之時，民眾便以石擊殺之——其都城因此得名「奧科」，即投石之邑。因此埃格巴人遲遲不肯在阿貝奧庫塔復設此號，直至1897年拉哥斯總督下令重整政制、補齊虛銜方才恢復。"
+      },
+      "motifs": [
+        "taboo-transgression",
+        "sacred-kingship"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Recorded 1921; kingship-blood taboo etiology reported as the recorded tradition states it. Human-sacrifice content handled without graphic detail."
+      },
+      "persons": [],
+      "passages": [
+        {
+          "id": "1",
+          "text": "The Osile is said to be an unfortunate title because, more than any of the other divisions, the Oke Ona people were more prone to slaughter human victims; every time the Osile entered the Ogboni house, he must walk on the blood of a male victim, and when he comes out on that of a female! Also that Osiles never die a natural death; when their excesses became unbearable they were usually stoned to death; hence the appellation of their chief town, Oko — i.e., a pelting stone.",
+          "note": "Paraphrase of Johnson, The History of the Yorubas, Part I ch. II (1921); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "For that reason the Egbas were reluctant to resuscitate the title at Abeokuta until Governor McCallum of Lagos in 1897, on the occasion of the Queen's Diamond Jubilee, ordered the Egbas and others to reorganise their government, and fill up vacant titles.",
+          "note": "Paraphrase of Johnson, The History of the Yorubas, Part I ch. II (1921); not verbatim."
+        }
+      ]
+    }
+  ]
+}

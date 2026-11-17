@@ -1,0 +1,899 @@
+{
+  "_comment": "Theme-driven additions from the existing source library: Ovid Metamorphoses I-VI (Riley 1851, PD), Apollodorus Library (Frazer 1921, PD) and Pausanias Description of Greece (Shilleto, Bohn PD). All passages are paraphrase with notes.",
+  "texts": [
+    {
+      "id": "greek-apollodorus-apples-hesperides",
+      "title": {
+        "en": "Heracles and the Apples of the Hesperides",
+        "zh": "赫拉克勒斯與赫斯珀里得斯金蘋果"
+      },
+      "tradition": "greek",
+      "category": "myth",
+      "region": {
+        "en": "Mount Atlas to the Hyperboreans (mythic geography)",
+        "zh": "阿特拉斯山至極北之地（神話地理）"
+      },
+      "lat": 31.17,
+      "lon": -7.92,
+      "period": "Compiled c. 1st-2nd century CE (attrib. Apollodorus; Frazer translation 1921)",
+      "source": {
+        "archive": "ToposText (J. G. Frazer, Loeb 1921)",
+        "work": "Apollodorus, Library, trans. J. G. Frazer (1921), §§ 2.5.10-2.5.11",
+        "url": "https://topostext.org/work/150"
+      },
+      "license": "Public domain (Frazer translation 1921)",
+      "summary": {
+        "en": "Eurystheus, rejecting the labour of Augeas' cattle and of the hydra, sends Heracles as an eleventh labour to fetch golden apples of the Hesperides from among the Hyperboreans. The tree is guarded by an immortal dragon with many heads; and, to find it, Heracles wrestles Antaeus, foils Busiris' sacrilege, who is to offer strangers to Zeus, and — at the edge of the world — meets Atlas, who agrees to fetch the apples for him if Heracles will carry the sky. Atlas wishes to be rid of heaven forever, but Heracles, by a trick, loads the weight back on him and departs with the fruit.",
+        "zh": "尤里斯透斯以第十一項勞役遣赫拉克勒斯赴極北的赫斯珀里得斯取金蘋果：果樹由百頭不死之龍看守。沿途他摔死巨安泰俄斯（觸地即增力之神子）、逃過埃及王布西里斯的人祭 punt；至世界之邊時，擎天者阿特拉斯願替他取果，但要赫拉克勒斯替他扛天。赫拉克勒斯以計重歸其肩，帶果返還。"
+      },
+      "motifs": [
+        "culture-hero",
+        "quest-immortality"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient literary source; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The eleventh labour was invented because Eurystheus refused to acknowledge the hydra and the cattle of Augeas at all: he bade Heracles fetch golden apples from the garden of the Hesperides. These apples had not been laid in Libya, as some said, but in the land of the Hesperides themselves, on the slopes of Mount Atlas among the far-off Hyperboreans; Earth had presented them to Zeus at his marriage with Hera, and they grew guarded by an immortal dragon with a hundred heads, child of Typhon and Echidna, that spoke with many sorts of voices.",
+          "note": "Paraphrase of Apollodorus, Library, 2.5.11 (Frazer 1921); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "On the journey he came to the river Echedalus, and a king Cycnus, son of Ares, challenged him to a single combat; but a thunderbolt thrown between them parted the men. He went on foot through Illyria, and by the river Eridanus found the nymphs who were daughters of Zeus and Themis; they told him where Nereus, the Old Man of the Sea, kept his knowledge, and Heracles seized the seer as he slept and held him fast, though he changed himself into every kind of shape, until he had told where the apples and the Hesperides were to be found.",
+          "note": "Paraphrase of Apollodorus, Library, 2.5.11 (Frazer 1921); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "Traversing Libya, he came upon Antaeus, son of Poseidon, who forced all strangers to wrestle and killed them; for when he was on the earth his mother's earth, he grew stronger. Heracles hugged him, lifted him clear of the ground, and broke him; for held off the earth he could not wax strong. Traversing Egypt, he met Busiris, who in expiation of a nine years' drought sacrificed strangers at the altar of Zeus; and Heracles was seized himself, put on the altar, but burst his bonds, slew Busiris and his son Amphidamas, and went on.",
+          "note": "Paraphrase of Apollodorus, Library, 2.5.11 (Frazer 1921); not verbatim."
+        },
+        {
+          "id": "4",
+          "text": "At the ends of the earth he received a goblet from the Sun, crossed by it to the other side of the world-stream, and, on the Caucasus, shot down with his bow the eagle that was eating the liver of Prometheus and set the fire-stealer free, accepting, so that Heracles should not be hounded by Zeus, the substitution of Chiron, who consented to die in his stead; and Prometheus told him not to go to the garden himself, but to send Atlas, after relieving him of the sphere.",
+          "note": "Paraphrase of Apollodorus, Library, 2.5.11 (Frazer 1921); not verbatim."
+        },
+        {
+          "id": "5",
+          "text": "So he relieved Atlas of his great weight, while Atlas went and plucked three golden apples from the Hesperides. But he did not want to carry the sphere again, and when he had once been free of it, wished never to take it up; so he said he would take the apples to Eurystheus himself. Heracles agreed, on a plan suggested by Prometheus; he asked Atlas to hold up the sky just long enough for a pad to be put on his head: the request seemed easy, Atlas laid down his burden, and Heracles slipped out from beneath the weight and made away with the golden apples.",
+          "note": "Paraphrase of Apollodorus, Library, 2.5.11 (Frazer 1921); not verbatim."
+        }
+      ],
+      "persons": [
+        "eurystheus",
+        "sthenelus-epi"
+      ]
+    },
+    {
+      "id": "greek-apollodorus-asclepius",
+      "title": {
+        "en": "Asclepius: The Healer Who Raised the Dead",
+        "zh": "阿斯克勒庇俄斯：起死回生的醫者"
+      },
+      "tradition": "greek",
+      "category": "myth",
+      "region": {
+        "en": "Thessaly to Epidaurus (mythic geography)",
+        "zh": "色薩利至厄庇道魯斯（神話地理）"
+      },
+      "lat": 37.6,
+      "lon": 23.15,
+      "period": "Compiled c. 1st-2nd century CE (attrib. Apollodorus; Frazer translation 1921)",
+      "source": {
+        "archive": "ToposText (J. G. Frazer, Loeb 1921)",
+        "work": "Apollodorus, Library, trans. J. G. Frazer (1921), §§ 3.10.3-3.10.4",
+        "url": "https://topostext.org/work/150"
+      },
+      "license": "Public domain (Frazer translation 1921)",
+      "summary": {
+        "en": "Coronis, seduced by Apollo and unfaithful to him with Ischys the Arcadian, is shot by the god, who is told by his raven; the raven, once white, is cursed black. Apollo snatches the living child from his mother's pyre and gives him to Chiron, the wise centaur, who brings him up in the arts of hunting and of healing. Athena gives him the two-sided blood of the Gorgon, and Asclepius, using the blood from the right-side vein, raises the dead — Hippolytus, Tyndareus, Hymenaeus, Glaucus — until Zeus, fearing that men might never die, hurls a thunderbolt at him. Apollo avenges him by slaying the Cyclopes, thunder-smiths of Zeus; and Asclepius thereafter settles among men as a god of healing, worshipped at Epidaurus with its snake-garden and shrine of miracle cures.",
+        "zh": "科羅尼斯被阿波羅所愛、卻另屬伊斯基斯；白烏鴉告密，神怒而殺之，並咒烏鴉永世為黑。阿波羅自焚屍中把嬰孩取回，交人馬喀戎撫育，教他醫術與獵術。雅典娜賜他戈耳貢雙側之血：左血為毒、右血能起死回生，希波呂托斯等多人因此還陽。宙斯恐凡人習得醫術而不再死亡，以雷霆擊之；阿波羅憤而射殺鑄雷的獨眼巨人，賴母親勒托求情，被罰作阿德墨托斯的僕役一年。後世尊其為醫神，厄庇道魯斯聖域香火最盛。"
+      },
+      "motifs": [
+        "resurrection",
+        "miraculous-birth",
+        "miracle-cure"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient literary source; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Apollo loved Coronis, daughter of Phlegyas, and she, against her father's judgment, preferred another man, Ischys, brother of Caeneus. A raven brought tidings of her infidelity to the god, and Apollo, in his anger, cursed the raven that had once been white and made it black for ever; and he killed Coronis for her unfaithfulness.",
+          "note": "Paraphrase of Apollodorus, Library 3.10.3 (Frazer 1921); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "But when she was burning on the pyre, he snatched the living child from the fire, and went with him to Chiron the centaur, who brought him up and taught him the arts of healing and of hunting. And so Asclepius became such a surgeon as the world had never seen, and carried the art to such a pitch that he not only prevented some from dying but even raised up the dead.",
+          "note": "Paraphrase of Apollodorus, Library 3.10.3 (Frazer 1921); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "The power was a gift of Athena, who gave him the blood that had flowed from the veins of the Gorgon when Perseus cut off her head: the blood that came from the veins on the left side he kept for the bane of mankind, and the blood from the right side for salvation; and with it he raised up the dead. Hippolytus, Tyndareus, Hymenaeus, and Glaucus the son of Minos are among those named in the old tellings as restored to life by him.",
+          "note": "Paraphrase of Apollodorus, Library 3.10.3 (Frazer 1921); not verbatim."
+        },
+        {
+          "id": "4",
+          "text": "But Zeus, fearing that men might learn the art of healing from him and come to the rescue of one another for ever, hurled a thunderbolt at Asclepius and struck him dead. Apollo, enraged at the death of his son, slew the Cyclopes who had forged the thunderbolt for the king of gods; and Zeus would have hurled his own son to Tartarus, but at the intercession of Latona he instead ordered Apollo to serve a mortal man: the god went as a thrall to Admetus for a year.",
+          "note": "Paraphrase of Apollodorus, Library 3.10.4 (Frazer 1921); not verbatim."
+        },
+        {
+          "id": "5",
+          "text": "But the art of healing survived its maker. Asclepius came to be honoured as a god of medicine; his temples stood in many parts of the Greek world, and above all at the great shrine of Epidaurus, where the sick came in pilgrimage, slept a night within the god's precinct, and waited in their dreams for the miracle of the cure.",
+          "note": "Paraphrase of Apollodorus, Library 3.10.4 (Frazer 1921); not verbatim."
+        }
+      ],
+      "persons": [
+        "apollo",
+        "zeus",
+        "chiron-centaur",
+        "aesculapius",
+        "coronis",
+        "elatus",
+        "ischys",
+        "phlegyas"
+      ]
+    },
+    {
+      "id": "greek-apollodorus-cadmean-vixen",
+      "title": {
+        "en": "The Cadmean Vixen and the Dog That Could Not Be Outrun",
+        "zh": "卡德摩斯母狐與永不失足的獵犬"
+      },
+      "tradition": "greek",
+      "category": "myth",
+      "region": {
+        "en": "Thebes (Cadmea) (symbolic pin)",
+        "zh": "底比斯卡德美亞（象徵性定位）"
+      },
+      "lat": 38.14,
+      "lon": 22.55,
+      "period": "Compiled c. 1st-2nd century CE (attrib. Apollodorus; Frazer translation 1921)",
+      "source": {
+        "archive": "ToposText (J. G. Frazer, Loeb 1921)",
+        "work": "Apollodorus, Library, trans. J. G. Frazer (1921), §§ 2.4.6-2.4.7",
+        "url": "https://topostext.org/work/150"
+      },
+      "license": "Public domain (Frazer translation 1921)",
+      "summary": {
+        "en": "To win back his wife Alcmena, Amphitryon must first rid the Cadmea of a fated vixen no man could catch; every month a son of the Thebans was thrown to it as sacrifice. He called in Cephalus of Athens with the hound Laelaps — a dog destined to catch whatever it pursued — a gift, some say, from Minos. The two fated creatures were set against each other, and Zeus, resolving the paradox, turned them both into stone.",
+        "zh": "安菲特律翁欲贖回妻子阿爾克墨涅，先得除掉卡德美亞無人可擒的天命母狐，底比斯人每月以城內一子獻祭。他請來雅典的刻法羅斯，助其神犬拉埃拉普斯——命定能追上一切獵物（或說米諾斯所贈）。兩種天命相遇，宙斯以石化二者收場，化解矛盾。"
+      },
+      "motifs": [
+        "oracle-divination",
+        "transformation"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient literary source; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Amphitryon, exiled from Tiryns for the killing of Electryon and now a suppliant at Thebes, had promised Alcmena that he would redeem her brothers and she would marry him. He fell accordingly on the Teleboans; but Creon, king of Thebes, agreed to help on a condition: first Amphitryon must rid the citadel of a monstrous vixen that ravaged the Cadmea.",
+          "note": "Paraphrase of Apollodorus, Library 2.4.6 (Frazer 1921); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "This was no ordinary beast: fate had decreed that nobody should catch it. Thebes, at its mercy, sacrificed to it a son of one of the citizens every month, so it would not carry off many more; yet the beast's ravages continued.",
+          "note": "Paraphrase of Apollodorus, Library 2.4.6-2.4.7 (Frazer 1921); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "So Amphitryon went to Cephalus, son of Deioneus, at Athens, and persuaded him, in return for a share of the Teleboan spoils, to bring to the chase a marvellous dog — Laelaps — which men said Procris had brought from Crete as a gift of Minos; for that dog was destined to catch whatever it pursued.",
+          "note": "Paraphrase of Apollodorus, Library 2.4.7 (Frazer 1921); not verbatim."
+        },
+        {
+          "id": "4",
+          "text": "When the hound was set upon the vixen, two inevitabilities met: the dog that must catch, and the fox that must not be caught. Zeus, to end the paradox, turned both of them to stone — the fox and the hound — and so Amphitryon, freed of the constraint, went on with his allies Cephalus, Panopeus, Heleus and Creon to ravage the islands of the Taphians and take the revenge for Alcmena's brothers.",
+          "note": "Paraphrase of Apollodorus, Library 2.4.7 (Frazer 1921); not verbatim."
+        }
+      ],
+      "persons": [
+        "zeus",
+        "cadmea-vixen",
+        "laelaps",
+        "cephalus-athens",
+        "deioneus",
+        "erechtheus",
+        "procris"
+      ]
+    },
+    {
+      "id": "greek-apollodorus-comaetho",
+      "title": {
+        "en": "Comaetho and the Golden Lock",
+        "zh": "科瑪厄托與金髮"
+      },
+      "tradition": "greek",
+      "category": "myth",
+      "region": {
+        "en": "Taphos, Ionian islands (symbolic pin)",
+        "zh": "塔福斯島（伊奧尼亞群島，象徵性定位）"
+      },
+      "lat": 38.95,
+      "lon": 20.86,
+      "period": "Compiled c. 1st-2nd century CE (attrib. Apollodorus; Frazer translation 1921)",
+      "source": {
+        "archive": "ToposText (J. G. Frazer, Loeb 1921)",
+        "work": "Apollodorus, Library, trans. J. G. Frazer (1921), §§ 2.4.5-2.4.7",
+        "url": "https://topostext.org/work/150"
+      },
+      "license": "Public domain (Frazer translation 1921)",
+      "summary": {
+        "en": "The Taphian king Pterelaus was made unconquerable by a single purple-golden lock of hair that Poseidon had given him; while it lived on his head, not even Amphitryon could take Taphos. But his daughter Comaetho fell in love with the besieger, pulled out her father's lock, and he died on the spot; Amphitryon subdued all the islands, slew Comaetho for her treachery, and carried the spoils back to Thebes to lay them before Alcmena on the night before Heracles' own birth.",
+        "zh": "塔福斯王普忒勒勞斯因波塞頓所賜的一根金紫色髮而近乎不死；髮存則城不可破。其女科瑪厄托愛上圍城的安菲特律翁，趁夜拔下父親金髮，普忒勒勞斯立即身亡。安菲特律翁遂蕩平群島，卻因她的背叛而誅之；戰利品被攜回底比斯，在赫拉克勒斯誕生前夜獻上阿爾克墨涅。"
+      },
+      "motifs": [
+        "taboo-transgression",
+        "resurrection",
+        "betrayal"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient literary source; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Amphitryon, the exiled lord of Tiryns and the son-in-law of Electryon's house, had promised to avenge Alcmena's brothers who had been killed by the Taphians. Creon of Thebes had helped him rid the Cadmea of the vixen; and, with allies from Attica, Phocis, Argos and Thebes, Amphitryon set out against the islands of the Taphians.",
+          "note": "Paraphrase of Apollodorus, Library 2.4.7 (Frazer 1921); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "But while Pterelaus, king of the Taphians, lived, the able Amphitryon could not take the island. For Poseidon, in the tradition, had given Pterelaus one golden-purple lock of hair which made him unconquerable while it remained rooted in his head.",
+          "note": "Paraphrase of Apollodorus, Library 2.4.7 (Frazer 1921); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "It was Comaetho, his own daughter, who undid him. In love with Amphitryon, she pulled the golden lock from her father's head as she kept watch over him; Pterelaus died at once, and Amphitryon subdued all the islands in a single stroke.",
+          "note": "Paraphrase of Apollodorus, Library 2.4.7 (Frazer 1921); not verbatim."
+        },
+        {
+          "id": "4",
+          "text": "The victor did not spare the daughter: he slew Comaetho for her treachery to her own house, carried the spoils back to Thebes, and made over the islands to his allies Cephalus and Heleus, who founded cities named after themselves and dwelt in them. And when Amphitryon came home in glory, it was the night before the birth of Heracles, the child the god Zeus had fathered in Amphitryon's own bed.",
+          "note": "Paraphrase of Apollodorus, Library 2.4.7 (Frazer 1921); not verbatim."
+        }
+      ],
+      "persons": [
+        "pterelaus",
+        "comaetho"
+      ]
+    },
+    {
+      "id": "greek-apollodorus-icarius-wine",
+      "title": {
+        "en": "Icarius and the First Wine",
+        "zh": "伊卡里俄斯與第一杯酒"
+      },
+      "tradition": "greek",
+      "category": "myth",
+      "region": {
+        "en": "Attica, deme Icaria (symbolic pin)",
+        "zh": "阿提卡伊卡里亞村（象徵性定位）"
+      },
+      "lat": 38,
+      "lon": 23.8,
+      "period": "Compiled c. 1st-2nd century CE (attrib. Apollodorus; Frazer translation 1921)",
+      "source": {
+        "archive": "ToposText (J. G. Frazer, Loeb 1921)",
+        "work": "Apollodorus, Library, trans. J. G. Frazer (1921), § 3.14.7",
+        "url": "https://topostext.org/work/150"
+      },
+      "license": "Public domain (Frazer translation 1921)",
+      "summary": {
+        "en": "When Dionysus came to Attica, Icarius welcomed him and received from the god the gift of the vine and knowledge of winemaking — the first draught of wine in Greece. But the shepherds to whom he served the new beverage drank unwatered and strong, and, thinking themselves bewitched, killed him. His daughter Erigone, searching for her father, was led to the body by his faithful dog Maera; she mourned over him and hanged herself.",
+        "zh": "酒神來到阿提卡，伊卡里俄斯接待他，得神所贈葡萄藤並習得釀酒之法——希臘的第一杯酒。他將新酒分給牧人；牧人無水摻悶暢飲，自覺中邪，竟將此人殺害。其女厄里戈涅尋父，忠犬邁拉引至屍旁；她哀悼父親，自縊而亡。"
+      },
+      "motifs": [
+        "culture-hero",
+        "taboo-transgression"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient literary source; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "When Dionysus came to Attica, he was received by Icarius, an Athenian of the deme Icaria; the god gave him a branch of a vine and taught him the whole art of making wine. Icarius, wishing to share the new boon with men, went out to some shepherds and served them the juice. They drank it copiously without watering, for the pleasure of it; and when the strength of the wine worked upon them, they made sure they had been bewitched by the giver.",
+          "note": "Paraphrase of Apollodorus, Library 3.14.7 (Frazer 1921); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "So they killed the man who had brought them present delight. By daylight they understood the truth and buried him; but the boon-giver of Dionysus lay under the earth unheard, and his daughter Erigone went out to search for him.",
+          "note": "Paraphrase of Apollodorus, Library 3.14.7 (Frazer 1921); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "His faithful dog Maera, which had attended him in life, led her to the body; and Erigone bewailed her father and hanged herself. So the gift that was meant to be joy came first to Attica as a tale of blood — the first wine in Greece and the first death for the pouring of it.",
+          "note": "Paraphrase of Apollodorus, Library 3.14.7 (Frazer 1921); not verbatim."
+        }
+      ],
+      "persons": [
+        "dionysus",
+        "erigone-icarian",
+        "icarius-attic"
+      ]
+    },
+    {
+      "id": "greek-apollodorus-sisyphus-corinth",
+      "title": {
+        "en": "Sisyphus, Founder of Corinth, and His Punishment",
+        "zh": "西敘福斯：科林斯建城者與其懲罰"
+      },
+      "tradition": "greek",
+      "category": "myth",
+      "region": {
+        "en": "Corinth (symbolic pin)",
+        "zh": "科林斯（象徵性定位）"
+      },
+      "lat": 37.9,
+      "lon": 22.96,
+      "period": "Compiled c. 1st-2nd century CE (attrib. Apollodorus; Frazer translation 1921)",
+      "source": {
+        "archive": "ToposText (J. G. Frazer, Loeb 1921)",
+        "work": "Apollodorus, Library, trans. J. G. Frazer (1921), § 1.9.3",
+        "url": "https://topostext.org/work/150"
+      },
+      "license": "Public domain (Frazer translation 1921)",
+      "summary": {
+        "en": "Sisyphus, son of Aeolus, founded Ephyra, which is now called Corinth, and married Merope, daughter of Atlas; his house went on through Glaucus to Bellerophon the rider of Pegasus. But for betraying to Asopus the secret of Zeus's theft of Aegina, he is punished in Hades: he rolls a stone with hands and head to heave it over the crest, and push it as he will, it rebounds backwards — the mythic picture of self-defeating cleverness forever rolled round again.",
+        "zh": "埃俄羅斯之子西敘福斯建立埃菲拉——即今之科林斯——娶阿特拉斯之女墨洛珀為妻；其家經格勞科斯傳至騎天馬的柏勒洛豐。但因把宙斯誘拐埃癸娜之祕密告訴追女的科任托斯王阿索波斯，他被判入冥府：日日以手與頭推巨石上山，石至頂即回滾、永不休止——自我打擊的智者、無休止重複的懲罰典範。"
+      },
+      "motifs": [
+        "sacred-kingship",
+        "trickster",
+        "betrayal"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient literary source; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Sisyphus, son of Aeolus, founded Ephyra, which in later ages men called Corinth, and married Merope, one of Atlas's daughters. He had a son Glaucus, and Glaucus had by Eurymede a son Bellerophon, who would one day slay the fire-breathing Chimera; so royal wisdom ran in the family.",
+          "note": "Paraphrase of Apollodorus, Library 1.9.3 (Frazer 1921); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "But the founder of Corinth also came to an infamous end in the world below. Zeus had secretly carried off Aegina, daughter of the river-god Asopus; and Sisyphus, knowing where she had gone, betrayed the secret to Asopus while the god of the river was still seeking for her.",
+          "note": "Paraphrase of Apollodorus, Library 1.9.3 (Frazer 1921); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "The punishment in Hades endures to this telling: he rolls a stone with his hands and with his head, in the effort to heave it over the crest of the hill; but push as he will, it rebounds backward. And so, in the land of the dead, the man who had built a city that survives to this day, and knew the trick of gods, is held under the weight that he cannot finish lifting — rolling the same stone forever, from hill to fountain and back again.",
+          "note": "Paraphrase of Apollodorus, Library 1.9.3 (Frazer 1921); not verbatim."
+        }
+      ],
+      "persons": [
+        "atlas",
+        "zeus",
+        "asopus",
+        "aegina-naiad",
+        "merope-pleiad",
+        "pleione"
+      ]
+    },
+    {
+      "id": "greek-ovid-birth-of-bacchus",
+      "title": {
+        "en": "The Birth of Bacchus (Dionysus)",
+        "zh": "酒神巴克斯的誕生"
+      },
+      "tradition": "greek",
+      "category": "myth",
+      "region": {
+        "en": "Thebes (symbolic pin)",
+        "zh": "底比斯（象徵性定位）"
+      },
+      "lat": 38.14,
+      "lon": 22.55,
+      "period": "Composed c. 8 CE (Latin; Riley translation 1851)",
+      "source": {
+        "archive": "Project Gutenberg eBook 21765 (H. T. Riley, trans.)",
+        "work": "Ovid, Metamorphoses, Book III (Fables IV-V)",
+        "url": "https://www.gutenberg.org/ebooks/21765"
+      },
+      "license": "Public domain (Riley translation 1851)",
+      "summary": {
+        "en": "Juno, in the disguise of Semele's old nurse Beroe, teaches the daughter of Cadmus to demand of her lover Jupiter the form he wears for Juno in bed. Bound by an oath on the Styx, Jupiter comes in full thunder; Semele, consumed, burns in his embrace; the fetus, however, is rescued, sewn into the father's own thigh to complete the months, and born again. Ino, his aunt, raises him in secret, then the Nysean nymphs in their caves, with milk; and thus the god is twice-born under the still-living mother Cytherea's care.",
+        "zh": "朱諾化作塞墨勒的乳母柏瑞厄，教她向情人宙斯索其擁抱朱諾時的威嚴原形。宙斯以斯提克斯河立誓、無法食言，遂全副雷霆下界；塞墨勒在人間婚禮的嫁妝中焚燬；胎兒取自母腹縫入父親大腿補足孕期，二次誕生。姨母伊諾祕密撫養，後由尼薩山寧芙藏於洞窟以乳哺育——酒神由此兩生。"
+      },
+      "motifs": [
+        "miraculous-birth",
+        "divine-marriage"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient literary source; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Among the descendants of Agenor, Jove doted now on the Phoenician maiden, Europa; then on Aegina; and then, in turn, he doted on Semele, the daughter of Cadmus, who was cared for with a fond mother, and desired nothing of this. Juno, nursing her grudge against a mortal woman who dared above her rank, put on the shape of Beroe — Semele's Epidaurian nurse — so the two talked and joked of their lover together, and Juno, singing, told her: has he often so far stretched his love as, for instance, a god? and does he swear so faithfully as the nature of a lover allows?",
+          "note": "Paraphrase of Ovid, Metamorphoses III, Fable IV (Riley 1851); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "For proof, the nurse taught the girl to demand of him that, if he was indeed Jove, he would come to her in the ensigns and state of royalty, the majesty he wore for Juno herself. The daughter of Cadmus innocently asked the boon, saying nothing; and Jupiter, as he ever could for a mortal, granted her the request before it was made; and swore, for the more belief, by the Styx, the dread river of the underworld that all gods fear to break.",
+          "note": "Paraphrase of Ovid, Metamorphoses III, Fable IV (Riley 1851); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "Overjoyed at her misfortune, she said: 'present thyself as Juno is wont to embrace thee.' The god groaned: he could not unsay his oath. So he mounted the skies, drew thick clouds around himself, and added rain and mixed winds, thunders, and the inevitable thunderbolt. He put on the least of his many fires, the second thunder, which the Cyclops had forged with less anger in it; but her mortal body could not endure the ethereal blaze: she burned amid her own nuptial presents, the dowry of a bride who had married a god.",
+          "note": "Paraphrase of Ovid, Metamorphoses III, Fable V (Riley 1851); not verbatim."
+        },
+        {
+          "id": "4",
+          "text": "The infant, as yet unformed, was snatched from the womb of his mother, and — if we can believe it — sewn into the thigh of his father, where he completed the months he should have spent in the womb. His aunt Ino nursed him secretly in his first cradle; after her, the Nysean Nymphs concealed him in their caves and gave him the nourishment of milk. So the god grew, twice-born, under the care of nurses and the watch of heaven: and in due time all Thebes knew him for the son of the thunderer, who before all others came back living from the tomb of his mother.",
+          "note": "Paraphrase of Ovid, Metamorphoses III, Fable V (Riley 1851); not verbatim."
+        }
+      ],
+      "persons": [
+        "dionysus",
+        "zeus",
+        "cadmus"
+      ]
+    },
+    {
+      "id": "greek-ovid-creation",
+      "title": {
+        "en": "The Making of the World (Ovid's Creation)",
+        "zh": "世界的造成（奧維德創世記）"
+      },
+      "tradition": "greek",
+      "category": "myth",
+      "region": {
+        "en": "Universal cosmos (mythic geography)",
+        "zh": "宇宙全體（神話地理）"
+      },
+      "lat": 0,
+      "lon": 0,
+      "period": "Composed c. 8 CE (Latin; Riley translation 1851)",
+      "source": {
+        "archive": "Project Gutenberg eBook 21765 (H. T. Riley, trans.)",
+        "work": "Ovid, Metamorphoses, Book I (Fables I-II)",
+        "url": "https://www.gutenberg.org/ebooks/21765"
+      },
+      "license": "Public domain (Riley translation 1851)",
+      "summary": {
+        "en": "Ovid opens his poem with the separation of the whole mass into land, sea, air and the passions proper to each; the four winds are given their settlements, the stars to shine, the living kinds to their elements; and then man is made — whether of the divine seed of the Creator, or of the earth tempered with rain — by Prometheus, and set upright to look at the heavens.",
+        "zh": "奧維德的《變形記》以混沌劈開開篇：天、地、海、氣，各自成形，四風安座，星辰起光；諸靈各歸其界。最後造人：或由造物主之神性元素鍛成，或由普羅米修斯以雨水調和泥土塑就；直立人身，仰首望天。"
+      },
+      "motifs": [
+        "creation-chaos",
+        "clay-humans"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient literary source; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Before sea and land and the encircling sky, the face of the whole world was one — they call it Chaos: a rough unordered mass of things, nothing alive except a sluggish weight of matter heaped together. Not yet was the sun's light divided from the earth, nor the moon's from the sun; not yet did the earth hang balanced by its own weight around its own sky. From this one mass, some Power divided the parts: the god (or kindlier nature) cut it up, separated the earth from the sky and the watery waves from the earth, and distinguished the ethereal heavens from the grosser air.",
+          "note": "Paraphrase of Ovid, Metamorphoses I, Fable I (Riley 1851); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Each element received its proper place, and none can be removed whence it has been placed; each contains one life of its own. Fire, the lightest, went up to the heaven; the air came next; earth sank lower, drawn down by its weight; and water hung beneath it, the lowest of all. This one Provider — whoever he was — ordered the universe with form and regularity.",
+          "note": "Paraphrase of Ovid, Metamorphoses I, Fable II (Riley 1851); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "He made the globe in even measure, poured the sea round the shores, added springs and pools and lakes, bounded the rivers as they leapt down; extended the plains, sunk the valleys, clothed the woods; raised the cragged mountains; and clime upon clime, two heavens upon either side overhung them. Over these he hung the air with its vapours and clouds and terrifying thunders and the winds that quarrel with each other even still, so hardly kept from rending the world asunder.",
+          "note": "Paraphrase of Ovid, Metamorphoses I, Fable II (Riley 1851); not verbatim."
+        },
+        {
+          "id": "4",
+          "text": "Then the stars, which had lain hid beneath the mass of Chaos, began to glow through the whole sphere of the heavens: the stars of the gods to the heavens; the waters fell to the fishes; the earth yielded the beasts; and the yielding air yielded the birds. An animal more holy than these, and fitted to command the rest, was still wanting: and then Man was made — whether by the Artificer of the world himself from the divine seed, or by Prometheus, son of Iapetus, who tempered the new-made earth with rainwater and shaped it after the image of the gods; and for the first time lifted up his face to behold the heavens and the stars. Thus that which had been lately rude earth, and without form, took on the shape of Man, till then unknown to all the world.",
+          "note": "Paraphrase of Ovid, Metamorphoses I, Fable II (Riley 1851); not verbatim."
+        }
+      ],
+      "persons": [
+        "prometheus",
+        "zeus"
+      ]
+    },
+    {
+      "id": "greek-ovid-latona-frogs",
+      "title": {
+        "en": "Latona and the Lycian Peasants",
+        "zh": "勒托與呂基亞農夫：青蛙之由來"
+      },
+      "tradition": "greek",
+      "category": "myth",
+      "region": {
+        "en": "Lycia (symbolic pin)",
+        "zh": "呂基亞（象徵性定位）"
+      },
+      "lat": 36.6,
+      "lon": 29.7,
+      "period": "Composed c. 8 CE (Latin; Riley translation 1851)",
+      "source": {
+        "archive": "Project Gutenberg eBook 21765 (H. T. Riley, trans.)",
+        "work": "Ovid, Metamorphoses, Book VI (Fables III-IV)",
+        "url": "https://www.gutenberg.org/ebooks/21765"
+      },
+      "license": "Public domain (Riley translation 1851)",
+      "summary": {
+        "en": "Driven by Juno across the world, heavy with her twins and parched with a Lycian sun, Latona comes to a pool to drink — and the peasants working the rushes bar her, then muddy the water with their feet for spite. She renounces begging: 'may you live for ever in that pool.' Their limbs sink, their necks swell, their mouths gape in abuse — and they are frogs forever, keeping their spite under water. She calls, still, the peasants who told the tale — and still their frogs croak from the same pool, at the altar black with ash, in the Lycian valley — the altar where the people say Latona herself bore her twins.",
+        "zh": "被朱諾二十一國追索、懷孕雙胎、烈日中日曬渴的勒托至池邊欲飲，凡夫俗子竟下腳把水踩渾不許她喝。女神怒而求討：'願你們永世住在池中！'她體態漸沉、脖項粗大、口吐污水之呪罵聲永不得休——化為青蛙。呂基亞山谷中至今仍有一座灰燼黑成的古祭壇，人們說那是勒托產雙胎之處。"
+      },
+      "motifs": [
+        "transformation",
+        "taboo-transgression"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient literary source; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "There is an old altar in a Lycian valley, black with the ash of sacrifices, standing in a modest pool hedged about with quivering reeds. A native guide told Ovid's narrator its story as he passed: 'there is no mountain-divinity for this altar. She claims it for herself whom royal Juno banished from the world — whom the wandering Delos, still swimming like a light island, scarcely received at her prayers.'",
+          "note": "Paraphrase of Ovid, Metamorphoses VI, Fable III (Riley 1851); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "By that palm, on that island, Latona brought forth in pain her twins, Apollo and Diana, against Juno's spite; and now, after all her wanderings, she was again on the hot Lycian road, carrying her two young children in her arms, worn out with sun, and parched with thirst, when she saw a lake of clear water in the bottom of the valley, and some countryfolk in it, gathering osiers and rushes and sedge.",
+          "note": "Paraphrase of Ovid, Metamorphoses VI, Fable III (Riley 1851); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "She knelt on the ground for a draught: the peasants barred her. Their answer was a stream of abuse and threats, and then — this is the brutality they could not keep from their hands — they stirred up the soft mud from the bottom with their feet and made the clean water filthy against her. Her thirst went out of her with her anger; no more did the daughter of Coeus supplicate the wretches, nor hold back words a goddess should have to speak: she raised her voice to heaven and said, 'Live in that pool for ever.'",
+          "note": "Paraphrase of Ovid, Metamorphoses VI, Fable III (Riley 1851); not verbatim."
+        },
+        {
+          "id": "4",
+          "text": "Her wish came to pass on them all. They delighted then to go under the water, and sometimes to plunge their whole bodies in the pool; now they lifted their heads to the surface, now swam on the top; they would sit on the bank for a moment and leap back in the cold stream. Still, under the green water, they kept up their scandalous tongues in insults they could not stay from, and their voices grew hoarse with the shouting, and their bloated necks swelled out with their abuse. And their backs closed into one plane with their heads; their necks looked cut off; the green of their backs spread over them, and their bellies, the largest part of them, went white: they were frogs, brand-new, leaping in the muddy water.",
+          "note": "Paraphrase of Ovid, Metamorphoses VI, Fable III (Riley 1851); not verbatim."
+        },
+        {
+          "id": "5",
+          "text": "And at the altar Ovid's local guide whispered 'Be thou propitious' — for it had become the place of the goddess herself: the Letoön, where villagers came to offer and the sacredness of the pool and the frogs to be taken as a sign. The croaking frogs thus descend from one old myth: of those who denied water to the mother of gods.",
+          "note": "Paraphrase of Ovid, Metamorphoses VI, Fable III, with Riley's explanation of the etiological tradition (1851); not verbatim."
+        }
+      ],
+      "persons": [
+        "apollo",
+        "artemis",
+        "zeus",
+        "latona-rocks"
+      ]
+    },
+    {
+      "id": "greek-ovid-philomela",
+      "title": {
+        "en": "Tereus, Philomela, and the Language of the Web",
+        "zh": "特柔斯、菲羅墨拉與織上文字"
+      },
+      "tradition": "greek",
+      "category": "myth",
+      "region": {
+        "en": "Daulia, Phocis (symbolic pin)",
+        "zh": "福基斯道利亞（象徵性定位）"
+      },
+      "lat": 38.52,
+      "lon": 22.6,
+      "period": "Composed c. 8 CE (Latin; Riley translation 1851)",
+      "source": {
+        "archive": "Project Gutenberg eBook 21765 (H. T. Riley, trans.)",
+        "work": "Ovid, Metamorphoses, Book VI (Fables V-VI)",
+        "url": "https://www.gutenberg.org/ebooks/21765"
+      },
+      "license": "Public domain (Riley translation 1851)",
+      "summary": {
+        "en": "Tereus, king of Thrace, wed to Progne and conquering for Athens her father Pandion's war, takes the younger sister Philomela home in disguise; ravishes her in the wood, and, for fear of discovery, cuts out her tongue. Robbed of speech, she weaves the crime into a cloth and sends it by hand to her sister; Progne reads it in her halls, then, with the boy Itys led to the slaughter, takes her revenge: she cooks her own child to serve at Tereus' table. At Daulia in Phocis the gods change all three into birds: the husband a hoopoe with a warrior's crest, Progne a swallow, and Philomela a nightingale, singing for ever of what was done to her speechless tongue.",
+        "zh": "色雷斯王特柔斯娶普洛克涅為妻，因此協助雅典王潘狄翁作戰。他以探親為名接走菲羅墨拉，在林中施暴，並割其舌以防事發——啞女斐無法言語但巧於織技：她把罪行織成一匹布，囑僕人送至宮中。普洛克涅見之，抱回幼子伊提斯的屍首，終以復仇之宴上體肉奉夫。三人於道利亞化為鳥：特柔斯為戴羽冠之戴勝、普洛克涅為燕、菲羅墨拉為夜鶯，其歌聲永訴無舌之苦。"
+      },
+      "motifs": [
+        "taboo-transgression",
+        "transformation"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient literary source; the story contains graphic violence; presented as ancient material without endorsement."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Pandion, king of Athens, had made a good marriage: his daughter Progne to Tereus, the great warrior of Thrace, son of Mars, by whose aid Pandion drove off his enemies. Their wedding was celebrated without omen; the Furies sat on the roof, and the owl — a boding bird of the night — haunted the bridal chamber: ill omens that came true. Itys was their son, and for five autumns the couple lived in harmony.",
+          "note": "Paraphrase of Ovid, Metamorphoses VI, Fable V (Riley 1851); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Then Progne begged her sister Philomela, left in Athens, to visit her in Thrace; and Tereus, loaded with gifts, sailed back for her himself. Seeing the girl, he was inflamed, and all the way framed the dark plan of violence. He tricked Pandion's consent under flattery, shipped her over the sea, and, within a frame of woods, deceived her into the wilds: seized, deflowered, and — when in hatred she gave him the tongue — silenced literally, in silence, and hidden in a stone structure, with a slave girl to keep her alone.",
+          "note": "Paraphrase of Ovid, Metamorphoses VI, Fable V (Riley 1851); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "But the girl, having no voice, had memory, and she had a craft: she wove the story into a fabric, and sent it by servant to Progne. Progne, reading her sister's wrongs — the proof on the cloth before her — said nothing out loud: the festival of Bacchus, from one of the house-wombs, was coming. And it was then the plan she formed: revenge at her own home, over wine, with her sister present at the table.",
+          "note": "Paraphrase of Ovid, Metamorphoses VI, Fable V (Riley 1851); not verbatim."
+        },
+        {
+          "id": "4",
+          "text": "With Itys — her own son — she finished Tereus' homecoming: the banquet she placed before him was his boy. At the table Tereus called for his son, and in response she cried, 'You have him within.' He raged for his weapon; and the three of them sprang from the house in flight, prophesying in bird-language. Tereus was changed into a hoopoe with a crest of soldier's feathers; Progne into the swallow, red-breasted beneath the eaves; Philomela into the nightingale, still announcing with her notes the crime done to her tongue.",
+          "note": "Paraphrase of Ovid, Metamorphoses VI, Fable VI (Riley 1851); not verbatim."
+        },
+        {
+          "id": "5",
+          "text": "In Daulis, and the country all about, the names of that bird became the names of the story: the swallow that never sings after that night, the nightingale always wailing, and the hoopoe with the head-dress of the ravisher. And so the love-songs of nightingales in the midsummer of Thessaly were understood, in this telling, to be the voice of the girl whose tongue a king took from her.",
+          "note": "Paraphrase of Ovid, Metamorphoses VI, Fable VI (Riley 1851); not verbatim."
+        }
+      ],
+      "persons": [
+        "itys",
+        "philomela",
+        "procne",
+        "teres"
+      ]
+    },
+    {
+      "id": "greek-pausanias-actaeon-spectre",
+      "title": {
+        "en": "Actaeon's Spectre at Orchomenus",
+        "zh": "阿克泰翁的鬼影：俄爾科墨努斯的祭祀起源"
+      },
+      "tradition": "greek",
+      "category": "myth",
+      "region": {
+        "en": "Orchomenus, Boeotia (symbolic pin)",
+        "zh": "波厄提亞俄爾科墨努斯（象徵性定位）"
+      },
+      "lat": 38.48,
+      "lon": 23.08,
+      "period": "Written c. 2nd century CE (Shilleto/Bohn translation; G. B. 68680)",
+      "source": {
+        "archive": "Project Gutenberg eBook 68680 (A. R. Shilleto, trans.)",
+        "work": "Pausanias, Description of Greece IX.38",
+        "url": "https://www.gutenberg.org/ebooks/68680"
+      },
+      "license": "Public domain (Shilleto translation)",
+      "summary": {
+        "en": "At Orchomenus a spectre in the shape of Actaeon was said to sit upon a certain stone and work harm on the land; the Delphic oracle prescribed that whatever remains of Actaeon could be found be buried, and a bronze copy of the spectre be attached with iron to the stone; and Pausanias says he himself saw it, and that the town offers him funeral rites every year. A short story: the origin of a local cult, and a folk-memory of the hunter who had seen Artemis at her bath and died for it.",
+        "zh": "俄爾科墨努斯傳言有一位阿克泰翁形貌的鬼影盤坐某巨石之上、為害鄉土；德爾菲神諭指示：把能找到的阿克泰翁遺骨掩埋，並以青銅仿其鬼形鐵釘於石。鮑桑尼亞斯親眼見之，並說此城每年為鬼影舉行喪祭。短小故事背後，是有關獵手阿克泰翁因偷看阿爾忒彌斯沐浴而亡之地方祭祀起源。"
+      },
+      "motifs": [
+        "taboo-transgression",
+        "sacred-place"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient literary source; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The men of Orchomenus had a tradition that a spectre, having the shape of Actaeon, sat upon a certain stone and injured their land: blights, they said, would strike down their crops wherever the spectre sat. They sent to Delphi, and the oracle's answer prescribed two acts at once: bury in the ground whatever remains of Actaeon they could find, and make a bronze copy of the spectre and fasten it with iron to the stone on which it sat.",
+          "note": "Paraphrase of Pausanias, Description of Greece 9.38 (Shilleto); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Pausanias says he himself saw the bronze figure fixed upon the stone; and that to this day the people of Orchomenus perform funeral rites to Actaeon every year. The name behind it is old: Actaeon the hunter, who in the familiar telling came upon Artemis at her bath and was changed into a stag and torn apart by his own hounds. Here, in Pausanias' quieter version, his lingering presence is the cause of an annual rite — a daimon of the fields propitiated with an offering every year at harvest.",
+          "note": "Paraphrase of Pausanias, Description of Greece 9.38 (Shilleto); not verbatim."
+        }
+      ],
+      "persons": [
+        "artemis",
+        "aristaeus",
+        "actaeon",
+        "autonoe"
+      ]
+    },
+    {
+      "id": "greek-pausanias-hippocrene",
+      "title": {
+        "en": "Hippocrene, the Spring Struck from the Rock",
+        "zh": "希波克瑞涅：馬蹄踏石出泉"
+      },
+      "tradition": "greek",
+      "category": "myth",
+      "region": {
+        "en": "Mount Helicon (symbolic pin)",
+        "zh": "赫利孔山（象徵性定位）"
+      },
+      "lat": 38.32,
+      "lon": 23.09,
+      "period": "Written c. 2nd century CE (Shilleto/Bohn translation; G. B. 68680)",
+      "source": {
+        "archive": "Project Gutenberg eBook 68680 (A. R. Shilleto, trans.)",
+        "work": "Pausanias, Description of Greece IX.31",
+        "url": "https://www.gutenberg.org/ebooks/68680"
+      },
+      "license": "Public domain (Shilleto translation)",
+      "summary": {
+        "en": "Twenty stades above Thebes' valley lies the grove of the Muses on Helicon, and beyond it Hippocrene — the Horse's Spring, gushing, the Boeotians said, where the hoof of Bellerophon's Pegasus struck the earth. Around it Pausanias found a museum-country of relics: the oldest tripod won by Hesiod at Chalcis, a leaden plate said to be written with The Works and Days in a poet's own hand, and the Mouseia festival where Thespians — with games to the Muses and to Eros both — still contest in song and sport.",
+        "zh": "赫利孔山繆斯聖林內有赫西俄德在卡爾基斯詩賽奪得的古銅鼎；山上二十斯塔德處是希波克瑞涅泉——傳為柏勒洛豐的天馬一蹄踏石而出。泉畔曾見一近乎朽盡的鉛板，傳為詩人手書《勞作與時日》；忒斯庇亞人在聖林舉行繆斯節慶，設詩歌與體育競技，亦每年祭愛神厄若斯。"
+      },
+      "motifs": [
+        "sacred-place",
+        "sacred-kingship",
+        "sacred-stone",
+        "sacred-waters",
+        "relics"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient literary source; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "At Helicon there are several tripods, of which the oldest, Pausanias notes, is the one they say Hesiod received at Chalcis by the Euripus for a victory in song — the very tripod the poet himself tells of in his verse. Around the grove the people live and till; and the Thespians hold there a festival of the Muses with games not only of music but of athletes; and another also to Eros — the famous deity of the Thespians.",
+          "note": "Paraphrase of Pausanias, Description of Greece 9.31 (Shilleto); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "And twenty stades upstream from the sacred grove, going up from it, you reach Hippocrene — the Horse's Spring. The Boeotians, Pausanias was told, said that the water had sprung from the rock when the hoof of Pegasus, the winged horse that carried Bellerophon, struck the mountain-earth.",
+          "note": "Paraphrase of Pausanias, Description of Greece 9.31 (Shilleto); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "And by the spring Pausanias was shown a marvel of another kind: a sheet of lead almost entirely rotten with age, on which The Works and Days was said to be written; and the folk of Helicon swore that Hesiod wrote nothing else. Theirs was a one-book Helicon in that telling; but other Greeks counted among Hesiod's works a Theogony, poems on women, on Melampus, on Theseus and Pirithous going down to Hades, and the exhortation of Chiron to Achilles.",
+          "note": "Paraphrase of Pausanias, Description of Greece 9.31 (Shilleto); not verbatim."
+        },
+        {
+          "id": "4",
+          "text": "The locals also gave Pausanias their opinions on Hesiod's death and divination. They agreed that the men said to have murdered him had taken refuge at Molycreia from Naupactus; and some told him the poet had learnt divination from the Acarnanians. Pausanias rounds off his visit with a modesty: on the top of Helicon runs a small stream called the Lamus, and in the land around Thespia, at Donacon, is the fountain of Narcissus — of whom, he says, grown men should hardly be said to have fallen in love with their own shadow in water, or fallen to it and died.",
+          "note": "Paraphrase of Pausanias, Description of Greece 9.31 (Shilleto); not verbatim."
+        }
+      ],
+      "persons": []
+    },
+    {
+      "id": "greek-pausanias-ion-achaeans",
+      "title": {
+        "en": "How the Ionians and the Achaeans Got Their Names",
+        "zh": "伊奧尼亞人與阿卡亞人的名稱由來"
+      },
+      "tradition": "greek",
+      "category": "myth",
+      "region": {
+        "en": "Aegialus / Achaia coast (symbolic pin)",
+        "zh": "埃吉阿羅斯（阿卡亞海岸，象徵性定位）"
+      },
+      "lat": 38,
+      "lon": 22,
+      "period": "Written c. 2nd century CE (Shilleto/Bohn translation; G. B. 68680)",
+      "source": {
+        "archive": "Project Gutenberg eBook 68680 (A. R. Shilleto, trans.)",
+        "work": "Pausanias, Description of Greece VII.1",
+        "url": "https://www.gutenberg.org/ebooks/68680"
+      },
+      "license": "Public domain (Shilleto translation)",
+      "summary": {
+        "en": "Pausanias opens his book of Achaia with an ethnogenesis: Xuthus, son of Hellen, exiled from Thessaly to Athens as an adopted son-in-law, had two sons — Achaeus and Ion. Achaeus returned with an army and won back Thessaly; Ion, by marriage to the king's daughter Helice, inherited the Aegialus (the shore country), founded Helice, and gave the people his name — Ionians. Afterwards the Achaeans, driven again from the Peloponnese by the Dorians, besieged and displaced the Ionians; under their king Tisamenus the Ionians migrated to Attica, where the Athenians, mindful of Ion's service, received them as settlers.",
+        "zh": "鮑桑尼亞斯開卷講民族起源：赫倫之子克蘇托斯被逐出色薩利、避居雅典，生二子阿卡俄斯與伊翁。阿卡俄斯率軍重返色薩利奪回王位；伊翁則因迎娶君主之女赫利刻繼承海濱國土（埃吉亞羅斯），築城赫利刻，國民遂以他為名——伊奧尼亞人。其後阿卡亞人受多利安人逼迫，圍攻伊奧尼亞人；伊翁後裔提薩墨諾斯戰死，殘部遷往阿提卡，雅典人念伊翁昔日之功收留他們。"
+      },
+      "motifs": [
+        "sacred-kingship",
+        "culture-hero",
+        "exile",
+        "migration-origin"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient literary source; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The country between Elis and Sicyonia, on the Corinthian Gulf, is called Achaia in Pausanias' day by the name of its inhabitants; in ancient times it was called Aegialus — the shore-land — after king Aegialeus of Sicyonia, or, as some said, from the country lying mostly along the coast.",
+          "note": "Paraphrase of Pausanias, Description of Greece 7.1 (Shilleto); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "After the death of Hellen, his sons drove out their brother Xuthus, accusing him of privately taking their father's money, and he fled to Athens, where he married the daughter of Erechtheus. By her he had two sons, Achaeus and Ion.",
+          "note": "Paraphrase of Pausanias, Description of Greece 7.1 (Shilleto); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "Achaeus took an army from Aegialus and Athens and recovered Thessaly for his father's line. Ion, gathering an army against the Aegialians and their king Selinus, was preferred in marriage to Selinus' only child Helice, and was adopted as the king's son and heir; and after Selinus' death he reigned over the Aegialians, built a city he called Helice after his wife, and called the inhabitants Ionians after himself.",
+          "note": "Paraphrase of Pausanias, Description of Greece 7.1 (Shilleto); not verbatim."
+        },
+        {
+          "id": "4",
+          "text": "But the Ionians were afterward dispossessed by the Achaeans — the sons of Achaeus having grown powerful in Argos and Lacedaemon under the name Achaeans, though the Argives were still called Danai in secret; and they, being driven out in turn by the Dorians from Lacedaemon and Argos, took their case to the Ionians and were refused, so they went to blows. Their king Tisamenus, son of Orestes, fell in the battle; the Achaeans won the war, besieged the Ionians in Helice, and let them go on conditions.",
+          "note": "Paraphrase of Pausanias, Description of Greece 7.1 (Shilleto); not verbatim."
+        },
+        {
+          "id": "5",
+          "text": "And so the Ionians migrated to Attica, where the Athenians and their king Melanthus received them as settlers, in gratitude for Ion, who had once served the Athenians for his own worth as commander-in-chief in their wars. Such was the story of names: Ionian, Achaean, Argive-Danaian — a set of names the old guide-writer means to fix for his readers' sakes, since Greece remembered its own tribes by the descent they claimed.",
+          "note": "Paraphrase of Pausanias, Description of Greece 7.1 (Shilleto); not verbatim."
+        }
+      ],
+      "persons": [
+        "achaeus",
+        "danaus",
+        "erechtheus",
+        "helice",
+        "hellen",
+        "ion",
+        "melanthus",
+        "orestes",
+        "selinus",
+        "tisamenus",
+        "xuthus"
+      ]
+    },
+    {
+      "id": "greek-pausanias-orpheus-head",
+      "title": {
+        "en": "The Death of Orpheus and the Oracle of His Head",
+        "zh": "俄耳甫斯之死與其頭顱神諭"
+      },
+      "tradition": "greek",
+      "category": "myth",
+      "region": {
+        "en": "Pieria, below Mt. Olympus (symbolic pin)",
+        "zh": "皮厄里亞、奧林波斯山下（象徵性定位）"
+      },
+      "lat": 40.05,
+      "lon": 22.4,
+      "period": "Written c. 2nd century CE (Shilleto/Bohn translation; G. B. 68680)",
+      "source": {
+        "archive": "Project Gutenberg eBook 68680 (A. R. Shilleto, trans.)",
+        "work": "Pausanias, Description of Greece IX.30",
+        "url": "https://www.gutenberg.org/ebooks/68680"
+      },
+      "license": "Public domain (Shilleto translation)",
+      "summary": {
+        "en": "Orpheus, greater than any poet before him in ordering his verses, taught men the mysteries of the gods, purifications from unholy deeds, cures for disease, and how to turn aside the wrath of heaven. The wives of the Thracians struck him down in their cups, because he had drawn away their men into his wandering company — and ever since, Pausanias records with a smile, soldiers in Thrace go drunk into battle. His grave held a singing thing: nightingales on his tomb sang sweeter than anywhere on earth; and at Libethra an oracle from Dionysus warned that when the Sun should see his bones, disaster would fall on the city — a warning fulfilled one noon by a singing shepherd and a collapsing pillar.",
+        "zh": "俄耳甫斯之詩歌勝過前人，他以歌教人神祕秘儀、贖罪淨化、醫病之術與平息神怒。因引誘色雷斯男子隨其流浪，其妻們酒宴後殺之——自此色雷斯士兵上戰場皆先飲酒。其墓上夜鶯歌聲格外甜美；而利柏特拉藉酒神神諭得知：當太陽照見其骸骨，城邦必遭滅頂。一日正午，一位牧羊人於墓旁吟唱，引得聽歌的人擠倒石柱、摔破骨甕，次日暴雨滅城。"
+      },
+      "motifs": [
+        "oracle-divination",
+        "miraculous-birth",
+        "resurrection",
+        "divine-retribution"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient literary source; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Pausanias, who is careful in judging such legends, is at least willing to say that Orpheus really did excel all who went before him in the arrangement of his verses, and gained great influence among men because he was thought to have invented the mysteries of the gods, purifications from unholy deeds, cures for diseases, and the means of turning away divine wrath.",
+          "note": "Paraphrase of Pausanias, Description of Greece 9.30 (Shilleto); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "He was a Thracian. The wives of his countrymen laid plots against his life, they said, because he had persuaded their husbands to wander with him on his singing journeys; at first they feared their husbands, but afterwards, primed with wine, they did the deed. And from that hour, Pausanias notes, the custom has held among the Thracians for men to go into battle drunk. Some, however, say that he died by a lightning-stroke from the god, for teaching in the mysteries things men had never heard before.",
+          "note": "Paraphrase of Pausanias, Description of Greece 9.30 (Shilleto); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "Others still record that, having lost Eurydice, he went down alive to Aornus in Thesprotia to consult the oracle of the dead about her; he thought her soul would follow him, and when it did not because he turned back to look at her, he slew himself for grief. And in the surviving reports, as in the songs about him, his own words outlived the singer.",
+          "note": "Paraphrase of Pausanias, Description of Greece 9.30 (Shilleto); not verbatim."
+        },
+        {
+          "id": "4",
+          "text": "The bard's grave made marvels. The Thracians said that the nightingales who nested on the tomb of Orpheus sang sweeter and louder than the nightingales anywhere else on earth. Others said that it was not far from Libethra, in his country home about Macedonia; and there the Macedonians around Dium showed a stone urn on a pillar which, they said, held his remains.",
+          "note": "Paraphrase of Pausanias, Description of Greece 9.30 (Shilleto); not verbatim."
+        },
+        {
+          "id": "5",
+          "text": "The Libethrians had an oracle from Dionysus in Thrace: their city would be destroyed when the Sun should see the bones of Orpheus. They paid it no great attention — thinking no beast strong enough to harm their walls — until one noon a shepherd, singing to himself by the tomb asleep, drew the shepherds and farmers crowding to hear him, and they, pushing to get closer, overturned the pillar, broke the urn, and let the sunlight fall in on Orpheus' bones. That night a flood, one of the streams of Olympus called the river Sus — the Boar — swept away the walls of Libethra, the temples, the houses, and all the people in it: the whole town, said the storyteller, was destroyed in one night by the very beast the oracle had warned of, a boar more bold than strong. And since then the Macedonians of Dium kept the urn of the poet in their city.",
+          "note": "Paraphrase of Pausanias, Description of Greece 9.30 (Shilleto); not verbatim."
+        }
+      ],
+      "persons": [
+        "artemis",
+        "dionysus",
+        "calliope",
+        "eurydice",
+        "orpheus",
+        "chanters-libethra",
+        "oeagrus"
+      ]
+    }
+  ]
+}

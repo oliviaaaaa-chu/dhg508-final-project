@@ -1,0 +1,382 @@
+{
+  "texts": [
+    {
+      "id": "chinese-shiji-huangdi-reign",
+      "title": {
+        "en": "The Yellow Emperor Orders the World",
+        "zh": "黃帝軒轅氏"
+      },
+      "tradition": "chinese",
+      "category": "myth",
+      "region": {
+        "en": "Zhuolu and Banquan, north of modern Beijing–Hebei",
+        "zh": "涿鹿阪泉之野"
+      },
+      "lat": 40.4,
+      "lon": 115.4,
+      "period": "Shiji (Records of the Grand Historian) by Sima Qian, c. 94 BCE, Wu Di Ben Ji chapter",
+      "source": {
+        "archive": "Wikisource (zh)",
+        "work": "Shiji, Wu Di Ben Ji (Annals of the Five Emperors): the Yellow Emperor's wars, officials, and founding reign",
+        "url": "https://zh.wikisource.org/wiki/%E5%8F%B2%E8%A8%98"
+      },
+      "license": "Public domain (Classical Chinese text; passages are compiler's renderings)",
+      "summary": {
+        "en": "Sima Qian opens history with the Yellow Emperor: Shennong's line grown weak, the lords make war — Xuan Yuan trains hosts, wins at Banquan over Yandi, and at Zhuolu kills the tyrant Chiyou; the lords honor him as Son of Heaven. He sets officials to observe sun and moon, orders the calendar, plants grain, and founds the lineage from which all Chinese dynasties claim descent.",
+        "zh": "黃帝者，少典之子，姓公孫名軒轅；軒轅習用干戈，與炎帝戰於阪泉之野，三戰然後得志；蚩尤作亂，遂禽殺蚩尤於涿鹿之野——諸侯咸尊軒轅為天子，是為黃帝；置左右大監，監於萬國，時播百穀草木，淳化鳥獸蟲蛾。"
+      },
+      "motifs": [
+        "sacred-kingship",
+        "storm-thunder"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Passages are the compiler's condensed paraphrases of the Shiji original. Sima Qian converts myth into chronicle; the same war is told as cosmic combat in the Shanhaijing (chinese-shanhaijing-huangdi-chiyou). Chiyou's heroic standing among the Miao noted there."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The Yellow Emperor was the son of Shaodian, and his personal name was Xuan Yuan. In his youth the house of Shennong had grown feeble; the feudal lords fell on one another and tormented the people, and Shennong could stop none of it. So Xuan Yuan practiced arms and drilled the host, and the lords came over to his banners.",
+          "note": "Paraphrase of Shiji, Wu Di Ben Ji, opening (compiler's rendering); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Yan Di wished to subdue the lords, and the lords all turned to Xuan Yuan. The two armies met in the open field of Banquan and fought three battles before the lord of Yan gave way. Chiyou then raised his rebellion, the fiercest of all; Xuan Yuan gathered the troops of the lords and killed Chiyou in the field of Zhuolu — and all the lords honored him as Son of Heaven, the Yellow Emperor.",
+          "note": "Paraphrase of Shiji, Wu Di Ben Ji, Banquan and Zhuolu campaigns; not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "The Yellow Emperor set officers to observe sun, moon and stars, and settled the reckoning of the year. He sowed grain and trees, tamed birds and beasts, built roads and buildings, and made his officials responsible for the peoples on every side — and from his twenty-five sons, the Chinese histories trace the lines of all the dynasties that followed.",
+          "note": "Paraphrase of Shiji, Wu Di Ben Ji, administrative reign; not verbatim."
+        }
+      ],
+      "persons": [
+        "huangdi",
+        "chiyou"
+      ]
+    },
+    {
+      "id": "chinese-shiji-yao-shun",
+      "title": {
+        "en": "Yao Cedes the World to Shun",
+        "zh": "堯禪讓於舜"
+      },
+      "tradition": "chinese",
+      "category": "myth",
+      "region": {
+        "en": "Pingyang (modern Linfen, Shanxi), Yao's court",
+        "zh": "堯都平陽（今山西臨汾）"
+      },
+      "lat": 36.09,
+      "lon": 111.5,
+      "period": "Shiji by Sima Qian, c. 94 BCE, Wu Di Ben Ji chapter",
+      "source": {
+        "archive": "Wikisource (zh)",
+        "work": "Shiji, Wu Di Ben Ji: Yao tests Shun, marries his two daughters to him, and cedes the throne",
+        "url": "https://zh.wikisource.org/wiki/%E5%8F%B2%E8%A8%98"
+      },
+      "license": "Public domain (Classical Chinese text; passages are compiler's renderings)",
+      "summary": {
+        "en": "Yao refuses to give the world to his own unworthy son; on the council's word he seeks a worthy man, and all name Shun. Yao tests him — giving him both daughters to wife, making him general, minister, chief of forests — then after three years of trial yields the throne to him: the mythic founding of China's abdication ideal, the mandate passing by virtue and not by blood.",
+        "zh": "堯曰『終不以天下之病而利一人』；四嶽薦舜，堯妻之二女，觀其內；使九男與處，觀其外；試以五典百官——三年，堯老，令舜攝行天子之政——禪讓之制由此立。"
+      },
+      "motifs": [
+        "sacred-kingship",
+        "oracle-divination",
+        "divine-marriage"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Passages are the compiler's condensed paraphrases of the Shiji original. The two-daughters marriage is an oath-and-test, not a hieros-gamos in the strict sense — tagging caveat for the divine-marriage cluster."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Yao sat seventy years as emperor, and his son Danzhu was quarrelsome and unbecoming. 'I cannot,' said Yao, 'let the whole world suffer so that one man may profit.' He asked the four mountains, the chiefs of the realm, to name a worthy man, rich or poor, obscure or known — and they all answered: there is an unmarried man among the common people, called Shun.",
+          "note": "Paraphrase of Shiji, Wu Di Ben Ji, the council (compiler's rendering); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Yao said: 'I will try him.' He gave Shun both his daughters in marriage, to watch how he governed a household; he sent his nine sons to live with him, to watch how he governed men. Shun made the two women humble among the humble, kept his farm, his jars and his coops in perfect order, and wherever he dwelt for a year a hamlet formed, for two years a town, for three a city.",
+          "note": "Paraphrase of Shiji, Wu Di Ben Ji, the testing of Shun; not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "Yao tried him further as minister of the five teachings, as chief officer, as master of guests and forests, and Shun succeeded at every post. At last Yao, grown old, yielded the throne to Shun, and died after twenty-eight years of watching him reign; the world received a new Son of Heaven not by birth but by worth — the abdication of Yao became for all later China the pattern of legitimate rule.",
+          "note": "Paraphrase of Shiji, Wu Di Ben Ji, the abdication; not verbatim."
+        }
+      ],
+      "persons": []
+    },
+    {
+      "id": "chinese-shiji-shun-trials",
+      "title": {
+        "en": "Shun's Family Tries to Kill Him",
+        "zh": "瞽叟焚廩掩井"
+      },
+      "tradition": "chinese",
+      "category": "myth",
+      "region": {
+        "en": "Lishan and the farm country of Jizhou (symbolic pin: southern Shanxi)",
+        "zh": "歷山之田（象徵性定位：晉南）"
+      },
+      "lat": 35.5,
+      "lon": 111.5,
+      "period": "Shiji by Sima Qian, c. 94 BCE, Wu Di Ben Ji chapter",
+      "source": {
+        "archive": "Wikisource (zh)",
+        "work": "Shiji, Wu Di Ben Ji: the blind father's plot — the granary fire and the filled well — and Shun's escape",
+        "url": "https://zh.wikisource.org/wiki/%E5%8F%B2%E8%A8%98"
+      },
+      "license": "Public domain (Classical Chinese text; passages are compiler's renderings)",
+      "summary": {
+        "en": "Even after Yao gave Shun his daughters, Shun's blind father still hated him: he sent Shun up to roof the granary and set fire below — Shun flew down on two bamboo hats; he sent him to dig a well and packed earth over him — Shun emerged from a hidden side-tunnel. Each time, Shun served him as a son, and the court of heaven heard of a filial son whom the family could not kill.",
+        "zh": "瞽叟尚復欲殺之；使舜上塗廩，瞽叟從下縱火焚廩，舜乃以兩笠自扞而下，去，得不死；後瞽叟又使舜穿井，舜穿井為匿空旁出——舜猶復事瞽叟愛弟彌謹。"
+      },
+      "motifs": [
+        "culture-hero",
+        "taboo-transgression",
+        "emergence-from-earth",
+        "filial-piety"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Passages are the compiler's condensed paraphrases of the Shiji original. The escape-tricks parallel world folktale types (murderous-parent tests); tagged as boundary transgression against filial order by the family, not by the hero."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Yao's gifts had changed nothing at home. Shun's father, a blind man, still hated him, and with Shun's stepmother and his half-brother Xiang plotted to kill him. He sent Shun to the top of the granary to plaster its roof, then set fire to it from below.",
+          "note": "Paraphrase of Shiji, Wu Di Ben Ji, the granary fire (compiler's rendering); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Shun seized two bamboo hats and, holding them like wings, floated down from the roof and ran — alive. His father sent him then to dig a well; when the well was deep, father and brother dropped earth and stones to fill it. But Shun had dug a hidden side-tunnel while he dug the well, and he came out alive through the earth beside it.",
+          "note": "Paraphrase of Shiji, Wu Di Ben Ji, the filled well; not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "Xiang rejoiced, went in to claim the house, and found Shun sitting on the bed playing his lute. Shun, alive, served his father and loved his brother more carefully than before — and when the court of Yao heard it, they knew the man whom the family could not destroy and who would not revenge himself was the man to be trusted with the world.",
+          "note": "Paraphrase of Shiji, Wu Di Ben Ji, the lute scene; not verbatim."
+        }
+      ],
+      "persons": []
+    },
+    {
+      "id": "chinese-shun-cangwu-xiangfei",
+      "title": {
+        "en": "The Two Consorts of the Xiang and the Speckled Bamboo",
+        "zh": "湘妃斑竹"
+      },
+      "tradition": "chinese",
+      "category": "myth",
+      "region": {
+        "en": "Cangwu and the Xiang River, Hunan",
+        "zh": "蒼梧九嶷、湘江"
+      },
+      "lat": 25.6,
+      "lon": 112.0,
+      "period": "Shiji, Wu Di Ben Ji, c. 94 BCE; consorts' lament in Liu Xiang's Lienü Zhuan (c. 18 BCE) and Bowu Zhi",
+      "source": {
+        "archive": "Wikisource (zh)",
+        "work": "Shiji, Wu Di Ben Ji: Shun dies in the wild of Cangwu; Lienü Zhuan: Ehuang and Nüying's weeping and the speckled bamboo",
+        "url": "https://zh.wikisource.org/wiki/%E5%8F%B2%E8%A8%98"
+      },
+      "license": "Public domain (Classical Chinese text; passages are compiler's renderings)",
+      "summary": {
+        "en": "Shun, in his hundredth year, went south to inspect and died in the wild of Cangwu, buried in the Nine Doubts. His two consorts — Yao's daughters Ehuang and Nüying — raced south after him, wept by the Xiang River until their tears speckled the bamboo stems, and drowned in the river; they became the goddesses of the Xiang, forever answering the calls of poets.",
+        "zh": "舜南巡狩，崩於蒼梧之野，葬於江南九疑；二妃娥皇女英追之不及，淚下沾竹，竹為之斑；遂溺於湘江，為湘水之神——斑竹一枝千滴淚。"
+      },
+      "motifs": [
+        "transformation",
+        "sacred-place",
+        "sibling-creators"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Passages are the compiler's condensed paraphrases of the Shiji and Lienü Zhuan originals. The river-goddess transformation anchors the Chu Ci Xiang-hymns (chinese-chuci-xiang-lords); 'sibling-creators' tags the pair as a double goddess — interpretive."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "In the hundredth year of his age, Shun went south on a circuit of inspection, and died in the wilderness of Cangwu. He was buried in the Nine Doubts of the south of the Yangzi, far from the capital he had ruled so long.",
+          "note": "Paraphrase of Shiji, Wu Di Ben Ji, Shun's death (compiler's rendering); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "His two consorts, Ehuang and Nüying, the daughters Yao had given him in test and marriage, hurried south after him and came too late to see him. They wept by the banks of the Xiang River, and their tears fell on the bamboo and stained it — and the speckled bamboo of Hunan carries their tear-marks to this day.",
+          "note": "Paraphrase of Lienü Zhuan, the two consorts' lament; not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "The consorts cast themselves into the river and were lost; the people of the Xiang called them its goddesses. The songs of Chu honor them as the lords of the Xiang — powers of love and loss that the poets summon when they sail the river in autumn.",
+          "note": "Paraphrase of the Xiang-goddess tradition, linking to Chu Ci; not verbatim."
+        }
+      ],
+      "persons": []
+    },
+    {
+      "id": "chinese-mutianzi-xiwangmu",
+      "title": {
+        "en": "King Mu of Zhou Banquets with the Queen Mother of the West at the Jade Pool",
+        "zh": "穆王西見西王母"
+      },
+      "tradition": "chinese",
+      "category": "myth",
+      "region": {
+        "en": "The Jade Pool in the Kunlun highlands (symbolic pin: Kunlun range)",
+        "zh": "崑崙瑤池（象徵性定位）"
+      },
+      "lat": 36.0,
+      "lon": 84.0,
+      "period": "Mu Tianzi Zhuan (Biography of the Son of Heaven Mu), excavated text from a Wei tomb, dated c. 4th c. BCE (buried 296 CE?; attested 3rd-4th c. CE discovery)",
+      "source": {
+        "archive": "Wikisource (zh)",
+        "work": "Mu Tianzi Zhuan, juan 3: King Mu's westward journey, the banquet at the Jade Pool, and the parting poems of Xiwangmu",
+        "url": "https://zh.wikisource.org/wiki/%E7%A9%86%E5%A4%A9%E5%AD%90%E5%82%B3"
+      },
+      "license": "Public domain (Classical Chinese text; passages are compiler's renderings)",
+      "summary": {
+        "en": "King Mu of Zhou drives eight steeds a thousand li a day to the far west, crosses the flows of the sand, and at the Jade Pool of Kunlun is met by the Queen Mother of the West; she offers him wine and jade, they exchange songs of return and promise, and the Son of Heaven goes home — the banquet that made Xiwangmu the guest of emperors and the mother of immortality feasts.",
+        "zh": "天子西征，驅八駿，馳千里至崑崙瑤池；西王母為天子謠：『白雲在天，山陵自出。道里悠遠，山川間之。』天子答歌；遂宴瑤池之上——賓主相酬而別。"
+      },
+      "motifs": [
+        "theophany",
+        "quest-immortality",
+        "divine-marriage",
+        "cosmic-mountain"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Passages are the compiler's condensed paraphrases of the Mu Tianzi Zhuan original. The polite exchange of poems is a courtly rendering of a mythic encounter; the marriage tag marks the courtship-song convention, interpretive."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "King Mu of Zhou, the Son of Heaven, drove his eight steeds of noble blood, a thousand li to the day, westward beyond the flowing sands, to the Black Waters, to the mountain where all jade is gathered — into the highlands where no road of men ran.",
+          "note": "Paraphrase of Mu Tianzi Zhuan, juan 3, the western journey (compiler's rendering); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "At the Jade Pool of Kunlun he was met by the Queen Mother of the West. She brought white jade and dark jade for the Son of Heaven, and they feasted by the pool; and the Queen Mother sang to him: 'White clouds are in the sky, and the hills come forth from themselves; the road is long and far, and the mountains and rivers lie between — may you not die, and come again.'",
+          "note": "Paraphrase of Mu Tianzi Zhuan, juan 3, the banquet and song; not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "The Son of Heaven answered in song that he would return and govern his people well, then come back to her in three years. They went up to the high mountain, set her words in the stone, and planted a locust tree to mark it — and the King of Zhou drove home eastward, a mythic envoy between the world of kings and the world of the immortals.",
+          "note": "Paraphrase of Mu Tianzi Zhuan, juan 3, the answer-song and the return; not verbatim."
+        }
+      ],
+      "persons": [
+        "xiwangmu"
+      ]
+    },
+    {
+      "id": "chinese-guoyu-chongli",
+      "title": {
+        "en": "Chong and Li Cut the Road Between Heaven and Earth",
+        "zh": "絕地天通"
+      },
+      "tradition": "chinese",
+      "category": "myth",
+      "region": {
+        "en": "The courts of Shaohao and Zhuanxu (symbolic pin: eastern China)",
+        "zh": "少皞顓頊之世（象徵性定位：東方）"
+      },
+      "lat": 34.0,
+      "lon": 118.0,
+      "period": "Guoyu (Discourses of the States), Chu Yu Xia, c. 4th c. BCE; parallel Shanhaijing, Da Huang Xi Jing",
+      "source": {
+        "archive": "Wikisource (zh)",
+        "work": "Guoyu, Chu Yu Xia: Guan Shefu's account of the severing of heaven-and-earth communication by Chong and Li under Zhuanxu",
+        "url": "https://zh.wikisource.org/wiki/%E5%9C%8B%E8%AA%9E"
+      },
+      "license": "Public domain (Classical Chinese text; passages are compiler's renderings)",
+      "summary": {
+        "en": "In the age of Shaohao, people and gods mingled freely: every household kept its medium, everyone could sacrifice and climb to heaven. Zhuanxu the emperor ordered his minister Chong to pull down the ladder and hold the sky, and Li to press down the earth — Chong and Li cut the road between heaven and earth, so that no one could ascend or descend at will: the mythic charter of the monopoly of sacrifice by priest and king.",
+        "zh": "少皞之衰，九黎亂德，民神雜糅，家為巫史，民神同位；顓頊受之，乃命南正重司天以屬神，命火正黎司地以屬民——使復舊常，無相侵瀆，是謂絕地天通。"
+      },
+      "motifs": [
+        "creation-chaos",
+        "taboo-transgression",
+        "sacred-kingship",
+        "ascent-sky"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Passages are the compiler's condensed paraphrases of the Guoyu original. This is the charter of religious monopoly in China — myth read as political theology; the Shanhaijing parallel places Chong and Li's separation among the cosmogonic acts."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "In the decline of Shaohao's age the Nine Li threw heaven's order into confusion: people and gods mingled their dwellings, every family kept its own medium and diviner, and everyone could sacrifice without measure — men ascended to heaven, and the gods descended wherever men called.",
+          "note": "Paraphrase of Guoyu, Chu Yu Xia, Guan Shefu's speech (compiler's rendering); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Zhuanxu received the age and set it right: he ordered Chong, master of the south, to keep the sky and gather the gods to heaven, and Li, master of fire, to keep the earth and gather the people below — Chong and Li cut the road between heaven and earth, so that none could pass between them at will again.",
+          "note": "Paraphrase of Guoyu, Chu Yu Xia, the severing; not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "From that severing, sacrifice came to belong to the sanctified few: the priest-officers who alone spoke for heaven and the king who alone was its offspring. The myth is China's charter of religious monopoly — explaining why the multitude cannot climb to heaven and why altars need consecrated keepers.",
+          "note": "Paraphrase of Guoyu, Chu Yu Xia, concluding argument; not verbatim."
+        }
+      ],
+      "persons": []
+    },
+    {
+      "id": "chinese-houhan-panhu",
+      "title": {
+        "en": "Pan Hu, the Dog Who Married a Princess and Begat the Man Peoples",
+        "zh": "盤瓠犬祖"
+      },
+      "tradition": "chinese",
+      "category": "myth",
+      "region": {
+        "en": "Wu Mountains of the south, homeland of the Man peoples (symbolic pin: Hunan–Guizhou border)",
+        "zh": "南方武陵蠻地（象徵性定位）"
+      },
+      "lat": 27.5,
+      "lon": 109.5,
+      "period": "Hou Han Shu (Book of the Later Han) by Fan Ye, 5th c. CE, Nanman Liezhuan; older versions in Soushen Ji",
+      "source": {
+        "archive": "Wikisource (zh)",
+        "work": "Hou Han Shu, Nanman Liezhuan: the dog Pan Hu, the princess, and the origin of the Wu-ling Man peoples",
+        "url": "https://zh.wikisource.org/wiki/%E5%BE%8C%E6%BC%A2%E6%9B%B8"
+      },
+      "license": "Public domain (Classical Chinese text; passages are compiler's renderings)",
+      "summary": {
+        "en": "In the time of Emperor Ku, an old woman heard an earwig crawl from her ear and raised it in a gourd-cover; the dog that grew from it, Pan Hu, slew the enemy general Wufan and carried his head to the king. Bound by the king's own promise of his daughter, the princess went to the dog on the southern mountains; their twelve children intermarried and became the twelve clans of the Man peoples of Wu-ling — to whom the empire forever granted tax-free lands in payment of the dog's service.",
+        "zh": "高辛氏之老婦得疾，取物如繭置瓠籬，化為犬，其文五色，名曰盤瓠；時犬戎之寇，募天下能得吳將軍首者妻以少女；盤瓠銜人頭造闕下——帝不得已，以女配之；生十二人，自相夫妻，織績木皮，染以草實，好五色衣服——是為武陵蠻。"
+      },
+      "motifs": [
+        "miraculous-birth",
+        "culture-hero",
+        "sacred-kingship"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Passages are the compiler's condensed paraphrases of the Hou Han Shu original. Ethnogenesis legend of the Yao/Miao/She peoples, recorded by the imperial Han court in the vocabulary of the time — the 'barbarian' frame of the source is noted critically; living descendant communities regard Pan Hu as honored ancestor."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "An old woman of the court of Emperor Gaoxin suffered in her ear, and drew from it a creeping thing the size of a silkworm cocoon; she set it in a gourd-cover, and it turned into a dog of five colors, and was named Pan Hu — Gourd-Cover.",
+          "note": "Paraphrase of Hou Han Shu, Nanman Liezhuan, Pan Hu's birth (compiler's rendering); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "When the dog-rong tribes raided the border and no man could withstand their general Wufan, the king proclaimed that whoever brought the general's head should have his youngest daughter in marriage. Pan Hu slipped into the enemy camp and returned with the general's head in his mouth, laying it before the king's steps.",
+          "note": "Paraphrase of Hou Han Shu, Nanman Liezhuan, the beheading of Wufan; not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "The king shrank from giving a princess to a dog, but the daughter would not have him break his word. Pan Hu bore her to the southern mountains, into a stone chamber no man could climb; the dog became a man for her, and their twelve children married one another, weaving bark-cloth and dyeing it bright — the twelve clans of the Man peoples, whose lands the empire ever after left untaxed.",
+          "note": "Paraphrase of Hou Han Shu, Nanman Liezhuan, the marriage and the ethnogenesis; not verbatim."
+        }
+      ],
+      "persons": []
+    }
+  ]
+}

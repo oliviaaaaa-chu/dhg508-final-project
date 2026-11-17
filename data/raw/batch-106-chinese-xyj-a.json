@@ -1,0 +1,793 @@
+{
+  "texts": [
+    {
+      "id": "chinese-xyj-stone-monkey",
+      "title": {
+        "en": "The Stone Monkey Is Born on the Mountain of Flowers and Fruit",
+        "zh": "花果山石猴出世"
+      },
+      "tradition": "chinese",
+      "category": "myth",
+      "region": {
+        "en": "Mountain of Flowers and Fruit, Eastern Purvavideha (symbolic pin: eastern islands of the mythic sea)",
+        "zh": "東勝神洲花果山（象徵性定位）"
+      },
+      "lat": 30.0,
+      "lon": 122.0,
+      "period": "Journey to the West (Xiyou Ji), 16th c. (attrib. Wu Cheng'en, chs. 1-2)",
+      "source": {
+        "archive": "Wikisource (zh)",
+        "work": "Journey to the West, ch. 1: the stone egg on Huaguo Mountain and the Water-Curtain Cave",
+        "url": "https://zh.wikisource.org/wiki/%E8%A5%BF%E9%81%8A%E8%A8%98"
+      },
+      "license": "Public domain (Ming novel; passages are compiler's renderings)",
+      "summary": {
+        "en": "On the Mountain of Flowers and Fruit a stone egg split, and a stone monkey came out with golden light that reached the Jade Emperor's throne. Bold enough to leap through a waterfall into a cave behind it, he was hailed Monkey King by the troop of apes he led inside — a king who would next set out to learn how not to die.",
+        "zh": "花果山頂石卵迸裂，產一石猴，目運金光射斗牛；石猴跳入水簾洞，領群猿入居，眾猴拜為美猴王——王者不老之憂自此而生。"
+      },
+      "motifs": [
+        "birth-stone-egg",
+        "sacred-kingship",
+        "sacred-place",
+        "sacred-stone",
+        "sacred-mountain"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Passages are the compiler's condensed paraphrases of the novel (public-domain Ming text); no public-domain English translation is relied on — passages are the compiler's own renderings."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "On the topmost rock of the Mountain of Flowers and Fruit lay a stone egg, weathered by heaven and earth since creation. One day the egg split, and out came a stone monkey that knelt to the four quarters; his eyes flashed two beams of golden light that shot up to the Palace of the Pole Star, and the Jade Emperor himself was moved to look down and say: the thing below was born of heaven and earth — let it be.",
+          "note": "Paraphrase of Journey to the West, ch. 1 (compiler's rendering from the public-domain original); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "One hot day the monkeys bathed in a stream and followed its source to a great waterfall. 'Whoever can enter and leave unhurt shall be our king!' cried the troop. The stone monkey shut his eyes, crouched, and leapt through the water — and found behind the fall a broad cave of iron bridges, stone seats and stone vessels, with a tablet reading 'Blessed Land of the Water-Curtain.'",
+          "note": "Paraphrase of Journey to the West, ch. 1, waterfall episode; not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "He led the whole troop through the falling water into the cave, and each claimed a stone apartment by age and rank. The monkeys fell on their knees: 'Thousand-year Sovereign!' So the stone monkey became the Handsome Monkey King, king of a hidden paradise — until one day at a feast he wept, for the kings of birds and beasts must still grow old and die, and that grief sent him out into the world to seek the way of deathlessness.",
+          "note": "Paraphrase of Journey to the West, ch. 1-2 transition; not verbatim."
+        }
+      ],
+      "persons": [
+        "sunwukong"
+      ]
+    },
+    {
+      "id": "chinese-xyj-subodhi-apprentice",
+      "title": {
+        "en": "The Monkey's Apprenticeship to the Patriarch Subodhi",
+        "zh": "美猴王拜師菩提祖師"
+      },
+      "tradition": "chinese",
+      "category": "myth",
+      "region": {
+        "en": "Spirit-Platform Mountain, Western Niu-he-zhou (symbolic pin: far-west mountains)",
+        "zh": "西牛賀洲靈臺方寸山（象徵性定位）"
+      },
+      "lat": 28.0,
+      "lon": 88.0,
+      "period": "Journey to the West, 16th c. (attrib. Wu Cheng'en, chs. 1-2)",
+      "source": {
+        "archive": "Wikisource (zh)",
+        "work": "Journey to the West, chs. 1-2: the raft journey, the name Sun Wukong, the secret of the Formless Scripture, the seventy-two transformations",
+        "url": "https://zh.wikisource.org/wiki/%E8%A5%BF%E9%81%8A%E8%A8%98"
+      },
+      "license": "Public domain (Ming novel; passages are compiler's renderings)",
+      "summary": {
+        "en": "The Monkey King crossed two oceans to the mountain of Patriarch Subodhi, who named him Sun Wukong, 'Awake-to-Emptiness.' Flogged for impatience, he caught the master's three raps — a secret lesson at the third watch — and received in silence the key of the Formless Scripture; he learned the cloud-somersault of one hundred and eight thousand li and the seventy-two transformations, until his old monkey vanity of showing off sent him away for good.",
+        "zh": "猴王浮海求仙，拜菩提祖師，得名孫悟空；祖師打三下暗號，三更傳道，授以水簾洞口訣；學得筋斗雲十萬八千里、七十二般變化——因賣弄變松樹，被逐下山。"
+      },
+      "motifs": [
+        "quest-immortality",
+        "transformation",
+        "primeval-waters"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Passages are the compiler's condensed paraphrases of the novel."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "He made himself a raft and crossed two oceans, wandering nine years until he came to Spirit-Platform Mountain and the cave of the Slanted Moon and Three Stars, where the Patriarch Subodhi taught. Asked his name and surname, the monkey could answer neither; the master laughed at his gait and gave him a surname, Sun, and a religious name, Wukong — Awake to Emptiness.",
+          "note": "Paraphrase of Journey to the West, ch. 1-2 (compiler's rendering); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Seven years on, Wukong pestered the master for the art of long life. The master struck him three times on the head, closed the doors, and went in — and the monkey understood: three raps at the third watch, the back door open, a private lesson. That night he crept in at the third watch, and the master, delighted at his cunning, whispered to him the verse of the Formless Scripture, the secret of eternity within the body.",
+          "note": "Paraphrase of Journey to the West, ch. 2, the three-raps secret; not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "Three years later the master taught him escape from the three calamities: the somersault cloud that covers one hundred and eight thousand li in a leap, and the seventy-two transformations of form. But when the young monkeys begged to see them, Wukong transformed into a pine tree in the courtyard — and the master, furious at the showing-off that would bring ruin, drove him out forever, forbidding him ever to name his teacher.",
+          "note": "Paraphrase of Journey to the West, ch. 2, transformations and expulsion; not verbatim."
+        }
+      ],
+      "persons": [
+        "sunwukong"
+      ]
+    },
+    {
+      "id": "chinese-xyj-dragon-palace-staff",
+      "title": {
+        "en": "The Monkey King Borrows a Weapon from the Dragon King",
+        "zh": "龍宮索定海神針"
+      },
+      "tradition": "chinese",
+      "category": "myth",
+      "region": {
+        "en": "Crystal Palace of Ao Guang, Dragon King of the Eastern Sea (symbolic pin: East China Sea floor)",
+        "zh": "東海龍宮（象徵性定位）"
+      },
+      "lat": 30.5,
+      "lon": 123.0,
+      "period": "Journey to the West, 16th c. (attrib. Wu Cheng'en, ch. 3)",
+      "source": {
+        "archive": "Wikisource (zh)",
+        "work": "Journey to the West, ch. 3: the Crystal Palace, the sea-needle Ruyi Jingu Bang, and the hoard of magic armors",
+        "url": "https://zh.wikisource.org/wiki/%E8%A5%BF%E9%81%8A%E8%A8%98"
+      },
+      "license": "Public domain (Ming novel; passages are compiler's renderings)",
+      "summary": {
+        "en": "Needing a weapon worthy of himself, the Monkey King barged into the Eastern Sea's Crystal Palace; every blade was too light for him, until he laid hands on the pillar of the sea — the Ruyi Golden-Hooped Rod, the treasure Yu the Great used to fix the depths — which shrank to a needle he stowed behind his ear. Drunk on the visit, he also extorted a full suit of magic armor from the neighboring dragon-kings.",
+        "zh": "悟空至東海水晶宮索兵器，諸般刀斧皆嫌輕；得定海神針如意金箍棒，重一萬三千五百斤，能大能小，化作繡花針藏於耳內；又索得鳳翅紫金冠、鎖子黃金甲、藕絲步雲履。"
+      },
+      "motifs": [
+        "trickster",
+        "boon-curse",
+        "monkey-trickster"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Passages are the compiler's condensed paraphrases of the novel. The staff is Da Yu's flood-taming sea-needle — a link to the Gun-Yu flood cycle in the novel's cosmology."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The Monkey King turned his somersault into the sea and dived to the Crystal Palace of Ao Guang, the old Dragon King of the East, who had no choice but to feast him. Asked for a weapon, he was offered swords, halberds and axes of thirty-six thousand pounds — and threw them all aside as light as sewing needles.",
+          "note": "Paraphrase of Journey to the West, ch. 3 (compiler's rendering); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "The dragon's wife whispered of the treasure in the palace's back hall: the Great Sea-Fixing Needle, the black iron pillar Yu the Great set in the depths when he tamed the floods, which grows and shrinks at its holder's will. It had lately been shooting sparks of light. Wukong lifted it, bade it be small, and it shrank to a rod of thirteen thousand five hundred pounds — golden hoops at both ends — then to the size of an embroidery needle, which he tucked behind his ear.",
+          "note": "Paraphrase of Journey to the West, ch. 3, sea-needle episode; not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "Pleased with his prize but without armor, he hammered on the doors of the South, North and West Sea palaces and squeezed from their kings a phoenix-wing cap of purple gold, a coat of golden chain mail, and cloud-walking boots of lotus silk — then went home roistering, leaving four furious dragon-kings to send a memorial of complaint to heaven.",
+          "note": "Paraphrase of Journey to the West, ch. 3, armor extortion; not verbatim."
+        }
+      ],
+      "persons": [
+        "sunwukong"
+      ]
+    },
+    {
+      "id": "chinese-xyj-ledger-hell",
+      "title": {
+        "en": "The Monkey Crosses Out His Name in the Book of Death",
+        "zh": "勾銷生死簿"
+      },
+      "tradition": "chinese",
+      "category": "myth",
+      "region": {
+        "en": "The netherworld city of Fengdu, Tenth Court region (symbolic pin: Sichuan Fengdu)",
+        "zh": "幽冥界酆都（象徵性定位：四川豐都）"
+      },
+      "lat": 29.87,
+      "lon": 107.73,
+      "period": "Journey to the West, 16th c. (attrib. Wu Cheng'en, ch. 3)",
+      "source": {
+        "archive": "Wikisource (zh)",
+        "work": "Journey to the West, ch. 3: wine-sleep, soul seizure, and the Book of Life and Death",
+        "url": "https://zh.wikisource.org/wiki/%E8%A5%BF%E9%81%8A%E8%A8%98"
+      },
+      "license": "Public domain (Ming novel; passages are compiler's renderings)",
+      "summary": {
+        "en": "Drunk asleep in his cave, the Monkey King was seized by two soul-catchers of the underworld with a summons to death; he broke their chains, beat his way into the Hall of Darkness, and demanded the Register of Life and Death — where he found his own allotted span of three hundred forty-two years, crossed it out, and every monkey name with it: the bureaucracy of death, rewritten by a drunk king with a pen.",
+        "zh": "悟空醉臥，被勾魂使者索命；悟空掣棒打入森羅殿，索生死簿查閱，親註『孫悟空』該壽三百四十二歲——一筆勾銷，並凡猴屬之名盡勾之；大鬧幽冥界。"
+      },
+      "motifs": [
+        "descent-underworld",
+        "taboo-transgression"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Passages are the compiler's condensed paraphrases of the novel. Comic descent — contrast the solemn descent records; noted for the underworld cluster."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "After a night of celestial wine the Monkey King slept in his cave, and his soul was carried off by two men with black caps and iron chains, down to the city of the dead, where a court official ordered him to the Hall of Darkness as a soul whose time had come.",
+          "note": "Paraphrase of Journey to the West, ch. 3 (compiler's rendering); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "The Monkey King pulled out his staff and knocked their chains to pieces. 'I am beyond old and young, beyond life and death, beyond king and subject,' he cried, and beat his way into the hall, where the Ten Kings of the netherworld sat trembling. He demanded the Register of Life and Death — soul-types one thousand three hundred and fifty, the ledger of every mortal fate.",
+          "note": "Paraphrase of Journey to the West, ch. 3, Hall of Darkness; not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "He found his own page: Stone Monkey, span of years three hundred and forty-two, good death. He crossed it out with a pen, and every monkey name on the register with it, and flung the book back. Then, striding out of the underworld with his staff on his shoulder, he went home and told his troop: no one need die of old age again.",
+          "note": "Paraphrase of Journey to the West, ch. 3, crossing-out; not verbatim."
+        }
+      ],
+      "persons": [
+        "sunwukong"
+      ]
+    },
+    {
+      "id": "chinese-xyj-bimawen",
+      "title": {
+        "en": "Wukong Appointed Groom of the Heavenly Stables",
+        "zh": "悟空封弼馬溫"
+      },
+      "tradition": "chinese",
+      "category": "myth",
+      "region": {
+        "en": "Heavenly Court, Southern Gate of Heaven (symbolic pin: mythic heaven)",
+        "zh": "天庭南天門（象徵性定位）"
+      },
+      "lat": 34.5,
+      "lon": 108.0,
+      "period": "Journey to the West, 16th c. (attrib. Wu Cheng'en, chs. 4-5)",
+      "source": {
+        "archive": "Wikisource (zh)",
+        "work": "Journey to the West, chs. 4-5: the Bimawen post, the return and the Great Sage banner, the Peach Garden theft",
+        "url": "https://zh.wikisource.org/wiki/%E8%A5%BF%E9%81%8A%E8%A8%98"
+      },
+      "license": "Public domain (Ming novel; passages are compiler's renderings)",
+      "summary": {
+        "en": "Heaven, hoping to tame the monkey by employment, gave him the post of Bimawen, groom of the celestial stables — which he ran superbly until he learned it was the lowest rank in heaven; he smashed the office and went home, raising a banner that read 'Great Sage Equal to Heaven.' Heaven sent armies, and a second offer — true Great Sage, but still no place in the Peach Banquet — ended with him eating the elixir pills and drinking the feast dry.",
+        "zh": "悟空上天受封弼馬溫，掌天馬甚勤；聞此乃未入流之小官，大怒打出南天門，回花果山自封齊天大聖；天兵討伐不勝，太白金星再招安——許大聖之名而無蟠桃會之份，悟空怒而攪亂蟠桃會，盜仙丹。"
+      },
+      "motifs": [
+        "trickster",
+        "sacred-kingship",
+        "taboo-transgression",
+        "elixir-life",
+        "divine-retribution"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Passages are the compiler's condensed paraphrases of the novel."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The Tai-Bai star brought the monkey up to heaven on a cloud, and the Jade Emperor, warned that this stone-born thing was fierce, gave him a post in the stables: Bimawen, keeper of the celestial horses. Wukong served brilliantly, feeding and training the thousand heavenly steeds to perfection — until at a banquet he learned that Bimawen was the meanest office in heaven, unworthy even to be ranked.",
+          "note": "Paraphrase of Journey to the West, chs. 4 (compiler's rendering); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Furious, he smashed the stables, beat his way out through the Southern Gate, and returned to the Mountain of Flowers and Fruit, where he set up a banner reading 'Great Sage Equal to Heaven.' Two armies of one hundred thousand heavenly soldiers came down and could not take him; so Heaven offered the empty title of Great Sage — and a new post: keeper of the Peach Garden, an orchard he was born to plunder.",
+          "note": "Paraphrase of Journey to the West, chs. 4-5; not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "When he learned that the great Peach Banquet had invited everyone but him, he cast sleeping charms on the servants, ate the garden's three-thousand-year peaches and its nine-thousand-year ones, drank the jade liquid and the dragon-liver delicacies dry, and topped it off by swallowing the entire jar of Laozi's golden elixir pills — then sobered in the wilderness, knowing he had made heaven his enemy.",
+          "note": "Paraphrase of Journey to the West, ch. 5, the Peach Banquet ruin; not verbatim."
+        }
+      ],
+      "persons": [
+        "sunwukong"
+      ]
+    },
+    {
+      "id": "chinese-xyj-erlang-duel",
+      "title": {
+        "en": "Wukong and Erlang Shen: The Duel of Transformations",
+        "zh": "悟空大戰二郎神"
+      },
+      "tradition": "chinese",
+      "category": "myth",
+      "region": {
+        "en": "Guankou and the fields before the Southern Gate (symbolic pin: northern Sichuan, Erlang's cult seat)",
+        "zh": "灌口（象徵性定位）"
+      },
+      "lat": 31.0,
+      "lon": 103.6,
+      "period": "Journey to the West, 16th c. (attrib. Wu Cheng'en, ch. 6)",
+      "source": {
+        "archive": "Wikisource (zh)",
+        "work": "Journey to the West, ch. 6: the third transformation-duel between Sun Wukong and Erlang Shen, watched by heaven",
+        "url": "https://zh.wikisource.org/wiki/%E8%A5%BF%E9%81%8A%E8%A8%98"
+      },
+      "license": "Public domain (Ming novel; passages are compiler's renderings)",
+      "summary": {
+        "en": "No heavenly general could touch the Great Sage, so Guanyin recommended Erlang Shen, the three-eyed nephew of the Jade Emperor with his howling hound and seven companions. Monkey and god fought three hundred rounds, then dueled in transformations — sparrow against hungry hawk, fish against osprey, snake against gray crane, earth temple against hound — until Laozi's steel ring, thrown from the southern gate, felled the monkey and Erlang's hound took him by the leg.",
+        "zh": "觀音薦二郎神；悟空與二郎神鬥三百餘合，又各顯神通：麻雀、餓鷹、魚鷹、大鷂、水蛇、灰鶴、土地廟——變化相制；太上老君金剛琢自南天門打下，哮天犬咬住腿，終被擒。"
+      },
+      "motifs": [
+        "transformation",
+        "storm-thunder",
+        "celestial-bureaucracy",
+        "bodhisattva"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Passages are the compiler's condensed paraphrases of the novel. The transformation-chase is a classic cumulative folktale sequence within a novel."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Erlang Shen came with his six Meishan companions and his howling hound. The Great Sage and the three-eyed god met at the gate of the monkey's camp and fought three hundred rounds without result; then both rose into the sky and fought again amid the clouds, and neither could prevail.",
+          "note": "Paraphrase of Journey to the West, ch. 6 (compiler's rendering); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "So began the transformation-duel. Monkey became a sparrow on the bough; Erlang became a hungry hawk. Monkey plunged into the water as a fish; Erlang became an osprey. Monkey became a water-snake; Erlang a gray crane that pecked at his scales. Monkey became a flower-flies-fleeing-earth temple, his tail the flagpole rearing behind the shrine — but Erlang saw through it, and his hound stood ready.",
+          "note": "Paraphrase of Journey to the West, ch. 6, the transformation-chase; not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "At the height of it, Laozi flung his diamond bracelet from the Southern Gate and it struck the Great Sage's skull, felling him; Erlang's hound leapt and seized his leg, and the six Meishan brothers pinned him with hooks. Thus was the Great Sage Equal to Heaven brought to heaven in irons — to be cooked in Laozi's furnace and to fall out of it twice as dangerous.",
+          "note": "Paraphrase of Journey to the West, ch. 6, capture; not verbatim."
+        }
+      ],
+      "persons": [
+        "sunwukong",
+        "erlang-shen"
+      ]
+    },
+    {
+      "id": "chinese-xyj-buddhas-palm",
+      "title": {
+        "en": "The Eight-Trigram Furnace and the Palm of the Buddha",
+        "zh": "八卦爐與佛掌"
+      },
+      "tradition": "chinese",
+      "category": "myth",
+      "region": {
+        "en": "Laozi's furnace and Five-Elements Mountain (symbolic pin: mythic west of heaven)",
+        "zh": "兜率宮八卦爐、靈山兩界山（象徵性定位）"
+      },
+      "lat": 35.0,
+      "lon": 105.0,
+      "period": "Journey to the West, 16th c. (attrib. Wu Cheng'en, ch. 7)",
+      "source": {
+        "archive": "Wikisource (zh)",
+        "work": "Journey to the West, ch. 7: forty-nine days in the furnace, the golden fiery eyes, and the bet with the Buddha's palm",
+        "url": "https://zh.wikisource.org/wiki/%E8%A5%BF%E9%81%8A%E8%A8%98"
+      },
+      "license": "Public domain (Ming novel; passages are compiler's renderings)",
+      "summary": {
+        "en": "The capture could not kill the Great Sage: he was thrown into Laozi's Eight-Trigram Furnace for forty-nine days, where the fire, kept from his feet by the position of the wind-trigram, only tempered him — and burned his eyes into golden fiery eyes that see through every disguise. Freed, he wrecked heaven again, until the Buddha wagered him: escape my palm and heaven is yours. One somersault of a hundred thousand li, and he wrote 'The Great Sage was here' on five flesh-pink pillars — urine at the middle pillar — for they were the Buddha's five fingers. The palm closed, pressed him under Five-Elements Mountain, and sealed him five hundred years.",
+        "zh": "悟空被投入八卦爐煉四十九日，火不能傷，反煉成火眼金睛；出爐大鬧天宮，與如來賭賽：翻出手掌即讓天宮——筋斗雲至五肉柱處書『齊天大聖到此一遊』並遺尿；如來五指翻轉，將其壓於五行山下五百年。"
+      },
+      "motifs": [
+        "transformation",
+        "taboo-transgression",
+        "world-renewal"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Passages are the compiler's condensed paraphrases of the novel."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Blades and lightning could not harm the Great Sage, so Laozi offered him to the Eight-Trigram Furnace for forty-nine days of slow fire. But the monkey had sheltered in the wind-trigram corner, where there was smoke but no flame; the smoke seared his eyes into golden fiery eyes, that could see through every transformation and every illusion ever cast.",
+          "note": "Paraphrase of Journey to the West, ch. 7 (compiler's rendering); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "When the furnace was opened on the appointed day, the Great Sage sprang out, kicked over the crucibles, and with his staff wrought havoc from the halls of the thirty-three heavens down to the nine prisons of the stars — until the Jade Emperor called across the Western Heaven for the Buddha.",
+          "note": "Paraphrase of Journey to the West, ch. 7, the havoc renewed; not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "The Buddha bet him a wager: if the monkey could leap out of the Buddha's right palm, heaven would be his. Wukong tucked his staff small, leapt, somersaulted his hundred thousand li, and found five flesh-pink pillars — where he wrote 'The Great Sage was here' and, for a signature, relieved himself at the middle pillar. He leapt back in triumph; the Buddha showed him the words still inked on his middle finger. The palm turned over, pressed the monkey beneath the five peaks that became Five-Elements Mountain, and sealed him for five hundred years, to wait for a pilgrim.",
+          "note": "Paraphrase of Journey to the West, ch. 7, the palm-wager; not verbatim."
+        }
+      ],
+      "persons": [
+        "sunwukong"
+      ]
+    },
+    {
+      "id": "chinese-xyj-chen-guangrui",
+      "title": {
+        "en": "The Tang Monk's Parents: A Murder on the Yangzi",
+        "zh": "陳光蕊江流兒"
+      },
+      "tradition": "chinese",
+      "category": "myth",
+      "region": {
+        "en": "The Yangzi at Hai Prefecture and Jiangzhou (pin: Yangzi river towns)",
+        "zh": "海州至江州（長江）"
+      },
+      "lat": 30.6,
+      "lon": 114.5,
+      "period": "Journey to the West, 16th c. (attrib. Wu Cheng'en, ch. 9)",
+      "source": {
+        "archive": "Wikisource (zh)",
+        "work": "Journey to the West, ch. 9: the scholar Chen Guangrui, the ferryman's murder, and the river-raised infant",
+        "url": "https://zh.wikisource.org/wiki/%E8%A5%BF%E9%81%8A%E8%A8%98"
+      },
+      "license": "Public domain (Ming novel; passages are compiler's renderings)",
+      "summary": {
+        "en": "The top graduate Chen Guangrui, wed the same week to the prime minister's daughter Wenjiao and posted to Jiangzhou, was murdered mid-journey by the ferryman Liu Hong, who took his wife and his office. The pregnant widow bore a son by the river; fearing the usurper, she bound the baby on a plank with a blood-written plea and cast it on the current — the monk of Golden Mountain temple raised him as River-Float, and eighteen years later the son brought the murderer to justice and joined the Sangha, to become the pilgrim Xuanzang.",
+        "zh": "狀元陳光蕊攜妻溫嬌赴江州，渡口被劉洪殺害霸妻；殷氏產子懼害，以血書縛兒於木板拋江；金山寺長老收養，法名江流兒；十八年後復仇雪冤，遂剃度為玄奘——取經人之由來。"
+      },
+      "motifs": [
+        "miraculous-birth",
+        "boon-curse",
+        "adultery",
+        "ferryman-dead"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Passages are the compiler's condensed paraphrases of the novel. The floating-infant motif parallels Moses/Jumong-type riverbirths; noted for the birth cluster."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Chen Guangrui of Hai Prefecture took first place in the palace examination, was married on the spot to the prime minister's daughter Yin Wenjiao, and set out for his post at Jiangzhou. At the flood-water crossing the ferryman Liu Hong murdered him in the night, threw the body into the river, took his papers, his post and his wife, and arrived at Jiangzhou as governor in the dead man's name.",
+          "note": "Paraphrase of Journey to the West, ch. 9 (compiler's rendering); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Wenjiao, pregnant, bore a son by the river. Terrified that Liu Hong would destroy him, she bit her finger, wrote a plea in blood telling who the child was, bound it to the baby's chest, tied the infant to a plank of wood, and set it on the current — and the river carried it to the gate of Golden Mountain temple, where the old abbot took it in and named it River-Float.",
+          "note": "Paraphrase of Journey to the West, ch. 9, the plank and the temple; not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "At eighteen the boy learned his story, found his mother by the water, and brought the case to justice: the usurper was executed, and the father's body, preserved in the sea, was revived by a dragon-king's favor. The son then shaved his head as a Buddhist monk and took the name Xuanzang — the pilgrim who would carry the scriptures from the west.",
+          "note": "Paraphrase of Journey to the West, ch. 9, justice and tonsure; not verbatim."
+        }
+      ],
+      "persons": [
+        "tang-sanzang"
+      ]
+    },
+    {
+      "id": "chinese-xyj-fillet-six-robbers",
+      "title": {
+        "en": "The Golden Fillet and the Six Robbers of the Senses",
+        "zh": "緊箍咒與六賊"
+      },
+      "tradition": "chinese",
+      "category": "myth",
+      "region": {
+        "en": "Double-Fork Ridge on the road west of Five-Elements Mountain (pin: Gansu corridor route)",
+        "zh": "兩界山雙叉嶺以西（絲路）"
+      },
+      "lat": 37.5,
+      "lon": 103.0,
+      "period": "Journey to the West, 16th c. (attrib. Wu Cheng'en, ch. 14)",
+      "source": {
+        "archive": "Wikisource (zh)",
+        "work": "Journey to the West, ch. 14: the freed monkey kills six robbers, runs off, and is bound by Guanyin's golden fillet",
+        "url": "https://zh.wikisource.org/wiki/%E8%A5%BF%E9%81%8A%E8%A8%98"
+      },
+      "license": "Public domain (Ming novel; passages are compiler's renderings)",
+      "summary": {
+        "en": "Freed after five centuries, the monkey killed six bandits whose names were the six senses — Eyes See Delight, Ears Hear Wrath, Nose Sniffs Love, Tongue Tastes Thoughts, Body Wishes Envy, Mind Seeks Sorrow — and the horrified monk rebuked him; the monkey stormed off, and Guanyin, disguised, gave the monk a cap that, when worn, became a golden fillet tightening with a spell. The monkey returned, tried the cap, and learned what obedience feels like on the skull.",
+        "zh": "悟空出山，路殺六賊——眼看喜、耳聽怒、鼻嗅愛、舌嘗思、身本憂、意見欲（六根之喻）；三藏斥之，悟空負氣而去；觀音授緊箍兒，悟空戴之，咒起箍緊，遂受制於師。"
+      },
+      "motifs": [
+        "taboo-transgression",
+        "parable-teaching",
+        "jealousy",
+        "bodhisattva"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Passages are the compiler's condensed paraphrases of the novel. The six robbers are an allegory of the senses; the fillet episode is the novel's parable of discipline."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The Tang monk climbed Five-Elements Mountain, lifted the seal, and the monkey burst free after five hundred years. On the road they met six bandits who demanded toll — bandits named Eyes See Delight, Ears Hear Wrath, Nose Sniffs Love, Tongue Tastes Thoughts, Body Wishes Envy, and Mind Seeks Sorrow. The monkey told them cheerfully they had met their ancestors, and clubbed every one of them dead.",
+          "note": "Paraphrase of Journey to the West, ch. 14 (compiler's rendering); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "The monk, sickened that his disciple had killed men, rebuked him until the monkey stormed off in a huff of cloud. As the monk sat alone, an old woman came — Guanyin in disguise — and gave him a silk cap and a tight-tight spell: the cap was a golden fillet of heaven-forged rings, and the spell was the true-name chant of the Tightening Spell.",
+          "note": "Paraphrase of Journey to the West, ch. 14, Guanyin's gift; not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "The monkey returned, saw the cap, tried it on — and it shrank to his skull. The monk began the spell, and the golden hoop ground tighter and tighter until the Great Sage lay rolling and screaming on the ground. 'I will obey you forever,' he vowed — and from that day, the mightiest being in three realms carried a band that only mercy and obedience could loosen.",
+          "note": "Paraphrase of Journey to the West, ch. 14, the fillet; not verbatim."
+        }
+      ],
+      "persons": [
+        "sunwukong",
+        "tang-sanzang"
+      ]
+    },
+    {
+      "id": "chinese-xyj-bajie-gao-village",
+      "title": {
+        "en": "Zhu Bajie, the Pig Groom of Gao Village",
+        "zh": "高老莊收八戒"
+      },
+      "tradition": "chinese",
+      "category": "myth",
+      "region": {
+        "en": "Gao Village, Western Niu-he-zhou route (pin: mythic westward route)",
+        "zh": "烏斯藏高老莊（取經路）"
+      },
+      "lat": 36.0,
+      "lon": 100.0,
+      "period": "Journey to the West, 16th c. (attrib. Wu Cheng'en, chs. 18-19)",
+      "source": {
+        "archive": "Wikisource (zh)",
+        "work": "Journey to the West, chs. 18-19: the pig son-in-law, the battle at the cloud-crossing cave, and Bajie's confession",
+        "url": "https://zh.wikisource.org/wiki/%E8%A5%BF%E9%81%8A%E8%A8%98"
+      },
+      "license": "Public domain (Ming novel; passages are compiler's renderings)",
+      "summary": {
+        "en": "At Gao Old Village a son-in-law who arrived a stout honest fellow had turned into a pig-faced monster, working marvels by day and carrying off the daughter by night; the monk's new disciple fought him at the cave of the cloud-crossing, until the pig, pinned down, confessed: he had been Marshal of the Heavenly Canopy, banished for drunken importunity toward Chang'e, reborn in a sow's womb. Given the name Zhu Bajie, Pig of the Eight Prohibitions, he took the fillet of obedience and joined the journey.",
+        "zh": "高老莊招贅之婿乃豬妖；悟空戰之於雲棧洞，豬妖自述本是天河元帥天蓬，酒戲嫦娥被貶，錯投豬胎；受戒取名豬悟能，法名八戒——遂拜三藏為師，擔行李隨行。"
+      },
+      "motifs": [
+        "transformation",
+        "trickster",
+        "taboo-transgression",
+        "animal-transformation",
+        "teacher-disciple"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Passages are the compiler's condensed paraphrases of the novel."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The Gao family had taken in a brawny, gluttonous laborer three years before, given him their third daughter in marriage — and discovered too late that by day he worked like an ox and by night showed the face of a long-snouted pig. He wallowed, he ate whole banquets, and he kept the bride locked away from her parents.",
+          "note": "Paraphrase of Journey to the West, chs. 18 (compiler's rendering); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "The Monkey King fought him from the village to the Cloud-Road Cave and cornered him. Battered into honesty, the pig confessed: once he was Marshal Tianpeng, commander of the eighty thousand river-troops of the Milky Way, banished to earth for drunkenly laying hold of the moon-goddess Chang'e, reborn by mistake in a sow's body. The name of Wuneng — Awakened-to-Ability — was given him, and the eight prohibitions of the disciple's discipline.",
+          "note": "Paraphrase of Journey to the West, ch. 19, confession and tonsure; not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "So Zhu Bajie, Pig of the Eight Prohibitions, shouldered the pilgrim's luggage and joined the journey west — lazy, gluttonous, lecherous and loyal, the great comic engine of the novel, and the only disciple who always wanted to turn back.",
+          "note": "Paraphrase of Journey to the West, ch. 19, joining the pilgrimage; not verbatim."
+        }
+      ],
+      "persons": [
+        "sunwukong",
+        "zhu-bajie",
+        "tang-sanzang"
+      ]
+    },
+    {
+      "id": "chinese-xyj-white-dragon",
+      "title": {
+        "en": "The White Dragon Horse Swallows the Pilgrim's Saddle",
+        "zh": "白龍馬"
+      },
+      "tradition": "chinese",
+      "category": "myth",
+      "region": {
+        "en": "Eagle-Sorrow Stream (Yingchoujian), on the western road (pin: Gansu corridor)",
+        "zh": "鷹愁澗（絲路）"
+      },
+      "lat": 37.0,
+      "lon": 102.5,
+      "period": "Journey to the West, 16th c. (attrib. Wu Cheng'en, ch. 15)",
+      "source": {
+        "archive": "Wikisource (zh)",
+        "work": "Journey to the West, ch. 15: the third prince of the West Sea, the eaten horse, and Guanyin's conversion",
+        "url": "https://zh.wikisource.org/wiki/%E8%A5%BF%E9%81%8A%E8%A8%98"
+      },
+      "license": "Public domain (Ming novel; passages are compiler's renderings)",
+      "summary": {
+        "en": "A white dragon burst from Eagle-Sorrow Stream and swallowed the pilgrim's horse whole. Wukong fought it in the air; Guanyin came at the monk's plea, and the dragon — third son of the West Sea king, under sentence for burning his father's pearl in defiance — was given instead the pilgrimage: shorn of scales, it became a white horse to carry the Tang monk to the west, the last of the five to join.",
+        "zh": "鷹愁澗白龍吞了三藏白馬；悟空戰之不下，觀音至，龍乃西海龍王三太子，因縱火燒殿上明珠而獲罪；觀音救之，鋸角退鱗，化白龍馬馱經西行。"
+      },
+      "motifs": [
+        "transformation",
+        "world-serpent",
+        "quest-immortality",
+        "youngest-son",
+        "pilgrimage"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Passages are the compiler's condensed paraphrases of the novel."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Passing the Eagle-Sorrow Stream, the pilgrims' white horse was swallowed whole by a white dragon that shot up out of the water; the monkey dove after it, and dragon and monkey fought in the air, cloud and water, without victory on either side.",
+          "note": "Paraphrase of Journey to the West, ch. 15 (compiler's rendering); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "The monk wept over his lost horse, and the monkey fetched Guanyin. She rebuked the dragon, who confessed: he was the third prince of the West Sea, who had defied his father by burning the pearl of the palace gate, and had been sentenced to death — but she had stayed the sentence and set him waiting at the stream for the pilgrim he was fated to serve.",
+          "note": "Paraphrase of Journey to the West, ch. 15, the dragon's confession; not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "Guanyin sawed off his horns, removed his scales, and changed him into a white horse of the purest breed, saddled and bridled. The Tang monk mounted, and the five pilgrims were complete in all but one — the gentle brother still waiting in the Flowing Sands River.",
+          "note": "Paraphrase of Journey to the West, ch. 15, transformation into the horse; not verbatim."
+        }
+      ],
+      "persons": [
+        "tang-sanzang"
+      ]
+    },
+    {
+      "id": "chinese-xyj-wuzhuang-ginseng",
+      "title": {
+        "en": "The Ginseng Fruit Tree of Wuzhuang Abbey",
+        "zh": "五莊觀人參果"
+      },
+      "tradition": "chinese",
+      "category": "myth",
+      "region": {
+        "en": "Wuzhuang Abbey on Longevity Mountain (pin: mythic westward route)",
+        "zh": "萬壽山五莊觀"
+      },
+      "lat": 35.0,
+      "lon": 101.0,
+      "period": "Journey to the West, 16th c. (attrib. Wu Cheng'en, chs. 24-26)",
+      "source": {
+        "archive": "Wikisource (zh)",
+        "work": "Journey to the West, chs. 24-26: the ginseng fruit, the fallen tree, and Guanyin's dew of revival",
+        "url": "https://zh.wikisource.org/wiki/%E8%A5%BF%E9%81%8A%E8%A8%98"
+      },
+      "license": "Public domain (Ming novel; passages are compiler's renderings)",
+      "summary": {
+        "en": "The Great Immortal Zhenyuan kept a tree that flowered once in three thousand years and bore a fruit every nine thousand — each fruit like a baby, worth a man's whole life of years. His servants fed two to the pilgrims by error; Wukong stole more, and when the theft was found out his anger felled the tree. The immortal trapped the pilgrims, and only Guanyin's sweet dew, poured on the roots, could raise the tree — sealing a friendship and a lesson in hospitality.",
+        "zh": "五莊觀人參果樹三千年一花，九千年結果，狀如嬰兒；清風明月奉果誤時，悟空偷果；被發覺，怒推樹倒。鎮元大仙以袖裡乾坤收四眾，悟空遍求醫樹之方——觀音以甘露活樹，結為兄弟。"
+      },
+      "motifs": [
+        "quest-immortality",
+        "boon-curse",
+        "sacred-place",
+        "sacred-tree",
+        "bodhisattva"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Passages are the compiler's condensed paraphrases of the novel."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "On Longevity Mountain stood the abbey of Zhenyuan the Great Immortal, and in its garden a tree older than the sea-roads: three thousand years to flower, nine thousand to fruit, a fruit that hung like a baby with limbs that moved — eat one, and a man gained four hundred and seventy years of life. Only thirty ripened at a time, and the tree feared the blow of any common hand.",
+          "note": "Paraphrase of Journey to the West, ch. 24 (compiler's rendering); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "The abbey's two boy-servants brought two fruits to the guests — who shrank from eating what looked like a child. Wukong, hearing of the fruit, stole a hammer, knocked three down, and they vanished into the earth; a fourth he caught in his robe, and he and his brothers shared it. The theft was found out, and the monkey — his monkey pride pricked by the servants' taunts — struck the tree with his staff and felled it.",
+          "note": "Paraphrase of Journey to the West, ch. 24-25, theft and felling; not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "Zhenyuan caught the pilgrims in his sleeve as they fled. Wukong promised to cure the tree, searched three continents for the way, and brought Guanyin, who dipped her willow branch in the sweet dew of her vase and sprinkled the roots — and the tree stood again, its fruits restored. The Great Immortal, overjoyed, swore brotherhood with the Tang monk: the tree's death had become a friendship's birth.",
+          "note": "Paraphrase of Journey to the West, ch. 26, the revival; not verbatim."
+        }
+      ],
+      "persons": [
+        "sunwukong"
+      ]
+    },
+    {
+      "id": "chinese-xyj-baigujing",
+      "title": {
+        "en": "The White Bone Demon Thrice Disguised",
+        "zh": "三打白骨精"
+      },
+      "tradition": "chinese",
+      "category": "myth",
+      "region": {
+        "en": "Snake- coiling ridge on the road west (pin: mythic westward route)",
+        "zh": "蛇盤山（取經路）"
+      },
+      "lat": 34.5,
+      "lon": 100.0,
+      "period": "Journey to the West, 16th c. (attrib. Wu Cheng'en, ch. 27)",
+      "source": {
+        "archive": "Wikisource (zh)",
+        "work": "Journey to the West, ch. 27: the White Bone Demon's three disguises, the golden fiery eyes, and the banishment of Wukong",
+        "url": "https://zh.wikisource.org/wiki/%E8%A5%BF%E9%81%8A%E8%A8%98"
+      },
+      "license": "Public domain (Ming novel; passages are compiler's renderings)",
+      "summary": {
+        "en": "The White Bone Demon, one skeleton given life, wanted to eat the Tang monk for his deathless flesh: she came as a village girl with rice, then as an old woman seeking her daughter, then as an old man seeking them both — and each time Wukong's fiery eyes saw through her and struck her down; the third blow shattered her true form, a heap of white bone with the characters 'White Bone Lady' on the spine. But the monk, believing his disciple had murdered three innocents, recited the tightening spell and banished him — and the demon's purpose was half won.",
+        "zh": "白骨夫人三戲唐僧：村姑、老嫗、老翁；悟空火眼金睛三打之，第三打現出白骨原形——然三藏肉眼不辨，念緊箍咒，逐悟空回花果山。"
+      },
+      "motifs": [
+        "transformation",
+        "trickster",
+        "teacher-disciple",
+        "exile"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Passages are the compiler's condensed paraphrases of the novel."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The White Bone Demon had one aim: a mouthful of the Tang monk's flesh, one bite of which gave immortality. Her first shape was a beautiful village girl, basket of rice and pot of soup, walking alone in the wilderness; she came up to the pilgrims with soft words — and the monkey, returning from peach-picking, saw at a glance the skull beneath the skin and brought his staff down on her.",
+          "note": "Paraphrase of Journey to the West, ch. 27 (compiler's rendering); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "She let her false body fall and escaped in her spirit; then, an old woman bent on a staff, she came wailing for her daughter. Again the fiery eyes saw through her; again the staff fell, and again the demon fled from the false corpse. The third time she came as an old father seeking wife and child, and this time the monkey struck before she could breathe a spell — the blow shattered her true body, a heap of white bone with 'White Bone Lady' graven on the spine.",
+          "note": "Paraphrase of Journey to the West, ch. 27, the three strokes; not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "But the monk's eyes were mortal ones. To him his disciple had killed a girl, a mother and a father, three innocents in the wilderness; the tightening spell brought the Great Sage to the ground, and his own words of banishment drove him from the pilgrimage — back over the eastern sea to the Mountain of Flowers and Fruit, weeping to his brothers of the troop as he left the man he could not stop defending.",
+          "note": "Paraphrase of Journey to the West, ch. 27, banishment; not verbatim."
+        }
+      ],
+      "persons": [
+        "sunwukong",
+        "tang-sanzang"
+      ]
+    },
+    {
+      "id": "chinese-xyj-huangpao-demon",
+      "title": {
+        "en": "The Yellow-Robed Demon and the Princess of Baohsiang",
+        "zh": "黃袍怪與百花羞"
+      },
+      "tradition": "chinese",
+      "category": "myth",
+      "region": {
+        "en": "Wave-Moon Cave, Baohsiang Kingdom (pin: mythic westward route)",
+        "zh": "寶象國波月洞"
+      },
+      "lat": 33.0,
+      "lon": 99.0,
+      "period": "Journey to the West, 16th c. (attrib. Wu Cheng'en, chs. 28-31)",
+      "source": {
+        "archive": "Wikisource (zh)",
+        "work": "Journey to the West, chs. 28-31: the Yellow-Robed Demon, the princess's secret letter, and Wukong's return from exile",
+        "url": "https://zh.wikisource.org/wiki/%E8%A5%BF%E9%81%8A%E8%A8%98"
+      },
+      "license": "Public domain (Ming novel; passages are compiler's renderings)",
+      "summary": {
+        "en": "With Wukong banished, the Yellow-Robed Demon of Wave-Moon Cave — a star of heaven fallen into demonhood — seized the monk; the princess Bailongxiu, a mortal stolen from Baohsiang thirteen years before, bought his release with a lie and smuggled a letter home. The princes begged Wukong's pardon and help; the monkey, in the tiger's own borrowed shape, exposed the demon's true nature before the court, and the Tang monk — needing his first disciple's fire — took him back with open arms.",
+        "zh": "黃袍怪乃二十八宿奎木狼下界；攝寶象國公主百花羞十三年；公主得唐僧託信還國；國王苦留，黃袍怪變虎攝三藏；八戒智激美猴王——悟空歸隊降妖，師徒重聚。"
+      },
+      "motifs": [
+        "transformation",
+        "boon-curse",
+        "teacher-disciple",
+        "exile"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Passages are the compiler's condensed paraphrases of the novel."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The demon of the Yellow Robe had carried off from Baohsiang, thirteen years before, a king's daughter, and kept her in the Wave-Moon Cave as his wife with two children by her. Coming upon the monkless pilgrims, he seized the Tang monk in his claws and bore him to the cave for his evening meal.",
+          "note": "Paraphrase of Journey to the West, chs. 28-29 (compiler's rendering); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "The princess, homesick for a father's court she could not remember except in dreams, bargained for the stranger's life: she told the demon the monk was a saintly guest and begged his release, then secretly gave the monk a letter for her father. The king of Baohsiang read his daughter's blood-written plea and begged the passing pilgrims to rescue her — and the pig and the sand-monk failed in the attempt.",
+          "note": "Paraphrase of Journey to the West, ch. 29-30, the letter; not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "Wukong, banished and far away, was found by the shamed Bajie, who — on a courtier's word — provoked him with a lie that the demon had cursed his name. The Great Sage bounded back with a roar, took the place of the transformed prince before the king, flayed the demon's disguise before the whole court, and rescued the princess; and the Tang monk, seeing what his own trust had cost, knelt and took his disciple back with tears.",
+          "note": "Paraphrase of Journey to the West, chs. 30-31, the rescue and reconciliation; not verbatim."
+        }
+      ],
+      "persons": [
+        "sunwukong"
+      ]
+    }
+  ]
+}

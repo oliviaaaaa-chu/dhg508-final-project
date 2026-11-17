@@ -1,0 +1,719 @@
+{
+  "texts": [
+    {
+      "id": "chinese-fsy-nuwa-palace-poem",
+      "title": {
+        "en": "The King's Poem in the Palace of Nüwa",
+        "zh": "紂王題詩女媧宮"
+      },
+      "tradition": "chinese",
+      "category": "myth",
+      "region": {
+        "en": "Nüwa's palace at the Zhaoge court (pin: Shang capital, Henan)",
+        "zh": "朝歌女媧宮（河南）"
+      },
+      "lat": 35.6,
+      "lon": 114.3,
+      "period": "Investiture of the Gods (Fengshen Yanyi), 16th c. novel, ch. 1",
+      "source": {
+        "archive": "Wikisource (zh)",
+        "work": "Fengshen Yanyi, ch. 1: King Zhou's lewd poem and the goddess's summoning of the three demons of Xuanyuan tomb",
+        "url": "https://zh.wikisource.org/wiki/%E5%B0%81%E7%A5%9E%E6%BC%94%E7%BE%A9"
+      },
+      "license": "Public domain (Ming novel; passages are compiler's renderings)",
+      "summary": {
+        "en": "King Zhou, at the seventh-year pilgrimage, entered the newly renovated temple of Nüwa and, seeing the goddess's painted beauty, wrote a lewd poem on the golden wall promising to make her his own. The goddess, returning from the Fire-Cloud Palace, read the verse and flew into fury: she summoned the three demons of the Xuanyuan tomb — the thousand-year fox, the nine-headed pheasant and the jade pipa — and sent them down to bewitch the king and ruin the Shang, setting the whole Investiture of the Gods in motion.",
+        "zh": "紂王進香女媧宮，見聖像之美，題淫詩於粉壁：『但得妖嬈能舉動，取回長樂侍君王。』女媧大怒，喚軒轅墳三妖——千年狐狸、九頭雉雞精、玉石琵琶精——隱其妖形，託身宮院，惑亂君心，敗成湯天下。"
+      },
+      "motifs": [
+        "taboo-transgression",
+        "trickster",
+        "boon-curse"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Passages are the compiler's condensed paraphrases of the novel. The goddess's wrath frames the dynastic change as divine decree — the novel's theology of the Mandate."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "In the seventh year of his reign King Zhou went with his court to offer incense at the temple of Nüwa, the goddess who had mended the sky, newly painted for his visit. Behind the curtain stood the image of the goddess, and the king, gazing at her painted beauty, felt his heart burn.",
+          "note": "Paraphrase of Fengshen Yanyi, ch. 1 (compiler's rendering); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "He took up a brush and wrote on the golden wall a poem in praise of her loveliness, ending: 'If only the enchanting one could move and live, I would bring her back to Chang-le to serve her king.' The courtiers trembled; the king laughed and returned to his palace.",
+          "note": "Paraphrase of Fengshen Yanyi, ch. 1, the poem; not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "The goddess came back from the Fire-Cloud Palace, read the verse on her own wall, and her face went black with rage: a mortal king had spoken to the mender of heaven as to a woman of the market. She summoned the three demons of the Xuanyuan tomb and charged them: assume beautiful forms, enter the palace, bewitch the king — and the fall of the Shang, six hundred years in the building, was decreed in one afternoon of lewd verse.",
+          "note": "Paraphrase of Fengshen Yanyi, ch. 1, the summoning; not verbatim."
+        }
+      ],
+      "persons": [
+        "nuwa",
+        "shang-zhou"
+      ]
+    },
+    {
+      "id": "chinese-fsy-daji-fox",
+      "title": {
+        "en": "The Fox Takes the Body of Su Daji",
+        "zh": "妲己被狐妖附體"
+      },
+      "tradition": "chinese",
+      "category": "myth",
+      "region": {
+        "en": "Enzhou, Su Hu's fief (pin: Hebei–Henan border)",
+        "zh": "冀州蘇護府"
+      },
+      "lat": 36.0,
+      "lon": 115.0,
+      "period": "Investiture of the Gods (Fengshen Yanyi), 16th c. novel, ch. 4",
+      "source": {
+        "archive": "Wikisource (zh)",
+        "work": "Fengshen Yanyi, ch. 4: Su Hu's daughter offered to the court, the fox's possession on the road, and the false Daji",
+        "url": "https://zh.wikisource.org/wiki/%E5%B0%81%E7%A5%9E%E6%BC%94%E7%BE%A9"
+      },
+      "license": "Public domain (Ming novel; passages are compiler's renderings)",
+      "summary": {
+        "en": "Ordered to surrender his daughter Su Daji to the king's harem, the border-lord Su Hu marched her to the capital; at the Enzhou post-house a thousand-year fox-spirit, sent by Nüwa, killed the girl and took her body, arriving at court as the loveliest of the king's three thousand — and the true Daji was never seen again. The fox-queen of the novel's middle chapters, with her basin of burning bronze and her garden of frozen souls, is that possessed body.",
+        "zh": "蘇護獻女妲己入宮；恩州驛狐狸精吸盡妲己魂魄，借體成形——入宮為妃，蠱惑紂王：酒池肉林、炮烙之刑、剖腹驗胎、敲骨視髓，皆出假妲己之手。"
+      },
+      "motifs": [
+        "transformation",
+        "taboo-transgression",
+        "trickster"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Passages are the compiler's condensed paraphrases of the novel. The fox-spirit figure echoes the nine-tailed fox of Qingqiu — an inversion from auspicious omen (chinese-shanhaijing-jiuweihu) to dynastic poison; noted."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The border-lord Su Hu was ordered to send his daughter Daji to King Zhou's palace, and marched her with an escort to the capital. At the post-house of Enzhou a black wind shook the inn: it was the thousand-year fox, sent by the goddess to take a human body for her work at court.",
+          "note": "Paraphrase of Fengshen Yanyi, ch. 4 (compiler's rendering); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "The fox drew out the girl's soul with a breath and poured its own spirit into her body; the serving-maids saw nothing amiss, and the escort moved on. At court the false Daji was received in splendor — and King Zhou, one look at her, forgot the altars, the ancestral temple and the remonstrances of his ministers forever.",
+          "note": "Paraphrase of Fengshen Yanyi, ch. 4, the possession; not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "What followed the novel tells as the inventory of a kingdom's ruin: pools of wine and forests of roasted meat, the bronze pillar heated for the loyal, the dissected bodies of pregnant women for the king's amusement, the bones of the old broken to see the marrow. Every atrocity came from the fox in the stolen body — and every atrocity added a name to the register of the gods the ending would confer.",
+          "note": "Paraphrase of Fengshen Yanyi, chs. 4-26, the reign of the false Daji; not verbatim."
+        }
+      ],
+      "persons": [
+        "daji",
+        "shang-zhou"
+      ]
+    },
+    {
+      "id": "chinese-fsy-jiangziya-descends",
+      "title": {
+        "en": "Jiang Ziya Descends the Mountain to Wait Forty Years",
+        "zh": "姜子牙下山"
+      },
+      "tradition": "chinese",
+      "category": "myth",
+      "region": {
+        "en": "Kunlun's Jade Void Palace and the market of Song family village (pin: Henan–Shaanxi)",
+        "zh": "崑崙玉虛宮至宋家莊"
+      },
+      "lat": 34.7,
+      "lon": 110.0,
+      "period": "Investiture of the Gods (Fengshen Yanyi), 16th c. novel, chs. 15-16",
+      "source": {
+        "archive": "Wikisource (zh)",
+        "work": "Fengshen Yanyi, chs. 15-16: Yuanshi Tianzun sends Jiang Ziya down the mountain; the burning of the pipa-spirit; the failed fortune-telling and the failed marriage",
+        "url": "https://zh.wikisource.org/wiki/%E5%B0%81%E7%A5%9E%E6%BC%94%E7%BE%A9"
+      },
+      "license": "Public domain (Ming novel; passages are compiler's renderings)",
+      "summary": {
+        "en": "Yuanshi Tianzun told the seventy-two-year-old Jiang Ziya that his destiny was not the immortal path but the throne of a minister: he was sent down Kunlun to aid the Zhou and to confer the titles of the gods. On earth he divined for a living, burned out a pipa-spirit in the palace of the king, and married the shrew Ma Shi, who left him when his fortunes fell — the general who would marshal heaven's armies spent his sixties as a market fortune-teller and a failed husband.",
+        "zh": "元始天尊命姜子牙下山輔周滅紂、封神；子牙宋家莊算卦，火燒玉石琵琶精顯道術；娶馬氏，賣笊籬、賣麵皆折本——後往渭水垂釣，以待文王。"
+      },
+      "motifs": [
+        "sacred-kingship",
+        "oracle-divination",
+        "quest-immortality"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Passages are the compiler's condensed paraphrases of the novel."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Jiang Ziya had studied on Kunlun forty years, and at seventy-two the Patriarch Yuanshi told him plainly: he was not born for the elixir — his fate was a chancellor's seal on earth. 'Go down the mountain,' said the master, 'aid the house of Zhou against the Shang, and confer the investitures of the gods; you will be born again into honor when your work is done.'",
+          "note": "Paraphrase of Fengshen Yanyi, ch. 15 (compiler's rendering); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Down the mountain he lodged with an old friend in the Song family village, married the sharp-tongued Ma Shi, and failed at every trade she set him: baskets, flour, cattle, a wine-shop. He found work at last as a fortune-teller at court, where he sniffed out a jade pipa-spirit sitting among the king's ladies and burned its true form out of the consort's body with the fire of his own arts — winning the enmity of the fox-queen and a posting to the frontier as reward.",
+          "note": "Paraphrase of Fengshen Yanyi, ch. 16, the pipa-spirit; not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "Ma Shi left him for a poorer man when his post was lost, and the future Grand Marshal of the Investiture sat by the Wei River with a straight hook, waiting forty years' worth of years for a king — the novel's long joke that becomes the founding of a dynasty.",
+          "note": "Paraphrase of Fengshen Yanyi, chs. 16-23, the marriage and the fishing; not verbatim."
+        }
+      ],
+      "persons": [
+        "jiangziya"
+      ]
+    },
+    {
+      "id": "chinese-fsy-taigong-fishing",
+      "title": {
+        "en": "The Straight Hook of the Wei River and the Carriage of King Wen",
+        "zh": "渭水文王拉縴"
+      },
+      "tradition": "chinese",
+      "category": "myth",
+      "region": {
+        "en": "Panxi, the bend of the Wei River (pin: Baoji, Shaanxi)",
+        "zh": "渭水磻溪（陝西寶雞）"
+      },
+      "lat": 34.3,
+      "lon": 107.2,
+      "period": "Investiture of the Gods (Fengshen Yanyi), chs. 23-24; historical layer in Shiji, Qi Taigong Shijia, c. 94 BCE",
+      "source": {
+        "archive": "Wikisource (zh)",
+        "work": "Fengshen Yanyi, chs. 23-24: King Wen divines the fisher, the straight hook with no bait, and the carriage pulled by the king himself",
+        "url": "https://zh.wikisource.org/wiki/%E5%B0%81%E7%A5%9E%E6%BC%94%E7%BE%A9"
+      },
+      "license": "Public domain (Ming novel; passages are compiler's renderings)",
+      "summary": {
+        "en": "King Wen, divining that a great minister waited by the river, went hunting and found Jiang Ziya fishing with a straight hook three feet above the water — 'not for the fish that live in the river, but for the king that will come.' The king bore him home in his own carriage, pulling the shafts eight hundred paces himself; Jiang Ziya answered that the Zhou would hold the realm eight hundred years — one year for every pace.",
+        "zh": "文王占得飛熊，獵於渭陽，遇子牙直鉤釣渭——『寧在直中取，不向曲中求』；文王親拉車八百步，子牙許周八百年天下——西伯载歸，拜為太師。"
+      },
+      "motifs": [
+        "oracle-divination",
+        "sacred-kingship"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Passages are the compiler's condensed paraphrases of the novel and the Shiji chapter. The carriage-pull prophecy is the novel's addition to Sima Qian's historical meeting."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "King Wen of Zhou, divining before a hunt, read in the crack a promise of the great teacher his line had lacked; he rode to the bend of the Wei and found an old man fishing — with a straight hook, and no bait, held three feet above the water.",
+          "note": "Paraphrase of Fengshen Yanyi, ch. 23 (compiler's rendering); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "'The hook is not bent for the fish that swim,' said the fisher, 'but for the king that comes to the water. I would rather take in the straight way than beg in the crooked one.' King Wen bowed to the bank, invited him into the carriage, and — as the old man's price — pulled the shafts himself eight hundred paces, sweating at the task the Son of Heaven of the west performed for his minister.",
+          "note": "Paraphrase of Fengshen Yanyi, ch. 24, the carriage-pull; not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "Jiang Ziya counted the paces and prophesied: the house of Zhou should hold the realm eight hundred years, one for every step the king had drawn. The king bore him home and made him Grand Tutor; the eighty years of the old man's waiting were over in an afternoon — and the dynasty's chronology was set by the length of a courtyard.",
+          "note": "Paraphrase of Fengshen Yanyi, ch. 24, the prophecy; not verbatim."
+        }
+      ],
+      "persons": [
+        "jiangziya"
+      ]
+    },
+    {
+      "id": "chinese-fsy-nezha-birth",
+      "title": {
+        "en": "Nezha Born as a Ball of Flesh at Chen-Tang Pass",
+        "zh": "哪吒陳塘關出世"
+      },
+      "tradition": "chinese",
+      "category": "myth",
+      "region": {
+        "en": "Chen-Tang Pass on the Shang frontier (pin: Sichuan Yibin tradition / Henan?; symbolic pin at Yibin)",
+        "zh": "陳塘關（象徵性定位）"
+      },
+      "lat": 28.8,
+      "lon": 104.6,
+      "period": "Investiture of the Gods (Fengshen Yanyi), chs. 12-14; Nezha's cult attested Tang onward",
+      "source": {
+        "archive": "Wikisource (zh)",
+        "work": "Fengshen Yanyi, ch. 12: Lady Yin's three-year pregnancy, the ball of flesh, and Taiyi Zhenren's naming of the child",
+        "url": "https://zh.wikisource.org/wiki/%E5%B0%81%E7%A5%9E%E6%BC%94%E7%BE%A9"
+      },
+      "license": "Public domain (Ming novel; passages are compiler's renderings)",
+      "summary": {
+        "en": "Lady Yin was three years and six months with child and had borne no child but a ball of flesh that rolled on the floor; her husband struck it with a sword, and a boy leapt out, wearing a red sash, with a golden bracelet on his right wrist. Taiyi Zhenren of the Qianyuan Mountain named him Nezha, took him as a disciple, and gave him the universe-sash and the universe-ring as weapons — a child of heaven sent down to be the vanguard of the coming war of the gods.",
+        "zh": "殷夫人懷胎三年六月，產下一肉球，滴溜溜圓轉；李靖劍劈肉球，跳出一男孩，右手套一金鐲，腹纏紅綾；乾元山金光洞太乙真人收徒，取名哪吒，贈乾坤圈、混天綾。"
+      },
+      "motifs": [
+        "miraculous-birth",
+        "sacred-kingship"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Passages are the compiler's condensed paraphrases of the novel."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Lady Yin, wife of the garrison commander of Chen-Tang Pass, had carried her child three years and six months without bearing it; the household whispered omens, and at last she was delivered — not of a child, but of a ball of flesh that rolled shining on the floor.",
+          "note": "Paraphrase of Fengshen Yanyi, ch. 12 (compiler's rendering); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Li Jing struck it with his sword — and the ball split, and a boy leapt out of it, white and full-faced, with a red silk sash wrapped about him and a golden bracelet on his right wrist. The father, half in terror, was preparing to kill what might be a demon, when an immortal of the Qianyuan Mountain came to the gate and claimed the child.",
+          "note": "Paraphrase of Fengshen Yanyi, ch. 12, the splitting of the ball; not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "Taiyi Zhenren named him Nezha, took him as a disciple, and gave him two weapons: the Universe-Ring of gold and the Universe-Sash of red silk. The child grew at a stride, a son of heaven posted to earth's frontier — and before he was seven, the river outside the pass would know his name.",
+          "note": "Paraphrase of Fengshen Yanyi, ch. 12-13, naming and gifts; not verbatim."
+        }
+      ],
+      "persons": [
+        "nezha"
+      ]
+    },
+    {
+      "id": "chinese-fsy-nezha-dragon",
+      "title": {
+        "en": "Nezha Flays the Dragon Prince",
+        "zh": "哪吒鬧海抽龍筋"
+      },
+      "tradition": "chinese",
+      "category": "myth",
+      "region": {
+        "en": "The Nine-Bend River outside Chen-Tang Pass (symbolic pin: river of the pass)",
+        "zh": "陳塘關九灣河"
+      },
+      "lat": 28.8,
+      "lon": 104.6,
+      "period": "Investiture of the Gods (Fengshen Yanyi), chs. 13-14",
+      "source": {
+        "archive": "Wikisource (zh)",
+        "work": "Fengshen Yanyi, chs. 13-14: the washing of the sash, the death of Ao Bing, and Nezha's return of his own body to his parents",
+        "url": "https://zh.wikisource.org/wiki/%E5%B0%81%E7%A5%9E%E6%BC%94%E7%BE%A9"
+      },
+      "license": "Public domain (Ming novel; passages are compiler's renderings)",
+      "summary": {
+        "en": "Washing his universe-sash in the river, the child shook the Crystal Palace of the sea; the dragon-king's patrol came up to chide him and Nezha killed him with a ring-stroke. The third prince Ao Bing came in war-paint; Nezha beat the dragon from the clouds, flayed him, and pulled out his sinews to weave his father a belt. The four dragon-kings came to the pass to drown the town and seize the parents — and Nezha cut his own flesh back to his mother and his bones to his father, so that the debt of the body was paid and the dragons went home.",
+        "zh": "哪吒混天綾攪海，震動水晶宮；打死巡海夜叉李艮，又殺三太子敖丙，抽其龍筋；四海龍王水淹陳塘關索命；哪吒削骨還父、削肉還母——魂魄飄蕩，求母建行宮。"
+      },
+      "motifs": [
+        "world-serpent",
+        "taboo-transgression",
+        "transformation"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Passages are the compiler's condensed paraphrases of the novel."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The seven-year-old Nezha washed his red sash in the Nine-Bend River, and the silk of heaven churned the water until the Crystal Palace of the Eastern Sea rocked on its pillars. The dragon-king sent up a patrol to seize the bather, and the child killed him with one turn of his golden ring.",
+          "note": "Paraphrase of Fengshen Yanyi, ch. 13 (compiler's rendering); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "The third prince Ao Bing descended in war-paint; Nezha met him in the air, broke the dragon's halberd, felled him to the sand, and — flaying the dragon as his father flayed oxen — pulled out the sinews of the prince's tail to twist into a belt for Li Jing. Three dragons of the sea came up the river in fury to drown the pass and seize the parents in payment.",
+          "note": "Paraphrase of Fengshen Yanyi, chs. 13-14, the flaying and the siege; not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "To save them, the child stepped forward and settled the debt of the body: he cut his flesh from his bones and returned it to his mother, and his bones to his father, saying that he had borrowed a body from them and was now giving it back — with not one strand of sinew owed. The dragons went home; the child's soul fled on the wind to his master's mountain, and his mother raised a temple to a son who had no body left to be buried.",
+          "note": "Paraphrase of Fengshen Yanyi, ch. 14, the return of the body; not verbatim."
+        }
+      ],
+      "persons": [
+        "nezha"
+      ]
+    },
+    {
+      "id": "chinese-fsy-nezha-lotus-rebirth",
+      "title": {
+        "en": "Lotus Roots and Lotus Flowers: The Rebirth of Nezha",
+        "zh": "哪吒蓮花化身"
+      },
+      "tradition": "chinese",
+      "category": "myth",
+      "region": {
+        "en": "Qianyuan Mountain, Golden Light Cave (pin: mythic mountain)",
+        "zh": "乾元山金光洞"
+      },
+      "lat": 31.0,
+      "lon": 106.0,
+      "period": "Investiture of the Gods (Fengshen Yanyi), ch. 14",
+      "source": {
+        "archive": "Wikisource (zh)",
+        "work": "Fengshen Yanyi, ch. 14: Taiyi Zhenren gathers lotus roots and flowers and rebuilds Nezha's body",
+        "url": "https://zh.wikisource.org/wiki/%E5%B0%81%E7%A5%9E%E6%BC%94%E7%BE%A9"
+      },
+      "license": "Public domain (Ming novel; passages are compiler's renderings)",
+      "summary": {
+        "en": "The bodiless soul of Nezha came to Qianyuan Mountain, and Taiyi Zhenren went to the lotus pond, took two lotus roots and three leaves, laid them out in the pattern of a body — bones of the root, flesh of the flower, sinews of the leaf — and with a breath of immortal qi and a word of incantation called a boy into being: Nezha reborn, taller and fiercer than before, whose body could no longer be touched by the river-floods of the dragons or the arrows of men, for it was made of lotus and light, not of the flesh his parents had lent him.",
+        "zh": "太乙真人取荷葉荷梗藕節，按三才佈局，拆開父子之情，還他世界本性——蓮花化身；點化再生，賜火尖槍、風火輪——哪吒重生，不懼水火，身非血肉所成。"
+      },
+      "motifs": [
+        "resurrection",
+        "transformation",
+        "miraculous-birth"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Passages are the compiler's condensed paraphrases of the novel. Cross-tradition resurrection cluster; the lotus-body is a Buddhist-inflected image (lotus birth) welded to a Daoist master's craft."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The soul of Nezha, homeless on the wind, came weeping to the Golden Light Cave of Qianyuan Mountain; his master Taiyi looked at the ghost of a child and said there was a way — not a way of flesh, for flesh had been returned, but a way of flower.",
+          "note": "Paraphrase of Fengshen Yanyi, ch. 14 (compiler's rendering); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Taiyi went down to the lotus pond and gathered what it offered: two stalks of lotus root, three leaves, and a blossom yet unclosed. He laid the roots for bones and the petals for flesh, folded the leaves for sinews and skin, and breathed on the heap the true breath of immortals — and drew with his finger the pattern of a boy of eight years.",
+          "note": "Paraphrase of Fengshen Yanyi, ch. 14, the lotus construction; not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "He called the name, and the lotus figure sat up: Nezha, alive again, taller and brighter than the child the dragons had killed, his body no longer the flesh his parents had given and he had returned, but flower and root and light — a body that rivers could not drown, blades could not gash, and fires could not burn. His master armed him with the fire-tipped spear and the wind-fire wheels, and sent him down the mountain into the war of the gods.",
+          "note": "Paraphrase of Fengshen Yanyi, ch. 14, rebirth and rearming; not verbatim."
+        }
+      ],
+      "persons": [
+        "nezha"
+      ],
+      "language": "Ming vernacular Chinese (baihua)",
+      "canonical_translation": "Compiler's English rendering from the public-domain original; consulted (copyright, summary only): modern translations of Fengshen Yanyi",
+      "narrative": {
+        "en": "The lotus rebirth of Nezha is the Chinese tradition's resurrection cluster: a hero who dies in childhood, gives his body back as payment of a debt, and is rebuilt from plants by a master-craftsman immortal.\n\nBEGINNING: A CHILD WHO KILLS AND IS KILLED FOR IT. Nezha, the miraculous third son of Li Jing, born from a ball of flesh after three years in the womb, kills the river-gods who come to chide his play: the Dragon King's third prince is flayed, his sinews drawn out for a belt. The dragon-kings retaliate by threatening to flood Chen-Tang Pass and seize the parents. To pay the debt of blood without his family paying it, Nezha performs the novel's most piercing act: he cuts his flesh from his bones and returns it to his mother, cuts his bones and returns them to his father — 'the body was borrowed from you; I return it, with nothing owing' — and his soul flees, bodiless, to his master's mountain.\n\nMIDDLE: THE MOTHER'S TEMPLE AND THE FATHER'S AXE. The ghost-boy asks his mother to build him a temple where he may receive incense and grow a body of worship; she does, on King Wu's road, and the boy gains a measure of power from three years of offerings. His father, hearing of it, comes in fury and smashes the temple with his axe — a father striking the shrine of the son whose body he accepted back. The soul, now truly homeless and fatherless, returns to Qianyuan Mountain.\n\nEND: THE LOTUS BODY. Taiyi Zhenren goes to the lotus pond and builds a body from what the pond gives: lotus roots for bones, petals for flesh, leaves for sinews, sealed with a breath of immortal qi and a drawn pattern. The lotus figure sits up — Nezha again, eight years old and stronger than before, his body no longer flesh at all: rivers cannot drown it, blades cannot gash it, and the father's axe, in later tellings, cannot touch it. He receives the fire-tipped spear and the wind-fire wheels and descends into the war of the gods as its fiercest child.\n\nFUNCTION AND CROSS-TRADITION NOTES. The lotus rebirth gathers three motifs: resurrection (the dead child restored), transformation (flesh to plant), and the miraculous second birth. The lotus frame is Buddhist — the flower of rebirth from the waters — while the craftsman-creator is pure Daoist alchemy; the novel welds the two into the most famous child-hero of Chinese myth. In cross-tradition terms the body-as-debt motif (bones returned to the father) is a distinctive Chinese ethics of embodiment: resurrection here is not a god's favor but a craft-work performed on materials honestly surrendered.",
+        "zh": "哪吒蓮花化身為中國復活型神話之代表作：削骨還父、削肉還母——身體為借貸之物，還清則魂魄自由；太乙真人以荷為骨、蓮為肉、葉為筋，仙氣點化而成——花身不懼水火刀兵。廟宇被父砸毀一段寫父子之倫的決裂；重生後哪吒持火尖槍、踏風火輪下山大鬧封神之戰。跨傳統比較：佛教蓮花再生意象 + 道教煉形之術；復活非神恩而是誠實歸還材料後的工藝再造。"
+      },
+      "functions": [
+        "Resurrection by craft: the master as rebuilder rather than rescuer",
+        "Ethics of the body as debt: bones and flesh returned honestly before rebirth",
+        "Aition of Nezha's invulnerability in cult and opera (lotus-body, not flesh)",
+        "Buddhist lotus imagery welded to Daoist form-making alchemy"
+      ],
+      "variants": [
+        {
+          "name": "Fengshen Yanyi ch. 14 — the temple destroyed",
+          "text_tradition": "Fengshen Yanyi, ch. 14",
+          "summary": "The novel adds Li Jing's smashing of Nezha's memorial temple, which turns rebirth into filial war — Nezha returns from the lotus determined to punish his father.",
+          "cross_ref": "chinese-fsy-nezha-dragon"
+        },
+        {
+          "name": "Precious Scroll of Nezha (folk paojuan) — the sister's bones",
+          "text_tradition": "Ming-Qing folk precious-scroll tellings",
+          "summary": "Folk versions make the lotus body depend on a sister's sacrifice or on bones borrowed from a temple statue — the craft of rebirth done with borrowed materials.",
+          "cross_ref": "none"
+        }
+      ],
+      "primary_sources": [
+        {
+          "work": "Fengshen Yanyi, ch. 14",
+          "citation": "16th c. novel, attributed Xu Zhonglin / Lu Xixing; lotus-rebirth chapter. Vernacular Chinese via Wikisource.",
+          "language": "Ming vernacular Chinese"
+        }
+      ],
+      "secondary_sources": [
+        {
+          "work": "Meir Shahar, 'The Lingyanji and the temples of Nezha' and related studies of Chinese child-gods",
+          "citation": "Shahar, various — history of the Nezha cult and its texts."
+        },
+        {
+          "work": "Anne Birrell, Chinese Mythology: An Introduction",
+          "citation": "Birrell 1993, Baltimore: Johns Hopkins University Press — Nezha in the mythic corpus."
+        }
+      ],
+      "source_urls": [
+        {
+          "url": "https://zh.wikisource.org/wiki/%E5%B0%81%E7%A5%9E%E6%BC%94%E7%BE%A9",
+          "description": "Wikisource (zh) — Fengshen Yanyi, public-domain Ming text",
+          "accessed": "2026-11-13"
+        }
+      ],
+      "sensitivity_flag": "none",
+      "provenance": {
+        "record_status": "complete",
+        "compiled": "2026-11-13",
+        "compiled_by": "DHG508 fieldwork compilation",
+        "review_status": "draft - pending human review"
+      }
+    },
+    {
+      "id": "chinese-fsy-bigan-heart",
+      "title": {
+        "en": "Bigan Gives Up His Heart",
+        "zh": "比干剖心"
+      },
+      "tradition": "chinese",
+      "category": "myth",
+      "region": {
+        "en": "Zhaoge, Shang capital (pin: Henan)",
+        "zh": "朝歌（河南）"
+      },
+      "lat": 35.6,
+      "lon": 114.3,
+      "period": "Investiture of the Gods (Fengshen Yanyi), ch. 26; older lore in Lüshi Chunqiu and Shiji",
+      "source": {
+        "archive": "Wikisource (zh)",
+        "work": "Fengshen Yanyi, ch. 26: the fox feast in the tower, the seven-apertured heart, and the amulet of the heartbeatless",
+        "url": "https://zh.wikisource.org/wiki/%E5%B0%81%E7%A5%9E%E6%BC%94%E7%BE%A9"
+      },
+      "license": "Public domain (Ming novel; passages are compiler's renderings)",
+      "summary": {
+        "en": "The king's uncle Bigan, his heart famed for its seven apertures, was demanded by the fox-queen for medicine; Jiang Ziya left him a written amulet: 'Say nothing at all.' The heart was cut out; Bigan rode out of the city without a word, silent as his amulet — until a woman selling heartless greens called out that a heartless man cannot live, and he fell from his horse and died. The foxes at the feast were flayed; their skins stuffed the mattresses of the loyal.",
+        "zh": "比干有心七竅；妲己設計取心為藥引；子牙留符曰『不可言語』；比干剖心而不語，行出城——見賣無心菜婦人言『菜無心可活，人無心即死』，墜馬而亡——封神榜上封為文曲星。"
+      },
+      "motifs": [
+        "taboo-transgression",
+        "boon-curse",
+        "resurrection"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Passages are the compiler's condensed paraphrases of the novel."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Bigan, uncle of the king, discovered the fox-queen's kinsmen at a midnight feast in the terrace of the stars, and had every fox pelt flayed for stuffings — the fox-queen, widowed of her tribe, resolved on his heart in payment.",
+          "note": "Paraphrase of Fengshen Yanyi, ch. 26 (compiler's rendering); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "She sickened, and her physician prescribed the heart of a man of seven apertures — and there was one man in the kingdom with such a heart. The king summoned his uncle; Jiang Ziya, foreseeing it, had left him a written charm: 'Say nothing at all, whatever you hear, and you will be safe.' Bigan cut out his own heart without a word, cast it down before the throne, and rode out of the gate in silence, his blood falling behind his horse.",
+          "note": "Paraphrase of Fengshen Yanyi, ch. 26, the amulet; not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "Through the streets he rode, silent, and no blood touched him — until a woman by the road called her greens: 'Heartless heartless greens!' and he asked her, despite the charm, whether a heartless man could live. 'The greens live without a heart,' she said, 'but a man without a heart dies.' The word spoken, the charm was broken: Bigan fell from his horse and died. He was numbered among the stars of the Investiture, the star of the loyal heart that was taken.",
+          "note": "Paraphrase of Fengshen Yanyi, ch. 26, the greens-seller; not verbatim."
+        }
+      ],
+      "persons": [
+        "bi-gan",
+        "daji"
+      ]
+    },
+    {
+      "id": "chinese-fsy-leizhenzi",
+      "title": {
+        "en": "Lei Zhenzi, the Thunder Child Hatched from an Egg",
+        "zh": "雷震子食杏生翅"
+      },
+      "tradition": "chinese",
+      "category": "myth",
+      "region": {
+        "en": "Yan-shan thunder-field and the Cloud-Brocade cave (symbolic pin: Shaanxi–Shanxi)",
+        "zh": "燕山雷鳴、終南山雲中子洞府"
+      },
+      "lat": 34.0,
+      "lon": 108.5,
+      "period": "Investiture of the Gods (Fengshen Yanyi), chs. 3, 21-22",
+      "source": {
+        "archive": "Wikisource (zh)",
+        "work": "Fengshen Yanyi, chs. 3 and 21-22: the egg found after thunder, the seven years, and the two magic apricots that grew wings",
+        "url": "https://zh.wikisource.org/wiki/%E5%B0%81%E7%A5%9E%E6%BC%94%E7%BE%A9"
+      },
+      "license": "Public domain (Ming novel; passages are compiler's renderings)",
+      "summary": {
+        "en": "After a thunderclap on Yan-shan, the returning court of King Wen found an egg-like child in the rain, and the immortal of the Cloud-Brocade cave named him Lei Zhenzi — Thunder-Startled — and took him as a disciple. Seven years later, sent to rescue his father from the siege of Tong Pass, the boy was fed two magic apricots: his face turned blue, his hair red, his teeth fangs, and wings of wind and thunder sprang from his sides — and he flew his father over the pass on his back.",
+        "zh": "文王得雷雨中異兒，雲中子收為徒，名雷震子；七歲下山救父，食仙杏二枚——面如藍靛，髮似硃砂，肋下生風雷二翅；背負文王飛出五關。"
+      },
+      "motifs": [
+        "miraculous-birth",
+        "transformation",
+        "culture-hero"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Passages are the compiler's condensed paraphrases of the novel."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "King Wen, returning from his journey, heard thunder split the sky at Yan-shan, and in the rain found a child as smooth as an egg; the immortal of the Cloud-Brocade cave claimed him as a son of thunder and named him Lei Zhenzi — Thunder-Startled — and carried him up the mountain to be raised.",
+          "note": "Paraphrase of Fengshen Yanyi, ch. 3 (compiler's rendering); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Seven years on, word came that King Wen was besieged at Tong Pass on his road home. The immortal gave the boy two apricots of the magic grove: he ate them, and his face turned the blue of indigo, his hair the red of cinnabar, his mouth grew elephant-fangs — and two wings of wind and two of thunder sprouted from his ribs, wide as the span of a cart.",
+          "note": "Paraphrase of Fengshen Yanyi, chs. 21-22, the apricots; not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "On his new wings he flew to the pass, bore his father on his back over the walls and the pursuing soldiers, and set him down beyond the mountains — the thunder-child repaying in one flight the seven years of a father's finding.",
+          "note": "Paraphrase of Fengshen Yanyi, ch. 22, the rescue-flight; not verbatim."
+        }
+      ],
+      "persons": []
+    },
+    {
+      "id": "chinese-fsy-huangfeihu-defects",
+      "title": {
+        "en": "Huang Feihu Crosses the Five Passes",
+        "zh": "黃飛虎反出五關"
+      },
+      "tradition": "chinese",
+      "category": "myth",
+      "region": {
+        "en": "Zhaoge to Xiqi, through the five passes (pin: Henan to Shaanxi corridor)",
+        "zh": "朝歌至西岐五關"
+      },
+      "lat": 34.5,
+      "lon": 110.0,
+      "period": "Investiture of the Gods (Fengshen Yanyi), chs. 30-34",
+      "source": {
+        "archive": "Wikisource (zh)",
+        "work": "Fengshen Yanyi, chs. 30-34: the death of Lady Jia, the rebellion of the king's own general, and the crossing of the five passes",
+        "url": "https://zh.wikisource.org/wiki/%E5%B0%81%E7%A5%9E%E6%BC%94%E7%BE%A9"
+      },
+      "license": "Public domain (Ming novel; passages are compiler's renderings)",
+      "summary": {
+        "en": "Huang Feihu, the Shang king's own brother-in-law and keeper of the realm's armies, saw his wife driven from the terrace of the stars by the fox-queen's spite and fall to her death; his sister, the western concubine, was thrown from the tower after her. He gathered his father's troops, his sons and his fathers-in-arms, and fought his way out through the five passes of the Shang frontier — the highest-ranked defection of the whole epic, which turned the war from skirmish to revolution and carried to the Zhou court the man who knew every gate of the Shang.",
+        "zh": "黃飛虎乃商之鎮國武成王；妲己害其妻賈氏墜樓，其妹（西宮黃妃）亦被紂王摔死；飛虎反出朝歌，率黃明、周紀等過五關——臨潼關、潼關、穿雲關、界牌關、汜水關——投西岐，拜開國武成王。"
+      },
+      "motifs": [
+        "sacred-kingship",
+        "taboo-transgression"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Passages are the compiler's condensed paraphrases of the novel."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The fox-queen, nursing her grudge, lured Lady Jia, wife of the marshal Huang Feihu, up to the terrace of the stars on New Year's Day and set her before the drunken king; the lady, to keep her honor, threw herself from the tower. The marshal's own sister, the king's concubine, cast herself down after her in rage — and was dashed to death by the king's own hand.",
+          "note": "Paraphrase of Fengshen Yanyi, ch. 30 (compiler's rendering); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Huang Feihu, keeper of the Shang armies, drank his grief all night, then took up his iron whip and raised the flag of rebellion: his four sworn brothers, his sons, a thousand veterans. He fought through the five passes of the frontier — five gates, five garrisons, five battles — each commander a friend or a demon in the pay of the fox.",
+          "note": "Paraphrase of Fengshen Yanyi, chs. 31-34, the rebellion; not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "At Xiqi the defector was received as an equal, made Grand Marshal of the west, and invested after his death as the God of the Eastern Peak — the mountain of the dead. The man who crossed the five passes with his family's ashes behind him became the warden of the underworld's gate.",
+          "note": "Paraphrase of Fengshen Yanyi, chs. 34 and 99, reception and investiture; not verbatim."
+        }
+      ],
+      "persons": [
+        "daji"
+      ]
+    },
+    {
+      "id": "chinese-fsy-wanxian-zhen",
+      "title": {
+        "en": "The Formation of the Ten Thousand Immortals",
+        "zh": "萬仙陣"
+      },
+      "tradition": "chinese",
+      "category": "myth",
+      "region": {
+        "en": "The field before Tong Pass (pin: Henan–Shaanxi border)",
+        "zh": "汜水關前（萬仙陣）"
+      },
+      "lat": 34.8,
+      "lon": 113.0,
+      "period": "Investiture of the Gods (Fengshen Yanyi), chs. 84-87",
+      "source": {
+        "archive": "Wikisource (zh)",
+        "work": "Fengshen Yanyi, chs. 84-87: the last formation, the battle of the two sects, and the fates of the intercepted immortals",
+        "url": "https://zh.wikisource.org/wiki/%E5%B0%81%E7%A5%9E%E6%BC%94%E7%BE%A9"
+      },
+      "license": "Public domain (Ming novel; passages are compiler's renderings)",
+      "summary": {
+        "en": "The Master of the Intercepts marshalled his whole sect — ten thousand immortals, beasts and bugbears of every shape — in the last great formation before the passes; the Patriarchs of the West broke it with the banners of the two illuminations, and the field filled with the trampled, the captured and the slain. The intercepted were led to the Register; the beasts of the mountain-lines were ground to their true shapes; and the Master of the Intercepts, ruined, retreated with his survivors to the western sea — the war of gods ended, the list of the invested ready for the Grand Marshal's brush.",
+        "zh": "通天教主擺萬仙陣，聚截教群仙；老子、元始破陣，接引、準提助之；群仙或死或擒，封神榜上有名者盡歸其位——萬仙陣破，截教敗，封神之局定。"
+      },
+      "motifs": [
+        "sacred-kingship",
+        "world-renewal",
+        "theophany"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Passages are the compiler's condensed paraphrases of the novel."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The Master of the Intercepts called up every disciple of his sect — immortals, beast-spirits, bugbears of the islands — and marshalled them in the last formation, ten thousand strong, its gates hung with the banners of his teaching.",
+          "note": "Paraphrase of Fengshen Yanyi, ch. 84 (compiler's rendering); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "The Patriarchs of the West came down in force — Laozi with his cart, Yuanshi with his seal, and the two Buddhas of the western gate with their own banners — and the formation was broken from within: the sea of immortal disciples flooded, and the field filled with the captured, the slain and the beasts ground back to their true shapes.",
+          "note": "Paraphrase of Fengshen Yanyi, ch. 85, the breaking of the formation; not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "The Master of the Intercepts left the field with the remnant of his sect for the western sea; the war of the gods was over, and the Register of the Investiture lay open for the Grand Marshal's brush — three hundred and sixty-five thrones of wind, rain, mountain, and plague to be filled with the names of the fallen.",
+          "note": "Paraphrase of Fengshen Yanyi, chs. 86-87 and 99, aftermath; not verbatim."
+        }
+      ],
+      "persons": [
+        "jiangziya"
+      ]
+    },
+    {
+      "id": "chinese-fsy-fengshen-list",
+      "title": {
+        "en": "The Investiture: Jiang Ziya Confers Three Hundred and Sixty-Five Gods",
+        "zh": "姜子牙封三百六十五位正神"
+      },
+      "tradition": "chinese",
+      "category": "myth",
+      "region": {
+        "en": "The altars of Qishan (pin: Shaanxi)",
+        "zh": "岐山封神臺"
+      },
+      "lat": 34.4,
+      "lon": 107.6,
+      "period": "Investiture of the Gods (Fengshen Yanyi), ch. 99",
+      "source": {
+        "archive": "Wikisource (zh)",
+        "work": "Fengshen Yanyi, ch. 99: the reading of the Register and the conferring of the divine titles",
+        "url": "https://zh.wikisource.org/wiki/%E5%B0%81%E7%A5%9E%E6%BC%94%E7%BE%A9"
+      },
+      "license": "Public domain (Ming novel; passages are compiler's renderings)",
+      "summary": {
+        "en": "On the altar at Qishan, Jiang Ziya opened the Register of the Investiture and read out the names: every soul that died in the war of the gods — loyalists, rebels, demons and beasts — was called by name and given a post: the God of the Eastern Peak, the Five Gods of the Thunder, the Twenty-Eight Mansions of the sky, the God of Plague, the God of Wealth, the Goddess of the Bedchamber — three hundred and sixty-five thrones, one for every day of the year, the dead of the war made into the civil service of heaven.",
+        "zh": "子牙登封神臺，展開封神榜，逐一宣讀：柏鑑引魂、三百六十五位正神就位——東嶽大帝、雷部、火部、瘟部、二十八宿、財神趙公明、坑三姑娘娘娘……戰死之魂盡列神班，一年之日各有一神司之。"
+      },
+      "motifs": [
+        "sacred-kingship",
+        "world-renewal",
+        "oracle-divination"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Passages are the compiler's condensed paraphrases of the novel. The investiture is the novel's theology: the dead re-ordered into the bureaucracy of heaven — China's pantheon in a payroll register."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "On the altar at Qishan, hung with the flags of the eight trigrams, the Grand Marshal of the Investiture unrolled the Register and called the first name: Bai Jian, the usher of souls, led up from the shadow a troop of the war's dead, and each, at his name, bowed and went to his throne.",
+          "note": "Paraphrase of Fengshen Yanyi, ch. 99 (compiler's rendering); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "The thrones were read out in departments: the Eastern Peak to keep the registers of birth and death; the Thunder-gods and the Rain-gods; the Gods of Plague; the Twenty-Eight Mansions of the zodiac; the Gods of Wealth, of the Kitchen, of the Bedchamber, of the Doors — three hundred and sixty-five thrones, a post for every day of the year, filled by the soldiers, generals, demons and immortals the war had spent.",
+          "note": "Paraphrase of Fengshen Yanyi, ch. 99, the departments; not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "When the last name was read, the heavens accepted their new civil service: the dead of the war became the gods of the living, and the temple-bells of China rang for powers that had once been mortal. The Grand Marshal himself, who held the Register, took no throne for his own — his reward was to remain a chancellor in the world of men.",
+          "note": "Paraphrase of Fengshen Yanyi, ch. 99, conclusion; not verbatim."
+        }
+      ],
+      "persons": [
+        "jiangziya"
+      ]
+    }
+  ]
+}

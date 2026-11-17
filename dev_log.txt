@@ -1,0 +1,12 @@
+npm notice run dhg508-final-project@0.1.0 dev
+npm notice run py scripts/04_semantic_cache.py & vite --host
+valid texts after policy: 5466
+passage docs: 13818
+vocab (similarity space): 33469
+computing Gram matrix (chunked matmul)...
+eigendecomposition (PCA axes)...
+extracting similarity pairs...
+similarity pairs kept: 468649
+wrote public\semantic-cache.json (8.7 MB)
+fingerprint: 5466|13818|prometheus-fire|afroatlantic-new-orleans-marie-leveau-service
+fingerprint parity: OK

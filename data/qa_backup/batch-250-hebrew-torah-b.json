@@ -1,0 +1,426 @@
+{
+  "texts": [
+    {
+      "id": "hebrew-midwives-defy-pharaoh",
+      "title": { "en": "Shiphrah and Puah Defy Pharaoh", "zh": "施弗拉與普阿違抗法老" },
+      "tradition": "hebrew",
+      "category": "religious",
+      "region": { "en": "Egypt, Nile Delta (symbolic pin at Memphis)", "zh": "埃及尼羅河三角洲（以孟斐斯象徵性定位）" },
+      "lat": 29.85, "lon": 31.2,
+      "period": "Composite narrative, composed c. 10th-8th c. BCE; principal MS: Leningrad Codex B19a (1008 CE)",
+      "source": { "archive": "Sefaria (JPS 1917 translation)", "work": "Exodus 1:15-22, JPS Tanakh 1917", "url": "https://www.sefaria.org/Exodus.1.15" },
+      "license": "Public domain (JPS 1917)",
+      "summary": { "en": "Pharaoh orders the Hebrew midwives Shiphrah and Puah to kill every boy at birth; 'but the midwives feared God, and did not as the king of Egypt commanded them, but saved the men-children alive.' Asked why, they answer that the vigorous Hebrew women deliver before the midwife comes — 'and God dealt well with the midwives... and He made them houses.'", "zh": "法老命希伯來收生婆施弗拉普阿於產時殺男嬰；「但是收生婆敬畏神，不照埃及王的吩咐行，竟存留男孩的性命」。被問何以如此，答以希伯來婦人健壯，收生婆未到已生——「神厚待收生婆……為她們成立家室。」" },
+      "motifs": ["taboo-transgression", "boon-curse"],
+      "sensitivity": { "restricted": false, "note": "Canonical scripture of a living tradition; quoted from public-domain JPS 1917." },
+      "passages": [
+        { "id": "1", "text": "And the midwives said unto Pharaoh: 'Because the Hebrew women are not as the Egyptian women; for they are lively, and are delivered ere the midwife come unto them.' And God dealt well with the midwives; and the people multiplied, and waxed very mighty. And it came to pass, because the midwives feared God, that He made them houses.", "note": "Verbatim: JPS 1917, Exodus 1:19-21 (public domain)." }
+      ],
+      "persons": ["moses"]
+    },
+    {
+      "id": "hebrew-moses-nile-ark",
+      "title": { "en": "The Babe in the Bulrushes", "zh": "蒲草箱中的嬰孩" },
+      "tradition": "hebrew",
+      "category": "religious",
+      "region": { "en": "Nile riverbank (symbolic pin at Memphis)", "zh": "尼羅河畔（以孟斐斯象徵性定位）" },
+      "lat": 29.85, "lon": 31.2,
+      "period": "Composite narrative, composed c. 10th-8th c. BCE; principal MS: Leningrad Codex B19a (1008 CE)",
+      "source": { "archive": "Sefaria (JPS 1917 translation)", "work": "Exodus 2:1-10, JPS Tanakh 1917", "url": "https://www.sefaria.org/Exodus.2.1" },
+      "license": "Public domain (JPS 1917)",
+      "summary": { "en": "A Levite woman hides her beautiful son three months, then sets him in an ark of bulrushes — the same word, tebah, as Noah's — among the flags by the river's brink. Pharaoh's daughter draws him out, hires the mother as nurse, and names him Moshe, 'because', she said, 'I drew him out of the water.'", "zh": "利未婦人藏其俊美之子三月，置於蒲草箱——與挪亞方舟同字tebah——河邊蘆葦中。法老之女撈起，僱其母為乳母，名之摩西，「因我把他從水裡拉出來」。" },
+      "motifs": ["miraculous-birth", "culture-hero"],
+      "sensitivity": { "restricted": false, "note": "Canonical scripture of a living tradition; quoted from public-domain JPS 1917." },
+      "passages": [
+        { "id": "1", "text": "And when she had opened it, she saw the child; and behold, a boy that wept. And she had compassion on him, and said: 'This is one of the Hebrews' children.' ... And the child grew, and she brought him unto Pharaoh's daughter, and he became her son. And she called his name Moshe, and said: 'Because I drew him out of the water.'", "note": "Verbatim: JPS 1917, Exodus 2:6, 10 (public domain); condensed with ellipsis." }
+      ],
+      "persons": ["moses"]
+    },
+    {
+      "id": "hebrew-moses-midian-well",
+      "title": { "en": "Moses Flees to Midian and the Well of the Seven Daughters", "zh": "摩西逃往米甸與七女之井" },
+      "tradition": "hebrew",
+      "category": "religious",
+      "region": { "en": "Well of Midian, Sinai approaches", "zh": "米甸井旁，西奈道中" },
+      "lat": 28.5, "lon": 34.8,
+      "period": "Composite narrative, composed c. 10th-8th c. BCE; principal MS: Leningrad Codex B19a (1008 CE)",
+      "source": { "archive": "Sefaria (JPS 1917 translation)", "work": "Exodus 2:11-22, JPS Tanakh 1917", "url": "https://www.sefaria.org/Exodus.2.11" },
+      "license": "Public domain (JPS 1917)",
+      "summary": { "en": "Moses, grown, goes out to his brethren and kills the Egyptian striking a Hebrew, burying him in the sand — 'and he looked this way and that way, and when he saw that there was no man, he slew the Egyptian'. Pharaoh seeks his life; he flees to Midian, drives off shepherds from Jethro's seven daughters at the well, marries Zipporah, and names his firstborn Gershom: 'I have been a stranger in a strange land.'", "zh": "摩西長大，出至弟兄那裡，殺欺壓希伯來人的埃及人，埋於沙中——「他左右觀看，見沒有人，就把埃及人打死了」。法老尋索性命；他逃至米甸，於井旁趕走牧羊人，救葉忒羅七女，娶西坡拉，長子名革順：「我在外邦作了寄居的。」" },
+      "motifs": ["culture-hero", "taboo-transgression"],
+      "sensitivity": { "restricted": false, "note": "Canonical scripture of a living tradition; quoted from public-domain JPS 1917." },
+      "passages": [
+        { "id": "1", "text": "And the shepherds came and drove them away; but Moses stood up and helped them, and watered their flock. And they came to Reuel their father, and he said: 'How is it that ye are come so soon today?' ... And he gave Moses Zipporah his daughter. And she bore a son, and he called his name Gershom; for he said: 'I have been a stranger in a strange land.'", "note": "Verbatim: JPS 1917, Exodus 2:17-22 (public domain), condensed with ellipsis." }
+      ],
+      "persons": ["moses"]
+    },
+    {
+      "id": "hebrew-zipporah-bridegroom-blood",
+      "title": { "en": "Zipporah's Knife: A Bridegroom of Blood in the Inn", "zh": "西坡拉之刀：客旅中血的新郎" },
+      "tradition": "hebrew",
+      "category": "religious",
+      "region": { "en": "Lodging on the road from Midian to Egypt", "zh": "米甸往埃及路上宿處" },
+      "lat": 29.0, "lon": 34.0,
+      "period": "Composite narrative, composed c. 10th-8th c. BCE; principal MS: Leningrad Codex B19a (1008 CE)",
+      "source": { "archive": "Sefaria (JPS 1917 translation)", "work": "Exodus 4:18-31, JPS Tanakh 1917", "url": "https://www.sefaria.org/Exodus.4.18" },
+      "license": "Public domain (JPS 1917)",
+      "summary": { "en": "On the way back to Egypt, 'the LORD met him, and sought to kill him'. Zipporah takes a flint, circumcises her son, and touches Moses' feet with the foreskin: 'Surely a bridegroom of blood art thou to me' — one of the Bible's most cryptic episodes, an etiology of circumcision and a night-vision of divine danger.", "zh": "歸埃及路上，「耶和華遇見他，想要殺他」。西坡拉取火石刀，為兒子行割禮，以陽皮觸摩西的腳：「你因割禮就是血郎了。」——聖經最隱晦篇章之一，割禮釋義與神聖危險之夜象。" },
+      "motifs": ["ritual-origin", "taboo-transgression", "theophany"],
+      "sensitivity": { "restricted": false, "note": "Canonical scripture of a living tradition; quoted from public-domain JPS 1917." },
+      "passages": [
+        { "id": "1", "text": "And it came to pass on the way at the lodging-place, that the LORD met him, and sought to kill him. Then Zipporah took a flint, and cut off the foreskin of her son, and cast it at his feet; and she said: 'Surely a bridegroom of blood art thou to me.' So He let him alone.", "note": "Verbatim: JPS 1917, Exodus 4:24-26 (public domain), lightly condensed." }
+      ],
+      "persons": ["moses"]
+    },
+    {
+      "id": "hebrew-jethro-counsel",
+      "title": { "en": "Jethro's Counsel: Organizing the Judges", "zh": "葉忒羅獻策：設立審判官" },
+      "tradition": "hebrew",
+      "category": "religious",
+      "region": { "en": "Camp before Rephidim, wilderness of Sinai", "zh": "利非丁前營地，西奈曠野" },
+      "lat": 28.7, "lon": 33.9,
+      "period": "Composite narrative, composed c. 10th-8th c. BCE; principal MS: Leningrad Codex B19a (1008 CE)",
+      "source": { "archive": "Sefaria (JPS 1917 translation)", "work": "Exodus 18, JPS Tanakh 1917", "url": "https://www.sefaria.org/Exodus.18.1" },
+      "license": "Public domain (JPS 1917)",
+      "summary": { "en": "Jethro, priest of Midian, brings Zipporah and the boys to Moses, hears the tale of the exodus, blesses the LORD, and offers sacrifice with the elders. Seeing Moses judging alone from morning to night, he warns: 'Thou wilt surely wear away... The thing that thou doest is not good.' His plan — rulers of thousands, hundreds, fifties, tens, judging small matters — founds Israel's judiciary, and the peace-offering precedent.", "zh": "米甸祭司葉忒羅送西坡拉與二子至摩西，聞出埃及之事，頌耶和華，與長老獻祭。見摩西自朝至暮獨審眾民，諫曰：「你必疲憊……你這作得不好。」其策——立千夫長百夫長五十夫長十夫長，審小事——立以色列司法之基，並獻平安祭之例。" },
+      "motifs": ["ritual-origin", "culture-hero", "oracle-divination"],
+      "sensitivity": { "restricted": false, "note": "Canonical scripture of a living tradition; quoted from public-domain JPS 1917." },
+      "passages": [
+        { "id": "1", "text": "Hearken now unto my voice, I will give thee counsel, and God be with thee: be thou for the people toward God, and bring thou the causes unto God. And thou shalt provide out of all the people able men, such as fear God, men of truth, hating unjust gain; and place such over them, to be rulers of thousands, rulers of hundreds, rulers of fifties, and rulers of tens.", "note": "Verbatim: JPS 1917, Exodus 18:19-21 (public domain)." }
+      ],
+      "persons": ["moses"]
+    },
+    {
+      "id": "hebrew-sinai-theophany",
+      "title": { "en": "Thunder and Thick Cloud: The LORD Descends on Sinai", "zh": "雷轟密雲：耶和華降臨西奈" },
+      "tradition": "hebrew",
+      "category": "religious",
+      "region": { "en": "Mount Sinai (traditional Jebel Musa; symbolic pin)", "zh": "西奈山（傳統耶別穆薩；象徵性定位）" },
+      "lat": 28.55, "lon": 33.97,
+      "period": "Composite narrative, composed c. 10th-8th c. BCE; principal MS: Leningrad Codex B19a (1008 CE)",
+      "source": { "archive": "Sefaria (JPS 1917 translation)", "work": "Exodus 19, JPS Tanakh 1917", "url": "https://www.sefaria.org/Exodus.19.1" },
+      "license": "Public domain (JPS 1917)",
+      "summary": { "en": "On the third day of consecration there are thunders and lightnings, a thick cloud, and the voice of a shofar exceeding loud; 'and mount Sinai was altogether on smoke, because the LORD descended upon it in fire'. The people tremble, bounds are set about the mountain, and the whole nation hears God speak — the covenant's cosmic overture.", "zh": "自潔第三日，雷轟閃電，密雲，角聲甚大；「西奈全山冒烟，因為耶和華在火中降於山上」。百姓發顫，山之四界限定，全民聽神說話——立約之宇宙序曲。" },
+      "motifs": ["theophany", "storm-thunder", "ritual-origin"],
+      "sensitivity": { "restricted": false, "note": "Canonical scripture of a living tradition; quoted from public-domain JPS 1917. Read annually at Shavuot." },
+      "passages": [
+        { "id": "1", "text": "And it came to pass on the third day, when it was morning, that there were thunders and lightnings, and a thick cloud upon the mount, and the voice of a horn exceeding loud; and all the people that were in the camp trembled. And Moses brought forth the people out of the camp to meet God; and they stood at the nether part of the mount. Now mount Sinai was altogether on smoke, because the LORD descended upon it in fire; and the smoke thereof ascended as the smoke of a furnace, and the whole mount quaked greatly.", "note": "Verbatim: JPS 1917, Exodus 19:16-18 (public domain)." }
+      ],
+      "persons": ["moses", "aaron"]
+    },
+    {
+      "id": "hebrew-ten-commandments",
+      "title": { "en": "The Ten Words Spoken from the Mountain", "zh": "山中所說十誡" },
+      "tradition": "hebrew",
+      "category": "religious",
+      "region": { "en": "Mount Sinai (traditional Jebel Musa; symbolic pin)", "zh": "西奈山（傳統耶別穆薩；象徵性定位）" },
+      "lat": 28.55, "lon": 33.97,
+      "period": "Composite narrative, composed c. 10th-8th c. BCE; principal MS: Leningrad Codex B19a (1008 CE)",
+      "source": { "archive": "Sefaria (JPS 1917 translation)", "work": "Exodus 20:1-17, JPS Tanakh 1917", "url": "https://www.sefaria.org/Exodus.20.1" },
+      "license": "Public domain (JPS 1917)",
+      "summary": { "en": "God speaks the Ten Words directly: no other gods, no graven image, no vain oath of His name, the Sabbath rest, honouring parents, and the prohibitions of murder, adultery, theft, false witness, and coveting — 'all the people perceived the thunderings... and they said unto Moses: Speak thou with us, and we will hear; but let not God speak with us, lest we die.'", "zh": "神親言十誡：獨一神、不可偶像、不可妄稱名、守安息、孝父母，與殺人、姦淫、偷盜、作假見證、貪婪諸禁——「眾百姓見雷轟閃電……就對摩西說：求你和我們說話，我們必聽；不要神和我們說話，恐怕我們死亡。」" },
+      "motifs": ["ritual-origin", "theophany", "oracle-divination"],
+      "sensitivity": { "restricted": false, "note": "Canonical scripture of a living tradition; quoted from public-domain JPS 1917." },
+      "passages": [
+        { "id": "1", "text": "I am the LORD thy God, who brought thee out of the land of Egypt, out of the house of bondage. Thou shalt have no other gods before Me.", "note": "Verbatim: JPS 1917, Exodus 20:2-3 (public domain)." },
+        { "id": "2", "text": "Remember the sabbath day, to keep it holy. Six days shalt thou labour... but the seventh day is a sabbath unto the LORD thy God. Honour thy father and thy mother... Thou shalt not murder. Thou shalt not commit adultery. Neither shalt thou steal. Neither shalt thou bear false witness... Neither shalt thou covet. And all the people perceived the thunderings, and the lightnings, and the voice of the horn, and the mountain smoking. Paraphrase of Exodus 20:8-18 (JPS 1917); not verbatim.", "note": "Paraphrase of Exodus 20:8-18 (JPS 1917); not verbatim." }
+      ],
+      "persons": ["moses", "aaron"]
+    },
+    {
+      "id": "hebrew-book-covenant-blood",
+      "title": { "en": "We Will Do and We Will Hear: The Covenant Sealed with Blood", "zh": "我們必行必聽：以血立約" },
+      "tradition": "hebrew",
+      "category": "religious",
+      "region": { "en": "Mount Sinai (traditional Jebel Musa; symbolic pin)", "zh": "西奈山（傳統耶別穆薩；象徵性定位）" },
+      "lat": 28.55, "lon": 33.97,
+      "period": "Composite narrative, composed c. 10th-8th c. BCE; principal MS: Leningrad Codex B19a (1008 CE)",
+      "source": { "archive": "Sefaria (JPS 1917 translation)", "work": "Exodus 24, JPS Tanakh 1917", "url": "https://www.sefaria.org/Exodus.24.1" },
+      "license": "Public domain (JPS 1917)",
+      "summary": { "en": "Moses writes 'all the words of the LORD', builds an altar and twelve pillars, dashes half the blood against the altar, and reads the Book of the Covenant. The people answer with the famous twofold oath: 'All that the LORD hath spoken will we do, and obey.' Blood is sprinkled on the people; the elders see the God of Israel and eat and drink.", "zh": "摩西將「耶和華一切所吩咐的」寫下，築壇立十二根柱子，以一半血灑壇，誦約書。百姓以雙重誓言應之：「耶和華所吩咐的，我們都必遵行。」血灑於民；長老們看見以色列的神，又喫又喝。" },
+      "motifs": ["ritual-origin", "theophany"],
+      "sensitivity": { "restricted": false, "note": "Canonical scripture of a living tradition; quoted from public-domain JPS 1917. 'Na'aseh venishma' became the paradigmatic declaration of Jewish obedience." },
+      "passages": [
+        { "id": "1", "text": "And he took the book of the covenant, and read in the audience of the people; and they said: 'All that the LORD hath spoken will we do, and obey.' And Moses took the blood, and sprinkled it on the people, and said: 'Behold the blood of the covenant, which the LORD hath made with you in agreement with all these words.'", "note": "Verbatim: JPS 1917, Exodus 24:7-8 (public domain)." },
+        { "id": "2", "text": "Moses, Aaron, Nadab, Abihu, and seventy elders of Israel went up; 'and they saw the God of Israel; and there was under His feet the like of a paved work of sapphirine stone... and upon the nobles of the children of Israel He laid not His hand... and they beheld God, and did eat and drink.' Moses then went up alone into the cloud, six days veiled, on the seventh called — forty days and nights. Paraphrase of Exodus 24:9-18 (JPS 1917); not verbatim.", "note": "Paraphrase of Exodus 24:9-18 (JPS 1917); not verbatim." }
+      ],
+      "persons": ["moses", "aaron"]
+    },
+    {
+      "id": "hebrew-golden-calf",
+      "title": { "en": "The Golden Calf: Making Gods in the Silence", "zh": "金牛犢：靜默中造神" },
+      "tradition": "hebrew",
+      "category": "religious",
+      "region": { "en": "Camp at Sinai (traditional Jebel Musa; symbolic pin)", "zh": "西奈山下營地（傳統耶別穆薩；象徵性定位）" },
+      "lat": 28.55, "lon": 33.97,
+      "period": "Composite narrative, composed c. 9th-8th c. BCE; principal MS: Leningrad Codex B19a (1008 CE)",
+      "source": { "archive": "Sefaria (JPS 1917 translation)", "work": "Exodus 32, JPS Tanakh 1917", "url": "https://www.sefaria.org/Exodus.32.1" },
+      "license": "Public domain (JPS 1917)",
+      "summary": { "en": "With Moses forty days on the mountain, the people demand: 'Up, make us gods which shall go before us'. Aaron casts the gold into a calf; the people eat, drink, and 'rose up to make merry'. God threatens to destroy them and start again with Moses; Moses descends, breaks the tablets at the foot of the mountain, burns the calf, grinds it to powder, and makes Israel drink its water — while three thousand fall by the sword of the Levites.", "zh": "摩西山上四十日，百姓要求：「起來，為我們作神像，可以在我們前面引路。」亞倫熔金成犢；百姓坐下喫喝，「起來玩耍」。神欲滅之另立摩西；摩西下山，於山腳摔碎法版，焚犢磨粉，撒入水中令以色列人喝——利未人之刀殺三千人。" },
+      "motifs": ["taboo-transgression", "boon-curse", "ritual-origin"],
+      "sensitivity": { "restricted": false, "note": "Canonical scripture of a living tradition; quoted from public-domain JPS 1917. Read on the fast day following Yom Kippur haftarah cycle." },
+      "passages": [
+        { "id": "1", "text": "And he took the calf which they had made, and burnt it with fire, and ground it to powder, and strewed it upon the water, and made the children of Israel drink of it. And Moses said unto Aaron: 'What did this people unto thee, that thou hast brought a great sin upon them?'", "note": "Verbatim: JPS 1917, Exodus 32:20-21 (public domain)." },
+        { "id": "2", "text": "While the people feasted, the LORD told Moses: 'Go, get thee down; for thy people have corrupted themselves'. Moses prayed — 'Turn from Thy fierce wrath, and repent of this evil against Thy people... Remember Abraham, Isaac, and Israel' — and 'the LORD repented of the evil which He said He would do'. Descending with Joshua, Moses heard the singing, saw the calf and the dancing, and hurled the tablets down, shattering them at the mountain's foot. He stood in the gate crying: 'Whoso is on the LORD's side, come unto me!' and the sons of Levi gathered to him. Paraphrase of Exodus 32:7-29 (JPS 1917); not verbatim.", "note": "Paraphrase of Exodus 32:7-29 (JPS 1917); not verbatim." }
+      ],
+      "persons": ["moses", "aaron"]
+    },
+    {
+      "id": "hebrew-show-thy-glory",
+      "title": { "en": "Show Me, I Pray Thee, Thy Glory", "zh": "求你顯出你的榮耀" },
+      "tradition": "hebrew",
+      "category": "religious",
+      "region": { "en": "Tent of meeting outside the camp, Sinai", "zh": "營外相會之幕，西奈" },
+      "lat": 28.55, "lon": 33.97,
+      "period": "Composite narrative, composed c. 9th-8th c. BCE; principal MS: Leningrad Codex B19a (1008 CE)",
+      "source": { "archive": "Sefaria (JPS 1917 translation)", "work": "Exodus 33:12-34:35, JPS Tanakh 1917", "url": "https://www.sefaria.org/Exodus.33.12" },
+      "license": "Public domain (JPS 1917)",
+      "summary": { "en": "After the calf, Moses intercedes in the tent of meeting, 'and the LORD would speak unto Moses face to face, as a man speaketh unto his friend'. Moses asks to see God's glory; he is hid in a rock's cleft and shown only the back parts, and the Name is proclaimed: 'The LORD, the LORD, merciful and gracious, long-suffering'. New tablets are cut, the covenant is renewed, and Moses returns with a shining face veiled before the people.", "zh": "金牛犢之後，摩西在相會幕中代求，「耶和華與摩西面對面說話，如人與朋友說話一般」。摩西求見榮耀；藏於磐石穴，只見背，並聽名之宣示：「耶和華，耶和華，是有憐憫有恩典的神，不輕易發怒」。新法版重立，約復定；摩西帶著發光之面歸回，面帕蒙之於民前。" },
+      "motifs": ["theophany", "prophetic-vision", "ritual-origin"],
+      "sensitivity": { "restricted": false, "note": "Canonical scripture of a living tradition; quoted from public-domain JPS 1917. The thirteen divine attributes (Exod 34:6-7) are recited in Selichot penitential liturgy." },
+      "passages": [
+        { "id": "1", "text": "And it came to pass, when Moses came down from mount Sinai with the two tables of the testimony in Moses' hand... that Moses knew not that the skin of his face sent forth beams while He talked with him. And when Aaron and all the children of Israel saw Moses, behold, the skin of his face sent forth beams; and they were afraid to come nigh him.", "note": "Verbatim: JPS 1917, Exodus 34:29-30 (public domain)." },
+        { "id": "2", "text": "Moses asked: 'I pray Thee, show me Thy glory.' The answer defines visibility itself: 'Thou canst not see My face... I will put thee in a cleft of the rock, and will cover thee with My hand... and thou shalt see My back; but My face shall not be seen.' Then, descending with the second tablets, Moses passed before the LORD proclaiming the thirteen attributes of mercy — the theological charter Judaism recites in every season of repentance. Paraphrase of Exodus 33:18-23; 34:6-8 (JPS 1917); not verbatim.", "note": "Paraphrase of Exodus 33:18-23; 34:6-8 (JPS 1917); not verbatim." }
+      ],
+      "persons": ["moses", "aaron"]
+    },
+    {
+      "id": "hebrew-nadab-abihu",
+      "title": { "en": "Strange Fire: The Death of Nadab and Abihu", "zh": "凡火：拿答亞比戶之死" },
+      "tradition": "hebrew",
+      "category": "religious",
+      "region": { "en": "Tent of meeting, wilderness of Sinai", "zh": "相會之幕，西奈曠野" },
+      "lat": 28.55, "lon": 33.97,
+      "period": "Composite narrative, composed c. 8th-5th c. BCE (Priestly source); principal MS: Leningrad Codex B19a (1008 CE)",
+      "source": { "archive": "Sefaria (JPS 1917 translation)", "work": "Leviticus 10:1-7, JPS Tanakh 1917", "url": "https://www.sefaria.org/Leviticus.10.1" },
+      "license": "Public domain (JPS 1917)",
+      "summary": { "en": "On the first day of the priesthood, Aaron's sons Nadab and Abihu 'took each of them his censer, and put fire therein, and laid incense thereon, and offered strange fire before the LORD, which He had not commanded them' — and fire from the LORD consumes them. Aaron is silent: 'And Aaron held his peace.'", "zh": "祭司就任首日，亞倫二子拿答亞比戶「各拿香爐，盛上火，加上香，在耶和華面前獻上凡火，是耶和華沒有吩咐他們的」——遂有火從耶和華面前出來，吞滅他們。亞倫靜默：「亞倫就默默不言。」" },
+      "motifs": ["taboo-transgression", "boon-curse", "ritual-origin"],
+      "sensitivity": { "restricted": false, "note": "Canonical scripture of a living tradition; quoted from public-domain JPS 1917." },
+      "passages": [
+        { "id": "1", "text": "Then Moses said unto Aaron: 'This is it that the LORD spoke, saying: Through them that are nigh unto Me I will be sanctified; and before all the people I will be glorified.' And Aaron held his peace. And Moses said... 'let not your heads go uncovered, neither rend your clothes, lest ye die, and lest wrath come upon all the people.'", "note": "Verbatim: JPS 1917, Leviticus 10:3, 6 (public domain), condensed with ellipsis." }
+      ],
+      "persons": ["aaron"]
+    },
+    {
+      "id": "hebrew-seventy-elders-spirit",
+      "title": { "en": "The Spirit on the Seventy Elders, and Eldad and Medad", "zh": "靈降七十長老與伊勒達米達" },
+      "tradition": "hebrew",
+      "category": "religious",
+      "region": { "en": "Camp in the wilderness of Paran", "zh": "巴蘭曠野營地" },
+      "lat": 30.2, "lon": 34.8,
+      "period": "Composite narrative, composed c. 8th-5th c. BCE; principal MS: Leningrad Codex B19a (1008 CE)",
+      "source": { "archive": "Sefaria (JPS 1917 translation)", "work": "Numbers 11:16-30, JPS Tanakh 1917", "url": "https://www.sefaria.org/Numbers.11.16" },
+      "license": "Public domain (JPS 1917)",
+      "summary": { "en": "Burdened by the people's weeping for meat, Moses cries: 'I am not able to bear all this people alone'. God tells him to gather seventy elders at the tent; the spirit that rests on him is placed on them, and they prophesy — but do not continue. Two men left in the camp, Eldad and Medad, prophesy in the camp itself; Joshua would have them restrained, and Moses answers with the ideal of shared prophecy: 'Would God that all the LORD's people were prophets.'", "zh": "百姓因要肉而泣，摩西呼曰：「管理這百姓的責任太重了，我獨自當不起。」神命於幕前集七十長老；降於摩西的靈分與之，他們受感說話——卻不再繼續。營中還有伊勒達米達二人受感說話；約書亞欲禁之，摩西以共承預言之理想答：「惟願耶和華的百姓都受感說話。」" },
+      "motifs": ["spirit-possession", "oracle-divination", "prophetic-vision"],
+      "sensitivity": { "restricted": false, "note": "Canonical scripture of a living tradition; quoted from public-domain JPS 1917." },
+      "passages": [
+        { "id": "1", "text": "And there ran a young man, and told Moses, and said: 'Eldad and Medad do prophesy in the camp.' And Joshua the son of Nun, the minister of Moses from his youth up, answered and said: 'My lord Moses, restrain them.' And Moses said unto him: 'Enviest thou for my sake? would God that all the LORD's people were prophets, that the LORD would put His spirit upon them!'", "note": "Verbatim: JPS 1917, Numbers 11:27-29 (public domain)." }
+      ],
+      "persons": ["moses"]
+    },
+    {
+      "id": "hebrew-quails-graves",
+      "title": { "en": "Quails at Kibroth-hattaavah: Meat That Became a Plague", "zh": "基博羅哈他瓦的鵪鶉：成疫之肉" },
+      "tradition": "hebrew",
+      "category": "religious",
+      "region": { "en": "Kibroth-hattaavah, wilderness of Paran", "zh": "基博羅哈他瓦，巴蘭曠野" },
+      "lat": 30.2, "lon": 34.8,
+      "period": "Composite narrative, composed c. 8th-5th c. BCE; principal MS: Leningrad Codex B19a (1008 CE)",
+      "source": { "archive": "Sefaria (JPS 1917 translation)", "work": "Numbers 11:31-35, JPS Tanakh 1917", "url": "https://www.sefaria.org/Numbers.11.31" },
+      "license": "Public domain (JPS 1917)",
+      "summary": { "en": "A wind brings quails from the sea two cubits deep upon the camp; the people gather heaps, and while the meat is 'yet between their teeth' the LORD smites them with a very great plague. The place is named Kibroth-hattaavah, 'graves of lust', 'because there they buried the people that lusted' — the etiology of a greed punished by satiety.", "zh": "風自海刮鵪鶉散於營旁約二肘；百姓聚斂成堆，肉「還在牙齒之間」未嚼盡，耶和華即以極重之疫擊之。其地名基博羅哈他瓦，「貪慾之墳」，「因為他們在那裡葬埋那起貪慾之心的人」——貪得而飽即死之釋義。" },
+      "motifs": ["taboo-transgression", "boon-curse"],
+      "sensitivity": { "restricted": false, "note": "Canonical scripture of a living tradition; quoted from public-domain JPS 1917." },
+      "passages": [
+        { "id": "1", "text": "And while the flesh was yet between their teeth, ere it was chewed, the wrath of the LORD was kindled against the people, and the LORD smote the people with a very great plague. And he called the name of that place Kibroth-hattaavah, because there they buried the people that lusted.", "note": "Verbatim: JPS 1917, Numbers 11:33-34 (public domain)." }
+      ],
+      "persons": ["moses", "aaron"]
+    },
+    {
+      "id": "hebrew-spies-bad-report",
+      "title": { "en": "The Spies and the Bad Report of Canaan", "zh": "窺探迦南與惡信" },
+      "tradition": "hebrew",
+      "category": "religious",
+      "region": { "en": "Hebron and Eshcol, land of Canaan", "zh": "希伯崙與以實各谷，迦南地" },
+      "lat": 31.52, "lon": 35.1,
+      "period": "Composite narrative, composed c. 8th-5th c. BCE; principal MS: Leningrad Codex B19a (1008 CE)",
+      "source": { "archive": "Sefaria (JPS 1917 translation)", "work": "Numbers 13-14, JPS Tanakh 1917", "url": "https://www.sefaria.org/Numbers.13.1" },
+      "license": "Public domain (JPS 1917)",
+      "summary": { "en": "Twelve scouts bring back grapes of Eshcol — 'and they came unto the brook of Eshcol, and cut down from thence a branch with one cluster of grapes' — and news of giants. Ten give the bad report that demoralizes Israel; Caleb and Joshua stand alone. The nation weeps and threatens to stone them; God decrees forty years of wandering, a year for each day — the generation that left Egypt will not enter.", "zh": "十二探子攜以實各谷葡萄而歸——「砍了葡萄的一枝，用兩個人抬著」——並述巨人之地。十人報惡信喪以色列之膽；迦勒約書亞獨持異議。全民夜哭欲以石擊之；神判四十年漂流，一日抵一年——出埃及的一代不得入。" },
+      "motifs": ["oracle-divination", "boon-curse", "sacred-place"],
+      "sensitivity": { "restricted": false, "note": "Canonical scripture of a living tradition; quoted from public-domain JPS 1917." },
+      "passages": [
+        { "id": "1", "text": "And they told him, and said: 'We came unto the land whither thou sentest us, and surely it floweth with milk and honey; and this is the fruit of it. Howbeit the people that dwell in the land are fierce, and the cities are fortified, and very great... and there we saw the giants, the sons of Anak, come of the giants; and we were in our own sight as grasshoppers, and so we were in their sight.'", "note": "Verbatim: JPS 1917, Numbers 13:27-33 (public domain), condensed with ellipsis." },
+        { "id": "2", "text": "Caleb silenced the people: 'Let us go up at once, and possess it; for we are well able'. But the congregation wept that night. Joshua and Caleb rent their clothes — 'if the LORD delight in us, then He will bring us into this land... rebel not against the LORD, neither fear ye the people of the land' — and the assembly moved to stone them. The glory of the LORD appeared, and the sentence fell: 'Your carcases shall fall in this wilderness... and your children shall be shepherds in the wilderness forty years.' Paraphrase of Numbers 14:6-39 (JPS 1917); not verbatim.", "note": "Paraphrase of Numbers 14:6-39 (JPS 1917); not verbatim." }
+      ],
+      "persons": ["joshua"]
+    },
+    {
+      "id": "hebrew-korah-rebellion",
+      "title": { "en": "Korah's Rebellion and the Earth That Opened", "zh": "可拉之叛與裂地" },
+      "tradition": "hebrew",
+      "category": "religious",
+      "region": { "en": "Camp in the wilderness of Paran", "zh": "巴蘭曠野營地" },
+      "lat": 30.2, "lon": 34.8,
+      "period": "Composite narrative, composed c. 8th-5th c. BCE (Priestly); principal MS: Leningrad Codex B19a (1008 CE)",
+      "source": { "archive": "Sefaria (JPS 1917 translation)", "work": "Numbers 16, JPS Tanakh 1917", "url": "https://www.sefaria.org/Numbers.16.1" },
+      "license": "Public domain (JPS 1917)",
+      "summary": { "en": "Korah, with Dathan, Abiram, and 250 princes, challenges Moses and Aaron: 'all the congregation are holy'. Moses proposes a censer-test before the LORD. When God threatens the whole assembly, Moses and Aaron fall on their faces; the ground splits and swallows the rebels alive, fire consumes the censers' men, and the bronze censers are hammered into a covering for the altar as a memorial sign.", "zh": "可拉與大坍亞比蘭並二百五十名首領挑戰摩西亞倫：「全會眾個個既是聖潔的」。摩西提香爐之試。神欲滅全會眾之際，摩西亞倫俯伏；地遂裂開活吞叛逆者，火滅持香爐之人，銅香爐被錘成片包壇作記號。" },
+      "motifs": ["taboo-transgression", "boon-curse", "ritual-origin"],
+      "sensitivity": { "restricted": false, "note": "Canonical scripture of a living tradition; quoted from public-domain JPS 1917." },
+      "passages": [
+        { "id": "1", "text": "And it came to pass, as he made an end of speaking all these words, that the ground did cleave asunder that was under them. And the earth opened her mouth, and swallowed them up, and their households, and all the men that appertained unto Korah, and all their goods. So they, and all that appertained to them, went down alive into the pit; and the earth closed upon them, and they perished from among the assembly.", "note": "Verbatim: JPS 1917, Numbers 16:31-33 (public domain)." }
+      ],
+      "persons": ["moses", "aaron"]
+    },
+    {
+      "id": "hebrew-aaron-rod-blossoms",
+      "title": { "en": "Aaron's Staff Blossoms: Almonds Overnight", "zh": "亞倫杖開花：一夜杏花" },
+      "tradition": "hebrew",
+      "category": "religious",
+      "region": { "en": "Tent of meeting, wilderness of Paran", "zh": "相會之幕，巴蘭曠野" },
+      "lat": 30.2, "lon": 34.8,
+      "period": "Composite narrative, composed c. 8th-5th c. BCE (Priestly); principal MS: Leningrad Codex B19a (1008 CE)",
+      "source": { "archive": "Sefaria (JPS 1917 translation)", "work": "Numbers 17, JPS Tanakh 1917", "url": "https://www.sefaria.org/Numbers.17.1" },
+      "license": "Public domain (JPS 1917)",
+      "summary": { "en": "To end the murmuring against the priesthood, each prince brings a staff, Aaron's among them, laid overnight before the testimony. In the morning Aaron's staff 'had budded, and brought forth buds, and bloomed blossoms, and yielded ripe almonds' — a living, fruiting sign within one night. The staff is kept before the testimony 'for a token against the children of rebellion'.", "zh": "為止會眾對祭司之怨，各支派首領各取杖，亞倫之杖在內，一夜置於法櫃前。清晨亞倫的杖「已經發了芽，生了花苞，開了花，結了熟杏」——一夜之間活而結果之兆。杖存於法櫃前，「給叛逆之子留作記號」。" },
+      "motifs": ["ritual-origin", "boon-curse", "resurrection"],
+      "sensitivity": { "restricted": false, "note": "Canonical scripture of a living tradition; quoted from public-domain JPS 1917." },
+      "passages": [
+        { "id": "1", "text": "And it came to pass on the morrow, that Moses went into the tent of the testimony; and, behold, the staff of Aaron for the house of Levi was blossomed, and put forth buds, and bloomed blossoms, and yielded ripe almonds. And Moses brought out all the rods from before the LORD unto all the children of Israel; and they looked, and took every man his rod.", "note": "Verbatim: JPS 1917, Numbers 17:23-24 (public domain)." }
+      ],
+      "persons": ["aaron", "moses"]
+    },
+    {
+      "id": "hebrew-bronze-serpent",
+      "title": { "en": "The Bronze Serpent in the Wilderness", "zh": "曠野中的銅蛇" },
+      "tradition": "hebrew",
+      "category": "religious",
+      "region": { "en": "Road around Edom, wilderness", "zh": "繞以東之路，曠野" },
+      "lat": 30.0, "lon": 35.4,
+      "period": "Composite narrative, composed c. 8th-5th c. BCE; principal MS: Leningrad Codex B19a (1008 CE)",
+      "source": { "archive": "Sefaria (JPS 1917 translation)", "work": "Numbers 21:4-9, JPS Tanakh 1917", "url": "https://www.sefaria.org/Numbers.21.4" },
+      "license": "Public domain (JPS 1917)",
+      "summary": { "en": "Complaining against God and Moses on the Edom detour, Israel is plagued by 'fiery serpents' whose bitings kill many. The people confess; God tells Moses to make a serpent and set it on a pole — 'and it shall come to pass, that every one that is bitten, when he seeth it, shall live'. Moses makes one of brass; the image, named Nehushtan, later stood in the Temple until Hezekiah smashed it.", "zh": "以色列繞以東而行，怨神與摩西，遂遭「火蛇」之咬，死者甚多。百姓認罪；神命摩西造一蛇掛在杆上——「凡被咬的，一望這蛇，就必活」。摩西造銅蛇；其像名尼忽士坦，後立於聖殿，至希西家拆毀。" },
+      "motifs": ["ritual-origin", "world-serpent", "boon-curse"],
+      "sensitivity": { "restricted": false, "note": "Canonical scripture of a living tradition; quoted from public-domain JPS 1917. 2 Kings 18:4 records Hezekiah's destruction of the Nehushtan as idolatrous image." },
+      "passages": [
+        { "id": "1", "text": "And the people came to Moses, and said: 'We have sinned, because we have spoken against the LORD, and against thee; pray unto the LORD, that He take away the serpents from us.' And Moses prayed for the people. And the LORD said unto Moses: 'Make thee a fiery serpent, and set it upon a pole; and it shall come to pass, that every one that is bitten, when he seeth it, shall live.' And Moses made a serpent of brass, and set it upon the pole; and if a serpent had bitten any man, when he looked unto the serpent of brass, he lived.", "note": "Verbatim: JPS 1917, Numbers 21:7-9 (public domain)." }
+      ],
+      "persons": ["moses"]
+    },
+    {
+      "id": "hebrew-balaam-donkey",
+      "title": { "en": "Balaam's Donkey Sees the Angel", "zh": "巴蘭的驢看見天使" },
+      "tradition": "hebrew",
+      "category": "religious",
+      "region": { "en": "Road to Moab, plains of Moab", "zh": "往摩押之路，摩押平原" },
+      "lat": 31.3, "lon": 35.6,
+      "period": "Composite narrative, composed c. 8th-5th c. BCE; principal MS: Leningrad Codex B19a (1008 CE)",
+      "source": { "archive": "Sefaria (JPS 1917 translation)", "work": "Numbers 22:21-41, JPS Tanakh 1917", "url": "https://www.sefaria.org/Numbers.22.21" },
+      "license": "Public domain (JPS 1917)",
+      "summary": { "en": "Balak's messengers hire Balaam son of Beor to curse Israel. God permits the journey but is 'sore displeased'; the angel stands in the way with drawn sword. The donkey sees — swerves, crushes Balaam's foot against a wall, and lies down — until it speaks with a man's voice: 'What have I done unto thee, that thou hast smitten me these three times?' Then Balaam's eyes are opened and he falls on his face.", "zh": "巴勒的使者雇巴蘭咒以色列。神許其行卻「發怒」；使者持刀立於路上。驢看見——偏行，擠傷巴蘭腳於牆，臥地不起——直至開口如人言：「我向你行了什麼，你竟打我這三次？」巴蘭眼乃開，俯伏在地。" },
+      "motifs": ["trickster", "oracle-divination", "transformation"],
+      "sensitivity": { "restricted": false, "note": "Canonical scripture of a living tradition; quoted from public-domain JPS 1917. The talking animal motif parallels cross-tradition seer-hindrance tales." },
+      "passages": [
+        { "id": "1", "text": "Then the LORD opened the mouth of the ass, and she said unto Balaam: 'What have I done unto thee, that thou hast smitten me these three times?' And Balaam said unto the ass: 'Because thou hast mocked me; I would there were a sword in my hand, for now I had killed thee.' And the ass said unto Balaam: 'Am not I thine ass, upon which thou hast ridden all thy life long unto this day? was I ever wont to do so unto thee?' And he said: 'Nay.' Then the LORD opened the eyes of Balaam, and he saw the angel of the LORD standing in the way, with his sword drawn in his hand; and he bowed his head, and fell on his face.", "note": "Verbatim: JPS 1917, Numbers 22:28-31 (public domain)." }
+      ],
+      "persons": ["balaam"]
+    },
+    {
+      "id": "hebrew-balaam-oracles",
+      "title": { "en": "Balaam's Blessings: From the Camp Seen from the Heights", "zh": "巴蘭的祝福：自高處望營" },
+      "tradition": "hebrew",
+      "category": "religious",
+      "region": { "en": "Heights of Moab over the plains", "zh": "摩押高地，俯瞰平原" },
+      "lat": 31.3, "lon": 35.7,
+      "period": "Composite narrative, composed c. 8th-5th c. BCE; principal MS: Leningrad Codex B19a (1008 CE)",
+      "source": { "archive": "Sefaria (JPS 1917 translation)", "work": "Numbers 23-24, JPS Tanakh 1917", "url": "https://www.sefaria.org/Numbers.23.1" },
+      "license": "Public domain (JPS 1917)",
+      "summary": { "en": "On seven altars with seven bulls and seven rams, Balaam can only bless: 'How shall I curse, whom God hath not cursed?' Three oracles praise Israel from Balak's vantage points, climaxing in the famous stream: 'How goodly are thy tents, O Jacob, thy dwellings, O Israel' — the prayer with which synagogues open each morning — and a star-oracle of a future ruler.", "zh": "七壇七公牛七公羊之上，巴蘭唯能祝福：「神沒有咒詛的，我焉能咒詛？」三篇神諭自巴勒的高處讚以色列，至其名句：「雅各啊，你的帳棚何等華美！以色列啊，你的帳幕何其華麗！」——會堂每日晨禱之引詩——並有未來君王之星諭。" },
+      "motifs": ["oracle-divination", "prophetic-vision", "sacred-kingship"],
+      "sensitivity": { "restricted": false, "note": "Canonical scripture of a living tradition; quoted from public-domain JPS 1917. Numbers 24:17 star-prophecy read messianically in later tradition." },
+      "passages": [
+        { "id": "1", "text": "And he took up his parable, and said: 'How goodly are thy tents, O Jacob, thy dwellings, O Israel! As valleys stretched out, as gardens by a river-side, as tent-trees planted of the LORD, as cedars beside the waters.'", "note": "Verbatim: JPS 1917, Numbers 24:5-6 (public domain)." },
+        { "id": "2", "text": "Balak built altars at Bamoth-baal and Peor's height, sacrificing on each before Balaam spoke; each time the blessing came instead of the curse. Balaam protested: 'Have I now any power at all to speak anything? The word that God putteth in my mouth, that shall I speak.' The final oracle looks forward: 'there shall step forth a star out of Jacob, and a sceptre shall rise out of Israel'. Balak struck his hands together and sent the seer home in anger. Paraphrase of Numbers 23-24 (JPS 1917); not verbatim.", "note": "Paraphrase of Numbers 23-24 (JPS 1917); not verbatim." }
+      ],
+      "persons": ["balaam"]
+    },
+    {
+      "id": "hebrew-phinehas-zeal",
+      "title": { "en": "Phinehas's Zeal and the Covenant of Peace", "zh": "非尼哈之熱心與平安之約" },
+      "tradition": "hebrew",
+      "category": "religious",
+      "region": { "en": "Camp at Shittim, plains of Moab", "zh": "什亭營地，摩押平原" },
+      "lat": 31.8, "lon": 35.6,
+      "period": "Composite narrative, composed c. 8th-5th c. BCE (Priestly); principal MS: Leningrad Codex B19a (1008 CE)",
+      "source": { "archive": "Sefaria (JPS 1917 translation)", "work": "Numbers 25:1-18, JPS Tanakh 1917", "url": "https://www.sefaria.org/Numbers.25.1" },
+      "license": "Public domain (JPS 1917)",
+      "summary": { "en": "Israel is seduced into Baal-peor's worship by the daughters of Moab. While a plague rages and the whole congregation weeps at the tent of meeting, Zimri brings a Midianite woman to his tent in the sight of Moses and the assembly. Phinehas takes a spear, follows them in, and thrusts both through — 'and the plague was stayed'. God grants him a 'covenant of peace' and an everlasting priesthood.", "zh": "以色列為摩押女子所誘事巴力毘珥。瘟疫肆行、會眾在幕前哭泣之際，心利攜米甸婦人入帳，在摩西與會眾眼前。非尼哈執矛，隨之入內，將二人刺透——「瘟疫就止住了」。神賜他「平安的約」與永遠的祭司職。" },
+      "motifs": ["taboo-transgression", "boon-curse", "ritual-origin"],
+      "sensitivity": { "restricted": false, "note": "Canonical scripture of a living tradition; quoted from public-domain JPS 1917. The episode has been invoked historically in ethically troubling ways; record states the text without endorsement." },
+      "passages": [
+        { "id": "1", "text": "Phinehas, the son of Eleazar, the son of Aaron the priest, hath turned My wrath away from the children of Israel, in that he was very jealous for My sake among them... wherefore say: Behold, I give unto him My covenant of peace; and it shall be unto him, and to his seed after him, the covenant of an everlasting priesthood.", "note": "Verbatim: JPS 1917, Numbers 25:11-13 (public domain), condensed." }
+      ],
+      "persons": ["aaron", "moses"]
+    },
+    {
+      "id": "hebrew-moses-death",
+      "title": { "en": "Moses Dies in the Land of Moab: Viewed from Pisgah", "zh": "摩西死於摩押：毘斯迦山上所望" },
+      "tradition": "hebrew",
+      "category": "religious",
+      "region": { "en": "Mount Nebo, Pisgah, Moab", "zh": "尼波山，毘斯迦，摩押" },
+      "lat": 31.77, "lon": 35.74,
+      "period": "Composite narrative, composed c. 8th-5th c. BCE; principal MS: Leningrad Codex B19a (1008 CE)",
+      "source": { "archive": "Sefaria (JPS 1917 translation)", "work": "Deuteronomy 34, JPS Tanakh 1917", "url": "https://www.sefaria.org/Deuteronomy.34.1" },
+      "license": "Public domain (JPS 1917)",
+      "summary": { "en": "From Pisgah's top God shows Moses all the promised land — 'I have caused thee to see it with thine eyes, but thou shalt not go over thither' — and the greatest of the prophets dies there at a hundred and twenty, 'and there hath not arisen a prophet since in Israel like unto Moses'. He is buried 'in the valley... over against Beth-peor; and no man knoweth of his sepulchre unto this day.'", "zh": "神自毘斯迦山頂將應許全地指示摩西——「我使你眼睛看見了，你卻不得過去那裡」——最偉大的先知死於該地，年一百二十，「以後以色列中再沒有興起先知像摩西的」。他葬於「摩押地……伯毘珥對面的谷中；只是到今日沒有人知道他的墳墓」。" },
+      "motifs": ["prophetic-vision", "sacred-place", "culture-hero"],
+      "sensitivity": { "restricted": false, "note": "Canonical scripture of a living tradition; quoted from public-domain JPS 1917." },
+      "passages": [
+        { "id": "1", "text": "And Moses was an hundred and twenty years old when he died; his eye was not dimmed, nor his natural force abated. And the children of Israel wept for Moses in the plains of Moab thirty days... And there arose not a prophet since in Israel like unto Moses, whom the LORD knew face to face.", "note": "Verbatim: JPS 1917, Deuteronomy 34:7-10 (public domain), condensed." }
+      ],
+      "persons": ["moses", "joshua"]
+    },
+    {
+      "id": "hebrew-shema-credo",
+      "title": { "en": "Hear, O Israel: The Shema and the Wanderer's Credo", "zh": "以色列啊你要聽：示瑪與遊子信經" },
+      "tradition": "hebrew",
+      "category": "religious",
+      "region": { "en": "Plains of Moab (setting of Moses' discourse)", "zh": "摩押平原（摩西講話之場景）" },
+      "lat": 31.77, "lon": 35.6,
+      "period": "Composite narrative, composed c. 8th-5th c. BCE; principal MS: Leningrad Codex B19a (1008 CE)",
+      "source": { "archive": "Sefaria (JPS 1917 translation)", "work": "Deuteronomy 6:4-9; 26:5-10, JPS Tanakh 1917", "url": "https://www.sefaria.org/Deuteronomy.6.4" },
+      "license": "Public domain (JPS 1917)",
+      "summary": { "en": "The core declaration of Judaism — 'Hear, O Israel: the LORD our God, the LORD is one' — with the command to bind the words 'for a sign upon thy hand, and for frontlets between thine eyes' and write them on doorposts. Paired with the first-fruits credo recited by every Israelite farmer: 'A wandering Aramean was my father; and he went down into Egypt... and the LORD brought us forth out of Egypt with a mighty hand.'", "zh": "猶太教核心宣告——「以色列啊，你要聽！耶和華我們神是獨一的主」——並命將話語「為記號在你手上，為記號在你兩眼之間」，寫在門框上。配以每位以色列農夫初熟果子時所誦信經：「我祖原是一個將亡的亞蘭人，下到埃及寄居……耶和華就用大能的手領我們出了埃及。」" },
+      "motifs": ["ritual-origin", "foundational-legend", "parable-teaching"],
+      "sensitivity": { "restricted": false, "note": "Canonical scripture of a living tradition; quoted from public-domain JPS 1917. Shema recited twice daily; tefillin and mezuzah are living ritual obligations derived from these verses." },
+      "passages": [
+        { "id": "1", "text": "Hear, O Israel: the LORD our God, the LORD is one. And thou shalt love the LORD thy God with all thy heart, and with all thy soul, and with all thy might. And these words, which I command thee this day, shall be upon thy heart... And thou shalt bind them for a sign upon thy hand, and they shall be for frontlets between thine eyes. And thou shalt write them upon the door-posts of thy house, and upon thy gates.", "note": "Verbatim: JPS 1917, Deuteronomy 6:4-9 (public domain), condensed." },
+        { "id": "2", "text": "And thou shalt come unto the priest... and say: 'I profess this day unto the LORD thy God, that I am come unto the land which the LORD swore unto our fathers for to give us.' And thou shalt say: 'A wandering Aramean was my father; and he went down into Egypt... and the LORD brought us forth out of Egypt with a mighty hand, and with an outstretched arm... and He hath brought us into this place, and hath given us this land, a land flowing with milk and honey.' Paraphrase of Deuteronomy 26:3-9 (JPS 1917); not verbatim.", "note": "Paraphrase of Deuteronomy 26:3-9 (JPS 1917); not verbatim." }
+      ],
+      "persons": ["moses"]
+    },
+    {
+      "id": "hebrew-song-moses",
+      "title": { "en": "Give Ear, O Heavens: The Song of Moses", "zh": "諸天哪側耳：摩西之歌" },
+      "tradition": "hebrew",
+      "category": "religious",
+      "region": { "en": "Plains of Moab (setting of Moses' discourse)", "zh": "摩押平原（摩西講話之場景）" },
+      "lat": 31.77, "lon": 35.6,
+      "period": "Composite narrative, composed c. 8th-5th c. BCE; principal MS: Leningrad Codex B19a (1008 CE)",
+      "source": { "archive": "Sefaria (JPS 1917 translation)", "work": "Deuteronomy 32:1-43, JPS Tanakh 1917", "url": "https://www.sefaria.org/Deuteronomy.32.1" },
+      "license": "Public domain (JPS 1917)",
+      "summary": { "en": "Israel's deathbed national poem: heaven and earth summoned as witnesses; the Rock, 'His work is perfect'; the eagle stirring her nest; Israel grown fat and forsaking the Rock of its salvation; the appointed wrath and the compassion at the end — 'I kill, and I make alive'. 'And Moses spoke in the ears of all the assembly of Israel the words of this song.'", "zh": "以色列臨終國詩：召天地為證；磐石，「他的作為完全」；攪動巢窩的鷹；以色列肥壯而離棄救他的磐石；命定的震怒與末後的憐憫——「我使人死，我使人活」。「摩西將這一篇歌的話都說與以色列全會眾聽。」" },
+      "motifs": ["parable-teaching", "boon-curse", "prophetic-vision"],
+      "sensitivity": { "restricted": false, "note": "Canonical scripture of a living tradition; quoted from public-domain JPS 1917. Deut 32 is read in the annual Torah cycle (Ha'azinu)." },
+      "passages": [
+        { "id": "1", "text": "Give ear, O ye heavens, and I will speak; and let the earth hear the words of my mouth. My doctrine shall drop as the rain, my speech shall distil as the dew; as the small rain upon the tender herb, and as the showers upon the grass. For I will proclaim the name of the LORD; ascribe ye greatness unto our God. The Rock, His work is perfect; for all His ways are justice; a God of faithfulness and without iniquity, just and right is He.", "note": "Verbatim: JPS 1917, Deuteronomy 32:1-4 (public domain)." },
+        { "id": "2", "text": "Jeshurun waxed fat and kicked — 'then he forsook God which made him, and lightly esteemed the Rock of his salvation'. The poem foretells scattering and a remnant, then turns: 'I kill, and I make alive; I wound, and I heal'. It closes with the nations called to praise His people — 'Sing aloud, O ye nations, of His people; for He doth avenge the blood of His servants'. Paraphrase of Deuteronomy 32:15-43 (JPS 1917); not verbatim.", "note": "Paraphrase of Deuteronomy 32:15-43 (JPS 1917); not verbatim." }
+      ],
+      "persons": ["moses"]
+    }
+  ]
+}

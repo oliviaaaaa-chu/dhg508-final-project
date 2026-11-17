@@ -1,0 +1,590 @@
+{
+  "texts": [
+    {
+      "id": "chinese-nuwa-clay-humans",
+      "title": {
+        "en": "Nüwa Molds the First People from Yellow Earth",
+        "zh": "女媧摶土造人"
+      },
+      "tradition": "chinese",
+      "category": "myth",
+      "region": {
+        "en": "The central plains of the Yellow River (symbolic pin: Central Plains, Henan)",
+        "zh": "黃河中土（象徵性定位：中原）"
+      },
+      "lat": 34.7,
+      "lon": 113.5,
+      "period": "Fengsu Tongyi (Ying Shao, c. 195 CE); mending-sky myth in Huainanzi (c. 139 BCE)",
+      "source": {
+        "archive": "Wikisource (zh)",
+        "work": "Fengsu Tongyi (Comprehensive Meaning of Customs) by Ying Shao, customary lore section on Nüwa; parallel: Huainanzi, Lanming Xun",
+        "url": "https://zh.wikisource.org/wiki/%E9%A2%A8%E4%BF%97%E9%80%9A%E7%BE%A9"
+      },
+      "license": "Public domain (Classical Chinese text; passages are compiler's renderings)",
+      "summary": {
+        "en": "At the world's opening there were no people: Nüwa, the creator, took yellow earth and molded human beings by hand, one by one — until her strength failed, when she dragged a rope through the mud and shook it, and the drops that fell became people. The hand-molded became rich and noble; the rope-sprinkled became poor and common, so the folk story says.",
+        "zh": "開闢之初未有人民，女媧摶黃土作人，務劇力不暇，乃引繩於泥中舉以為人——富貴者黃土人也，貧賤者引繩人也。"
+      },
+      "motifs": [
+        "clay-humans",
+        "sibling-creators"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Passages are the compiler's condensed paraphrases of the Fengsu Tongyi original. Cross-tradition clay-human cluster; hierarchy aition (rich hand-made, poor rope-sprinkled) is a folk-layer stratification story, tagged with care."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "When heaven and earth had been opened, there were no people yet in the world. Nüwa the creator took the yellow earth of the central lands, wetted it, and shaped human beings with her own hands, one figure after another, giving each its breath — laboring without pause at her great work.",
+          "note": "Paraphrase of Fengsu Tongyi, customary lore on Nüwa (compiler's rendering from the public-domain Classical Chinese); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "The work was too great for one pair of hands. So Nüwa took a rope, dragged it through the mud, and swung it across the land; wherever the drops of mud fell, they sprang up as people. The ones she had molded by hand became the great and wealthy; the ones sprinkled from the rope became the poor and humble — so the storytellers of the Han explained the ranks of men.",
+          "note": "Paraphrase of Fengsu Tongyi, rope-sprinkling passage; not verbatim."
+        }
+      ],
+      "persons": [
+        "nuwa"
+      ],
+      "language": "Classical Chinese",
+      "canonical_translation": "Compiler's English rendering from the public-domain original; consulted (copyright, summary only): Anne Birrell, Chinese Mythology: An Introduction, Johns Hopkins 1993; Derk Bodde's essays on Chinese myth",
+      "narrative": {
+        "en": "China's answer to the clay-human cluster is a goddess molder, and the earliest surviving telling is a brief, almost bureaucratic passage in the Fengsu Tongyi, a Han-dynasty encyclopedia of customs compiled by Ying Shao around 195 CE.\n\nBEGINNING. At the opening of heaven and earth there was no human being anywhere. The world had shape and life — mountains, rivers, plants, beasts — but nothing that could till the soil, tend the altars, or know the rites. Nüwa, herself a creator-goddess whose older myths (recorded a century earlier in the Huainanzi) had her repair the broken sky with five-colored stones, now turns her craft downward: she takes the yellow earth — the soil of the central plain, the color of the imperial heartland — kneads it with water, and shapes a human figure. The figure lives. She makes another, and another, breathing and molding without rest.\n\nMIDDLE. Her strength runs out before her work does. The earth's need for people is greater than two hands can serve; so Nüwa changes her method. She takes a rope, trails it through the slurry of mud, and flicks it across the ground. Every drop that strikes the earth becomes a living person, arising where it falls. The myth thus gives two origins for two sorts of human: the hand-molded few, formed individually and with care, and the rope-sprinkled many, born in a single careless swing.\n\nEND — AND THE FOLK-SOCIAL READING. Ying Shao records the conclusion his informants drew: the hand-molded became the rich and noble, the rope-drops became the poor and common. Whether the class aition was the point of the original story or a Han-era accretion, it shows the myth working exactly as etiology should — explaining the visible structure of society by the manner of one's manufacture. A quieter layer of the same tradition makes Nüwa the patron of matchmaking and marriage (she is said to have instituted the marriage rite as the first matchmaker, praying in her own shrine), so the molder of bodies is also the framer of households.\n\nFUNCTION. The story anchors three things: human beings as earth-beings (dust-colored, agricultural, tied to the central plain); the goddess as civilizer who both makes bodies and founds marriage; and a social order read backward into the act of creation. Compared with Enki and Ninhursag's clay-cures in Sumer, Prometheus's molding in the Greek tradition, Obatala's clay-dropping at Ife, the Qur'anic Adam, and the maize-people of the Popol Vuh, the Nüwa passage is striking for its failure-and-improvisation structure: the goddess is strong but not infinite, and humanity begins as a batch-process when individual craft gives out.",
+        "zh": "女媧摶土造人首見於東漢應劭《風俗通義》：開闢之初未有人民，女媧摶黃土作人，力不暇供，乃引繩於泥中舉以為人。富貴賢知者，黃土人也；貧賤凡庸者，引繩人也。神話同時解釋人之土性、社會等級與婚姻制度（女媧亦為最初之媒神）。與蘇美爾恩基以黏土療傷造人、希臘普羅米修斯塑人、約魯巴奧巴塔拉撒泥、古蘭經亞當、《波波爾烏》玉米人平行——而女媧故事之特點在『力竭而改法』：造人不盡出於精工，亦出於神力有限之應變。"
+      },
+      "functions": [
+        "Aition of human nature as earth-born and dust-colored (agricultural self-image)",
+        "Social-stratification story: birth rank read into manner of creation",
+        "Charter of marriage: Nüwa as the first matchmaker and patron of unions",
+        "Template of the civilizing goddess who both shapes bodies and repairs cosmos"
+      ],
+      "variants": [
+        {
+          "name": "Huainanzi, Lanming Xun (c. 139 BCE) — the mender, not the molder",
+          "text_tradition": "Huainanzi, Lanming Xun",
+          "summary": "The older Huainanzi layer has Nüwa mending the broken sky with five-colored stones, cutting the turtle's legs for pillars, and calming floods — but no creation of people; the molder role appears first in the Fengsu Tongyi.",
+          "cross_ref": "nuwa-mending"
+        },
+        {
+          "name": "Duyi Zhi (Tang, c. 800 CE) — the sibling spouses",
+          "text_tradition": "Duyi Zhi by Li Rong, Tang dynasty",
+          "summary": "Nüwa and her brother Fuxi, the only survivors, marry to repopulate the world after divining by two smoke-columns that entwine — the incest taboo negotiated, the marriage of the first pair.",
+          "cross_ref": "chinese-nuwa-fuxi-marriage"
+        },
+        {
+          "name": "Fengsu Tongyi on marriage founding",
+          "text_tradition": "Fengsu Tongyi, yiswen chapter",
+          "summary": "A second Fengsu Tongyi fragment credits Nüwa with instituting the marriage ritual itself — 'praying in the shrine of the gods, she became the first matchmaker' — joining the molder of bodies to the order of households.",
+          "cross_ref": "none"
+        }
+      ],
+      "primary_sources": [
+        {
+          "work": "Fengsu Tongyi (Comprehensive Meaning of Customs)",
+          "citation": "Ying Shao, c. 195 CE, customary-lore section on Nüwa; Classical Chinese text via Wikisource; consulted in English summary via Anne Birrell, Chinese Mythology: An Introduction (Baltimore 1993), pp. 39-41 (copyright; not quoted verbatim).",
+          "language": "Classical Chinese"
+        },
+        {
+          "work": "Huainanzi, Lanming Xun",
+          "citation": "c. 139 BCE, Liu An and court; sky-mending parallel layer.",
+          "language": "Classical Chinese"
+        }
+      ],
+      "secondary_sources": [
+        {
+          "work": "Anne Birrell, Chinese Mythology: An Introduction",
+          "citation": "Birrell 1993, Baltimore: Johns Hopkins University Press — annotated translation and dating of the Nüwa cycles."
+        },
+        {
+          "work": "Derk Bodde, 'Myths of Ancient China'",
+          "citation": "Bodde 1961, in Mythologies of the Ancient World (ed. S. N. Kramer), New York: Doubleday — survey and stratigraphy of the Nüwa material."
+        }
+      ],
+      "source_urls": [
+        {
+          "url": "https://zh.wikisource.org/wiki/%E9%A2%A8%E4%BF%97%E9%80%9A%E7%BE%A9",
+          "description": "Wikisource (zh) — Fengsu Tongyi, public-domain Classical Chinese text",
+          "accessed": "2026-11-13"
+        }
+      ],
+      "sensitivity_flag": "none",
+      "provenance": {
+        "record_status": "complete",
+        "compiled": "2026-11-13",
+        "compiled_by": "DHG508 fieldwork compilation",
+        "review_status": "draft - pending human review"
+      }
+    },
+    {
+      "id": "chinese-nuwa-fuxi-marriage",
+      "title": {
+        "en": "Nüwa and Fuxi: The Marriage of the Last Two",
+        "zh": "女媧伏羲兄妹為婚"
+      },
+      "tradition": "chinese",
+      "category": "myth",
+      "region": {
+        "en": "Kunlun, the mountain of the divined marriage (symbolic pin: Kunlun range)",
+        "zh": "崑崙山（象徵性定位）"
+      },
+      "lat": 36.0,
+      "lon": 84.0,
+      "period": "Duyi Zhi by Li Rong (Tang, c. 800 CE); cult images attested Han onward",
+      "source": {
+        "archive": "Internet Archive (reference; Duyi Zhi text in Tang collecting works)",
+        "work": "Duyi Zhi (Records of the Singularity of Things), Li Rong, the Kunlun sibling-marriage episode",
+        "url": "https://zh.wikisource.org/wiki/%E7%8D%A8%E7%95%B0%E5%BF%97"
+      },
+      "license": "Public domain (Classical Chinese text; passages are compiler's renderings)",
+      "summary": {
+        "en": "When the flood of the world's ruin left only Nüwa and her brother Fuxi alive on Kunlun, they agreed to marry and beget mankind — but first asked heaven for a sign: two heaps of smoke that rose and twined together. Ashamed, she asked him to chase her; he caught her at a mulberry tree — the tree of unions — and from their marriage came the first people.",
+        "zh": "宇初人民絕，唯女媧與其兄伏羲居崑崙而議為夫婦；羞恥相逐，兄追妹，妹以竹枝或扇自障，至桑下而合——煙柱相繞之占為天許，子孫遂眾。"
+      },
+      "motifs": [
+        "divine-marriage",
+        "sibling-creators",
+        "oracle-divination"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Passages are the compiler's condensed paraphrases of the Duyi Zhi episode. The sibling-marriage motif appears across Han-tomb iconography (Nüwa and Fuxi with entwined serpent bodies) — recorded here as a mythic charter of the first marriage, not as endorsement of any practice."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "In the age when the people of the world had been swept away, Nüwa and her elder brother Fuxi alone survived, dwelling on Kunlun, the western mountain of the gods. With none left to marry, they spoke of becoming husband and wife to beget mankind — yet both were ashamed, for they were brother and sister.",
+          "note": "Paraphrase of Duyi Zhi, the Kunlun sibling-marriage episode (compiler's rendering); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "So they built two fires, and the smoke rose from each in a great column; the columns reached heaven and twined themselves about one another. 'Heaven consents,' they said. Still she fled him, and he chased her; nowhere could he catch her but under the great mulberry, whose shade hid them both — and from that marriage the people of the world were born again.",
+          "note": "Paraphrase of Duyi Zhi, smoke-divination and mulberry passages; not verbatim."
+        }
+      ],
+      "persons": [
+        "nuwa"
+      ]
+    },
+    {
+      "id": "chinese-gonggong-buzhou",
+      "title": {
+        "en": "Gonggong Strikes Mount Buzhou, and the Sky Leans",
+        "zh": "共工觸不周山"
+      },
+      "tradition": "chinese",
+      "category": "myth",
+      "region": {
+        "en": "Mount Buzhou, the imperfect northwest pillar (symbolic pin: northwest China)",
+        "zh": "西北不周山（象徵性定位）"
+      },
+      "lat": 38.0,
+      "lon": 85.0,
+      "period": "Huainanzi, Tianwen Xun, c. 139 BCE",
+      "source": {
+        "archive": "Wikisource (zh)",
+        "work": "Huainanzi (Masters of Huainan), Tianwen Xun (Patterns of Heaven): Gonggong and Mount Buzhou",
+        "url": "https://zh.wikisource.org/wiki/%E6%B7%AE%E5%8D%97%E5%AD%90"
+      },
+      "license": "Public domain (Classical Chinese text; passages are compiler's renderings)",
+      "summary": {
+        "en": "Gonggong the water-power warred with Zhuanxu for the godhead; in rage and shame at defeat he struck his head on Mount Buzhou, the pillar of the northwest — and the pillar broke. Heaven's cables tore, so the sky tilts toward the northwest and the sun, moon and stars slide that way; the earth sinks in the southeast, so the rivers of China flow east.",
+        "zh": "昔者共工與顓頊爭為帝，怒而觸不周之山，天柱折，地維絕——天傾西北，日月星辰移焉；地不滿東南，水潦塵埃歸焉。"
+      },
+      "motifs": [
+        "creation-chaos",
+        "taboo-transgression",
+        "sacred-place"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Passages are the compiler's condensed paraphrases of the Huainanzi original. This is the aition of geography — sky's tilt and rivers' easterly flow — in one act of divine fury; a precursor to Nüwa's sky-mending (existing record 'nuwa-mending')."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Long ago Gonggong, the god of waters, contended with Zhuanxu for the lordship of the gods, and was beaten. In rage and shame he hurled himself against Mount Buzhou, the pillar that held up the sky in the northwest, and struck it with his head.",
+          "note": "Paraphrase of Huainanzi, Tianwen Xun, Gonggong passage (compiler's rendering); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "The pillar of heaven snapped and the cords of earth tore loose. So the sky leans to the northwest, and that is why the sun, the moon and the stars all slide in that direction; and the earth lies lower in the southeast — which is why the waters and the silt of China flow eastward to the sea.",
+          "note": "Paraphrase of Huainanzi, Tianwen Xun, aftermath passage; not verbatim."
+        }
+      ],
+      "persons": []
+    },
+    {
+      "id": "chinese-suiren-fire-drill",
+      "title": {
+        "en": "Suiren-Shi, the Man Who Drilled Fire from Wood",
+        "zh": "燧人氏鑽木取火"
+      },
+      "tradition": "chinese",
+      "category": "myth",
+      "region": {
+        "en": "The country of Suiming, where fire was found in the sun-tree (symbolic pin: northern China)",
+        "zh": "燧明國（象徵性定位）"
+      },
+      "lat": 35.0,
+      "lon": 110.0,
+      "period": "Han Feizi, Wu Du chapter (c. 3rd c. BCE); expanded telling in Shiyi Ji (Wang Jia, 4th c. CE)",
+      "source": {
+        "archive": "Wikisource (zh)",
+        "work": "Han Feizi, Wu Du (Five Vermin): Suiren-Shi drills wood for fire; expanded in Shiyi Ji, juan 1: the fire-bird and the sun-tree of Suiming",
+        "url": "https://zh.wikisource.org/wiki/%E9%9F%93%E9%9D%9E%E5%AD%90"
+      },
+      "license": "Public domain (Classical Chinese text; passages are compiler's renderings)",
+      "summary": {
+        "en": "Before Suiren, people ate raw plants and shellfish and sickened their bellies; Suiren-Shi drilled dry wood and made fire, to cook what the world gave — and the people welcomed him as king. The later telling adds the pilgrim who reaches Suiming's country, sees a great fire-tree, and watches the birds peck it: sparks leap out, and he learns the drill.",
+        "zh": "上古之世，民食果蓏蚌蛤，腥臊惡臭而傷害腹胃，民多疾病；有聖人作，鑽燧取火以化腥臊，而民說之，使王天下，號之曰燧人氏。拾遺記：燧明國有大樹，鳥啄其枝，燦然火出，聖人因取其枝以鑽火。"
+      },
+      "motifs": [
+        "fire-theft",
+        "culture-hero"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Passages are the compiler's condensed paraphrases of the Han Feizi and Shiyi Ji originals. Fire origin here is invention, not theft — a key contrast with the Greek Prometheus for the fire-theft cluster."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "In the uppermost age the people ate grasses, fruits, shellfish and raw flesh, and the rankness and stink of it wounded their stomachs, so that many were sick. Then a sage arose who drilled dry wood with a fire-stick and took out flame, and showed men to cook what they gathered — and the people were glad, and set him over the world; he was called Suiren-Shi, the Fire-Drill Master.",
+          "note": "Paraphrase of Han Feizi, Wu Du chapter (compiler's rendering); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "In the later telling, a wanderer travels to the country of Suiming, where the sun never sets and there grows a vast fire-tree; the birds of that land peck at its branches, and sparks flash out. The man takes a branch, drills it, and fire comes — and so, watching the birds, the human race learns the drill from the tree and the pecking beak.",
+          "note": "Paraphrase of Shiyi Ji, juan 1, Suiming fire-tree episode; not verbatim."
+        }
+      ],
+      "persons": []
+    },
+    {
+      "id": "chinese-cangjie-writes",
+      "title": {
+        "en": "Cangjie Invents Writing, and Heaven Rains Grain",
+        "zh": "倉頡作書而天雨粟"
+      },
+      "tradition": "chinese",
+      "category": "myth",
+      "region": {
+        "en": "The court of the Yellow Emperor (symbolic pin: Central Plains)",
+        "zh": "黃帝之廷（象徵性定位：中原）"
+      },
+      "lat": 34.7,
+      "lon": 113.5,
+      "period": "Huainanzi, Benjing Xun (c. 139 BCE); Shuowen Jiezi preface (Xu Shen, c. 100 CE)",
+      "source": {
+        "archive": "Wikisource (zh)",
+        "work": "Huainanzi, Benjing Xun: Cangjie makes writing and heaven rains millet, ghosts weep at night; Shuowen Jiezi, Xu Shen's preface: the rope-knots before writing",
+        "url": "https://zh.wikisource.org/wiki/%E6%B7%AE%E5%8D%97%E5%AD%90"
+      },
+      "license": "Public domain (Classical Chinese text; passages are compiler's renderings)",
+      "summary": {
+        "en": "Cangjie, the recorder with four eyes who saw the tracks of birds and beasts, invented writing — and the cosmos shuddered: heaven rained down millet, and in the night the ghosts wept aloud, for with writing, cunning and record-keeping entered the world and its innocence ended.",
+        "zh": "倉頡作書，天雨粟，鬼夜哭；倉頡四目，觀鳥獸之跡而畫卦象形——文字既作，詐偽萌生，神明之世終。"
+      },
+      "motifs": [
+        "culture-hero",
+        "boon-curse"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Passages are the compiler's condensed paraphrases of the Huainanzi and Shuowen preface. The boon-curse tag marks the dual reading: writing as civilizing gift and as the beginning of deceit."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Before Cangjie, men governed by tying knots in cords and carved the memory of things in wood. Cangjie, the recorder of the Yellow Emperor, was born with four eyes and a gaze like a shining pair of stars; watching the tracks of birds and the prints of beasts on the earth, he saw that each creature's step could be told apart — and he drew the first signs, matching marks to things.",
+          "note": "Paraphrase of Shuowen Jiezi preface and traditional lore (compiler's rendering); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "The day Cangjie completed his characters, heaven rained down millet in wonder, and the ghosts wept through the night — for with writing, the cunning arts were born: contracts, quibbles, and the record of debts. Grain fell to feed the hungry who would now write; spirits wept because the age of trust was ending.",
+          "note": "Paraphrase of Huainanzi, Benjing Xun, Cangjie passage; not verbatim."
+        }
+      ],
+      "persons": [
+        "huangdi"
+      ]
+    },
+    {
+      "id": "chinese-shanhaijing-gun-xirang",
+      "title": {
+        "en": "Gun Steals the Self-Spreading Soil and Dies for the Flood",
+        "zh": "鯀竊息壤"
+      },
+      "tradition": "chinese",
+      "category": "myth",
+      "region": {
+        "en": "Yushan (Feather Mountain), where Gun was executed (traditional identification: near Lianyungang, Jiangsu)",
+        "zh": "羽山（今江蘇連雲港一帶）"
+      },
+      "lat": 34.59,
+      "lon": 119.16,
+      "period": "Shanhaijing, Hai Nei Jing, compiled c. 4th-2nd c. BCE; variants in Chu Ci Tianwen (3rd c. BCE)",
+      "source": {
+        "archive": "Wikisource (zh)",
+        "work": "Shanhaijing (Classic of Mountains and Seas), Hai Nei Jing: Gun steals the xirang, is slain by Zhurong at Yushan, and gives birth to Yu; variants in Chu Ci, Tianwen",
+        "url": "https://zh.wikisource.org/wiki/%E5%B1%B1%E6%B5%B7%E7%B6%93"
+      },
+      "license": "Public domain (Classical Chinese text; passages are compiler's renderings)",
+      "summary": {
+        "en": "When the floods raged without end, Gun stole from the Heavenly Emperor the xirang, the self-growing soil that rises wherever it is heaped, and tried to dam the waters without awaiting the decree — and the Emperor sent the fire-god Zhurong to kill him in the outskirts of Yushan. For three years Gun's body did not rot; when it was cut open, Yu was born from it, and Gun became a yellow dragon and sank into the Yu abyss.",
+        "zh": "洪水滔天，鯀竊帝之息壤以堙洪水，不待帝命；帝令祝融殺鯀於羽郊。鯀復生禹，帝乃命禹卒布土以定九州——鯀三年不腐，剖之以吳刀，化為黃龍（一作黃熊）入羽淵。"
+      },
+      "motifs": [
+        "flood",
+        "transformation",
+        "miraculous-birth",
+        "taboo-transgression"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Passages are the compiler's condensed paraphrases of the Shanhaijing original; the Chu Ci Tianwen parallel (Gun transformed) is paraphrased from the Classical Chinese. Cross-tradition flood-cluster record; the Tianwen's 'yellow bear' against the Guo Pu commentary's 'yellow dragon' variant is noted."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The floods rose and raged, and there was nothing that could check them. Gun, the father of Yu, went up to heaven and stole the Emperor's xirang — the soil of unending growth, which swells higher wherever it is heaped — and without waiting for the Emperor's command he built dikes with it against the waters.",
+          "note": "Paraphrase of Shanhaijing, Hai Nei Jing, Gun passage (compiler's rendering); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "The Emperor was angered that the soil had been taken without his decree, and he sent the fire-god Zhurong to execute Gun in the outskirts of Feather Mountain. Gun's body lay there three years without rotting; when it was cut open with the knife of Wu, Yu sprang out of it — the son born from the father's death.",
+          "note": "Paraphrase of Shanhaijing, Hai Nei Jing, execution and birth of Yu; not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "Gun himself did not vanish: he transformed into a yellow dragon — some tellers say a yellow bear — and sank into the abyss of Yu. And the Emperor, needing the work done, commanded Yu to take up the xirang lawfully and spread the soil to fix the Nine Provinces; the flood-tamer finished what the flood-thief had begun.",
+          "note": "Paraphrase of Shanhaijing, Hai Nei Jing, with the transformation and the Emperor's mandate to Yu; not verbatim."
+        }
+      ],
+      "persons": [
+        "gun",
+        "yu"
+      ],
+      "language": "Classical Chinese",
+      "canonical_translation": "Compiler's English rendering from the public-domain original; consulted (copyright, summary only): Anne Birrell, Chinese Mythology: An Introduction, Johns Hopkins 1993",
+      "narrative": {
+        "en": "The Chinese flood myth is not a single deluge-tale but a three-generation drama: flood, failed dammer, and successful channeler. The Shanhaijing's Hai Nei Jing chapter gives the sharpest version of its first act.\n\nBEGINNING: THE WATER THAT HAD NO MEASURE. In the age before the Nine Provinces were settled, the waters rose and raged, flooding the world. Gun, a god of the divine lineage, could not bear it. He went up to heaven, and there he stole the xirang — the self-spreading soil, a magic earth that grows of itself wherever it is thrown, the ideal dam-filler. It is heaven's own property: the tool by which the sky-father would fix the world's waters when he chose.\n\nMIDDLE: THE DAM WITHOUT A DECREE. Gun threw up dikes of xirang against the flood — but without the Emperor's command. In the Chinese mythic logic, the fatal flaw is procedural as much as hydraulic: he used heaven's means without heaven's mandate. The Emperor sent the fire-god Zhurong, lord of fire against the lord of water, to kill Gun in the outskirts of Feather Mountain. Gun's crime and his motive are both honored in later Chinese readings: he was an executor executed, the one who broke rank to try to save the drowning world.\n\nEND: THE BODY THAT GAVE BIRTH. For three years Gun's corpse would not decay. The officials sent to investigate cut it open with the knife of Wu — and Yu leapt out, born from his father's body. Gun himself transformed into a yellow dragon (in the Chu Ci Tianwen's question-form, a yellow bear) and sank into the deep pool of Yuyuan. The Emperor then gave Yu the mandate, and Yu — lawfully this time — spread the soil, dredged the channels, and fixed the Nine Provinces. The damming that failed as rebellion succeeded as obedience.\n\nCULTURAL FUNCTION. This is China's flood-cluster narrative, and its shape differs from the Near Eastern pattern: there is no world-destruction by a vengeful god, but a cosmic infrastructure project in which the rebel dammer is executed and his son finishes the job with heaven's blessing. Gun became, in later ritual memory, a wronged benefactor — he is given a place among the honored dead in the Han dynasty state sacrifices, and the poet who questions heaven (Qu Yuan's Tianwen) asks pointedly why the one who tried to dam the flood was killed for it. The myth also founds Yu's legitimacy: the savior-child emerges from the executed rebel's undecayed body, proof that Gun's purpose was right even when his method was not.",
+        "zh": "洪水滔天，鯀竊息壤以堙洪水，不待帝命，帝令祝融殺鯀於羽郊；三年不腐，剖之以吳刀，禹出生於父腹；鯀化黃龍（天問作黃熊）入羽淵，帝乃命禹卒布土以定九州。中國洪水神話為三代之劇：洪水、盜壤築堤而被誅之父、受命成功之子；無神罰滅世之型，而為天道秩序下之水利工程——越命而救世者死，承命者成。鯀後世入祀典，屈原《天問》直問其冤。功能：解釋九州地理、王朝合法性自禹始、及『旨正而行違』之悲劇倫理。"
+      },
+      "functions": [
+        "Aition of the Nine Provinces' geography as the flood-tamer's legacy",
+        "Charter of Yu's legitimacy: the savior born from the executed rebel",
+        "Tragic ethics of good intent against procedural order (theft of means without mandate)",
+        "Ritual memory of Gun as wronged benefactor in Han state sacrifice"
+      ],
+      "variants": [
+        {
+          "name": "Chu Ci, Tianwen (3rd c. BCE) — the yellow bear",
+          "text_tradition": "Qu Yuan's question-catalog, Tianwen section",
+          "summary": "The Tianwen asks how Gun, changed into a yellow bear, could live on in the Yu abyss — the transformation into a bear rather than a dragon, and the poet's pointed sympathy for the executed dammer.",
+          "cross_ref": "chinese-chuci-tianwen"
+        },
+        {
+          "name": "Shiji, Xia Benji (c. 94 BCE)",
+          "text_tradition": "Sima Qian's chronological history",
+          "summary": "The historiographic version strips the theft: Gun fails for nine years, is executed at Yushan as a public failure, and the empire's council names his son Yu to continue — history absorbing the myth.",
+          "cross_ref": "chinese-shiji-yao-shun"
+        },
+        {
+          "name": "Guo Pu's commentary — the yellow dragon",
+          "text_tradition": "Guo Pu (Jin, 3rd-4th c. CE) commentary on the Shanhaijing",
+          "summary": "Guo Pu reads Gun's transformation as a yellow dragon entering the Yuyuan pool, and links the tale to the revived 'xirang' rite of Yu's earth-spreading.",
+          "cross_ref": "none"
+        }
+      ],
+      "primary_sources": [
+        {
+          "work": "Shanhaijing, Hai Nei Jing",
+          "citation": "Compiled c. 4th-2nd c. BCE; Guo Pu recension; Gun passage (Gun steals xirang / execution at Yushan / birth of Yu). Classical Chinese via Wikisource.",
+          "language": "Classical Chinese"
+        },
+        {
+          "work": "Chu Ci, Tianwen",
+          "citation": "Qu Yuan, 3rd c. BCE; Gun questions ('turns into a yellow bear, how can it live?').",
+          "language": "Classical Chinese"
+        }
+      ],
+      "secondary_sources": [
+        {
+          "work": "Anne Birrell, Chinese Mythology: An Introduction",
+          "citation": "Birrell 1993, Baltimore: Johns Hopkins University Press — annotated translation of the Gun-Yu cycle."
+        },
+        {
+          "work": "Sarah Allan, The Shape of the Turtle: Myth, Art, and Cosmos in Classical China",
+          "citation": "Allan 1991, Albany: SUNY Press — structure of the flood and cosmogonic myths."
+        }
+      ],
+      "source_urls": [
+        {
+          "url": "https://zh.wikisource.org/wiki/%E5%B1%B1%E6%B5%B7%E7%B6%93",
+          "description": "Wikisource (zh) — Shanhaijing, public-domain Classical Chinese text",
+          "accessed": "2026-11-13"
+        }
+      ],
+      "sensitivity_flag": "none",
+      "provenance": {
+        "record_status": "complete",
+        "compiled": "2026-11-13",
+        "compiled_by": "DHG508 fieldwork compilation",
+        "review_status": "draft - pending human review"
+      }
+    },
+    {
+      "id": "chinese-shijing-houji-birth",
+      "title": {
+        "en": "Houji, the Abandoned Child Who Invented Farming",
+        "zh": "后稷誕生與稼穡"
+      },
+      "tradition": "chinese",
+      "category": "myth",
+      "region": {
+        "en": "Tai's footprints in the great marsh, Zhou homeland (symbolic pin: Wei River valley, Shaanxi)",
+        "zh": "周原邰地（象徵性定位：渭水流域）"
+      },
+      "lat": 34.4,
+      "lon": 108.0,
+      "period": "Shi Jing (Book of Songs), Da Ya: Sheng Min, c. 8th-6th c. BCE compilation; Shiji, Zhou Ben Ji, c. 94 BCE",
+      "source": {
+        "archive": "Wikisource (zh)",
+        "work": "Shi Jing, Da Ya: Sheng Min (Birth of the People), the Houji birth poem; Shiji, Zhou Ben Ji: Jiang Yuan and the giant footprint",
+        "url": "https://zh.wikisource.org/wiki/%E8%A9%A9%E7%B6%93"
+      },
+      "license": "Public domain (Classical Chinese text; passages are compiler's renderings)",
+      "summary": {
+        "en": "Jiang Yuan steps into the footprint of God in the great marsh and becomes pregnant; her child, born clear as an egg and thrice abandoned (in a lane, in the woods, on the ice — saved each time), is named Qi, 'the Abandoned.' The boy plants beans and grain, teaches the six crops, founds the sacrifice to heaven — and the Zhou kings call him their ancestor, Houji, Lord Millet.",
+        "zh": "姜嫄履帝武敏歆而生后稷；誕彌厥月，先生如達；三棄而三活——棄之隘巷、平林、寒冰，鳥覆翼之；名之曰棄。幼即如藝蓽菽，教民稼穡，樹藝五穀——周人祖之，是為后稷。"
+      },
+      "motifs": [
+        "miraculous-birth",
+        "culture-hero",
+        "sacred-kingship"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Passages are the compiler's condensed paraphrases of the Sheng Min hymn and Shiji narrative. The virgin-conception motif (footprint, no father named in the Shijing version) is a ritual-purity genealogy device, noted for the cross-tradition birth cluster."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "She who first bore the people of Zhou was Jiang Yuan. She went to sacrifice and pray that she might be spared childlessness, then trod in the great toe-print of God in the high ground of the marsh — and her heart stirred, and she conceived. When her months were full she bore a son clear and smooth as an egg of the lamb, and the household was alarmed, for a son of such birth must be ill-omened.",
+          "note": "Paraphrase of Shi Jing, Da Ya: Sheng Min, opening stanzas (compiler's rendering); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "They laid him in a narrow lane, but oxen and horses stepped around him; they set him in the woods, but woodcutters were there; they threw him onto the ice of the cold marsh, and birds came and sheltered him with their wings. When the birds flew off he cried out, loud and long — so at last his mother took him back and named him Qi, the Abandoned One.",
+          "note": "Paraphrase of Shi Jing, Sheng Min, the three abandonments; not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "When Qi was a boy he grew up knowing how to plant beans, beans that flourished; then grain and hemp, gourds and melons. He taught the people the six kinds of crop and the rite of sacrifice to the Lord on High, and the Zhou dynasty counted him as its founder — the Lord of Millet, Houji.",
+          "note": "Paraphrase of Shi Jing, Sheng Min, agricultural stanzas; Shiji, Zhou Ben Ji parallel; not verbatim."
+        }
+      ],
+      "persons": [
+        "houji"
+      ]
+    },
+    {
+      "id": "chinese-shijing-jian-di-blackbird",
+      "title": {
+        "en": "Jian Di Swallows the Black Bird's Egg: The Birth of the Shang",
+        "zh": "簡狄吞玄鳥卵"
+      },
+      "tradition": "chinese",
+      "category": "myth",
+      "region": {
+        "en": "The bank of the Xuan Marsh, where Jian Di bathed (symbolic pin: northern Henan–southern Hebei)",
+        "zh": "玄丘之濱（象徵性定位：豫北冀南）"
+      },
+      "lat": 35.5,
+      "lon": 114.5,
+      "period": "Shi Jing, Shang Song: Xuan Niao (c. 8th-6th c. BCE compilation); Shiji, Yin Ben Ji, c. 94 BCE",
+      "source": {
+        "archive": "Wikisource (zh)",
+        "work": "Shi Jing, Shang Song: Xuan Niao (The Dark Bird), the Shang origin hymn; Shiji, Yin Ben Ji: Jian Di and the egg",
+        "url": "https://zh.wikisource.org/wiki/%E8%A9%A9%E7%B6%93"
+      },
+      "license": "Public domain (Classical Chinese text; passages are compiler's renderings)",
+      "summary": {
+        "en": "Heaven commanded the dark bird to descend and bear the Shang: Jian Di, consort of Di Ku, bathing with her sisters, saw a dark bird drop its egg, took it and swallowed it — and bore Xie, ancestor of the Shang kings, whose descendant Tang received the mandate and ruled the four quarters.",
+        "zh": "天命玄鳥，降而生商；簡狄為帝嚳次妃，行浴見玄鳥墮其卵，取吞之，孕而生契——商之王族由此而出，湯受命伐夏。"
+      },
+      "motifs": [
+        "miraculous-birth",
+        "sacred-kingship",
+        "culture-hero"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Passages are the compiler's condensed paraphrases of the Xuan Niao hymn and Shiji narrative. Bird-conception genealogies (black bird of Shang, Jumong's egg in Korea) form a northeast-Asian pattern — noted for comparative linking."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Heaven sent down the dark bird to bear the house of Shang. Jian Di, the second consort of Di Ku, went with her two companions to bathe, and a dark bird flew over them and let fall its egg; Jian Di picked it up and swallowed it, and in that moment she conceived.",
+          "note": "Paraphrase of Shi Jing, Shang Song: Xuan Niao, with Shiji, Yin Ben Ji narrative (compiler's rendering); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "The child was Xie, the ancestor of the Shang. His descendants grew great, and in the time of Tang the house of Shang received the mandate and overthrew the Xia — for the song says the dark bird's gift was not one son but a dynasty, founded in a swallowed egg on the riverbank.",
+          "note": "Paraphrase of Shi Jing, Xuan Niao, dynastic stanzas; not verbatim."
+        }
+      ],
+      "persons": []
+    },
+    {
+      "id": "chinese-huainanzi-shennong-herbs",
+      "title": {
+        "en": "Shennong Tastes the Hundred Herbs",
+        "zh": "神農嘗百草"
+      },
+      "tradition": "chinese",
+      "category": "myth",
+      "region": {
+        "en": "The Hundred Herbs fields of the south (symbolic pin: Hubei–Hunan highlands, Shennongjia)",
+        "zh": "南方百草之野（象徵性定位：神農架一帶）"
+      },
+      "lat": 31.7,
+      "lon": 110.6,
+      "period": "Huainanzi, Xiuxu Xun (c. 139 BCE); broader Shennong cycle in Han sources",
+      "source": {
+        "archive": "Wikisource (zh)",
+        "work": "Huainanzi, Xiuxu Xun: Shennong tastes the hundred herbs and meets seventy poisons in a day",
+        "url": "https://zh.wikisource.org/wiki/%E6%B7%AE%E5%8D%97%E5%AD%90"
+      },
+      "license": "Public domain (Classical Chinese text; passages are compiler's renderings)",
+      "summary": {
+        "en": "When the people of antiquity ate grasses, drank from streams and climbed trees for fruit, they fell sick and had no one to heal them; Shennong, the Divine Farmer, tasted the hundred herbs, met seventy poisons in a single day, and taught the people which plants were food, which medicine, and which death.",
+        "zh": "古者民茹草飲水，採樹木之實，時多疾病毒傷之害；於是神農乃始教民播種五穀，嘗百草之滋味，一日而遇七十毒——辨可食者、可藥者。"
+      },
+      "motifs": [
+        "culture-hero",
+        "quest-immortality"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Passages are the compiler's condensed paraphrases of the Huainanzi original. Tagging caveat: 'quest-immortality' marks Shennong's poison-testing as a search for life-giving herbs; the tradition's pharmaceutical canon (Bencao) claims him as founder."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "In the earliest age the people ate grass and drank from standing water, plucked the fruits of trees and the shellfish of rivers, and suffered always: the sick had no medicine, the poisoned no remedy, the bitten no cure.",
+          "note": "Paraphrase of Huainanzi, Xiuxu Xun, opening (compiler's rendering); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Then Shennong arose. He tasted the hundred herbs with his own mouth, met seventy poisons in one day, and went on tasting; he distinguished what could be eaten, what could heal, and what killed, and he taught the people to sow the five grains and to use the herbs as medicine. The hills and streams keep the marks of his testing — so the pharmacists of China say.",
+          "note": "Paraphrase of Huainanzi, Xiuxu Xun, with later Shennong lore; not verbatim."
+        }
+      ],
+      "persons": []
+    }
+  ]
+}

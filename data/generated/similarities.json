@@ -1,0 +1,256 @@
+{
+  "_comment": "Passage-level TF-IDF cosine similarities >= 0.35. Regenerate with the embeddings pipeline for semantic quality.",
+  "threshold": 0.35,
+  "pairs": [
+    {
+      "a": "norse-brynhild-sigrdrifa",
+      "b": "norse-sigrdrifa-song",
+      "sim": 0.8678
+    },
+    {
+      "a": "norse-yggdrasil-nine-worlds",
+      "b": "norse-poetic-edda-grimnismal",
+      "sim": 0.8357
+    },
+    {
+      "a": "exodus-burning-bush",
+      "b": "hebrew-exodus",
+      "sim": 0.8283
+    },
+    {
+      "a": "norse-aesir-vanir-war",
+      "b": "norse-gullveig-seidr",
+      "sim": 0.8123
+    },
+    {
+      "a": "norse-freyr-beli-cult",
+      "b": "norse-uppsala-temple",
+      "sim": 0.7915
+    },
+    {
+      "a": "norse-bifrost-gjallarhorn",
+      "b": "norse-heimdall-profile",
+      "sim": 0.7772
+    },
+    {
+      "a": "norse-hel-realm",
+      "b": "norse-hel-death-goddess",
+      "sim": 0.737
+    },
+    {
+      "a": "norse-ragnarok-renewal",
+      "b": "norse-gimle-hall",
+      "sim": 0.7207
+    },
+    {
+      "a": "odin-wisdom",
+      "b": "norse-havamal-runes",
+      "sim": 0.7193
+    },
+    {
+      "a": "norse-nastrond-serpent",
+      "b": "norse-voluspa-sibyl",
+      "sim": 0.7029
+    },
+    {
+      "a": "dangun",
+      "b": "korean-dangun-wanggeom",
+      "sim": 0.6792
+    },
+    {
+      "a": "norse-bergelmir-flood",
+      "b": "norse-poetic-edda-vafthrudnismal",
+      "sim": 0.6548
+    },
+    {
+      "a": "pangu-creation",
+      "b": "chinese-pangu-cosmogony",
+      "sim": 0.6357
+    },
+    {
+      "a": "norse-gylfaginning-frame",
+      "b": "norse-prose-edda-gylfaginning-full",
+      "sim": 0.6154
+    },
+    {
+      "a": "greek-apollodorus-cadmean-vixen",
+      "b": "greek-apollodorus-comaetho",
+      "sim": 0.572
+    },
+    {
+      "a": "norse-ragnarok",
+      "b": "norse-ragnarok-renewal",
+      "sim": 0.5487
+    },
+    {
+      "a": "norse-freyr-gerd-skirnir",
+      "b": "norse-freyr-beli-cult",
+      "sim": 0.5159
+    },
+    {
+      "a": "norse-andvari-ring-curse",
+      "b": "norse-reginsmal",
+      "sim": 0.5123
+    },
+    {
+      "a": "lac-long-quan-au-co",
+      "b": "vietnamese-hong-bang-descent",
+      "sim": 0.5056
+    },
+    {
+      "a": "sigurd-dragon",
+      "b": "norse-sigurd-birds-tongue",
+      "sim": 0.4864
+    },
+    {
+      "a": "norse-gripir-prophecy",
+      "b": "norse-volsunga-saga-full",
+      "sim": 0.4765
+    },
+    {
+      "a": "norse-hymir-kettle",
+      "b": "norse-thor-fishing-serpent",
+      "sim": 0.4759
+    },
+    {
+      "a": "greek-epitome-wooden-horse",
+      "b": "greek-epitome-hecuba",
+      "sim": 0.471
+    },
+    {
+      "a": "norse-mundilfari-sun-moon",
+      "b": "norse-svalinn-shield",
+      "sim": 0.4669
+    },
+    {
+      "a": "qat-creation",
+      "b": "melanesian-qat-banks-islands",
+      "sim": 0.4615
+    },
+    {
+      "a": "greek-apollodorus-jason-fleece",
+      "b": "greek-apollodorus-argonautic-adventures",
+      "sim": 0.4604
+    },
+    {
+      "a": "ramakien-phra-ram",
+      "b": "thai-ramakien-bangkok",
+      "sim": 0.4476
+    },
+    {
+      "a": "celtic-second-battle-moytura",
+      "b": "celtic-morrigan-dagda-unius",
+      "sim": 0.404
+    },
+    {
+      "a": "obatala-creation",
+      "b": "yoruba-ife-creation",
+      "sim": 0.4005
+    },
+    {
+      "a": "norse-oath-ring-ullr",
+      "b": "norse-tyr-wound-and-oath",
+      "sim": 0.3974
+    },
+    {
+      "a": "norse-aesir-vanir-war",
+      "b": "norse-mimir-well-eye",
+      "sim": 0.3964
+    },
+    {
+      "a": "gilgamesh-flood",
+      "b": "babylonian-gilgamesh-epic",
+      "sim": 0.3902
+    },
+    {
+      "a": "sigurd-dragon",
+      "b": "norse-andvari-ring-curse",
+      "sim": 0.386
+    },
+    {
+      "a": "izanagi-izanami",
+      "b": "japanese-izanagi-izanami-yomi",
+      "sim": 0.3834
+    },
+    {
+      "a": "genesis-flood",
+      "b": "hebrew-noah-flood",
+      "sim": 0.3827
+    },
+    {
+      "a": "kumarbi-succession",
+      "b": "hittite-ullikummi-song",
+      "sim": 0.381
+    },
+    {
+      "a": "norse-hel-death-goddess",
+      "b": "norse-loki-genealogy",
+      "sim": 0.3761
+    },
+    {
+      "a": "pentecost-acts",
+      "b": "greek-wd-five-ages",
+      "sim": 0.3751
+    },
+    {
+      "a": "norse-ragnarok",
+      "b": "norse-fimbulwinter-wolves",
+      "sim": 0.3733
+    },
+    {
+      "a": "norse-golden-age-gods",
+      "b": "norse-voluspa-sibyl",
+      "sim": 0.3729
+    },
+    {
+      "a": "mandhatar-crown-born",
+      "b": "norse-skjold-dynasty",
+      "sim": 0.3704
+    },
+    {
+      "a": "greek-theogony-zeus-marriages",
+      "b": "greek-theogony-metis-swallowed",
+      "sim": 0.3683
+    },
+    {
+      "a": "sigurd-dragon",
+      "b": "norse-reginsmal",
+      "sim": 0.3679
+    },
+    {
+      "a": "bilingual-creation",
+      "b": "viracocha-tiahuanacu",
+      "sim": 0.367
+    },
+    {
+      "a": "norse-creation-ymir",
+      "b": "norse-ginnungagap-void",
+      "sim": 0.3622
+    },
+    {
+      "a": "loki-sif-hair",
+      "b": "norse-mjolnir-forging",
+      "sim": 0.3606
+    },
+    {
+      "a": "greek-iliad-death-hector",
+      "b": "greek-iliad-patroclus-death",
+      "sim": 0.3602
+    },
+    {
+      "a": "norse-valhalla-einherjar",
+      "b": "norse-poetic-edda-grimnismal",
+      "sim": 0.3576
+    },
+    {
+      "a": "norse-hrolf-kraki-cycle",
+      "b": "norse-hrolf-kraki-saga",
+      "sim": 0.3554
+    },
+    {
+      "a": "baal-and-mot",
+      "b": "ugaritic-baal-cycle-ktu",
+      "sim": 0.3504
+    }
+  ]
+}

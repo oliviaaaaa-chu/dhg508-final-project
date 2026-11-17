@@ -1,0 +1,593 @@
+{
+  "texts": [
+    {
+      "id": "chinese-shanhaijing-jingwei",
+      "title": {
+        "en": "Jingwei, the Bird That Carries Stones to Fill the Sea",
+        "zh": "精衛填海"
+      },
+      "tradition": "chinese",
+      "category": "myth",
+      "region": {
+        "en": "The East Sea of the myth, off China's east coast (symbolic pin: Fa Mountain lies in the Taihang range; the bird commutes between the western mountains and the sea)",
+        "zh": "神話東海（象徵性定位：發鳩山在太行，鳥往返西山與東海之間）"
+      },
+      "lat": 35.0,
+      "lon": 121.5,
+      "period": "Shanhaijing, Bei Shan Jing chapter, compiled c. 4th-2nd c. BCE",
+      "source": {
+        "archive": "Wikisource (zh)",
+        "work": "Shanhaijing (Classic of Mountains and Seas), Bei Shan Jing: the Fa Mountain and the Jingwei bird (Guo Pu recension)",
+        "url": "https://zh.wikisource.org/wiki/%E5%B1%B1%E6%B5%B7%E7%B6%93"
+      },
+      "license": "Public domain (Classical Chinese text; passages are compiler's renderings)",
+      "summary": {
+        "en": "Nüwa, youngest daughter of the Flame Emperor, drowned while playing in the East Sea; her spirit became the bird Jingwei, who carries twigs and pebbles from the western mountains to fill the sea that took her — an endless, unavailing war between the small and the vast.",
+        "zh": "炎帝幼女女娃遊於東海溺死，魂化為精衛鳥，常銜西山木石以填東海——小者與浩瀚之間無盡的 抗爭。"
+      },
+      "motifs": [
+        "transformation",
+        "culture-hero",
+        "animal-transformation",
+        "youngest-son"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Mythic corpus from a Classical Chinese source without a public-domain English translation; passages are the compiler's condensed paraphrases of the original text. Living cultural heritage of China. The Thompson-index motif 'culture-hero' is an interpretive stretch for a drowned girl-bird, noted here as a tagging caveat."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "On Fa Mountain, north of the mountains, grows mulberry of the kind that silkworms eat, and there lives a bird shaped like a crow, with a patterned head, a white beak and red feet. Its name is Jingwei, and its cry calls its own name — for the bird once was a girl, the youngest daughter of the Flame Emperor, called Nüwa.",
+          "note": "Paraphrase of Shanhaijing, Bei Shan Jing, Fa Mountain passage (compiler's rendering from the public-domain Classical Chinese); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "The girl went swimming in the East Sea and drowned, and never came home. So she became the bird Jingwei, and ever after she carried twigs and small stones from the western mountains in her beak and dropped them into the East Sea, to fill up the water that had drowned her. The sea does not notice the stones; the bird does not stop.",
+          "note": "Paraphrase of Shanhaijing, Bei Shan Jing, Fa Mountain passage; not verbatim."
+        }
+      ],
+      "persons": [
+        "jingwei"
+      ]
+    },
+    {
+      "id": "chinese-shanhaijing-zhulong",
+      "title": {
+        "en": "Zhulong, the Torch Dragon Whose Eyes Are Day and Night",
+        "zh": "燭龍視為晝瞑為夜"
+      },
+      "tradition": "chinese",
+      "category": "myth",
+      "region": {
+        "en": "Zhongshan, the far north where sun never reaches (symbolic pin: northern mountains, Inner Mongolia–Ningxia latitude)",
+        "zh": "北方鍾山，日所不及之地（象徵性定位）"
+      },
+      "lat": 38.5,
+      "lon": 102.0,
+      "period": "Shanhaijing, Hai Wai Bei Jing and Da Huang Bei Jing chapters, compiled c. 4th-2nd c. BCE",
+      "source": {
+        "archive": "Wikisource (zh)",
+        "work": "Shanhaijing (Classic of Mountains and Seas), Hai Wai Bei Jing / Da Huang Bei Jing: Zhongshan and the Torch Dragon (Guo Pu recension)",
+        "url": "https://zh.wikisource.org/wiki/%E5%B1%B1%E6%B5%B7%E7%B6%93"
+      },
+      "license": "Public domain (Classical Chinese text; passages are compiler's renderings)",
+      "summary": {
+        "en": "North of the sea, where the sun's light cannot reach, the Torch Dragon holds a torch of light: when he opens his eyes it is day on Zhongshan, when he closes them night; when he breathes out it is summer, when he breathes in winter; he neither eats nor sleeps nor rests, and for him the world runs on breath and eyelid.",
+        "zh": "北方鍾山之神燭龍，身長千里，人面蛇身而赤；視為晝，瞑為夜，吹為冬，呼為夏——不飲不食不息，天地之明暗寒暑繫於其目息。"
+      },
+      "motifs": [
+        "creation-chaos",
+        "sun-capture",
+        "sacred-place",
+        "seasons-origin"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Passages are the compiler's condensed paraphrases of the Shanhaijing original (no public-domain English translation). Tagging caveat: 'sun-capture' is used for a being that replaces the sun in the lightless north, not a sun-theft; the comparative tag is interpretive."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The god of Zhongshan is called Zhulong, the Torch Dragon. He is a thousand li long, with a human face and the body of a serpent, red as cinnabar, and he holds the light of a great torch even in the darkness north of the sea-gate, where the sunlight never arrives.",
+          "note": "Paraphrase of Shanhaijing, Hai Wai Bei Jing, Zhongshan passage (compiler's rendering); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "When the Torch Dragon opens his eyes, it is day; when he closes them, it is night. When he blows, it is winter; when he breathes gently, it is summer. He does not drink, does not eat, does not sleep, and does not rest — and by his eyelids and his breath the weather of that land is made.",
+          "note": "Paraphrase of Shanhaijing, Da Huang Bei Jing, Zhulong passage; not verbatim."
+        }
+      ],
+      "persons": []
+    },
+    {
+      "id": "chinese-shanhaijing-yinglong",
+      "title": {
+        "en": "Yinglong, the Winged Dragon Who Could Not Return to Heaven",
+        "zh": "應龍殺蚩尤復處南方"
+      },
+      "tradition": "chinese",
+      "category": "myth",
+      "region": {
+        "en": "The south of the mythic world, where Yinglong settled after the war (symbolic pin: mid-south China)",
+        "zh": "神話南方，應龍戰後所居（象徵性定位）"
+      },
+      "lat": 25.5,
+      "lon": 110.0,
+      "period": "Shanhaijing, Da Huang Dong Jing / Da Huang Bei Jing, compiled c. 4th-2nd c. BCE",
+      "source": {
+        "archive": "Wikisource (zh)",
+        "work": "Shanhaijing (Classic of Mountains and Seas), Da Huang Jing chapters: Yinglong's war service and the origin of rain-dragons (Guo Pu recension)",
+        "url": "https://zh.wikisource.org/wiki/%E5%B1%B1%E6%B5%B7%E7%B6%93"
+      },
+      "license": "Public domain (Classical Chinese text; passages are compiler's renderings)",
+      "summary": {
+        "en": "Yinglong, the only dragon with wings, hoarded water for the Yellow Emperor and slew both Chiyou and Kua Fu; but he could not climb back to heaven, so he took up residence in the south — and that, says the Shanhaijing, is why the south has so much rain: whenever drought comes, people dress as Yinglong to call him, and he sends rain.",
+        "zh": "應龍為黃帝畜水誅蚩尤、殺夸父，不得復上，故居南方——南方多雨之由；旱而作龍以請之，則應龍降雨。"
+      },
+      "motifs": [
+        "storm-thunder",
+        "sacred-place"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Passages are the compiler's condensed paraphrases of the Shanhaijing original; the Guo Pu commentary on the rain-making rite is paraphrased from the traditional commentary."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Yinglong, the answering dragon, was the only dragon that had wings. In the great war in the field of Jizhou he held back water in store for the Yellow Emperor, and he it was who slew Chiyou, and afterwards Kua Fu the sun-chaser also. But after the killing he was too spent to climb again to heaven.",
+          "note": "Paraphrase of Shanhaijing, Da Huang Dong Jing and Da Huang Bei Jing, Yinglong passages (compiler's rendering); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "So Yinglong went to dwell in the south of the world, and because the rain-maker dragon lives in the south, the south gets much rain. When drought comes, the people make an image of Yinglong and call upon him — and the answering dragon sends the rain down again.",
+          "note": "Paraphrase of Shanhaijing, Da Huang Dong Jing passage with Guo Pu's traditional commentary; not verbatim."
+        }
+      ],
+      "persons": [
+        "yinglong"
+      ]
+    },
+    {
+      "id": "chinese-shanhaijing-huangdi-chiyou",
+      "title": {
+        "en": "The War of the Yellow Emperor and Chiyou at Zhuolu",
+        "zh": "黃帝戰蚩尤於涿鹿"
+      },
+      "tradition": "chinese",
+      "category": "myth",
+      "region": {
+        "en": "Zhuolu, field of Jizhou (modern Hebei) — traditional battlefield site",
+        "zh": "冀州涿鹿之野（今河北）"
+      },
+      "lat": 40.4,
+      "lon": 115.4,
+      "period": "Shanhaijing, Da Huang Bei Jing, compiled c. 4th-2nd c. BCE (parallel in Shiji, Wu Di Ben Ji)",
+      "source": {
+        "archive": "Wikisource (zh)",
+        "work": "Shanhaijing (Classic of Mountains and Seas), Da Huang Bei Jing: Chiyou attacks the Yellow Emperor (Guo Pu recension)",
+        "url": "https://zh.wikisource.org/wiki/%E5%B1%B1%E6%B5%B7%E7%B6%93"
+      },
+      "license": "Public domain (Classical Chinese text; passages are compiler's renderings)",
+      "summary": {
+        "en": "Chiyou takes up arms against the Yellow Emperor, who orders the winged dragon Yinglong to flood the field of Jizhou; Chiyou calls the Wind Lord and Rain Master to unleash storms, and the Emperor brings down the heaven-maiden Ba to stop the rain — and so the rebel god falls, the first great war of the mythic dynasties.",
+        "zh": "蚩尤作兵伐黃帝，黃帝令應龍攻冀州之野，應龍畜水；蚩尤請風伯雨師縱大風雨，黃帝乃下天女魃止雨，遂殺蚩尤——神話王朝第一場大戰。"
+      },
+      "motifs": [
+        "storm-thunder",
+        "sacred-kingship",
+        "rainmaking"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Passages are the compiler's condensed paraphrases of the Shanhaijing original; Shiji (Burton Watson's modern translation is copyright, only consulted as summary) records the same war as history. Chiyou remains a culture-hero and war-god among the Miao/Hmong — the victors' chronicle framing is noted."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Chiyou took up weapons and attacked the Yellow Emperor. The Emperor commanded Yinglong to meet him in the open country of Jizhou; the dragon gathered the waters and held them in store. Chiyou, in answer, called the Lord of the Winds and the Master of Rains to let loose great wind and rain upon the field.",
+          "note": "Paraphrase of Shanhaijing, Da Huang Bei Jing, Chiyou passage (compiler's rendering); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Then the Yellow Emperor sent down from heaven the maiden Ba, the drought-spirit, and the rain stopped. The waters were broken, and in the field of Jizhou Yinglong killed Chiyou. But the drought-maiden could not return to heaven, and the land she stayed on never saw rain — a war won, and a curse set loose on the fields.",
+          "note": "Paraphrase of Shanhaijing, Da Huang Bei Jing; see the separate Nüba record for her aftermath; not verbatim."
+        }
+      ],
+      "persons": [
+        "huangdi",
+        "chiyou",
+        "yinglong"
+      ]
+    },
+    {
+      "id": "chinese-shanhaijing-nvba",
+      "title": {
+        "en": "Nüba, the Drought Maiden the People Drive Out",
+        "zh": "天女魃不得復上"
+      },
+      "tradition": "chinese",
+      "category": "myth",
+      "region": {
+        "en": "Red Water of the north, after the war of Jizhou (symbolic pin: northern plain)",
+        "zh": "北方赤水，戰後所居（象徵性定位）"
+      },
+      "lat": 40.0,
+      "lon": 113.0,
+      "period": "Shanhaijing, Da Huang Bei Jing, compiled c. 4th-2nd c. BCE",
+      "source": {
+        "archive": "Wikisource (zh)",
+        "work": "Shanhaijing (Classic of Mountains and Seas), Da Huang Bei Jing: the drought maiden Ba after the fall of Chiyou (Guo Pu recension)",
+        "url": "https://zh.wikisource.org/wiki/%E5%B1%B1%E6%B5%B7%E7%B6%93"
+      },
+      "license": "Public domain (Classical Chinese text; passages are compiler's renderings)",
+      "summary": {
+        "en": "The heaven-maiden Ba, the drought-bringer, stopped the rain and won the war — but could not go home. She wanders, and wherever she settles no rain falls; the Yellow Emperor's remedy is a ritual of clearing waterways and ditches, and the people drive her south, crying that she must go — the exorcism of the drought demon.",
+        "zh": "天女魃止雨有功而不得復上，所居不雨；叔均言之帝，帝置之赤水之北；民逐之曰『神北行』——先除水道、決通溝瀆以逐旱魃之儀。"
+      },
+      "motifs": [
+        "storm-thunder",
+        "taboo-transgression"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Passages are the compiler's condensed paraphrases of the Shanhaijing original. Tagging caveat: 'taboo-transgression' here marks the boundary-breaking of a heaven-being stranded among humans, not a moral crime."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The maiden Ba, sent down from heaven, had stopped the rain and made the Emperor's victory possible; but the divine fire in her was spent, and she could not climb back to heaven. The Yellow Emperor set her in the north, by the Red Water — yet wherever she dwelt the rain never came, and the lands she passed over parched and cracked.",
+          "note": "Paraphrase of Shanhaijing, Da Huang Bei Jing, Nüba passage (compiler's rendering); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Shu jun, the seed-sower, told the Emperor where she was wandering, and she was moved again and again. At last the people learned the remedy: clear the water-channels first, open the ditches and dikes, then drive her out, crying 'Spirit, go north!' — and so the drought demon is exorcised to this day in the ritual of the fields.",
+          "note": "Paraphrase of Shanhaijing, Da Huang Bei Jing, end of the Nüba passage with the ritual prescription; not verbatim."
+        }
+      ],
+      "persons": []
+    },
+    {
+      "id": "chinese-shanhaijing-xiangliu",
+      "title": {
+        "en": "Yu Slays Xiangliu, the Nine-Headed Minister of Gonggong",
+        "zh": "禹殺相柳"
+      },
+      "tradition": "chinese",
+      "category": "myth",
+      "region": {
+        "en": "Kunlun's northern marches, where the slain god's blood became marsh (symbolic pin: far northwest)",
+        "zh": "共工之臺北，血沼之地（象徵性定位）"
+      },
+      "lat": 36.0,
+      "lon": 81.0,
+      "period": "Shanhaijing, Hai Wai Bei Jing / Da Huang Bei Jing, compiled c. 4th-2nd c. BCE",
+      "source": {
+        "archive": "Wikisource (zh)",
+        "work": "Shanhaijing (Classic of Mountains and Seas), Hai Wai Bei Jing: Xiangliu, minister of Gonggong, slain by Yu (Guo Pu recension)",
+        "url": "https://zh.wikisource.org/wiki/%E5%B1%B1%E6%B5%B7%E7%B6%93"
+      },
+      "license": "Public domain (Classical Chinese text; passages are compiler's renderings)",
+      "summary": {
+        "en": "Xiangliu, Gonggong's minister, has nine heads that feed on nine mountains at once; wherever he touches becomes a swamp of snakes. Yu the flood-tamer kills him, but his blood is so foul that no grain will grow there; Yu fills the pit three times and three times it collapses — so he makes it a pool, and the gods build their terraces upon it.",
+        "zh": "共工之臣相柳氏九首，自環食於九山，所抵處為澤谿；禹殺相柳，其血腥不可樹穀；禹三仞三沮，乃以為池，群帝因是以為臺。"
+      },
+      "motifs": [
+        "world-serpent",
+        "transformation",
+        "sacred-place",
+        "threefold"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Passages are the compiler's condensed paraphrases of the Shanhaijing original. Tagging caveat: 'world-serpent' marks the nine-headed aquatic monster type; the Chinese figure is a minister-god rather than a cosmic encircler."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Xiangliu was the minister of Gonggong the water-power, a god with nine heads, who fed himself from nine mountains at once in a ring, and wherever his body or his heads came down, the ground became a bog of snakes and could not be lived in.",
+          "note": "Paraphrase of Shanhaijing, Hai Wai Bei Jing, Xiangliu passage (compiler's rendering); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Yu, in his work of taming the floods, killed Xiangliu — but the god's blood was so sharp and foul that where it soaked, the five grains would not sprout. Yu filled the pit with earth three times, and three times it sank down again; so he gave up and made the place a pool, and the many gods used the raised ground to build their terraces upon.",
+          "note": "Paraphrase of Shanhaijing, Hai Wai Bei Jing, Yu's filling of the pit; not verbatim."
+        }
+      ],
+      "persons": [
+        "yu"
+      ]
+    },
+    {
+      "id": "chinese-shanhaijing-dijiang",
+      "title": {
+        "en": "Dijiang, the Faceless God of Chaos on Tianshan",
+        "zh": "天山帝江渾敦無面目"
+      },
+      "tradition": "chinese",
+      "category": "myth",
+      "region": {
+        "en": "Tianshan, the Mountain of Heaven in the far west (symbolic pin: Tianshan range)",
+        "zh": "天山（遠西之天山）"
+      },
+      "lat": 43.0,
+      "lon": 85.0,
+      "period": "Shanhaijing, Xi Ci San Jing, compiled c. 4th-2nd c. BCE",
+      "source": {
+        "archive": "Wikisource (zh)",
+        "work": "Shanhaijing (Classic of Mountains and Seas), Xi Ci San Jing: the god of Tianshan (Guo Pu recension)",
+        "url": "https://zh.wikisource.org/wiki/%E5%B1%B1%E6%B5%B7%E7%B6%93"
+      },
+      "license": "Public domain (Classical Chinese text; passages are compiler's renderings)",
+      "summary": {
+        "en": "On the Mountain of Heaven lives a god shaped like a yellow sack, red as cinnabar, with six feet and four wings, having no face and no eyes — hundun, the undifferentiated one — who nevertheless knows how to sing and dance: the primal chaos itself, preserved in a gazetteer of mountains.",
+        "zh": "天山有神，狀如黃囊，赤如丹火，六足四翼，渾敦無面目，是識歌舞，實為帝江——混沌之神，寓於山經。"
+      },
+      "motifs": [
+        "creation-chaos",
+        "sacred-place"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Passages are the compiler's condensed paraphrases of the Shanhaijing original. Commentators read Dijiang/Hundun as the primal chaos embodied; Zhuangzi's seven-orifices parable (chinese-zhuangzi-hundun) gives the same figure a death."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The waters of the English River rise on the Mountain of Heaven, which is rich in gold and jade; and there lives a god whose shape is like a yellow sack, glowing red as cinnabar-fire, with six feet and four wings.",
+          "note": "Paraphrase of Shanhaijing, Xi Ci San Jing, Tianshan passage (compiler's rendering); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "He has no face and no eyes, no mouth and no features at all — hundun, the undivided — and yet this faceless one understands song and dance. He is Dijiang, the Lord-Emporor of the River of the lump of chaos; the name is read by commentators as 'Huang', the yellow sack of the primal whole.",
+          "note": "Paraphrase of Shanhaijing, Xi Ci San Jing, with Guo Pu's traditional reading; not verbatim."
+        }
+      ],
+      "persons": []
+    },
+    {
+      "id": "chinese-shanhaijing-jianmu",
+      "title": {
+        "en": "Jianmu, the Ladder Tree at the Center of Heaven and Earth",
+        "zh": "建木眾帝所自上下"
+      },
+      "tradition": "chinese",
+      "category": "myth",
+      "region": {
+        "en": "Duguang, the Wild Center where suns pass without shadow (symbolic pin: Chengdu plain)",
+        "zh": "都廣之野，天地之中（象徵性定位：成都平原）"
+      },
+      "lat": 30.6,
+      "lon": 104.0,
+      "period": "Shanhaijing, Hai Nei Jing / Da Huang Xi Jing, compiled c. 4th-2nd c. BCE (parallel in Huainanzi, Xinglong Xun?)",
+      "source": {
+        "archive": "Wikisource (zh)",
+        "work": "Shanhaijing (Classic of Mountains and Seas), Hai Nei Jing: the tree Jianmu (Guo Pu recension)",
+        "url": "https://zh.wikisource.org/wiki/%E5%B1%B1%E6%B5%B7%E7%B6%93"
+      },
+      "license": "Public domain (Classical Chinese text; passages are compiler's renderings)",
+      "summary": {
+        "en": "In the Wild Center, where the suns cross without casting shadow and sounds carry without echo, stands the tree Jianmu: a hundred ren tall with no branches, nine hooked coils below, nine clustered crowns above, bearing its fruit like hemp seeds — the very ladder by which the gods ascend and descend between heaven and earth.",
+        "zh": "都廣之野，天地之中，日月中無景、呼而無響；建木百仞無枝，下有九欘，上有九欘，實如麻——眾帝所自上下之天梯。"
+      },
+      "motifs": [
+        "ascension",
+        "sacred-place",
+        "sacred-tree"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Passages are the compiler's condensed paraphrases of the Shanhaijing original (Hai Nei Jing passage, with the Duguang center from the Da Huang Xi Jing commentary tradition)."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "In the Wild of Duguang, south of the twin rivers, lies the meeting place of heaven and earth: the suns and moons cross there and cast no shadow, and a shout there has no echo — because it is the very center of the world. Rice and grain grow of themselves, the phoenix sings, and nothing is planted yet nothing is lacking.",
+          "note": "Paraphrase of Shanhaijing, Hai Nei Jing, Duguang passage (compiler's rendering); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "There stands the tree called Jianmu, a hundred ren tall with no side branches, nine hooked coils below and nine clustered crowns above, its fruits like hemp seeds and its leaves like spears. Tai Hao passed across it — for Jianmu is the ladder by which the gods go up and come down between the sky and the earth.",
+          "note": "Paraphrase of Shanhaijing, Hai Nei Jing, Jianmu passage; not verbatim."
+        }
+      ],
+      "persons": []
+    },
+    {
+      "id": "chinese-shanhaijing-fusang-tensuns",
+      "title": {
+        "en": "The Fusang Tree and the Ten Suns Who Bathe in Tang Valley",
+        "zh": "扶桑十日所浴"
+      },
+      "tradition": "chinese",
+      "category": "myth",
+      "region": {
+        "en": "Tang Valley (Tanggu), the hot spring of the rising sun in the far east (symbolic pin: East China Sea horizon)",
+        "zh": "東方湯谷，十日所浴（象徵性定位：東海日出處）"
+      },
+      "lat": 32.0,
+      "lon": 124.0,
+      "period": "Shanhaijing, Da Huang Dong Jing, compiled c. 4th-2nd c. BCE",
+      "source": {
+        "archive": "Wikisource (zh)",
+        "work": "Shanhaijing (Classic of Mountains and Seas), Da Huang Dong Jing: Tanggu, Fusang, and the ten suns bathed by Xihe (Guo Pu recension)",
+        "url": "https://zh.wikisource.org/wiki/%E5%B1%B1%E6%B5%B7%E7%B6%93"
+      },
+      "license": "Public domain (Classical Chinese text; passages are compiler's renderings)",
+      "summary": {
+        "en": "In the southeast beyond the Great Waste lies Tang Valley, the boiling valley where the ten suns bathe; nine of them rest on the lower branches of the great mulberry Fusang and one sits on the top, and all are bathed by Xihe, mother of the suns — one sun arrives as one departs, so the sky never has two suns at once.",
+        "zh": "東南大荒湯谷上有扶桑，十日所浴；九日居下枝，一日居上枝；皆浴於湯谷——一日方至，一日方出，皆載於烏。"
+      },
+      "motifs": [
+        "sun-capture",
+        "sacred-place",
+        "sacred-tree"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Passages are the compiler's condensed paraphrases of the Shanhaijing original. This is the cosmic-rotation version of the suns; the broken-rotation version (all ten rising at once) is cut separately under Hou Yi (Huainanzi Benjing Xun)."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Southeast of the sea, past the Yellow Water, lies the Great Valley of Tang — the boiling valley — where the ten suns bathe. Above the valley grows the tree Fusang, the great support-mulberry, on which the suns rest after their bath; nine of them sit on the lower branches, and one takes the top of the tree.",
+          "note": "Paraphrase of Shanhaijing, Da Huang Dong Jing, Tanggu-Fusang passage (compiler's rendering); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Xihe, the mother of the ten suns, bathes them in the hot valley of the far east — and the order of the sky is kept by rotation: one sun arrives as one goes out. The suns travel riding on crows, says the text, and the watchers in Qi saw great crows carrying the disc of fire.",
+          "note": "Paraphrase of Shanhaijing, Da Huang Dong Jing, Xihe passage; not verbatim."
+        }
+      ],
+      "persons": [
+        "xihe"
+      ]
+    },
+    {
+      "id": "chinese-shanhaijing-changxi",
+      "title": {
+        "en": "Changxi Bathes the Twelve Moons",
+        "zh": "常羲浴月"
+      },
+      "tradition": "chinese",
+      "category": "myth",
+      "region": {
+        "en": "The Great West, land of the turning suns (symbolic pin: far-west highland)",
+        "zh": "大荒西經，日月所入之山（象徵性定位）"
+      },
+      "lat": 35.5,
+      "lon": 98.0,
+      "period": "Shanhaijing, Da Huang Xi Jing, compiled c. 4th-2nd c. BCE",
+      "source": {
+        "archive": "Wikisource (zh)",
+        "work": "Shanhaijing (Classic of Mountains and Seas), Da Huang Xi Jing: Changxi, wife of Di Jun, mother of twelve moons (Guo Pu recension)",
+        "url": "https://zh.wikisource.org/wiki/%E5%B1%B1%E6%B5%B7%E7%B6%93"
+      },
+      "license": "Public domain (Classical Chinese text; passages are compiler's renderings)",
+      "summary": {
+        "en": "Di Jun's wife Changxi bears twelve moon-children in one birth — the twelve months of the year — and she washes them each in their turn; the Shanhaijing marks the passage of the moons into the western peaks as twelve points where the months go down.",
+        "zh": "帝俊妻常羲，生月十有二，此始浴之——十二月之誕與浴；大荒西經列日月所入之山十二。"
+      },
+      "motifs": [
+        "miraculous-birth",
+        "sacred-place"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Passages are the compiler's condensed paraphrases of the Shanhaijing original."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The Great West has mountains upon mountains where the suns and moons go down; the text counts the peaks of the sun's setting and the turning of the moons among the holy places of the far west, each one named and stationed.",
+          "note": "Paraphrase of Shanhaijing, Da Huang Xi Jing, entry on the sun-moon mountains (compiler's rendering); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Di Jun took Changxi to wife, and she bore in one birth twelve moons — the twelve months. This, says the book, is where the bathing of the moons began: each month she washes her child in the waters of the west before it climbs the sky.",
+          "note": "Paraphrase of Shanhaijing, Da Huang Xi Jing, Changxi passage; not verbatim."
+        }
+      ],
+      "persons": []
+    },
+    {
+      "id": "chinese-shanhaijing-xiwangmu",
+      "title": {
+        "en": "Xiwangmu, the Tiger-Toothed Queen Mother of the West",
+        "zh": "西王母豹尾虎齒"
+      },
+      "tradition": "chinese",
+      "category": "myth",
+      "region": {
+        "en": "Yu Mountain (Jade Mountain) west of Kunlun (symbolic pin: Kunlun range)",
+        "zh": "崑崙之西玉山（象徵性定位：崑崙）"
+      },
+      "lat": 36.2,
+      "lon": 83.5,
+      "period": "Shanhaijing, Xi Shan Jing / Hai Wai Bei Jing / Da Huang Xi Jing, compiled c. 4th-2nd c. BCE",
+      "source": {
+        "archive": "Wikisource (zh)",
+        "work": "Shanhaijing (Classic of Mountains and Seas), Xi Shan Jing and Hai Wai Bei Jing: Xiwangmu on Yu Mountain (Guo Pu recension)",
+        "url": "https://zh.wikisource.org/wiki/%E5%B1%B1%E6%B5%B7%E7%B6%93"
+      },
+      "license": "Public domain (Classical Chinese text; passages are compiler's renderings)",
+      "summary": {
+        "en": "West of the flowing sands, on Jade Mountain, dwells Xiwangmu: human in shape but with a leopard's tail and tiger's fangs, skilled in whistling-shout, shaggy-haired and wearing the sheng headdress — she who governs the calamities of heaven and the five punishments, fed by three green birds who fetch her food from the eastern mountain.",
+        "zh": "玉山西王母，其狀如人，豹尾虎齒而善嘯，蓬髮戴勝，司天之厲及五殘；有三青鳥為取食——後世昇仙之主，其古形猙獰。"
+      },
+      "motifs": [
+        "sacred-place",
+        "theophany"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Passages are the compiler's condensed paraphrases of the Shanhaijing original; the later, gentle daoist-immortal form of Xiwangmu (Han onward, e.g. the Mu Tianzi Zhuan banquet) is cut as a separate record."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Three hundred and fifty li past the flowing sands stands Yu Mountain, the Jade Mountain, the only place where the Queen Mother of the West may be found. She has the shape of a human being, yet with a leopard's tail and the fangs of a tiger, and she is a master of the long whistling-cry; her hair is wild and she wears the sheng, the jade comb-scepter, upon her head.",
+          "note": "Paraphrase of Shanhaijing, Xi Shan Jing, Xiwangmu passage (compiler's rendering); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "She is the governor of the calamities of heaven and of the five punishments of heaven — plague and destruction are in her keeping. In the far north, three green birds, strong of beak, serve her as messengers, and she sends them to the foot of the Great North Mountain to fetch her food; below Kunlun she is the one who holds the power of life and death of her quarter of the world.",
+          "note": "Paraphrase of Shanhaijing, Hai Wai Bei Jing and Da Huang Xi Jing passages; not verbatim."
+        }
+      ],
+      "persons": [
+        "xiwangmu"
+      ]
+    },
+    {
+      "id": "chinese-shanhaijing-jiuweihu",
+      "title": {
+        "en": "The Nine-Tailed Fox of Qingqiu and the Omen of Tushan",
+        "zh": "青丘九尾狐與塗山瑞"
+      },
+      "tradition": "chinese",
+      "category": "myth",
+      "region": {
+        "en": "Qingqiu, the Green Mounds, south of the mythic lands (symbolic pin: southeast hills)",
+        "zh": "青丘之山（象徵性定位）"
+      },
+      "lat": 33.0,
+      "lon": 115.0,
+      "period": "Shanhaijing, Nan Shan Jing, compiled c. 4th-2nd c. BCE; Tushan omen in Wu Yue Chunqiu (Eastern Han)",
+      "source": {
+        "archive": "Wikisource (zh)",
+        "work": "Shanhaijing (Classic of Mountains and Seas), Nan Shan Jing: the nine-tailed beast of Qingqiu (Guo Pu recension); Wu Yue Chunqiu, Yue Wang Wai Zhuan: Yu's marriage omen at Tushan",
+        "url": "https://zh.wikisource.org/wiki/%E5%B1%B1%E6%B5%B7%E7%B6%93"
+      },
+      "license": "Public domain (Classical Chinese text; passages are compiler's renderings)",
+      "summary": {
+        "en": "On the Green Mounds lives a beast like a fox with nine tails, crying like a human baby, which eats men — yet whoever eats it is proof against guile and poison. Four centuries later the sign is turned: Yu, unwed at thirty, meets a white nine-tailed fox at Tushan, reads it as the marriage omen, and weds the girl of Tushan — the fox from man-eater to blessing of kings.",
+        "zh": "青丘之山有獸如狐而九尾，其音如嬰兒，能食人；食者不蠱。塗山之歌曰：綏綏白狐，九尾龐龐——禹遇之而娶塗山氏，狐遂為王者之瑞。"
+      },
+      "motifs": [
+        "transformation",
+        "oracle-divination"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Passages are the compiler's condensed paraphrases of the Shanhaijing and Wu Yue Chunqiu originals. The nine-tailed fox later becomes the seductive fox-spirit of the Investiture of the Gods (Daji) — a radical inversion cut as a separate record."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "On Qingqiu, the Mountain of the Green Mounds, there is a beast shaped like a fox but with nine tails, and its voice is like the cry of a baby. It devours people; yet whoever manages to eat of it cannot be beguiled by poison or spells — the eater takes the fox's cunning into himself and is safe from guile.",
+          "note": "Paraphrase of Shanhaijing, Nan Shan Jing, Qingqiu passage (compiler's rendering); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Yu, thirty years old and unwed, passed Tushan and met a white fox with nine tails. The song of Tushan ran: 'The trailing white fox, nine tails all vast' — nine tails meaning nine generations of wives and heirs, and white meaning a shared lot. Yu read it as the omen of his marriage and took the girl of Tushan to wife.",
+          "note": "Paraphrase of Wu Yue Chunqiu, Yue Wang Wai Zhuan, Tushan marriage omen (compiler's rendering); not verbatim."
+        }
+      ],
+      "persons": [
+        "yu"
+      ]
+    }
+  ]
+}

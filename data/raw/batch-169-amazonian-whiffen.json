@@ -1,0 +1,604 @@
+{
+  "texts": [
+    {
+      "id": "amazonian-whiffen-neva-taife",
+      "title": {
+        "en": "Neva and Taife: the Good Spirit and the Bad Spirit of the North-West Amazons",
+        "zh": "涅瓦與泰費：西北亞馬遜善靈與惡靈"
+      },
+      "tradition": "amazonian",
+      "category": "myth",
+      "region": {
+        "en": "Issa-Japura region, Witoto-Boro country",
+        "zh": "伊薩-哈普拉河維托托-博羅之地"
+      },
+      "lat": -0.8,
+      "lon": -72.3,
+      "period": "Witoto-Boro oral tradition; recorded 1915 (Whiffen)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Thomas Whiffen, The North-West Amazons (1915), ch. XVII 'The Indians' Magico-Religious System'",
+        "url": "https://archive.org/details/northwestamazons00whif"
+      },
+      "license": "Public domain (book 1915)",
+      "summary": {
+        "en": "So far as these Indians believe in anything they believe in the existence of supreme good and bad spirits. The Good Spirit — Neva in Boro, Usiyamoi in Witoto, the Tupano of the Tupi-Guarani — is a spirit of benevolent passivity, good for no other reason than that he is not evil; no prayer or invocation is offered to him. The Bad Spirit — Navena in Boro, Taife in Witoto, whose dread true name Apuehana is never pronounced above a whisper — is affirmative in character and always active: he must be placated at all costs as the supreme author of sickness and misfortune. The Bad Spirit may be materialised sufficiently to carry a child bodily away or steal a woman should she stray into the forest by herself; women who run away from their husbands are consequently said by them to have been taken by the devil.",
+        "zh": "維托托-博羅人信至善至惡二靈。善靈博羅名涅瓦，維托托名烏西亞莫伊——靜而不動，以其非惡故為善；無祈無禱。惡靈博羅名納維納，維托托名泰費，真名阿普埃哈納惟耳語乃出——恆動而為病厄之首，必百計安之。惡靈可具形攫獨行之童婦；婦逃夫者，眾皆謂為魔所攝。"
+      },
+      "motifs": [
+        "theophany",
+        "spirit-possession",
+        "taboo-transgression",
+        "prayer",
+        "creation-contest"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Witoto-Boro beliefs recorded by Whiffen 1915; read critically — the record names colonial-era rubber-regime informants' communities; no restricted ritual content included."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "So far as they believe in anything they believe in the existence of supreme good and bad spirits. In essence the idea of God is not that of a Supreme Being, but rather that of a Superior Being, possessed by an indulgent tolerance for all mankind; he is a spirit of benevolent passivity, good for no other reason than that he is not evil; there is no particularised sanctity in his name, only an unquestioning acquiescence in his benignity. The Good Spirit may be more potent, but he is certainly more remote than the Bad Spirit — too remote for ordinary people to be brought into any degree of contact with him whatsoever.",
+          "note": "Condensed paraphrase of Whiffen 1915, ch. XVII; not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "This Devil, or Bad Spirit, is affirmative in character, and is always active. He must not be invoked, but he is to be prevented by charms and magic from wreaking his vengeance on mankind, and must be placated at all costs as the supreme author of sickness and misfortunes. It is noteworthy that the Bad Spirit may be materialised sufficiently to be able to carry a child bodily away, or to steal a woman should she stray out into the forest by herself. For this reason usually no woman will go alone into the bush: women who run away from their husbands are consequently said by them to have been taken by the devil — a favourite theory, as the man may thereby avoid the censure of the tribe.",
+          "note": "Condensed paraphrase of Whiffen 1915, ch. XVII; not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "In the Boro language we have the word Neva as an equivalent for God, the good or sympathetic deity, and the word Navena for the Devil, the great evil spirit. But inasmuch as neva stands also for the sun, the dawn, and the morning, while navena is used for any spirit however humble, we may postulate that such are not the true names of these deities, but those that may be used without offence. In Witoto Usiyamoi has the meaning of God, Taife is the Devil; the Taife, the all-pervading evil genius, is named Apuehana, a word never pronounced above a whisper — here we may have reached a true secret name.",
+          "note": "Condensed paraphrase of Whiffen 1915, ch. XVII; not verbatim."
+        }
+      ],
+      "persons": []
+    },
+    {
+      "id": "amazonian-neva-visit-earth",
+      "title": {
+        "en": "The Visit of Neva to Earth: the Savannahs and the Whisper to the Tigers",
+        "zh": "涅瓦降世：草原之語與虎群之囑"
+      },
+      "tradition": "amazonian",
+      "category": "myth",
+      "region": {
+        "en": "Open savannahs, Issa-Japura region",
+        "zh": "伊薩-哈普拉河草原"
+      },
+      "lat": -0.8,
+      "lon": -72.3,
+      "period": "Boro oral tradition; recorded 1915 (Whiffen)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Thomas Whiffen, The North-West Amazons (1915), ch. XVII 'The Indians' Magico-Religious System'",
+        "url": "https://archive.org/details/northwestamazons00whif"
+      },
+      "license": "Public domain (book 1915)",
+      "summary": {
+        "en": "Once Neva had forgotten the puny human factor, so he took the guise of a man and came to earth. The open spaces — the natural savannahs or geological outcrops — are where he spoke to the Indians, and it is a sign of his speaking and of his erstwhile presence that these are now open to the sun and the sky. But one Indian vexed Neva, the Good Spirit, and he was wrath with all men, so he went again to sit on the roof of the world. Before he departed he whispered into the ears of all the tigers that they were to kill the Indians and their children: that is why the tigers to-day are wicked and sometimes are the habitations of the most evil spirits. Before this time the tigers were good to men, and they hunted together like brothers; they lived together in the houses, ate and drank and licked tobacco in amity round the fire.",
+        "zh": "涅瓦忽念塵世之人，遂化人形而降。曠野草原——即其訓人之所——今猶向日而敞，是其曾臨之徵。後一人觸其怒，大神忿而返天頂之座；臨行俯語眾虎：『當戮印第安人與其子孫。』故今虎性惡，且常為惡靈所棲。昔虎與人如兄弟，同獵同食，環火而舐菸，相善也。"
+      },
+      "motifs": [
+        "theophany",
+        "taboo-transgression",
+        "transformation",
+        "god-descends",
+        "opposed-twins"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Boro oral tradition recorded by Whiffen 1915; Whiffen himself doubted how far the tale was a genuine folk-tale or a perverted Biblical version — the record keeps that caution visible."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Once Neva had forgotten the puny human factor, so he took the guise of a man and came to earth. The open spaces — the natural savannahs or geological outcrops — are where he spoke to the Indians, and it is a sign of his speaking and of his erstwhile presence that these are now open to the sun and the sky. But one Indian vexed Neva, the Good Spirit, and he was wrath with all men, so he went again to sit on the roof of the world.",
+          "note": "Condensed paraphrase of Whiffen 1915, ch. XVII; not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "But before he departed he whispered into the ears of all the tigers that they were to kill the Indians and their children, and that is why the tigers to-day are wicked and sometimes are the habitations of the most evil spirits. Before this time the tigers were good to men, and they hunted together like brothers; they lived together in the houses; they ate and drank and licked tobacco in amity round the fire.",
+          "note": "Condensed paraphrase of Whiffen 1915, ch. XVII; not verbatim."
+        }
+      ],
+      "persons": []
+    },
+    {
+      "id": "amazonian-neva-versus-young-chief",
+      "title": {
+        "en": "Neva and the Young Chief: the Tobacco Palaver's Verdict",
+        "zh": "涅瓦與少主：菸議之判"
+      },
+      "tradition": "amazonian",
+      "category": "myth",
+      "region": {
+        "en": "Boro maloka, Issa-Japura region",
+        "zh": "伊薩-哈普拉河博羅大屋"
+      },
+      "lat": -0.8,
+      "lon": -72.3,
+      "period": "Boro oral tradition; recorded 1915 (Whiffen)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Thomas Whiffen, The North-West Amazons (1915), ch. XVII 'The Indians' Magico-Religious System'",
+        "url": "https://archive.org/details/northwestamazons00whif"
+      },
+      "license": "Public domain (book 1915)",
+      "summary": {
+        "en": "On the occasion of hearing this story of the visit of the Good Spirit to earth, Whiffen related, to the best of his ability, the Christian story. After the tribesmen had listened they held a tobacco palaver which lasted some six hours; then the chief appeared — the medicine-man was surly and remote — and this was the burden of his wisdom: his own people were greater than the people from the clouds, the white people, for the Good Spirit, Neva himself, came to the Indians, whereas only the Young Chief visited the clouds. And the Indians were better than the white people, for the white people killed the Young Chief, but the Indians listened to Neva, and only one among them vexed him.",
+        "zh": "博羅人聞涅瓦降世之傳；白人乃述基督教之事。眾人聚而合菸（菸議），歷六小時；酋長出而言曰：『我族大於雲外之人：大神涅瓦親臨我族，而雲外之人僅得少主一顧。我族亦優於彼：彼弒少主，而我族聽涅瓦之言，觸其怒者惟一人耳。』"
+      },
+      "motifs": [
+        "theophany",
+        "parable-teaching",
+        "opposed-twins"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Boro oral tradition recorded by Whiffen 1915; a colonial-era comparative exchange, recorded and read critically."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "After they had listened to my story the tribesmen held a tobacco palaver, which lasted some six hours. Then the chief — the medicine-man was surly and remote — appeared, and this was the burden of his wisdom: his own people were greater than the people from the clouds — the white people — for the Good Spirit, Neva himself, came to the Indians, whereas only the Young Chief visited the clouds. And the Indians were better than the white people, for the white people killed the Young Chief, but the Indians listened to Neva, and only one among them vexed him.",
+          "note": "Condensed paraphrase of Whiffen 1915, ch. XVII; not verbatim."
+        }
+      ],
+      "persons": []
+    },
+    {
+      "id": "amazonian-taife-imitates-hunter",
+      "title": {
+        "en": "The Bad Spirit Imitates the Hunter's Call",
+        "zh": "惡靈效獵者之呼"
+      },
+      "tradition": "amazonian",
+      "category": "myth",
+      "region": {
+        "en": "Forest thickets, Issa-Japura region",
+        "zh": "伊薩-哈普拉河叢林"
+      },
+      "lat": -0.8,
+      "lon": -72.3,
+      "period": "Witoto-Boro oral tradition; recorded 1915 (Whiffen)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Thomas Whiffen, The North-West Amazons (1915), ch. XVII 'The Indians' Magico-Religious System'",
+        "url": "https://archive.org/details/northwestamazons00whif"
+      },
+      "license": "Public domain (book 1915)",
+      "summary": {
+        "en": "The Bad Spirit wanders with his myrmidons in the forest every night. Sometimes he takes the form of a tiger or other fierce animal; sometimes he resembles a man who can disappear at will. He imitates the call of the hunter who has found game, or the call of an animal to be hunted; he entices his victim by these and similar contrivances to venture deeper and deeper into the bush, until the wretched wanderer is utterly lost — according to tribal belief he is then destroyed, or spirited bodily away. As confirmation of his real presence an Indian will sometimes whisper the evil name as he points out the track of an abnormal-sized tapir, which is curiously reminiscent to the European of the cloven hoof of his own Devil.",
+        "zh": "惡靈夜夜率其黨徜徉林間；或化猛虎，或如隱形之人。效獵者得獸之呼、獸之鳴，誘其人愈行愈深，至迷失不知所返——傳說其時彼即被毀，或舉體被攝。土人指巨大異常之貘跡，必耳語惡名——白人觀之，儼然己魔之蹄印也。"
+      },
+      "motifs": [
+        "trickster",
+        "spirit-possession",
+        "opposed-twins"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Witoto-Boro oral tradition recorded by Whiffen 1915; read critically."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The Bad Spirit wanders with his myrmidons in the forest every night. Sometimes he takes the form of a tiger, or other fierce animal; sometimes, as alternative to the tiger-lifting theory, he resembles a man who can disappear at will. He imitates the call of the hunter who has found game, or the call of an animal to be hunted. He entices his victim by these and similar contrivances to venture deeper and deeper into the bush, until the wretched wanderer is utterly lost — according to tribal belief he is then destroyed, or spirited bodily away.",
+          "note": "Condensed paraphrase of Whiffen 1915, ch. XVII; not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "As confirmation of his real presence an Indian will sometimes whisper the evil name as he points out the track of an abnormal-sized tapir, which is curiously reminiscent to the European of the cloven hoof of his own Devil; no corroborative evidence, however, is ever forthcoming from the victim himself.",
+          "note": "Condensed paraphrase of Whiffen 1915, ch. XVII; not verbatim."
+        }
+      ],
+      "persons": []
+    },
+    {
+      "id": "amazonian-afterlife-miniature-world",
+      "title": {
+        "en": "The Land of the After-Life: a World in Miniature",
+        "zh": "來世之土：縮微之世界"
+      },
+      "tradition": "amazonian",
+      "category": "myth",
+      "region": {
+        "en": "Upstream, toward the setting sun",
+        "zh": "溯河而上，日落之方"
+      },
+      "lat": -0.5,
+      "lon": -73.0,
+      "period": "Witoto-Boro oral tradition; recorded 1915 (Whiffen)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Thomas Whiffen, The North-West Amazons (1915), ch. XVII 'The Indians' Magico-Religious System'",
+        "url": "https://archive.org/details/northwestamazons00whif"
+      },
+      "license": "Public domain (book 1915)",
+      "summary": {
+        "en": "Man's soul in Indian belief is immortal — that is to say it exists as long as it continues to appear in the dreams and the thoughts of the survivors: a thing forgotten has never existed, and the soul of a remembered being lives for ever. The ghost lingers near the body after death, then goes at length to the happy grounds of the Good Spirit — among some tribes above the skies, among others away up some river, in the far and mythical distance, approximately towards the setting sun. This land of the After-Life is a diminutive replica of the ordinary world, with evil things eliminated and joyful things emphasised: all is on a lower scale, stunted forests and pigmy game; hunting is fruitful always, women are beautiful and amenable, and the men are all the old familiar friends of earth. Individual possessions are buried with the dead, and the Kuretu confess this is done to prevent the return of the soul in search of them — burial sets free the soul-part of each object to take in the miniature world a position corresponding to that held here on earth. The Zaparo believe the good and brave souls pass into birds of beautiful plumage and feed on the most delicate fruits, while the bad and cowardly are condemned to a future existence in the guise of objectionable reptiles.",
+        "zh": "土人謂魂不死：憶之則存，忘之則無。魂初依屍，後往善靈之樂土——或在天上，或在河源，日落之方。彼土乃人間之縮本，去惡揚善：林矮獸小，獵常豐，婦皆美，友皆故。殉葬其物者，使物之魂隨主人而去，各安其位於縮微之世。薩帕羅人言：善勇之魂化為麗羽之鳥，食美果；怯惡之魂化為可憎之蟲蛇。"
+      },
+      "motifs": [
+        "otherworld-voyage",
+        "transformation",
+        "opposed-twins"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Witoto-Boro-Zaparo beliefs recorded by Whiffen 1915; read critically."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Man's soul in Indian belief is immortal, that is to say it exists as long as it is felt to exist, whilst it continues to appear in the dreams, in the thoughts of the survivors — for so long, in fact, as it is remembered. Surely this is immortality: a thing forgotten has never existed; and, per contra, the soul of a remembered being lives for ever. The disembodied spirit lingers near the body after death, and then indefinitely the soul wanders farther afield, and goes at length to the happy grounds of the Good Spirit — above the skies, or away up some river in the far and mythical distance, approximately towards the setting sun.",
+          "note": "Condensed paraphrase of Whiffen 1915, ch. XVII; not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "This land of the After-Life is a diminutive replica of the ordinary world, but with evil things eliminated and joyful things emphasised: all is on a lower scale, stunted forests and pigmy game. Life in this enigmatic sphere has everything most prized in this world: hunting is fruitful always, women are beautiful and amenable, and the men are all the old familiar friends of earth. Individual possessions are buried with the dead, and the Kuretu confess that this is done to prevent the return of the soul in search of them: burial sets it at liberty to take in the miniature world of the After-Life a position corresponding in every detail to that which has been held here on earth.",
+          "note": "Condensed paraphrase of Whiffen 1915, ch. XVII; not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "Of the Zaparo belief the good and brave souls will pass into birds of beautiful plumage and feed on the most delicate fruits, while the bad and cowardly are condemned to a future existence in the guise of objectionable reptiles.",
+          "note": "Condensed paraphrase of Whiffen 1915, ch. XVII; not verbatim."
+        }
+      ],
+      "persons": []
+    },
+    {
+      "id": "amazonian-dream-soul-sneeze",
+      "title": {
+        "en": "The Dreaming Soul and the Deadly Sneeze",
+        "zh": "夢魂與致命之嚏"
+      },
+      "tradition": "amazonian",
+      "category": "myth",
+      "region": {
+        "en": "Maloka fireside, Issa-Japura region",
+        "zh": "伊薩-哈普拉河大屋火畔"
+      },
+      "lat": -0.8,
+      "lon": -72.3,
+      "period": "Witoto-Boro oral tradition; recorded 1915 (Whiffen)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Thomas Whiffen, The North-West Amazons (1915), ch. XVII 'The Indians' Magico-Religious System'",
+        "url": "https://archive.org/details/northwestamazons00whif"
+      },
+      "license": "Public domain (book 1915)",
+      "summary": {
+        "en": "Not only do the Indians hold that a man's soul leaves his body at death, but they believe it may do so during life for a limited period: in sleep the spirit is out of the body and wanders about, for in dreams the soul passes through the mouth and has adventures in the outer world — dreams are a portion of the man's real life, and a man will not hesitate to declare that he has done what he dreamed he was doing. This is involuntary disembodiment, differing only from actual death in that it is of temporary duration; but if the soul make a violent effort to escape that apparently entails fatal consequences, for the Indians declare when anybody sneezes it is the soul attempting to leave the body and so cause death. Voluntary disembodiment is believed possible in certain favoured cases: the medicine-man may free his spirit for magical purposes, either remaining disembodied and invisible, or lurking in the form of some animal, a tree, a stone — or even in the wind, the rain, or the river.",
+        "zh": "土人言魂於生前亦可暫離其體：睡時魂出而遊，夢中魂經口而出，歷於外界——夢乃真歷也，故其人自認夢中所為。魂若猛然欲遁，則致命：土人謂人之嚏者，魂欲離體而致死之兆也。醫師能自纵其魂以行法：或隱而不見，或寄於獸、於樹、於石，乃至風雨川河之中。"
+      },
+      "motifs": [
+        "spirit-possession",
+        "transformation",
+        "invisibility"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Witoto-Boro beliefs recorded by Whiffen 1915; read critically."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "We have examples in sleep, they argue, when the spirit is out of the body and wanders about; for in dreams, they say, the soul passes through the mouth and has adventures in the outer world. Dreams are, in fact, a portion of the man's real life: his spirit has ventured forth and actually gone through the experience his fancy paints. They realise, therefore, that individuality is not in the body itself, but in the spirit that inhabits the body; so if a man dreams he will not hesitate to declare that he has done what he dreamed he was doing.",
+          "note": "Condensed paraphrase of Whiffen 1915, ch. XVII; not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "This is an example of involuntary disembodiment, differing only from actual death in that it is of temporary duration: the soul has gone quietly, and will return. But if the soul make a violent effort to escape that apparently entails fatal consequences, for the Indians declare when anybody sneezes it is the soul attempting to leave the body and so cause death. Voluntary disembodiment is believed to be possible in certain favoured cases: the medicine-man may free his spirit for magical purposes, either remaining disembodied and invisible, or lurking for a time in the form of some animal or object, a tree, a stone — or even in the wind, the rain, or the river.",
+          "note": "Condensed paraphrase of Whiffen 1915, ch. XVII; not verbatim."
+        }
+      ],
+      "persons": []
+    },
+    {
+      "id": "amazonian-manioc-virgin-birth",
+      "title": {
+        "en": "The Virgin and the Manioc: Origin of Cassava Cultivation",
+        "zh": "處女與木薯：薯田之起源"
+      },
+      "tradition": "amazonian",
+      "category": "myth",
+      "region": {
+        "en": "Manioc plantation upriver, Issa-Japura region",
+        "zh": "伊薩-哈普拉河上游薯田"
+      },
+      "lat": -0.5,
+      "lon": -72.6,
+      "period": "Witoto-Boro oral tradition; recorded 1915 (Whiffen)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Thomas Whiffen, The North-West Amazons (1915), ch. XVIII 'Myths'",
+        "url": "https://archive.org/details/northwestamazons00whif"
+      },
+      "license": "Public domain (book 1915)",
+      "summary": {
+        "en": "The Good Spirit when he came to earth showed the Indians a manioc plant and taught them how to extract the evil spirit's influence — but he did not seem to have explained how the plant might be reproduced. The Indians searched for seeds and found none; they buried the young tuberous roots to no effect; the Good Spirit was vexed with them, which is why he did not divulge the secret. But long, long after, a virgin of the tribe, a daughter of the chief, was found to be with child. Questioned, she replied that long ago, when sick to death under the medicine-man's narcotic magic, she had wandered far into the bush and found a beautiful manioc plant: she was seduced by the tuberous root — some say the plant was metamorphosed into a beautiful young hunter — and in due course gave birth to a girl-child who could both talk and walk at birth. This child took the women of the tribe to a beautiful plantation of manioc far up a certain river, and there the precocious infant explained how to reproduce the plant with bits of the stalks. So to this day the chief food of all the peoples is cassava.",
+        "zh": "善靈臨世，示人以木薯，教以去其毒；然未示其殖法。眾覓種而無，埋根而無效——蓋神怒而秘其術。久之，酋之處女有孕；自言昔病篤，受巫之麻醉，迷行林中，得一美薯；為塊根所誘（或言其化為美少年獵者），遂產一女——生而能言行。此女攜族中婦人至河上之美田，示以莖枝插殖之法。故至今諸族以木薯為主食。"
+      },
+      "motifs": [
+        "ritual-origin",
+        "miraculous-birth",
+        "clay-humans",
+        "virgin-birth",
+        "opposed-twins"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Witoto-Boro oral tradition recorded by Whiffen 1915; read critically."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The Good Spirit when he came to earth showed the Indians a manioc plant, and taught them how to extract the evil spirit's influence; but he did not seem to have explained how the plant might be reproduced. The Indians searched for seeds, but found none; they buried the young tuberous roots, but to no effect. The Good Spirit was vexed with them — that is why he did not divulge the secret.",
+          "note": "Condensed paraphrase of Whiffen 1915, ch. XVIII; not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "But long, long after, a virgin of the tribe, a daughter of the chief, was found to be with child. When questioned she replied that long, long ago, when sick to death, and under the medicine-man's narcotic magic, she wandered far, far into the bush. In the bush she found a beautiful manioc plant. She was seduced by the tuberous root — some Indians say the plant was metamorphosed into a beautiful young hunter — and in due course she gave birth to a girl-child, who could both talk and walk at birth.",
+          "note": "Condensed paraphrase of Whiffen 1915, ch. XVIII; not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "This child took the women of the tribe to a beautiful plantation of manioc, far, far up a certain river, and there the precocious infant explained how to reproduce the plant with bits of the stalks. So to this day the chief food of all the peoples is cassava. A different version is told among more northern tribes at Sao Gabriel: a bird discovered to the Indians the use of the mandiocca, then a great and solitary tree; all the tribes came to procure the roots, and when none were left carried off branches — hence the varieties of mandiocca now grown.",
+          "note": "Condensed paraphrase of Whiffen 1915, ch. XVIII (with Spruce's variant); not verbatim."
+        }
+      ],
+      "persons": []
+    },
+    {
+      "id": "amazonian-komuine-monkey-wife",
+      "title": {
+        "en": "Komuine the Monkey-Man: the Boro Tribe That Was No More",
+        "zh": "猴夫科穆伊內：烏蒂格內族之亡"
+      },
+      "tradition": "amazonian",
+      "category": "myth",
+      "region": {
+        "en": "Utiguene lands, Issa-Japura region",
+        "zh": "伊薩-哈普拉河烏蒂格內之地"
+      },
+      "lat": -0.7,
+      "lon": -72.5,
+      "period": "Boro oral tradition; recorded 1915 (Whiffen)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Thomas Whiffen, The North-West Amazons (1915), ch. XVIII 'Myths: Boro tribal tale'",
+        "url": "https://archive.org/details/northwestamazons00whif"
+      },
+      "license": "Public domain (book 1915)",
+      "summary": {
+        "en": "Once a large tribe lived there, one of the most powerful and most numerous of all: a chief of the Utiguene had a daughter who was not only ugly but bird-rumped, and the medicine-man gave her the name of Komuine — monkey. Going into the bush to pick peppers and berries she did not return. A tiger must have carried her off, said the tribe; a tribal hunt was instituted, but in the bush they were attacked by a wicked tribe which killed them in great numbers. Long after, Komuine reappeared in the great house and sang her complaint-solo: 'The chief's daughter was lost in the forest, and no one came to find the spoor...' Dancing, her bird-rump was covered with nikwako, hair; the old women rubbed rubber latex on her to remove it — but as it was removed more came, and the hairier she grew. When she was covered with leaves she told her story: a komuine had come and taken her by force into the bush to be his woman; she gave birth to twins, and the second was buried, for even komuine have but one child — and the child was hairy like a komuine but had the face of a man. Because of the unsightliness and the pollution, and the blood-feud which had cost the tribe so many warriors, it was decided to destroy her; she fled into the forest, and all the komuine came and robbed the plantation — no manioc, no fruit. The lianas were like a net in the path, and the tribe got thinner and thinner, and now to-day there is no tribe of the Utiguene.",
+        "zh": "昔有大族，兵強人眾；酋有女，貌陋而臀有羽；巫名之曰科穆伊內——猴也。入林採椒不返；眾謂虎攫之，大索而遇敵族，戰歿甚眾。久之，女歸大屋而歌其怨：『酋女迷林，無人尋跡……』舞而臀毛叢生；老嫗塗膠拔之，愈拔愈多。葉覆其身，乃自述：猴強暴之，攜入林為婦；產雙生，埋其一——猴惟一子也——其子毛如猴而面如人。族恥其穢，又痛血仇之損，議誅之；女遁於林，群猴至而掠其田——薯果俱盡。藤蔓如網塞徑，族日削，今烏蒂格內無存矣。"
+      },
+      "motifs": [
+        "taboo-transgression",
+        "transformation",
+        "foundational-legend",
+        "abduction"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Boro oral tradition recorded by Whiffen 1915; Whiffen notes it may equally be a traditional account of an actual rape by a hostile tribe — the Amazonian version of Helen and Troy; the record keeps both readings and is read critically."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Once a large tribe lived there, one of the most powerful of all the tribes, and also one of the most numerous. But long, long ago a chief of this tribe of the Utiguene had a daughter, who was not only ugly but bird-rumped; the Chekobe, the medicine-man, gave her the name of Komuine — monkey. When she was about five feet high Komuine went into the bush to pick peppers and berries, but did not return. The tribe said a tiger must have carried her off; so a tribal hunt was instituted, and the bush searched — but in the bush they were attacked by a wicked tribe, which fell upon them and killed them in great numbers. So they returned with great sadness to the maloka.",
+          "note": "Condensed paraphrase of Whiffen 1915, ch. XVIII; not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Long, long after this Komuine reappeared in the great house of the tribe, and sang a solo, as is the custom among the people when making a complaint: 'The Chief's daughter was lost in the forest, and no one came to find the spoor; the branches were broken, the leaves were turned, and no one came to find the spoor; and where were my brothers, and the sons of the chief's brothers?' And while Komuine was dancing it was noticed, to the disgust of the tribe, that her bird-rump was covered with nikwako, hair; so the old women came and rubbed latex upon her to remove the unsightliness — but as it was removed more unsightliness came, and the hairier she grew. When she was covered with leaves she told her story: 'When I was in the forest picking peppers a komuine came to me, and taking me by force he deflowered me; he took me with him into the bush to become his woman, and I gave birth to twins, and the second one was buried, for even komuine have but one child. And the child was hairy like a komuine, but had the face of a man.'",
+          "note": "Condensed paraphrase of Whiffen 1915, ch. XVIII; not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "The tribe then had a tobacco palaver, and because of the unsightliness, and the pollution, and the blood-feud with their enemies which had cost the tribe so many warriors, it was decided to destroy her. When she heard this she fled into the forest, and all the komuine came and robbed the plantation: there was no manioc, and no fruit. And when the men of the Utiguene went out to hunt, the lianas were like a net in the path, and so thick no one could pass. And the tribe got thinner and thinner, and now to-day there is no tribe of the Utiguene.",
+          "note": "Condensed paraphrase of Whiffen 1915, ch. XVIII; not verbatim."
+        }
+      ],
+      "persons": []
+    },
+    {
+      "id": "amazonian-jaguar-anaconda-magic",
+      "title": {
+        "en": "The Jaguar and the Anaconda: Magic Beasts and the Feast of Revenge",
+        "zh": "豹與蚺：靈獸與復仇之宴"
+      },
+      "tradition": "amazonian",
+      "category": "myth",
+      "region": {
+        "en": "Issa-Japura rivers",
+        "zh": "伊薩-哈普拉諸河"
+      },
+      "lat": -0.8,
+      "lon": -72.3,
+      "period": "Witoto-Boro oral tradition; recorded 1915 (Whiffen)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Thomas Whiffen, The North-West Amazons (1915), ch. XVII 'The Indians' Magico-Religious System'",
+        "url": "https://archive.org/details/northwestamazons00whif"
+      },
+      "license": "Public domain (book 1915)",
+      "summary": {
+        "en": "Two of the forest denizens, the jaguar and the anaconda, occupy outstanding positions in connection with spirits and magic: independently of spiritual possession they are magical beasts. The anaconda is looked upon as an evil spirit, the embodiment of the water spirit, the Yacu-mama, the mother, the spirit of the streams, whose coils may bar the passage of the streams — the Indian goes in terror of it. Tigers are never killed wantonly: the tribesman is anxious not to provoke war with the tiger tribe, for Indians look upon animals as capable of a prolonged blood-feud with humans who may have wronged them. But when an Indian is killed, or a child lost — tigers are usually credited with the destruction of any child missing from its home — the medicine-man proceeds to discover that it was a tribal enemy working in disguise, probably the spirit of a hostile medicine-man; the tiger is then to be treated as a human enemy. A big tribal hunt is organised, and if the quarry be secured a feast of tiger-flesh follows, a feast of revenge, very similar in detail to the anthropophagous orgies. At no other time does the Indian eat jaguar meat; the tiger-skin becomes the property of the medicine-man, whose magic has thus triumphed over the magic of a rival.",
+        "zh": "豹與大蚺者，獸中之靈也；非附魂而自具魔法。蚺為水母雅庫瑪瑪——川后之靈——其身可斷河流，人莫不畏之。豹非挑釁不殺：獸亦能血仇。然人有橫死、嬰有失蹤——皆歸咎於豹——醫師必察之，言乃敵族巫者之靈所化；於是豹即人敵，大舉族獵。獲而烹豹肉，設復仇之宴；此外不食豹肉。豹皮歸於醫師——其術勝敵巫之術也。"
+      },
+      "motifs": [
+        "transformation",
+        "boon-curse",
+        "ritual-origin",
+        "miracle-cure",
+        "opposed-twins"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Witoto-Boro beliefs recorded by Whiffen 1915; read critically. The comparative note on cannibal-feast parallels is kept as description, not endorsement."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Two of the forest denizens, the jaguar and the anaconda, occupy outstanding positions in this connection with spirits and magic to all the other beasts of the wild: the 'tiger' and the great water-snake, independently of such spiritual possession, are magical beasts. The anaconda is looked upon as an evil spirit: it is the embodiment of the water spirit, the Yacu-mama, whose coils may bar the passage of the streams, and the Indian goes in terror of it. The Yacu-mama, as the name signifies, is the mother, the spirit of the streams; it occupies the place in Amazonian folk-tales filled by the sea-serpent of Europe.",
+          "note": "Condensed paraphrase of Whiffen 1915, ch. XVII; not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Tigers are not killed unless they be the aggressors — that is to say they are never killed wantonly: the reason for this is not cowardice, but fear of further aggression on the part of the tiger family, or from the family of the medicine-man who has assumed tiger form. Indians look upon animals as having the same instincts as themselves, and therefore capable of a prolonged blood-feud with humans who may have wronged them.",
+          "note": "Condensed paraphrase of Whiffen 1915, ch. XVII; not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "When an Indian is killed, or a child lost — and tigers are usually credited with the destruction of any child missing from its home — the medicine-man is called upon, and he proceeds to discover that it was a tribal enemy working in disguise, probably the spirit of a hostile medicine-man. The tiger is in these circumstances to be treated as a human enemy: a big tribal hunt is organised, and if the quarry be secured a feast of tiger-flesh follows, a feast of revenge. At no other time does the Indian eat jaguar meat; the tiger-skin becomes the property of the medicine-man, whose magic has thus triumphed over the magic of a rival.",
+          "note": "Condensed paraphrase of Whiffen 1915, ch. XVII; not verbatim."
+        }
+      ],
+      "persons": []
+    },
+    {
+      "id": "amazonian-sun-moon-wife-whiffen",
+      "title": {
+        "en": "The Sun and His Wife the Moon, the Stars as Souls of Chiefs",
+        "zh": "日與其妻月，星為酋長之魂"
+      },
+      "tradition": "amazonian",
+      "category": "myth",
+      "region": {
+        "en": "Issa-Japura region",
+        "zh": "伊薩-哈普拉之地"
+      },
+      "lat": -0.8,
+      "lon": -72.3,
+      "period": "Witoto-Boro oral tradition; recorded 1915 (Whiffen)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Thomas Whiffen, The North-West Amazons (1915), ch. XVII 'The Indians' Magico-Religious System'",
+        "url": "https://archive.org/details/northwestamazons00whif"
+      },
+      "license": "Public domain (book 1915)",
+      "summary": {
+        "en": "Finally, the tribes south of the Japura are concerned with the sun and the moon: these are venerated, the sun as a great and sympathetic spirit, but not an incarnation of the great Good Spirit; the moon as his wife, who is sent betimes by the sun into the heavens at night to prevent the evil spirits from depopulating the world. Of the stars these people seem to have the vaguest ideas, and only one Boro explained that they were the souls of the chiefs and of the great men of his tribe. The moon's inconstant appearances are accounted for by the suggestion that she is sent periodically by the sun her husband to drive away the evil spirits of the night that await the stray or heedless loiterers in the forest thickets — though this protective character is denied to the moon by other tribes, and some South American Indians will hide young infants lest the moon should injure them.",
+        "zh": "哈普拉以南諸族尊日月：日為偉大仁慈之靈，非善靈之化身；月為其妻，夫遣之夜行於天，以阻惡靈之滅人。星則其識甚淺；一博羅人言星乃其族酋長與大人之魂也。月之隱現，蓋夫遣妻驅林間伺人之夜鬼——然他族不然，或有匿嬰以防月之害者。"
+      },
+      "motifs": [
+        "theophany",
+        "transformation",
+        "incarnation-avatar",
+        "opposed-twins",
+        "celestial-persons"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Witoto-Boro beliefs recorded by Whiffen 1915; read critically."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The tribes south of the Japura are concerned with the sun and the moon: these are venerated, the sun as a great and sympathetic spirit, but not an incarnation of the great Good Spirit; the moon as his wife, who is sent betimes by the sun into the heavens at night to prevent the evil spirits from depopulating the world. Of the stars these people seem to have the vaguest ideas, and only one Boro explained to me that they were the souls of the chiefs and of the great men of his tribe.",
+          "note": "Condensed paraphrase of Whiffen 1915, ch. XVII; not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "The moon's inconstant appearances are accounted for by the suggestion that she is sent periodically by the sun her husband to drive away the evil spirits of the night that await the stray or heedless loiterers in the forest thickets. But this protective character is denied to the moon by other tribes, and some South American Indians will hide young infants lest the moon should injure them.",
+          "note": "Condensed paraphrase of Whiffen 1915, ch. XVII; not verbatim."
+        }
+      ],
+      "persons": []
+    },
+    {
+      "id": "amazonian-camera-soul-thief",
+      "title": {
+        "en": "The Camera That Stole Souls",
+        "zh": "竊魂之照箱"
+      },
+      "tradition": "amazonian",
+      "category": "myth",
+      "region": {
+        "en": "Boro-Witoto malokas",
+        "zh": "博羅-維托托大屋"
+      },
+      "lat": -0.8,
+      "lon": -72.3,
+      "period": "Boro-Witoto beliefs; recorded 1915 (Whiffen)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Thomas Whiffen, The North-West Amazons (1915), ch. XVII 'The Indians' Magico-Religious System'",
+        "url": "https://archive.org/details/northwestamazons00whif"
+      },
+      "license": "Public domain (book 1915)",
+      "summary": {
+        "en": "Anything abnormal or unknown is regarded with suspicious dread; Whiffen's camera was naturally endowed by Indian imagination with magical properties, the most general idea among the Boro being that it was an infernal machine designed to steal the souls of those who were exposed to its baleful eye. The Indian was brought face to face with his naked soul, represented by the miniature of himself in the photographic plate: one glance, and one only, could he be induced to give; never again would he be privy to such magic. The Witoto women believed more material magic was afoot, and feared that, should they suffer exposure to the camera, they would bear resultant offspring to whom the camera — or the photographer — would stand in paternal relation.",
+        "zh": "凡異常之物，皆疑而懼之。白人之照箱，博羅人以為地獄之器，凡受其凶目所照者，魂皆被竊。相版中縮小之影，即其赤裸之魂也；一見之後，永不復視。維托托婦人則懼其為形體之術：若受照，所產之子，當以照箱或照相者為父也。"
+      },
+      "motifs": [
+        "spirit-possession",
+        "taboo-transgression"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Boro-Witoto beliefs recorded by Whiffen 1915; a colonial-era encounter, read critically."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "My camera was naturally endowed by Indian imagination with magical properties, the most general idea among the Boro being that it was an infernal machine, designed to steal the souls of those who were exposed to its baleful eye. The Indian was brought face to face with his naked soul, represented by the miniature of himself in the photographic plate: one glance, and one only, could he be induced to give — never again would he be privy to such magic.",
+          "note": "Condensed paraphrase of Whiffen 1915, ch. XVII; not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "The Witoto women believed that I was working more material magic, and feared should they suffer exposure to the camera that they would bear resultant offspring to whom the camera — or the photographer — would stand in paternal relation.",
+          "note": "Condensed paraphrase of Whiffen 1915, ch. XVII; not verbatim."
+        }
+      ],
+      "persons": []
+    },
+    {
+      "id": "amazonian-white-indians-night",
+      "title": {
+        "en": "The White Indians Who Sleep by Day",
+        "zh": "晝眠之白印第安人"
+      },
+      "tradition": "amazonian",
+      "category": "myth",
+      "region": {
+        "en": "Upper rivers of Guiana and Amazonia",
+        "zh": "圭亞那與亞馬遜上游諸河"
+      },
+      "lat": 2.0,
+      "lon": -58.0,
+      "period": "South American folk tradition; recorded 1915 (Whiffen)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Thomas Whiffen, The North-West Amazons (1915), ch. XVIII 'Myths'",
+        "url": "https://archive.org/details/northwestamazons00whif"
+      },
+      "license": "Public domain (book 1915)",
+      "summary": {
+        "en": "A story prevalent throughout South America tells of a race of white Indians who sleep in the daytime, and only go abroad at night. This tale was laughed at when repeated at a recent meeting of the Royal Geographical Society, but it is certainly in existence among the tribes; and Crevaux states that the Ouayana will not go near one river, 'à cause des singuliers habitants qui habiteraient près des sources... des Indiens aux chevaux blonds qui dorment le jour et marchent toute la nuit' — because of the strange dwellers near the sources, Indians with blond horses who sleep the day and march all night. Where tribal differentiation of colour is so marked it is only natural that tales should be told of some mythical 'white' folk.",
+        "zh": "南美遍傳白印第安人之說：晝眠而夜行。皇家地理學會曾哂之，然土族中確有其傳。克雷沃言：瓦亞納人不近某河，『以河源有異民居之：白膚金髮之印第安人，晝眠而夜行也。』部落膚色既異，則幻設白人之族，固其宜也。"
+      },
+      "motifs": [
+        "otherworld-voyage",
+        "transformation"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "South American folk tradition recorded by Whiffen 1915; read critically."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "A story that is prevalent throughout South America tells of a race of white Indians who sleep in the daytime, and only go abroad at night. This tale was laughed at when repeated at a recent meeting of the Royal Geographical Society, but it is certainly in existence among the tribes; and Crevaux states that the Ouayana will not go near one river — because of the strange dwellers near the sources: Indians with blond horses who sleep the day and march all night.",
+          "note": "Condensed paraphrase of Whiffen 1915, ch. XVIII (citing Crevaux); not verbatim."
+        }
+      ],
+      "persons": []
+    }
+  ]
+}

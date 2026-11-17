@@ -1,0 +1,795 @@
+{
+  "texts": [
+    {
+      "id": "babylonian-anzu-tablet-destinies",
+      "title": {
+        "en": "Anzu Steals the Tablet of Destinies",
+        "zh": "安祖竊取天命泥板"
+      },
+      "tradition": "babylonian",
+      "category": "myth",
+      "region": {
+        "en": "Bathing-house of the gods, Nippur (symbolic pin)",
+        "zh": "眾神浴所，尼普魯（象徵性定位）"
+      },
+      "lat": 32.126,
+      "lon": 45.23,
+      "period": "Old Babylonian and Standard Babylonian versions (Spence retelling 1916)",
+      "source": {
+        "archive": "Project Gutenberg",
+        "work": "Myths & Legends of Babylonia & Assyria, 'The Legend of Zu', Lewis Spence (1916)",
+        "url": "https://www.gutenberg.org/ebooks/45137"
+      },
+      "license": "Public domain (retelling 1916)",
+      "summary": {
+        "en": "Anzu, the lion-headed storm bird set to guard the bathwater, watches Enlil strip off his Tablet of Destinies; while the god washes, the bird seizes it — his word now commands the fates — and the whole world's order hangs on a theft.",
+        "zh": "獅首暴風鳥安祖受命看守浴水；窺見恩利爾卸下天命泥板，趁其沐浴時搶走——從此一言可定天下命運——世界秩序懸於一竊。"
+      },
+      "motifs": [
+        "taboo-transgression",
+        "quest-immortality",
+        "world-serpent"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient myth; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Anzu, the lion-headed storm bird, is set to guard the bathwater of Enlil; he watches the god take off his raiment and the Tablet of Destinies with it, and while the god washes, the bird seizes the tablet and flies with it to his mountain. With the tablet on his breast, Anzu's word commands the fates: whoever goes against him dissolves — his cry uncreates. The gods convene in terror: the thief must be met by one whose fate the tablet cannot touch.",
+          "note": "Paraphrase of the Anzu legend (Spence 1916); not verbatim."
+        }
+      ],
+      "persons": [
+        "anzu",
+        "enlil"
+      ],
+      "functions": [
+        "Coup myth of the Tablet of Destinies",
+        "Theology of the fates-bearing word"
+      ],
+      "variants": [
+        {
+          "name": "Enuma Elish: Qingu bears the tablets",
+          "text_tradition": "Akkadian (Muss-Arnolt 1901)",
+          "summary": "The tablet motif in the creation epic.",
+          "cross_ref": "babylonian-enuma-tiamat-rage"
+        },
+        {
+          "name": "Lugalbanda and the Anzud bird (Sumerian)",
+          "text_tradition": "Sumerian (ETCSL c.1.8.2.2)",
+          "summary": "The gentler Sumerian myth of the same bird.",
+          "cross_ref": "sumerian-lugalbanda-anzu"
+        }
+      ],
+      "language": "Akkadian",
+      "canonical_translation": "Lewis Spence, 1916 (retelling)",
+      "primary_sources": [
+        {
+          "work": "Legend of Anzu (Zu)",
+          "citation": "as retold in Spence, Myths & Legends of Babylonia & Assyria (1916)",
+          "language": "Akkadian"
+        }
+      ],
+      "secondary_sources": [
+        {
+          "work": "The Epic of Gilgamesh",
+          "citation": "Andrew George, London, 1999, appendix on Anzu"
+        }
+      ],
+      "source_urls": [
+        {
+          "url": "https://www.gutenberg.org/ebooks/45137",
+          "description": "Spence 1916",
+          "accessed": "2026-11-14"
+        }
+      ],
+      "sensitivity_flag": "none",
+      "provenance": {
+        "record_status": "complete",
+        "compiled": "2026-11-14",
+        "compiled_by": "opencode myth-collection session",
+        "review_status": "unreviewed"
+      }
+    },
+    {
+      "id": "babylonian-anzu-ninurta-battle",
+      "title": {
+        "en": "Ninurta Recovers the Destinies",
+        "zh": "尼努爾塔奪回天命"
+      },
+      "tradition": "babylonian",
+      "category": "myth",
+      "region": {
+        "en": "Mountains of the thief, Nippur region (symbolic pin)",
+        "zh": "竊賊之山，尼普魯地區（象徵性定位）"
+      },
+      "lat": 35.0,
+      "lon": 45.0,
+      "period": "Old Babylonian and Standard Babylonian versions (Spence retelling 1916)",
+      "source": {
+        "archive": "Project Gutenberg",
+        "work": "Myths & Legends of Babylonia & Assyria, 'The Legend of Zu', Lewis Spence (1916)",
+        "url": "https://www.gutenberg.org/ebooks/45137"
+      },
+      "license": "Public domain (retelling 1916)",
+      "summary": {
+        "en": "Ea's stratagem is preached: call Anzu's bride, unmoralize him mid-battle — when his wings are stripped by arrows as he chants the tablet's power, Ninurta's wind cuts through and the bird falls; the tablet is returned to Enlil's breast, and Ninurta is honored.",
+        "zh": "埃亞獻策：喚其新婦、戰中蠱惑其心——當安祖誦念泥板之力時，以箭破其翼，風切而入；巨鳥墜落，泥板歸還恩利爾胸前，尼努爾塔受尊崇。"
+      },
+      "motifs": [
+        "storm-thunder",
+        "trickster",
+        "sacred-kingship"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient myth; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The champions sent fail; Ea preaches the stratagem: shake Anzu's bride at him and confuse his wits in battle — for the tablet's word can dissolve any named foe unless his mind is scattered. Ninurta meets the bird; as Anzu chants the tablet's power, arrows strip his feathers, the wind cuts through, and the thief falls. The Tablet of Destinies returns to Enlil's breast, and Ninurta is honored in the assembly — kingship's champion proven.",
+          "note": "Paraphrase of the Anzu legend (Spence 1916); not verbatim."
+        }
+      ],
+      "persons": [
+        "ninurta",
+        "anzu",
+        "enki",
+        "enlil"
+      ],
+      "functions": [
+        "Restoration of legitimacy by the war god",
+        "Warfare of wits against magical power"
+      ],
+      "variants": [
+        {
+          "name": "Ninurta's exploits (Sumerian)",
+          "text_tradition": "Sumerian (ETCSL c.1.6.2)",
+          "summary": "The same god's earlier chaos-battle.",
+          "cross_ref": "sumerian-ninurta-asag-battle"
+        }
+      ],
+      "language": "Akkadian",
+      "canonical_translation": "Lewis Spence, 1916 (retelling)",
+      "primary_sources": [
+        {
+          "work": "Legend of Anzu (Zu)",
+          "citation": "as retold in Spence, Myths & Legends of Babylonia & Assyria (1916)",
+          "language": "Akkadian"
+        }
+      ],
+      "secondary_sources": [
+        {
+          "work": "Myths of Babylonia and Assyria",
+          "citation": "Donald A. Mackenzie, London, 1915, Zu bird legend"
+        }
+      ],
+      "source_urls": [
+        {
+          "url": "https://www.gutenberg.org/ebooks/45137",
+          "description": "Spence 1916",
+          "accessed": "2026-11-14"
+        }
+      ],
+      "sensitivity_flag": "none",
+      "provenance": {
+        "record_status": "complete",
+        "compiled": "2026-11-14",
+        "compiled_by": "opencode myth-collection session",
+        "review_status": "unreviewed"
+      }
+    },
+    {
+      "id": "babylonian-erra-restlessness",
+      "title": {
+        "en": "Erra Wakes",
+        "zh": "埃拉醒來"
+      },
+      "tradition": "babylonian",
+      "category": "myth",
+      "region": {
+        "en": "Esagila, Babylon, Iraq",
+        "zh": "埃薩吉拉神殿，巴比倫（伊拉克）"
+      },
+      "lat": 32.536,
+      "lon": 44.421,
+      "period": "Composed c. 800 BCE (Spence retelling of the Dibarra legend, 1916)",
+      "source": {
+        "archive": "Project Gutenberg",
+        "work": "Myths & Legends of Babylonia & Assyria, the Erra (Dibarra) legend, Lewis Spence (1916)",
+        "url": "https://www.gutenberg.org/ebooks/45137"
+      },
+      "license": "Public domain (retelling 1916)",
+      "summary": {
+        "en": "Erra, lord of plague and fire, wakes with a lust for battle; his weapons — seven personified terrors — complain of rust, and their master answers: only war will keep us sharp. Ishum, his herald, pleads for the cities; Erra refuses: the Suteans are due their fate.",
+        "zh": "瘟火之主埃拉帶著嗜戰之渴醒來；七位人格化的恐怖武器抱怨刀劍生鏽，其主答道：唯有戰爭能使其鋒利。傳令官伊舒姆為城邦哀求；埃拉拒之：蘇特人命該如此。"
+      },
+      "motifs": [
+        "storm-thunder",
+        "taboo-transgression",
+        "world-renewal",
+        "plague-sent"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient epic; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Erra wakes with a hunger for war; his seven weapons, personified terrors, complain that they are rusting in idleness, and their master answers: only war keeps us sharp. Ishum, the herald, pleads for the cities — who will serve the gods if Babylon burns? — but Erra refuses: the Suteans are due their fate, and the weapons roar like lions.",
+          "note": "Paraphrase of the Erra epic (Spence 1916 retelling); not verbatim. / Paraphrase of the Erra epic (Spence 1916); not verbatim."
+        }
+      ],
+      "persons": [
+        "erra",
+        "ishum"
+      ],
+      "functions": [
+        "Apotropaic recitation against plague",
+        "Theology of war as divine restlessness",
+        "Crisis-period charter of destruction and restraint"
+      ],
+      "variants": [
+        {
+          "name": "A hymn to Nergal of Kutha",
+          "text_tradition": "Sumerian (ETCSL c.4.15.1)",
+          "summary": "The appeasement liturgy of the same dread god.",
+          "cross_ref": "sumerian-hymn-nergal"
+        }
+      ],
+      "language": "Akkadian",
+      "canonical_translation": "Lewis Spence, 1916 (retelling)",
+      "primary_sources": [
+        {
+          "work": "Epic of Erra (Dibarra legend)",
+          "citation": "as retold in Spence, Myths & Legends of Babylonia & Assyria (1916)",
+          "language": "Akkadian"
+        }
+      ],
+      "secondary_sources": [
+        {
+          "work": "Myths from Mesopotamia",
+          "citation": "Stephanie Dalley, Oxford, 1989, introduction to Erra"
+        }
+      ],
+      "source_urls": [
+        {
+          "url": "https://www.gutenberg.org/ebooks/45137",
+          "description": "Spence 1916",
+          "accessed": "2026-11-14"
+        }
+      ],
+      "sensitivity_flag": "none",
+      "provenance": {
+        "record_status": "complete",
+        "compiled": "2026-11-14",
+        "compiled_by": "opencode myth-collection session",
+        "review_status": "unreviewed"
+      }
+    },
+    {
+      "id": "babylonian-erra-marduk-departs",
+      "title": {
+        "en": "Marduk Leaves His Throne",
+        "zh": "馬爾杜克離其御座"
+      },
+      "tradition": "babylonian",
+      "category": "myth",
+      "region": {
+        "en": "Esagila, Babylon, Iraq",
+        "zh": "埃薩吉拉神殿，巴比倫（伊拉克）"
+      },
+      "lat": 32.536,
+      "lon": 44.421,
+      "period": "Composed c. 800 BCE (Spence retelling 1916)",
+      "source": {
+        "archive": "Project Gutenberg",
+        "work": "Myths & Legends of Babylonia & Assyria, the Erra (Dibarra) legend, Lewis Spence (1916)",
+        "url": "https://www.gutenberg.org/ebooks/45137"
+      },
+      "license": "Public domain (retelling 1916)",
+      "summary": {
+        "en": "Marduk's regalia lie dark in the temple — the god has left his throne for the smith's house to have his emblems refitted — and Erra walks into the vacant seat: the cities of the land are given to the sword while the king of the gods is away.",
+        "zh": "馬爾杜克的神權象徵幽暗塵封於神殿——原來神明離座前往工匠之處整修其徽記——埃拉遂坐入空位：眾神之王離席之際，舉國城池盡付刀兵。"
+      },
+      "motifs": [
+        "world-renewal",
+        "taboo-transgression",
+        "sacred-kingship"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient epic; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The regalia of Marduk lie dark; the god has left his throne — gone to the smith to have his emblems refitted — and in the vacant seat Erra takes the government of the world. While the king of the gods is away, the cities of the land are given to the sword: Sippar, Uruk, Babylon, Dilmun — every name is sung as Erra's harvest, and the temples stand silent.",
+          "note": "Paraphrase of the Erra epic (Spence 1916); not verbatim."
+        }
+      ],
+      "persons": [
+        "erra",
+        "marduk",
+        "ishum"
+      ],
+      "functions": [
+        "Theodicy of the era's collapse: the absent king",
+        "City-catastrophe catalogue as memorial"
+      ],
+      "variants": [
+        {
+          "name": "The lament for Sumer and Ur",
+          "text_tradition": "Sumerian (ETCSL c.2.2.3)",
+          "summary": "The earlier catastrophe liturgy.",
+          "cross_ref": "sumerian-lament-sumer-ur"
+        }
+      ],
+      "language": "Akkadian",
+      "canonical_translation": "Lewis Spence, 1916 (retelling)",
+      "primary_sources": [
+        {
+          "work": "Epic of Erra",
+          "citation": "as retold in Spence (1916)",
+          "language": "Akkadian"
+        }
+      ],
+      "secondary_sources": [
+        {
+          "work": "Myths from Mesopotamia",
+          "citation": "Stephanie Dalley, Oxford, 1989"
+        }
+      ],
+      "source_urls": [
+        {
+          "url": "https://www.gutenberg.org/ebooks/45137",
+          "description": "Spence 1916",
+          "accessed": "2026-11-14"
+        }
+      ],
+      "sensitivity_flag": "none",
+      "provenance": {
+        "record_status": "complete",
+        "compiled": "2026-11-14",
+        "compiled_by": "opencode myth-collection session",
+        "review_status": "unreviewed"
+      }
+    },
+    {
+      "id": "babylonian-erra-ishum-plea",
+      "title": {
+        "en": "Ishum's Plea and Erra's Peace",
+        "zh": "伊舒姆之勸與埃拉之安"
+      },
+      "tradition": "babylonian",
+      "category": "myth",
+      "region": {
+        "en": "Esagila, Babylon, Iraq",
+        "zh": "埃薩吉拉神殿，巴比倫（伊拉克）"
+      },
+      "lat": 32.536,
+      "lon": 44.421,
+      "period": "Composed c. 800 BCE (Spence retelling 1916)",
+      "source": {
+        "archive": "Project Gutenberg",
+        "work": "Myths & Legends of Babylonia & Assyria, the Erra (Dibarra) legend, Lewis Spence (1916)",
+        "url": "https://www.gutenberg.org/ebooks/45137"
+      },
+      "license": "Public domain (retelling 1916)",
+      "summary": {
+        "en": "Ishum keeps arguing — the temples are ash, the gods unfed — until Marduk returns to his throne; Erra, satiated, hands back the world: let him who recites this song be spared from plague and war — the epic's own apotropaic promise.",
+        "zh": "伊舒姆不斷進諫——神殿成灰、眾神乏祀——直至馬爾杜克重歸御座；埃拉饜足而返還天下：凡誦此歌者，疫與戰皆不能近身——此即史詩自帶的護身之諾。"
+      },
+      "motifs": [
+        "ritual-origin",
+        "world-renewal",
+        "storm-thunder",
+        "plague-sent"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient epic; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Ishum argues through the burning cities — the temples are ash, the gods unfed, mankind in chains — until Marduk returns to his throne and Erra, satiated, hands back the government of the world. The epic's own close is its use: let him who recites this song be spared from plague and war — the poem an incantation against the destruction it narrates.",
+          "note": "Paraphrase of the Erra epic (Spence 1916); not verbatim."
+        }
+      ],
+      "persons": [
+        "erra",
+        "ishum",
+        "marduk"
+      ],
+      "functions": [
+        "Apotropaic promise of the recitation",
+        "Resolution theology of restraint over destruction"
+      ],
+      "variants": [
+        {
+          "name": "Prayer to every god",
+          "text_tradition": "Akkadian (Rogers 1912)",
+          "summary": "The penitential companion of plague theology.",
+          "cross_ref": "babylonian-prayer-every-god"
+        }
+      ],
+      "language": "Akkadian",
+      "canonical_translation": "Lewis Spence, 1916 (retelling)",
+      "primary_sources": [
+        {
+          "work": "Epic of Erra",
+          "citation": "as retold in Spence (1916)",
+          "language": "Akkadian"
+        }
+      ],
+      "secondary_sources": [
+        {
+          "work": "Myths from Mesopotamia",
+          "citation": "Stephanie Dalley, Oxford, 1989"
+        }
+      ],
+      "source_urls": [
+        {
+          "url": "https://www.gutenberg.org/ebooks/45137",
+          "description": "Spence 1916",
+          "accessed": "2026-11-14"
+        }
+      ],
+      "sensitivity_flag": "none",
+      "provenance": {
+        "record_status": "complete",
+        "compiled": "2026-11-14",
+        "compiled_by": "opencode myth-collection session",
+        "review_status": "unreviewed"
+      }
+    },
+    {
+      "id": "babylonian-seven-demons",
+      "title": {
+        "en": "The Seven Evil Demons",
+        "zh": "七惡魔"
+      },
+      "tradition": "babylonian",
+      "category": "myth",
+      "region": {
+        "en": "Roads and thresholds of the land, Iraq",
+        "zh": "大地道路與門檻（伊拉克）"
+      },
+      "lat": 32.0,
+      "lon": 45.0,
+      "period": "Old Babylonian bilingual incantation (Wilson/Muss-Arnolt translation 1901)",
+      "source": {
+        "archive": "Project Gutenberg",
+        "work": "Babylonian and Assyrian Literature, 'The Accadian Poem on the Seven Evil Spirits', trans. Muss-Arnolt (1901)",
+        "url": "https://www.gutenberg.org/ebooks/10887"
+      },
+      "license": "Public domain (translation 1901)",
+      "summary": {
+        "en": "Seven are they, seven are they: spirits of the flame and the flood, knowing no mercy, that burst in at the door like the flood at night — the bilingual incantation names the seven demons and drives them from the sick man's house.",
+        "zh": "彼等有七，其數為七：火焰與洪水之靈，全無憐憫，夜半如洪水破門而入——雙語咒文一一具名七魔，驅之於病者宅外。"
+      },
+      "motifs": [
+        "spirit-possession",
+        "ritual-origin",
+        "magic-word"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient incantation; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Seven are they, seven are they: in the vault of heaven, in the deep of earth, spirits that know no father or mother, that burst in at the door like the flood at night. The incantation names each — the fever, the fiend, the flood-spirit — and drives them from the house: the exorcist's craft in its oldest poetic form, the demons that walk ahead of death's business made nameable and expellable.",
+          "note": "Paraphrase of the bilingual poem on the seven evil spirits (Muss-Arnolt 1901); not verbatim. / Paraphrase of the bilingual poem (Muss-Arnolt 1901); not verbatim."
+        }
+      ],
+      "persons": [
+        "namtar"
+      ],
+      "functions": [
+        "Exorcistic naming and expulsion of the demons",
+        "Foundation text of the udug-hul anti-demon corpus"
+      ],
+      "variants": [
+        {
+          "name": "Lamashtu and Pazuzu cult",
+          "text_tradition": "Akkadian (Jastrow 1898)",
+          "summary": "The developed demonology of the infant-snatching demoness.",
+          "cross_ref": "babylonian-lamashtu-pazuzu"
+        }
+      ],
+      "language": "Akkadian (bilingual with Sumerian)",
+      "canonical_translation": "Muss-Arnolt, 1901",
+      "primary_sources": [
+        {
+          "work": "The Accadian Poem on the Seven Evil Spirits",
+          "citation": "trans. Muss-Arnolt (1901)",
+          "language": "Akkadian"
+        }
+      ],
+      "secondary_sources": [
+        {
+          "work": "The Religion of Babylonia and Assyria",
+          "citation": "Morris Jastrow Jr., Boston, 1898, on demons"
+        }
+      ],
+      "source_urls": [
+        {
+          "url": "https://www.gutenberg.org/ebooks/10887",
+          "description": "Muss-Arnolt's 1901 translations",
+          "accessed": "2026-11-14"
+        }
+      ],
+      "sensitivity_flag": "none",
+      "provenance": {
+        "record_status": "complete",
+        "compiled": "2026-11-14",
+        "compiled_by": "opencode myth-collection session",
+        "review_status": "unreviewed"
+      }
+    },
+    {
+      "id": "babylonian-lamashtu-pazuzu",
+      "title": {
+        "en": "Lamashtu and the Demon of the Wind",
+        "zh": "拉瑪什圖與風之魔"
+      },
+      "tradition": "babylonian",
+      "category": "myth",
+      "region": {
+        "en": "Birth houses of Babylon, Iraq",
+        "zh": "巴比倫產房（伊拉克）"
+      },
+      "lat": 32.536,
+      "lon": 44.421,
+      "period": "Neo-Assyrian demonology (Jastrow 1898)",
+      "source": {
+        "archive": "Project Gutenberg",
+        "work": "The Religion of Babylonia and Assyria, the Labartu demoness, Morris Jastrow (1898)",
+        "url": "https://www.gutenberg.org/ebooks/20758"
+      },
+      "license": "Public domain (1898)",
+      "summary": {
+        "en": "Lamashtu, the daughter of Anu, creeps into the birth-house: seven are her names, seven her deeds — she snatches the infant from the nurse's lap and drinks his blood. Against her the amulet is set, with Pazuzu, demon of the plague wind, standing guard.",
+        "zh": "安努之女拉瑪什圖潛入產房：其名有七、其行有七——從乳母膝上奪嬰、飲其血。人們設置護符抵禦之，以瘟疫風魔帕祖祖立於其位守護。"
+      },
+      "motifs": [
+        "spirit-possession",
+        "taboo-transgression",
+        "plague-sent",
+        "talisman"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient demonology; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Lamashtu, daughter of Anu, creeps into the house of birth: seven are her names and seven her deeds — she snatches the infant from the nurse's lap and drinks his blood, she with the lion's head and the eagle's talons. Against her the amulet is set: Pazuzu, demon of the plague wind, her own terror set as her guard, the bronze heads hung over the bed of mother and child — the demon managed by the demon.",
+          "note": "Paraphrase of the Labartu (Lamashtu) demonology (Jastrow 1898); not verbatim. / Paraphrase of the Lamashtu demonology (Jastrow 1898); not verbatim."
+        }
+      ],
+      "persons": [
+        "anu"
+      ],
+      "functions": [
+        "Charter of the infant-protection amulet",
+        "Theology of the demon managed by the demon"
+      ],
+      "variants": [
+        {
+          "name": "Atrahasis: Pashittu the infant-snatcher",
+          "text_tradition": "Akkadian (Rogers 1912)",
+          "summary": "The mythic origin of the demoness.",
+          "cross_ref": "babylonian-atrahasis-fertility"
+        }
+      ],
+      "language": "Akkadian",
+      "canonical_translation": "Morris Jastrow Jr., 1898",
+      "primary_sources": [
+        {
+          "work": "Labartu (Lamashtu) incantations",
+          "citation": "as discussed in Jastrow (1898)",
+          "language": "Akkadian"
+        }
+      ],
+      "secondary_sources": [
+        {
+          "work": "Gods, Demons and Symbols of Ancient Mesopotamia",
+          "citation": "Jeremy Black and Anthony Green, London, 1992, entry 'Lamashtu'"
+        }
+      ],
+      "source_urls": [
+        {
+          "url": "https://www.gutenberg.org/ebooks/20758",
+          "description": "Jastrow 1898",
+          "accessed": "2026-11-14"
+        }
+      ],
+      "sensitivity_flag": "none",
+      "provenance": {
+        "record_status": "complete",
+        "compiled": "2026-11-14",
+        "compiled_by": "opencode myth-collection session",
+        "review_status": "unreviewed"
+      }
+    },
+    {
+      "id": "babylonian-maqlu-witchcraft",
+      "title": {
+        "en": "Maqlu: The Burning of the Witches",
+        "zh": "瑪克盧：焚巫之儀"
+      },
+      "tradition": "babylonian",
+      "category": "myth",
+      "region": {
+        "en": "Crossroads of Babylon, Iraq",
+        "zh": "巴比倫十字路口（伊拉克）"
+      },
+      "lat": 32.536,
+      "lon": 44.421,
+      "period": "Kassite-Neo-Assyrian series, c. 1400-700 BCE (Jastrow 1898)",
+      "source": {
+        "archive": "Project Gutenberg",
+        "work": "The Religion of Babylonia and Assyria, the Maklu (Maqlu) series, Morris Jastrow (1898)",
+        "url": "https://www.gutenberg.org/ebooks/20758"
+      },
+      "license": "Public domain (1898)",
+      "summary": {
+        "en": "The witch works her image by night; the sufferer, led by the exorcist, burns her effigy at the crossroads — eight tablets of the Maqlu series recited until dawn, the fires of dawn completing the burning: the witchcraft is undone by daylight.",
+        "zh": "女巫夜間以偶人施術；受苦者由驅邪師引領，於十字路口焚其草人——瑪克盧八卷咒文誦至黎明，晨曦之火完成焚燒：巫術在白晝中瓦解。"
+      },
+      "motifs": [
+        "ritual-origin",
+        "spirit-possession",
+        "transformation"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient ritual literature; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The witch works her image by night, binding the sufferer's name in wax and flour; the exorcist leads the counter-rite: the effigy of the witch is burned at the crossroads while the eight tablets of the Maqlu series are recited. The fires of dawn complete the burning: the witchcraft is undone by daylight, and the closing incantation returns the sufferer's name to the protection of Shamash — witchcraft defeated by the sun of justice.",
+          "note": "Paraphrase of the Maqlu series (Jastrow 1898); not verbatim."
+        }
+      ],
+      "persons": [
+        "utu"
+      ],
+      "functions": [
+        "Anti-witchcraft liturgy of the night-and-dawn rite",
+        "Theory of image-magic and its remedy"
+      ],
+      "variants": [
+        {
+          "name": "Shurpu purification series",
+          "text_tradition": "Akkadian (Rogers 1912)",
+          "summary": "The complementary purification rite.",
+          "cross_ref": "babylonian-shurpu-sins"
+        }
+      ],
+      "language": "Akkadian",
+      "canonical_translation": "Morris Jastrow Jr., 1898",
+      "primary_sources": [
+        {
+          "work": "Maqlu series",
+          "citation": "as discussed in Jastrow (1898)",
+          "language": "Akkadian"
+        }
+      ],
+      "secondary_sources": [
+        {
+          "work": "Gods, Demons and Symbols of Ancient Mesopotamia",
+          "citation": "Jeremy Black and Anthony Green, London, 1992, entry 'witchcraft'"
+        }
+      ],
+      "source_urls": [
+        {
+          "url": "https://www.gutenberg.org/ebooks/20758",
+          "description": "Jastrow 1898",
+          "accessed": "2026-11-14"
+        }
+      ],
+      "sensitivity_flag": "none",
+      "provenance": {
+        "record_status": "complete",
+        "compiled": "2026-11-14",
+        "compiled_by": "opencode myth-collection session",
+        "review_status": "unreviewed"
+      }
+    },
+    {
+      "id": "babylonian-shurpu-sins",
+      "title": {
+        "en": "Shurpu: The List of Sins",
+        "zh": "舒爾普：罪目清單"
+      },
+      "tradition": "babylonian",
+      "category": "myth",
+      "region": {
+        "en": "Temple of purification, Babylon, Iraq",
+        "zh": "巴比倫淨化神殿（伊拉克）"
+      },
+      "lat": 32.536,
+      "lon": 44.421,
+      "period": "Kassite-Neo-Assyrian series (Jastrow 1898)",
+      "source": {
+        "archive": "Project Gutenberg",
+        "work": "The Religion of Babylonia and Assyria, the Shurpu series, Morris Jastrow (1898)",
+        "url": "https://www.gutenberg.org/ebooks/20758"
+      },
+      "license": "Public domain (1898)",
+      "summary": {
+        "en": "Whether he has sinned knowingly or unknowingly, offended god or goddess — the Shurpu series lists every sin that could have brought the sickness, that the purification may name it and burn it away.",
+        "zh": "無論其明知或誤犯、觸怒男神或女神——舒爾普系列一一列出可致疾病之諸罪，使淨化儀式得以指名並焚除之。"
+      },
+      "motifs": [
+        "ritual-origin",
+        "taboo-transgression",
+        "parable-teaching"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient ritual literature; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Whether he has sinned knowingly or unknowingly, offended god or goddess, sworn falsely or cursed in the assembly — the Shurpu series lists every sin that could have brought the sickness upon the sufferer. The named sin is then burned away: the purification rite completes the diagnosis — the liturgy that turned guilt into a curable condition.",
+          "note": "Paraphrase of the Shurpu series (Jastrow 1898); not verbatim."
+        }
+      ],
+      "persons": [],
+      "functions": [
+        "Diagnostic liturgy of sin and purification",
+        "Catalogue of ethical values in cult practice"
+      ],
+      "variants": [
+        {
+          "name": "Prayer to every god",
+          "text_tradition": "Akkadian (Rogers 1912)",
+          "summary": "The penitential companion.",
+          "cross_ref": "babylonian-prayer-every-god"
+        }
+      ],
+      "language": "Akkadian",
+      "canonical_translation": "Morris Jastrow Jr., 1898",
+      "primary_sources": [
+        {
+          "work": "Shurpu series",
+          "citation": "as discussed in Jastrow (1898)",
+          "language": "Akkadian"
+        }
+      ],
+      "secondary_sources": [
+        {
+          "work": "The Religion of Babylonia and Assyria",
+          "citation": "Morris Jastrow Jr., Boston, 1898, on penitential psalms"
+        }
+      ],
+      "source_urls": [
+        {
+          "url": "https://www.gutenberg.org/ebooks/20758",
+          "description": "Jastrow 1898",
+          "accessed": "2026-11-14"
+        }
+      ],
+      "sensitivity_flag": "none",
+      "provenance": {
+        "record_status": "complete",
+        "compiled": "2026-11-14",
+        "compiled_by": "opencode myth-collection session",
+        "review_status": "unreviewed"
+      }
+    }
+  ]
+}

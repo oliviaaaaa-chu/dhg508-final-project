@@ -1,0 +1,189 @@
+{
+  "_comment": "Shahnama of Firdausi, trans. A. G. & E. Warner (1905), vol. II: Siyawush before Afrasiyab; dream and death. Paraphrase passages with notes.",
+  "texts": [
+    {
+      "id": "persian-siyawush-polo-prowess",
+      "title": {
+        "en": "Siyawush Displays His Prowess Before Afrasiyab",
+        "zh": "西亞瓦什阿弗拉西亞卜前顯技"
+      },
+      "tradition": "persian",
+      "category": "myth",
+      "region": {
+        "en": "Polo-ground of Afrasiyab (symbolic pin)",
+        "zh": "阿弗拉西亞卜馬球場（象徵性定位）"
+      },
+      "lat": 40.0,
+      "lon": 63.0,
+      "period": "Composed c. 1010 CE (Warner translation 1905)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Firdausi, Shahnama, trans. A. G. & E. Warner (1905), vol. II, Siyawush sec. 33",
+        "url": "https://archive.org/details/shahnama02firduoft"
+      },
+      "license": "Public domain (translation 1905)",
+      "summary": {
+        "en": "At polo Afrasiyab drives the ball up to the clouds and Siyawush smites it, or ever it could reach the ground, so stoutly that it disappears from sight; the Iranians play the Turanians, and Siyawush, displeased with his own people, cries in the olden Persian tongue: when ye are near the limits look aside and let the Turkmans have the ball for once. At archery Garsiwaz cannot bend the prince's royal bow, but Siyawush bends it sitting on his knees and splits the bull's-eye again and again: thy skill is witness to thy race, says the king, and heaped gifts are borne to Siyawush's house.",
+        "zh": "馬球場上，阿弗拉西亞卜擊球沖天，西亞瓦什不待球落地便奮力一擊，球影頓消。伊朗隊與圖蘭隊較量，王子怕惹禍端，以古波斯語低喝：「靠近界線時讓讓突厥人吧！」比試神弓，加爾西瓦斯拉不開，王子跪地而拉、連中靶心——「你的技藝便是你血統的見證！」國王命人把成堆的賞賜送往西亞瓦什府邸。"
+      },
+      "motifs": [
+        "culture-hero",
+        "sacred-kingship"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Epic literary source; no living community restriction."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Afrasiyab hit off and drove the ball up to the clouds just as it should be struck. Then Siyawush urged on his steed and smote the ball, or ever it could reach the ground, so stoutly that it disappeared from sight. He mounted a fresh steed, threw up the ball, and drove it out of sight to see the moon; thou wouldst have said: the sky attracted it. There was not on the ground his peer, and none had such a beaming face. The monarch laughed, and the nobles grew attentive and exclaimed: we never saw a rider like this chief!",
+          "note": "Paraphrase of Firdausi, Shahnama, Siyawush sec. 33 (Warner 1905); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Then the Iranians played a match with the Turanians, but when the Turkmans played too angrily in their endeavours to obtain a goal, and the Iranians intercepted them, displeased with his own people Siyawush cried to them in the olden Persian tongue: is this a playground, or would ye cause strife in our dependent and precarious state? When ye are near the limits look aside and let the Turkmans have the ball for once.",
+          "note": "Paraphrase of Firdausi, Shahnama, Siyawush sec. 33 (Warner 1905); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "Thereat the prince uncased his royal bow; the monarch, having asked to see it first, presented the bow to Garsiwaz the sworder, saying: bend thou this bow and string it. That malignant failed, to his great amazement. Siyawush took back the bow and sitting on his knees bent it and strung it, smiling. With this one might shoot over sky and moon, said the king. They placed a target on the riding-ground, and in sight of all the chiefs his arrow hit the bull's eye; then wheeling to the right he hit the target just as he would. Thy skill, said the monarch, is witness to thy race.",
+          "note": "Paraphrase of Firdausi, Shahnama, Siyawush sec. 33 (Warner 1905); not verbatim."
+        }
+      ],
+      "persons": [
+        "siyawush",
+        "afrasiyab",
+        "garsiwaz"
+      ]
+    },
+    {
+      "id": "persian-siyawush-dream-parting",
+      "title": {
+        "en": "Siyawush's Dream and His Farewell to Farangis",
+        "zh": "西亞瓦什之夢與訣別"
+      },
+      "tradition": "persian",
+      "category": "myth",
+      "region": {
+        "en": "Palace of Siyawushgird (symbolic pin)",
+        "zh": "西亞瓦什格爾德王宮（象徵性定位）"
+      },
+      "lat": 40.0,
+      "lon": 63.0,
+      "period": "Composed c. 1010 CE (Warner translation 1905)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Firdausi, Shahnama, trans. A. G. & E. Warner (1905), vol. II, Siyawush secs. 52-53",
+        "url": "https://archive.org/details/shahnama02firduoft"
+      },
+      "license": "Public domain (translation 1905)",
+      "summary": {
+        "en": "For three days Siyawush weeps bitterly; the fourth night, clasped to Farangis, he dreams: a mighty river stretching far, on the further bank a mount in flames, men in mail on the river-side, and Afrasiyab before him blowing the already fiercely burning flames. Warned by a scout, he arms in the night, but still trusts Garsiwaz, and to Farangis he speaks his prophecy: name him Kai Khusrau; a saviour will come from Iran who will convey thee and thy son toward the Jihun; thy son will have the throne. He brings out night-hued Bihzad, whispers in the charger's ear that it must carry his son to his revenge, hamstrings all the other steeds, and burns his own treasures.",
+        "zh": "西亞瓦什痛哭三日；第四夜擁著法蘭吉斯入夢：大河彼岸火焰山、河岸甲士林立，阿弗拉西亞卜立於面前、朝烈焰吹氣。他聞警披甲，卻仍信加爾西瓦茲；向愛妻遺言：「為遺腹之子取名卡伊霍斯勞；自伊朗將有救星護你們母子渡烏滸水；吾子將登大位。」他牽出夜色駿馬比赫扎德，在馬耳邊低語：汝當載我子復仇；刺廢其餘戰馬，焚盡自己的財寶。"
+      },
+      "motifs": [
+        "prophetic-vision",
+        "taboo-transgression",
+        "miraculous-birth",
+        "doom-foretold",
+        "dream-vision"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Epic literary source; prophetic dream motif. No living community restriction."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "For three days Siyawush wept bitterly by reason of this treacherous turn of fate. The fourth night as the prince lay fast asleep, clasped to the breast of moon-faced Farangis, he shuddered, woke in fright, and cried as 'twere a maddened elephant. The fair one clung to him, exclaiming: for love's sake, O king! what aileth thee?",
+          "note": "Paraphrase of Firdausi, Shahnama, Siyawush sec. 52 (Warner 1905); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Then Siyawush made answer: tell not thou this dream of mine to any of the folk. My dream was this: I saw a mighty river stretching far, and on the further bank a mount in flames; the river-side was held by men in mail. On one side was the swiftly rolling fire, a fire whereby Siyawushgird was burned. Here fire, there water, while Afrasiyab stood right before me with his elephants. He looked upon me with a louring face, and blew the already fiercely burning flames.",
+          "note": "Paraphrase of Firdausi, Shahnama, Siyawush sec. 52 (Warner 1905); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "That dream of mine hath come to pass: my glory is bedimmed, he said to Farangis. For me existence draweth to an end; my palace may reach Saturn, yet death's poison hath to be drunk. This is the fifth month of thy pregnancy with our illustrious and growing babe: this precious Tree of thine will bring forth fruit, a glorious monarch; name him Kai Khusrau, and in thy sorrowing find peace in him. Then will Piran the chieftain plead with thy sire to spare thy blameless life; and there will come a saviour from Iran, who will convey thee and thy son in haste toward the Jihun; thy son will have the throne, and rule o'er fowl and fish.",
+          "note": "Paraphrase of Firdausi, Shahnama, Siyawush sec. 53 (Warner 1905); not verbatim."
+        },
+        {
+          "id": "4",
+          "text": "With cheeks and eyes which ran with his heart's blood he sought the stables of his Arab steeds and led forth from its stall night-hued Bihzad, which overtook the wind in days of battle. Long while he whispered in his charger's ear and said: when to avenge me Kai Khusrau shall come it is on thee that he must put the bridle; be thou his charger, trample on the world, and with thy hoofs sweep foemen from the earth. He hamstrung all the other steeds and slashed their legs like rushes with his scimitar; as for the riches in the treasury, his palace, and rose-garden, his brocade, dinars, pearls, jewelry, the diadem, sword, belt, and helm, he burned and wasted them.",
+          "note": "Paraphrase of Firdausi, Shahnama, Siyawush sec. 53 (Warner 1905); not verbatim."
+        }
+      ],
+      "persons": [
+        "siyawush",
+        "farangis",
+        "kai-khusrau",
+        "afrasiyab"
+      ]
+    },
+    {
+      "id": "persian-siyawush-slain-gurwi",
+      "title": {
+        "en": "The Innocent Prince Beheaded on the Burning Earth",
+        "zh": "無辜王子喋血焦土"
+      },
+      "tradition": "persian",
+      "category": "myth",
+      "region": {
+        "en": "Road to Siyawushgird (symbolic pin)",
+        "zh": "通往西亞瓦什格爾德之路（象徵性定位）"
+      },
+      "lat": 40.0,
+      "lon": 63.0,
+      "period": "Composed c. 1010 CE (Warner translation 1905)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Firdausi, Shahnama, trans. A. G. & E. Warner (1905), vol. II, Siyawush secs. 54-56",
+        "url": "https://archive.org/details/shahnama02firduoft"
+      },
+      "license": "Public domain (translation 1905)",
+      "summary": {
+        "en": "Trusting Garsiwaz's false warning, Siyawush marches out and meets Afrasiyab's armoured host; constant to his pledge he puts not his hand to sword and lets not one of his companions advance a foot. Afrasiyab cries: give them to the sword, and float a ship in blood upon the plain; the Iranian army of a thousand doughty warriors perishes, and the prince, wounded by shaft and dart, falls from his sable steed. Gurwi the son of Zira binds his hands, an executioner yokes his neck, and Afrasiyab commands: take him beside the road and let him be beheaded on some bare spot where grasses never grow, and pour his blood upon the burning earth.",
+        "zh": "西亞瓦什輕信加爾西瓦茲的假警報，出城遭遇阿弗拉西亞卜大軍；他信守承諾不肯拔劍，也不許部下迎戰。暴君喝令「以劍相向，讓鮮血在平原上成河」——千名伊朗勇士盡歿，王子中鏢墜馬。吉爾維縛其手，刑吏加軛於頸；阿弗拉西亞卜下令：在寸草不生之地斬首，讓鮮血澆灌焦土。"
+      },
+      "motifs": [
+        "taboo-transgression",
+        "trickster",
+        "prophetic-vision"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Epic literary source. Siyawash's martyrdom became a Shi'i-inflected cult focus (Shahr-e Sukhteh/Shirin? no — the site is Siyawashgird); tag 'martyrdom' is not in motifs.json — using taboo-transgression + trickster instead. No living community restriction."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "This done, he with his chiefs marched toward Iran, lost in amazement at his evil fortune, and with his cheeks suffused by tears of blood fared half a league then met Afrasiyab, beheld an armoured host with sword and mace, and, buckling up his mail, thought: Garsiwaz hath told the truth, a truth too evident!",
+          "note": "Paraphrase of Firdausi, Shahnama, Siyawush sec. 54 (Warner 1905); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "But Siyawush, still constant to his pledge, put not his hand to sword and javelin, and let not one of his companions advance a foot to battle with the foe. Malevolent and fell Afrasiyab then wrought upon that chieftain of Iran gross outrage, saying: give them to the sword, and float a ship in blood upon the plain. The Iranian army was a thousand strong, all men of name and doughty warriors, who perished on the field and made the earth like tulips with their gore.",
+          "note": "Paraphrase of Firdausi, Shahnama, Siyawush sec. 54 (Warner 1905); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "Amid the mellay the prince fell from his sable steed, sore wounded by shaft and dart. Gurwi the son of Zira bound both his hands, as he was lying senseless, behind his back firm as a rock, while others placed on his neck a yoke. The blood ran down those cheeks of cercis-bloom; he ne'er had seen a day like that! The executioners urged him and dragged him on the road afoot with troops around him toward Siyawushgird.",
+          "note": "Paraphrase of Firdausi, Shahnama, Siyawush secs. 54-56 (Warner 1905); not verbatim."
+        },
+        {
+          "id": "4",
+          "text": "Afrasiyab commanded, saying: take him beside the road and let him be beheaded on some bare spot where grasses never grow, and pour his blood upon the burning earth. Let there be no delay and have no fears. The soldiers said: what fault hast thou discerned? Why wilt thou slay a man for whom the crown and ivory throne will weep with bitterness? Plant not in times of happiness a tree whose fruitage fortune will convert to bane. But Garsiwaz, that man of evil note, was in his folly on the murderers' side, and fain would shed the blood of Siyawush through dudgeon ever since the day of contest.",
+          "note": "Paraphrase of Firdausi, Shahnama, Siyawush secs. 55-56 (Warner 1905); not verbatim."
+        }
+      ],
+      "persons": [
+        "siyawush",
+        "afrasiyab",
+        "garsiwaz",
+        "gurwi"
+      ]
+    }
+  ]
+}

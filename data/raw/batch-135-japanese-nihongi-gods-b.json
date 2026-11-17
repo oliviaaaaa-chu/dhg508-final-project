@@ -1,0 +1,1798 @@
+{
+  "texts": [
+    {
+      "id": "japanese-jimmu-eastward-expedition-nihongi",
+      "title": {
+        "en": "Jimmu's Eastward Expedition: The Ancient of the Sea and the Fair Land",
+        "zh": "神武東征：海神古老之言與筑紫出航"
+      },
+      "tradition": "japanese",
+      "category": "myth",
+      "region": {
+        "en": "Tsukushi (Kyushu), starting point of the eastward expedition",
+        "zh": "筑紫國（九州），東征起點"
+      },
+      "lat": 32.2,
+      "lon": 131.3,
+      "period": "Nihongi compiled 720 CE (trans. Aston 1896)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Nihongi (Chronicles of Japan), Vol. I, trans. W. G. Aston (1896)",
+        "url": "https://archive.org/details/nihongi1asto"
+      },
+      "license": "Public domain (translation 1896)",
+      "summary": {
+        "en": "Emperor Jimmu, son of Hoori and the sea-goddess's daughter Tamayori-hime, resolves to leave the western land where every town has its own lord. He has heard from the Ancient of the Sea of a fair land encircled by blue mountains in the East, where a being descended in a Heavenly Rock-boat, and leads an expedition eastward, gaining a pilot, a banquet at Usa, and three years of provisioning in Kibi.",
+        "zh": "神武天皇自言天祖授土而列邑各有君長、相侵相奪，聞海神古老言東方有青山四面環繞之美地，有人乘天磐船飛降。遂與兄弟子姪率舟師東征，得磯根津彥為舵工，宇佐氏築一柱之宮設宴，以宇佐津姬配天種子命，滯吉備三年治船積糧。"
+      },
+      "motifs": [
+        "sacred-kingship",
+        "prophetic-vision",
+        "culture-hero",
+        "sacred-direction"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient Japanese court myth (Nihongi) of Emperor Jimmu, first ancestor of the imperial line; passages are condensed paraphrases of the public-domain Aston translation, presented for comparative mythology."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Emperor Kami-Yamato-Ihare-biko (Jimmu) addressed his elder brothers and his children. Of old, the Heavenly Deities Taka-mi-musubi and Oho-hiru-me had pointed to this land of fair rice-ears of the fertile reed-plain and given it to the Heavenly Grandchild Ninigi, who had thrown open the barrier of Heaven, cleared a cloud-path, and ruled the western border in an age of darkness and disorder. But remote regions still had no part in Imperial rule: every town had always been allowed its own lord and every village its own chief, who divided territory and practised mutual aggression and conflict. Now, he had heard from the Ancient of the Sea that in the East there was a fair land encircled on all sides by blue mountains, and that a being had flown down there riding in a Heavenly Rock-boat - one Nigi-haya-hi. This land, he judged, was suitable for extending the Heavenly task; it was doubtless the centre of the world. Why should they not proceed thither and make it the capital?",
+          "note": "Paraphrase of Nihongi, Book III, §§1–2 (trans. Aston 1896); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "In winter of that year the Emperor led the Imperial Princes and a naval force against the East. At the Haya-suhi gate they met a fisherman riding in a boat, who announced himself a Country-God named Utsu-hiko and offered to act as guide. The Emperor ordered the end of a shihi-wood pole given him, took him into the Imperial vessel as pilot, and named him Shihi-ne-tsu-hiko, first ancestor of the Yamato no Atahe. At Usa in Tsukushi the ancestors of the local lords, Usa-tsu-hiko and Usa-tsu-hime, built a palace raised on one pillar on the banks of the River Usa and offered a banquet; and by Imperial command Usa-tsu-hime was given in marriage to the Emperor's minister Ama-no-tane, remote ancestor of the Nakatomi house.",
+          "note": "Paraphrase of Nihongi, Book III, §§3–4 (trans. Aston 1896); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "The fleet went on to the harbour of Oka in Tsukushi and the province of Aki, and entering the land of Kibi built a temporary palace called the Palace of Takashima, where the Emperor dwelt three years, setting in order the helms of his ships and preparing a store of provisions, desiring by a single effort to subdue the Empire. Then the Imperial forces proceeded eastwards, the prow of one ship touching the stern of another. Just as they reached Cape Naniha they encountered a current of great swiftness, and the place was called Nami-haya, wave-swift, or Nami-hana, wave-flower - the origin of the name Naniha.",
+          "note": "Paraphrase of Nihongi, Book III, §§4–5 (trans. Aston 1896); not verbatim."
+        }
+      ],
+      "persons": [
+        "japanese-jimmu",
+        "japanese-itsuse",
+        "japanese-nigi-hayahiko"
+      ]
+    },
+    {
+      "id": "japanese-itsuse-brothers-deaths",
+      "title": {
+        "en": "The Battle of Kusaka: Itsuse Wounded, the Brothers Take to the Sea",
+        "zh": "日下之戰：五瀬命負傷與兄弟蹈海"
+      },
+      "tradition": "japanese",
+      "category": "myth",
+      "region": {
+        "en": "Kusaka in Kawachi to Mount Kama in Kii (symbolic pin)",
+        "zh": "河內日下至紀伊崛山（象徵錨點）"
+      },
+      "lat": 33.7,
+      "lon": 135.9,
+      "period": "Nihongi compiled 720 CE (trans. Aston 1896)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Nihongi (Chronicles of Japan), Vol. I, trans. W. G. Aston (1896)",
+        "url": "https://archive.org/details/nihongi1asto"
+      },
+      "license": "Public domain (translation 1896)",
+      "summary": {
+        "en": "Nagasune-biko raises his forces and intercepts Jimmu's army at the Hill of Kusaka. Itsuse is struck by a random arrow; Jimmu judges that a descendant of the Sun-Goddess must not advance against the sun and retreats. Itsuse dies of the wound at Mount Kama in Kii, and two other brothers, Ina-ihi and Mike-irino, hurl themselves into the stormy sea to become deities.",
+        "zh": "長髓彥舉兵截擊皇軍於草香山，五瀬命中流矢傷肘。天皇自忖身為日神之裔，不當向日而攻，遂偽退設盾以為兵威。五瀬命傷重，詈「為奴虜之矢所傷而死而不報，豈不痛哉」，卒於紀伊崛山。稻飯命與三毛入野命憤於海神興浪，一沉海化為神，一蹈波濤赴常世之國。"
+      },
+      "motifs": [
+        "transformation",
+        "theophany"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient Japanese court myth (Nihongi); passages are condensed paraphrases of the public-domain Aston translation, presented for comparative mythology."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "When Naga-sune-hiko heard that the children of the Heavenly Deity were coming, he said their object was assuredly to rob him of his country. He levied all the forces under his dominion and intercepted them at the Hill of Kusaka. Battle was engaged, and Itsuse no Mikoto was hit by a random arrow on the elbow, so the Imperial forces could not advance. The Emperor revolved a divine plan in his heart: he was the descendant of the Sun-Goddess, and if he proceeded against the Sun to attack the enemy he would act contrary to the way of Heaven. Better to retreat and make a show of weakness, sacrifice to the Gods of Heaven and Earth, bring on their backs the might of the Sun-Goddess, and follow her rays to trample the foe, so that the enemy would be routed without staining their swords with blood. He withdrew to the port of Kusaka, set up shields, and made a warlike show, renaming the port Tatetsu, shield-ferry.",
+          "note": "Paraphrase of Nihongi, Book III, §§6–7 (trans. Aston 1896); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "At the port of Yamaki in Chinu, Itsuse no Mikoto's arrow wound was extremely painful. He grasped his sword, struck a martial attitude, and said: 'How exasperating it is that a man should die of a wound received at the hands of slaves, and should not revenge it!' The people of that day therefore called the place Wo-no-minato, the port of man. Proceeding onwards they reached Mount Kama in the Land of Kii, where Itsuse no Mikoto died in the army and was buried at Mount Kama.",
+          "note": "Paraphrase of Nihongi, Book III, §§8–9 (trans. Aston 1896); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "In Kumano the Emperor embarked in the rock-boat of Heaven, and in the midst of the sea a violent wind suddenly tossed the Imperial vessel. Ina-ihi no Mikoto exclaimed that his ancestors were Heavenly Deities and his mother a Goddess of the Sea - why then did they harass him by land and by sea? He drew his sword and plunged into the sea, where he became changed into the God Sabi-mochi. Mike Irino no Mikoto was indignant likewise, saying his mother and his aunt were both Sea-Goddesses: why did they raise great billows to overwhelm them? Treading upon the waves, he went to the Eternal Land. The Emperor was left alone with the Prince Tagishi-mimi.",
+          "note": "Paraphrase of Nihongi, Book III, §10 (trans. Aston 1896); not verbatim."
+        }
+      ],
+      "persons": [
+        "japanese-jimmu",
+        "japanese-itsuse"
+      ]
+    },
+    {
+      "id": "japanese-takakuraji-sword",
+      "title": {
+        "en": "Takakuraji's Dream: Takemikazuchi Sends Down His Sword",
+        "zh": "高倉下之夢：建御雷神降布都御魂劍"
+      },
+      "tradition": "japanese",
+      "category": "myth",
+      "region": {
+        "en": "Kumano (Kii peninsula)",
+        "zh": "熊野（紀伊半島）"
+      },
+      "lat": 33.7,
+      "lon": 135.9,
+      "period": "Nihongi compiled 720 CE (trans. Aston 1896)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Nihongi (Chronicles of Japan), Vol. I, trans. W. G. Aston (1896)",
+        "url": "https://archive.org/details/nihongi1asto"
+      },
+      "license": "Public domain (translation 1896)",
+      "summary": {
+        "en": "In Kumano the gods belch up a poisonous vapour that prostrates Jimmu's army. A local man, Takakuraji, dreams that Amaterasu asks Takemikazuchi to subdue the Central Land again, and the thunder god answers that he will send down instead his sword Futsu-no-Mitama. The sword is found standing point-up in Takakuraji's storehouse; presented to the Emperor, it restores the stricken troops overnight.",
+        "zh": "皇軍在熊野為毒氣所困，舉軍皆不能起。土人高倉下夢中得神託：天照大神謂建御雷神曰「葦原中國猶有騷擾之音，汝宜復往誅之」，神答「雖不往，當以平國之劍遣下，則國自平」。劍名布都御魂，置於高倉下庫中，翌日劍果立於庫板上。獻於天皇，昏臥之軍一朝霍然而起。"
+      },
+      "motifs": [
+        "theophany",
+        "oracle-divination",
+        "sacred-kingship",
+        "dream-vision"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient Japanese court myth (Nihongi); passages are condensed paraphrases of the public-domain Aston translation, presented for comparative mythology."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "At Port Arazaka in Kumano the Gods belched up a poisonous vapour, from which everyone in the Imperial army suffered, so that it could exert itself no longer. Then a man named Kumano-no-Takakuraji unexpectedly had a dream, in which Ama-terasu no Oho-kami spoke to Take-mika-tsuchi no Kami: 'I still hear a sound of disturbance from the Central Land of Reed-Plains. Do thou again go and chastise it.' The thunder god answered: 'Even if I go not, I can send down my sword, with which I subdued the land, upon which the country will of its own accord become peaceful.' To this Amaterasu assented.",
+          "note": "Paraphrase of Nihongi, Book III, §11 (trans. Aston 1896); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Takemikazuchi addressed Takakuraji: 'My sword, which is called Futsu-no-Mitama, I will now place in thy storehouse. Do thou take it and present it to the Heavenly Grandchild.' Takakuraji awoke, opened the storehouse as instructed in his dream, and there indeed was a sword which had fallen down from Heaven and was standing upside down - point upwards - on the plank floor. He took it and offered it to the Emperor, who happened to be asleep. The Emperor awoke suddenly, saying, 'What a long time I have slept!' - and on inquiry it was found that the troops poisoned by the vapour had all recovered their senses and were afoot.",
+          "note": "Paraphrase of Nihongi, Book III, §11 (trans. Aston 1896); not verbatim."
+        }
+      ],
+      "persons": [
+        "japanese-jimmu",
+        "japanese-takakuraji",
+        "japanese-takemikazuchi",
+        "amaterasu"
+      ]
+    },
+    {
+      "id": "japanese-yatagarasu-guide",
+      "title": {
+        "en": "The Yatagarasu Sun-Crow Guides the Imperial Army",
+        "zh": "八咫烏引導皇軍"
+      },
+      "tradition": "japanese",
+      "category": "myth",
+      "region": {
+        "en": "Uda district, Yamato",
+        "zh": "大和宇陀"
+      },
+      "lat": 34.68,
+      "lon": 135.83,
+      "period": "Nihongi compiled 720 CE (trans. Aston 1896)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Nihongi (Chronicles of Japan), Vol. I, trans. W. G. Aston (1896)",
+        "url": "https://archive.org/details/nihongi1asto"
+      },
+      "license": "Public domain (translation 1896)",
+      "summary": {
+        "en": "Lost among trackless mountains, Jimmu is told in a dream by Amaterasu that she will send the Yatagarasu, the crow of the sun, as his guide. The crow flies down from the Void and leads Hi-no-Omi and the van to Uda; the guide is renamed Michi-no-Omi. Later the same crow is sent to summon the chieftain Shiki the Elder, who shoots at it in fury, while his terrified younger brother feasts and obeys it.",
+        "zh": "天皇欲進內地而山路險絕，迷失不知所向。天照大神夢中諭曰「吾今遣八咫烏，宜以為鄉導」。果有大鳥自虛空中飛降。天皇歎曰「此來正合嘉夢，皇祖神欲助成天業」。日臣命與大來目部仰望而隨，遂至宇陀，賜名曰道臣命。後此烏復奉命徵召磯城彥，兄怒而射之，弟懼而以八葉槃盛食饗烏，即從命來朝。"
+      },
+      "motifs": [
+        "theophany",
+        "oracle-divination",
+        "sacred-kingship"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient Japanese court myth (Nihongi); passages are condensed paraphrases of the public-domain Aston translation, presented for comparative mythology."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The Emperor tried to advance into the interior, but the mountains were so precipitous that there was no road by which they could travel, and they wandered about not knowing whither to direct their march. Then Ama-terasu no Oho-kami instructed the Emperor in a dream of the night: 'I will now send thee the Yata-garasu; make it thy guide through the land.' There did indeed appear the Yata-garasu flying down from the Void. The Emperor said: 'The coming of this crow is in due accordance with my auspicious dream. How grand! How splendid! My Imperial ancestor, Ama-terasu no Oho-kami, desires therewith to assist me in creating the hereditary institution.'",
+          "note": "Paraphrase of Nihongi, Book III, §§11–12 (trans. Aston 1896); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Hi no Omi no Mikoto, ancestor of the Oho-tomo house, taking with him the Oho-kume as commander of the main body, guided by the direction taken by the crow, looked up to it and followed after, until they arrived at the district of Lower Uda; the place they reached was named the village of Ukechi in Uda. The Emperor commended Hi no Omi: 'Thou art faithful and brave, and art moreover a successful guide. Therefore will I give thee a new name and call thee Michi no Omi', the Minister of the Road.",
+          "note": "Paraphrase of Nihongi, Book III, §§12–13 (trans. Aston 1896); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "When the Imperial army later marched against the Hiko of Shiki, the Emperor first sent a messenger to summon Shiki the Elder, who refused to obey. Again the Yata-garasu was sent. Reaching his camp it cried to him: 'The child of the Heavenly Deity sends for thee. Haste! haste!' Shiki the Elder was enraged, saying that when the conquering Deity of Heaven was coming, why should a bird of the crow tribe utter such an abominable cry - and he drew his bow and aimed at it. The crow fled on to the house of Shiki the Younger, and cried there the same words. Shiki the Younger was afraid, made eight leaf-platters of food, entertained the crow, and in obedience to it proceeded to the Emperor.",
+          "note": "Paraphrase of Nihongi, Book III, §23 (trans. Aston 1896); not verbatim."
+        }
+      ],
+      "persons": [
+        "japanese-jimmu",
+        "japanese-yatagarasu",
+        "japanese-takeuchi"
+      ]
+    },
+    {
+      "id": "japanese-mount-kagu-clay",
+      "title": {
+        "en": "The Clay of Heavenly Mount Kagu and the Drunken Fish",
+        "zh": "天香具山土作盤甕與魚醉之誓"
+      },
+      "tradition": "japanese",
+      "category": "myth",
+      "region": {
+        "en": "Upper waters of the River Nifu, Uda, Yamato",
+        "zh": "大和宇陀泥河上流"
+      },
+      "lat": 34.68,
+      "lon": 135.83,
+      "period": "Nihongi compiled 720 CE (trans. Aston 1896)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Nihongi (Chronicles of Japan), Vol. I, trans. W. G. Aston (1896)",
+        "url": "https://archive.org/details/nihongi1asto"
+      },
+      "license": "Public domain (translation 1896)",
+      "summary": {
+        "en": "With the roads blocked by enemies, Jimmu dreams he must fetch sacred earth from Mount Kagu and make eighty platters and sacred jars for sacrifice and a solemn imprecation. Shihi-netsu-hiko disguised as an old man and Ukeshi the Younger as an old woman slip past the laughing bandits to take the clay. The malediction clings to the foe like foam on water; ame forms of itself without water, and when the sacred jars are sunk in the river the fish float down drunk - a sure omen of conquest.",
+        "zh": "敵兵塞路，天皇夜禱而夢得神諭：取天香具山社內之土，作八十天盤、作嚴甕以祭天地神祇，詔咒分明，敵自降服。乃使磯根津彥扮襤褸老翁、弟磯城彥覆簸箕扮嫗，潛行取土。賊見而大笑，讓路縱之。以土作八十盤、八十天小甕及嚴甕，於泥河上流祭天神地祇，咒詛及敵，如水沫之著。又誓造飴自凝，果成；沉嚴甕於河，大小諸魚皆醉而泛，知必得天下。"
+      },
+      "motifs": [
+        "oracle-divination",
+        "theophany",
+        "sacred-kingship",
+        "god-disguise"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient Japanese court myth (Nihongi); passages are condensed paraphrases of the public-domain Aston translation, presented for comparative mythology."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The Emperor, indignant that all places occupied by the enemy barred the roads, made prayer in person that night and fell asleep. The Heavenly Deity appeared to him in a dream and instructed him: 'Take earth from within the shrine of the Heavenly Mount Kagu, and of it make eighty Heavenly platters. Also make sacred jars and therewith sacrifice to the Gods of Heaven and Earth. Moreover pronounce a solemn imprecation. If thou doest so, the enemy will render submission of their own accord.' Ukeshi the Younger repeated the same counsel, and the Emperor, pleased, caused Shihi-netsu-hiko to put on ragged garments and a grass hat disguised as an old man, and Ukeshi the Younger to cover himself with a winnowing tray so as to appear an old woman, ordering the two to proceed to the Heavenly Mount Kagu and secretly take earth from its summit.",
+          "note": "Paraphrase of Nihongi, Book III, §§16–17 (trans. Aston 1896); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "The enemy's army filled the road. Shihi-netsu-hiko prayed: 'If it will be possible for our Emperor to conquer this land, let the road by which we must travel become open; but if not, let the brigands surely oppose our passage.' The hostile band, seeing the two men, laughed loudly: 'What an uncouth old man and old woman!' So they left the road and allowed them to pass to the mountain, where they took the clay and returned. Hereupon the Emperor was greatly pleased, and with this clay made eighty platters, eighty Heavenly small jars and sacred jars, with which he went up to the upper waters of the River Nifu and sacrificed to the Gods of Heaven and of Earth. Immediately, on the Asa-hara plain by the river of Uda, it became as it were like foam on the water, the result of the curse cleaving to the enemy.",
+          "note": "Paraphrase of Nihongi, Book III, §17 (trans. Aston 1896); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "The Emperor made a vow: 'I will now make ame in the eighty platters without using water. If the ame is formed, then shall I assuredly, without effort and without recourse to arms, reduce the Empire to peace.' He made ame, and it forthwith became formed of itself. Again he vowed: 'I will take the sacred jars and sink them in the River Nifu. If the fishes, whether great or small, every one become drunken and are carried down the stream like floating maki leaves, then shall I assuredly succeed in establishing this land.' He sank the jars in the river with their mouths downward, and after a while the fish all came to the surface, gaping and gasping as they floated down the stream. Seeing this, the Emperor was greatly rejoiced, and plucking up a five-hundred-branched masakaki tree of the upper Nifu, he did worship therewith to all the Gods - whence began the custom of setting up sacred jars.",
+          "note": "Paraphrase of Nihongi, Book III, §18 (trans. Aston 1896); not verbatim."
+        }
+      ],
+      "persons": [
+        "japanese-jimmu",
+        "japanese-shiinetsuhiko"
+      ]
+    },
+    {
+      "id": "japanese-jimmu-shiki-elder",
+      "title": {
+        "en": "The Rout of Shiki the Elder: Feint at the Burning Slope",
+        "zh": "磯城彥兄之敗：墨坂火炭之計"
+      },
+      "tradition": "japanese",
+      "category": "myth",
+      "region": {
+        "en": "Shiki district, Yamato",
+        "zh": "大和磯城"
+      },
+      "lat": 34.68,
+      "lon": 135.83,
+      "period": "Nihongi compiled 720 CE (trans. Aston 1896)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Nihongi (Chronicles of Japan), Vol. I, trans. W. G. Aston (1896)",
+        "url": "https://archive.org/details/nihongi1asto"
+      },
+      "license": "Public domain (translation 1896)",
+      "summary": {
+        "en": "Warned by Shiki the Younger that his elder brother has gathered eighty bandits for battle, Jimmu adopts Shihi-netsu-hiko's stratagem: feeble troops march by the Osaka road to draw off the enemy's strength, while the picked men cross the Sumi-zaka slope and douse its burning charcoal with river water. Attacked from two sides at Mount Inasa, Shiki the Elder and his chieftains are killed.",
+        "zh": "弟磯城彥密告兄聚土賊八十欲戰。將議方略，磯根津彥獻策：先遣弱兵出忍坂道誘敵，敵必以精銳當之；乃直趨墨坂，以宇陀川水沃炭火，掩其不備。帝納其計。帝又歌勞軍，曰「攀日那名山之木隙而望，飢甚，鵜養島鳥之眾，來救助我」。遂以勁兵越墨坂，繞出其背，兩面夾擊，大破之，斬其渠帥磯城彥兄等。"
+      },
+      "motifs": [
+        "trickster",
+        "taboo-transgression",
+        "sacred-kingship"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient Japanese court myth (Nihongi); passages are condensed paraphrases of the public-domain Aston translation, presented for comparative mythology."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Shiki the Younger informed the Emperor that his elder brother, hearing of the approach of the child of the Heavenly Deity, had assembled eighty bandits and provided arms for battle. The generals advised first sending Shiki the Younger to explain matters, but Shiki the Elder and the others adhered to their design and would not submit. Then Shihi-netsu-hiko advised: 'Let us first send out our feebler troops by the Osaka road. When the enemy sees them he will assuredly proceed thither with all his best troops. We should then straightway urge forward our robust troops and make straight for Sumi-zaka. Then with the water of the River Uda we should sprinkle the burning charcoal, and suddenly take them unawares, when they cannot fail to be routed.' The Emperor approved the plan and sent out the feebler troops, whom the enemy awaited with all their power, thinking a powerful force was approaching.",
+          "note": "Paraphrase of Nihongi, Book III, §24 (trans. Aston 1896); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "To comfort the hearts of his wearied leaders and men the Emperor struck off a verse: 'As we fight, going forth and watching from between the trees of Mount Inasa, we are famished. Ye keepers of cormorants, birds of the island, come now to our aid.' In the end he crossed Sumi-zaka with the stronger troops and, going round by the rear, attacked them from two sides and put them to the rout, killing their chieftains Shiki the Elder and the others.",
+          "note": "Paraphrase of Nihongi, Book III, §24 (trans. Aston 1896); not verbatim."
+        }
+      ],
+      "persons": [
+        "japanese-jimmu",
+        "japanese-shiinetsuhiko",
+        "japanese-yatagarasu"
+      ]
+    },
+    {
+      "id": "japanese-jimmu-tsuchigumo",
+      "title": {
+        "en": "The Tsuchigumo of Yamato: Nets of Dolichos",
+        "zh": "大和土蜘蛛：葛蔓網縛"
+      },
+      "tradition": "japanese",
+      "category": "myth",
+      "region": {
+        "en": "Katsuraki and Yamato villages",
+        "zh": "大和葛城及諸村"
+      },
+      "lat": 34.68,
+      "lon": 135.83,
+      "period": "Nihongi compiled 720 CE (trans. Aston 1896)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Nihongi (Chronicles of Japan), Vol. I, trans. W. G. Aston (1896)",
+        "url": "https://archive.org/details/nihongi1asto"
+      },
+      "license": "Public domain (translation 1896)",
+      "summary": {
+        "en": "In spring Jimmu sends detachments against the Tsuchigumo, the earth-spider outlaws of Yamato, who trusted to their valour and refused to appear at Court. Those of Taka-wohari - short of body, long of arm and leg, like pigmies - are caught in woven nets of dolichos and slain; the village is renamed Katsuraki and the whole land, filled by the great army, is named Ihare. A variant account tells of a western expedition against the eighty bandits of Katsuraki.",
+        "zh": "春二月，大和境内土蜘蛛三處，憑勇不朝，各遣別軍誅之。高尾張之土蜘蛛身短而臂股長，侏儒之屬，皇軍織葛為網，罥而殺之，因改其村名葛城。旋以大軍盈其國，改國名為磐余。又一說：天皇嘗嚴甕之食後西征，與葛城八十賊大戰而滅之，故名其村曰磐余，其駐兵處曰武田，築城處曰城下，賊伏屍枕肱處曰枕肱田。"
+      },
+      "motifs": [
+        "taboo-transgression",
+        "sacred-kingship"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient Japanese court myth (Nihongi); passages are condensed paraphrases of the public-domain Aston translation, presented for comparative mythology. 'Tsuchigumo' (earth-spiders) are rebel natives of the archipelago, not literal spiders."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The Emperor commanded his generals to exercise the troops. At this time there were Tsuchi-gumo in three places - the Tohe of Nihiki at Tada no Oko-zaki in the district of Sofu, the Kose Hofuri at Wani no Saka-moto, and the Wi-Hofuri at Hosomi no Nagara no Oka-zaki. All of these, trusting to their valour, refused to present themselves at Court. The Emperor therefore sent detachments separately and put them all to death. There were, moreover, Tsuchi-gumo at the village of Taka-wohari whose appearance was as follows: they had short bodies, and long arms and legs; they were of the same class as the pigmies. The Imperial troops wove nets of dolichos, which they flung over them and then slew them. Wherefore the name of that village was changed to Katsuraki. When the Imperial forces routed the enemy, a great army assembled and filled that country, so that its name was changed to Ihare.",
+          "note": "Paraphrase of Nihongi, Book III, §28 (trans. Aston 1896); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Another account says that when the Emperor on a previous occasion tasted the food of the sacred jars, he moved forward his army on an expedition towards the West. At this time the eighty bandits of Katsuraki were encamped together there. A great battle with the Emperor followed, and they were at length destroyed by the Imperial army, and therefore that place was called the village of Ihare. Again, the place where the Imperial troops made a warlike stand was called Takeda; the place where he built a castle was named Kita; and the place where the enemy fell in battle, their dead bodies prostrate with their forearms for pillows, was called Tsuramaki-da, the face-pillow field.",
+          "note": "Paraphrase of Nihongi, Book III, §28 (trans. Aston 1896); not verbatim."
+        }
+      ],
+      "persons": [
+        "japanese-jimmu"
+      ]
+    },
+    {
+      "id": "japanese-jimmu-kashiwabara-accession",
+      "title": {
+        "en": "Jimmu Builds the Capital of Kashiwabara and Mounts the Throne",
+        "zh": "神武都橿原即位，號秋津島"
+      },
+      "tradition": "japanese",
+      "category": "myth",
+      "region": {
+        "en": "Kashiwabara, south-west of Mount Unebi, Yamato",
+        "zh": "大和畝傍山西南橿原"
+      },
+      "lat": 34.68,
+      "lon": 135.83,
+      "period": "Nihongi compiled 720 CE (trans. Aston 1896)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Nihongi (Chronicles of Japan), Vol. I, trans. W. G. Aston (1896)",
+        "url": "https://archive.org/details/nihongi1asto"
+      },
+      "license": "Public domain (translation 1896)",
+      "summary": {
+        "en": "Six years after beginning his eastward expedition, Jimmu proclaims that the Central Land is free of wind and dust and that a vast and spacious capital must be built. He marries Hime-tatara-isuzu-hime, daughter of the god Koto-shiro-nushi, assumes the Imperial Dignity at Kashiwabara in 660 BCE by the reckoning of the chronicle, rewards his faithful - even the Yatagarasu - erects spirit-terraces for his ancestors, and names the land Akitsu-shima, like a dragonfly licking its hinder parts.",
+        "zh": "神武天皇以東征六年、中土無復風塵，下詔宜作大宮御所、定制度，乃都橿原。娶大物主神之子三島溝杙姬所生之媛蹈韜五十鈴媛命為后，即位於橿原宮。論功行賞，道臣命以下至八咫烏皆受賜。四年，立神渟名川耳尊為太子。三十一年巡幸望國形，嘆曰「美哉國乎！內膏腴而如蜻蛉之向後搔其尻」，因名秋津島。"
+      },
+      "motifs": [
+        "sacred-kingship",
+        "divine-marriage",
+        "sacred-place",
+        "sacred-direction",
+        "demigod"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient Japanese court myth (Nihongi): the enthronement of Emperor Jimmu at Kashiwabara, 660 BCE in the chronicle's own reckoning; passages are condensed paraphrases of the public-domain Aston translation, presented for comparative mythology."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "In the third month the Emperor made an order: 'During the six years that our expedition against the East has lasted, owing to my reliance on the Majesty of Imperial Heaven, the wicked bands have met death. It is true that the frontier lands are still unpurified, and that a remnant of evil is still refractory. But in the region of the Central Land there is no more wind and dust. Truly we should make a vast and spacious capital, and plan it great and strong. The people's minds are unsophisticated: they roost in nests or dwell in caves. Now if a great man were to establish laws, justice could not fail to flourish. It will be well to open up and clear the mountains and forests, and to construct a palace. Then I may reverently assume the Precious Dignity, and so give peace to my good subjects.' Observing the Kashiha-bara plain south-west of Mount Unebi, he judged it seemed the centre of the land, and commanded officers to set about the construction of an Imperial Residence.",
+          "note": "Paraphrase of Nihongi, Book III, §29 (trans. Aston 1896); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Intending to appoint a wife, the Emperor sought children of noble families. A man represented to him that there was a child born to Koto-shiro-nushi no Kami by his union with Tama-kushi-hime, daughter of Mizo-kuhi-ni no Kami of Mishima - Hime-tatara-i-suzu-hime no Mikoto, a woman of remarkable beauty. The Emperor rejoiced, received her in the ninth month and made her his wife. In spring of the first year of the reign he assumed the Imperial Dignity in the Palace of Kashiha-bara, honoured her as Empress, and had by her Kami-ya-wi-mimi no Mikoto and Kami-nunagaha-mimi no Mikoto. There is an ancient saying in praise of this: 'In Kashiha-bara in Unebi, he mightily established his palace-pillars on the foundation of the bottom-rock, and reared aloft the cross roof-timbers to the Plain of High Heaven.'",
+          "note": "Paraphrase of Nihongi, Book III, §§30–31 (trans. Aston 1896); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "Merit was ascertained and rewards dispensed: to Michi no Omi a house-site at Tsuki-zaka; the Oho-kume were settled at Kume no mura; Utsu-hiko was made Miyakko of Yamato; Ukeshi the Younger Agata-nushi of Takeda; Shiki the Younger, Kuro-haya, Agata-nushi of Shiki. Even the Yata-garasu was included among those who received rewards, and its descendants are the Agata-nushi of Katsurano and the Tonomori Be. In the fourth year the Emperor decreed that the spirits of the Imperial ancestors, reflecting their radiance down from Heaven, illuminate and assist: he established spirit-terraces among the Tomi hills and there worshipped his Imperial ancestors, the Heavenly Deities. In the thirty-first year, ascending the hill Waki-Kamu-no-Hotsuma and viewing the shape of the land, he said: 'Oh! what a beautiful country we have become possessed of! Though a blessed land of inner-tree-fibre, yet it resembles a dragon-fly licking its hinder parts' - and from this it first received the name of Akitsu-shima.",
+          "note": "Paraphrase of Nihongi, Book III, §§32–34 (trans. Aston 1896); not verbatim."
+        }
+      ],
+      "persons": [
+        "japanese-jimmu",
+        "japanese-takeuchi",
+        "japanese-yatagarasu",
+        "japanese-kotoshironushi"
+      ]
+    },
+    {
+      "id": "japanese-otataneko-oracle",
+      "title": {
+        "en": "The Oracle of Oho-tata-neko and the Sacred Sake of Miwa",
+        "zh": "大田田根子神託與三輪神酒之歌"
+      },
+      "tradition": "japanese",
+      "category": "myth",
+      "region": {
+        "en": "Plain of Kami-asachi and Miwa, Yamato",
+        "zh": "大和神淺茅原與三輪"
+      },
+      "lat": 34.68,
+      "lon": 135.83,
+      "period": "Nihongi compiled 720 CE (trans. Aston 1896)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Nihongi (Chronicles of Japan), Vol. I, trans. W. G. Aston (1896)",
+        "url": "https://archive.org/details/nihongi1asto"
+      },
+      "license": "Public domain (translation 1896)",
+      "summary": {
+        "en": "A great pestilence half-destroys the realm under Emperor Sujin. Divining with the eighty myriad deities, he learns through the possessed princess Yamato-toto-hi-momoso-hime that the land-god Oho-mono-nushi must be worshipped; the god's dream-instruction names his own child Oho-tata-neko as priest. The man is found at Suye and installed, the plague ceases and the grain returns, and the brewer Ikuhi presents the sacred sake with a famous punning song.",
+        "zh": "崇神天皇六年國中大疫，人民死過半。天皇憂懼，齋服於神淺茅原，會八十萬神而卜。倭跡跡日百襲姬命為大物主神所憑曰「帝何為憂國？若敬祀我，則當自平」。問其神名，答曰「吾是倭國域內之神，名曰大物主神」。拜而不效，再夢神諭：以吾子大田田根子主祭。遣使求之於茅淳縣水下縣戶之村，尋獲，立為大物主神之祭主，設八十万神之祠，疫乃止，五穀登成，百姓安泰。命意岐多為造酒神之釀酒者，進神酒而歌「此御酒非吾所醸，乃大物主神所醸之御酒」。"
+      },
+      "motifs": [
+        "oracle-divination",
+        "spirit-possession",
+        "sacred-kingship",
+        "plague-sent"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient Japanese court myth (Nihongi): Emperor Sujin's founding of the state cult, sacred to Shinto tradition; passages are condensed paraphrases of the public-domain Aston translation, presented for comparative mythology."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "In the fifth year there was much pestilence throughout the country, and more than one half the people died; the next year the people took to vagabondage and there was rebellion. The Emperor, rising early and full of awe until the evening, requested punishment of the Gods of Heaven and Earth. He dreaded the power of the two deities worshipped within his Great Hall and entrusted Amaterasu to be worshipped at Kasanuhi in Yamato. In the seventh year he resolved to commit the matter to the Sacred Tortoise and ascertain the cause of the calamity: he proceeded to the plain of Kami-asachi, assembled the eighty myriads of Deities, and inquired of them by divination. At this time the Gods inspired Yamato-toto-hi-momoso-hime no Mikoto, who said: 'Why is the Emperor grieved at the disordered state of the country? If he duly did us reverent worship, it would assuredly become pacified of itself.'",
+          "note": "Paraphrase of Nihongi, Book V, §§5–7 (trans. Aston 1896); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Asked what God it was that instructed him, the answer came: 'I am the God who dwells within the borders of the land of Yamato, and my name is Oho-mono-nushi no Kami.' He worshipped as he was told, but without effect; then, having bathed and practised abstinence, he prayed to be further instructed in a dream. That night a man of noble appearance stood opposite him in the door of the hall, announcing himself as Oho-mono-nushi, and said: 'Let the Emperor grieve no more for the disorder of the country. This is my will. If thou wilt cause me to be worshipped by my child, Oho-tata-neko, then will there be peace at once; moreover the lands beyond the sea will of their own accord render submission.' Four people - the Emperor's aunt, Oho-mina-kuchi-no-Sukune and two others - had the same dream on the same night, and reported it.",
+          "note": "Paraphrase of Nihongi, Book V, §§7–8 (trans. Aston 1896); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "By proclamation to the Empire the Emperor sought Oho-tata-neko, who was found in the village of Suye in the district of Chinu. Asked whose child he was, he answered: 'My father's name is Oho-mono-nushi no Oho-kami; my mother's name is Ikudama-yori-bime.' The Emperor said, 'Now we shall be prosperous.' The articles for worship were made by the hands of the eighty Mononobe, Oho-tata-neko was appointed master of the worship of Oho-mono-nushi, and Nagaochi master of the worship of Yamato no Oho-kuni-dama. The eighty myriads of Deities were separately worshipped, shrines assigned to Heaven and Earth, and land and houses allotted for the service of the Gods. Thereupon the pestilence ceased, the country had peace, the five kinds of grain were produced, and the peasantry enjoyed abundance.",
+          "note": "Paraphrase of Nihongi, Book V, §§8–9 (trans. Aston 1896); not verbatim."
+        },
+        {
+          "id": "4",
+          "text": "In the eighth year the brewer Ikuhi was appointed to the Great Deity, and when Oho-tata-neko worshipped the Great Deity, Ikuhi in person presented sacred sake to the Emperor with a song: 'This sacred sake is not my sacred sake: 'tis sacred sake brewed by Oho-mono-nushi of Yamato - how long ago! how long ago!' (a pun on the brewer's own name). Having sung, they feasted in the shrine of the God, and afterwards the high officials and the Emperor answered with songs about the morning-door of the Hall of Miwa, of sweet sake fame; so the door of the shrine was thrown open and the Emperor proceeded on his way.",
+          "note": "Paraphrase of Nihongi, Book V, §10 (trans. Aston 1896); not verbatim."
+        }
+      ],
+      "persons": [
+        "japanese-sujin",
+        "japanese-otataneko",
+        "japanese-okuninushi",
+        "japanese-yamatototomomoso"
+      ]
+    },
+    {
+      "id": "japanese-sujin-four-road-generals",
+      "title": {
+        "en": "The Four Generals of the Roads and the Maiden's Warning Song",
+        "zh": "崇神遣四道將軍與少女警世之歌"
+      },
+      "tradition": "japanese",
+      "category": "myth",
+      "region": {
+        "en": "Wani acclivity, Yamashiro",
+        "zh": "山城和邇坂"
+      },
+      "lat": 34.68,
+      "lon": 135.83,
+      "period": "Nihongi compiled 720 CE (trans. Aston 1896)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Nihongi (Chronicles of Japan), Vol. I, trans. W. G. Aston (1896)",
+        "url": "https://archive.org/details/nihongi1asto"
+      },
+      "license": "Public domain (translation 1896)",
+      "summary": {
+        "en": "Sujin sends four generals with seals and ribbons to the four quarters - Oho-hiko to the north, Takenu-kaha-wake to the Eastern Sea, Kibi-tsu-hiko to the western road, Tamba-no-chi-nushi to Tamba. At the Wani acclivity Oho-hiko hears a roadside maiden sing a song warning that some are stealthily preparing to cut the thread of the Emperor's life; she vanishes, and the shrewd Yamato-toto-hi-momoso-hime reads the omen as Take-hani-yasu's coming treason and orders the generals recalled.",
+        "zh": "崇神天皇十年，詔選群臣遣於四道，賜印綬為將軍：大彥命主北道，武渟川別主東海道，吉備津彥主西道，丹波道主命主丹波，誡曰「有不順者即擊之」。大彥命至和邇坂之上，見路旁少女歌曰「呀彌動高日!豈知竊防竊欲絕王命之緒，逍遙如少女者!」復詠而忽滅。跡跡日百襲姬命占之，知武埴安彥將謀反，其妻吾田媛已取香山土以咒國土，乃悉召四道將軍還。"
+      },
+      "motifs": [
+        "oracle-divination",
+        "prophetic-vision",
+        "sacred-kingship"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient Japanese court myth (Nihongi); passages are condensed paraphrases of the public-domain Aston translation, presented for comparative mythology."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The Emperor proclaimed to his ministers that for the guidance of the people the chief thing is education: the distant savages did not yet receive the calendar, being unaccustomed to the civilizing influences of rule, so ministers would be sent to the four quarters to make the Imperial Will known. He sent Oho-hiko no Mikoto to the northern region, Takenu-kaha-wake to the Eastern Sea, Kibi-tsu-hiko to the western road, and Tamba-no-chi-nushi no Mikoto to Tamba, addressing them: 'If there be any who do not receive our instructions, prepare war and smite them.' He granted them all alike seals and ribbons and appointed them generals; later, in winter, the four generals set out on their journeys simultaneously.",
+          "note": "Paraphrase of Nihongi, Book V, §§12–13 (trans. Aston 1896); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Oho-hiko no Mikoto arrived at the top of the Wani acclivity - another version has the Hira-zaka acclivity in Yamashiro. There was by the road-side a young woman who sang: 'Ah! Prince Mimaki-iri! Unaware that some are stealthily preparing to cut the thread of thine own life, thou amusest thyself like a lady!' Wondering at this, Oho-hiko inquired what words these were; she answered that she was only singing, sang the song over again, and suddenly disappeared. Oho-hiko returned and reported the circumstances to the Emperor.",
+          "note": "Paraphrase of Nihongi, Book V, §14 (trans. Aston 1896); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "Yamato-toto-hi-momoso-hime no Mikoto, the Emperor's aunt, a shrewd and intelligent person who could foresee the future, understood what was portended by the song, and told the Emperor that it was a sign that Take-hani-yasu-hiko was about to plot treason. 'I have heard,' she said, 'that Ata-bime, Take-hani-yasu-hiko's wife, came secretly and took earth from Mount Kako in Yamato, which she wrapped in her neckerchief and prayed over, saying: This earth represents the Land of Yamato - and turned it upside down. By this I know that there will be troubles. If thou dost not speedily take measures, it will assuredly be too late.' Hereupon the Emperor recalled all the generals and consulted with them.",
+          "note": "Paraphrase of Nihongi, Book V, §14 (trans. Aston 1896); not verbatim."
+        }
+      ],
+      "persons": [
+        "japanese-sujin",
+        "japanese-yamatototomomoso"
+      ]
+    },
+    {
+      "id": "japanese-yamatototohime-snake",
+      "title": {
+        "en": "Yamato-toto-hime and the Snake Husband of Mount Mimoro",
+        "zh": "倭跡跡姬婚大物主蛇神，簪刺而崩"
+      },
+      "tradition": "japanese",
+      "category": "myth",
+      "region": {
+        "en": "Mount Mimoro (Miwa), Yamato",
+        "zh": "大和三輪山"
+      },
+      "lat": 34.68,
+      "lon": 135.83,
+      "period": "Nihongi compiled 720 CE (trans. Aston 1896)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Nihongi (Chronicles of Japan), Vol. I, trans. W. G. Aston (1896)",
+        "url": "https://archive.org/details/nihongi1asto"
+      },
+      "license": "Public domain (translation 1896)",
+      "summary": {
+        "en": "Yamato-toto-hi-momoso-hime becomes the wife of Oho-mono-nushi, who visits her only by night. Begging to behold his majesty, she is told he will enter her toilet-case at dawn - where she finds a beautiful little snake the length of a garment-cord. She cries out in fright; the shamed god puts her to shame in turn, treads the Great Void and ascends Mount Mimoro. She stabs herself in remorse with a chopstick, and her tomb is built by men in the daytime and by gods at night.",
+        "zh": "倭跡跡日百襲姬命為大物主神之妻。神惟夜至，不見晝形。姬曰「願得仰覩尊之威容」，神許以朝入其櫛笥。姬旦視笥中，見小蛇，其色如錦續子，長大如衣緒，大驚而叫。神慚，忽化人形，語其妻曰「汝不慎忍，令我羞恥；我還令汝知恥」，遂踏大虛，登三輪山而止。姬仰而悔之，則於座上以箸撞陰而死，葬大市。時人號其墓曰箸墓。墓晝人作、夜神作，運大坂山石築之。"
+      },
+      "motifs": [
+        "divine-marriage",
+        "transformation",
+        "world-serpent",
+        "taboo-transgression"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient Japanese court myth (Nihongi): the serpent-husband episode of the Miwa cult, a standard snake-suit motif in comparative mythology; passages are condensed paraphrases of the public-domain Aston translation, presented for comparative mythology."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "After this Yamato-toto-hi-momoso-hime no Mikoto became the wife of Oho-mono-nushi no Kami. This God, however, was never seen in the daytime, but came at night. Yamato-toto-hime said to her husband: 'As my Lord is never seen in the daytime, I am unable to view his august countenance distinctly. I beseech him to delay a while, that in the morning I may look upon the majesty of his beauty.' The Great God answered: 'What thou sayest is clearly right. To-morrow morning I will enter thy toilet-case and stay there. I pray thee be not alarmed at my form.' She wondered secretly at this, and waiting until daybreak, looked into her toilet-case. There was there a beautiful little snake, of the length and thickness of the cord of a garment.",
+          "note": "Paraphrase of Nihongi, Book V, §17 (trans. Aston 1896); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Thereupon she was frightened and uttered an exclamation. The Great God was ashamed, and changing suddenly into human form, spoke to his wife: 'Thou didst not contain thyself, but hast caused me shame. I will in my turn put thee to shame.' So treading the Great Void, he ascended to Mount Mimoro. Yamato-toto-hime looked up and had remorse. She flopped down on a seat and with a chopstick stabbed herself in the pudenda so that she died. She was buried at Oho-chi, and the men of that time called her tomb the Hashi no haka, the Chopstick Tomb.",
+          "note": "Paraphrase of Nihongi, Book V, §17 (trans. Aston 1896); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "This tomb was made by men in the daytime and by Gods at night. It was built of stones carried from Mount Oho-saka, the people standing close to each other and passing the stones from hand to hand from the mountain to the tomb. The men of that time made a song about this: 'If one passed from hand to hand the rocks built up on Oho-saka, how hard 'twould be to send them!'",
+          "note": "Paraphrase of Nihongi, Book V, §17 (trans. Aston 1896); not verbatim."
+        }
+      ],
+      "persons": [
+        "japanese-okuninushi",
+        "japanese-yamatototomomoso"
+      ]
+    },
+    {
+      "id": "japanese-arashito-stone-maiden",
+      "title": {
+        "en": "The White Stone Becomes a Maiden: Arashito's Lost Divine Bride",
+        "zh": "白石化麗姬：阿羅斯等失神女"
+      },
+      "tradition": "japanese",
+      "category": "myth",
+      "region": {
+        "en": "Kara (southern Korea) and Naniha (symbolic pin)",
+        "zh": "加耶與浪速（象徵錨點）"
+      },
+      "lat": 34.69,
+      "lon": 135.5,
+      "period": "Nihongi compiled 720 CE (trans. Aston 1896)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Nihongi (Chronicles of Japan), Vol. I, trans. W. G. Aston (1896)",
+        "url": "https://archive.org/details/nihongi1asto"
+      },
+      "license": "Public domain (translation 1896)",
+      "summary": {
+        "en": "A variant account of Arashito: when villagers slaughter his lost ox, an old man advises him to demand not treasures but the god of the village - a white stone. Carried home, the stone becomes a beautiful maiden; while he is away she vanishes eastwards, and drifting far over the sea he arrives in Japan following her. The maiden becomes the Deity of the Himegoso shrines at Naniha and in the Land of Toyo.",
+        "zh": "一說：都怒我阿羅斯等在本國以牛載田器而行，牛忽亡。跡入一村，村人宰牛欲食之，一老人教之曰「求償勿求珍寶，但求其村所祭之神」。其神乃白石化之。持歸寢室，忽化為美好少女。阿羅斯等欲婚之，暫離其間，女忽遁而東去。逐之，漂流泛海，遂至日本。女至浪速為比古佐之神，又至豐國許岐山，亦為比古佐之神，兩所祀之。"
+      },
+      "motifs": [
+        "transformation",
+        "divine-marriage",
+        "sacred-place",
+        "sacred-stone",
+        "sacred-direction"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient Japanese court myth (Nihongi); passages are condensed paraphrases of the public-domain Aston translation, presented for comparative mythology."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "In the beginning, when Tsunoga-arashito was still in his own land, he went into the country with an ox loaded with implements of husbandry. The ox suddenly disappeared, and seeking for it by its tracks, he found that the foot-prints ceased in a certain village. An old man there told him that the village chiefs had slain and eaten the ox to use the implements, and instructed him: 'If thou art asked what thing thou desirest as the price of the ox, do not ask for treasures, but say that thou wishest to have the God worshipped by the village.' The God whom they worshipped was a white stone. So they gave the white stone to the owner of the ox, and he brought it away with him and placed it in his bed-chamber.",
+          "note": "Paraphrase of Nihongi, Book VI, §6 (trans. Aston 1896); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "This divine stone became changed into a beautiful maiden, upon which Arashito was greatly rejoiced and wished to be united to her. But while he was away in another place the maiden suddenly disappeared. Arashito was greatly alarmed, and inquired of his wife where the maiden had gone; she replied that she had gone towards the East. So he went in search of her, and at length, drifting far over the sea, he thus arrived in Japan. The maiden whom he sought came to Naniha, where she became the Deity of the Himegoso shrine; then proceeding to the district of Kusaki in the Land of Toyo, she afterwards became the Deity of the Himegoso shrine there. She is worshipped in both these places.",
+          "note": "Paraphrase of Nihongi, Book VI, §6 (trans. Aston 1896); not verbatim."
+        }
+      ],
+      "persons": []
+    },
+    {
+      "id": "japanese-amahihoko-treasures",
+      "title": {
+        "en": "Ama-no-hi-hoko Brings the Divine Treasures of Silla",
+        "zh": "天日槍獻新羅寶物"
+      },
+      "tradition": "japanese",
+      "category": "myth",
+      "region": {
+        "en": "Harima and Tajima (Sea of Japan coast)",
+        "zh": "播磨與但馬"
+      },
+      "lat": 35.5,
+      "lon": 134.9,
+      "period": "Nihongi compiled 720 CE (trans. Aston 1896)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Nihongi (Chronicles of Japan), Vol. I, trans. W. G. Aston (1896)",
+        "url": "https://archive.org/details/nihongi1asto"
+      },
+      "license": "Public domain (translation 1896)",
+      "summary": {
+        "en": "Ama-no-hi-hoko, son of the King of Silla, gives his realm to his younger brother and sails to Japan with seven (or eight) treasures - gems, sun-mirror, Idzushi sword and spear, and a Kuma-himorogi. Allowed to seek his own dwelling, he tours by way of Lake Biwa and Wakasa and settles in Tajima; the potters of Kagami become his servants, and through his wife Matawo he becomes great-grandfather of Tajima-mori.",
+        "zh": "垂仁天皇三年，新羅王子天日槍來。獻寶物七種（一說八種）：葉細珠、足高珠、鹿石赤石珠、出石短劍、出石槍、日鏡、熊神籬（及伊莎莎刀）。帝命擇播磨宍鹿或淡路出島而居，天日槍請自遊行諸國擇所愿之地，歷近江、若狹而定居但馬。近江鏡谷土師皆其奴。娶出石真緋女，四世而至田道間守。"
+      },
+      "motifs": [
+        "sacred-kingship",
+        "sacred-place",
+        "boon-curse",
+        "mirror"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient Japanese court myth (Nihongi) on the Korean (Silla) transmission of cult objects to Japan; passages are condensed paraphrases of the public-domain Aston translation, presented for comparative mythology."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The Silla prince, Ama-no-hi-hoko, arrived, bringing seven objects in all: one Ha-buto gem, one Ashi-daka gem, one red-stone Ukaka gem, one Idzushi short sword, one Idzushi spear, one sun-mirror, and one Kuma-himorogi. These were stored in the Land of Tajima and made divine things for ever.",
+          "note": "Paraphrase of Nihongi, Book VI, §7 (trans. Aston 1896); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "One version says that in the beginning Ama-no-hi-hoko, riding in a ship, anchored at the land of Harima and dwelt in the village of Shisaha. Inquired who he was, he answered that he was the son of the King of Silla: hearing that in the Land of Japan there was a sage monarch, he had given his country to his younger brother Chiko and come to offer his allegiance with his treasures. The Emperor gave orders that he should dwell in Shisaha in Harima or Idesa in the island of Ahaji at his pleasure. Ama-no-hi-hoko asked that he might himself visit the various provinces to seek the place agreeable to his mind; ascending the river Uji he went north to the village of Ana in Ohomi, proceeded through Wakasa, and going westward arrived at the province of Tajima, where he fixed his dwelling. Therefore the potters of Kagami-no-hasama in Ohomi are the servants of Ama-no-hi-hoko. Ama-no-hi-hoko took to wife Matawo, daughter of Futomimi, a man of Idzushi in Tajima, who bore to him Tajima Morosuke - father of Tajima-no-Hinaraki, father of Kiyohiko, father of Tajima-mori.",
+          "note": "Paraphrase of Nihongi, Book VI, §7 (trans. Aston 1896); not verbatim."
+        }
+      ],
+      "persons": []
+    },
+    {
+      "id": "japanese-suinin-sahohiko-plot",
+      "title": {
+        "en": "Sahohiko's Treason and the Rice-Castle of Fire",
+        "zh": "沙本毘古之叛與稻城之火"
+      },
+      "tradition": "japanese",
+      "category": "myth",
+      "region": {
+        "en": "Makimuku, Yamato",
+        "zh": "大和纏向"
+      },
+      "lat": 34.68,
+      "lon": 135.83,
+      "period": "Nihongi compiled 720 CE (trans. Aston 1896)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Nihongi (Chronicles of Japan), Vol. I, trans. W. G. Aston (1896)",
+        "url": "https://archive.org/details/nihongi1asto"
+      },
+      "license": "Public domain (translation 1896)",
+      "summary": {
+        "en": "The Empress's brother Sahohiko asks whom she loves best and entreats her to murder Suinin with a hidden dagger. As she bends over her sleeping husband her tears fall on his face; his dream of a brocade snake coiled round his neck and rain from Saho wrings the whole plot from her. Sahohiko resists a month in a castle of piled rice-stalks; the Empress enters with her child to plead for his life, leaves as it burns, and dies with her brother, recommending five ladies of Tamba to the Emperor.",
+        "zh": "垂仁后沙本姬之兄沙本毘古欲弒帝，誘妹曰「汝愛兄與夫孰深」，予小刀使藏於衣，伺帝寢而刺其頸。姬泣於帝膝枕之側，帝覺而占夢曰「錦蛇繞頸，大雨自沙本潦面」，姬懼而盡吐其情。帝曰「非汝罪」，起兵遣筒田連田狹命誅沙本毘古。毘古積稻作稻城而拒，一月不拔。后抱皇子入稻城，帝圍之益急，趣送后與皇子出。后曰「臣妾罪當死，但願以妾所主之五后宮宅奉帝」，言訖，於烈火中與兄俱死。其后丹波有五女，皆賢，後召入後宮。"
+      },
+      "motifs": [
+        "taboo-transgression",
+        "prophetic-vision",
+        "boon-curse"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient Japanese court myth (Nihongi); passages are condensed paraphrases of the public-domain Aston translation, presented for comparative mythology."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The Empress's elder brother by the mother's side, Prince Sahohiko, plotted treason and tried to endanger the State. Watching an occasion when the Empress was at leisure, he asked her whom she loved best - her elder brother or her husband - and she innocently answered, her elder brother. Then he enticed her: 'If one serves a man by beauty, when the beauty fades his affection will cease... I wish to ascend to the immense felicity and rule over the Empire along with thee. So making high our pillows, we shall complete a long hundred years. I beg thee, therefore, to slay the Emperor for me.' He took a dagger and gave it to the Empress: 'Gird on this dagger among thy garments, and when the Emperor goes to sleep, do thou stab him in the neck and thus kill him.'",
+          "note": "Paraphrase of Nihongi, Book VI, §§8–9 (trans. Aston 1896); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "The Emperor took his noonday sleep with the Empress's knees as his pillow. She thought vainly that this would be the time to accomplish her brother's plot, and her tears fell on the Emperor's face. He woke and said: 'To-day We have had a dream. A small brocade-coloured snake coiled itself round Our neck and a great rain arose from Saho, which coming hither wet Our face. What does this portend?' Knowing she could not conceal the plot, she bowed herself to the earth and told him all: the small brocade-coloured snake is nothing else than the dagger given her; the great rain is her own tears. The Emperor said, 'This is not thy crime', raised a force from the neighbouring districts, and commanded Yatsunada to slay Sahohiko.",
+          "note": "Paraphrase of Nihongi, Book VI, §§9–10 (trans. Aston 1896); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "Sahohiko withstood him with an army, hastily piling up rice-stalks to make a castle so solid it could not be breached - a rice-castle. A month passed and it did not surrender. The Empress, grieving, said that though she was Empress she could not preside over the Empire after bringing ruin on her brother; she took the Imperial Prince Homutsu-wake in her arms and entered the rice-castle. The Emperor increased his army, surrounded the castle on all sides, and proclaimed to those within to send out the Empress and Prince quickly, but they would not. So the general Yatsunada set fire to the castle. The Empress, taking the child in her bosom, crossed over the castle and came out, beseeching the Emperor: her flight into the castle had been in hope of absolving her brother for her sake; that failing, there was nothing for her but to strangle herself - only she prayed that her palace be granted to fair mates for him, and that five virtuous ladies, daughters of Prince Michi-no-Ushi of Tamba, be placed in the side courts. To this the Emperor agreed; then the fire blazed up, the castle was destroyed, and Sahohiko and his younger sister died together inside it. Yatsunada was commended and granted the new name Yamato-hi-muke-take-hi-muke-hiko.",
+          "note": "Paraphrase of Nihongi, Book VI, §10 (trans. Aston 1896); not verbatim."
+        },
+        {
+          "id": "4",
+          "text": "In the fifteenth year the five women of Tamba were sent for and placed in the side-court: Hibasu-hime, Nuba-tani-iri-hime, Matonu-hime, Azami-ni-iri-hime, and Takano-hime. Hibasu-hime was appointed Empress and her three younger sisters made concubines; Takano-hime, on account of the ugliness of her form, was sent back to her own country. In her shame at being sent back, when she came to Kadono she purposely tumbled from the carriage and was killed; therefore that place received the name of Ochi-kuni, Fall-country.",
+          "note": "Paraphrase of Nihongi, Book VI, §15 (trans. Aston 1896); not verbatim."
+        }
+      ],
+      "persons": [
+        "japanese-suinin",
+        "japanese-sahohiko"
+      ]
+    },
+    {
+      "id": "japanese-nomino-sukune-sumo",
+      "title": {
+        "en": "Nomi no Sukune and Kuyehaya: The First Wrestling-Match",
+        "zh": "野見宿禰與當麻蹶速相撲"
+      },
+      "tradition": "japanese",
+      "category": "myth",
+      "region": {
+        "en": "Daini district (Taima), Yamato",
+        "zh": "大和當麻"
+      },
+      "lat": 34.68,
+      "lon": 135.83,
+      "period": "Nihongi compiled 720 CE (trans. Aston 1896)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Nihongi (Chronicles of Japan), Vol. I, trans. W. G. Aston (1896)",
+        "url": "https://archive.org/details/nihongi1asto"
+      },
+      "license": "Public domain (translation 1896)",
+      "summary": {
+        "en": "The courtiers report a champion of the Empire, Kuyehaya of Taima, who can break horns and straighten hooks and challenges all comers. A minister recalls the valiant Nomi no Sukune of Idzumo; the two men stand opposite and kick at each other until Sukune breaks Kuyehaya's ribs and loins and kills him. Taima's land is seized and given to Sukune, and the field of the broken loins keeps its name - the origin of sumo.",
+        "zh": "垂仁七年，人奏當麻蹶速力絕人，能折角勾曲，揚言四海之內莫己若者，欲得力者比試生死。帝問群臣，有奏「出雲國有野見宿禰，宜召而試之」。即遣使者召之。二人相對踢蹴，宿禰踢蹶速脅而折其肋，又踢而折其腰，遂殺之。取其地悉賜宿禰，故其地有腰折田之名。是為相撲之始。"
+      },
+      "motifs": [
+        "champion-portion",
+        "sacred-kingship"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient Japanese court myth (Nihongi): the legendary origin of sumo wrestling; passages are condensed paraphrases of the public-domain Aston translation, presented for comparative mythology."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The courtiers represented to the Emperor: 'In the village of Taima there is a valiant man called Kuyehaya of Taima. He is of great bodily strength, so that he can break horns and straighten out hooks. He is always saying to the people: You may search the four quarters, but where is there one to compare with me in strength? O that I could meet with a man of might, with whom to have a trial of strength, regardless of life or death.' Hearing this, the Emperor proclaimed to his ministers that Kuyehaya was the champion of the Empire and asked if there might be any to compare with him. One of the ministers came forward and said that in the Land of Idzumo there was a valiant man named Nomi no Sukune, whom it would be desirable to send for and match with Kuyehaya.",
+          "note": "Paraphrase of Nihongi, Book VI, §12 (trans. Aston 1896); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "That same day the Emperor sent Nagaochi to summon Nomi no Sukune, who came from Idzumo, and straightway he and Taima no Kuyehaya were made to wrestle together. The two men stood opposite to one another; each raised his foot and kicked at the other, when Nomi no Sukune broke with a kick the ribs of Kuyehaya and also kicked and broke his loins, and thus killed him. Therefore the land of Taima no Kuyehaya was seized and was all given to Nomi no Sukune. This was the cause why there is in that village a place called Koshi-ore-da, the field of the broken loins. Nomi no Sukune remained and served the Emperor.",
+          "note": "Paraphrase of Nihongi, Book VI, §12 (trans. Aston 1896); not verbatim."
+        }
+      ],
+      "persons": [
+        "japanese-suinin",
+        "japanese-nomino-sukune"
+      ]
+    },
+    {
+      "id": "japanese-yamatohiko-living-burial",
+      "title": {
+        "en": "The Living Burial of Yamato-hiko's Tomb",
+        "zh": "倭彥命陵活殉之慟"
+      },
+      "tradition": "japanese",
+      "category": "myth",
+      "region": {
+        "en": "Tsukizaka in Musa, Yamato",
+        "zh": "大和身狹桃花鳥坂"
+      },
+      "lat": 34.68,
+      "lon": 135.83,
+      "period": "Nihongi compiled 720 CE (trans. Aston 1896)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Nihongi (Chronicles of Japan), Vol. I, trans. W. G. Aston (1896)",
+        "url": "https://archive.org/details/nihongi1asto"
+      },
+      "license": "Public domain (translation 1896)",
+      "summary": {
+        "en": "When Yamato-hiko, the Emperor's brother, dies, his personal attendants are buried alive upright in the precinct of the tomb. For several days they do not die but weep and wail day and night until they rot, and dogs and crows eat them. Hearing the sound of their weeping, Suinin is grieved and decrees an end to the practice of following the dead - the story later generations attach to the age of Kōrei.",
+        "zh": "垂仁二十八年，倭彥命崩，葬身狹桃花鳥坂。乃集其從僕數十人，悉生埋於陵域。數日不死，夜哭晝泣，遂腐而畢，犬烏聚而食之。帝聞哭聲，心甚哀慟，詔左右曰「生者殉死，甚可痛傷。古雖如此，何用追從？自今以後，議而止之」。"
+      },
+      "motifs": [
+        "taboo-transgression",
+        "sacred-kingship"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient Japanese court myth (Nihongi) concerning junshi, the burial of attendants with their lord; passages are condensed paraphrases of the public-domain Aston translation, presented for comparative mythology."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Yamato-hiko no Mikoto, the Emperor's younger brother by the mother's side, died, and was buried at Tsukizaka in Musa. Thereupon his personal attendants were assembled and were all buried alive upright in the precinct of the misasagi. For several days they died not, but wept and wailed day and night. At last they died and rotted. Dogs and crows gathered and ate them.",
+          "note": "Paraphrase of Nihongi, Book VI, §19 (trans. Aston 1896); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "The Emperor, hearing the sound of their weeping and wailing, was grieved in heart, and commanded his high officers: 'It is a very painful thing to force those whom one has loved in life to follow him in death. Though it be an ancient custom, why follow it, if it is bad? From this time forward, take counsel so as to put a stop to the following of the dead.'",
+          "note": "Paraphrase of Nihongi, Book VI, §19 (trans. Aston 1896); not verbatim."
+        }
+      ],
+      "persons": [
+        "japanese-suinin",
+        "japanese-yamatohiko"
+      ]
+    },
+    {
+      "id": "japanese-nomino-sukune-clay-figures",
+      "title": {
+        "en": "Nomi no Sukune Substitutes Clay Figures for Living Men",
+        "zh": "野見宿禰造土偶代生人"
+      },
+      "tradition": "japanese",
+      "category": "myth",
+      "region": {
+        "en": "Tomb of Hibasu-hime, Yamato",
+        "zh": "大和日葉酢媛命陵"
+      },
+      "lat": 34.68,
+      "lon": 135.83,
+      "period": "Nihongi compiled 720 CE (trans. Aston 1896)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Nihongi (Chronicles of Japan), Vol. I, trans. W. G. Aston (1896)",
+        "url": "https://archive.org/details/nihongi1asto"
+      },
+      "license": "Public domain (translation 1896)",
+      "summary": {
+        "en": "When Empress Hibasu-hime dies, the abolished yet still-expected practice of following in death poses a problem. Nomi no Sukune proposes an expedient: he summons a hundred clay-workers' men from Idzumo and has them shape figures of men, horses and other objects. These haniwa are first set up at her tomb, and a decree orders clay figures, not harmed men, at all tumuli henceforth - and the Hashi no Muraji superintend imperial burials ever after.",
+        "zh": "垂仁三十二年，日葉酢媛命崩。帝曰「從死之風不良已悟，今葬何宜？」野見宿禰進曰「於君之陵生埋人，非良，何傳後世？請進一事」。乃遣使自出雲召土師部工人百，自執作土牛馬等物以獻，曰「自今以後，以土物代生人，置於陵域，以為後世法」。帝大喜，命此土物曰埴輪。下詔「陵必置土物，無傷人」。宿禰獲賞，掌土師部，故土師連執掌帝葬至今。"
+      },
+      "motifs": [
+        "clay-humans",
+        "sacred-kingship",
+        "taboo-transgression"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient Japanese court myth (Nihongi): the legendary origin of the haniwa clay figures; passages are condensed paraphrases of the public-domain Aston translation, presented for comparative mythology."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The Empress Hibasu-hime no Mikoto died. Some time before the burial, the Emperor commanded his Ministers: 'We have already recognized that the practice of following the dead is not good. What should now be done in performing this burial?' Thereupon Nomi no Sukune came forward and said: 'It is not good to bury living men upright at the tumulus of a prince. How can such a practice be handed down to posterity? I beg leave to propose an expedient which I will submit to Your Majesty.'",
+          "note": "Paraphrase of Nihongi, Book VI, §20 (trans. Aston 1896); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "He sent messengers to summon up from the Land of Idzumo a hundred men of the clay-workers' Be, and himself directed them to take clay and form therewith shapes of men, horses and various objects, which he presented to the Emperor: 'Henceforward let it be the law for future ages to substitute things of clay for living men, and to set them up at tumuli.' The Emperor was greatly rejoiced and commanded Nomi no Sukune: 'Thy expedient hath greatly pleased Our heart.' The things of clay were first set up at the tomb of Hibasu-hime, and a decree was issued: 'Henceforth these clay figures must be set up at tumuli: let not men be harmed.' Sukune was bountifully rewarded, received a kneading-place and the charge of the clay-workers' Be, and was thenceforth called Hashi no Omi; this was how it came to pass that the Hashi no Muraji superintend the burials of the Emperors.",
+          "note": "Paraphrase of Nihongi, Book VI, §20 (trans. Aston 1896); not verbatim."
+        }
+      ],
+      "persons": [
+        "japanese-nomino-sukune",
+        "japanese-suinin"
+      ]
+    },
+    {
+      "id": "japanese-yamato-hime-ise-shrine",
+      "title": {
+        "en": "Yamato-hime Carries Amaterasu to Ise of the Divine Wind",
+        "zh": "倭姬命奉天照大神祀伊勢"
+      },
+      "tradition": "japanese",
+      "category": "myth",
+      "region": {
+        "en": "Ise (Isuzu river, Province of Ise)",
+        "zh": "伊勢國五十鈴川畔"
+      },
+      "lat": 34.46,
+      "lon": 136.72,
+      "period": "Nihongi compiled 720 CE (trans. Aston 1896)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Nihongi (Chronicles of Japan), Vol. I, trans. W. G. Aston (1896)",
+        "url": "https://archive.org/details/nihongi1asto"
+      },
+      "license": "Public domain (translation 1896)",
+      "summary": {
+        "en": "Amaterasu is taken from Toyo-suki-iri-hime and entrusted to the princess Yamato-hime, who wanders through Sasahata, Ohomi and Mino seeking a shrine, until the Great Goddess names the secluded and pleasant land of Ise of the divine wind as her dwelling. There an abstinence palace is built on the Isuzu. In a variant, the Emperor makes Yamato-hime his august staff offered to the Goddess. The Great God of Yamato also possesses a minister to rebuke Sujin's incomplete worship, and Nunaki-waka-hime is divined as priestess.",
+        "zh": "垂仁二十五年三月，以天照大神自豐鍬入姬命傳於倭姬命。倭姬命求鎮坐之地，歷宇陀、近江、美濃而後至伊勢。大神託曰「神風伊勢者，常世之浪打寄之國，此地美哉，願居此」。乃奉齋於五十鈴川畔，建齋宮，是為伊勢齋宮之始。一說帝以倭姬為御杖，奉於天照大神。又大倭大國魂神託物部大磯城，諫帝祭祀不周，帝乃廣加奉祭。"
+      },
+      "motifs": [
+        "sacred-place",
+        "theophany",
+        "spirit-possession",
+        "sacred-kingship"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient Japanese court myth (Nihongi) on the founding of the Grand Shrine of Ise, sacred to living Shinto tradition; passages are condensed paraphrases of the public-domain Aston translation, presented for comparative mythology."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Ama-terasu no Oho-kami was taken from Toyo-suki-iri-hime no Mikoto and entrusted to Yamato-hime no Mikoto. Yamato-hime sought for a place where she might enshrine the Great Goddess: she proceeded to Sasahata in Uda, then turning back entered the land of Ohomi, went round eastwards to Mino, and arrived in the province of Ise. Now Amaterasu instructed her: 'The province of Ise, of the divine wind, is the land whither repair the waves from the eternal world, the successive waves. It is a secluded and pleasant land. In this land I wish to dwell.' In compliance with this instruction a shrine was erected to her in the province of Ise, and an Abstinence Palace was built at Kaha-kami in Isuzu - the palace of Iso.",
+          "note": "Paraphrase of Nihongi, Book VI, §17 (trans. Aston 1896); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "One story is that the Emperor made Yamato-hime no Mikoto his august staff, that is his assistant or deputy, and offered her to Amaterasu: she enshrined the Goddess at Idzu-kashi-no-Moto in Shiki and offered sacrifice, and thereafter, in compliance with the Goddess's instructions, removed in winter to the Palace of Watarahi in the province of Ise.",
+          "note": "Paraphrase of Nihongi, Book VI, §17 (trans. Aston 1896); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "At this time the Great God of Yamato inspired Ohominakuchi no Sukune and admonished the Emperor by his mouth: 'At the time of the Great Beginning it was covenanted that Amaterasu should govern all the Plain of Heaven, and that her august Imperial descendants should hold absolute rule over the eighty spiritual beings of the Central Reed-plain Land. My personal tenure of the governance of the great land is already at an end. Although the late Emperor Mimaki maintained the worship of the Gods in Heaven and Earth, he failed to search out the root of the matter, wanting in thoroughness: therefore that Emperor was short-lived. Do thou show regret for his shortcomings and be watchful as to the ceremonies of worship; so thine august life will be long and the Empire will have peace.' By divination Nunaki-waka-hime was appointed to conduct the worship of the Great God of Yamato; her body being already emaciated and unfit to sacrifice, Nagaochi offered the sacrifices in her stead.",
+          "note": "Paraphrase of Nihongi, Book VI, §17 (trans. Aston 1896); not verbatim."
+        }
+      ],
+      "persons": [
+        "amaterasu",
+        "japanese-yamato-hime",
+        "japanese-suinin",
+        "japanese-okuninushi"
+      ]
+    },
+    {
+      "id": "japanese-yamatotakeru-kumaso-disguise",
+      "title": {
+        "en": "Yamato-takeru the Maid: The Death of the Brave of Kahakami",
+        "zh": "日本武尊女裝斬熊襲梟帥"
+      },
+      "tradition": "japanese",
+      "category": "myth",
+      "region": {
+        "en": "Land of the Kumaso (southern Kyushu)",
+        "zh": "熊襲之地（南九州）"
+      },
+      "lat": 32.2,
+      "lon": 131.3,
+      "period": "Nihongi compiled 720 CE (trans. Aston 1896)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Nihongi (Chronicles of Japan), Vol. I, trans. W. G. Aston (1896)",
+        "url": "https://archive.org/details/nihongi1asto"
+      },
+      "license": "Public domain (translation 1896)",
+      "summary": {
+        "en": "Sent at sixteen against the Kumaso, Wo-usu lets down his hair, disguises himself as a girl and, sword hidden under his dress, joins the women at the banquet of the Brave of Kahakami. Made to drink and toyed with, he stabs the drunken champion in the breast; the dying giant confesses that none has ever matched him and grants the prince his own title, henceforth Yamato-dake. On his way home he slays the malignant deities of the Ana and Kashiha ferries.",
+        "zh": "景行二十七年十月，遣十六歲之小碓命擊熊襲，先召美濃御火由良弭善射者為從。小碓命散髮作少女裝，內藏劍，雜侍女入川上梟帥宴室。帥悅其色，攜手令侍坐，舉杯屢酌。夜深人少，帥既醉，小碓命抽劍中其胸。帥伏地曰「請少待，有言。汝誰氏子？」答曰「吾乃大帶日子天皇之子，名曰倭男草那」。帥曰「吾是此地之大力者，無人敢抗。然遇王子，莫能敵。故此鄙奴敢進尊號：願稱王子為日本武」。言訖，武尊貫其胸而殺之，日本武尊之名由是而起。還時殺吉備之神、浪速之神，開陸水之道。"
+      },
+      "motifs": [
+        "trickster",
+        "champion-portion",
+        "sacred-kingship"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient Japanese court myth (Nihongi): the best-known hero legend of the imperial cycle; passages are condensed paraphrases of the public-domain Aston translation, presented for comparative mythology."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "In the winter, tenth month, Yamato-dake no Mikoto was sent to attack the Kumaso; he was at this time sixteen years of age. He desired to take with him some good archers, and someone told him of Oto-hiko-gimi, a good archer in the province of Mino, whom he summoned; Oto-hiko brought Ishiura no Yokotachi, Tako no Inaki and Chichika no Inaki of Ohari and followed the expedition. Having arrived at the Land of Kumaso and inquired into the state of things, he found the Kumaso had a leader named Torishi-kaya, also called the Brave of Kahakami, who assembled all his relations to give them a banquet.",
+          "note": "Paraphrase of Nihongi, Book VII, sec. 20 (trans. Aston 1896); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Yamato-dake let down his hair, and disguising himself as a young girl, secretly waited until the banquet should be given by the Brave of Kahakami. Then with a sword girt on him underneath his inner garment he entered the banqueting muro of the Brave and remained among the women. The Brave, enchanted with the beauty of the young girl, forthwith took her by the hand, made her sit beside him, offered her the cup and amused himself with her. By and by the night grew late, the company fewer, and the Brave became intoxicated. Hereupon Yamato-dake drew the sword he had in his inner garments and stabbed the Brave in the breast, but did not kill him outright.",
+          "note": "Paraphrase of Nihongi, Book VII, sec. 20 (trans. Aston 1896); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "The Brave, bowing his head to the ground, asked to speak: 'Who is thine Augustness?' He answered: 'I am the child of the Emperor Oho-tarashi-hiko, and my name is Yamato Woguna.' The Brave said: 'I am the strongest man in all this land, and none of the men of this time can excel me in might. I have met with many valiant men, but none could match the Prince. Therefore this despicable robber, from his filthy mouth, offers thine Augustness a title: henceforward let the Imperial Prince be styled Yamato-dake.' When he had done speaking, Yamato-dake pierced his breast through and killed him - and up to the present day he is styled Yamato-dake no Mikoto. Afterwards Oto-hiko and the others slew all that band, leaving not a chewer. Returning by sea to Yamato he crossed the Ana Sea in Kibi and slew a malignant Deity, and at Naniha killed the malignant Deity of the Kashiha ferry, both of which had sent forth poisonous vapours to plague travellers.",
+          "note": "Paraphrase of Nihongi, Book VII, secs. 20-21 (trans. Aston 1896); not verbatim."
+        }
+      ],
+      "persons": [
+        "japanese-yamato-takeru",
+        "japanese-keiko"
+      ]
+    },
+    {
+      "id": "japanese-yamatotakeru-ise-sword",
+      "title": {
+        "en": "Yamato-takeru Takes Leave of Yamato-hime at the Shrine of Ise",
+        "zh": "日本武尊參伊勢辭倭姬，受草薙劍"
+      },
+      "tradition": "japanese",
+      "category": "myth",
+      "region": {
+        "en": "Grand Shrine of Ise",
+        "zh": "伊勢神宮"
+      },
+      "lat": 34.46,
+      "lon": 136.72,
+      "period": "Nihongi compiled 720 CE (trans. Aston 1896)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Nihongi (Chronicles of Japan), Vol. I, trans. W. G. Aston (1896)",
+        "url": "https://archive.org/details/nihongi1asto"
+      },
+      "license": "Public domain (translation 1896)",
+      "summary": {
+        "en": "When the Eastern wilds rebel in Keiko's fortieth year, his eldest son Oho-usu is terrified and hides in the grass, is chided and sent to govern Mino; Yamato-takeru volunteers, and the Emperor gives him a battle-axe with a great address on the savage Yemishi. Setting out, Yamato-takerer turns aside to worship at the shrine of Ise, takes leave of his aunt Yamato-hime, and receives from her the sword Kusa-nagi with the warning, 'Be cautious, and yet not remiss.'",
+        "zh": "景行四十年，東國大亂。帝欲遣將而群臣莫敢任，皇兄大碓命懼而竄於草莽，被召，帝斥之，賜美濃國而遣之。日本武尊奮然請行。帝親授鉞，諭以蝦夷悍暴、山有賊神、野有姦鬼，誡其剛柔並用。遂拜吉備武彥、大伴武日為副。十月，尊出發，先詣伊勢神宮齋拜，辭倭姬命曰「奉敕東征誅叛，來辭」。倭姬命取草薙劍授之，曰「慎歟，勿怠」。"
+      },
+      "motifs": [
+        "sacred-kingship",
+        "sacred-place",
+        "theophany"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient Japanese court myth (Nihongi); passages are condensed paraphrases of the public-domain Aston translation, presented for comparative mythology."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "In the fortieth year there was wide rebellion of the Eastern wilds, and the frontier was in a state of tumult. The Emperor addressed his ministers: 'The Eastern country is now in an unquiet state, and turbulent Deities have sprung up in numbers. Moreover the Yemishi have rebelled to a man and frequently carry off the people. Whom shall I send to still this disturbance?' But none of the ministers knew whom to send. Then Yamato-dake no Mikoto addressed the Emperor: 'Thy servant it was who formerly performed the labour of the expedition to the West. This campaign must be the business of the Imperial Prince Oho-usu.' But the Imperial Prince Oho-usu was afraid and ran to conceal himself among the grass. A messenger was sent to fetch him, and the Emperor chid him: 'If thou dost not wish it, shall We insist on sending thee? Why all this alarm, whilst thou hast not yet confronted the enemy?' He eventually granted him Mino as a fief and so sent him to his government.",
+          "note": "Paraphrase of Nihongi, Book VII, sec. 22 (trans. Aston 1896); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Yamato-dake no Mikoto, striking a martial attitude, said: 'Not many years have passed since I subdued the Kumaso. Now the Yemishi of the East have made a fresh rebellion. When shall we arrive at a universal peace? Thy servant, notwithstanding that it is a labour to him, will speedily quell this disturbance.' So the Emperor took a battle-axe and, giving it to Yamato-dake, described the Yemishi - men and women living together promiscuously, dwelling in holes in winter and nests in summer, clothing themselves in furs, drinking blood, keeping arrows in their top-knots and carrying swords within their clothing: 'This we know, that whereas in outward form thou art Our child, in reality thou art a God.' He commanded Kibi no Take-hiko and Ohotomo no Take-hi no Muraji to follow him, and appointed Nana-tsuka-hagi his steward.",
+          "note": "Paraphrase of Nihongi, Book VII, sec. 22 (trans. Aston 1896); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "In winter, on the second day of the tenth month, Yamato-dake set out on his journey. On the seventh day he turned aside from his way to worship at the shrine of Ise. Here he took leave of Yamato-hime no Mikoto: 'By order of the Emperor I am now proceeding on an expedition against the East to put to death the rebels; therefore I am taking leave of thee.' Hereupon Yamato-hime no Mikoto took the sword Kusa-nagi and gave it to Yamato-dake no Mikoto, saying: 'Be cautious, and yet not remiss.'",
+          "note": "Paraphrase of Nihongi, Book VII, sec. 24 (trans. Aston 1896); not verbatim."
+        }
+      ],
+      "persons": [
+        "japanese-yamato-takeru",
+        "japanese-yamato-hime",
+        "japanese-keiko",
+        "japanese-ohousu"
+      ]
+    },
+    {
+      "id": "japanese-yamatotakeru-suruga-fire",
+      "title": {
+        "en": "The Burning Moor of Suruga and the Self-Wielding Sword",
+        "zh": "駿河燒原之計與草薙劍自芟"
+      },
+      "tradition": "japanese",
+      "category": "myth",
+      "region": {
+        "en": "Suruga moor (Yaketsu), Tokai coast",
+        "zh": "駿河燒津"
+      },
+      "lat": 34.9,
+      "lon": 138.25,
+      "period": "Nihongi compiled 720 CE (trans. Aston 1896)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Nihongi (Chronicles of Japan), Vol. I, trans. W. G. Aston (1896)",
+        "url": "https://archive.org/details/nihongi1asto"
+      },
+      "license": "Public domain (translation 1896)",
+      "summary": {
+        "en": "The brigands of Suruga feign obedience and lure Yamato-takeru onto a moor to hunt vast deer, then set it ablaze. He sees through the deceit, produces fire with his fire-drill and kindles a counter-fire to escape; one version says his sword Mura-kumo wielded itself and mowed the herbage around him, whence its name Kusa-nagi, the herbage-mower. He burns the robber-band and exterminates them at Yaketsu.",
+        "zh": "尊至駿河，賊偽為恭順，紿曰「原中大鹿甚眾，其息如朝霧，其足如茂林，王宜往獵」。尊信而入原，賊欲殺之，乃縱火燒原。尊知被誑，以火燧出火，逆燒而免。一說：尊所佩劍叢雲自揮，芟其近草，因得脫走，故此劍名草薙。尊嘆曰「幾為所欺」，遂焚其賊眾盡殲之，故其地名燒津。"
+      },
+      "motifs": [
+        "trickster",
+        "transformation",
+        "taboo-transgression"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient Japanese court myth (Nihongi); passages are condensed paraphrases of the public-domain Aston translation, presented for comparative mythology."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "This year Yamato-dake no Mikoto first reached Suruga. The brigands of this place made a show of obedience and said, deceivingly: 'On this moor there are large deer in very great plenty. Their breath is like the morning mist, their legs are like a dense wood. Do thou go and hunt them.' Yamato-dake believed these words and, going into the middle of the moor, sought for game. The brigands, desiring to kill the Prince, set fire to the moor.",
+          "note": "Paraphrase of Nihongi, Book VII, sec. 25 (trans. Aston 1896); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "But the Prince, seeing that he had been deceived, produced fire by means of a fire-drill and, kindling a counter-fire, succeeded in making his escape. One version says: 'The sword Mura-kumo, which the Prince wore, wielded itself, and mowed away the herbage near the Prince, thus enabling him to escape. Therefore that sword was called Kusa-nagi.' The Prince said: 'I was almost betrayed.' So he burnt all that robber-band and exterminated them. Therefore that place was called Yaketsu, the burning ferry.",
+          "note": "Paraphrase of Nihongi, Book VII, sec. 25 (trans. Aston 1896); not verbatim."
+        }
+      ],
+      "persons": [
+        "japanese-yamato-takeru"
+      ]
+    },
+    {
+      "id": "japanese-ototachibana-sacrifice-nihongi",
+      "title": {
+        "en": "Oto-tachibana-hime Calms the Sea with Her Life",
+        "zh": "弟橘媛投海鎮神怒"
+      },
+      "tradition": "japanese",
+      "category": "myth",
+      "region": {
+        "en": "Sea crossing from Sagami to Kadzusa (symbolic pin)",
+        "zh": "相模上總海道（象徵錨點）"
+      },
+      "lat": 35.5,
+      "lon": 139.9,
+      "period": "Nihongi compiled 720 CE (trans. Aston 1896)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Nihongi (Chronicles of Japan), Vol. I, trans. W. G. Aston (1896)",
+        "url": "https://archive.org/details/nihongi1asto"
+      },
+      "license": "Public domain (translation 1896)",
+      "summary": {
+        "en": "From Sagami Yamato-takeru wishes to cross to Kadzusa, boasting 'this is but a little sea: one might even jump over it.' In mid-channel a storm arises and tosses the ship. His consort Oto-tachibana-hime declares the winds and waves must be the wish of the God of the Sea, prays to be given to the sea to redeem his life, and plunges into the billows. The storm ceases, and the sea is ever after called Hashiri-midzu, running-water.",
+        "zh": "尊自相模欲渡上總，望海大聲曰「此滄海咫尺，可躍而渡」。至中流忽起風暴，舟覆在即。尊妃弟橘媛曰「風浪驟起，舟將沒，必海神之意。願以身代王命，請入海」。言訖蹈波而沒，風波頓息，舟得抵岸。故時人名此海曰走水。"
+      },
+      "motifs": [
+        "storm-thunder",
+        "theophany",
+        "boon-curse",
+        "storm-still"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient Japanese court myth (Nihongi); passages are condensed paraphrases of the public-domain Aston translation, presented for comparative mythology."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Next he marched on to Sagami, whence he desired to proceed to Kadzusa. Looking over the sea, he spoke with a loud voice and said: 'This is but a little sea: one might even jump over it.' But when he came to the middle of the sea a storm suddenly arose, and the Prince's ship was tossed about, so that he could not cross over.",
+          "note": "Paraphrase of Nihongi, Book VII, sec. 26 (trans. Aston 1896); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "At this time there was a concubine in the Prince's suite, named Oto-tachibana-hime, daughter of Oshiyama no Sukune of the Hodzumi house. She addressed the Prince, saying: 'This present uprising of the winds and rushing of the waves, so that the Prince's ship is like to sink, must be due to the wishes of the God of the Sea. I pray thee let me go into the sea, and so let the person of thy mean handmaiden be given to redeem the life of the Prince's Augustness.' Having finished speaking, she plunged into the billows. The storm forthwith ceased, and the ship was enabled to reach the shore. Therefore the people of that time called that sea Hashiri-midzu, running-water.",
+          "note": "Paraphrase of Nihongi, Book VII, sec. 26 (trans. Aston 1896); not verbatim."
+        }
+      ],
+      "persons": [
+        "japanese-yamato-takeru",
+        "japanese-ototachibana"
+      ]
+    },
+    {
+      "id": "japanese-yamatotakeru-ibuki-serpent",
+      "title": {
+        "en": "The Serpent God of Mount Ibuki and the Icy Rain",
+        "zh": "伊吹山神化蛇降雹，尊病篤"
+      },
+      "tradition": "japanese",
+      "category": "myth",
+      "region": {
+        "en": "Mount Ibuki, Afumi (Lake Biwa)",
+        "zh": "近江伊吹山"
+      },
+      "lat": 35.3,
+      "lon": 136.0,
+      "period": "Nihongi compiled 720 CE (trans. Aston 1896)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Nihongi (Chronicles of Japan), Vol. I, trans. W. G. Aston (1896)",
+        "url": "https://archive.org/details/nihongi1asto"
+      },
+      "license": "Public domain (translation 1896)",
+      "summary": {
+        "en": "Hearing that a savage Deity dwells on Mount Ibuki, Yamato-takeru leaves his sword in the house of Miyazu-hime and goes on foot. The mountain god takes the shape of a great serpent on the road; mistaking it for a mere messenger, the Prince strides over it - and the god raises clouds and icy rain until he staggers out half-drowned and drinks at a spring to recover. Here his illness begins. At Otsu he sings to the single pine under which he once left a sword, and offers his Yemishi captives to the shrine.",
+        "zh": "尊自尾張聞近江伊吹山有惡神，乃留劍於御媛家，徒步入山。山神化大蛇橫道。尊不察為本神，以為神使，曰「既殺本神，何足復問其使」，跨蛇而過。神乃興雲降凍雨，山中昏暗，迷不知所出。尊冒霧強行，僅得出，如醉而坐，飲山麓泉水乃醒，因名其泉曰醒泉。尊自此始得病。次伊勢尾津，歌昔日忘劍之松。至能褒野，疾篤。"
+      },
+      "motifs": [
+        "transformation",
+        "world-serpent",
+        "storm-thunder",
+        "boon-curse"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient Japanese court myth (Nihongi); passages are condensed paraphrases of the public-domain Aston translation, presented for comparative mythology."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Yamato-dake no Mikoto, having returned to Ohari, straightway took to wife a daughter of the Ohari house, by name Miyazu-hime, and tarried there until the next month. Here he heard that on Mount Ibuki in Afumi there was a savage Deity. So he took off his sword and left it in the house of Miyazu-hime, and went on foot. When he arrived at Mount Ibuki, the God of the mountain took the shape of a great serpent and posted himself on the road.",
+          "note": "Paraphrase of Nihongi, Book VII, sec. 27 (trans. Aston 1896); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Yamato-dake, not knowing that it was the master God who had become a serpent, said to himself: 'This serpent must be the Savage Deity's messenger. Having already slain a master God, is a messenger worth hunting after?' Accordingly he strode over the serpent and passed on. Then the God of the mountain raised up the clouds and made an icy rain to fall: the tops of the hills became covered with mist, and the valleys involved in gloom. There was no path which he could follow. However, braving the mist, he forced his way onwards and barely succeeded in finding an issue, beside himself like a drunken man. He sat down beside a spring at the foot of the mountain, and having drunk of the water, recovered his senses; therefore that spring was called the Wi-same spring. It was at this time that Yamato-dake first became ill.",
+          "note": "Paraphrase of Nihongi, Book VII, sec. 27 (trans. Aston 1896); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "The disease gradually increased, and he returned to Ohari. Here he did not enter the house of Miyazu-hime, but passed on to Ise and reached Otsu. Formerly, in the year when he was proceeding eastwards, he halted on the shore at Otsu and partook of food, taking off a sword which he laid at the foot of a fir-tree and forgot. When he now came to this place the sword was still there, and he made a song: 'Oh! thou single pine-tree, that art right opposite to Ohari - ah me, thou single pine-tree! If thou wert a man, garments I would clothe thee with, a sword I would gird on thee.' When he came to the moor of Nobo his sufferings became very severe, and he made an offering of the Yemishi whom he had captured to the Shrine of the God.",
+          "note": "Paraphrase of Nihongi, Book VII, secs. 27-28 (trans. Aston 1896); not verbatim."
+        }
+      ],
+      "persons": [
+        "japanese-yamato-takeru"
+      ]
+    },
+    {
+      "id": "japanese-yamatotakeru-death-whitebird",
+      "title": {
+        "en": "The Death of Yamato-takeru and the White Bird Misasagi",
+        "zh": "日本武尊崩於能褒野，化白鳥而葬"
+      },
+      "tradition": "japanese",
+      "category": "myth",
+      "region": {
+        "en": "Moor of Nobo, Ise; the white-bird tombs of Yamato and Kahachi",
+        "zh": "伊勢能褒野與大和河內白鳥陵"
+      },
+      "lat": 34.46,
+      "lon": 136.72,
+      "period": "Nihongi compiled 720 CE (trans. Aston 1896)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Nihongi (Chronicles of Japan), Vol. I, trans. W. G. Aston (1896)",
+        "url": "https://archive.org/details/nihongi1asto"
+      },
+      "license": "Public domain (translation 1896)",
+      "summary": {
+        "en": "Dying on the moor of Nobo at thirty, Yamato-takeru sends Kibi-no-Takehiko with his last report: the rebels subdued, the violent deities moderated, and his only grief that he cannot meet his father again. The Emperor's grief is unbounded. Then the dead prince emerges from his misasagi as a great white bird, flying toward Yamato: the opened coffin holds only empty clothing, and white-bird tombs are raised where the bird rests until it soars to Heaven. The Kusa-nagi sword remains in the shrine of Atsuta.",
+        "zh": "尊疾篤於能褒野，遣吉備武彥奏曰「臣奉敕東征，賴神德帝威，討叛柔神，卷甲弢弓而歸，將復命於天朝。不意天命將盡，如駟馬過隙不可留。獨臥荒野，身不足惜，所恨不能復見耳」。遂崩，年三十。帝聞之哀慟不食。尊乃化白鳥出陵，飛向大和。侍臣開棺視之，唯空衣而已。使者隨白鳥，止大和琴引原作陵，又止河內古池亦作陵，遂謂三陵曰白鳥陵。鳥終翔天而去，陵中唯葬衣冠。帝欲傳其功，置建部。草薙劍今在尾張熱田神社。"
+      },
+      "motifs": [
+        "transformation",
+        "resurrection",
+        "sacred-place",
+        "flight-sky"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient Japanese court myth (Nihongi): the death and apotheosis of the national hero Yamato-takeru; passages are condensed paraphrases of the public-domain Aston translation, presented for comparative mythology."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "When he came to the moor of Nobo his sufferings became very severe. He sent Kibi no Take-hiko to report to the Emperor: 'Thy servant, having received the command of the Celestial Court, undertook a distant expedition to the wilds of the East, where, by the favour of the Gods and trusting in the mighty power of the Emperor, I made the rebellious submit themselves for punishment and the violent deities become moderate. Therefore I rolled up my armour, laid aside my weapons, and was returning peacefully. It was my hope on such a day at such an hour to report my mission to the Celestial Court. But the life allotted me by Heaven has unexpectedly approached an end: passing swiftly as a four-horse carriage passes a crack in the road, it may not be stayed. Alone I lay me down on the waste moor with none to say a word to me. But why should I regret the loss of this body? My only grief is that I cannot meet thee.' Having said so, he died on the moor of Nobo. He was then thirty years of age.",
+          "note": "Paraphrase of Nihongi, Book VII, sec. 28 (trans. Aston 1896); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "When the Emperor heard it, he could not sleep peacefully on his couch, nor was the taste of food sweet to him. Night and day his voice was choked with grief: with tears and lamentations he beat his breast, exclaiming: 'Oh! Our son, Prince Wo-usu! Formerly when the Kumaso revolted he was still a boy, but for a long time he bore the labour of campaigning. Then when the troubles with the Eastern savages arose there was no one else whom We could send to smite them, so in spite of Our affection for him We sent him into the country of the enemy. Oh! what a calamity! Oh! what a crime! While We least expected it, we suddenly lost Our child. Henceforth with whom to help us shall we manage the vast institution?' So he commanded his ministers, and through them instructed the functionaries to bury him in the misasagi of Nobo Moor in the Land of Ise.",
+          "note": "Paraphrase of Nihongi, Book VII, sec. 28 (trans. Aston 1896); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "Now Yamato-dake no Mikoto, taking the shape of a white bird, came forth from the misasagi and flew towards the Land of Yamato. The ministers accordingly opened the coffin, and looking in saw that only the empty clothing remained, and that there was no corpse. Messengers were sent to follow in search of the white bird: it stopped on the plain of Kotobiki in Yamato, and a misasagi was erected in that place; it flew on again until it reached Kahachi, where it rested in the village of Furuchi, and in this place also a misasagi was erected. Therefore the men of that day called these three misasagi the white-bird misasagi. At last it soared aloft to Heaven, and there was nothing buried but his clothing and official cap. The Emperor, wishing to perpetuate the fame of his services, established the Takeru Be. The cross-sword Kusanagi, which was at first worn by Yamato-dake, is now in the shrine of Atsuta in the province of Ohari.",
+          "note": "Paraphrase of Nihongi, Book VII, secs. 28-33 (trans. Aston 1896); not verbatim."
+        }
+      ],
+      "persons": [
+        "japanese-yamato-takeru",
+        "japanese-keiko",
+        "amaterasu"
+      ]
+    },
+    {
+      "id": "japanese-chiuai-silla-oracle",
+      "title": {
+        "en": "The Oracle Refused: 'The Child in the Empress's Womb Shall Obtain It'",
+        "zh": "神諭不從：仲哀崩，腹中之子當得之"
+      },
+      "tradition": "japanese",
+      "category": "myth",
+      "region": {
+        "en": "Palace of Kashihi, Tsukushi",
+        "zh": "筑紫訶志比宮"
+      },
+      "lat": 33.6,
+      "lon": 130.6,
+      "period": "Nihongi compiled 720 CE (trans. Aston 1896)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Nihongi (Chronicles of Japan), Vol. I, trans. W. G. Aston (1896)",
+        "url": "https://archive.org/details/nihongi1asto"
+      },
+      "license": "Public domain (translation 1896)",
+      "summary": {
+        "en": "Consulting about the Kumaso, Chūai is instead possessed through the Empress by a god who says the Kumaso are a land without backbone and offers the Land of Treasure, Silla, if worshipped with the Emperor's ship and the Ohota water-fields. The Emperor looks out over sea and land and calls it a cheat; the god declares the unborn child in the Empress's womb shall obtain the land instead. He attacks the Kumaso, gains no victory, and dies; a variant says he was slain by an enemy's arrow. The Empress and Takechi no Sukune suppress the mourning and bury him secretly at Toyora.",
+        "zh": "仲哀八年議擊熊襲，忽有神憑皇后誨曰：熊襲乃無膽之國，不足伐；西有寶國如美女，名曰新羅，若敬祭我，則不血刃而其國自降。帝登高望海，不見陸地，斥神誑之。神曰「王既不信，則不得其國；后在孕之子當得之」。帝仍擊熊襲而無功，遂崩，年五十二。一說為敵矢所中而亡。皇后與武內宿禰匿喪，密運遺體葬於豐浦。"
+      },
+      "motifs": [
+        "spirit-possession",
+        "oracle-divination",
+        "taboo-transgression",
+        "miraculous-birth"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient Japanese court myth (Nihongi): the divine commission for the conquest of Silla; passages are condensed paraphrases of the public-domain Aston translation, presented for comparative mythology."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The Emperor addressed his ministers and consulted with them as to attacking the Kumaso. At this time a certain God inspired the Empress and instructed her, saying: 'Why should the Emperor be troubled because the Kumaso do not yield submission? It is a land wanting in backbone. Is it worth while raising an army to attack it? There is a better land than this, a land of treasure, which may be compared to the aspect of a beautiful woman - the land of Mukatsu, dazzling to the eyes. In that land there are gold and silver and bright colours in plenty. It is called the Land of Silla of the coverlets of paper-mulberry. If thou worshipest me aright, that land will assuredly yield submission freely, and the edge of thy sword shall not at all be stained with blood.'",
+          "note": "Paraphrase of Nihongi, Book VIII, sec. 7 (trans. Aston 1896); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "When the Emperor heard the words of the God, his mind was filled with doubt, and straightway ascending a high hill he looked away into the distance. But far and wide there was the ocean, and he saw no land. Hereupon the Emperor answered the God: 'We have looked all around, and there is sea, and no land. Can there be a country in the Great Void? Who is the God who cheats Us with vain illusions? Moreover, all the Emperors Our ancestors have worshipped the Gods of Heaven and Earth without exception, and none has been omitted.' Then the God again spoke by the mouth of the Empress: 'I see this country lie outstretched like a reflection from Heaven in the water. Why sayest thou that there is no country, and dost disparage my words? But as thou, O King, hast spoken thus and hast utterly refused to believe me, thou shalt not possess this land. The child with which the Empress has just become pregnant, he shall obtain it.'",
+          "note": "Paraphrase of Nihongi, Book VIII, sec. 7 (trans. Aston 1896); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "The Emperor, however, was still incredulous, and persisted in attacking the Kumaso, but retreated without having gained a victory. In the ninth year, spring, second month, fifth day, he took suddenly ill and died on the following day, at the age of fifty-two. One version says: 'The Emperor, having gone in person to smite the Kumaso, was hit by an enemy's arrow and slain.' Thereupon the Empress and the Prime Minister Takechi no Sukune suppressed the mourning for the Emperor and did not allow it to be known to the Empire. The body of the Emperor was secretly entrusted to Takechi no Sukune, who removed it by sea to Anato and buried it temporarily in the Palace of Toyora with a fireless temporary burial, for the sake of secrecy no lights being used; that year, owing to the expedition against Silla, it was impossible to bury the Emperor properly.",
+          "note": "Paraphrase of Nihongi, Book VIII, secs. 8-9 (trans. Aston 1896); not verbatim."
+        }
+      ],
+      "persons": [
+        "japanese-chuai",
+        "japanese-jingu",
+        "japanese-takeuchi"
+      ]
+    },
+    {
+      "id": "japanese-jingu-lute-divination",
+      "title": {
+        "en": "The Seven-Night Divination: Jingu Names the Gods Who Spoke",
+        "zh": "神功皇后彈琴迎神，七日七夜知神名"
+      },
+      "tradition": "japanese",
+      "category": "myth",
+      "region": {
+        "en": "Palace of worship at Wayamada, Tsukushi",
+        "zh": "筑紫山田宮"
+      },
+      "lat": 33.6,
+      "lon": 130.6,
+      "period": "Nihongi compiled 720 CE (trans. Aston 1896)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Nihongi (Chronicles of Japan), Vol. I, trans. W. G. Aston (1896)",
+        "url": "https://archive.org/details/nihongi1asto"
+      },
+      "license": "Public domain (translation 1896)",
+      "summary": {
+        "en": "Grieved that Chūai died refusing the divine instructions, the Empress commissions purification and a Palace of worship at Wayamada, herself discharging the priest's office while Takechi no Sukune plays the lute. For seven days and nights the gods answer one by one: the deity of Ise representing herself as a Corean deity, the eulalia deity, the awful Koto-shiro-nushi, and the three water-gods of Hiuga. The Kumaso submit at once when Kamo no Wake is sent against them.",
+        "zh": "神功皇后以帝不從神誨而早崩，欲知降禍之神，乃修祓築齋宮於山田，親為齋主，武內宿禰撫琴，中臣烏子為齋部。以千縈之幣置琴上祈曰前日誨帝者何神。七日七夜乃有答：伊勢五十鈴宮之神自稱，又有出於芻茅之耳之神，又有統理天地虛空之事代主神，又有日向橘小戶水底之三神。既得神名依誨奉祭，遣賀茂別命擊熊襲，不日而降。"
+      },
+      "motifs": [
+        "spirit-possession",
+        "oracle-divination",
+        "sacred-kingship"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient Japanese court myth (Nihongi); passages are condensed paraphrases of the public-domain Aston translation, presented for comparative mythology."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "At this time the Empress was grieved that the Emperor would not follow the Divine instructions, and had consequently died a premature death. She thought she would find out what God had sent the curse, so that she might possess herself of the land of treasures. She therefore commanded her ministers and functionaries to purge offences and rectify transgressions, and to construct a Palace of worship in the village of Wayamada. The Empress, having selected a lucky day, entered the Palace of worship and discharged in person the office of priest. She commanded Takechi no Sukune to play on the lute, and the Nakatomi Ikatsu no Omi was designated as Saniha, the official who examines the utterances prompted by the Deity. Then placing one thousand pieces of cloth, high pieces of cloth, on the top and bottom of the lute, she prayed, saying: 'Who is the God who on a former day instructed the Emperor? I pray that I may know his name.'",
+          "note": "Paraphrase of Nihongi, Book IX, secs. 1-3 (trans. Aston 1896); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "After seven days and seven nights there came an answer, saying: 'I am the Deity who dwells in the Shrine of split-bell Isuzu in the district of hundred-transmit Watarahi in the province of divine-wind Ise, and my name is Tsuki-sakaki idzu no mi-tama ama-zakaru Muka-tsu hime no Mikoto' - the Sun-Goddess choosing to represent herself as a Corean Deity. Again she inquired whether other Deities were present.",
+          "note": "Paraphrase of Nihongi, Book IX, secs. 3-4 (trans. Aston 1896); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "The answer was: 'I am the Deity who comes forth on the ears of the flag-like Eulalia, and my dwelling is in the district of Aha in Ada-fushi in Oda.' She inquired: 'Are there others?' There was an answer, saying: 'There is the Deity who rules in Heaven, who rules in the Void, the gem-casket-entering-prince, the awful Koto-shiro-nushi.' Asked whether there were others, the Saniha said there was no answer now but they would speak again afterwards; then came the answer: 'There are the Gods who have settled to the bottom of the water of the Little Strait of Tachibana in the Land of Hiuga, who are produced and dwell there like fresh water plants. Their names are Uha-tsutsu no wo, Naka-tsutsu no wo, and Soko-tsutsu no wo.' Nothing more was ever said as to the existence of other Gods.",
+          "note": "Paraphrase of Nihongi, Book IX, secs. 3-4 (trans. Aston 1896); not verbatim."
+        },
+        {
+          "id": "4",
+          "text": "Now that the Divine words had been obtained, the Gods were worshipped in accordance with their instructions. Thereafter Kamo no Wake, the ancestor of the Kibi no Omi, was sent to attack the Kumaso, and before many days had elapsed they freely submitted.",
+          "note": "Paraphrase of Nihongi, Book IX, sec. 4 (trans. Aston 1896); not verbatim."
+        }
+      ],
+      "persons": [
+        "japanese-jingu",
+        "japanese-takeuchi",
+        "japanese-kotoshironushi"
+      ]
+    },
+    {
+      "id": "japanese-jingu-matsura-fishing-omen",
+      "title": {
+        "en": "The Needle-Hook of Matsura and the Thunder-Split Rock",
+        "zh": "針作釣鉤得鱒，雷劈石通神田溝"
+      },
+      "tradition": "japanese",
+      "category": "myth",
+      "region": {
+        "en": "River Wogawa at Tamashima, Matsura (Hizen)",
+        "zh": "肥前松浦玉嶋小河"
+      },
+      "lat": 33.3,
+      "lon": 129.8,
+      "period": "Nihongi compiled 720 CE (trans. Aston 1896)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Nihongi (Chronicles of Japan), Vol. I, trans. W. G. Aston (1896)",
+        "url": "https://archive.org/details/nihongi1asto"
+      },
+      "license": "Public domain (translation 1896)",
+      "summary": {
+        "en": "On the bank of the river Wogawa the Empress bends a needle into a hook, baits it with grains of rice, makes a line from the threads of her garment, and standing on a stone mid-stream prays: if the westward quest for the Land of Treasure is to succeed, let the fish bite. She raises the rod and catches a trout, and Matsura is named from medzura, strange. Ever after the women of the land cast hooks each fourth month; men may angle but catch nothing. A great rock blocks the channel of a sacred rice-field; prayer with sword and mirror brings thunder that splits the rock.",
+        "zh": "皇后至肥前玉嶋小河畔，曲針作鉤，取米粒為餌，抽衣縷為線，立於河中石上投鉤祈曰「西行求寶國，若成，令魚上鉤」。舉竿得鱒。時人異之，名其國曰松浦。故每歲四月上旬，其國婦人皆持鉤釣鱒，至今不絕；男子雖釣而無所得。又為御田開渠，大石塞之，乃召武內宿禰持劍鏡禱天地，忽有雷雨劈石而水通，因名曰裂田溝。"
+      },
+      "motifs": [
+        "oracle-divination",
+        "theophany",
+        "storm-thunder",
+        "prayer",
+        "mirror"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient Japanese court myth (Nihongi); passages are condensed paraphrases of the public-domain Aston translation, presented for comparative mythology."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Proceeding northwards, she arrived at the district of Matsura in the Land of Hizen, and partook of food on the bank of the river Wogawa in the village of Tamashima. Here the Empress bent a needle and made of it a hook. She took grains of rice and used them as bait. Pulling out the threads of her garment, she made of them a line. Then mounting upon a stone in the middle of the river and casting the hook, she prayed, saying: 'We are proceeding westward, where we desire to gain possession of the Land of Treasure.",
+          "note": "Paraphrase of Nihongi, Book IX, sec. 6 (trans. Aston 1896); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "If we are to succeed, let the fish of the river bite the hook.' Accordingly, raising up her fishing-rod, she caught a trout. Then the Empress said: 'It is a strange thing.' Wherefore the men of the day called that place the Land of Medzura - the present name Matsura is a corruption of this. For this reason, whenever the first decade of the fourth month comes round, the women of that land take hooks, which they cast into the river and catch trout - a custom which has not ceased unto this day. The men may angle for fish, but they cannot catch any.",
+          "note": "Paraphrase of Nihongi, Book IX, sec. 6 (trans. Aston 1896); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "This having been done, the Empress knew that there was virtue in the teaching of the Gods, and she made sacrifice anew to the Gods of Heaven and Earth. As it was her purpose in person to chastise the West, she set apart a sacred rice-field and tilled it. Then, in order to divert water from the Naka-gaha with which to irrigate it, she dug a channel as far as the Hill of Todoroki. But a great rock stood in the way, and she was unable to pierce a channel through it. Then the Empress sent for Takechi no Sukune, and offering a sword and a mirror made him pray to the Gods of Heaven and Earth to allow the channel to be completed. Straightway there came thunder and lightning, and split that rock asunder, so that the water passed through. Therefore the men of the time called that channel the Channel of Sakuta.",
+          "note": "Paraphrase of Nihongi, Book IX, sec. 6 (trans. Aston 1896); not verbatim."
+        }
+      ],
+      "persons": [
+        "japanese-jingu",
+        "japanese-takeuchi"
+      ]
+    },
+    {
+      "id": "japanese-jingu-silla-conquest",
+      "title": {
+        "en": "Jingu's Conquest of Silla: The Tide That Followed the Ships",
+        "zh": "神功西征新羅：潮水隨船而入"
+      },
+      "tradition": "japanese",
+      "category": "myth",
+      "region": {
+        "en": "Sea crossing from Tsukushi to Silla (Tsushima Strait, symbolic pin)",
+        "zh": "自筑紫渡海征新羅（對馬海峽，象徵錨點）"
+      },
+      "lat": 34.65,
+      "lon": 129.38,
+      "period": "Nihongi compiled 720 CE (trans. Aston 1896)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Nihongi (Chronicles of Japan), Vol. I, trans. W. G. Aston (1896)",
+        "url": "https://archive.org/details/nihongi1asto"
+      },
+      "license": "Public domain (translation 1896)",
+      "summary": {
+        "en": "The Empress bathes in the sea and vows that if her hair parts of itself she will conquer the West; it parts into two bunches. She borrows the outward appearance of a man, sacrifices at the Shrine of Oho-miwa until the troops assemble, puts a stone in her loins to delay her delivery, and assigns the gentle spirit to guard her life and the rough spirit to lead the van. The Wind-God and Sea-God carry her fleet to Silla; the tide follows the ships inland, and the terrified King of Silla submits with a white rope and white flag, swearing by the sun, the River Arinare and the river pebbles become stars.",
+        "zh": "皇后縱髮臨海誓曰：賴天神地祇皇祖之靈西征，若濟則髮自分為兩。入海而浴，髮果自析。乃以男裝行男略，祭大神宮而兵集，納石於腰祈事畢乃產，以和魂護身、荒魂為前軍。發對馬，風伯起風，海神鼓浪，大魚蔽浮，不勞楫而達新羅，海潮隨船深入其國。新羅王自縛請降，誓以東方之日、逆流之水與升星之礫，歲時貢獻。后不殺，收其圖籍，植矛於王門，八十船寶物隨軍。高句麗、百濟亦稱西蕃，是謂三韓。"
+      },
+      "motifs": [
+        "sacred-kingship",
+        "theophany",
+        "oracle-divination",
+        "spirit-possession"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient Japanese court myth (Nihongi): the legendary conquest of Korea, a sensitive episode in Japanese-Korean relations; passages are condensed paraphrases of the public-domain Aston translation, presented for comparative mythology."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The Empress returned to the Bay of Kashihi, and loosing her hair, looked over the sea, saying: 'I, having received the instructions of the Gods of Heaven and Earth, and trusting in the Spirits of the Imperial ancestors, floating across the deep blue sea, intend in person to chastise the West. Therefore do I now lave my head in the water of the sea. If I am to be successful, let my hair part spontaneously into two.' Accordingly she entered the sea and bathed, and her hair parted of its own accord. The Empress bound it up parted into bunches. Then she addressed her ministers: 'To make war and move troops is a matter of the greatest concern to a country. If I entrusted to you, my ministers, the duties of the expedition we are about to undertake, the blame, in case of ill-success, would rest with you. Therefore, although I am a woman, and a feeble woman too, I will for a while borrow the outward appearance of a man, and force myself to adopt manly counsels. Above, I shall receive support from the Spirits of the Gods of Heaven and Earth, while below I shall avail myself of the assistance of you, my ministers.'",
+          "note": "Paraphrase of Nihongi, Book IX, secs. 7-8 (trans. Aston 1896); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "The various provinces were ordered to collect ships and practise the use of weapons, but an army could not be assembled. The Empress said: 'This is surely the will of a God.' So she erected the Shrine of Oho-miwa and offered there a sword and a spear, and then the troops assembled freely. A fisherman of Ahe sent out into the Western Sea to spy for land saw none; then a fisherman of Shika, after several days, reported: 'To the north-west there is a mountain girt with clouds and extending crosswise. This is perhaps a country.' A lucky day was fixed by divination, and the Empress, grasping her battle-axe, commanded the three divisions of her army: 'Spare not the violent, slay not the submissive. There will surely be rewards for those who ultimately conquer in battle, and punishments for those who turn their backs and flee.' After this a God gave instructions, saying: 'A gentle spirit will attach itself to the Empress's person and keep watch over her life: a rough spirit will form the vanguard and be a guide to the squadron.' The time for the Empress's delivery having come, she took a stone which she inserted in her loins and prayed: 'Let my delivery be in this land on the day that I return after our enterprise is at an end.'",
+          "note": "Paraphrase of Nihongi, Book IX, secs. 8-9 (trans. Aston 1896); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "Sail was set from the harbour of Wani in Tsushima. Then the Wind-God made a breeze to spring up, and the Sea-God uplifted the billows. The great fishes of the ocean, every one, came to the surface and encompassed the ships. A great wind blew from a favourable quarter, and following the waves, without the labour of oar or helm, they arrived at Silla. The tide-wave following the ships reached far up into the interior of the country. The King of Silla feared and trembled, and said to his people: 'Since the State of Silla was founded it has never yet been heard that the water of the sea has encroached upon the land. Is it possible that the term of existence granted to it by Heaven has expired, and that our country is to become a part of the ocean?' Scarce had he spoken when a warlike fleet overspread the sea, their banners resplendent in the sunlight.",
+          "note": "Paraphrase of Nihongi, Book IX, secs. 10-11 (trans. Aston 1896); not verbatim."
+        },
+        {
+          "id": "4",
+          "text": "The King of Silla said: 'I have heard that in the East there is a divine country named Nippon, and also that there is there a wise sovereign called the Tenno. This divine force must belong to that country. How could we resist them by force of arms?' So he took a white flag, and of his own accord rendered submission, tying his hands behind his back with a white rope. He sealed up the maps and registers, and going down before the Royal vessel bowed his head to the ground: 'Henceforward, as long as Heaven and Earth endure, we will obediently act as thy forage-providers. Not allowing the helms of our ships to become dry, every spring and every autumn we will send tribute of horse-combs and whips; and, without thinking the sea-distance a trouble, we will pay annual dues of male and female slaves.' He confirmed this by repeated oaths: 'When the sun no longer rises in the East but comes forth in the West; when the River Arinare turns its course backward, and when the river pebbles ascend and become stars - if before this we fail to pay homage every spring and every autumn, may the Gods of Heaven and Earth both together punish us.' Someone said: 'Let us put to death the King of Silla.' The Empress answered that having received the divine promise of the Land of Gold and Silver, and given orders to slay not the submissive, it would be unlucky to kill them: she loosed his cords and made him her forage-provider. She placed seals on the magazines of precious treasure, took possession of the books of maps and registers, and the spear on which she leant was planted at the gate of the King of Silla as a memorial to after ages. Phasa Mikeun, King of Silla, gave a hostage and loaded eighty vessels with gold, silver, bright colours, figured gauzes and silks; and the kings of Koryo and Pekche, finding the warlike power of the Empress invincible, declared themselves her western frontier provinces - what is termed the three Han.",
+          "note": "Paraphrase of Nihongi, Book IX, secs. 11-12 (trans. Aston 1896); not verbatim."
+        }
+      ],
+      "persons": [
+        "japanese-jingu",
+        "japanese-takeuchi",
+        "japanese-ojin"
+      ]
+    },
+    {
+      "id": "japanese-homuda-miraculous-birth",
+      "title": {
+        "en": "The Birth of Homuda in the Land He Was Promised",
+        "zh": "譽田別天皇誕於所諾之地"
+      },
+      "tradition": "japanese",
+      "category": "myth",
+      "region": {
+        "en": "Umi in Tsukushi, on the return from Silla",
+        "zh": "筑紫宇美"
+      },
+      "lat": 33.6,
+      "lon": 130.7,
+      "period": "Nihongi compiled 720 CE (trans. Aston 1896)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Nihongi (Chronicles of Japan), Vol. I, trans. W. G. Aston (1896)",
+        "url": "https://archive.org/details/nihongi1asto"
+      },
+      "license": "Public domain (translation 1896)",
+      "summary": {
+        "en": "Fulfilling the oracle that the child in the Empress's womb should possess the Land of Treasure, Jingu gives birth to the future Emperor Homuda (Ojin) in Tsukushi on the return from Silla; the place is called Umi, Birth. A variant version gives the whole arc in Chuai's lifetime: gods speaking through mediums and the Empress's lute-playing, the offer of the dazzling land, the Emperor's disbelief and death the same night, and the sea-wave that followed the ships into Silla.",
+        "zh": "神功皇后自新羅還，十二月十四日於筑紫生譽田別天皇，故名其地曰宇美。天皇生而臂上有肉，形如韛肘，后以為男之韛肘，因號譽田別。在胎之時天神地祇已以三韓屬之。一說仲哀之世神憑皇后彈琴而誨帝，帝不信，其夜而崩，神乃許以腹中之子得寶國。"
+      },
+      "motifs": [
+        "miraculous-birth",
+        "oracle-divination",
+        "sacred-kingship"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient Japanese court myth (Nihongi); passages are condensed paraphrases of the public-domain Aston translation, presented for comparative mythology."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The Empress returned from Silla. In the twelfth month, fourteenth day, she gave birth to the Emperor Homuda in Tsukushi. Therefore the men of that time called the place where he was born Umi, Birth. The Emperor Homuda was the fourth child of the Emperor Tarashi Nakatsu-hiko; his mother's name was Okinaga Tarashi-hime no Mikoto. When he was born there was flesh growing on his arm in shape like an elbow-pad, and as to this resemblance the Empress judged that it was the elbow-pad worn as a manly accoutrement: therefore he was styled by this name and called the Emperor Homuda. Before this time, when the Emperor was in the womb, the Gods of Heaven and Earth had granted to him the three Han.",
+          "note": "Paraphrase of Nihongi, Books IX-X (trans. Aston 1896); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "One version says: 'When the Emperor Tarashi-nakatsu-hiko dwelt in the palace of Kashihi in Tsukushi, there were Deities who spoke by the mouth of Uchi-saru-taka, Kuni-saru-taka and Matsu-ya-tane, ancestors of the Agata-nushi of Saha, and admonished the Emperor: If the august descendant wishes to gain the Land of Treasure, we will presently bestow it on him. So on a later day a lute was brought and given to the Empress, and she played upon it in accordance with the word of the Gods. Hereupon the Gods spoke by the mouth of the Empress and admonished the Emperor, saying: The land which the august descendant wishes for is, as it were, a stag's horn and not a real country. But if the august descendant now makes due offering to us of the ship in which he sails, and of the water-field called Ohota given him as tribute by Homutate, the Atahe of Anato, we will bestow on him a dazzling land, a land of plenteous treasures, fair to look upon as a beautiful woman.",
+          "note": "Paraphrase of Nihongi, Book IX, sec. 13 (trans. Aston 1896); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "The Emperor answered the Gods: Gods though ye may be, why these deceiving words? Where is there any country? Nor do I know what Gods ye are: I pray you, let me know your names. Then the Gods gave their names, Uha-tsutsu no wo, Naka-tsutsu no wo, Soko-tsutsu no wo, and again one said: I am Mukahitsu no wo, Kiki-so-ofu-itsu-no mitama, Hayasa-nobori no Mikoto. The Emperor spoke to the Empress: What ill-sounding things they say! Is it a woman? What is meant by Hayasa-nobori? Then the Gods addressed the Emperor: O King, since thou art thus unbelieving, thou shalt not possess that country. But the child which is now in the Empress's womb, he will doubtless take possession of it. On that night the Emperor took suddenly ill and died. Afterwards the Empress performed worship in accordance with the directions of the Gods, then clad in male attire went on the expedition against Silla, and the Gods guided her: the wave which followed the ship reached far into the interior of the Land of Silla.'",
+          "note": "Paraphrase of Nihongi, Book IX, sec. 13 (trans. Aston 1896); not verbatim."
+        }
+      ],
+      "persons": [
+        "japanese-jingu",
+        "japanese-ojin",
+        "japanese-chuai"
+      ]
+    },
+    {
+      "id": "japanese-oshikuma-revolt",
+      "title": {
+        "en": "The Revolt of Prince Oshikuma and the Cut Bow-Strings",
+        "zh": "忍熊王之叛與斷弦之計"
+      },
+      "tradition": "japanese",
+      "category": "myth",
+      "region": {
+        "en": "Uji river and the Seta crossing, Afumi (Lake Biwa)",
+        "zh": "近江宇治與瀨田渡"
+      },
+      "lat": 35.3,
+      "lon": 136.0,
+      "period": "Nihongi compiled 720 CE (trans. Aston 1896)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Nihongi (Chronicles of Japan), Vol. I, trans. W. G. Aston (1896)",
+        "url": "https://archive.org/details/nihongi1asto"
+      },
+      "license": "Public domain (translation 1896)",
+      "summary": {
+        "en": "Princes Kakosaka and Oshikuma, Chuai's elder sons, plot against the newborn heir while Jingu is in Korea: they raise a misasagi at Akashi with stones rafted from Awaji. At a hunt-prayer a wild boar leaps on Kakosaka and kills him. Oshikuma waits at Sumiyoshi; Takechi no Sukune deceives him into cutting every bow-string and flinging every sword into the river, then reveals spare strings hidden in the top-knots and real swords, routs him at Afusaka, and pursues him to the Seta crossing, where the Prince and Isachi no Sukune drown together like grebes.",
+        "zh": "香坂王與忍熊王聞帝崩、后西征又生皇子，謀叛。借營山陵之名至播磨作明石陵，連舟運淡路之石，執兵以待后。獵祈於兔寸野，忽有赤豕突起噬香坂王而卒。忍熊王退屯住吉。后遣武內宿禰等率數萬擊之。宿禰密令全軍藏副弦於髻，佩木劍，詐謂各斷弦棄兵以示和，王信而全軍斷弦投河。宿禰軍復弦佩真劍渡河擊之，破於逢坂，追至栗隅柴，血流入栗隅村，故至今栗隅之果不薦於御膳。王與狹穗彥弟彥宿禰同沉瀨田渡而死。"
+      },
+      "motifs": [
+        "taboo-transgression",
+        "trickster",
+        "sacred-kingship",
+        "prayer"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient Japanese court myth (Nihongi); passages are condensed paraphrases of the public-domain Aston translation, presented for comparative mythology."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Now Prince Kakosaka and Prince Oshikuma, hearing of the Emperor's decease, as well as of the Empress's expedition to the West, and of the recent birth of an Imperial Prince, plotted secretly, saying: 'The Empress has now a child, and all the ministers obey her. They will certainly consult together and establish an infant sovereign. But shall we, the elders, obey our younger brother?' So, pretending that it was in order to build a misasagi for the Emperor, they went to Harima and raised a misasagi at Akashi, joining boats together in a string across to the island of Ahaji and transporting the stones of that island to build it. Now they made every man take a weapon, and so awaited the Empress. Hereupon Kurami-wake, ancestor of the Kimi of Inugami, and Isachi no Sukune, ancestor of the Kishi, joined themselves unto Prince Kakosaka, who made them his generals.",
+          "note": "Paraphrase of Nihongi, Book IX, sec. 18 (trans. Aston 1896); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "The two Princes went forth together to the moor of Toga and made a hunt-prayer, saying: 'If our project is to be successful, then surely let us take some good game.' The two Princes sat each in his shelter, when a wild-boar sprang out suddenly, and climbing on to the shelter, bit Prince Kakosaka and killed him. The soldiers every one shuddered with fear. Then Prince Oshikuma addressed Kurami-wake: 'This is a very ominous thing. We ought not to await the enemy here.' So he withdrew his troops and encamped at Sumiyoshi. At this time the Empress heard that Prince Oshikuma had raised an army and was awaiting her. She commanded Takechi no Sukune to take in his bosom the Imperial Prince and go out across by way of the south-sea provinces to anchor in the harbour of Kii, while the Empress's ship made straight for Naniha. At this time the Empress's ship swerved towards the midst of the sea and was unable to proceed; she returned to the harbour of Muko and made divination, and the Gods instructed her where each should be enshrined, so that she was enabled to cross the sea in peace.",
+          "note": "Paraphrase of Nihongi, Book IX, secs. 18-19 (trans. Aston 1896); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "The Empress commanded Takechi no Sukune and Take-furu-kuma to lead an army of several tens of thousands of men to attack Prince Oshikuma. They went out by way of Yamashiro as far as Uji and encamped north of the river. Kuma-no-Kori, who formed the vanguard of Oshikuma's army, encouraged his men with a loud song of the pine-clad plain beyond the river. Then Takechi no Sukune made an order that every man should bind his hair mallet-wise, conceal spare bow-strings in his top-knot, and gird on wooden swords; then he deluded Prince Oshikuma, saying: 'I am not greedy to possess the Empire. Only, while cherishing the infant Prince, we will obey my Lord the Prince. I pray thee let us both cut our bow-strings, fling away our weapons, and be in harmony together.' So he openly gave orders to his army to cut their bow-strings and fling their swords into the river. Prince Oshikuma believed these deluding words and ordered all his troops to do likewise. Upon this Takechi no Sukune commanded the three divisions of his army to produce their spare bow-strings, string their bows again, and, girt with their real swords, advance across the river.",
+          "note": "Paraphrase of Nihongi, Book IX, secs. 20-21 (trans. Aston 1896); not verbatim."
+        },
+        {
+          "id": "4",
+          "text": "Prince Oshikuma, seeing that he had been deceived, said to Kurami-wake and Isachi no Sukune: 'We have been deceived, and have now no spare weapons. How shall we be able to fight?' He withdrew his forces and gradually retreated; Takechi sent forth his choice troops, came up with him at Afusaka and put him to the rout. The army took to flight and ran as far as Kurusu in Sasanami, where many were slain; the blood overflowed into Kurusu, and in horror of this, until this day, the fruit of Kurusu is not offered to the Imperial Palace. Prince Oshikuma, not knowing whither to betake himself in his flight, called to him Isachi no Sukune and made a song: 'Come, my child Isachi Sukune! Rather than receive a severe wound from the mallet of Uchi no Aso, like unto the grebe let us make a plunge!' So they sank together in the crossing-place of Seta and died. Takechi no Sukune made a song over the birds that dived at the ferry of Seta: 'Since with my eyes I cannot see them, can they be still alive?' Several days after they came out on the river-bank at Uji, and Takechi made a song: 'Passing Tanakami, have been caught at Uji.'",
+          "note": "Paraphrase of Nihongi, Book IX, sec. 21 (trans. Aston 1896); not verbatim."
+        }
+      ],
+      "persons": [
+        "japanese-jingu",
+        "japanese-takeuchi",
+        "japanese-ojin",
+        "japanese-chuai"
+      ]
+    },
+    {
+      "id": "japanese-jingu-eternal-night",
+      "title": {
+        "en": "The Eternal Night: Two Priests Buried in One Grave",
+        "zh": "晝如夜之咎與神靈託地"
+      },
+      "tradition": "japanese",
+      "category": "myth",
+      "region": {
+        "en": "Muko harbour and Shinu palace, Kahachi",
+        "zh": "河內武庫與忍宮"
+      },
+      "lat": 34.69,
+      "lon": 135.5,
+      "period": "Nihongi compiled 720 CE (trans. Aston 1896)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Nihongi (Chronicles of Japan), Vol. I, trans. W. G. Aston (1896)",
+        "url": "https://archive.org/details/nihongi1asto"
+      },
+      "license": "Public domain (translation 1896)",
+      "summary": {
+        "en": "Sailing for Naniha to meet the rebels, the Empress's ship swerves into mid-sea and will not move; divination at Muko brings instructions from four deities - Amaterasu's rough spirit, Waka-hiru-me, Koto-shiro-nushi and the three water-gods - each naming the land where he wishes to be worshipped, and only then can she cross in peace. Later, at the palace of Shinu, the day is dark as night for many days; an old man explains it is the calamity of the two priests of Shinu and Amano, friends buried in one grave; the tombs are opened and re-interred separately, and daylight returns.",
+        "zh": "后舟向浪速而漂於海心不得進，還武庫而卜。天照大神荒魂、稚日霙姬、事代主神與水底三神各託辭求祀地，后依而祀之乃得安渡。至忍宮，晝如夜者多日。野老曰此乃忍神與天神二神主同穴而葬之咎。發墓視之果然，乃改葬各異其棺，日光乃出。"
+      },
+      "motifs": [
+        "theophany",
+        "oracle-divination",
+        "taboo-transgression",
+        "sacred-place"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient Japanese court myth (Nihongi); passages are condensed paraphrases of the public-domain Aston translation, presented for comparative mythology."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "At this time the Empress's ship swerved towards the midst of the sea, and was unable to proceed. She returned again to the harbour of Muko, where she made divination as to this. Hereupon Ama-terasu no Oho-kami admonished her, saying: 'My rough spirit may not approach the Imperial residence. Let him dwell in the land of Hirota in Mikokoro.' So Hayama-hime, daughter of Yamashiro-neko, was appointed to worship him. Moreover, Waka-hiru-me no Mikoto admonished the Empress, saying: 'I wish to dwell in the land of Nagawo in Ikuta.' So Una-gami no Isachi was appointed to worship her. Again, Koto-shiro-nushi no Mikoto admonished her, saying: 'Worship me in the land of Nakata in Mikokoro.' So Naga-hime, younger sister of Hayama-hime, was appointed to worship him. Again the three Gods, Uha-tsutsu no wo, Naka-tsutsu no wo, and Soko-tsutsu no wo, admonished her, saying: 'Let our gentle spirits dwell at Nagawo in Nunakura in Ohotsu, so that they may look upon the ships passing back and forward.' Hereupon these Gods were enshrined in accordance with their instructions, and the Empress was enabled to cross the sea in peace.",
+          "note": "Paraphrase of Nihongi, Book IX, sec. 19 (trans. Aston 1896); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "The Empress proceeded southwards to the land of Kii, and met the Prince Imperial at Hitaka. She removed to the Palace of Shinu. It so happened that at this time the day was dark like night. Many days passed in this manner, and the men of that time said: 'This is the Eternal Night.' The Empress inquired of Toyomimi, the ancestor of the Atahe of Ki, saying: 'Wherefore is this omen?' Then there was an old man who said: 'I have heard by tradition that this kind of omen is called Atsunahi no tsumi.' She inquired what it meant. He answered: 'The priests of the two shrines have been buried together.' Therefore she made strict investigation in the village.",
+          "note": "Paraphrase of Nihongi, Book IX, secs. 19-20 (trans. Aston 1896); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "There was a man who said: 'The priest of Shinu and the priest of Amano were good friends. The priest of Shinu fell ill and died. The priest of Amano wept and wailed, saying: We have been friends together since our birth. Why in our death should there not be the same grave for both? So he lay down beside the corpse and died of himself, so that they were buried together. This is perhaps the reason.' So they opened the tomb, and on examination found that it was true. Therefore they again changed their coffins and interred them separately, upon which the sunlight shone forth, and there was a difference between day and night.",
+          "note": "Paraphrase of Nihongi, Book IX, secs. 19-20 (trans. Aston 1896); not verbatim."
+        }
+      ],
+      "persons": [
+        "japanese-jingu",
+        "japanese-kotoshironushi",
+        "amaterasu"
+      ]
+    },
+    {
+      "id": "japanese-wangin-achikki-scholars",
+      "title": {
+        "en": "A-chik-ki and Wang-in: The Coming of Chinese Learning",
+        "zh": "阿直岐與王仁：漢學東漸"
+      },
+      "tradition": "japanese",
+      "category": "myth",
+      "region": {
+        "en": "Court at Naniha and Karu, Yamato",
+        "zh": "難波與大和輕坂"
+      },
+      "lat": 34.68,
+      "lon": 135.4,
+      "period": "Nihongi compiled 720 CE (trans. Aston 1896)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Nihongi (Chronicles of Japan), Vol. I, trans. W. G. Aston (1896)",
+        "url": "https://archive.org/details/nihongi1asto"
+      },
+      "license": "Public domain (translation 1896)",
+      "summary": {
+        "en": "The King of Pekche sends A-chik-ki with two quiet horses as tribute; they are stabled at the acclivity of Karu, named Mumaya-saka, Stable-hill. A-chik-ki is able to read the classics and becomes teacher to the Heir Apparent. Asked whether any learned man is his superior, he names Wang-in of Pekche; envoys are sent to summon him, and Wang-in arrives to teach the prince the classical books - the beginning of Chinese learning in Japan.",
+        "zh": "百濟王貢良馬二匹，牧於輕坂，因名廄坂。阿直岐能讀經典，為菟道稚郎子之師。帝問更有勝汝之博士乎，對曰有王仁。乃遣上毛野君等往百濟徵之。王仁至，皇子受諸書，無不通曉，是為漢學之始。"
+      },
+      "motifs": [
+        "culture-hero",
+        "parable-teaching",
+        "sacred-kingship"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient Japanese court myth (Nihongi); Aston dates this transmission of writing 120 years later; passages are condensed paraphrases of the public-domain Aston translation, presented for comparative mythology."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The King of Pekche sent A-chik-ki with two quiet horses as tribute. So they were fed in stables on the acclivity of Karu, and A-chik-ki was appointed to have charge of their foddering. Therefore the place where the horses were kept was named Mumaya-saka, Stable-hill. Moreover, A-chik-ki was able to read the classics, and so the Heir Apparent made him his teacher. Hereupon the Emperor inquired of A-chik-ki, saying: 'Are there other learned men superior to thee?' He answered and said: 'There is Wang-in, who is superior.' Then Areda wake, ancestor of the Kimi of Kodzuke, and Kamu-nagi wake were sent to Pekche to summon Wang-in.",
+          "note": "Paraphrase of Nihongi, Book X, sec. 15 (trans. Aston 1896); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Wang-in arrived, and straightway the Heir Apparent took him as teacher and learnt various books from him. There was none which he did not thoroughly understand. Therefore the man called Wang-in was the first ancestor of the Fumi no Obito, the chiefs of writing. In the same year King Ahwa of Pekche died, and the Emperor sent for Prince Tyen-chi and addressed him: 'Do thou return to thy country and succeed to the royal Dignity.' Accordingly he further granted to him the territory of Eastern Han and so dismissed him. Meanwhile, Kidzu no Sukune of Heguri and Tada no Sukune of Ikuba had been sent to Kara with choice troops to assail Silla and open a way for Sotsuhiko, whose return had been long delayed: the King of Silla was afraid, confessed his guilt, and they brought away with them the people of Kungwol and Sotsuhiko.",
+          "note": "Paraphrase of Nihongi, Book X, secs. 15-16 (trans. Aston 1896); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "In the twentieth year, autumn, ninth month, Achi no Omi, ancestor of the Atahe of the Aya of Yamato, and his son Tsuga no Omi immigrated to Japan, bringing with them a company of their people of seventeen districts. Earlier, in the fourteenth year, the King of Pekche had sent as tribute a seamstress named Maketsu, first ancestress of the seamstresses of Kume; and the Lord of Yutsuki came from Pekche to offer his allegiance, saying that, coming with one hundred and twenty districts of the people of his own land, the men of Silla had prevented them and forced them to remain in the land of Kara. Katsuraki no Sotsuhiko was sent to bring the men of Yutsuki from Kara, but three years passed and he did not come.",
+          "note": "Paraphrase of Nihongi, Book X, secs. 14 and 20 (trans. Aston 1896); not verbatim."
+        }
+      ],
+      "persons": [
+        "japanese-ojin"
+      ]
+    }
+  ]
+}

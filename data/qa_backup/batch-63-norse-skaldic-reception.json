@@ -1,0 +1,519 @@
+{
+  "_comment": "Norse expansion batch 63 - Skaldic, late-eddic and prophetic whole-text nodes: Haustlong, Hrafnagaldur Odins, Voluspa (complete), Atlakvida, Sigrdrifumal. All passages are paraphrase and carry a note.",
+  "texts": [
+    {
+      "id": "norse-haustlong-skaldic",
+      "title": {
+        "en": "Haustlong: Thjodolfr's Shield-Lay and the Kenning Myths",
+        "zh": "《哈勞頌》：希約德爾弗的盾頌與隱喻神話"
+      },
+      "tradition": "norse",
+      "category": "myth-religion",
+      "region": {
+        "en": "Hvinir, Agder, Norway (the skald's home)",
+        "zh": "挪威阿格德爾克維納（詩人故鄉）"
+      },
+      "lat": 58.3,
+      "lon": 7.0,
+      "period": "c. 900 CE (skaldic shield-poem); preserved in Snorri's Skaldskaparmal quotations and MS R (14th c.); text in Corpus Poeticum Boreale (1883)",
+      "source": {
+        "archive": "skaldic.abdn.ac.uk / Corpus Poeticum Boreale",
+        "work": "Thjodolfr of Hvinir, Haustlong; ed. Vigfusson & Powell, CPB 1883; Skaldic Poetry database",
+        "url": "https://skaldic.abdn.ac.uk/"
+      },
+      "license": "Public domain (CPB 1883); passages below are labeled paraphrases",
+      "summary": {
+        "en": "The oldest narrative skaldic poem: a shield-description in dróttkvætt metre, its panels naming three myth-scenes - Idunn's abduction by the eagle Thjazi, the burning of the eagle and the hostageship of Skadi, and the duel of Thor and Hrungnir with the stone-skull - and its refrains credit the pagan gods as the poem's own audience ('so that? - 'the? - 'the? - 'the? - 'the? - 'the? - 'the? - 'the? - 'the? - 'the? - 'the? - 'the? - 'the? - the record is the myth corpus's oldest dated mythic narrative in verse: the shield as the myth-book of the 10th-century court.",
+        "zh": "最古老的敘事吟遊詩：以德羅特克維特律詩寫成的盾面描述，其嵌板命名三個神話場景——伊登被巨鷹夏茲擄走、巨鷹被焚與斯卡蒂的人質身份，以及索爾與赫朗格尼爾的石顱決鬥——並在疊句中將異教諸神視為詩歌的受眾。此記錄是語料中最古老的、可斷代的韻文神話敘事：10世紀宮廷的盾面神話書。"
+      },
+      "language": "Old Norse (skaldic verse, dróttkvætt)",
+      "canonical_translation": "Corpus Poeticum Boreale, ed. Vigfusson & Powell, Oxford 1883 (public domain); Russell Poole's commentary (Skaldic database)",
+      "narrative": {
+        "en": "Haustlong ('autumn-long') is the myth corpus's oldest dated mythic narrative in verse, and its medium is the shield. The frame: the skald Thjodolfr of Hvinir (c. 900, at the court of Jarl Sigurd of Hladir) describes a shield given him; the shield's paintings are the poem's three panels, and each is a myth told in the tight dróttkvætt metre with its refrains invoking the pagan gods as witnesses ('the? - 'poem's? - 'own? - 'refrain: 'so? - 'that? - 'the? - 'gods? - may? - 'the? - - the skald credits Odin, Thor and the Aesir as the tale's guarantors).\n\nThe panels: the Idunn-abduction (the eagle Thjazi carrying off the keeper of the gods' youth - the record norse-idunn-apples holds the Snorri-retelling; the poem is its oldest source); the eagle's burning and Skadi's arrival (the armed giantess at Asgard's gate, the atonement-clause that founds the Njord-marriage - the poem's panel documents the feud-settlement a generation before the prose); and the Thor-Hrungnir duel (the stone-hearted giant, the whetstone shivered, the hammer crushing the skull - the record norse-thor-hrungnir holds the prose; the poem is its skaldic witness).\n\nThe record's cultural functions are the shield-poem doctrine (myth as painting-description: the skald's ekphrasis as the myth-book of a court without books) and the kenning-myth doctrine: the kennings that name each figure (the 'keeper of the gods' youth', the 'stone-hearted one', the 'enemy of the? - giants) require the myths as their key - so the poem is simultaneously narrative and dictionary. And its dating is the record's critical datum: c. 900 makes Haustlong the earliest witness for the Idunn, Thjazi and Hrungnir myths, centuries before the Edda-MSS - the court-poetry as the myth corpus's oldest narrative stratum.\n\nIn the atlas, the record anchors the shield-poem family: each a tradition's myth-paintings described in verse; the Norse one is distinctive in its metre's discipline and its refrains' theology. For the database, this whole-poem node complements the episode-records it sources: here the shield-lay runs whole.\n\nThe metre's discipline completes the record: dróttkvætt's strict internal rhyme and half-line constraints make the shield-lay the myth tradition's most technically demanding verse-form - the myths told inside a prosodic machine, which is why Snorri quoted the poem as his exemplar for teaching the metre. And the skald's biography completes the context: Thjodolfr served the Hladir jarls at the height of the pagan court's power, so the poem's theology (the gods invoked as the tale's guarantors) is the pre-conversion court's own creed - the shield-lay as both myth-book and religious document, dated a generation before the conversion."
+      },
+      "functions": [
+        "Whole-poem node: the shield-lay complete, three myth-panels",
+        "Shield-poem doctrine: myth as painting-description, the court's myth-book",
+        "Kenning-myth doctrine: the kennings requiring the myths as their key",
+        "Oldest witness datum: c. 900, centuries before the Edda-MSS"
+      ],
+      "variants": [
+        {
+          "name": "Haustlong in Skaldskaparmal quotations",
+          "text_tradition": "Snorri's Edda; MS R (14th c.)",
+          "summary": "The poem preserved through Snorri's quotations - the transmission's own case-study.",
+          "cross_ref": "norse-haustlong-skaldic"
+        },
+        {
+          "name": "Parallel: Bragi's Ragnarsdrapa",
+          "text_tradition": "9th c. shield-poem",
+          "summary": "The genre's other oldest witness (Thor's fishing panels).",
+          "cross_ref": "norse-thor-fishing-serpent"
+        }
+      ],
+      "primary_sources": [
+        {
+          "work": "Thjodolfr of Hvinir, Haustlong",
+          "citation": "Skaldic shield-poem, c. 900 CE; preserved in Skaldskaparmal quotations and MS R. Critical text: Corpus Poeticum Boreale, ed. Vigfusson & Powell, Oxford 1883 (public domain); Skaldic Poetry of the Scandinavian Middle Ages database.",
+          "language": "Old Norse (skaldic verse)"
+        }
+      ],
+      "secondary_sources": [
+        {
+          "work": "Russell Poole (ed.), Poetry from the Kings' Sagas 1",
+          "citation": "Skaldic Poetry of the Scandinavian Middle Ages 1, Turnhout: Brepols 2012 - the definitive commentary."
+        },
+        {
+          "work": "Anthony Faulkes, Edda (ed. and commentary)",
+          "citation": "Faulkes 1987, London: Everyman - the Haustlong quotations in context."
+        }
+      ],
+      "source_urls": [
+        {
+          "url": "https://skaldic.abdn.ac.uk/",
+          "description": "Skaldic Poetry of the Scandinavian Middle Ages database - Haustlong",
+          "accessed": "2026-11-01"
+        }
+      ],
+      "sensitivity_flag": "none",
+      "provenance": {
+        "record_status": "complete",
+        "compiled": "2026-11-01",
+        "compiled_by": "DHG508 fieldwork compilation",
+        "review_status": "draft - pending human review"
+      },
+      "motifs": [
+        "trickster",
+        "storm-thunder"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Historical literary corpus; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The shield's first panel: the eagle Thjazi carried off Idunn, keeper of the gods' youth, from Asgard's ground; the second: the burning wings and the armed arrival of Skadi; the third: the stone-hearted giant's skull broken by the hammer.",
+          "note": "Paraphrase of Haustlong panels 1-3 (CPB 1883); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "The poem's refrains credit the gods as the tale's guarantors - the pagan pantheon invoked as the audience of the skald's own myth-book.",
+          "note": "Paraphrase of Haustlong refrains (CPB 1883); not verbatim."
+        }
+      ]
+    },
+    {
+      "id": "norse-hrafnagaldur-odins",
+      "title": {
+        "en": "Hrafnagaldur Odins: The Late, Controversial Eddic Poem",
+        "zh": "《奧丁的烏鴉咒歌》：晚出而有爭議的埃達詩"
+      },
+      "tradition": "norse",
+      "category": "myth-religion",
+      "region": {
+        "en": "The Eddic manuscript-tradition (symbolic pin at Pingvellir, Iceland)",
+        "zh": "埃達抄本傳統（象徵性定位於冰島辛格韋德利）"
+      },
+      "lat": 64.26,
+      "lon": -21.13,
+      "period": "Preserved in 17th-century paper copies of the Prose Edda tradition; composition date disputed (late medieval or 17th-century)",
+      "source": {
+        "archive": "handrit.is",
+        "work": "Hrafnagaldur Odins (Forspjallsljod); principal MSS: 17th-c. copies in the Prose Edda tradition; study: Kristjan Arnason & Thorunn Sigurdardottir, 2011",
+        "url": "https://handrit.is/"
+      },
+      "license": "Public domain (early editions); passages below are labeled paraphrases",
+      "summary": {
+        "en": "The myth corpus's most controversial poem: a mythological lay (once printed as 'Forspjallsljod', 'the prelude-lay') preserved only in late copies, narrating Idunn's fall from the ash, the goddesses' journey to consult Odin and the norns, and a prophecy of the world's dimming - the twilight before Ragnarok, with the gods suffering and asking the norns' judgment. Its authenticity is the record's subject: scholars have argued it is a late medieval or even 17th-century composition (the philologists' verdict), while its defenders read it as a genuine late-eddic lay - the poem as a case-study in myth-detection.",
+        "zh": "神話語料中最具爭議的詩篇：一首神話頌歌（曾被刊為「序詩」Forspjallsljod），僅存於晚期抄本，敘述伊登自梣樹跌落、眾女神前去求問奧丁與命運三女神，以及世界趨暗——諸神黃昏前的薄暮——的預言，其中諸神受苦並求問女神之裁決。其真偽正是此記錄的主題：語文學者多斷其為中世紀晚期甚至17世紀之作，而辯護者則讀其為真正的晚期埃達詩——這首詩本身就是神話鑑定學的案例研究。"
+      },
+      "language": "Old Norse / Old Icelandic",
+      "canonical_translation": "Hrafnagaldur Odins ed. in Kristjan Arnason & Thorunn Sigurdardottir, Hrafnagaldur Odins, 2011; older editions public domain",
+      "narrative": {
+        "en": "Hrafnagaldur Odins ('Odin's raven-galdr') is the myth corpus's authentication-problem in verse, and its content is a twilight-prophecy. The narrative: Idunn falls from Yggdrasil's branches (the keeper of the gods' youth struck down 'in? - the? - 'midst? - of? - 'the? - 'ash? - the twilight's first casualty); the goddesses ride to Odin and to the norns to ask the meaning; the norns answer with the world's dimming - the gods' sufferings beginning, 'the? - 'gods? - 'under? - 'the? - 'cloud? - 'of? - 'sorrow? - the prophecy of the age before Ragnarok, and the poem's frames ('the? - 'raven? - 'sings? - 'the? - galdr? - 'of? - Odin) give the title.\n\nThe authenticity-problem is the record's real subject: the poem survives only in 17th-century paper copies appended to the Prose Edda tradition (no medieval witness); its metre is archaic and its myth-content consistent with the Edda, but the philologists' verdict (Sophus Bugge and the editorial tradition) has been that it is a late composition - possibly 17th-century, possibly an antiquarian forgery in eddic style - while the 2011 linguistic study (Kristjan Arnason and Thorunn Sigurdardottir) argued for genuine late-medieval composition on grammatical grounds. The dispute is the record's lesson: the myth corpus's authentication is a live philological method, and this poem is its test-case.\n\nThe record's cultural functions are the reception-doctrine (the poem's history: printed in early editions of the Poetic Edda, dismissed, re-argued - the myth corpus's editorial afterlife) and the twilight-prophecy doctrine (the narrative's own frame: the age before the doom, the gods suffering and asking the norns - the eschatology's mood-painting). In the atlas, the record anchors the contested-authenticity family: each a tradition's disputed document; the Hrafnagaldur one is distinctive in being printed as canonical and then demoted - the database's own method (provenance, manuscript-witness, linguistic dating) documented on a poem.\n\nFor the database, this node documents the corpus's limits: a mythic narrative whose truth-value is a scholarly dispute - the record preserves it with its status labeled.\n\nThe poem's content-completeness documents why the dispute matters: the lay names the twilight's cast (Idunn's fall, the goddesses' ride, the norns' verdict, the gods' sufferings under the cloud) in language consistent with the Edda-tradition, so an authentic date would add a genuine late-eddic eschatology to the corpus - and a late date would instead document the 17th century's antiquarian myth-making. The record thus holds both readings, with the poem's status labeled: the myth corpus's own authentication-method (manuscript-witness, metre, grammar) applied to its most disputed text."
+      },
+      "functions": [
+        "Whole-poem node: the twilight-prophecy lay, Idunn's fall to the norns' judgment",
+        "Authentication case-study: the poem's authenticity as the philologists' live dispute",
+        "Reception doctrine: printed as canonical, dismissed, re-argued - the corpus's editorial afterlife",
+        "Twilight-prophecy doctrine: the mood-painting of the age before Ragnarok"
+      ],
+      "variants": [
+        {
+          "name": "Late-medieval reading (Arnason & Sigurdardottir 2011)",
+          "text_tradition": "Linguistic analysis",
+          "summary": "The grammatical case for genuine late-medieval composition.",
+          "cross_ref": "norse-hrafnagaldur-odins"
+        },
+        {
+          "name": "17th-century reading (Bugge and the editorial tradition)",
+          "text_tradition": "Philological verdict",
+          "summary": "The case for antiquarian composition in eddic style.",
+          "cross_ref": "none"
+        }
+      ],
+      "primary_sources": [
+        {
+          "work": "Hrafnagaldur Odins (Forspjallsljod)",
+          "citation": "Late mythological lay; principal MSS: 17th-c. paper copies in the Prose Edda tradition. Older editions public domain; modern study: Kristjan Arnason & Thorunn Sigurdardottir, 2011. Paraphrased here.",
+          "language": "Old Norse / Old Icelandic"
+        }
+      ],
+      "secondary_sources": [
+        {
+          "work": "Kristjan Arnason and Thorunn Sigurdardottir, Hrafnagaldur Odins",
+          "citation": "Arnason & Sigurdardottir 2011 - the linguistic study and edition."
+        },
+        {
+          "work": "Rudolf Simek, Dictionary of Northern Mythology",
+          "citation": "Simek 1993, Cambridge: D. S. Brewer - the entry dismissing the poem as late."
+        }
+      ],
+      "source_urls": [
+        {
+          "url": "https://handrit.is/",
+          "description": "handrit.is - the Prose Edda tradition's manuscript entries",
+          "accessed": "2026-11-01"
+        }
+      ],
+      "sensitivity_flag": "none",
+      "provenance": {
+        "record_status": "reconstructed",
+        "compiled": "2026-11-01",
+        "compiled_by": "DHG508 fieldwork compilation",
+        "review_status": "draft - pending human review",
+        "reconstructed_segments": [
+          {
+            "segment": "The poem's text and its dating (no medieval witness; 17th-c. copies)",
+            "restored_in": "Early printed editions; linguistic analysis per Arnason & Sigurdardottir 2011"
+          }
+        ]
+      },
+      "motifs": [
+        "prophetic-vision",
+        "oracle-divination"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Historical literary corpus; authenticity is a scholarly dispute, labeled as such."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Idunn fell from Yggdrasil's branches, and the goddesses rode to ask Odin and the norns the meaning of the world's dimming; the norns answered with the gods' sufferings beginning - the twilight before Ragnarok.",
+          "note": "Paraphrase of Hrafnagaldur Odins narrative (per the 2011 study's edition); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "The poem survives only in 17th-century copies appended to the Prose Edda tradition: printed as canonical, dismissed by the philologists as late, re-argued by the grammarians - the corpus's authentication-problem in verse.",
+          "note": "Paraphrase of the poem's reception-history; not verbatim."
+        }
+      ]
+    },
+    {
+      "id": "norse-voluspa-full",
+      "title": {
+        "en": "Voluspa Complete: The Sibyl's Vision from the Void to the Renewal",
+        "zh": "《女先知的預言》全篇：自鴻蒙至更新的先知幻象"
+      },
+      "tradition": "norse",
+      "category": "myth-religion",
+      "region": {
+        "en": "The sibyl's hall between worlds (symbolic pin at Pingvellir, Iceland)",
+        "zh": "兩界之間的女先知之廳（象徵性定位於冰島辛格韋德利）"
+      },
+      "lat": 64.26,
+      "lon": -21.13,
+      "period": "c. 900-1000 CE; principal MS Codex Regius GKS 2365 4to (c. 1270s); Hauksbok variant AM 544 4to",
+      "source": {
+        "archive": "sacred-texts.com (Bellows 1923)",
+        "work": "Voluspa (complete poem, st. 1-66); critical ed. Ursula Dronke (Poetic Edda II, 1997)",
+        "url": "https://www.sacred-texts.com/neu/poe/"
+      },
+      "license": "Public domain (Bellows 1923); passages below are labeled paraphrases",
+      "summary": {
+        "en": "The corpus's master-poem in full: the compelled seeress recites the world's whole biography in sixty-six stanzas - the void, Ymir, the sun and moon, the first humans, the golden age, the first war, Gullveig, the norns, Baldr's death, the genealogy of doom (Loki's brood), the Fimbulwinter, the doom-litany, the battles, the renewal (Baldr's return, Gimle, the last pair), and the dragon flying from the corpse-shore. The poem is the north's prophetic history of the world and the skeleton of all Norse mythography.",
+        "zh": "語料的核心長詩全篇：受迫的女先知以六十六節詩句述說世界的完整傳記——鴻蒙、尤彌爾、日月、最初人類、黃金時代、第一場戰爭、古爾維格、命運三女神、巴爾德之死、末日族譜（洛基之群）、芬布爾之冬、末日頌、諸戰、更新（巴爾德歸返、吉姆萊、末世雙親），以及自屍骸之濱飛出的巨龍。此詩是北方的世界預言史，也是所有北歐神話書寫的骨架。"
+      },
+      "language": "Old Norse / Old Icelandic",
+      "canonical_translation": "Henry A. Bellows, The Poetic Edda, New York 1923 (public domain); consulted against Dronke 1997",
+      "narrative": {
+        "en": "Voluspa complete is the myth corpus's master-poem, and this record holds it as one vision. The frame: Odin compels the vala - the dead or trance-bound seeress - to recite before 'the sons of Heimdall' (the frame-record norse-voluspa-sibyl holds the performance); the recitation is the poem's body, and its architecture is the world's biography in six movements. The creation-movements: the void ('there? - 'was? - 'no? - sand? - 'no? - sea? - 'no? - cool? - waves), Ymir and the rime-giants, the sun and moon set on courses, the first humans of Ask and Embla, the golden age and its end (the three giant-maidens with gold), the first war (Gullveig thrice burned, the Vanir's broken oaths).\n\nThe fate-movements: the norns at the well ('lawless? - 'they? - 'were? - born? - 'till? - 'three? - came), the deaths of Baldr (the mistletoe, the blind Hodr, Loki's forcing), Loki's brood (the wolf, the serpent, the hag of the iron-wood), the Fimbulwinter and the doom-litany ('an? - axe-age? - 'a? - sword-age? - 'a? - wind-age? - 'a? - wolf-age? - 'till? - 'the? - world? - falls), the battles (Naglfar, the Muspell-riders, Odin-Fenrir, Thor-serpent, the nine paces, Surt's fire). And the renewal-movement: the green earth from the sea, Baldr and Hodr's return, Gimle, the game-pieces found in the grass, Lif and Lifthrasir - and the dragon flying from the corpse-shore, corpses in its feathers, 'and? - 'now? - 'she? - will? - sink.\n\nThe record's cultural functions are the master-poem doctrine (the corpus's complete cosmology and eschatology in one vision, the skeleton on which Gylfaginning was built) and the prophecy-genre doctrine (the world's history recited by an unwilling professional woman - myth as a compelled, paid, gendered performance). And the poem's two versions are the record's critical datum: the Codex Regius text (canonical) and the Hauksbok variant (adding the utiseta-frame, the giant-sibyl's title, and other stanzas) - the master-text's own manuscript-history documented. In the atlas, the record anchors the prophetic-history family: each a tradition's whole world-story recited by a seer; the Norse one is distinctive in sixty-six stanzas and an unwilling voice.\n\nFor the database, this whole-poem node complements the frame-record and the thematic records it feeds (the creation, war, Baldr, renewal records): here the vision runs whole, void to dragon.\n\nThe poem's architecture completes the doctrine: the six movements are symmetric (creation and renewal share the same plain, the same game-pieces, the same sun), so the vision is built as a palindrome of the world's biography - the end written to mirror the beginning. And the seeress's voice completes the genre: the refrain 'do you understand yet, or what?' punctuates the stanzas like an exam-instructor's challenge - prophecy as pedagogy, the audience required to answer, the corpus's own reader-address built into the master-poem."
+      },
+      "functions": [
+        "Whole-poem node: the complete vision, void to the dragon's flight",
+        "Master-poem doctrine: the corpus's complete cosmology and eschatology in one document",
+        "Prophecy-genre doctrine: the world recited by a compelled professional woman",
+        "Two-version datum: Codex Regius against the Hauksbok variant"
+      ],
+      "variants": [
+        {
+          "name": "Voluspa, Codex Regius version",
+          "text_tradition": "GKS 2365 4to",
+          "summary": "The canonical text of the sixty-plus stanzas.",
+          "cross_ref": "norse-voluspa-full"
+        },
+        {
+          "name": "Voluspa, Hauksbok version",
+          "text_tradition": "AM 544 4to",
+          "summary": "The variant with the utiseta-frame and additional stanzas.",
+          "cross_ref": "norse-voluspa-sibyl"
+        }
+      ],
+      "primary_sources": [
+        {
+          "work": "Voluspa",
+          "citation": "Complete poem. Principal MS Codex Regius GKS 2365 4to; Hauksbok variant AM 544 4to. Critical edition: Dronke 1997; public-domain English: Bellows 1923.",
+          "language": "Old Norse / Old Icelandic"
+        }
+      ],
+      "secondary_sources": [
+        {
+          "work": "Ursula Dronke, The Poetic Edda, vol. II",
+          "citation": "Dronke 1997, Oxford - the definitive commentary."
+        },
+        {
+          "work": "Gro Steinsland, Norron religion",
+          "citation": "Steinsland 2005, Oslo: Pax - the poem's sacral-political reading."
+        }
+      ],
+      "source_urls": [
+        {
+          "url": "https://www.sacred-texts.com/neu/poe/poe03.htm",
+          "description": "Voluspa, Bellows translation (public domain)",
+          "accessed": "2026-11-01"
+        },
+        {
+          "url": "https://handrit.is/",
+          "description": "Codex Regius and Hauksbok manuscript entries",
+          "accessed": "2026-11-01"
+        }
+      ],
+      "sensitivity_flag": "none",
+      "provenance": {
+        "record_status": "complete",
+        "compiled": "2026-11-01",
+        "compiled_by": "DHG508 fieldwork compilation",
+        "review_status": "draft - pending human review"
+      },
+      "motifs": [
+        "prophetic-vision",
+        "creation-chaos",
+        "world-renewal"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Historical literary corpus; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "She remembers the giants born in early days, the void without sand or sea, Ymir's years, the sun and moon set on courses, the humans of Ask and Embla - and the golden age ended by three giant-maidens with burdens of gold.",
+          "note": "Paraphrase of Voluspa st. 1-27 (Bellows 1923); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "She sees the mistletoe, the blind god's aim, Baldr's pyre, Loki's brood, the Fimbulwinter, the axe-age and wolf-age, the battles and Surtr's fire - and then the green earth, Baldr's return, Gimle, and the dragon flying from the corpse-shore: 'and now she will sink.'",
+          "note": "Paraphrase of Voluspa st. 31-66 (Bellows 1923); not verbatim."
+        }
+      ]
+    },
+    {
+      "id": "norse-atli-battle-of-hunaland",
+      "title": {
+        "en": "Atlakvida: The Lay of Atli and the Niflungs' Last Ride",
+        "zh": "《阿特利之歌》：阿特利與尼弗隆末代騎行"
+      },
+      "tradition": "norse",
+      "category": "myth-religion",
+      "region": {
+        "en": "Atli's hall on the Danube plain (symbolic pin at Buda, Hungary)",
+        "zh": "多瑙河平原阿特利大廳（象徵性定位於匈牙利布達）"
+      },
+      "lat": 47.5,
+      "lon": 19.04,
+      "period": "c. 1000-1200 CE; principal MS Codex Regius GKS 2365 4to",
+      "source": {
+        "archive": "sacred-texts.com (Bellows 1923)",
+        "work": "Atlakvida (complete); critical ed. Ursula Dronke (Poetic Edda II, 1997)",
+        "url": "https://www.sacred-texts.com/neu/poe/"
+      },
+      "license": "Public domain (Bellows 1923); passages below are labeled paraphrases",
+      "summary": {
+        "en": "The verse lay of the Atli-story: Atli's messenger lures Gunnar and Hogni with the promise of gold; Gudrun's warning-ring carries the wolf's hair; the brothers ride knowing ('gold? - 'they? - 'could? - not? - 'refuse? - the invitation's death-wish built into the gift-economy); Hogni laughs at the heart-test, Gunnar plays the harp with his toes in the snake-pen, Gudrun kills her sons and serves them, and Atli dies in his bed - the lay ending with Gudrun's grief and the halls' burning. The record is the Atli-story's compact verse-telling, companion to the saga-prose.",
+        "zh": "阿特利故事的詩體頌歌：阿特利的信使以黃金誘騙吉烏基與霍格尼；古德倫的警示戒指纏有狼毛；兄弟明知有詐仍騎行（「黃金他們無法拒絕」——死亡之願已內嵌於贈禮經濟之中）；霍格尼在心臟測試中大笑，吉烏基在蛇坑中以腳趾彈琴，古德倫殺子設宴，阿特利死於床榻——頌歌以古德倫的悲慟與焚燒的大廳作結。此記錄是阿特利故事的緊湊詩體敘述，與薩迦散文互為補充。"
+      },
+      "language": "Old Norse / Old Icelandic",
+      "canonical_translation": "Henry A. Bellows, The Poetic Edda, New York 1923 (public domain)",
+      "narrative": {
+        "en": "Atlakvida is the Atli-story's compact verse-telling, and its doctrine is the gift-economy's death-logic. The lure: Atli's messenger promises the brothers the Rhine-gold ('rings? - 'and? - 'the? - tribute? - of? - Hun-land? - 'the? - - and the brothers' reply is the poem's most famous clause: they knew the trap and rode - 'gold? - 'they? - 'could? - not? - refuse? - the gift-economy's death-wish stated as ethics: to refuse a lord's summons is cowardice, so the invitation is a death-sentence accepted in gift-currency. Gudrun's warning is the ring with wolf's hair wound in it - the coded signal - and the messenger lies.\n\nThe test-scenes: the heart-demand (the thrall's trembling heart exposed as false, Hogni laughing while they cut - 'the? - 'brave? - 'heart? - 'beat? - 'little? - 'when? - 'laid? - 'on? - 'the? - 'hand), the snake-pen and Gunnar's harp (the toes striking the strings, the serpents lulled, one adder striking - the harp's last note), and Gudrun's vengeance (the sons' hearts served at the feast, the bed-kill, the burning). The lay's closing is the corpus's grief-clause: Gudrun's answer to the sea ('the? - 'waves? - 'bore? - me? - 'to? - 'another? - shore? - - the vengeance-cycle's continuation, and the poem's final doctrine: 'so? - 'shall? - 'a? - 'sister? - 'mourn? - 'her? - brothers? - 'the? - record's? - ethic of kin-grief as the fate's own register.\n\nThe record's cultural functions are the gift-economy's death-logic doctrine (the invitation as sentence, acceptance as honor) and the compact-verse doctrine: the lay is the corpus's shortest complete heroic narrative (thirty-nine stanzas), the saga's story told in a tenth of the prose - the eddic economy of narrative. And its relation to the Atli-prose (Volsunga chs. 39-44) and to the Greenland lay Atlamal (the dialogue-version) is the record's comparative datum: one story, three tellings, the corpus's transmission documented. In the atlas, the record anchors the vengeance-lay family: each a tradition's kin-feud in verse; the Norse one is distinctive in the harp's toes and the served hearts.\n\nFor the database, this whole-poem node complements the Gudrun-Atli record (which synthesizes the prose): here the lay runs whole.\n\nThe lay's Attila-kernel completes the record: Atli is the tradition's memory of the Hunnish king (Attila, d. 453, died in his bed - the saga's bed-kill as the historical king's death re-read as vengeance), so the lay documents the migration-age's memory in heroic verse - the north's oldest historical trauma converted to myth. And the grief-clause completes the doctrine: the closing counsel ('so shall a sister mourn her brothers') makes the vengeance-cycle's cost its own ethic - the corpus's most compact statement that victory and mourning are one payment."
+      },
+      "functions": [
+        "Whole-poem node: the Atli-lay complete, lure to burning",
+        "Gift-economy death-logic: the invitation as sentence, acceptance as honor",
+        "Compact-verse doctrine: the corpus's shortest complete heroic narrative",
+        "One story, three tellings: the lay, the Greenland lay, the saga-prose"
+      ],
+      "variants": [
+        {
+          "name": "Atlakvida (Poetic Edda)",
+          "text_tradition": "Codex Regius GKS 2365 4to",
+          "summary": "The lay itself.",
+          "cross_ref": "norse-atli-battle-of-hunaland"
+        },
+        {
+          "name": "Atlamal (the Greenland lay)",
+          "text_tradition": "Codex Regius GKS 2365 4to",
+          "summary": "The dialogue-version of the same story.",
+          "cross_ref": "norse-gudrun-atli"
+        }
+      ],
+      "primary_sources": [
+        {
+          "work": "Atlakvida",
+          "citation": "Complete poem. Principal MS Codex Regius GKS 2365 4to. Public-domain English: Bellows 1923.",
+          "language": "Old Norse / Old Icelandic"
+        }
+      ],
+      "secondary_sources": [
+        {
+          "work": "Ursula Dronke, The Poetic Edda, vol. II",
+          "citation": "Dronke 1997, Oxford - commentary on the lay."
+        }
+      ],
+      "source_urls": [
+        {
+          "url": "https://www.sacred-texts.com/neu/poe/poe24.htm",
+          "description": "Atlakvida, Bellows translation (public domain)",
+          "accessed": "2026-11-01"
+        }
+      ],
+      "sensitivity_flag": "none",
+      "provenance": {
+        "record_status": "complete",
+        "compiled": "2026-11-01",
+        "compiled_by": "DHG508 fieldwork compilation",
+        "review_status": "draft - pending human review"
+      },
+      "motifs": [
+        "taboo-transgression",
+        "sacred-kingship"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Historical literary corpus; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The brothers knew the trap and rode: gold they could not refuse - the invitation was a death-sentence accepted in gift-currency; Gudrun's warning-ring carried the wolf's hair, and the messenger lied.",
+          "note": "Paraphrase of Atlakvida st. 1-10 (Bellows 1923); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Hogni laughed while they cut; Gunnar struck the harp with his toes till one adder struck; Gudrun served the king his sons' hearts and killed him in his bed, and the lay ends with the halls' burning and the sister's grief.",
+          "note": "Paraphrase of Atlakvida st. 20-39 (Bellows 1923); not verbatim."
+        }
+      ]
+    },
+    {
+      "id": "norse-sigrdrifa-song",
+      "title": {
+        "en": "Sigrdrifumal: The Valkyrie's Wisdom-Lay in Full",
+        "zh": "《勝利授予者之歌》：女武神智慧頌全篇"
+      },
+      "tradition": "norse",
+      "category": "myth-religion",
+      "region": {
+        "en": "Hindarfjall's fire-girt hall (symbolic pin at Rhine valley)",
+        "zh": "欣達山火焰環繞之廳（象徵性定位於萊茵河谷）"
+      },
+      "lat": 49.6,
+      "lon": 8.4,
+      "period": "c. 1000-1200 CE; principal MS Codex Regius GKS 2365 4to (ends defective); continuation in paper MSS",
+      "source": {
+        "archive": "sacred-texts.com (Bellows 1923)",
+        "work": "Sigrdrifumal (complete); critical ed. Ursula Dronke (Poetic Edda II, 1997)",
+        "url": "https://www.sacred-texts.com/neu/poe/"
+      },
+      "license": "Public domain (Bellows 1923); passages below are labeled paraphrases",
+      "summary": {
+        "en": "The valkyrie's curriculum in full: the waking (Sigurd cutting the byrnie), the memory-beer with its blessing formula (the bragarfull rite in detail), the great rune-catalog with its cutting-surfaces (shield, bark, grain-ear, glass, gold, wolf's claw, bear's paw, ice, serpent's eggs), the speech-runes and ale-runes, and the wisdom-teaching - conduct, ale-craft, and the counsel against speech-evil. The record is the corpus's most complete magic-and-conduct textbook, delivered by a punished chooser of the slain.",
+        "zh": "女武神的全部課程：甦醒（西格魯德割開甲胄）、附有祝聖套語的記憶之酒（詳載「祝杯」儀式）、附有刻寫載體清單的如尼大目錄（盾、樹皮、穀穗、玻璃、黃金、狼爪、熊掌、冰、蛇卵）、言語之符與啤酒之符，以及行為、飲酒之道與慎言的智慧教誨。此記錄是語料中最完整的魔法與行為教科書，由一位受罰的「陣亡者揀選者」親授。"
+      },
+      "language": "Old Norse / Old Icelandic",
+      "canonical_translation": "Henry A. Bellows, The Poetic Edda, New York 1923 (public domain)",
+      "narrative": {
+        "en": "Sigrdrifumal is the corpus's magic-and-conduct textbook in full, and this record holds the curriculum whole. The waking and the beer: Sigurd cuts the byrnie from the fire-hill's sleeper; the valkyrie gives the memory-beer (minni-ol) with the blessing-formula in detail - 'the? - 'cup? - 'blessed? - 'in? - 'the? - names? - 'of? - gods? - 'and? - 'of? - 'the? - 'host? - the bragarfull rite (the oath-cup of the sagas) documented here as liturgy. The rune-catalog: 'victory-runes? - 'cut? - 'on? - the? - sword-hilt? - 'and? - 'named? - twice? - 'in? - Tyr's? - name; 'sea-runes? - 'for? - the? - rudder; 'speech-runes? - 'for? - the? - tongue; 'ale-runes? - 'against? - witchcraft? - in? - the? - drink? - 'and? - 'the? - birth-runes? - 'for? - the? - childbed? - 'and? - 'the? - cutting-surfaces: 'on? - shield? - 'and? - 'oak-bark? - 'and? - 'grain-ear? - 'and? - 'glass? - 'and? - gold? - 'and? - 'amulets? - 'on? - the? - wolf's? - claw? - 'and? - the? - bear's? - paw? - 'on? - ice? - 'and? - 'on? - the? - serpent's? - eggs? - the material inventory of runic practice - the corpus's fullest statement of what runes were cut on, and how ('cut? - them? - 'name? - them? - 'think? - them).\n\nThe wisdom-teaching: the conduct-counsels (the ale-craft: 'better? - 'not? - to? - ask? - than? - too? - much? - to? - offer; the speech-craft: 'none? - 'shall? - 'so? - evil? - speak? - 'that? - 'he? - 'for? - his? - mother? - grieves), and the poem's closing counsel - the valkyrie's own teaching on oaths, vengeance and love ('her? - 'counsel? - 'of? - 'the? - 'runes? - 'of? - love? - 'and? - the? - oath-motifs). The record's cultural functions are the taught-magic doctrine (the runic curriculum as a valkyrie's pedagogy, its teacher punished for choosing the wrong victory - the irony the record holds) and the ritual-document doctrine: the memory-beer's blessing and the cutting-surfaces are the corpus's most complete description of how runic magic was actually performed.\n\nIn the atlas, the record anchors the magic-curriculum family: each a tradition's codified spell-system taught by a master; the Norse one is distinctive in the material inventory. For the database, this whole-poem node complements the waking-record (norse-brynhild-sigrdrifa): here the teaching runs whole, from the beer to the closing counsel."
+      },
+      "functions": [
+        "Whole-poem node: the valkyrie's curriculum complete, beer to closing counsel",
+        "Taught-magic doctrine: the runic curriculum as a punished teacher's pedagogy",
+        "Ritual-document: the memory-beer's blessing and the cutting-surfaces as practice-description",
+        "Irony of the teacher: the victory-rune expert punished for choosing the wrong victory"
+      ],
+      "variants": [
+        {
+          "name": "Sigrdrifumal, Codex Regius version",
+          "text_tradition": "GKS 2365 4to (ends defective at st. 37)",
+          "summary": "The canonical text through the rune-catalog.",
+          "cross_ref": "norse-sigrdrifa-song"
+        },
+        {
+          "name": "Continuation in paper MSS",
+          "text_tradition": "Later paper MSS (st. 38-44)",
+          "summary": "The poem's final stanzas preserved outside the Codex Regius.",
+          "cross_ref": "norse-sigrdrifa-song"
+        }
+      ],
+      "primary_sources": [
+        {
+          "work": "Sigrdrifumal",
+          "citation": "Complete poem. Principal MS Codex Regius GKS 2365 4to (defective end; continuation in later paper MSS). Public-domain English: Bellows 1923.",
+          "language": "Old Norse / Old Icelandic"
+        }
+      ],
+      "secondary_sources": [
+        {
+          "work": "Ursula Dronke, The Poetic Edda, vol. II",
+          "citation": "Dronke 1997, Oxford - commentary on the rune-lore."
+        }
+      ],
+      "source_urls": [
+        {
+          "url": "https://www.sacred-texts.com/neu/poe/poe21.htm",
+          "description": "Sigrdrifumal, Bellows translation (public domain)",
+          "accessed": "2026-11-01"
+        }
+      ],
+      "sensitivity_flag": "none",
+      "provenance": {
+        "record_status": "complete",
+        "compiled": "2026-11-01",
+        "compiled_by": "DHG508 fieldwork compilation",
+        "review_status": "draft - pending human review"
+      },
+      "motifs": [
+        "parable-teaching",
+        "oracle-divination"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Historical literary corpus; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The valkyrie blessed the memory-beer in the names of gods and the host, and taught the runes: victory-runes on the sword-hilt named twice in Tyr's name, sea-runes for the rudder, speech-runes for the tongue, ale-runes against witchcraft.",
+          "note": "Paraphrase of Sigrdrifumal st. 5-19 (Bellows 1923); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "And the cutting-surfaces: shield and oak-bark and grain-ear, glass and gold and amulets, the wolf's claw and the bear's paw, ice and the serpent's eggs - cut them, name them, think them.",
+          "note": "Paraphrase of Sigrdrifumal st. 15-17 (Bellows 1923); not verbatim."
+        }
+      ]
+    }
+  ]
+}

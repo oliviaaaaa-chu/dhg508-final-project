@@ -1,0 +1,44 @@
+{
+ "texts": [
+  {
+   "id": "nativity-luke",
+   "title": {
+    "en": "The Nativity of Jesus (Luke)",
+    "zh": "耶穌降生（路加福音）"
+   },
+   "tradition": "christian",
+   "region": {
+    "en": "Bethlehem, Judea",
+    "zh": "伯利恆（猶太地）"
+   },
+   "lat": 31.71,
+   "lon": 35.2,
+   "period": "Gospel of Luke, c. 80–110 CE (KJV, 1611)",
+   "source": {
+    "archive": "Project Gutenberg",
+    "work": "Gospel of Luke 2, King James Version",
+    "url": "https://www.gutenberg.org/ebooks/search/?query=bible+kjv"
+   },
+   "license": "Public domain",
+   "summary": {
+    "en": "A Roman census brings Mary and Joseph to Bethlehem, where Jesus is born and laid in a manger; angels announce the birth to shepherds in the field, who spread the word — for Christians, God taking human form, the turning point of salvation history.",
+    "zh": "羅馬戶籍令使馬利亞與約瑟前往伯利恆，耶穌降生於馬槽；天使向野地牧羊人報喜，牧羊人傳揚此事——基督宗教視之為道成肉身、救恩史之轉捩點。"
+   },
+   "motifs": [
+    "miraculous-birth"
+   ],
+   "category": "religious",
+   "sensitivity": {
+    "restricted": false,
+    "note": "Presented as a comparative text alongside other miraculous-birth narratives — a scholarly framing, not a claim about religious truth."
+   },
+   "passages": [
+    {
+     "id": "1",
+     "text": "And she brought forth her firstborn son, and wrapped him in swaddling clothes, and laid him in a manger; because there was no room for them in the inn. And there were in the same country shepherds abiding in the field, keeping watch over their flock by night: and, lo, the angel of the Lord came upon them, and the glory of the Lord shone round about them; and the shepherds said one to another, Let us now go even unto Bethlehem, and see this thing which is come to pass.",
+     "note": ""
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,584 @@
+{
+  "_comment": "Lithuanian and Latvian cosmogonic tales and deity records from the corpus documented by Norbertas Vellius, Lithuanian Mythological Tales (1979) and Chtonic Lithuanian Mythology, A. J. Greimas, Of Gods and Men (1992), Lasicki (1582), and the dainas. Uncertain segments are flagged as reconstructed. All passages paraphrase.",
+  "texts": [
+    {
+      "id": "baltic-god-devil-earth-dive",
+      "title": {
+        "en": "God and the Devil Dive for Earth: The Baltic Creation",
+        "zh": "神與魔潛水取土：波羅的海創世"
+      },
+      "tradition": "baltic",
+      "category": "myth",
+      "region": {
+        "en": "Lithuanian lakes (symbolic pin at Kaunas)",
+        "zh": "立陶宛湖泊（象徵性定位於考納斯）"
+      },
+      "lat": 54.9,
+      "lon": 23.9,
+      "period": "Recorded 19th c. in Lithuanian and Latvian collections; documented by Vellius (1979)",
+      "source": {
+        "archive": "Internet Archive / scholarly editions",
+        "work": "Baltic diving cosmogony; documented in N. Vellius, Lithuanian Mythological Tales (1979) and Greimas, Of Gods and Men (1992)",
+        "url": "https://archive.org/details/lithuanianmythol0000veli"
+      },
+      "license": "Scholarly documentation of public-domain folk material; passages are paraphrase",
+      "summary": {
+        "en": "God, drifting on the endless water, sees the Devil swimming and sends him down for sand; the Devil hides a mouthful under his tongue, the blessed sand grows and swells in his mouth until he is forced to spit it out — and from the spitting come the mountains, the marshes, and the crooked places.",
+        "zh": "神浮於無盡之水上，見魔游弋，命其潛底取沙；魔含沙於舌下私藏，受祝之沙在其口中不斷膨脹，被迫吐出——吐出之沙即成山嶺、沼澤與一切崎嶇之地。"
+      },
+      "motifs": [
+        "creation-chaos",
+        "flood",
+        "trickster",
+        "earth-diver"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "The Baltic twin of the Slavic diving cosmogony (cross_ref slavic-god-devil-dive-creation); the Indo-European dualist creation."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "In the beginning there is only the endless water, with God drifting on it in his boat — and swimming beside him, the Devil. God looks at the water and tells the Devil to dive to the bottom and bring up a handful of sand, with the words 'In the name of God' in his mouth. The Devil dives twice and fails; the third time he brings the sand but forgets the holy words, and keeps a second mouthful hidden under his tongue.",
+          "note": "Paraphrase of the Baltic diving cosmogony as documented in Vellius, Lithuanian Mythological Tales (1979), and Greimas (1992); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "God spreads the obedient sand on the water and blesses it: grow, thou earth — and it grows until it fills the sea. The stolen sand in the Devil's mouth also begins to grow, swollen by the blessing, until he must spit it out; the spitting becomes the mountains, the marshes, and all the crooked places of the world. The Baltic tale is the closest kinsman of the Slavic diving creation: one water, two divers, and a world double-authored.",
+          "note": "Paraphrase of the documented tale; not verbatim."
+        }
+      ],
+      "persons": []
+    },
+    {
+      "id": "baltic-sky-pillars-earth",
+      "title": {
+        "en": "The Sky That Holds the Earth",
+        "zh": "擎地之天"
+      },
+      "tradition": "baltic",
+      "category": "myth",
+      "region": {
+        "en": "Lithuania (symbolic pin at Vilnius)",
+        "zh": "立陶宛（象徵性定位於維爾紐斯）"
+      },
+      "lat": 54.69,
+      "lon": 25.28,
+      "period": "Recorded 19th-20th c.; documented by Vellius (1979)",
+      "source": {
+        "archive": "Internet Archive / scholarly editions",
+        "work": "Baltic sky-cosmology tales; documented in Vellius, Lithuanian Mythological Tales (1979)",
+        "url": "https://archive.org/details/lithuanianmythol0000veli"
+      },
+      "license": "Scholarly documentation of public-domain folk material; passages are paraphrase",
+      "summary": {
+        "en": "In the Baltic folk cosmology the sky is a lid over the world's dish: the earth floats and the sky leans down at its edges — held at the corners by great pillars, and so heavy that nothing sinful may climb to it, or the whole dish will spill.",
+        "zh": "波羅的海民間宇宙論中，天如覆於世界之盤上的蓋：大地浮動，天沿邊傾垂——由四角巨柱所撐；其重無比，凡有罪者不可攀天，否則盤將傾覆。"
+      },
+      "motifs": [
+        "creation-chaos",
+        "sacred-place"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Cosmological folk belief."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "In the tales recorded among the Lithuanians and Letts the world is a dish and the sky its cover: the earth floats on the primordial water, and the sky leans down at the edges of the world, resting at the corners on great pillars. Between the dish and its cover is all the room men will ever have.",
+          "note": "Paraphrase of Baltic sky-cosmology as documented in Vellius, Lithuanian Mythological Tales (1979); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "The pillars are so old that no one remembers setting them, and so necessary that the tales never let anyone knock one: the sinner who tries to climb to heaven is thrown down, for a man out of place upsets the dish. Under the same lid the sun has her road, the moon his, and the stars their fires — the Baltic sky is not empty space but a worked household, furnished by God and kept by his daughters.",
+          "note": "Paraphrase of the documented material; not verbatim."
+        }
+      ],
+      "persons": []
+    },
+    {
+      "id": "baltic-god-devil-brothers",
+      "title": {
+        "en": "God and the Devil as Brothers: Making the Animals",
+        "zh": "神魔為兄弟：造獸記"
+      },
+      "tradition": "baltic",
+      "category": "myth",
+      "region": {
+        "en": "Lithuania (symbolic pin at Kaunas)",
+        "zh": "立陶宛（象徵性定位於考納斯）"
+      },
+      "lat": 54.9,
+      "lon": 23.9,
+      "period": "Recorded 19th-20th c.; documented by Vellius (1979)",
+      "source": {
+        "archive": "Internet Archive / scholarly editions",
+        "work": "Baltic dualist creation tales; documented in Vellius, Lithuanian Mythological Tales (1979)",
+        "url": "https://archive.org/details/lithuanianmythol0000veli"
+      },
+      "license": "Scholarly documentation of public-domain folk material; passages are paraphrase",
+      "summary": {
+        "en": "God and the Devil work side by side like brothers in the first field: God creates the creatures that serve — the horse, the cow, the dog — while the Devil's hand makes the crooked ones, and every ill-shaped beast and bitter herb is his signature in God's new world.",
+        "zh": "太初田中，神與魔如兄弟並肩勞作：神造服役之獸——馬、牛、犬；魔之手則造出歪斜之物——凡畸形之獸、苦澀之草，皆其在新世界中的落款。"
+      },
+      "motifs": [
+        "creation-chaos",
+        "sibling-creators",
+        "trickster"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Dualist creation tales, Christian-era in wording but pre-Christian in structure."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "In the Baltic tales God and the Devil create side by side, like two brothers at one plough. God makes the creatures that serve the household: the horse that carries, the cow that gives, the dog that guards. The Devil, jealous, makes his own creatures in the same field — the crooked, the stinging, the bitter — and wherever a beast is ill-shaped or a herb harsh, the tales say, that is the Devil's handiwork in God's world.",
+          "note": "Paraphrase of Baltic dualist creation tales as documented in Vellius (1979); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "The best-known example is the hare: the Devil made it, and God, passing by, saw that the creature was crooked and struck it across the mouth with the flat of his hand — the split lip of every hare since is the mark of that blow. So the animals' shapes and habits are read as the record of the two creators' argument: the straight and the crooked, the giving and the taking, walk together in the fields to this day.",
+          "note": "Paraphrase of the documented tales; not verbatim."
+        }
+      ],
+      "persons": []
+    },
+    {
+      "id": "baltic-hare-split-lip",
+      "title": {
+        "en": "Why the Hare's Lip Is Split",
+        "zh": "兔唇之由"
+      },
+      "tradition": "baltic",
+      "category": "myth",
+      "region": {
+        "en": "Lithuanian field paths (symbolic pin at Kaunas)",
+        "zh": "立陶宛田間小徑（象徵性定位於考納斯）"
+      },
+      "lat": 54.9,
+      "lon": 23.9,
+      "period": "Recorded 19th-20th c.; documented by Vellius (1979)",
+      "source": {
+        "archive": "Internet Archive / scholarly editions",
+        "work": "Etiological animal tales; documented in Vellius, Lithuanian Mythological Tales (1979)",
+        "url": "https://archive.org/details/lithuanianmythol0000veli"
+      },
+      "license": "Scholarly documentation of public-domain folk material; passages are paraphrase",
+      "summary": {
+        "en": "The Devil made the hare in God's field; God saw the crooked beast and struck it across the mouth — and the hare has carried the split lip ever since, running at the Devil's command through the fields God made.",
+        "zh": "魔在神的田中造了兔；神見此歪獸，揮掌擊其口——兔自始帶著裂唇，依魔之令奔竄於神造的田野。"
+      },
+      "motifs": [
+        "creation-chaos",
+        "trickster",
+        "taboo-transgression",
+        "rabbit-hare-trickster"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Etiological tale."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The hare was the Devil's creature, made in God's field without God's leave. God walked by, saw the crooked beast, and struck it across the mouth with the flat of his hand; the lip split, and every hare born since carries the mark of the blow.",
+          "note": "Paraphrase of the etiological tale as documented in Vellius, Lithuanian Mythological Tales (1979); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "In other tellings the blow falls when the hare betrays the work: the Devil's creature was set to spoil what God had planted, and the open lip is the brand that shows whose field it ran in. Children in the Baltic villages still say of a quick, crooked luck that it runs like a hare — the Devil's speed on God's ground.",
+          "note": "Paraphrase of the documented tales; not verbatim."
+        }
+      ],
+      "persons": []
+    },
+    {
+      "id": "baltic-dog-against-devil",
+      "title": {
+        "en": "God's Dog: Why Dogs Guard the House",
+        "zh": "神之犬：犬守宅之由"
+      },
+      "tradition": "baltic",
+      "category": "myth",
+      "region": {
+        "en": "Lithuanian homestead (symbolic pin at Vilnius)",
+        "zh": "立陶宛家宅（象徵性定位於維爾紐斯）"
+      },
+      "lat": 54.69,
+      "lon": 25.28,
+      "period": "Recorded 19th-20th c.; documented by Vellius (1979)",
+      "source": {
+        "archive": "Internet Archive / scholarly editions",
+        "work": "Origin-of-dog tales; documented in Vellius, Lithuanian Mythological Tales (1979)",
+        "url": "https://archive.org/details/lithuanianmythol0000veli"
+      },
+      "license": "Scholarly documentation of public-domain folk material; passages are paraphrase",
+      "summary": {
+        "en": "When God made the first house he set his own dog at the gate to keep the Devil out; the dog sleeps when it should watch, the Devil slips in — and ever since, the tales say, the household dog barks at what men cannot see, doing God's watch as best a dog can.",
+        "zh": "神造第一座宅時，親自置犬於門以拒魔；犬該守望時卻睡去，魔潛入——自此，故事說，家犬朝人所不見之物而吠，竭盡犬力代神守望。"
+      },
+      "motifs": [
+        "creation-chaos",
+        "taboo-transgression",
+        "ritual-origin"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Etiological tale; reconstructed framing flagged."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "When God made the first house he set his own dog at the gate, for the Devil walks abroad at night and a house unguarded is a house the Devil enters. The dog sleeps when it should watch, the Devil slips in and does his mischief in the dark — and when the owners wake, the loss is blamed on the dog's failure, not the Devil's cunning.",
+          "note": "Paraphrase of the origin-of-dog tale as documented in Vellius, Lithuanian Mythological Tales (1979); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "This is why, the tales say, a dog barks at what men cannot see: it remembers its first duty, standing where God stood it, and its bark at the empty yard is the oldest prayer of the household. (The framing of this record is reconstructed from the motif as documented in the collection; the tale's wording varies from teller to teller.)",
+          "note": "Paraphrase of the documented motif; framing reconstructed (Vellius 1979); not verbatim."
+        }
+      ],
+      "persons": []
+    },
+    {
+      "id": "baltic-fire-swallow-tail",
+      "title": {
+        "en": "The Swallow's Fiery Tail: How Fire Came to the House",
+        "zh": "燕子火尾：火入宅之由"
+      },
+      "tradition": "baltic",
+      "category": "myth",
+      "region": {
+        "en": "Lithuanian farmhouse (symbolic pin at Vilnius)",
+        "zh": "立陶宛農舍（象徵性定位於維爾紐斯）"
+      },
+      "lat": 54.69,
+      "lon": 25.28,
+      "period": "Recorded 19th-20th c.; documented by Vellius (1979)",
+      "source": {
+        "archive": "Internet Archive / scholarly editions",
+        "work": "Origin-of-fire tales; documented in Vellius, Lithuanian Mythological Tales (1979)",
+        "url": "https://archive.org/details/lithuanianmythol0000veli"
+      },
+      "license": "Scholarly documentation of public-domain folk material; passages are paraphrase",
+      "summary": {
+        "en": "The Devil hid fire at the bottom of the water; God sent the swallow, who dipped her tail into the flame and brought a spark back to the hearth — and ever since the swallow builds her nest by the chimney, for she is the bird that gave men fire.",
+        "zh": "魔將火藏於水底；神遣燕子，其尾蘸入火焰，銜一火星歸於爐邊——自此燕於煙囪旁築巢，蓋其乃賜火於人之鳥。"
+      },
+      "motifs": [
+        "fire-theft",
+        "culture-hero",
+        "transformation",
+        "fire-origin"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Fire-in-water cluster parallel to Polynesian fire myths; framing partially reconstructed."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "In the beginning fire was hidden where no man could reach it — at the bottom of the water, where the Devil had sunk it. God sent the swallow, the bird that skims the wave-tops; she dove where the fire lay and dipped her tail in the flame, and flew back to the hearth with a spark burning in her feathers.",
+          "note": "Paraphrase of the origin-of-fire tale as documented in Vellius, Lithuanian Mythological Tales (1979); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "The fire burned the swallow's tail feathers to a fork — the shape every swallow's tail has kept since — and the spark went into the first hearth, where God set it to be kept and fed. Ever since, the tales say, the swallow builds her nest close to the chimneys of the houses, for she is the bird that brought men fire, and a house that lets her nest is a house that remembers its debt. (Segments of the framing are reconstructed from the motif as recorded in the collection.)",
+          "note": "Paraphrase of the documented motif; framing reconstructed (Vellius 1979); not verbatim."
+        }
+      ],
+      "persons": []
+    },
+    {
+      "id": "baltic-zemyna-earth-kiss",
+      "title": {
+        "en": "Žemyna, Mother Earth: The Kiss at Dawn",
+        "zh": "澤米娜，大地之母：黎明之吻"
+      },
+      "tradition": "baltic",
+      "category": "myth",
+      "region": {
+        "en": "Lithuanian fields (symbolic pin at Vilnius)",
+        "zh": "立陶宛田野（象徵性定位於維爾紐斯）"
+      },
+      "lat": 54.69,
+      "lon": 25.28,
+      "period": "Rite recorded by Lasicki (1582) and in 19th-c. collections; documented by Vellius (1979)",
+      "source": {
+        "archive": "Internet Archive / scholarly editions",
+        "work": "The cult of Žemyna; Lasicki, De diis Samagitarum (1582); documented in Vellius (1979) and Greimas (1992)",
+        "url": "https://archive.org/details/lithuanianmythol0000veli"
+      },
+      "license": "Scholarly documentation of public-domain material; passages are paraphrase",
+      "summary": {
+        "en": "Žemyna, the Lithuanian earth-mother, is kissed at dawn: the householder kisses the ground at sunrise and again when he goes to bed, at every spring blossom and every harvest — for the earth is the family's own mother and bears the family its daily bread.",
+        "zh": "立陶宛大地母神澤米娜於黎明受吻：家主日出時親吻大地，就寢時再吻；每逢春花初綻、每次收割皆然——蓋大地乃一家之母，日日賜家以糧。"
+      },
+      "motifs": [
+        "ritual-origin",
+        "sacred-place",
+        "divine-marriage"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Earth cult; parallels Greek Gaia and Roman Tellus."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Žemyna, the goddess of the earth, is the mother of the Baltic household: Lasicki's old register lists her among the Samogitian gods, and the folk custom kept her longest. At sunrise the householder kisses the ground and says a word of thanks; at the coming of every new blossom — the birch, the flax, the rye — he kisses the earth again, and at the harvest he kisses it last of all.",
+          "note": "Paraphrase of the Žemyna cult as documented in Lasicki (1582), Vellius (1979), and Greimas (1992); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "The rite is the oldest prayer of the field: not a petition but a greeting between kin. The earth is the mother who bears the family its bread, the dead return to her and the new-born are shown to her; a man who does not kiss Žemyna at dawn has forgotten whose household he belongs to.",
+          "note": "Paraphrase of the documented cult; not verbatim."
+        }
+      ],
+      "persons": []
+    },
+    {
+      "id": "baltic-laima-cradle-spinner",
+      "title": {
+        "en": "Laima at the Cradle: The Spinner of One's Days",
+        "zh": "搖籃邊的萊瑪：紡人生之線者"
+      },
+      "tradition": "baltic",
+      "category": "myth",
+      "region": {
+        "en": "Latvia and Lithuania (symbolic pin at Riga)",
+        "zh": "拉脫維亞與立陶宛（象徵性定位於里加）"
+      },
+      "lat": 56.95,
+      "lon": 24.11,
+      "period": "Belief recorded 19th c. (Biezais's studies; dainas); documented by Greimas (1992)",
+      "source": {
+        "archive": "Internet Archive / scholarly editions",
+        "work": "The goddess Laima; documented in the dainas and in A. J. Greimas, Of Gods and Men (1992)",
+        "url": "https://archive.org/details/ofgodsandmenstud0000grei"
+      },
+      "license": "Scholarly documentation of public-domain folk material; passages are paraphrase",
+      "summary": {
+        "en": "Laima comes to the cradle with her spindle and spins the length of the child's life; her sister dark Laima — Lauma gone bad — spins short, and the mothers of the Baltic sing to the spinner that she may measure kindly.",
+        "zh": "萊瑪携紡錘臨於搖籃，紡出孩子一生的長度；其姊妹黑萊瑪——變壞的勞瑪——紡得短促；波羅的海的母親們向紡者歌唱，願她量度慈祥。"
+      },
+      "motifs": [
+        "oracle-divination",
+        "ritual-origin",
+        "transformation"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Fate goddess parallels the Moirai, Norns, and the Slavic Sudice."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Laima, the dispenser of fate, comes to the lying-in room with her spindle: she spins the thread of the child's days, and what she has spun no one can re-spin. The dainas call her 'the spinner under the skies', and the household keeps her place — the clean bench, the spun flax — that she may find the room ready.",
+          "note": "Paraphrase of the Laima belief as documented in the dainas and Greimas, Of Gods and Men (1992); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Beside her stands her dark sister, the Lauma gone bad, who spins short and laughs at what she has spun; between the two the whole fortune of the new-born hangs. A mother's song to Laima is the oldest Baltic cradle-hymn: spin long, spin kindly, and let the thread outlast the loom.",
+          "note": "Paraphrase of the documented belief; not verbatim."
+        }
+      ],
+      "persons": []
+    },
+    {
+      "id": "baltic-mara-household-goddess",
+      "title": {
+        "en": "Māra: The Goddess of the Household and the Field",
+        "zh": "瑪拉：家宅與田野之女神"
+      },
+      "tradition": "baltic",
+      "category": "myth",
+      "region": {
+        "en": "Latvia (symbolic pin at Riga)",
+        "zh": "拉脫維亞（象徵性定位於里加）"
+      },
+      "lat": 56.95,
+      "lon": 24.11,
+      "period": "Belief recorded in the dainas, 19th c.; documented by Greimas (1992)",
+      "source": {
+        "archive": "Internet Archive / scholarly editions",
+        "work": "The goddess Mara; documented in the dainas and in A. J. Greimas, Of Gods and Men (1992)",
+        "url": "https://archive.org/details/ofgodsandmenstud0000grei"
+      },
+      "license": "Scholarly documentation of public-domain folk material; passages are paraphrase",
+      "summary": {
+        "en": "Māra is the goddess of all that the hands touch — bread, linen, cattle, and the market — the third power of the dainas' sky beside Dievs and Saule; the dainas sing her as the bread-giver and the keeper of the household's linen chest.",
+        "zh": "瑪拉乃手所觸一切之神——麵包、麻布、牛群與市集——達伊納斯天庭中僅次於季葉瓦斯與索列的第三位；歌中其為賜麵包者、家中麻箱之守。"
+      },
+      "motifs": [
+        "ritual-origin",
+        "sacred-kingship",
+        "divine-marriage"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Fertility and household goddess; Christian-era dainas often Christianize her as Mary — flagged."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "In the dainas the sky is governed as a household, and Māra is the goddess of its working parts: the bread that is baked, the linen that is spun, the cattle in the stall, and the goods that change hands. Beside Dievs, the father of the sky, and Saule, the sun, she completes the ruling trio of the Lettish songs.",
+          "note": "Paraphrase of the Māra belief as documented in the dainas and Greimas, Of Gods and Men (1992); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "The Christian era gave her a new name in some songs — Māra and the Virgin Mary blur in the later dainas — but the older layer is clear: she is the bread-goddess, the goddess of the material world's fertility, invoked at the oven, the loom, and the market. A Latvian bride's song still wishes her 'Māra's luck in the linen chest'.",
+          "note": "Paraphrase of the documented belief; not verbatim."
+        }
+      ],
+      "persons": []
+    },
+    {
+      "id": "baltic-mediena-hunt-goddess",
+      "title": {
+        "en": "Medeina: The Huntress of the Lithuanian Woods",
+        "zh": "梅傑伊娜：立陶宛林中的女獵神"
+      },
+      "tradition": "baltic",
+      "category": "myth",
+      "region": {
+        "en": "Lithuanian forests (symbolic pin at Trakai)",
+        "zh": "立陶宛森林（象徵性定位於特拉凱）"
+      },
+      "lat": 54.64,
+      "lon": 24.94,
+      "period": "Recorded by Lasicki (1582) and in later chronicle material; documented by Greimas (1992)",
+      "source": {
+        "archive": "Internet Archive / scholarly editions",
+        "work": "The goddess Medeina; Lasicki, De diis Samagitarum (1582); documented in Greimas, Of Gods and Men (1992)",
+        "url": "https://archive.org/details/ofgodsandmenstud0000grei"
+      },
+      "license": "Scholarly documentation of public-domain material; passages are paraphrase",
+      "summary": {
+        "en": "In Lasicki's old register of the Samogitian gods stands Medeina, the forest huntress who runs with the wolves and will not be wed; the Lithuanian dukes hunted under her trees, and the huntsman who took more than his share answered to her.",
+        "zh": "拉西茨基古神譜中有梅傑伊娜——與狼同奔、拒不受婚的林中女獵神；立陶宛大公於其樹下圍獵，獵取過甚者須向她交代。"
+      },
+      "motifs": [
+        "sacred-place",
+        "taboo-transgression"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Fragmentary deity; interpretive reconstruction flagged."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Medeina stands in Lasicki's sixteenth-century register of the Samogitian gods — the huntress of the woods, young and unwed, running with the wolves as their queen. The Lithuanian dukes' hunts were held under her protection, and the hunter's share was hers to set.",
+          "note": "Paraphrase of the Medeina material as documented in Lasicki (1582) and Greimas, Of Gods and Men (1992); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "She belongs to the same family of forest-rulers as the Slavic Leshy and the Greek Artemis: the wood is hers, the game is hers, and the huntsman is her guest. The sources give her only a name and a function — a goddess remembered by the enemies of her people — but the Lithuanian forest keeps her in every path where the wolves still run. (Interpretive reconstruction from fragmentary sources.)",
+          "note": "Paraphrase of the documented fragment; interpretive reconstruction flagged; not verbatim."
+        }
+      ],
+      "persons": []
+    },
+    {
+      "id": "baltic-velnias-threshing-floor",
+      "title": {
+        "en": "The Devil Hides in the Flax: Perkunas Strikes the Threshing-Floor",
+        "zh": "魔藏於亞麻：佩爾庫納斯擊打穀場"
+      },
+      "tradition": "baltic",
+      "category": "myth",
+      "region": {
+        "en": "Lithuanian threshing-floors (symbolic pin at Kaunas)",
+        "zh": "立陶宛穀場（象徵性定位於考納斯）"
+      },
+      "lat": 54.9,
+      "lon": 23.9,
+      "period": "Recorded 19th-20th c.; documented by Vellius (1979)",
+      "source": {
+        "archive": "Internet Archive / scholarly editions",
+        "work": "Thunder-vs-devil tales; documented in Vellius, Lithuanian Mythological Tales (1979)",
+        "url": "https://archive.org/details/lithuanianmythol0000veli"
+      },
+      "license": "Scholarly documentation of public-domain folk material; passages are paraphrase",
+      "summary": {
+        "en": "Wherever the Devil hides — in the flax, in the straw-stack, in the hollow oak — Perkunas strikes; every burnt field and shattered oak in the Lithuanian summer is the thunder-god's blows at the fiend who has crept into the harvest.",
+        "zh": "凡魔藏身之處——亞麻中、草垛內、空心橡樹裏——佩爾庫納斯必擊之；立陶宛夏日每一片焦土、每一株裂橡，皆為雷神追擊潛入收穫之魔的痕跡。"
+      },
+      "motifs": [
+        "storm-thunder",
+        "world-serpent",
+        "taboo-transgression"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Thunder-god vs devil cluster (cross_ref slavic-perun-veles)."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The Baltic thunder tales are one chase retold in every field: the Devil hides in the flax, in the straw-stack, in the hollow oak — wherever the harvest piles up — and Perkunas strikes. The flax-field blackens, the stack burns, the oak shatters; and the threshers say, 'There — he got him.'",
+          "note": "Paraphrase of the thunder-vs-devil tales as documented in Vellius, Lithuanian Mythological Tales (1979); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "The tales keep the old theology of the harvest: the crop is God's, the hiding-place is the Devil's, and the thunder is the farm's own protector. A burnt strip along the field is not a loss but a rescue; the stone axes found in the plough are Perkunas's spent bolts, and the field that has taken one is sacred ground.",
+          "note": "Paraphrase of the documented tales; not verbatim."
+        }
+      ],
+      "persons": [
+        "perkunas"
+      ]
+    },
+    {
+      "id": "baltic-sun-dances-easter",
+      "title": {
+        "en": "The Sun Dances on Easter Morning",
+        "zh": "復活節晨曦中太陽起舞"
+      },
+      "tradition": "baltic",
+      "category": "myth",
+      "region": {
+        "en": "Baltic hilltops at Easter (symbolic pin at Kernave)",
+        "zh": "波羅的海復活節山頂（象徵性定位於克爾納韋）"
+      },
+      "lat": 54.59,
+      "lon": 24.82,
+      "period": "Custom recorded 19th-20th c.; documented by Vellius (1979) and Greimas (1992)",
+      "source": {
+        "archive": "Internet Archive / scholarly editions",
+        "work": "The Easter sun-dance of Baltic folk custom; documented in Vellius, Lithuanian Mythological Tales (1979), and Greimas (1992)",
+        "url": "https://archive.org/details/lithuanianmythol0000veli"
+      },
+      "license": "Scholarly documentation of public-domain folk material; passages are paraphrase",
+      "summary": {
+        "en": "On Easter morning the young people climb the hills before dawn to watch the sun rise: she comes up dancing, shaking the waters from her garments, turning — so the old watchers say — from side to side like a maiden at a festival, and whoever sees her dance will be lucky all the year.",
+        "zh": "復活節晨曦之前，青年登高望日：太陽升起時翩然起舞，抖落衣上水珠——老觀者言其如節日少女般左右迴旋——見其舞者全年得福。"
+      },
+      "motifs": [
+        "world-renewal",
+        "resurrection",
+        "ritual-origin"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Living custom; pre-Christian solar rite under a Christian calendar."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "On Easter morning, before the sun is up, the young people of the Lithuanian and Latvian villages climb the hills with the older folks and wait facing east. The sun rises — and, as the old watchers tell it, she dances: she shakes the waters from her garments, turns from side to side, and blazes as if a festival were being held for her in heaven.",
+          "note": "Paraphrase of the Easter sun-dance custom as documented in Vellius (1979) and Greimas (1992); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Whoever sees the sun dance will be lucky all the year; the young men and girls go home and tell it at the breakfast table, and the eggs are dyed in the colours of the dawn. The custom is the Baltic spring's oldest rite, kept alive under the Christian calendar: the sun is Saule, the dainas' queen, and her Easter dance is the year's wedding.",
+          "note": "Paraphrase of the documented custom; not verbatim."
+        }
+      ],
+      "persons": []
+    }
+  ]
+}

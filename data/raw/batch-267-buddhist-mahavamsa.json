@@ -1,0 +1,773 @@
+{
+  "texts": [
+    {
+      "id": "buddhist-mahavamsa-buddha-visits",
+      "title": {
+        "en": "The Three Visits of the Buddha to Lanka (Mahavamsa)",
+        "zh": "佛陀三訪錫蘭：彌訶央根那、龍洲與迦藍尼耶"
+      },
+      "tradition": "buddhist",
+      "category": "religious",
+      "region": {
+        "en": "Kelaniya (Kalyani), Sri Lanka — site of the third visit",
+        "zh": "錫蘭迦藍尼耶（今凱拉尼亞，第三次巡禮之地）"
+      },
+      "lat": 6.95,
+      "lon": 79.92,
+      "period": "Pali chronicle, composed c. 5th-6th c. CE (attrib. Mahanama); Geiger translation 1912",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "The Mahavamsa; or, The Great Chronicle of Ceylon, trans. Wilhelm Geiger, 1912, ch. 1",
+        "url": "https://archive.org/details/mahavamsaorgreat0000wilh"
+      },
+      "license": "Public domain (Geiger translation 1912)",
+      "summary": {
+        "en": "In the ninth month after his awakening the Buddha flies to Lanka, where his doctrine is destined to shine, and terrifies the whole yakkha nation with storm and darkness until they grant him their island; he preaches and leaves a hair relic at Mahiyangana. Two later visits settle a war between naga kings over a jewel throne and reward the naga Maniakkhika of Kalyani with a promised return; footprints at Sumanakuta and meditations at Anuradhapura consecrate the sacred places of the future Sinhala Buddhist world.",
+        "zh": "佛成正覺九月，乘空巡錫蘭，以風雨黑暗懾服夜叉大會，受其島而說法，彌訶央根那留髮舍利；五年後再至龍洲，止龍王叔姪寶座之爭；八年後應龍王摩尼阿奇迦之請至迦藍尼耶，留足跡於聖山，錫蘭遂為佛法所許之地。"
+      },
+      "motifs": [
+        "theophany",
+        "sacred-place",
+        "ritual-origin",
+        "sacred-kingship",
+        "foundational-legend"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Canonical chronicle of a living tradition (Theravada Buddhism); freely retold, no ritual secrecy. Note: the promised-land frame of the visits is used in modern Sinhala Buddhist historiography — handled descriptively."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Nine months after his awakening, the Buddha knew that Lanka, though filled with yakkhas, was the place where his doctrine should shine in glory. He went to the delightful Mahanaga garden, the customary meeting-place of the yakkhas, where the whole nation had gathered, and hovering in the air above their heads he struck terror into them with rain, storm-wind and darkness. When the terrified yakkhas begged to be released from fear, he demanded a place where he might sit, and they surrendered their whole island to him. Spreading his rug of skin on the ground, he made it burn with flame; daunted by the heat, the yakkhas crowded to its border, and the Saviour brought a whole island, Giridipa, close beside them for them to settle on, then returned it to its place.",
+          "note": "Paraphrase of Mahavamsa, ch. 1 (Geiger 1912); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "The deva Mahasumana of Sumanakuta, who had already entered the path, asked for something to worship, and the Buddha, passing his hand over his head, gave him a handful of his blue-black hair. The deva enshrined it in a golden urn on a mound of many-coloured gems at the spot where the Master had sat. After the Buddha died, the arahant Sarabhu brought the Conqueror's collar-bone from the funeral pyre and laid it in the same cetiya, raising the stupa to twelve cubits; Uddhaculabhaya later raised it to thirty, and Dutthagamani, even while warring with the Damilas, built over it a mantle-cetiya of eighty cubits. Then the Buddha returned to Uruvela, the island having been made a fit dwelling for men.",
+          "note": "Paraphrase of Mahavamsa, ch. 1 (Geiger 1912); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "In the fifth year of his buddhahood the Buddha saw that a war threatened between the naga kings Mahodara and Culodara, uncle and nephew, over a jewel throne inherited from an ancestor, and he went to Nagadipa to prevent it. The deva Samiddhisumana carried a rajayatana tree from Jetavana to shade him like a parasol. Hovering above the battlefield, the Master first spread dread darkness over the nargas and then brought back the light; comforted, they bowed at his feet, heard the doctrine of concord, and gladly gave up the throne. Eighty kotis of snake-spirits took the refuges and the precepts. Maniakkhika of Kalyani, an uncle of the combatants who had first heard the doctrine on the first visit, begged the Master to come again to his own country.",
+          "note": "Paraphrase of Mahavamsa, ch. 1 (Geiger 1912); not verbatim."
+        },
+        {
+          "id": "4",
+          "text": "In the eighth year, at Maniakkhika's invitation, the Buddha came with five hundred bhikkhus to the Kalyani country and took his seat under a gem-decked canopy on the spot where the Kalyani-cetiya would later stand. After preaching, he left the plain traces of his footprints on Sumanakuta, spent the day there, and went on to Dighavapi, where he sat in meditation to consecrate the ground for a future cetiya. He likewise meditated at the future Mahamegha-vanarama, on the spot where the great Bodhi-tree would be planted, where the Great Thupa and the Thuparama would rise, and at the future Silacetiya, then returned to Jetavana. Thus the island, thrice visited, came to high honour among the faithful.",
+          "note": "Paraphrase of Mahavamsa, ch. 1 (Geiger 1912); not verbatim."
+        }
+      ],
+      "persons": [
+        "buddha"
+      ]
+    },
+    {
+      "id": "buddhist-mahavamsa-vijaya-landing",
+      "title": {
+        "en": "Vijaya's Exile and the Conquest of Lanka (Mahavamsa)",
+        "zh": "維闍耶流放與登陸錫蘭"
+      },
+      "tradition": "buddhist",
+      "category": "religious",
+      "region": {
+        "en": "Tambapanni, north-west coast of Sri Lanka (landing of Vijaya)",
+        "zh": "錫蘭西北海岸銅掌城（維闍耶登陸之地）"
+      },
+      "lat": 8.2,
+      "lon": 79.7,
+      "period": "Pali chronicle, composed c. 5th-6th c. CE (attrib. Mahanama); Geiger translation 1912",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "The Mahavamsa; or, The Great Chronicle of Ceylon, trans. Wilhelm Geiger, 1912, chs. 6-7",
+        "url": "https://archive.org/details/mahavamsaorgreat0000wilh"
+      },
+      "license": "Public domain (Geiger translation 1912)",
+      "summary": {
+        "en": "Born of the princess who wed a lion, the turbulent prince Vijaya is exiled from India with seven hundred followers and lands at Tambapanni on the very day the Buddha passes into nibbana. Charged by the dying Buddha to protect him, Sakka hands the island's guardianship to a god who wards Vijaya's men with sacred water and thread; the yakkhini Kuveni devours the followers, is spared by the prince, and betrays her own folk so that he may rule. Vijaya marries a Pandya princess sent from Madura, banishes Kuveni, founds Tambapanni, and gives the Sihala people their name.",
+        "zh": "獅子公主之後裔維闍耶，因暴行被逐出印度，率七百人於佛陀涅槃之日登陸銅掌。佛臨終託帝釋護之，神以聖水聖線護其眾；夜叉女鳩逸尼吞其部眾，被王擒而立誓，遂背其族使王得地。維闍耶後娶南印度般度王之女，棄鳩逸尼，建銅掌城，僧訶羅人之名由此而起。"
+      },
+      "motifs": [
+        "foundational-legend",
+        "culture-hero",
+        "witch",
+        "sacred-kingship",
+        "boon-curse"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Canonical chronicle of a living tradition (Theravada Buddhism); retold freely. Note: the Vijaya episode is the founding legend of the Sinhala people and is invoked in modern Sinhala nationalism — handled descriptively here.",
+        "zh": "活傳統之聖典（上座部佛教），可自由講述；維闍耶傳說為僧訶羅民族之建族傳說，見用於現代民族主義，此處僅作描述。"
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "A Vanga princess, prophesied to wed the king of beasts, fled into the Lala country and was carried off by a lion, by whom she bore twins: Sihabahu, lion-armed, and Sihasivali. When Sihabahu was sixteen he lifted the rock that sealed his father's cave and led his mother and sister away; later, offered a reward, he slew the lion that ravaged the border villages and was crowned king of the Vangas in his grandfather's place, though he passed the crown to his mother's husband and founded Sihapura in his own land, marrying his sister. Sihasivali bore him sixteen pairs of twin sons; the eldest, Vijaya, was of violent conduct, and when his father thrice rebuked him in vain the angry people demanded his death. The king instead had Vijaya and his seven hundred followers shaven over half the head and set out on ships.",
+          "note": "Paraphrase of Mahavamsa, ch. 6 (Geiger 1912); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "The separate companies landed on separate shores — the children on Naggadipa, the women on Mahiladipaka — while Vijaya touched at Supparaka and then, the day the Tathagata lay down between the twin sala-trees, at the region of Tambapanni in Lanka. Dying, the Buddha charged Sakka to protect the exile and his followers, for his religion would be established in Lanka; Sakka handed the guardianship to a deva of lotus colour, who sat in the guise of a wandering ascetic, sprinkled Vijaya's men with water from his vessel and wound protecting threads about their hands. A yakkhini came in the form of a bitch, and a follower who chased her found her mistress Kuveni spinning at the foot of a tree beside a pond.",
+          "note": "Paraphrase of Mahavamsa, ch. 7 (Geiger 1912); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "\"Stay! thou art my prey,\" Kuveni cried, but the magic thread bound the man against her, and she hurled him and then all seven hundred, one by one, into a chasm. Vijaya, armed with the five weapons, followed and caught the yakkhini by the hair with a noose at her neck: \"Slave, give me back my men, or I slay thee.\" To save her life she swore to give him a kingdom and do him a woman's service, and fetched his men alive. Reassured by a portion of the meal, she took the lovely form of a sixteen-year-old maiden and became his spouse on a canopied bed under a tree. In the night, music and singing rose: in the yakkha city of Sirisavatthu a wedding was held, and Kuveni, fearing the yakkhas would kill her for bringing men into the island, promised to make her lord king — if he slew them all.",
+          "note": "Paraphrase of Mahavamsa, ch. 7 (Geiger 1912); not verbatim."
+        },
+        {
+          "id": "4",
+          "text": "Since the yakkhas were invisible, Kuveni cried out where they stood, and wherever her cry sounded Vijaya struck, his weapon falling by her magic upon their bodies; all the yakkhas were slain. Vijaya clothed himself in the garments of the yakkha-king, founded the city of Tambapanni — so named because his weary followers, resting their hands on the ground, reddened their palms with the red earth — and his ministers built villages about it: Anuradhagama by the Kadamba river, Upatissagama on the Gambhira. But Vijaya refused consecration until a maiden of noble house could be consecrated queen beside him, so ministers went by ship to Madura in the Pandya country and brought back the king's daughter with a hundred maidens, craftsmen and a thousand families of the eighteen guilds. Vijaya then put Kuveni away with her two children, was consecrated in solemn festival, and reigned in righteousness over all Lanka thirty-eight years.",
+          "note": "Paraphrase of Mahavamsa, ch. 7 (Geiger 1912); not verbatim."
+        }
+      ],
+      "persons": [
+        "vijaya-lanka",
+        "kuveni",
+        "buddha",
+        "sakka"
+      ],
+      "language": "Pali",
+      "canonical_translation": "Wilhelm Geiger, The Mahavamsa; or, The Great Chronicle of Ceylon, London: Pali Text Society 1912 (public domain)",
+      "narrative": {
+        "en": "BEGINNING: THE LION-KING AND THE EXILE. The Mahavamsa opens the Sinhala royal genealogy with a scandal: a princess of the Vanga (Bengal) royal house, prophesied at birth to be united with the king of beasts, flees a caravan and is carried on the lion's back to his cave, where she bears twins — Sihabahu ('lion-arm'), whose hands and feet are formed like a lion's, and Sihasivali. At sixteen Sihabahu escapes, and later, for a reward of three thousand gold pieces, slays the lion that now ravages the villages — his own father, whose tenderness turns aside the arrows until wrath lets the third fly. Crowned in his grandfather's stead, he founds Sihapura and marries his sister; sixteen pairs of twin sons follow, the eldest named Vijaya. Vijaya is 'of evil conduct' and his followers like him; when the people cry for his death, king Sihabahu has the prince and his seven hundred shaved over half the head — the mark of the unfree — and put aboard ships, men, women and children in separate vessels. They land separately: the children on Naggadipa, the women on Mahiladipaka, and Vijaya at Tambapanni, on the very day the Tathagata passed into nibbana.\n\nMIDDLE: THE DYING BUDDHA'S CHARGE AND THE YAKKHINI. The chronicle welds colonisation to Buddha's deathbed: lying between the twin sala-trees, the Buddha tells Sakka that Vijaya is come to Lanka and that his religion will be established there — 'carefully protect him and Lanka.' Sakka delegates to the lotus-coloured god (identified by the commentator with Vishnu), who appears as an ascetic, sprinkles the men with water and winds charm-threads about their hands. A yakkhini in the shape of a bitch leads a follower to Kuveni (Kuvanna), spinning at a tree like a woman-hermit. 'Stay! thou art my prey' — but the sacred thread holds; she hurls all seven hundred into a chasm. Vijaya, suspecting the truth, seizes her with a noose and sword, and she buys her life with a kingdom, a wife's service, and an oath. Feeding his men on rice from ships of traders she had devoured, she assumes the form of a sixteen-year-old beauty and lies with him in a tented bed. Then comes the deeper betrayal: music from Sirisavatthu, the yakkha city, where a wedding is held; Kuveni, who fears the yakkhas will kill her for her part in bringing men, offers her lord the kingship if he destroys them — 'wheresoever they may be, I will utter cries, and where thou shalt hear that sound, strike!' All the yakkhas fall; Vijaya dons the yakkha-king's garments. He founds Tambapanni (the name from the red hands of his men on the red earth), and the followers of the lion-slayer Sihabahu are called Sihala — the etymological charter of the Sinhala people.\n\nEND: QUEEN FROM MADURA, THE BANISHED WIFE. Vijaya will not be consecrated without a consort of noble house, so an embassy sails to Madura in the Pandya south and returns with the Pandu king's daughter, a hundred maidens for the ministers, craftsmen, elephants, and a thousand families of the eighteen guilds — a charter for the island's craftsmen and society. Kuveni, who bore Vijaya a son and a daughter, is put away: 'men are ever in fear of superhuman beings.' She begs for a thousand pieces as an offering, then departs for Lankapura with the children; the yakkhas, taking her for a spy, kill her with a single blow. Her uncle warns the children to flee; they escape to Sumanakuta (Adam's Peak) and, brother and sister wed together, their descendants are the Pulindas — identified by tradition with the Vedda hunter-folk of the island's interior. Vijaya, 'having forsaken his former evil way of life, ruled over all Lanka in peace and righteousness' for thirty-eight years, sending annually to his father-in-law a shell-pearl worth two hundred thousand.\n\nFUNCTIONS. The narrative is the founding legend of the Sinhala people (Sihala from the lion-slayer), the ethno-religious charter of the island (a land promised by the dying Buddha, emptied of its demonic inhabitants and settled under Buddhist protection), a charter of caste and craft (the eighteen guilds, the ministers' villages that become Anuradhapura's axis), and the origin of the island's aboriginal people (Kuveni's children). The yakkha-slaying is the ritual aition of Sinhala sovereignty: settlement follows purification.\n\nRECEPTION. In modern Sri Lanka the Vijaya story is not a quaint tale: school histories, commemorative pageantry, and nationalist rhetoric have cast Vijaya as the first national hero and the landing of 483 BCE as the founding of the nation, while Tamil and scholarly counter-readings stress the story's dependence on Tamil marriage alliances and its literary artifice. The record states the chronicle's account; it does not endorse the charter as history.",
+        "zh": "開端：獅子王與流放。僧訶羅王統開篇即離奇：芬伽國公主宿命與獸王相配，逃亡中為獅所負，產雙生子——獅臂僧訶巴呼與僧訶悉婆利。十六歲之子肩負母妹出窟；後因賞金弒獅（其父，三箭為慈所折，怒而第三箭入體），代祖父為王，卻讓位於母之夫，自立獅子城，娶妹為后；生十六對雙生子，長曰維闍耶。維闍耶行惡，民怒求誅；王乃半剃其髮（示失自由），與七百徒眾分置船上流放，童子登那伽島，婦女登摩訶羅島，維闍耶於佛陀涅槃之日登銅掌。\n\n中段：佛之遺命與夜叉女。佛於雙娑羅樹間臨終囑帝釋：維闍耶至蘭卡，吾法當立於彼——善護之。帝釋轉託青蓮色之神（論者謂毘紐天），神化為行者，以聖水灘其眾，結聖線護之。夜叉女化母犬引人至樹下紡線之鳩逸尼；『汝乃吾獵物』——聖線制之，她將七百人一一擲入深窟。維闍耶以五兵擒之，她以王國、妻職與誓言換命，並取出所吞商船之米食其眾；化十六歲少女為王妻。更深之背叛：夜叉城吉祥住婚禮之夜樂起，鳩逸尼懼族誅己，許以王位換盡殺夜叉——『我發聲處，即擊之』。眾夜叉盡滅，維闍耶服夜叉王衣，建銅掌城（因眾人手染紅土而名）；獅子城之徒遂稱僧訶羅——民族得名之憲章。\n\n結局：馬都拉王后與見棄之妻。維闍耶必得貴族女為后方肯受灌頂，使臣航海至南印度馬都拉，迎般度王之女、百女、工匠與十八行會千家——工藝與社會之憲章。鳩逸尼育一子一女而被遣：『人恆畏超自然者』。她攜子往蘭卡城，夜叉眾疑其為諜，一拳斃之；其舅令二子速逃，兄妹相婚，其後裔即浦林陀人（傳為吠陀獵民之祖）。維闍耶改邪歸正，正法治國三十八年。\n\n功能：僧訶羅建族傳說（獅子城得名）；島嶼之宗教憲章（佛許之地、夜叉淨空、聖護殖民）；行會工匠之憲章；及島上原住民之起源（鳩逸尼之子女）。夜叉之滅為王權之儀式起因：淨土而後定居。\n\n接受史：現代斯里蘭卡中，維闍耶非閒談故事——教科書、紀念慶典與民族主義論述奉之為首位民族英雄，泰米爾與學術反讀則強調其對泰米爾聯姻之依賴與文學建構。本紀錄僅陳述編年史所述，不以憲章為史實背書。"
+      },
+      "functions": [
+        "Founding legend of the Sinhala people (Sihala named from the lion-slayer Sihabahu)",
+        "Ethno-religious charter: Lanka promised to the Buddha's religion on his deathbed and settled under divine protection",
+        "Aition of settlement: the island purified by the destruction of the yakkhas before consecration",
+        "Charter of society and craft: the eighteen guilds and the Pandya marriage alliance with South India",
+        "Origin of the island's aboriginal Vedda people from Kuveni's banished children"
+      ],
+      "variants": [
+        {
+          "name": "Dipavamsa (4th c. CE chronicle)",
+          "text_tradition": "The earlier Pali chronicle, Dipavamsa chs. 3-5",
+          "summary": "A shorter, cruder version of the lion ancestry and Vijaya's landing, without the detailed Kuveni dialogue; the Mahavamsa's polished narrative is an expansion of the same tradition.",
+          "cross_ref": "none"
+        },
+        {
+          "name": "Later Sinhalese recension",
+          "text_tradition": "Geiger's printed Appendix A (Sinhalese recension divergent readings, Mahavamsa ch. 7 vv. 26-84)",
+          "summary": "The later Sinhalese recension gives divergent and fuller episodes around the Kuveni affair, showing the story's growth in the island's own commentarial and vernacular tradition.",
+          "cross_ref": "none"
+        },
+        {
+          "name": "Ramayana counter-tradition",
+          "text_tradition": "Valmiki, Ramayana; Hindu and Tamil memory of Ravana's Lanka",
+          "summary": "The great Hindu epic makes Lanka Ravana's demon-girt realm won by Rama; Sri Lankan Hindu tradition reads the island's heroic age through Ravana, a counter-charter to the Vijaya story, and modern comparisons pair the two 'conquests' of the same island.",
+          "cross_ref": "hindu-ramayana-hanuman-lanka-burn"
+        }
+      ],
+      "primary_sources": [
+        {
+          "work": "Mahavamsa, chs. 6-7 (The Coming of Vijaya; The Consecrating of Vijaya)",
+          "citation": "Pali chronicle attributed to Mahanama the thera, c. 5th-6th c. CE; Wilhelm Geiger (trans.), The Mahavamsa; or, The Great Chronicle of Ceylon, London: Pali Text Society, 1912, pp. 51-61.",
+          "language": "Pali"
+        }
+      ],
+      "secondary_sources": [
+        {
+          "work": "Wilhelm Geiger, introduction and notes to the translation",
+          "citation": "Geiger 1912, Pali Text Society — critical apparatus on the Sinhalese recension and the relationship to the Dipavamsa."
+        },
+        {
+          "work": "R. A. L. H. Gunawardana, 'The People of the Lion'",
+          "citation": "Gunawardana 1979, in Ethnicity and Social Change in Sri Lanka / Sri Lanka Journal of the Humanities — analysis of the Sihala identity construction in the chronicles."
+        },
+        {
+          "work": "Steven Kemper, The Presence of the Past",
+          "citation": "Kemper 1991, Notre Dame: University of Notre Dame Press — chronicles, politics and culture in Sinhala life; how Vijaya and Dutthagamani are used in modern political memory."
+        }
+      ],
+      "source_urls": [
+        {
+          "url": "https://archive.org/details/mahavamsaorgreat0000wilh",
+          "description": "Internet Archive — Geiger 1912 translation of the Mahavamsa (source text read)",
+          "accessed": "2026-11-15"
+        },
+        {
+          "url": "https://sacred-texts.com/bud/mhv/",
+          "description": "Sacred Texts — Mahavamsa English translation (Geiger), chs. 6-7 cross-check",
+          "accessed": "2026-11-15"
+        }
+      ],
+      "sensitivity_flag": "living_tradition_low",
+      "sensitivity_guidance": "The Mahavamsa is scripture-adjacent history for Theravada Buddhists and its Vijaya episode is actively used in modern Sinhala nationalism (from Anagarika Dharmapala to present-day politics), including claims that the island was promised to the Sinhala Buddhists. Retell the narrative descriptively; do not present the charter as historical fact; note Tamil and Vedda counter-memories (Kuveni as wronged first lady, her children as the aboriginal people).",
+      "provenance": {
+        "record_status": "complete",
+        "compiled": "2026-11-15",
+        "compiled_by": "DHG508 fieldwork compilation",
+        "review_status": "draft - pending human review"
+      }
+    },
+    {
+      "id": "buddhist-mahavamsa-kuveni-betrayed",
+      "title": {
+        "en": "Kuveni the Yakkhini, Betrayed (Mahavamsa)",
+        "zh": "鳩逸尼夜叉女之被棄與死"
+      },
+      "tradition": "buddhist",
+      "category": "religious",
+      "region": {
+        "en": "Lankapura and Sirisavatthu, the yakkha city (north-west Sri Lanka; symbolic pin)",
+        "zh": "夜叉城吉祥住與蘭卡城（錫蘭西北，象徵性定位）"
+      },
+      "lat": 8.2,
+      "lon": 79.7,
+      "period": "Pali chronicle, composed c. 5th-6th c. CE (attrib. Mahanama); Geiger translation 1912",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "The Mahavamsa; or, The Great Chronicle of Ceylon, trans. Wilhelm Geiger, 1912, chs. 7-8",
+        "url": "https://archive.org/details/mahavamsaorgreat0000wilh"
+      },
+      "license": "Public domain (Geiger translation 1912)",
+      "summary": {
+        "en": "The yakkhini Kuveni, who won Vijaya his kingdom and bore him a son and a daughter, is put away when a Pandya princess arrives: men, Vijaya says, are ever in fear of superhuman beings. Returning to the yakkha city of Lankapura, she is slain as a spy by a single blow; her uncle warns the two children, who flee to Sumanakuta and become ancestors of the Pulindas. The chronicle then turns to the marriage of Vijaya's successor Panduvasudeva with the golden maiden Bhaddakaccana of the Sakya line.",
+        "zh": "夜叉女鳩逸尼為維闍耶奪國育子，然南印度般度公主既至，王謂『人恆畏超自然者』而棄之。她歸蘭卡城，夜叉眾疑其為諜，一拳斃之；其舅令二子速逃至聖山，兄妹相婚，後裔為浦林陀人。編年史隨即記維闍耶之繼承者頻陀娑由釋迦族迎金姑娘跋陀迦遮那為后之事。"
+      },
+      "motifs": [
+        "witch",
+        "transformation",
+        "karma-retribution",
+        "foundational-legend",
+        "betrayal"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Canonical chronicle of a living tradition (Theravada Buddhism); retold freely. Note: Kuveni figures in modern Sri Lankan literature and feminist re-reading as the wronged first lady of the island — handled descriptively."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Kuveni had served Vijaya faithfully: she had given him the yakkhas' kingdom, done him a woman's service, and borne him a son and a daughter. But when the Pandya princess arrived at Mahatittha with her train, Vijaya said to the yakkhini: 'Go thou now, dear one, leaving the two children behind; men are ever in fear of superhuman beings.' Seized with fear of the yakkhas herself, she besought him again and again; he promised a thousand pieces for an offering to her, and at last she took her two children and departed for Lankapura, fearing what evil might come of it.",
+          "note": "Paraphrase of Mahavamsa, ch. 7 (Geiger 1912); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "She set the children down outside the yakkha city and went in alone. The yakkhas recognized her at once, took her in their terror for a spy of the men who now dwelt in the island, and great was the stir among them; one who was violent killed the yakkhini with a single blow of his fist. Her mother's brother, a yakkha, came out and found the children: 'Here has your mother been slain, and they will slay you also if they see you; therefore flee swiftly!' Fleeing with speed they came to Sumanakuta. When the brother grew up he took his sister to wife, and multiplying with sons and daughters they dwelt, with the king's leave, in the mountain region; from these are sprung the Pulindas.",
+          "note": "Paraphrase of Mahavamsa, ch. 7 (Geiger 1912); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "Vijaya died with no heir, and for a year the ministers ruled from Upatissagama awaiting the prince. In Sihapura his brother Sumitta sent his youngest son Panduvasudeva, who came in the disguise of mendicant monks with thirty-two sons of ministers and landed at the mouth of the Mahakandara river. A soothsayer had foretold the prince's coming and that one sprung of his house would establish the religion of the Buddha in Lanka. Panduvasudeva, lacking a consort, was not yet consecrated; so when the golden maiden Bhaddakaccana — youngest daughter of the Sakya Pandu, fair as a woman of gold, wooed by seven kings — was placed by her father on a ship with thirty-two women-friends, she too landed robed as a nun, was recognized by a minister who had heard the soothsayer's word, and was consecrated queen; her companions were given to the prince's followers, and the monarch lived happily.",
+          "note": "Paraphrase of Mahavamsa, ch. 8 (Geiger 1912); not verbatim."
+        }
+      ],
+      "persons": [
+        "vijaya-lanka",
+        "kuveni"
+      ]
+    },
+    {
+      "id": "buddhist-mahavamsa-bo-tree-arrival",
+      "title": {
+        "en": "Asoka Receives the Great Bodhi-tree Branch (Mahavamsa)",
+        "zh": "阿育王奉迎大菩提樹枝"
+      },
+      "tradition": "buddhist",
+      "category": "religious",
+      "region": {
+        "en": "Pataliputta (Patna, Bihar, India) — Asoka's capital and the Bodhi-tree of Pupphapura",
+        "zh": "摩揭陀華氏城（今印度巴特那，菩提樹枝分離之地）"
+      },
+      "lat": 25.6,
+      "lon": 85.13,
+      "period": "Pali chronicle, composed c. 5th-6th c. CE (attrib. Mahanama); Geiger translation 1912",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "The Mahavamsa; or, The Great Chronicle of Ceylon, trans. Wilhelm Geiger, 1912, ch. 18",
+        "url": "https://archive.org/details/mahavamsaorgreat0000wilh"
+      },
+      "license": "Public domain (Geiger translation 1912)",
+      "summary": {
+        "en": "At the request of Devanampiyatissa's envoy Arittha, Asoka agrees to send the south branch of the great Bodhi-tree to Lanka with his daughter Sanghamitta. The god Vissakamma moulds a golden vase in a moment; the branch severs itself along a line the king draws with red arsenic, puts out a net of a hundred roots, and stands in the vase while the earth quakes and six-coloured rays fill the universe; rising into the air it remains seven days invisible in the region of snow.",
+        "zh": "提沙王遣臣阿利陀至華氏城請聖菩提樹枝與僧伽蜜多；阿育王從摩訶目犍連子帝須之議應允。毘首羯磨神倏造金甕；王以硃砂金筆畫線，南枝自斷，下垂百根，立於甕中，地震而六色光芒遍照；樹枝乘甕升空，隱於雪山七日。"
+      },
+      "motifs": [
+        "sacred-place",
+        "ritual-origin",
+        "theophany",
+        "sacred-kingship",
+        "sacred-tree"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Canonical chronicle of a living tradition (Theravada Buddhism); retold freely; the Bodhi-tree remains an actively worshipped relic of the tradition."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Remembering the thera's word, king Devanampiyatissa entrusted his nephew, the minister Arittha, with the mission: 'Canst thou go to Dhammasoka to bring hither the great Bodhi-tree and the theri Sanghamitta?' 'I can, if I may receive ordination on my return,' Arittha answered, and sailed from Jambukola, reaching Pupphapura on the very day of his departure by the thera's power. In Lanka meanwhile the queen Anula, with five hundred maidens and five hundred women of the harem, took the ten precepts and waited in a nunnery for the theri. Asoka grieved at parting with his daughter, but Moggaliputta-Tissa, asked whether the tree should be sent, answered that it should, and related the five great resolutions the Buddha had formed for the island.",
+          "note": "Paraphrase of Mahavamsa, ch. 18 (Geiger 1912); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "The king cleared and adorned the seven-yojana road to the great Bodhi-tree. Vissakamma, appearing in the guise of a goldsmith, moulded in a single moment a golden vase nine cubits around and five deep. With his fourfold army, a thousand theras and more than a thousand anointed princes, Asoka went to the tree, which gleamed with flags and garlands; he consecrated the great Bodhi-tree as king of his realm, walked around it three times keeping it on his right, and drew with red arsenic a line about the south bough: 'So truly as the great Bodhi-tree shall go hence to the isle of Lanka, shall this fair south branch, severed of itself, take its place in this golden vase.' The branch severed itself, floated above the vase, and put down ten strong roots and, from further lines, a net of a hundred.",
+          "note": "Paraphrase of Mahavamsa, ch. 18 (Geiger 1912); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "With a hundred roots the tree set itself in the fragrant earth of the vase — a stem of ten cubits, five branches, a thousand twigs. The earth quaked; instruments sounded of themselves among gods and men; six-coloured rays went forth from fruits and leaves and made the whole universe shine; and rising into the air with the vase the great Bodhi-tree stayed seven days invisible in the region of snow. When the week ended, clouds and rays entered the tree again and it was displayed to the people; Asoka consecrated it twice more with kingship, kept it in a beautiful hall by a great sala-tree, and when new shoots appeared all at once on the seventeenth day he rejoiced and appointed a festival of offerings. So the adoration of the great Bodhi-tree opened the hearts of gods and men.",
+          "note": "Paraphrase of Mahavamsa, ch. 18 (Geiger 1912); not verbatim."
+        }
+      ],
+      "persons": [
+        "asoka",
+        "buddha"
+      ]
+    },
+    {
+      "id": "buddhist-mahavamsa-asoka-conversion",
+      "title": {
+        "en": "Asoka's Conversion and the Third Council (Mahavamsa)",
+        "zh": "阿育王歸信與第三次結集"
+      },
+      "tradition": "buddhist",
+      "category": "religious",
+      "region": {
+        "en": "Pataliputta (Patna, Bihar, India) — Asoka's capital and the Asokarama",
+        "zh": "摩揭陀華氏城（今印度巴特那，阿育伽藍所在）"
+      },
+      "lat": 25.6,
+      "lon": 85.13,
+      "period": "Pali chronicle, composed c. 5th-6th c. CE (attrib. Mahanama); Geiger translation 1912",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "The Mahavamsa; or, The Great Chronicle of Ceylon, trans. Wilhelm Geiger, 1912, ch. 5",
+        "url": "https://archive.org/details/mahavamsaorgreat0000wilh"
+      },
+      "license": "Public domain (Geiger translation 1912)",
+      "summary": {
+        "en": "Candasoka, the wicked Asoka, slays his ninety-nine brothers and wins Jambudipa; the chronicle traces his cruelty and his generosity back to a former life as a honey-giver. The orphan novice Nigrodha, son of the murdered prince Sumana, preaches the Appamadavagga to him and wins the empire's faith; when a misguided minister beheads theras who refuse the uposatha with heretics, the king fetches Moggaliputta-Tissa, and the Third Council purifies the order, expelling sixty thousand and compiling the true doctrine.",
+        "zh": "黑阿育弒九十九兄而得贍部洲；經中溯其行於前世施蜜之業者。被誅王子之孤沙彌尼瞿多為王說精進品，王歸信三寶；後有迷妄之臣欲強僧作布薩而斬上座，王遂迎摩訶目犍連子帝須，行第三次結集：逐六萬邪眾，出迦他颯度婆羅，正法得淨。"
+      },
+      "motifs": [
+        "karma-retribution",
+        "theophany",
+        "sacred-kingship",
+        "ritual-origin",
+        "orphan-hero"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Canonical chronicle of a living tradition (Theravada Buddhism); retold freely. Note: the chronicle's Aśoka differs from the remorseful Aśoka of the Rock Edicts (the Kalinga war tradition) — a comparison, not a conflation."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "After the nine Nandas, the brahman Canakka anointed Candagutta over all Jambudipa; his son Bindusara had a hundred and one sons, and Asoka, high above them all in valour and wondrous powers, slew his ninety-nine brothers and won the undivided sovereignty, consecrating himself at Pataliputta four years later. The chronicle knows him as Candasoka, the wicked Asoka, for his evil deeds. Yet it traces his destiny to a former life: three brothers traded in honey; one gave a paccekabuddha a bowl of honey flowing over, and wished for the undivided rule of Jambudipa with his command reaching a yojana up and down; his brothers' grudging words and the maid who pointed out the honey-store ripened in their several fates. Asoka was the honey-giver.",
+          "note": "Paraphrase of Mahavamsa, ch. 5 (Geiger 1912); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "The novice Nigrodha, son of prince Sumana whom Asoka had slain, whose widowed mother had been sheltered by a tree-god in a candala village, came calm and staid along the street, and the king felt kindly toward him. Bidden to a fitting seat, the youth approached the royal throne under the white canopy and sat upon it; the king rejoiced that he had honoured one of the highest rank according to his rank, fed him from his own plate, and heard from him the Appamadavagga on unwearying zeal. Won to the doctrine, Asoka gave eight perpetual supplies of food, which the novice allotted to his master and the community; next day the king confirmed the monks in the refuges and precepts, and ever after bestowed alms on sixty thousand bhikkhus, setting aside the false teachers.",
+          "note": "Paraphrase of Mahavamsa, ch. 5 (Geiger 1912); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "As heretics in yellow robes crowded into the enriched order for revenue's sake, the bhikkhus could no longer hold the uposatha and pavaranа ceremonies; a minister sent to enforce the king's command struck off the heads of several theras who would not hold the festival with heretics, and only the king's brother's swift presence ended the slaughter. Troubled Asoka was told there was a bhikkhu able to befriend religion: the thera Tissa, son of Moggali, who dwelt alone on the Ahoganga mountain. Fetched at last by ship on the Ganges — the king wading knee-deep and giving his right hand to be taken as a pupil's — the thera wrought an earthquake bounded to a single yojana, taught him that no guilt results without evil intent, and recited the Tittira-jataka to comfort him.",
+          "note": "Paraphrase of Mahavamsa, ch. 5 (Geiger 1912); not verbatim."
+        },
+        {
+          "id": "4",
+          "text": "Asoka then assembled the whole brotherhood behind a curtain and questioned each confession in turn: 'What did the Blessed One teach?' The adherents of the Sassata and other doctrines were expelled — sixty thousand in all; the rightly believing answered that he teaches the Vibhajja-doctrine, and the king was glad and named Moggaliputta guardian of the order. The thera chose a thousand learned bhikkhus gifted with the six powers and compiled the true dhamma in the Asokarama, even as Mahakassapa and Yasa had done; in the midst of the council he set forth the Kathavatthu, refuting the other doctrines, and in nine months the council ended, the earth shaking in applause. Asoka's son Mahinda and daughter Sanghamitta, ordained in the sixth year of his reign, were the lights that would carry the doctrine to Lanka.",
+          "note": "Paraphrase of Mahavamsa, ch. 5 (Geiger 1912); not verbatim."
+        }
+      ],
+      "persons": [
+        "asoka",
+        "mahinda"
+      ]
+    },
+    {
+      "id": "buddhist-mahavamsa-mahinda-mission",
+      "title": {
+        "en": "Mahinda Comes to Lanka and Riddles the King (Mahavamsa)",
+        "zh": "摩哂陀降臨與芒果之問"
+      },
+      "tradition": "buddhist",
+      "category": "religious",
+      "region": {
+        "en": "Missaka mountain (Mihintale), near Anuradhapura, Sri Lanka",
+        "zh": "錫蘭彌思迦山（今米欣特萊，阿耨羅陀補羅之東）"
+      },
+      "lat": 8.25,
+      "lon": 80.51,
+      "period": "Pali chronicle, composed c. 5th-6th c. CE (attrib. Mahanama); Geiger translation 1912",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "The Mahavamsa; or, The Great Chronicle of Ceylon, trans. Wilhelm Geiger, 1912, chs. 13-14",
+        "url": "https://archive.org/details/mahavamsaorgreat0000wilh"
+      },
+      "license": "Public domain (Geiger translation 1912)",
+      "summary": {
+        "en": "Mahinda, son of Asoka and twelve years a monk, waits until Devanampiyatissa is consecrated king, then rises through the air with four theras, the novice Sumana and the layman Bhanduka, and alights on the Sila-peak of Missaka. A deva in the form of an elk-stag leads the hunting king to him; the mango-tree riddle proves the king shrewd, the discourse on the elephant's footprint converts him and forty thousand men; the doctrine is announced over all Lanka and preached first to the women of the palace and the townspeople.",
+        "zh": "阿育王子摩哂陀出家十二年，待提沙王灌頂既畢，與四上座、沙彌蘇摩那及在家弟子般圖迦乘空而至，落於彌思迦山石峰。山神化麋鹿引獵王至；芒果之問顯王機敏，象跡喻小經度王與四萬人歸依；法音遍聞全島，后妃萬民次第聞法得果。"
+      },
+      "motifs": [
+        "theophany",
+        "sacred-place",
+        "ritual-origin",
+        "oracle-divination",
+        "riddle-contest"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Canonical chronicle of a living tradition (Theravada Buddhism); retold freely. The mango riddle (ch. 14) remains a set-piece of Sri Lankan Buddhist memory of Mihintale."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The great thera Mahinda, charged by his teacher Moggaliputta and the brotherhood to convert the island of Lanka, pondered the fitting time: the old king Mutasiva's son must first become king. He visited his kinsfolk at Vedisa, where his mother Devi dwelt, and the deva Indra urged him on: 'Set forth to convert Lanka; by the Sambuddha hast thou been foretold for this.' On the uposatha-day of the month Jettha he rose into the air from the Vedisagiri vihara with the four theras, the miraculously gifted novice Sumana, and the lay-disciple Bhanduka — that they might be known for human beings — and alighted on the Sila-peak of Missaka mountain, on the fair tableland of Ambatthala, extolled by the gods of Lanka.",
+          "note": "Paraphrase of Mahavamsa, ch. 13 (Geiger 1912); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "King Devanampiyatissa, who had held a water festival in the capital, went hunting on Missaka with forty thousand men. The deva of the mountain, wishing to show him the theras, took the form of an elk-stag; the king would not shoot the heedless creature but twanged his bowstring, and the stag fled toward the mountain and vanished. Terrified at the sight of the thera seated there, the king was calmed by the words: 'Samanas are we, O great king, disciples of the King of Truth; from compassion toward thee are we come hither from Jambudipa.' To test him the thera asked subtle questions about a mango-tree: are there other mangoes, other trees, anything beside kinsfolk and strangers? 'There is yet myself, sir.' 'Thou hast a shrewd wit, O ruler of men!'",
+          "note": "Paraphrase of Mahavamsa, ch. 14 (Geiger 1912); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "The thera then preached the discourse on the simile of the elephant's footprint, and the king with his forty thousand men took the refuges. Knowing the theras ate only at the proper time, the king left them on the mountain; Bhanduka was ordained on the spot and became arahant in that very moment. At the king's morning meal by the rock-basin the novice Sumana, bidden to announce the time of preaching, made the summons heard by his miraculous power over the whole of Tambapanni, and the call, echoed by earth-gods, rose to Brahma's heaven; countless devas gathered, and the thera preached to them. The next day the theras, refusing the waggon, flew to the east of the city, where the Pathamacetiya marks their descent, and were led in with honour.",
+          "note": "Paraphrase of Mahavamsa, ch. 14 (Geiger 1912); not verbatim."
+        },
+        {
+          "id": "4",
+          "text": "In the palace the king himself served the theras rice-soup and foods, then sent for queen Anula, consort of the sub-king Mahanaga, with five hundred women. The thera preached the Petavatthu, the Vimanavatthu and the Sacca-samyutta, and the women attained the first stage of sanctification. The townspeople, crowning at the palace gates, were shown the theras in the cleansed hall of the state-elephant, where the eminent preacher discoursed on the Devaduta-suttanta; a thousand hearers attained the first stage. So the peerless thera, preaching the true doctrine in the speech of the island, brought to pass the descent of the faith into Lanka.",
+          "note": "Paraphrase of Mahavamsa, ch. 14 (Geiger 1912); not verbatim."
+        }
+      ],
+      "persons": [
+        "mahinda"
+      ]
+    },
+    {
+      "id": "buddhist-mahavamsa-bodhi-voyage",
+      "title": {
+        "en": "The Bodhi-tree Crosses the Sea to Lanka (Mahavamsa)",
+        "zh": "僧伽蜜多航海運菩提樹"
+      },
+      "tradition": "buddhist",
+      "category": "religious",
+      "region": {
+        "en": "Jambukola harbour to Anuradhapura, Sri Lanka (the tree's landing and planting)",
+        "zh": "自瞻波醯迦港至阿耨羅陀補羅大雲林園（錫蘭）"
+      },
+      "lat": 8.35,
+      "lon": 80.39,
+      "period": "Pali chronicle, composed c. 5th-6th c. CE (attrib. Mahanama); Geiger translation 1912",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "The Mahavamsa; or, The Great Chronicle of Ceylon, trans. Wilhelm Geiger, 1912, ch. 19",
+        "url": "https://archive.org/details/mahavamsaorgreat0000wilh"
+      },
+      "license": "Public domain (Geiger translation 1912)",
+      "summary": {
+        "en": "Asoka loads the great Bodhi-tree on a ship of the Ganges with Sanghamitta, eleven nuns, and escorts drawn from every family and craft of his realm, wading neck-deep in the water to set it aboard. On the voyage the waves are stilled for a yojana around; the nagas try to win the tree by magic and are terrified by Sanghamitta in the form of a griffin, then worship it a week in the realm of serpents. The tree lands at Jambukola, is borne in fourteen days of festival procession to Anuradhapura, rises eighty cubits into the air in six-coloured rays, and is planted in the Mahamegha grove, whence thirty-two saplings and forty saplings from its fruits spread through the island.",
+        "zh": "阿育王以船載大菩提樹於恒河，僧伽蜜多率十一比丘尼與諸族姓工藝之眾護送，王入水至頸奉樹登船。海中波平一由旬，龍欲以幻取樹，僧伽蜜多化為金翅鳥懾之，龍眾乃奉樹七日。樹至瞻波港，十四日慶典迎入阿耨羅陀補羅，升空八十肘，六色光芒照徹，植於大雲林園；枝果復生八樹與三十二樹，遍佈全島。"
+      },
+      "motifs": [
+        "otherworld-voyage",
+        "sacred-place",
+        "ritual-origin",
+        "theophany",
+        "sacred-tree"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Canonical chronicle of a living tradition (Theravada Buddhism); retold freely. The Sri Maha Bodhi at Anuradhapura, descended from this tree in the chronicle's account, is an actively worshipped shrine."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Asoka appointed escorts from the royal families, from ministers, brahmans, traders, cowherds, from the hyena and sparrowhawk clans, from weavers, potters and all the handicrafts, from the nagas and the yakkhas, giving them eight golden and eight silver vessels to water the tree. He brought the great Bodhi-tree to a ship on the Ganges with the theri Sanghamitta and eleven bhikkhunis, and Arittha's company; wading into the river till it reached his neck, the king set the tree down on the ship in seemly wise and stood on the shore with folded hands, weeping as it vanished from his sight.",
+          "note": "Paraphrase of Mahavamsa, ch. 19 (Geiger 1912); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "The ship fared forth into the sea, and for a yojana around the waves were stilled; lotus-flowers of five colours blossomed all around and music resounded in the air. The nagas practised their magic to win the great Bodhi-tree, but Sanghamitta, who had reached the last goal of the supernormal powers, took the form of a griffin and terrified the great snakes. They brought the tree to the realm of the serpents, worshipped it for a week by bestowing on it the kingship of the nagas, then set it again upon the ship; and on that same day the great Bodhi-tree arrived in Lanka at Jambukola.",
+          "note": "Paraphrase of Mahavamsa, ch. 19 (Geiger 1912); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "Devanampiyatissa, forewarned by the novice Sumana, had made ready the whole highroad from the north gate to Jambukola; standing on the shore he saw the tree coming by the theri's power, and uttering an exulting cry he waded neck-deep into the sea. With sixteen nobles he took the tree upon his head, set it in a pavilion, worshipped it with the kingship of Lanka, and entrusted his government to the sixteen while he himself took the duties of a doorkeeper. Three days of ceremonies followed; on the tenth day the tree was placed on a car, and on the fourteenth, amid white sand, flowers and pennons, it entered Anuradhapura by the north gate and was brought to the Mahamegha garden, the place consecrated by four Buddhas, where the former Bodhi-trees had stood.",
+          "note": "Paraphrase of Mahavamsa, ch. 19 (Geiger 1912); not verbatim."
+        },
+        {
+          "id": "4",
+          "text": "Scarcely had the king loosed his hold when the tree rose eighty cubits into the air, floating and sending forth six-coloured rays that spread over the island to the Brahma-world until sunset; ten thousand persons, filled with faith, attained arahantship there. At sunset it came down and stood firm under the constellation Rohini; the roots closed over the vase and the earth quaked. A faultless fruit fell from the east branch, and eight saplings four cubits high sprang up before all eyes: one was planted at Jambukola, others at Tivakka's village, the Thuparama, the Issarasamanarama, the Court of the First cetiya, the Cetiya-mountain, Kajaragama and Candanagama; thirty-two more, from four later fruits, were set in a circle at a yojana's distance. Queen Anula's company received ordination from Sanghamitta, Arittha from the thera, and in the nunnery called Hatthalhaka the great theri dwelt; the mast, rudder and helm of the ship were set up in three buildings there.",
+          "note": "Paraphrase of Mahavamsa, ch. 19 (Geiger 1912); not verbatim."
+        }
+      ],
+      "persons": [
+        "asoka",
+        "mahinda"
+      ]
+    },
+    {
+      "id": "buddhist-mahavamsa-dutthagamani-elara",
+      "title": {
+        "en": "Dutthagamani and Elara: The Single Combat (Mahavamsa)",
+        "zh": "杜多迦摩尼與伊羅羅之單騎決戰"
+      },
+      "tradition": "buddhist",
+      "category": "religious",
+      "region": {
+        "en": "South gate of Anuradhapura, Sri Lanka — where Elara fell",
+        "zh": "錫蘭阿耨羅陀補羅南門（伊羅羅陣亡之地）"
+      },
+      "lat": 8.35,
+      "lon": 80.39,
+      "period": "Pali chronicle, composed c. 5th-6th c. CE (attrib. Mahanama); Geiger translation 1912",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "The Mahavamsa; or, The Great Chronicle of Ceylon, trans. Wilhelm Geiger, 1912, chs. 22-25",
+        "url": "https://archive.org/details/mahavamsaorgreat0000wilh"
+      },
+      "license": "Public domain (Geiger translation 1912)",
+      "summary": {
+        "en": "The prince Gamani, reborn of a pious novice, lies curled on his bed because the Damilas hold the land beyond the Mahaganga; his father's rebuke earns him a woman's ornament and the name Dutthagamani, the angry Gamani. Reconciled to his brother Tissa through the bhikkhus, he campaigns north with a relic in his spear and five hundred monks at his side, storms Vijitanagara with the elephant Kandula, and at the south gate of Anuradhapura fells the Tamil king Elara — whom he then honours with funeral rites and a monument before which princes still silence their music. Arahants comfort his midnight grief: only one and a half human beings have been slain by him.",
+        "zh": "王子伽摩尼因提沙王國之外為泰米爾人所據，蜷臥不起；父怒賜女飾，遂號都他伽摩尼（怒伽摩尼）。經僧和解兄弟之鬥後，矛奉舍利，五百比丘隨行，先破維提城，繼於阿耨羅陀補羅南門與泰米爾王伊羅羅單騎決戰殺之；為之葬祭立碑，至今諸王經此息樂。阿羅漢夜慰其悔：所殺者唯『一又二分之一人』。"
+      },
+      "motifs": [
+        "culture-hero",
+        "sacred-kingship",
+        "karma-retribution",
+        "ritual-origin",
+        "foundational-legend"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Canonical chronicle of a living tradition (Theravada Buddhism); retold freely. Note: the Dutthagamani-Elara story is actively used as a charter in modern Sinhala nationalism and was invoked in the civil-war era; this record reports the chronicle's account and its modern reception descriptively, without endorsing either.",
+        "zh": "活傳統之聖典（上座部佛教），可自由講述。杜多迦摩尼與伊羅羅故事見用作現代僧訶羅民族主義之憲章，內戰時期亦被引用；本紀錄僅作描述，不為任何一方背書。"
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The chronicle inserts the Dutthagamani epic with the words: 'When he had slain Elara, Dutthagamani became king — to show clearly how this came to pass.' The pious novice of Kotapabbata, courted by the childless queen Viharadevi to be her son, died and entered her womb on the homeward journey; her cravings — a honeycomb a usabha long, the water that had cleansed the sword of Elara's first warrior, garlands from Anuradhapura's lotus-marshes — were read by the soothsayers: 'Her son, when he has vanquished the Damilas and built up a united kingdom, will make the doctrine to shine forth brightly.' The boy Gamani was born amid seven ships of gems, and the elephant Kandula came of his merit. At the rice-giving festival the brothers took the first two portions with joy; but at the third — 'Never will we fight with the Damilas' — Gamani flung away the morsel, went to his bed, and lay with hands and feet drawn in: 'Over there beyond the Ganga are the Damilas, here on this side is the Gotha-ocean; how can I lie with outstretched limbs?'",
+          "note": "Paraphrase of Mahavamsa, ch. 22 (Geiger 1912); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "When Gamani announced that he would make war upon the Damilas, his father forbade him: 'The region on this side of the river is enough.' Gamani sent him a woman's ornament: 'If my father were a man he would not speak thus.' The enraged king answered: 'Make a golden chain; with that will I bind him.' So the son fled to Malaya and was named Dutthagamani, the angry Gamani. After the father's death he made war on his own brother Tissa at Culaanganiyapitthi and was driven to flight; starving by the ford, he set aside portions for the brotherhood, and the thera Gotama, hearing the meal proclaimed with his heavenly ear, sent a bowl through the air so that king and mare were fed. The bhikkhus made a mountain between the armies, and when Tissa fled into a vihara the monks bore him out on a bed as a dead bhikkhu while the king let him go: 'To tear away anything with violence from the guardian genii of our house is not my custom.' Later Tissa, brought by the thera Godhagatta with five hundred bhikkhus, made his peace, and the king sat with him in the midst of the brotherhood.",
+          "note": "Paraphrase of Mahavamsa, ch. 24 (Geiger 1912); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "Dutthagamani had a relic set in his spear — a royal standard carried before the host — and marched with five hundred bhikkhus the brotherhood gave him as penance: 'The sight of bhikkhus is blessing and protection for us.' He overpowered the Damila captains one by one along the river and destroyed Vijitanagara after four months' siege: the elephant Kandula, scorched by molten pitch, was shamed back into the breach by Gothaimbara's rebuke — 'Here is no sura-draught for thee' — and crashed the iron gate, while the ten heroes each broke the walls by his own strength, refusing to follow the elephant's path. When it was said he knew not his own army and slew his own people, he made a solemn declaration: 'Not for the joy of sovereignty is this toil of mine; my striving has been ever to establish the doctrine of the Sambuddha. And even as this is truth may the armour on the body of my soldiers take the colour of fire.' And it came to pass.",
+          "note": "Paraphrase of Mahavamsa, ch. 25 (Geiger 1912); not verbatim."
+        },
+        {
+          "id": "4",
+          "text": "Elara's champion Dighajantu scattered the decoy bodies of troops in the great battle by the tank, and fell to Siranimila's spear. Dutthagamani then proclaimed with beat of drum: 'None but myself shall slay Elara.' Near the south gate of Anuradhapura the two kings fought on their elephants; Elara's dart was evaded, Kandula pierced the other elephant, and the Tamil king fell there with his elephant. The victor united Lanka under one rule, then beat the drum and summoned the people from a yojana around to celebrate the funeral rites for Elara: he burned the body on the spot where it fell and built a monument and ordained worship — and even to this day the princes of Lanka, when they draw near to this place, silence their music. Bhalluka's counter-invasion fell to Phussadeva's arrow through the mouth; and when the king rested on his palace terrace, remembering the destruction of millions, eight arahants flew down from Piyangudipa: 'From this deed arises no hindrance in thy way to heaven. Only one and a half human beings have been slain by thee — the rest were unbelievers, not more to be esteemed than beasts.'",
+          "note": "Paraphrase of Mahavamsa, ch. 25 (Geiger 1912); not verbatim."
+        }
+      ],
+      "persons": [
+        "dutthagamani"
+      ],
+      "language": "Pali",
+      "canonical_translation": "Wilhelm Geiger, The Mahavamsa; or, The Great Chronicle of Ceylon, London: Pali Text Society 1912 (public domain)",
+      "narrative": {
+        "en": "BEGINNING: THE CURLED-UP PRINCE. Chapter 22 opens with the Birth of Prince Gamani, told as a rebirth story: a pious novice of Kotapabbata who had served the brotherhood all his life, when dying was asked by queen Viharadevi — wife of Kakavannatissa, king of Rohana — to become her son, and entered her womb as she journeyed home. Her pregnancy cravings (a honeycomb as a pillow, twelve thousand bhikkhus fed before she ate of it; the water that had washed the sword of Elara's first warrior; unfaded lotuses from Anuradhapura's marshes) prompt the soothsayers' prophecy: her son will vanquish the Damilas, unite the kingdom, and make the doctrine shine. Gamani ('to the village') is born amid seven shiploads of gems and the arrival of the elephant Kandula. At the first-rice festival, and again in a three-portion test, the brothers accept every portion except the one eaten 'with the thought: never will we fight with the Damilas' — Tissa dashes his away; Gamani flings his morsel, goes to his bed and lies with limbs drawn in. 'Why dost thou not lie easily, my son?' — 'Over there beyond the Ganga are the Damilas; here on this side is the Gotha-ocean; how can I lie with outstretched limbs?' The king keeps silence.\n\nMIDDLE: THE ANGRY GAMANI AND THE BROTHERS' WAR. Repeating his resolve, Gamani is forbidden by his father to cross the river; he sends back a woman's ornament — 'if my father were a man he would not speak thus' — and the king threatens to bind him with a golden chain, 'for else he cannot be protected.' The prince flees to Malaya and earns the name Dutthagamani, 'the angry Gamani.' On the father's death the brothers fight at Culaanganiyapitthi; Dutthagamani flees, starving, and stops to feed the brotherhood — a bowl flies through the air from the thera Gotama of Piyangudipa, feeding king, minister and mare alike. The bhikkhus raise a mountain between the armies to part them; later, Tissa sheltered in a vihara is carried out on a bed by monks disguised as a funeral, and the pursuing king lets him pass: 'Tissa, upon the head of the guardian genii of our house art thou carried forth; to tear away anything with violence from the guardian genii of our house is not my custom.' Reconciliation comes through the thera Godhagatta-Tissa, who brings Tissa to the king; the king seats his brother in the midst of the brotherhood, and sends him off to direct the harvest — the sinhala phrase meaning the campaign's preparations.\n\nTHE WAR AGAINST ELARA. In chapter 25 the king has a relic placed in his spear as a standard, marches with the brotherhood's gift of five hundred ascetics ('the sight of bhikkhus is blessing and protection for us'), and cuts through the Damila captains down the river. The fortress Vijitanagara falls after four months: Kandula, bathed in molten pitch and shamed by Gothaimbara's rebuke, shatters the iron gate; Nandhimitta breaks the wall by his arm; each hero refuses the other's path. Asked about his slaughter, the king performs a truth-act: 'Not for the joy of sovereignty is this toil of mine; my striving has been ever to establish the doctrine of the Sambuddha. And even as this is truth may the armour on the body of my soldiers take the colour of fire' — and it does. At Anuradhapura, Elara's host under Dighajantu scatters the decoy regiments before falling to Siranimila. Dutthagamani beats the drum: 'None but myself shall slay Elara.' At the south gate the two kings fight from their elephants; Elara's dart misses, Kandula's tusks pierce the rival elephant, and Elara falls with him.\n\nEND: THE FUNERAL OF THE FALLEN KING AND THE MONKS' ABSOLUTION. United ruler of Lanka, Dutthagamani summons the people from a yojana around and celebrates the funeral rites for Elara: the body is burned where it fell, a monument is built there, and worship is ordained — 'even to this day the princes of Lanka, when they draw near to this place, are wont to silence their music because of this worship.' The hero's nephew Bhalluka lands with sixty thousand men and, mocking at the gate, is shot through the mouth by Phussadeva, who then cuts off his own ear-lobe for having grazed the king's ear-ring in the flight of the arrow. That night the victorious king, resting on his terrace, 'knew no joy, remembering that thereby was wrought the destruction of millions.' Eight arahants fly down from Piyangudipa to comfort him: 'From this deed arises no hindrance in thy way to heaven. Only one and a half human beings have been slain by thee: the one had come unto the refuges, the other had taken the five precepts. Unbelievers and men of evil life were the rest, not more to be esteemed than beasts.' A remembered pebble — pepper eaten in the pod without a share for the brotherhood — becomes the scruple that turns him to building: the Maricavatti-vihara as penance, the Lohapasada, and the Great Thupa, where chapter 32 finds him dying and reborn in the Tusita-heaven as Metteyya's first disciple.\n\nFUNCTIONS. The narrative is the charter of Sinhala Buddhist sacred kingship: a king whose legitimacy is monastic (fed by theras, protected by monks' mountains, comforted by arahants), whose war is fought 'for the doctrine', and whose enemies' deaths are weighed in a karmic calculus that notoriously discounts unbelievers. It is the nation-myth of the unification of the island under one Sinhala Buddhist rule, with Elara memorialized as a just enemy — a rare note of honor to the fallen. It is also, in modern reception, the most politically charged text of the corpus: from Anagarika Dharmapala's writings through the civil-war rhetoric of the 1980s-2000s, Dutthagamani has been invoked as the model of the righteous warrior-king defending Buddhism against 'invaders', and the chronicle's karmic absolution has been quoted to justify violence. The record reports the narrative and its history of use; it does not endorse the ideology.",
+        "zh": "開端：蜷臥之王。第二十二章以轉生故事開篇：拘陀跋陀寺之篤行沙彌，畢生事僧，臨終受羅訶那王迦迦梵那提沙之后維訶羅提毗所請，入其胎為子。孕中渴求（蜜脾為枕、先饌一萬二千比丘、飲洗伊羅羅首將之劍之水、取阿耨羅陀補羅蓮沼之花），相師斷言：其子破泰米爾人、合一王國、令法光耀。伽摩尼生時七船寶石並至，聖象坎杜羅亦因其福而來。初飯之節與三份之試中，兄弟受前二份；至第三份——『永與泰米爾人無戰』——提沙擲之，伽摩尼亦擲而歸榻，蜷臥不伸：『恒河之外皆泰米爾，此海之內方吾土，安得舒肢而臥？』王聞而默然。\n\n中段：怒伽摩尼與兄弟之戰。伽摩尼請伐泰米爾，父禁之：『河之此岸足矣。』子返贈女飾：『父若丈夫，必不出此言。』王怒答：『鑄金鏈以縛之。』子遂遁於山地，得號都他伽摩尼（怒伽摩尼）。父崩，兄弟戰於初蘭伽尼耶；都他伽摩尼敗走，飢而分食供僧——皮央古提島之喬答摩長老以天耳聞唱食時，遣鉢凌空而至，王、臣與馬皆得食。僧眾於兩軍之間化山以隔；後提沙匿寺中，僧抬之若扶死僧而出，王不阻：『汝出於我家護法神之首上；強奪護法神之物非吾俗。』終由喬陀伽陀長老攜提沙來和，王於僧中與弟同坐，遣之督農——實為伐泰米爾之備。\n\n伐伊羅羅之戰。第二十五章：王以聖矛奉舍利為軍旗，受五百隨行比丘（『見比丘者福而護也』），沿河逐一破泰米爾諸將。維提城圍四月而破：坎杜羅中熔鉛，經哥陀伊姆巴拉之斥——『此非汝飲酒之時』——復振，碎鐵門；南提彌陀以臂破牆，十勇士各以己力不循象徑。或譏其誤殺己軍，王行實語誓：『吾之勞非為王位之樂；吾之奮鬥常在令佛法人揚。若此為實，願吾士卒甲冑作火色。』果如其言。阿耨羅陀補羅之戰，伊羅羅之驍將提姜贊圖散其疑兵，卒斃於南提彌陀矛下。都他伽摩尼擊鼓宣令：『唯吾得殺伊羅羅。』南門之下，二王象戰；伊羅羅之鏢落空，坎杜羅之牙貫其象，泰米爾王與象俱仆。\n\n結局：戰死之王之葬與僧之赦。都他伽摩尼合蘭卡為一，擊鼓召一由旬內之民為伊羅羅行葬禮：焚其屍於陣亡之地，建紀念之碑，命人祀之——『至今蘭卡諸王過此輒息樂』。其姪跋婁迦率六萬人登陸反撲，於門前辱王，為弗薩提婆之箭貫口而斃；弗薩提婆自削耳垂以彰過。是夜王於露臺回望戰功，『心無所樂，念及所殺百萬生靈』。八阿羅漢自皮央古提島凌空而至：『此業不障汝生天之路。王所殺者唯一人半——一已歸依，一受五戒；餘皆不信惡行之人，不足比於畜生。』胡椒入食不供僧之失，化為建寺贖罪之念：償罪建蜜利沙伐帝寺，繼建銅宮與大塔；第三十二章見王臨終，生兜率天，為彌勒首徒。\n\n功能：僧訶羅佛教聖王之憲章（王權合法性出自僧團：長老飼王、僧山隔軍、羅漢慰心；戰爭『為法』而行；不信者之死按業之算術折減）。亦是全島統一於僧訶羅佛教政權之民族神話，伊羅羅得葬祀為敬敵之特例。然於現代接受中，此為全書最政治化之文本：自達摩波羅至內戰年代，都他迦摩尼屢被引為『護法戰王』之典範，其業之赦說亦被引以飾暴力。本紀錄陳述敘事及其使用史，不為該意識形態背書。"
+      },
+      "functions": [
+        "Charter of Sinhala Buddhist sacred kingship: royal legitimacy mediated by the sangha (theras feed the king, monks part the armies, arahants absolve him)",
+        "Warrior-monk ideology: the war against the Damilas is framed as service to the doctrine, sealed by a truth-act",
+        "Nation-myth of the unification of Lanka under one Sinhala Buddhist rule",
+        "Honour to the fallen enemy: the funeral rites and monument for Elara, before which princes silence their music",
+        "Modern political charter: Dutthagamani invoked in Sinhala nationalism (Dharmapala to the civil-war era) as the model righteous warrior-king — reported, not endorsed"
+      ],
+      "variants": [
+        {
+          "name": "Dipavamsa",
+          "text_tradition": "The earlier Pali chronicle, Dipavamsa chs. 18-19",
+          "summary": "A compressed account of the same campaign and victory, without the elaborate epic insertions (the rebirth omen, the curled-up boy, the monks' absolution) that the Mahavamsa develops.",
+          "cross_ref": "none"
+        },
+        {
+          "name": "Sinhalese recension and Tika expansions",
+          "text_tradition": "Geiger's Appendix A; the Mahavamsa commentary (Tika)",
+          "summary": "The Sinhalese recension and the commentary add omen and dialogue detail, and the Kambodian Mahavamsa versifies several of the battle scenes — evidence of the story's continued growth in monastic tradition.",
+          "cross_ref": "none"
+        },
+        {
+          "name": "Tamil counter-memory of Elara",
+          "text_tradition": "Tamil literary and oral tradition; modern Sri Lankan historiography",
+          "summary": "Tamil tradition and much modern scholarship remember Elara (Ezhu) as a just and wise ruler of Anuradhapura whose monument commanded respect from all; the same story is thus read either as liberation of the land or as conquest of a good king — the hinge on which Sinhala-Tamil readings of the chronicle diverge.",
+          "cross_ref": "none"
+        }
+      ],
+      "primary_sources": [
+        {
+          "work": "Mahavamsa, chs. 22, 24-25 (The Birth of Prince Gamani; The War of the Two Brothers; The Victory of Dutthagamani)",
+          "citation": "Pali chronicle attributed to Mahanama the thera, c. 5th-6th c. CE; Wilhelm Geiger (trans.), The Mahavamsa; or, The Great Chronicle of Ceylon, London: Pali Text Society, 1912, pp. 146-178.",
+          "language": "Pali"
+        }
+      ],
+      "secondary_sources": [
+        {
+          "work": "Steven Kemper, The Presence of the Past: Chronicles, Politics, and Culture in Sinhala Life",
+          "citation": "Kemper 1991, Notre Dame: University of Notre Dame Press — how the chronicle, and Dutthagamani above all, are used in modern Sinhala political memory."
+        },
+        {
+          "work": "R. A. L. H. Gunawardana, 'The People of the Lion'",
+          "citation": "Gunawardana 1979, in Ethnicity and Social Change in Sri Lanka / Sri Lanka Journal of the Humanities — the historical construction of the Sihala identity in the chronicles."
+        },
+        {
+          "work": "John Rogers, on the cultural politics of Sinhala Buddhist nationalism",
+          "citation": "Rogers 1987 (Journal of Asian Studies) — the political mobilisation of the chronicle tradition in the modern period."
+        }
+      ],
+      "source_urls": [
+        {
+          "url": "https://archive.org/details/mahavamsaorgreat0000wilh",
+          "description": "Internet Archive — Geiger 1912 translation of the Mahavamsa (source text read)",
+          "accessed": "2026-11-15"
+        },
+        {
+          "url": "https://sacred-texts.com/bud/mhv/",
+          "description": "Sacred Texts — Mahavamsa English translation (Geiger), chs. 22-25 cross-check",
+          "accessed": "2026-11-15"
+        }
+      ],
+      "sensitivity_flag": "living_tradition_low",
+      "sensitivity_guidance": "The Dutthagamani-Elara episode is the most politically charged story in the Sinhala chronicle tradition: it has been mobilised from Anagarika Dharmapala through the 1980s-2000s civil-war era as a charter for Sinhala Buddhist rule over the island, and the chronicle's claim that unbelievers slain in battle are 'not more to be esteemed than beasts' has been quoted in nationalist apologetics. Present the narrative as the chronicle's own account; flag the karmic absolution passage explicitly as a monastic argument; note the Tamil counter-memory of Elara as a just king; do not use the story to support or refute any modern political claim.",
+      "provenance": {
+        "record_status": "complete",
+        "compiled": "2026-11-15",
+        "compiled_by": "DHG508 fieldwork compilation",
+        "review_status": "draft - pending human review"
+      }
+    },
+    {
+      "id": "buddhist-mahavamsa-mahathupa",
+      "title": {
+        "en": "The Building of the Great Thupa and the Sand of the Master-builders (Mahavamsa)",
+        "zh": "大塔奠基與匠師沙量之奇"
+      },
+      "tradition": "buddhist",
+      "category": "religious",
+      "region": {
+        "en": "Anuradhapura, Sri Lanka — the site of the Mahathupa (Ruwanweli dagaba)",
+        "zh": "錫蘭阿耨羅陀補羅大塔（今魯梵維利塔）故址"
+      },
+      "lat": 8.35,
+      "lon": 80.39,
+      "period": "Pali chronicle, composed c. 5th-6th c. CE (attrib. Mahanama); Geiger translation 1912",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "The Mahavamsa; or, The Great Chronicle of Ceylon, trans. Wilhelm Geiger, 1912, chs. 29-30",
+        "url": "https://archive.org/details/mahavamsaorgreat0000wilh"
+      },
+      "license": "Public domain (Geiger translation 1912)",
+      "summary": {
+        "en": "Dutthagamani founds the Great Thupa on the full-moon of Vesakha: the ground dug seven cubits, crushed stone stamped by elephants with leather-bound feet, and layers of butter-clay, brick, cinnabar, iron net, Himalayan marumba, mountain-crystal, copper and silver laid in order. Brotherhoods from Rajagaha to Alexandria of the Yonas gather; the thera Siddhattha stays the too-vast plan lest the king die before it is done; the shrewd master-builder, possessed by Vissakamma, shows a water-bubble the shape of the dome and wins the day by sifting one ammana of sand a day so no grass shall grow on the cetiya — while the gods bring bricks nightly to the four gates.",
+        "zh": "都他迦摩尼於衛塞月圓日奠基大塔：掘地七肘，碎石以革裹足之象踏實，次第敷奶油泥、磚、朱砂、鐵網、雪山泥、水晶、銅與銀。自王舍城至希臘人之亞歷山大城諸僧畢集；悉達長老止王過大之制，恐塔未成而王先亡；巧匠為毘首羯磨神所附，以水面浮泡示塔形，一日篩沙一亞摩那——不使草生塔上；諸神夜夜運磚至四門。"
+      },
+      "motifs": [
+        "ritual-origin",
+        "sacred-place",
+        "theophany",
+        "sacred-kingship",
+        "exorcism"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Canonical chronicle of a living tradition (Theravada Buddhism); retold freely. The Ruwanweli dagaba remains an actively worshipped shrine of Anuradhapura."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "On the full-moon day of Vesakha the king began the Great Thupa. He had the place dug to a depth of seven cubits, had round stones broken with hammers and stamped down by great elephants whose feet were bound with leather. Over the bed he spread the ever-moist butter-clay brought by gifted novices, then bricks, rough cement, cinnabar, a network of iron, sweet-scented marumba from the Himalaya, mountain-crystal, stones, and finally, bound with kapittha-resin and arsenic oil, sheets of copper eight inches thick and silver seven inches thick. He appointed a festival for the laying of the foundation-stone and adorned city and roads for the brotherhood and the people.",
+          "note": "Paraphrase of Mahavamsa, ch. 29 (Geiger 1912); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "From the whole Buddhist world the brotherhood came: with eighty thousand bhikkhus the thera Indagutta from Rajagaha; twelve thousand from Isipatana; sixty thousand from Jetavana; eighteen thousand from Mahavana in Vesali; thirty thousand from Ghositarama in Kosambi; forty thousand from Dakkhinagiri in Ujjeni; a hundred and sixty thousand from the Asokarama in Pataliputta; two hundred and eighty thousand from Kasmira; four hundred and sixty thousand from Pallavabhogga; thirty thousand from Alasanda, city of the Yonas — and countless others. Those alone who had overcome the asavas are reckoned at ninety-six kotis. When the king stepped into the circle to trace the boundary with a silver staff roped to a golden post, the thera Siddhattha prevented him: so great a thupa would not be finished before the king's death and would be hard to repair; the king, from reverence, took a moderate space, laid eight splendid bricks, and at the offering of jasmine-flowers an earthquake came to pass.",
+          "note": "Paraphrase of Mahavamsa, ch. 29 (Geiger 1912); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "The king called the five hundred master-builders. One promised a waggon-load of sand a day, and the king rejected him — the cetiya would be a heap of sand overgrown with grass — down through halvings until one offered to pound the sand in a mortar, sift and crush it, and use a single ammana a day. At that moment Vissakamma entered into him; filling his hand with water he let a drop fall on the surface, and where a great bubble rose like a half-globe of crystal, he said: 'Thus will I make it.' The king, consenting, loaded him with gifts. pondering by night how bricks might come without burdening the people, the king was answered: the gods brought night after night to the four gates as many bricks as sufficed for a day; and work was paid, not pressed, at every gate.",
+          "note": "Paraphrase of Mahavamsa, ch. 30 (Geiger 1912); not verbatim."
+        },
+        {
+          "id": "4",
+          "text": "Wages and wonder ran together: bhikkhus, wishing to share the merit, smuggled clay and bricks among the workmen, and the king honoured them rather than expose them. When the three terraces for flower-offerings sank nine times beneath the bricks laid upon them, the brotherhood explained that theras of miraculous power had made them sink so the thupa should not sink of itself. Two novices brought six fat-coloured stones, eighty cubits each, bright as the sun, from the Northern Kurus for the relic-chamber, four disposed as a chest, one as a lid. In the chamber the king set a jewel Bodhi-tree with silver stem and golden fruits, a golden Buddha-image with Brahma, Sakka, Pancasikha and Mara's train about it, and thrones to the eight regions; and two women who had laboured for hire on the thupa, reborn in the heaven of the thirty-three, came back at night in radiance to worship the work their merit had raised.",
+          "note": "Paraphrase of Mahavamsa, ch. 30 (Geiger 1912); not verbatim."
+        }
+      ],
+      "persons": [
+        "dutthagamani",
+        "sakka"
+      ]
+    },
+    {
+      "id": "buddhist-mahavamsa-relic-enshrined",
+      "title": {
+        "en": "The Relic-dona Enshrined and Dutthagamani's Death (Mahavamsa)",
+        "zh": "聖髑奉安與王崩生兜率天"
+      },
+      "tradition": "buddhist",
+      "category": "religious",
+      "region": {
+        "en": "Anuradhapura, Sri Lanka — the Mahathupa's relic-chamber",
+        "zh": "錫蘭阿耨羅陀補羅大塔藏髑室"
+      },
+      "lat": 8.35,
+      "lon": 80.39,
+      "period": "Pali chronicle, composed c. 5th-6th c. CE (attrib. Mahanama); Geiger translation 1912",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "The Mahavamsa; or, The Great Chronicle of Ceylon, trans. Wilhelm Geiger, 1912, chs. 31-32",
+        "url": "https://archive.org/details/mahavamsaorgreat0000wilh"
+      },
+      "license": "Public domain (Geiger translation 1912)",
+      "summary": {
+        "en": "The brotherhood charges the sixteen-year-old arahant Sonuttara to fetch the relic-dona destined for the Great Thupa, guarded in the naga king's realm under Mount Manjerika; the nagas swallow the urn and coil about Sineru, but the thera stretches an arm down the serpent's throat and takes the relics. Enshrined on the full-moon of Asalha, the relics rise into the air, assume the Buddha's form and work the twin miracle, and twelve kotis of gods and men attain arahantship. The dying Dutthagamani, reckoning his merits, chooses the Tusita-heaven of the future Buddha Metteyya, is reborn there in celestial form, and drives thrice around the Great Thupa.",
+        "zh": "僧團命十六歲羅漢蘇努陀羅往龍王國取定於大塔之聖髑甕；龍姪吞甕繞須彌山三百由旬，長老伸臂入蛇喉取之。髑於頞沙荼月圓奉安，升空化佛身，現雙神變，十二俱胝天人得阿羅漢果。臨終之都他迦摩尼數其功德，擇未來佛彌勒之兜率天而終，天身現世，繞大塔三匝。"
+      },
+      "motifs": [
+        "theophany",
+        "ritual-origin",
+        "sacred-kingship",
+        "karma-retribution",
+        "relics"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Canonical chronicle of a living tradition (Theravada Buddhism); retold freely. Relic worship and the Metteyya prophecy remain living practices of the tradition."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The relic-chamber finished, the king summoned the brotherhood: 'To-morrow I will enshrine the relics.' The bhikkhus charged the novice Sonuttara, sixteen years old and gifted with the six powers, with the task, and told him the relics' history: of the eight donas of the Buddha's bodily relics, the one enshrined at Ramagama by the Koliyas was destined for the Great Thupa of Lanka; the thupa by the Ganges had been washed away, and the urn, floating to the ocean, had been taken by the naga king Kalanava to his palace at Manjerika and adored there under strong guard. Sonuttara plunged into the earth and stood before the naga king.",
+          "note": "Paraphrase of Mahavamsa, ch. 31 (Geiger 1912); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "The naga king, fearing force, signed to his nephew, who swallowed the urn and went to the foot of Mount Sineru, coiled there in a ring three hundred yojanas long, belching smoke and fire among a thousand heads, while nagas and devas gathered to watch the combat. 'If thou shalt see the relics, take them and go,' the uncle promised thrice; and the thera, standing on that spot, created a long slender arm, stretched it straight down the nephew's throat, drew out the urn and cried 'Stay, naga!' as he plunged into the earth and rose in his cell. All the nagas lamented that they were betrayed; from compassion the brotherhood left them a few of the relics, and they brought treasure offerings rejoicing.",
+          "note": "Paraphrase of Mahavamsa, ch. 31 (Geiger 1912); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "Sakka came with the gods bearing a jewelled throne and a golden casket; Brahma held the parasol, the yak-tail whisk and the fan, the four great kings their swords, thirty-two celestial maidens their lamps, and the twenty-eight yakkha-chieftains stood guard against evil yakkhas. The king, bearing the casket on his head under the white parasol, thrice consecrated the relics with the kingship of Lanka, and ascending the thupa laid them in the chamber. The casket rose of itself seven talantas into the air, opened, and the relics, taking the form of the Buddha gleaming with the thirty-two signs, wrought the twin miracle of fire and water, as the Master had done under the Gandamba-tree; twelve kotis of devas and men attained arahantship at the sight. The relics lay at last on the precious couch in the shape of the Master on his deathbed; the earth quaked, and for a week the whole island's people, borne to the spot at one moment by Indagutta's power, adored the relics and returned to their houses.",
+          "note": "Paraphrase of Mahavamsa, ch. 31 (Geiger 1912); not verbatim."
+        },
+        {
+          "id": "4",
+          "text": "Before the plaster-work was done the king fell mortally ill, and his brother Tissa covered the unfinished cetiya with painted white cloths. Carried on a palanquin to see the Great Thupa, Dutthagamani lay between the stupa and the splendid Lohapasada, in the midst of ninety-six kotis of bhikkhus, and bade the scribe read aloud the book of his meritorious deeds: ninety-nine viharas, nineteen kotis on the Maricavatti-vihara, thirty kotis on the Lohapasada, a thousand kotis on the Great Thupa — 'but only the two gifts I gave in adversity, without care for my life, gladden my heart.' Six celestial cars arrived from six heavens to carry him; he stayed them till he heard the dhamma, then asked which heaven was fairest, and was told: 'The city of the Tusitas, where the compassionate Bodhisatta Metteyya awaits his Buddhahood.' Casting a glance at the Great Thupa he closed his eyes and died, and was seen reborn in celestial form in the Tusita car, driving thrice around the Great Thupa before he passed into the Tusita-heaven — first disciple, the chronicle prophesies, of the sublime Metteyya.",
+          "note": "Paraphrase of Mahavamsa, ch. 32 (Geiger 1912); not verbatim."
+        }
+      ],
+      "persons": [
+        "dutthagamani",
+        "sakka"
+      ]
+    }
+  ]
+}

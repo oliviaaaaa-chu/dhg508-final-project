@@ -1,0 +1,230 @@
+{
+ "texts": [
+  {
+   "id": "christian-annunciation-mary",
+   "title": {"en": "The Annunciation and the Magnificat", "zh": "天使報喜與尊主頌"},
+   "tradition": "christian",
+   "category": "religious",
+   "region": {"en": "Nazareth, Galilee", "zh": "加利利，拿撒勒"},
+   "lat": 32.7,
+   "lon": 35.3,
+   "period": "Gospel of Luke, c. 80-110 CE (KJV, 1611)",
+   "source": {"archive": "Project Gutenberg", "work": "The Bible, King James Version, Book 42: Luke, chapter 1", "url": "https://www.gutenberg.org/ebooks/42"},
+   "license": "Public domain (KJV, 1611)",
+   "summary": {"en": "Gabriel, sent from God, greets the virgin Mary of Nazareth — 'Hail, thou that art highly favoured' — and announces a son who will sit on David's throne with a kingdom without end. To her question, 'How shall this be?' the angel answers with the Holy Ghost coming upon her, and Mary consents: 'Behold the handmaid of the Lord; be it unto me according to thy word.' Visiting Elisabeth she bursts into the Magnificat, 'My soul doth magnify the Lord', modeled on Hannah's song — the charter scene of the gospel's infancy cycle.", "zh": "加百列奉差往拿撒勒向童女馬利亞問安——「蒙大恩的女子」——宣告她的兒子要坐大衛的寶座，國無窮盡。她問「我沒有出嫁，怎麼有這事呢？」天使答以聖靈臨到她身上；馬利亞便順服：「我是主的使女，情願照你的話成就在我身上。」探望伊利莎白之際，她唱出《尊主頌》——「我心尊主為大」——本於哈拿之歌，成為福音嬰孩敘事的基石。"},
+   "motifs": ["miraculous-birth"],
+   "sensitivity": {"restricted": false, "note": "Living tradition of the highest sensitivity (annunciation of the virgin birth). Presented as a comparative miraculous-birth narrative — scholarly framing, not a claim about religious truth."},
+   "passages": [
+    {"id": "1", "text": "And in the sixth month the angel Gabriel was sent from God unto a city of Galilee, named Nazareth, to a virgin espoused to a man whose name was Joseph, of the house of David; and the virgin's name was Mary. And the angel came in unto her, and said, Hail, thou that art highly favoured, the Lord is with thee: blessed art thou among women. And the angel said unto her, Fear not, Mary: for thou hast found favour with God. And, behold, thou shalt conceive in thy womb, and bring forth a son, and shalt call his name JESUS. He shall be great, and shall be called the Son of the Highest: and the Lord God shall give unto him the throne of his father David: and he shall reign over the house of Jacob for ever; and of his kingdom there shall be no end."},
+    {"id": "2", "text": "Then said Mary unto the angel, How shall this be, seeing I know not a man? And the angel answered and said unto her, The Holy Ghost shall come upon thee, and the power of the Highest shall overshadow thee: therefore also that holy thing which shall be born of thee shall be called the Son of God. For with God nothing shall be impossible. And Mary said, Behold the handmaid of the Lord; be it unto me according to thy word. And the angel departed from her."},
+    {"id": "3", "text": "And Mary said, My soul doth magnify the Lord, and my spirit hath rejoiced in God my Saviour. For he hath regarded the low estate of his handmaiden: for, behold, from henceforth all generations shall call me blessed. He hath shewed strength with his arm; he hath scattered the proud in the imagination of their hearts. He hath put down the mighty from their seats, and exalted them of low degree. He hath filled the hungry with good things; and the rich he hath sent empty away."}
+   ],
+   "persons": ["gabriel", "jesus", "mary"]
+  },
+  {
+   "id": "christian-john-baptist-birth",
+   "title": {"en": "The Birth of John the Baptist", "zh": "施洗約翰的誕生"},
+   "tradition": "christian",
+   "category": "religious",
+   "region": {"en": "Temple and hill country of Judaea", "zh": "聖殿與猶太山地"},
+   "lat": 31.78,
+   "lon": 35.23,
+   "period": "Gospel of Luke, c. 80-110 CE (KJV, 1611)",
+   "source": {"archive": "Project Gutenberg", "work": "The Bible, King James Version, Book 42: Luke, chapter 1", "url": "https://www.gutenberg.org/ebooks/42"},
+   "license": "Public domain (KJV, 1611)",
+   "summary": {"en": "The priest Zacharias, burning incense in the temple, is told by Gabriel that his aged wife Elisabeth will bear a son filled with the Holy Ghost from the womb, who will go before the Lord 'in the spirit and power of Elias.' Doubting, Zacharias is struck dumb until the day of fulfillment; when the child is born and the relatives expect him to be called Zacharias, the father writes on a table: 'His name is John' — and his mouth is opened, and he prophecies.", "zh": "祭司撒迦利亞在殿中燒香時，加百列宣告其年老妻子伊利莎白將生一子，從母腹裏就被聖靈充滿，「要有以利亞的心志能力」行在主前面。他因不信而啞巴，直到事情成就之日。孩子生下，親族欲沿父名；父親寫字板答道：「他的名字是約翰」——口立時開了，即被聖靈充滿說預言。"},
+   "motifs": ["miraculous-birth"],
+   "sensitivity": {"restricted": false, "note": "Living tradition. The vowed miraculous birth echoes Sarah, Hannah, and Samson's mother."},
+   "passages": [
+    {"id": "1", "text": "There was in the days of Herod, the king of Judaea, a certain priest named Zacharias, of the course of Abia: and his wife was of the daughters of Aaron, and her name was Elisabeth. And they were both righteous before God, walking in all the commandments and ordinances of the Lord blameless. And they had no child, because that Elisabeth was barren, and they both were now well stricken in years."},
+    {"id": "2", "text": "And there appeared unto him an angel of the Lord standing on the right side of the altar of incense. But the angel said unto him, Fear not, Zacharias: for thy prayer is heard; and thy wife Elisabeth shall bear thee a son, and thou shalt call his name John. For he shall be great in the sight of the Lord, and shall drink neither wine nor strong drink; and he shall be filled with the Holy Ghost, even from his mother's womb. And he shall go before him in the spirit and power of Elias, to turn the hearts of the fathers to the children, and the disobedient to the wisdom of the just; to make ready a people prepared for the Lord."},
+    {"id": "3", "text": "And Zacharias said unto the angel, Whereby shall I know this? for I am an old man, and my wife well stricken in years. And the angel answering said unto him, I am Gabriel, that stand in the presence of God; and am sent to speak unto thee, and to shew thee these glad tidings. And, behold, thou shalt be dumb, and not able to speak, until the day that these things shall be performed, because thou believest not my words. And his mouth was opened immediately, and his tongue loosed, and he spake, and praised God."}
+   ],
+   "persons": ["gabriel", "johnbaptist"]
+  },
+  {
+   "id": "christian-joseph-dream-annunciation",
+   "title": {"en": "Joseph's Dream: Fear Not to Take Mary", "zh": "約瑟的夢：大膽娶過馬利亞來"},
+   "tradition": "christian",
+   "category": "religious",
+   "region": {"en": "Nazareth", "zh": "拿撒勒"},
+   "lat": 32.7,
+   "lon": 35.3,
+   "period": "Gospel of Matthew, c. 80-90 CE (KJV, 1611)",
+   "source": {"archive": "Project Gutenberg", "work": "The Bible, King James Version, Book 40: Matthew, chapter 1", "url": "https://www.gutenberg.org/ebooks/40"},
+   "license": "Public domain (KJV, 1611)",
+   "summary": {"en": "Mary is found with child 'of the Holy Ghost' before she and Joseph come together; the just carpenter, unwilling to make her a public example, resolves to put her away quietly — until the angel of the LORD appears in a dream: 'Joseph, thou son of David, fear not to take unto thee Mary thy wife: for that which is conceived in her is of the Holy Ghost... thou shalt call his name JESUS.' He wakes and takes her as his wife, fulfilling Isaiah's 'Behold, a virgin shall be with child... they shall call his name Emmanuel, which being interpreted is, God with us.'", "zh": "馬利亞未婚而「從聖靈懷了孕」；義人約瑟不願明明羞辱她，想暗中休了她——夢中主的使者顯現：「大衛的子孫約瑟，不要怕，只管娶過你的妻子馬利亞來，因她所懷的孕是從聖靈來的……你要給他起名叫耶穌。」約瑟醒了就遵命娶她，應驗先知所言：「必有童女懷孕生子，人要稱他的名為以馬內利」——神與我們同在。"},
+   "motifs": ["miraculous-birth", "oracle-divination"],
+   "sensitivity": {"restricted": false, "note": "Living tradition. Dream-guidance is a recurring mechanism of the infancy narratives."},
+   "passages": [
+    {"id": "1", "text": "Now the birth of Jesus Christ was on this wise: When as his mother Mary was espoused to Joseph, before they came together, she was found with child of the Holy Ghost. Then Joseph her husband, being a just man, and not willing to make her a publick example, was minded to put her away privily. But while he thought on these things, behold, the angel of the LORD appeared unto him in a dream, saying, Joseph, thou son of David, fear not to take unto thee Mary thy wife: for that which is conceived in her is of the Holy Ghost."},
+    {"id": "2", "text": "And she shall bring forth a son, and thou shalt call his name JESUS: for he shall save his people from their sins. Now all this was done, that it might be fulfilled which was spoken of the Lord by the prophet, saying, Behold, a virgin shall be with child, and shall bring forth a son, and they shall call his name Emmanuel, which being interpreted is, God with us. Then Joseph being raised from sleep did as the angel of the Lord had bidden him, and took unto him his wife."}
+   ],
+   "persons": ["jesus", "mary", "gabriel"]
+  },
+  {
+   "id": "christian-magi-star",
+   "title": {"en": "The Magi Follow the Star", "zh": "博士跟隨明星"},
+   "tradition": "christian",
+   "category": "religious",
+   "region": {"en": "Jerusalem to Bethlehem", "zh": "耶路撒冷至伯利恆"},
+   "lat": 31.7,
+   "lon": 35.2,
+   "period": "Gospel of Matthew, c. 80-90 CE (KJV, 1611)",
+   "source": {"archive": "Project Gutenberg", "work": "The Bible, King James Version, Book 40: Matthew, chapter 2", "url": "https://www.gutenberg.org/ebooks/40"},
+   "license": "Public domain (KJV, 1611)",
+   "summary": {"en": "Wise men from the east, having seen 'his star', come to Jerusalem asking 'Where is he that is born King of the Jews?' Herod, troubled with all Jerusalem, learns from the scribes that Bethlehem is the place, then sends the Magi as unwitting agents; the star goes before them and stands over the house, where they fall down and worship, offering gold, frankincense, and myrrh — gifts later read as king, God, and sacrificial death — and are warned in a dream to go home another way.", "zh": "東方博士見「他的星」而來，問道：「那生下來作猶太人之王的在哪裏？」希律不安，全城也不安；文士據先知書指明伯利恆。希律密召博士查明星出現之時，遣他們往尋。星竟在他們前頭行，直停到小孩子的地方；他們俯伏敬拜，獻上黃金、乳香、沒藥——歷代釋之為君王、真神與受死之預表——夢中被警，遂從別路回國。"},
+   "motifs": ["miraculous-birth", "constellation-origin"],
+   "sensitivity": {"restricted": false, "note": "Living tradition. The star-guided journey is tagged constellation-origin for comparison with star-omen narratives cross-culturally; noted as interpretive."},
+   "passages": [
+    {"id": "1", "text": "Now when Jesus was born in Bethlehem of Judaea in the days of Herod the king, behold, there came wise men from the east to Jerusalem, saying, Where is he that is born King of the Jews? for we have seen his star in the east, and are come to worship him. When Herod the king had heard these things, he was troubled, and all Jerusalem with him. And when he had gathered all the chief priests and scribes of the people together, he demanded of them where Christ should be born."},
+    {"id": "2", "text": "When they had heard the king, they departed; and, lo, the star, which they saw in the east, went before them, till it came and stood over where the young child was. When they saw the star, they rejoiced with exceeding great joy. And when they were come into the house, they saw the young child with Mary his mother, and fell down, and worshipped him: and when they had opened their treasures, they presented unto him gifts; gold, and frankincense and myrrh. And being warned of God in a dream that they should not return to Herod, they departed into their own country another way."}
+   ],
+   "persons": ["herod-antipas", "jesus", "mary"]
+  },
+  {
+   "id": "christian-flight-egypt-slaughter",
+   "title": {"en": "Flight into Egypt and the Slaughter of the Innocents", "zh": "逃往埃及與伯利恆屠嬰"},
+   "tradition": "christian",
+   "category": "religious",
+   "region": {"en": "Bethlehem to Egypt and back", "zh": "伯利恆至埃及再返"},
+   "lat": 31.7,
+   "lon": 35.2,
+   "period": "Gospel of Matthew, c. 80-90 CE (KJV, 1611)",
+   "source": {"archive": "Project Gutenberg", "work": "The Bible, King James Version, Book 40: Matthew, chapter 2", "url": "https://www.gutenberg.org/ebooks/40"},
+   "license": "Public domain (KJV, 1611)",
+   "summary": {"en": "Warned by an angel, Joseph takes mother and child by night to Egypt — 'Out of Egypt have I called my son' — while Herod, mocked by the Magi, kills every boy of two years and under in Bethlehem and its coasts, fulfilling Rachel's weeping in Ramah. At Herod's death a dream calls the family back; fearing Archelaus, they settle in Nazareth. The massacre made the Holy Family the archetype of the refugee, and the Holy Innocents the first martyrs of the calendar.", "zh": "天使警示，約瑟攜母嬰夜奔埃及——「我從埃及召出我的兒子來」；被博士愚弄的希律大怒，將伯利恆及四境兩歲以內的男孩全都殺盡，應驗拉結哭兒之預言。希律死後，夢中得召返國；因懼亞基老，便退居拿撒勒。聖家自此成為逃難者的原型，無辜嬰孩則成為曆法上最早的殉道者。"},
+   "motifs": ["taboo-transgression", "oracle-divination"],
+   "sensitivity": {"restricted": false, "note": "Living tradition. The massacre of children is presented as narrative; the Holy Innocents' day remains part of several calendars."},
+   "passages": [
+    {"id": "1", "text": "And when they were departed, behold, the angel of the Lord appeareth to Joseph in a dream, saying, Arise, and take the young child and his mother, and flee into Egypt, and be thou there until I bring thee word: for Herod will seek the young child to destroy him. When he arose, he took the young child and his mother by night, and departed into Egypt: and was there until the death of Herod: that it might be fulfilled which was spoken of the Lord by the prophet, saying, Out of Egypt have I called my son."},
+    {"id": "2", "text": "Then Herod, when he saw that he was mocked of the wise men, was exceeding wroth, and sent forth, and slew all the children that were in Bethlehem, and in all the coasts thereof, from two years old and under, according to the time which he had diligently enquired of the wise men. Then was fulfilled that which was spoken by Jeremy the prophet, saying, In Rama was there a voice heard, lamentation, and weeping, and great mourning, Rachel weeping for her children, and would not be comforted, because they are not."},
+    {"id": "3", "text": "But when Herod was dead, behold, an angel of the Lord appeareth in a dream to Joseph in Egypt, saying, Arise, and take the young child and his mother, and go into the land of Israel. But when he heard that Archelaus did reign in Judaea in the room of his father Herod, he was afraid to go thither: notwithstanding, being warned of God in a dream, he turned aside into the parts of Galilee: and he came and dwelt in a city called Nazareth: that it might be fulfilled which was spoken by the prophets, He shall be called a Nazarene."}
+   ],
+   "persons": ["herod-antipas", "josephc", "mary"]
+  },
+  {
+   "id": "christian-presentation-simeon",
+   "title": {"en": "Simeon and the Nunc Dimittis", "zh": "西面與西面頌"},
+   "tradition": "christian",
+   "category": "religious",
+   "region": {"en": "Temple, Jerusalem", "zh": "耶路撒冷聖殿"},
+   "lat": 31.78,
+   "lon": 35.23,
+   "period": "Gospel of Luke, c. 80-110 CE (KJV, 1611)",
+   "source": {"archive": "Project Gutenberg", "work": "The Bible, King James Version, Book 42: Luke, chapter 2", "url": "https://www.gutenberg.org/ebooks/42"},
+   "license": "Public domain (KJV, 1611)",
+   "summary": {"en": "Forty days after the birth, the family brings the child to the temple with a pair of turtledoves. Simeon, 'just and devout, waiting for the consolation of Israel', is promised by the Holy Ghost that he shall not see death before he sees the Lord's Christ; taking the child in his arms he blesses God: 'Lord, now lettest thou thy servant depart in peace, according to thy word: for mine eyes have seen thy salvation' — and to Mary the first sword-warning: 'a sword shall pierce through thy own soul also.'", "zh": "降生後四十日，聖家攜一對斑鳩上殿行潔淨禮。義人西面素常盼望以色列的安慰者，聖靈啟示他未死之前必看見主的基督；他抱嬰孩頌讚：「主啊，如今可以照你的話，釋放僕人安然去世，因為我的眼睛已經看見你的救恩。」並向馬利亞預言首柄劍：「你自己的心也要被刀刺透。」"},
+   "motifs": ["prophetic-vision", "ritual-origin"],
+   "sensitivity": {"restricted": false, "note": "Living tradition. The presentation rite underlies Candlemas."},
+   "passages": [
+    {"id": "1", "text": "And, behold, there was a man in Jerusalem, whose name was Simeon; and the same man was just and devout, waiting for the consolation of Israel: and the Holy Ghost was upon him. And it was revealed unto him by the Holy Ghost, that he should not see death, before he had seen the Lord's Christ. And he came by the Spirit into the temple: and when the parents brought in the child Jesus, to do for him after the custom of the law, then took he him up in his arms, and blessed God, and said, Lord, now lettest thou thy servant depart in peace, according to thy word: for mine eyes have seen thy salvation, which thou hast prepared before the face of all people; a light to lighten the Gentiles, and the glory of thy people Israel."},
+    {"id": "2", "text": "And Joseph and his mother marvelled at those things which were spoken of him. And Simeon blessed them, and said unto Mary his mother, Behold, this child is set for the fall and rising again of many in Israel; and for a sign which shall be spoken against; (yea, a sword shall pierce through thy own soul also,) that the thoughts of many hearts may be revealed."}
+   ],
+   "persons": ["jesus", "mary"]
+  },
+  {
+   "id": "christian-john-baptist-wilderness",
+   "title": {"en": "The Voice Crying in the Wilderness", "zh": "曠野呼喊的聲音"},
+   "tradition": "christian",
+   "category": "religious",
+   "region": {"en": "Wilderness of Judaea, banks of the Jordan", "zh": "猶太曠野，約旦河畔"},
+   "lat": 31.85,
+   "lon": 35.55,
+   "period": "Gospel of Matthew, c. 80-90 CE (KJV, 1611)",
+   "source": {"archive": "Project Gutenberg", "work": "The Bible, King James Version, Book 40: Matthew, chapter 3", "url": "https://www.gutenberg.org/ebooks/40"},
+   "license": "Public domain (KJV, 1611)",
+   "summary": {"en": "Clothed in camel's hair with a leathern girdle, eating locusts and wild honey, John the Baptist preaches in the wilderness of Judaea, 'Repent ye: for the kingdom of heaven is at hand', and all Judaea comes to be baptized in Jordan confessing their sins. To the Pharisees and Sadducees he is ungentle — 'O generation of vipers' — and to all he points past himself: 'I indeed baptize you with water unto repentance: but he that cometh after me is mightier than I, whose shoes I am not worthy to bear.'", "zh": "約翰身穿駱駝毛的衣服，腰束皮帶，吃蝗蟲野蜜，在猶太曠野傳道：「天國近了，你們應當悔改！」耶路撒冷和猶太全地的人都到約旦河受洗，承認罪。他對法利賽人與撒都該人疾言厲色——「毒蛇的種類」——並將人指向他之後的那位：「我用水給你們施洗，叫你們悔改；但那在我以後來的，能力比我更大，我就是給他提鞋也不配。」"},
+   "motifs": ["ritual-origin"],
+   "sensitivity": {"restricted": false, "note": "Living tradition. The baptism of repentance is the ritual-origin element; John's Elijah-like dress echoes 2 Kings 1:8."},
+   "passages": [
+    {"id": "1", "text": "In those days came John the Baptist, preaching in the wilderness of Judaea, and saying, Repent ye: for the kingdom of heaven is at hand. For this is he that was spoken of by the prophet Esaias, saying, The voice of one crying in the wilderness, Prepare ye the way of the Lord, make his paths straight. And the same John had his raiment of camel's hair, and a leathern girdle about his loins; and his meat was locusts and wild honey."},
+    {"id": "2", "text": "Then went out to him Jerusalem, and all Judaea, and all the region round about Jordan, and were baptized of him in Jordan, confessing their sins. But when he saw many of the Pharisees and Sadducees come to his baptism, he said unto them, O generation of vipers, who hath warned you to flee from the wrath to come? Bring forth therefore fruits meet for repentance."},
+    {"id": "3", "text": "I indeed baptize you with water unto repentance: but he that cometh after me is mightier than I, whose shoes I am not worthy to bear: he shall baptize you with the Holy Ghost, and with fire: whose fan is in his hand, and he will throughly purge his floor, and gather his wheat into the garner; but he will burn up the chaff with unquenchable fire."}
+   ],
+   "persons": ["johnbaptist"]
+  },
+  {
+   "id": "christian-baptism-jesus",
+   "title": {"en": "The Baptism of Jesus", "zh": "耶穌受洗"},
+   "tradition": "christian",
+   "category": "religious",
+   "region": {"en": "Jordan river, at Bethabara", "zh": "約旦河，伯大尼外"},
+   "lat": 31.85,
+   "lon": 35.55,
+   "period": "Gospels of Matthew and John, c. 80-100 CE (KJV, 1611)",
+   "source": {"archive": "Project Gutenberg", "work": "The Bible, King James Version, Book 40: Matthew, chapter 3; Book 43: John, chapter 1", "url": "https://www.gutenberg.org/ebooks/40"},
+   "license": "Public domain (KJV, 1611)",
+   "summary": {"en": "Jesus comes from Galilee to be baptized by John, who demurs — 'I have need to be baptized of thee' — and the voice of the Father and the descending Spirit like a dove mark the scene as the tradition's trinitarian theophany: 'This is my beloved Son, in whom I am well pleased.' John's witness frames it: 'Behold the Lamb of God, which taketh away the sin of the world.'", "zh": "耶穌從加利利來到約旦河受約翰的洗；約翰自認不配而辭——「我當受你的洗」——當下天開了，聖靈彷彿鴿子降下，父的聲音自天而來：「這是我的愛子，我所喜悅的。」約翰的見證為其框架：「看哪，神的羔羊，除去世人罪孽的。」傳統視此景為三一神顯。"},
+   "motifs": ["theophany"],
+   "sensitivity": {"restricted": false, "note": "Living tradition. Central rite of Christianity; presented as comparative theophany."},
+   "passages": [
+    {"id": "1", "text": "Then cometh Jesus from Galilee to Jordan unto John, to be baptized of him. But John forbad him, saying, I have need to be baptized of thee, and comest thou to me? And Jesus answering said unto him, Suffer it to be so now: for thus it becometh us to fulfil all righteousness. Then he suffered him. And Jesus, when he was baptized, went up straightway out of the water: and, lo, the heavens were opened unto him, and he saw the Spirit of God descending like a dove, and lighting upon him: and lo a voice from heaven, saying, This is my beloved Son, in whom I am well pleased."},
+    {"id": "2", "text": "The next day John seeth Jesus coming unto him, and saith, Behold the Lamb of God, which taketh away the sin of the world. And John bare record, saying, I saw the Spirit descending from heaven like a dove, and it abode upon him. And I knew him not: but he that sent me to baptize with water, the same said unto me, Upon whom thou shalt see the Spirit descending, and remaining on him, the same is he which baptizeth with the Holy Ghost. And I saw, and bare record that this is the Son of God."}
+   ],
+   "persons": ["jesus", "johnbaptist"]
+  },
+  {
+   "id": "christian-temptation-wilderness",
+   "title": {"en": "The Temptation in the Wilderness", "zh": "曠野受試探"},
+   "tradition": "christian",
+   "category": "religious",
+   "region": {"en": "Wilderness of Judaea; temple pinnacle (symbolic pin)", "zh": "猶太曠野；聖殿殿頂（象徵性定位）"},
+   "lat": 31.85,
+   "lon": 35.4,
+   "period": "Gospel of Matthew, c. 80-90 CE (KJV, 1611)",
+   "source": {"archive": "Project Gutenberg", "work": "The Bible, King James Version, Book 40: Matthew, chapter 4", "url": "https://www.gutenberg.org/ebooks/40"},
+   "license": "Public domain (KJV, 1611)",
+   "summary": {"en": "Led by the Spirit into the wilderness and fasting forty days and forty nights, Jesus is tempted three times by the devil: stones to bread ('Man shall not live by bread alone'), a leap from the temple's pinnacle ('Thou shalt not tempt the Lord thy God'), and the kingdoms of the world offered for one act of worship ('Get thee hence, Satan: for it is written, Thou shalt worship the Lord thy God, and him only shalt thou serve'). The devil leaves, angels minister — the archetype of the tested hero in the Christian imagination.", "zh": "耶穌被聖靈引到曠野，禁食四十晝夜；魔鬼三度試探——命石頭變餅（「人活著不是單靠食物」）、自殿頂跳下（「不可試探主你的神」）、以萬國榮華換一拜（「撒但退去吧！因為經上記著說：當拜主你的神，單要事奉他」）。魔鬼離去，天使來伺候——這是基督教想像中受試煉英雄的原型。"},
+   "motifs": ["taboo-transgression", "trickster"],
+   "sensitivity": {"restricted": false, "note": "Living tradition. The temptation scene is the tradition's master-text on evil's persuasive forms."},
+   "passages": [
+    {"id": "1", "text": "Then was Jesus led up of the spirit into the wilderness to be tempted of the devil. And when he had fasted forty days and forty nights, he was afterward an hungred. And when the tempter came to him, he said, If thou be the Son of God, command that these stones be made bread. But he answered and said, It is written, Man shall not live by bread alone, but by every word that proceedeth out of the mouth of God."},
+    {"id": "2", "text": "Then the devil taketh him up into the holy city, and setteth him on a pinnacle of the temple, and saith unto him, If thou be the Son of God, cast thyself down: for it is written, He shall give his angels charge concerning thee. Jesus said unto him, It is written again, Thou shalt not tempt the Lord thy God. Again, the devil taketh him up into an exceeding high mountain, and sheweth him all the kingdoms of the world, and the glory of them; and saith unto him, All these things will I give thee, if thou wilt fall down and worship me."},
+    {"id": "3", "text": "Then saith Jesus unto him, Get thee hence, Satan: for it is written, Thou shalt worship the Lord thy God, and him only shalt thou serve. Then the devil leaveth him, and, behold, angels came and ministered unto him."}
+   ],
+   "persons": ["jesus", "satan"]
+  },
+  {
+   "id": "christian-fishers-of-men",
+   "title": {"en": "Fishers of Men: The Calling of the First Disciples", "zh": "得人如得魚：首批門徒蒙召"},
+   "tradition": "christian",
+   "category": "religious",
+   "region": {"en": "Sea of Galilee, shore of Capernaum", "zh": "加利利海，迦百農岸邊"},
+   "lat": 32.88,
+   "lon": 35.56,
+   "period": "Gospel of Matthew, c. 80-90 CE (KJV, 1611)",
+   "source": {"archive": "Project Gutenberg", "work": "The Bible, King James Version, Book 40: Matthew, chapter 4", "url": "https://www.gutenberg.org/ebooks/40"},
+   "license": "Public domain (KJV, 1611)",
+   "summary": {"en": "Settling at Capernaum by the sea, in Zebulun and Naphtali, 'the people which sat in darkness saw great light', Jesus begins preaching 'Repent: for the kingdom of heaven is at hand' — and walking by the sea calls two pairs of fishermen brothers: 'Follow me, and I will make you fishers of men.' Simon Peter and Andrew, then James and John the sons of Zebedee, straightway leave nets, boats, and father, and follow him; his fame spreads through all Syria as he heals 'all manner of sickness and all manner of disease.'", "zh": "耶穌退到迦百農海邊，西布倫和拿弗他利之地，「坐在黑暗裏的百姓看見了大光」，開始傳道：「天國近了，你們應當悔改。」海邊行走，呼召兩對漁夫兄弟：「來跟從我，我要叫你們得人如得魚一樣。」彼得與安得烈、雅各與約翰立即撇下網、船、父親跟從他；他走遍加利利醫病趕鬼，名聲傳遍敘利亞。"},
+   "motifs": ["parable-teaching", "culture-hero"],
+   "sensitivity": {"restricted": false, "note": "Living tradition. The call scene founds the apostolic community."},
+   "passages": [
+    {"id": "1", "text": "And Jesus, walking by the sea of Galilee, saw two brethren, Simon called Peter, and Andrew his brother, casting a net into the sea: for they were fishers. And he saith unto them, Follow me, and I will make you fishers of men. And they straightway left their nets, and followed him."},
+    {"id": "2", "text": "And going on from thence, he saw other two brethren, James the son of Zebedee, and John his brother, in a ship with Zebedee their father, mending their nets; and he called them. And they immediately left the ship and their father, and followed him. And Jesus went about all Galilee, teaching in their synagogues, and preaching the gospel of the kingdom, and healing all manner of sickness and all manner of disease among the people."}
+   ],
+   "persons": ["jesus", "peter"]
+  },
+  {
+   "id": "christian-word-made-flesh",
+   "title": {"en": "The Word Was Made Flesh (John's Prologue)", "zh": "道成肉身（約翰福音序言）"},
+   "tradition": "christian",
+   "category": "religious",
+   "region": {"en": "Heavenly prologue (symbolic pin at Bethabara)", "zh": "屬天序言（象徵性定位於伯大尼外）"},
+   "lat": 31.85,
+   "lon": 35.55,
+   "period": "Gospel of John, c. 90-110 CE (KJV, 1611)",
+   "source": {"archive": "Project Gutenberg", "work": "The Bible, King James Version, Book 43: John, chapter 1", "url": "https://www.gutenberg.org/ebooks/43"},
+   "license": "Public domain (KJV, 1611)",
+   "summary": {"en": "John's gospel opens not with a manger but with Genesis: 'In the beginning was the Word, and the Word was with God, and the Word was God. All things were made by him... In him was life; and the life was the light of men.' The Word that made the world is unrecognized by it, 'and the Word was made flesh, and dwelt among us, (and we beheld his glory...) full of grace and truth' — the doctrine of the Incarnation in fourteen verses, and the great creation-text of Christian thought.", "zh": "約翰福音不以馬槽開篇而直引創世記：「太初有道，道與神同在，道就是神。萬物是藉著他造的……生命在他裏頭，這生命就是人的光。」造世界的道卻不被世界認識，「道成了肉身，住在我們中間……我們也見過他的榮光……充充滿滿的有恩典有真理」——十四節經文道盡「道成肉身」教義，為基督教思想的創世大綱。"},
+   "motifs": ["creation-chaos", "theophany"],
+   "sensitivity": {"restricted": false, "note": "Living tradition. The prologue is the tradition's high Christological creation-text; presented comparatively with other word-creation cosmogonies."},
+   "passages": [
+    {"id": "1", "text": "In the beginning was the Word, and the Word was with God, and the Word was God. The same was in the beginning with God. All things were made by him; and without him was not any thing made that was made. In him was life; and the life was the light of men. And the light shineth in darkness; and the darkness comprehended it not."},
+    {"id": "2", "text": "There was a man sent from God, whose name was John. The same came for a witness, to bear witness of the Light, that all men through him might believe. He was not that Light, but was sent to bear witness of that Light. That was the true Light, which lighteth every man that cometh into the world. He was in the world, and the world was made by him, and the world knew him not. He came unto his own, and his own received him not."},
+    {"id": "3", "text": "But as many as received him, to them gave he power to become the sons of God, even to them that believe on his name: which were born, not of blood, nor of the will of the flesh, nor of the will of man, but of God. And the Word was made flesh, and dwelt among us, (and we beheld his glory, the glory as of the only begotten of the Father,) full of grace and truth. For the law was given by Moses, but grace and truth came by Jesus Christ."}
+   ],
+   "persons": ["jesus", "johnbaptist"]
+  }
+ ]
+}

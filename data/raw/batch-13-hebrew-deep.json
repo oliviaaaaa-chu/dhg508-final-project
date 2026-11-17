@@ -1,0 +1,405 @@
+{
+  "texts": [
+    {
+      "id": "hebrew-genesis-creation",
+      "title": {
+        "en": "Bereshit: The Creation of the World and the Garden of Eden (Genesis 1-3)",
+        "zh": "創世記：世界之造與伊甸園"
+      },
+      "tradition": "hebrew",
+      "category": "religious",
+      "region": {
+        "en": "Jerusalem (symbolic pin for the Judean scribal tradition)",
+        "zh": "耶路撒冷（猶太書寫傳統象徵性定位）"
+      },
+      "lat": 31.78,
+      "lon": 35.22,
+      "period": "Composite text: Priestly account (6th-5th c. BCE), Eden narrative (perhaps 10th-9th c. BCE, 'J'); Hebrew Bible stabilized c. 3rd c. BCE-1st c. CE; principal MS: Leningrad Codex B19a, 1008 CE",
+      "source": {
+        "archive": "Sefaria (JPS 1917 translation) / Mechon-Mamre (Hebrew + JPS 1917)",
+        "work": "Genesis 1:1-3:24, Biblia Hebraica Stuttgartensia; English: Jewish Publication Society Tanakh 1917",
+        "url": "https://www.sefaria.org/Genesis.1.1"
+      },
+      "license": "Public domain (JPS 1917 translation; Hebrew text)",
+      "summary": {
+        "en": "Two intertwined accounts: the Priestly seven-day creation by divine speech culminating in the Sabbath, and the Eden narrative of the human of dust, the garden, the tree of knowledge, the serpent, and the expulsion that founds human mortality and toil.",
+        "zh": "兩敘事交織：祭司典七日以言造世、以安息日作結；伊甸園敘述摶土之人、知識樹、蛇與逐出——人類勞碌與有死之由來。"
+      },
+      "motifs": [
+        "creation-chaos",
+        "clay-humans",
+        "taboo-transgression",
+        "tree-of-life"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Canonical scripture of a living tradition. Treated with respect: divine names handled per Jewish convention (the Tetragrammaton is not pronounced; the English renders it 'the LORD'). No liturgical or restricted material is reproduced."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "In the beginning God created the heaven and the earth. Now the earth was unformed and void, and darkness was upon the face of the deep; and the spirit of God hovered over the face of the waters. And God said: 'Let there be light.' And there was light."
+        },
+        {
+          "id": "2",
+          "text": "And the LORD God said: 'Behold, the man is become as one of us, to know good and evil; and now, lest he put forth his hand, and take also of the tree of life, and eat, and live for ever.' Therefore the LORD God sent him forth from the garden of Eden, to till the ground from whence he was taken."
+        }
+      ],
+      "language": "Biblical Hebrew",
+      "canonical_translation": "Jewish Publication Society Tanakh (1917), public domain",
+      "narrative": {
+        "en": "The book of Genesis opens with two successively layered creation narratives that Jewish and Christian tradition have read as one continuous story.\n\nACCOUNT ONE: SEVEN DAYS (PRIESTLY SOURCE, GEN 1:1-2:4a). Before the world there are 'the deep' (tehom) and a waste-and-void earth (tohu va-bohu) swept by a divine wind/spirit — a primordial state of undifferentiated waters rather than a battle. God creates entirely by speech in seven liturgical days. Day one: light, separated from darkness and named Day and Night. Day two: a firmament (raqia) dividing waters above from waters below, named Heaven. Day three: waters gathered so dry land appears (named Earth and Seas), and the earth brings forth vegetation. Day four: the great lights — sun, moon, stars — to rule day and night and mark sacred times. Day five: swarms of living creatures in sea and air, blessed 'be fruitful and multiply'. Day six: land animals, and finally humanity — male and female together — made 'in the image and likeness of God' (selem u-demut) and given dominion over the creatures and seed-bearing plants for food. Day seven: God rests from all the work, blesses the seventh day and sanctifies it — the institution of the Sabbath and the theological signature of the Priestly telling. The account closes with the formula that these are 'the generations of the heavens and of the earth when they were created'.\n\nACCOUNT TWO: EDEN (GEN 2:4b-3:24). A second, older narrative begins with the day the LORD God (YHWH-Elohim) made earth and heaven: no plant yet grew, for there was no rain and no man to till the ground. God forms the human (ha-adam) from dust of the ground (adamah) — a deliberate wordplay — breathes into his nostrils the breath of life, and plants a garden in Eden watered by four rivers. The human is placed there 'to till it and to keep it', permitted every tree except the tree of the knowledge of good and evil, 'for in the day that thou eatest thereof thou shalt surely die'. God then observes 'it is not good that the man should be alone'; the animals are named (no helper found among them), and God casts a deep sleep, takes one side/rib, and builds the woman. The man's exclamation ('bone of my bones, flesh of my flesh') grounds the narrative's closing comment on marriage, and the pair stand 'naked and not ashamed'.\n\nTHE TRANSGRESSION. The serpent, 'more subtle than any beast of the field', asks the woman whether God forbade all the trees; she answers that even touching the forbidden tree means death. The serpent denies the death, promises godlike knowledge, and she eats, giving fruit to her husband. Their eyes open; they sew fig leaves. When they hear God walking in the garden's breeze they hide; questioned, the man blames the woman, the woman the serpent. The judgments are spoken in order: the serpent is cursed to crawl and eat dust, with an enmity announced between its seed and the woman's; the woman gets pain in childbirth and a husband who 'shall rule over thee'; the man gets the cursed ground, thorns, thistles, and bread by the sweat of his face. God clothes them in coats of skins — the first act of mercy — and expels them 'lest he put forth his hand, and take also of the tree of life, and live for ever'. East of Eden, cherubim and a flaming sword turn every way 'to keep the way of the tree of life'. The narrative flows into the birth of Cain and Abel (4:1-16), where the pattern of fraternal violence continues.\n\nFUNCTIONS. The Priestly day-structure sanctifies the Sabbath as creation's climax — the core of Jewish liturgical time; the Eden story aitiologizes human mortality, agricultural toil, the pain of childbirth, the snake's form, and shame; the whole sequence, read in the synagogue from the fall festival cycle onward, grounds Israel's theology of an ordered, spoken creation without combat myth (contrast Enuma Elish, where the sea-goddess is slain).",
+        "zh": "祭司典七日造世：以言創造，光、穹蒼、陸地草木、日月星辰、海空生物、陸獸與人（按神形像造，男與女），第七日安息祝聖。伊甸敘事：耶和華神摶土造人，吹生氣成活魂；置園使耕守，惟知識樹之果不可食。亞當無配，神取其肋骨造夏娃，二人赤身不羞。蛇誘之食，二人目明知羞；神問罪，蛇受咒伏行，女受產痛，男受地詛與汗面糊口；神以皮衣蔽之，恐其復摘生命樹，遂逐出伊甸，遣基路伯與火焰劍守樹。全文功能：安息日之立、人類有死勞碌之釋義、以及與巴比倫爭戰型創世神話對照之『以言造世』神學。"
+      },
+      "functions": [
+        "Institution of the Sabbath as liturgical re-enactment of creation's seventh day",
+        "Aitia for mortality, toil, childbirth pain, and the serpent's posture",
+        "Theological demythologization: creation by word, without combat with the sea",
+        "Torah-cycle reading in the synagogue (Bereshit section, annual lectionary)"
+      ],
+      "variants": [
+        {
+          "name": "Priestly vs. 'J' doublets",
+          "text_tradition": "Genesis 1:1-2:4a (P) and 2:4b-25 (J), composite document",
+          "summary": "The two accounts differ in divine name, method (speech vs. crafting and breathing), sequence (plants-animal-human vs. human-animals-woman), and setting (world-ocean vs. rainless steppe); source-critical scholarship (Wellhausen onward) reads them as independently composed traditions joined by redactors.",
+          "cross_ref": "hebrew-genesis-creation"
+        },
+        {
+          "name": "Babylonian Enuma Elish parallel",
+          "text_tradition": "Seven Tablets of Creation (c. 18th-12th c. BCE)",
+          "summary": "Marduk defeats the sea-dragon Tiamat and builds cosmos from her halves; humanity is made from a rebel god's blood to serve the gods. Genesis shares motifs (waters, firmament-divide, rest of the deity) but removes combat and divine servitude — the sea becomes tehom, 'the deep', an inanimate mass.",
+          "cross_ref": "enuma-tiamat"
+        },
+        {
+          "name": "Combat-myth remnants in poetry",
+          "text_tradition": "Psalm 74:12-17; Psalm 89:6-15; Job 26:12; Isaiah 27:1",
+          "summary": "Israelite poetry preserves older dismemberment imagery: God 'breaks the heads of the dragons (tanninim) on the waters' and 'smites Rahab'; later Hebrew literature retains the sea-battle as liturgical metaphor while the Genesis prose account excludes it.",
+          "cross_ref": "none"
+        },
+        {
+          "name": "Second Temple expansions",
+          "text_tradition": "1 Enoch 6-16 (Book of Watchers); Jubilees 2-3 (2nd c. BCE); b. Sanhedrin 38b (rabbinic)",
+          "summary": "Genesis 6:1-4's 'sons of God' are expanded into the Watchers' descent; Jubilees numbers the days and gives Eden a cultic geography; rabbinic midrash adds the two Adams, the angels' creation debate, and the serpent's role. The MT consonantal text is unchanged in all three.",
+          "cross_ref": "none"
+        }
+      ],
+      "primary_sources": [
+        {
+          "work": "Genesis 1:1-3:24 (Masoretic Text)",
+          "citation": "Biblia Hebraica Stuttgartensia (BHS), ed. K. Elliger and W. Rudolph, Stuttgart 1977; base manuscript: Leningrad Codex B19a (1008 CE). Sections: 1:1-2:4a (P), 2:4b-25 (Eden), 3:1-24 (transgression).",
+          "language": "Biblical Hebrew"
+        },
+        {
+          "work": "Genesis (English, JPS 1917)",
+          "citation": "The Holy Scriptures according to the Masoretic Text, Jewish Publication Society of America, Philadelphia 1917, chs. 1-3.",
+          "language": "English (public domain translation)"
+        }
+      ],
+      "secondary_sources": [
+        {
+          "work": "E. A. Speiser, Genesis (Anchor Bible 1)",
+          "citation": "Speiser 1964, New York: Doubleday — Mesopotamian parallels (Atrahasis, Enuma Elish) for the creation and Eden materials."
+        },
+        {
+          "work": "Nahum M. Sarna, The JPS Torah Commentary: Genesis",
+          "citation": "Sarna 1989, Philadelphia: Jewish Publication Society — verse-by-verse commentary on the two accounts and their ancient Near Eastern context."
+        },
+        {
+          "work": "Jon D. Levenson, Creation and the Persistence of Evil",
+          "citation": "Levenson 1988, San Francisco: Harper & Row — theological reading of creation vs. combat motifs in Genesis and Psalms."
+        }
+      ],
+      "source_urls": [
+        {
+          "url": "https://www.sefaria.org/Genesis.1.1",
+          "description": "Sefaria — Genesis 1 with Hebrew MT and JPS 1917 English, chapter/verse referenced",
+          "accessed": "2026-11-01"
+        },
+        {
+          "url": "https://mechon-mamre.org/p/pt/pt0101.htm",
+          "description": "Mechon-Mamre — parallel Hebrew text and JPS 1917 translation",
+          "accessed": "2026-11-01"
+        }
+      ],
+      "sensitivity_flag": "living_tradition_low",
+      "sensitivity_guidance": "Canonical scripture of a living faith: reproduce from established editions, cite by book/chapter/verse; do not pronounce or print the Tetragrammaton aloud (render 'the LORD'); avoid casual abbreviation or remixing of the text; rabbinic translations (e.g. Onkelos) are liturgically protected and are not reproduced here.",
+      "provenance": {
+        "record_status": "complete",
+        "compiled": "2026-11-01",
+        "compiled_by": "DHG508 fieldwork compilation",
+        "review_status": "draft - pending human review"
+      }
+    },
+    {
+      "id": "hebrew-noah-flood",
+      "title": {
+        "en": "The Flood of Noah and the First Covenant (Genesis 6-9)",
+        "zh": "挪亞洪水與首立之約（創世記六至九章）"
+      },
+      "tradition": "hebrew",
+      "category": "religious",
+      "region": {
+        "en": "Mount Ararat region (traditional landing; symbolic pin)",
+        "zh": "亞拉臘山地區（傳統停靠地；象徵性定位）"
+      },
+      "lat": 39.7,
+      "lon": 44.3,
+      "period": "Composite: 'J' flood source and Priestly source joined in exilic/post-exilic redaction; text stabilized c. 5th c. BCE; principal MS: Leningrad Codex B19a, 1008 CE",
+      "source": {
+        "archive": "Sefaria (JPS 1917 translation)",
+        "work": "Genesis 6:5-9:29, Biblia Hebraica Stuttgartensia; English: JPS Tanakh 1917",
+        "url": "https://www.sefaria.org/Genesis.6.5"
+      },
+      "license": "Public domain",
+      "summary": {
+        "en": "Human corruption moves God to un-create the world by water; Noah builds the ark, the flood drowns all flesh, and upon the dry land's return God binds an unconditional covenant sealed by the rainbow, founding the renewed human order under the Noachide rules.",
+        "zh": "人類敗壞，神以洪水滅世；挪亞造方舟攜生靈得存；地乾之後，神以虹為記立約，並以挪亞七誡重啟人間秩序。"
+      },
+      "motifs": [
+        "flood",
+        "world-renewal",
+        "covenant",
+        "flood-punishment"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Canonical scripture of a living tradition; quoted from public-domain JPS 1917 with standard conventions (Tetragrammaton rendered 'the LORD')."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "I do set My bow in the cloud, and it shall be for a token of a covenant between Me and the earth. And it shall come to pass, when I bring clouds over the earth, and the bow is seen in the cloud, that I will remember My covenant, which is between Me and you and every living creature of all flesh; and the waters shall no more become a flood to destroy all flesh."
+        },
+        {
+          "id": "2",
+          "text": "Condensed paraphrase of Genesis 7-8: Noah enters the ark with his household and the animals; rain falls forty days and forty nights while the deeps of the great abyss are broken open; the waters prevail fifteen cubits above the mountains, then subside in dated stages until the twenty-seventh day of the second month, when the earth is dry and Noah leads the creatures out. Not verbatim.",
+          "note": "Condensed paraphrase of Genesis 7-8; not verbatim."
+        }
+      ],
+      "language": "Biblical Hebrew",
+      "canonical_translation": "Jewish Publication Society Tanakh (1917), public domain",
+      "narrative": {
+        "en": "BEGINNING: THE DECREE. The sons of God have taken the daughters of men; giants (Nephilim) are in the land; and 'God saw that the wickedness of man was great, and that every imagination of the thoughts of his heart was only evil continually', so that God 'repents' having made humanity and resolves to destroy 'man, beast, creeping thing, and fowl'. One exception: 'Noah found grace in the eyes of the LORD', a righteous man, 'perfect in his generations', who 'walked with God'. God announces the decree — 'The end of all flesh is come before Me... behold, I will destroy them with the earth' — and commands Noah to build a tebah (ark) of gopher wood, pitched (kaphar) within and without, three hundred cubits long, with rooms, a window, and a door in its side; into it all flesh shall come 'to keep them alive' — the Priestly text specifies one pair of every kind, the older source seven pairs of clean animals and one pair of unclean, a distinction needed for Noah's later sacrifice.\n\nMIDDLE: THE DELUGE. 'In the six hundredth year of Noah's life, in the second month, the seventeenth day of the month' the fountains of the great deep are broken and the windows of heaven opened; rain falls forty days and nights (the older narrative), while the Priestly text tracks the waters rising fifteen cubits over the mountains and prevailing one hundred and fifty days. 'All in whose nostrils was the breath of life... died'; only Noah and those with him remain. The waters subside by dated stages (the ark grounding on Ararat in the seventh month; mountain tops seen in the tenth; the earth dry in the six hundred and first year, twenty-seventh day of the second month). Noah tests the waters first with a raven, then three times with a dove — returning with nothing, then with a freshly plucked olive leaf, then not at all. The double bird test (raven/dove) belongs to the older narrative, the precise calendar to the Priestly; the redactor interlaces both.\n\nEND: COVENANT AND RENEWAL. Noah builds an altar and offers burnt offerings of every clean beast and fowl; the LORD smells 'a sweet savour' and vows in his heart: 'I will not again curse the ground any more for man's sake... neither will I again smite any more every thing living, as I have done. While the earth remaineth, seedtime and harvest, and cold and heat, and summer and winter, and day and night shall not cease' (8:21-22). God now blesses Noah and his sons: 'Be fruitful, and multiply, and replenish the earth'; animals fear humanity; meat is permitted but blood forbidden — 'whoso sheddeth man's blood, by man shall his blood be shed, for in the image of God made he man' (9:6). God establishes His covenant (berit) — unconditional, 'with you, and with your seed after you, and with every living creature' — signed by the bow (qeshet) in the cloud: the warrior's weapon hung up, never again to destroy all flesh by flood.\n\nCLOSING EPISODE. Noah plants a vineyard, drinks, lies uncovered in his tent; Ham 'sees his father's nakedness' and reports it; Shem and Japhet cover him walking backward. Waking, Noah curses Canaan, Ham's son, to servitude to Shem and Japhet — the narrative aition grounding the Israelite view of Canaanite peoples and, in the redacted genealogy of ch. 10-11, the table of nations from which Abram will be called.\n\nFUNCTIONS. In Jewish liturgical life the flood section is read annually in the Torah cycle; the Noachide rules (blood prohibition, and in rabbinic expansion seven commands for the children of Noah) become the covenantal frame for humanity at large; the rainbow covenant is the archetype of biblical covenant theology; and the narrative's precise dates regulate a Priestly theology of sacred time. Theologically it re-sets creation — a de-creation and re-creation — with covenant, not combat, subduing the waters.",
+        "zh": "世人敗壞，神命挪亞造歌斐木方舟，內外施松香；潔畜七對、不潔一對俱入舟。二月十七日，深淵泉源裂，天窗洞開，大雨四十晝夜，水漲過山十五肘；凡有生氣者皆滅。水勢漸消：七月十七日舟擱亞拉臘山，十月見山頂，挪亞先放烏鴉，再三放鴿，第三次銜回新橄欖葉，遂知地乾。出舟後築壇獻潔牲為燔祭，耶和華聞馨香，誓言不再因人咒詛地，四時寒暑晝夜永不停息。遂賜福挪亞眾子，准食肉而禁血，凡流人血者必被人流；又立永約，以虹為記，不再以洪水滅凡有血肉者。末尾葡萄園一章釋迦南族受咒之由。功能：會堂年讀經課、挪亞七誡之普世約框架、彩虹約為聖約神學原型。"
+      },
+      "functions": [
+        "Annual synagogue Torah-cycle reading (Noah section of Bereshit)",
+        "Archetype of covenant theology; rainbow as divine self-binding",
+        "Noachide rules as the covenantal frame for humanity as a whole",
+        "Priestly sacred calendar: dated stages regulating the flood narrative"
+      ],
+      "variants": [
+        {
+          "name": "Source-critical doublets ('J' vs. Priestly)",
+          "text_tradition": "Genesis 6:5-8, 7:1-5, 7:12, 16, 17b, 22-23; 8:2b, 3b, 6-12, 13, 20-22 (J) vs. Genesis 6:9-22; 7:6, 11, 13-16a, 18-21, 24; 8:1-5, 13a, 14-19; 9:1-17 (P)",
+          "summary": "Two flood narratives differ in animal counts (7 pairs vs. 1 pair), duration (40 days vs. 150+ days), divine name, and motive (sweet savour vs. covenant); the redactor interleaved them verse by verse, a key case of classical source criticism.",
+          "cross_ref": "hebrew-noah-flood"
+        },
+        {
+          "name": "Old Babylonian Atrahasis",
+          "text_tradition": "Old Babylonian tablets (c. 17th c. BCE), scribe Ipiq-Aya",
+          "summary": "The flood is sent to stop human overpopulation/noise, not corruption; the survivor Atrahasis is granted immortality; population-control measures end the story. Shares the ark-announcement formula ('wall, listen'), the sealed boat, and the bird tests.",
+          "cross_ref": "babylonian-atrahasis-flood"
+        },
+        {
+          "name": "Standard Babylonian Gilgamesh, Tablet XI",
+          "text_tradition": "Nineveh recension (Kuyunjik tablets, e.g. K 3375)",
+          "summary": "Utnapishtim retells the flood to Gilgamesh as a embedded narrative: secret warning through a reed wall, cube-ark, seven days of storm, gods 'gathered like flies', Enlil's rage and blessing. Near-verbatim parallel to Genesis' boat instructions; the raven episode is identical.",
+          "cross_ref": "babylonian-gilgamesh-epic"
+        },
+        {
+          "name": "Sumerian Ziusudra flood",
+          "text_tradition": "Fragment Nippur tablet Ni 9625 (Old Babylonian copy of Sumerian poem)",
+          "summary": "The earliest attested Mesopotamian flood: Ziusudra, a pious king, is warned in a dream, rides out the deluge, and is granted eternal life in Dilmun; heavily fragmentary and reconstructed by scholarly restoration.",
+          "cross_ref": "babylonian-atrahasis-flood"
+        },
+        {
+          "name": "Quranic Nuh narrative",
+          "text_tradition": "Quran 11:25-49; 71:1-28 (7th c. CE)",
+          "summary": "Noah (Nuh) preaches to his people for 950 years; one son refuses the ark and drowns; the arc of prophetic warning replaces covenant legislation. Cross-tradition comparandum for the Islamic corpus.",
+          "cross_ref": "none"
+        }
+      ],
+      "primary_sources": [
+        {
+          "work": "Genesis 6:5-9:29 (Masoretic Text)",
+          "citation": "BHS; Leningrad Codex B19a base. Key sections: 6:5-22 (decree and ark), 7:1-24 (entry and rising), 8:1-19 (subsidence and exit), 8:20-9:17 (sacrifice and covenant), 9:18-29 (vineyard).",
+          "language": "Biblical Hebrew"
+        },
+        {
+          "work": "Genesis (English, JPS 1917)",
+          "citation": "JPS Holy Scriptures 1917, chs. 6-9.",
+          "language": "English (public domain translation)"
+        }
+      ],
+      "secondary_sources": [
+        {
+          "work": "Gordon J. Wenham, Genesis 1-15 (Word Biblical Commentary 1)",
+          "citation": "Wenham 1987, Waco: Word Books — source-critical interlacing and ancient Near Eastern flood parallels."
+        },
+        {
+          "work": "Nahum M. Sarna, The JPS Torah Commentary: Genesis",
+          "citation": "Sarna 1989, Philadelphia: JPS — commentary on chs. 6-9 with Utnapishtim/Atrahasis comparison."
+        },
+        {
+          "work": "Jack M. Sasson and colleagues, 'The Flood Story in the Ancient Near East'",
+          "citation": "Representative scholarship: W. G. Lambert and A. R. Millard, Atra-Hasis: The Babylonian Story of the Flood, Oxford 1969, pp. 17-33, for the comparative framework used here.",
+          "note": "Listed as secondary because its primary text is cited under the Babylonian record."
+        }
+      ],
+      "source_urls": [
+        {
+          "url": "https://www.sefaria.org/Genesis.6.5",
+          "description": "Sefaria — Genesis 6 with Hebrew and JPS 1917 English",
+          "accessed": "2026-11-01"
+        },
+        {
+          "url": "https://www.eblaforum.org",
+          "description": "Scholarly forum/archives for ancient Near Eastern flood studies (general reference; primary texts cited on the Babylonian records)",
+          "accessed": "2026-11-01"
+        }
+      ],
+      "sensitivity_flag": "living_tradition_low",
+      "sensitivity_guidance": "Same protocol as other Hebrew scripture records: cite by chapter and verse from established editions; render the Tetragrammaton 'the LORD'; do not republish rabbinic lectionary arrangements (e.g. haftarah pairings) as if they were the text itself.",
+      "provenance": {
+        "record_status": "complete",
+        "compiled": "2026-11-01",
+        "compiled_by": "DHG508 fieldwork compilation",
+        "review_status": "draft - pending human review"
+      }
+    },
+    {
+      "id": "hebrew-exodus",
+      "title": {
+        "en": "Yetziat Mitzrayim: Oppression, Signs, Plagues, and the Sea (Exodus 1-15)",
+        "zh": "出埃及記：壓迫、神蹟、十災與過海（出埃及記一至十五章）"
+      },
+      "tradition": "hebrew",
+      "category": "religious",
+      "region": {
+        "en": "Jebel Musa, Sinai (traditional pin for Horeb/Sinai; symbolic)",
+        "zh": "西奈山傳統地點（象徵性定位）"
+      },
+      "lat": 28.55,
+      "lon": 33.97,
+      "period": "Composite narrative (oldest strata 10th-8th c. BCE; Priestly redaction exilic; final form 5th c. BCE); principal MS: Leningrad Codex B19a, 1008 CE",
+      "source": {
+        "archive": "Sefaria (JPS 1917 translation)",
+        "work": "Exodus 1:1-15:21, Biblia Hebraica Stuttgartensia; English: JPS Tanakh 1917",
+        "url": "https://www.sefaria.org/Exodus.3.14"
+      },
+      "license": "Public domain",
+      "summary": {
+        "en": "Israel's children are enslaved; Moses is drawn from the Nile, called at the burning bush, and sent back to confront Pharaoh; ten plagues break Pharaoh's resistance, the Passover is instituted, and the sea splits so Israel crosses dry-shod — the founding liberation narrative of Judaism, commemorated every Pesach.",
+        "zh": "以色列人為奴；摩西自尼羅河被撈起，於焚而不毀之荊棘蒙召；十災迫法老釋放；逾越節設立，海水分開，以色列人行乾地而過——猶太教之根本解放敘事，年年於逾越節重述。"
+      },
+      "motifs": [
+        "theophany",
+        "prophetic-vision",
+        "culture-hero",
+        "plague-sent"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Canonical scripture of a living tradition, retold ritually at the Passover Seder (Haggadah). The Haggadah's rabbinic liturgy is protected material — only the biblical text from public-domain JPS 1917 is quoted."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "And God said unto Moses: 'I AM THAT I AM'; and He said: 'Thus shalt thou say unto the children of Israel: I AM hath sent me unto you.' Condensed paraphrase of Exodus 14:21-25: Moses stretches his hand over the sea; the LORD drives the water back by a strong east wind all night, and the children of Israel go through on dry ground, the waters a wall on right and left. Pharaoh's chariots pursue; at the morning watch the LORD looks through the pillar of fire and cloud, clogs the wheels, and the sea returns upon the army. Not verbatim.",
+          "note": "Condensed paraphrase of Exodus 14; not verbatim."
+        }
+      ],
+      "language": "Biblical Hebrew",
+      "canonical_translation": "Jewish Publication Society Tanakh (1917), public domain",
+      "narrative": {
+        "en": "BEGINNING: OPPRESSION AND THE DRAWN CHILD. The sons of Israel multiply in Egypt until 'a new king' who 'knew not Joseph' enslaves them with rigor. Pharaoh orders the Hebrew midwives Shiphrah and Puah to kill every boy; they fear God and defy him, and God 'made them houses'. Pharaoh commands all Egyptians to cast every son into the Nile. A Levite woman hides her son three months, sets him in an ark (tebah — the same word as Noah's) of bulrushes among the reeds; Pharaoh's daughter draws him out and names him Moshe, 'because I drew him out of the water' (Hebrew mashah). Raised at court, Moses kills an Egyptian overseer striking a Hebrew brother, flees to Midian, marries Zipporah daughter of Jethro, and shepherds.\n\nTHE CALL. At Horeb, 'the mountain of God', the angel of the LORD appears 'in a flame of fire out of the midst of a bush', which burns without being consumed. God announces: 'I have surely seen the affliction of my people... and am come down to deliver them', sending Moses to Pharaoh and naming the goal — 'bring forth my people... out of that place unto a good and large land'. Asked His name, God answers 'Ehyeh asher Ehyeh' — 'I AM THAT I AM' — 'Thus shalt thou say unto the children of Israel: I AM hath sent me unto you', and gives the Tetragrammaton as the name of remembrance. Lacking eloquence, Moses is given his brother Aaron as mouth, and a tripartite mission: gather the elders, perform signs (rod to serpent, leprous hand, water to blood), and demand, 'Let us go, we pray thee, three days' journey into the wilderness, that we may sacrifice to the LORD our God'.\n\nTHE HARDENING AND THE PLAGUES. Pharaoh answers by increasing the brick-quota. The redactional refrain follows — sometimes 'Pharaoh hardened his heart', sometimes 'the LORD hardened Pharaoh's heart' — through escalating signs and plagues in which each Egyptian god-figure is defeated: blood (all water), frogs, lice/gnats (also called kinnim), swarms of flies, pestilence on cattle, boils and blains, hail with fire running on the ground, locusts, darkness 'which may be felt'; the fourth plague on begins to separate Goshen (Israel spared). Moses is God's 'god to Pharaoh' and Aaron his prophet; the rod, the outstretched hand, and the fixed set-times structure each plague.\n\nPASSOVER AND THE TENTH PLAGUE. The month is inaugurated ('this month shall be unto you the beginning of months'); each household takes a lamb without blemish, kills it at twilight on the fourteenth day, marks doorposts with blood, eats it roasted with unleavened bread (matzot) and bitter herbs 'with loins girded, shoes on feet, staff in hand' — 'it is the LORD's passover (pesach)'. At midnight the LORD smites all the firstborn of Egypt 'from the firstborn of Pharaoh... unto the firstborn of the captive... and all the firstborn of cattle', while the destroyer passes over the blood-marked houses. Pharaoh sends them out; the Israelites 'borrow' Egyptian jewels at the peoples' favor, and unleavened cakes are baked 'because they were thrust out of Egypt, and could not tarry'. The festival statute is given: seven days of matzot, 'in the first month, at even, ye shall eat unleavened bread, until the one and twentieth day of the month at even', and 'thou shalt tell thy son in that day, saying: It is because of that which the LORD did for me when I came forth out of Egypt'.\n\nTHE SEA. God leads them not by the Philistine road but 'by the way of the wilderness', in a pillar of cloud by day and fire by night. Encamped by the sea at Pi-hahiroth, they are trapped as Pharaoh repents and pursues with six hundred chariots; the people cry out, Moses answers, 'Fear ye not, stand still, and see the salvation of the LORD'. The angel and cloud move behind them; Moses stretches his hand over the sea, and 'the LORD caused the sea to go back by a strong east wind all that night' (the Priestly note); Israel crosses on dry ground, walls of water right and left. At the morning watch the LORD 'looked through the pillar of fire and of the cloud' upon the Egyptian host, took off their chariot wheels, and the returning waters covered 'the chariots, and the horsemen, and all the host of Pharaoh'.\n\nTHE SONG. Israel's answer is the Song of the Sea (Exod 15:1-18), among the oldest Hebrew poems: 'I will sing unto the LORD, for He is highly exalted; the horse and his rider hath He thrown into the sea. My strength and song is the LORD... The LORD is my strength and might; He is become my salvation; this is my God, and I will glorify Him... Thy right hand, O LORD, dasheth in pieces the enemy... Thou in Thy love hast led the people whom Thou hast redeemed; Thou hast guided them in Thy strength unto Thy holy habitation... The LORD shall reign for ever and ever.' Miriam the prophetess, Aaron's sister, takes a timbrel, and all the women answer her in dance and refrain. The column then moves into the wilderness — bitter waters sweetened at Marah, quails and manna given (ch. 16), water from the rock at Rephidim — en route to the mountain where the covenant will be made.\n\nFUNCTIONS. This is Israel's foundational redemption narrative: the mandated household retelling ('thou shalt tell thy son') structures the Passover Seder and the Haggadah; the manna legislation grounds the Sabbath (double portion on the sixth day); the Song of the Sea entered early liturgy; and the exodus became the central hermeneutic of liberation — invoked in seder liturgy 'in every generation one must see himself as if he came out of Egypt', in rabbinic tradition, and in later emancipation movements worldwide.",
+        "zh": "新王不識約瑟，苦役以色列人，又命溺殺男嬰；利未婦人匿子三月，置蒲草箱於河畔，法老之女撈起，名之摩西。摩西殺埃及人後逃米甸牧羊；至何烈山，耶和華使者於火焰荊棘中顯現，宣示眷顧降救；摩西問名，得『我就是我』之答。返埃及後，亞倫為口，屢以杖行神蹟；法老心硬，遂有血、蛙、蝨、蠅、疫、瘡、雹、蝗、暗諸災，末災之前設逾越節禮：取無殘疾羔羊，血塗門楣，腰束手杖急食無酵餅苦菜。正月十四日夜，埃及一切長子盡亡，法老逐以色列人出；行至海邊，追兵六百戰車至；摩西伸杖，東風使海退，以色列人行乾地，埃及軍覆沒。遂有海之歌：『我要向耶和華歌唱，因祂大大戰勝，將馬和騎馬的投在海中。』米利暗擊鼓應和。其後瑪拉苦水變甜、鵪鶉嗎哪降下，往西奈山而去。功能：逾越節家述『當日要告訴你的兒子』、嗎哪立法立安息日、海之歌入禮儀，並為後世解放釋義之根本範型。"
+      },
+      "functions": [
+        "Mandated intergenerational retelling: charter of the Passover Seder and Haggadah",
+        "Sabbath grounding via manna legislation (Exod 16)",
+        "Song of the Sea as early liturgical poem; Miriam's dance as women's ritual leadership",
+        "Master-hermeneutic of liberation in Jewish (and later universal) emancipation discourse"
+      ],
+      "variants": [
+        {
+          "name": "Samaritan Pentateuch readings",
+          "text_tradition": "Samarran Torah (Ms. Abisha tradition; standard edition A. von Gall)",
+          "summary": "The Samaritan text harmonizes the hardening refrains toward divine causation and adjusts the tenth plague and the P festival calendrics; significant for tracking the literary development of the plagues narrative.",
+          "cross_ref": "hebrew-exodus"
+        },
+        {
+          "name": "Septuagint (Greek) version",
+          "text_tradition": "LXX Exodus, 3rd-2nd c. BCE",
+          "summary": "Renders tebah as kibotos and pesach as pascha; famously reads the 430 years of sojourning as 'in Egypt and in Canaan' (Exod 12:40 LXX) against the MT, and supplies the 'hand of the Lord' formula where the MT varies — the version through which early Christian seder-influence flows.",
+          "cross_ref": "none"
+        },
+        {
+          "name": "Song of the Sea as independent poetic tradition",
+          "text_tradition": "Exod 15:1-18 (and Miriam's refrain 15:21); parallels in Judges 5",
+          "summary": "Meter and archaic language argue for an older victory hymn incorporated into the prose narrative; Miriam's one-line antiphon (15:21) implies a separate performance tradition in which women led the refrain.",
+          "cross_ref": "none"
+        },
+        {
+          "name": "Deuteronomic credo recensions",
+          "text_tradition": "Deuteronomy 26:5-9; 6:20-24 (and Joshua 24 retelling)",
+          "summary": "Compressed liturgical cretelling ('My father was a wandering Aramean...') for first-fruits recitation — evidence that the exodus narrative functioned as a fixed ritual script already in the First Temple period.",
+          "cross_ref": "none"
+        },
+        {
+          "name": "Quranic Musa narratives",
+          "text_tradition": "Quran 20:9-79; 26:10-68; 28:3-42",
+          "summary": "Pharaoh is named Fir'aun; the sorcerers submit at the staff miracle; Pharaoh's drowning ends with God preserving his body 'as a sign'. Key comparandum for the Islamic corpus (separate record planned).",
+          "cross_ref": "none"
+        }
+      ],
+      "primary_sources": [
+        {
+          "work": "Exodus 1:1-15:21 (Masoretic Text)",
+          "citation": "BHS; Leningrad Codex B19a. Sections: 1-2 (oppression and birth), 3-4 (bush and signs), 5-11 (signs and plagues), 12-13 (pesach and exodus), 14 (sea), 15:1-21 (Song of the Sea).",
+          "language": "Biblical Hebrew"
+        },
+        {
+          "work": "Exodus (English, JPS 1917)",
+          "citation": "JPS Holy Scriptures 1917, chs. 1-15.",
+          "language": "English (public domain translation)"
+        }
+      ],
+      "secondary_sources": [
+        {
+          "work": "William H. C. Propp, Exodus 1-18 (Anchor Bible 2)",
+          "citation": "Propp 1999, New York: Doubleday — philological commentary and source division (cited here for the hardening refrains and the sea narrative)."
+        },
+        {
+          "work": "Brevard S. Childs, The Book of Exodus: A Critical, Theological Commentary",
+          "citation": "Childs 1974, Louisville: Westminster Press — history of exegesis and liturgical function of chs. 1-15."
+        },
+        {
+          "work": "Nahum M. Sarna, Exploring Exodus",
+          "citation": "Sarna 1986, New York: Schocken — ancient Near Eastern context for the plagues, pesach, and sea-crossing."
+        }
+      ],
+      "source_urls": [
+        {
+          "url": "https://www.sefaria.org/Exodus.3.14",
+          "description": "Sefaria — Exodus with Hebrew MT and JPS 1917 English, chapter/verse referenced",
+          "accessed": "2026-11-01"
+        },
+        {
+          "url": "https://mechon-mamre.org/p/pt/pt0201.htm",
+          "description": "Mechon-Mamre — parallel Hebrew text and JPS 1917 translation of Exodus",
+          "accessed": "2026-11-01"
+        }
+      ],
+      "sensitivity_flag": "living_tradition_low",
+      "sensitivity_guidance": "Canonical scripture read ritually at the Passover Seder; quote from established editions by chapter/verse; the Haggadah's liturgical retelling is protected rabbinic material — summarize, do not reproduce; render the Tetragrammaton 'the LORD'.",
+      "provenance": {
+        "record_status": "complete",
+        "compiled": "2026-11-01",
+        "compiled_by": "DHG508 fieldwork compilation",
+        "review_status": "draft - pending human review"
+      }
+    }
+  ]
+}

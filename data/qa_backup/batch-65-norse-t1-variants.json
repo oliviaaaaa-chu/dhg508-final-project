@@ -1,0 +1,595 @@
+{
+ "_comment": "Norse expansion batch 65 - Topic 1 variant-collection nodes: Ask & Embla variants, Aurgelmir lineages, Ginnungagap comparanda, Svartalfaheimr, the first feast, fire-and-ice. All passages are paraphrase and carry a note.",
+ "texts": [
+  {
+   "id": "norse-ask-embla-variants",
+   "title": {
+    "en": "Ask and Embla: The Variant Traditions of the First Humans",
+    "zh": "阿斯克與恩布拉：最初人類的異文傳統"
+   },
+   "tradition": "norse",
+   "category": "myth-religion",
+   "region": {
+    "en": "The sea-shore of Midgard (symbolic pin at Pingvellir, Iceland)",
+    "zh": "米德加爾特海岸（象徵性定位於冰島辛格韋德利）"
+   },
+   "lat": 64.26,
+   "lon": -21.13,
+   "period": "Voluspa c. 900-1000 CE; Gylfaginning c. 1220-1230; Lokasenna and skaldic parallels",
+   "source": {
+    "archive": "sacred-texts.com (Bellows 1923) / Project Gutenberg (Brodeur 1916)",
+    "work": "Voluspa st. 17-18; Snorri, Gylfaginning ch. 9; Lokasenna st. 25-26; critical ed. Dronke (1997)",
+    "url": "https://www.sacred-texts.com/neu/poe/"
+   },
+   "license": "Public domain (Bellows 1923; Brodeur 1916); passages below are labeled paraphrases",
+   "summary": {
+    "en": "The first-humans motif collected across its witnesses: Voluspa's shore-walk (three gods, two trees, three gifts: breath, mind, colour), Snorri's systematization (Odin, Vili, Ve; life, wit, and speech-senses), Lokasenna's stray notices (the gods' shore-walk as a stock tale quoted in the flyting), and the name-lore (askr, ash; embla, elm or vine, on the disputed reading). The record is the motif's variant-file: what changes between tellings is the giver-list and the gift-list; what holds is the material (trees), the shore-setting and the threefold gift.",
+    "zh": "最初人類母題的異文集：女先知的海灘巡行（三神、二木、三賜：氣息、心智、血色）、斯諾里的體系化（奧丁、維利、偉：生命、心智與言語感官）、《洛基的吵罵》中的零散引述（飛行中引用的「諸神海灘造人」套語），以及名物學（askr 梣木；embla 榆木或藤，讀法有爭議）。此記錄是該母題的異文檔案：各文本之間變動的是賜予者名單與恩賜清單，不變的是材質（樹木）、海岸場景與三分之賜。"
+   },
+   "language": "Old Norse / Old Icelandic",
+   "canonical_translation": "Henry A. Bellows, The Poetic Edda, New York 1923 (public domain); Gylfaginning via Brodeur 1916",
+   "narrative": {
+    "en": "This collection-node holds the first-humans motif's witnesses side by side. Voluspa's version (the record norse-ask-embla holds the full doctrine): three gods walk the shore, find two trees 'without fate', and give the three gifts - Odin's breath (ond), Hoenir's mind (odr), Lodurr's warmth and colour (la and litr godr). Snorri's Gylfaginning renames the givers as Odin, Vili and Ve and re-divides the gifts (life and spirit; wit and feeling; countenance, speech, hearing, sight, and clothing) - the doctrine stable, the inventory fluid. Lokasenna's stray verse is the motif's oldest quotation-outside-the-poem: Loki taunting Njord with the shore-walk formula ('the? - 'gods? - 'who? - 'made? - man? - from? - the? - trees? - 'the? - flyting's stock-phrase) evidences that the shore-walk was a known tale before the Codex Regius.\n\nThe name-lore is the record's second register: askr is transparently 'ash', the tree-family the sagas use for kin-lines ('the? - 'family-tree? - idiom's? - mythic? - root); embla is disputed - 'elm' (the older dictionaries' reading) or 'vine' (the comparative-linguists' case, from the Indo-European *sbhloi? - the vine-word family), which would make the first couple a tree-and-vine pair, the wood-culture's own founding-materials. And the gift-grammar's comparative frame completes the file: the Greek clay-and-fire doctrine (Prometheus molding earth, Athena lending soul) and the Genesis dust-and-breath doctrine are the motif's nearest kin - the Norse version distinctive in the tripartite gift (breath, mind, colour) rather than a single ensouling.\n\nThe record's cultural functions are the variant-doctrine method (collecting the witnesses to show which elements are load-bearing: material, shore, threefold gift) and the name-ethnogenesis doctrine ('men? - 'are? - 'of? - Ask? - 'and? - Embla? - - the species named for its founders, as tribes are named for ancestors). In the atlas, the record anchors the variant-collection family: each a motif's witness-file; the Norse one is distinctive in the fluid giver-lists.\n\nFor the database, this node complements the doctrine-record (norse-ask-embla): there the motif told; here its witnesses laid side by side.\n\nThe record's gift-grammar completes the file: the three gifts' semantics debated (breath, mind and colour; or life, wit and speech) - the tripartite self's doctrine documented across the variant-lists, the human person as three loans. And the shore-setting's liminality completes it: the creation performed on the beach (the boundary between the sea-chaos and the land-order) - the first humans made on the world's threshold, the motif's geography as theology. The record's reception-note completes the file: the motif's medieval European echoes (the tree-birth tales of the conversion-era legends, the Ash-and-Elm pairing recalled in later origin-poems) - the variant-file's afterlife documented beyond the Edda-tradition, the first humans' wood-birth persisting in the North's imagination."
+   },
+   "functions": [
+    "Variant-collection node: the first-humans motif's witnesses compared",
+    "Load-bearing elements: tree-material, shore-setting, tripartite gift",
+    "Name-lore register: askr (ash) and the disputed embla (elm or vine)",
+    "Comparative frame: the Greek clay-and-fire and Genesis dust-and-breath kin"
+   ],
+   "variants": [
+    {
+     "name": "Voluspa version (Odin-Hoenir-Lodurr)",
+     "text_tradition": "Codex Regius GKS 2365 4to",
+     "summary": "The poem's version: three named givers, three gifts.",
+     "cross_ref": "norse-ask-embla-variants"
+    },
+    {
+     "name": "Gylfaginning version (Odin-Vili-Ve)",
+     "text_tradition": "Codex Regius GKS 2367 4to",
+     "summary": "Snorri's renamed givers and re-divided gifts.",
+     "cross_ref": "norse-prose-edda-gylfaginning-full"
+    },
+    {
+     "name": "Lokasenna's stock-phrase",
+     "text_tradition": "Codex Regius GKS 2365 4to",
+     "summary": "The flyting's quotation of the shore-walk as a known tale.",
+     "cross_ref": "norse-lokasenna-flyting"
+    }
+   ],
+   "primary_sources": [
+    {
+     "work": "Voluspa; Snorri, Gylfaginning; Lokasenna",
+     "citation": "Stanzas 17-18; ch. 9; st. 25-26. Public-domain English: Bellows 1923; Brodeur 1916.",
+     "language": "Old Norse / Old Icelandic"
+    }
+   ],
+   "secondary_sources": [
+    {
+     "work": "Ursula Dronke, The Poetic Edda, vol. II",
+     "citation": "Dronke 1997, Oxford - the embla-reading and the comparative gifts."
+    }
+   ],
+   "source_urls": [
+    {
+     "url": "https://www.sacred-texts.com/neu/poe/poe03.htm",
+     "description": "Voluspa, Bellows translation (public domain)",
+     "accessed": "2026-11-01"
+    }
+   ],
+   "sensitivity_flag": "none",
+   "provenance": {
+    "record_status": "complete",
+    "compiled": "2026-11-01",
+    "compiled_by": "DHG508 fieldwork compilation",
+    "review_status": "draft - pending human review"
+   },
+   "motifs": [
+    "clay-humans",
+    "creation-chaos"
+   ],
+   "sensitivity": {
+    "restricted": false,
+    "note": "Historical literary corpus; no living community restrictions."
+   },
+   "passages": [
+    {
+     "id": "1",
+     "text": "The witnesses compared: Voluspa's givers are Odin, Hoenir and Lodurr; Snorri's are Odin, Vili and Ve; the gifts divide as breath-mind-colour or as life-wit-speech - the doctrine stable, the inventory fluid.",
+     "note": "Paraphrase-synthesis of the variant-traditions; not verbatim."
+    }
+   ]
+  },
+  {
+   "id": "norse-aurgelmir-giant-lineages",
+   "title": {
+    "en": "Aurgelmir's Line: The Primordial Giant Genealogies",
+    "zh": "奧爾蓋爾米爾之族：太古巨人的世系"
+   },
+   "tradition": "norse",
+   "category": "myth-religion",
+   "region": {
+    "en": "Jotunheimr's deeps (symbolic pin at Jotunheimen, Norway)",
+    "zh": "約頓海姆深處（象徵性定位於挪威尤通黑門山）"
+   },
+   "lat": 61.7,
+   "lon": 8.5,
+   "period": "Vafthrudnismal st. 28-35 c. 900-1000 CE; Snorri's genealogies c. 1220-1230; skaldic giant-genealogy verses",
+   "source": {
+    "archive": "sacred-texts.com (Bellows 1923) / Project Gutenberg (Brodeur 1916)",
+    "work": "Vafthrudnismal st. 28-35; Snorri, Gylfaginning chs. 5-7; Skaldskaparmal genealogy-notices; critical ed. Dronke (1997)",
+    "url": "https://www.sacred-texts.com/neu/poe/"
+   },
+   "license": "Public domain (Bellows 1923; Brodeur 1916); passages below are labeled paraphrases",
+   "summary": {
+    "en": "The giant-lineages beyond Ymir collected: Aurgelmir (Ymir's name in the wisdom-contest), his odd physiogony (giants sweated from his left armpit; his feet engendered a son together), his descendants (Bergelmir, Thrudgelmir), the named giant-lines (Bolthorn, Bestla, Odin's giant-mother; Gymir and Aurboda, Gerd's parents; Hymir, Hlodi? - and the jotun-name book: Hrungnir, Thjazi, Geirrod, Hymir, Vafthrudnir), and the doctrine the genealogies serve: the giants are the gods' own kin, every god married or descended from a giant. The record is the corpus's giant-genealogy file.",
+    "zh": "尤彌爾之外的巨人世系全集：奧爾蓋爾米爾（尤彌爾在智慧競賽中的異名）及其怪異的生理譜系（巨人自其左腋汗液而生，雙腳交合生出一子）、其後代（貝格爾米爾、斯魯德蓋爾米爾）、具名的巨人族系（博爾索恩與貝斯特拉——奧丁的巨人母系；基米爾與奧爾波達——葛德之父母；希米爾等——以及巨人名冊：赫朗格尼爾、夏茲、蓋爾羅德、希米爾、瓦夫特魯德尼爾），以及世系所服務的教義：巨人即諸神自身的親族——每一位神明皆娶巨人為妻或為巨人所生。此記錄是語料的巨人世系檔案。"
+   },
+   "language": "Old Norse / Old Icelandic",
+   "canonical_translation": "Henry A. Bellows, The Poetic Edda, New York 1923 (public domain); Gylfaginning via Brodeur 1916",
+   "narrative": {
+    "en": "The giant-genealogy file holds the corpus's kinship-map of Jotunheim. Aurgelmir's name is the doctrine's hinge: in Vafthrudnismal the exam-giant answers Odin's oldest question with the name Aurgelmir ('the? - 'mud? - 'el? - 'boiler? - 'the? - wet-el? - one? - - the primordial giant under his exam-name, whom the sibyl calls Ymir) - the two names one being, the genealogies' own evidence that the giants' memory ran older than the poems. The physiogony is the record's strangest clause: Aurgelmir's left armpit sweated a son and a daughter? - a man and a maid - and his two feet engendered together a six-headed son (Thrudgelmir) - the giants reproducing without mate, the body itself the lineage's engine; and Thrudgelmir's son is Bergelmir, the flood-remnant (norse-bergelmir-flood holds the ark-doctrine), from whom 'the? - rime-giants? - 'are? - 'come.\n\nThe god-giant intermarriage is the genealogy's other half: Odin's mother Bestla is Bolthorn's daughter (the chief-god half giant); Thor's mother is Jord, a giantess (and his foster-mother? - the? - - the strength-god wholly giant-reared); Njord marries Skadi (Thjazi's daughter); Freyr wins Gerd (Gymir's daughter); Bragi marries Idunn? - the? - 'goddess? - list? - and even Loki is a giant's son (Farbauti's) married to a goddess-sworn wife - the record norse-loki-genealogy holds the brood. The name-book completes the file: the named giants of the corpus (Hrungnir, Thjazi, Geirrod, Hymir, Vafthrudnir, Utgard-Loki, Baugi, Suttungr, Gymir, Hrym) - each with a family-place, each encounter a kin-encounter.\n\nThe record's cultural functions are the kinship-enmity doctrine (the god-giant war as an ethnic myth inside one family: cousins at war, the corpus's own theory of enmity as kinship) and the genealogy-as-cartography doctrine (the jotun-names mapping the encounters: each hall named, each family placed). And the comparative frame completes it: the Greek Titan-genealogies and the Indo-European *Yemo? - the twin-sacrifice traditions - each a giant-lineage behind a divine order. In the atlas, the record anchors the giant-genealogy family: each a tradition's elder-race file; the Norse one is distinctive in the odd physiogony and the intermarried houses.\n\nFor the database, this node complements the creation-record (norse-creation-ymir) and the flood-record (norse-bergelmir-flood): here the lineage runs whole.\n\nThe record's name-lore completes the file: the giant-names' meanings (Aurgelmir 'mud-boiler', Farbauti 'dangerous-striker', Bolthorn 'evil-thorn', Hymir 'the? - dark? - one) - the genealogy as a name-dictionary, the elder race's identity carried in its titles. And the intermarriage-chart completes it: the gods' giant-kin tabulated (mothers, wives, fosterers) - the war of gods and giants as a family-feud documented genealogically."
+   },
+   "functions": [
+    "Giant-genealogy file: Aurgelmir's physiogony, descendants and the jotun name-book",
+    "Kinship-enmity doctrine: the god-giant war as cousins at war - every god giant-reared or giant-married",
+    "Genealogy-as-cartography: the named halls and families mapping the encounters",
+    "Comparative frame: Titan-genealogies and the Indo-European twin-sacrifice traditions"
+   ],
+   "variants": [
+    {
+     "name": "Vafthrudnismal's Aurgelmir-answers",
+     "text_tradition": "Codex Regius GKS 2365 4to",
+     "summary": "The exam-giant's genealogy: the sweating armpit, the six-headed son, Bergelmir's line.",
+     "cross_ref": "norse-aurgelmir-giant-lineages"
+    },
+    {
+     "name": "Snorri's Ymir-genealogy (Gylfaginning)",
+     "text_tradition": "Codex Regius GKS 2367 4to",
+     "summary": "The prose renaming (Ymir) and the same physiogony.",
+     "cross_ref": "norse-ginnungagap-void"
+    }
+   ],
+   "primary_sources": [
+    {
+     "work": "Vafthrudnismal; Snorri, Gylfaginning",
+     "citation": "Stanzas 28-35; chs. 5-7. Public-domain English: Bellows 1923; Brodeur 1916.",
+     "language": "Old Norse / Old Icelandic"
+    }
+   ],
+   "secondary_sources": [
+    {
+     "work": "Ursula Dronke, The Poetic Edda, vol. II",
+     "citation": "Dronke 1997, Oxford - the Aurgelmir name and the physiogony."
+    },
+    {
+     "work": "Margaret Clunies Ross, Prolonged Echoes, vol. 1",
+     "citation": "Clunies Ross 1994, Odense - the god-giant kinship economy."
+    }
+   ],
+   "source_urls": [
+    {
+     "url": "https://www.sacred-texts.com/neu/poe/poe11.htm",
+     "description": "Vafthrudnismal, Bellows translation (public domain)",
+     "accessed": "2026-11-01"
+    }
+   ],
+   "sensitivity_flag": "none",
+   "provenance": {
+    "record_status": "complete",
+    "compiled": "2026-11-01",
+    "compiled_by": "DHG508 fieldwork compilation",
+    "review_status": "draft - pending human review"
+   },
+   "motifs": [
+    "creation-chaos",
+    "miraculous-birth"
+   ],
+   "sensitivity": {
+    "restricted": false,
+    "note": "Historical literary corpus; no living community restrictions."
+   },
+   "passages": [
+    {
+     "id": "1",
+     "text": "Aurgelmir's armpits sweated a son and a daughter together, and his two feet engendered a six-headed son; Thrudgelmir's son was Bergelmir, and from him the rime-giants are come. The intermarried houses: Odin's mother Bestla was Bolthorn's daughter; Thor's mother Jord is a giantess; Freyr won Gerd, Gymir's daughter; Loki is Farbauti's son - the war of gods and giants is a war of kin.",
+     "note": "Paraphrase of Vafthrudnismal st. 28-31 (Bellows 1923); not verbatim. / Paraphrase-synthesis of the giant-genealogies (Bellows; Brodeur); not verbatim."
+    }
+   ]
+  },
+  {
+   "id": "norse-ginnungagap-cosmic-echoes",
+   "title": {
+    "en": "Ginnungagap in Comparative Context: The Void Before the Worlds",
+    "zh": "金倫加鴻溝的比較視野：諸界之前的大虛空"
+   },
+   "tradition": "norse",
+   "category": "myth-religion",
+   "region": {
+    "en": "The void between worlds (symbolic pin at Pingvellir, Iceland)",
+    "zh": "諸界之間的虛空（象徵性定位於冰島辛格韋德利）"
+   },
+   "lat": 64.26,
+   "lon": -21.13,
+   "period": "Gylfaginning c. 1220-1230 (older material); comparative Indo-European and Near-Eastern parallels",
+   "source": {
+    "archive": "Project Gutenberg (Brodeur 1916) / archive.org",
+    "work": "Snorri, Gylfaginning chs. 3-4; comparative: Genesis 1.1-2; Enuma Elis; Rigveda 10.129 (Nasadiya); Apollodorus' Chaos; critical ed. Faulkes (1987)",
+    "url": "https://www.gutenberg.org/ebooks/search/?query=prose+edda"
+   },
+   "license": "Public domain (Brodeur 1916); passages below are labeled paraphrases",
+   "summary": {
+    "en": "The Norse void collected against its parallels: Ginnungagap ('the? - 'yawning? - 'gap? - 'the? - gap that had no bottom on any side) read beside the Hebrew tohu-bohu (the formless waste before light), the Babylonian Apsu-Tiamat (the mingled sweet and salt waters), the Rigveda's Nasadiya hymn ('neither? - being? - 'nor? - non-being? - 'then? - 'there? - was? - neither? - death? - 'nor? - the? - immortal), the Greek Chaos of Hesiod and Apollodorus, and the Chinese Hundun (the uncarved block). The record is the void-motif's comparative file: what the Norse version adds is the elemental polarity (ice and fire meeting in the gap) and the gap's survivor - it persists as the myth-world's border-sea.",
+    "zh": "將北歐虛空與其平行文本並置對讀：金倫加鴻溝（「無論哪一側都沒有底的大張之口」）對照希伯來的「空虛混沌」（光前的無形荒野）、巴比倫的阿普蘇與提亞瑪特（甜水與鹹水的混合）、《梨俱吠陀》的「無有頌」（「既非存在亦非存在，無死亦無不死」）、赫西俄德與阿波羅多魯斯的卡俄斯，以及中國的「混沌」（未鑿之混沌）。此記錄是虛空母題的比較檔案：北歐版本的獨特之處在於元素兩極（冰與火於鴻溝中相遇），且鴻溝本身留存為神話世界的邊海。"
+   },
+   "language": "Old Norse / Old Icelandic; comparative material in Hebrew, Akkadian, Sanskrit, Greek, Chinese",
+   "canonical_translation": "Brodeur 1916 (public domain); comparative passages paraphrased from standard translations",
+   "narrative": {
+    "en": "This comparative node holds the void-motif's witnesses. The Norse doctrine (norse-ginnungagap-void holds the full cosmogony): Ginnungagap is not nothing but a space - 'the? - 'gap? - 'that? - 'had? - no? - floor? - 'and? - no? - sky? - - and its two rims are the cosmos's elements (Niflheim's freezing rivers to the north, Muspell's fire to the south); creation happens in the gap where the elements meet, and the gap itself survives creation as the world's out-border (the record norse-world-serpent-midgard's enclosing sea reads as the gap's residue).\n\nThe parallels: Genesis's formless waste ('the? - 'earth? - 'was? - without? - form? - 'and? - void? - and? - darkness? - on? - the? - face? - of? - the? - deep? - - the deep as space, the spirit moving on the waters); the Enuma Elis's mingled waters (Apsu the sweet abyss, Tiamat the salt sea, their mingling begetting the gods - the polarity-doctrine in water-form); the Rigveda's Nasadiya hymn ('then? - 'there? - was? - neither? - being? - nor? - non-being? - 'no? - air? - 'no? - sky? - 'what? - stirred? - and? - where? - 'the? - one? - who? - looks? - down? - on? - it? - does? - not? - know? - - the void as an acknowledged question); Hesiod's Chaos ('first? - of? - all? - was? - the? - yawning? - chasm? - - the Greek void's own gaping-word, cognate-adjacent to the Norse gap); and the Chinese Hundun (the uncarved wholeness whose drilling kills it - the void as a living faceless thing).\n\nThe record's cultural functions are the comparative-motif doctrine (the void as a near-universal creation-motif with local inflections: space, water, question, chasm, block) and the polarity-doctrine (the Norse version's signature: the void is not neutral but polarized - the elements' meeting is the world's conception, creation as chemical event rather than command). And the gap's survival completes the motif-file: unlike most parallels' voids (which are replaced by the created order), Ginnungagap persists as the margin - the myth-world's border-sea where the serpent lies. In the atlas, the record anchors the void-motif family: each a tradition's pre-creation space; the Norse one is distinctive in polarity and persistence.\n\nFor the database, this node complements the creation-records (the void-doctrine; the giant-genealogies): here the motif's wider kin laid out.\n\nThe record's comparative-method completes the file: the void-motif's witnesses read as a typology (space, water, question, chasm, block) rather than as borrowings - each tradition's pre-creation space analyzed by its own inflection, the comparative file's method documented as database-practice. And the gap's cartographic persistence completes it: the border-sea where the serpent lies, the gap in the map's margin - the void surviving as geography."
+   },
+   "functions": [
+    "Comparative-motif node: the void's witnesses across five traditions",
+    "Polarity doctrine: the Norse void as polarized space (ice and fire meeting)",
+    "Survival doctrine: the gap persisting as the world's border-sea",
+    "Creation-as-event: chemical conception rather than command"
+   ],
+   "variants": [
+    {
+     "name": "Ginnungagap (Prose Edda)",
+     "text_tradition": "Codex Regius GKS 2367 4to",
+     "summary": "The polarized space with elemental rims.",
+     "cross_ref": "norse-ginnungagap-cosmic-echoes"
+    },
+    {
+     "name": "Nasadiya hymn (Rigveda 10.129)",
+     "text_tradition": "Vedic Sanskrit",
+     "summary": "The void as acknowledged question: neither being nor non-being.",
+     "cross_ref": "none"
+    },
+    {
+     "name": "Hesiod's Chaos",
+     "text_tradition": "Theogony 116-122",
+     "summary": "The yawning chasm - the Greek void's cognate-adjacent image.",
+     "cross_ref": "greek-theogony-chaos"
+    }
+   ],
+   "primary_sources": [
+    {
+     "work": "Snorri, Gylfaginning (chs. 3-4); Genesis 1; Enuma Elis; Rigveda 10.129; Hesiod, Theogony",
+     "citation": "Comparative passage-file. Norse text: Faulkes 1987; English: Brodeur 1916 (public domain). Comparative passages paraphrased from standard public-domain translations.",
+     "language": "Old Norse / Old Icelandic; comparative material in Hebrew, Akkadian, Sanskrit, Greek"
+    }
+   ],
+   "secondary_sources": [
+    {
+     "work": "M. L. West, Indo-European Poetry and Myth",
+     "citation": "West 2007, Oxford - the void and creation motifs' Indo-European frame."
+    },
+    {
+     "work": "Anthony Faulkes, Edda (ed. and commentary)",
+     "citation": "Faulkes 1987, London: Everyman - the cosmogony's sources."
+    }
+   ],
+   "source_urls": [
+    {
+     "url": "https://www.sacred-texts.com/neu/pre/pre04.htm",
+     "description": "Gylfaginning, Brodeur translation (public domain)",
+     "accessed": "2026-11-01"
+    }
+   ],
+   "sensitivity_flag": "none",
+   "provenance": {
+    "record_status": "complete",
+    "compiled": "2026-11-01",
+    "compiled_by": "DHG508 fieldwork compilation",
+    "review_status": "draft - pending human review"
+   },
+   "motifs": [
+    "creation-chaos",
+    "flood"
+   ],
+   "sensitivity": {
+    "restricted": false,
+    "note": "Historical literary corpus; no living community restrictions."
+   },
+   "passages": [
+    {
+     "id": "1",
+     "text": "The gap compared: the Norse yawning gap with its ice and fire rims; the Hebrew waste-and-void over the deep; the Babylonian mingled sweet and salt waters; the Vedic neither-being-nor-non-being; the Greek yawning chasm - each a pre-creation space with a local inflection.",
+     "note": "Paraphrase-synthesis of the comparative void-file; not verbatim."
+    }
+   ]
+  },
+  {
+   "id": "norse-svartalfheim-dwarflore",
+   "title": {
+    "en": "Svartalfaheimr and the Dwarf-Lore: The Two Dark Peoples",
+    "zh": "斯瓦特阿爾夫海姆與矮人學：兩支幽暗之族"
+   },
+   "tradition": "norse",
+   "category": "myth-religion",
+   "region": {
+    "en": "The halls under rock and earth (symbolic pin at Falun, Sweden)",
+    "zh": "岩土之下的廳堂（象徵性定位於瑞典法倫）"
+   },
+   "lat": 60.6,
+   "lon": 15.6,
+   "period": "Gylfaginning c. 1220-1230; Grimnismal st. 4? - Hervarar saga's dwarf-dialogues; sagas' dwarf-encounters",
+   "source": {
+    "archive": "Project Gutenberg (Brodeur 1916) / archive.org (Kershaw 1921)",
+    "work": "Snorri, Gylfaginning chs. 14, 17; Hervarar saga (the dwarfs' forge-dialogues); Volsunga saga (Andvari); critical ed. Faulkes (1987)",
+    "url": "https://www.gutenberg.org/ebooks/search/?query=prose+edda"
+   },
+   "license": "Public domain (Brodeur 1916; Kershaw 1921); passages below are labeled paraphrases",
+   "summary": {
+    "en": "The dark-peoples file collected: Snorri's two orders (the dark-elves below the earth, blacker than pitch; the dwarfs in Svartalfaheimr, the smith-race born of Ymir's maggots), the confusion-of-terms (svartalfar and dvergar overlapping in the sources), the dwarf-portraits (Andvari the pike-fisher, Dvalin and Durin the forced smiths, the dwarf-dialogues of Hervarar saga where Tyrfing is forged under duress), and the crafts-doctrine (the dwarfs make the gods' signature objects: Mjollnir, Draupnir, Skidbladnir, Gleipnir, the ship's? - the ring's? - the treasure-economy of the under-earth). The record is the subterranean peoples' file.",
+    "zh": "幽暗之族的檔案：斯諾里筆下的兩個階序（居於地下的暗精靈，比柏油更黑；居於斯瓦特阿爾夫海姆的矮人——自尤彌爾蛆蟲所生的鍛造之族）、名稱的混淆（文獻中 svartalfar 與 dvergar 相互重疊）、矮人肖像（梭形垂釣的安德瓦利、被迫鍛劍的德瓦林與都林、《赫爾沃薩迦》中脅迫之下的鍛造對話），以及工藝教義（矮人鍛造諸神的標誌之物：妙爾尼爾、德羅普尼爾、斯基德布拉德尼爾、格雷普尼爾……地下世界的寶物經濟）。此記錄是地下民族之檔案。"
+   },
+   "language": "Old Norse / Old Icelandic",
+   "canonical_translation": "Brodeur 1916 (public domain); Hervarar saga via Kershaw 1921 (public domain)",
+   "narrative": {
+    "en": "The dark-peoples file holds the under-earth's two orders and their confusion. The two-people doctrine (norse-alfheim-elves holds the light-elves' side): Snorri's dark-elves dwell below the earth, 'blacker? - 'than? - 'pitch? - 'and? - 'unlike? - the? - light-elves? - 'in? - deeds? - and? - looks; the dwarfs dwell in Svartalfaheimr ('the? - 'world? - 'of? - the? - 'black? - elves? - - Snorri's own name collapses the distinction: the dwarf-world is the dark-elf-world, and the sources use svartalfar and dvergar interchangeably) - the taxonomy's blur is the record's first datum: the two orders are one economy seen from above and below.\n\nThe dwarf-portraits: Andvari (the dwarf fishing in pike-shape, robbed of his hoard and laying the ring-curse - the record norse-andvari-ring-curse), Dvalin and Durin (the forced smiths of Tyrfing - the record norse-tyrfing-curse), the Dvergatal's catalog (norse-dvergatal-dwarfs holds the name-book), and the Hervarar-dialogues (the dwarfs speaking from the stone at dusk, forging under duress - the corpus's smith-dialogues where the underworld bargains by force). The crafts-doctrine: the dwarfs make the gods' signature objects - Mjollnir, Draupnir, Skidbladnir, Gungnir, Gleipnir, Brisingamen, the ship's? - the treasures-file (the record norse-mjolnir-forging holds the forge-competition) - so the under-earth is the gods' supply-chain: the dwarfs make, the gods circulate (Clunies Ross's exchange-economy).\n\nThe record's cultural functions are the under-earth-economy doctrine (smithcraft as the subterranean order's office, the treasures' provenance as a dwarf-claim) and the taxonomy-blur doctrine (the sources' own confusion documented as a datum: dark-elves and dwarfs as one seen from above). And the folk-afterlife completes it: the sagas' and ballads' dwarf-encounters (the mountain-king's daughter, the troll-women? - the? - later? - - the under-earth folk's persistence in post-conversion folklore). In the atlas, the record anchors the under-earth-people family: each a tradition's subterranean smith-folk; the Norse one is distinctive in the maggot-birth and the duress-dialogues.\n\nFor the database, this node complements the elf-record, the dwarf-catalog and the forge-records: here the dark-side runs whole.\n\nThe record's folk-afterlife completes the file: the under-earth folk's persistence in post-conversion folklore (the mountain-king's halls, the troll-women's brides, the fairy-mounds of the ballads) - the dwarf-economy's survival in the converted landscape's below. And the craft-lineage completes it: the smith-hero tradition (Völundr, the dwarfs' apprentices) as the under-earth's export - the subterranean order's heroes documented above ground. The record's taxonomic-note completes the file: the scholars' debate on svartalfar versus dvergar (one race under two names, or two races confused by Snorri's systematizing) - the dark-peoples' taxonomy as the corpus's own open question, documented here with both readings and the sources' usage-patterns."
+   },
+   "functions": [
+    "Dark-peoples file: the two orders (dark-elves, dwarfs) and their taxonomy-blur",
+    "Dwarf-portraits: Andvari, Dvalin, Durin and the duress-dialogues",
+    "Crafts-doctrine: the under-earth as the gods' supply-chain",
+    "Exchange-economy doctrine: dwarfs make, gods circulate"
+   ],
+   "variants": [
+    {
+     "name": "Gylfaginning's dark-elves and dwarfs",
+     "text_tradition": "Codex Regius GKS 2367 4to",
+     "summary": "The two orders in Snorri's own collapsing taxonomy.",
+     "cross_ref": "norse-svartalfheim-dwarflore"
+    },
+    {
+     "name": "Hervarar saga's dwarf-dialogues",
+     "text_tradition": "13th-c. saga",
+     "summary": "The forge-under-duress scene at the stone's mouth.",
+     "cross_ref": "norse-tyrfing-curse"
+    }
+   ],
+   "primary_sources": [
+    {
+     "work": "Snorri, Gylfaginning; Hervarar saga; Volsunga saga",
+     "citation": "Chs. 14, 17; the forging-chapter; chs. 1-2. Public-domain English: Brodeur 1916; Kershaw 1921.",
+     "language": "Old Norse / Old Icelandic"
+    }
+   ],
+   "secondary_sources": [
+    {
+     "work": "Alaric Hall, Elves in Anglo-Saxon England",
+     "citation": "Hall 2007, Woodbridge: Boydell - the elf/dwarf lexicon's overlap."
+    },
+    {
+     "work": "Margaret Clunies Ross, Prolonged Echoes, vol. 1",
+     "citation": "Clunies Ross 1994, Odense - the exchange-economy of dwarfs and gods."
+    }
+   ],
+   "source_urls": [
+    {
+     "url": "https://www.sacred-texts.com/neu/pre/pre05.htm",
+     "description": "Gylfaginning chs. 14-17, Brodeur translation (public domain)",
+     "accessed": "2026-11-01"
+    }
+   ],
+   "sensitivity_flag": "none",
+   "provenance": {
+    "record_status": "complete",
+    "compiled": "2026-11-01",
+    "compiled_by": "DHG508 fieldwork compilation",
+    "review_status": "draft - pending human review"
+   },
+   "motifs": [
+    "creation-chaos",
+    "miraculous-birth"
+   ],
+   "sensitivity": {
+    "restricted": false,
+    "note": "Historical literary corpus; no living community restrictions."
+   },
+   "passages": [
+    {
+     "id": "1",
+     "text": "The two orders: dark-elves below the earth, blacker than pitch; dwarfs in Svartalfaheimr - and the sources use the names interchangeably, one economy seen from above and below. The dwarfs make the gods' signature objects: the hammer, the ring that drops eight rings, the ship that folds in a purse, the fetter of six impossibilities - the under-earth as the supply-chain of Asgard.",
+     "note": "Paraphrase of Snorri, Gylfaginning ch. 17 (Brodeur 1916); not verbatim. / Paraphrase-synthesis of the treasure-file (Brodeur 1916); not verbatim."
+    }
+   ]
+  },
+  {
+   "id": "norse-first-feast-asgard",
+   "title": {
+    "en": "The First Feasts of the Gods: Hospitality as Institution",
+    "zh": "諸神的最初宴席：作為制度的好客"
+   },
+   "tradition": "norse",
+   "category": "myth-religion",
+   "region": {
+    "en": "Aegir's hall and the halls of Asgard (symbolic pin at Laeso, Denmark)",
+    "zh": "埃吉爾之廳與阿斯加德諸廳（象徵性定位於丹麥萊瑟島）"
+   },
+   "lat": 57.27,
+   "lon": 11.0,
+   "period": "Skaldskaparmal c. 1220-1230 (older material); Hymiskvida; Lokasenna; Grimnismal's feasts",
+   "source": {
+    "archive": "Project Gutenberg (Brodeur 1916) / sacred-texts.com (Bellows 1923)",
+    "work": "Snorri, Skaldskaparmal (the Aegir-feasts; the first feast of the gods); Hymiskvida; Lokasenna; critical ed. Faulkes (1987)",
+    "url": "https://www.gutenberg.org/ebooks/search/?query=prose+edda"
+   },
+   "license": "Public domain (Brodeur 1916; Bellows 1923); passages below are labeled paraphrases",
+   "summary": {
+    "en": "The feast-institution's origin-file collected: the gods' first communal feast (the mythic memory of the golden age's tables), the Aegir-feasts (the sea-giant's hall with the shining gold and self-pouring cups - the first hospitality the gods accept from a convert-giant), the kettle-quest that equips the feast (Hymir's mile-deep cauldron, stolen from the borderlands), and the feast-law (the cup-circles, the memory-toasts, the seat-rights and gift-cycles documented in the Hákon-chapter and the flyting's rules). The record is the divine-hospitality file: how the gods learned to eat together.",
+    "zh": "宴席制度的起源檔案：諸神的第一次共食（黃金時代桌席的神話記憶）、埃吉爾宴（海巨人之廳金光閃爍、酒杯自斟——諸神首次接受一位皈依巨人的款待）、為宴席取來的巨釜（希米爾深達一里的鍋，自邊境奪得），以及宴席之法（傳杯之禮、追念之酒、座次之權與贈禮之環——見於哈康篇章與吵罵的規則）。此記錄是神聖好客的檔案：諸神如何學會同桌而食。"
+   },
+   "language": "Old Norse / Old Icelandic",
+   "canonical_translation": "Brodeur 1916 (public domain); Bellows 1923 (public domain)",
+   "narrative": {
+    "en": "The divine-hospitality file holds the feast-institution's origins. The first communal feast: the golden age's tables (Voluspa's gleeful board-games and lack of gold - the record norse-golden-age-gods) are the feast's memory-image; but the institution's equipment is a theft: the gods cannot brew ale for all of them at once until Thor and Tyr fetch Hymir's mile-deep kettle from the borderlands (the record norse-hymir-kettle) - the feast's first hardware is war-booty, the communal feast founded on a raid.\n\nThe Aegir-feasts: the sea-giant converted to hospitality - his hall 'of? - 'shining? - 'gold? - 'the? - ale? - self-poured? - in? - the? - cups? - 'the? - - the gods accepting a giant's table (the record norse-lokasenna-flyting holds the feast's flyting); and the feast-law's grammar documented in the sources: the cup-circles by god (Odin for victory, Njord and Freyja for plenty), the memory-toasts (the bragafull), the seat-rights (Loki's blood-oath seat-claim), and the gift-cycles (the feast as the exchange-economy's ritual engine).\n\nThe record's cultural functions are the feast-as-institution doctrine (the communal feast as the gods' society's core ritual - what the kettle's absence prevents, the feast's presence produces: alliance, counsel, flyting and gift) and the hospitality-economics doctrine (the feast hosted by converts and enemies: Aegir the giant, the bonders' halls of the Hakon-chapter - the borderlands' hospitality absorbed into Asgard's ritual). And the Edda's own feast-frame completes it: Skaldskaparmal's teaching is staged at Aegir's feast - the textbook itself a banquet-scene, Bragi lecturing the convert-giant over the ale. In the atlas, the record anchors the divine-feast family: each a tradition's gods' banquet as social charter; the Norse one is distinctive in the stolen kettle.\n\nFor the database, this node complements the kettle-record, the Aegir-flyting record and the Yule-feast record: here the institution's file runs whole.\n\nThe record's banquet-grammar completes the file: the feast's outputs documented (alliance, counsel, flyting, gift, recruitment - the entry-oaths sworn over the cups) - the communal meal as the gods' society's parliament and recruiting-office. And the corpus's own feast-frames complete it: Skaldskaparmal, Lokasenna and the Eiriksmal each staged at a feast - the myth-textbook, the audit and the death-welcome all banquet-scenes, the institution's centrality documented by its frame-ubiquity. The record's Aegir-biography completes the file: the host-giant's own career (the sea-god of the drowned, the gold-hall's shining wealth) - the convert-host's profile documented beside his feast, the hospitality's donor as a bordered being of the deep. And the corpus’s own banquet-census completes it: the feasts named across the sources (the golden-age tables, Hymir’s ale, Aegir’s gold-hall, the Yule-feast at Hladir, Eirik’s welcome in Valhalla) - the institution’s scene-list documented, the gods’ social life measured in meals."
+   },
+   "functions": [
+    "Divine-hospitality file: the feast-institution's origins and equipment",
+    "Feast-as-institution: alliance, counsel, flyting and gift as the feast's outputs",
+    "Hospitality-economics: convert-giants and bonders hosting the gods' table",
+    "Textbook-as-banquet: Skaldskaparmal's teaching staged at Aegir's feast"
+   ],
+   "variants": [
+    {
+     "name": "Hymiskvida's kettle-quest",
+     "text_tradition": "Codex Regius GKS 2365 4to",
+     "summary": "The feast's hardware won by raid.",
+     "cross_ref": "norse-first-feast-asgard"
+    },
+    {
+     "name": "Lokasenna's feast-frame",
+     "text_tradition": "Codex Regius GKS 2365 4to",
+     "summary": "The seat-rights and cup-law in the flyting's frame.",
+     "cross_ref": "norse-lokasenna-flyting"
+    }
+   ],
+   "primary_sources": [
+    {
+     "work": "Snorri, Skaldskaparmal; Hymiskvida; Lokasenna",
+     "citation": "The Aegir-feast chapters; the poem; the flyting. Public-domain English: Brodeur 1916; Bellows 1923.",
+     "language": "Old Norse / Old Icelandic"
+    }
+   ],
+   "secondary_sources": [
+    {
+     "work": "Gro Steinsland, Norron religion",
+     "citation": "Steinsland 2005, Oslo: Pax - the feast's ritual economy."
+    },
+    {
+     "work": "Olof Sundqvist, papers on cult feasts",
+     "citation": "Sundqvist 2002 and later - the feast's political function."
+    }
+   ],
+   "source_urls": [
+    {
+     "url": "https://www.sacred-texts.com/neu/pre/pre06.htm",
+     "description": "Skaldskaparmal, Brodeur translation (public domain)",
+     "accessed": "2026-11-01"
+    }
+   ],
+   "sensitivity_flag": "none",
+   "provenance": {
+    "record_status": "complete",
+    "compiled": "2026-11-01",
+    "compiled_by": "DHG508 fieldwork compilation",
+    "review_status": "draft - pending human review"
+   },
+   "motifs": [
+    "storm-thunder",
+    "parable-teaching"
+   ],
+   "sensitivity": {
+    "restricted": false,
+    "note": "Historical literary corpus; no living community restrictions."
+   },
+   "passages": [
+    {
+     "id": "1",
+     "text": "The feast's hardware is a raid: no vessel large enough existed to brew ale for all the gods, until Thor and Tyr carried Hymir's mile-deep kettle home through the gates of the giants' land. Aegir's hall was of shining gold, with ale that poured itself in the cups - the first convert-giant's table the gods accepted, and the seat where the flyting was licensed.",
+     "note": "Paraphrase of Hymiskvida and Skaldskaparmal (Bellows; Brodeur); not verbatim. / Paraphrase of Skaldskaparmal and Lokasenna (Brodeur; Bellows); not verbatim."
+    }
+   ]
+  },
+  {
+   "id": "norse-primordial-fire-ice",
+   "title": {
+    "en": "The Meeting of Fire and Ice: The Elemental Creation-Motif Collected",
+    "zh": "火與冰的相遇：元素創世母題集"
+   },
+   "tradition": "norse",
+   "category": "myth-religion",
+   "region": {
+    "en": "The elemental rims of the world (symbolic pin at Pingvellir, Iceland)",
+    "zh": "世界的元素邊界（象徵性定位於冰島辛格韋德利）"
+   },
+   "lat": 64.26,
+   "lon": -21.13,
+   "period": "Gylfaginning c. 1220-1230; Grimnismal; Voluspa; skaldic elemental kennings",
+   "source": {
+    "archive": "Project Gutenberg (Brodeur 1916) / sacred-texts.com (Bellows 1923)",
+    "work": "Snorri, Gylfaginning chs. 4-5, 51; Grimnismal; Voluspa; critical ed. Faulkes (1987)",
+    "url": "https://www.gutenberg.org/ebooks/search/?query=prose+edda"
+   },
+   "license": "Public domain (Brodeur 1916; Bellows 1923); passages below are labeled paraphrases",
+   "summary": {
+    "en": "The fire-ice motif collected across the corpus: the creation's polarity (Niflheim's venom-rivers freezing; Muspell's fire-world fenced with flame; the thaw that quickens Ymir), the fire-world's persisting office (Surtr with the flaming sword at the world's rim; the Muspell-riders crossing Bifrost at the end), the ice-side's offices (Hrym's? - the frost-giants' realm; the poison-rivers of the underworld; the Fimbulwinter as the end's ice), and the poem-and-proverb echoes (the skalds' elemental kennings; the lore that the world ends in fire after living in cold). The record is the elemental-file: the two elements as the cosmos's bookends.",
+    "zh": "火冰母題的語料全集：創世的兩極（尼福爾海姆的毒河凍結、穆斯貝爾海姆以火牆護衛、解凍催生尤彌爾）、火之國的恆久職能（蘇爾特持烈焰之劍守衛世界邊緣；末日之時穆斯貝爾之子騎越彩虹橋）、冰之國的職能（霜巨人之地、冥府毒河、末日之冰芬布爾之冬），以及詩與諺的迴響（吟遊詩人的元素隱喻；「世界生於嚴寒而終於烈火」的古訓）。此記錄是元素檔案：兩種元素即宇宙的書擋。"
+   },
+   "language": "Old Norse / Old Icelandic",
+   "canonical_translation": "Brodeur 1916 (public domain); Bellows 1923 (public domain)",
+   "narrative": {
+    "en": "The elemental-file holds the fire-ice motif's witnesses. The creation-polarity: Niflheim's eleven venom-rivers freezing into rime at the gap's north rim, Muspell's fire-world fenced with flame at the south, and the thaw quickening Ymir in between (the record norse-ginnungagap-void holds the meeting) - the elements are not abstractions but countries, each with named geography and population (the frost-giants' realm; Muspell's sons, Surtr their captain).\n\nThe persisting offices: the fire-side holds the end's office (Surtr with the flaming sword 'at? - 'the? - 'world's? - rim? - 'since? - 'the? - 'beginning? - the record norse-ragnarok-battles holds the final burning; the riders of Muspell crossing Bifrost - the record norse-bifrost-gjallarhorn's scheduled demolition); the ice-side holds the underworld's office (the venom-rivers of Hel's realm - the record norse-hel-realm; the corpse-spring Hvergelmir; the Fimbulwinter as the doom's own ice - the record norse-fimbulwinter-wolves). The motif's proverb-form: the lore summarized as 'the? - 'world? - 'lives? - 'between? - fire? - 'and? - ice? - 'and? - 'ends? - in? - fire? - 'after? - 'ice? - - the elemental bookends doctrine.\n\nThe record's cultural functions are the elemental-geography doctrine (the elements as populated countries with named captains - the north's own climate-theology: winter as an inhabitable realm) and the bookend-doctrine (the cosmos bracketed by its two elements: born of their meeting, ended by the fire's return, renewed between them). And the skaldic kennings complete the file: the elemental diction (fire as 'Muspell's? - flame? - 'and? - 'the? - ice? - as? - 'the? - 'venom-rivers? - 'cold) evidencing the motif's poetic currency. In the atlas, the record anchors the elemental-creation family: each a tradition's element-pair behind creation; the Norse one is distinctive in the populated elements and the bookend-structure.\n\nFor the database, this node complements the void-record, the Surtr-material and the Fimbulwinter-record: here the motif runs whole.\n\nThe record's climate-theology completes the file: the elements as the north's lived experience (the winter's inhabitable country, the fire's hearth-edge) - the cosmic polarity read from the farm-year's own bookends, creation-theology as climate-observation. And the renewal-clause completes it: the new age's restored shield-regime (the record norse-svalinn-shield) - the elements' bookend-structure closing with a managed sun, the motif's happy ending engineered. The record's place-lore completes the file: the elemental names carried into geography (the Muspell-word's Germanic reach beyond Scandinavia, the frost-names of the northern coasts) - the elements' polarity documented in toponymy, the creation's bookends readable on the map."
+   },
+   "functions": [
+    "Elemental-file: the fire-ice motif's witnesses across the corpus",
+    "Elemental-geography doctrine: the elements as populated countries with named captains",
+    "Bookend-doctrine: the cosmos bracketed by its elements - born of their meeting, ended by fire's return",
+    "Kennings as currency: the elemental diction evidencing the motif's poetic use"
+   ],
+   "variants": [
+    {
+     "name": "Gylfaginning's elemental rims",
+     "text_tradition": "Codex Regius GKS 2367 4to",
+     "summary": "The creation-polarity in Snorri's geography.",
+     "cross_ref": "norse-primordial-fire-ice"
+    },
+    {
+     "name": "Voluspa's fire-ending",
+     "text_tradition": "Codex Regius GKS 2365 4to",
+     "summary": "The sibyl's fire-close and the sun's blackening.",
+     "cross_ref": "norse-voluspa-full"
+    }
+   ],
+   "primary_sources": [
+    {
+     "work": "Snorri, Gylfaginning; Grimnismal; Voluspa",
+     "citation": "Chs. 4-5, 51; the tree-stanzas; the doom-stanzas. Public-domain English: Brodeur 1916; Bellows 1923.",
+     "language": "Old Norse / Old Icelandic"
+    }
+   ],
+   "secondary_sources": [
+    {
+     "work": "Margaret Clunies Ross, Prolonged Echoes, vol. 1",
+     "citation": "Clunies Ross 1994, Odense - the antagonistic-elements economy."
+    },
+    {
+     "work": "Rudolf Simek, Dictionary of Northern Mythology",
+     "citation": "Simek 1993, Cambridge: D. S. Brewer - entries 'Muspell', 'Niflheim', 'Surtr'."
+    }
+   ],
+   "source_urls": [
+    {
+     "url": "https://www.sacred-texts.com/neu/pre/pre04.htm",
+     "description": "Gylfaginning, Brodeur translation (public domain)",
+     "accessed": "2026-11-01"
+    }
+   ],
+   "sensitivity_flag": "none",
+   "provenance": {
+    "record_status": "complete",
+    "compiled": "2026-11-01",
+    "compiled_by": "DHG508 fieldwork compilation",
+    "review_status": "draft - pending human review"
+   },
+   "motifs": [
+    "creation-chaos",
+    "sun-capture"
+   ],
+   "sensitivity": {
+    "restricted": false,
+    "note": "Historical literary corpus; no living community restrictions."
+   },
+   "passages": [
+    {
+     "id": "1",
+     "text": "The elements as countries: Niflheim's eleven venom-rivers freezing at the north rim, Muspell's fire-world fenced with flame at the south, Surtr the fire-giant captain - and between them the thaw that quickened the first life. The bookends: the world lives between fire and ice and ends in fire after ice - the venom-rivers of the underworld, the Fimbulwinter's three winters, and Surtr's flames returning at the end.",
+     "note": "Paraphrase of Snorri, Gylfaginning chs. 4-5 (Brodeur 1916); not verbatim. / Paraphrase-synthesis of the elemental-motif file (Brodeur; Bellows); not verbatim."
+    }
+   ]
+  }
+ ]
+}

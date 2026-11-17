@@ -1,0 +1,163 @@
+{
+  "texts": [
+    {
+      "id": "inca-cuzco-the-lion-city",
+      "title": {
+        "en": "The Lion City: The Head that was Wanting",
+        "zh": "獅形之城:所缺的獅首"
+      },
+      "tradition": "inca",
+      "category": "myth",
+      "region": {
+        "en": "Cuzco and Sacsahuaman hill (symbolic pin)",
+        "zh": "庫斯科與薩克薩瓦曼山(象徵性標記)"
+      },
+      "lat": -13.51,
+      "lon": -71.98,
+      "period": "Inca tradition as given to Sarmiento de Gamboa, 1572; trans. Markham 1907",
+      "source": {
+        "archive": "Project Gutenberg",
+        "work": "Pedro Sarmiento de Gamboa, History of the Incas, ch. 53, trans. Sir Clements Markham, Hakluyt Society, 1907",
+        "url": "https://www.gutenberg.org/ebooks/20218"
+      },
+      "license": "Public domain (translation 1907)",
+      "summary": {
+        "en": "After Tupac Inca Yupanqui had visited all the empire and had come to Cuzco where he was served and adored, being for the time idle, he remembered that his father Pachacuti had called the city of Cuzco the lion city. He said that the tail was where the two rivers unite which flow through it, that the body was the great square and the houses round it, and that the head was wanting: it would be for some son of his to put it on. The Inca discussed this question with the orejones, who said that the best head would be to make a fortress on a high plateau to the north of the city. The Inca sent to all the provinces to order the tucuricos to supply a large number of people for the work; the workmen were divided into parties, each having its duties and officers - some brought stones, others worked them, others placed them. The diligence was such that in a few years the great fortress of Cuzco was built, sumptuous, exceedingly strong, of rough stone, a thing most admirable to look upon; the buildings within were of small worked stone, so beautiful that, if it had not been seen, it would not be believed. What makes it still more worthy of admiration is that they did not possess tools to work the stone, but could only work with other stones.",
+        "zh": "圖帕克·印加·尤潘琪巡視全境、載譽回到庫斯科受奉拜之後,閒暇之餘,想起父親帕查庫提曾稱庫斯科為「獅城」。父王說:兩河匯流處是獅尾(此地至今猶稱「普馬普-丘潘」,獅尾);大廣場與四周屋宇是獅身;唯獨獅首尚缺——須由子孫為它安上。印加王與耳垂貴胄計議,眾謂:當於城北高地上築一堡壘,以為獅首。於是傳令各省,徵集大批民夫;工匠分隊執事,各設官長——運石者、琢石者、砌石者各司其職。數年之間,宏偉的庫斯科要塞落成:粗石壘砌,堅固無比,壯麗驚人;內部殿堂以細琢小石建成,精美絕倫——若非親見,誰能置信。尤令人驚歎的是:他們並無鐵器鋼鑿,全憑以石攻石,竟能琢石如此。"
+      },
+      "motifs": [
+        "foundational-legend",
+        "sacred-place"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "The lion-image etiology of Cuzco and Sacsahuaman; Markham's note argues the cyclopean work is far older than Tupac Inca."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "He remembered that his father Pachacuti had called the city of Cuzco the lion city. He said that the tail was where the two rivers unite which flow through it, that the body was the great square and the houses round it, and that the head was wanting. It would be for some son of his to put it on. The Inca discussed this question with the orejones, who said that the best head would be to make a fortress on a high plateau to the north of the city.",
+          "note": "Condensed paraphrase of Sarmiento, History of the Incas, ch. 53 (Markham 1907); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "The diligence was such that in a few years, the great fortress of Cuzco was built, sumptuous, exceedingly strong, of rough stone, a thing most admirable to look upon. The buildings within it were of small worked stone, so beautiful that, if it had not been seen, it would not be believed how strong and beautiful it was. What makes it still more worthy of admiration is that they did not possess tools to work the stone, but could only work with other stones.",
+          "note": "Condensed paraphrase of Sarmiento, History of the Incas, ch. 53 (Markham 1907); not verbatim."
+        }
+      ],
+      "persons": [],
+      "language": "Spanish record of Quechua testimony",
+      "canonical_translation": "Sir Clements Markham, History of the Incas (Hakluyt Society, 1907)"
+    },
+    {
+      "id": "inca-huayna-capac-named-boy-chief",
+      "title": {
+        "en": "'The Boy Chief': How the Fringe Was Stolen Back for Huayna Capac",
+        "zh": "「少年君王」:為瓦伊納·卡帕克奪回王纓"
+      },
+      "tradition": "inca",
+      "category": "myth",
+      "region": {
+        "en": "Cuzco and Huanacauri (symbolic pin)",
+        "zh": "庫斯科與瓦納考里(象徵性標記)"
+      },
+      "lat": -13.517,
+      "lon": -71.979,
+      "period": "Inca tradition as given to Sarmiento de Gamboa, 1572; trans. Markham 1907",
+      "source": {
+        "archive": "Project Gutenberg",
+        "work": "Pedro Sarmiento de Gamboa, History of the Incas, ch. 55-56, trans. Sir Clements Markham, Hakluyt Society, 1907",
+        "url": "https://www.gutenberg.org/ebooks/20218"
+      },
+      "license": "Public domain (translation 1907)",
+      "summary": {
+        "en": "A woman who had been a concubine of the late Inca, named Ccuri Ocllo, a kinswoman of Ccapac Huari, spoke to her relations: 'Know that Tupac Inca is dead and that, when in health, he had named Ccapac Huari for his successor, but at the end, being on the point of death, he said that Titu Cusi Hualpa, son of Mama Ocllo, should succeed him. You ought not to consent to this. Rather call together all your relations and friends, and raise Ccapac Huari, your elder brother, son of Chuqui Ocllo, to be Inca.' The plot became known to the late Inca's brother, Huaman Achachi: he assembled friends, made them arm themselves, went to where Titu Cusi Hualpa was concealed, proceeded to where the friends of Ccapac Huari had assembled, and killed many of them. Ccapac Huari was banished to Chinchero, never allowed to enter Cuzco again; his mother Chuqui Ocllo, a rebel and witch who had killed her lord Tupac Inca, was put to death; the woman Ccuri Ocllo was also killed. The city being pacified, Huaman Achachi went to Quispicancha where Titu Cusi Hualpa was concealed, brought his nephew to the House of the Sun; after the sacrifices and accustomed ceremonies the image of the Sun delivered the fringe to Titu Cusi Hualpa. The new Inca was placed in a rich litter and borne to the huaca Huanacauri, where he offered a sacrifice; the orejones returned to Cuzco by the route taken by Manco Ccapac. Arrived at the first square, called Rimac-pampa, the accession was announced to the people: when they all assembled and saw how young he was, never having seen him before, they all raised their voices and called him Huayna Ccapac, which means 'the boy chief'; for this reason he was called Huayna Ccapac from that time. He also placed, with great solemnity, the caul in which he was born, in the great edifices he erected at Tumipampa where he had himself been born.",
+        "zh": "先王生前的一位妾室——庫里·奧克略,卡帕克·瓦里一黨的親族——向親屬喊話:「知道嗎,圖帕克·印加已死!他生前曾立卡帕克·瓦里為儲;但臨終之際,卻改口要瑪瑪·奧克略之子圖帕克·庫西·瓦爾帕繼位。你們豈能依從!快召集親族好友,擁立你們的長兄——楚基·奧克略之子卡帕克·瓦里——為印加王!」此謀為先王之弟瓜曼·阿查奇得知:他召集心腹,披甲執械,先護住藏匿的圖帕克·庫西·瓦爾帕,再突襲卡帕克·瓦里一黨聚會之所,誅殺甚眾。卡帕克·瓦里被放逐欽切羅,至死不得再入庫斯科;其母楚基·奧克略——既係叛黨,又是毒殺其主圖帕克·印加的女巫——被處死;庫里·奧克略亦遭誅。京城既定,瓜曼·阿查奇赴基斯皮坎查迎回藏匿的侄兒,送入太陽之屋;獻祭行禮之後,太陽神像將王纓授予圖帕克·庫西·瓦爾帕。新王乘華轎赴瓦納考里瓦卡獻祭,耳垂貴胄沿曼科·卡帕克當年之路返回庫斯科。抵達第一座廣場——里馬克-潘帕——時,向民眾宣布新王登基:眾人聚攏,見王如此年幼,前所未見,齊聲高呼「瓦伊納·卡帕克」——意即「少年君王」。自此,「圖帕克·庫西·瓦爾帕」之名不再使用,皆稱瓦伊納·卡帕克。他曾在自己出生的通米潘帕大興土木,並以隆重的儀式,將自己出生時的胎衣供奉於彼。"
+      },
+      "motifs": [
+        "sacred-kingship",
+        "ritual-origin",
+        "god-exile",
+        "idol-contest",
+        "exile"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Succession coup and counter-coup; the caul relic ties the king's body to his birthplace shrine."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The plot of the party of Ccapac Huari became known to the late Inca's brother, Huaman Achachi. He assembled some friends, made them arm themselves, and they went to where Titu Cusi Hualpa was retired and concealed. They then proceeded to where the friends of Ccapac Huari had assembled, and killed many of them, including Ccapac Huari himself... His mother Chuqui Ocllo was taken and, being a rebel as well as a witch who had killed her lord Tupac Inca, she was put to death. Ccapac Huari was banished to Chinchero... never allowed to enter Cuzco again until his death.",
+          "note": "Condensed paraphrase of Sarmiento, History of the Incas, ch. 55 (Markham 1907); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "After the sacrifices and accustomed ceremonies, the image of the Sun delivered the fringe to Titu Cusi Hualpa. The new Inca having been invested with all the insignia of Ccapac, and placed in a rich litter, they bore him to the huaca Huanacauri, where he offered a sacrifice. The orejones returned to Cuzco by the route taken by Manco Ccapac. Arrived at the first square, called Rimac-pampa, the accession was announced to the people... they all raised their voices and called him Huayna Ccapac which means 'the boy chief' or 'the boy sovereign.'",
+          "note": "Condensed paraphrase of Sarmiento, History of the Incas, ch. 56 (Markham 1907); not verbatim."
+        }
+      ],
+      "persons": [
+        "huaynacapac"
+      ],
+      "language": "Spanish record of Quechua testimony",
+      "canonical_translation": "Sir Clements Markham, History of the Incas (Hakluyt Society, 1907)"
+    },
+    {
+      "id": "inca-pinto-drum-of-skin",
+      "title": {
+        "en": "The Lake Coloured with Blood, and the Drum Made of Pinto's Skin",
+        "zh": "血染之湖與以平托之皮製成的鼓"
+      },
+      "tradition": "inca",
+      "category": "myth",
+      "region": {
+        "en": "Lake Yahuar-cocha, near Ibarra, Ecuador (symbolic pin)",
+        "zh": "厄瓜多伊瓦拉附近亞瓦爾-科查湖(象徵性標記)"
+      },
+      "lat": 0.35,
+      "lon": -78.13,
+      "period": "Inca tradition as given to Sarmiento de Gamboa, 1572; trans. Markham 1907",
+      "source": {
+        "archive": "Project Gutenberg",
+        "work": "Pedro Sarmiento de Gamboa, History of the Incas, ch. 60, trans. Sir Clements Markham, Hakluyt Society, 1907",
+        "url": "https://www.gutenberg.org/ebooks/20218"
+      },
+      "license": "Public domain (translation 1907)",
+      "summary": {
+        "en": "Auqui Toma attacked the fortress of the Cayambis, captured four lines of defence and the outer wall, which was composed of five; but at the entrance the Cayambis killed Auqui Toma, captain of the Cuzcos, who had fought most valorously. The attack and defence was so obstinate and long continued that an immense number of men fell, and the survivors had nowhere to fight except upon heaps of dead men. The desire of both sides to conquer or die was so strong that they gave up their lances and arrows and took to their fists. At last, when they saw that their captain was killed, the Incas began to retreat towards a river into which they went without any care for saving their lives; the river was in flood and a great number of men were drowned. Huayna Ccapac was not dismayed; he marched in person, sent Michi with a third of the army to pass on one side of the fortress without being seen, feigned a flight, drew the Cayambis out in pursuit, and while they were at a distance the detachment entered the fortress and set it on fire. The Cayambis fled towards a lake, thinking to hide among the reeds; the Inca gave instructions that the lake should be surrounded, and in the lake and the swamps on its borders the troops made such havock and slaughter, fighting most furiously in person, that the lake was coloured with the blood of the dead Cayambis: from that time forward the lake has been called Yahuar-cocha, the lake of blood. In the middle of this lake there was an islet with two willow trees, up which some Cayambis climbed, among them their two chiefs named Pinto and Canto, most valiant Indians. The troops of Huayna Ccapac pelted them with stones and captured Canto, but Pinto escaped with a thousand brave Canaris. When at last Pinto surrendered after his hide-out was surrounded and hunger forced him, he had such hatred against Huayna Ccapac that even after his capture, when the Inca had presented him with gifts and treated him kindly, he never could see his face; so he died out of his mind, and Huayna Ccapac ordered a drum to be made of his skin. The drum was sent to Cuzco, and so this war came to an end: it was at Cuzco in the taqui or dance in honour of the Sun.",
+        "zh": "奧基·托馬攻打卡揚比要塞,連破四道防線與外牆(共五道);然而在要塞入口,卡揚比人殺死了驍勇無雙的庫斯科統帥奧基·托馬。此役攻防相持之久、之烈,死傷無數,倖存者竟只能踩著屍山而戰;雙方勝負之志如此決絕,索性棄了長矛弓箭,赤手相搏。最後,印加人見主帥已亡,向河邊潰退——不顧死活地跳入正在暴漲的河中,大批人馬溺斃。瓦伊納·卡帕克不以為餒,親自督師:遣米奇率三分之一兵力潛行繞至要塞一側,自己佯敗而走,誘卡揚比人出城追擊;敵軍既遠,奇兵直入要塞,四處縱火。卡揚比人見老巢火起,逃往湖畔,想藏身蘆葦叢中。瓦伊納·卡帕克下令四面圍湖,親自奮戰最烈;湖中湖畔殺戮之慘,湖水竟被卡揚比死者的血染紅——此湖從此名為「亞瓦爾-科查」,血湖。湖心有一小洲,洲上兩株柳樹;一些卡揚比人攀上樹去,其中有其二酋——平托與坎托,皆至勇之士。印加兵以石投之,擒坎托;平托卻帶一千卡尼亞里勇士脫逃,遁入林莽。後來印加王圍其藏身之地,斷糧迫使平托出降。平托勇烈蓋世,恨瓦伊納·卡帕克入骨:縱然王以厚禮相待、善待有加,他始終不肯與王見面;終至瘋癲而死。瓦伊納·卡帕克命人以他的皮蒙鼓,送至庫斯科——就在祭祀太陽的舞樂「塔基」中使用。這場戰爭就此了結。"
+      },
+      "motifs": [
+        "sacred-kingship",
+        "taboo-transgression"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "The Yahuar-cocha etiology (a real lake name near Ibarra) and the skin-drum trophy of the Sun dance."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "This attack and defence was so obstinate and long continued that an immense number of men fell, and the survivors had nowhere to fight except upon heaps of dead men. The desire of both sides to conquer or die was so strong that they gave up their lances and arrows and took to their fists... The river was in flood and a great number of men were drowned.",
+          "note": "Condensed paraphrase of Sarmiento, History of the Incas, ch. 60 (Markham 1907); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "In order that none might escape he gave instructions that the lake should be surrounded. In that lake, and the swamps on its borders, the troops of Huayna Ccapac, he fighting most furiously in person, made such havock and slaughter, that the lake was coloured with the blood of the dead Cayambis. From that time forward the lake has been called Yahuar-cocha, which means the 'lake of blood.'",
+          "note": "Condensed paraphrase of Sarmiento, History of the Incas, ch. 60 (Markham 1907); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "This Pinto was very brave and he had such hatred against Huayna Ccapac that even, after his capture, when the Inca had presented him with gifts and treated him kindly, he never could see his face. So he died out of his mind, and Huayna Ccapac ordered a drum to be made of his skin. The drum was sent to Cuzco, and so this war came to an end. It was at Cuzco in the taqui or dance in honour of the Sun.",
+          "note": "Condensed paraphrase of Sarmiento, History of the Incas, ch. 60 (Markham 1907); not verbatim."
+        }
+      ],
+      "persons": [
+        "huaynacapac"
+      ],
+      "language": "Spanish record of Quechua testimony",
+      "canonical_translation": "Sir Clements Markham, History of the Incas (Hakluyt Society, 1907)"
+    }
+  ]
+}

@@ -1,0 +1,299 @@
+{
+  "texts": [
+    {
+      "id": "afroatlantic-shango-santa-barbara",
+      "title": {
+        "en": "Shangó, Santa Bárbara: the Thunder God in Cuba",
+        "zh": "香戈與聖巴巴拉：古巴的雷神"
+      },
+      "tradition": "afroatlantic",
+      "category": "myth-religion",
+      "region": {
+        "en": "Havana, Cuba",
+        "zh": "古巴哈瓦那"
+      },
+      "lat": 23.13,
+      "lon": -82.38,
+      "period": "Cuban Lucumí religion; recorded c. 1902-1906; published 2024 (published 2026)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Fernando Ortiz, 'Hampa afro-cubana: Los negros brujos' (1906), ch. on the orishas — 'Shangó equivale a Santa Bárbara' (brujo Bocó de Fendishe's courtroom defense)",
+        "url": "https://archive.org/download/hampa-afro-cubana-los-negros-brujos/hampa-afro-cubana-los-negros-brujos_djvu.txt"
+      },
+      "license": "Public domain (published 2024) (published 2026)",
+      "summary": {
+        "en": "In Cuba as in Brazil, the assimilation of the orishas to the Catholic saints proceeds by function: Shangó, thunder-lord and famous warrior-king, is Santa Bárbara, patroness of thunder and lightning — 'Shangó is Santa Bárbara male', say the Cuban brujos, as the Brazilian ones do, making light of the difference of sex; perhaps the sword in the saint's hand helped. In both hemispheres Shangó is symbolized by a meteoric stone — the 'piedras del rayo' — and his idol is dressed in white linen with red stripes. Tried before the tribunal, the brujo Bocó de Fendishe defended himself skillfully: the altar in his house was dedicated to a Catholic divinity, Santa Bárbara — therefore he was not a brujo.",
+        "zh": "在古巴與巴西，神祇與聖徒的同化依職能而行：香戈——雷電之主、昔日的戰國之王——即雷電主保聖女巴巴拉。古巴的巫者說『香戈是男身的巴巴拉』，巴西亦然，性別之異被一笑置之；聖女畫像中的佩劍或許也助了一臂。兩個半球上，香戈皆以隕石為象——巫者稱之『雷石』——其神偶身披紅條白麻。受審之時，巫者博科·德·芬迪舍機辯如流：家中祭壇奉的是天主教神巴巴拉，故而非巫。"
+      },
+      "motifs": [
+        "storm-thunder",
+        "sacred-kingship",
+        "resurrection",
+        "idol-contest"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Colonial-era criminological source (Ortiz, 1906) using period criminalizing language ('brujos', 'fetichistas'); the syncretism itself is living Lucumí practice. Recorded here as archival description of syncretic equivalence, not as religious instruction; cross-ref: yoruba tradition records of Shango."
+      },
+      "persons": [],
+      "passages": [
+        {
+          "id": "1",
+          "text": "In Cuba, as in Brazil — which demonstrates the logic with which the negroes assimilated their orishas to the Catholic saints — Shangó equals Santa Bárbara: both divinities are patronesses of thunder and lightning. At this point the religious identity of Catholics and African fetishists is absolute, and the latter recognized it without hesitation in one hemisphere and the other. Before the equality of the functions of Shangó and Santa Bárbara they made light of the difference of sex: 'Shangó is Santa Bárbara male,' say the brujos of Cuba, as those of Brazil do. Perhaps the circumstance that Santa Bárbara is frequently represented with a sword in her hand contributed to this — which may have seemed to the African fetishists another analogy with Shangó, who was on earth a famous king and warrior.",
+          "note": "Paraphrase of Ortiz, Hampa afro-cubana: Los negros brujos (1906); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "The brujo Bocó de Fendishe defended himself skillfully before the tribunal that condemned him, saying that the altar he had in his house was dedicated to a Catholic divinity, Santa Bárbara, and that, therefore, he was not a brujo. In Cuba and in Brazil Shangó is symbolized by a meteoric stone; the Afro-Cuban brujos commonly call them piedras del rayo — stones of the lightning. The idol of Shangó is a wooden figure dressed in white linen with red stripes — the colors of this orisha — and adorned with necklaces of beads of the same colors; the kind of mural crown it wears seems to be copied from that which Catholics attribute to Santa Bárbara in her images.",
+          "note": "Paraphrase of Ortiz (1906); not verbatim."
+        }
+      ]
+    },
+    {
+      "id": "afroatlantic-ifa-opelu-cuba",
+      "title": {
+        "en": "Ifá in Cuba: Sixteen Palm-Fruits of Divination",
+        "zh": "古巴的伊法：十六顆棕櫚果問未來"
+      },
+      "tradition": "afroatlantic",
+      "category": "myth-religion",
+      "region": {
+        "en": "Havana, Cuba",
+        "zh": "古巴哈瓦那"
+      },
+      "lat": 23.13,
+      "lon": -82.38,
+      "period": "Cuban Lucumí religion; recorded c. 1902-1906; published 2024 (published 2026)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Fernando Ortiz, 'Los negros brujos' (1906), ch. on the orishas — Ifá, Odú, Opelú and the diviner's chain",
+        "url": "https://archive.org/download/hampa-afro-cubana-los-negros-brujos/hampa-afro-cubana-los-negros-brujos_djvu.txt"
+      },
+      "license": "Public domain (published 2024) (published 2026)",
+      "summary": {
+        "en": "The last of the three great orishas is Ifá, the revealer of the hidden and patron of the relations of the sexes and of death — called also Bangó, god of the fruits of a certain palm, because sixteen of these fruits are employed to obtain the prognostics. In Bahía a kind of collar is used to deduce the auguries, and in Cuba too, where some call it, in Ortiz's judgment erroneously, Ifá of Osunda. Ifá has a companion: Odú, and a messenger: Opelú — and the oracle of the chain of palm-nuts answers questions the saints of the calendar could not, for the negroes found no professional saint among the Catholic list who could satisfy their desire to know the future.",
+        "zh": "三大奧利沙之末是伊法——揭示隱秘之主、男女之事與死亡的護佑神——亦稱邦戈，某種棕櫚之果的神：因問卜需用十六顆此果。巴伊亞以一串念珠推算吉凶，古巴亦然（有人誤稱『奧松達的伊法』）。伊法有伴神奧杜、信使奧佩魯——棕櫚果鏈的神諭能回答聖曆中聖徒所不能者：因天主教諸聖之中，無一能滿足黑人求知未來的心願。"
+      },
+      "motifs": [
+        "oracle-divination",
+        "quest-immortality"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Colonial-era description of Ifá divination material culture (16-palm-fruit chain); the deeper Odú corpus is living initiatory knowledge and is NOT reproduced. Cross-ref: yoruba Ifá records."
+      },
+      "persons": [],
+      "passages": [
+        {
+          "id": "1",
+          "text": "The last of the three great orishas is called Ifá, who is the revealer of the hidden and the patron of the relations of the sexes and of death. He is also called Bangó — god of the fruits of a certain palm — because sixteen of these fruits are employed to obtain the prognostics. In Bahía a species of collar is used to deduce the auguries, and likewise in Cuba, where it is called, in Ortiz's judgment erroneously, by some Ifá of Osunda.",
+          "note": "Paraphrase of Ortiz (1906); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Ifá has a companion: Odú, and a messenger: Opelú. Nina Rodrigues does not cite the Catholic saint assimilated to Ifá, and Ortiz could not discover it: probably the negroes did not find among the list of professional saints one that could satisfy their desires to know the future and the other hidden things — and so the oracle of the palm-fruit chain remained, in the diaspora as at home, the mouth of what is hidden.",
+          "note": "Paraphrase of Ortiz (1906), citing Nina Rodrigues; not verbatim."
+        }
+      ]
+    },
+    {
+      "id": "afroatlantic-yemaya-regla",
+      "title": {
+        "en": "Yemayá, Virgin of Regla: Goddess of the Springs and the Bay",
+        "zh": "葉瑪雅與雷格拉聖母：泉與港灣女神"
+      },
+      "tradition": "afroatlantic",
+      "category": "myth-religion",
+      "region": {
+        "en": "Havana, Cuba (Regla, across the bay)",
+        "zh": "古巴哈瓦那（海灣對岸的雷格拉）"
+      },
+      "lat": 23.12,
+      "lon": -82.33,
+      "period": "Cuban Lucumí religion; recorded c. 1902-1906; published 2024 (published 2026)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Fernando Ortiz, 'Los negros brujos' (1906), ch. on the inferior orishas — Yemanyá and Virgen de Regla",
+        "url": "https://archive.org/download/hampa-afro-cubana-los-negros-brujos/hampa-afro-cubana-los-negros-brujos_djvu.txt"
+      },
+      "license": "Public domain (published 2024) (published 2026)",
+      "summary": {
+        "en": "Among the inferior orishas, Yemanyá or Yemayá, born of Obatalá, is adored as goddess of the streams and the springs, and her fetich is a stone taken from them. In Brazil she is assimilated to Nossa Senhora das Candelárias; in Cuba, to the Virgen de Regla — surely, Ortiz reasons, because that Virgin is the patroness of sailors and is represented over the sea, that is, over the waters of the bay of Havana, on whose edge her sanctuary is raised.",
+        "zh": "次級奧利沙中，葉瑪雅——奧巴塔拉所生——被尊為溪流與泉源女神，其法物是一枚取自泉石。巴西將她同化於燭台聖母；古巴則同化於雷格拉聖母——奧蒂斯推斷：蓋因聖母乃水手之主保，畫像立於海上——即哈瓦那灣的水面上，聖堂便築在灣畔。"
+      },
+      "motifs": [
+        "sacred-place",
+        "divine-marriage"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Colonial-era source (1906); syncretic equivalence recorded as archival fact. Cross-ref: yoruba Yemoja records."
+      },
+      "persons": [],
+      "passages": [
+        {
+          "id": "1",
+          "text": "The inferior orishas are numerous. Inferior is Yemanyá or Yemayá, although born of Obatalá; she is adored as goddess of the streams and the springs, and her fetich is a stone proceeding from them. In Brazil she is assimilated to Nossa Senhora das Candelárias; in Cuba, to the Virgen de Regla — surely because this Virgin is the patroness of the sailors and is represented over the sea, that is to say, over the waters of the bay of Havana, on whose edge the sanctuary is raised.",
+          "note": "Paraphrase of Ortiz (1906); not verbatim. / Paraphrase of Ortiz (1906), citing Nina Rodrigues; not verbatim."
+        }
+      ]
+    },
+    {
+      "id": "afroatlantic-oshosi-snake-saint",
+      "title": {
+        "en": "Oshósi, San Jorge: the Archer Who Freezes the Majá",
+        "zh": "奧索西與聖喬治：定住巨蛇的獵手"
+      },
+      "tradition": "afroatlantic",
+      "category": "myth-religion",
+      "region": {
+        "en": "Havana and Bahía (diaspora), symbolic pin Havana",
+        "zh": "哈瓦那與巴伊亞（僑居地），象徵定位哈瓦那"
+      },
+      "lat": 23.13,
+      "lon": -82.38,
+      "period": "Cuban Lucumí religion; recorded c. 1902-1906; published 2024 (published 2026)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Fernando Ortiz, 'Los negros brujos' (1906), ch. on the inferior orishas — Oshó-oshi, the majá, and San Jorge/San Huberto",
+        "url": "https://archive.org/download/hampa-afro-cubana-los-negros-brujos/hampa-afro-cubana-los-negros-brujos_djvu.txt"
+      },
+      "license": "Public domain (published 2024) (published 2026)",
+      "summary": {
+        "en": "Oshó-oshi, born of Yemayá, is the god of hunters and walkers, symbolized by a human figure armed with a bow, or by the drawn bow holding an arrow — the weapon of his hunting expeditions. An anonymous chronicler records his invocation: when the brujos see a majá — the great Cuban boa — they cry three times 'Osó, osó, osó!' and the animal stands immobile; and they believe that when the serpent is a hundred years old (then they call it Yayá) it casts itself into the sea and becomes a new being that suffers much, cursing at its transformation whoever found it and did not kill it — a malediction greatly feared. In Bahía the hunters' god is Catholicized as San Jorge, mounted and lancing a dragon the negroes took for a snake; in Cuba he is San Alberto — perhaps they meant San Huberto.",
+        "zh": "葉瑪雅所生的奧索西是獵人與行旅之神，象徵為持弓人像或引滿之弓——那是他狩獵遠征的武器。佚名記事者錄下其呼法：巫者見巨蛇『馬哈』，三呼『奧索！奧索！奧索！』，蛇便僵立不動；又傳百歲之蛇（彼時稱『亞亞』）投身入海化為受苦的新生，變形時必咒那遇之而不殺的人——此咒極受畏懼。巴伊亞獵神化為聖喬治——騎馬挺矛刺龍；古巴則稱聖阿爾韋托——或本是聖胡貝托。"
+      },
+      "motifs": [
+        "world-serpent",
+        "transformation",
+        "storm-thunder",
+        "threefold"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Colonial-era source; the Yayá-transformation legend recorded as folk narrative. Cross-ref: yoruba Oshosi records."
+      },
+      "persons": [],
+      "passages": [
+        {
+          "id": "1",
+          "text": "Oshó-oshi, born of Yemanyá according to A. B. Ellis, is the god of the hunters and the walkers; he is symbolized by a human figure armed with a bow, and sometimes by the drawn bow holding an arrow — that is to say, by the weapon with which the god served himself in his hunting expeditions. Without doubt the bow and arrow to be seen in the frontispiece of the altar photographed by Ortiz is an invocation to Oshó-oshi.",
+          "note": "Paraphrase of Ortiz (1906); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "An anonymous chronicler records the invocation: 'When the brujos see a majá, so that it may not do them harm they cry three times these words: Osó, osó, osó! and the animal remains immobile.' They believe that when the animal has completed a century of age — then they call it Yayá — it casts itself into the sea, transforming into a serpent (?) and in that new life suffering much, which is why every time a majá presents itself they try to kill it; for at the moment of its transformation it curses the one who found it and did not kill it — and this malediction is greatly feared.",
+          "note": "Paraphrase of Ortiz (1906), quoting an anonymous chronicler; not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "In Bahía Oshó-oshi is Catholicized under the name of San Jorge, because that saint, in his images, is mounted on horseback and lancing a dragon which — the negroes, not knowing infernal monsters, must have thought — was hunting a snake, which must be the orisha Oshó-oshi. In Cuba they call him San Alberto, for what reason is unknown (perhaps they mean San Huberto, little pronounced in Cuba).",
+          "note": "Paraphrase of Ortiz (1906); not verbatim."
+        }
+      ]
+    },
+    {
+      "id": "afroatlantic-ogun-road-eshu",
+      "title": {
+        "en": "Ogún and Eshú: He Who Opens the Road",
+        "zh": "奧貢與埃舒：開路者"
+      },
+      "tradition": "afroatlantic",
+      "category": "myth-religion",
+      "region": {
+        "en": "Havana and Bahía (diaspora), symbolic pin Havana",
+        "zh": "哈瓦那與巴伊亞（僑居地），象徵定位哈瓦那"
+      },
+      "lat": 23.13,
+      "lon": -82.38,
+      "period": "Cuban and Bahian Yoruba-diaspora religion; recorded c. 1902-1906; published 2024 (published 2026)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Fernando Ortiz, 'Los negros brujos' (1906), ch. on the inferior orishas — Ogún, Eshú and the iron fetiches",
+        "url": "https://archive.org/download/hampa-afro-cubana-los-negros-brujos/hampa-afro-cubana-los-negros-brujos_djvu.txt"
+      },
+      "license": "Public domain (published 2024) (published 2026)",
+      "summary": {
+        "en": "Ogún, emanated also of Yemayá, brother of Shangó and Mars of the Yorubas, is worshipped in Cuba — sometimes confused with Eshú and with Oshúsi under the name Osunda. A negro told Nina Rodrigues, in a figure of speech, that 'Ogún is the one who opens the road for Eshú' — showing that Ogún and Eshú are two orishas, not one: Ogún benign though warlike, Eshú the malign one. Both are represented by iron fetiches, which facilitates the confusion that exists in Cuba too — and the Afro-Bahianos Catholicize Ogún under the name of San Antonio.",
+        "zh": "奧貢——同出葉瑪雅、香戈之弟、約魯巴人的戰神——在古巴受供奉，時與埃舒及奧蘇西混同為『奧松達』。一位黑人對尼納·羅德里格斯打比方說：『奧貢是為埃舒開路的』——足見二者是兩位神：奧貢雜好戰而性善，埃舒則為惡神。二者皆以鐵質法物為象，故混淆亦生於古巴；巴伊亞的黑人則把奧貢化為聖安東尼。"
+      },
+      "motifs": [
+        "culture-hero",
+        "fire-theft"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Colonial-era source (1906). The road-opening formula is recorded as speech, not ritual. Cross-ref: afroatlantic ogun character; yoruba Ogun records."
+      },
+      "persons": [
+        "ogun"
+      ],
+      "passages": [
+        {
+          "id": "1",
+          "text": "Ogún, emanated also of Yemanyá according to A. B. Ellis, brother of Shangó as Bowen says, and Mars of the Yorubas, is worshipped in Cuba, confused at times with Eshú and with Oshúsi, being called also Osunda. The circumstance that Ogún is god of war and of struggle facilitates the confusion with Eshú, the malign divinity; his non-distinction from Oshúsi arises besides, without doubt, from the phonetic likeness.",
+          "note": "Paraphrase of Ortiz (1906); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "A negro said to Nina Rodrigues, in a figure of speech, that 'Ogún is the one who opens the road for Eshú' — which also demonstrates that the orishas Ogún and Eshú are two. Moreover Ogún is represented by fetiches of iron, just as Eshú is, which facilitates the confusion, which in Cuba seems also to exist. The Afro-Bahianos Catholicize Ogún, adoring him under the name of San Antonio.",
+          "note": "Paraphrase of Ortiz (1906), citing Nina Rodrigues; not verbatim."
+        }
+      ]
+    },
+    {
+      "id": "afroatlantic-remedios-skull-altar",
+      "title": {
+        "en": "The Skull Altar of Remedios: the 1904 Police Raid",
+        "zh": "雷梅迪奧斯頭骨祭壇：一九〇四年警查"
+      },
+      "tradition": "afroatlantic",
+      "category": "myth-religion",
+      "region": {
+        "en": "Remedios, Villa Clara, Cuba",
+        "zh": "古比亞克拉拉省雷梅迪奧斯"
+      },
+      "lat": 22.49,
+      "lon": -78.63,
+      "period": "Colonial-era police report of a conjure-society ceremony, 1904; published 2024 (published 2026)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Fernando Ortiz, 'Los negros brujos' (1906), ch. of 'Noticias' — the Remedios Buenavista cemetery profanation and the raid on the house of M. C. (police commissioner's letter, 1904)",
+        "url": "https://archive.org/download/hampa-afro-cubana-los-negros-brujos/hampa-afro-cubana-los-negros-brujos_djvu.txt"
+      },
+      "license": "Public domain (published 2024) (published 2026)",
+      "summary": {
+        "en": "The 1904 case that made Ortiz's book: the grave of a woman two days dead was found in the Buenavista cemetery with the head separated from the trunk; the peaceful town at once supposed the work of brujos. Months later, confidences revealed a meeting of reputed conjurers at the house of a pardo called M. C., 'president of a society of negro brujos'; the police commissioner waited half an hour for the drum that announced the ceremony, then assaulted the house, revolver in hand. On the altar, lit with candles, a cranium; around it jaws of others, spurs of birds, horns of animals, rosaries of human teeth, and a great wooden doll — 'the Messiah', the prisoners said, indicating the name of the person to be profaned to serve as idol for their beliefs.",
+        "zh": "一九〇四年舉國轟動一案：布埃納維斯塔墓園中，一位死去兩日的婦人之墳被掘、頭顱與屍身分離；小鎮居民立疑為巫者所為。數月後線人揭出：蓬頭混血者M.C.家中有『黑巫者會』會議，警長候鼓聲半小時、持槍破門。燭光祭壇之上是一具頭骨，環列下顎、鳥距、獸角、人齒串珠，還有一具大木偶——被捕者稱之『彌賽亞』，指明下一位要被褻瀆為神像的亡者之名。"
+      },
+      "motifs": [
+        "witch",
+        "resurrection",
+        "taboo-transgression",
+        "idol-contest"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Archival police narrative (1904), preserved here as historical record of colonial criminalization of Afro-Cuban religion; the account is the state's framing of an alleged Palo/Nkisi ceremony, not the practitioners' self-understanding. Names redacted as in source; no ritual instruction reproduced."
+      },
+      "persons": [],
+      "passages": [
+        {
+          "id": "1",
+          "text": "In the Buenavista cemetery, a rural barrio of Remedios, the sepulture of a lady deceased two days before had been violated and her cadaver profaned; the profanation consisted in separating the head from the trunk of the cadaver, and it impressed the peaceful inhabitants of the territory greatly — from the first moment it was supposed to be the work of brujos, of the many that unfortunately exist in the country.",
+          "note": "Paraphrase of Ortiz, 'Noticias' ch. (1906), from the police commissioner's letter; not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Active efforts to discover the authors obtained nothing for some months; then, by confidences obtained, it became known that on the 23rd of September certain individuals stigmatized as brujos had met to hold a session in the house of a pardo named M. C., a subject regarded as president of a society of negro brujos.",
+          "note": "Paraphrase of Ortiz (1906); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "The commissioner waited half an hour more, and when he felt the tap of the drum announcing that the ceremony had begun, he assaulted the house with two guards, revolver in hand, surprising the negroes, who tried to flee and were immediately arrested — and there presented itself a repugnant spectacle. In the place of honor of an altar illuminated with candles there was seen a cranium, and around it, jaws of others, spurs of birds, horns of animals, rosaries of human teeth, and a great wooden doll which, according to the declaration of the detained, was the 'Messiah' that indicated the name of the person who was to be profaned to serve as idol for their beliefs. The ceremony consisted in this: the one who acted as president, dressed in a strange costume and a high cap, gave leaps and savage cries before the altar, and the rest of his companions, arranged in chorus, with lowered heads and arms thrown backward, in an attitude of praying. Occupied with the objects, the commissioner conducted the detained, all of the black race, to the city, putting them at the disposition of the court, which condemned them to six months of prison.",
+          "note": "Paraphrase of Ortiz (1906), from the police commissioner's letter; not verbatim."
+        }
+      ]
+    }
+  ]
+}

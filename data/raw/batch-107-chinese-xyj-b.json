@@ -1,0 +1,624 @@
+{
+  "texts": [
+    {
+      "id": "chinese-xyj-jinghe-dragon",
+      "title": {
+        "en": "The Jinghe Dragon Loses a Rain-Bet and His Head",
+        "zh": "涇河龍王犯天條"
+      },
+      "tradition": "chinese",
+      "category": "myth",
+      "region": {
+        "en": "Chang'an and the Jing River (pin: Shaanxi)",
+        "zh": "長安涇河（陝西）"
+      },
+      "lat": 34.3,
+      "lon": 108.8,
+      "period": "Journey to the West, 16th c. (attrib. Wu Cheng'en, ch. 10)",
+      "source": {
+        "archive": "Wikisource (zh)",
+        "work": "Journey to the West, ch. 10: the fortune-teller's fish-price, the rain-bet, and Wei Zheng's dream-execution",
+        "url": "https://zh.wikisource.org/wiki/%E8%A5%BF%E9%81%8A%E8%A8%98"
+      },
+      "license": "Public domain (Ming novel; passages are compiler's renderings)",
+      "summary": {
+        "en": "A fisherman prospered by the word of a diviner, and the Jinghe dragon, furious that his shrimp-ministers were sold by the pound, went up as a white-robed scholar to humble the fortune-teller Yuan Shoucheng — who set him a rain-wager. The dragon held heaven's rain-docket, and altered the decree by an inch of rain and an hour of time: a small cheat, a capital crime. The executioner was the minister Wei Zheng — and the Emperor, keeping him awake beside him at chess, could not stop the blade that fell in Wei Zheng's dream.",
+        "zh": "涇河龍王與袁守誠賭雨，擅改玉帝旨意，剋扣雨點時辰，犯下死罪；監斬者乃人曹官魏徵；太宗以棋絆之，魏徵夢中斬龍——龍頭落於剮龍臺。"
+      },
+      "motifs": [
+        "oracle-divination",
+        "taboo-transgression",
+        "transformation"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Passages are the compiler's condensed paraphrases of the novel."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "A diviner at Chang'an market told a fisherman where to cast, and the fisherman's baskets came up silver; the shrimps and carp of the Jinghe river were his daily catch, and the river's dragon resolved to drive the star-reader from the city. He came up as a white-robed scholar and challenged the fortune-teller to name tomorrow's rain to the inch and the hour.",
+          "note": "Paraphrase of Journey to the West, ch. 10 (compiler's rendering); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "The next day heaven's rain-docket arrived and matched the prediction to the point — except that the dragon, to win the bet, cut the fall short by one inch of rain and one hour of time. That was treason against the decree of heaven: by the law of the rain, a river-god who alters the Heavenly Ordinance must die, and the blade belonged to Wei Zheng, a mortal minister who executed in his sleep.",
+          "note": "Paraphrase of Journey to the West, ch. 10, the altered decree; not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "The dragon begged the Emperor to keep Wei Zheng beside him all day, and the Emperor did — at the chess board. But at midday the minister nodded, and in his dream he mounted a cloud, drew his sword, and cut the dragon's head from its body; the head fell on the execution terrace of the sky, and the dragon's ghost came nightly to demand of the Emperor the life he had promised to save.",
+          "note": "Paraphrase of Journey to the West, ch. 10, dream-execution; not verbatim."
+        }
+      ],
+      "persons": []
+    },
+    {
+      "id": "chinese-xyj-taizong-hell",
+      "title": {
+        "en": "Emperor Taizong's Journey Through the Underworld",
+        "zh": "唐太宗入冥"
+      },
+      "tradition": "chinese",
+      "category": "myth",
+      "region": {
+        "en": "The underworld courts and the Naihe bridge (symbolic pin: Fengdu, Sichuan)",
+        "zh": "幽冥地府（象徵性定位：豐都）"
+      },
+      "lat": 29.87,
+      "lon": 107.73,
+      "period": "Journey to the West, 16th c. (attrib. Wu Cheng'en, chs. 10-11); older Tang tale 'Taizong Ruming' preserved in Dunhuang manuscripts",
+      "source": {
+        "archive": "Wikisource (zh)",
+        "work": "Journey to the West, chs. 10-11: the death of the Emperor, the tour of the Ten Courts, and the return with twenty years",
+        "url": "https://zh.wikisource.org/wiki/%E8%A5%BF%E9%81%8A%E8%A8%98"
+      },
+      "license": "Public domain (Ming novel; passages are compiler's renderings)",
+      "summary": {
+        "en": "The dragon-king's ghost dragged the dying Emperor to the underworld courts, where the Ten Kings called him to answer for the fratricide of his brothers; a bribed judge altered the ledger to add twenty years, the six kings of the six paths displayed their realms, the Ghost Gate and the iron city held the murdered brothers of his own past, and the Emperor, released at the Naihe bridge with a promise of a grand water-mass for the dead, came back to life to hold the Grand Mass and send a monk west for true scriptures.",
+        "zh": "魏徵修書托崔玨；崔判官私改生死簿，添太宗二十年陽壽；六道輪迴、枉死城中兄建成弟元吉索命；奈何橋、業鏡輪迴——還陽後做水陸大會，選玄奘取經——取經之緣由此結成。"
+      },
+      "motifs": [
+        "descent-underworld",
+        "oracle-divination",
+        "world-renewal",
+        "kin-slaying"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Passages are the compiler's condensed paraphrases of the novel. Cross-tradition descent-to-underworld cluster; also a satirical mirror of bureaucratic corruption (a judge amending the ledger for a donor) — noted as the novel's deliberate irony."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The dragon-king's ghost, dragged to death by a dream-blade, came to the Emperor's bedside nightly until the Emperor sickened and died. Wei Zheng, who had beheaded him, wrote a letter of recommendation to his friend Cui Jue, a judge among the Ten Courts of the underworld, and slipped it into the Emperor's sleeve for the journey down.",
+          "note": "Paraphrase of Journey to the West, ch. 10-11 (compiler's rendering); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "In the Hall of Darkness the Ten Kings asked Wei Zheng's letter; the judge Cui Jue, reading it, quietly took the ledger of life and death and altered the Emperor's allotted years from thirty-three to fifty-three — twenty years added by a single stroke of a bureaucrat's brush. But the six paths were shown to the Emperor all the same: the mountain of knives, the ice of the guilty, the iron city where his two murdered brothers — Li Jiancheng and Li Yuanji — seized his robe and screamed for restitution.",
+          "note": "Paraphrase of Journey to the West, ch. 11, the ledger and the iron city; not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "Released at the Naihe bridge with a promise of a Grand Mass of Water-and-Land to feed the hungry ghosts of the six paths, the Emperor climbed back into his body as it lay in the coffin, and the mourners fled the vault as the dead man coughed. He lived his twenty added years, founded the mass for the dead — and, told that only the true scriptures of the west could finish the salvation of the drowned and murdered souls, sent Xuanzang out through the western gate.",
+          "note": "Paraphrase of Journey to the West, ch. 11-12, return and commission; not verbatim."
+        }
+      ],
+      "persons": [
+        "tang-sanzang"
+      ],
+      "language": "Classical vernacular Chinese (Ming baihua)",
+      "canonical_translation": "Compiler's English rendering from the public-domain original; consulted (copyright, summary only): Anthony C. Yu, Journey to the West, 1977-1986; W. J. F. Jenner, Journey to the West, 1982",
+      "narrative": {
+        "en": "The underworld journey of Emperor Taizong is the deepest structural episode of Journey to the West — the descent to the dead that sets the whole pilgrimage in motion. It reworks a Tang-dynasty tale, 'Taizong enters the underworld' (Taizong Ruming), preserved in Dunhuang manuscripts, which the novel expands into a full bureaucratic tour of the Chinese hell.\n\nBEGINNING: A DEBT OF BLOOD. The dragon-king of the Jing River, beheaded in a dream by the minister Wei Zheng, haunts the Emperor nightly until the Emperor dies. His soul goes down with a letter of recommendation sewn into his sleeve — the dead travel with connections in the novel's world. At the Hall of Darkness the Ten Kings sit in judgment; the judge Cui Jue, who owes Wei Zheng a favor, takes the ledger of life and death and quietly amends the Emperor's entry: thirty-three years become fifty-three. Twenty years of life added by one clerk's stroke.\n\nMIDDLE: THE TOUR OF THE SIX PATHS. But justice has its own bureaucracy. The Emperor is shown the six paths of rebirth and the machinery of punishment — the mountain of knives, the boiling pots, the ice cells, the bridge of the three crossings — and, in the iron city, the ghosts of his own murdered brothers, Li Jiancheng and Li Yuanji, the princes he destroyed in the coup of 626, who seize his sleeves and demand justice before all the dead. History's fratricide becomes the underworld's open wound. The Emperor promises a Grand Mass of Water-and-Land, the great Chinese rite of feeding the dead, to quiet the hungry ghosts.\n\nEND: THE RETURN AND THE COMMISSION. The judge escorts him to the Naihe bridge; the Emperor refuses the cup of Meng Po's broth of forgetting, and climbs back into the body laid out in the coffin, coughing in the presence of the mourning court. He lives his added twenty years, holds the mass — and learns from Guanyin, manifested at the mass, that only the scriptures of the west can complete the salvation of the dead souls. So he selects the monk Xuanzang, gives him his own surname Tang and the title 'pilgrim of the scriptures,' and sends him out the western gate with a bowl, a horse, and the mandate of two worlds.\n\nFUNCTION. The episode is three things at once: a descent-myth with the full inventory of the Chinese underworld (Ten Courts, ledgers, the six paths, hungry ghosts); a political satire (even the Emperor's fate can be bought with the right connection — the novel's wry mirror of Tang legal bureaucracy); and the narrative engine of the whole book, converting a personal debt of the Emperor into the salvation-quest of a monk. In cross-tradition terms it stands with Odysseus's Nekyia and Er's myth: a king returns from the dead with a program for the living.",
+        "zh": "唐太宗入冥為全書樞紐：魏徵修書、崔判私改生死簿添壽、枉死城兄弟索命、奈何橋還陽、設水陸大會、選玄奘西行。敦煌《唐太宗入冥記》古本與小說對讀：冥府科層、簿籍、六道俱全，而判官改簿之諷刺直指官僚制度。功能：下冥之型（十殿、六道、餓鬼）、政治諷喻、取經之動機——國王之債轉為沙門之願。"
+      },
+      "functions": [
+        "Full inventory descent-myth: Ten Courts, ledgers of fate, six paths, hungry ghosts",
+        "Satire of bureaucracy: twenty years bought by a letter of recommendation",
+        "Conversion of imperial debt into monastic quest (the engine of the pilgrimage)",
+        "Charter of the Water-and-Land mass for the dead (ritual anchor)"
+      ],
+      "variants": [
+        {
+          "name": "Dunhuang 'Taizong Ruming' tale (Tang)",
+          "text_tradition": "Dunhuang manuscript fragments (S.2630 etc.), ed. Wang Zhongmin",
+          "summary": "The Tang prototype: the Emperor's soul dragged to court, interrogated by a dead official, and sent back to found the mass for the dead — without the dragon-king frame or the added years.",
+          "cross_ref": "chinese-xyj-taizong-hell"
+        },
+        {
+          "name": "Novel chs. 10-11 — the amended ledger",
+          "text_tradition": "Journey to the West, 1592 Shidetang edition",
+          "summary": "The novel adds the dragon-king backstory, Wei Zheng's dream-execution, the judge's twenty-year amendment, and the murdered brothers in the iron city.",
+          "cross_ref": "chinese-xyj-taizong-hell"
+        }
+      ],
+      "primary_sources": [
+        {
+          "work": "Journey to the West, chs. 10-11",
+          "citation": "Attributed Wu Cheng'en, 1592 Shidetang edition; Classical vernacular Chinese via Wikisource.",
+          "language": "Ming vernacular Chinese"
+        },
+        {
+          "work": "'Taizong Ruming' (Taizong enters the underworld)",
+          "citation": "Tang tale, Dunhuang MSS; cited in scholarship on the novel's sources.",
+          "language": "Classical Chinese"
+        }
+      ],
+      "secondary_sources": [
+        {
+          "work": "Andrew H. Plaks, The Four Masterworks of the Ming Novel",
+          "citation": "Plaks 1987, Princeton: Princeton University Press — structural allegory of the novel's descent."
+        },
+        {
+          "work": "Anthony C. Yu, introduction and translation of Journey to the West",
+          "citation": "Yu 1977-1986, Chicago: University of Chicago Press — historical notes on the underworld chapters."
+        }
+      ],
+      "source_urls": [
+        {
+          "url": "https://zh.wikisource.org/wiki/%E8%A5%BF%E9%81%8A%E8%A8%98",
+          "description": "Wikisource (zh) — Journey to the West, public-domain Ming text",
+          "accessed": "2026-11-13"
+        }
+      ],
+      "sensitivity_flag": "none",
+      "provenance": {
+        "record_status": "complete",
+        "compiled": "2026-11-13",
+        "compiled_by": "DHG508 fieldwork compilation",
+        "review_status": "draft - pending human review"
+      }
+    },
+    {
+      "id": "chinese-xyj-pingdingshan",
+      "title": {
+        "en": "The Golden-Horn and Silver-Horn Kings of Flat-Top Mountain",
+        "zh": "平頂山金角銀角"
+      },
+      "tradition": "chinese",
+      "category": "myth",
+      "region": {
+        "en": "Flat-Top Mountain Lotus-Flower Cave (pin: mythic westward route)",
+        "zh": "平頂山蓮花洞"
+      },
+      "lat": 33.5,
+      "lon": 98.5,
+      "period": "Journey to the West, 16th c. (attrib. Wu Cheng'en, chs. 32-35)",
+      "source": {
+        "archive": "Wikisource (zh)",
+        "work": "Journey to the West, chs. 32-35: the five treasures — the gourd, the vase, the sword, the fan, the rope — and the name-calling contest",
+        "url": "https://zh.wikisource.org/wiki/%E8%A5%BF%E9%81%8A%E8%A8%98"
+      },
+      "license": "Public domain (Ming novel; passages are compiler's renderings)",
+      "summary": {
+        "en": "Two demon kings of Flat-Top Mountain held five magic treasures — chief among them a red-gold gourd that, if you answered to your own name, swallowed you and melted you to pus in an instant. The demon boys tricked the pilgrims into naming themselves; Wukong stole the gourd, called the kings' own names in answer, drank them both, and turned out the treasure: the two demons were the tending boys of Laozi's own furnace, sent down to try the pilgrims — and were carried back to the Tushita palace by the old man himself.",
+        "zh": "平頂山蓮花洞金角銀角大王持五寶：紫金紅葫蘆、羊脂玉淨瓶、幌金繩、七星劍、芭蕉扇；叫名即吸——悟空騙得葫蘆，反叫二魔之名吸入瓶中；太上老君收回二童（爐中看爐之童子下界）。"
+      },
+      "motifs": [
+        "trickster",
+        "transformation"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Passages are the compiler's condensed paraphrases of the novel."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Two demon kings guarded Lotus-Flower Cave with five treasures of heaven-forging: a purple-gold gourd, a white-jade vase, a golden rope, a seven-star sword and a plantain fan. The gourd was the terror of the country: called by its true name, a man answered — and once the answer left his lips, he was sucked inside and dissolved to soup in an instant.",
+          "note": "Paraphrase of Journey to the West, chs. 32-33 (compiler's rendering); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "The demons' boys, sent with the gourd to capture the monk, were out-witted by the monkey, who stole the gourd and filled it with a replica of himself. The demon kings called his name; the monkey answered with a false name and was not swallowed; then Wukong, holding the stolen gourd, called the true names of the two kings — and they answered, and the gourd took them both.",
+          "note": "Paraphrase of Journey to the West, ch. 35, the name-contest; not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "Opening the gourd, he poured out two streams of water — the demons dissolved. And Laozi descended to reclaim his treasure: the two kings had been the tending-boys of his furnace, sent down to earth to make trial of the pilgrims' hearts. The five treasures went back to the Tushita palace, and the road west lay open again.",
+          "note": "Paraphrase of Journey to the West, ch. 35, Laozi's retrieval; not verbatim."
+        }
+      ],
+      "persons": [
+        "sunwukong"
+      ]
+    },
+    {
+      "id": "chinese-xyj-wuji-false-king",
+      "title": {
+        "en": "The False King of Wuji and the Well's Drowned Ghost",
+        "zh": "烏雞國假國王"
+      },
+      "tradition": "chinese",
+      "category": "myth",
+      "region": {
+        "en": "Wuji Kingdom on the western road (pin: mythic westward route)",
+        "zh": "烏雞國"
+      },
+      "lat": 32.0,
+      "lon": 97.0,
+      "period": "Journey to the West, 16th c. (attrib. Wu Cheng'en, chs. 36-39)",
+      "source": {
+        "archive": "Wikisource (zh)",
+        "work": "Journey to the West, chs. 36-39: the ghost of the true king, the well of the Crystal Palace, and the lion-demon exposed",
+        "url": "https://zh.wikisource.org/wiki/%E8%A5%BF%E9%81%8A%E8%A8%98"
+      },
+      "license": "Public domain (Ming novel; passages are compiler's renderings)",
+      "summary": {
+        "en": "The true king of Wuji drowned three years ago in a well, murdered by a demon who took his shape, his throne and his queen; his ghost begged the Tang monk for justice, and the monkey fished the body from the well — preserved whole by a well-dragon's pearl. With the fake elixir of a pill the soul was called back into the corpse, the false king was exposed before the court — and he was a lion of Manjusri's own stable, sent down to pay a kingly insult to the Bodhisattva.",
+        "zh": "烏雞國王三年前被獅猁怪推入井中，妖魔變作國王霸其國；真王鬼魂託夢三藏；悟空井中撈屍，太上老君還魂丹救活；假王現形，乃文殊菩薩坐下獅子——為償國王捆縛菩薩三日之報。"
+      },
+      "motifs": [
+        "resurrection",
+        "transformation",
+        "descent-underworld",
+        "ghost-return",
+        "elixir-life"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Passages are the compiler's condensed paraphrases of the novel."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The ghost of a drowned king came to the pilgrims' night-fire and told his tale: three years past, a demon in a Taoist robe brought rain in a drought, was made brother of the king — and pushed the king into a well at the Back Garden, took his shape and his crown, and has sat on the throne ever since.",
+          "note": "Paraphrase of Journey to the West, chs. 36-37 (compiler's rendering); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Wukong went down the well with a sea-fork and found at its bottom a Crystal Palace of the well-dragon, and the king's body laid out whole and fresh, kept incorrupt by a pearl of the dragon's keeping. He bore it up in the night to the prince, told the truth to the boy — and the prince, on his mother's word, believed.",
+          "note": "Paraphrase of Journey to the West, ch. 38, the well-body; not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "The false king was lured into the open court; the true body, with a pill of revivification from Laozi's own crucible, sat up and named its murderer. The demon unmasked was a lion of the stable of Manjusri — sent down because the king of Wuji had once bound the Bodhisattva and soaked him three days in the river: the lion's three years of theft were the payment of a king's insult.",
+          "note": "Paraphrase of Journey to the West, ch. 39, the trial and Manjusri's lion; not verbatim."
+        }
+      ],
+      "persons": [
+        "sunwukong",
+        "tang-sanzang"
+      ]
+    },
+    {
+      "id": "chinese-xyj-red-boy",
+      "title": {
+        "en": "Red Boy of Fire-Cloud Cave, Adopted by Guanyin",
+        "zh": "紅孩兒善財童子"
+      },
+      "tradition": "chinese",
+      "category": "myth",
+      "region": {
+        "en": "Fire-Cloud Cave, Hao-thorn ridge west of Flaming Mountains (pin: mythic westward route)",
+        "zh": "號山枯松澗火雲洞"
+      },
+      "lat": 33.0,
+      "lon": 96.5,
+      "period": "Journey to the West, 16th c. (attrib. Wu Cheng'en, chs. 40-42)",
+      "source": {
+        "archive": "Wikisource (zh)",
+        "work": "Journey to the West, chs. 40-42: the boy-demon's samadhi fire, the five carts, and the conversion into Sudhana",
+        "url": "https://zh.wikisource.org/wiki/%E8%A5%BF%E9%81%8A%E8%A8%98"
+      },
+      "license": "Public domain (Ming novel; passages are compiler's renderings)",
+      "summary": {
+        "en": "The demon Red Boy, son of the Bull Demon King, had cultivated the true fire of samadhi for three hundred years: from five magic carts he poured a fire even the rain-gods could not quench, and from his breath he blew a smoke that struck the Monkey King's heart and nearly killed him. Wukong fetched Guanyin, who lured the boy onto a lotus seat of spears, subdued him with rings of gold — and took him to Potalaka as her page: the demon became the boy Sudhana, attendant of the Bodhisattva.",
+        "zh": "紅孩兒乃牛魔王之子，三百年修得三昧真火，五輛車子三昧真火焚天；悟空請觀音，蓮花寶座化刀，金箍套頸——收為善財童子，隨侍紫竹林。"
+      },
+      "motifs": [
+        "miraculous-birth",
+        "storm-thunder",
+        "transformation",
+        "meditation",
+        "bodhisattva"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Passages are the compiler's condensed paraphrases of the novel."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The demon Red Boy was a child in looks only: three hundred years of cultivation had won him the true fire of samadhi, drawn from the mouth and nostrils, hotter than any flame of wood. He stationed five magic carts of fire about his cave and breathed the fire of them at whatever came near — and the Monkey King, struck by the smoke of it, plunged into a stream and nearly burst his heart.",
+          "note": "Paraphrase of Journey to the West, chs. 40-41 (compiler's rendering); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "The dragons rained and could not quench it; the monkey fetched Guanyin. The Bodhisattva sent a message, lured the boy to a lotus seat of blades that turned to thorns and rings of gold, and bound him hand and foot — the demon, disarmed, transformed into a boy of great beauty, barefoot and garlanded.",
+          "note": "Paraphrase of Journey to the West, ch. 41-42, Guanyin's subduing; not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "Guanyin led him back to Potalaka to stand beside her as a page — the boy Sudhana, the Child of Wealth, attendant of the Bodhisattva of Mercy. The fire demon of the western road became one of the gentlest presences in the Buddhist heavens: a conversion the Tang monk's party watched with awe, and the demon's father, the Bull Demon King, never forgave.",
+          "note": "Paraphrase of Journey to the West, ch. 42, adoption as Sudhana; not verbatim."
+        }
+      ],
+      "persons": [
+        "sunwukong"
+      ]
+    },
+    {
+      "id": "chinese-xyj-tongtianhe-fish",
+      "title": {
+        "en": "The Inspiration King of the Cross-Heaven River",
+        "zh": "通天河靈感大王"
+      },
+      "tradition": "chinese",
+      "category": "myth",
+      "region": {
+        "en": "Tongtian River, Chen family village (pin: mythic westward route)",
+        "zh": "通天河陳家莊"
+      },
+      "lat": 32.5,
+      "lon": 95.0,
+      "period": "Journey to the West, 16th c. (attrib. Wu Cheng'en, chs. 47-49)",
+      "source": {
+        "archive": "Wikisource (zh)",
+        "work": "Journey to the West, chs. 47-49: the yearly sacrifice of a child, the ice-bridge of the frozen river, and the goldfish of Guanyin's pond",
+        "url": "https://zh.wikisource.org/wiki/%E8%A5%BF%E9%81%8A%E8%A8%98"
+      },
+      "license": "Public domain (Ming novel; passages are compiler's renderings)",
+      "summary": {
+        "en": "By the Cross-Heaven River a demon called himself the Inspiration King and took each year a boy and a girl from the Chen household as his sacrifice. Wukong and Bajie took the children's places, fought the demon, and drove him under the ice; the monk was carried off through the frozen river's hole, and only Guanyin, wading barefoot with fish-baskets, could draw her goldfish — escaped from her own pond, nine years unattended — from the riverbed.",
+        "zh": "靈感大王每年食童男童女；八戒悟空代之，冰凍通天河；三藏被水底攝去；觀音以魚籃收金魚精——原是蓮池中金魚，觀音未梳妝而至。"
+      },
+      "motifs": [
+        "world-serpent",
+        "transformation",
+        "boon-curse",
+        "bodhisattva"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Passages are the compiler's condensed paraphrases of the novel."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The Chen family by the river offered a boy and a girl each year to the Inspiration King, whose flood-temple stood on the bank, and the two children of this year wept in the offering hall until the pilgrims took their places — Bajie in the girl's dress and Wukong in the boy's, sitting in the sacrifice to await the god.",
+          "note": "Paraphrase of Journey to the West, ch. 47 (compiler's rendering); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "The demon came as a winter gale; the brothers fought him off, and he fled down into the deep. In the night the river froze bridge-hard, the monk crossed on the ice — and the demon, striking through the frozen surface, carried him down to his Water-Turtle Palace. The frozen river thawed, the monk was gone, and only the white dragon horse wept that his master was under the water.",
+          "note": "Paraphrase of Journey to the West, chs. 48-49, the ice and the abduction; not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "Guanyin came barefoot and unadorned, wove a fish-basket of wands, and drew from the river a great goldfish — her own pond's pet, escaped nine years before to become the scourge of the river villages. She hung the basket on her shoulder and went back to the South Sea; and an old white turtle of the riverbed ferried the pilgrims across the water to the western shore.",
+          "note": "Paraphrase of Journey to the West, ch. 49, the goldfish and the turtle; not verbatim."
+        }
+      ],
+      "persons": [
+        "sunwukong"
+      ]
+    },
+    {
+      "id": "chinese-xyj-chechi-three-dao",
+      "title": {
+        "en": "The Three Demon Immortals of Cart-Slow Kingdom",
+        "zh": "車遲國三妖鬥法"
+      },
+      "tradition": "chinese",
+      "category": "myth",
+      "region": {
+        "en": "Cart-Slow (Chechi) Kingdom (pin: mythic westward route)",
+        "zh": "車遲國"
+      },
+      "lat": 34.0,
+      "lon": 94.0,
+      "period": "Journey to the West, 16th c. (attrib. Wu Cheng'en, chs. 44-46)",
+      "source": {
+        "archive": "Wikisource (zh)",
+        "work": "Journey to the West, chs. 44-46: rain-calling by decree, the meditation-box gamble, and the three lethal contests",
+        "url": "https://zh.wikisource.org/wiki/%E8%A5%BF%E9%81%8A%E8%A8%98"
+      },
+      "license": "Public domain (Ming novel; passages are compiler's renderings)",
+      "summary": {
+        "en": "In Cart-Slow Kingdom three demon-immortals — tiger, deer and goat in their true shapes — had enslaved two thousand Buddhist monks to haul carts up a mountain ridge. The pilgrims freed the monks, and the demons demanded a trial by magic: rain-summoning (won by Wukong's manipulation of the rain-bureaucracy), meditation on high platforms (won by Bajie's hair-transformed louse), then head-removal, gut-plucking, and oil-boiling — lethal contests in which each demon lost his life to the monkey's mimicry.",
+        "zh": "車遲國虎力、鹿力、羊力三大仙役使和尚拉車；悟空解放僧人，三妖鬥法求雨、雲梯坐禪、隔板猜物；賭砍頭、剖腹、下油鍋——虎力斷頭不歸、鹿力剖腹現羊、羊力油炸現羚羊——三妖皆死。"
+      },
+      "motifs": [
+        "trickster",
+        "oracle-divination",
+        "transformation",
+        "meditation"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Passages are the compiler's condensed paraphrases of the novel. The demons are fake Daoists — the novel's satire on corruption of both Buddhist and Daoist establishments; noted."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "In Cart-Slow Kingdom the three national immortals — Tiger-Power, Deer-Power and Antelope-Power — had turned two thousand Buddhist monks into haulers of carts up a ridge of rock for the building of the three demons' temples. The pilgrims freed them in the night, and the demons demanded justice before the king: a trial by magic between the monks and the masters of the road.",
+          "note": "Paraphrase of Journey to the West, chs. 44 (compiler's rendering); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "First, rain: the demons danced their papers and calls, and the monkey went up to the rain-bureaucracy and ordered the weather bureau around — wind, cloud, thunder and rain falling only at the monk's nod, and bright sun at his frown. Then the guessing-contest through a cabinet: the monkey, changing into a moth and a cricket, spoiled every guess and put right every one of his own side's.",
+          "note": "Paraphrase of Journey to the West, ch. 45, the contests; not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "Then came the lethal games. Head-cutting: the Tiger immortal's head did not return, and a hawk took it away — the demon died. Gut-plucking: the Deer immortal's bowels were pecked by a hawk in the shape of the monkey's own trick, and he collapsed in his true form, a deer. The Antelope immortal boiled in oil; the monkey blew the oil cold, then heated it himself, and the demon, cooked in his turn, rose as a scorched antelope. Three contests, three deaths, and the Buddhist monks of Cart-Slow went free.",
+          "note": "Paraphrase of Journey to the West, ch. 46, the lethal contests; not verbatim."
+        }
+      ],
+      "persons": [
+        "sunwukong"
+      ]
+    },
+    {
+      "id": "chinese-xyj-nvwa-guo-xiliang",
+      "title": {
+        "en": "The Women's Kingdom of Xiliang and the Scorpion of Pipa Cave",
+        "zh": "女兒國與琵琶洞蠍子精"
+      },
+      "tradition": "chinese",
+      "category": "myth",
+      "region": {
+        "en": "Women's Kingdom of Xiliang, west of the Childless River (pin: mythic westward route)",
+        "zh": "西梁女國、解陽山琵琶洞"
+      },
+      "lat": 32.0,
+      "lon": 93.0,
+      "period": "Journey to the West, 16th c. (attrib. Wu Cheng'en, chs. 53-55)",
+      "source": {
+        "archive": "Wikisource (zh)",
+        "work": "Journey to the West, chs. 53-55: the pregnancy river, the queen's proposal, and the scorpion-demon's bridal cave",
+        "url": "https://zh.wikisource.org/wiki/%E8%A5%BF%E9%81%8A%E8%A8%98"
+      },
+      "license": "Public domain (Ming novel; passages are compiler's renderings)",
+      "summary": {
+        "en": "Drinking from the Childless River, the Tang monk and Bajie grew heavy with child, and had to drink the abortive waters of the Spring of Delivered Motherhood — guarded by a jealous immortal of the true stream. In the Women's Kingdom, a realm of queens and no men, the young queen proposed marriage to the monk for his kingdom's sake — and while the pilgrims staged the wedding-escort, the Scorpion Demon of Pipa Cave snatched the monk to her cave; her poisoned stinger had wounded even the Buddha, and only the Star Officer Mao, the celestial rooster, could crow her out of her hole.",
+        "zh": "子母河水使三藏八戒胎動，落胎泉水解之；女兒國女王願以一國相托婚配三藏；假親脫網之計，琵琶洞蠍子精攝三藏——蠍尾毒曾螫如來；昴日星官現本相（雞）鳴而蠍死。"
+      },
+      "motifs": [
+        "transformation",
+        "boon-curse",
+        "divine-marriage",
+        "jealousy"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Passages are the compiler's condensed paraphrases of the novel."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "At the Childless River the monk and the pig drank greedily of the current, and by evening both were heavy with child. The midwives of the village sent them west to the Spring of the Delivered Mother, where a single draught dissolved the pregnancy — but the spring was guarded by a vengeful immortal whose own spring Wukong had to conquer first.",
+          "note": "Paraphrase of Journey to the West, ch. 53 (compiler's rendering); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "In the Women's Kingdom — a country of queens, never men — the young queen heard of the monk and proposed to marry him, offering him the whole state. The pilgrims, needing to pass, staged a betrothal as a ruse: the queen and her court loaded the monk into the royal carriage, and at the moment of parting Wukong sprung the trap and freed his master — only for a whirlwind to snatch the monk away to the Scorpion Demon's cave.",
+          "note": "Paraphrase of Journey to the West, ch. 54, the false betrothal; not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "The Scorpion Demon had once stung even the Buddha's finger and lived. Her poisoned tail-sting drove back the monkey and the pig with swollen heads; the monk was held for her bridal. Wukong fetched the Star Officer Mao, the celestial rooster of the eastern palace: the god crowed twice, revealing his true form of a great golden bird, and the scorpion, stretched out of her hole, lay dead on the ground.",
+          "note": "Paraphrase of Journey to the West, ch. 55, the scorpion's death; not verbatim."
+        }
+      ],
+      "persons": [
+        "tang-sanzang"
+      ]
+    },
+    {
+      "id": "chinese-xyj-liuer-mihou",
+      "title": {
+        "en": "The True and False Monkey Kings",
+        "zh": "真假美猴王"
+      },
+      "tradition": "chinese",
+      "category": "myth",
+      "region": {
+        "en": "From Flower-Fruit Mountain to the Thunderclap Monastery (pin: mythic westward route)",
+        "zh": "花果山至雷音寺"
+      },
+      "lat": 31.0,
+      "lon": 92.0,
+      "period": "Journey to the West, 16th c. (attrib. Wu Cheng'en, chs. 57-58)",
+      "source": {
+        "archive": "Wikisource (zh)",
+        "work": "Journey to the West, chs. 57-58: the indistinguishable double, the halls of heaven and the Sea of Suffering, and the Buddha's naming of the Six-Eared Macaque",
+        "url": "https://zh.wikisource.org/wiki/%E8%A5%BF%E9%81%8A%E8%A8%98"
+      },
+      "license": "Public domain (Ming novel; passages are compiler's renderings)",
+      "summary": {
+        "en": "Banished once more for killing a bandit, Wukong's place was taken by a double — identical in face, staff, skill and name-lore — who felled the Tang monk and took the luggage to found his own scripture-school. Heaven's mirror could not tell them apart; Guanyin could not; the underworld's ledger named one 'Sun Wukong,' but the macaque had never been in it. Only the Buddha could read the creature: a Six-Eared Macaque, a being that hears the past and the future through six ears — and as the two grappled beneath his palm, the true one revealed the false, and the Great Sage killed his own image with one blow.",
+        "zh": "悟空再遭逐，六耳獼猴假扮美猴王打傷三藏，欲自去取經；照妖鏡、緊箍、諦聽皆不能辨；如來道破：乃六耳獼猴，善聆音、能察理、知前後——悟空一棒打死，師徒復和。"
+      },
+      "motifs": [
+        "transformation",
+        "trickster",
+        "oracle-divination",
+        "monkey-trickster",
+        "revelation"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Passages are the compiler's condensed paraphrases of the novel. Readers have long read the double as the monkey's own shadow-self — a modern interpretive frame, noted but not asserted."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Banished for a second killing, the Great Sage had barely gone before a double appeared to the monk in his shape, with his staff, his face and his manners — offered water, was refused in fear of poison, and struck the Tang monk down and took the luggage. Two identical Sun Wukongs now argued before the courts of heaven, each with his own story of the other.",
+          "note": "Paraphrase of Journey to the West, ch. 57 (compiler's rendering); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "The Jade Emperor's demon-revealing mirror showed two identical monkeys. Guanyin, tightening the fillet on both at once, could not tell them. The underworld's beast-listening god Diting heard everything and told no one; the register of souls named one Sun Wukong — but the other had never entered the book at all.",
+          "note": "Paraphrase of Journey to the West, ch. 58, the failed identifications; not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "Before the Buddha the truth was spoken: the false monkey was a Six-Eared Macaque, a creature that hears a thousand li and knows past and future — one of four monkey-kinds beyond the reach of the ten categories of beings. As the two monkeys grappled under the Buddha's golden bowl, the true Wukong saw his chance and killed his double with a single blow — and the Buddha gently reproved him not for killing, but for the anger that had let the double in.",
+          "note": "Paraphrase of Journey to the West, ch. 58, the naming and the killing; not verbatim."
+        }
+      ],
+      "persons": [
+        "sunwukong"
+      ]
+    },
+    {
+      "id": "chinese-xyj-flaming-mountain-fan",
+      "title": {
+        "en": "The Flaming Mountains and the Iron-Fan Princess",
+        "zh": "火焰山芭蕉扇"
+      },
+      "tradition": "chinese",
+      "category": "myth",
+      "region": {
+        "en": "Flaming Mountains, 800 li of fire (pin: Turfan basin echo)",
+        "zh": "火焰山（八百里火焰）"
+      },
+      "lat": 42.9,
+      "lon": 89.2,
+      "period": "Journey to the West, 16th c. (attrib. Wu Cheng'en, chs. 59-61)",
+      "source": {
+        "archive": "Wikisource (zh)",
+        "work": "Journey to the West, chs. 59-61: the borrowed fan, the swallowed fan, the Bull Demon King's true form",
+        "url": "https://zh.wikisource.org/wiki/%E8%A5%BF%E9%81%8A%E8%A8%98"
+      },
+      "license": "Public domain (Ming novel; passages are compiler's renderings)",
+      "summary": {
+        "en": "Eight hundred li of fire — kindled, said the locals, when Wukong kicked over Laozi's furnace five hundred years before — blocked the road; only the Iron-Fan Princess's plantain fan could quench it. She was the wife of the Bull Demon King and mother of the demon Red Boy, and she hated the monkey. He was blown fifty thousand li by her fan, swallowed a wind-stilling pill, sneaked into her belly as a bug and forced the loan; the false fan fanned the fire higher — and the war with the Bull Demon King ended when heaven's armies closed in and the Bull, in his great white bull form, yielded: the fan was surrendered, forty-nine waves quenched the mountains, and the monk passed west.",
+        "zh": "火焰山乃悟空當年蹬倒丹爐之火；鐵扇公主持芭蕉扇，一扇五萬四千里；悟空定風丹、變蟲入腹索扇；假扇扇火更旺；牛魔王大戰，天兵圍攻，老牛現白牛本相，獻扇滅火四十九扇，山火永熄。"
+      },
+      "motifs": [
+        "storm-thunder",
+        "transformation",
+        "boon-curse"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Passages are the compiler's condensed paraphrases of the novel."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The road west crossed eight hundred li of burning mountain — flames that had burned since, the locals said, the day the Great Sage kicked over Laozi's crucibles five hundred years before. Only the plantain fan of the Iron-Fan Princess, one wave for dying, two for a wind, three for rain, could quench the fire; and the princess hated the monkey, whose capture had sent her son Red Boy to a bodhisattva's service.",
+          "note": "Paraphrase of Journey to the West, ch. 59 (compiler's rendering); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Her first fan blew Wukong fifty-four thousand li, to the gates of the Little Sumeru hill; the Buddha of that hill gave him a wind-stilling pill. Returning as a gnat, he hid in the foam of her tea, entered her belly, and kicked and turned inside it until she gave up the true fan — which, waved in haste, only fanned the flames higher, for it was a false one made of apricot leaves.",
+          "note": "Paraphrase of Journey to the West, ch. 59, the thefts and the false fan; not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "Then the Bull Demon King himself took the field — a war of transformations, of feasts and disguises, until the heavenly hosts closed in and the Bull, struck down in his great white bull form, surrendered: the true fan, forty-nine waves, and the mountains quenched forever. The road west lay clear, the rain fell green over the hills, and the pilgrims went on — with the monkey owing a debt to the Bull's family that the final chapters of the novel will still be collecting.",
+          "note": "Paraphrase of Journey to the West, ch. 61, the Bull's surrender; not verbatim."
+        }
+      ],
+      "persons": [
+        "sunwukong"
+      ]
+    }
+  ]
+}

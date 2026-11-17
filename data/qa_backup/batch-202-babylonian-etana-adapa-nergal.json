@@ -1,0 +1,763 @@
+{
+ "texts": [
+  {
+   "id": "babylonian-etana-eagle-serpent",
+   "title": {
+    "en": "The Eagle, the Serpent and the Oath",
+    "zh": "巨鷹、巨蛇與盟誓"
+   },
+   "tradition": "babylonian",
+   "category": "myth",
+   "region": {
+    "en": "A great tree on the plain, Kish region, Iraq",
+    "zh": "平原巨樹，基什附近（伊拉克）"
+   },
+   "lat": 32.542,
+   "lon": 44.607,
+   "period": "Old Babylonian and Neo-Assyrian versions (George Smith translation 1876)",
+   "source": {
+    "archive": "Project Gutenberg",
+    "work": "The Chaldean Account of Genesis, 'The Story of the Eagle and Etana', George Smith (1876)",
+    "url": "https://www.gutenberg.org/ebooks/60559"
+   },
+   "license": "Public domain (translation 1876)",
+   "summary": {
+    "en": "An eagle and a serpent nest in one tree and swear the great oath of friendship by Shamash — whoever fails, his own reward shall fail. The eagle, greedy, eats the serpent's young; the betrayed one prays to the sun and takes its revenge in the pit.",
+    "zh": "鷹與蛇同棲一樹，向沙瑪什立下友誼大誓——背誓者必遭天譴。鷹貪食蛇之子；被欺者祈於日神，在坑中復仇。"
+   },
+   "motifs": [
+    "boon-curse",
+    "taboo-transgression"
+   ],
+   "sensitivity": {
+    "restricted": false,
+    "note": "Ancient myth; no living community restrictions."
+   },
+   "passages": [
+    {
+     "id": "1",
+     "text": "An eagle and a serpent nest in the same great tree and swear the oath of Shamash: friendship and loyalty, and may the reward of the oath-breaker fail him. The eagle, flying high, sees the serpent's young and eats them.",
+     "note": "Paraphrase of the Etana legend, Tablet I (George Smith 1876); not verbatim."
+    },
+    {
+     "id": "2",
+     "text": "The serpent, betrayed, prays to Shamash; the sun's counsel is to lie hidden in the belly of a slain wild ox — and when the eagle comes to feed, the serpent seizes him by the wings, breaks them, and casts him into the pit to die of hunger and thirst.",
+     "note": "Paraphrase of the Etana legend, Tablet I; not verbatim."
+    }
+   ],
+   "persons": [
+    "etana",
+    "utu"
+   ],
+   "functions": [
+    "Fable of oath-breaking under the sun god's justice",
+    "Frame of the Etana ascent story"
+   ],
+   "variants": [
+    {
+     "name": "Etana's ascent on the eagle",
+     "text_tradition": "Akkadian (Jastrow 1898)",
+     "summary": "The sequel in which the pit-cured eagle carries the king to heaven.",
+     "cross_ref": "babylonian-etana-ascent"
+    }
+   ],
+   "language": "Akkadian",
+   "canonical_translation": "George Smith, 1876",
+   "primary_sources": [
+    {
+     "work": "Legend of Etana",
+     "citation": "Tablet I, trans. George Smith (1876), 'Story of the Eagle and Etana'",
+     "language": "Akkadian"
+    }
+   ],
+   "secondary_sources": [
+    {
+     "work": "The Religion of Babylonia and Assyria",
+     "citation": "Morris Jastrow Jr., Boston, 1898, on Etana"
+    }
+   ],
+   "source_urls": [
+    {
+     "url": "https://www.gutenberg.org/ebooks/60559",
+     "description": "George Smith 1876",
+     "accessed": "2026-11-14"
+    }
+   ],
+   "sensitivity_flag": "none",
+   "provenance": {
+    "record_status": "complete",
+    "compiled": "2026-11-14",
+    "compiled_by": "opencode myth-collection session",
+    "review_status": "unreviewed"
+   }
+  },
+  {
+   "id": "babylonian-etana-ascent",
+   "title": {
+    "en": "Etana Rides the Eagle to Heaven",
+    "zh": "埃塔納乘鷹升天"
+   },
+   "tradition": "babylonian",
+   "category": "myth",
+   "region": {
+    "en": "Pit in the plain to the gates of Anu (symbolic pin)",
+    "zh": "自平原深坑至安努之門（象徵性定位）"
+   },
+   "lat": 32.542,
+   "lon": 44.607,
+   "period": "Old Babylonian and Neo-Assyrian versions (Jastrow translation 1898)",
+   "source": {
+    "archive": "Project Gutenberg",
+    "work": "The Religion of Babylonia and Assyria, the Etana legend, Morris Jastrow (1898)",
+    "url": "https://www.gutenberg.org/ebooks/20758"
+   },
+   "license": "Public domain (translation 1898)",
+   "summary": {
+    "en": "Shamash sends Etana to the pit-bound eagle; the king nurses it back to flight and asks the plant of birth. Up they climb: a league high, the land a hill; two leagues, the land a garden; three, the sea a bucket — and at the gate of Anu the eagle can rise no more, and they fall back to earth.",
+    "zh": "沙瑪什遣埃塔納至深坑救鷹；國王餵養之使其復飛，求生育仙草。步步攀升：一程山丘、二程園林、三程大海如桶——至安努之門，鷹力竭難升，二者墜回大地。"
+   },
+   "motifs": [
+    "ascension",
+    "quest-immortality",
+    "miraculous-birth"
+   ],
+   "sensitivity": {
+    "restricted": false,
+    "note": "Ancient myth; no living community restrictions."
+   },
+   "passages": [
+    {
+     "id": "1",
+     "text": "Shamash sends Etana to the pit: nurse the eagle and he will carry you. The king feeds the bird until its wings are healed, and asks for the plant of birth — for without an heir, his house will fail.",
+     "note": "Paraphrase of the Etana legend (Jastrow 1898); not verbatim."
+    },
+    {
+     "id": "2",
+     "text": "The ascent: one league up and the land is a hill; two and it is a garden; three and the sea is a bucket. At the gate of Anu the eagle falters — higher yet, my friend, cries Etana — and they fall; the bird is restored, and the king gains his heir Balih.",
+     "note": "Paraphrase of the Etana legend (Jastrow 1898); not verbatim."
+    }
+   ],
+   "persons": [
+    "etana",
+    "utu"
+   ],
+   "functions": [
+    "First attested ascent-to-heaven narrative",
+    "Charter of the sacred kingship of Kish and its heir",
+    "Model of the shrinking-landscape ascent imagery"
+   ],
+   "variants": [
+    {
+     "name": "Gilgamesh's journey to Utnapishtim",
+     "text_tradition": "Akkadian (Wilson/Muss-Arnolt 1901)",
+     "summary": "The parallel quest for a plant of life.",
+     "cross_ref": "babylonian-gilgamesh-sleep-plant"
+    }
+   ],
+   "language": "Akkadian",
+   "canonical_translation": "Morris Jastrow Jr., 1898",
+   "primary_sources": [
+    {
+     "work": "Legend of Etana",
+     "citation": "Tablet II, trans. Morris Jastrow Jr. (1898)",
+     "language": "Akkadian"
+    }
+   ],
+   "secondary_sources": [
+    {
+     "work": "Myths & Legends of Babylonia & Assyria",
+     "citation": "Lewis Spence, London, 1916, Etana section"
+    }
+   ],
+   "source_urls": [
+    {
+     "url": "https://www.gutenberg.org/ebooks/20758",
+     "description": "Jastrow 1898",
+     "accessed": "2026-11-14"
+    }
+   ],
+   "sensitivity_flag": "none",
+   "provenance": {
+    "record_status": "complete",
+    "compiled": "2026-11-14",
+    "compiled_by": "opencode myth-collection session",
+    "review_status": "unreviewed"
+   }
+  },
+  {
+   "id": "babylonian-adapa-anu-court",
+   "title": {
+    "en": "Adapa at the Gate of Heaven",
+    "zh": "阿達帕於天門"
+   },
+   "tradition": "babylonian",
+   "category": "myth",
+   "region": {
+    "en": "Eridu to the gate of Anu, Iraq",
+    "zh": "自埃利都至安努之門（伊拉克）"
+   },
+   "lat": 30.629,
+   "lon": 44.428,
+   "period": "Old Babylonian (Amarna and Nineveh copies), c. 1500-700 BCE (Rogers translation 1912)",
+   "source": {
+    "archive": "Internet Archive",
+    "work": "Cuneiform Parallels to the Old Testament, 'The Myth of Adapa', trans. Robert W. Rogers (1912)",
+    "url": "https://archive.org/details/cuneiformparall00rogegoog"
+   },
+   "license": "Public domain (translation 1912)",
+   "summary": {
+    "en": "Ea's priest breaks the south wind's wing; summoned to heaven, he is warned to refuse the bread and water of death — but they are the bread and water of life, and Anu's gate lets mortality win: mankind loses immortality for obedience.",
+    "zh": "埃亞的祭司折斷南風之翼；被召上天，受誡勿食死之麵包、勿飲死之水——然那實為生命之食；安努之門令死亡獲勝：人類因聽話而失去永生。"
+   },
+   "motifs": [
+    "taboo-transgression",
+    "quest-immortality",
+    "wisdom-sacrifice"
+   ],
+   "sensitivity": {
+    "restricted": false,
+    "note": "Ancient myth; no living community restrictions."
+   },
+   "passages": [
+    {
+     "id": "1",
+     "text": "Adapa, Ea's priest of Eridu, fishing in the quiet water, breaks the south wind's wing; summoned to Anu's gate for the crime, he is warned by his lord: they will offer you bread and water of death — do not eat, do not drink; mourn, and you will be sent home.",
+     "note": "Paraphrase of the Adapa myth (Rogers 1912); not verbatim."
+    },
+    {
+     "id": "2",
+     "text": "But the bread and water offered are of life: Anu, having heard how wise he is, means to make him immortal. Adapa obeys his lord and refuses — Tammuz and Gishzida mourn with him at the gate — and mortality is fixed for mankind: wisdom he won, eternal life he lost.",
+     "note": "Paraphrase of the Adapa myth (Rogers 1912); not verbatim."
+    }
+   ],
+   "persons": [
+    "adapa",
+    "enki",
+    "anu",
+    "dumuzi"
+   ],
+   "functions": [
+    "Etiology of human mortality through misplaced obedience",
+    "Charter of the priestly craft's wisdom",
+    "Parallel to the lost-paradise motif cluster"
+   ],
+   "variants": [
+    {
+     "name": "Adapa and the south wind (the breakage)",
+     "text_tradition": "Akkadian (Spence 1916)",
+     "summary": "The first half of the tale as a separate telling.",
+     "cross_ref": "adapa-south-wind"
+    },
+    {
+     "name": "Eden and the fruit (Hebrew)",
+     "text_tradition": "Hebrew",
+     "summary": "The biblical parallel of the lost immortality.",
+     "cross_ref": "none"
+    }
+   ],
+   "language": "Akkadian",
+   "canonical_translation": "Robert W. Rogers, 1912",
+   "primary_sources": [
+    {
+     "work": "Myth of Adapa",
+     "citation": "trans. Robert W. Rogers (1912), Amarna and Nineveh recensions",
+     "language": "Akkadian"
+    }
+   ],
+   "secondary_sources": [
+    {
+     "work": "Legends of Babylon and Egypt in Relation to Hebrew Tradition",
+     "citation": "L. W. King, London, 1918, on Adapa"
+    }
+   ],
+   "source_urls": [
+    {
+     "url": "https://archive.org/details/cuneiformparall00rogegoog",
+     "description": "Rogers 1912 translations",
+     "accessed": "2026-11-14"
+    }
+   ],
+   "sensitivity_flag": "none",
+   "provenance": {
+    "record_status": "complete",
+    "compiled": "2026-11-14",
+    "compiled_by": "opencode myth-collection session",
+    "review_status": "unreviewed"
+   }
+  },
+  {
+   "id": "babylonian-ishtar-descent",
+   "title": {
+    "en": "The Descent of Ishtar",
+    "zh": "伊什塔爾下冥界"
+   },
+   "tradition": "babylonian",
+   "category": "myth",
+   "region": {
+    "en": "Gate of the land of no return, Kutha (symbolic pin)",
+    "zh": "無歸之地之門，庫薩（象徵性定位）"
+   },
+   "lat": 32.093,
+   "lon": 44.58,
+   "period": "Old Babylonian and Neo-Assyrian versions (Rogers translation 1912)",
+   "source": {
+    "archive": "Internet Archive",
+    "work": "Cuneiform Parallels to the Old Testament, 'Ishtar's Descent to Hades', trans. Robert W. Rogers (1912)",
+    "url": "https://archive.org/details/cuneiformparall00rogegoog"
+   },
+   "license": "Public domain (translation 1912)",
+   "summary": {
+    "en": "Ishtar goes down to the land of no return; at each of the seven gates a garment is stripped until she stands naked before Ereshkigal, and the goddess of the dead strikes her with every disease — the world above ceases: nothing mates. Ea's cunning creature wins her release for a price — Tammuz must go down half the year.",
+    "zh": "伊什塔爾下至無歸之地；七門過處，衣飾盡褪，赤身立於埃列什基伽勒面前；冥后以其百病擊之——陽間因此絕育：萬物不再交合。埃亞的智造者以金古之命贖她——代價：塔穆茲半年居冥。"
+   },
+   "motifs": [
+    "descent-underworld",
+    "resurrection",
+    "quest-immortality"
+   ],
+   "sensitivity": {
+    "restricted": false,
+    "note": "Ancient myth; no living community restrictions."
+   },
+   "passages": [
+    {
+     "id": "1",
+     "text": "Ishtar, daughter of Sin, sets her mind on the house of darkness, the land of no return; at each of the seven gates a garment is stripped from her, and naked she comes before Ereshkigal, queen of the dead, who strikes her with every disease and holds her.",
+     "note": "Paraphrase of Ishtar's Descent (Rogers 1912); not verbatim."
+    },
+    {
+     "id": "2",
+     "text": "With the goddess of fertility below, nothing mates above: bull does not mount cow, ass does not cover mare, the young man does not approach the girl in the street. Papsukkal's report sends Ea's cunning creature, who wins her release — but the price is named: Tammuz shall go down for half the year, and his sister serve the other half.",
+     "note": "Paraphrase of Ishtar's Descent (Rogers 1912); not verbatim."
+    }
+   ],
+   "persons": [
+    "ishtar",
+    "ereshkigal",
+    "dumuzi",
+    "enki",
+    "papsukkal",
+    "namtar"
+   ],
+   "functions": [
+    "Fertility-cycle theology of the underworld visit",
+    "Charter of the Tammuz mourning rites",
+    "Model of the stripped-seven-gates descent"
+   ],
+   "variants": [
+    {
+     "name": "Inana's Descent to the Nether World (Sumerian)",
+     "text_tradition": "Sumerian (ETCSL c.1.4.1)",
+     "summary": "The Sumerian twin narrative.",
+     "cross_ref": "inanna-descent"
+    },
+    {
+     "name": "Nergal and Ereshkigal",
+     "text_tradition": "Akkadian (Rogers 1912)",
+     "summary": "The underworld queen's other mythic visitor.",
+     "cross_ref": "babylonian-nergal-ereshkigal-amarna"
+    }
+   ],
+   "language": "Akkadian",
+   "canonical_translation": "Robert W. Rogers, 1912",
+   "primary_sources": [
+    {
+     "work": "Ishtar's Descent to Hades",
+     "citation": "trans. Robert W. Rogers (1912)",
+     "language": "Akkadian"
+    }
+   ],
+   "secondary_sources": [
+    {
+     "work": "The Religion of Babylonia and Assyria",
+     "citation": "Morris Jastrow Jr., Boston, 1898, on Tammuz"
+    }
+   ],
+   "source_urls": [
+    {
+     "url": "https://archive.org/details/cuneiformparall00rogegoog",
+     "description": "Rogers 1912 translations",
+     "accessed": "2026-11-14"
+    }
+   ],
+   "sensitivity_flag": "none",
+   "provenance": {
+    "record_status": "complete",
+    "compiled": "2026-11-14",
+    "compiled_by": "opencode myth-collection session",
+    "review_status": "unreviewed"
+   }
+  },
+  {
+   "id": "babylonian-ishtar-tammuz-return",
+   "title": {
+    "en": "Tammuz Restored to Life",
+    "zh": "塔穆茲復生"
+   },
+   "tradition": "babylonian",
+   "category": "myth",
+   "region": {
+    "en": "Uruk and the land below, Iraq",
+    "zh": "烏魯克與冥土（伊拉克）"
+   },
+   "lat": 31.324,
+   "lon": 45.637,
+   "period": "Neo-Assyrian epic section (Wilson/Muss-Arnolt translation 1901)",
+   "source": {
+    "archive": "Project Gutenberg",
+    "work": "Babylonian and Assyrian Literature, 'Tammuz Restored to Life', trans. Muss-Arnolt (1901)",
+    "url": "https://www.gutenberg.org/ebooks/10887"
+   },
+   "license": "Public domain (translation 1901)",
+   "summary": {
+    "en": "When Ishtar comes up from the land of no return, Tammuz meets her — the shepherd husband who never mourned her going — and she decrees his share: half the year below, half above, and the rites of his return are fixed in the calendar of the summer month.",
+    "zh": "伊什塔爾自無歸之地歸來，塔穆茲迎之——這位牧神丈夫未曾為她的下降哀悼——女神判其份額：半年居冥、半年居陽，其歸返之祭遂定於夏日曆法。"
+   },
+   "motifs": [
+    "resurrection",
+    "ritual-origin",
+    "divine-marriage"
+   ],
+   "sensitivity": {
+    "restricted": false,
+    "note": "Ancient cult narrative; no living community restrictions."
+   },
+   "passages": [
+    {
+     "id": "1",
+     "text": "Tammuz comes out to meet the returning goddess and does not mourn her descent as her women do; Ishtar decrees his fate in turn: for half the year he serves below, and for half he is restored to the upper world.",
+     "note": "Paraphrase of 'Tammuz Restored to Life' (Muss-Arnolt 1901); not verbatim."
+    },
+    {
+     "id": "2",
+     "text": "The women of the city weep for the shepherd in his month below and rejoice at his rising — the mourning liturgy fixed in the summer calendar, the myth of the dying husband's return kept by the rites of wailing and rejoicing.",
+     "note": "Paraphrase of 'Tammuz Restored to Life' (Muss-Arnolt 1901); not verbatim."
+    }
+   ],
+   "persons": [
+    "ishtar",
+    "dumuzi"
+   ],
+   "functions": [
+    "Cult charter of the Tammuz wailing month",
+    "Dying-and-rising god theology of the seasons"
+   ],
+   "variants": [
+    {
+     "name": "Dumuzid and Geshtin-ana (Sumerian)",
+     "text_tradition": "Sumerian (ETCSL c.1.4.1.1)",
+     "summary": "The Sumerian half-year decree.",
+     "cross_ref": "sumerian-dumuzi-geshtinanna"
+    }
+   ],
+   "language": "Akkadian",
+   "canonical_translation": "Muss-Arnolt, 1901",
+   "primary_sources": [
+    {
+     "work": "Tammuz Restored to Life",
+     "citation": "in Wilson, Babylonian and Assyrian Literature (1901)",
+     "language": "Akkadian"
+    }
+   ],
+   "secondary_sources": [
+    {
+     "work": "The Religion of Babylonia and Assyria",
+     "citation": "Morris Jastrow Jr., Boston, 1898, on Tammuz"
+    }
+   ],
+   "source_urls": [
+    {
+     "url": "https://www.gutenberg.org/ebooks/10887",
+     "description": "Muss-Arnolt's 1901 translations",
+     "accessed": "2026-11-14"
+    }
+   ],
+   "sensitivity_flag": "none",
+   "provenance": {
+    "record_status": "complete",
+    "compiled": "2026-11-14",
+    "compiled_by": "opencode myth-collection session",
+    "review_status": "unreviewed"
+   }
+  },
+  {
+   "id": "babylonian-nergal-ereshkigal-amarna",
+   "title": {
+    "en": "Nergal and Ereshkigal: The Long Descent",
+    "zh": "內爾伽勒與埃列什基伽勒：長途下行"
+   },
+   "tradition": "babylonian",
+   "category": "myth",
+   "region": {
+    "en": "Gate of the netherworld, Kutha (symbolic pin)",
+    "zh": "冥界之門，庫薩（象徵性定位）"
+   },
+   "lat": 32.093,
+   "lon": 44.58,
+   "period": "Amarna and Sultantepe versions, c. 1400-700 BCE (Rogers translation 1912)",
+   "source": {
+    "archive": "Internet Archive",
+    "work": "Cuneiform Parallels to the Old Testament, 'Nergal and Ereshkigal', trans. Robert W. Rogers (1912)",
+    "url": "https://archive.org/details/cuneiformparall00rogegoog"
+   },
+   "license": "Public domain (translation 1912)",
+   "summary": {
+    "en": "Namtar's message finds no one to rise at the gate of heaven; Ereshkigal's rudeness must be answered — Nergal is sent down and warned to leave at once, but stays; the queen of the dead demands him back as her husband, and he descends forever — king in the land below.",
+    "zh": "納姆塔爾傳信至天門，無人起身相迎；埃列什基伽勒的失禮必須回應——內爾伽勒奉命下冥、囑其即刻返回，他卻滯留不去；冥后索之為夫，他遂永駐冥土——成為下界之王。"
+   },
+   "motifs": [
+    "descent-underworld",
+    "divine-marriage",
+    "taboo-transgression"
+   ],
+   "sensitivity": {
+    "restricted": false,
+    "note": "Ancient myth; no living community restrictions."
+   },
+   "passages": [
+    {
+     "id": "1",
+     "text": "Namtar, messenger of the netherworld, comes to the assembly and no one rises at his gate; Ereshkigal has no messenger above. Nergal is sent down to punish the rudeness and is warned: return before you eat, drink, wash or rest below.",
+     "note": "Paraphrase of Nergal and Ereshkigal (Rogers 1912); not verbatim."
+    },
+    {
+     "id": "2",
+     "text": "But Nergal stays — seven days of love with the queen of the dead — and leaves at dawn; Ereshkigal, weeping her loss, demands him back as husband, and the hero descends for good: king in the land of no return.",
+     "note": "Paraphrase of Nergal and Ereshkigal (Rogers 1912); not verbatim."
+    }
+   ],
+   "persons": [
+    "nergal",
+    "ereshkigal",
+    "namtar",
+    "enki"
+   ],
+   "functions": [
+    "Marriage myth of the netherworld's royal couple",
+    "Etiology of Nergal's shared rule of the dead",
+    "Charter of the Meslam cult at Kutha"
+   ],
+   "variants": [
+    {
+     "name": "Sultantepe version (the fourteen plagues)",
+     "text_tradition": "Akkadian (Rogers 1912, variant recension)",
+     "summary": "The later recension with the disease-demons detail.",
+     "cross_ref": "babylonian-nergal-ereshkigal-sultantepe"
+    }
+   ],
+   "language": "Akkadian",
+   "canonical_translation": "Robert W. Rogers, 1912",
+   "primary_sources": [
+    {
+     "work": "Nergal and Ereshkigal",
+     "citation": "Amarna recension, trans. Robert W. Rogers (1912)",
+     "language": "Akkadian"
+    }
+   ],
+   "secondary_sources": [
+    {
+     "work": "The Religion of Babylonia and Assyria",
+     "citation": "Morris Jastrow Jr., Boston, 1898, on Nergal and Allatu"
+    }
+   ],
+   "source_urls": [
+    {
+     "url": "https://archive.org/details/cuneiformparall00rogegoog",
+     "description": "Rogers 1912 translations",
+     "accessed": "2026-11-14"
+    }
+   ],
+   "sensitivity_flag": "none",
+   "provenance": {
+    "record_status": "complete",
+    "compiled": "2026-11-14",
+    "compiled_by": "opencode myth-collection session",
+    "review_status": "unreviewed"
+   }
+  },
+  {
+   "id": "babylonian-nergal-ereshkigal-sultantepe",
+   "title": {
+    "en": "The Fourteen Doors of the Underworld",
+    "zh": "冥界十四門"
+   },
+   "tradition": "babylonian",
+   "category": "myth",
+   "region": {
+    "en": "Netherworld gates, Kutha (symbolic pin)",
+    "zh": "冥界諸門，庫薩（象徵性定位）"
+   },
+   "lat": 32.093,
+   "lon": 44.58,
+   "period": "Sultantepe recension, c. 700 BCE (Jastrow retelling 1898)",
+   "source": {
+    "archive": "Project Gutenberg",
+    "work": "The Religion of Babylonia and Assyria, retelling of Nergal and Allatu, Morris Jastrow (1898)",
+    "url": "https://www.gutenberg.org/ebooks/20758"
+   },
+   "license": "Public domain (retelling 1898)",
+   "summary": {
+    "en": "In the Sultantepe recension, Ereshkigal's dance with the fourteen plague-demons sends Nergal down in disgrace; his second descent, with the demons of disease as his escort, makes him the underworld's master — the darker telling of the same marriage.",
+    "zh": "蘇爾坦特佩本中，埃列什基伽勒與十四瘟疫妖靈起舞令內爾伽勒蒙羞下行；其二次下冥，以疫病群魔為儀仗，遂成冥土之主——同一婚事的更陰鬱版本。"
+   },
+   "motifs": [
+    "descent-underworld",
+    "divine-marriage",
+    "spirit-possession"
+   ],
+   "sensitivity": {
+    "restricted": false,
+    "note": "Ancient myth; no living community restrictions."
+   },
+   "passages": [
+    {
+     "id": "1",
+     "text": "Ereshkigal's dance with her fourteen plague-demons puts Nergal to shame in the first descent; he goes down again with the demons of disease as his escort, and the queen of the dead is won by force of presence.",
+     "note": "Paraphrase of the Sultantepe recension as retold by Jastrow (1898); not verbatim."
+    },
+    {
+     "id": "2",
+     "text": "The marriage closes the tale: the war god and the death queen rule the land below together, and the disease-demons take their station at the gates — the underworld's staff named.",
+     "note": "Paraphrase of the Sultantepe recension (Jastrow 1898); not verbatim."
+    }
+   ],
+   "persons": [
+    "nergal",
+    "ereshkigal",
+    "namtar"
+   ],
+   "functions": [
+    "Exorcistic variant of the underworld marriage",
+    "Catalogue of the disease-demons of the gates"
+   ],
+   "variants": [
+    {
+     "name": "Amarna version",
+     "text_tradition": "Akkadian (Rogers 1912)",
+     "summary": "The gentler telling of the same myth.",
+     "cross_ref": "babylonian-nergal-ereshkigal-amarna"
+    }
+   ],
+   "language": "Akkadian",
+   "canonical_translation": "Morris Jastrow Jr., 1898 (retelling)",
+   "primary_sources": [
+    {
+     "work": "Nergal and Ereshkigal (Sultantepe recension)",
+     "citation": "as retold in Jastrow, Religion of Babylonia and Assyria (1898)",
+     "language": "Akkadian"
+    }
+   ],
+   "secondary_sources": [
+    {
+     "work": "Myths & Legends of Babylonia & Assyria",
+     "citation": "Lewis Spence, London, 1916"
+    }
+   ],
+   "source_urls": [
+    {
+     "url": "https://www.gutenberg.org/ebooks/20758",
+     "description": "Jastrow 1898",
+     "accessed": "2026-11-14"
+    }
+   ],
+   "sensitivity_flag": "none",
+   "provenance": {
+    "record_status": "complete",
+    "compiled": "2026-11-14",
+    "compiled_by": "opencode myth-collection session",
+    "review_status": "unreviewed"
+   }
+  },
+  {
+   "id": "babylonian-shamash-justice",
+   "title": {
+    "en": "Shamash the Judge of All",
+    "zh": "沙瑪什：萬民之判官"
+   },
+   "tradition": "babylonian",
+   "category": "myth",
+   "region": {
+    "en": "Sippar temple of the sun, Iraq",
+    "zh": "西帕爾太陽神殿（伊拉克）"
+   },
+   "lat": 33.124,
+   "lon": 44.264,
+   "period": "Old Babylonian hymns, c. 1800 BCE (Jastrow 1898)",
+   "source": {
+    "archive": "Project Gutenberg",
+    "work": "The Religion of Babylonia and Assyria, the Shamash hymns, Morris Jastrow (1898)",
+    "url": "https://www.gutenberg.org/ebooks/20758"
+   },
+   "license": "Public domain (1898)",
+   "summary": {
+    "en": "The sun god rises over the world: his light touches every road and every deed; the orphan and the widow he watches, the false witness he sees — the hymns to Shamash ground the law's theology of the witnessed oath.",
+    "zh": "日神升臨世界：其光照臨每條路、每件事；孤兒寡母得其護佑，偽證者無所遁形——沙瑪什頌詩為律法之「見證誓言」奠定神學基礎。"
+   },
+   "motifs": [
+    "theophany",
+    "sacred-kingship",
+    "oracle-divination"
+   ],
+   "sensitivity": {
+    "restricted": false,
+    "note": "Ancient hymn; no living community restrictions."
+   },
+   "passages": [
+    {
+     "id": "1",
+     "text": "Shamash rises over the world: his light reaches the roads, the fields, the deep; nothing is hidden from the sun of judgment.",
+     "note": "Paraphrase of the Shamash hymns (Jastrow 1898); not verbatim."
+    },
+    {
+     "id": "2",
+     "text": "He watches the orphan and the widow, sees the false witness and the bribe-taker, and upholds the traveler on the road — the theology of the witnessed oath on which the law of Hammurabi's stele stands.",
+     "note": "Paraphrase of the Shamash hymns (Jastrow 1898); not verbatim."
+    }
+   ],
+   "persons": [
+    "utu"
+   ],
+   "functions": [
+    "Theology of the witnessed oath and the law",
+    "Liturgical hymn of the Sippar and Larsa sun cults"
+   ],
+   "variants": [
+    {
+     "name": "Hammurabi stele prologue",
+     "text_tradition": "Akkadian (Johns 1904)",
+     "summary": "The law's own invocation of Shamash.",
+     "cross_ref": "babylonian-hammurabi-justice"
+    }
+   ],
+   "language": "Akkadian",
+   "canonical_translation": "Morris Jastrow Jr., 1898",
+   "primary_sources": [
+    {
+     "work": "Hymns to Shamash",
+     "citation": "as quoted in Jastrow, Religion of Babylonia and Assyria (1898)",
+     "language": "Akkadian"
+    }
+   ],
+   "secondary_sources": [
+    {
+     "work": "Babylonian and Assyrian Laws, Contracts and Letters",
+     "citation": "C. H. W. Johns, New York, 1904"
+    }
+   ],
+   "source_urls": [
+    {
+     "url": "https://www.gutenberg.org/ebooks/20758",
+     "description": "Jastrow 1898",
+     "accessed": "2026-11-14"
+    }
+   ],
+   "sensitivity_flag": "none",
+   "provenance": {
+    "record_status": "complete",
+    "compiled": "2026-11-14",
+    "compiled_by": "opencode myth-collection session",
+    "review_status": "unreviewed"
+   }
+  }
+ ]
+}

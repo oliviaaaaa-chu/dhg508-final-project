@@ -1,0 +1,308 @@
+{
+  "_comment": "Polynesian expansion batch 167 - John White, The Ancient History of the Maori, vol. 1 (pp. 141-145, Tane cycle) and vol. 3 (pp. 63-66, Horo-uta/Taki-tumu migration; Kupe and Ngake). Topic 1 creation, 2 deity, 4 founding. All passages are labeled paraphrase; vol. 3 passages are summaries of bilingual Maori-English texts.",
+  "texts": [
+    {
+      "id": "polynesian-tane-props-of-raki",
+      "title": {
+        "en": "Tane Prop Raki up with Four Posts",
+        "zh": "塔內四柱撐天：朗基的告別"
+      },
+      "tradition": "polynesian",
+      "category": "myth",
+      "region": {
+        "en": "Sky and Papa, Aotearoa (symbolic pin)",
+        "zh": "紐西蘭天與地（象徵性定位）"
+      },
+      "lat": -38.7,
+      "lon": 176.1,
+      "period": "Maori oral tradition; recorded 1887 (White, Nga-i-tahu recension)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "John White, The Ancient History of the Maori, vol. 1, pp. 141-143 (Wellington 1887)",
+        "url": "https://archive.org/details/ancienthistoryof01whit"
+      },
+      "license": "Public domain (White 1887)",
+      "summary": {
+        "en": "White's Nga-i-tahu recension: four props hold Raki - Toko-rua-tipua, Toko-ka-puka, Toko-maunga, Toko-tupua. 'Perhaps he is high enough', says Tane; but Raki asks to be lifted higher, that the winds may blow on him. Papa calls: 'O Raki! go; but in your absence regrets will follow you.' Raki answers from above that he will send his love down. Tane shuts up all the winds but two; Te-mai-haro objects - pull the stoppers out and let the wind sing, that we may live - and the moon still bathes in Aewa, the living water of Tane, when her consuming disease has almost destroyed her.",
+        "zh": "懷特的納伊塔胡抄本：四根撐柱托住朗基——神坑之柱、妒忌之柱、山之柱、神柱。塔內言『夠高了』；朗基卻求再舉高些，好讓風拂其身。帕帕呼道：『去吧；但你走後，悔恨將隨你。』朗基自天回應：『我會把我的愛降給你。』塔內封閉群風、僅留其二；特邁哈羅抗議——拔去塞子讓風歌唱，我們才能活——而月亮至今仍在患病消瘦之際，沐浴於塔內的生命之水阿埃瓦中重獲新生。"
+      },
+      "motifs": [
+        "creation-chaos",
+        "sibling-creators",
+        "ritual-origin"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Variant of the Rangi-Papa separation cycle."
+      },
+      "persons": [],
+      "passages": [
+        {
+          "id": "1",
+          "text": "When Tane and his fellows had placed Raki in the position he now occupied, they used four props to hold him up. The outside props were called Toko-rua-tipua (the prop of the god-pit) and Toko-ka-puka (the prop of jealousy); those inside were called Toko-maunga (the prop of the mountain) and Toko-tupua (god-prop). While they were in the act of lifting him up, Tane said, 'Perhaps he is high enough'; but Raki said, 'No; lift me up higher, that the winds may blow on me.' Then Papa called to him, and said, 'O Raki! go; but in your absence regrets will follow you.' Raki called from above, and said, 'O Papa! stay there; I will send my love down to you.' Tane, to encourage his fellows to lift Raki up with spirit, called out, 'Oh! stand up father'; and then the gods who were above came and assisted them to put Raki in his place.",
+          "note": "Paraphrase of John White, The Ancient History of the Maori, vol. 1, pp. 141-142 (1887); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Tane gave orders that the winds should not blow, but he left two winds which he did not shut up. Te-mai-haro objected, and said, 'Why should the winds be closed up? Pull the stoppers out and let the wind sing, that we may live.' The reason the moon does not shine on certain nights is because a disease consumes her; this disease is ever devouring her, and causes her to decrease in size until she is nearly all consumed. When she is excessively weak she goes and bathes in the Wai-ora-a-tane, the living water of Tane, which gradually restores her strength until she is as great in power and life as when first created; but again the disease consumes her, and again she bathes in the water. It is because the sky is as flat as a calm sea that the sun and moon go so correctly on their way.",
+          "note": "Paraphrase of John White, The Ancient History of the Maori, vol. 1, pp. 142-143 (1887); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "Another reading (Nga-i-taiiu): 'When the moon dies she goes to the living water of Tane - to the great lake of A-ewa (lake of god set loose from a bond) - to the water which can restore all, even the moon to its path in the sky.' And of man: 'When man dies, his body does not come to life again: it is sucked into the mouth of Hine-nui-te-po, great daughter of night. Not so is it with the moon: the moon, when it dies, goes to bathe in the great lake of Aewa, the living water of Tane, which renews life; and so it comes forth, and is seen high in the heavens, with life restored and strength renewed, to travel again its path over the sky.'",
+          "note": "Paraphrase of John White, The Ancient History of the Maori, vol. 1, p. 143 (1887); not verbatim."
+        }
+      ]
+    },
+    {
+      "id": "polynesian-tane-reversed-trees",
+      "title": {
+        "en": "Tane Turns the Trees Right Side Up",
+        "zh": "塔內翻轉倒生之樹"
+      },
+      "tradition": "polynesian",
+      "category": "myth",
+      "region": {
+        "en": "Forests of Te Ika-a-Maui (symbolic pin)",
+        "zh": "北島諸林（象徵性定位）"
+      },
+      "lat": -39.3,
+      "lon": 175.6,
+      "period": "Maori oral tradition; recorded 1887 (White)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "John White, The Ancient History of the Maori, vol. 1, pp. 142-147 (Wellington 1887)",
+        "url": "https://archive.org/details/ancienthistoryof01whit"
+      },
+      "license": "Public domain (White 1887)",
+      "summary": {
+        "en": "When Tane propped the sky up the trees were growing with their roots up in the air and their heads down; Tane reversed them, and they are now called 'the defiant offspring of Tane'. His weapons of war are the fish-hook and pearl-shell hook - with which he slays his enemy Tangaroa - while Tangaroa's are the bird-snare perch, bird-spears and the ti-leaf snare. Tane took Mu-mu-whango to wife and begat the totara; Pu-whaka-haia and begat the kahika; Te-ata-tangi-rea and begat the maire; Parauri and begat the koko; Papa and begat the kiwi, 'the hidden bird of Tane' - hence the proverbs on canoes and houses.",
+        "zh": "塔內撐天時，諸樹根朝上、頭朝下倒生；塔內將其一一翻正，故名『塔內的不馴子嗣』。他的戰器是魚鉤與珍珠貝鉤——用以誅敵坦加羅亞；坦加羅亞的戰器則是鳥棲木、鳥矛與樹心葉鳥網。塔內娶穆穆旺戈生托塔拉木，娶普瓦卡哈亞生卡希卡藤，娶特阿塔坦吉雷亞生邁雷木，娶帕勞烏里生克科鳥，娶帕帕生奇維——『塔內的隱鳥』；舟與屋的諺語由此而來。"
+      },
+      "motifs": [
+        "creation-chaos",
+        "sibling-creators",
+        "transformation"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Flora-genealogy; interpretive motif tags."
+      },
+      "persons": [],
+      "passages": [
+        {
+          "id": "1",
+          "text": "The weapons of war of Tane are a matika (fish-hook), and the matika-paua (pearl-shell hook), and the fishing-line. These are the weapons by which he slays his enemy Tangaroa. And the weapons of war of Tangaroa are the tuke (perch on which birds are snared), and bird-spears, and the ti-leaf, which is made into bird-snares.",
+          "note": "Paraphrase of John White, The Ancient History of the Maori, vol. 1, p. 142 (1887); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "It is said also that when Tane propped the sky up the trees were growing with their roots up in the air and their heads down; but Tane reversed them, and they are now called 'the defiant offspring of Tane'. Hence these proverbial sayings: as applied to a canoe - 'The narrow path used in crossing belongs to Tane'; as applied to houses - 'The bold and daring children of Tane, defying the storm'; and these are the bark of the kahikatea and ake-rau-tangi trees, which are made into a house in which Kahu-kura, god of the rainbow, may dwell.",
+          "note": "Paraphrase of John White, The Ancient History of the Maori, vol. 1, pp. 142-145 (1887); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "Tane took Mu-mu-whango (gentle noise of the air) to wife, and begat the totara-tree. He took Pu-whaka-haia (great origin), and begat the kahika (a creeper or vine), and ake-rau-tangi (tree of the weeping leaf). He took Te-ata-tangi-rea (the voice coming down), and begat the maire-rau-nui tree; he took Parauri (the black one), and begat the koko (parson-bird); he took Papa (flat), and begat the kiwi (as the proverb calls it, 'the hidden bird of Tane'); he took Haere-awa-awa (wanderer in the brooks), and begat the weka; he took Tu-wae-rore (the foot caught in a trap), and begat the kahika-tea, rimu, and tanekaha trees.",
+          "note": "Paraphrase of John White, The Ancient History of the Maori, vol. 1, pp. 143-145 (1887); not verbatim."
+        }
+      ]
+    },
+    {
+      "id": "polynesian-tane-hineatauira-marriage",
+      "title": {
+        "en": "Tane Searches for a Wife Among His Daughters",
+        "zh": "塔內擇婦：親女海內阿塔維拉"
+      },
+      "tradition": "polynesian",
+      "category": "myth",
+      "region": {
+        "en": "Uplands of Tane (symbolic pin)",
+        "zh": "塔內之高地（象徵性定位）"
+      },
+      "lat": -39.0,
+      "lon": 175.5,
+      "period": "Maori oral tradition; recorded 1887 (White, Nga-i-tahu recension)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "John White, The Ancient History of the Maori, vol. 1, pp. 145-147 (Wellington 1887)",
+        "url": "https://archive.org/details/ancienthistoryof01whit"
+      },
+      "license": "Public domain (White 1887)",
+      "summary": {
+        "en": "Tane's search: none among Maunga's children, To-hika's daughters, Hine-hau-one's child, nor the restless Tu-kori-ahuru could bedeck his father Rangi. He takes Puta-rakau, the hollow of a tree, and begets Hine-ti-tama and Hine-ata-uira, daughter of gentle lightning - and in time takes his own daughter Hine-ata-uira to wife, by whom he had Tahu-kumia, Tahu-whakaero, Tahu-tuturi and Tahu-pepeke - the ancestor-line of mankind in the White recension, shadowing the later Tane-and-Hine-titama tabu story.",
+        "zh": "塔內遍尋配偶：穆昂加之子、托希卡之女、海內豪奧內之兒、躁熱的圖科里阿胡魯——無一人能為父親朗基增光。遂娶樹洞普塔拉考生下葬女與『溫柔閃電之女』海內阿塔維拉；日後竟娶親女為妻，生塔胡庫米亞、塔胡瓦卡埃羅、塔胡圖圖里、塔胡佩佩凱——懷特抄本中的人類始祖線，映照後世塔內與海內蒂塔瑪的禁忌之說。"
+      },
+      "motifs": [
+        "divine-marriage",
+        "sibling-creators",
+        "taboo-transgression"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Incest theme present in the source recension; noted as recorded."
+      },
+      "persons": [],
+      "passages": [
+        {
+          "id": "1",
+          "text": "Tane took Maunga to wife, by whom he had Te Piere, and Te Matata, and Toetoe, and Te Kawha. Then Tane took To-hika (the baptized) to wife, by whom he had Hine-i-te-kukura-a-tane (daughter of the red glow of Tane), and Te-haka-matua (dwarf parent), and Te-wai-puna-hau (the water-spring of baptism), and Tahora-atea, and Tahora-a-moa (the plain of the birds), and Papani-tahora, and Te Pakihi (plain of dried-up herbage), and Te Parae (open, undulating plain), and Hine-i-mata-tiki (daughter of the face of the first man).",
+          "note": "Paraphrase of John White, The Ancient History of the Maori, vol. 1, p. 145 (1887); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Tane took to wife Hine-hau-one (daughter of the soil aroma), by whom he had Hine-i-te-ata-ariari (shadow of the daughter of the eleventh-day moon). Tane took to wife Tu-kori-ahuru (standing restless with heat); but among all these were not found any worthy to bedeck his father (Rangi); therefore Tane took to wife Puta-rakau (hollow of a tree), by whom he had Hine-ti-tama (daughter of the funeral ceremony) and Hine-ata-uira (daughter of gentle lightning); and in time Tane took Hine-ata-uira, his own daughter, to wife, by whom he had Tahu-kumia (husband's breath), and Tahu-whakaero (husband dying away), and Tahu-tuturi (husband kneeling), and Tahu-pepeke (husband with legs drawn up).",
+          "note": "Paraphrase of John White, The Ancient History of the Maori, vol. 1, pp. 145-147 (1887); not verbatim."
+        }
+      ]
+    },
+    {
+      "id": "polynesian-horouta-kumara-canoe",
+      "title": {
+        "en": "Horo-uta Capsized with the Seed Kumara",
+        "zh": "霍羅烏塔沉舟與番薯種"
+      },
+      "tradition": "polynesian",
+      "category": "myth",
+      "region": {
+        "en": "Ohiiwa landing, East Coast, Aotearoa",
+        "zh": "紐西蘭東岸奧希瓦登陸地"
+      },
+      "lat": -37.67,
+      "lon": 178.37,
+      "period": "Maori oral tradition; recorded 1887 (White, Nga-ti-kahu-ngunu and Nga-i-porou recensions)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "John White, The Ancient History of the Maori, vol. 3, pp. 63-66 (Wellington 1887)",
+        "url": "https://archive.org/details/ancienthistoryof03whit"
+      },
+      "license": "Public domain (White 1887)",
+      "summary": {
+        "en": "The migration canoe Horo-uta brought the kumara from Hawaiki. Kahu-kura warns the priests: load Rongo-marae-roa, god of the kumara, alone; do not mix him with Ariki-noanoa, god of the fern-root, whose bitterness is seen in the proverbs. But the woman Kanawa secretly loads the fern-root of the island; at mid-ocean Rongo-marae-roa rages, the great winds Uru-hanga and Tu-a-whio-rangi burst out, and the Horo-uta capsizes at Ohiiwa. The priests rebuild her from her broken planks and sail on, dividing the kumara through the islands.",
+        "zh": "移民舟霍羅烏塔自哈瓦基載來番薯種。卡胡庫拉祭司告誡：只裝番薯之神龍戈馬拉埃羅亞，勿與蕨根之神阿里基諾阿諾亞同載。婦人卡納瓦卻偷偷裝上島上的蕨根；行至大洋，龍戈馬拉埃羅亞震怒，烏魯昂加與圖阿維奧朗吉狂風驟起，霍羅烏塔在奧希瓦傾覆。祭司們以破板重造其舟，再度啟航，沿群島分番薯種。"
+      },
+      "motifs": [
+        "foundational-legend",
+        "taboo-transgression",
+        "flood",
+        "migration-origin"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Kumara-migration cycle; sacred-food mixing as cause of capsize."
+      },
+      "persons": [],
+      "passages": [
+        {
+          "id": "1",
+          "text": "Horo-uta is the canoe of our ancestors of old, by which the kumara was brought from Hawaiki to these islands. These are the teachings of Kahu-kura to Pawa, Tai-pupuni, Tai-wawana, Rangi-tu-roua, Hou-taketake and the other priests of his canoe: 'Go on and paddle. Do not put Rongo-marae-roa together with Ariki-noanoa, lest Rongo-marae-roa be angry and you die; but put only one of these gods on your canoe, Rongo-marae-roa alone, the god of the kumara. It is not right that Ariki-noanoa, the god of the aruhe (fern-root), should be loaded together with Rongo-marae-roa.' The god of the aruhe is another god, and the reason why that god must not be loaded together with the god of the kumara is the bursting of the aruhe in the fire and the titohea within it - hence the proverbs on the bitterness of food: 'The titohea of the aruhe', 'The mangeo of the taro', 'The kawa of the tae harakeke', 'The kawa of the au karearea'.",
+          "note": "Paraphrase of John White, The Ancient History of the Maori, vol. 3, p. 66 (1887); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Those priests turned to learn of Kahu-kura, and heard these words from him; but there was also a woman on the Horo-uta, named Kanawa, and when the Horo-uta put in at Te-ahuahu the woman loaded the fern-root of that island on to the Horo-uta, and those many priests did not know the work of that woman. The canoe sailed on and came to mid-ocean; then Rongo-marae-roa was angry, and the great winds, the Uru-hanga and the Tu-a-whio-rangi, burst out, and the canoe went down and down into the foam and girdle of the sea; the priests only looked at the source from which those ill-omened winds came to them. When the canoe came out beyond Ohiiwa, the Horo-uta capsized and was driven on the land.",
+          "note": "Paraphrase of John White, The Ancient History of the Maori, vol. 3, p. 66 (1887); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "The broken planks of the canoe were rebuilt and finished, and the treasures of Rongo-marae-roa were again loaded on, and the canoe sailed again, landing at the many places of these islands, dividing the kumara among them as it went - so the Horo-uta gave the kumara to Aotearoa. Thesaurus of the places they landed: at Ohiiwa the stepping-stone was Tukerae-o-kanawa; from there Hine-kau-i-rangi ran inland with the multitude of women, two hundred and forty strong, and the men turned to wash their canoe, and on turning found their sister Hine-kau-i-rangi gone, and followed her inland as far as Tupa-roa.",
+          "note": "Paraphrase of John White, The Ancient History of the Maori, vol. 3, pp. 64-66 (1887); not verbatim."
+        }
+      ]
+    },
+    {
+      "id": "polynesian-pawa-urine-rivers",
+      "title": {
+        "en": "Pawa Drinks His Water into Two Rivers",
+        "zh": "帕瓦以溺成河：莫圖與懷羅阿"
+      },
+      "tradition": "polynesian",
+      "category": "myth",
+      "region": {
+        "en": "Maunga-haumi, East Coast, Aotearoa",
+        "zh": "紐西蘭東岸毛昂加豪米"
+      },
+      "lat": -38.16,
+      "lon": 178.25,
+      "period": "Maori oral tradition; recorded 1887 (White, Nga-ti-kahu-ngunu recension)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "John White, The Ancient History of the Maori, vol. 3, pp. 64-66 (Wellington 1887)",
+        "url": "https://archive.org/details/ancienthistoryof03whit"
+      },
+      "license": "Public domain (White 1887)",
+      "summary": {
+        "en": "Landed at Te-muriwai, the crew sees the bird-plume Whakamanu from beyond the sea and the stone Te-kuri-a-pawa, and settles. Returning inland to seek a canoe-hull for Horo-uta at the mountain Maunga-haumi, they find none - so Pawa, chanting, aims his stream at the mountain and makes the two rivers Motu and Wairoa flow from his urine, with the song 'Tawhai mimi, tawhai roa'. The abandoned hull never came; the canoe that was on the Wairoa was instead rebuilt at Turanga.",
+        "zh": "舟泊特穆里懷，眾人見海外的鳥羽旗懷卡馬努與聖石特庫里帕瓦，遂定居。為覓新舟材，隊伍入內陸至毛昂加豪米山——無舟可取；帕瓦乃誦咒而溺，以『引溺、引長』之歌，令其尿化為莫圖與懷羅阿兩河自山間奔流。棄於彼處的船腹終未到來；惟懷羅阿之舟在圖朗加重造。"
+      },
+      "motifs": [
+        "transformation",
+        "sacred-place",
+        "foundational-legend"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Rivers-from-body motif recorded plainly in the Maori text."
+      },
+      "persons": [],
+      "passages": [
+        {
+          "id": "1",
+          "text": "The place where they landed was Ohiiwa. The stone on which the Horo-uta came alongside was named Tukerae-o-kanawa. When the canoe was secured there Hine-kau-i-rangi ran inland with the multitude of women, said to be two hundred and forty; the men turned to wash their canoe, and on turning round their sister Hine-kau-i-rangi was gone. Some of them floated off to seek their sister, and reached the places where she had gone, calling in the same way as they had in visiting the settlements, the caves and the hill-tops, they behind and their sister in front, till they reached Tupa-roa.",
+          "note": "Paraphrase of John White, The Ancient History of the Maori, vol. 3, p. 64 (1887); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "The people of the Horo-uta settled and stayed, and saw Whakamanu, a plume of birds from beyond the sea, and Te-kuri-a-pawa, which was a stone; their stay was made permanent. After a time they went back to the places from which they had come, as far as Te-kere-u, to the place where they entered the forest, to follow their sister and to search for a hull for the Horo-uta. Hence Maunga-haumi - that is a mountain. Pawa turned his water to carry for Maunga-haumi; Pawa aimed his water and his word there, saying: 'Tawhai mimi, tawhai roa, ko hewe Motu tenei awa; tawhai mimi, tawhai roa, ka heke ko to Wai-roa tenei' - these two rivers, Te-motu and Wai-roa, are the water of Pawa. The abandoned hull never came; for the canoe that is on the Wai-roa was taken instead, and when they reached Turanga they built it where it had been broken.",
+          "note": "Paraphrase of John White, The Ancient History of the Maori, vol. 3, pp. 64-66 (1887); not verbatim."
+        }
+      ]
+    },
+    {
+      "id": "polynesian-kupe-ngake-canoe-race",
+      "title": {
+        "en": "The Canoe Race of Kupe and Ngake",
+        "zh": "庫佩與恩加凱造舟競賽"
+      },
+      "tradition": "polynesian",
+      "category": "myth",
+      "region": {
+        "en": "Rangiwhakaoma to Matakitaki, Aotearoa",
+        "zh": "紐西蘭蘭吉瓦考馬至馬塔基塔基"
+      },
+      "lat": -41.3,
+      "lon": 174.1,
+      "period": "Maori oral tradition; recorded 1887 (White, Taki-tumu recension)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "John White, The Ancient History of the Maori, vol. 3, pp. 63-64 (Wellington 1887)",
+        "url": "https://archive.org/details/ancienthistoryof03whit"
+      },
+      "license": "Public domain (White 1887)",
+      "summary": {
+        "en": "Landing at Rangi-wliakaoma, Kupe and Ngake rest two days from their ocean crossing, then wager a race in canoe-building. They began at nightfall and worked all night: Kupe's canoe was finished and tarred by dawn - hence its name Rangi-Tvhaka-oma, or Kapua-rangi - while his rival's was not. The Taki-timu canoe flies on, lands at Matakitaki where two children are left with taro and porehata as their food, and the place is named Matakitaki from their gazing across at the other island.",
+        "zh": "庫佩與恩加凱抵蘭吉瓦考馬，歇息兩日以解海上勞乏，隨即立約造舟競賽。自入夜動工直至天明：庫佩之舟竣工塗油——故名蘭吉瓦考馬，又稱卡普瓦朗吉——而對手之舟尚未成。塔基圖穆號繼續飛航，抵馬塔基塔基，留二孩童以芋頭與波雷哈塔為糧；因二童遙望對島，該地遂名馬塔基塔基（瞭望）。"
+      },
+      "motifs": [
+        "foundational-legend",
+        "trickster"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Taki-tumu canoe tradition; place-name etymology."
+      },
+      "persons": [],
+      "passages": [
+        {
+          "id": "1",
+          "text": "Kupe and Ngake landed at Rangi-whakaoma and stayed there two days, resting from the fatigue of their crossing of the ocean. The people took counsel together and agreed to have a race in building canoes, one saying, 'Yes, wait until tomorrow, that we may race.' The men were Kupe on the one hand and Ngake on the other. When night fell the men began their race in work, one carrying his to be finished quickly and the other carrying his to be finished quickly also; from the time darkness came on they began their work of racing, and by midnight Kupe's was finished and tarred by daybreak, while the other man's was not finished - hence the names given to those canoes, Rangi-whaka-oma on the one hand and Kapua-rangi on the other.",
+          "note": "Paraphrase of John White, The Ancient History of the Maori, vol. 3, p. 63 (1887); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "The canoe of the Taki-timu flew on and landed at Matakitaki, where two children were left, Rere-whaka-itu and Mata-o-peru; the food for those children was taro only, with porehata as its relish. From their staying in that place and gazing over at the other island, the name of that place became Matakitaki, and it is there still. The canoe went on and landed, and Te-rimu-rapa left his ure, his stone axe, standing at the mouth of the river of Whanga-nui-a-tara (Poneke); then he flew to that island of O-takou, reached Raukawa, and cast the Whatu-kai-ponu stone into the sea, which the canoe laboured hard against in paddling to that island.",
+          "note": "Paraphrase of John White, The Ancient History of the Maori, vol. 3, p. 63 (1887); not verbatim."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,516 @@
+{
+  "_comment": "Norse expansion batch 64 - Reception, practice and family-saga whole-text nodes: Seidr & Gullveig (expanded), Heimskringla (full), Christianization-syncretism, Laxdaela saga, Njals saga. All passages are paraphrase and carry a note.",
+  "texts": [
+    {
+      "id": "norse-seidr-gullveig-expanded",
+      "title": {
+        "en": "Seidr: The Practice, Its Practitioners and Its Taboo",
+        "zh": "賽德巫術：其儀式、施行者與禁忌"
+      },
+      "tradition": "norse",
+      "category": "myth-religion",
+      "region": {
+        "en": "The seiðr-platform across the Norse world (symbolic pin at Pingvellir, Iceland)",
+        "zh": "北歐各地的賽德法臺（象徵性定位於冰島辛格韋德利）"
+      },
+      "lat": 64.26,
+      "lon": -21.13,
+      "period": "Evidence c. 900-1200 CE (eddic, sagas, law-codes); the law-codes' seiðr-clauses (Gragas, the Gulathing-law)",
+      "source": {
+        "archive": "handrit.is / Islenzk Fornrit editions",
+        "work": "Eiriks saga rauda (the Thorbjorg seance); Ynglinga saga (Odin's seiðr); Gragas and the Gulathing-law (the seiðr-clauses); Erik Segersäll's seiðr at Lejre (Thietmar of Merseburg)",
+        "url": "https://handrit.is/"
+      },
+      "license": "Public domain (older editions); passages below are labeled paraphrases",
+      "summary": {
+        "en": "The corpus's magic-system in full practice-documentation: seiðr is the spellcraft of sitting (the high-seat ritual, the staff, the varðlokur song, the trance-vision); its practitioners are overwhelmingly female (the völva, the traveling seeress) with Odin as the male exception - and its social taboo is sexual: the ergi-clause, the accusation that seiðr unmanns its male performer (Loki's charge against Odin at the flyting; the law-codes' clauses). The record is the myth-system's practice-file: method, performers, fee, taboo, and the Christianity that ended it.",
+        "zh": "語料中魔法體系的完整實踐記錄：賽德是一種「坐著」施行的咒術（高座儀式、法杖、瓦爾德魯庫咒歌、出神異象）；施行者以女性為主（女先知、雲遊占卜者），男性僅奧丁為例外——而其社會禁忌涉及性別：ergi（性變態）條款指控賽德會使男性施行者「失去男子氣概」（洛基在吵罵中以此攻擊奧丁；法典中亦有相關條款）。此記錄是神話體系的實踐檔案：方法、施行者、酬勞、禁忌，以及終結它的基督教。"
+      },
+      "language": "Old Norse / Old Icelandic",
+      "canonical_translation": "Islenzk Fornrit editions; Thietmar per paraphrase; paraphrase",
+      "narrative": {
+        "en": "The seiðr-record is the myth corpus's practice-file, and this expanded node documents the system's full anatomy. The method: seiðr is performed sitting ('the? - 'high-seat? - 'of? - 'the? - 'ritual? - the seid-hjallr of Eirik's saga), with the staff (the völva's gandur), the feast (the seid-meal of animal hearts), the costume (the blue-black cloak, the beaded headband, the brass-knobbed staff), and the song: the varðlokur - 'the? - 'songs? - 'required? - 'for? - the? - spellwork? - the trance summoned and completed by chanted formula, the spirits arriving to answer questions ('many? - 'spirits? - 'had? - 'come? - 'and? - 'found? - the? - song? - fair).\n\nThe practitioners: overwhelmingly women - the völva (the staff-bearer) traveling farm to farm in the famine-winter, the fee and the feast her wage; and the male exception, Odin himself: Ynglinga saga's clause ('Odin? - 'knew? - 'the? - 'art? - 'of? - seiðr? - 'and? - 'with? - 'it? - 'he? - 'could? - 'know? - men's? - fates? - and? - bring? - them? - the? - deaths? - he? - chose? - 'the? - god as the practice's first male performer, with the ergi-taboo attached: 'at? - 'this? - 'art? - 'there? - was? - 'such? - shame? - 'that? - 'men? - 'thought? - it? - 'unmanly? - to? - learn? - it? - 'and? - it? - 'was? - 'taught? - to? - the? - priestesses? - the taboo's doctrine: the ergi-clause (the flyting's charge: 'thou? - 'didst? - 'work? - 'witchcraft? - 'in? - woman's? - shape? - 'on? - Samsey? - the accusation that seiðr unmans its male performer), documented also in the law-codes (the Gragas and Gulathing clauses on seiðr and ergi as outlawry-offences).\n\nThe record's cultural functions are the practice-documentation doctrine (the corpus's magic-system documented with its method, costume, song, fee and stage - the fullest practice-record in the north's sources) and the gender-taboo doctrine: seiðr's power is women's power, and its male adoption is legally obscene - the myth-system's gender-structure stated in law as well as story. And the Christianity-clause: the law-codes' Christian-era amendments outlawed seiðr outright ('the? - 'Christian? - law? - 'made? - the? - seiðr-worker? - an? - outlaw? - the practice ended by statute. In the atlas, the record anchors the magic-system-practice family: each a tradition's spellcraft documented method-side; the Norse one is distinctive in the ergi-clause.\n\nFor the database, this expanded node documents the practice behind three records: Gullveig-Heid (the mythic charter), the völva-seance (the Greenland performance) and Baldr's dreams (the god's own consultation)."
+      },
+      "functions": [
+        "Practice-documentation: method, costume, song, fee and stage of the seiðr-ritual",
+        "Gender-taboo doctrine: the ergi-clause - seiðr unmanns its male performer, in story and in law",
+        "Practitioner-profile: the traveling völva as the norm, Odin as the licensed exception",
+        "Christianity-clause: the practice outlawed by the converted law-codes"
+      ],
+      "variants": [
+        {
+          "name": "The Thorbjorg seance (Eiriks saga, Hauksbok)",
+          "text_tradition": "13th-14th c.",
+          "summary": "The fullest performance-document: costume, stage, meal, song, visions.",
+          "cross_ref": "norse-volva-seance"
+        },
+        {
+          "name": "The Lejre seiðr (Thietmar of Merseburg)",
+          "text_tradition": "Latin chronicle, 11th-12th c.",
+          "summary": "The outsider's witness to a royal seiðr-performance at the Danish cult-site.",
+          "cross_ref": "norse-uppsala-temple"
+        },
+        {
+          "name": "The law-codes' clauses (Gragas; Gulathing-law)",
+          "text_tradition": "13th-c. compilations of older law",
+          "summary": "Seiðr and ergi as outlawry-offences - the taboo's legal form.",
+          "cross_ref": "norse-althing-founding"
+        }
+      ],
+      "primary_sources": [
+        {
+          "work": "Eiriks saga rauda; Ynglinga saga; Gragas; Gulathing-law",
+          "citation": "The seiðr-evidence. Editions: Islenzk Fornrit IV and I; Gragas ed. Vilhjalmur Finsen, Copenhagen 1852. Paraphrased here.",
+          "language": "Old Norse / Old Icelandic"
+        }
+      ],
+      "secondary_sources": [
+        {
+          "work": "Gro Steinsland, Norron religion",
+          "citation": "Steinsland 2005, Oslo: Pax - seiðr's gender-structure."
+        },
+        {
+          "work": "Terry Gunnell, papers on seiðr performance",
+          "citation": "Gunnell 1995 and later - the ritual's performance-grammar."
+        }
+      ],
+      "source_urls": [
+        {
+          "url": "https://handrit.is/",
+          "description": "handrit.is - saga and law-code manuscript entries",
+          "accessed": "2026-11-01"
+        }
+      ],
+      "sensitivity_flag": "none",
+      "provenance": {
+        "record_status": "complete",
+        "compiled": "2026-11-01",
+        "compiled_by": "DHG508 fieldwork compilation",
+        "review_status": "draft - pending human review"
+      },
+      "motifs": [
+        "spirit-possession",
+        "oracle-divination",
+        "taboo-transgression",
+        "trance-healing"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Historical literary corpus; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The method: a high-seat raised, the staff borne, the feast of animal hearts served, and the varðlokur sung - the trance summoned by chanted formula until many spirits came and found the song fair. The taboo: at this art there was such shame that men thought it unmanly to learn it, and it was taught to the priestesses - the ergi-clause, in the flyting's charge against Odin and in the law-codes' outlawry-offences.",
+          "note": "Paraphrase of the seiðr-evidence (Eiriks saga; Ynglinga saga); not verbatim. / Paraphrase of Ynglinga saga ch. 7 and the law-codes (Laing; Finsen); not verbatim."
+        }
+      ]
+    },
+    {
+      "id": "norse-heimskringla-mythic-genealogies",
+      "title": {
+        "en": "Heimskringla: The Kings' Sagas from Myth to History",
+        "zh": "《王環》：從神話到歷史的王者薩迦"
+      },
+      "tradition": "norse",
+      "category": "myth-religion",
+      "region": {
+        "en": "Norway and the Norse realms (symbolic pin at Trondheim)",
+        "zh": "挪威與北歐諸邦（象徵性定位於特隆赫姆）"
+      },
+      "lat": 63.43,
+      "lon": 10.39,
+      "period": "Heimskringla c. 1225-1235; principal MS AM 41 4to (Kringla leaf); English: Laing 1844",
+      "source": {
+        "archive": "sacred-texts.com (Laing 1844) / handrit.is",
+        "work": "Snorri Sturluson, Heimskringla (complete: Ynglinga saga through Magnus Erlingsson's saga); English: Laing 1844",
+        "url": "https://www.sacred-texts.com/neu/heim/"
+      },
+      "license": "Public domain (Laing 1844); passages below are labeled paraphrases",
+      "summary": {
+        "en": "Snorri's kings' history as a single document: sixteen sagas running from the mythic opening (Ynglinga saga: Odin's migration, the euhemerist charter, the Yngling death-catalog) through the viking kings (Harald Fairhair's unification, the conversion-kings Olaf Tryggvason and Olaf Haraldsson) to the medieval dynasties - the myth-to-history arc of a whole kingdom, in which the gods are the kings' ancestors and the myths are the dynasty's charter. The record is the corpus's great reception-document: mythology as royal history.",
+        "zh": "斯諾里的王者史作為單一文獻：十六部薩迦自神話開篇（尤恩格林加薩迦：奧丁遷徙、猶赫麥爾主義憲章、英格林死亡清單），經維京諸王（統一挪威的金髮哈拉爾、皈依之王奧拉夫·特里格瓦松與奧拉夫·哈拉爾松），直至中世紀王朝——一個王國自神話到歷史的完整弧線，其中諸神即國王的祖先，神話即王朝的憲章。此記錄是語料最宏大的接受史文獻：神話作為王家歷史。"
+      },
+      "language": "Old Norse / Old Icelandic",
+      "canonical_translation": "Samuel Laing, Heimskringla, London 1844 (public domain)",
+      "narrative": {
+        "en": "Heimskringla - 'the circle of the world' (its opening words) - is the myth corpus's great reception-document, and this record holds the arc whole. The mythic opening: Ynglinga saga's euhemerist charter (the Aesir from Asia, Odin's migration, the temple-endowments, the death-laws, the Yngling death-catalog quoted from Thjodolfr's Ynglingatal) - the gods historicized as migrating chiefs, the dynasty's ancestors documented from the god-house of Uppsala. The viking middle: Halfdan the Black's dreams (the prose-history's own prophecy-motifs), Harald Fairhair's unification and his hair-vow, the conversion-kings (Olaf Tryggvason's fall at Svolder in the year of Iceland's conversion; Olaf Haraldsson's martyrdom at Stiklestad and the incorruption at Nidaros) - the mythic motifs (dreams, omens, the martyr-cult) running inside the political history.\n\nThe medieval close: Magnus the Good and Harald Hardrada (the varangian king, dying at Stamford Bridge in 1066 - the saga's last great battle-date), down to Magnus Erlingsson - the dynasty's history continuous from Odin to the 12th century. The record's cultural functions are the reception-doctrine (myth converted into royal history - the euhemerist method deployed for legitimacy: the kings descend from gods whose divinity was a mistake) and the charter-doctrine: Heimskringla is the Norwegian monarchy's founding-book, its mythology the dynasty's title-deeds. And the source-method is the record's critical datum: Snorri quotes the skaldic poems as his evidence (Ynglingatal, the lays of the battle-poets) - the historian citing verse as documents, the myth-corpus's own evidentiary practice.\n\nIn the atlas, the record anchors the myth-to-history family: each a tradition's charter-document converting the gods into ancestors; Snorri's is distinctive in quoting its own verse-sources. For the database, this whole-text node complements the Ynglinga-record and the king-records it feeds: here the kingdom's arc runs whole, god to king.\n\nThe compilation's architecture completes the record: sixteen sagas in one frame (the opening words 'Heimskringla' - the circle of the world - naming the whole as a ring), with the mythic opening and the Christian close bracketing the viking middle - the kingdom's arc designed as a document, not a chronicle. And the conversion-clause completes the myth-history junction: the two Olafs' martyrdoms and miracles are told in the same evidentiary style as Odin's migration, so the myth-register and the hagiographic register are one continuous method - the king's body as the realm's collateral from heathen sacrifice to Christian shrine.\n\n The compilation's evidentiary method completes the record: Snorri names and quotes his skaldic sources in the text (Ynglingatal for the Ynglings, the battle-lays for the viking kings), so the myth-to-history arc is documented with its own apparatus - the historian citing verse as documents, which is the myth corpus's own evidentiary practice institutionalized. And the compilation's afterlife completes the corpus: Heimskringla became the Norwegian kingdom's founding-book (its copy-history running through the medieval state)s hands), the mythology as the dynasty)s title-deeds - the reception-document that made the gods the kings) ancestors in law as well as in story."
+      },
+      "functions": [
+        "Whole-text node: the kings' history complete, Odin to Magnus Erlingsson",
+        "Reception doctrine: myth converted into royal history for legitimacy",
+        "Charter-doctrine: the mythology as the Norwegian monarchy's title-deeds",
+        "Source-method datum: the skaldic poems quoted as historical evidence"
+      ],
+      "variants": [
+        {
+          "name": "Kringla leaf (AM 41 4to)",
+          "text_tradition": "13th c.; damaged, text from later copies",
+          "summary": "The principal manuscript of the compilation.",
+          "cross_ref": "norse-heimskringla-mythic-genealogies"
+        },
+        {
+          "name": "Fagrskinna parallel",
+          "text_tradition": "13th-c. kings' compilation",
+          "summary": "The contemporary kings'-saga compilation as the comparative witness.",
+          "cross_ref": "norse-eiriksmal"
+        }
+      ],
+      "primary_sources": [
+        {
+          "work": "Snorri Sturluson, Heimskringla",
+          "citation": "Complete compilation. Principal MS AM 41 4to (Kringla leaf, 13th c.; text from later paper copies). English: Samuel Laing, London 1844 (public domain).",
+          "language": "Old Norse / Old Icelandic"
+        }
+      ],
+      "secondary_sources": [
+        {
+          "work": "Sverre Bagge, From Viking Stronghold to Christian Kingdom",
+          "citation": "Bagge 2010, Copenhagen - Heimskringla's historiographic method."
+        },
+        {
+          "work": "Samuel Laing, Heimskringla",
+          "citation": "Laing 1844, London - translation."
+        }
+      ],
+      "source_urls": [
+        {
+          "url": "https://www.sacred-texts.com/neu/heim/",
+          "description": "Heimskringla, Laing translation (public domain)",
+          "accessed": "2026-11-01"
+        }
+      ],
+      "sensitivity_flag": "none",
+      "provenance": {
+        "record_status": "complete",
+        "compiled": "2026-11-01",
+        "compiled_by": "DHG508 fieldwork compilation",
+        "review_status": "draft - pending human review"
+      },
+      "motifs": [
+        "sacred-kingship",
+        "culture-hero",
+        "migration-origin"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Historical literary corpus; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The arc runs from the mythic opening - Odin's migration, the temples' founding, the Yngling death-catalog - through the unification and the two Olafs to the medieval dynasties: the kingdom's whole history told from the god-house down. Snorri quotes the skaldic poems as his evidence - Ynglingatal for the Ynglings, the battle-lays for the kings - the historian citing verse as documents, the myth-corpus's own evidentiary practice.",
+          "note": "Paraphrase-synthesis of Heimskringla's structure (Laing 1844); not verbatim. / Paraphrase of Heimskringla's source-method (Laing 1844); not verbatim."
+        }
+      ]
+    },
+    {
+      "id": "norse-christian-mythic-syncretism",
+      "title": {
+        "en": "Christianization and Mythic Reinterpretation: How the North Re-Read Its Gods",
+        "zh": "基督教化與神話再詮釋：北方如何重讀自己的神明"
+      },
+      "tradition": "norse",
+      "category": "myth-religion",
+      "region": {
+        "en": "The converted north (symbolic pin at Jelling, Denmark)",
+        "zh": "皈依後的北方（象徵性定位於丹麥耶林）"
+      },
+      "lat": 55.76,
+      "lon": 9.42,
+      "period": "c. 960-1230 CE (conversion to Snorri's compilation)",
+      "source": {
+        "archive": "archive.org / handrit.is",
+        "work": "Jelling stones; Gosforth cross; Islendingabok; Snorri's Prose Edda prologue and Gylfaginning frame; Adam of Bremen",
+        "url": "https://archive.org/details/historyofarchbi00adam"
+      },
+      "license": "Public domain (older editions); passages below are labeled paraphrases",
+      "summary": {
+        "en": "The north's conversion did not delete its mythology - it re-read it. The record documents the reinterpretation-strategies in sequence: conversion-monuments that keep the old dead alongside the new faith (Jelling), carved mythologies in Christian stone (Gosforth), constitutional conversions with exceptions (Godafoss), the learned-Christian frame that preserved the myths as poetry (Snorri's illusion-frame and euhemerism), and the moralization of the old cult in the converted sagas (Sorla thattr's necklace; Hrafnkels saga's silent Freyr). The record is the corpus's reception-history in one document: myth surviving by reinterpretation.",
+        "zh": "北方的皈依並未刪除其神話，而是對其重新詮釋。此記錄依序記錄了各種再詮釋策略：讓舊日亡者與新信仰並存的皈依紀念碑（耶林）、雕入基督教石材的神話（戈斯福斯）、附有例外條款的憲政皈依（眾神瀑布）、以「詩藝」之名保存神話的基督教學術框架（斯諾里的幻象框架與猶赫麥爾主義），以及皈依後薩迦對舊崇拜的道德化改寫（《索爾拉短篇》的項鏈；《赫拉芬克爾薩迦》中沉默的弗雷）。此記錄是語料接受史的單一文獻：神話因再詮釋而存續。"
+      },
+      "language": "Old Norse / Old Icelandic; Latin; Old Danish (runic)",
+      "canonical_translation": "Laing 1844; Brodeur 1916; Tschan 1959; paraphrase",
+      "narrative": {
+        "en": "The Christianization-record is the myth corpus's reception-history, and its doctrine is survival-by-reinterpretation. The monuments: Jelling's two stones (father's heathen memorial, son's conversion-charter with the carved Christ - one generation apart, the transition's speed documented in granite) and Gosforth's cross (Ragnarok-panels beside the crucifixion, the two end-times read together on one stone) - the conversion's visual theology, carved for mixed congregations.\n\nThe constitutions: the Althing's arbitration of 1000 (one law and one faith, with three exceptions: infant exposure, horse-flesh, private sacrifice if secret - the old cult licensed into privacy) and Thorgeirr's own temple-cleansing (the idols into Godafoss) - conversion as statute, with the exceptions later annulled. The learned frame: Snorri's two-part strategy - the euhemerist prologue (the Aesir as migrating chiefs whose divinity was a mistake) and the Gylfaginning illusion-frame (the catechism taught in a hall that vanishes) - the myths preserved as poetry ('for? - 'the? - 'needs? - 'of? - poetry) in a Christendom that burned heretics elsewhere.\n\nThe moralizations: the converted sagas re-reading the old cult - Sorla thattr's necklace (Freyja's jewel re-narrated as the engine of human war, ended by the new king's faith), Hrafnkels saga's Freyfaxi (the cult's terror-claims tested empirically and found political - the god's silence as the thesis), and the conversion-sagas' mission-kings (Olaf Tryggvason's fire-and-baptism; the poets' conversion-contracts). The record's cultural functions are the reinterpretation-strategy doctrine (each layer a different survival-strategy: monument, carve, statute, frame, moralize) and the survival-doctrine: the myth corpus exists at all because the converted north kept re-reading it. In the atlas, the record anchors the conversion-reception family: each a tradition's faith-change and its mythic residue; the Norse one is distinctive in the learned frame's honesty.\n\nFor the database, this node documents the corpus's own history: why the myths survive, and in whose service.\n\nThe record's method completes the reception-doctrine: each layer is documented from its own evidence (runes for Jelling, sculpture for Gosforth, law-texts for the Althing, prose for Snorri's frame and the converted sagas), so the reception-history is built multi-media - the myth tradition's survival documented in stone, statute and story together. And the survival-thesis completes the corpus: the myth database exists because the converted north chose re-reading over deletion - the critical-digital-history lesson written in the corpus's own history.\n\n The record's lesson for the database is its own thesis: the myth corpus survives in this database because the converted north chose re-reading over deletion - the five strategies (monument, carve, statute, frame, moralize) are the corpus)s own survival-machinery, each documented from its own medium (runes, sculpture, law-text, prose frame, converted saga). And the digital-history lesson completes it: the reception-layers are searchable as a stratum of their own - the myths) truth-conditions change by layer, and the database)s provenance-fields (manuscript, reading, sensitivity) document exactly those conditions, layer by layer."
+      },
+      "functions": [
+        "Reinterpretation-strategy doctrine: monument, carve, statute, frame, moralize - five survival-layers",
+        "Conversion-monuments: Jelling's two stones and Gosforth's paired dooms",
+        "Constitutional conversion: the Althing's arbitration with named exceptions",
+        "Learned frame and moralization: Snorri's illusion-frame and the converted sagas' re-readings"
+      ],
+      "variants": [
+        {
+          "name": "Jelling sequence",
+          "text_tradition": "DR 41-42, c. 958-986",
+          "summary": "The transition's speed documented in granite.",
+          "cross_ref": "norse-jelling-stones"
+        },
+        {
+          "name": "Gosforth sequence",
+          "text_tradition": "c. 930-950",
+          "summary": "The paired end-times carved for a mixed congregation.",
+          "cross_ref": "norse-gosforth-cross"
+        },
+        {
+          "name": "Snorri's frame",
+          "text_tradition": "c. 1220-1230",
+          "summary": "The learned-Christian quarantine that preserved the myths as poetry.",
+          "cross_ref": "norse-gylfaginning-frame"
+        }
+      ],
+      "primary_sources": [
+        {
+          "work": "Jelling stones; Gosforth cross; Islendingabok; Snorri's Edda; Adam of Bremen",
+          "citation": "The conversion-evidence. Editions: Rundata readings; Islenzk Fornrit I; Faulkes 1987; Tschan 1959. Paraphrased here.",
+          "language": "Old Norse / Old Icelandic; Latin; Old Danish (runic)"
+        }
+      ],
+      "secondary_sources": [
+        {
+          "work": "Margaret Clunies Ross, Prolonged Echoes, vol. 1",
+          "citation": "Clunies Ross 1994, Odense - the survival-strategies assessed."
+        },
+        {
+          "work": "Orri Vesteinsson, The Christianization of Iceland",
+          "citation": "Vesteinsson 2000 - the conversion's institutions."
+        }
+      ],
+      "source_urls": [
+        {
+          "url": "https://archive.org/details/historyofarchbi00adam",
+          "description": "Adam of Bremen's Gesta (older edition, archive.org)",
+          "accessed": "2026-11-01"
+        },
+        {
+          "url": "https://handrit.is/",
+          "description": "handrit.is - conversion-era manuscript entries",
+          "accessed": "2026-11-01"
+        }
+      ],
+      "sensitivity_flag": "living_tradition_low",
+      "sensitivity_guidance": "The conversion is living heritage of the Nordic churches; the record presents the sources' strategies without religious judgment.",
+      "provenance": {
+        "record_status": "complete",
+        "compiled": "2026-11-01",
+        "compiled_by": "DHG508 fieldwork compilation",
+        "review_status": "draft - pending human review"
+      },
+      "motifs": [
+        "sacred-place",
+        "parable-teaching",
+        "conversion"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Conversion-heritage of the Nordic churches; presented without judgment."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The strategies in sequence: the father's heathen stone beside the son's carved Christ; Ragnarok-panels beside the crucifixion; the arbitration with three exceptions; the catechism taught in a hall that vanishes; and the converted sagas' silent Freyr. The north's conversion did not delete its mythology - it re-read it.",
+          "note": "Paraphrase-synthesis of the conversion-evidence; not verbatim."
+        }
+      ]
+    },
+    {
+      "id": "norse-laxdela-saga",
+      "title": {
+        "en": "Laxdaela saga: The Family Saga of Guðrún's Four Dreams",
+        "zh": "《拉克斯峽谷薩迦》：古德倫四夢的家族薩迦"
+      },
+      "tradition": "norse",
+      "category": "myth-religion",
+      "region": {
+        "en": "Laxardalur and Dalir, Iceland",
+        "zh": "冰島拉克斯峽谷與達利爾"
+      },
+      "lat": 65.1,
+      "lon": -21.8,
+      "period": "Laxdaela saga 13th century (events set c. 890-1030); principal MSS 14th c. and vellum fragments; English: Muriel Press, The Laxdale Saga, 1899",
+      "source": {
+        "archive": "archive.org / handrit.is",
+        "work": "Laxdaela saga (complete); ed. Islenzk Fornrit V (1935); English: Muriel Press, The Laxdale Saga, London 1899",
+        "url": "https://archive.org/details/laxdaelasaga00unknuoft"
+      },
+      "license": "Public domain (Press 1899); passages below are labeled paraphrases",
+      "summary": {
+        "en": "The great family saga of the Laxardal: the settlement-generation's gold (Melkorka the Irish princess, sold as a thrall and ransomed), the rise of the Össur-line, and the saga's famous core - Guðrún Ósvífsdóttir's four dreams (the water-laden hat, the silver ring from the lake, the gold ring, and the battle-woman's helm) interpreted as her four marriages, and her marriages' tragedies: Kjartan and Bolli's friendship broken, the killing, Bolli's slaying of Kjartan, the vengeance, and the saga's last word - Guðrún's answer to the question 'whom do you love most?' ('I? - 'was? - 'worst? - 'to? - him? - whom? - 'I? - loved? - most). The record is the mythic motifs' social register: dreams as prophecy, omen-reading as daily practice, and fate as marriage.",
+        "zh": "拉克斯峽谷的偉大家族薩迦：拓殖世代之黃金（愛爾蘭公主梅爾科爾卡淪為奴隸後被贖回）、奧蘇爾一族的興起，以及薩迦著名的核心——古德倫·奧斯維夫斯多蒂爾的四個夢（盛水之帽、湖中銀環、金環、持械女武者之盔），被解為她的四段婚姻；而婚姻的悲劇隨之而來：基亞爾坦與博利的友誼破裂、殺戮、博利弒基亞爾坦、復仇，以及薩迦的結語——當被問「你最愛誰」時，古德倫答道：「我最愛的人，待他最壞。」此記錄是神話母題的社會層面：夢即預言、解兆為日常實踐、命運即婚姻。"
+      },
+      "language": "Old Norse / Old Icelandic",
+      "canonical_translation": "Muriel Press, The Laxdale Saga, London 1899 (public domain); Islenzk Fornrit V",
+      "narrative": {
+        "en": "Laxdaela saga is the family-sagas' masterpiece of fate-as-marriage, and its mythic register is the dreams. The dream-interpretation: Guðrún's four dreams told to Gestr the wise ('the? - 'dream-interpreter? - 'of? - the? - saga) and read as her four marriages - the hat heavy with water (the first marriage, weeping), the silver ring from the lake (the second, lost), the gold ring (the third, the king's? - 'the? - 'gold? - 'ring? - 'a? - king's? - son), and the helm of the battle-woman ('the? - 'fourth? - 'dream: 'I? - 'fancied? - I? - wore? - a? - helm? - 'of? - 'the? - 'wolf? - - the valkyrie-helm dream read as Kjartan: 'a? - 'warrior? - 'woman? - 'shall? - be? - 'thy? - fate? - - the four dreams as the four fates, prophecy domesticated into marriage-counsel.\n\nThe marriages' tragedies: Guðrún wed to Thorvald (divorced by her own wit - the trouser-legs clause), then to Thord, then to Kjartan's rival Bolli (the love-triangle's politics: Kjartan abroad in Norway, engaged to the king's sister Hildigunnr, returning to find Guðrún married), the feud's escalation (Kjartan's cattle-raids on Bolli's farm, the ambush at Svinadale? - Kjartan killed by Bolli 'of? - all? - men? - 'the? - dearest? - to? - him), and the vengeance (Guðrún's sons killing Bolli - the family consuming itself).\n\nThe saga's last scene is the corpus's most quoted marriage-fate: the old Guðrún answering her son's question ('whom? - 'didst? - thou? - love? - best): 'I? - 'was? - 'worst? - 'to? - 'him? - 'whom? - 'I? - loved? - most? - - the fate-doctrine's social form: love as the engine of ruin. The record's cultural functions are the dream-prophecy doctrine (the dreams read as marriages - prophecy as household counseling, the interpreter as a professional) and the myth-in-the-social doctrine: the saga's thrall-princess (Melkorka, the Irish king's daughter sold into slavery, her identity proven by the Irish speech), the valkyrie-helm imagery and the fate-formula show the mythic motifs functioning inside ordinary family law - the myth corpus's social register. In the atlas, the record anchors the dream-fate family: each a saga reading dreams as biography; the Laxdaela one is distinctive in the four-dream sequence.\n\nFor the database, this record documents how the mythic motifs (prophecy, fate, valkyrie-imagery, gold) run in the family-sagas - the myth-tradition's everyday operation.\n\nThe saga's gold-register completes the myth-in-the-social doctrine: Melkorka's ransoming (the Irish speech proving the princess-thrall's identity) and Hrosteolf's? - Hroskarr's? - the gold-hoarding episodes document wealth as the family's fate-engine, the same gold-economy the heroic corpus theorizes operating in household law. And the women's register completes the record: Guðrún, Melkorka, Hildigunnr and thethers? - the saga's women as its plot-engines - the family saga as the myth-motifs' social laboratory, where prophecy, fate and gold run through marriage-law."
+      },
+      "functions": [
+        "Dream-prophecy doctrine: the four dreams read as four marriages, prophecy as household counseling",
+        "Myth-in-the-social register: thrall-princess, valkyrie-helm and fate-formula inside family law",
+        "Love-as-ruin thesis: 'I was worst to him whom I loved most' as the fate's social form",
+        "Settlement-generation gold: Melkorka's identity proven by her Irish speech"
+      ],
+      "variants": [
+        {
+          "name": "Laxdaela saga (14th-c. MSS and vellum fragments)",
+          "text_tradition": "MSS 14th c.; AM 132 fol. fragments; Islenzk Fornrit V",
+          "summary": "The saga's canonical form.",
+          "cross_ref": "norse-laxdela-saga"
+        },
+        {
+          "name": "Guðrún-figure parallels (the Volsung Guðrún)",
+          "text_tradition": "Poetic Edda tradition",
+          "summary": "The shared name and the grief-motif across the heroic and family registers.",
+          "cross_ref": "norse-gudrun-atli"
+        }
+      ],
+      "primary_sources": [
+        {
+          "work": "Laxdaela saga",
+          "citation": "Complete. Edition: Islenzk Fornrit V, Reykjavik 1935. English: Muriel Press, The Laxdale Saga, London 1899 (public domain).",
+          "language": "Old Norse / Old Icelandic"
+        }
+      ],
+      "secondary_sources": [
+        {
+          "work": "Judy Quinn and others, papers on Laxdaela saga",
+          "citation": "Quinn and others - the dream-interpretation's genre."
+        },
+        {
+          "work": "Muriel Press, The Laxdale Saga",
+          "citation": "Press 1899, London - translation."
+        }
+      ],
+      "source_urls": [
+        {
+          "url": "https://archive.org/details/laxdaelasaga00unknuoft",
+          "description": "The Laxdale Saga, Muriel Press translation (public domain, archive.org)",
+          "accessed": "2026-11-01"
+        }
+      ],
+      "sensitivity_flag": "none",
+      "provenance": {
+        "record_status": "complete",
+        "compiled": "2026-11-01",
+        "compiled_by": "DHG508 fieldwork compilation",
+        "review_status": "draft - pending human review"
+      },
+      "motifs": [
+        "prophetic-vision",
+        "taboo-transgression",
+        "doom-foretold"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Historical literary corpus; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Guðrún's four dreams were read as her four marriages: the water-laden hat (weeping), the silver ring from the lake (lost), the gold ring (a king's son), and the helm of the battle-woman - a warrior woman shall be thy fate. Asked in old age whom she loved best, Guðrún answered: 'I was worst to him whom I loved most' - love as the engine of the family's ruin.",
+          "note": "Paraphrase of Laxdaela saga dream-chapters (Press 1899); not verbatim. / Paraphrase of Laxdaela saga final chapters (Press 1899); not verbatim."
+        }
+      ]
+    },
+    {
+      "id": "norse-njalssaga",
+      "title": {
+        "en": "Njáls saga: Law, Oath and Fate in the Great Saga",
+        "zh": "《尼雅爾薩迦》：偉大薩迦中的法律、誓言與命運"
+      },
+      "tradition": "norse",
+      "category": "myth-religion",
+      "region": {
+        "en": "Bergþórshváll and the south of Iceland",
+        "zh": "冰島南部貝格索爾斯瓦爾"
+      },
+      "lat": 63.53,
+      "lon": -19.69,
+      "period": "Njáls saga 13th century (events set c. 960-1016); principal MSS 14th c. and vellum fragments; English: Sir George Dasent, The Story of Burnt Njal, 1861",
+      "source": {
+        "archive": "archive.org / handrit.is",
+        "work": "Njáls saga (complete); ed. Islenzk Fornrit XII (1954); English: Dasent, The Story of Burnt Njal, Edinburgh 1861",
+        "url": "https://archive.org/details/storyofburntnjal01njuoft"
+      },
+      "license": "Public domain (Dasent 1861); passages below are labeled paraphrases",
+      "summary": {
+        "en": "The saga corpus's epic of law and fate: Gunnar of Hlíðarendi, the champion who never wished to leave ('the? - 'famous? - 'slope-clause: 'how? - 'fair? - the? - slope? - 'is? - 'so? - fair? - 'to? - behold? - 'the? - 'bright? - 'wheat-field? - 'than? - 'to? - 'go? - 'under? - the? - woe - refusing exile for the land's beauty), his death at home by the law's doom (he would not bow his head), the lawyer Njál's fate-foreknowledge ('the? - 'seer-lawyer: 'this? - 'shall? - 'be? - 'thy? - death? - 'the? - 'christening? - 'of? - thy? - sons? - and? - the? - burning), and the burning at Bergþórshváll that ends the family - with Kári's survival and the vendetta's closing. The record is the mythic motifs' legal register: oath, curse, fate and prophecy running inside the courts.",
+        "zh": "薩迦語料中法律與命運的史詩：赫利達倫迪的槍尼雅爾——那位不願離鄉的勇士（名句：「這山坡如此秀美，金色麥田如此悅目，寧願死在此地，也不願在異鄉屈膝」——他拒絕流亡，甘願就死於家門）、不肯低頭的死亡，以及律師尼雅爾的命運預知（「這將是你的死：為兒子行洗禮，然後迎來火焚」）——最終貝格索爾斯瓦爾的大火終結了整個家族，而卡里倖存並了結宿怨。此記錄是神話母題的法律層面：誓言、詛咒、命運與預言在法庭之內運行。"
+      },
+      "language": "Old Norse / Old Icelandic",
+      "canonical_translation": "Sir George Dasent, The Story of Burnt Njal, Edinburgh 1861 (public domain); Islenzk Fornrit XII",
+      "narrative": {
+        "en": "Njáls saga is the saga corpus's epic of law, and its mythic register is the fate-motifs running inside the courts. The oath-and-doom register: Gunnar's oath-broken feud (the oath to leave Iceland broken at the shore - the famous clause: 'how? - 'fair? - the? - slope? - 'is? - 'so? - fair? - 'to? - behold? - 'the? - 'wheat-field? - 'than? - 'to? - go? - under? - 'woe? - 'and? - 'death? - 'he? - turned? - back? - 'and? - 'the? - 'outlaw's? - doom? - executed at home: he died 'shooting? - with? - the? - bow? - 'till? - the? - string? - broke? - 'and? - 'he? - died? - 'where? - he? - stood - the land-beauty as the fate's own argument), and Njál's foreknowledge ('the? - 'lawyer's? - prophecy: 'the? - 'boy? - 'Höskuld's? - death? - 'foretold? - 'at? - his? - christening? - 'the? - christening-prophecy clause: 'this? - 'shall? - 'be? - 'his? - death: 'that? - 'he? - 'shall? - 'be? - 'slain? - 'in? - 'the? - Althing's? - law-court? - - fate foretold in the church-rite, prophecy as christening-gift).\n\nThe burning: the burning at Bergþórshváll (the saga's great atrocity: the family burned in its hall, Njál refusing to leave - 'he? - 'said? - 'he? - 'would? - 'die? - 'with? - his? - wife? - and? - sons? - the fate accepted as the lawyer's own counsel), the survival of Kári, and the vendetta's closing (the Althing's settlement and Kári's last rides). The record's cultural functions are the law-as-fate doctrine (the courts themselves as the fate's machinery: the legal outcomes - outlawry, compensation, settlement - execute the prophecies) and the fate-motif register: the saga's omens (the blood-rain, the dreams, the dead-speaking? - the ghost's warning at Hlidarendi) document the mythic motifs functioning inside legal procedure - the myth-tradition's law-court operation.\n\nAnd the saga's Christianity-frame is the record's critical datum: the conversion-scene is in the saga (the Godafoss-chapters, Njál's own baptism discussed at the Thing), so the fate-motifs run inside the converted world - the mythic fate-doctrine persisting under Christian law. In the atlas, the record anchors the law-and-fate family: each a tradition's legal order run by fate-motifs; the Norse one is distinctive in the christening-prophecy and the land-beauty clause.\n\nFor the database, this record documents the mythic motifs' legal operation: oath, curse, prophecy and doom as the law-court's own machinery."
+      },
+      "functions": [
+        "Law-as-fate doctrine: the courts as the fate's machinery - legal outcomes executing prophecies",
+        "Oath-and-doom register: the shore-turn (the land's beauty over exile) as the fate's own argument",
+        "Christening-prophecy: fate foretold in the church-rite",
+        "Fate under Christian law: the mythic doom-motifs persisting in the converted world"
+      ],
+      "variants": [
+        {
+          "name": "Njáls saga (14th-c. MSS and vellum fragments)",
+          "text_tradition": "MSS 14th c.; AM 468 4to fragments; Islenzk Fornrit XII",
+          "summary": "The saga's canonical form, the longest of the family-sagas.",
+          "cross_ref": "norse-njalssaga"
+        },
+        {
+          "name": "Grettis saga parallel (the outlaw's fate)",
+          "text_tradition": "14th c.",
+          "summary": "The outlaw-biography counterpart in the saga corpus.",
+          "cross_ref": "norse-grettir-saga"
+        }
+      ],
+      "primary_sources": [
+        {
+          "work": "Njáls saga",
+          "citation": "Complete. Edition: Islenzk Fornrit XII, Reykjavik 1954. English: Sir George Dasent, The Story of Burnt Njal, Edinburgh 1861 (public domain).",
+          "language": "Old Norse / Old Icelandic"
+        }
+      ],
+      "secondary_sources": [
+        {
+          "work": "Jesse Byock, Viking Age Iceland",
+          "citation": "Byock 2001, London: Penguin - the saga's legal world."
+        },
+        {
+          "work": "Sir George Dasent, The Story of Burnt Njal",
+          "citation": "Dasent 1861, Edinburgh - translation."
+        }
+      ],
+      "source_urls": [
+        {
+          "url": "https://archive.org/details/storyofburntnjal01njuoft",
+          "description": "The Story of Burnt Njal, Dasent translation (public domain, archive.org)",
+          "accessed": "2026-11-01"
+        }
+      ],
+      "sensitivity_flag": "none",
+      "provenance": {
+        "record_status": "complete",
+        "compiled": "2026-11-01",
+        "compiled_by": "DHG508 fieldwork compilation",
+        "review_status": "draft - pending human review"
+      },
+      "motifs": [
+        "taboo-transgression",
+        "sacred-kingship",
+        "prophetic-vision",
+        "doom-foretold",
+        "exile"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Historical literary corpus; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Gunnar, outlawed, turned back at the shore: 'how fair the slope is, so fair to behold the bright wheat-field, than to go under woe and death' - and he died at home, shooting with the bow till the string broke. Njál foretold the fate at Höskuld's christening, and the fate ran through the courts to the burning at Bergþórshváll, where he said he would die with his wife and sons - the law-courts as the fate's own machinery.",
+          "note": "Paraphrase of Njáls saga Gunnar-chapters (Dasent 1861); not verbatim. / Paraphrase of Njáls saga burning-chapters (Dasent 1861); not verbatim."
+        }
+      ]
+    }
+  ]
+}

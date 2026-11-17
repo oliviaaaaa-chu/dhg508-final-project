@@ -1,0 +1,657 @@
+{
+  "_comment": "Norse expansion batch 71 - Topics 8-9 nodes: Loki's lesser tricks, Odin's ambiguous deeds, Thjalfi trickster-servants, local rune-stone legends, hof-place sagas, the Sigurd runestones, Gothic legend transfers. All passages are paraphrase and carry a note.",
+  "texts": [
+    {
+      "id": "norse-loki-trick-variations",
+      "title": {
+        "en": "Loki's Lesser Mischiefs: The Small Tricks Cataloged",
+        "zh": "洛基的小惡作劇：小型詭計目錄"
+      },
+      "tradition": "norse",
+      "category": "myth-religion",
+      "region": {
+        "en": "The halls and roads of Asgard (symbolic pin at Pingvellir, Iceland)",
+        "zh": "阿斯加德的大廳與道路（象徵性定位於冰島辛格韋德利）"
+      },
+      "lat": 64.26,
+      "lon": -21.13,
+      "period": "Skaldskaparmal and Eddic c. 1000-1230; the small-trick register",
+      "source": {
+        "archive": "Project Gutenberg (Brodeur 1916) / sacred-texts.com (Bellows 1923)",
+        "work": "Snorri, Skaldskaparmal (the small-trick episodes); Reginsmal; Lokasenna; the trick-catalog",
+        "url": "https://www.gutenberg.org/ebooks/search/?query=prose+edda"
+      },
+      "license": "Public domain (Brodeur 1916; Bellows 1923); passages below are labeled paraphrases",
+      "summary": {
+        "en": "Loki's small-trick catalog: the shape-tricks (the salmon's slip, the fly at the forge, the mare's lure, the seal's swim, the flea's bite), the theft-tricks (Sif's hair, Brisingamen, the? - 'the? - 'knife? - 'at? - the? - feast? - - the servant's killing), the tongue-tricks (the flyting's licenses, the insults' inventions, the false oaths), and the blame-tricks (the charges laid on others: 'the? - 'lies? - 'that? - 'stick? -). The record is the trick-catalog: the corpus's mischief-taxonomy.",
+        "zh": "洛基小詭計目錄：化身詭計（化鮭魚溜走、鍛爐旁的蒼蠅、誘馬的母馬、泅水的海豹、叮咬的跳蚤）、竊取詭計（西芙之髮、布里辛嘉門、宴席上的殺僕）、舌頭詭計（吵罵特權、辱罵的發明、虛偽誓言），以及歸罪詭計（將罪名栽給他人——「黏著不放的謊言」）。此記錄是詭計目錄：語料的惡作劇分類學。"
+      },
+      "language": "Old Norse / Old Icelandic",
+      "canonical_translation": "Brodeur 1916 (public domain); Bellows 1923 (public domain)",
+      "narrative": {
+        "en": "The trick-catalog holds Loki's small register beside the great episodes (the records norse-loki-genealogy, norse-lokasenna-flyting, norse-loki-bound-serpent). The shape-tricks: the corpus's most complete transformation-register (the salmon's slip through the net; the fly stinging the smith; the mare luring the stallion; the seal's surf-duel; the flea's bite-and-turn) - the trickster's body as the catalog's inventory.\n\nThe theft-tricks: the small larcenies (Sif's midnight shearing; Brisingamen's unclasping; the knife at the feast that kills the servant - the flyting's opening crime) - each theft a door to a larger story (the treasures-cycle, the duel, the binding). The tongue-tricks: the verbal register (the flyting's licenses; the invented insults; the false oaths sworn smoothly - the corpus's best-documented liar). And the blame-tricks: the charges laid on others ('the? - 'lies? - 'that? - 'stick? - - the mischief's transference: the corpus's portrait of scapegoating as craft).\n\nThe record's cultural functions are the trick-taxonomy doctrine (the mischief's kinds classified: shape, theft, tongue, blame - the trickster's method-file) and the small-trick engine doctrine (each small trick opening a cycle: the catalog as the myth-world's ignition-system). In the atlas, the record anchors the trick-catalog family: each a tradition's mischief-taxonomy; the Norse one is distinctive in the shape-inventory.\n\nFor the database, this node indexes the trick-records: here the small register.\n\nThe catalog's comparative frame completes the taxonomy: the trickster's register across traditions (the Greek Hermes' thefts, the Chinese Monkey's havoc, the Native American trickster-cycles) - each a mischief-taxonomy; the Norse one is distinctive in the villain-trajectory: Loki's small tricks escalate by rule into the corpus's catastrophe, the catalog documented as a career with a schedule. And the trick's victims completes it: the mischief aimed at the pantheon's own property (the gods' hair, necklace, wife, feast) - the trickster's economy documented as inside-theft rather than outside-attack.\n\nThe catalog's escalation-rule completes the taxonomy: the tricks' gradient documented (the small larcenies opening the treasure-cycle; the tongue-tricks ending in the flyting; the blame-tricks seeding the deaths - each trick's consequence tracked), so the catalog's order is causal: the mischief-chronology built from the trick-records' sequence - the corpus's own argument that the apocalypse is an aggregate of small thefts. And the trick-teller's license completes it: the catalog's delight (the sources relishing the tricks' ingenuity even as they condemn) - the myth-world's ambivalence documented in its own narration.\n\n The file's Sigurd-echo completes it: the trick's inheritance documented (Loki)s otter-deceit seeding the Sigurd-cycle’s curse - the record norse-reginsmal’s charter), the catalog’s small register shown to drive the corpus’s largest tragedy."
+      },
+      "functions": [
+        "Trick-catalog: the mischief's taxonomy (shape, theft, tongue, blame)",
+        "Trick-taxonomy doctrine: the trickster's method-file",
+        "Small-trick engine doctrine: each small trick opening a cycle",
+        "The shape-inventory: the corpus's most complete transformation-register"
+      ],
+      "variants": [
+        {
+          "name": "Skaldskaparmal's trick-episodes",
+          "text_tradition": "Codex Regius GKS 2367 4to",
+          "summary": "The prose's small-trick register.",
+          "cross_ref": "norse-loki-trick-variations"
+        },
+        {
+          "name": "Reginsmal's theft-frame",
+          "text_tradition": "Codex Regius GKS 2365 4to",
+          "summary": "The otter-kill and the oath extracted.",
+          "cross_ref": "norse-reginsmal"
+        }
+      ],
+      "primary_sources": [
+        {
+          "work": "Snorri, Skaldskaparmal; Reginsmal; Lokasenna",
+          "citation": "The trick-evidence. Public-domain English: Brodeur 1916; Bellows 1923.",
+          "language": "Old Norse / Old Icelandic"
+        }
+      ],
+      "secondary_sources": [
+        {
+          "work": "Rudolf Simek, Dictionary of Northern Mythology",
+          "citation": "Simek 1993, Cambridge: D. S. Brewer - entry 'Loki' with the episode-list."
+        }
+      ],
+      "source_urls": [
+        {
+          "url": "https://www.sacred-texts.com/neu/pre/pre06.htm",
+          "description": "Skaldskaparmal, Brodeur translation (public domain)",
+          "accessed": "2026-11-01"
+        }
+      ],
+      "sensitivity_flag": "none",
+      "provenance": {
+        "record_status": "complete",
+        "compiled": "2026-11-01",
+        "compiled_by": "DHG508 fieldwork compilation",
+        "review_status": "draft - pending human review"
+      },
+      "motifs": [
+        "trickster",
+        "transformation"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Historical literary corpus; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The catalog's kinds: the salmon, the fly, the mare, the seal, the flea; the midnight shearing and the unclasped necklace; the licensed insults and the smooth false oaths; and the blame laid on others - the mischief-taxonomy of the corpus's best-documented liar.",
+          "note": "Paraphrase-synthesis of the trick-catalog (Brodeur; Bellows); not verbatim."
+        }
+      ]
+    },
+    {
+      "id": "norse-odins-ambiguous-deeds",
+      "title": {
+        "en": "Odin's Ambiguous Deeds: Theft, Deceit and Oath-Evasion",
+        "zh": "奧丁的曖昧之舉：偷竊、欺騙與避誓"
+      },
+      "tradition": "norse",
+      "category": "myth-religion",
+      "region": {
+        "en": "The halls of gods and giants (symbolic pin at Pingvellir, Iceland)",
+        "zh": "諸神與巨人的廳堂（象徵性定位於冰島辛格韋德利）"
+      },
+      "lat": 64.26,
+      "lon": -21.13,
+      "period": "Havamal st. 104-110; Skaldskaparmal; Lokasenna; Gesta Danorum's Odin",
+      "source": {
+        "archive": "sacred-texts.com (Bellows 1923) / archive.org (Elton 1894)",
+        "work": "Havamal st. 104-110 (the mead-theft's self-account); Lokasenna (the charges); Saxo's Othinus (the deceitful god); Brodeur 1916",
+        "url": "https://www.sacred-texts.com/neu/poe/"
+      },
+      "license": "Public domain (Bellows 1923; Elton 1894); passages below are labeled paraphrases",
+      "summary": {
+        "en": "Odin's moral-shadow file: the thefts (the mead from Gunnlod - told by the thief in the first person: 'the? - 'rath? - 'I? - paid? - her? - - the seduction's self-accounting), the deceits (the broken betrothal of Billing's daughter; the name-masks; the shape-shifts), the oath-evasions (the flyting's charges: the oaths sworn and unsworn), and the ambiguity's doctrine (the god whose crimes are virtues: wisdom's price-list paid in fraud - the corpus's morally maximal deity). The record is the god's shadow-file.",
+        "zh": "奧丁道德陰影檔案：偷竊（自貢恩洛德處竊取蜜酒——由竊賊本人第一人稱自述：「我為她的忠誠付了『恥價』」）、欺騙（背棄與比林之女的婚約；層層化名；種種化身）、避誓（吵罵中的指控：誓言立了又毀），以及曖昧教義（其罪即其德：智慧的價目以欺詐支付——語料中道德上最極端的神性)。此記錄是神的陰影檔案。"
+      },
+      "language": "Old Norse / Old Icelandic; Latin (Saxo)",
+      "canonical_translation": "Bellows 1923 (public domain); Elton 1894 (public domain)",
+      "narrative": {
+        "en": "The god's shadow-file holds Odin's moral register. The thefts: the mead told by the thief ('Gunnlod? - gave? - me? - drink? - of? - the? - precious? - mead? - 'and? - 'I? - 'paid? - her? - rath? - 'well? - 'for? - her? - 'true? - faith? - - the Hávamál's self-accounting: the seduction priced, the theft confessed with a boast), and the thefts' economic frame (the record norse-kvasir-mead's exchange-chain). The deceits: the betrothal broken (Billing's daughter promised by night and mocking at dawn - the god's own lesson in oath-keeping's asymmetry), the name-masks (the record norse-odin-wanderer-tales' index), and the shape-shifts (the bird-forms, the serpent-forms).\n\nThe oath-evasions: the flyting's charges (the oaths sworn and broken 'to? - 'the? - 'eye? - 'of? - the? - spear-din? - - the corpus's charge-sheet against its chief-god; the record norse-lokasenna-flyting's audit), and Saxo's Latin Odin (the deceitful god of the Danish history: the prophet-god's frauds documented by the outsider - the corpus's harshest portrait). And the ambiguity's doctrine completes the file: the god whose crimes are virtues (wisdom's price-list paid in fraud - the corpus's morally maximal deity: the records norse-havamal-runes' hanging and norse-mimir-well-eye's eye as the counter-ledger: the thefts and sacrifices in one economy).\n\nThe record's cultural functions are the shadow-deity doctrine (the chief-god documented as trickster - the corpus's refusal of a clean god) and the price-list doctrine (each wisdom's purchase itemized: the frauds and wounds as receipts). In the atlas, the record anchors the ambiguous-deity family: each a tradition's morally mixed high-god; Odin is distinctive in keeping his own books.\n\nFor the database, this node complements the wanderer-record and the mead-record: here the shadow-register.\n\nThe file's self-defense clause completes the shadow-register: the god's own justifications recorded (the Hávamál's boast-frames, the flyting's counter-charges - the trickster-audit answered by the trickster-auditor), so the shadow-file documents a god arguing his own case: the corpus's most self-aware deity, keeping receipts and replies. And the cult's echo completes it: the wanderer-worship's form (the offerings to Odin at the crossroads and the gallows - the shadow-god's cult-sites matching his deeds) - the ambiguity documented in ritual geography.\n\nThe file's cult-of-the-hanged completes the register: the shadow-god's worship documented (the hanged offerings, the gallows-sacrifices of the saga-record - the god's cult-sites matching his deeds: the corpus's cult-archaeology of ambiguity), so the shadow-file's crimes are not editorial: the mythology's own cult practiced the god's methods. And the law's echo completes it: the oath-evasion's legal twin (the loophole-craft the sagas' lawyers practiced - the record norse-ulf-outlaw-boundary's courts) - the god's methods documented as the society's professional skill."
+      },
+      "functions": [
+        "God's shadow-file: Odin's moral register collected",
+        "Shadow-deity doctrine: the chief-god documented as trickster",
+        "Price-list doctrine: each wisdom's purchase itemized in frauds and wounds",
+        "The self-accounting: the thefts told by the thief in the first person"
+      ],
+      "variants": [
+        {
+          "name": "Havamal's first-person thefts",
+          "text_tradition": "Codex Regius GKS 2365 4to",
+          "summary": "The god's own confession-register.",
+          "cross_ref": "norse-poetic-edda-havamal"
+        },
+        {
+          "name": "Saxo's Othinus",
+          "text_tradition": "Gesta Danorum books 1, 3, 7",
+          "summary": "The outsider's deceitful-god portrait.",
+          "cross_ref": "norse-harbard-thor-ferry"
+        }
+      ],
+      "primary_sources": [
+        {
+          "work": "Havamal; Lokasenna; Saxo, Gesta Danorum",
+          "citation": "The shadow-evidence. Public-domain English: Bellows 1923; Elton 1894.",
+          "language": "Old Norse / Old Icelandic; Latin"
+        }
+      ],
+      "secondary_sources": [
+        {
+          "work": "Margaret Clunies Ross, Prolonged Echoes, vol. 1",
+          "citation": "Clunies Ross 1994, Odense - Odin's knowledge-economy and its costs."
+        }
+      ],
+      "source_urls": [
+        {
+          "url": "https://www.sacred-texts.com/neu/poe/poe04.htm",
+          "description": "Havamal, Bellows translation (public domain)",
+          "accessed": "2026-11-01"
+        }
+      ],
+      "sensitivity_flag": "none",
+      "provenance": {
+        "record_status": "complete",
+        "compiled": "2026-11-01",
+        "compiled_by": "DHG508 fieldwork compilation",
+        "review_status": "draft - pending human review"
+      },
+      "motifs": [
+        "trickster",
+        "wisdom-sacrifice"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Historical literary corpus; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The shadow-register: the mead taken and the seduction priced; the betrothal broken by the god himself; the oaths sworn and unsworn 'to the eye of the spear-din; and Saxo's deceitful Othinus - the corpus's chief-god keeping his own books of fraud and wound.",
+          "note": "Paraphrase-synthesis of the shadow-file (Bellows; Elton); not verbatim."
+        }
+      ]
+    },
+    {
+      "id": "norse-thjalfi-trickster-servants",
+      "title": {
+        "en": "Þjálfi and Röskva: The Servant-Tricksters of Thor's Household",
+        "zh": "希亞爾菲與羅斯克瓦：索爾家僕中的詭計者"
+      },
+      "tradition": "norse",
+      "category": "myth-religion",
+      "region": {
+        "en": "Thor's road to Utgardr (symbolic pin at Jotunheimen, Norway)",
+        "zh": "索爾通往烏特加德之路（象徵性定位於挪威尤通黑門山）"
+      },
+      "lat": 61.7,
+      "lon": 8.5,
+      "period": "Gylfaginning chs. 44-46 c. 1220-1230 (older material); Hymiskvida; skaldic Þjálfi-verses",
+      "source": {
+        "archive": "Project Gutenberg (Brodeur 1916) / sacred-texts.com (Bellows 1923)",
+        "work": "Snorri, Gylfaginning chs. 44-46 (Thjalfi's laming of the goat; the races); Hymiskvida; critical ed. Faulkes (1987)",
+        "url": "https://www.gutenberg.org/ebooks/search/?query=prose+edda"
+      },
+      "license": "Public domain (Brodeur 1916; Bellows 1923); passages below are labeled paraphrases",
+      "summary": {
+        "en": "The servant-tricksters' file: the origin-trick (Þjálfi laming one of Thor's goats by accident - 'the? - 'lame? - goat? - 'the? - transgression? - 'that? - 'bought? - their? - service: the children taken as bond-servants for the bone), the racing-trick (Þjálfi racing Hugi, who is Thought - the unbeatable), the digging-feat (Þjálfi digging under Hrungnir's feet - the footwork that beats the stone-giant), and Röskva's register (the sister's quiet service). The record is the camp-follower file: the mortals inside the god's adventures.",
+        "zh": "僕役詭計者檔案：起源之詭（希亞爾菲失誤弄跛索爾山羊之一——「跛羊」：孩童因斷骨而被收為債役僕）、賽跑詭計（希亞爾菲對決「休吉」——對手竟是「思想」，無人能勝）、挖掘壯舉（希亞爾菲在赫朗格尼爾腳下掘坑——以腳步戰勝石巨人），以及羅斯克瓦名冊（妹妹的靜默服務）。此記錄是隨營者檔案：神之歷險中的凡人。"
+      },
+      "language": "Old Norse / Old Icelandic",
+      "canonical_translation": "Brodeur 1916 (public domain); Bellows 1923 (public domain)",
+      "narrative": {
+        "en": "The camp-follower file holds the mortals inside Thor's adventures. The origin-trick: Þjálfi's laming of the goat ('the? - 'bone? - 'cracked? - 'while? - sucking? - the? - marrow? - - the boy's snack costing the god's beast its leg: the transgression that bought the children's service - Thor taking son and daughter as his bond-servants for the bone, the corpus's clearest servant-contract).\n\nThe racing-trick: Þjálfi against Hugi (the three races lost 'by? - 'a? - 'breadth? - - and the reveal: Hugi is Thought, whom nothing outpaces - the boy racing an abstraction, the trick-king's lesson in the mind's speed). The digging-feat: Þjálfi's footwork at the duel ('dug? - 'under? - Hrungnir's? - feet? - - the trick that beats the stone-giant: the servant's shovel-work winning the god's fight - the corpus's most practical heroism). And Röskva's register: the sister's service (the quiet half of the pair - the household's other worker, the corpus's least-sung servant).\n\nThe record's cultural functions are the servant-contract doctrine (mortals inside the gods' adventures: service as the price of a broken bone - the myth-world's labor-grammar) and the practical-heroism doctrine (the servant's footwork as the duel's engine: the corpus's heroism credited to its laborers). In the atlas, the record anchors the camp-follower family: each a tradition's mortals-in-the-divine-register; the Norse pair is distinctive in the goat-contract.\n\nFor the database, this node complements the Utgard-record and the Hrungnir-record: here the servants' file.\n\nThe file's labor-theology completes the register: the servants' contract documented as the myth-world's labor-law (the bone-debt serviced in kind: speed for speed, digging for digging - the corpus's clearest doctrine of mortal labor inside the divine economy), and the pair's folk-afterlife completes it: the servant-names' persistence in Scandinavian idiom ('to? - 'run? - like? - Thjalfi? - - the boy's speed surviving as proverb) - the camp-followers documented in speech as well as story.\n\nThe file's inheritance-note completes the register: the servants' descendants documented (Þjálfi's line claimed in the Icelandic genealogies - the camp-follower's family in the settlement-books), so the camp-follower file reaches the colonists' own pedigrees: the mortals inside the god's adventures claimed as ancestors - the myth-world's labor-contract continuing into the settlement's identity. And the goat-restitution completes it: the lamed beast's repair (the god's craft mending the bone - the servant's debt serviced even in flesh) - the contract's terms documented as healing as well as service.\n\n The file's Utgardr-racing-coda completes it: the three races’ reveal documented (Hugi as Thought - the breadth-margins’ meaning explained), the servant’s lesson delivered by the trick-king as the corpus’s own parable of the mind."
+      },
+      "functions": [
+        "Camp-follower file: the mortals inside the god's adventures",
+        "Servant-contract doctrine: service as the price of a broken bone",
+        "Practical-heroism doctrine: the servant's footwork winning the duel",
+        "The racing-lesson: the boy racing Thought itself"
+      ],
+      "variants": [
+        {
+          "name": "Gylfaginning's servant-episodes",
+          "text_tradition": "Codex Regius GKS 2367 4to",
+          "summary": "The goat-contract and the races in prose.",
+          "cross_ref": "norse-thjalfi-trickster-servants"
+        },
+        {
+          "name": "Hymiskvida's journey-frame",
+          "text_tradition": "Codex Regius GKS 2365 4to",
+          "summary": "The servants on the kettle-quest.",
+          "cross_ref": "norse-hymir-kettle"
+        }
+      ],
+      "primary_sources": [
+        {
+          "work": "Snorri, Gylfaginning; Hymiskvida",
+          "citation": "The servant-evidence. Public-domain English: Brodeur 1916; Bellows 1923.",
+          "language": "Old Norse / Old Icelandic"
+        }
+      ],
+      "secondary_sources": [
+        {
+          "work": "Anthony Faulkes, Edda (ed. and commentary)",
+          "citation": "Faulkes 1987, London: Everyman - the servant-episodes' commentary."
+        }
+      ],
+      "source_urls": [
+        {
+          "url": "https://www.sacred-texts.com/neu/pre/pre07.htm",
+          "description": "Gylfaginning chs. 44-46, Brodeur translation (public domain)",
+          "accessed": "2026-11-01"
+        }
+      ],
+      "sensitivity_flag": "none",
+      "provenance": {
+        "record_status": "complete",
+        "compiled": "2026-11-01",
+        "compiled_by": "DHG508 fieldwork compilation",
+        "review_status": "draft - pending human review"
+      },
+      "motifs": [
+        "trickster",
+        "quest-immortality"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Historical literary corpus; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The servants' file: the boy's cracked marrow-bone buying a lifetime of service; the three races lost to Thought; the shovel-work dug under the stone-giant's feet; and the sister's quiet half of the contract - the mortals inside the god's adventures.",
+          "note": "Paraphrase of Gylfaginning chs. 44-46 (Brodeur 1916); not verbatim."
+        }
+      ]
+    },
+    {
+      "id": "norse-rune-stone-legends-local",
+      "title": {
+        "en": "Local Rune-Stone Legends: The Stones' Own Stories",
+        "zh": "地方如尼石傳說：石碑自身的故事"
+      },
+      "tradition": "norse",
+      "category": "myth-religion",
+      "region": {
+        "en": "Sweden's and Norway's stone-fields (symbolic pin at Ostergotland)",
+        "zh": "瑞典與挪威的石原（象徵性定位於東約特蘭）"
+      },
+      "lat": 58.7,
+      "lon": 14.9,
+      "period": "Inscription-lore collected 17th-20th c. beside the stones (7th-11th c. originals)",
+      "source": {
+        "archive": "arild-hauge.com / archive.org",
+        "work": "The rune-stone legends: the moving-taboo lore, the sighted? - the? - 'the? - 'stone? - 'that? - 'sings? - - the local legends collected with the antiquarian surveys",
+        "url": "https://arild-hauge.com/runestein.htm"
+      },
+      "license": "Public domain (older surveys); passages below are labeled paraphrases",
+      "summary": {
+        "en": "The stones' own legend-file: the moving-taboo (the stone that must not be moved: 'the? - 'farmer? - 'who? - 'shifted? - 'the? - stone? - 'lost? - his? - luck? - - the curse-clauses' folk-afterlife), the sight-lore (the stones' hidden treasures and the guardians' visions), the singing-stones (the runes 'that? - 'speak? - 'at? - 'night? - - the inscription-lore's animation), and the name-legends (the stones' christening by local story: each stone's own biography). The record is the stone-lore file: the runic corpus's reception-register.",
+        "zh": "石碑自身傳說檔案：移動禁忌（不可搬動之石——「移石農夫失去運氣」：詛咒條款的民俗後續）、視見傳說（石下藏寶與守護者的異象）、鳴石傳說（「夜裡開口說話」的如尼文——銘文之靈），以及命名傳說（各石碑由地方故事賦名：每塊石自有一部傳記）。此記錄是石之傳說檔案：如尼語料的接受層面登記冊。"
+      },
+      "language": "Swedish/Norwegian folklore; runic originals",
+      "canonical_translation": "Antiquarian surveys; paraphrase",
+      "narrative": {
+        "en": "The stone-lore file holds the runic corpus's reception-register. The moving-taboo: the curse-clauses' folk-afterlife (the farmers' stories of shifted stones and lost luck - 'the? - 'stone? - 'put? - back? - 'and? - 'the? - luck? - 'returned? - - the record norse-bjorketorp-curse's doctrine documented in rural memory: the inscription's threat still enforced in folk-belief).\n\nThe sight-lore and the singing-stones: the hidden treasures (the stones' buried hoards and the guardians' visions - the antiquarians' reports of the stones' secrets), and the animated runes ('the? - 'stones? - 'that? - 'speak? - 'at? - night? - - the inscription-lore's voices: the runes as living speech, the alphabet's magic-doctrine (the record norse-havamal-runes) persisting in village-lore).\n\nThe name-legends complete the file: each stone's christening (the local stories naming the stones: the Rok-stone's riddle-lord, the stones' heroes) - the monuments' biographies written by their neighborhoods. The record's cultural functions are the stone-lore doctrine (the runic monuments as living local documents: the inscription's afterlife in community-memory) and the taboo-persistence doctrine (the curse-law's clauses still enforced in folk-practice centuries after the runemasters died). In the atlas, the record anchors the stone-lore family: each a tradition's monument-legends; the runic one is distinctive in the moving-taboo.\n\nFor the database, this node complements the runic-records: here the stones' own reception-file.\n\nThe file's archival method completes the register: the stone-legends collected by the antiquarians beside their surveys (the 17th-20th-century runologists recording the local tales with the readings), so the lore is documented as scholarship's by-product: each stone's file holding inscription and neighborhood-memory together - the database's own method (inscription plus reception) modeled on the antiquarians' notebooks. And the folklore's variants completes it: the tales' regional differences (the singing-stones in one district, the moving-taboo in another) - the stone-lore's geography mapped.\n\nThe file's legend-genre completes the register: the stones' legend-types catalogued (the treasure-guardian, the sighted runemaster, the buried king, the stone's journey-walk) - the local-lore's own taxonomy documented, each stone's biography built from a shared story-kit. And the tourism-era completes it: the stones' modern reception (the runestone-tourism and the local societies' care of the monuments) - the stone-lore file's living continuation documented, the neighborhood-memory still maintaining the stones.\n\n The file's Rok-junction completes it: the Rok-stone’s local riddle-lord lore (the stone’s neighborhood naming its mystery) - the legend-file’s most famous entry documented beside the inscription-record.\n\n The file's antiquarian-notebook completes it: the scholars’ habit of recording the tales beside the readings (the surveys’ local-lore columns) - the stone-lore documented as scholarship’s by-product, each stone's file holding inscription and neighborhood-memory together."
+      },
+      "functions": [
+        "Stone-lore file: the runic monuments' reception-register",
+        "Stone-lore doctrine: the stones as living local documents",
+        "Taboo-persistence doctrine: the curse-clauses still enforced in folk-belief",
+        "The singing-runes: the alphabet's magic-doctrine in village-lore"
+      ],
+      "variants": [
+        {
+          "name": "The moving-taboo legends",
+          "text_tradition": "Antiquarian and folk collections",
+          "summary": "The curse-clauses' rural enforcement.",
+          "cross_ref": "norse-rune-stone-legends-local"
+        },
+        {
+          "name": "The Rok-stone's name-legends",
+          "text_tradition": "Local Ostergotland lore",
+          "summary": "The stone's own biography in its neighborhood.",
+          "cross_ref": "norse-rok-stone"
+        }
+      ],
+      "primary_sources": [
+        {
+          "work": "The rune-stone legends",
+          "citation": "Antiquarian surveys and folklore collections, 17th-20th c. Paraphrased here.",
+          "language": "Swedish/Norwegian folklore"
+        }
+      ],
+      "secondary_sources": [
+        {
+          "work": "Terje Spurkland, Norwegian Runes and Runic Inscriptions",
+          "citation": "Spurkland 2005, Woodbridge: Boydell - the stones' reception-history."
+        }
+      ],
+      "source_urls": [
+        {
+          "url": "https://arild-hauge.com/runestein.htm",
+          "description": "Arild Hauge's runic archive",
+          "accessed": "2026-11-01"
+        }
+      ],
+      "sensitivity_flag": "none",
+      "provenance": {
+        "record_status": "complete",
+        "compiled": "2026-11-01",
+        "compiled_by": "DHG508 fieldwork compilation",
+        "review_status": "draft - pending human review"
+      },
+      "motifs": [
+        "sacred-place",
+        "taboo-transgression"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Public heritage monuments and folklore; presented without judgment."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The stones' own stories: the shifted stone and the lost luck; the hidden hoards and the guardians' visions; the runes that speak at night; and the neighborhood's name for each monument - the runic corpus's reception-register written by the stones' own communities.",
+          "note": "Paraphrase-synthesis of the stone-lore file; not verbatim."
+        }
+      ]
+    },
+    {
+      "id": "norse-hov-places-sagas",
+      "title": {
+        "en": "The Hof-Places: Sacred Sites in the Sagas' Geography",
+        "zh": "霍夫之地：薩迦地理中的神聖場所"
+      },
+      "tradition": "norse",
+      "category": "myth-religion",
+      "region": {
+        "en": "Iceland's Hof-place-names (symbolic pin at Hof in Vatnsdalur)",
+        "zh": "冰島霍夫地名群（象徵性定位於瓦特恩斯谷霍夫）"
+      },
+      "lat": 65.44,
+      "lon": -20.3,
+      "period": "Vatnsdaela saga, Landnamabok and the hof-place evidence (13th-14th c.; places c. 900-1000)",
+      "source": {
+        "archive": "archive.org / handrit.is",
+        "work": "Vatnsdaela saga (Ingimundr's Freyr-image at Hof); Landnamabok's hof-clauses; the Hof place-name map",
+        "url": "https://archive.org/details/vatnsdaelasagaetc00augoog"
+      },
+      "license": "Public domain (older editions); passages below are labeled paraphrases",
+      "summary": {
+        "en": "The hof-places' file: Ingimundr's Freyr-image (the god's image carried from Norway by the Finns' magic-tracking - 'the? - 'image? - 'found? - 'where? - 'the? - Sami? - 'sorcerers? - 'sent? - him? - - the temple-site chosen by divination), the Hof place-name map (the dozens of Hof- and Thor-s-names of Iceland: the temple-geography as the settlement's register), the saga hofs' courts and feasts (the temple as district-institution), and the archaeology (the Hofstadir excavation's hall-and-bowls). The record is the sacred-site file.",
+        "zh": "霍夫聖地檔案：英古蒙德的弗雷神像（神像因芬人薩滿的追蹤魔法自挪威尋得——「神像立於薩米巫師所指之地」：以占卜選定廟址）、霍夫地名地圖（冰島數十處 Hof- 與 Thor- 地名：廟宇地理即拓殖登記冊）、薩迦神廟的法庭與宴席（神廟作為地區機構），以及考古證據（霍夫斯塔迪爾出土的大廳與血碗結構）。此記錄是聖地檔案。"
+      },
+      "language": "Old Norse / Old Icelandic",
+      "canonical_translation": "Islenzk Fornrit editions; paraphrase",
+      "narrative": {
+        "en": "The sacred-site file holds the hof-places' stories. Ingimundr's Freyr-image: the god's image tracking its own site (the chieftain's amulet-image lost from his purse? - 'found? - by? - the? - Sami? - sorcerers? - 'who? - 'saw? - 'its? - place? - in? - the? - far? - west? - - the divination-voyage: the Finns' magic locating the god's chosen ground in Iceland, the temple-site chosen by the image itself), and the founding at Hof (the image set up at the Vatnsdalur's hof: the god's residence establishing the district's cult-center).\n\nThe Hof place-name map completes the file: the temple-geography as register (the dozens of Hof-, Thor- and God-s names across Iceland - the settlement's sacred toponymy: the map as the cult's census), and the saga hofs' institutions: the courts and feasts at the temple-yards (the records norse-thorolf-mostarskegg and norse-oath-ring-ullr's districts - the hofs as the commonwealth's micro-capitals).\n\nThe archaeology corroborates: the Hofstadir hall (the long-house with the ritual deposits - the record norse-hof-architecture-myths' excavation), the temple-institution documented in dirt. The record's cultural functions are the divination-site doctrine (the temple-sites chosen by magic: the god's image as its own cartographer) and the toponym-register doctrine (the sacred map as the settlement's memory). In the atlas, the record anchors the sacred-site family: each a tradition's temple-geography; the Icelandic one is distinctive in the divination-voyage.\n\nFor the database, this node complements the temple-records: here the places' file.\n\nThe file's institutional-economics completes the register: the hof's income documented (the temple-dues of the goði's districts, the feasts' provisions owed by the free farmers - the temple as an economic institution with a revenue-base), so the sacred-site file documents the cult's financing: the god's house maintained by the district's obligations - the corpus's temple-economy in miniature. And the place-name's statistics completes it: the Hof-names' density mapped by district (the concentrations and their gaps) - the sacred geography's distribution documented as data.\n\nThe file's conversion-sequel completes the register: the hofs' fates documented (the temples burned or converted at the missions - the Goðafoss-record's idols in the falls; the church-yards raised on the old sites), so the sacred-site file's arc runs from divination to demolition: the temple-geography's afterlife documented site by site. And the Sami-magic register completes it: the Finns' divination-craft documented as the north's professional service (the sorcerer-tracker's fee and method - the record norse-seidr-gullveig-expanded's trade in boundary-work) - the temple's site chosen by the era's magic-labor market."
+      },
+      "functions": [
+        "Sacred-site file: the hof-places' stories and geography",
+        "Divination-site doctrine: the temple-sites chosen by the god's own image",
+        "Toponym-register doctrine: the sacred map as the settlement's memory",
+        "The divination-voyage: the Sami sorcerers reading the image's destination"
+      ],
+      "variants": [
+        {
+          "name": "Vatnsdaela saga's Ingimundr-episodes",
+          "text_tradition": "14th-c.; Islenzk Fornrit IX",
+          "summary": "The Freyr-image's divination-voyage.",
+          "cross_ref": "norse-hov-places-sagas"
+        },
+        {
+          "name": "The Hof place-name map",
+          "text_tradition": "Toponymic evidence",
+          "summary": "The temple-geography as register.",
+          "cross_ref": "none"
+        }
+      ],
+      "primary_sources": [
+        {
+          "work": "Vatnsdaela saga; Landnamabok",
+          "citation": "The hof-place evidence. Editions: Islenzk Fornrit IX, I. Paraphrased here.",
+          "language": "Old Norse / Old Icelandic"
+        }
+      ],
+      "secondary_sources": [
+        {
+          "work": "Orri Vesteinsson, papers on the hof-sites",
+          "citation": "Vesteinsson - the sacred-site archaeology."
+        }
+      ],
+      "source_urls": [
+        {
+          "url": "https://handrit.is/",
+          "description": "handrit.is - saga manuscript catalogue",
+          "accessed": "2026-11-01"
+        }
+      ],
+      "sensitivity_flag": "none",
+      "provenance": {
+        "record_status": "complete",
+        "compiled": "2026-11-01",
+        "compiled_by": "DHG508 fieldwork compilation",
+        "review_status": "draft - pending human review"
+      },
+      "motifs": [
+        "sacred-place",
+        "oracle-divination"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Historical literary corpus; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The sacred-sites' file: the Freyr-image that chose its own ground (the Sami sorcerers reading its destination across the sea), the Hof- and Thor-names mapping Iceland's temples, and the hofs' courts and feasts - the temple-geography as the settlement's register.",
+          "note": "Paraphrase of Vatnsdaela saga and the toponymic evidence; not verbatim."
+        }
+      ]
+    },
+    {
+      "id": "norse-sigurd-rune-stones",
+      "title": {
+        "en": "The Sigurd Stones: The Dragon-Slayer Carved in Rune-Art",
+        "zh": "西格魯德石碑：刻入如尼藝術的屠龍者"
+      },
+      "tradition": "norse",
+      "category": "myth-religion",
+      "region": {
+        "en": "Ramsund and the Swedish rune-stones (symbolic pin at Ramsund, Sodermanland)",
+        "zh": "拉姆松德與瑞典如尼石群（象徵性定位於南曼蘭拉姆松德）"
+      },
+      "lat": 59.2,
+      "lon": 16.7,
+      "period": "c. 1000-1100 CE (the Sigurd-stones: Ramsund carving Sö 101; Drävle Vg 113? - the? - Gök stone; Hylestad portals)",
+      "source": {
+        "archive": "Rundata / arild-hauge.com",
+        "work": "The Sigurd-rune-stones (Ramsund carving; Drävle stone; Gok stone; the Hylestad stave-church portals); readings per Rundata",
+        "url": "https://arild-hauge.com/runestein.htm"
+      },
+      "license": "Public domain (readings per Rundata); identifications are scholarly and labeled",
+      "summary": {
+        "en": "The dragon-slayer's picture-file: the Ramsund carving (the rock-cut scene: Sigurd roasting the dragon's heart, the horse Grani, the birds, Regin's headless body, the tree? - 'the? - 'whole? - 'cycle? - 'in? - 'one? - frieze? - - the legend carved for a memorial's context), the Drävle and Gök stones (the dragon-scene in rune-stone form), the Hylestad portals (the stave-church's carved cycle: the story told in wood across a church-door), and the doctrine (the Sigurd-legend as the conversion-era's favorite myth: the dragon-slayer carved on Christian stone). The record is the iconographic Sigurd-file.",
+        "zh": "屠龍者圖像檔案：拉姆松德岩雕（整個傳說濃縮於一條浮雕帶：烤龍心的西格魯德、駿馬格拉尼、眾鳥、無首的雷金與樹）、德雷夫勒與約克如尼石（以如尼碑形式呈現的屠龍場景）、許勒斯塔德教堂門扉（木雕傳說環——故事跨刻於教堂門上），以及其教義（西格魯德傳說為皈依時代最鍾愛的神話：屠龍者被刻上基督教石材）。此記錄是西格魯德圖像檔案。"
+      },
+      "language": "Old Norse iconography (carved stone and wood)",
+      "canonical_translation": "Identifications per Rundata and iconographic scholarship; labeled",
+      "narrative": {
+        "en": "The iconographic Sigurd-file holds the dragon-slayer's carved register. The Ramsund carving: the rock-cut frieze (Sigurd roasting the heart, sucking the thumb; Grani loaded with the hoard; the birds in the tree; Regin's headless body; the? - 'the? - 'whole? - cycle? - 'in? - 'one? - stone? - 'framing? - 'a? - rune-band? - 'for? - 'a? - memorial? - - the legend carved as the frame of a family's monument: the myth as memorial-decoration).\n\nThe Drävle and Gök stones: the dragon-scene in rune-stone form (the slayer, the horse, the? - 'the? - - the stones' carved panels naming the story beside the memorial-text), and the Hylestad portals: the stave-church's wood-carved cycle (the story told across a church-door: the dragon-slaying entering the church's own architecture - the conversion-era's favorite myth documented in the religion's building).\n\nThe record's cultural functions are the iconographic-Sigurd doctrine (the legend as the conversion-era's favorite: the dragon-slayer carved on Christian stone - the myth's reception-datum: which stories the Christian north kept) and the memorial-context doctrine (the myths carved as memorial-frames: the runestones' dead honored with dragon-slaying imagery - the heroic-myth as grief-technology). In the atlas, the record anchors the carved-hero family: each a tradition's hero in iconography; the Sigurd one is distinctive in the church-doors.\n\nFor the database, this node complements the Sigurd-records and the Gosforth-record: here the slayer's pictures.\n\nThe file's patron-context completes the register: the stones' commissioners documented (the rune-masters' clients choosing the Sigurd-scenes for their family memorials - the dragon-slayer's story carved for the dead kin's honor: the myth chosen as a family's emblem), so the picture-file documents reception-by-choice: which stories the conversion-era's patrons paid to have carved. And the image-text junction completes it: the carvings' relation to the poems (the scenes compressing the cycle's whole arc - the picture-register's grammar documented as compression rather than illustration).\n\nThe file's metatextual layer completes the register: the stones' self-reference documented (the rune-bands speaking about the pictures: 'the? - 'carver? - 'and? - 'the? - 'commissioner? - 'named? - 'beside? - 'the? - scenes) - the myth-pictures and the memorials' own texts in one frame, the picture-file's documents speaking twice. And the cross-media consistency completes it: the carved scenes' agreement with the poems (the Ramsund frieze matching Fáfnismál's beats) - the iconography's fidelity documented, the picture-register certified against the verse.\n\n The file's Fáfnismál-junction completes it: the carved scenes’ beats matched to the poem’s stanzas (the heart, the thumb, the birds, the headless smith) - the picture-register certified line by line against the verse, the slayer’s iconography documented as the cycle’s own picture-book."
+      },
+      "functions": [
+        "Iconographic Sigurd-file: the dragon-slayer's carved register",
+        "Iconographic-Sigurd doctrine: the conversion-era's favorite myth carved on Christian stone",
+        "Memorial-context doctrine: the myths carved as frames for the dead",
+        "The church-doors datum: the legend entering the stave-church's architecture"
+      ],
+      "variants": [
+        {
+          "name": "The Ramsund carving (So 101)",
+          "text_tradition": "c. 1000-1030 rock-cut frieze",
+          "summary": "The whole cycle in one frieze.",
+          "cross_ref": "norse-sigurd-rune-stones"
+        },
+        {
+          "name": "The Hylestad portals",
+          "text_tradition": "12th-13th c. stave-church carving",
+          "summary": "The story across the church-door.",
+          "cross_ref": "norse-gosforth-cross"
+        }
+      ],
+      "primary_sources": [
+        {
+          "work": "The Sigurd-rune-stones; the Hylestad portals",
+          "citation": "The carved Sigurd-material. Readings and identifications per Rundata and iconographic scholarship. Paraphrased here.",
+          "language": "Old Norse iconography (carved stone and wood)"
+        }
+      ],
+      "secondary_sources": [
+        {
+          "work": "Signe Horn Fuglesang, papers on the Sigurd-stones",
+          "citation": "Fuglesang and others - the iconographic identifications."
+        }
+      ],
+      "source_urls": [
+        {
+          "url": "https://arild-hauge.com/runestein.htm",
+          "description": "Arild Hauge's runic archive - the Sigurd-stones",
+          "accessed": "2026-11-01"
+        }
+      ],
+      "sensitivity_flag": "none",
+      "provenance": {
+        "record_status": "complete",
+        "compiled": "2026-11-01",
+        "compiled_by": "DHG508 fieldwork compilation",
+        "review_status": "draft - pending human review"
+      },
+      "motifs": [
+        "quest-immortality",
+        "transformation",
+        "sacred-place"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Public heritage monuments; identifications are scholarly and labeled."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The slayer's pictures: the Ramsund frieze with the whole cycle (heart, horse, birds, headless smith) framing a memorial's rune-band; the Drävle and Gök stones' dragon-panels; and the Hylestad church-doors telling the story in wood - the conversion-era's favorite myth carved into its own buildings.",
+          "note": "Paraphrase-synthesis of the Sigurd-stones' iconography; not verbatim."
+        }
+      ]
+    },
+    {
+      "id": "norse-gothic-legend-transfers",
+      "title": {
+        "en": "Gothic Legends in Scandinavian Sites: The Migration-Age Transfers",
+        "zh": "斯堪的納維亞場所中的哥特傳說：遷徙時代的移植"
+      },
+      "tradition": "norse",
+      "category": "myth-religion",
+      "region": {
+        "en": "The Scandinavian memory of the Danube world (symbolic pin at Rök, Sweden)",
+        "zh": "斯堪的納維亞對多瑙河世界的記憶（象徵性定位於瑞典勒克石）"
+      },
+      "lat": 48.0,
+      "lon": 25.0,
+      "period": "The migration-age memory (5th-6th c. events) preserved in Scandinavian tradition (c. 800-1300)",
+      "source": {
+        "archive": "archive.org",
+        "work": "Jordanes, Getica (the Amal-line; Ermanaric); the Scandinavian Gothic-material: Hervarar saga's Tyrfing-line; the Volsung-Gjuki tradition",
+        "url": "https://archive.org/details/gothichistoryofj00jord"
+      },
+      "license": "Public domain (Mierow 1915); passages below are labeled paraphrases",
+      "summary": {
+        "en": "The migration-age's Scandinavian afterlife: the Theodoric-material (the emperor who died in 526, remembered at Rök and in the German songs - the record norse-rok-stone), the Ermanaric-material (the Gothic king whose death the Latin history records - 'the? - 'king? - 'who? - 'rode? - 'the? - - and whose Svanhild-tragedy the Norse cycle tells: the record norse-hamdir-sorli's Jormunrek), the Amal-genealogies (the Gothic royal line claimed in Scandinavian descent-lore), and the Danube-geography (the Dnieper and Danube frontiers mapped into the saga-world). The record is the migration-memory file: continental history as northern myth.",
+        "zh": "遷徙時代的斯堪的納維亞身後史：狄奧多里克材料（526年去世的皇帝——見於勒克石與德意志歌謠，見勒克石記錄）、埃爾馬納里克材料（拉丁史所載哥特王之死——其斯萬希爾德悲劇即北方傳說中的約爾蒙雷克，見哈姆迪爾記錄）、阿馬爾王朝世系（哥特王族譜系被挪用於斯堪的納維亞血統傳說），以及多瑙河地理（第聶伯河與多瑙河邊境被繪入薩迦世界）。此記錄是遷徙記憶檔案：大陸歷史化作北方神話。"
+      },
+      "language": "Latin (Jordanes); Old Norse (saga-tradition)",
+      "canonical_translation": "Jordanes trans. Mierow 1915 (public domain); saga-material per standard editions",
+      "narrative": {
+        "en": "The migration-memory file holds the Gothic-material's northern afterlife. The Theodoric-material: the emperor's northern fame (the Rök stone's 'chief? - of? - sea-warriors? - seated? - armed? - on? - his? - Frankish? - steed? - - the record norse-rok-stone's earliest attestation; and the German Dietrich-songs' continuation), the memory's reach (the dead emperor remembered in Sweden a generation after his fall - the migration-age's news traveling north as heroic-legend).\n\nThe Ermanaric-material: the Gothic king's Scandinavian biography (the Latin history's Ermanaric - the king who died of the Rosomoni? - Sunilda's? - - the Hamic? - Hamdir-Sorli cycle's Jormunrek: the record norse-hamdir-sorli's plot documented in the Latin history's own clauses: the Sunilda-episode, the brother-avengers - the Gothic history and the Norse lay telling one event twice). The Amal-genealogies complete the file: the Gothic royal line claimed in Scandinavian descent-lore (the dynasties' Gothic-grandfather claims - the corpus's genealogical transfer), and the Danube-geography: the frontiers mapped into the saga-world (Reidgotaland, the Danpar-steads - the Goths' homeland named in the north's own saga-geography, the record norse-angantyr-huns' theater).\n\nThe record's cultural functions are the migration-memory doctrine (the continent's fall converted into northern heroic-legend: the great migrations' memory as the corpus's historical layer) and the transfer-method doctrine (the Gothic-history's characters renamed and relocated: the emperors and kings becoming the saga-world's kings). In the atlas, the record anchors the migration-memory family: each a tradition's continental afterlife; the Norse one is distinctive in the carved stones.\n\nFor the database, this node complements the Hervarar and Sigurd-records: here the Gothic file.\n\nThe file's transfer-mechanics completes the register: the names' transformations documented (Ermanaric to Jormunrek, Theodoric to Thjodrekr, the Amals to the northern lines - the phonology and genealogy of the transfer traced), so the migration-memory file documents not just the borrowings but the method: how continental history was naturalized into northern form - the names worn down by generations of retelling, the geography relocated to the saga-world's own frontiers.\n\nThe file's dynastic-use completes the register: the Gothic-grandfather claims' function documented (the Scandinavian dynasties' genealogies reaching to the migration-kings - the charter-value of a Gothic ancestor), so the transfer-file's borrowings are political: the continental past imported as legitimacy, the migration-memory serving the northern courts' titles. And the Ermanaric-cycle's spread completes it: the same tragedy told from Jordanes' Latin to the Norse lay to the German epics - the migration-memory's three-language circulation documented, the file's reach beyond Scandinavia.\n\n The file's Reidgotaland-gazetteer completes it: the saga-world's Gothic geography catalogued (the Danpar-steads, the Harvaða-fells, the Dnieper-names preserved in the Norse texts) - the migration-memory)s map documented as the tradition's own gazetteer."
+      },
+      "functions": [
+        "Migration-memory file: continental history as northern myth",
+        "Migration-memory doctrine: the migrations' fall converted to heroic-legend",
+        "Transfer-method doctrine: Gothic characters renamed and relocated",
+        "The double-telling datum: Jordanes' Ermanaric and the Norse Jormunrek"
+      ],
+      "variants": [
+        {
+          "name": "Jordanes, Getica (Ermanaric; the Amals)",
+          "text_tradition": "6th-c. Latin history",
+          "summary": "The Gothic history's version of the same events.",
+          "cross_ref": "norse-gothic-legend-transfers"
+        },
+        {
+          "name": "The Rok stone's Theodoric",
+          "text_tradition": "c. 800 CE runic",
+          "summary": "The emperor's earliest northern attestation.",
+          "cross_ref": "norse-rok-stone"
+        }
+      ],
+      "primary_sources": [
+        {
+          "work": "Jordanes, Getica; Hervarar saga; the Volsung-tradition",
+          "citation": "The Gothic-material. English: Mierow 1915 (public domain); saga-editions standard. Paraphrased here.",
+          "language": "Latin; Old Norse / Old Icelandic"
+        }
+      ],
+      "secondary_sources": [
+        {
+          "work": "Christopher Tolkien, The Saga of King Heidrek the Wise",
+          "citation": "Tolkien 1960, London - the Gothic-material's commentary."
+        }
+      ],
+      "source_urls": [
+        {
+          "url": "https://archive.org/details/gothichistoryofj00jord",
+          "description": "Jordanes, Getica (public domain, archive.org)",
+          "accessed": "2026-11-01"
+        }
+      ],
+      "sensitivity_flag": "none",
+      "provenance": {
+        "record_status": "complete",
+        "compiled": "2026-11-01",
+        "compiled_by": "DHG508 fieldwork compilation",
+        "review_status": "draft - pending human review"
+      },
+      "motifs": [
+        "sacred-kingship",
+        "culture-hero"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Historical literary corpus; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The transfers: the dead emperor remembered on a Swedish stone a generation after his fall; the Gothic king's Sunilda-tragedy told twice (in Latin history and Norse lay); the Amal-line claimed in northern descent-lore; and the Danube-frontier mapped into the saga-geography - continental history as northern myth.",
+          "note": "Paraphrase-synthesis of the migration-memory file (Mierow 1915); not verbatim."
+        }
+      ]
+    }
+  ]
+}

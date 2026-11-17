@@ -1,0 +1,494 @@
+{
+  "texts": [
+    {
+      "id": "maya-folklore-maya-witch",
+      "title": { "en": "The Witch Who Rose to the Moon", "zh": "登月的女巫" },
+      "tradition": "maya",
+      "category": "myth",
+      "region": { "en": "Yucatan, Mexico", "zh": "墨西哥猶加敦" },
+      "lat": 20.6,
+      "lon": -89.0,
+      "period": "Collected by Daniel G. Brinton from a native woman (recorded by Dr. Berendt); published 1894",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Daniel G. Brinton, The Folk-Lore of Yucatan, in Maya Religion and Mythology (congress papers collection)",
+        "url": "https://archive.org/details/mayareligionmyth00bowd"
+      },
+      "license": "Public domain (Brinton, late 19th c.)",
+      "summary": {
+        "en": "A man marries a woman without knowing she is a witch. One night she slips out; he follows with his axe to a moonlit meadow and hides in the shade of a great ceiba. She strips off her garments, then strips off her skin, and remains mere bones; then she rises to the sky. Coming down again she asks: 'Wouldst thou reach to the sky?' But she cannot ascend again — because of the throwing of the salt he had ordered mixed.",
+        "zh": "一男子娶妻而不知其為女巫。一夜她悄然外出；他持斧尾隨至月光皎潔的草地，匿於大木棉樹蔭之下。她褪去衣衫，繼而剝去其皮，僅餘骸骨；隨即昇天。重返之際她問：「你要上到天上嗎？」然而她再也上不去了——因為他先前命她調和的那把鹽。"
+      },
+      "motifs": ["transformation", "taboo-transgression", "ascension"],
+      "sensitivity": { "restricted": false, "note": "Nineteenth-century Yucatec folk-lore collection; paraphrase of public-domain text only." },
+      "passages": [
+        {
+          "id": "1",
+          "text": "A man married with a woman; not did he know her as a witch. One day he said to her: 'Mix two measures of salt.' One night the man woke and he saw go out his wife. Then he took his axe and secretly followed behind her to the wood. When they arrived at a little meadow, there being a bright moon, then hid himself the man in the shade of a great ceiba tree.",
+          "note": "Condensed from Brinton, Folk-Lore of Yucatan (from Berendt's manuscript); not verbatim throughout."
+        },
+        {
+          "id": "2",
+          "text": "Then threw her garments the woman behind her, standing naked in the face of the moon: then she stripped off her skin, and remained mere bones. Then she rose to the sky. When she came down again, then she said to him: 'Wouldst thou reach to the sky?' But not could she ascend again, because of the throwing of salt.",
+          "note": "Condensed from Brinton, Folk-Lore of Yucatan; not verbatim throughout."
+        }
+      ],
+      "persons": ["kisin"]
+    },
+    {
+      "id": "maya-folklore-balams",
+      "title": { "en": "The Balams: Four Guardians of the Town", "zh": "巴拉姆：鎮上的四方守護者" },
+      "tradition": "maya",
+      "category": "myth",
+      "region": { "en": "Tihosuco, Yucatan, Mexico", "zh": "墨西哥猶加敦蒂霍蘇科" },
+      "lat": 20.3,
+      "lon": -88.6,
+      "period": "Recorded from Licentiate Zetina of Tihosuco by Brinton, late 19th c.",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Daniel G. Brinton, The Folk-Lore of Yucatan",
+        "url": "https://archive.org/details/mayareligionmyth00bowd"
+      },
+      "license": "Public domain (Brinton, late 19th c.)",
+      "summary": {
+        "en": "The Balams are very ancient men who take charge of and guard the towns: one stands north, a second south, a third east, a fourth west. Invisible by day, they are awake and vigilant at night, preventing violent rains, tornadoes, and pestilence. They summon each other by a loud shrill whistle and fly through the air with the swiftness of a bird; the signs of their nocturnal struggles with evil powers are seen next day in trees broken down and great stones split and thrown around.",
+        "zh": "巴拉姆乃極古老的老人，司掌並守護鎮邑：一位立於北方，一位南方，一位東方，一位西方。晝間隱形，夜間警醒，防範暴雨、龍捲與瘟疫。他們以尖銳嘯聲相互召喚，飛行如鳥之疾；其與邪祟夜戰之跡，次日見於折斷之樹與迸裂四散的巨石。"
+      },
+      "motifs": ["sacred-place", "culture-hero", "storm-thunder"],
+      "sensitivity": { "restricted": false, "note": "Living Yucatec belief recorded by Brinton; paraphrase of public-domain text only." },
+      "passages": [
+        {
+          "id": "1",
+          "text": "These beings are supposed to be certain very ancient men who take charge of and guard the towns. One stands north of the town, a second south, a third east, and the fourth to the west. They are usually not visible during the day, and if one does see them it is a sign of approaching illness. At night the Balams are awake and vigilant, and prevent many an accident from befalling the village, such as violent rains, tornadoes, and pestilential diseases.",
+          "note": "Condensed from Brinton, Folk-Lore of Yucatan; not verbatim throughout."
+        },
+        {
+          "id": "2",
+          "text": "They summon each other by a loud, shrill whistle; and, though without wings, they fly through the air with the swiftness of a bird. Occasionally they have desperate conflicts with the evil powers who would assail the town. The signs of these nocturnal struggles are seen the next day in trees broken down and uprooted, the ground torn up, and large stones split and thrown around.",
+          "note": "Condensed from Brinton, Folk-Lore of Yucatan; not verbatim throughout."
+        }
+      ],
+      "persons": ["hachakyum"]
+    },
+    {
+      "id": "maya-folklore-hail-cigar",
+      "title": { "en": "The Balam Who Struck Lightning from His Cigar", "zh": "自雪茄擊出閃電的巴拉姆" },
+      "tradition": "maya",
+      "category": "myth",
+      "region": { "en": "Near Tihosuco, Yucatan, Mexico", "zh": "墨西哥猶加敦蒂霍蘇科附近" },
+      "lat": 20.3,
+      "lon": -88.6,
+      "period": "Recorded from Licentiate Zetina by Brinton, late 19th c.",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Daniel G. Brinton, The Folk-Lore of Yucatan",
+        "url": "https://archive.org/details/mayareligionmyth00bowd"
+      },
+      "license": "Public domain (Brinton, late 19th c.)",
+      "summary": {
+        "en": "An Indian near Tihosuco neglected the usual offering to the Balam at corn-planting. As the ears ripened he found a tall man among the stalks with a great basket, gathering the ears: 'I am here gathering in that which I sent.' Resting, the stranger took out an immense cigar and struck a light with flint and steel — but the sparks were flashes of lightning, and the blows terrible thunderclaps that shook the earth. The Indian fell unconscious with terror; when he came to himself a hailstorm had destroyed his corn, and at home a fever seized him which nigh cost his life.",
+        "zh": "蒂霍蘇科附近一位印第安人播種時忘了給巴拉姆奉上常祭。玉米將熟，他到田間查看，見一人立於稈間，肩負大籃，正疾速摘取玉米穗：「我來收我送出去的東西。」那人歇手，自袋中取出一支巨大雪茄，以火石取火——火星竟是閃電，擊聲竟是撼地的雷霆。印第安人嚇昏倒地；醒來時冰雹已毀其玉米，到家又染重病，幾乎喪命。"
+      },
+      "motifs": ["storm-thunder", "taboo-transgression", "boon-curse"],
+      "sensitivity": { "restricted": false, "note": "Living Yucatec belief recorded by Brinton; paraphrase of public-domain text only." },
+      "passages": [
+        {
+          "id": "1",
+          "text": "An Indian near Tihosuco had paid no attention to the usual offering, perhaps being infected with evil modern sceptical views. His crop grew fairly; and as the ears were about ripening he visited his field to examine them. As he approached he saw with some dismay a tall man among the stalks with a large basket over his shoulders, in which he threw the ripening ears as fast as he could pluck them. The Indian saluted him hesitatingly. The stranger replied, 'I am here gathering in that which I sent.'",
+          "note": "Condensed from Brinton, Folk-Lore of Yucatan; not verbatim throughout."
+        },
+        {
+          "id": "2",
+          "text": "Resting from his work, he drew from his pocket an immense cigar; and, taking out a flint and steel, began to strike a light. But the sparks he struck were flashes of lightning, and the sound of his blows was terrible thunderclaps which shook the very earth. The poor Indian fell to the ground unconscious with terror; and when he came to himself a hail-storm had destroyed his corn, and as soon as he reached home he himself was seized with a fever which nigh cost him his life.",
+          "note": "Condensed from Brinton, Folk-Lore of Yucatan; not verbatim throughout."
+        }
+      ],
+      "persons": ["chac"]
+    },
+    {
+      "id": "maya-folklore-shooting-stars",
+      "title": { "en": "Shooting Stars Are the Stumps of Cigars", "zh": "流星乃神靈拋下的菸蒂" },
+      "tradition": "maya",
+      "category": "myth",
+      "region": { "en": "Yucatan, Mexico", "zh": "墨西哥猶加敦" },
+      "lat": 20.6,
+      "lon": -89.0,
+      "period": "Recorded by Brinton, late 19th c.",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Daniel G. Brinton, The Folk-Lore of Yucatan",
+        "url": "https://archive.org/details/mayareligionmyth00bowd"
+      },
+      "license": "Public domain (Brinton, late 19th c.)",
+      "summary": {
+        "en": "The Balams are great smokers, and it is a general belief among the Indians that the shooting stars are nothing else than the stumps of the huge cigars thrown down the sky by these giant beings.",
+        "zh": "巴拉姆皆善抽菸；印第安人普遍相信：流星無他，正是這些巨靈拋向天空下方的巨大雪茄菸蒂。"
+      },
+      "motifs": ["theophany", "trickster"],
+      "sensitivity": { "restricted": false, "note": "Living Yucatec belief recorded by Brinton; paraphrase of public-domain text only." },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The Balams are great smokers, and it is a general belief among the Indians that the shooting stars are nothing else than the stumps of the huge cigars thrown down the sky by these giant beings.",
+          "note": "Condensed from Brinton, Folk-Lore of Yucatan; not verbatim throughout."
+        }
+      ],
+      "persons": ["chac"]
+    },
+    {
+      "id": "maya-folklore-balam-takes-child",
+      "title": { "en": "The Balam Who Took the Boy of San Pedro", "zh": "聖佩德羅島上擄走男孩的巴拉姆" },
+      "tradition": "maya",
+      "category": "myth",
+      "region": { "en": "Isla de San Pedro (Ambergris Cay), Belize", "zh": "貝里斯安伯格里斯礁（聖佩德羅島）" },
+      "lat": 18.0,
+      "lon": -87.6,
+      "period": "Told to Dr. Berendt on the east coast of Yucatan; recorded by Brinton",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Daniel G. Brinton, The Folk-Lore of Yucatan",
+        "url": "https://archive.org/details/mayareligionmyth00bowd"
+      },
+      "license": "Public domain (Brinton, late 19th c.)",
+      "summary": {
+        "en": "When Dr. Berendt was exploring the east coast of Yucatan he was told of such an occurrence on the Island of San Pedro, north of Belize. A little boy of four years wandered to some cacao bushes not more than fifty yards from the house, and there all trace of him was lost. There was no sign of wolf or tiger, no footprint of kidnapper. They sought him the whole day in vain, and then gave up the search, for they knew what had happened — the Balam had taken him.",
+        "zh": "貝倫特醫生探勘猶加敦東岸時，聞於貝里斯以北之聖佩德羅島：一名四歲男孩走至離屋不足五十步的可可樹叢，從此無蹤。既無虎狼之跡，亦無擄者足印。眾人終日搜尋無果，遂罷——因他們知道發生了什麼：巴拉姆把他帶走了。"
+      },
+      "motifs": ["descent-underworld", "taboo-transgression"],
+      "sensitivity": { "restricted": false, "note": "Living Yucatec belief recorded by Brinton; paraphrase of public-domain text only." },
+      "passages": [
+        {
+          "id": "1",
+          "text": "When Dr. Berendt was exploring the east coast of Yucatan he was told of such an occurrence on the Island of San Pedro, north of Belize. A little boy of four years wandered to some cacao bushes not more than fifty yards from the house, and there all trace of him was lost. There was no sign of wolf or tiger, no footprint of kidnapper. They sought him the whole day in vain, and then gave up the search, for they knew what had happened — the Balam had taken him!",
+          "note": "Condensed from Brinton, Folk-Lore of Yucatan; not verbatim throughout."
+        }
+      ],
+      "persons": ["hachakyum"]
+    },
+    {
+      "id": "maya-folklore-balam-chastises",
+      "title": { "en": "The Four Blows of Father Balam", "zh": "巴拉姆之父的四記鞭撻" },
+      "tradition": "maya",
+      "category": "myth",
+      "region": { "en": "Yucatan, Mexico", "zh": "墨西哥猶加敦" },
+      "lat": 20.6,
+      "lon": -89.0,
+      "period": "Recorded from Licentiate Zetina by Brinton, late 19th c.",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Daniel G. Brinton, The Folk-Lore of Yucatan",
+        "url": "https://archive.org/details/mayareligionmyth00bowd"
+      },
+      "license": "Public domain (Brinton, late 19th c.)",
+      "summary": {
+        "en": "An Indian and his wife went to their corn-patch; the man left to fetch water, and the woman threw off her gown lest it be torn. Suddenly she heard a loud voice: 'Tapa ta culo, gran diablo!' and received two smart blows with a cane. She turned and beheld a tall man with a long beard and a gown reaching to his feet — the Balam. He gave her two more blows and disappeared; but the marks of the four blows remained as long as she lived.",
+        "zh": "一對夫婦往玉米田收穗；丈夫取水去了，妻子恐撕破衣衫而脫之。忽聞大聲喝斥，並挨了藤杖兩下。回首見一高個男子，長髯曳袍——正是巴拉姆。他又加兩記鞭撻而消失；那四道鞭痕伴其終身。"
+      },
+      "motifs": ["taboo-transgression", "boon-curse"],
+      "sensitivity": { "restricted": false, "note": "Living Yucatec belief recorded by Brinton; paraphrase of public-domain text only." },
+      "passages": [
+        {
+          "id": "1",
+          "text": "One day an Indian and his wife went to their corn-patch to gather ears. The man left the field to get some water, and his wife threw off the gown she wore lest it should be torn, and was naked. Suddenly she heard some one call to her in a loud voice, and at the same time she received two smart blows with a cane. She turned and beheld a tall man with a long beard, and a gown which reached to his feet. This was the Balam.",
+          "note": "Condensed from Brinton, Folk-Lore of Yucatan; not verbatim throughout."
+        },
+        {
+          "id": "2",
+          "text": "He gave her two more smart blows, and then disappeared; but the marks of the four blows remained as long as she lived. The balam is esteemed a kindly and protective being, affectionately referred to as yum balam, Father Balam; he is said to have a human form, that of an old man with a long beard and ample flowing robes.",
+          "note": "Condensed from Brinton, Folk-Lore of Yucatan; not verbatim throughout."
+        }
+      ],
+      "persons": ["hachakyum"]
+    },
+    {
+      "id": "maya-folklore-wind-father",
+      "title": { "en": "Here Comes the Mighty Wind of the Great Father", "zh": "大父之偉風將至" },
+      "tradition": "maya",
+      "category": "myth",
+      "region": { "en": "Forests of Yucatan, Mexico", "zh": "墨西哥猶加敦森林" },
+      "lat": 20.6,
+      "lon": -89.0,
+      "period": "Told to Dr. Berendt in the forests; recorded by Brinton",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Daniel G. Brinton, The Folk-Lore of Yucatan",
+        "url": "https://archive.org/details/mayareligionmyth00bowd"
+      },
+      "license": "Public domain (Brinton, late 19th c.)",
+      "summary": {
+        "en": "Dr. Berendt was travelling with some natives through the forests when the sound of a tropical tornado was heard approaching with its formidable roar through the trees. In awe-struck accents one of his guides said: 'He cutal nohoch yikal nohoch tat' — Here comes the mighty wind of the Great Father. The whistling of the wind is attributed to tat acmo, Father Strong-bird: the primeval bird, at once lord of the winds and father of the race.",
+        "zh": "貝倫特醫生與土人穿行林中，忽聞龍捲之聲挾巨響自林間滾滾而來。其一嚮導驚惶低語：「大父的偉風來了。」風之嘯鳴被歸於「塔特·阿克莫」——強鳥之父：即既是風主又是族祖的原初之鳥。"
+      },
+      "motifs": ["storm-thunder", "theophany", "theophany"],
+      "sensitivity": { "restricted": false, "note": "Living Yucatec belief recorded by Brinton; paraphrase of public-domain text only." },
+      "passages": [
+        {
+          "id": "1",
+          "text": "One day Dr. Berendt was travelling with some natives through the forests when the sound of a tropical tornado was heard approaching with its formidable roar through the trees. In awe-struck accents one of his guides said: 'He cutal nohoch yikal nohoch tat' — Here comes the mighty wind of the Great Father.",
+          "note": "Condensed from Brinton, Folk-Lore of Yucatan; not verbatim throughout."
+        },
+        {
+          "id": "2",
+          "text": "It is only in an unguarded moment that in the presence of a white man the Indian betrays his beliefs. A hint is supplied by Senor Zetina: the whistling of the wind is called, or attributed to, tat acmo, words which mean Father Strong-bird — the notion of the primeval bird, at once lord of the winds and father of the race.",
+          "note": "Condensed from Brinton, Folk-Lore of Yucatan; not verbatim throughout."
+        }
+      ],
+      "persons": ["chac"]
+    },
+    {
+      "id": "maya-folklore-ua-ua-pach",
+      "title": { "en": "Giant Grab: The Terror of Night Walkers", "zh": "巨抓：夜行者的恐怖" },
+      "tradition": "maya",
+      "category": "myth",
+      "region": { "en": "Yucatan, Mexico", "zh": "墨西哥猶加敦" },
+      "lat": 20.6,
+      "lon": -89.0,
+      "period": "Recorded by Brinton, late 19th c.",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Daniel G. Brinton, The Folk-Lore of Yucatan",
+        "url": "https://archive.org/details/mayareligionmyth00bowd"
+      },
+      "license": "Public domain (Brinton, late 19th c.)",
+      "summary": {
+        "en": "There are other gigantic spectres of terrible aspect and truculent humour. One is so tall that a man cannot reach his knees. He stalks into the towns at midnight, and planting his feet like a huge Colossus, one on each side of the roadway, seizes some incautious passer-by and breaks his legs with his teeth. The name of this terror of late walkers is Giant Grab, Ua ua pach.",
+        "zh": "世間尚有形貌可怖、性情暴烈的巨型幽靈。其一高不可及人之膝。午夜潛入鎮中，如巨像般分立於道之兩側，擒住不慎的過客，以齒折其腿。此夜行者之恐怖，名為「烏阿·烏阿·帕奇」——巨抓。"
+      },
+      "motifs": ["taboo-transgression", "transformation"],
+      "sensitivity": { "restricted": false, "note": "Living Yucatec belief recorded by Brinton; paraphrase of public-domain text only." },
+      "passages": [
+        {
+          "id": "1",
+          "text": "But there are other gigantic spectres of terrible aspect and truculent humour. One of these is so tall that a man cannot reach his knees. He stalks into the towns at midnight, and planting his feet like a huge Colossus, one on each side of the roadway, he seizes some incautious passer-by and breaks his legs with his teeth. The name of this terror of late walkers is Giant Grab, Ua ua pach.",
+          "note": "Condensed from Brinton, Folk-Lore of Yucatan; not verbatim throughout."
+        }
+      ],
+      "persons": ["kisin"]
+    },
+    {
+      "id": "maya-folklore-che-vinic",
+      "title": { "en": "The Man of the Woods and the Laughing Escape", "zh": "林中人與一笑脫身" },
+      "tradition": "maya",
+      "category": "myth",
+      "region": { "en": "Forests of Yucatan, Peten, and Tabasco", "zh": "猶加敦、佩滕與塔巴斯科的森林" },
+      "lat": 17.5,
+      "lon": -90.5,
+      "period": "Recorded by Brinton and Dr. Berendt, late 19th c.",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Daniel G. Brinton, The Folk-Lore of Yucatan",
+        "url": "https://archive.org/details/mayareligionmyth00bowd"
+      },
+      "license": "Public domain (Brinton, late 19th c.)",
+      "summary": {
+        "en": "The Che Vinic, the Man of the Woods, called by the Spanish population the Salonge, is a huge fellow without bones or joints. His feet are reversed, the heels in front; he is larger and stronger than a bull, and his colour is red; in his long arms he carries a stick the size of a tree-trunk. He is on the watch for those who stray through the woods and will seize and devour them. But the ready-witted man plucks a green branch and, waving it before him, begins a lively dance: the Wood Man falls into convulsions of mirth and, having no joints, cannot rise once he has fallen to the ground.",
+        "zh": "林中人——西班牙人稱為薩隆赫——是一個無骨無節的巨漢。其足反向，腳跟在前；比公牛更大更強，色紅；長臂之中握一根樹幹般的木棍。他伏候迷途於林中之人，擒而食之。然而機智者摘一青枝，在面前揮舞，歡快起舞：林中人笑得前仰後合，倒地不起——因為他無骨無節，跌倒便再也爬不起來。"
+      },
+      "motifs": ["trickster", "transformation", "taboo-transgression"],
+      "sensitivity": { "restricted": false, "note": "Living Yucatec/Peten belief recorded by Brinton; paraphrase of public-domain text only." },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Another is the Che Vinic, the Man of the Woods, called by the Spanish population the Salonge. He is a huge fellow without bones or joints. For that reason if he lies down he cannot rise without extreme difficulty; hence he sleeps leaning against a tree. His feet are reversed, the heels in front, the toes behind. He is larger and stronger than a bull, and his colour is red. In his long arms he carries a stick the size of a tree-trunk. He is on the watch for those who stray through the woods, and, if he can, will seize and devour them.",
+          "note": "Condensed from Brinton, Folk-Lore of Yucatan; not verbatim throughout."
+        },
+        {
+          "id": "2",
+          "text": "But a ready-witted man has always a means of escape. All he has to do is to pluck a green branch from a tree, and waving it before him begin a lively dance. This invariably throws the Wood Man into convulsions of mirth. He laughs and laughs until he falls to the ground, and once down, having no joints, he cannot rise, and the hunter can proceed leisurely on his journey. It is singular how widely distributed is the belief in this strange fancy: it recurs in precisely the same form in Yucatan, in Peten, in Tabasco, around Palenque.",
+          "note": "Condensed from Brinton, Folk-Lore of Yucatan; not verbatim throughout."
+        }
+      ],
+      "persons": ["kisin"]
+    },
+    {
+      "id": "maya-folklore-aluxes",
+      "title": { "en": "The Aluxes: The Strong Clay Images", "zh": "阿盧希：黏土小人之靈" },
+      "tradition": "maya",
+      "category": "myth",
+      "region": { "en": "Old temples and tombs of Yucatan, Mexico", "zh": "墨西哥猶加敦古廟與古墓" },
+      "lat": 20.6,
+      "lon": -89.0,
+      "period": "Recorded by Brinton, late 19th c.",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Daniel G. Brinton, The Folk-Lore of Yucatan",
+        "url": "https://archive.org/details/mayareligionmyth00bowd"
+      },
+      "license": "Public domain (Brinton, late 19th c.)",
+      "summary": {
+        "en": "The most common of the dwarfs and imps are the aluxes, the 'strong clay images': they are believed to be the actual idols and figures in clay found about the old temples and tombs, hence an Indian breaks these in pieces whenever he finds them. They only appear after sunset, in the shape of a child of three or four years, or sometimes not over a span in height, naked except for a large hat. They are swift of foot, and can run backwards as fast as forwards; their touch produces sickness, especially chills and fever.",
+        "zh": "矮人與精怪之中，最常見者為阿盧希——「強力的黏土像」：人信其即古廟古墓旁的黏土神像本身，故印第安人凡見必碎之。它們日落后方現，形如三四歲孩童，或高不逾一拃，赤身而戴大帽。其足迅捷，倒行與正行同速；觸之則致病，尤生寒熱。"
+      },
+      "motifs": ["clay-humans", "taboo-transgression", "trickster"],
+      "sensitivity": { "restricted": false, "note": "Living Yucatec belief recorded by Brinton; paraphrase of public-domain text only." },
+      "passages": [
+        {
+          "id": "1",
+          "text": "In contrast to the giants are the dwarfs and imps which are ready in their malicious ways to sour the pleasures of life. The most common of these are the aluxes, or more fully Kloxkatob, which means 'the strong clay images'. They are, indeed, believed to be the actual idols and figures in clay which are found about the old temples and tombs, and hence an Indian breaks these in pieces whenever he finds them.",
+          "note": "Condensed from Brinton, Folk-Lore of Yucatan; not verbatim throughout."
+        },
+        {
+          "id": "2",
+          "text": "They only appear after sunset, and then in the shape of a child of three or four years, or sometimes not over a span in height, naked except wearing a large hat. They are swift of foot, and can run backwards as fast as forwards. Among other pranks, they throw stones at the dogs and cause them to howl. Their touch produces sickness, especially chills and fever. It is best, therefore, not to attempt to catch them.",
+          "note": "Condensed from Brinton, Folk-Lore of Yucatan; not verbatim throughout."
+        }
+      ],
+      "persons": ["kisin"]
+    },
+    {
+      "id": "maya-folklore-x-tabai",
+      "title": { "en": "X Tabai, the Deceiver of the Shady Bowers", "zh": "希·塔拜：綠蔭深處的惑人女" },
+      "tradition": "maya",
+      "category": "myth",
+      "region": { "en": "Forests of Yucatan, Mexico", "zh": "墨西哥猶加敦森林" },
+      "lat": 20.6,
+      "lon": -89.0,
+      "period": "Recorded by Brinton, late 19th c.",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Daniel G. Brinton, The Folk-Lore of Yucatan",
+        "url": "https://archive.org/details/mayareligionmyth00bowd"
+      },
+      "license": "Public domain (Brinton, late 19th c.)",
+      "summary": {
+        "en": "The female sex is further represented in the Maya folk-lore by a personage who has a curious similarity to legendary ladies of the old world — sirens, mermaids, the Lorelei. She is called X Tabai, the (female) Deceiver. Her home is under shady bowers in the forests, and there the ardent hunter suddenly espies her, naked, combing her long and beautiful hair. As he approaches she turns and flees — not with discouraging haste, but with such backward glances as to invite pursuit. Just as he clasps her in his embrace, her body changes into a thorny bush, and her feet become claws like those of a wild fowl; torn and bleeding, he turns sadly homeward and soon succumbs to fever with delirium.",
+        "zh": "馬雅民俗中另有一位與舊世界傳說女子——塞壬、美人魚、羅蕾萊——驚人相似的人物：希·塔拜，「惑人的女欺詐者」。她棲於林中綠蔭深處；熱切的獵人忽見其裸身梳理長髮。他走近，她轉身而逃——並非疾奔拒人，而是頻頻回眸引人追逐。正當他張臂擁她，其身化為荊棘之叢，其足化為野禽之爪；獵人遍體鱗傷，黯然歸家，不久即染熱病而譫妄。"
+      },
+      "motifs": ["transformation", "trickster", "taboo-transgression"],
+      "sensitivity": { "restricted": false, "note": "Living Yucatec belief recorded by Brinton; paraphrase of public-domain text only." },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The female sex is further represented in the Maya folk-lore by a personage who has a curious similarity to legendary ladies of the old world, sirens, mermaids, the Lorelei. She is called X Tabai, the (female) Deceiver. Her home is under shady bowers in the forests, and there the ardent hunter suddenly espies her, naked, and combing with a large comb her long and beautiful hair. As he approaches she turns and flees, but not with discouraging haste, rather in such a manner and with such backward glances as to invite pursuit.",
+          "note": "Condensed from Brinton, Folk-Lore of Yucatan; not verbatim throughout."
+        },
+        {
+          "id": "2",
+          "text": "He soon overtakes her, but just as he clasps her beauteous form in his strong embrace, her body changes into a thorny bush, and her feet become claws like those of a wild fowl. Torn and bleeding he turns sadly homeward, and soon succumbs to an attack of fever with delirium.",
+          "note": "Condensed from Brinton, Folk-Lore of Yucatan; not verbatim throughout."
+        }
+      ],
+      "persons": ["kisin"]
+    },
+    {
+      "id": "maya-folklore-x-thoh-chaltun",
+      "title": { "en": "Miss Pound-the-Stones", "zh": "擊石小姐" },
+      "tradition": "maya",
+      "category": "myth",
+      "region": { "en": "Villages of Yucatan, Mexico", "zh": "墨西哥猶加敦村落" },
+      "lat": 20.6,
+      "lon": -89.0,
+      "period": "Recorded by Brinton, late 19th c.",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Daniel G. Brinton, The Folk-Lore of Yucatan",
+        "url": "https://archive.org/details/mayareligionmyth00bowd"
+      },
+      "license": "Public domain (Brinton, late 19th c.)",
+      "summary": {
+        "en": "Another very similar creature is X Thoh Chaltun, Miss Pound-the-Stones. She slily waits around the villages, and when she sees some attractive youth she awakes his attention by tapping on the stones, or in default of these on an empty jar which she carries for the purpose. Does the foolish youth respond to the seductive invitation, she coyly moves to the woods, where the amorous pursuer meets like disappointment and a similar sad fate as the victim of the X tabai.",
+        "zh": "另有一極相似之精怪：希·托赫·查爾頓——擊石小姐。她狡黠地伏於村落四周，見有俊俏青年，便以叩石——無石則叩其隨身攜帶的空罐——喚其注意。愚拙的青年若應其挑逗，她便婀娜移向林中；癡情追隨者在那裡得到的，與希·塔拜的犧牲者如出一轍的失望與悲慘結局。"
+      },
+      "motifs": ["trickster", "transformation"],
+      "sensitivity": { "restricted": false, "note": "Living Yucatec belief recorded by Brinton; paraphrase of public-domain text only." },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Another very similar creature is X Thoh Chaltun, Miss Pound-the-Stones. She slily waits around the villages, and when she sees some attractive youth she awakes his attention by tapping on the stones, or in default of these on an empty jar which she carries for the purpose. Does the foolish youth respond to the seductive invitation, she coyly moves to the woods, where the amorous pursuer meets like disappointment and a similar sad fate as the victim of the X tabai.",
+          "note": "Condensed from Brinton, Folk-Lore of Yucatan; not verbatim throughout."
+        }
+      ],
+      "persons": ["kisin"]
+    },
+    {
+      "id": "maya-folklore-town-of-hares",
+      "title": { "en": "The Town of the Hares Under the Earth", "zh": "地下的兔子之城" },
+      "tradition": "maya",
+      "category": "myth",
+      "region": { "en": "Yucatan, Mexico", "zh": "墨西哥猶加敦" },
+      "lat": 20.6,
+      "lon": -89.0,
+      "period": "Told to Dr. Berendt; recorded by Brinton",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Daniel G. Brinton, The Folk-Lore of Yucatan",
+        "url": "https://archive.org/details/mayareligionmyth00bowd"
+      },
+      "license": "Public domain (Brinton, late 19th c.)",
+      "summary": {
+        "en": "Each species of brute has its king, who rules and protects it; even the timid native hare may thus assert its rights. An Indian told Dr. Berendt that once upon a time a hunter with two dogs followed a hare into a cave. There he found a large hole leading under the earth; he descended, and came to the town of the hares. They seized him and his dogs and brought him before their king, and it was no easy matter for him to get off by dint of protests and promises.",
+        "zh": "每一獸類皆有王者統攝其群；連怯懦的野兔也可自居其權。一印第安人告訴貝倫特醫生：昔有獵人攜二犬追兔入洞，見大穴通於地下；循之而下，竟抵兔子之城。兔眾擒其人與犬，押至兔王之前；他百般抗辯立誓，方得脫身。"
+      },
+      "motifs": ["descent-underworld", "transformation", "sacred-kingship"],
+      "sensitivity": { "restricted": false, "note": "Living Yucatec belief recorded by Brinton; paraphrase of public-domain text only." },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Many superstitions cling around the animal world. Each species of brute has its king, who rules and protects it; even the timid native hare may thus assert its rights. An Indian told Dr. Berendt that once upon a time a hunter with two dogs followed a hare into a cave. There he found a large hole leading under the earth. He descended, and came to the town of the hares. They seized him and his dogs and brought him before their king, and it was no easy matter for him to get off by dint of protests and promises.",
+          "note": "Condensed from Brinton, Folk-Lore of Yucatan; not verbatim throughout."
+        }
+      ],
+      "persons": ["kisin"]
+    },
+    {
+      "id": "maya-folklore-ekoneil",
+      "title": { "en": "The Black Tail That Sucks the Milk", "zh": "吸乳的黑尾蛇" },
+      "tradition": "maya",
+      "category": "myth",
+      "region": { "en": "Yucatan, Mexico", "zh": "墨西哥猶加敦" },
+      "lat": 20.6,
+      "lon": -89.0,
+      "period": "Recorded by Brinton, late 19th c.",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Daniel G. Brinton, The Folk-Lore of Yucatan",
+        "url": "https://archive.org/details/mayareligionmyth00bowd"
+      },
+      "license": "Public domain (Brinton, late 19th c.)",
+      "summary": {
+        "en": "An object of much dread is the Black Tail, Ekoneil, an imaginary snake with a black, broad, and forked tail. He glides into houses at night where a nursing mother is asleep; and, covering her nostrils with his tail, sucks the milk from her breasts.",
+        "zh": "眾所畏懼者還有「黑尾」埃科內伊爾——一條尾闊而叉、通體漆黑的怪蛇。夜間滑入有哺乳母親酣睡之屋；以尾掩其鼻息，自其乳中吸吮乳汁。"
+      },
+      "motifs": ["world-serpent", "taboo-transgression"],
+      "sensitivity": { "restricted": false, "note": "Living Yucatec belief recorded by Brinton; paraphrase of public-domain text only." },
+      "passages": [
+        {
+          "id": "1",
+          "text": "An object of much dread is the Black Tail, Ekoneil, an imaginary snake with a black, broad, and forked tail. He glides into houses at night where a nursing mother is asleep; and, covering her nostrils with his tail, sucks the milk from her breasts.",
+          "note": "Condensed from Brinton, Folk-Lore of Yucatan; not verbatim throughout."
+        }
+      ],
+      "persons": ["kisin"]
+    },
+    {
+      "id": "maya-folklore-phantom-bird",
+      "title": { "en": "The Phantom Bird That Falls as a Feather", "zh": "落地化羽的幻鳥" },
+      "tradition": "maya",
+      "category": "myth",
+      "region": { "en": "Yucatan, Mexico", "zh": "墨西哥猶加敦" },
+      "lat": 20.6,
+      "lon": -89.0,
+      "period": "Recorded by Brinton, late 19th c.",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Daniel G. Brinton, The Folk-Lore of Yucatan",
+        "url": "https://archive.org/details/mayareligionmyth00bowd"
+      },
+      "license": "Public domain (Brinton, late 19th c.)",
+      "summary": {
+        "en": "There are also tales of the Straw Bird or Phantom Bird. The hunter unexpectedly sees a handsome bird on a branch before him. He fires and misses. He repeats his shot in vain. After a while it falls of itself, and proves to be nothing but a coloured feather. Then he knows that he has been fooled by the Zohol chich.",
+        "zh": "關於「稻草鳥」或「幻鳥」亦有傳說。獵人忽見枝頭美鳥，舉銃而空；再射又空。稍頃，鳥自落，檢視竟只是一根染色的羽毛——他這才知道：自己被「佐霍爾·奇奇」捉弄了。"
+      },
+      "motifs": ["trickster", "transformation"],
+      "sensitivity": { "restricted": false, "note": "Living Yucatec belief recorded by Brinton; paraphrase of public-domain text only." },
+      "passages": [
+        {
+          "id": "1",
+          "text": "There are also tales of the Straw Bird or Phantom Bird. The hunter unexpectedly sees a handsome bird on a branch before him. He fires and misses. He repeats his shot in vain. After a while it falls of itself, and proves to be nothing but a coloured feather. Then he knows that he has been fooled by the Zohol chich.",
+          "note": "Condensed from Brinton, Folk-Lore of Yucatan; not verbatim throughout."
+        }
+      ],
+      "persons": ["kisin"]
+    }
+  ]
+}

@@ -1,0 +1,373 @@
+{
+  "texts": [
+    {
+      "id": "mesopotamian-kinglist-flood",
+      "title": {
+        "en": "Antediluvian Kings and the Flood",
+        "zh": "洪水前諸王與大洪水"
+      },
+      "tradition": "mesopotamian",
+      "category": "myth",
+      "region": {
+        "en": "The five antediluvian cities, Iraq",
+        "zh": "洪水前五城（伊拉克）"
+      },
+      "lat": 31.5,
+      "lon": 45.5,
+      "period": "Sumerian King List tradition and Berossus, c. 290 BCE as preserved in George Smith 1876",
+      "source": {
+        "archive": "Project Gutenberg",
+        "work": "The Chaldean Account of Genesis, ch. on Berossus and the antediluvian kings, George Smith (1876)",
+        "url": "https://www.gutenberg.org/ebooks/60559"
+      },
+      "license": "Public domain (1876)",
+      "summary": {
+        "en": "Ten kings reigned before the flood, each for tens of sars — 432,000 years in Berossus' sum — the first at Eridu; then the flood swept them, and kingship began again from Kish: history framed between two descents of kingship from heaven.",
+        "zh": "洪水前有十王，各在位數以萬年——貝羅蘇斯總計四十三萬二千年——首位建都埃利都；洪水掃盡其後，王權復自基什而始：歷史框於兩次王權天降之間。"
+      },
+      "motifs": [
+        "flood",
+        "foundational-legend",
+        "sacred-kingship"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient chronicle tradition; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Ten kings reigned before the flood, the first at Eridu, each for reigns counted in sars — 432,000 years in Berossus' sum — until the flood swept them away. After the flood kingship descended again, to Kish, and history ran between two descents of kingship from heaven — the frame that all Mesopotamian chronology kept.",
+          "note": "Paraphrase of the antediluvian king list tradition as given by Berossus in George Smith (1876); not verbatim. / Paraphrase of the king list frame (Smith 1876; cf. Sumerian King List); not verbatim."
+        }
+      ],
+      "persons": [
+        "ziusudra",
+        "enlil"
+      ],
+      "functions": [
+        "Chronological frame of Mesopotamian history",
+        "Bridge between flood myth and dynastic history",
+        "Echo in the patriarchal ages of Genesis"
+      ],
+      "variants": [
+        {
+          "name": "The Sumerian King List (ETCSL c.2.1.1)",
+          "text_tradition": "Sumerian (ETCSL)",
+          "summary": "The native list with eight antediluvian kings.",
+          "cross_ref": "sumerian-king-list"
+        },
+        {
+          "name": "Genesis 5 genealogies",
+          "text_tradition": "Hebrew",
+          "summary": "The biblical echo of the antediluvian reigns.",
+          "cross_ref": "none"
+        }
+      ],
+      "language": "Greek (Berossus) preserving Sumerian tradition",
+      "canonical_translation": "George Smith, 1876",
+      "primary_sources": [
+        {
+          "work": "Antediluvian king list (Berossus and the Sumerian King List tradition)",
+          "citation": "as quoted in George Smith (1876)",
+          "language": "Greek"
+        }
+      ],
+      "secondary_sources": [
+        {
+          "work": "Legends of Babylon and Egypt in Relation to Hebrew Tradition",
+          "citation": "L. W. King, London, 1918"
+        }
+      ],
+      "source_urls": [
+        {
+          "url": "https://www.gutenberg.org/ebooks/60559",
+          "description": "George Smith 1876",
+          "accessed": "2026-11-14"
+        }
+      ],
+      "sensitivity_flag": "none",
+      "provenance": {
+        "record_status": "complete",
+        "compiled": "2026-11-14",
+        "compiled_by": "opencode myth-collection session",
+        "review_status": "unreviewed"
+      }
+    },
+    {
+      "id": "mesopotamian-berossus-oannes",
+      "title": {
+        "en": "Oannes, the Fish-Teacher",
+        "zh": "俄安內斯：魚身導師"
+      },
+      "tradition": "mesopotamian",
+      "category": "myth",
+      "region": {
+        "en": "The Persian Gulf shore (symbolic pin)",
+        "zh": "波斯灣海岸（象徵性定位）"
+      },
+      "lat": 29.0,
+      "lon": 48.8,
+      "period": "Berossus' Babyloniaca, c. 290 BCE, preserved in George Smith 1876",
+      "source": {
+        "archive": "Project Gutenberg",
+        "work": "The Chaldean Account of Genesis, ch. on Berossus, George Smith (1876)",
+        "url": "https://www.gutenberg.org/ebooks/60559"
+      },
+      "license": "Public domain (1876)",
+      "summary": {
+        "en": "In the first year there came out of the Erythraean sea a monster named Oannes, the body of a fish with a man's head beneath — and he taught men letters, arts and the building of temples: the culture-hero of civilization rising from the sea.",
+        "zh": "首年，海中出現名為俄安內斯的怪物：魚身而有人首，於魚腹之下——教人文字、技藝與建殿之法：文明源於滄海的文化英雄。"
+      },
+      "motifs": [
+        "culture-hero",
+        "transformation",
+        "dismembered-giant",
+        "origin-tools"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Hellenistic retelling; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "In the first year there came out of the Erythraean sea a monster named Oannes: the body of a fish, and beneath the fish's head a man's head, and a man's voice — the composite image of the wisdom from the deep. He taught men letters, arts, laws and the building of temples, and at sunset he returned to the sea and passed the night in the deep — civilization's teacher rising daily from the water that had birthed the world.",
+          "note": "Paraphrase of Berossus' account of Oannes as given in George Smith (1876); not verbatim. / Paraphrase of Berossus' account (Smith 1876); not verbatim."
+        }
+      ],
+      "persons": [
+        "enki"
+      ],
+      "functions": [
+        "Culture-hero myth of wisdom from the sea",
+        "Hellenistic dress of the Enki tradition"
+      ],
+      "variants": [
+        {
+          "name": "Enki decrees the world order",
+          "text_tradition": "Sumerian (ETCSL c.1.1.3)",
+          "summary": "The native water-god wisdom tradition.",
+          "cross_ref": "sumerian-enki-world-order"
+        },
+        {
+          "name": "Dagon fish-god iconography",
+          "text_tradition": "Levantine",
+          "summary": "The Syrian fish-deity parallel.",
+          "cross_ref": "none"
+        }
+      ],
+      "language": "Greek (preserving Akkadian tradition)",
+      "canonical_translation": "George Smith, 1876",
+      "primary_sources": [
+        {
+          "work": "Berossus, Babyloniaca (Oannes)",
+          "citation": "as quoted in George Smith (1876)",
+          "language": "Greek"
+        }
+      ],
+      "secondary_sources": [
+        {
+          "work": "Myths of Babylonia and Assyria",
+          "citation": "Donald A. Mackenzie, London, 1915, ch. on Oannes"
+        }
+      ],
+      "source_urls": [
+        {
+          "url": "https://www.gutenberg.org/ebooks/60559",
+          "description": "George Smith 1876",
+          "accessed": "2026-11-14"
+        }
+      ],
+      "sensitivity_flag": "none",
+      "provenance": {
+        "record_status": "complete",
+        "compiled": "2026-11-14",
+        "compiled_by": "opencode myth-collection session",
+        "review_status": "unreviewed"
+      }
+    },
+    {
+      "id": "mesopotamian-sacred-marriage-rite",
+      "title": {
+        "en": "The Sacred Marriage of the King",
+        "zh": "國王聖婚儀式"
+      },
+      "tradition": "mesopotamian",
+      "category": "myth",
+      "region": {
+        "en": "Temple bedchamber, Uruk and Isin, Iraq",
+        "zh": "烏魯克與伊辛神殿寢室（伊拉克）"
+      },
+      "lat": 31.5,
+      "lon": 45.4,
+      "period": "Uruk III to Isin I rites, c. 3000-1900 BCE (Jastrow 1898)",
+      "source": {
+        "archive": "Project Gutenberg",
+        "work": "The Religion of Babylonia and Assyria, the Zagmuk symbolical marriage, Morris Jastrow (1898)",
+        "url": "https://www.gutenberg.org/ebooks/20758"
+      },
+      "license": "Public domain (1898)",
+      "summary": {
+        "en": "On the New Year the king takes the place of the god and the priestess that of the goddess: the union performed in the temple bedchamber secures the year's abundance — the rite to which the love songs of Inanna and Dumuzi are the liturgy.",
+        "zh": "新年之際，國王代神而立、祭司代女神而立：神殿寢室中的結合保障來年豐饒——伊南娜與杜穆茲情歌即此儀式之禮文。"
+      },
+      "motifs": [
+        "divine-marriage",
+        "ritual-origin",
+        "sacred-kingship"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Reconstruction of an ancient rite; presented as scholarly material, not endorsement."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "On the New Year the king takes the god's place and the priestess the goddess's: the union performed in the temple bedchamber secures the year's abundance. The love songs of Inanna and Dumuzi are the rite's liturgy: the bride-goddess claimed, the bed blessed with cedar oil, the city renewed by the annual performance.",
+          "note": "Paraphrase of the sacred marriage rite as reconstructed in Jastrow (1898); not verbatim. / Paraphrase of the rite (Jastrow 1898); not verbatim."
+        }
+      ],
+      "persons": [
+        "inanna",
+        "dumuzi",
+        "ishtar"
+      ],
+      "functions": [
+        "Annual fertility rite of king and goddess",
+        "Liturgical frame of the Dumuzid-Inanna love songs"
+      ],
+      "variants": [
+        {
+          "name": "Iddin-Dagan A",
+          "text_tradition": "Sumerian (ETCSL c.2.5.3.1)",
+          "summary": "The Isin dynasty's liturgy of the same rite.",
+          "cross_ref": "sumerian-iddindagan-inana"
+        },
+        {
+          "name": "The wedding of Inanna and Dumuzid",
+          "text_tradition": "Sumerian (ETCSL c.4.08.1)",
+          "summary": "The Uruk cult song of the rite.",
+          "cross_ref": "sumerian-dumuzi-wedding"
+        }
+      ],
+      "language": "Sumerian/Akkadian",
+      "canonical_translation": "Morris Jastrow Jr., 1898 (reconstruction)",
+      "primary_sources": [
+        {
+          "work": "Sacred marriage rite (Zagmuk symbolical marriage)",
+          "citation": "as reconstructed in Jastrow (1898)",
+          "language": "Sumerian"
+        }
+      ],
+      "secondary_sources": [
+        {
+          "work": "The Treasures of Darkness",
+          "citation": "Thorkild Jacobsen, New Haven, 1976, on the sacred marriage"
+        }
+      ],
+      "source_urls": [
+        {
+          "url": "https://www.gutenberg.org/ebooks/20758",
+          "description": "Jastrow 1898",
+          "accessed": "2026-11-14"
+        }
+      ],
+      "sensitivity_flag": "none",
+      "provenance": {
+        "record_status": "complete",
+        "compiled": "2026-11-14",
+        "compiled_by": "opencode myth-collection session",
+        "review_status": "unreviewed"
+      }
+    },
+    {
+      "id": "mesopotamian-tammuz-mourning",
+      "title": {
+        "en": "Weeping for Tammuz",
+        "zh": "為塔穆茲哭泣"
+      },
+      "tradition": "mesopotamian",
+      "category": "myth",
+      "region": {
+        "en": "Gates of the temple, Jerusalem echo (pin at Uruk)",
+        "zh": "神殿之門（定位於烏魯克）"
+      },
+      "lat": 31.324,
+      "lon": 45.637,
+      "period": "Old Babylonian to Neo-Assyrian rites (Jastrow 1898)",
+      "source": {
+        "archive": "Project Gutenberg",
+        "work": "The Religion of Babylonia and Assyria, the Tammuz wailing rites, Morris Jastrow (1898)",
+        "url": "https://www.gutenberg.org/ebooks/20758"
+      },
+      "license": "Public domain (1898)",
+      "summary": {
+        "en": "In the month of Tammuz the women sit at the gate wailing for the shepherd below — the ritual lament that reached the Hebrew prophets' pages — the dying god mourned that the grain may rise.",
+        "zh": "塔穆茲月，婦女坐於門前為冥下牧神哀哭——此儀式性哭喪直達希伯來先知的書頁——悼垂死之神，俾五穀得升。"
+      },
+      "motifs": [
+        "resurrection",
+        "ritual-origin",
+        "dying-god"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient ritual tradition; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "In the month of Tammuz the women sit at the gate wailing for the shepherd below — the ritual lament that reached the Hebrew prophets' pages. The mourning is functional: the dying god mourned that the grain may rise — the liturgical calendar's hinge of death and renewal.",
+          "note": "Paraphrase of the Tammuz wailing rites as discussed in Jastrow (1898); not verbatim. / Paraphrase of the rites (Jastrow 1898); not verbatim."
+        }
+      ],
+      "persons": [
+        "dumuzi",
+        "ishtar",
+        "geshtinanna"
+      ],
+      "functions": [
+        "Cult practice of the dying-god myth",
+        "Ritual calendar hinge of death and renewal"
+      ],
+      "variants": [
+        {
+          "name": "Dumuzid and Geshtin-ana",
+          "text_tradition": "Sumerian (ETCSL c.1.4.1.1)",
+          "summary": "The narrative charter of the half-year.",
+          "cross_ref": "sumerian-dumuzi-geshtinanna"
+        }
+      ],
+      "language": "Akkadian/Sumerian",
+      "canonical_translation": "Morris Jastrow Jr., 1898",
+      "primary_sources": [
+        {
+          "work": "Tammuz wailing rites",
+          "citation": "as discussed in Jastrow (1898)",
+          "language": "Akkadian"
+        }
+      ],
+      "secondary_sources": [
+        {
+          "work": "The Religion of Babylonia and Assyria",
+          "citation": "Morris Jastrow Jr., Boston, 1898, on Tammuz"
+        }
+      ],
+      "source_urls": [
+        {
+          "url": "https://www.gutenberg.org/ebooks/20758",
+          "description": "Jastrow 1898",
+          "accessed": "2026-11-14"
+        }
+      ],
+      "sensitivity_flag": "none",
+      "provenance": {
+        "record_status": "complete",
+        "compiled": "2026-11-14",
+        "compiled_by": "opencode myth-collection session",
+        "review_status": "unreviewed"
+      }
+    }
+  ]
+}

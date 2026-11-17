@@ -1,0 +1,593 @@
+{
+  "_comment": "Norse expansion batch 39 - Creation & Origin V (topic 1): Midgard and the World-Serpent, Bifrost, Svalinn, Mimir's well, Gullveig. All passages are paraphrase and carry a note.",
+  "texts": [
+    {
+      "id": "norse-world-serpent-midgard",
+      "title": {
+        "en": "Midgard and the World-Serpent: Building the Enclosure of Men",
+        "zh": "米德加爾特與世界之蛇：人類圍牆的建立"
+      },
+      "tradition": "norse",
+      "category": "myth-religion",
+      "region": {
+        "en": "The encircling ocean of Midgard (symbolic pin at Pingvellir, Iceland)",
+        "zh": "環繞米德加爾特的大洋（象徵性定位於冰島辛格韋德利）"
+      },
+      "lat": 64.26,
+      "lon": -21.13,
+      "period": "Gylfaginning c. 1220-1230 (older material); Voluspa st. 4; principal MSS Codex Regius GKS 2365 4to, GKS 2367 4to",
+      "source": {
+        "archive": "sacred-texts.com (Bellows 1923) / Project Gutenberg (Brodeur 1916)",
+        "work": "Snorri, Gylfaginning chs. 7-8, 34; Voluspa st. 4; critical ed. Faulkes (1987)",
+        "url": "https://www.sacred-texts.com/neu/pre/"
+      },
+      "license": "Public domain (Brodeur 1916; Bellows 1923); passages below are labeled paraphrases",
+      "summary": {
+        "en": "To defend the new world from the giants, the gods raised a wall around the middle of Ymir's eyebrows - the enclosure called Midgard - and beyond it the sea, whose edge the gods gave to the lands. Into that encircling ocean Odin cast Loki's monstrous middle child, the serpent Jormungand, which grew so vast that, lying in the ring of the sea, it gripped its own tail. The record is a double aition: of the coastlines of the inhabited world and of the apocalyptic serpent that will one day release its tail and poison the sky.",
+        "zh": "為防範巨人，諸神在尤彌爾眉毛中部築起圍牆——這道圍欄名為米德加爾特——牆外是大海，諸神把海岸賜給陸地。奧丁將洛基的怪物次子、巨蛇耶夢加得拋入環繞的大洋之中，蛇身長得如此巨大，以至盤於海環之上時竟能咬住自己的尾巴。此記錄是雙重起源故事：既解釋人類所居世界的海岸線，也解釋終有一日鬆開尾巴、毒化天空的末日之蛇。"
+      },
+      "language": "Old Norse / Old Icelandic",
+      "canonical_translation": "A. G. Brodeur, Snorri Sturluson: The Prose Edda, New York 1916 (public domain)",
+      "narrative": {
+        "en": "The building of Midgard is described in Gylfaginning as urban planning of cosmic scale. After the gods slew Ymir and made the earth from his flesh, the sea from his blood and the sky from his skull, they took his eyebrows - the fringe of hair above the great corpse's eyes - and made of them the fortress-wall of the middle world, and called the enclosure Midgard, 'middle enclosure'. Beyond the wall they gave the lands to men, and the sea's edge to the shore-peoples; outside lies Utgard, the out-yard, where the giants live. The world of men is thus literally an eyebrow of the primordial corpse - a thin defensive fringe between two hostile zones.\n\nThen Odin conscripted the enemy's own offspring as the outer defense. Loki's three monstrous children - the wolf Fenrir, the serpent Jormungand and the girl Hel - had been brought before the gods in Asgard, and prophecy said they would cause great harm. Odin threw the serpent into the encircling ocean, where it grew so vast that, lying in the ring of all lands, it gripped its own tail. The World-Serpent thus became the mythic geometry of the ocean itself: the sea is a serpent, and every shore is the edge of its body.\n\nThe cultural functions are cartographic and eschatological at once. Midgard's wall explains why the inhabited world is an island-ring with hostile beyonds; the serpent explains the sea's unity (it has one body) and its menace (one bite poisons everything). The image is concentric: hearth, wall, shore, sea, serpent's scales, tail - the last linking back to the first, since the tail is in the serpent's own mouth. And the myth sets up the two signature encounters of Norse myth: Thor's fishing trip, when he hooks the serpent's head (the eye of the ocean glares into the fisher's), and the final battle at Ragnarok, when the tail releases and the serpent rises, and Thor kills it and dies of its venom after nine steps.\n\nVoluspa's opening cosmology carries the same architecture in compressed form: the sun and moon were set on their courses, the ground was green, and then the sibyl sees the Yggdrasil of fate and the genders of men - the middle world already fenced, already fated. The record anchors the motif 'world-serpent' (A-code world-encircling reptile) that the atlas tracks from Jormungand to Leviathan to the rainbow serpent of Australia: the ocean as an animal that has swallowed the world's edge."
+      },
+      "functions": [
+        "Cartographic aition: the inhabited world as an enclosure (eyebrow of Ymir) ringed by hostile beyonds",
+        "Explains the sea as a single living body encircling all lands",
+        "Sets up Thor's fishing exploit and the apocalyptic release of the serpent at Ragnarok",
+        "Anchors the world-serpent motif family across world mythologies"
+      ],
+      "variants": [
+        {
+          "name": "Gylfaginning chs. 7-8, 34 (Prose Edda)",
+          "text_tradition": "Codex Regius GKS 2367 4to",
+          "summary": "Snorri's version: eyebrows of Ymir as Midgard's wall; the serpent cast into the sea, grown so vast it bites its own tail.",
+          "cross_ref": "norse-world-serpent-midgard"
+        },
+        {
+          "name": "Voluspa st. 4 (Poetic Edda)",
+          "text_tradition": "Codex Regius GKS 2365 4to",
+          "summary": "The sibyl's compressed cosmology: the sun and moon set, the ground green with green herbs, the days counted - the middle world installed without naming the wall.",
+          "cross_ref": "norse-ginnungagap-void"
+        },
+        {
+          "name": "Hymiskvida / skaldic Thor-fishing variants",
+          "text_tradition": "Codex Regius; Ragnarsdrapa of Bragi; lausavisur of Eysteinn Valdason",
+          "summary": "The serpent's other side: the fishing myths in which Thor hooks it - the same creature documented in skaldic verse centuries before Snorri.",
+          "cross_ref": "norse-thor-fishing-serpent"
+        }
+      ],
+      "primary_sources": [
+        {
+          "work": "Snorri Sturluson, Edda: Gylfaginning",
+          "citation": "Chs. 7-8 (world-building; Midgard from Ymir's eyebrows) and ch. 34 (Loki's children; the serpent cast into the sea). Critical ed. Faulkes 1987; English: Brodeur 1916.",
+          "language": "Old Norse / Old Icelandic"
+        },
+        {
+          "work": "Voluspa",
+          "citation": "Stanza 4. Principal MS Codex Regius GKS 2365 4to. Critical edition: Dronke 1997; public-domain English: Bellows 1923.",
+          "language": "Old Norse / Old Icelandic"
+        }
+      ],
+      "secondary_sources": [
+        {
+          "work": "Rudolf Simek, Dictionary of Northern Mythology",
+          "citation": "Simek 1993, Cambridge: D. S. Brewer - entries 'Midgard', 'Jormungandr', 'Utgard'."
+        },
+        {
+          "work": "Margaret Clunies Ross, Prolonged Echoes, vol. 1",
+          "citation": "Clunies Ross 1994, Odense - the enclosure economy of gods, giants and humans."
+        }
+      ],
+      "source_urls": [
+        {
+          "url": "https://www.sacred-texts.com/neu/pre/pre04.htm",
+          "description": "Gylfaginning chs. 1-9, Brodeur translation (public domain)",
+          "accessed": "2026-11-01"
+        },
+        {
+          "url": "https://www.sacred-texts.com/neu/pre/pre05.htm",
+          "description": "Gylfaginning chs. 31-34, Brodeur translation (public domain)",
+          "accessed": "2026-11-01"
+        }
+      ],
+      "sensitivity_flag": "none",
+      "provenance": {
+        "record_status": "complete",
+        "compiled": "2026-11-01",
+        "compiled_by": "DHG508 fieldwork compilation",
+        "review_status": "draft - pending human review"
+      },
+      "motifs": [
+        "world-serpent",
+        "creation-chaos"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Historical literary corpus; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "After the earth was made from Ymir's flesh, the gods took his eyebrows and set them as a fence round the middle stronghold of the world; they called the place Midgard, and gave the lands within it to men; beyond the wall lies the out-yard, where the giants dwell.",
+          "note": "Paraphrase of Snorri, Gylfaginning ch. 8 (Brodeur 1916); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "When Loki's three children were brought before the gods, the All-father saw that great harm would come of them: he threw the serpent into that encircling ocean which lies round all lands, and there the monster grew so greatly that, lying in the ring of the sea, it gripped its own tail.",
+          "note": "Paraphrase of Snorri, Gylfaginning ch. 34 (Brodeur 1916); not verbatim."
+        }
+      ]
+    },
+    {
+      "id": "norse-bifrost-gjallarhorn",
+      "title": {
+        "en": "Bifrost and Gjallarhorn: The Sky-Bridge and Its Watchman",
+        "zh": "彩虹橋與加拉德號角：天空之橋及其守望者"
+      },
+      "tradition": "norse",
+      "category": "myth-religion",
+      "region": {
+        "en": "Bifrost, the bridge between worlds (symbolic pin at Pingvellir, Iceland)",
+        "zh": "畢弗羅斯特——連接諸界的橋（象徵性定位於冰島辛格韋德利）"
+      },
+      "lat": 64.26,
+      "lon": -21.13,
+      "period": "Gylfaginning c. 1220-1230; Grimnismal st. 29; principal MSS Codex Regius GKS 2365 4to, GKS 2367 4to",
+      "source": {
+        "archive": "sacred-texts.com (Bellows 1923) / Project Gutenberg (Brodeur 1916)",
+        "work": "Snorri, Gylfaginning ch. 27; Grimnismal st. 29; critical ed. Faulkes (1987)",
+        "url": "https://www.sacred-texts.com/neu/pre/"
+      },
+      "license": "Public domain (Brodeur 1916; Bellows 1923); passages below are labeled paraphrases",
+      "summary": {
+        "en": "The gods built a bridge from Asgard to the world below and called it Bifrost - men call it the rainbow. It is made of three materials with three colors, and is stronger than any work of craft; yet it will break when the sons of Muspell ride across it at the world's end, and the gods' horses must wade instead. At the bridge's edge in Himinbjorg stands Heimdall, the white god with gold teeth, hearing the grass grow and needing less sleep than a bird; he keeps the horn Gjallarhorn, whose blast wakes all worlds. The record is an aition of the rainbow and a cosmological statement: every connection between worlds is monitored, engineered, and scheduled to fail.",
+        "zh": "諸神自阿斯加德築橋通往下界，名之為畢弗羅斯特——世人稱之為彩虹。此橋以三種材質、三種顏色造成，堅固逾於一切工藝；然而在世界終結、穆斯貝爾之子騎馬過橋之時，它終將斷裂，屆時諸神之馬只能涉水而行。橋頭的海姆比歐堡中，白神海姆達爾金齒炯炯，能聽見草的生長，所需的睡眠比鳥還少；他守護號角加拉德，其聲一響，萬界皆醒。此記錄既是彩虹的起源故事，也是宇宙論的宣言：諸界之間的每一道連接皆有人守望、有人經營，且注定在特定時刻崩潰。"
+      },
+      "language": "Old Norse / Old Icelandic",
+      "canonical_translation": "A. G. Brodeur, Snorri Sturluson: The Prose Edda, New York 1916 (public domain)",
+      "narrative": {
+        "en": "Gylfaginning treats the rainbow as municipal infrastructure. Asked how the gods travel between worlds, the three enthroned teachers answer: they built themselves a bridge from earth to heaven, called Bifrost - 'the trembling way' - and men who are not wise call it the rainbow. It is built of three materials, of three colors, and engineered with more craft than any other work; but, as in all Norse engineering, its failure is scheduled: the sons of Muspell will ride over it at Ragnarok and it will break, wherefore the gods must drive their horses across the rivers of heaven instead. A myth that explains the rainbow must also explain why it cannot be stood on by everyone and why it disappears - the answer given is war-machinery: the bridge holds until the cavalry of fire arrives.\n\nThe bridge is completed by its watchman. At the bridge's edge, in the sky-hall Himinbjorg, stands Heimdall, called the white god; he is great and holy, has nine mothers, all sisters, and gold teeth; and he needs less sleep than a bird, sees a hundred leagues by night as by day, and hears the grass grow on the earth and the wool on the sheep's backs. In his hand is the horn Gjallarhorn, whose sound is heard through all worlds; when Loki breaks loose and the enemies ride, Heimdall will stand up and blow with all his might and wake every god - the alarm system of the cosmos, wired to the first casualty of the last battle, for Heimdall and Loki will kill each other.\n\nGrimnismal confirms the geography in one stanza: the bridge burns with noise, and the holy water Thund thunders - the eddic version's image of the bridge as something that sears rather than shimmers. The cultural function is a theology of thresholds: between order and chaos stand engineered crossings, guarded by an immortal who never sleeps, whose alarm is a horn blown once in cosmic history. The rainbow that a farmer sees after rain is the same object as the strategic bridge of Asgard - the myth weds meteorology to strategy.\n\nIn the atlas's comparative frame, Bifrost answers the shaman's ladder, Jacob's stair, and the Chinvat bridge of Zoroastrianism: each tradition imagines a monitored crossing between worlds; only the Norse one has a demolition date printed on it.\n\nThe horn's single-blast doctrine completes the record: Gjallarhorn is blown once in cosmic history (the Ragnarok-alarm), and its sound 'is heard through all worlds' - the alarm-system of the cosmos wired to the watchman who dies blowing it. And the bridge's engineering-terms complete the record: three materials, three colors, stronger than any craft, with its failure scheduled to the riders of Muspell - the demolition-date printed on the crossing. The record thus anchors the monitored-crossing family: Bifrost answers Jacob's stair and the Chinvat bridge - each tradition's engineered passage between worlds; the Norse one alone carries its own destruction-date."
+      },
+      "functions": [
+        "Aition of the rainbow as a built bridge between worlds",
+        "Cosmology of thresholds: every crossing between order and chaos is guarded and engineered",
+        "Eschatological scheduling: the bridge's failure is fixed to the riders of Muspell",
+        "Watchman doctrine: Heimdall's senses and the one-time blast of Gjallarhorn"
+      ],
+      "variants": [
+        {
+          "name": "Gylfaginning ch. 27 (Prose Edda)",
+          "text_tradition": "Codex Regius GKS 2367 4to",
+          "summary": "Snorri's version: three materials, the rainbow's common name, the breaking at Ragnarok, Heimdall's nine mothers, senses and horn.",
+          "cross_ref": "norse-bifrost-gjallarhorn"
+        },
+        {
+          "name": "Grimnismal st. 29 (Poetic Edda)",
+          "text_tradition": "Codex Regius GKS 2365 4to",
+          "summary": "The eddic kernel: 'Bifrost burns with noise' - the bridge as burning causeway over the thundering holy water Thund.",
+          "cross_ref": "norse-yggdrasil-nine-worlds"
+        },
+        {
+          "name": "Zoroastrian parallel: the Chinvat bridge",
+          "text_tradition": "Vendidad 19; Bundahishn",
+          "summary": "The judged soul crosses the Bridge of the Requiter, which widens for the righteous and narrows to a blade-edge for the wicked - the comparative analog of a monitored crossing with a moral failure mode.",
+          "cross_ref": "zoroastrian-chinvat"
+        }
+      ],
+      "primary_sources": [
+        {
+          "work": "Snorri Sturluson, Edda: Gylfaginning",
+          "citation": "Ch. 27 (Bifrost; Heimdall; Gjallarhorn). Critical ed. Faulkes 1987; English: Brodeur 1916.",
+          "language": "Old Norse / Old Icelandic"
+        },
+        {
+          "work": "Grimnismal",
+          "citation": "Stanza 29. Principal MS Codex Regius GKS 2365 4to. Public-domain English: Bellows 1923.",
+          "language": "Old Norse / Old Icelandic"
+        }
+      ],
+      "secondary_sources": [
+        {
+          "work": "Rudolf Simek, Dictionary of Northern Mythology",
+          "citation": "Simek 1993, Cambridge: D. S. Brewer - entries 'Bifrost', 'Heimdall', 'Gjallarhorn', 'Himinbjorg'."
+        },
+        {
+          "work": "Anthony Faulkes, Edda (ed. and commentary)",
+          "citation": "Faulkes 1987, London: Everyman - commentary on the bridge chapter and its sources."
+        }
+      ],
+      "source_urls": [
+        {
+          "url": "https://www.sacred-texts.com/neu/pre/pre05.htm",
+          "description": "Gylfaginning chs. 26-27, Brodeur translation (public domain)",
+          "accessed": "2026-11-01"
+        },
+        {
+          "url": "https://www.sacred-texts.com/neu/poe/poe10.htm",
+          "description": "Grimnismal, Bellows translation (public domain)",
+          "accessed": "2026-11-01"
+        }
+      ],
+      "sensitivity_flag": "none",
+      "provenance": {
+        "record_status": "complete",
+        "compiled": "2026-11-01",
+        "compiled_by": "DHG508 fieldwork compilation",
+        "review_status": "draft - pending human review"
+      },
+      "motifs": [
+        "sacred-place",
+        "prophetic-vision"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Historical literary corpus; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The gods built a bridge from earth to heaven, called Bifrost; unwise men call it the rainbow. It is of three materials and three colors, made with more craft than any other work; yet it will break when the sons of Muspell ride over it, and their horses must swim the great rivers instead.",
+          "note": "Paraphrase of Snorri, Gylfaginning ch. 27 (Brodeur 1916); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "At the bridge's edge stands Heimdall, the white god, great and holy; nine mothers bore him, all sisters, and his teeth are of gold. He needs less sleep than a bird; he sees a hundred leagues by night as well as by day, and hears the grass grow on the earth and the wool on the sheep's back. He has the horn called Gjallarhorn, whose blast is heard through all worlds.",
+          "note": "Paraphrase of Snorri, Gylfaginning ch. 27 (Brodeur 1916); not verbatim."
+        }
+      ]
+    },
+    {
+      "id": "norse-svalinn-shield",
+      "title": {
+        "en": "Svalinn Before the Sun: The Shield That Keeps the Earth from Burning",
+        "zh": "日前的斯瓦林之盾：護大地不被焚燒者"
+      },
+      "tradition": "norse",
+      "category": "myth-religion",
+      "region": {
+        "en": "The course of the sun (symbolic pin at Pingvellir, Iceland)",
+        "zh": "太陽的軌道（象徵性定位於冰島辛格韋德利）"
+      },
+      "lat": 64.26,
+      "lon": -21.13,
+      "period": "Grimnismal st. 39; Skaldskaparmal c. 1220-1230; principal MSS Codex Regius GKS 2365 4to, GKS 2367 4to",
+      "source": {
+        "archive": "sacred-texts.com (Bellows 1923) / Project Gutenberg (Brodeur 1916)",
+        "work": "Grimnismal st. 39; Snorri, Skaldskaparmal (kennings for the sun); critical ed. Dronke (1997)",
+        "url": "https://www.sacred-texts.com/neu/poe/"
+      },
+      "license": "Public domain (Bellows 1923; Brodeur 1916); passages below are labeled paraphrases",
+      "summary": {
+        "en": "A shield called Svalinn ('the cooling one') stands before the sun in its course; if it were loosed from before the sun, the poem says, sea and land would burn. The myth is a one-line aition for why sunlight warms but does not incinerate: the sun's raw fire is screened by an engineered shield, one more piece of divine infrastructure installed at creation - kin to the tongs and sparks doctrine of the sun's own making.",
+        "zh": "一面名為斯瓦林（「冷卻者」）的盾立於太陽之前，隨其運行；詩雲：若此盾自日前鬆脫，則海與大地皆將焚燬。此神話僅一句而為「陽光何以溫而不灼」作解：太陽的原始烈火經一面工程之盾所遮蔽——這是創世之際安裝的另一件神聖基建，與太陽本身以火鉗夾取火花而造的學說同源。"
+      },
+      "language": "Old Norse / Old Icelandic",
+      "canonical_translation": "Henry A. Bellows, The Poetic Edda, New York 1923 (public domain)",
+      "narrative": {
+        "en": "Grimnismal, Odin's disguised litany of the cosmos delivered while he sits between two fires, includes among its geographical catalogues a single cosmological safety-system: Svalinn is the name of the shield that stands before the sun; if it were loosed from before the sun, sea and land would burn. Two lines only, but they install a whole doctrine: the sun that crosses the sky is not raw fire but regulated fire - a hearth-flame behind a fire-screen, kept from consuming the world by a piece of hardware set in its path at the making of the world.\n\nThe doctrine completes the sun's creation story told elsewhere: in Gylfaginning the gods took sparks flying from Muspell's fire-world and set them in the sky, above and below, to light heaven and earth, and gave places to all - fire was not domesticated by softening it (as in Greek titan-genealogies of Helios) but by screening it. Svalinn is the mythic answer to a physical question any northern farmer could ask - why does the summer sun not burn the field? - and to an eschatological one: at Ragnarok the shielding order fails, the wolf swallows the old sun, and a daughter of the sun, no less bright, rides on her mother's path when the world is green again; the new age gets a sun whose shield-management is presumably restored.\n\nSnorri uses the shield as a kenning-source: the sun is 'the shield-Svalinn's burden' or 'Svalinn's fire' in skaldic diction - which is how we know the myth was current among court poets and not merely a marginal gloss. The record is a small but instructive entry in the atlas of creation: an aition of moderation, teaching that the world survives because its most dangerous element is kept at a fixed, engineered distance - the Norse mind's climate-control doctrine.\n\nThe renewal-doctrine completes the record: at Ragnarok the wolf swallows the old sun, and a daughter of the sun - 'no less bright' - rides her mother's path when the world is green again; the shield-regime is restored for the new age, so the aition's safety-system has a scheduled successor. And the kenning-currency completes the record: the skalds' sun-formulas ('Svalinn's burden', 'Svalinn's fire') evidence the shield-doctrine's court-currency, the myth documented in verse-practice. The record thus anchors the cosmic-engineering family: creation as installation of infrastructure - a shield for the sun, a wall for Midgard, a bridge for the worlds - the north's doctrine that the cosmos persists because its dangers are engineered."
+      },
+      "functions": [
+        "Aition of why sunlight warms but does not incinerate the world",
+        "Doctrine of cosmic engineering: creation as installation of safety infrastructure",
+        "Eschatological inversion: at Ragnarok the shielding order fails",
+        "Kenning-source: the sun in skaldic diction is Svalinn's burden"
+      ],
+      "variants": [
+        {
+          "name": "Grimnismal st. 39 (Poetic Edda)",
+          "text_tradition": "Codex Regius GKS 2365 4to",
+          "summary": "The two-line doctrine: Svalinn the shield before the sun; were it loosed, sea and land would burn.",
+          "cross_ref": "norse-svalinn-shield"
+        },
+        {
+          "name": "Skaldskaparmal kenning apparatus (Prose Edda)",
+          "text_tradition": "Codex Regius GKS 2367 4to",
+          "summary": "Snorri lists sun-kennings built on Svalinn, evidencing the myth's currency in court poetry.",
+          "cross_ref": "norse-mundilfari-sun-moon"
+        },
+        {
+          "name": "Greek parallel: Phaethon and the unguided chariot",
+          "text_tradition": "Ovid, Metamorphoses 2",
+          "summary": "Where the Greeks narrate the catastrophe of the sun off-course, the Norse installs a permanent screen - same physics anxiety, opposite narrative strategy.",
+          "cross_ref": "greek-ovid-phaethon"
+        }
+      ],
+      "primary_sources": [
+        {
+          "work": "Grimnismal",
+          "citation": "Stanza 39. Principal MS Codex Regius GKS 2365 4to. Public-domain English: Bellows 1923.",
+          "language": "Old Norse / Old Icelandic"
+        },
+        {
+          "work": "Snorri Sturluson, Edda: Skaldskaparmal",
+          "citation": "Kenning-lists for the sun citing Svalinn. Critical ed. Faulkes 1987; English: Brodeur 1916.",
+          "language": "Old Norse / Old Icelandic"
+        }
+      ],
+      "secondary_sources": [
+        {
+          "work": "Ursula Dronke, The Poetic Edda, vol. II",
+          "citation": "Dronke 1997, Oxford - commentary on Grimnismal's cosmological stanzas."
+        },
+        {
+          "work": "Rudolf Simek, Dictionary of Northern Mythology",
+          "citation": "Simek 1993, Cambridge: D. S. Brewer - entry 'Svalinn'."
+        }
+      ],
+      "source_urls": [
+        {
+          "url": "https://www.sacred-texts.com/neu/poe/poe10.htm",
+          "description": "Grimnismal st. 39, Bellows translation (public domain)",
+          "accessed": "2026-11-01"
+        }
+      ],
+      "sensitivity_flag": "none",
+      "provenance": {
+        "record_status": "complete",
+        "compiled": "2026-11-01",
+        "compiled_by": "DHG508 fieldwork compilation",
+        "review_status": "draft - pending human review"
+      },
+      "motifs": [
+        "creation-chaos"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Historical literary corpus; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Svalinn is the name of the shield that stands before the sun; if it were loosed from before the sun, sea and land would burn. The gods took the sparks that flew from Muspell's fire-world and set them in the sky, above and below, to light heaven and earth, and gave places to all; the shield keeps the sun's raw fire from the earth, and the poets call the sun Svalinn's burden.",
+          "note": "Paraphrase of Grimnismal st. 39 (Bellows 1923); not verbatim. / Paraphrase of Snorri, Gylfaginning ch. 8 and Skaldskaparmal kenning-lists (Brodeur 1916); not verbatim."
+        }
+      ]
+    },
+    {
+      "id": "norse-mimir-well-eye",
+      "title": {
+        "en": "Mimir's Well: Odin's Pawned Eye and the Head That Counsels",
+        "zh": "密米爾之泉：奧丁典當的獨眼與能進言的首級"
+      },
+      "tradition": "norse",
+      "category": "myth-religion",
+      "region": {
+        "en": "Mimir's well beneath Yggdrasil's root (symbolic pin at Pingvellir, Iceland)",
+        "zh": "尤克特拉希爾根下的密米爾之泉（象徵性定位於冰島辛格韋德利）"
+      },
+      "lat": 64.26,
+      "lon": -21.13,
+      "period": "Voluspa st. 27-29 c. 900-1000 CE; Ynglinga saga c. 1225; Gylfaginning c. 1220-1230; principal MSS Codex Regius GKS 2365 4to, AM 41 4to, GKS 2367 4to",
+      "source": {
+        "archive": "sacred-texts.com (Bellows 1923; Laing 1844) / Project Gutenberg (Brodeur 1916)",
+        "work": "Voluspa st. 27-29; Snorri, Ynglinga saga ch. 4; Gylfaginning ch. 15; critical ed. Dronke (1997)",
+        "url": "https://www.sacred-texts.com/neu/poe/"
+      },
+      "license": "Public domain (Bellows 1923; Laing 1844; Brodeur 1916); passages below are labeled paraphrases",
+      "summary": {
+        "en": "Beneath Yggdrasil's second root lies the well of Mimir, in which wisdom and understanding are hidden. Odin came asking to drink and gave an eye for the draught - it still lies at the bottom of the well. Later, when the Aesir sent Mimir as a hostage to the Vanir and the Vanir beheaded him, Odin embalmed the head with herbs and sang spells until it spoke: from Mimir's head he takes true counsel. The record binds the Norse wisdom economy together: sight pawned for drink, counsel preserved in a jar, and the well itself the place where Odin will whisper his last promise to Baldr.",
+        "zh": "尤克特拉希爾第二條根下有密米爾之泉，智慧與聰明藏於其中。奧丁前來求飲，以一隻眼睛換得泉水——那眼睛至今仍在泉底。其後阿薩神族以密米爾為人質送予華納族，華納族斬其首級歸還；奧丁以草藥封存首級，誦咒直至其能言語：他自此從密米爾之首取得真正的謀議。此記錄將北歐的智慧經濟緊密相連：以目力換泉飲，以罐罌藏謀主，而泉水本身即是奧丁最後向巴爾德低語誓言之處。"
+      },
+      "language": "Old Norse / Old Icelandic",
+      "canonical_translation": "Henry A. Bellows, The Poetic Edda, New York 1923 (public domain); Ynglinga saga via Laing 1844",
+      "narrative": {
+        "en": "Voluspa's prophecy turns, mid-vision, to a transaction: the sibyl knows well where Odin pledged his eye - in the well of Mimir, famed and full of mead, where Mimir's pledge of water each morning is drawn from the pledge-pledging father of the host. Do you understand yet, or what? The stanza is oracular and cryptic, but its content is fixed by the prose: the well lies under the world-tree's root that turns toward the frost-giants, and in it wisdom and understanding are hidden; Odin came asking for a drink and paid with one eye, leaving it at the bottom of the spring.\n\nThe second half of the doctrine comes from the hostage-war. When the Aesir-Vanir treaty sent Mimir east as a hostage alongside the empty-spoken Hoenir, the Vanir discovered the fraud, beheaded Mimir and returned the head to Odin. Snorri's Ynglinga saga gives the sequel: Odin took the head, embalmed it with herbs so it would not rot, sang charms over it and gave it such power that it spoke with him and told him hidden matters. The head of the murdered counsellor became the god's daily adviser - and in Voluspa it is this head that speaks the prophecy's refrain, for the sibyl hears Odin converse with Mimir's head before the pyre of Baldr is raised: the poem's sequence of consult-the-head moments binds the well-myth to the eschatology.\n\nThe cultural logic is a wisdom-economy with a price list. Norse myth never gives knowledge free: the runes cost nine nights on a tree, the mead costs a summer's labor and a seduction, and Mimir's draught costs an eye. The eye at the bottom of the well is the permanent receipt of that transaction - and the well becomes a place of vision by loss: what Odin gave up is what the water shows. Snorri assigns the well to the root that lies over the frost-giants' world, making wisdom's price a border-crossing into the enemy's territory. And the embalmed head domesticates a darker fact: counsel in this society was a hostage's body, and its afterlife is technological - herbs, spells, speech.\n\nGylfaginning adds one last use of the site: at Baldr's death Odin rides to the well and whispers into the ear of the dead man - the sole counsel Mimir's spring ever gives that the poem does not record, the secret every myth-cycle dangles and withholds. The motif of the pawned eye links the record to Odin's other wisdom-thefts and to the atlas's broader wisdom-sacrifice family, from Odin's hanging to the Greek Cyclopean trade of sight."
+      },
+      "functions": [
+        "Doctrine of priced wisdom: every knowledge has a body-cost, itemized in myth",
+        "The pawned eye as permanent receipt; the well as a place of vision by loss",
+        "Treaty politics: counsel as a hostage's embalmed, ensorcelled head",
+        "Eschatological hinge: Odin's whisper to Baldr at the well, the myth's withheld secret"
+      ],
+      "variants": [
+        {
+          "name": "Voluspa st. 27-29 (Poetic Edda)",
+          "text_tradition": "Codex Regius GKS 2365 4to",
+          "summary": "The sibyl's cryptic version: Odin's pledged eye in Mimir's well; Mimir's head speaks before Baldr's pyre - the well and the head appear as prophecy-props.",
+          "cross_ref": "norse-mimir-well-eye"
+        },
+        {
+          "name": "Ynglinga saga ch. 4 (Prose)",
+          "text_tradition": "AM 41 4to (Kringla)",
+          "summary": "Snorri's euhemeristic retelling in the migration frame: the beheading by the cheated Vanir, the embalming with herbs, the singing of spells until the head speaks.",
+          "cross_ref": "norse-aesir-vanir-war"
+        },
+        {
+          "name": "Gylfaginning ch. 15 and ch. 49 (Prose Edda)",
+          "text_tradition": "Codex Regius GKS 2367 4to",
+          "summary": "The well's cosmography (under the root toward the frost-giants) and the final scene: Odin's whisper to dead Baldr by the well.",
+          "cross_ref": "norse-baldrs-dream"
+        }
+      ],
+      "primary_sources": [
+        {
+          "work": "Voluspa",
+          "citation": "Stanzas 27-29. Principal MS Codex Regius GKS 2365 4to. Critical edition: Dronke 1997; public-domain English: Bellows 1923.",
+          "language": "Old Norse / Old Icelandic"
+        },
+        {
+          "work": "Snorri Sturluson, Ynglinga saga (Heimskringla)",
+          "citation": "Ch. 4 (Mimir's beheading; the embalmed head). English: Laing 1844 (public domain).",
+          "language": "Old Norse / Old Icelandic"
+        },
+        {
+          "work": "Snorri Sturluson, Edda: Gylfaginning",
+          "citation": "Ch. 15 (the well under the root) and ch. 49 (Odin's whisper to Baldr). Critical ed. Faulkes 1987; English: Brodeur 1916.",
+          "language": "Old Norse / Old Icelandic"
+        }
+      ],
+      "secondary_sources": [
+        {
+          "work": "Ursula Dronke, The Poetic Edda, vol. II",
+          "citation": "Dronke 1997, Oxford - commentary on the Mimir stanzas and their legal vocabulary of pledges."
+        },
+        {
+          "work": "Margaret Clunies Ross, Prolonged Echoes, vol. 1",
+          "citation": "Clunies Ross 1994, Odense - Odin's wisdom-purchases as the paradigm of the knowledge economy."
+        },
+        {
+          "work": "Rudolf Simek, Dictionary of Northern Mythology",
+          "citation": "Simek 1993, Cambridge: D. S. Brewer - entries 'Mimir', 'Mimisbrunnr'."
+        }
+      ],
+      "source_urls": [
+        {
+          "url": "https://www.sacred-texts.com/neu/poe/poe03.htm",
+          "description": "Voluspa st. 27-29, Bellows translation (public domain)",
+          "accessed": "2026-11-01"
+        },
+        {
+          "url": "https://www.sacred-texts.com/neu/heim/00-yngl00.htm",
+          "description": "Ynglinga saga ch. 4, Laing translation (public domain)",
+          "accessed": "2026-11-01"
+        }
+      ],
+      "sensitivity_flag": "none",
+      "provenance": {
+        "record_status": "complete",
+        "compiled": "2026-11-01",
+        "compiled_by": "DHG508 fieldwork compilation",
+        "review_status": "draft - pending human review"
+      },
+      "motifs": [
+        "wisdom-sacrifice",
+        "sacred-place",
+        "oracle-divination",
+        "sacred-waters",
+        "world-tree"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Historical literary corpus; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Well do the sibyl know where Odin pledged his eye: in the well of Mimir, famed and full of mead, pledged from the water of the pledge-father; the All-father gave one of his eyes for the draught, and it lies at the bottom of the spring.",
+          "note": "Paraphrase of Voluspa st. 28 (Bellows 1923); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "When the Vanir found they had been cheated in the hostage exchange, they took Mimir and beheaded him, and sent the head to the Aesir. Odin took the head and embalmed it with herbs that it should not rot, and sang charms over it, and gave it such power that it spoke with him and told him many hidden things.",
+          "note": "Paraphrase of Snorri, Ynglinga saga ch. 4 (Laing 1844); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "Then Odin rode to Mimir's well and asked a drink of it, and gave one eye for the draught; and in that well wisdom and understanding are hidden. And after Baldr's death he rode thence to the pyre, having first whispered into the ear of the dead man - what he whispered no tale tells.",
+          "note": "Paraphrase of Snorri, Gylfaginning chs. 15, 49 (Brodeur 1916); not verbatim."
+        }
+      ]
+    },
+    {
+      "id": "norse-gullveig-seidr",
+      "title": {
+        "en": "Gullveig and Heid: Thrice Burned, Thrice Born - the Origin of Seid Magic",
+        "zh": "古爾維格與海德：三焚三生——巫術賽德的起源"
+      },
+      "tradition": "norse",
+      "category": "myth-religion",
+      "region": {
+        "en": "Odin's hall, Asgard (symbolic pin at Gamla Uppsala, Sweden)",
+        "zh": "阿斯加德奧丁大廳（象徵性定位於瑞典舊烏普薩拉）"
+      },
+      "lat": 59.9,
+      "lon": 17.64,
+      "period": "Voluspa st. 21-22, c. 900-1000 CE; principal MS Codex Regius GKS 2365 4to",
+      "source": {
+        "archive": "sacred-texts.com (Bellows 1923)",
+        "work": "Voluspa st. 21-22; critical ed. Ursula Dronke (1997)",
+        "url": "https://www.sacred-texts.com/neu/poe/"
+      },
+      "license": "Public domain (Bellows 1923); passages below are labeled paraphrases",
+      "summary": {
+        "en": "The sibyl remembers the first war in the world, and its opening is not a battle but a trial: a woman named Gullveig - Gold-drink - was stabbed with spears and burned in Odin's hall, and three times burned, three times reborn, again and again she lives. Wherever she went after, she was called Heid, a seer in every house, teaching witchcraft; and always she delighted in evil. The six lines are the Norse origin of sorcery and prophecy, and possibly the mythic memory of a cult of gold and magic that the god-order could burn but not kill.",
+        "zh": "女先知憶起世間第一場戰爭，其開端並非戰陣，而是一場審判：名為古爾維格（「金之飲」）的女子在奧丁大廳被長矛穿刺、投入火中，三度焚燒，三度重生，一次又一次地活了下來。此後她所到之處被稱作海德——家家戶戶中的女先知，傳授巫術；而她永遠樂於邪惡。這六行詩是北歐巫術與預言的起源，或許也是對一個黃金與魔法崇拜的神話記憶——神之秩序能焚其身，卻不能除其名。"
+      },
+      "language": "Old Norse / Old Icelandic",
+      "canonical_translation": "Henry A. Bellows, The Poetic Edda, New York 1923 (public domain)",
+      "narrative": {
+        "en": "Voluspa st. 21-22 is the most disputed six lines in Norse mythography. The sibyl, cataloguing the first war, begins with a woman: Gullveig they pierced with spears in the hall of the High One and burned her; thrice burned, thrice reborn, ever and again she lives. And then they called her Heid wherever she came to houses, a witch skilled in prophecy: she understood witchcraft, played with minds, was always delighted with evil.\n\nFour doctrines are packed in. First, the name: Gullveig means 'gold-drink' or 'gold-drunkenness', and editors have read her as a personification of gold's corrupting circulation - the very metal whose arrival by the three giant-maidens ends the golden age, and whose curse (Andvari's ring) will later wreck the Niflung house. Second, the punishment: she is burned in Odin's own hall, an execution of the kind Norse law reserved for witches and outlaws - so the first war opens with the god-order attempting a capital sentence on a being it cannot kill. Third, the survival: three deaths, three births, the pattern of the undying - she comes back each time more potent, which makes her the mythic prototype of the sorceress whom fire cannot purge. Fourth, the transformation: under her new name Heid ('shining one', also 'heathen-teacher' in some readings) she becomes the distributor of seid, the magic of prophecy that Freyja will later teach the Aesir and that the sagas show performed by staff-carrying volvas.\n\nWho Gullveig is remains argued: Freyja under another name (the goddess of gold and seid, tortured by the Aesir - which would make the Van-war an Aesir atrocity), a giantess of the gold, or an independent personification. What the record establishes for the database is the causal chain the poem itself draws: the burning - the survival - the teaching of magic - the war. In the Norse imagination, the practice of seid is born from a judicial atrocity that failed, and the profession of the volva descends from a woman the gods murdered and could not keep dead. The myth thereby encodes a social memory: divination in Scandinavia was women's work, performed by traveling practitioners at farmsteads (as Eirik's saga's Greenland seance shows), and the myth gives that profession a founding martyr.\n\nSnorri, uncharacteristically, omits Gullveig entirely - his systematization has no room for a witch the gods burned and lost. The sibyl's six lines survive only in the eddic tradition, which is why this record carries no Prose Edda apparatus: some myths are preserved precisely by staying outside the learned prose apparatus."
+      },
+      "functions": [
+        "Origin myth of seid sorcery and the profession of the traveling volva",
+        "Martyr-memory of a failed judicial burning: the gods kill a witch three times without success",
+        "Personification doctrine: gold's corrupting circulation as a woman who cannot die",
+        "Causal chain: burning, survival, teaching, war - the sibyl's own mythic logic"
+      ],
+      "variants": [
+        {
+          "name": "Voluspa st. 21-22 (Poetic Edda)",
+          "text_tradition": "Codex Regius GKS 2365 4to",
+          "summary": "The sole source: six lines naming Gullveig's triple burning and rebirth as Heid the witch; no other tradition names her.",
+          "cross_ref": "norse-gullveig-seidr"
+        },
+        {
+          "name": "Scholarly identification with Freyja",
+          "text_tradition": "Modern editorial tradition (Dronke; Steinsland)",
+          "summary": "Some editors read Gullveig as Freyja under a name of gold, tortured by the Aesir at the war's outbreak - making the Van-war an atrocity-revenge narrative.",
+          "cross_ref": "norse-aesir-vanir-war"
+        },
+        {
+          "name": "Ritual parallel: the Greenland volva's seance",
+          "text_tradition": "Eiriks saga rauda (Hauksbok)",
+          "summary": "The historical practice the myth legitimates: a staff-bearing seeress performing prophecy at a farmstead, fed and sung into her trance - seid as described a century before conversion.",
+          "cross_ref": "norse-volva-seance"
+        }
+      ],
+      "primary_sources": [
+        {
+          "work": "Voluspa",
+          "citation": "Stanzas 21-22. Principal MS Codex Regius GKS 2365 4to. Critical edition: Dronke 1997; public-domain English: Bellows 1923.",
+          "language": "Old Norse / Old Icelandic"
+        }
+      ],
+      "secondary_sources": [
+        {
+          "work": "Ursula Dronke, The Poetic Edda, vol. II",
+          "citation": "Dronke 1997, Oxford - full commentary on the Gullveig stanzas and the name-dispute."
+        },
+        {
+          "work": "Gro Steinsland, Norron religion",
+          "citation": "Steinsland 2005, Oslo: Pax - the Freyja-identification and the sociology of seid."
+        },
+        {
+          "work": "Rudolf Simek, Dictionary of Northern Mythology",
+          "citation": "Simek 1993, Cambridge: D. S. Brewer - entries 'Gullveig', 'Heidr', 'seidr'."
+        }
+      ],
+      "source_urls": [
+        {
+          "url": "https://www.sacred-texts.com/neu/poe/poe03.htm",
+          "description": "Voluspa st. 21-22, Bellows translation (public domain)",
+          "accessed": "2026-11-01"
+        }
+      ],
+      "sensitivity_flag": "none",
+      "provenance": {
+        "record_status": "complete",
+        "compiled": "2026-11-01",
+        "compiled_by": "DHG508 fieldwork compilation",
+        "review_status": "draft - pending human review"
+      },
+      "motifs": [
+        "resurrection",
+        "oracle-divination",
+        "sacred-kingship",
+        "doom-foretold",
+        "threefold"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Historical literary corpus; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "She remembers the first war in the world, when Gullveig they stabbed with spears and burned in the hall of the High One: thrice they burned her, thrice she was reborn, again and again she lives. Then Heid they called her, wherever she came to houses, the witch skilled in prophecy; she understood witchcraft, played with minds, and always she delighted in evil.",
+          "note": "Paraphrase of Voluspa st. 21 (Bellows 1923); not verbatim. / Paraphrase of Voluspa st. 22 (Bellows 1923); not verbatim."
+        }
+      ]
+    }
+  ]
+}

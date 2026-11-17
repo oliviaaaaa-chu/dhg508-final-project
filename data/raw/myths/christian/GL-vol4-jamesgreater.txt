@@ -1,0 +1,555 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Internet History Sourcebooks: Medieval Sourcebook</title>
+
+
+<style type="text/css">
+<!--
+/* ==================================================== */
+hr {  border:0;  border-top: 1px solid #999999;  height: 0;  background: #DDDDDD; }
+/* ==================================================== */
+body {					margin-left: 0px; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; 
+						}
+/* ==================================================== */
+#logo-short{float:left;}
+
+
+#header_new{max-width:1200px;margin:auto;}
+#header_new_left{width:40%;float:left;padding:1em 0 .5em 1em;}
+#header_new_right{width:55%;float:right;padding:.5em 1em .5em 0;}
+.header_rule{ border:0;  border-top: 9px solid #900028;  height: 0;  background: #900028;width:100%;margin-bottom: 0; }
+#tbl_topnav, #tbl_topnav a {width:100%;margin:0;color:#ffffff;}
+.clear{clear:both;float:none;}
+
+#tbl_hd1{width:100%;}
+#tbl_hd2{min-width:770px;margin:1em auto 1em auto;}
+#tbl_tbl{max-width:1200px;}
+#tbl_toplinks{margin:0;background-color:#a09d8b;}
+#top_maroon_line{background-color:#900028;height:1em;}
+
+
+#tbl_leftnav{min-width:100px;width:20%;border-right:1px solid #c9c9c9;}
+#tbl_leftnav_inner{width:100%;}
+#tbl_rightnav{width:80%;}
+
+p.H_Topnav {			margin: 12px 0px }
+.H_Topnav a, .H_Topnav a:link,.H_Topnav a:visited,.H_Topnav a:active{color:#900028;}
+.H_Topnav {				font-family:Trebuchet, Tahoma, Arial, Helvetica, sans-serif; font-size:11px;  line-height: 14px;
+						font-weight: lighter; letter-spacing: .5px; font-variant: normal; text-transform: normal; text-decoration: none; }
+.H_Topnav a {			font-family:Trebuchet, Tahoma, Arial, Helvetica, sans-serif; font-size:11px; line-height: 14px;
+						font-weight: lighter; letter-spacing: .5px; font-variant: normal; text-transform: normal; text-decoration: underline; }
+.H_Topnav a:link {		font-family:Trebuchet, Tahoma, Arial, Helvetica, sans-serif; font-size:11px;  line-height: 14px;
+						font-weight: lighter; letter-spacing: .5px; font-variant: normal; text-transform: normal; text-decoration: underline; }
+.H_Topnav a:visited {	font-family:Trebuchet, Tahoma, Arial, Helvetica, sans-serif; font-size:11px;  line-height: 14px;
+						font-weight: lighter; letter-spacing: .5px; font-variant: normal; text-transform: normal; text-decoration: underline; }
+.H_Topnav a:hover {		font-family:Trebuchet, Tahoma, Arial, Helvetica, sans-serif; font-size:11px; line-height: 14px;
+						font-weight: lighter; letter-spacing: .5px; font-variant: normal; text-transform: normal; text-decoration: none; }
+/* ==================================================== */
+p.H_body_text {				margin: 12px 0px }
+.H_body_text {				font-family:Trebuchet, Tahoma, Arial, Helvetica, sans-serif; font-size:12px; line-height: 16px;
+							color:#000000; font-weight: normal; font-variant: normal; text-decoration: none; }
+.H_body_text a {			font-family:Trebuchet, Tahoma, Arial, Helvetica, sans-serif; font-size:12px; line-height: 16px;
+							color: #900028; font-weight: normal; font-variant: normal; text-decoration: none; }
+.H_body_text a:link {		font-family:Trebuchet, Tahoma, Arial, Helvetica, sans-serif; font-size:12px; line-height: 16px;
+							color: #900028; font-weight: normal; font-variant: normal; text-decoration: none; }
+.H_body_text a:visited {	font-family:Trebuchet, Tahoma, Arial, Helvetica, sans-serif; font-size:12px; line-height: 16px;
+							color: #900028; font-weight: normal; font-variant: normal; text-decoration: none; }
+.H_body_text a:hover {		font-family:Trebuchet, Tahoma, Arial, Helvetica, sans-serif; font-size:12px; line-height: 16px;
+							color: #900028; font-weight: normal; font-variant: normal; text-decoration: underline; }
+/* ==================================================== */
+p.H_Title {				margin: 12px 0px }
+.H_Title {				font-family: 'OFL Sorts Mill Goudy TT', serif; font-size: 32px; font-style: normal; color:#900028; font-weight: 400; text-decoration: none;
+						text-transform: none; letter-spacing: 0em; word-spacing: 0em; line-height: 1.03em; }
+.H_Title a {			font-family: 'OFL Sorts Mill Goudy TT', serif; font-size: 32px; font-style: normal; color:#571C2C; font-weight: 400; text-decoration: none;
+						text-transform: none; letter-spacing: 0em; word-spacing: 0em; line-height: 1.03em; }
+.H_Title a:link {		font-family: 'OFL Sorts Mill Goudy TT', serif; font-size: 32px; font-style: normal; color:#571C2C; font-weight: 400; text-decoration: none;
+						text-transform: none; letter-spacing: 0em; word-spacing: 0em; line-height: 1.03em; }
+.H_Title a:visited {	font-family: 'OFL Sorts Mill Goudy TT', serif; font-size: 32px; font-style: normal; color:#571C2C; font-weight: 400; text-decoration: none;
+						text-transform: none; letter-spacing: 0em; word-spacing: 0em; line-height: 1.03em; }
+.H_Title a:hover {		font-family: 'OFL Sorts Mill Goudy TT', serif; font-size: 32px; font-style: normal; color:#900028; font-weight: 400; text-decoration: underline;
+						text-transform: none; letter-spacing: 0em; word-spacing: 0em; line-height: 1.03em; }
+/* ==================================================== */
+p.H_Subitle {			margin: 12px 0px }
+.H_Subitle {			font-family: Arial, Helvetica, sans-serif; font-size: 18px; font-style: normal; color:#363636; font-weight: bold; text-decoration: none;
+						text-transform: none; letter-spacing: .0em; word-spacing: 0em; line-height: 1.25em; }
+.H_Subitle a {			font-family: Arial, Helvetica, sans-serif; font-size: 18px; font-style: normal; color:#363636; font-weight: bold; text-decoration: none;
+						text-transform: none; letter-spacing: .0em; word-spacing: 0em; line-height: 1.25em; }
+.H_Subitle a:link {		font-family: Arial, Helvetica, sans-serif; font-size: 18px; font-style: normal; color:#363636; font-weight: bold; text-decoration: none;
+						text-transform: none; letter-spacing: .0em; word-spacing: 0em; line-height: 1.25em; }
+.H_Subitle a:visited {	font-family: Arial, Helvetica, sans-serif; font-size: 18px; font-style: normal; color:#363636; font-weight: bold; text-decoration: none;
+						text-transform: none; letter-spacing: .0em; word-spacing: 0em; line-height: 1.25em; }
+.H_Subitle a:hover {	font-family: Arial, Helvetica, sans-serif; font-size: 18px; font-style: normal; color:#900028; font-weight: bold; text-decoration: underline;
+						text-transform: none; letter-spacing: .0em; word-spacing: 0em; line-height: 1.25em; }
+.level1Links {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; font-style: normal; color: #000000; text-decoration: none; padding-left:15px;padding-bottom:3px;padding-top:3px; display:block}
+.level1Links:hover {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; font-style: normal; color: #ffffff; text-decoration: none; background-color:#900028}
+.level1Links:active {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; font-style: normal; color: #900028; text-decoration: none;}
+.level1LinksX:hover {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; font-style: normal; line-height: 1.2; color: #0000ff;}
+.level2Links {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; font-style: normal; line-height: 1.5; color: #FFFFFF;}
+.visualLink {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; font-weight: bold; font-style: normal; line-height: 1.8; color: #FFFFFF; text-decoration: none;}
+.visualLink:hover {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; font-weight: bold; font-style: normal; line-height: 1.8; color: #FEF544; text-decoration: none;}
+
+
+.navHeaderLink { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; font-weight: bold; line-height: 1.2; color: #000000; text-decoration: none;padding-left:15px;padding-bottom:3px;padding-top:3px; display:block}
+
+.navHeaderLink:hover {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; font-weight: bold; line-height: 1.2; color: #ffffff; hover: underline;background-color:#900028}
+
+.navHeaderLink:active {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; font-weight: bold; line-height: 1.2; color: #900028;}
+
+.navHeaderText {font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; font-weight: normal; line-height: 1.2; color: #900028;padding-left:15px;display:block}
+
+#consent_blackbar {  position: fixed;  bottom: 0;  width: 100%; z-index:200;}
+
+/* ==================================================== */
+
+-->
+</style>
+</head>
+<body>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-N23XC1HXST"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-N23XC1HXST');
+</script>
+<!--header start-->
+<div id="header_new">
+<div id="header_new_left">
+<a href="http://www.fordham.edu"><img src="http://www.fordham.edu/site/styles/img/logo-universal.png" alt="Fordham"></a>
+</div>
+<div id="header_new_right">
+<!--begin search box-->
+<div align="right" id="searchbox" style="padding-top:.5em;">
+<form method="get" action="https://search.fordham.edu/s/search.html">
+<input type="text" name="query">
+<input type="hidden" name="collection" value="fordham~sp-search">
+<input type="hidden" name="clive" value="fordham~ds-sourcebooks">
+<input type="submit" name="submit" value="Search">
+</form>
+</div>
+<!--end search box-->
+</div><!--end header_new_right-->
+</div><!--end header_new-->
+
+
+
+<div class="clear"></div>
+<hr class="header_rule">
+<!--header_end-->
+
+<table height="60" border="0" align="center" cellpadding="0" cellspacing="0" id="tbl_topnav">
+  <tr>
+    <td height="30" colspan="2" id="tbl_toplinks"><p align="center" class="H_Topnav"><a href="/Halsall/index.asp">Home</a> | <a href="/Halsall/ancient/asbook.asp">Ancient  History Sourcebook</a> | <a href="/Halsall/sbook.asp">Medieval Sourcebook</a> |&nbsp; <a href="/Halsall/mod/modsbook.asp">Modern History Sourcebook</a> | <a href="/Halsall/byzantium/index.asp">Byzantine  Studies Page<br />
+    </a> Other History Sourcebooks: <a href="/africa/africasbook.asp">African</a> | <a href="/Halsall/eastasia/eastasiasbook.asp">East Asian</a> | <a href="/Halsall/india/indiasbook.asp">Indian</a> | <a href="/Halsall/islam/islamsbook.asp">Islamic</a> |&nbsp;<a href="/Halsall/jewish/jewishsbook.asp">Jewish</a> |&nbsp; <a href="/Halsall/pwh/index.asp">Lesbian and Gay</a> | <a href="/Halsall/science/sciencesbook.asp">Science</a> | <a href="/Halsall/women/womensbook.asp">Women's</a> | <a href="/Halsall/global/globalsbook.asp">Global</a></p></td>
+  </tr>
+  </table>
+	
+  <table height="60" border="0" align="center" cellpadding="0" cellspacing="0" id="tbl_tbl">
+  <tr>
+    <td  valign="top"  id="tbl_leftnav">
+    <table  cellpadding="0" cellspacing="0" id="tbl_leftnav_inner">
+      <tr>
+        <td><p>
+            <!--START_SUBNAV_MENU-->
+            <br />
+			<a href="/Halsall/index.asp" class="navHeaderLink">IHSP</a></p>
+            <a href="/Halsall/sbook.asp" class="navHeaderLink">Medieval History</a></p>
+<hr />
+<p>
+<a class="level1Links" href="/Halsall/sbook1.asp">Selected Sources</a>
+<a class="level1Links" href="/Halsall/sbook2.asp">Full Text Sources</a>
+<a class="level1Links" href="/Halsall/sbook3.asp">Saints' Lives</a>
+<a class="level1Links" href="/Halsall/sbook-law.asp">Law Texts</a>
+<a class="level1Links" href="/Halsall/sbookmap.asp">Maps</a>
+<a class="level1Links" href="/Halsall/medfilms.asp">Medieval Films</a>
+<a class="level1Links" href="/Halsall/search.asp">Search</a>
+<a class="level1Links" href="/Halsall/help.asp">Help</a></p>
+<hr />
+<span class="navHeaderText">Selected Sources Sections</span>
+<a class="level1Links" href="/Halsall/sbook1a.asp">Studying History</a>
+<a class="level1Links" href="/Halsall/sbook1b.asp">End of Rome</a>
+<a class="level1Links" href="/Halsall/sbook1c.asp">Byzantium</a>
+<a class="level1Links" href="/Halsall/sbook1d.asp">Islam</a>
+<a class="level1Links" href="/Halsall/sbook1e.asp">Roman Church</a>
+<a class="level1Links" href="/Halsall/sbook1f.asp">Early Germans</a>
+<a class="level1Links" href="/Halsall/sbook1ff.asp">Anglo-Saxons</a>
+<a class="level1Links" href="/Halsall/sbook1g.asp">Celtic World</a>
+<a class="level1Links" href="/Halsall/sbook1h.asp">Carolingians</a>
+<a class="level1Links" href="/Halsall/sbook1i.asp">10 C Collapse</a>
+<a class="level1Links" href="/Halsall/sbook1j.asp">Economic Life</a>
+<a class="level1Links" href="/Halsall/sbook1k.asp">Crusades</a>
+<a class="level1Links" href="/Halsall/sbook1l.asp">Empire & Papacy</a>
+<a class="level1Links" href="/Halsall/sbook1m.asp">France</a>
+<a class="level1Links" href="/Halsall/sbook1n.asp">England</a>
+<a class="level1Links" href="/Halsall/sbook1o.asp">Celtic States</a>
+<a class="level1Links" href="/Halsall/sbook1oo.asp">Nordic Europe</a>
+<a class="level1Links" href="/Halsall/sbook1p.asp">Iberia</a>
+<a class="level1Links" href="/Halsall/sbook1q.asp">Italy</a>
+<a class="level1Links" href="/Halsall/sbook1qq.asp">Eastern Europe</a>
+<a class="level1Links" href="/Halsall/sbook1r.asp">Intellectual Life</a>
+<a class="level1Links" href="/Halsall/sbook1s.asp">Medieval Church</a>
+<a class="level1Links" href="/Halsall/sbook1t.asp">Jewish Life</a>
+<a class="level1Links" href="/Halsall/sbook1u.asp">Social History</a>
+<a class="level1Links" href="/Halsall/sbook1v.asp">Sex & Gender</a>
+<a class="level1Links" href="/Halsall/sbook1w.asp">States & Society</a>
+<a class="level1Links" href="/Halsall/sbook1x.asp">Renaissance</a>
+<a class="level1Links" href="/Halsall/sbook1y.asp">Reformation</a>
+<a class="level1Links" href="/Halsall/sbook1z.asp">Exploration</a>
+<hr />
+<a class="level1Links" href="/Halsall/thanks.asp">IHSP Credits</a>
+<br />
+</td>
+      </tr>
+    </table></td>
+        <td id="tbl_rightnav" valign="top">
+    <table border="0" align="center" cellpadding="12" cellspacing="0">
+      <tr>
+        <td>
+          <span class="H_Title">Medieval Sourcebook: <br />
+The Golden Legend: St. James the Greater          </span>
+          <hr />
+
+    <blockquote>
+      <p class="H_body_text">[Note: To make the text as useful as possible to readers, the Golden Legend is
+        available at this site in multiple forms: very large files for each of the volumes, and by
+        chapter.&nbsp; See the <a href="index.asp">Golden Legend Main Page/Index</a> for other
+        volumes or chapter length files.]</p>
+    </blockquote>
+
+  <p class="H_Subitle">Here beginneth the Life of S. James the More, and Apostle, and first of the
+    interpretation of his name. </p>
+  <p class="H_body_text">This James the apostle is said James the son of Zebedee, brother of S. John the
+    Evangelist and Boanerges, that is the son of thunder, and James the More. He was said
+    James, son of Zebedee, not only in flesh but in the exposition of the name, for Zebedee is
+    interpreted giving or given, and James gave himself to God by martyrdom of death, and he
+    is given to us of God for a special patron. He is said James, brother of John, not only by
+    flesh but by semblance of manners. For they both were of one love and of one study and of
+    one will. They were of one love for to avenge our Lord, for when the Samaritans would not
+    receive Jesu Christ, James and John said: If it please thee Lord let fire descend from
+    heaven and destroy them. They were of like study for to learn, for these two were they
+    that demanded of our Lord of the day of judgment, and of other things to come. And they
+    asked that one of them might sit at the right side of him and that other on his left side.
+    He was said the son of thunder, because of the sound of his predication, for he feared the
+    evil and excited the slothful, and by the highness of his preaching he did marvels in
+    converting them to the faith; whereof Bede saith of S. John, that he thundered so high,
+    that if he had thundered a little higher, all the world might not have comprised him. He
+    is said James the More, like as that other James is said James the Less. First by reason
+    of his calling, for he was first called of Jesu Christ, secondly by reason of familiarity,
+    for Jesu Christ was seen to have greater familiarity with him than with the Less James.
+    Like as it appeareth at the raising of the maid, and at his holy transfiguration. Thirdly,
+    by reason of his passion. For among all the apostles he was the first that suffered death,
+    and he may be said More because he was first called to be an apostle, so he was first
+    called to the glory perdurable. </p>
+  <p class="H_Subitle">Of S. James the More, and Apostle. </p>
+  <p class="H_body_text">James the apostle, son of Zebedee, preached after the ascension of our Lord in the
+    Jewry and Samaria, and after, he was sent into Spain for to sow there the word of Jesu
+    Christ. But when he was there he profited but little, for he had converted unto Christ's
+    law but nine disciples, of whom he left two there, for to preach the word of God, and took
+    the other seven with him and returned again into Judea. Master John Beleth saith that he
+    converted there but one man only, and when after he preached the word of God in Judea,
+    there was an enchanter named Hermogenes with the Pharisees, which sent Philetus his
+    disciple to S. James for to overcome him tofore all men, and to prove his preaching false.
+    But the apostle overcame him tofore all men reasonably, and did many miracles tofore him.
+    Philetus then returned to Hermogenes, and approved the doctrine of James to be true, and
+    recited to him his miracles, and said that he would be his disciple, and desired and
+    counselled Hermogenes in like wise to be his disciple. Then Hermogenes was wroth, and by
+    his craft and enchantments he made Philetus in such wise that he might not move, and said:
+    Now we shall see if thy James may save thee. Then Philetus sent his child to S. James and
+    let him have knowledge hereof. Then S. James sent to him his sudary or keverchief and
+    said: Say to him that our Lord redresseth them that be hurt, and unbindeth them that be
+    empeshed; and as soon as he said so, and touched the sudary, he was unbound and loosed
+    from all the enchanting of Hermogenes, and arose up and went joyfully to S. James. Then
+    Hermogenes was angry, and called many devils, and commanded them that they bring to him S.
+    James bound, and Philetus with him, for to avenge him on them, lest his disciples
+    afterwards address them against him. Then when the devils came towards S. James, they
+    cried, howling in the air, saying: James the apostle of God have pity on us, for we burn
+    tofore our time come. To whom James said: Wherefore come ye to me? And they said:
+    Hermogenes hath sent us to thee and to Philetus for to bring you to him, and the angel of
+    God hath bound us with chains of fire and tormenteth us. And James said: The angel of God
+    shall unbind you and bring him to me bounden, but hurt him not. Then they went and took
+    Hermogenes and bound his hands, and brought him so bound to S. James, and they said to
+    Hermogenes: Thou hast sent us thither where we were strongly tormented and grievously
+    bound. And then said they to S. James: Give to us power against him that we may avenge the
+    wrongs and our embracements. And James said to them: Lo! here is Philetus tofore you, why
+    take ye him not? They answered: We may not touch him, ne as much as a flea that is in thy
+    couch. Then said James to Philetus: To the end that thou do good for evil, like as Christ
+    bade us, unbind him. And then Hermogenes was all confused. And James said to him: Go thy
+    way freely where thou wilt, for it appertaineth not to our discipline that any be
+    converted against his will, and Hermogenes said to him: I know well the ire of the devils,
+    but if thou give to me somewhat of thine that I may have with me, they shall slay me. Then
+    S. James gave to him his staff. Then he went and brought to the apostle all his books of
+    his false craft and enchanting for to be burnt. But S. James, because that the odour of
+    the burning might do evil or harm to some fools, he made them to be cast into the sea. And
+    after he had cast his books into the sea he returned, and holding his feet said: O thou
+    deliverer of souls, receive me penitent, and him that hath sustained till now missaying of
+    thee. And then began he to be perfect in the dread of God our Lord, so that many virtues
+    were done by him afterward. </p>
+  <p class="H_body_text">And when the Jews saw Hermogenes converted they were all moved of envy, and went unto
+    S. James and blamed him because that he preached Christ crucified. And he approved clearly
+    the coming and passion of our Lord Jesu Christ in such wise that many believed in our
+    Lord. Abiathar, which was bishop that year, moved the people against him, and then they
+    put a cord about his neck and brought him to Herod Agrippa. And when he was led to be
+    beheaded by the commandment of Herod, a man having the palsy cried to him. And he gave him
+    health and said: In the name of Jesu Christ, for whom I am led to be beheaded, arise thou
+    and be all whole, and bless our Lord thy Maker. And anon he arose and was all whole. A
+    scribe named Josias, which put the cord about his neck and drew him, seeing this miracle
+    fell down to his feet and demanded of him forgiveness and that he might be christened; and
+    when Abiathar saw that, he made him to be taken, and said to him: But if thou curse the
+    name of Christ thou shalt be beheaded with him. To whom Josias said: Be thou accursed, and
+    accursed be all thy Gods, and the name of our Lord Jesu Christ be blessed world without
+    end. Then Abiathar commanded to smite him on the mouth with fists, and sent a message to
+    Herod, and gat consent that he should be beheaded with James. And when they should be
+    beheaded both, S. James desired a potful of water of him that should smite off their
+    heads, and therewith he baptized Josias, and then anon they were both beheaded and
+    suffered martyrdom. S. James was beheaded the eighth kalends of April on our Lady's day of
+    the Annunciation, and the eighth kalends of August he was translated to Compostella. And
+    the third kalends of January he was buried, for the making of his sepulchre was from
+    August unto January, and therefore the church hath established that his feast shall be
+    hallowed in the eighth kalends of August, whereas is most convenable time. And as Master
+    John Beleth saith, which made this translation diligently: When the blessed S. James was
+    beheaded, his disciples took the body away by night for fear of the Jews, and brought it
+    into a ship, and committed unto the will of our Lord the sepulture of it, and went withal
+    into the ship without sail or rudder. And by the conduct of the angel of our Lord they
+    arrived in Galicia in the realm of Lupa. There was in Spain a queen that had to name, and
+    also by deserving of her life, Lupa, which is as much to say in English as a she-wolf. And
+    then the disciples of S. James took out his body and laid it upon a great stone. And anon
+    the stone received the body into it as it had been soft wax, and made to the body a stone
+    as it were a sepulchre. Then the disciples went to Lupa the queen, and said to her: Our
+    Lord Jesu Christ hath sent to thee the body of his disciple, so that him that thou
+    wouldest not receive alive thou shalt receive dead, and then they recited to her the
+    miracle by order; how they were come without any governaile of the ship and required of
+    her place convenable for his holy sepulture. And when the queen heard this, she sent them
+    unto a right cruel man, by treachery and by guile, as Master Beleth saith, and some say it
+    was to the king of Spain, for to have his consent of this matter, and he took them and put
+    them in prison. And when he was at dinner the angel of our Lord opened the prison and let
+    them escape away all free. And when he knew it, he sent hastily knights after, for to take
+    them, and as these knights passed to go over a bridge, the bridge brake and overthrew, and
+    they fell in the water and were drowned. And when he heard that he repented him and
+    doubted for himself and for his people, and sent after them, praying them for to return,
+    and that he would do like as they would themselves. And then they returned and converted
+    the people of that city unto the faith of God. And when Lupa the queen heard this, she was
+    much sorrowful, and when they came again to her they told to her the agreement of the
+    king. She answered: Take the oxen that I have in yonder mountain, and join ye and yoke
+    them to my cart or chariot, and bring ye then the body of your master, and build ye for
+    him such a place as ye will, and this she said to them in guile and mockage, for she knew
+    well that there were no oxen but wild bulls, and supposed that they should never join them
+    to her chariot, and if they were so joined and yoked to the chariot, they would run hither
+    and thither, and should break the chariot, and throw down the body and slay them. But
+    there is no wisdom against God. And then they, that knew nothing the evil courage of the
+    queen, went up on the mountain, and found there a dragon casting fire at them, and ran on
+    them. And they made the sign of the cross and he brake it on two pieces. And then they
+    made the sign of the cross upon the bulls, and anon they were meek as lambs. Then they
+    took them and yoked them to the chariot, and took the body of S. James with the stone that
+    they had laid it on, and laid on the chariot, and the wild bulls without governing or
+    driving of any body drew it forth unto the middle of the palace of the queen Lupa. And
+    when she saw this she was abashed and believed and was christened, and delivered to them
+    all that they demanded, and dedicated her palace into a church and endowed it greatly, and
+    after ended her life in good works. </p>
+  <p class="H_body_text">Bernard, a man of the bishopric of Mutina, as Calixtus the pope saith, was taken and
+    enchained and put into a deep tower, and called always the blessed S. James, so that S.
+    James appeared to him and said: Come and follow me into Galicia, and then his bonds brake
+    and S. James vanished away. And he went up into the high tower, and his bonds in his neck,
+    and sprang down without hurting, and it was well sixty cubits of height. And as Bede
+    saith: There was a man that had done a foul sin, of which the bishop doubted to assoil
+    him, and sent him to S. James with a schedule in which the sin was written; and when he
+    had laid the schedule upon the altar, on the day of S. James he prayed S. James, that by
+    his merits his sin might be forgiven and defaced. And after, he opened the schedule and
+    found the sin effaced and struck out. And then he thanked God and S. James. </p>
+  <p class="H_body_text">Thirty men of Lorraine went together on pilgrimage to S. James about the year of our
+    Lord a thousand and sixty-three, and all made faith to other that every man should abide
+    and serve other in all estates that shall happen by the way, except one, that would make
+    no covenant. It happed that one of them was sick and his fellows abode and awaited on him
+    fifteen days, and at last they all left him, save he that promised not, which abode by him
+    and kept him at the foot of the Mount St. Michael. And when it drew to night the sick man
+    died, and when it was night, the man that was alive was sore afraid for the place which
+    was solitary, and for the presence of the dead body, and for the cruelty of the strange
+    people, and for the darkness of the night that came on. But anon S. James appeared to him
+    in likeness of a man on horseback and comforted him and said; Give me that dead body
+    tofore me, and leap thou up behind me on my horse. And so they rode all that night fifteen
+    days journey that they were on the morn to see the sun rising at Montoia, which is but
+    half a league from S. James. Then S. James left them both, commanding him that was alive,
+    that he should assemble the canons of S. James to bury this pilgrim, and that he should
+    say to his fellows, because they had broken their faith their pilgrimage availed them not.
+    And he did his commandment, and when his fellows came they marvelled how he had so fast
+    gone, and he told to them all that S. James had said and done. </p>
+  <p class="H_body_text">And as Calixtus the pope rehearseth, there was a man of Almaine, and he went to S.
+    James about the year one thousand four score and three, and came to Toulouse for to be
+    lodged, and their host made them drunk. Then the host took a cup of silver and put it in
+    their malle. And on the morn, when they were gone, he followed them as thieves, and bare
+    them on hand that they had stolen his cup, and said that they should be punished if the
+    cup were found on them. And he found it in the malle, and anon they were brought to
+    judgment. And then the sentence was given, that all that they had should be given to the
+    host, and that one of them should be hanged. And then the father would have died for his
+    son and the son for the father. At last the son was hanged, and the father went forth
+    weeping on his pilgrimage to S. James, and came again thirty-six days after, and then went
+    for to see his son, and cried and wept, but the son which was hanged, began to comfort and
+    said to his father: Right sweet father, weep no more, for I was never so well at ease, for
+    the blessed S. James hath alway sustained me and held me up, and hath fed me with
+    sweetness of heaven; and when the father heard him speak, he ran anon to the city and did
+    so much that the people came, and his son was taken down all whole, as though he had never
+    had harm, and the host was hanged which had put the cup in the malle. </p>
+  <p class="H_body_text">Hugo de S. Victor rehearseth that the devil appeared in likeness of S. James to a
+    pilgrim, and told to him many things of the unhappiness of the world, and said to him that
+    he should be well blessed if he slew himself in the honour of him. And anon he took a
+    knife and slew himself; and then the host in whose house he was lodged was held suspect,
+    and was sore afraid to be put therefor to death. Then he that was dead revived again, and
+    said that the devil had caused him to slay himself, and brought him into great torments.
+    And S. James ran, and brought him tofore the throne of the judge, and when the devils
+    accused him, he gat that he should be restored to his life. </p>
+  <p class="H_body_text">There was a young man of the country of Lyons, as Hugh the abbot of Cluny witnesseth,
+    that was accustomed to go oft to S. James, and the night tofore he should go thitherward
+    he fell in fornication. And the next day he went forth. On a night it happed that the
+    devil appeared to him in likeness of S. James, and said to him: Knowest thou who I am? And
+    he answered: Nay. And the devil said to him: I am James the apostle, whom thou hast used
+    to visit every year, and I am glad for thy devotion. But it is not long sith that thou, in
+    going out of thy house, fellest in fornication, and hast presumed to come, not confessed
+    thereof, wherefore thy pilgrimage may neither please God ne me. It appertaineth not to do
+    so, for who that will come to me in pilgrimage, he must first show his sins by contrition
+    and by confession, and after, by going on pilgrimage, punish them and make satisfaction.
+    And this said, the devil vanished away. Then the young man was in great anguish, and
+    disposed him to return home again to his house and confess him of his sins, and then to
+    begin again his journey. And then the devil appeared to him again in likeness of the
+    apostle, and warned him in no wise to do so, but said to him: This sin may in no wise be
+    forgiven but if he cut off his members generative. But yet he should be more blessed if he
+    killed himself, and be a martyr for the sake of him. And he, that same night, when his
+    fellows slept, took a knife and cut off his genitals, and with the same knife smote
+    himself into the belly. And his fellows awoke, and when they saw this thing they were sore
+    afraid, and anon fled away lest they should be taken as suspect of the homicide. And
+    after, as they made ready his pit, to bury him in, he revived again, and then all they
+    were abashed and fled away. And he called them again, and told all that was befallen to
+    him, saying: When I at the suggestion of the devil had slain myself, the devils took me
+    and led me towards Rome, and anon S. James came after us, and blamed strongly the devils
+    of their fallacy. And when they had long strived together, S. James constrained them to
+    come into a meadow, where the Blessed Virgin sat speaking with many saints. And the
+    blessed S. James complained for me, and then she blamed strongly the devils, and commanded
+    that I should be restored again to my life. And then S. James took me, and rendered to me
+    my life again, like as you see. And three days after his wounds were whole, and there
+    appeared nothing but the traces where the wounds were, and then he reprised again his
+    journey, and found his fellows, and recited to them all this by order. </p>
+  <p class="H_body_text">And as Calixtus the pope rehearseth, there was a Frenchman, about the year of our Lord
+    eleven hundred, would eschewe the mortality that was in France, and would visit S. James,
+    and he took his wife and children and went thither. And when they came to Pampelona his
+    wife died, and his host took from him all his money and his jument, upon which his
+    children were borne. And this man, that thus went all discomforted, and bare his children
+    on his shoulders, and led one after him, was in great anguish and sorrow. Then came a man
+    to him, upon an ass, which had pity on him, and lent to him his ass for to bear his
+    children. And when he came to S. James, and had done what he would, and prayed, S. James
+    appeared to him, and demanded if he knew him, and he said nay. And S. James said to him: I
+    am James the apostle, which have lent to thee mine ass, and yet I shall lend him to thee
+    for to return. And I let thee wit that thine host is fallen from a soler and is dead. And
+    thou shalt have again all that he hath taken from thee. And when all this was done, he
+    returned joyous, with his children to his house. And as soon as his children were taken
+    off from the ass, it was not known where it became. </p>
+  <p class="H_body_text">A merchant was detained of a tyrant, and all despoiled, was wrongfully put in prison.
+    And he called much devoutly S. James into his help. And S. James appeared to him tofore
+    them that kept him, and they awoke, and he brought him into the highest of the tower, and
+    anon the tower bowed down so low that the top was even with the ground. And he went,
+    without leaping, and unbound of his irons. Then his keepers followed after, but they had
+    no power to see him. </p>
+  <p class="H_body_text">Three knights of the diocese of Lyons went to S. James, and that one was required of a
+    poor woman for the love of S. James to bear her sack upon his horse; and he bare it.
+    After, he found a man sick, and set him on his horse, and took the burden off the man, and
+    the sack off the said woman, and followed his horse afoot. But he was broken with the heat
+    of the sun, and with labour to go afoot, that when he came to S. James in Galicia, he was
+    strongly sick. And his fellows prayed three days for the health of his soul, which three
+    days he lay speechless, and his fellows abiding his death. The fourth he sighed greatly,
+    and said: I thank God and S. James, for I am delivered by his merits when I would have
+    done that which ye warned and admonished me. But the devils came to me and strained me so
+    sore that I might not do nothing that appertained to the health of my soul. And I heard
+    you well but I might not answer. And then the blessed S. James came, and brought in his
+    left hand the sack of the woman, and in the right hand the bourdon of the poor pilgrim
+    that I helped by the way, and held the bourdon for a spear, and the sack for a shield, and
+    so assailed the devils as all angry, and lift up the bourdon, and feared the devils that
+    they fled away; and thus the blessed S. James hath delivered me by his holy grace, and
+    hath rendered to me my speech again. Call me the priest, for I may not be long in this
+    life, it is time to amend our trespasses toward our Lord. And then he turned him to one of
+    his fellows, and said to him: Friend, ride no more with thy lord, for certainly he is
+    damned, and shall perish shortly by evil death, and therefore leave his company, and then
+    he died. And when he was buried, his two fellows, knights, returned, and that other said
+    to his master this that he had said to him, and he set not thereby, and had despite to
+    amend him. And anon after he was smitten with a spear in battle and died. </p>
+  <p class="H_body_text">And as Calixtus the pope saith, that there was a man of Viriliac went to S. James, and
+    his money failed him by the way. And he had shame for to beg and ask alms, and he laid him
+    under a tree, and dreamed that S. James fed him. And when he awoke he found a loaf, baked
+    under ashes, at his head, and with that loaf he lived fifteen days till that he came again
+    to his own place, and ate sufficiently twice a day of the same loaf, and always on the
+    morn he found it whole in his satchel. </p>
+  <p class="H_body_text">Also the same Calixtus rehearseth that a burgess of the city of Barcelona went to S.
+    James about the year of our Lord eleven hundred, and required only that he should never be
+    taken of any enemies, and as he returned by Sicily he was taken in the sea of Saracens,
+    and led ofttimes to fairs for to be sold, but alway the chains with which he was bounden
+    loosed. And when he had been sold fourteen times he was bound with double chains. Then he
+    called S. James to his help, and S. James appeared to him and said: Because thou wert in
+    my church, and thou settest nothing by the health of thy soul, but demandedst only the
+    deliverance of thy body, therefor thou hast fallen in this peril. But because that our
+    Lord is merciful, he hath sent me for to buy thee. And anon his chains brake, and he,
+    bearing a part of the chains, passed by the countries and castles of the Saracens, and
+    came home into his own country in the sight of all men, which were abashed of the miracle.
+    For when any man would have taken him, as soon as they saw the chain they were afeard and
+    fled. And when the lions and other beasts would have ran on him, in the deserts whereon he
+    went, when they saw the chain they were afeard that they fled away. </p>
+  <p class="H_body_text">It happed in the year twelve hundred and thirtyeight in a castle named Prato, between
+    Florence and Pistoia, a young man deceived of simplesse by counsel of an old man, set fire
+    in the corn of his tutor, which had charge to keep him, because that he would usurp to
+    himself his heritage. Then he was taken, and confessed his trespass, and was judged to be
+    drawn and burnt. Then he confessed him, and avowed to S. James. And when he had been long
+    drawn in his shirt upon a stony way, he was neither hurt in his body ne in his shirt. Then
+    he was bound to a stake, and fagots and bushes were set about him, and fire put thereto,
+    which fire burnt atwo his bonds, and he always called on S. James, and there was no hurt
+    of burning found in his shirt nor in his body, and when they would have cast him again
+    into the fire, he was taken away from them by S. James, the apostle of God, to whom be
+    given laud and praising. </p>
+  <span class="H_body_text">
+  </blockquote>
+  </span>
+  <hr />
+<blockquote>
+  <p class="H_body_text">Source.</p>
+  <p class="H_body_text">The Golden Legend or Lives of the Saints. Compiled by Jacobus de Voragine,
+    Archbishop of Genoa, 1275.&nbsp; First Edition Published 1470. Englished by William
+    Caxton, First Edition 1483, Edited by F.S. Ellis, Temple Classics, 1900 (Reprinted 1922,
+    1931.) </p>
+  <p class="H_body_text">This chapter is from: Volume 4: </p>
+  <p class="H_body_text">Scanned by Robert Blackmon. <a href="/cdn-cgi/l/email-protection#086a676a576a64696b63656766486561666c7b787a61666f266b6765"><span class="__cf_email__" data-cfemail="82e0ede0dde0eee3e1e9efedecc2efebece6f1f2f0ebece5ace1edef">[email&#160;protected]</span></a>.</p>
+</blockquote>
+<hr />
+<blockquote>
+  <p class="H_body_text">This text is part of the <a href="/halsall/sbook.asp">Internet
+    Medieval Source Book</a>. The Sourcebook is a collection of public domain and
+    copy-permitted texts related to medieval and Byzantine history. </p>
+  <p class="H_body_text">Unless otherwise indicated the specific electronic form of the document is copyright.
+    Permission is granted for electronic copying, distribution in print form for educational
+    purposes and personal use. If you do reduplicate the document, indicate the source. No
+    permission is granted for commercial use. </p>
+  <p class="H_body_text">© Paul Halsall, May 2001 <br />
+      <a href="/cdn-cgi/l/email-protection#0c646d607f6d60604c6a637e68646d6122696879337f796e66696f783141696865697a6d602c5f63797e6f696e6363672c48636f7961696278"><span class="__cf_email__" data-cfemail="98f0f9f4ebf9f4f4d8fef7eafcf0f9f5b6fdfced">[email&#160;protected]</span></a> </p>
+</blockquote>
+<hr/>
+<blockquote>
+<p><span class="H_body_text">The <i>Internet Medieval Sourcebook</i> is part of the <em><a href="index.asp">Internet History Sourcebooks Project</a></em></span>. <span class="H_body_text">The Internet History Sourcebooks Project is located at the <a
+      href="https://www.fordham.edu/history/">History Department</a> of&nbsp; <a
+      href="http://www.fordham.edu">Fordham University</a>, New York. The Internet
+     Medieval Sourcebook, and other medieval components of the project, are located at
+     the <a href="https://www.fordham.edu/mvst">Fordham University Center
+       for Medieval Studies</a>.The IHSP recognizes the contribution of Fordham University, the
+     Fordham University History Department, and the Fordham Center for Medieval Studies in
+     providing web space and server support for the project. The IHSP is a project independent of Fordham University. &nbsp;
+     Although the IHSP seeks to follow all applicable copyright law, Fordham University is not
+     the institutional owner, and is not liable as the result of any legal action.</span><br />
+  <br />
+  <span class="H_body_text"><i>
+    </i>&copy;</span> <span class="H_body_text">Site Concept and Design: <a href="/cdn-cgi/l/email-protection#c1a8a9b2b181a7aeb3a5a9a0acefa4a5b4feb2b4a3aba4a2b5fc92aeb4b3a2a4a3aeaeaab2e191b3aeaba4a2b5">Paul Halsall</a></span> <span class="H_body_text"></span><span class="H_body_text"> created 26 Jan 1996: latest revision 26 October 2026  </span> <span class="H_body_text"> [<a href="../cv.asp">CV</a>] </span></p>
+</td>
+      </tr>
+    </table>
+</td>
+  </tr>
+</table>
+</blockquote>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="module" src="https://static.cloudflareinsights.com/beacon.min.js/vce701823e78c4301a35b7e07294d87301792088814092" integrity="sha512-UKNk8GbxkABxKcXYuLkO16EleLGUkcvJWtpSNmExE0Too3ZaFAxTscNWEc1OdAv5/BikHawapSCaiD2XCmp+Bw==" data-cf-beacon='{"version":"2024.11.0","token":"cfcc7c7d450243529059713f279d02c0","spa":2}' crossorigin="anonymous"></script>
+</body>
+</html>

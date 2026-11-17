@@ -1,0 +1,769 @@
+{
+  "texts": [
+    {
+      "id": "egyptian-epagomenal-days",
+      "title": {
+        "en": "The Five Days over the Year: Birthdays of the Gods",
+        "zh": "一年外之五日：諸神誕辰"
+      },
+      "tradition": "egyptian",
+      "category": "myth",
+      "region": {
+        "en": "Heliopolis and Thebes, Egypt (the divine birthdays fixed at the year's end)",
+        "zh": "埃及赫利奧波利斯與底比斯（歲末諸神誕辰）"
+      },
+      "lat": 30.13,
+      "lon": 31.31,
+      "period": "Plutarch, De Iside et Osiride 12, 1st-2nd century CE (Budge translation 1912); doctrine as old as the calendars",
+      "source": {
+        "archive": "Project Gutenberg (eBook #9411)",
+        "work": "Legends of the Gods, trans. E. A. W. Budge (1912), Plutarch, The History of Isis and Osiris, sec. XII",
+        "url": "https://www.gutenberg.org/cache/epub/9411/pg9411.txt"
+      },
+      "license": "Public domain (translation 1912)",
+      "summary": {
+        "en": "Rhea (Nut) is cursed by Helios never to be delivered in any month; Hermes wins from Selene, at dice, a seventieth part of every day and makes five new days, on which the five gods are born — Osiris with the herald's cry 'The Lord of All is born', Horus the Elder, Set born violently through his mother's wound, Isis, and Nephthys; the day of Set's birth is unlucky to this day's calendars.",
+        "zh": "瑞亞（努特）受赫利俄斯詛咒，任何月日均不得分娩；赫耳墨斯與塞勒涅擲骰，贏得每日七十分之一，合成五日——五神遂誕：奧西里斯誕時聞呼『萬物之主生矣』，長荷魯斯、塞特自母身創口而出、伊西斯、奈芙蒂斯——塞特誕日至今不吉。"
+      },
+      "motifs": [
+        "miraculous-birth",
+        "divine-marriage"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient mythological-astrological doctrine via Plutarch; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The goddess Rhea, they say, having accompanied with Kronos by stealth, was discovered by Helios who straightway cursed her, and declared that she should not be delivered in any month or year. Hermes, however, being also in love with the same goddess, in return for the favours which he had received from her, went and played at dice with Selene, and won from her the seventieth part of each day. These parts he joined together and made from them five complete days, and he added them to the three hundred and sixty days of which the year formerly consisted. These five days are to this day called the 'Epagomenae,' that is, the superadded, and they are observed by them as the birthdays of their gods.",
+          "note": "Verbatim excerpt of Budge, Legends of the Gods (1912), Plutarch, De Iside, sec. XII (Rhea=Nut, Kronos=Geb, Helios=Ra, Selene=the Moon-god Aah)."
+        },
+        {
+          "id": "2",
+          "text": "On the first of these, they say, Osiris was born, and as he came into the world a voice was heard saying, 'The Lord of All is born.' Some relate the matter in a different way, and say that a certain person named Pamyles, as he was fetching water from the temple of Dios at Thebes, heard a voice commanding him to proclaim aloud that the good and great king Osiris was then born, and that for this reason Kronos committed the education of the child to him, and that in memory of this event the Pamylia were afterwards instituted.",
+          "note": "Verbatim excerpt of Budge (1912), Plutarch sec. XII."
+        },
+        {
+          "id": "3",
+          "text": "Upon the second of these days was born Aroueris, whom some call Apollo, and others the Elder Horus. Upon the third day Typhon was born, who came into the world neither at the proper time nor by the right way, but he forced a passage through a wound which he made in his mother's side. Upon the fourth day Isis was born, in the marshes of Egypt, and upon the fifth day Nephthys, whom some call Teleute, or Aphrodite, or Nike, was born. Therefore, since the third of the superadded days was the birthday of Typhon, the kings considered it to be unlucky, and in consequence they neither transacted any business in it, nor even suffered themselves to take any refreshment until the evening.",
+          "note": "Verbatim excerpt of Budge (1912), Plutarch sec. XII."
+        },
+        {
+          "id": "4",
+          "text": "They further add that Typhon married Nephthys, and that Isis and Osiris, having a mutual affection, enjoyed each other in their mother's womb before they were born, and that from this commerce sprang Aroueris, whom the Egyptians likewise call Horus the Elder, and the Greeks Apollo.",
+          "note": "Verbatim excerpt of Budge (1912), Plutarch sec. XII."
+        }
+      ],
+      "persons": [
+        "nut",
+        "osiris",
+        "horus",
+        "set",
+        "isis",
+        "nephthys"
+      ]
+    },
+    {
+      "id": "egyptian-osiris-civilizer",
+      "title": {
+        "en": "Osiris the Civilizer: King and Teacher of the World",
+        "zh": "教化者奧西里斯：王與世界之師"
+      },
+      "tradition": "egyptian",
+      "category": "myth",
+      "region": {
+        "en": "Thebes, Egypt (from which Osiris set out to civilize the nations)",
+        "zh": "埃及底比斯（奧西里斯由此啟程教化萬邦）"
+      },
+      "lat": 25.6872,
+      "lon": 32.6396,
+      "period": "Plutarch, De Iside 13 (Budge translation 1912); the doctrine underlies Old Kingdom royal ideology",
+      "source": {
+        "archive": "Project Gutenberg (eBook #9411)",
+        "work": "Legends of the Gods, trans. E. A. W. Budge (1912), Plutarch, The History of Isis and Osiris, sec. XIII",
+        "url": "https://www.gutenberg.org/cache/epub/9411/pg9411.txt"
+      },
+      "license": "Public domain (translation 1912)",
+      "summary": {
+        "en": "Osiris becomes king of Egypt and turns his people from indigent and barbarous life: he teaches them agriculture, gives them laws, and instructs them in the worship of the gods; then he travels over the world persuading all nations not by arms but by hymns and songs with instruments of music — the reason the Greeks identify him with Dionysos.",
+        "zh": "奧西里斯為埃及之王，教民棄貧野之生——授以農耕、賜以律法、導以敬神；復周遊列國，不以兵刃而以頌歌與樂器說服萬民——希臘人遂以他同於狄俄倪索斯。"
+      },
+      "motifs": [
+        "culture-hero",
+        "sacred-kingship"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient myth via Plutarch; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Osiris having become king of Egypt, applied himself to civilizing his countrymen by turning them from their former indigent and barbarous course of life. He taught them how to cultivate and improve the fruits of the earth, and he gave them a body of laws whereby to regulate their conduct, and instructed them in the reverence and worship which they were to pay to the gods.",
+          "note": "Verbatim excerpt of Budge, Legends of the Gods (1912), Plutarch sec. XIII."
+        },
+        {
+          "id": "2",
+          "text": "With the same good disposition he afterwards travelled over the rest of the world, inducing the people everywhere to submit to his discipline, not indeed compelling them by force of arms, but persuading them to yield to the strength of his reasons, which were conveyed to them in the most agreeable manner, in hymns and songs, accompanied with instruments of music. From this last circumstance the Greeks identified him with their Dionysos, or Bacchus.",
+          "note": "Verbatim excerpt of Budge (1912), Plutarch sec. XIII."
+        },
+        {
+          "id": "3",
+          "text": "During the absence of Osiris from his kingdom, Typhon had no opportunity of making any innovations in the state, Isis being extremely vigilant in the government, and always upon her guard. After his return, however, having first persuaded seventy-two other people to join with him in the conspiracy, together with a certain queen of Ethiopia called Aso, who chanced to be in Egypt at that time, he formed a crafty plot against him.",
+          "note": "Verbatim excerpt of Budge (1912), Plutarch sec. XIII."
+        }
+      ],
+      "persons": [
+        "osiris",
+        "isis",
+        "set"
+      ]
+    },
+    {
+      "id": "egyptian-chest-conspiracy",
+      "title": {
+        "en": "The Chest of Typhon: The Banquet and the Murder of Osiris",
+        "zh": "提豐之箱：宴席與奧西里斯遇害"
+      },
+      "tradition": "egyptian",
+      "category": "myth",
+      "region": {
+        "en": "Tanitic mouth of the Nile, Delta, Egypt (henceforth the accursed river-mouth)",
+        "zh": "埃及三角洲塔尼提克河口（自此為人憎惡之河口）"
+      },
+      "lat": 31.2,
+      "lon": 32.0,
+      "period": "Plutarch, De Iside 13 (Budge translation 1912); dated in the myth to the 17th of Hathor, sun in Scorpio",
+      "source": {
+        "archive": "Project Gutenberg (eBook #9411)",
+        "work": "Legends of the Gods, trans. E. A. W. Budge (1912), Plutarch, The History of Isis and Osiris, sec. XIII",
+        "url": "https://www.gutenberg.org/cache/epub/9411/pg9411.txt"
+      },
+      "license": "Public domain (translation 1912)",
+      "summary": {
+        "en": "Set, with seventy-two conspirators and the Ethiopian queen Aso, measures Osiris' body in secret and makes a beautifully decorated chest; at a banquet he promises it to whoever fits inside; when Osiris lies down the lid is clapped on, nailed, and sealed with molten lead, and the chest is carried to the sea through the Tanitic mouth of the Nile — a river-mouth the Egyptians ever after abominated.",
+        "zh": "塞特聯七十二同謀與埃塞俄比亞王后阿索，密量奧西里斯身形製華箱；宴中戲言：『入箱而合者得之』；王臥箱中，眾徒蓋釘封鉛，由塔尼提克河口送箱入海——此河口遂為埃及人永世所憎。"
+      },
+      "motifs": [
+        "taboo-transgression",
+        "resurrection"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient myth via Plutarch; no living community restrictions. This is the Plutarch register of the murder cut in the native tradition in the osiris-cycle record."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Having privily taken the measure of the body of Osiris, he caused a chest to be made of exactly the same size, and it was very beautiful and highly decorated. This chest he brought into a certain banqueting room, where it was greatly admired by all who were present, and Typhon, as if in jest, promised to give it to that man whose body when tried would be found to fit it. Thereupon the whole company, one after the other, went into it, but it did not fit any of them; last of all Osiris himself lay down in it.",
+          "note": "Verbatim excerpt of Budge, Legends of the Gods (1912), Plutarch sec. XIII."
+        },
+        {
+          "id": "2",
+          "text": "Thereupon all the conspirators ran to the chest, and clapped the cover upon it, and then they fastened it down with nails on the outside, and poured melted lead over it. They next took the chest to the river, which carried it to the sea through the Tanaitic mouth of the Nile; and for this reason this mouth of the Nile is still held in the utmost abomination by the Egyptians, and is never mentioned by them except with marks of detestation.",
+          "note": "Verbatim excerpt of Budge (1912), Plutarch sec. XIII."
+        },
+        {
+          "id": "3",
+          "text": "These things, some say, took place on the seventeenth day of the month of Hathor, when the sun was in Scorpio, in the twenty-eighth year of the reign of Osiris, though others tell us that this was the year of his life and not of his reign.",
+          "note": "Verbatim excerpt of Budge (1912), Plutarch sec. XIII."
+        }
+      ],
+      "persons": [
+        "osiris",
+        "set"
+      ]
+    },
+    {
+      "id": "egyptian-panic-chemmis",
+      "title": {
+        "en": "The Panic of the Pans: Koptos, the Children's Omens, and Anubis",
+        "zh": "潘神之驚：科普托斯、童言之兆與安努畢斯"
+      },
+      "tradition": "egyptian",
+      "category": "myth",
+      "region": {
+        "en": "Chemmis and Koptos, Egypt (the news of the murder broke here first)",
+        "zh": "埃及克米斯與科普托斯（凶信首傳之地）"
+      },
+      "lat": 30.6,
+      "lon": 31.5,
+      "period": "Plutarch, De Iside 14 (Budge translation 1912)",
+      "source": {
+        "archive": "Project Gutenberg (eBook #9411)",
+        "work": "Legends of the Gods, trans. E. A. W. Budge (1912), Plutarch, The History of Isis and Osiris, sec. XIV",
+        "url": "https://www.gutenberg.org/cache/epub/9411/pg9411.txt"
+      },
+      "license": "Public domain (translation 1912)",
+      "summary": {
+        "en": "The Pans and Satyrs of Chemmis are the first to learn of the murder — giving the world its word for 'panic terror'; Isis cuts off a lock of her hair at Koptos, the city of mourning; children who saw the deed tell her which mouth of the Nile — and the Egyptians ever after read omens in children's play; searching too for the child her sister bore to Osiris, she is led by dogs, and raises him as Anubis, the dog that guards the gods.",
+        "zh": "克米斯的潘與薩提爾最先聞凶信——『恐慌』一詞由此而生；伊西斯於科普托斯剪髮服喪；孩童告知河口——埃及人自此觀童戲以占卜；她又尋姊所生之子，由群犬引路，撫育為安努畢斯——守護諸神之犬。"
+      },
+      "motifs": [
+        "miraculous-birth",
+        "oracle-divination"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient myth via Plutarch; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The first who had knowledge of the accident which had befallen their king were the Pans and Satyrs, who inhabited the country round about Chemmis, and they having informed the people about it, gave the first occasion to the name of Panic Terrors, which has ever since been made use of to signify any sudden fright or amazement of a multitude. As soon as the report reached Isis, she immediately cut off one of the locks of her hair, and put on mourning apparel in that very place where she happened to be; for this reason the place has ever since been called 'Koptos,' or the 'city of mourning.'",
+          "note": "Verbatim excerpt of Budge, Legends of the Gods (1912), Plutarch sec. XIV."
+        },
+        {
+          "id": "2",
+          "text": "She inquired of every person she met, including some children whom she saw, whether they knew what was become of it. Now, it so happened that these children had seen what Typhon's accomplices had done with the body, and they accordingly told her by what mouth of the Nile it had been conveyed to the sea. For this reason the Egyptians look upon children as endued with a kind of faculty of divining, and in consequence of this notion are very curious in observing the accidental prattle which they have with one another whilst they are at play, especially if it be in a sacred place, forming omens and presages from it.",
+          "note": "Verbatim excerpt of Budge (1912), Plutarch sec. XIV."
+        },
+        {
+          "id": "3",
+          "text": "Isis meanwhile having been informed that Osiris, deceived by her sister Nephthys, who was in love with him, had unwittingly enjoyed her instead of herself, as she concluded from the melilot-garland which he had left with her, made it her business likewise to search out the child, the fruit of this unlawful commerce. Accordingly, after much pains and difficulty, by means of some dogs that conducted her to the place where it was, she found it and bred it up; and in process of time it became her constant guard and attendant, and obtained the name of Anubis, and it is thought that it watches and guards the gods as dogs do men.",
+          "note": "Verbatim excerpt of Budge (1912), Plutarch sec. XIV."
+        }
+      ],
+      "persons": [
+        "isis",
+        "osiris",
+        "anubis",
+        "nephthys"
+      ]
+    },
+    {
+      "id": "egyptian-isis-byblos-pillar",
+      "title": {
+        "en": "Isis at Byblos: The Tamarisk Pillar and the Child in the Fire",
+        "zh": "伊西斯在比布魯斯：檉木柱與火中之子"
+      },
+      "tradition": "egyptian",
+      "category": "myth",
+      "region": {
+        "en": "Byblos, Phoenician coast (the king's palace built around the coffin)",
+        "zh": "腓尼基海岸比布魯斯（棺木成王宮之柱）"
+      },
+      "lat": 34.1206,
+      "lon": 35.6482,
+      "period": "Plutarch, De Iside 15-16 (Budge translation 1912)",
+      "source": {
+        "archive": "Project Gutenberg (eBook #9411)",
+        "work": "Legends of the Gods, trans. E. A. W. Budge (1912), Plutarch, The History of Isis and Osiris, secs. XV-XVI",
+        "url": "https://www.gutenberg.org/cache/epub/9411/pg9411.txt"
+      },
+      "license": "Public domain (translation 1912)",
+      "summary": {
+        "en": "The chest drifts to Byblos and is swallowed by a tamarisk that becomes the palace's roof-pillar; Isis comes as a stranger, breathes her fragrance into the queen's maids, is made nurse to the royal child — whom she flames each night to burn away his mortality while she, as a swallow, laments around the pillar — until the queen's cry robs the boy of immortality; the goddess takes the pillar, and its wood is worshipped at Byblos to this day.",
+        "zh": "棺漂至比布魯斯，為檉樹所裹，竟成王宮之柱；伊西斯以異鄉人身至，以體香渡入侍女髮膚，受聘為王子乳母——夜夜置子於火中焚其凡軀，己化燕繞柱哀鳴——王后驚呼，王子失其不死；女神遂取柱，其木至今為比布魯斯人所拜。"
+      },
+      "motifs": [
+        "resurrection",
+        "transformation",
+        "sacred-place"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient myth via Plutarch; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The chest had been carried by the waves of the sea to the coast of Byblos, and there gently lodged in the branches of a bush of tamarisk, which in a short time had grown up into a large and beautiful tree, and had grown round the chest and enclosed it on every side so completely that it was not to be seen. Moreover, the king of the country, amazed at its unusual size, had cut the tree down, and made that part of the trunk wherein the chest was concealed into a pillar to support the roof of his house.",
+          "note": "Verbatim excerpt of Budge, Legends of the Gods (1912), Plutarch sec. XV."
+        },
+        {
+          "id": "2",
+          "text": "Setting herself down by the side of a fountain, she refused to speak to anybody except the queen's women who chanced to be there. These, however, she saluted and caressed in the kindest manner possible, plaiting their hair for them, and transmitting into them part of that wonderful odour which issued from her own body. This raised a great desire in the queen their mistress to see the stranger... She therefore sent for her to court, and, after a further acquaintance with her, made her nurse to one of her sons. Now, the name of the king who reigned at this time at Byblos was Melkander, and that of his wife was Astarte.",
+          "note": "Verbatim excerpt of Budge (1912), Plutarch sec. XV."
+        },
+        {
+          "id": "3",
+          "text": "Isis nursed the child by giving it her finger to suck instead of the breast. She likewise put him each night into the fire in order to consume his mortal part, whilst, having transformed herself into a swallow, she circled round the pillar and bemoaned her sad fate. This she continued to do for some time, till the queen, who stood watching her, observing the child to be all of a flame, cried out, and thereby deprived him of some of that immortality which would otherwise have been conferred upon him. The goddess then made herself known, and asked that the pillar which supported the roof might be given to her.",
+          "note": "Verbatim excerpt of Budge (1912), Plutarch sec. XVI."
+        },
+        {
+          "id": "4",
+          "text": "Having taken the pillar down, she cut it open easily, and having taken out what she wanted, she wrapped up the remainder of the trunk in fine linen, and having poured perfumed oil over it, she delivered it again into the hands of the king and queen. Now, this piece of wood is to this day preserved in the temple, and worshipped by the people of Byblos.",
+          "note": "Verbatim excerpt of Budge (1912), Plutarch sec. XVI."
+        }
+      ],
+      "persons": [
+        "isis"
+      ]
+    },
+    {
+      "id": "egyptian-maneros-skeleton",
+      "title": {
+        "en": "Maneros and the Skeleton at the Banquet",
+        "zh": "馬奈羅斯與宴席之骷髏"
+      },
+      "tradition": "egyptian",
+      "category": "myth",
+      "region": {
+        "en": "Phaedrus river-mouth and Egyptian banquet halls (symbolic pin, Nile Delta coast)",
+        "zh": "法埃德魯斯河口與埃及宴廳（象徵定位，尼羅三角洲海岸）"
+      },
+      "lat": 31.2,
+      "lon": 32.0,
+      "period": "Plutarch, De Iside 17 (Budge translation 1912)",
+      "source": {
+        "archive": "Project Gutenberg (eBook #9411)",
+        "work": "Legends of the Gods, trans. E. A. W. Budge (1912), Plutarch, The History of Isis and Osiris, sec. XVII",
+        "url": "https://www.gutenberg.org/cache/epub/9411/pg9411.txt"
+      },
+      "license": "Public domain (translation 1912)",
+      "summary": {
+        "en": "Isis opens the chest to weep over her husband, and the little prince who stole up behind dies of her terrible look — he is Maneros, called on at every Egyptian banquet; Plutarch collects the rival explanations — that Maneros means 'may this be fortunate', and that the skeleton carried round at feasts is a memento mori, not the story of Osiris.",
+        "zh": "伊西斯啟箱泣夫，偷窺的小王子被她一瞪而亡——他即馬奈羅斯，埃及宴席上所呼之神；普魯塔克並錄異說：『馬奈羅斯』意為『願此順遂』，宴中展示之骷髏乃提醒必死之諫，非述奧西里斯之事。"
+      },
+      "motifs": [
+        "resurrection",
+        "parable-teaching"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient myth via Plutarch; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "At the first place where she stopped, and when she believed that she was alone, she opened the chest, and laying her face upon that of her dead husband, she embraced him and wept bitterly. Then, seeing that the little boy had silently stolen up behind her, and had found out the reason of her grief, she turned upon him suddenly, and, in her anger, gave him so fierce and terrible a look that he died of fright immediately.",
+          "note": "Verbatim excerpt of Budge, Legends of the Gods (1912), Plutarch sec. XVII."
+        },
+        {
+          "id": "2",
+          "text": "Afterwards he received the greatest honour on account of the goddess, for this Maneros, whom the Egyptians so frequently call upon at their banquets, is none other than he. This story is contradicted by those who tell us that the true name of this child was Palaestinus, or Pelusius, and that the city of this name was built by the goddess in memory of him. And they further add that this Maneros is thus honoured by the Egyptians at their feasts because he was the first who invented music.",
+          "note": "Verbatim excerpt of Budge (1912), Plutarch sec. XVII."
+        },
+        {
+          "id": "3",
+          "text": "In like manner they say that the human skeleton which is carried about in a box on festal occasions, and shown to the guests, is not designed, as some imagine, to represent the particular misfortunes of Osiris, but rather to remind them of their mortality, and thereby to excite them freely to make use of and to enjoy the good things which are set before them, seeing that they must quickly become such as they there saw.",
+          "note": "Verbatim excerpt of Budge (1912), Plutarch sec. XVII."
+        }
+      ],
+      "persons": [
+        "isis",
+        "osiris"
+      ]
+    },
+    {
+      "id": "egyptian-dismemberment-papyrus",
+      "title": {
+        "en": "The Fourteen Pieces: Dismemberment, the Papyrus Boat, and the Fish",
+        "zh": "十四塊遺體：分屍、紙莎草舟與魚"
+      },
+      "tradition": "egyptian",
+      "category": "myth",
+      "region": {
+        "en": "Buto and the Delta marshes, Egypt (where Isis hid the chest, and where Set found it)",
+        "zh": "埃及布托與三角洲沼澤（藏箱與遇害之地）"
+      },
+      "lat": 31.0,
+      "lon": 30.75,
+      "period": "Plutarch, De Iside 18 (Budge translation 1912)",
+      "source": {
+        "archive": "Project Gutenberg (eBook #9411)",
+        "work": "Legends of the Gods, trans. E. A. W. Budge (1912), Plutarch, The History of Isis and Osiris, sec. XVIII",
+        "url": "https://www.gutenberg.org/cache/epub/9411/pg9411.txt"
+      },
+      "license": "Public domain (translation 1912)",
+      "summary": {
+        "en": "Set hunting by moonlight finds the chest at Buto and tears Osiris into fourteen pieces; Isis searches by papyrus boat — why the crocodile spares papyrus vessels to this day — and buries each piece where she finds it, seeding Egypt with rival tombs of Osiris; the phallus, thrown to the Nile, is eaten by the Lepidotus, Phagrus and Oxyrhynchus fish, and a model phallus is consecrated in its place at a festival that still exists.",
+        "zh": "塞特月下獵獸偶遇布托之箱，碎奧西里斯為十四塊；伊西斯乘紙莎草舟遍尋——故鱷不傷紙莎草舟至今——每得一塊即葬一處，埃及遂多奧西里斯之墓；陽具拋於尼羅，為三魚所食，伊西斯乃塑代具、立祭典以補其失。"
+      },
+      "motifs": [
+        "dismembered-giant",
+        "taboo-transgression"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient myth via Plutarch; no living community restrictions. Pairs with the native-register osiris-cycle record; the fish-eaten phallus explains the fish taboos of several towns."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "One night, however, when Typhon was hunting by the light of the moon, he came upon it by chance, and recognizing the body which was enclosed in it, he tore it into several pieces, fourteen in all, and scattered them in different places up and down the country. When Isis knew what had been done, she set out in search of the scattered portions of her husband's body; and in order to pass more easily through the lower, marshy parts of the country, she made use of a boat made of the papyrus plant. For this reason, they say, either fearing the anger of the goddess, or else venerating the papyrus, the crocodile never injures anyone who travels in this sort of vessel.",
+          "note": "Verbatim excerpt of Budge, Legends of the Gods (1912), Plutarch sec. XVIII."
+        },
+        {
+          "id": "2",
+          "text": "And this, they say, hath given rise to the report that there are very many different sepulchres of Osiris in Egypt, for wherever Isis found one of the scattered portions of her husband's body, there she buried it. Others, however, contradict this story, and tell us that the variety of sepulchres of Osiris was due rather to the policy of the queen, who, instead of the real body, as she pretended, presented to these cities only an image of her husband... to defeat Typhon, who, if he were victorious in his fight against Horus in which he was about to engage, would search for the body of Osiris, and being distracted by the number of sepulchres would despair of ever being able to find the true one.",
+          "note": "Verbatim excerpt of Budge (1912), Plutarch sec. XVIII."
+        },
+        {
+          "id": "3",
+          "text": "We are told, moreover, that notwithstanding all her efforts, Isis was never able to discover the phallus of Osiris, which, having been thrown into the Nile immediately upon its separation from the rest of the body, had been devoured by the Lepidotus, the Phagrus, and the Oxyrhynchus, fish which above all others, for this reason, the Egyptians have in more especial avoidance. In order, however, to make some amends for the loss, Isis consecrated the phallus made in imitation of it, and instituted a solemn festival to its memory, which is even to this day observed by the Egyptians.",
+          "note": "Verbatim excerpt of Budge (1912), Plutarch sec. XVIII."
+        }
+      ],
+      "persons": [
+        "set",
+        "isis",
+        "osiris"
+      ]
+    },
+    {
+      "id": "egyptian-horus-horse-dialogue",
+      "title": {
+        "en": "Osiris' Return and the Horse Dialogue: Battles of Horus",
+        "zh": "奧西里斯歸來與馬之問答：荷魯斯之戰"
+      },
+      "tradition": "egyptian",
+      "category": "myth",
+      "region": {
+        "en": "Egypt between the Two Lands (the battles of Horus and Typhon)",
+        "zh": "埃及兩地之間（荷魯斯與提豐交戰之地）"
+      },
+      "lat": 28.5,
+      "lon": 31.0,
+      "period": "Plutarch, De Iside 19 (Budge translation 1912)",
+      "source": {
+        "archive": "Project Gutenberg (eBook #9411)",
+        "work": "Legends of the Gods, trans. E. A. W. Budge (1912), Plutarch, The History of Isis and Osiris, sec. XIX",
+        "url": "https://www.gutenberg.org/cache/epub/9411/pg9411.txt"
+      },
+      "license": "Public domain (translation 1912)",
+      "summary": {
+        "en": "Osiris returns from the other world to train Horus for war; asked what is most glorious, the boy answers 'To avenge his father', and chooses the horse over the lion because it cuts off a flying enemy. Horus wins his first battle and takes Typhon, whom Isis frees; enraged, Horus tears the crown from her head until Hermes replaces it with a cow's head; two further battles make Typhon's defeat final, and Harpokrates is born prematurely to Isis after Osiris' death.",
+        "zh": "奧西里斯自冥界歸返，教子練武；問何為至榮，答『復父之仇』，又擇馬而捨獅——因其能追截逃敵。荷魯斯首戰勝而縛提豐，伊西斯竟釋之；子怒奪母冠，赫耳墨斯代以牛首；再戰兩合，提豐終敗；奧西里斯亡後，伊西斯早產生哈波克拉特斯。"
+      },
+      "motifs": [
+        "sacred-kingship",
+        "transformation"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient myth via Plutarch; no living community restrictions. Budge's footnote records the native Sallier version of the Isis-beheading that Plutarch omitted."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Osiris returned from the other world, and appeared to his son Horus, and encouraged him to fight, and at the same time instructed him in the exercise of arms. He then asked him what he thought was the most glorious action a man could perform, to which Horus replied, 'To revenge the injuries offered to his father and mother.' Osiris then asked him what animal he thought most serviceable to a soldier, and Horus replied, 'A horse.' On this Osiris wondered, and he questioned him further, asking him why he preferred a horse to a lion, and Horus replied, 'Though the lion is the more serviceable creature to one who stands in need of help, yet is the horse more useful in overtaking and cutting off a flying enemy.' These replies caused Osiris to rejoice greatly, for they showed him that his son was sufficiently prepared for his enemy.",
+          "note": "Verbatim excerpt of Budge, Legends of the Gods (1912), Plutarch sec. XIX."
+        },
+        {
+          "id": "2",
+          "text": "Afterwards a battle took place between Horus and Typhon, which lasted many days, but Horus was at length victorious, and Typhon was taken prisoner. He was delivered over into the custody of Isis, who, instead of putting him to death, loosed his fetters and set him free. This action of his mother incensed Horus to such a degree that he seized her, and pulled the royal crown off her head; but Hermes came forward, and set upon her head the head of an ox instead of a helmet.",
+          "note": "Verbatim excerpt of Budge (1912), Plutarch sec. XIX."
+        },
+        {
+          "id": "3",
+          "text": "After this Typhon accused Horus of illegitimacy, but, by the assistance of Hermes, his legitimacy was fully established by a decree of the gods themselves. After this two other battles were fought between Horus and Typhon, and in both Typhon was defeated. Moreover, Isis is said to have had union with Osiris after his death, and she brought forth Harpokrates, who came into the world before his time, and was lame in his lower limbs.",
+          "note": "Verbatim excerpt of Budge (1912), Plutarch sec. XIX."
+        }
+      ],
+      "persons": [
+        "osiris",
+        "horus",
+        "set",
+        "isis"
+      ]
+    },
+    {
+      "id": "egyptian-abydos-tomb-claims",
+      "title": {
+        "en": "The Many Tombs of Osiris: Abydos, Memphis, and Philae",
+        "zh": "奧西里斯眾墓：阿拜多斯、孟菲斯與菲萊"
+      },
+      "tradition": "egyptian",
+      "category": "myth",
+      "region": {
+        "en": "Abydos, Upper Egypt (the most coveted burial place in Egypt)",
+        "zh": "埃及上埃及阿拜多斯（全埃及最令人嚮往之葬地）"
+      },
+      "lat": 26.18,
+      "lon": 31.92,
+      "period": "Plutarch, De Iside 20-21 (Budge translation 1912)",
+      "source": {
+        "archive": "Project Gutenberg (eBook #9411)",
+        "work": "Legends of the Gods, trans. E. A. W. Budge (1912), Plutarch, The History of Isis and Osiris, secs. XX-XXI",
+        "url": "https://www.gutenberg.org/cache/epub/9411/pg9411.txt"
+      },
+      "license": "Public domain (translation 1912)",
+      "summary": {
+        "en": "Why Egypt is full of claimed graves of one god: Abydos holds his body — the rich buy burial beside him 'to lie in the grave with Osiris'; Memphis holds the Apis bull as the image of his soul kept near his body; and at Philae a tiny inaccessible island carries the true tomb, where no bird alights nor fish swims except when the priests come to crown it with flowers beneath a giant tamarisk.",
+        "zh": "埃及何處皆稱葬有一神：阿拜多斯藏其身——富人競相購墓『與奧西里斯同眠』；孟菲斯養阿匹斯牛以近其體，牛乃其魂之像；而菲萊小島不可接近，非祭司至期登島獻花之時，鳥不落、魚不游，其墓為巨型檉樹所蔭。"
+      },
+      "motifs": [
+        "sacred-place",
+        "resurrection"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient myth via Plutarch; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "That the history has a substantial foundation is proved by the opinion which obtains generally concerning the sepulchres of Osiris. There are many places wherein his body is said to have been deposited, and among these are Abydos and Memphis, both of which are said to contain his body. It is for this reason, they say, that the richer and more prosperous citizens wish to be buried in the former of these cities, being ambitious of lying, as it were, in the grave with Osiris.",
+          "note": "Verbatim excerpt of Budge, Legends of the Gods (1912), Plutarch sec. XX."
+        },
+        {
+          "id": "2",
+          "text": "The title of Memphis to be regarded as the grave of Osiris seems to rest upon the fact that the Apis Bull, who is considered to be the image of the soul of Osiris, is kept in that city for the express purpose that it may be as near his body as possible.",
+          "note": "Verbatim excerpt of Budge (1912), Plutarch sec. XX."
+        },
+        {
+          "id": "3",
+          "text": "The true sepulchre of Osiris lies in that little island which the Nile makes at Philae. This island is, they say, inaccessible, and neither bird can alight on it, nor fish swim near it, except at the times when the priests go over to it from the mainland to solemnize their customary rites to the dead, and to crown his tomb with flowers, which, they say, is overshadowed by the branches of a tamarisk-tree, the size of which exceeds that of an olive-tree.",
+          "note": "Verbatim excerpt of Budge (1912), Plutarch sec. XX."
+        }
+      ],
+      "persons": [
+        "osiris"
+      ]
+    },
+    {
+      "id": "egyptian-sais-veil-inscription",
+      "title": {
+        "en": "The Veil of Isis at Sais: I Am All That Has Been",
+        "zh": "薩伊斯的伊西斯面紗：我乃萬有"
+      },
+      "tradition": "egyptian",
+      "category": "myth",
+      "region": {
+        "en": "Sais, Western Delta, Egypt (temple of Neit/Isis)",
+        "zh": "埃及西三角洲薩伊斯（奈特/伊西斯神廟）"
+      },
+      "lat": 30.9667,
+      "lon": 30.7667,
+      "period": "Plutarch, De Iside 9, recording a 26th-Dynasty temple inscription (Budge translation 1912)",
+      "source": {
+        "archive": "Project Gutenberg (eBook #9411)",
+        "work": "Legends of the Gods, trans. E. A. W. Budge (1912), Plutarch, The History of Isis and Osiris, sec. IX",
+        "url": "https://www.gutenberg.org/cache/epub/9411/pg9411.txt"
+      },
+      "license": "Public domain (translation 1912)",
+      "summary": {
+        "en": "The most famous sentence of Egyptian religion, recorded on the statue-base of the goddess of Sais: 'I am everything that has been, that is, and that shall be: and my veil no man hath raised' — joined in Plutarch to the etymology of Ammon as 'the hidden', the god whose name conceals the Supreme Being who is 'concealed in the universal nature.'",
+        "zh": "埃及宗教最著名一語，刻於薩伊斯女神像座：『我乃曾存在、正存在、將存在之萬有；我之面紗無人掀起』——普魯塔克併以『阿蒙』之詞源『隱』：至尊之神『隱於萬物本性之中』。"
+      },
+      "motifs": [
+        "theophany",
+        "oracle-divination"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient inscription quoted via Plutarch; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "This the priesthood hints to us in many instances, particularly by the sphinxes, which they seem to have placed designedly before their temples as types of the enigmatical nature of their theology. To this purpose, likewise, is that inscription which they have engraved upon the base of the statue of Athene at Sais, whom they identify with Isis: 'I am everything that has been, that is, and that shall be: and my veil no man hath raised.'",
+          "note": "Verbatim excerpt of Budge, Legends of the Gods (1912), Plutarch sec. IX (Athene of Sais = the goddess Net)."
+        },
+        {
+          "id": "2",
+          "text": "In like manner the word 'Amoun,' or as it is expressed in the Greek language, 'Ammon,' which is generally looked upon as the proper name of the Egyptian Zeus, is interpreted by Manetho the Sebennite to signify 'concealment' or 'something which is hidden.' Hecataeus of Abdera indeed tells us that the Egyptians make use of this term when they call out to one another. If this be so, then their invoking Amoun is the same thing as calling upon the supreme being, whom they believe to be 'hidden' and 'concealed' in the universal nature, to appear and manifest itself to them.",
+          "note": "Verbatim excerpt of Budge (1912), Plutarch sec. IX."
+        }
+      ],
+      "persons": [
+        "amun",
+        "isis"
+      ]
+    },
+    {
+      "id": "egyptian-vine-blood-enemies",
+      "title": {
+        "en": "Why Wine Is Abhorred: The Blood of Fallen Enemies",
+        "zh": "酒之憎：敵血成藤"
+      },
+      "tradition": "egyptian",
+      "category": "myth",
+      "region": {
+        "en": "Heliopolis, Egypt (temple of the Sun; no wine within)",
+        "zh": "埃及赫利奧波利斯（日神廟內無酒）"
+      },
+      "lat": 30.13,
+      "lon": 31.31,
+      "period": "Plutarch, De Iside 6, recording Eudoxus' Travels (Budge translation 1912)",
+      "source": {
+        "archive": "Project Gutenberg (eBook #9411)",
+        "work": "Legends of the Gods, trans. E. A. W. Budge (1912), Plutarch, The History of Isis and Osiris, sec. VI",
+        "url": "https://www.gutenberg.org/cache/epub/9411/pg9411.txt"
+      },
+      "license": "Public domain (translation 1912)",
+      "summary": {
+        "en": "A ritual-origin myth explaining the wine taboo: when wine was poured on the altars it was treated not as a gift but as the blood of Egypt's enemies — for the vine first sprang from earth fattened with the bodies of those who fell in the wars against the gods, which is why drunkenness fills men 'with the blood of their own ancestors.'",
+        "zh": "酒禁之緣起神話：祭壇奠酒非為敬獻，實為仇敵之血——因葡萄藤最初乃自『與諸神交戰陣亡者之屍所肥沃之土』生出，故狂飲者如飲『己祖之血』而癲狂。"
+      },
+      "motifs": [
+        "taboo-transgression",
+        "world-renewal"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient aition via Plutarch/Eudoxus; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The priests of the Sun at Heliopolis never carry wine into their temples, for they regard it as indecent for those who are devoted to the service of any god to indulge in the drinking of wine whilst they are under the immediate inspection of their Lord and King. The priests of the other deities are not so scrupulous in this respect, for they use it, though sparingly. During their more solemn purifications they abstain from wine wholly, and they give themselves up entirely to study and meditation, and to the hearing and teaching of those divine truths which treat of the divine nature.",
+          "note": "Verbatim excerpt of Budge, Legends of the Gods (1912), Plutarch sec. VI."
+        },
+        {
+          "id": "2",
+          "text": "If they used it at any time in pouring out libations to the gods, it was not because they looked upon it as being acceptable to them for its own sake, but they poured it out over their altars as the blood of their enemies who had in times past fought against them. For they believe the vine to have first sprung out of the earth after it was fattened by the bodies of those who fell in the wars against the gods. And this, they say, is the reason why drinking its juice in great quantities makes men mad and beside themselves, filling them, as it were, with the blood of their own ancestors.",
+          "note": "Verbatim excerpt of Budge (1912), Plutarch sec. VI."
+        }
+      ],
+      "persons": [
+        "ra"
+      ]
+    },
+    {
+      "id": "egyptian-ochus-apis",
+      "title": {
+        "en": "Ochus Slays the Apis: The Sword-King in the King-List",
+        "zh": "奧庫斯屠阿匹斯：王表中的『劍』"
+      },
+      "tradition": "egyptian",
+      "category": "myth",
+      "region": {
+        "en": "Memphis, Egypt (palace of the Apis bull)",
+        "zh": "埃及孟菲斯（阿匹斯聖牛之宮）"
+      },
+      "lat": 29.8526,
+      "lon": 31.4,
+      "period": "Historical memory of Artaxerxes III Ochus (c. 341 BCE), recorded in Plutarch, De Iside 11 (Budge translation 1912)",
+      "source": {
+        "archive": "Project Gutenberg (eBook #9411)",
+        "work": "Legends of the Gods, trans. E. A. W. Budge (1912), Plutarch, The History of Isis and Osiris, sec. XI",
+        "url": "https://www.gutenberg.org/cache/epub/9411/pg9411.txt"
+      },
+      "license": "Public domain (translation 1912)",
+      "summary": {
+        "en": "The Persian king Ochus killed the Apis bull and served it at a banquet; the Egyptian priests entered him in their king-list not under his name but under a picture of a sword — teaching that sacred writing records character, not person, and that the slayer of the god of Memphis became, in their records, an instrument of destruction.",
+        "zh": "波斯王奧庫斯殺阿匹斯聖牛以宴客；埃及祭司於王表不以名記之，而以一柄『劍』之圖像記其人——神聖文字記其品性而非其人，屠神者遂成毀滅之器。"
+      },
+      "motifs": [
+        "taboo-transgression",
+        "boon-curse"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Historical memory preserved mythically via Plutarch; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The cruel and bloody king of Persia, Ochus, who not only put to death great numbers of the people, but even slew the Apis Bull himself, and afterwards served him up in a banquet to his friends, is represented by them by a sword, and by this name he is still to be found in the catalogue of their kings. This name, therefore, does not represent his person, but indicates his base and cruel qualities, which were best suggested by the picture of an instrument of destruction.",
+          "note": "Verbatim excerpt of Budge, Legends of the Gods (1912), Plutarch sec. XI."
+        },
+        {
+          "id": "2",
+          "text": "If, therefore, O Clea, you will hear and entertain the story of these gods from those who know how to explain it consistently with religion and philosophy, if you will steadily persist in the observance of all these holy rites which the laws require of you, and are moreover fully persuaded that to form true notions of the divine nature is more acceptable to them than any sacrifice or mere external act of worship can be, you will by this means be entirely exempt from any danger of falling into superstition, an evil no less to be avoided than atheism itself.",
+          "note": "Verbatim excerpt of Budge (1912), Plutarch sec. XI, closing."
+        }
+      ],
+      "persons": [
+        "osiris"
+      ]
+    },
+    {
+      "id": "egyptian-nile-allegory",
+      "title": {
+        "en": "Osiris Is the Nile: Born on the Right, Perished on the Left",
+        "zh": "奧西里斯即尼羅：生於右、歿於左"
+      },
+      "tradition": "egyptian",
+      "category": "myth",
+      "region": {
+        "en": "The Nile from Elephantine to the sea (the allegorical reading of the god)",
+        "zh": "自象島至海口之尼羅（神之寓言讀法）"
+      },
+      "lat": 26.5,
+      "lon": 31.5,
+      "period": "Plutarch, De Iside 32-39 (Budge translation 1912), philosophical allegoresis",
+      "source": {
+        "archive": "Project Gutenberg (eBook #9411)",
+        "work": "Legends of the Gods, trans. E. A. W. Budge (1912), Plutarch, The History of Isis and Osiris, sec. XXXII",
+        "url": "https://www.gutenberg.org/cache/epub/9411/pg9411.txt"
+      },
+      "license": "Public domain (translation 1912)",
+      "summary": {
+        "en": "Plutarch's allegorists make Osiris the Nile, Isis the earth it fertilizes, and Typhon the sea that tears the river to pieces; the sacred dirge says he 'was born on the right side of the world and perished on the left' — south and north; the sacred chest means the river's withdrawal to its bed at Hathor, and at the sea festival the priests cry over the golden boat: 'Osiris is found.'",
+        "zh": "普魯塔克之寓言派謂：奧西里斯即尼羅、伊西斯為其所沃之土、提豐為碎河之海；聖哀歌謂其『生於世界之右、歿於世界之左』（南與北）；藏箱之說即河水退回河床；至海祭之日，祭司捧金舟齊呼：『奧西里斯尋得了！』"
+      },
+      "motifs": [
+        "world-renewal",
+        "resurrection"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient philosophical allegoresis via Plutarch; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "So these philosophers say that by Osiris the Egyptians mean the Nile, by Isis that part of the country which Osiris, or the Nile, overflows, and by Typhon the sea, which, by receiving the Nile as it runs into it, does, as it were, tear it into many pieces, and indeed entirely destroys it, excepting only so much of it as is admitted into the bosom of the earth in its passage over it, which is thereby rendered fertile. The truth of this explanation is confirmed, they say, by that sacred dirge which they make over Osiris when they bewail 'him who was born on the right side of the world and who perished on the left.'",
+          "note": "Verbatim excerpt of Budge, Legends of the Gods (1912), Plutarch sec. XXXII."
+        },
+        {
+          "id": "2",
+          "text": "As to what they relate of the shutting up of Osiris in a box, this appears to mean the withdrawal of the Nile to its own bed. This is the more probable as this misfortune is said to have happened to Osiris in the month of Hathor, precisely at that season of the year when, upon the cessation of the Etesian or north winds the Nile returns to its own bed, and leaves the country everywhere bare and naked. At this time the priests celebrate doleful rites, and they exhibit as a suitable representation of the grief of Isis a gilded ox covered with a fine black linen cloth.",
+          "note": "Verbatim excerpt of Budge (1912), Plutarch sec. XXXIX."
+        },
+        {
+          "id": "3",
+          "text": "On the nineteenth of the month Pachons they march in procession to the sea, whither the priests and other officials carry the sacred chest, wherein is enclosed a small boat of gold; into this they first pour some water, and then all present cry out with a loud voice, 'Osiris is found.' This done, they throw some earth, scent, and spices into the water, and mix it well together, and work it up into the image of a crescent, which they afterwards dress in clothes. This shows that they regard the gods as the essence and power of water and earth.",
+          "note": "Verbatim excerpt of Budge (1912), Plutarch sec. XXXIX."
+        }
+      ],
+      "persons": [
+        "osiris",
+        "isis",
+        "set"
+      ]
+    },
+    {
+      "id": "egyptian-technatis-curses",
+      "title": {
+        "en": "The Column of Curses against Menes: The King Who Learned Poverty",
+        "zh": "詛咒美尼斯之柱：嘗貧之王"
+      },
+      "tradition": "egyptian",
+      "category": "myth",
+      "region": {
+        "en": "Thebes, Egypt (temple column inscribed with curses)",
+        "zh": "埃及底比斯（神廟刻咒之柱）"
+      },
+      "lat": 25.6872,
+      "lon": 32.6396,
+      "period": "Story set in the reign of Tafnekht (24th Dynasty, c. 730 BCE), recorded in Plutarch, De Iside 8 (Budge translation 1912)",
+      "source": {
+        "archive": "Project Gutenberg (eBook #9411)",
+        "work": "Legends of the Gods, trans. E. A. W. Budge (1912), Plutarch, The History of Isis and Osiris, sec. VIII",
+        "url": "https://www.gutenberg.org/cache/epub/9411/pg9411.txt"
+      },
+      "license": "Public domain (translation 1912)",
+      "summary": {
+        "en": "King Technatis, eating mean soldier's food on the Arabian campaign and sleeping on the bare ground, conceived such love of poverty that with the priests' permission he raised in the temple of Thebes a column full of curses against Menes, the first king who had drawn the Egyptians from their frugal course of life.",
+        "zh": "塔夫奈赫特王遠征時食兵卒之粗食、臥於赤地，遂生出對儉樸之深情，得祭司之許，於底比斯神廟立柱，刻滿詛咒——咒那第一位使埃及人離儉樸生活之王美尼斯。"
+      },
+      "motifs": [
+        "taboo-transgression",
+        "sacred-kingship"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient anecdote-myth via Plutarch; no living community restrictions. Budge's footnote doubts Tafnekht's authority at Thebes."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "All agree, however, in saying that so great was the abhorrence which the ancient Egyptians expressed for whatever tended to promote luxury, expense, and voluptuousness, that in order to expose it as much as possible they erected a column in one of the temples of Thebes, full of curses against their king Meinis, who first drew them off from their former frugal and parsimonious course of life. The immediate cause for the erection of the pillar is thus given: Technatis, the father of Bocchoris, leading an army against the Arabians, and his baggage and provisions not coming up to him as soon as he expected, was therefore obliged to eat some of the very poor food which was obtainable, and having eaten, he lay down on the bare ground and slept very soundly.",
+          "note": "Verbatim excerpt of Budge, Legends of the Gods (1912), Plutarch sec. VIII."
+        },
+        {
+          "id": "2",
+          "text": "This gave him a great affection for a mean and frugal diet, and induced him to curse the memory of Meinis, and with the permission of the priests he made these curses public by cutting them upon a pillar.",
+          "note": "Verbatim excerpt of Budge (1912), Plutarch sec. VIII."
+        }
+      ],
+      "persons": []
+    }
+  ]
+}

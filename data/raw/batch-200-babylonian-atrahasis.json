@@ -1,0 +1,590 @@
+{
+  "texts": [
+    {
+      "id": "babylonian-igigi-rebellion",
+      "title": {
+        "en": "The Igigu Rebellion and the Making of Man",
+        "zh": "伊吉吉叛變與人類之造"
+      },
+      "tradition": "babylonian",
+      "category": "myth",
+      "region": {
+        "en": "Nippur and the gods' earthworks, Iraq",
+        "zh": "尼普魯與眾神工程（伊拉克）"
+      },
+      "lat": 32.126,
+      "lon": 45.23,
+      "period": "Old Babylonian, c. 18th c. BCE (Rogers translation 1912)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Cuneiform Parallels to the Old Testament, 'Ea and Atrakhasis', trans. Robert W. Rogers (1912)",
+        "url": "https://archive.org/details/cuneiformparall00rogegoog"
+      },
+      "license": "Public domain (translation 1912)",
+      "summary": {
+        "en": "The great gods burden the Igigu with digging the rivers for centuries; at last they surround Enlil's temple and refuse the shovel. Enki and the mother goddess knead mankind from clay and the blood of a slain god: the workers who will carry the gods' labor.",
+        "zh": "大神令伊吉吉掘河數百年；最後眾神圍恩利爾神殿、罷鏟不掘。恩基與母神以黏土及被誅神之血揉合成人——承擔神之勞役的工眾誕生。"
+      },
+      "motifs": [
+        "clay-humans",
+        "culture-hero",
+        "sacred-kingship"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient myth; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "For centuries the Igigu dig the rivers, dredge canals and pile the earthworks; their strength is spent, their hands too heavy. At last they surround the house of Enlil, god of force and judgment, and refuse the shovel: who will take the burden?",
+          "note": "Paraphrase of Atrahasis, Tablet I (Rogers 1912); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Enlil's fear is calmed by wise Ea's counsel: a god must die for the new work. One of the Igigu — We-ila — is slain, and Nintu the mother goddess kneads clay with his blood; on the tenth day the seventh man is formed: mankind, made to carry the gods' baskets.",
+          "note": "Paraphrase of Atrahasis, Tablet I, creation scene; not verbatim."
+        }
+      ],
+      "persons": [
+        "enlil",
+        "enki",
+        "ninhursag",
+        "atrahasis"
+      ],
+      "functions": [
+        "Founding myth of human labor as divine service",
+        "Etiology of the temple corvee economy",
+        "Theology of the strike: labor dispute as cosmogony"
+      ],
+      "variants": [
+        {
+          "name": "Enuma Elish: man from Qingu's blood",
+          "text_tradition": "Akkadian (Muss-Arnolt 1901)",
+          "summary": "The Babylonian epic's version of the same creation.",
+          "cross_ref": "babylonian-enuma-creation-man"
+        },
+        {
+          "name": "Enki and Ninmah",
+          "text_tradition": "Sumerian (ETCSL c.1.1.2)",
+          "summary": "The Sumerian prototype of the clay creation.",
+          "cross_ref": "sumerian-enki-ninmah-clay"
+        }
+      ],
+      "language": "Akkadian",
+      "canonical_translation": "Robert W. Rogers, Cuneiform Parallels to the Old Testament, 1912",
+      "primary_sources": [
+        {
+          "work": "Atrahasis (Ea and Atrakhasis)",
+          "citation": "Tablet I, trans. Robert W. Rogers (1912), Old Babylonian recension",
+          "language": "Akkadian"
+        }
+      ],
+      "secondary_sources": [
+        {
+          "work": "Myths from Mesopotamia",
+          "citation": "Stephanie Dalley, Oxford, 1989, 'Atrahasis' introduction"
+        }
+      ],
+      "source_urls": [
+        {
+          "url": "https://archive.org/details/cuneiformparall00rogegoog",
+          "description": "Rogers 1912 translations",
+          "accessed": "2026-11-14"
+        }
+      ],
+      "sensitivity_flag": "none",
+      "provenance": {
+        "record_status": "complete",
+        "compiled": "2026-11-14",
+        "compiled_by": "opencode myth-collection session",
+        "review_status": "unreviewed"
+      }
+    },
+    {
+      "id": "babylonian-atrahasis-plague",
+      "title": {
+        "en": "The Plague of Atrahasis",
+        "zh": "阿特拉哈西斯瘟疫"
+      },
+      "tradition": "babylonian",
+      "category": "myth",
+      "region": {
+        "en": "Nippur, Iraq",
+        "zh": "尼普魯（伊拉克）"
+      },
+      "lat": 32.126,
+      "lon": 45.23,
+      "period": "Old Babylonian, c. 18th c. BCE (Rogers translation 1912)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Cuneiform Parallels to the Old Testament, 'Ea and Atrakhasis', trans. Robert W. Rogers (1912)",
+        "url": "https://archive.org/details/cuneiformparall00rogegoog"
+      },
+      "license": "Public domain (translation 1912)",
+      "summary": {
+        "en": "Six hundred years later the land teems and the people's noise again disturbs Enlil; he sends pestilence. Atrahasis, told by Ea to stop worshipping all gods but Namtara, starves the god of death out — the plague ceases: mankind survives by giving Namtara bread and water.",
+        "zh": "六百年後人丁鼎盛，喧囂再擾恩利爾；他降下瘟疫。埃亞授計阿特拉哈西斯：專祭死神納姆塔爾、斷絕他神之祭；死神因饑而求和——瘟疫止息：人類以麵包與水救了自己。"
+      },
+      "motifs": [
+        "taboo-transgression",
+        "trickster",
+        "ritual-origin",
+        "plague-sent"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient myth; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Six hundred years of teeming births later, the land roars with people like a wild ox, and Enlil, troubled by their noise, sends Namtara to destroy them: let pestilence make an end of the clamor. Ea instructs Atrahasis: worship every god but Namtara — starve the death-god out. Atrahasis gathers the people, and the offerings to Namtara alone bring him bread and water; the god, shamed, accepts the first offering in six centuries and the plague ceases.",
+          "note": "Paraphrase of Atrahasis, Tablet I-II (Rogers 1912); not verbatim. / Paraphrase of Atrahasis, Tablet I-II; not verbatim."
+        }
+      ],
+      "persons": [
+        "atrahasis",
+        "enlil",
+        "enki",
+        "namtar"
+      ],
+      "functions": [
+        "Myth of ritual bargaining with the god of death",
+        "Etiology of selective offering strategy",
+        "Model of the wise intercessor"
+      ],
+      "variants": [
+        {
+          "name": "Atrahasis: the famine",
+          "text_tradition": "Akkadian (Rogers 1912)",
+          "summary": "The second and third trials of the same poem.",
+          "cross_ref": "babylonian-atrahasis-famine"
+        },
+        {
+          "name": "A man and his god",
+          "text_tradition": "Sumerian (ETCSL c.5.2.4)",
+          "summary": "The Sumerian righteous-sufferer genre.",
+          "cross_ref": "sumerian-man-god"
+        }
+      ],
+      "language": "Akkadian",
+      "canonical_translation": "Robert W. Rogers, 1912",
+      "primary_sources": [
+        {
+          "work": "Atrahasis",
+          "citation": "Tablets I-II, trans. Robert W. Rogers (1912)",
+          "language": "Akkadian"
+        }
+      ],
+      "secondary_sources": [
+        {
+          "work": "Myths from Mesopotamia",
+          "citation": "Stephanie Dalley, Oxford, 1989"
+        }
+      ],
+      "source_urls": [
+        {
+          "url": "https://archive.org/details/cuneiformparall00rogegoog",
+          "description": "Rogers 1912 translations",
+          "accessed": "2026-11-14"
+        }
+      ],
+      "sensitivity_flag": "none",
+      "provenance": {
+        "record_status": "complete",
+        "compiled": "2026-11-14",
+        "compiled_by": "opencode myth-collection session",
+        "review_status": "unreviewed"
+      }
+    },
+    {
+      "id": "babylonian-atrahasis-famine",
+      "title": {
+        "en": "Famine and Drought: The Second and Third Trials",
+        "zh": "饑荒與乾旱：第二三次災劫"
+      },
+      "tradition": "babylonian",
+      "category": "myth",
+      "region": {
+        "en": "The land of Sumer, Iraq",
+        "zh": "蘇美大地（伊拉克）"
+      },
+      "lat": 31.5,
+      "lon": 45.5,
+      "period": "Old Babylonian, c. 18th c. BCE (Rogers translation 1912)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Cuneiform Parallels to the Old Testament, 'Ea and Atrakhasis', trans. Robert W. Rogers (1912)",
+        "url": "https://archive.org/details/cuneiformparall00rogegoog"
+      },
+      "license": "Public domain (translation 1912)",
+      "summary": {
+        "en": "Enlil tries again: Adad withholds the rain, the earth's produce fails, year after year the famine eats deeper — mothers sell children — until Ea's counsel has mankind worship Adad alone, and the rain god relents.",
+        "zh": "恩利爾再施毒計：阿達德收雨，地產枯竭，年復一年饑荒日深——母親賣兒——直至埃亞授計，人們獨祭阿達德；雨神心軟降雨。"
+      },
+      "motifs": [
+        "world-renewal",
+        "trickster",
+        "ritual-origin",
+        "wise-advice"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient myth; famine imagery belongs to the mythic register."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Enlil tries again: Adad withholds his rain, Tiamat's fields crack, the year's produce fails; a second year brings dust, a third famine's depth — mothers barter their children for food, houses are closed, the land is a grave. Again Ea's counsel: worship Adad alone. The rain god, faced with the starving altar, relents and sends the rains — mankind, saved a second time by the wise man's management of divine needs.",
+          "note": "Paraphrase of Atrahasis, Tablet II (Rogers 1912); not verbatim. / Paraphrase of Atrahasis, Tablet II; not verbatim."
+        }
+      ],
+      "persons": [
+        "atrahasis",
+        "enlil",
+        "enki"
+      ],
+      "functions": [
+        "Myth of famine as divine management crisis",
+        "Escalation structure preparing the flood",
+        "Etiology of exclusive worship strategy"
+      ],
+      "variants": [
+        {
+          "name": "Atrahasis: the flood",
+          "text_tradition": "Akkadian (Rogers 1912)",
+          "summary": "The final trial of the poem.",
+          "cross_ref": "babylonian-atrahasis-flood"
+        },
+        {
+          "name": "Gilgamesh Tablet XI",
+          "text_tradition": "Akkadian (Wilson/Muss-Arnolt 1901)",
+          "summary": "The flood retold by Utnapishtim.",
+          "cross_ref": "gilgamesh-flood"
+        }
+      ],
+      "language": "Akkadian",
+      "canonical_translation": "Robert W. Rogers, 1912",
+      "primary_sources": [
+        {
+          "work": "Atrahasis",
+          "citation": "Tablet II, trans. Robert W. Rogers (1912)",
+          "language": "Akkadian"
+        }
+      ],
+      "secondary_sources": [
+        {
+          "work": "Myths from Mesopotamia",
+          "citation": "Stephanie Dalley, Oxford, 1989"
+        }
+      ],
+      "source_urls": [
+        {
+          "url": "https://archive.org/details/cuneiformparall00rogegoog",
+          "description": "Rogers 1912 translations",
+          "accessed": "2026-11-14"
+        }
+      ],
+      "sensitivity_flag": "none",
+      "provenance": {
+        "record_status": "complete",
+        "compiled": "2026-11-14",
+        "compiled_by": "opencode myth-collection session",
+        "review_status": "unreviewed"
+      }
+    },
+    {
+      "id": "babylonian-atrahasis-flood",
+      "title": {
+        "en": "Atrahasis and the Great Flood",
+        "zh": "阿特拉哈西斯與大洪水"
+      },
+      "tradition": "babylonian",
+      "category": "myth",
+      "region": {
+        "en": "Shuruppak on the Euphrates, Iraq",
+        "zh": "幼發拉底河畔舒魯帕克（伊拉克）"
+      },
+      "lat": 31.782,
+      "lon": 45.515,
+      "period": "Old Babylonian, c. 18th c. BCE (Rogers translation 1912)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Cuneiform Parallels to the Old Testament, 'Ea and Atrakhasis', trans. Robert W. Rogers (1912)",
+        "url": "https://archive.org/details/cuneiformparall00rogegoog"
+      },
+      "license": "Public domain (translation 1912)",
+      "summary": {
+        "en": "Enlil resolves on the flood; Ea, speaking through a reed wall, orders Atrahasis to build the boat, load his household and the beasts, and seal it. Seven days the storm drowns the land; the sacrifice on the mountain draws the hungry gods like flies.",
+        "zh": "恩利爾決意滅世；埃亞隔葦牆傳令：造舟、載家眷與百獸、封口。風暴七日淹沒大地；山上之祭使飢餓的諸神如蠅聚集。"
+      },
+      "motifs": [
+        "flood",
+        "world-renewal",
+        "taboo-transgression"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient myth; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Enlil resolves to destroy mankind; Ea, forbidden to warn, speaks through the reed wall of Atrahasis's house: Wall, hear; reed wall, understand — tear down your house and build a boat, load it with your household and the seed of all living, and seal the door.",
+          "note": "Paraphrase of Atrahasis, Tablet III (Rogers 1912); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "The storm floods the land for seven days; the boat rides the waves. Atrahasis opens the window, offers sacrifice on the mountain, and the gods, starving since the world's people died, gather like flies to the sweet smell — and Enlil, appeased, decrees a new order with fertility limited so the clamor will not return.",
+          "note": "Paraphrase of Atrahasis, Tablet III; not verbatim."
+        }
+      ],
+      "persons": [
+        "atrahasis",
+        "enlil",
+        "enki"
+      ],
+      "functions": [
+        "Master narrative of the flood tradition",
+        "Etiology of fertility limitations and birth rites",
+        "Charter of the wise man's covenant with heaven"
+      ],
+      "variants": [
+        {
+          "name": "Gilgamesh Tablet XI (Utnapishtim)",
+          "text_tradition": "Akkadian (Wilson/Muss-Arnolt 1901)",
+          "summary": "The flood retold inside the epic of Gilgamesh.",
+          "cross_ref": "gilgamesh-flood"
+        },
+        {
+          "name": "Ziusudra flood (Sumerian)",
+          "text_tradition": "Sumerian (ETCSL c.1.7.4)",
+          "summary": "The Sumerian ancestor of the tale.",
+          "cross_ref": "sumerian-flood-ziusudra"
+        },
+        {
+          "name": "Berossus' Xisuthrus",
+          "text_tradition": "Greek (George Smith 1876)",
+          "summary": "The late Babylonian flood narrative.",
+          "cross_ref": "mesopotamian-berossus-flood"
+        }
+      ],
+      "language": "Akkadian",
+      "canonical_translation": "Robert W. Rogers, 1912",
+      "primary_sources": [
+        {
+          "work": "Atrahasis",
+          "citation": "Tablet III, trans. Robert W. Rogers (1912)",
+          "language": "Akkadian"
+        }
+      ],
+      "secondary_sources": [
+        {
+          "work": "The Babylonian Story of the Deluge",
+          "citation": "E. A. Wallis Budge, London, 1920"
+        }
+      ],
+      "source_urls": [
+        {
+          "url": "https://archive.org/details/cuneiformparall00rogegoog",
+          "description": "Rogers 1912 translations",
+          "accessed": "2026-11-14"
+        }
+      ],
+      "sensitivity_flag": "none",
+      "provenance": {
+        "record_status": "complete",
+        "compiled": "2026-11-14",
+        "compiled_by": "opencode myth-collection session",
+        "review_status": "unreviewed"
+      }
+    },
+    {
+      "id": "babylonian-atrahasis-fertility",
+      "title": {
+        "en": "Barren Women and the Demon Pashittu",
+        "zh": "不育婦女與帕什圖魔"
+      },
+      "tradition": "babylonian",
+      "category": "myth",
+      "region": {
+        "en": "Birth houses of Sumer, Iraq",
+        "zh": "蘇美產房（伊拉克）"
+      },
+      "lat": 31.5,
+      "lon": 45.5,
+      "period": "Old Babylonian, c. 18th c. BCE (Rogers translation 1912)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Cuneiform Parallels to the Old Testament, 'Ea and Atrakhasis', trans. Robert W. Rogers (1912)",
+        "url": "https://archive.org/details/cuneiformparall00rogegoog"
+      },
+      "license": "Public domain (translation 1912)",
+      "summary": {
+        "en": "Enlil's peace is made with a regulated womb: Nintu creates the barren woman, the demoness Pashittu who snatches infants, and the classes of priestesses who may not bear — and the birth rites are instituted, so the clamor never returns.",
+        "zh": "恩利爾以受控之生育締和：寧圖造不育之婦、奪嬰之魔帕什圖、不可生育的祭司階層——並定產褥之禮，喧囂自此不復。"
+      },
+      "motifs": [
+        "ritual-origin",
+        "spirit-possession",
+        "taboo-transgression"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient myth; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Enlil's peace includes a regulated womb: Nintu creates the barren woman who will not bear, and the demoness Pashittu who snatches infants from their mothers' laps. The birth rites are instituted: the mat of the birth-stool, the brick of the laboring woman, the offerings that mark the days after delivery — the poem closes with these settlements, the flood's price fixed in ritual.",
+          "note": "Paraphrase of Atrahasis, Tablet III end (Rogers 1912); not verbatim. / Paraphrase of Atrahasis, Tablet III end; not verbatim."
+        }
+      ],
+      "persons": [
+        "ninhursag",
+        "enlil",
+        "atrahasis"
+      ],
+      "functions": [
+        "Charter of birth rites and fertility regulation",
+        "Etiology of the infant-snatching demon",
+        "Social theology of sterile vocations"
+      ],
+      "variants": [
+        {
+          "name": "Lamashtu demonology",
+          "text_tradition": "Akkadian (Jastrow 1898)",
+          "summary": "The developed cult of the infant-snatching demoness.",
+          "cross_ref": "babylonian-lamashtu-pazuzu"
+        }
+      ],
+      "language": "Akkadian",
+      "canonical_translation": "Robert W. Rogers, 1912",
+      "primary_sources": [
+        {
+          "work": "Atrahasis",
+          "citation": "Tablet III, closing sections, trans. Robert W. Rogers (1912)",
+          "language": "Akkadian"
+        }
+      ],
+      "secondary_sources": [
+        {
+          "work": "Myths from Mesopotamia",
+          "citation": "Stephanie Dalley, Oxford, 1989"
+        }
+      ],
+      "source_urls": [
+        {
+          "url": "https://archive.org/details/cuneiformparall00rogegoog",
+          "description": "Rogers 1912 translations",
+          "accessed": "2026-11-14"
+        }
+      ],
+      "sensitivity_flag": "none",
+      "provenance": {
+        "record_status": "complete",
+        "compiled": "2026-11-14",
+        "compiled_by": "opencode myth-collection session",
+        "review_status": "unreviewed"
+      }
+    },
+    {
+      "id": "mesopotamian-berossus-flood",
+      "title": {
+        "en": "Xisuthrus: Berossus' Flood",
+        "zh": "克蘇特魯斯：貝羅蘇斯洪水記"
+      },
+      "tradition": "mesopotamian",
+      "category": "myth",
+      "region": {
+        "en": "Sippar, Iraq",
+        "zh": "西帕爾（伊拉克）"
+      },
+      "lat": 33.124,
+      "lon": 44.264,
+      "period": "Berossus' Babyloniaca, c. 290 BCE, preserved in George Smith 1876",
+      "source": {
+        "archive": "Project Gutenberg",
+        "work": "The Chaldean Account of Genesis, George Smith (1876), ch. on Berossus",
+        "url": "https://www.gutenberg.org/ebooks/60559"
+      },
+      "license": "Public domain (1876)",
+      "summary": {
+        "en": "The god Cronus warns Xisuthrus in a dream that a flood will destroy mankind, and to bury the writings at Sippar and build the boat; the flood passes, birds are sent out, and the survivor descends with his family — translating the Babylonian deluge into Greek chronicle.",
+        "zh": "克羅諾斯神於夢中警告克蘇特魯斯：洪水將滅人類，命其於西帕爾埋藏典籍、建造大舟。洪水退後放鳥試探，倖存者攜家眷下舟——巴比倫洪水敘事經希臘史家之筆傳世。"
+      },
+      "motifs": [
+        "flood",
+        "prophetic-vision",
+        "world-renewal"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Hellenistic retelling; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The god Cronus appears to Xisuthrus in a dream and warns him: on the fifteenth day of the month Daisios mankind shall be destroyed by a flood; bury the beginnings and endings of all things at Sippar, and build the boat.",
+          "note": "Paraphrase of Berossus' flood account as given in George Smith, Chaldean Account of Genesis (1876); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "The flood passes; birds are sent out and return without a place to rest until the third bird does not return. Xisuthrus descends with wife, daughter and pilot, pays worship to the gods, and vanishes with them; the company left in the boat searches and hears a voice from the air — go down to Babylon and dig up the writings at Sippar, and hand them to mankind.",
+          "note": "Paraphrase of Berossus' account (1876); not verbatim."
+        }
+      ],
+      "persons": [
+        "utnapishtim"
+      ],
+      "functions": [
+        "Late transmission of the flood myth to the classical world",
+        "Charter of the buried scriptures motif"
+      ],
+      "variants": [
+        {
+          "name": "Atrahasis flood",
+          "text_tradition": "Akkadian (Rogers 1912)",
+          "summary": "The older Babylonian flood.",
+          "cross_ref": "babylonian-atrahasis-flood"
+        },
+        {
+          "name": "Gilgamesh flood",
+          "text_tradition": "Akkadian (Wilson/Muss-Arnolt 1901)",
+          "summary": "The epic's flood tablet.",
+          "cross_ref": "gilgamesh-flood"
+        }
+      ],
+      "language": "Greek (preserving Akkadian tradition)",
+      "canonical_translation": "George Smith, The Chaldean Account of Genesis, 1876",
+      "primary_sources": [
+        {
+          "work": "Berossus, Babyloniaca (flood of Xisuthrus)",
+          "citation": "as quoted in George Smith, The Chaldean Account of Genesis (1876), Berossus chapter",
+          "language": "Greek"
+        }
+      ],
+      "secondary_sources": [
+        {
+          "work": "Myths of Babylonia and Assyria",
+          "citation": "Donald A. Mackenzie, London, 1915, ch. on the deluge"
+        }
+      ],
+      "source_urls": [
+        {
+          "url": "https://www.gutenberg.org/ebooks/60559",
+          "description": "George Smith 1876",
+          "accessed": "2026-11-14"
+        }
+      ],
+      "sensitivity_flag": "none",
+      "provenance": {
+        "record_status": "complete",
+        "compiled": "2026-11-14",
+        "compiled_by": "opencode myth-collection session",
+        "review_status": "unreviewed"
+      }
+    }
+  ]
+}

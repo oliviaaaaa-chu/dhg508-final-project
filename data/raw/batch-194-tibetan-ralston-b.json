@@ -1,0 +1,945 @@
+{
+  "texts": [
+    {
+      "id": "tibetan-vaidehi-patricide-omen",
+      "title": {
+        "en": "The Rain of Blood: Vaidehi and the Cursed Conception",
+        "zh": "血雨：呋提希與受詛的受孕"
+      },
+      "tradition": "tibetan",
+      "category": "myth-religion",
+      "region": {
+        "en": "Rajagriha, Magadha (Kah-gyur narrative India, symbolic pin)",
+        "zh": "摩揭陀王舍城（迦起律典敘事，象徵定位）"
+      },
+      "lat": 25.03,
+      "lon": 85.43,
+      "period": "Tibetan Kah-gyur (translated c. 9th century), from Indian sources; Schiefner/Ralston translation 1882",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Tibetan Tales Derived from Indian Sources, trans. Schiefner/Ralston (1882), ch. VI, Prince Jivaka (Kah-gyur vol. iii. pp. 56-67)",
+        "url": "https://archive.org/details/tibetantalesderi00schiuoft"
+      },
+      "license": "Public domain (Schiefner/Ralston translation 1882)",
+      "summary": {
+        "en": "A hermit Rishi curses King Bimbisara for shooting a gazelle that fled to his hermitage, vowing to be reborn by the king's chief wife to take his life; the curse draws him into Vaidehi's womb. On the day of conception blood rains from the sky, and the queen craves her husband's flesh and blood, which the king supplies disguised and from his own veins - an omen story that explains the later patricide of Ajatasatru.",
+        "zh": "仙人因賓頭沙羅王射殺逃入淨修林而受庇護的羚羊，遂詛咒來生必投生王后胎中奪其性命；詛咒之力使仙人入於呋提希胎中。受孕之日天降血雨，王后渴望食王之肉、飲王之血，國王以裹肉之衣瞞過她，又自開五肢血管供血——這則預兆故事解釋了日後阿闍世王的弒父。"
+      },
+      "motifs": [
+        "miraculous-birth",
+        "boon-curse",
+        "taboo-transgression",
+        "sacred-kingship",
+        "patricide"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Kah-gyur narrative literature; living Buddhist tradition treated respectfully."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "A Rishi endowed with five kinds of insight dwelt in a hermitage. One day, out hunting, King Bimbisara's arrow struck a gazelle that had taken refuge at the hermitage; the Rishi raged, 'Will you, king of evil, kill the gazelle that placed itself under my protection, when even beasts of prey respect my hermitage?' The king asked his troops what such insolence deserved, and was told that death was the proper punishment. 'In that case,' said the king, 'I abandon the Rishi to it.'",
+          "note": "Paraphrase of Schiefner/Ralston, Prince Jivaka (1882); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "As the preparations for his execution were made, the Rishi formed a curse: wheresoever he should be born again, he would take the king's life, for the king of evil had ordered him slain without fault. Knowing such kings are closely guarded, he resolved to enter the world by the king's chief wife; by the force of the curse he was conceived by Vaidehi. On the day of conception blood rained from the sky.",
+          "note": "Paraphrase of Schiefner/Ralston, Prince Jivaka (1882); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "Vaidehi was seized by a desire to cut flesh from the king's back and eat it. The soothsayers attributed the longing to the being in her womb; the king, advised by sagacious persons, had a cotton garment lined with raw meat and worn it, offering the meat to his wife. Believing it her husband's own flesh she ate it. Later she craved his blood; the king had the veins opened in five of his limbs and gave her the blood to drink, and her longing ceased.",
+          "note": "Paraphrase of Schiefner/Ralston, Prince Jivaka (1882); not verbatim."
+        },
+        {
+          "id": "4",
+          "text": "Nine months later a fine boy was born, and again blood rained on the day of his birth. The soothsayers read the omens plainly: this son would deprive his father of life, set the diadem on his own head, and seize the sovereignty. The king reflected that a son kills a father only for the throne - and vowed to confer the diadem on him immediately after his birth.",
+          "note": "Paraphrase of Schiefner/Ralston, Prince Jivaka (1882); not verbatim."
+        }
+      ],
+      "persons": [
+        "bimbisara",
+        "vaidehi"
+      ]
+    },
+    {
+      "id": "tibetan-amrapali-tree-maiden",
+      "title": {
+        "en": "Amrapali, the Maiden of the Banana Tree",
+        "zh": "菴沒羅女：芭蕉樹中出的少女"
+      },
+      "tradition": "tibetan",
+      "category": "myth-religion",
+      "region": {
+        "en": "Amra grove of Vaisali, Licchavi republic (Kah-gyur narrative India, symbolic pin)",
+        "zh": "吠舍離菴羅園，離車族共和國（迦起律典敘事，象徵定位）"
+      },
+      "lat": 25.99,
+      "lon": 85.13,
+      "period": "Tibetan Kah-gyur (translated c. 9th century), from Indian sources; Schiefner/Ralston translation 1882",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Tibetan Tales Derived from Indian Sources, trans. Schiefner/Ralston (1882), ch. VI, Prince Jivaka",
+        "url": "https://archive.org/details/tibetantalesderi00schiuoft"
+      },
+      "license": "Public domain (Schiefner/Ralston translation 1882)",
+      "summary": {
+        "en": "A banana tree bursts open after seven days in Mahanaman's park and out steps a perfect maiden, named Amrapali for the grove she came from. Proclaimed 'a pearl of a woman' by the law of Vaisali, she cannot be married but belongs to the people; she bargains five conditions for her servitude, has the princes of all lands painted on her walls, and chooses King Bimbisara's portrait as the man she would love.",
+        "zh": "摩訶那摩園中一株芭蕉樹七日後迸裂，走出一位肢體圓滿的少女，因出自菴羅園而名菴沒羅女。吠舍離之法判定她為「珠女」，不得出嫁而屬眾人；她以五項條件換取承諾，又令畫師把列國君王畫上牆壁，最後目光停在賓頭沙羅王的畫像上。"
+      },
+      "motifs": [
+        "miraculous-birth",
+        "oracle-divination",
+        "divine-marriage"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Historical literary corpus (Kah-gyur narrative); the courtesan institution described belongs to ancient Indian narrative settings, treated factually."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "In Mahanaman's park a Kadali tree suddenly grew up and at once put forth blossoms. The soothsayers declared it would burst at the end of seven days and a maiden would come forth from within. The householder cleared the park, sprinkled it with sandal-water, hung silk, strewn flowers, and went out in state with song and music; the stem burst, and there stepped out a beautiful maiden, lovely to look upon, perfect in all parts of her body. Her name was given from the Amra grove: Amrapali.",
+          "note": "Paraphrase of Schiefner/Ralston, Prince Jivaka (1882); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Suitors came from the Krauncha land and the Sakya land and beyond - kings' sons, ministers' sons, merchants, caravan leaders. Mahanaman laid the matter before the people, and the men of Vaisali answered from their old law: a pearl of a woman is not to be given in marriage but belongs to the enjoyments of the people. Amrapali answered the verdict by bargaining: if the people granted five wishes - a house in the first district, sole right of entry, five hundred Karshapanas from every guest, seven days' grace before house-search, and no heed taken of who came or left - she would belong to the people's enjoyments.",
+          "note": "Paraphrase of Schiefner/Ralston, Prince Jivaka (1882); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "She then sent for painters from every region and had the walls covered with portraits of the kings, ministers, merchants and caravan leaders they had seen. Going from picture to picture she asked who each was; at the portrait of Sreni Bimbisara, king of Magadha, her eyes stopped, and she wondered whether a man of such port and stature would devote himself to love with her.",
+          "note": "Paraphrase of Schiefner/Ralston, Prince Jivaka (1882); not verbatim."
+        }
+      ],
+      "persons": [
+        "amrapali",
+        "bimbisara"
+      ]
+    },
+    {
+      "id": "tibetan-abhaya-fearless",
+      "title": {
+        "en": "Prince Abhaya, the Fearless",
+        "zh": "無畏王子阿波耶"
+      },
+      "tradition": "tibetan",
+      "category": "myth-religion",
+      "region": {
+        "en": "Rajagriha, Magadha (Kah-gyur narrative India, symbolic pin)",
+        "zh": "摩揭陀王舍城（迦起律典敘事，象徵定位）"
+      },
+      "lat": 25.03,
+      "lon": 85.43,
+      "period": "Tibetan Kah-gyur (translated c. 9th century), from Indian sources; Schiefner/Ralston translation 1882",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Tibetan Tales Derived from Indian Sources, trans. Schiefner/Ralston (1882), ch. VI, Prince Jivaka",
+        "url": "https://archive.org/details/tibetantalesderi00schiuoft"
+      },
+      "license": "Public domain (Schiefner/Ralston translation 1882)",
+      "summary": {
+        "en": "Bimbisara, smitten by Amrapali, is told by her that her seven-day exemption from house-search gives him time; the king stays a week, leaves a robe and signet, and rides off. Their son, taunted by Licchavi children as a slave's son, is sent by his mother in a merchant caravan with the royal seal on his neck; laying pearls at the king's feet he answers the charge of fearlessness - 'has a son anything to fear from his father?' - and is named Abhaya.",
+        "zh": "賓頭沙羅王為菴沒羅女傾倒，她指其宅七日免於搜查，王遂留宿七日，留下衣袍與印戒而去。二人生子，被離車孩童譏為婢女之子；母親託商隊以印戒鈐其頸送入王宮。少年將珠串置於王足，答曰「子於其父何所懼」，遂得無畏之名。"
+      },
+      "motifs": [
+        "miraculous-birth",
+        "sacred-kingship"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Kah-gyur narrative literature; living Buddhist tradition treated respectfully."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The bell of the Yaksha gatehouse rang as King Bimbisara entered Vaisali, and the Licchavis swarmed out to search for the enemy within their walls. Amrapali calmed her royal guest: her house could not be searched for seven days, so he might enjoy himself a week. When the week ended he left a robe and a ring: if the child is a daughter let her stay; if a son, dress him in this robe, stamp this seal on his neck, and send him to me.",
+          "note": "Paraphrase of Schiefner/Ralston, Prince Jivaka (1882); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "The boy, taunted by the Licchavi children - 'Son of a female slave, who is your father?' - came in tears to his mother. She armed him with words: answer that none of them has such a father, and name King Bimbisara. When this only brought worse blows, she found a caravan of merchants traveling to Rajagriha, told them their goods would pass free with the ring's seal, and sent the boy to the palace stamped with the seal.",
+          "note": "Paraphrase of Schiefner/Ralston, Prince Jivaka (1882); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "At the gate the boy laid a string of pearls at the king's feet and climbed to his breast. 'This boy seems to be without fear,' said the king. 'Has a son anything to fear from his father?' the boy replied. From the words 'without fear' the prince was named Abhaya.",
+          "note": "Paraphrase of Schiefner/Ralston, Prince Jivaka (1882); not verbatim."
+        }
+      ],
+      "persons": [
+        "amrapali",
+        "bimbisara",
+        "abhaya"
+      ]
+    },
+    {
+      "id": "tibetan-jivaka-chest-found",
+      "title": {
+        "en": "Jivaka, the Living One Found in the Chest",
+        "zh": "箱中拾得的耆婆「活者」"
+      },
+      "tradition": "tibetan",
+      "category": "myth-religion",
+      "region": {
+        "en": "Palace gate of Rajagriha, Magadha (Kah-gyur narrative India, symbolic pin)",
+        "zh": "摩揭陀王舍城宮門（迦起律典敘事，象徵定位）"
+      },
+      "lat": 25.03,
+      "lon": 85.43,
+      "period": "Tibetan Kah-gyur (translated c. 9th century), from Indian sources; Schiefner/Ralston translation 1882",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Tibetan Tales Derived from Indian Sources, trans. Schiefner/Ralston (1882), ch. VI, Prince Jivaka",
+        "url": "https://archive.org/details/tibetantalesderi00schiuoft"
+      },
+      "license": "Public domain (Schiefner/Ralston translation 1882)",
+      "summary": {
+        "en": "A merchant's wife, made pregnant by King Bimbisara, sends her newborn in a lamp-lit chest to the palace gate while her husband is kept away on a false gem-hunt. Prince Abhaya begs whatever the chest contains; inside is a living boy, whom the king's question 'is it alive or dead?' names - Jivaka, the Living One. Growing up beside Abhaya, Jivaka sees a physician enter the palace and chooses the healing art as his craft.",
+        "zh": "商人之妻為賓頭沙羅王所孕，趁丈夫被藉口留住外地，將新生兒連盒置於燈照的宮門前。無畏王子求王將盒中之物賜己；盒中所見是一活男嬰。王問「是活是死」，遂以「活」為名——耆婆。他自幼與阿波耶同長，見白衣醫師入宮，便擇醫道為業。"
+      },
+      "motifs": [
+        "miraculous-birth"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Kah-gyur narrative literature; living Buddhist tradition treated respectfully."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "A rich merchant of Rajagriha left for foreign parts; his wife, delicate-fed and finely dressed, felt desire when the king rode by, threw him a wreath from the window, and took him in. With child by him, she told the king, who sent her husband on a false errand for precious stones so that he would not return too soon. Nine months later she bore a fine boy, fed him on butter and honey, stamped the royal seal on his neck, wrapped him in the robe, laid him in a chest with lamps burning round it, and set a serving-maid to watch until someone took the child in.",
+          "note": "Paraphrase of Schiefner/Ralston, Prince Jivaka (1882); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "From the palace roof the king and Prince Abhaya saw the lamps at the gate. The prince begged that whatever the chest contained be given to him; opened, it held a boy. Asked if the child was alive or dead, the servants said he was alive; the king recognized the seal and robe and gave the child to Abhaya, who brought him up. For having been asked whether he lived, and for Abhaya's care, the boy was named Jivaka Kumarabhanda - the Living One.",
+          "note": "Paraphrase of Schiefner/Ralston, Prince Jivaka (1882); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "Grown up, Jivaka talked one day with Abhaya about learning a craft to earn bread. Abhaya, seeing a white-clad coachmaker enter the palace, chose coachmaking; Jivaka, seeing a white-clad physician - who cures, and is paid when the patient recovers but receives nothing when he dies - resolved to study the healing art, saying that kings' sons are in the habit of learning all arts. His father, King Bimbisara, let him.",
+          "note": "Paraphrase of Schiefner/Ralston, Prince Jivaka (1882); not verbatim."
+        }
+      ],
+      "persons": [
+        "jivaka",
+        "abhaya",
+        "bimbisara"
+      ]
+    },
+    {
+      "id": "tibetan-jivaka-takshasila",
+      "title": {
+        "en": "Jivaka Studies under Atreya at Takshasila",
+        "zh": "耆婆就學於呾叉始羅的阿提耶"
+      },
+      "tradition": "tibetan",
+      "category": "myth-religion",
+      "region": {
+        "en": "Takshasila, the physician's school (symbolic pin at Taxila, Pakistan)",
+        "zh": "呾叉始羅醫師學院（象徵定位於今巴基斯坦呾叉始羅）"
+      },
+      "lat": 33.75,
+      "lon": 72.85,
+      "period": "Tibetan Kah-gyur (translated c. 9th century), from Indian sources; Schiefner/Ralston translation 1882",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Tibetan Tales Derived from Indian Sources, trans. Schiefner/Ralston (1882), ch. VI, Prince Jivaka",
+        "url": "https://archive.org/details/tibetantalesderi00schiuoft"
+      },
+      "license": "Public domain (Schiefner/Ralston translation 1882)",
+      "summary": {
+        "en": "Studying under the king of physicians Atreya, Jivaka silently corrects his master's fatal prescription and answers every price in the market he was not sent to ask about. Sent with the other pupils to fetch 'what is no remedy' from the pine-hill, he returns with a reed-knot, a stone and a leavening pot, and reads from elephant tracks a whole hidden story. Hiding in a pit, he sees Atreya open a skull and teaches him mid-operation how to seize the worm - and is finally shown the skull-opening art himself.",
+        "zh": "耆婆在醫王阿提耶門下，暗中改正師父足以致命的處方，又報出未被問及的一切市價。眾徒奉命往松丘取「非藥之物」，他只帶回葦結、石片與酵缽，並從象跡讀出盲眼母象及其騎象孕婦的全部隱情。最後藏身坑中觀看開顱手術，中途出聲指點夾蟲之法，學成開顱之術。"
+      },
+      "motifs": [
+        "parable-teaching",
+        "oracle-divination"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Kah-gyur narrative literature; living Buddhist tradition treated respectfully."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Jivaka mastered everything Atreya taught at the slightest intimation. Sent with his master to a patient and told to administer a remedy, he judged that the prescription would kill the man that very day and substituted another; the patient improved, and Atreya conceded his own mistake. Sent to the market to ask the price of one article while the Brahmans' sons asked their own, Jivaka learned the prices of every commodity besides, and answered them all when tested.",
+          "note": "Paraphrase of Schiefner/Ralston, Prince Jivaka (1882); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Atreya sent his pupils to the pine-hill to fetch that which is no remedy. Each brought back something; Jivaka returned with a knot from a reed, a morsel of stone, and a leavening pot, having reasoned that there is scarcely anything which is not a remedy. On the way he had cured a herd-girl's eyes with a remedy at hand and explained the fumigation, the breaking of the milk-pot and the scorpion-sting uses of his three objects; Atreya laughed.",
+          "note": "Paraphrase of Schiefner/Ralston, Prince Jivaka (1882); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "Examining elephant tracks on the road, Jivaka declared them those of a female elephant, blind of the right eye and big with young, ridden by a pregnant woman also blind of the right eye - each fact read from the prints: the oblong footprint, the grass eaten only on the left, the pressure of the feet, the alighting-woman's track, the flowers plucked on one side. Everything proved true, and Atreya said to the Brahmans' sons: such is Jivaka's intelligence.",
+          "note": "Paraphrase of Schiefner/Ralston, Prince Jivaka (1882); not verbatim."
+        },
+        {
+          "id": "4",
+          "text": "One art remained unlearned: the opening of the skull. When a man afflicted with a cerebral malady came, Jivaka begged to be hidden where he could watch the operation. Placed in the pit, the patient's skull opened, and as Atreya moved his pincers toward the reptile, Jivaka cried out not to be hasty - warm the pincers, touch the creature's back, and toss it out when it draws in its limbs. The man was cured; Atreya, much pleased, showed Jivaka the skull-opening art, asking only that he not practise it in that country, where the teacher earned his bread by it.",
+          "note": "Paraphrase of Schiefner/Ralston, Prince Jivaka (1882); not verbatim."
+        }
+      ],
+      "persons": [
+        "jivaka",
+        "atreya"
+      ]
+    },
+    {
+      "id": "tibetan-jivaka-wonder-cures",
+      "title": {
+        "en": "Jivaka's Wonder-Cures on the Road",
+        "zh": "耆婆遊方的奇效醫案"
+      },
+      "tradition": "tibetan",
+      "category": "myth-religion",
+      "region": {
+        "en": "Cities of the Ganges plain (Kah-gyur narrative India, symbolic pin at Mathura)",
+        "zh": "恆河平原諸城（迦起律典敘事，以馬土臘為象徵定位）"
+      },
+      "lat": 27.49,
+      "lon": 77.67,
+      "period": "Tibetan Kah-gyur (translated c. 9th century), from Indian sources; Schiefner/Ralston translation 1882",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Tibetan Tales Derived from Indian Sources, trans. Schiefner/Ralston (1882), ch. VI, Prince Jivaka",
+        "url": "https://archive.org/details/tibetantalesderi00schiuoft"
+      },
+      "license": "Public domain (Schiefner/Ralston translation 1882)",
+      "summary": {
+        "en": "Traveling home from Takshasila, Jivaka finds a gem in a dying wood-carrier's load that lights up any sickness, opens a skull to draw out a centipede, frightens a park-demon into twelve yojanas' flight with goats' hair smoke, learns the cure for displaced bowels by overhearing vultures over a corpse, revives the dead wrestler with powder blown through a reed, and lures seven hundred young centipedes out of a man's ear with a drum and a piece of meat.",
+        "zh": "耆婆自呾叉始羅返程，從負薪人的柴束中得照見病源的寶珠；開顱取出蜈蚣；以山羊毛之煙把公園惡鬼驅出十二由旬；聽兀鷹母雛的對話悟出治脫腸之法，以葦管吹藥救活摔跤死者；再以鼓聲與肉塊誘出病者耳中七百條蜈蚣母子。"
+      },
+      "motifs": [
+        "parable-teaching",
+        "spirit-possession",
+        "sacred-kingship"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Kah-gyur narrative literature; living Buddhist tradition treated respectfully."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Meeting a wood-carrier skin and bone, sweating under his load, Jivaka asked to buy the wood and discovered in it the gem that brings all beings to belief: placed before an invalid it lights him up as a lamp lights a house and reveals the nature of his malady. In the Udumbara land a man who beat his own itching head with his measuring-stick proved, under the gem, to carry a centipede inside his skull; Jivaka hid the cure's authorship, opened the skull with the proper instrument, warmed the pincers, and drew the creature out.",
+          "note": "Paraphrase of Schiefner/Ralston, Prince Jivaka (1882); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "In the Rohitaka land a park was haunted by the demon of its dead owner, who had killed two watchmen. A dropsical man, given up by all doctors, slept there defiantly, and in the night the demon and the disease - the Dropsy personified - quarreled over their victim, each boasting the remedy that could destroy the other: smoke of goats' hair for the demon, radish-seed pounded in butter for the dropsy. Jivaka, overhearing, applied both cures; the demon flew twelve yojanas away and the man recovered.",
+          "note": "Paraphrase of Schiefner/Ralston, Prince Jivaka (1882); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "At Mathura a wrestler struck down in combat had died with displaced bowels and was carried out to burial. On a tree above, young vultures cried for flesh, and their mother told them the king of doctors Jivaka was come and would set the Malla to rights by blowing powder into his bowels. Jivaka, overhearing, laid the believing-gem on the corpse's head, saw the displaced entrails, blew powder through a hollow reed - and the man stood up alive. Another wrestler at Vaisali, whose eyeball protruded from a blow, was restored by Jivaka's pulling the sinews of his heel.",
+          "note": "Paraphrase of Schiefner/Ralston, Prince Jivaka (1882); not verbatim."
+        },
+        {
+          "id": "4",
+          "text": "At Vaisali a centipede had crept into a man's ear and given birth to seven hundred young. Hitherto he had acted by his teacher's instructions; now Jivaka resolved to act by his own intelligence. He had a hut of foliage made, carpeted with blue, a drum underneath, the ground warmed and sprinkled with water; then he beat the drum. The centipede, thinking summer come, crept out; a piece of meat set at the ear drew it back with all its young, and mother and brood laid hold of the meat and were flung into the flesh-pot. The man recovered, and each cured patient sent five hundred Karshapanas to Atreya.",
+          "note": "Paraphrase of Schiefner/Ralston, Prince Jivaka (1882); not verbatim."
+        }
+      ],
+      "persons": [
+        "jivaka",
+        "atreya"
+      ]
+    },
+    {
+      "id": "tibetan-jivaka-royal-cures",
+      "title": {
+        "en": "King of Physicians: Jivaka at the Courts",
+        "zh": "醫王耆婆：王庭醫案"
+      },
+      "tradition": "tibetan",
+      "category": "myth-religion",
+      "region": {
+        "en": "Rajagriha, Magadha (Kah-gyur narrative India, symbolic pin)",
+        "zh": "摩揭陀王舍城（迦起律典敘事，象徵定位）"
+      },
+      "lat": 25.03,
+      "lon": 85.43,
+      "period": "Tibetan Kah-gyur (translated c. 9th century), from Indian sources; Schiefner/Ralston translation 1882",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Tibetan Tales Derived from Indian Sources, trans. Schiefner/Ralston (1882), ch. VI, Prince Jivaka",
+        "url": "https://archive.org/details/tibetantalesderi00schiuoft"
+      },
+      "license": "Public domain (Schiefner/Ralston translation 1882)",
+      "summary": {
+        "en": "At Rajagriha, Jivaka removes King Bimbisara's crown-tumor with a hidden razor and five hundred jugs of infused water so painlessly that the king does not believe the operation is done; retracts an angry prescription that blinded a simpleton; and cures Queen Vaidehi's groin-tumor with a poultice hiding a lancet, never looking on her uncovered. Three times over, challenged by unhealed patients, he is installed king of the physicians on an elephant.",
+        "zh": "在王舍城，耆婆以藏刃與五百甕藥水之浴，無痛割除賓頭沙羅王的頭頂癰腫，王竟不信手術已成；他又收回氣話藥方，醫好因塗灰而盲的癡人；為呋提希王后以墊中藏刀之計割治股癰，未曾無禮窺視。三度被質疑者當廷對質，三度被擁上象背立為醫王。"
+      },
+      "motifs": [
+        "parable-teaching",
+        "sacred-kingship",
+        "youngest-son",
+        "miracle-cure",
+        "threefold"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Kah-gyur narrative literature; living Buddhist tradition treated respectfully."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "A tumor formed on the crown of King Bimbisara's head. The other physicians deferred to Jivaka, who undertook the case on condition of giving the king his bath. He anointed the tumor with myrobalan and ripening substances, poured over it five hundred jugs of infused water, and when it was ripe secretly touched it with a razor and squeezed it out; healing remedies followed, and five hundred jugs more, until skin and hair were perfectly even. The king kept calling on him to begin the operation, and could not find the place where the hurt had been, in mirror or in hand, until his ministers installed Jivaka king of the physicians.",
+          "note": "Paraphrase of Schiefner/Ralston, Prince Jivaka (1882); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "A man blinded by copying Jivaka's angry words - 'sprinkle the eye with ashes' - accused him before the king. Jivaka answered that he had never seen the man: his nature and the first patient's were different - and prescribed the right treatment, which restored the man's sight, whereupon the healed man himself begged the king to confirm the appointment.",
+          "note": "Paraphrase of Schiefner/Ralston, Prince Jivaka (1882); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "Queen Vaidehi suffered a tumor in the groin; Jivaka prepared a poultice, read from the impression where the diseased spot lay, concealed a lancet in the poultice, and directed the queen how to sit down upon it and rise again. The tumor gave way at the prick, was washed with bitter healing water, and the queen recovered. When the king asked how he had managed without looking upon her, Jivaka described the contrivance and the king marvelled, installing him king of the physicians a second time.",
+          "note": "Paraphrase of Schiefner/Ralston, Prince Jivaka (1882); not verbatim."
+        },
+        {
+          "id": "4",
+          "text": "A householder with glandular swelling, told by Jivaka that his remedy was hard to find, went to die in the cemetery, ate an ichneumon and a lizard that had fallen fighting into a burning corpse's fire, drank the rain-water of Mahesvara, and fed on kodrava porridge and curdled milk with butter - and recovered. Asked how he could have foretold all this, Jivaka listed the conditions of the cure exactly, and the grateful man had him installed king of the physicians for the third time.",
+          "note": "Paraphrase of Schiefner/Ralston, Prince Jivaka (1882); not verbatim."
+        }
+      ],
+      "persons": [
+        "jivaka",
+        "bimbisara",
+        "vaidehi"
+      ]
+    },
+    {
+      "id": "tibetan-jivaka-anger-cure",
+      "title": {
+        "en": "Jivaka and the Patricide King",
+        "zh": "耆婆與弒父之王"
+      },
+      "tradition": "tibetan",
+      "category": "myth-religion",
+      "region": {
+        "en": "Rajagriha, Magadha (Kah-gyur narrative India, symbolic pin)",
+        "zh": "摩揭陀王舍城（迦起律典敘事，象徵定位）"
+      },
+      "lat": 25.03,
+      "lon": 85.43,
+      "period": "Tibetan Kah-gyur (translated c. 9th century), from Indian sources; Schiefner/Ralston translation 1882",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Tibetan Tales Derived from Indian Sources, trans. Schiefner/Ralston (1882), ch. VI, Prince Jivaka",
+        "url": "https://archive.org/details/tibetantalesderi00schiuoft"
+      },
+      "license": "Public domain (Schiefner/Ralston translation 1882)",
+      "summary": {
+        "en": "Ajatasatru, who killed his father at Devadatta's urging, falls ill of an internal tumor no physician dares treat. Jivaka knows the tumor will yield only to excessive joy or excessive wrath - and since joy is impossible in so sinful a man, he pretends the king must eat his own son's flesh, serves him corpse-flesh from the Sitavana cemetery, then seizes the bowl and strikes him with it: 'you have killed your father and now want to feed on your son.' The king's fury bursts the tumor, the hidden prince is brought out alive, and Jivaka is installed king of physicians a third time.",
+        "zh": "阿闍世王受提婆達多唆使弒父後，體內生癰，諸醫不敢治。耆婆知此癰唯大喜或大怒能破，而弒父者無喜可生，遂詭稱須食王子之肉：先以屍林之肉充之，侍膳之際奪碗擊王之首，喝道「汝既弒父，今欲食子！」王怒極而癰破，血膿俱下；耆婆再引出活生生的王子，言「我不肯奪一蟻之命」。王三度立耆婆為醫王。"
+      },
+      "motifs": [
+        "taboo-transgression",
+        "sacred-kingship",
+        "parable-teaching",
+        "kin-slaying",
+        "threefold",
+        "patricide"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Kah-gyur narrative literature; living Buddhist tradition treated respectfully. Patricide theme belongs to the classical Ajatasatru story-cycle."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "When Ajatasatru, impelled by Devadatta, the friend of vice, deprived of life his father, the lawful king, he fell ill of an internal tumor. The physicians refused: 'as your elder brother is here, Jivaka, the king of the physicians, wherefore should we cure you?' Summoned, Jivaka reflected that the tumor might yield to excessive joy or excessive wrath - and since joy was impossible in so sinful a man, wrath must be excited at all risks.",
+          "note": "Paraphrase of Schiefner/Ralston, Prince Jivaka (1882); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "He told the king he could heal him provided he would feed on Prince Udajibhadra's flesh. The king raged - he had killed his father, and now the physician wanted his son's blood - but consented. Jivaka displayed the prince in stately array for the last time, then hid him at his own house; from the Sitavana cemetery he took flesh of a corpse, dressed it in the most excellent materials, and served it up at dinner.",
+          "note": "Paraphrase of Schiefner/Ralston, Prince Jivaka (1882); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "As the king prepared to partake, Jivaka seized the bowl, hit him over the head with it, and cried: 'Evil-doer, you have taken the life of your own father, and now you want to feed on the flesh of your own son!' The king burst out in wrath, the tumor gave way and discharged upwards and downwards mixed with blood; the king fainted, was sprinkled with water, bathed, nourished - and recovered his health.",
+          "note": "Paraphrase of Schiefner/Ralston, Prince Jivaka (1882); not verbatim."
+        },
+        {
+          "id": "4",
+          "text": "Then Jivaka brought forth Prince Udajibhadra in all state and touched the king's feet: 'here stands Prince Udajibhadra. I would not deprive an ant of its life, not to speak of the prince; but only by this contrivance could the king's life be saved.' The king marvelled greatly, and the ministers installed Jivaka for the third time as king of the physicians, setting him on an elephant with great pomp.",
+          "note": "Paraphrase of Schiefner/Ralston, Prince Jivaka (1882); not verbatim."
+        }
+      ],
+      "persons": [
+        "jivaka",
+        "ajatasatru",
+        "devadatta"
+      ]
+    },
+    {
+      "id": "tibetan-visakha-champa-maiden",
+      "title": {
+        "en": "Visakha the Champa Maiden and the Brahman's Questions",
+        "zh": "瞻波女毘舍佉與婆羅門之問"
+      },
+      "tradition": "tibetan",
+      "category": "myth-religion",
+      "region": {
+        "en": "Park of Champa (Kah-gyur narrative India, symbolic pin)",
+        "zh": "瞻波園林（迦起律典敘事，象徵定位）"
+      },
+      "lat": 25.28,
+      "lon": 84.12,
+      "period": "Tibetan Kah-gyur (translated c. 9th century), from Indian sources; Schiefner/Ralston translation 1882",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Tibetan Tales Derived from Indian Sources, trans. Schiefner/Ralston (1882), ch. VII, Visakha (Kah-gyur iii. 71-80)",
+        "url": "https://archive.org/details/tibetantalesderi00schiuoft"
+      },
+      "license": "Public domain (Schiefner/Ralston translation 1882)",
+      "summary": {
+        "en": "A marriage-broker Brahman trails a party of girls to the park and finds one who walks decorously, bathes without uncovering, feeds her servants before herself, wears boots in the water, keeps her parasol up under the trees and stays in the open in the rain - and answers every question with a proverb-proof. The mother's eightfold wedding counsel, riddling ('honor sun and moon, wear white clothes, apply a ladder'), is first thought wrong-headed; years later Visakha decodes all eight.",
+        "zh": "做媒的婆羅門隨少女們至園林，獨見毘舍佉舉止端莊、入水不露、先餵僕從、水中穿靴、林中張傘、雨中不避廟，每問必以妙語對答。臨嫁時母親授以謎語般的八條訓誡，媒人初以為荒唐；多年之後毘舍佉逐一解明八喻。"
+      },
+      "motifs": [
+        "parable-teaching",
+        "wisdom-sacrifice",
+        "wise-advice"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Kah-gyur narrative literature; living Buddhist tradition treated respectfully."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The other girls ran, skipped, rolled about, laughed and spun as they went to the park; Visakha alone walked at an even pace. Asked why, she answered that girls are merchandise their parents vend - if she broke an arm or leg leaping, who would woo her? In the water she lifted her clothes by degrees and let them down again as she came out: women should be shamefaced, she said, and the Brahman himself would have seen her otherwise. At food she served the attendants first: she reaped the fruits of her merits and had feast-days, they reaped the fruits of their trouble and seldom got great things.",
+          "note": "Paraphrase of Schiefner/Ralston, Visakha (1882); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "She kept her boots on in the water and the others did not: 'the world is foolish; it is precisely in water that one should wear boots, for on dry land one can see tree-stems, thorns, stones and shell-fragments, but in the water none of these.' She kept her parasol up under the trees of the Amra wood: birds and monkeys drop things there, and boughs fall; in the open it is seldom needed. And when rain came and the girls hid in an empty temple, she stood in the open air: such empty temples are never free from orphans, bastards and sharpers, and it is better to lose one's life in the open than to enter one.",
+          "note": "Paraphrase of Schiefner/Ralston, Visakha (1882); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "Won for Mrgadhara's son Visakha by the Brahman's courtship, the maiden was sent off with her mother's counsel: honor the sun and moon, mind the fire, wipe the mirror clean, wear white clothes, take but not give, keep your word, yield your place to none, eat savory food, sleep tranquilly, apply a ladder. The father-in-law judged it absurd and meant to correct it; the mother embraced her daughter in tears, and the daughter admonished her: what unites underlies separation - do not wail, keep silence.",
+          "note": "Paraphrase of Schiefner/Ralston, Visakha (1882); not verbatim."
+        }
+      ],
+      "persons": [
+        "visakha"
+      ]
+    },
+    {
+      "id": "tibetan-visakha-household-wisdom",
+      "title": {
+        "en": "Visakha Runs the Household of the Minister",
+        "zh": "毘舍佉執掌相府家務"
+      },
+      "tradition": "tibetan",
+      "category": "myth-religion",
+      "region": {
+        "en": "Sravasti, Kosala (Kah-gyur narrative India, symbolic pin)",
+        "zh": "拘薩羅舍衛城（迦起律典敘事，象徵定位）"
+      },
+      "lat": 27.5,
+      "lon": 82.05,
+      "period": "Tibetan Kah-gyur (translated c. 9th century), from Indian sources; Schiefner/Ralston translation 1882",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Tibetan Tales Derived from Indian Sources, trans. Schiefner/Ralston (1882), ch. VII, Visakha",
+        "url": "https://archive.org/details/tibetantalesderi00schiuoft"
+      },
+      "license": "Public domain (Schiefner/Ralston translation 1882)",
+      "summary": {
+        "en": "On the journey to Sravasti the Champa maiden solves the embarking mare, moves the father-in-law's tent away from an overhanging hill and his couch out of a tottering temple before both collapse, and when her week of kitchen-duty comes she hoards perfume-pellets, mulls oil and spirits, and feeds the laborers oranges, flowers and meat - so that double work is done and she is made mistress of the house. Later the geese-brought rice of Uttarakuru she plants instead of hoarding, and it saves the king's life as medicine.",
+        "zh": "赴舍衛城途中，瞻波女教人先載馬駒上船使母馬自隨，又把公公的帳篷從懸巖下、床榻從將傾的神廟中移開，兩處果然崩塌。輪值炊事時她積攢香屑、調油備酒，以橙花肉食款待工人，工地加倍出活，遂主家政。其後她把雁從北俱盧洲銜來的稻穗播種成田，三年大熟，竟成國王的藥膳。"
+      },
+      "motifs": [
+        "parable-teaching",
+        "culture-hero"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Kah-gyur narrative literature; living Buddhist tradition treated respectfully."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "A mare with her newborn foal resisted being brought on board ship. Visakha heard the commotion and ordered the foal carried aboard first; the mare followed of its own accord. 'The Champa maiden is wise,' said her father-in-law. That night his tent stood under an overhanging hill; she had it moved, saying that if the mass fell he would be crushed and she would all her life hear that her father-in-law died on the way before she entered his house. The mass fell; the crowd came running, and found him alive. His couch, set in an empty temple of an old park, was likewise moved at her word - and the temple fell.",
+          "note": "Paraphrase of Schiefner/Ralston, Visakha (1882); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "When Visakha's turn came to provide the household food, she spent her days rolling into pellets and drying the residues of the perfumes used by her husband and his parents, mixed the powder with oil, prepared spirituous liquors, and renewed her own and her husband's faded garlands. In the morning she gave the laborers oranges, perfumes, flowers, meat and drink; pleased, they thought the householder's old wife herself had come to look after them, and did double work. 'As is the food so is the labor,' they said, and Mrgadhara made her mistress of the house.",
+          "note": "Paraphrase of Schiefner/Ralston, Visakha (1882); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "Geese from Uttarakurudvipa flew over Rajagriha carrying rice grown without ploughing or sowing; startled into cackling, they dropped some ears on the roofs, and the king distributed them among his ministers. Mrgadhara gave his share to Visakha, who placed them in a box and handed them to the husbandmen; the seed produced splendid rice and year upon year an abundant harvest, till all the granaries were filled. When King Prasenajit fell ill and the physicians prescribed soup of the geese-brought rice, the ministers had squandered theirs - only Visakha's golden vase of rice restored the king.",
+          "note": "Paraphrase of Schiefner/Ralston, Visakha (1882); not verbatim."
+        }
+      ],
+      "persons": [
+        "visakha",
+        "prasenajit"
+      ]
+    },
+    {
+      "id": "tibetan-visakha-royal-judgments",
+      "title": {
+        "en": "Visakha Solves the King's Cases",
+        "zh": "毘舍佉斷王案"
+      },
+      "tradition": "tibetan",
+      "category": "myth-religion",
+      "region": {
+        "en": "Sravasti, Kosala (Kah-gyur narrative India, symbolic pin)",
+        "zh": "拘薩羅舍衛城（迦起律典敘事，象徵定位）"
+      },
+      "lat": 27.5,
+      "lon": 82.05,
+      "period": "Tibetan Kah-gyur (translated c. 9th century), from Indian sources; Schiefner/Ralston translation 1882",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Tibetan Tales Derived from Indian Sources, trans. Schiefner/Ralston (1882), ch. VII, Visakha",
+        "url": "https://archive.org/details/tibetantalesderi00schiuoft"
+      },
+      "license": "Public domain (Schiefner/Ralston translation 1882)",
+      "summary": {
+        "en": "Puzzles the ministers cannot crack in a day, Visakha settles at a word: feed a disputed mare and foal equally and watch which animal defers to the other; give each claimant to a pair of boots one boot and see which protests; float a sandalwood stem to find which end is root. Her severest test is the two mothers: let each pull one of the boy's hands - the real mother lets go when he cries out, and the false one is beaten till she confesses.",
+        "zh": "宰相們查一天也無結果的疑案，毘舍佉一語而決：分飼爭執的母馬與駒，看誰讓食；把一雙靴子分給兩個冒領者各一隻，看誰抗議；檀香木浮水辨根梢。最嚴峻的是二母爭子案：令各執其一臂，真母聞兒啼而鬆手，假母不放，鞭笞之下真相自白。"
+      },
+      "motifs": [
+        "parable-teaching",
+        "oracle-divination"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Kah-gyur narrative literature; living Buddhist tradition treated respectfully. The two-mothers judgment parallels the Solomonic judgment and Greek parallels noted by Schiefner."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Country folk brought a mare and foal they could not tell apart, and the king's ministers examined them all day without conclusion. Visakha's instruction: lay fodder before them in equal parts; the foal will eat its own share and then its mother's, but the mother, without eating, will hold up her head. So it proved, and the king asked how they knew; the ministers answered that Visakha had instructed them. 'The Champa maiden is wise.'",
+          "note": "Paraphrase of Schiefner/Ralston, Visakha (1882); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Two bathers claimed the same boots, each asserting ownership until nightfall wore out the ministers. Visakha's test: give one boot to each claimant. The true owner will ask why his two boots should be separated; the other will ask what good a single boot is to him. And when merchants could not say which end of a sandalwood stem was root, she said: place it in water - the root end sinks, the upper end floats upward.",
+          "note": "Paraphrase of Schiefner/Ralston, Visakha (1882); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "After a man's death, his wife and the concubine to whom she had voluntarily given her son disputed the house and the boy. Visakha prescribed: let each take hold of one of the boy's hands; when he cries out at the pain the real mother will let go out of compassion, but the other, without compassion, will not - then beat her with a switch and she will confess. The boy was restored to her who could not hold him.",
+          "note": "Paraphrase of Schiefner/Ralston, Visakha (1882); not verbatim."
+        }
+      ],
+      "persons": [
+        "visakha",
+        "prasenajit"
+      ]
+    },
+    {
+      "id": "tibetan-visakha-32-eggs",
+      "title": {
+        "en": "Visakha's Thirty-Two Eggs and the Poisoned Feast",
+        "zh": "毘舍佉三十二卵與毒宴"
+      },
+      "tradition": "tibetan",
+      "category": "myth-religion",
+      "region": {
+        "en": "Sravasti, Kosala (Kah-gyur narrative India, symbolic pin)",
+        "zh": "拘薩羅舍衛城（迦起律典敘事，象徵定位）"
+      },
+      "lat": 27.5,
+      "lon": 82.05,
+      "period": "Tibetan Kah-gyur (translated c. 9th century), from Indian sources; Schiefner/Ralston translation 1882",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Tibetan Tales Derived from Indian Sources, trans. Schiefner/Ralston (1882), ch. VII, Visakha (end)",
+        "url": "https://archive.org/details/tibetantalesderi00schiuoft"
+      },
+      "license": "Public domain (Schiefner/Ralston translation 1882)",
+      "summary": {
+        "en": "Visakha lays thirty-two eggs - a marvel the ministers would have destroyed, but the Buddha orders them hatched in cotton-lined cages, stroked thrice daily, and on the seventh day thirty-two sons are born, all sturdy overcomers of strength. They defeat the hillmen the king's generals could not, and the jealous Purohita whispers they may seize the throne; the king invites them to a poisoned feast - while Visakha, told her sons dine at their uncle's, invites the Buddha and the Sangha to her house.",
+        "zh": "毘舍佉一胎產下三十二卵，相臣欲棄之，佛陀卻囑以棉籠各盛一卵、日三撫之；七日之後三十二子並生，個個力大過人。他們替國王討平了屢戰屢敗的山民，妒忌的國師卻進言恐其奪位；國王設毒宴相邀——而毘舍佉誤以為兒子們赴叔父之宴，當日請佛與僧眾入宅應供。"
+      },
+      "motifs": [
+        "miraculous-birth",
+        "taboo-transgression",
+        "sacred-kingship",
+        "jealousy"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Kah-gyur narrative literature; living Buddhist tradition treated respectfully."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Visakha produced thirty-two eggs. Mrgadhara sat meditating, inclined to throw away this mass produced by the fairest in the land; but Visakha said, ask Bhagavant. The Buddha answered that they were not to be thrown away: make thirty-two cages filled with cotton, place an egg in each, stroke it thrice daily, and on the seventh day thirty-two sons would come to light. So it was done, and the boys grew up sturdy and strong, overcomers of strength.",
+          "note": "Paraphrase of Schiefner/Ralston, Visakha (1882); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Driving home, their chariot-poles clashed with the Purohita's son's, and when he abused them they seized his chariot-pole and upset him on a heap of rubbish. His father, hearing it with tears, resolved to find a pretext for silencing them. When the hillmen rebelled and the king's general had been beaten seven times, Visakha's sons asked to go in his place, overcame the rebels, and took hostages and tribute - and the Purohita warned the king that men of such strength might deprive him of his regal power and exercise it themselves.",
+          "note": "Paraphrase of Schiefner/Ralston, Visakha (1882); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "The king resolved to invite the brothers to his palace and be rid of them, telling Visakha that her sons would eat with him next day. She, thinking her sons were dining at their uncle's, went to the Buddha, was gratified with discourse on the doctrine, and invited him and the clergy into her house. The king's messenger fetched the sons; the king had caused a strong poison to be put into the food, and when they were stupefied by it he ordered their heads to be cut off.",
+          "note": "Paraphrase of Schiefner/Ralston, Visakha (1882); not verbatim."
+        }
+      ],
+      "persons": [
+        "visakha",
+        "prasenajit",
+        "buddha"
+      ]
+    },
+    {
+      "id": "tibetan-mahaushadha-shadow-tree",
+      "title": {
+        "en": "The Sleeping Prince under the Shadow-Tree",
+        "zh": "蔭樹下的酣眠王子"
+      },
+      "tradition": "tibetan",
+      "category": "myth-religion",
+      "region": {
+        "en": "Park outside the city of Videha (Kah-gyur narrative India, symbolic pin)",
+        "zh": "韋提訶城外園林（迦起律典敘事，象徵定位）"
+      },
+      "lat": 26.8,
+      "lon": 85.5,
+      "period": "Tibetan Kah-gyur (translated c. 9th century), from Indian sources; Schiefner/Ralston translation 1882",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Tibetan Tales Derived from Indian Sources, trans. Schiefner/Ralston (1882), ch. VIII, Mahaushadha and Visakha (Kah-gyur xl. 53-87)",
+        "url": "https://archive.org/details/tibetantalesderi00schiuoft"
+      },
+      "license": "Public domain (Schiefner/Ralston translation 1882)",
+      "summary": {
+        "en": "Squeezed between two succession-hungry queens, King Janaka refuses to kill, maim or banish his eldest son Annapana, but invests the younger as heir; Annapana goes to Panchala, marries, dies, and his widow and boy Bahvannapana are given to the Purohita - who plots to kill the child for eating the head of a magic king-making cock. The mother smuggles him away to Videha, where the royal line has died out, and the search-party for a new king finds a youth sleeping under a tree whose shadow never moves from his body.",
+        "zh": "夾在兩位覬覦王位的王后之間，闍那迦王不肯殺、殘、逐長子阿難波那，卻立幼子為儲。長子遠走般闍羅，死後遺孀與幼子巴瓦難波那被交給國師——國師因孩子誤食能致王位的神雞之頭而謀害他，母親連夜送他逃回外祖父之地。此時韋提訶王統已絕，尋王之臣在城外見一少年睡在樹下，樹影終日不移其身。"
+      },
+      "motifs": [
+        "miraculous-birth",
+        "oracle-divination",
+        "taboo-transgression",
+        "sacred-kingship",
+        "exile"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Kah-gyur narrative literature; living Buddhist tradition treated respectfully."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "King Janaka of Videha had a bold, comely son Annapana by his first queen; taking a second wife from Aparantaka, he swore that if she bore a son that son should be heir. Threatened by her father with an army, he refused the ministers' advice to kill Annapana - murderers of fathers had been seen, but never a father killing his son - refused to mutilate or banish him, and merely invested the younger prince with the succession. Annapana went off to Panchala, won a princess, died; the widow and her boy were given to the Purohita.",
+          "note": "Paraphrase of Schiefner/Ralston, Mahaushadha and Visakha (1882); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "A cock crowed by the house, and a Brahman skilled in omens declared that he who ate its flesh would become king. The Purohita killed it, cooked it, and went off to the palace; back from school, the hungry boy Bahvannapana found the saucepan and ate the head. The omen-Brahman, consulted again, ruled that he who ate the head would be king - and that he too would be king who killed the head-eater and ate his head. Warned by her shrewd mother's reading, the boy fled to his grandfather's land of Videha.",
+          "note": "Paraphrase of Schiefner/Ralston, Mahaushadha and Visakha (1882); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "Rajyabhinanda had died uncured, and the reigning family was extinct; by royal statute the dead king could not be honored with funeral rites until a successor was found. Searching for a man marked by the force of virtuous merits, the ministers found under a tree outside the city an extremely handsome youth with a lion-like breast - a tree whose shadow never moved from his body. Awakening him with a shout, they were corrected: a slumbering king ought to be awakened with song and cymbals and beat of drum. He proved to be Annapana's son, Bahvannapana; they smiled - 'we have actually lighted upon our own prince' - and consecrated him king, renaming him Janaka in renewal of the extinct line.",
+          "note": "Paraphrase of Schiefner/Ralston, Mahaushadha and Visakha (1882); not verbatim."
+        },
+        {
+          "id": "4",
+          "text": "Inspecting his realm, the new king found that villages, towns and hill-places all belonged to the six ministers who had crowned him; he commanded nothing beyond food and clothing. A deity consoled him: in the hill-village Purnakatshtshha a son named Mahaushadha was about to be born to the head-man Purna; make that son his minister, and he would win back the realm. The king sent for Purna, conferred the village, and ordered the unborn child guarded so that no limb of it should suffer injury.",
+          "note": "Paraphrase of Schiefner/Ralston, Mahaushadha and Visakha (1882); not verbatim."
+        }
+      ],
+      "persons": [
+        "janaka",
+        "mahaushadha"
+      ]
+    },
+    {
+      "id": "tibetan-mahaushadha-child-observations",
+      "title": {
+        "en": "Great Remedy: The Boy Who Judged Like a King",
+        "zh": "大藥童子的妙判"
+      },
+      "tradition": "tibetan",
+      "category": "myth-religion",
+      "region": {
+        "en": "Hill-village Purnakatshtshha and the river Ganges (symbolic pin)",
+        "zh": "富那迦察村與恆河（象徵定位）"
+      },
+      "lat": 26.8,
+      "lon": 84.5,
+      "period": "Tibetan Kah-gyur (translated c. 9th century), from Indian sources; Schiefner/Ralston translation 1882",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Tibetan Tales Derived from Indian Sources, trans. Schiefner/Ralston (1882), ch. VIII, Mahaushadha and Visakha",
+        "url": "https://archive.org/details/tibetantalesderi00schiuoft"
+      },
+      "license": "Public domain (Schiefner/Ralston translation 1882)",
+      "summary": {
+        "en": "Named Great Remedy because his conception cured his mother's long illness, the boy Mahaushadha mocks his father's mistaking crushed fish for a jewel and comments on every marvel floating down the Ganges. Chosen king in the children's game, he judges a rogue who has abducted an old Brahman's young wife by making each claimant vomit what he ate at his father-in-law's - the liar brings up nothing - and brands the punishment on the thief's forehead with peacock's gall.",
+        "zh": "大藥之名，因母親自受孕起久病得愈。他嘲笑父親把爛魚片當寶石，又屢屢妙語評點恆河上漂過的奇觀。孩童遊戲中被擁為王，他審理拐帶老婆羅門少妻的無賴：令各人吐出在岳家所食——說謊者一無所吐；隨後以孔雀膽在其額上題寫懲戒之文。"
+      },
+      "motifs": [
+        "trickster",
+        "parable-teaching",
+        "sacred-kingship",
+        "abduction",
+        "miracle-cure"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Kah-gyur narrative literature; living Buddhist tradition treated respectfully."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "At his birth-feast the boy was named Mahaushadha - Great Remedy - at his mother's request, for she who had long suffered from illness had been cured from the time of his conception. Carried on his father's shoulder to the bath, he saw Purna try to lift with his toes what he took for a precious stone and corrected him: test it, it is no precious stone, only a piece of red fish crushed underfoot; Vaisravana is not accustomed to be so careless.",
+          "note": "Paraphrase of Schiefner/Ralston, Mahaushadha and Visakha (1882); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "At the tank a crane flew off the lotus as Purna crept near - 'the crane flew away, the lotus remained; only see, father dear, how the crane flies from the lotus.' On the Ganges a metal basin floated with a goose sitting on it, a pot with a water-hen, a ram with a heron standing upon it; each time the boy named the whole chain of marvels to his father. Playing with the children he was chosen their king, named some boys as ministers, and went on playing.",
+          "note": "Paraphrase of Schiefner/Ralston, Mahaushadha and Visakha (1882); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "On the road a rogue had lured away an old Brahman's young wife with flattery and was dragging her from her husband when the children's play-king had both brought before him. Asked where each had come from with his wife and what he had eaten at his father-in-law's, the rogue claimed meat, cakes, sorrel and wine - but vomited nothing of the sort; the Brahman brought up curdled milk, porridge and radishes. Judged a wife-stealer, the rogue was beaten, set up to the neck in a pit a man's depth, and his forehead written with peacock's gall: such does Mahaushadha punish all who steal wife, child, ox or coverlet.",
+          "note": "Paraphrase of Schiefner/Ralston, Mahaushadha and Visakha (1882); not verbatim."
+        }
+      ],
+      "persons": [
+        "mahaushadha"
+      ]
+    },
+    {
+      "id": "tibetan-mahaushadha-impossible-gifts",
+      "title": {
+        "en": "The Impossible Demands of King Janaka",
+        "zh": "闍那迦王的無理索求"
+      },
+      "tradition": "tibetan",
+      "category": "myth-religion",
+      "region": {
+        "en": "Purnakatshtshha to the capital of Videha (symbolic pin)",
+        "zh": "富那迦察村至韋提訶王都（象徵定位）"
+      },
+      "lat": 26.8,
+      "lon": 85.4,
+      "period": "Tibetan Kah-gyur (translated c. 9th century), from Indian sources; Schiefner/Ralston translation 1882",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Tibetan Tales Derived from Indian Sources, trans. Schiefner/Ralston (1882), ch. VIII, Mahaushadha and Visakha",
+        "url": "https://archive.org/details/tibetantalesderi00schiuoft"
+      },
+      "license": "Public domain (Schiefner/Ralston translation 1882)",
+      "summary": {
+        "en": "Testing the deity-promised boy, King Janaka demands a rope of sand a hundred ells long, rice neither crushed nor uncrushed, cooked neither in the house nor out of it nor with fire nor without, carried neither on the road nor off it, neither in light nor in shade, by neither man nor woman, neither riding nor walking; then a park, a tree bearing in one year, and milk from five hundred oxen. Each impossible order is answered with a mirror-impossible return - including a man publicly 'giving birth', bowl strapped to his belly, while his son prays the world-protector to bring the child forth.",
+        "zh": "為試仙人預言的神童，闍那迦王索沙繩百匒，索非搗非不搗、家內外皆非、有火無火皆非之炊飯，索不經路不離路、不見日不見蔭、非男非女、非騎非步之送運；再索園林、一年開花之樹、五百頭公牛的乳汁。大藥一一以彼之道還施：直至一男子腹縛木缽、翻滾呻吟「臨盆」，其子焚香禱告世界之護佑者保佑其父平安產子。"
+      },
+      "motifs": [
+        "trickster",
+        "sacred-kingship",
+        "parable-teaching",
+        "mirror"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Kah-gyur narrative literature; living Buddhist tradition treated respectfully."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The king demanded a rope made of sand, one hundred ells long. Purna despaired; Mahaushadha sent the messenger back with a request: as our countrymen are slow-witted, send an ell of that kind of rope as a pattern, like unto which we will twine a hundred, nay, a thousand ells. The king, told who had answered, saw that the deity's word was being executed. The second demand - rice shelled with nails by women's hands, cooked on the threshold in the sun, carried by a hermaphrodite walking one foot on the road and one off it, the pot covered with thin cloth at the end of a stick, one foot shod - was likewise fulfilled to the letter.",
+          "note": "Paraphrase of Schiefner/Ralston, Mahaushadha and Visakha (1882); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Next came orders for a park with kitchen-gardens, fruit-trees and tanks - answered by asking the king to send one of his own as a pattern - and a tree planted and sent bearing blossoms and fruits at the year's end: Mahaushadha sent a Ricinus shrub, which did exactly that. When five hundred oxen were sent to be fed and milked, the boy staged his counter-test: a father with a wooden bowl strapped over his belly rolled on the ground crying while his son scattered flowers toward the ten parts of the world and prayed that his father might propitiously bring forth his child.",
+          "note": "Paraphrase of Schiefner/Ralston, Mahaushadha and Visakha (1882); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "Summoned, the son begged that his father be allowed to give birth. The king laughed that he had never heard of a man bringing forth a child - and the youth asked wherefore then he had sent five hundred oxen to Purnakatshtshha with orders that milk and butter be obtained from them: have you ever seen oxen big with young? Then a mule was sent to be watched without tying and fed without roofing, and was guarded day and night by twenty men, one sitting on its back. The king had that watcher sent for - and the mule went off with him.",
+          "note": "Paraphrase of Schiefner/Ralston, Mahaushadha and Visakha (1882); not verbatim."
+        },
+        {
+          "id": "4",
+          "text": "Purna's life now forfeit, Mahaushadha cut his father's hair into seven strips and daubed his head with paints, and rode with him on an ass into the capital. 'Why has he dishonored his father?' asked the court. Mahaushadha answered that he had honored him, and claimed to stand higher than his father by his knowledge; the king protested that the father is always the better, for it is through the father that the son becomes known. 'Then,' said Mahaushadha, falling at his feet, 'as the father of the mule is the ass, and the father is the better, accept this ass as a set-off for the runaway mule.' The king laughed, arrayed him in fine robes, and made him a minister.",
+          "note": "Paraphrase of Schiefner/Ralston, Mahaushadha and Visakha (1882); not verbatim."
+        }
+      ],
+      "persons": [
+        "mahaushadha",
+        "janaka"
+      ]
+    },
+    {
+      "id": "tibetan-mahaushadha-great-ear",
+      "title": {
+        "en": "Mahaushadha and the Great-Ear Thief",
+        "zh": "大藥與大耳賊"
+      },
+      "tradition": "tibetan",
+      "category": "myth-religion",
+      "region": {
+        "en": "City of Videha and its cemetery (symbolic pin)",
+        "zh": "韋提訶城及其屍林（象徵定位）"
+      },
+      "lat": 26.8,
+      "lon": 85.5,
+      "period": "Tibetan Kah-gyur (translated c. 9th century), from Indian sources; Schiefner/Ralston translation 1882",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Tibetan Tales Derived from Indian Sources, trans. Schiefner/Ralston (1882), ch. VIII, Mahaushadha and Visakha",
+        "url": "https://archive.org/details/tibetantalesderi00schiuoft"
+      },
+      "license": "Public domain (Schiefner/Ralston translation 1882)",
+      "summary": {
+        "en": "A Brahman buries five hundred old gold pieces under a Nyagrodha tree rather than trust his beautiful wife; that night, hidden under the bed, her lover Mahakarna hears the hiding-place named aloud and digs it up. Mahaushadha engineers a feast of eight Brahmans, half invited by the husband and half by the wife, and has his watcher mark the house-dog - which droops its ears and wags its tail only at Mahakarna - and the wife's eyebrow-signals. Confronted, the thief begs mercy, restores the money, and the grateful Brahman offers half of it, which the minister returns.",
+        "zh": "婆羅門防著美貌的妻子，把五百古金埋在屍林尼拘陀樹下；當夜躲在床下的情人「大耳」聽見藏金之處，將錢盜走。大藥設計八婆羅門宴席，一半由夫請一半由妻請，令僕人察看家犬——牠只對大耳垂耳搖尾——並記下主婦眉目傳情之狀。賊被拿獲，乞饒還金；感恩的婆羅門欲分一半相謝，大藥婉辭不受。"
+      },
+      "motifs": [
+        "trickster",
+        "parable-teaching",
+        "helpful-animal"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Kah-gyur narrative literature; living Buddhist tradition treated respectfully."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "A learned Brahman came home with five hundred ancient gold pieces, but before entering his house buried them at twilight in a hole under a Nyagrodha tree in the cemetery, for his wife was of remarkable beauty and none could tell whether she had not taken up with another man. That night she signaled to her lover Mahakarna, Great Ear, hidden under the bed; asking her husband where the money was, she had him say aloud that it was buried under the Nyagrodha tree, and Mahakarna slipped out, dug it up, and took it home.",
+          "note": "Paraphrase of Schiefner/Ralston, Mahaushadha and Visakha (1882); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Finding the hole empty next day, the Brahman wailed to Mahaushadha, who concluded that a lover was behind it and promised restitution from his own purse if the money did not come back. He had the Brahman invite four Brahmans himself and his wife invite four, on a vow to Shiva; his own man was to stand at the door and inside, idle, watching which guest the house-dog barked at and before whom it wagged its tail, and how the wife served the food.",
+          "note": "Paraphrase of Schiefner/Ralston, Mahaushadha and Visakha (1882); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "The dog barked at every guest but one: when Mahakarna entered, it looked at him, drooped its ears, wagged its tail and followed him; and the wife, serving, signed with her eyebrows, smiled slightly, fixed her eyes on him and gave him the best fare. Mahaushadha summoned Mahakarna, asked whether it was a Brahman's business to lay hands on the property of others, and threatened him with prison until his bones became visible; terrified, the thief fetched the money tied as it had been, and the minister restored it to its owner, returning even the offered half as a present.",
+          "note": "Paraphrase of Schiefner/Ralston, Mahaushadha and Visakha (1882); not verbatim."
+        }
+      ],
+      "persons": [
+        "mahaushadha",
+        "mahakarna"
+      ]
+    }
+  ]
+}

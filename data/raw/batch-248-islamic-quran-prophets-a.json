@@ -1,0 +1,600 @@
+{
+  "texts": [
+    {
+      "id": "quran-cain-abel",
+      "title": {
+        "en": "Cain and Abel: The Raven Teaches Burial (Qur'an)",
+        "zh": "該隱與亞伯：烏鴉教埋葬（古蘭經）"
+      },
+      "tradition": "islamic",
+      "category": "myth-religion",
+      "region": {
+        "en": "Mecca / Medina recitation contexts (symbolic pin)",
+        "zh": "麥加／麥地那誦經語境（象徵性定位）"
+      },
+      "lat": 21.42,
+      "lon": 39.83,
+      "period": "Qur'an revealed c. 610-632 CE; Surah al-Ma'idah 5:27-31; Rodwell translation 1861",
+      "source": {
+        "archive": "Project Gutenberg",
+        "work": "The Koran (Al-Qur'an), trans. J. M. Rodwell, 1861, Sura 5:27-31",
+        "url": "https://www.gutenberg.org/ebooks/2800"
+      },
+      "license": "Public domain (translation 1861)",
+      "summary": {
+        "en": "Recite to them the story of Adam's two sons: each offers a sacrifice, God accepts Abel's and rejects Cain's, who declares he will kill his brother. Abel's hands stay clean — 'God accepts only from the God-fearing'; Cain kills him, and a raven sent by God scratches the earth to show him how to bury his brother's body, and he repents in shame.",
+        "zh": "古蘭經囑述阿丹二子之事：各獻祭品，真主納亞伯之祭而拒該隱之祭；該隱遂起殺弟之心。亞伯自言只敬畏者之祭被納；該隱殺之，真主遣烏鴉刨土，示以埋葬之法，該隱慚悔。"
+      },
+      "motifs": [
+        "taboo-transgression",
+        "origin-of-death",
+        "boon-curse",
+        "kin-slaying"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Sacred text of a living tradition; presented via a public-domain nineteenth-century translation for comparative study, not as religious claim. Motif tagging is interpretive; 'origin-of-death' here marks the first human murder, not a universal death-origin myth."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Recite to them truly the story of the two sons of Adam. Each of them made an offering, and it was accepted from one of them and not accepted from the other. The rejected brother said, 'I will surely slay thee.' The other answered, 'God accepts only from the God-fearing; even if thou stretch out thy hand against me to slay me, I will not stretch out mine against thee, for I fear God, the Lord of all creatures. I would rather thou shouldst bear my sin and thine own, and become an inmate of the Fire — such is the reward of the unjust.'",
+          "note": "Paraphrase of Qur'an 5:27-29 (Rodwell 1861); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "His soul persuaded him to slay his brother, and he slew him, and became one of the lost. Then God sent a raven which scratched in the ground to show him how he might hide his brother's naked corpse. 'Woe is me!' he cried, 'am I unable to be like this raven, and to hide the body of my brother?' And he became one of the repentant. On account of this We commanded the children of Israel that whoever slays a soul, unless for a soul slain or for corruption done in the earth, it shall be as if he slew all mankind; and whoever saves one alive, it shall be as if he saved all mankind.",
+          "note": "Paraphrase of Qur'an 5:30-32 (Rodwell 1861); not verbatim."
+        }
+      ],
+      "persons": [
+        "adam"
+      ]
+    },
+    {
+      "id": "quran-hud-aad",
+      "title": {
+        "en": "Hud Sent to 'Ad: The Wind That Destroyed a Nation",
+        "zh": "呼德遣於阿德：滅族的暴風"
+      },
+      "tradition": "islamic",
+      "category": "myth-religion",
+      "region": {
+        "en": "Al-Ahqaf, southern Arabia, dune country of the vanished 'Ad (symbolic pin)",
+        "zh": "南阿拉伯阿赫格夫沙丘地帶（阿德人故地；象徵性定位）"
+      },
+      "lat": 17.5,
+      "lon": 49.5,
+      "period": "Qur'an revealed c. 610-632 CE; Surahs al-A'raf 7:65-72, Hud 11:50-60; Rodwell 1861",
+      "source": {
+        "archive": "Project Gutenberg",
+        "work": "The Koran (Al-Qur'an), trans. J. M. Rodwell, 1861, Suras 7 and 11",
+        "url": "https://www.gutenberg.org/ebooks/2800"
+      },
+      "license": "Public domain (translation 1861)",
+      "summary": {
+        "en": "To 'Ad, a people who built strong places in every valley and carved houses from the mountains, God sent their brother Hud, saying 'Worship God; you have no god but Him.' The chiefs answered that strength and violence were theirs, and asked which of the gods he would have them worship. Hud called them to ask pardon and to trust; they mocked him as a fool and liar — and when the fateful day came, a piercing wind blew seven nights and eight days, and the mightiest, arrogant people were left like hollow palm-trunks.",
+        "zh": "阿德人於每谷建堅堡，自山中鑿屋；真主遣其兄弟呼德教之敬拜真主。諸侯自誇強力暴行，譏呼德為愚者謊者。報應之日，烈風連吹七夜八日，強傲之民如棕櫚枯幹，仆地而亡。"
+      },
+      "motifs": [
+        "storm-thunder",
+        "world-renewal",
+        "parable-teaching"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Sacred text of a living tradition, presented via public-domain translation; the 'Ad destruction is treated within Islam as a historical warning, not myth."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "And to 'Ad We sent their brother Hud. He said, 'O my people, worship God: ye have no other god than Him. Will ye not fear Him?' The unbelieving chiefs of his people answered, 'We see thee in folly, and we think thou art one of the liars. Shall we quit our gods at thy word? We see not that thou hast spoken truth; thou art one of the mockers.' He said, 'O my people, there is no folly in me; I am a messenger from the Lord of all creatures. The messages of my Lord I bring you, and I am your faithful counsellor.'",
+          "note": "Paraphrase of Qur'an 7:65-68 (Rodwell 1861); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "'Do ye build a landmark on every high place to amuse yourselves? And get you strong places, haply to abide for ever? And when you seize, do you seize as tyrants? Fear God and me, and fear Him who hath aided you with what ye know — with cattle and children and gardens and springs.' Then they said, 'Thou hast come to turn us from what our fathers worshipped, and to obtain the chiefdom in the land; we believe thee not.'",
+          "note": "Paraphrase of Qur'an 26:128-136 combined with 11:50-62 (Rodwell 1861); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "And when the fateful day came upon them, a piercing wind blew during seven nights and eight days, and it laid those people low; and thou mightest have seen them lying prostrate as though they had been trunks of hollow palm-trees. 'Ad believed not their Lord: away with 'Ad, the people of Hud! And We saved him and those who believed with him by Our mercy, from an ignominious chastisement.",
+          "note": "Paraphrase of Qur'an 11:58-67, 69:6-7 (Rodwell 1861); not verbatim."
+        }
+      ],
+      "persons": [
+        "hud"
+      ]
+    },
+    {
+      "id": "quran-salih-camel",
+      "title": {
+        "en": "Salih and the She-Camel of Thamud",
+        "zh": "撒利哈與賽莫德人的母駝"
+      },
+      "tradition": "islamic",
+      "category": "myth-religion",
+      "region": {
+        "en": "Hijr / Al-Hijr, carved rock dwellings of Thamud, north Arabia (symbolic pin)",
+        "zh": "北阿拉伯希季爾岩鑿居所（賽莫德人故地；象徵性定位）"
+      },
+      "lat": 26.79,
+      "lon": 37.95,
+      "period": "Qur'an revealed c. 610-632 CE; Surahs 7:73-79, 11:61-68, 26:141-159; Rodwell 1861",
+      "source": {
+        "archive": "Project Gutenberg",
+        "work": "The Koran (Al-Qur'an), trans. J. M. Rodwell, 1861, Suras 7, 11, 26",
+        "url": "https://www.gutenberg.org/ebooks/2800"
+      },
+      "license": "Public domain (translation 1861)",
+      "summary": {
+        "en": "To Thamud, who cut grand houses from the mountains, God sent their brother Salih with a sign: a she-camel of God, to be let alone to pasture on God's earth and to drink in turn with the people at the rock. Nine wicked men hamstrung her; Salih said, 'Enjoy your dwellings three days — this is a threat that shall not be belied'; and the cry of punishment seized them, and they lay dead in their houses, overthrown in their own dwellings.",
+        "zh": "賽莫德人鑿山為巨宅；真主遣其兄弟撒利哈，並以真主母駝為兆，令其任牧於主地，與民輪流飲水。九個惡徒斷其腳筋；撒利哈言：『你們可居宅三日，此約必不爽。』刑聲臨之，眾仆死於宅中。"
+      },
+      "motifs": [
+        "taboo-transgression",
+        "boon-curse",
+        "world-renewal",
+        "threefold"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Sacred text of a living tradition; public-domain translation used for comparative study."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "And to Thamud We sent their brother Salih. He said, 'O my people, worship God: ye have no other god than Him. Now hath a clear sign come to you from your Lord — this she-camel of God is a sign to you. Let her alone to feed on God's earth, and touch her with no harm, lest a grievous chastisement seize you.'",
+          "note": "Paraphrase of Qur'an 7:73 (Rodwell 1861); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "And Salih said, 'She shall have her portion of water, and ye shall have your portion of water on an appointed day; and drive her not to harm with any harm of the day, lest the punishment of a great day seize you.' But the people hamstrung her and denied themselves the mercy of God's sign: 'Call down upon us what thou dost threaten, if thou art one of the sent.'",
+          "note": "Paraphrase of Qur'an 54:28-29 and 26:155-157 (Rodwell 1861); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "Salih said, 'Enjoy yourselves in your dwellings three days more: this is a threat that shall not be belied.' And when Our commandment came, We saved Salih and those who believed with him, by a mercy from Us, from the ignominy of that day. Thy Lord is the Strong, the Mighty; and the cry of punishment overtook those who dealt unjustly, and in the morning they lay dead in their houses, prostrate as though they had never dwelt in them.",
+          "note": "Paraphrase of Qur'an 11:65-67 (Rodwell 1861); not verbatim."
+        }
+      ],
+      "persons": [
+        "salih"
+      ]
+    },
+    {
+      "id": "quran-lut-guests",
+      "title": {
+        "en": "Lut's Guests: Angels in the City of Sodom",
+        "zh": "魯特之客：天使入所多瑪城"
+      },
+      "tradition": "islamic",
+      "category": "myth-religion",
+      "region": {
+        "en": "Southern Dead Sea plain (Sodom; symbolic pin)",
+        "zh": "死海南平原（所多瑪故地；象徵性定位）"
+      },
+      "lat": 31.1,
+      "lon": 35.5,
+      "period": "Qur'an revealed c. 610-632 CE; Surahs 11:69-83, 15:51-77, 7:80-84; Rodwell 1861",
+      "source": {
+        "archive": "Project Gutenberg",
+        "work": "The Koran (Al-Qur'an), trans. J. M. Rodwell, 1861, Suras 11, 15, 7",
+        "url": "https://www.gutenberg.org/ebooks/2800"
+      },
+      "license": "Public domain (translation 1861)",
+      "summary": {
+        "en": "Abraham's angel-guests travel on to Lut, who is grieved by them and shrinks from the task of protecting them. The men of the city come crowding with evil intent; the angels say, 'Fear not — we are sent to the guilty people'; they tell Lut to travel by night with his family, 'and let none of you turn round,' for a cry will strike the wicked at dawn, and the city is rained on with stones of baked clay.",
+        "zh": "亞伯拉罕的天使客人續行至魯特處，魯特為之愁苦，憂難保護。城人聚集行惡；天使言：『勿懼——我們是遣往惡民者。』囑魯特夜間攜眷而行，『勿回頭』；黎明刑聲擊惡人，天雨燒結之石。"
+      },
+      "motifs": [
+        "theophany",
+        "taboo-transgression",
+        "world-renewal"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Sacred text of a living tradition; presented via public-domain translation; historical destruction narrative within Islam, not myth."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "And when the messengers came to the family of Lut, he said to them, 'Verily ye are strangers.' They said, 'Nay, but we have come to thee about that concerning which they doubted; and we have come to thee with the truth, and we are surely truthful messengers. Travel with thy family in the night, and follow thou after them, and let none of you turn round; and go whither ye are commanded.'",
+          "note": "Paraphrase of Qur'an 15:61-65 (Rodwell 1861); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "And the people of the city came joyously to him. He said, 'These are my guests; disgrace me not, and fear God, and shame me not.' They said, 'Have we not forbidden thee to entertain any of the nations?' And those who were in the city said, 'We will surely drive them out, or they shall return unto us.' Then We saved him and his family, all save his wife, who was left behind; and We rained on them a rain — and evil was the rain of those who had been warned.",
+          "note": "Paraphrase of Qur'an 27:55-58 and 7:82-84 (Rodwell 1861); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "The angels said, 'O Lut, verily we are messengers of thy Lord; they shall not touch thee. And when the commandment of thy Lord came, We made those in it the overturned; and We rained on them stones of baked clay, one on another, marked with thy Lord, nor are they far from the evildoers.'",
+          "note": "Paraphrase of Qur'an 11:81-83 (Rodwell 1861); not verbatim."
+        }
+      ],
+      "persons": [
+        "lut"
+      ]
+    },
+    {
+      "id": "quran-shuaib-madyan",
+      "title": {
+        "en": "Shu'ayb and the Merchants of Midian",
+        "zh": "舒阿卜與米甸的商人"
+      },
+      "tradition": "islamic",
+      "category": "myth-religion",
+      "region": {
+        "en": "Madyan, oasis towns of NW Arabia (symbolic pin)",
+        "zh": "西北阿拉伯米甸綠洲（象徵性定位）"
+      },
+      "lat": 28.4,
+      "lon": 35.6,
+      "period": "Qur'an revealed c. 610-632 CE; Surahs 7:85-93, 11:84-95, 26:177-190; Rodwell 1861",
+      "source": {
+        "archive": "Project Gutenberg",
+        "work": "The Koran (Al-Qur'an), trans. J. M. Rodwell, 1861, Suras 7, 11, 26",
+        "url": "https://www.gutenberg.org/ebooks/2800"
+      },
+      "license": "Public domain (translation 1861)",
+      "summary": {
+        "en": "To Midian God sent their brother Shu'ayb: 'Give just weight and measure, defraud not men of their goods, and do not evil in the land after it has been set in order.' The people answer that their fathers' religion is enough and that his prayer would be their ruin; Shu'ayb warns that a day is coming when a disgraceful punishment will strike the liars, and a scorching wind, 'the punishment of the day of shadowing heat,' leaves them as though they had never dwelt there.",
+        "zh": "真主遣舒阿卜於米甸：『當以公平秤斗，勿克扣他人財物，勿於整頓之地作惡。』民答以祖宗教為足，其祈禱反為禍害。舒阿卜預言欺人者必遭恥刑；灼熱之風襲之，民如未嘗居此。"
+      },
+      "motifs": [
+        "taboo-transgression",
+        "world-renewal",
+        "parable-teaching",
+        "prayer",
+        "divine-retribution"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Sacred text of a living tradition; public-domain translation used for comparative study."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "And to Madyan We sent their brother Shu'ayb. He said, 'O my people, worship God: ye have no other god than Him. There hath come to you a clear proof from your Lord. Give weight and measure with fairness, and do not defraud men of their goods, and do not do evil in the land after it hath been set in order. This is better for you if ye are believers.'",
+          "note": "Paraphrase of Qur'an 7:85 (Rodwell 1861); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "They said, 'O Shu'ayb, doth thy prayer enjoin upon thee that we should leave what our fathers worshipped, or that we should not do with our wealth what we please? Thou art surely the mild, the right-directed one.' He said, 'O my people, have I not brought you clear proofs? Ye would have me abandon what my Lord hath revealed; and how could I desire aught contrary to it? I counsel you nothing but what is right, and I am no helper for you except through God.'",
+          "note": "Paraphrase of Qur'an 11:87-88 (Rodwell 1861); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "They schemed against him: 'We will surely drive him out and those who believe with him'; and when Our commandment came, We saved Shu'ayb and those who believed with him by a mercy from Us, and the cry of punishment seized those who dealt unjustly, and in the morning they lay in their houses prostrate, as though they had never dwelt there. Away with Madyan, as 'Thamud hath passed away!'",
+          "note": "Paraphrase of Qur'an 7:88-92 (Rodwell 1861); not verbatim."
+        }
+      ],
+      "persons": [
+        "shuayb"
+      ]
+    },
+    {
+      "id": "quran-abraham-idols",
+      "title": {
+        "en": "Ibrahim Smashes the Idols: 'Ask This Big One'",
+        "zh": "易卜拉欣碎偶像：「問問那個大的」"
+      },
+      "tradition": "islamic",
+      "category": "myth-religion",
+      "region": {
+        "en": "Ur/Harran idol-house and the fire of Nimrod (symbolic pin)",
+        "zh": "烏爾／哈蘭偶像堂與努哈德之火（象徵性定位）"
+      },
+      "lat": 36.98,
+      "lon": 39.02,
+      "period": "Qur'an revealed c. 610-632 CE; Surahs 21:51-70, 37:83-98, 6:74-79; Rodwell 1861",
+      "source": {
+        "archive": "Project Gutenberg",
+        "work": "The Koran (Al-Qur'an), trans. J. M. Rodwell, 1861, Suras 21, 37, 6",
+        "url": "https://www.gutenberg.org/ebooks/2800"
+      },
+      "license": "Public domain (translation 1861)",
+      "summary": {
+        "en": "Ibrahim says to his father Azar, 'Takest thou idols for gods? I see thee and thy people in manifest error'; by night he watches a star, a moon and a sun set, and says, 'I love not those that set.' At the idol-feast he cries, 'What worship ye? They hear not when ye call, and can profit you nothing.' He breaks the lesser idols, leaves the greatest, and when the people demand it he mockingly bids them ask the big one who did it — then calls on God: 'If Thou openest a way for the fire, let it not burn me,' and the fire is made cool and safe.",
+        "zh": "易卜拉欣問父阿宰爾：『你以偶像為神麼？』夜觀星月日落而拒之。逢拜偶像之節，他責問眾人所拜者；碎小偶像，留最大者。眾問孰為之，他嘲答：『問那個大的。』遂呼主：『若火開路，勿使焚我』，火反涼而無害。"
+      },
+      "motifs": [
+        "taboo-transgression",
+        "theophany",
+        "parable-teaching",
+        "idol-contest"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Sacred text of a living tradition; presented via public-domain translation; the fire miracle is treated within Islam as history."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "When he said to his father, 'Azar, takest thou idols for gods? I see thee and thy people in a manifest error.' And thus did Ibrahim show his people the sovereignty of the heavens and the earth. And when the night overshadowed him, he saw a star, and said, 'This is my Lord'; but when it set he said, 'I love not those that set.' And when he saw the moon rising he said, 'This is my Lord'; but when it set he said, 'Unless my Lord guide me I shall surely go astray.' And when he saw the sun rising he said, 'This is greater — this is my Lord'; but when it set he said, 'O my people, verily I am clear of what ye associate with God.'",
+          "note": "Paraphrase of Qur'an 6:74-78 and 21:51-52 (Rodwell 1861); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "So he broke them in pieces, all but the greatest of them, that they might return to it. 'What!' they said, 'who hath done this to our gods? Truly he is one of the unjust.' They said, 'We heard a youth make mention of them, one called Ibrahim.' He said, 'Who hath done this? Answer, if ye have sense.' They said, 'It was done by a youth, a young man, one called Ibrahim.' He said, 'Then was it ye who made these things your gods? They said, 'We found our fathers worshipping them.' He said, 'Do ye then worship what ye yourselves carve, and God created you and what ye make?'",
+          "note": "Paraphrase of Qur'an 21:57-62 and 37:85-96 (Rodwell 1861); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "They said, 'Burn him and help your gods'; and they strove to lay the fire on him; but We made the fire to be cool and safe for him. They designed a plot against him, but We made them the greatest losers. 'Verily,' said he, 'I am going where my Lord will guide me. Lord, give me a righteous family.'",
+          "note": "Paraphrase of Qur'an 21:68-72 and 37:97-100 (Rodwell 1861); not verbatim."
+        }
+      ],
+      "persons": [
+        "ibrahim"
+      ]
+    },
+    {
+      "id": "quran-abraham-sacrifice",
+      "title": {
+        "en": "The Sacrifice of Ismail: The Dream and the Ransom",
+        "zh": "易司馬儀之獻祭：夢與贖代"
+      },
+      "tradition": "islamic",
+      "category": "myth-religion",
+      "region": {
+        "en": "Mina valley near Mecca (traditional site of the sacrifice; symbolic pin)",
+        "zh": "麥加附近米那谷（傳統獻祭地；象徵性定位）"
+      },
+      "lat": 21.41,
+      "lon": 39.89,
+      "period": "Qur'an revealed c. 610-632 CE; Surah as-Saffat 37:99-113; Rodwell 1861",
+      "source": {
+        "archive": "Project Gutenberg",
+        "work": "The Koran (Al-Qur'an), trans. J. M. Rodwell, 1861, Sura 37:99-113",
+        "url": "https://www.gutenberg.org/ebooks/2800"
+      },
+      "license": "Public domain (translation 1861)",
+      "summary": {
+        "en": "Ibrahim, having wished peace on himself and his old age, sees in a dream that he shall sacrifice his son. 'My son, I have seen in sleep that I shall sacrifice thee: now consider what thou seest right.' Ismail answers, 'My father, do what thou art bidden; thou shalt find me, please God, one of the patient.' Father and son yield themselves to God; God ransoms the boy with a grand victim, and leaves 'peace' upon Ibrahim among later generations.",
+        "zh": "易卜拉欣得夢示將獻其子。他問子：『我在夢中見獻你為祭，你意如何？』易司馬儀答：『父親，行主所命；若主意欲，你必見我堅忍。』父子皆順服；真主以大牲贖之，並使易卜拉欣在後世享平安。"
+      },
+      "motifs": [
+        "wisdom-sacrifice",
+        "oracle-divination",
+        "ritual-origin",
+        "dream-vision",
+        "loyalty-test"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Sacred text of a living tradition; the dream-sacrifice underlies the festival of Id al-Adha (topic: festival story). Presented via public-domain translation."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "And he said, 'Verily I am going where my Lord will guide me. Lord, give me one of the righteous.' Wherefore We announced to him a boy endued with patience. And when he was grown, and reached the age of running with him, Ibrahim said, 'O my son, verily I have seen in sleep that I should sacrifice thee: now consider what thou seest right.' He said, 'O my father, do what thou art bidden; thou shalt find me, please God, one of the patient.'",
+          "note": "Paraphrase of Qur'an 37:99-102 (Rodwell 1861); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "And when they had yielded themselves to God's will, and he had laid him down on his forehead, We called to him, 'O Ibrahim, thou hast indeed fulfilled the vision. Thus do We reward the righteous: this was indeed a trial manifest.' And We ransomed him with a grand victim, and We left this blessing for him among the later generations: 'Peace be on Ibrahim!'",
+          "note": "Paraphrase of Qur'an 37:103-109 (Rodwell 1861); not verbatim."
+        }
+      ],
+      "persons": [
+        "ibrahim",
+        "ismail"
+      ]
+    },
+    {
+      "id": "quran-kaaba-foundations",
+      "title": {
+        "en": "Raising the Foundations of the Kaaba",
+        "zh": "易卜拉欣父子重建天房基石"
+      },
+      "tradition": "islamic",
+      "category": "myth-religion",
+      "region": {
+        "en": "Mecca, site of the Kaaba (literal pin)",
+        "zh": "麥加天房故址（實際定位）"
+      },
+      "lat": 21.42,
+      "lon": 39.83,
+      "period": "Qur'an revealed c. 610-632 CE; Surahs al-Baqarah 2:124-141, Ibrahim 14:35-41; Rodwell 1861",
+      "source": {
+        "archive": "Project Gutenberg",
+        "work": "The Koran (Al-Qur'an), trans. J. M. Rodwell, 1861, Sura 2:124-131 and 14:35-41",
+        "url": "https://www.gutenberg.org/ebooks/2800"
+      },
+      "license": "Public domain (translation 1861)",
+      "summary": {
+        "en": "God tries Ibrahim with commands, and he fulfils them. 'I will make thee an imam of men'; 'And of my seed?' — 'My covenant reacheth not the evildoers.' When Ibrahim and Ismail raise the foundations of the house: 'Our Lord, accept it of us; make us Muslims, and our seed a Muslim people; and show us our rites of pilgrimage, and be merciful to us.' And they pray for a messenger in their seed to recite God's signs and teach the Book — the prayer answered in Muhammad.",
+        "zh": "真主以數事試易卜拉欣，他全數履行。『我必立你為眾人之師表』——『我的子孫呢？』——『我的約不及作惡者。』父子築天房基石時祈禱：『主啊，求你悅納；使我們順服，使我們的子孫成順服之民；指示我們朝覲的儀節。』並為子孫中一位使者祈禱——即穆罕默德。"
+      },
+      "motifs": [
+        "ritual-origin",
+        "sacred-place",
+        "foundational-legend",
+        "prayer",
+        "covenant"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Sacred text of a living tradition; the Meccan sanctuary's foundations, celebrated in pilgrimage rites; public-domain translation."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "And when his Lord had tested Ibrahim with certain commands, and he had fulfilled them, He said, 'Verily I will make thee an imam of men.' Said he, 'And of my seed?' God said, 'My covenant reacheth not the evildoers.' And when Ibrahim and Ismail raised the foundations of the house, they prayed, 'Our Lord, accept it of us, for thou art the Hearing, the Knowing. Our Lord, make us Muslims to thee, and of our seed a people of Muslims to thee, and teach us our holy rites, and be turned towards us, for thou art the Relenting One, the Merciful.'",
+          "note": "Paraphrase of Qur'an 2:124-128 (Rodwell 1861); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "'Our Lord, raise up among them a messenger, one of themselves, who shall rehearse thy signs to them and teach them the Book and the Wisdom, and purify them; for thou art the Mighty, the Wise.' And who but a fool would turn from the faith of Ibrahim? Him We chose in this world, and in the next he shall be one of the just.",
+          "note": "Paraphrase of Qur'an 2:129-130 (Rodwell 1861); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "When Ibrahim said, 'O my Lord, make this land secure, and turn me and my sons away from the worship of idols; save me and those born to me from worshipping idols. My Lord, forgive me and my parents and all who on the day of account shall enter my house; and forgive the believers, men and women.'",
+          "note": "Paraphrase of Qur'an 14:35-41 (Rodwell 1861); not verbatim."
+        }
+      ],
+      "persons": [
+        "ibrahim",
+        "ismail"
+      ]
+    },
+    {
+      "id": "quran-covenant-alast",
+      "title": {
+        "en": "The Covenant of Alast: 'Am I Not Your Lord?'",
+        "zh": "艾萊斯之約：「我不是你們的主嗎？」"
+      },
+      "tradition": "islamic",
+      "category": "myth-religion",
+      "region": {
+        "en": "Primeval assembly before creation (symbolic pin at Mecca)",
+        "zh": "受造前的原初集會（象徵性定位於麥加）"
+      },
+      "lat": 21.42,
+      "lon": 39.83,
+      "period": "Qur'an revealed c. 610-632 CE; Surah al-A'raf 7:172-173; Rodwell 1861",
+      "source": {
+        "archive": "Project Gutenberg",
+        "work": "The Koran (Al-Qur'an), trans. J. M. Rodwell, 1861, Sura 7:172-173",
+        "url": "https://www.gutenberg.org/ebooks/2800"
+      },
+      "license": "Public domain (translation 1861)",
+      "summary": {
+        "en": "When the Lord drew forth from the children of Adam, from their loins, their seed, and made them bear witness concerning themselves: 'Am I not your Lord?' They said, 'Yes, we bear witness' — lest on the day of resurrection men should say, 'We were indeed heedless of this,' or say, 'Our fathers joined gods to God, and we were but their seed after them.' All souls answered in the primeval covenant; the prophets come to remind, not to impose.",
+        "zh": "主從阿丹的背脊中取出子孫，令他們自作見證：『我不是你們的主嗎？』他們答：『不然，我們作證。』——免得復活日有人說『我們曾忽視此事』，或說『祖宗曾以物配主，我們不過是後裔』。原初之約人人曾答；列聖之來，只是提醒。"
+      },
+      "motifs": [
+        "oracle-divination",
+        "prophetic-vision",
+        "taboo-transgression",
+        "primeval-waters",
+        "covenant"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Sacred text of a living tradition; the 'covenant of alast' is a cardinal doctrine. Public-domain translation; interpretive motif tagging noted."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "And when thy Lord drew forth from the children of Adam, out of their loins, their posterity, and made them bear witness against themselves — 'Am I not your Lord?' — they said, 'Yes, we do bear witness.' Lest ye should say on the day of resurrection, 'Verily we were heedless of this'; or lest ye should say, 'Our fathers, indeed, formerly joined gods with God, and we were their posterity after them: wilt thou then destroy us for the doings of the vain ones?'",
+          "note": "Paraphrase of Qur'an 7:172-173 (Rodwell 1861); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Thus do We make clear our signs: haply they may return to us. And there were men among mankind who took for themselves equals to God, and loved them as they should love God; but they who believe love God more ardently. Had the wrongdoers but seen, when they behold the punishment, that power altogether is God's, and that God is vehement in punishing.",
+          "note": "Paraphrase of Qur'an 7:174-175 (Rodwell 1861); not verbatim."
+        }
+      ],
+      "persons": [
+        "adam"
+      ]
+    },
+    {
+      "id": "quran-sabbath-fish",
+      "title": {
+        "en": "The Sabbath Fish: Swimmers on the Forbidden Day",
+        "zh": "安息日之魚：禁日泳現的魚群"
+      },
+      "tradition": "islamic",
+      "category": "myth-religion",
+      "region": {
+        "en": "A seaside town of the Israelites (symbolic pin, Sinai coast)",
+        "zh": "以色列人濱海之城（象徵性定位於西奈海岸）"
+      },
+      "lat": 28.5,
+      "lon": 34.3,
+      "period": "Qur'an revealed c. 610-632 CE; Surah al-A'raf 7:163-166; Rodwell 1861",
+      "source": {
+        "archive": "Project Gutenberg",
+        "work": "The Koran (Al-Qur'an), trans. J. M. Rodwell, 1861, Sura 7:163-166",
+        "url": "https://www.gutenberg.org/ebooks/2800"
+      },
+      "license": "Public domain (translation 1861)",
+      "summary": {
+        "en": "Ask them about the city that stood by the sea: its people broke the Sabbath — the fish came to them on their Sabbath-day in shoals, on other days they came not. So God made trial of them by their evil-doing. A God-fearing band said, 'Why preach ye to a people God is about to destroy?' The preachers answered that they might make a defence before their Lord, and perchance fear; and when the sinners forgot the warning, God delivered those who forbade evil and seized the wrongdoers with terrible punishment for their rebellion.",
+        "zh": "問他們那座海濱之城：其民犯安息日之禁——安息日魚群成隊浮近，平日不至。真主以其惡行試之。敬畏者問：『何必教誨主將毀滅之民？』傳教者答：『或可在主前有辯詞，或能敬畏。』惡人既忘警示，主救止惡者，以極刑懲悖逆者。"
+      },
+      "motifs": [
+        "taboo-transgression",
+        "world-renewal",
+        "parable-teaching"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Sacred text of a living tradition; public-domain translation; the fish-test is a qisas-style etiological episode within the Israelite lore of the Qur'an."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Ask them also concerning the city that stood by the sea, how its people transgressed on the Sabbath, when their fish came to them on the Sabbath-day in shoals, but on other days came not; and thus did We make trial of them because they did wickedly. And a God-fearing band among them said, 'Why warn ye a people whom God is about to destroy or to punish with a severe punishment?' They said, 'To clear ourselves before your Lord; and haply they may fear Him.'",
+          "note": "Paraphrase of Qur'an 7:163-164 (Rodwell 1861); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "And when they had forgotten what they were reminded of, We delivered those who forbade wrong, and We visited the evildoers with a grievous punishment because of their exceeding sin. And when they proudly persisted in that which was forbidden, We said to them, 'Be ye apes, driven away and rejected.'",
+          "note": "Paraphrase of Qur'an 7:165-166 (Rodwell 1861); not verbatim."
+        }
+      ],
+      "persons": []
+    },
+    {
+      "id": "quran-cow-sacrifice",
+      "title": {
+        "en": "The Cow of the Israelites: The Killer Named by the Blow",
+        "zh": "以色列人的母牛：擊之而兇手自明"
+      },
+      "tradition": "islamic",
+      "category": "myth-religion",
+      "region": {
+        "en": "Israelite camp after the Exodus (symbolic pin, Sinai)",
+        "zh": "以色列人出埃及後的營地（象徵性定位於西奈）"
+      },
+      "lat": 28.5,
+      "lon": 33.9,
+      "period": "Qur'an revealed c. 610-632 CE; Surah al-Baqarah 2:67-73; Rodwell 1861",
+      "source": {
+        "archive": "Project Gutenberg",
+        "work": "The Koran (Al-Qur'an), trans. J. M. Rodwell, 1861, Sura 2:67-73",
+        "url": "https://www.gutenberg.org/ebooks/2800"
+      },
+      "license": "Public domain (translation 1861)",
+      "summary": {
+        "en": "Moses tells his people that God commands them to sacrifice a heifer. They tease him: 'Makest thou a laughing-stock of us?' — and pile on qualifications, a cow neither old nor young, yellow, full of sound, unbroken, to plough the earth and water the tilth. They slaughter her at last with much ado; God says: 'Strike the slain one with part of her' — and the murdered man stands up and names his killer. 'Thus God raiseth the dead and showeth you his signs, that haply ye may be warned.'",
+        "zh": "穆薩傳主命：宰一母牛。眾人嘲弄戲耍，層層加條件——不老不少、純黃、鳴聲悅耳、未曾耕田運水者。最終勉強宰之。主諭：『以牛之一部分擊死者。』被殺者遂起而指認兇手。『主如此使死人復活，示以其蹟，俾爾悟之。』"
+      },
+      "motifs": [
+        "resurrection",
+        "oracle-divination",
+        "parable-teaching"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Sacred text of a living tradition; the episode explains the surah's title 'The Cow'. Public-domain translation used."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "And when Moses said to his people, 'God hath commanded you to sacrifice a heifer,' they said, 'Dost thou make us a laughing-stock?' He said, 'God forbid that I should be one of the foolish.' They said, 'Pray for us to thy Lord that he would make it clear to us what her colour is.' He answered, 'God saith, The cow shall be yellow, a rich yellow, pleasing to those who see it.'",
+          "note": "Paraphrase of Qur'an 2:67-69 (Rodwell 1861); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "They said, 'Pray for us to thy Lord that he would make clear to us what cow she is, for the cow is alike with us; and if God will we shall be guided rightly.' Moses said, 'God saith, She shall be a cow neither old nor young, but of middle age between the two; and do ye what ye are bidden.' They said, 'Pray thy Lord to show us what her colour is to be.' He answered, 'He saith, A cow, sturdy, goodly to behold, unbroken, to plough the earth or water the tilth, a cow without blemish.' They said, 'Now hast thou brought the truth'; and they sacrificed her — though little enough they were minded to do it.",
+          "note": "Paraphrase of Qur'an 2:70-73 (Rodwell 1861); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "And when ye had slain a man and contended among yourselves about him, God brought forth what ye had hidden. So We said, 'Strike the slain one with part of her.' So God raised the dead to life, and showed you his signs, that haply ye may be warned.",
+          "note": "Paraphrase of Qur'an 2:72-73 (Rodwell 1861); not verbatim."
+        }
+      ],
+      "persons": [
+        "musa"
+      ]
+    }
+  ]
+}

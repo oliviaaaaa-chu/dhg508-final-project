@@ -1,0 +1,605 @@
+{
+  "texts": [
+    {
+      "id": "christian-water-wine-cana",
+      "title": {
+        "en": "Water Made Wine at Cana",
+        "zh": "迦拿的水變酒"
+      },
+      "tradition": "christian",
+      "category": "religious",
+      "region": {
+        "en": "Cana of Galilee",
+        "zh": "加利利迦拿"
+      },
+      "lat": 32.75,
+      "lon": 35.35,
+      "period": "Gospel of John, c. 90-110 CE (KJV, 1611)",
+      "source": {
+        "archive": "Project Gutenberg",
+        "work": "The Bible, King James Version, Book 43: John, chapter 2",
+        "url": "https://www.gutenberg.org/ebooks/43"
+      },
+      "license": "Public domain (KJV, 1611)",
+      "summary": {
+        "en": "At a wedding in Cana the wine fails; Mary tells the servants, 'Whatsoever he saith unto you, do it', and Jesus fills six stone waterpots with water that is drawn and served — the governor of the feast complains that the best wine has been saved until now. 'This beginning of miracles did Jesus in Cana of Galilee, and manifested forth his glory' — the first sign of John's gospel, staged at a wedding feast and celebrated ever after in Christian nuptial imagery.",
+        "zh": "迦拿婚宴上酒用盡了；馬利亞囑咐僕人「他告訴你們甚麼，你們就作甚麼」。耶穌叫人把六口石缸倒滿水，舀出送與管筵席的——管筵席的竟說「你倒把好酒留到如今」。「這是耶穌所行的頭一件神蹟，在加利利的迦拿行，顯出他的榮耀來」——約翰福音的第一個記號，設於婚宴之中，基督教婚禮意象自此取材不絕。"
+      },
+      "motifs": [
+        "miraculous-birth",
+        "divine-marriage"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Living tradition. The wedding setting is a favorite of marriage homiletics; the divine-marriage tag is loose (feast imagery), noted as interpretive."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "And the third day there was a marriage in Cana of Galilee; and the mother of Jesus was there: and both Jesus was called, and his disciples, to the marriage. And when they wanted wine, the mother of Jesus saith unto him, They have no wine. His mother saith unto the servants, Whatsoever he saith unto you, do it. And there were set there six waterpots of stone, after the manner of the purifying of the Jews, containing two or three firkins apiece. Jesus saith unto them, Fill the waterpots with water. And they filled them up to the brim."
+        },
+        {
+          "id": "2",
+          "text": "And he saith unto them, Draw out now, and bear unto the governor of the feast. And they bare it. When the ruler of the feast had tasted the water that was made wine, and knew not whence it was: (but the servants which drew the water knew;) the governor of the feast called the bridegroom, and saith unto him, Every man at the beginning doth set forth good wine; and when men have well drunk, then that which is worse: but thou hast kept the good wine until now. This beginning of miracles did Jesus in Cana of Galilee, and manifested forth his glory; and his disciples believed on him."
+        }
+      ],
+      "persons": [
+        "jesus",
+        "mary"
+      ]
+    },
+    {
+      "id": "christian-calming-storm",
+      "title": {
+        "en": "Peace, Be Still",
+        "zh": "住了吧，靜了吧"
+      },
+      "tradition": "christian",
+      "category": "religious",
+      "region": {
+        "en": "Sea of Galilee",
+        "zh": "加利利海"
+      },
+      "lat": 32.82,
+      "lon": 35.59,
+      "period": "Gospel of Mark, c. 65-75 CE (KJV, 1611)",
+      "source": {
+        "archive": "Project Gutenberg",
+        "work": "The Bible, King James Version, Book 41: Mark, chapter 4",
+        "url": "https://www.gutenberg.org/ebooks/41"
+      },
+      "license": "Public domain (KJV, 1611)",
+      "summary": {
+        "en": "Crossing to the other side at evening, the boat fills with waves while Jesus sleeps on a pillow in the stern; wakened by 'Master, carest thou not that we perish?', he rebukes the wind — 'Peace, be still' — and a great calm follows. The terrified disciples ask the question that drives the gospel: 'What manner of man is this, that even the wind and the sea obey him?'",
+        "zh": "傍晚渡海，狂風大作，波浪打入船內，耶穌卻在船尾枕著枕頭睡覺；門徒叫醒他：「夫子，我們喪命，你不顧嗎？」他斥責風——「住了吧，靜了吧」——風就止住，大大的平靜了。門徒大大懼怕，彼此說：「這到底是誰，連風和海也聽從他了？」——這一問貫穿整部福音。"
+      },
+      "motifs": [
+        "storm-thunder",
+        "theophany",
+        "teacher-disciple",
+        "storm-still"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Living tradition. The nature-storm calming is a classic epiphany-on-water scene."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "And the same day, when the even was come, he saith unto them, Let us pass over unto the other side. And when they had sent away the multitude, they took him even as he was in the ship. And there arose a great storm of wind, and the waves beat into the ship, so that it was now full. And he was in the hinder part of the ship, asleep on a pillow: and they awake him, and say unto him, Master, carest thou not that we perish?"
+        },
+        {
+          "id": "2",
+          "text": "And he arose, and rebuked the wind, and said unto the sea, Peace, be still. And the wind ceased, and there was a great calm. And he said unto them, Why are ye so fearful? how is it that ye have no faith? And they feared exceedingly, and said one to another, What manner of man is this, that even the wind and the sea obey him?"
+        }
+      ],
+      "persons": [
+        "jesus",
+        "peter"
+      ]
+    },
+    {
+      "id": "christian-gadarene-legion",
+      "title": {
+        "en": "Legion and the Swine",
+        "zh": "群鬼與豬群"
+      },
+      "tradition": "christian",
+      "category": "religious",
+      "region": {
+        "en": "Country of the Gadarenes, east of the Sea of Galilee",
+        "zh": "加利利海東，格拉森地方"
+      },
+      "lat": 32.8,
+      "lon": 35.65,
+      "period": "Gospel of Mark, c. 65-75 CE (KJV, 1611)",
+      "source": {
+        "archive": "Project Gutenberg",
+        "work": "The Bible, King James Version, Book 41: Mark, chapter 5",
+        "url": "https://www.gutenberg.org/ebooks/41"
+      },
+      "license": "Public domain (KJV, 1611)",
+      "summary": {
+        "en": "A man dwelling among the tombs, unbindable by chains, crying and cutting himself with stones, runs to Jesus and worships: 'My name is Legion: for we are many.' The unclean spirits beg to be sent into a herd of about two thousand swine, which rush down a steep place into the sea and are choked; the townsfolk find the tormented man 'sitting, and clothed, and in his right mind' — and beg Jesus to leave.",
+        "zh": "住在墳塋裏、鎖鏈捆不住、晝夜喊叫用石頭砍自己的被附之人，遠遠跑來拜耶穌：「我名叫群，因為我們多的緣故。」污鬼央求進入約二千頭豬的豬群，豬群闖下山崖投入海裏淹死了；眾人來見那曾鬼附的人「坐著，穿上衣服，心裏明白過來」——卻央求耶穌離開他們的境界。"
+      },
+      "motifs": [
+        "spirit-possession",
+        "transformation",
+        "exorcism"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Living tradition. Exorcism narrative; the swine's destruction is part of the recorded story."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "And when he was come out of the ship, immediately there met him out of the tombs a man with an unclean spirit, who had his dwelling among the tombs; and no man could bind him, no, not with chains: because that he had been often bound with fetters and chains, and the chains had been plucked asunder by him, and the fetters broken in pieces: neither could any man tame him. And always, night and day, he was in the mountains, and in the tombs, crying, and cutting himself with stones."
+        },
+        {
+          "id": "2",
+          "text": "But when he saw Jesus afar off, he ran and worshipped him, and cried with a loud voice, and said, What have I to do with thee, Jesus, thou Son of the most high God? I adjure thee by God, that thou torment me not. For he said unto him, Come out of the man, thou unclean spirit. And he asked him, What is thy name? And he answered, saying, My name is Legion: for we are many."
+        },
+        {
+          "id": "3",
+          "text": "And all the devils besought him, saying, Send us into the swine, that we may enter into them. And forthwith Jesus gave them leave. And the unclean spirits went out, and entered into the swine: and the herd ran violently down a steep place into the sea, (they were about two thousand;) and were choked in the sea. And they come to Jesus, and see him that was possessed with the devil, and had the legion, sitting, and clothed, and in his right mind: and they were afraid."
+        }
+      ],
+      "persons": [
+        "jesus"
+      ]
+    },
+    {
+      "id": "christian-jairus-blood-issue",
+      "title": {
+        "en": "The Ruler's Dead Daughter and the Touching of the Hem",
+        "zh": "管會堂者復活的女兒與摸衣繸的女人"
+      },
+      "tradition": "christian",
+      "category": "religious",
+      "region": {
+        "en": "Capernaum and its roads",
+        "zh": "迦百農及其路上"
+      },
+      "lat": 32.88,
+      "lon": 35.56,
+      "period": "Gospel of Mark, c. 65-75 CE (KJV, 1611)",
+      "source": {
+        "archive": "Project Gutenberg",
+        "work": "The Bible, King James Version, Book 41: Mark, chapter 5",
+        "url": "https://www.gutenberg.org/ebooks/41"
+      },
+      "license": "Public domain (KJV, 1611)",
+      "summary": {
+        "en": "Two healings interleave: a synagogue ruler begs Jesus for his dying daughter, and on the way a woman who has bled twelve years and spent all on physicians touches his garment from behind — 'straightway the fountain of her blood was dried up' — while Jesus feels virtue go out and makes her confess. Word comes that the girl is dead; 'Be not afraid, only believe', he says, puts out the wailing mourners who laugh him to scorn, and speaks the Aramaic 'Talitha cumi; Damsel, I say unto thee, arise' — and she rises and walks.",
+        "zh": "兩樁醫治交織：管會堂的睚魯為垂死的女兒求告；路上，患血漏十二年被醫生耗盡一切的女人，從後頭摸他的衣裳——「血漏的源頭立刻乾了」——耶穌自覺有能力出去，要她當眾承認。有人報信說孩子死了；他說「不要怕，只要信」，斥退嗤笑的哀哭者，以亞蘭語說「大利大古米！閨女，我吩咐你起來」——女孩立即起來行走。"
+      },
+      "motifs": [
+        "resurrection",
+        "theophany"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Living tradition. The interleaved double healing is the gospel's most famous narrative construction."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "And, behold, there cometh one of the rulers of the synagogue, Jairus by name; and when he saw him, he fell at his feet, and besought him greatly, saying, My little daughter lieth at the point of death: I pray thee, come and lay thy hands on her, that she may be healed; and she shall live. And Jesus went with him; and much people followed him, and thronged him."
+        },
+        {
+          "id": "2",
+          "text": "And a certain woman, which had an issue of blood twelve years, and had suffered many things of many physicians, and had spent all that she had, and was nothing bettered, but rather grew worse, when she had heard of Jesus, came in the press behind, and touched his garment. For she said, If I may touch but his clothes, I shall be whole. And straightway the fountain of her blood was dried up; and she felt in her body that she was healed of that plague. And Jesus, immediately knowing in himself that virtue had gone out of him, turned him about in the press, and said, Who touched my clothes?"
+        },
+        {
+          "id": "3",
+          "text": "And he said unto her, Daughter, thy faith hath made thee whole; go in peace, and be whole of thy plague. While he yet spake, there came from the ruler of the synagogue's house certain which said, Thy daughter is dead: why troublest thou the Master any further? As soon as Jesus heard the word that was spoken, he saith unto the ruler of the synagogue, Be not afraid, only believe."
+        },
+        {
+          "id": "4",
+          "text": "And when he was come in, he saith unto them, Why make ye this ado, and weep? the damsel is not dead, but sleepeth. And they laughed him to scorn. But when he had put them all out, he taketh the father and the mother of the damsel, and entereth in where the damsel was lying. And he took the damsel by the hand, and said unto her, Talitha cumi; which is, being interpreted, Damsel, I say unto thee, arise. And straightway the damsel arose, and walked."
+        }
+      ],
+      "persons": [
+        "jesus",
+        "peter"
+      ]
+    },
+    {
+      "id": "christian-blind-siloam",
+      "title": {
+        "en": "Clay and Siloam: The Man Born Blind",
+        "zh": "泥與西羅亞池：生來瞎眼的人"
+      },
+      "tradition": "christian",
+      "category": "religious",
+      "region": {
+        "en": "Pool of Siloam, Jerusalem",
+        "zh": "耶路撒冷，西羅亞池"
+      },
+      "lat": 31.77,
+      "lon": 35.24,
+      "period": "Gospel of John, c. 90-110 CE (KJV, 1611)",
+      "source": {
+        "archive": "Project Gutenberg",
+        "work": "The Bible, King James Version, Book 43: John, chapter 9",
+        "url": "https://www.gutenberg.org/ebooks/43"
+      },
+      "license": "Public domain (KJV, 1611)",
+      "summary": {
+        "en": "To the disciples' question — who sinned, this man or his parents, that he was born blind? — Jesus answers 'Neither... but that the works of God should be made manifest in him', makes clay of spittle, and sends the man to wash in the pool of Siloam; 'he went his way therefore, and washed, and came seeing.' On the sabbath, the healed man is hauled before the Pharisees, excommunicated for defending his healer, and found again by Jesus: 'Dost thou believe on the Son of God?'",
+        "zh": "門徒問：這人生來瞎眼，是誰犯了罪，是他本人還是父母？耶穌答「也不是這人犯了罪，也不是他父母犯了罪，是要在他身上顯出神的作為來」，用唾沫和泥抹在他眼睛上，囑他往西羅亞池去洗——「他去一洗，回頭就看見了」。安息日行此神蹟，那人被帶到法利賽人面前，因維護醫治者而被趕出會堂，耶穌再尋見他問「你信神的兒子麼？」"
+      },
+      "motifs": [
+        "ritual-origin",
+        "clay-humans",
+        "teacher-disciple",
+        "miracle-cure"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Living tradition. The clay-anointing echoes the Genesis dust-man motif; tagged as an interpretive cross-link."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "And as Jesus passed by, he saw a man which was blind from his birth. And his disciples asked him, saying, Master, who did sin, this man, or his parents, that he was born blind? Jesus answered, Neither hath this man sinned, nor his parents: but that the works of God should be made manifest in him. As long as I am in the world, I am the light of the world. When he had thus spoken, he spat on the ground, and made clay of the spittle, and he anointed the eyes of the blind man with the clay, and said unto him, Go, wash in the pool of Siloam, (which is by interpretation, Sent.) He went his way therefore, and washed, and came seeing."
+        },
+        {
+          "id": "2",
+          "text": "The neighbours therefore, and they which before had seen him that he was blind, said, Is not this he that sat and begged? Some said, This is he: others said, He is like him: but he said, I am he. Therefore said they unto him, How were thine eyes opened? He answered and said, A man that is called Jesus made clay, and anointed mine eyes, and said unto me, Go to the pool of Siloam, and wash: and I went and washed, and I received sight."
+        }
+      ],
+      "persons": [
+        "jesus"
+      ]
+    },
+    {
+      "id": "christian-lazarus-raised",
+      "title": {
+        "en": "Lazarus, Come Forth",
+        "zh": "拉撒路，出來"
+      },
+      "tradition": "christian",
+      "category": "religious",
+      "region": {
+        "en": "Bethany, near Jerusalem",
+        "zh": "伯大尼，近耶路撒冷"
+      },
+      "lat": 31.77,
+      "lon": 35.25,
+      "period": "Gospel of John, c. 90-110 CE (KJV, 1611)",
+      "source": {
+        "archive": "Project Gutenberg",
+        "work": "The Bible, King James Version, Book 43: John, chapter 11",
+        "url": "https://www.gutenberg.org/ebooks/43"
+      },
+      "license": "Public domain (KJV, 1611)",
+      "summary": {
+        "en": "Told that his friend is sick, Jesus stays two days — 'Lazarus is dead... I am glad for your sakes that I was not there, to the intent ye may believe' — and comes to Bethany where the corpse has lain four days. Martha meets him with the grief-question, and hears the great 'I am' of the gospel: 'I am the resurrection, and the life.' At the cave's mouth, amid Martha's practical protest ('by this time he stinketh'), Jesus weeps, then cries with a loud voice, 'Lazarus, come forth' — and the dead man shuffles out still bound in graveclothes. The miracle that triggers the plot to kill Jesus in John's telling.",
+        "zh": "聞友患病，耶穌仍住了兩日——「拉撒路死了……我沒有在那裏就歡喜，這是為你們的緣故，好叫你們相信」——抵達伯大尼時死者已葬四日。馬大迎著訴苦，耶穌以福音書最大的「我是」作答：「復活在我，生命也在我。」墓穴門前，馬大務實地說「他如今必是臭了」，耶穌心裏悲歎、流淚，然後大聲呼叫「拉撒路，出來！」死人裹著壽衣手腳纏布走出。約翰福音中，此神蹟正是謀害耶穌之陰謀的導火線。"
+      },
+      "motifs": [
+        "resurrection"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Living tradition. The raised friend is the gospel's hinge miracle, read as sign of the general resurrection."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Now a certain man was sick, named Lazarus, of Bethany, the town of Mary and her sister Martha. Therefore his sisters sent unto him, saying, Lord, behold, he whom thou lovest is sick. When Jesus heard that, he said, This sickness is not unto death, but for the glory of God, that the Son of God might be glorified thereby. When he had heard therefore that he was sick, he abode two days still in the same place where he was. Then said Jesus unto them plainly, Lazarus is dead. And I am glad for your sakes that I was not there, to the intent ye may believe; nevertheless let us go unto him."
+        },
+        {
+          "id": "2",
+          "text": "Then when Jesus came, he found that he had lain in the grave four days already. Then said Martha unto Jesus, Lord, if thou hadst been here, my brother had not died. Jesus saith unto her, Thy brother shall rise again. Martha saith unto him, I know that he shall rise again in the resurrection at the last day. Jesus said unto her, I am the resurrection, and the life: he that believeth in me, though he were dead, yet shall he live: and whosoever liveth and believeth in me shall never die."
+        },
+        {
+          "id": "3",
+          "text": "When Jesus therefore saw her weeping, and the Jews also weeping which came with her, he groaned in the spirit, and was troubled, and said, Where have ye laid him? They said unto him, Lord, come and see. Jesus wept. Then said the Jews, Behold how he loved him! Jesus therefore again groaning in himself cometh to the grave. It was a cave, and a stone lay upon it. Jesus said, Take ye away the stone."
+        },
+        {
+          "id": "4",
+          "text": "And when he thus had spoken, he cried with a loud voice, Lazarus, come forth. And he that was dead came forth, bound hand and foot with graveclothes: and his face was bound about with a napkin. Jesus saith unto them, Loose him, and let him go. Then many of the Jews which came to Mary, and had seen the things which Jesus did, believed on him."
+        }
+      ],
+      "persons": [
+        "jesus",
+        "lazarus",
+        "marymagdalene"
+      ]
+    },
+    {
+      "id": "christian-feeding-5000",
+      "title": {
+        "en": "Five Loaves and Two Fishes",
+        "zh": "五餅二魚"
+      },
+      "tradition": "christian",
+      "category": "religious",
+      "region": {
+        "en": "Desert place by the Sea of Galilee",
+        "zh": "加利利海旁的野地"
+      },
+      "lat": 32.85,
+      "lon": 35.6,
+      "period": "Gospel of Matthew, c. 80-90 CE (KJV, 1611)",
+      "source": {
+        "archive": "Project Gutenberg",
+        "work": "The Bible, King James Version, Book 40: Matthew, chapter 14",
+        "url": "https://www.gutenberg.org/ebooks/40"
+      },
+      "license": "Public domain (KJV, 1611)",
+      "summary": {
+        "en": "The only miracle in all four gospels: in a desert place the disciples urge sending the crowd to buy food, and Jesus answers, 'They need not depart; give ye them to eat.' Five loaves and two fishes are blessed, broken, and distributed — and five thousand men eat, with twelve baskets of fragments left over. The Eucharist's shadow falls across the scene: taken, blessed, broken, given.",
+        "zh": "四福音書唯一共載的神蹟：野地裏門徒勸眾人往村裏買食物，耶穌說「不用他們去，你們給他們吃吧」。五餅二魚望天祝福、擘開分遞——五千人吃飽，零碎還裝滿了十二個籃子。聖餐的影子籠罩全場：拿起、祝謝、擘開、遞給。"
+      },
+      "motifs": [
+        "ritual-origin",
+        "teacher-disciple",
+        "sacred-meal"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Living tradition. The feeding is read eucharistically across the tradition."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "And Jesus went forth, and saw a great multitude, and was moved with compassion toward them, and he healed their sick. And when it was evening, his disciples came to him, saying, This is a desert place, and the time is now past; send the multitude away, that they may go into the villages, and buy themselves victuals. But Jesus said unto them, They need not depart; give ye them to eat. And they say unto him, We have here but five loaves, and two fishes."
+        },
+        {
+          "id": "2",
+          "text": "He said, Bring them hither to me. And he commanded the multitude to sit down on the grass, and took the five loaves, and the two fishes, and looking up to heaven, he blessed, and brake, and gave the loaves to his disciples, and the disciples to the multitude. And they did all eat, and were filled: and they took up of the fragments that remained twelve baskets full. And they that had eaten were about five thousand men, beside women and children."
+        }
+      ],
+      "persons": [
+        "jesus"
+      ]
+    },
+    {
+      "id": "christian-walking-water",
+      "title": {
+        "en": "Peter Walks on the Water and Sinks",
+        "zh": "彼得行於水面而沉"
+      },
+      "tradition": "christian",
+      "category": "religious",
+      "region": {
+        "en": "Sea of Galilee, in the fourth watch of the night",
+        "zh": "加利利海，夜間四更"
+      },
+      "lat": 32.82,
+      "lon": 35.59,
+      "period": "Gospel of Matthew, c. 80-90 CE (KJV, 1611)",
+      "source": {
+        "archive": "Project Gutenberg",
+        "work": "The Bible, King James Version, Book 40: Matthew, chapter 14",
+        "url": "https://www.gutenberg.org/ebooks/40"
+      },
+      "license": "Public domain (KJV, 1611)",
+      "summary": {
+        "en": "In the fourth watch of the night Jesus comes to the storm-tossed boat walking on the sea; the frightened disciples hear 'Be of good cheer; it is I; be not afraid.' Peter dares the request, 'Lord, if it be thou, bid me come unto thee on the water' — and walks, until the boisterous wind frightens him and, beginning to sink, he cries 'Lord, save me.' The outstretched hand and the rebuke — 'O thou of little faith, wherefore didst thou doubt?' — end with the ship's company worshiping: 'Of a truth thou art the Son of God.'",
+        "zh": "夜間四更，耶穌在海面上走向被風浪顛簸的船；驚惶的門徒聽見「你們放心，是我，不要怕」。彼得求：「主，如果是你，請叫我從水面上走到你那裏去。」他果真行走，直到狂風使他害怕、往下沉，喊道「主啊，救我！」耶穌伸手拉住他責備：「小信的人哪，為甚麼疑惑呢？」船上的人隨即敬拜：「你真是神的兒子了。」"
+      },
+      "motifs": [
+        "theophany",
+        "transformation",
+        "teacher-disciple"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Living tradition. The water-walking is a classic epiphany; Peter's sinking is the tradition's emblem of doubt amid faith."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "And straightway Jesus constrained his disciples to get into a ship, and to go before him unto the other side, while he sent the multitudes away. And when he had sent the multitudes away, he went up into a mountain apart to pray: and when the evening was come, he was there alone. But the ship was now in the midst of the sea, tossed with waves: for the wind was contrary. And in the fourth watch of the night Jesus went unto them, walking on the sea. And when the disciples saw him walking on the sea, they were troubled, saying, It is a spirit; and they cried out for fear. But straightway Jesus spake unto them, saying, Be of good cheer; it is I; be not afraid."
+        },
+        {
+          "id": "2",
+          "text": "And Peter answered him and said, Lord, if it be thou, bid me come unto thee on the water. And he said, Come. And when Peter was come down out of the ship, he walked on the water, to go to Jesus. But when he saw the wind boisterous, he was afraid; and beginning to sink, he cried, saying, Lord, save me. And immediately Jesus stretched forth his hand, and caught him, and said unto him, O thou of little faith, wherefore didst thou doubt? And when they were come into the ship, the wind ceased. Then they that were in the ship came and worshipped him, saying, Of a truth thou art the Son of God."
+        }
+      ],
+      "persons": [
+        "jesus",
+        "peter"
+      ]
+    },
+    {
+      "id": "christian-transfiguration",
+      "title": {
+        "en": "The Transfiguration on the High Mountain",
+        "zh": "高山變像"
+      },
+      "tradition": "christian",
+      "category": "religious",
+      "region": {
+        "en": "An unnamed high mountain (symbolic pin at Mount Tabor)",
+        "zh": "未名高山（象徵性定位於他泊山）"
+      },
+      "lat": 32.69,
+      "lon": 35.39,
+      "period": "Gospel of Matthew, c. 80-90 CE (KJV, 1611)",
+      "source": {
+        "archive": "Project Gutenberg",
+        "work": "The Bible, King James Version, Book 40: Matthew, chapter 17",
+        "url": "https://www.gutenberg.org/ebooks/40"
+      },
+      "license": "Public domain (KJV, 1611)",
+      "summary": {
+        "en": "Six days after Peter's confession, Jesus takes Peter, James, and John up a high mountain and is transfigured before them — face shining as the sun, raiment white as the light — with Moses and Elijah talking with him, the law and the prophets bearing witness. Peter's offered tabernacles are cut short by a bright cloud and the Father's voice repeating the baptismal words and adding, 'hear ye him.' Eastern Christianity keeps the feast as the great feast of divine light.",
+        "zh": "彼得認信六日後，耶穌攜彼得、雅各、約翰上高山，在他們面前變了形像——面貌如日頭，衣裳潔白如光——摩西與以利亞顯現同他說話，律法與先知為其作證。彼得欲搭三座棚的話未完，一片光明的雲彩遮蓋他們，雲裏有聲音重複受洗時的話，並加上「你們要聽他」。東方教會以「主顯聖容節」為大節，慶祝神性之光。"
+      },
+      "motifs": [
+        "theophany",
+        "prophetic-vision"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Living tradition. Central feast of Eastern Orthodoxy; Moses-Elijah appearance links to the law-and-prophets theme."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "And after six days Jesus taketh Peter, James, and John his brother, and bringeth them up into an high mountain apart, and was transfigured before them: and his face did shine as the sun, and his raiment was white as the light. And, behold, there appeared unto them Moses and Elias talking with him."
+        },
+        {
+          "id": "2",
+          "text": "Then answered Peter, and said unto Jesus, Lord, it is good for us to be here: if thou wilt, let us make here three tabernacles; one for thee, and one for Moses, and one for Elias. While he yet spake, behold, a bright cloud overshadowed them: and behold a voice out of the cloud, which said, This is my beloved Son, in whom I am well pleased; hear ye him. And when the disciples heard it, they fell on their face, and were sore afraid. And Jesus came and touched them, and said, Arise, and be not afraid. And when they had lifted up their eyes, they saw no man, save Jesus only."
+        }
+      ],
+      "persons": [
+        "jesus",
+        "peter",
+        "moses",
+        "elijah"
+      ]
+    },
+    {
+      "id": "christian-zacchaeus-sycamore",
+      "title": {
+        "en": "Zacchaeus in the Sycomore Tree",
+        "zh": "桑樹上的撒該"
+      },
+      "tradition": "christian",
+      "category": "religious",
+      "region": {
+        "en": "Jericho",
+        "zh": "耶利哥"
+      },
+      "lat": 31.87,
+      "lon": 35.46,
+      "period": "Gospel of Luke, c. 80-110 CE (KJV, 1611)",
+      "source": {
+        "archive": "Project Gutenberg",
+        "work": "The Bible, King James Version, Book 42: Luke, chapter 19",
+        "url": "https://www.gutenberg.org/ebooks/42"
+      },
+      "license": "Public domain (KJV, 1611)",
+      "summary": {
+        "en": "The chief tax collector of Jericho, rich and little of stature, climbs a sycomore tree to see Jesus pass; Jesus looks up and invites himself to dinner — 'Zacchaeus, make haste, and come down; for to day I must abide at thy house.' Amid the murmuring crowd, Zacchaeus stands and pledges half his goods to the poor and fourfold restitution, and hears the sentence that defines the story: 'This day is salvation come to this house... For the Son of man is come to seek and to save that which was lost.'",
+        "zh": "耶利哥的稅吏長撒該，富有而身量矮小，爬上桑樹要看走過的耶穌；耶穌抬頭便自請入住其家——「撒該，快下來，今天我必住在你家裏」。眾人議論之際，撒該站著承諾：家產一半分給窮人，訛詐的四倍償還；耶穌宣告：「今天救恩到了這家……人子來，為要尋找拯救失喪的人。」"
+      },
+      "motifs": [
+        "parable-teaching"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Living tradition. The little man in the tree is the children's icon of repentance."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "And Jesus entered and passed through Jericho. And, behold, there was a man named Zacchaeus, which was the chief among the publicans, and he was rich. And he sought to see Jesus who he was; and could not for the press, because he was little of stature. And he ran before, and climbed up into a sycomore tree to see him: for he was to pass that way. And when Jesus came to the place, he looked up, and saw him, and said unto him, Zacchaeus, make haste, and come down; for to day I must abide at thy house."
+        },
+        {
+          "id": "2",
+          "text": "And he made haste, and came down, and received him joyfully. And when they saw it, they all murmured, saying, That he was gone to be guest with a man that is a sinner. And Zacchaeus stood, and said unto the Lord: Behold, Lord, the half of my goods I give to the poor; and if I have taken any thing from any man by false accusation, I restore him fourfold. And Jesus said unto him, This day is salvation come to this house, forsomuch as he also is a son of Abraham. For the Son of man is come to seek and to save that which was lost."
+        }
+      ],
+      "persons": [
+        "jesus",
+        "zacchaeus"
+      ]
+    },
+    {
+      "id": "christian-woman-caught-adultery",
+      "title": {
+        "en": "He That Is Without Sin",
+        "zh": "無罪者先投石"
+      },
+      "tradition": "christian",
+      "category": "religious",
+      "region": {
+        "en": "Temple courts, Jerusalem",
+        "zh": "耶路撒冷聖殿院中"
+      },
+      "lat": 31.78,
+      "lon": 35.23,
+      "period": "Gospel of John, c. 90-110 CE (KJV, 1611)",
+      "source": {
+        "archive": "Project Gutenberg",
+        "work": "The Bible, King James Version, Book 43: John, chapter 8",
+        "url": "https://www.gutenberg.org/ebooks/43"
+      },
+      "license": "Public domain (KJV, 1611)",
+      "summary": {
+        "en": "Scribes and Pharisees drag a woman taken in adultery into the temple and set her in the midst, demanding the stoning Mosaic law requires as a trap. Jesus stoops and writes on the ground, then answers: 'He that is without sin among you, let him first cast a stone at her.' One by one, 'being convicted by their own conscience, went out one by one, beginning at the eldest'; Jesus and the woman are left alone — 'Neither do I condemn thee: go, and sin no more.'",
+        "zh": "文士和法利賽人把行淫時被拿的婦人拖進聖殿，設在她當中，以摩西律法要求石刑為陷阱逼問。耶穌彎腰用指頭在地上畫字，然後說：「你們中間誰是沒有罪的，誰就可以先拿石頭打她。」他們聽見這話，「從老到少，一個一個的都出去了」；殿中只剩耶穌與婦人——「我也不定你的罪；去吧，從此不要再犯罪了。」"
+      },
+      "motifs": [
+        "taboo-transgression",
+        "parable-teaching",
+        "adultery"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Living tradition. The scene is the tradition's master-text on mercy versus law."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "And the scribes and Pharisees brought unto him a woman taken in adultery; and when they had set her in the midst, they say unto him, Master, this woman was taken in adultery, in the very act. Now Moses in the law commanded us, that such should be stoned: but what sayest thou? This they said, tempting him, that they might have to accuse him. But Jesus stooped down, and with his finger wrote on the ground, as though he heard them not. So when they continued asking him, he lifted up himself, and said unto them, He that is without sin among you, let him first cast a stone at her. And again he stooped down, and wrote on the ground."
+        },
+        {
+          "id": "2",
+          "text": "And they which heard it, being convicted by their own conscience, went out one by one, beginning at the eldest, even unto the last: and Jesus was left alone, and the woman standing in the midst. When Jesus had lifted up himself, and saw none but the woman, he said unto her, Woman, where are those thine accusers? hath no man condemned thee? She said, No man, Lord. And Jesus said unto her, Neither do I condemn thee: go, and sin no more."
+        }
+      ],
+      "persons": [
+        "jesus"
+      ]
+    },
+    {
+      "id": "christian-great-catch-fish",
+      "title": {
+        "en": "The Great Draught of Fishes",
+        "zh": "一網大魚"
+      },
+      "tradition": "christian",
+      "category": "religious",
+      "region": {
+        "en": "Lake of Gennesaret (Sea of Galilee)",
+        "zh": "革尼撒勒湖（加利利海）"
+      },
+      "lat": 32.82,
+      "lon": 35.59,
+      "period": "Gospel of Luke, c. 80-110 CE (KJV, 1611)",
+      "source": {
+        "archive": "Project Gutenberg",
+        "work": "The Bible, King James Version, Book 42: Luke, chapter 5",
+        "url": "https://www.gutenberg.org/ebooks/42"
+      },
+      "license": "Public domain (KJV, 1611)",
+      "summary": {
+        "en": "Teaching from Simon's boat, Jesus tells the washed-out fisherman to launch into the deep and let down the nets; Simon answers with daybreak's defeat — 'Master, we have toiled all the night, and have taken nothing: nevertheless at thy word I will let down the net' — and encloses so great a multitude of fishes that the net breaks and both boats begin to sink. Simon Peter falls at Jesus' knees: 'Depart from me; for I am a sinful man, O Lord.' The answer founds the apostolate: 'Fear not; from henceforth thou shalt catch men.'",
+        "zh": "耶穌在西門的船上講道後，叫勞碌整夜毫無所獲的漁夫把船開到水深之處下網；西門答：「夫子，我們整夜勞力，並沒有打著甚麼；但依從你的話，我就下網。」網險些拉不上來，兩船將沉。西門彼得俯伏在耶穌膝前：「主啊，離開我，我是個罪人！」答話奠定使徒職分：「不要怕，從今以後，你要得人了。」"
+      },
+      "motifs": [
+        "theophany",
+        "culture-hero"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Living tradition. The miraculous catch parallels the fishing motif of the call narratives."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "And it came to pass, that, as the people pressed upon him to hear the word of God, he stood by the lake of Gennesaret, and saw two ships standing by the lake: but the fishermen were gone out of them, and were washing their nets. And he entered into one of the ships, which was Simon's, and prayed him that he would thrust out a little from the land. And he sat down, and taught the people out of the ship. Now when he had left speaking, he said unto Simon, Launch out into the deep, and let down your nets for a draught."
+        },
+        {
+          "id": "2",
+          "text": "And Simon answering said unto him, Master, we have toiled all the night, and have taken nothing: nevertheless at thy word I will let down the net. And when they had this done, they inclosed a great multitude of fishes: and their net brake. And they beckoned unto their partners, which were in the other ship, that they should come and help them. And they came, and filled both the ships, so that they began to sink. When Simon Peter saw it, he fell down at Jesus' knees, saying, Depart from me; for I am a sinful man, O Lord. And Jesus said unto Simon, Fear not; from henceforth thou shalt catch men."
+        }
+      ],
+      "persons": [
+        "jesus",
+        "peter"
+      ]
+    }
+  ]
+}

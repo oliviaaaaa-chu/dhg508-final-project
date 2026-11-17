@@ -1,0 +1,270 @@
+{
+  "_comment": "Shahnama of Firdausi, trans. A. G. & E. Warner (1905), vol. II: Seven Courses 5-7, embassy, fall of Mazandaran. Paraphrase passages with notes.",
+  "texts": [
+    {
+      "id": "persian-rustam-course-ulad",
+      "title": {
+        "en": "The Fifth Course: Ulad is Taken by the Lasso",
+        "zh": "七關之五：擒獲烏拉德"
+      },
+      "tradition": "persian",
+      "category": "myth",
+      "region": {
+        "en": "Corn-lands of Mazandaran marches (symbolic pin)",
+        "zh": "馬贊德蘭邊境麥田（象徵性定位）"
+      },
+      "lat": 35.5,
+      "lon": 53.5,
+      "period": "Composed c. 1010 CE (Warner translation 1905)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Firdausi, Shahnama, trans. A. G. & E. Warner (1905), vol. II, Kai Kaus sec. 10 (Fifth Course)",
+        "url": "https://archive.org/details/shahnama02firduoft"
+      },
+      "license": "Public domain (translation 1905)",
+      "summary": {
+        "en": "Rustam passes a murk black as a negro's face — the sun is captive and the stars are lassoed — and emerges into a land like painted silk with crops, where Rakhsh strays into the corn and a watchman beats the sleeper and loses his ears for it. Ulad the marchlord rides against him: my name is Cloud, replies Rustam, if a cloud hath lion's claws; he shears two chieftains' heads at every stroke, then flings his sixty-coiled lasso and takes Ulad, who guides him to Kaus' prison, the White Div's cavern, and Pulad son of Ghundi.",
+        "zh": "魯斯塔姆穿越黑如夜幕的昏暗地帶——「太陽被囚，星辰被縛」——來到如錦繡的沃野；拉赫什闖入麥田，守田人驅馬而被英雄扭下雙耳。地方領主烏拉德來戰；「吾名『雲』，若雲有獅爪者」。魯斯塔姆一擊落二人首級，擲出六十圈套索擒烏拉德，令其引路指向卡烏斯囚地與白魔巢穴。"
+      },
+      "motifs": ["trickster", "culture-hero"],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Epic literary source; no living community restriction."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "He journeyed on and reached a place of gloom black as a negro's face, a murky night without a star or moon; thou wouldst have said: the sun is captive and the stars are lassoed! When he emerged to light he saw a land like painted silk with crops, where all was verdure and streams; the old world had renewed its youth. He unbridled Rakhsh and loosed him in the corn, then couched like a mighty lion in the grass.",
+          "note": "Paraphrase of Firdausi, Shahnama, Kai Kaus sec. 10 (Warner 1905); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "The watchman of the plain, on seeing Rakhsh among the crops, ran up with hue and cry; he smote the hero smartly with a stick upon the foot: O Ahriman! why didst thou loose thy steed among the corn to eat where others toiled? But Rustam, angered, seized the watchman's ears, wrung them and tore them off without a word. There was Ulad the marchlord, a brave and famous youth, hunting there with other nobles; they rode to find out who he was.",
+          "note": "Paraphrase of Firdausi, Shahnama, Kai Kaus sec. 10 (Warner 1905); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "What is thy name? Ulad cried. My name is Cloud, said Rustam, if a cloud hath lion's claws, with swords and maces only for its fruit, and beareth on its lap the heads of chieftains. With that he drew his baleful Crocodile, came like a lion midst a flock, and slew all that were in his reach; at every stroke he sheared two chieftains' heads. Then Rustam, with sixty coils of lasso on his arm, flung his mighty lasso, ensnared that chieftain's head, and then alighting made fast his hands.",
+          "note": "Paraphrase of Firdausi, Shahnama, Kai Kaus sec. 10 (Warner 1905); not verbatim."
+        },
+        {
+          "id": "4",
+          "text": "If thou speak the truth and art faithful, then from the monarch of Mazandaran will I take crown and throne and massive mace, and thou shalt be the ruler of the land. Ulad said: there are between us now and Kai Kaus a hundred leagues; whence to the White Div is another hundred; the road is through a gorge, a fearful spot o'er which no eagle flieth; there is a cavern midst two hundred others, and there twelve thousand warriors, all divs, keep watch by night; their captain is Pulad son of Ghundi. Of all the divs the White Div is the chief; at him the mountains shake like willow-leaves, and thou wilt find his person mountain-tall.",
+          "note": "Paraphrase of Firdausi, Shahnama, Kai Kaus sec. 10 (Warner 1905); not verbatim."
+        }
+      ],
+      "persons": ["rustam"]
+    },
+    {
+      "id": "persian-rustam-course-arzhang",
+      "title": {
+        "en": "The Sixth Course: Arzhang's Head Hurled at His Troops",
+        "zh": "七關之六：阿爾章之魔伏誅"
+      },
+      "tradition": "persian",
+      "category": "myth",
+      "region": {
+        "en": "Mount Ispuruz camp (symbolic pin)",
+        "zh": "伊斯普魯茲山營地（象徵性定位）"
+      },
+      "lat": 36.0,
+      "lon": 53.0,
+      "period": "Composed c. 1010 CE (Warner translation 1905)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Firdausi, Shahnama, trans. A. G. & E. Warner (1905), vol. II, Kai Kaus sec. 11 (Sixth Course)",
+        "url": "https://archive.org/details/shahnama02firduoft"
+      },
+      "license": "Public domain (translation 1905)",
+      "summary": {
+        "en": "At midnight watch-fires spring up on every side, for the div Arzhang is ever noisy at the entrance of Mazandaran. Rustam binds Ulad to a tree and goes in royal helm and tiger-skin to shout his challenge; the div comes leaping from the camp at that tremendous shout, and Rustam, grasping his head and ears and neck, tears off his head and flings it at his troops; the divs' hearts burst in terror at the sight of Rustam's iron mace, and son and sire go off pell mell.",
+        "zh": "夜半四野燃起警戒之火——入口處有魔阿爾章夜夜喧囂。魯斯塔姆縛烏拉德於樹，頂盔披虎皮大喊叫陣；魔自營中躍出，英雄抓住其頭、耳、頸，如獅撕裂其首並擲回敵陣；眾魔見其鐵錘膽裂魂飛，父子倉皇而逃。"
+      },
+      "motifs": ["culture-hero", "world-serpent"],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Epic literary source; no living community restriction."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "At midnight shoutings went up from the plain; the folk lit watch-fires in Mazandaran and torches everywhere. Then matchless Rustam asked of Ulad: what is the cause that fires are springing up to right and left of us? It is the entrance to Mazandaran, Ulad replied; the more part of each night none dareth sleep; the div Arzhang is there and he is ever noisy. Rustam slept till dawn, then took Ulad, bound him in anguish against a tree, and departed confident and full of ruse.",
+          "note": "Paraphrase of Firdausi, Shahnama, Kai Kaus sec. 11 (Warner 1905); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "In royal helm and sweat-soaked tiger-skin he sought, intent on fight, the chief Arzhang, and shouted in the middle of the host; thou wouldst have said the hills and seas are rent! The div Arzhang came leaping from the camp at that tremendous shout, while Rustam spurring came on him like Azargashasp, grasped boldly his head and ears and neck, then lion-like tore off his head and flung it at his troops.",
+          "note": "Paraphrase of Firdausi, Shahnama, Kai Kaus sec. 11 (Warner 1905); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "The divs' hearts burst in terror at the sight of Rustam's iron mace, and son and sire, forgetting land and crops, went off pell mell, while Rustam drew his vengeful scimitar and cleared the neighbourhood. At set of sun he made all speed back to Mount Ispuruz, untied Ulad, and hurried on led by Ulad afoot. When he arrived Rakhsh gave a thundering neigh, which Kai Kaus, who heard it, understood and told the Iranians: our evil days are all but over now; I heard the neigh of Rakhsh; it made my heart and spirit young.",
+          "note": "Paraphrase of Firdausi, Shahnama, Kai Kaus sec. 11 (Warner 1905); not verbatim."
+        }
+      ],
+      "persons": ["rustam", "kai-kavus"]
+    },
+    {
+      "id": "persian-rustam-course-white-div",
+      "title": {
+        "en": "The Seventh Course: Rustam Wrings the White Div's Neck",
+        "zh": "七關之七：力搏白魔"
+      },
+      "tradition": "persian",
+      "category": "myth",
+      "region": {
+        "en": "Abysmal cave of the White Div (symbolic pin)",
+        "zh": "白魔深穴（象徵性定位）"
+      },
+      "lat": 36.0,
+      "lon": 53.0,
+      "period": "Composed c. 1010 CE (Warner translation 1905)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Firdausi, Shahnama, trans. A. G. & E. Warner (1905), vol. II, Kai Kaus sec. 12 (Seventh Course)",
+        "url": "https://archive.org/details/shahnama02firduoft"
+      },
+      "license": "Public domain (translation 1905)",
+      "summary": {
+        "en": "Rustam pauses till noon when the divs sleep, then charges the guards, parts heads from trunks, and finds a pit like Hell where a mountain blots all within, with sable face and hair like lion's mane. He will not slay the div asleep but rouses him with a leopard's roar; the White Div seizes a millstone and draves at him like smoke; they wrestle, tearing out each other's flesh, till all the ground is puddled with their blood — if I survive this day, thinks Rustam, I ne'er shall die. At last he reaches out, clutches the div neck-high, dashes the life-breath from him, stabs him to the heart and plucks out the liver.",
+        "zh": "魯斯塔姆待至正午魔怪沉睡，直搗巢穴，斬首級如切草；地穴深淵中一個「黑面獅鬃」的山巒擋住一切。他不肯趁睡偷襲，如豹吼醒白魔；白魔抓起磨石擲來如煙；二搏至血流成窪——魯斯塔姆心想：今日不死，則永不死。終於攥住魔頸高高舉起，摔斷其命息，復以匕首刺心，剜出其肝。"
+      },
+      "motifs": ["world-serpent", "culture-hero", "quest-immortality"],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Epic literary source. The White Div's blood cures the blindness of the captive Shahs — leechcraft motif. No living community restriction."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "He went girt up, all battle and revenge; he took Ulad and made Rakhsh go like wind. As soon as Rakhsh had reached the seven mountains, with all their troops of valiant divs, the chieftain drew near the abysmal cave, saw them on guard. Ulad made answer: when the sun is hot the divs will sleep and thou wilt overcome them. So Rustam paused till noon, then mounted Rakhsh, unsheathed his warlike Crocodile, and shouted his name like thunder, came like flying dust among the troops, and parted heads from trunks.",
+          "note": "Paraphrase of Firdausi, Shahnama, Kai Kaus sec. 12 (Warner 1905); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Thence radiant as the sun he went to seek the White Div, found a pit like Hell, but saw not the sorcerer for the murk. He rubbed his eyelids, bathed his eyes, and searched the cave till in the gloom he saw a mountain that blotted all within, with sable face and hair like lion's mane, a world to see! Now Rustam hasted not to slay the div asleep, but roused him with a leopard's roar.",
+          "note": "Paraphrase of Firdausi, Shahnama, Kai Kaus sec. 12 (Warner 1905); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "He charged at Rustam like a gloomy mountain with iron helm and brassards, seized a millstone and drave at him like smoke. The hero quailed and thought: mine end is come! Yet like a lion enraged he struck full at the div and lopped from that enormous bulk a hand and foot, so mighty was he with his trenchant sword. They wrestled, tearing out each other's flesh, till all the ground was puddled with their blood, and Rustam thought: if I survive this day I ne'er shall die.",
+          "note": "Paraphrase of Firdausi, Shahnama, Kai Kaus sec. 12 (Warner 1905); not verbatim."
+        },
+        {
+          "id": "4",
+          "text": "While elephantine Rustam in God's strength strove mightily in anguish and revenge, till sore bestead he reached out, clutched the div, raised him neck-high, and dashed the life-breath from him on the ground; then with a dagger stabbed him to the heart and plucked the liver from his swarthy form: the carcase filled the cave, and all the world was like a sea of blood. He came back to Shah Kai Kaus with the liver, and the Shah said: now put the White Div's blood upon mine eyes and those of all my folk. They anointed his dim eyes, which grew as bright as Sol, and forthwith Rustam anointed all the others with the blood; their eyes grew bright, and all the world to them a rosary.",
+          "note": "Paraphrase of Firdausi, Shahnama, Kai Kaus sec. 12 (Warner 1905); not verbatim."
+        }
+      ],
+      "persons": ["rustam", "kai-kavus", "div-white"]
+    },
+    {
+      "id": "persian-rustam-embassy-mazandaran",
+      "title": {
+        "en": "Rustam the Envoy Uproots a Tree and an Executioner",
+        "zh": "使節魯斯塔姆拔樹裂刑吏"
+      },
+      "tradition": "persian",
+      "category": "myth",
+      "region": {
+        "en": "Court of the King of Mazandaran (symbolic pin)",
+        "zh": "馬贊德蘭王庭（象徵性定位）"
+      },
+      "lat": 36.0,
+      "lon": 53.0,
+      "period": "Composed c. 1010 CE (Warner translation 1905)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Firdausi, Shahnama, trans. A. G. & E. Warner (1905), vol. II, Kai Kaus secs. 13-14",
+        "url": "https://archive.org/details/shahnama02firduoft"
+      },
+      "license": "Public domain (translation 1905)",
+      "summary": {
+        "en": "Sent as envoy with Kaus' letter of advice, Rustam uproots a wayside tree before the assembled chiefs and hurls it over their cavaliers; a strength-assayer squeezes his hand and loses his own strength, falling off his steed, and Kalahur the famous duelist has his nails fall off like leaves. The king of Mazandaran defies Iran, orders the envoy seized, and Rustam, roaring like a lion, catches the executioner by the wrists, flings him down, and, holding one foot fast with his own upon the other, rents the man asunder — none e'er saw a sight like that.",
+        "zh": "魯斯塔姆奉命持書出使：路旁拔樹擲向列陣騎兵；「試力者」握其手反被捏得力盡墜馬；名劍客卡拉胡爾握其手而指甲如落葉紛紛。馬贊德蘭王傲然拒絕，喝令拿下使者；魯斯塔姆如獅怒吼，抓住刑吏雙腕摔倒在地，一腳踩定另一腳，竟將其撕裂——聞所未聞之狀！"
+      },
+      "motifs": ["culture-hero", "trickster", "sacred-kingship"],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Epic literary source; no living community restriction."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "A skilled scribe wrote upon white silk a letter both kind and harsh, inspiring hope and fear: if God is just why should His laws be broken? Quit thou thy throne and from Mazandaran come, like our other subjects, to our court, and, as thou canst not strive with Rustam, pay such tax and tribute as we may demand. The letter done, the Shah affixed his seal of musk and spicery and sent Farhad to convey to yonder div this letter of advice.",
+          "note": "Paraphrase of Firdausi, Shahnama, Kai Kaus sec. 13 (Warner 1905); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "The king read the letter and writhed, then gave his answer: my court is more exalted than thine own; mine are a thousand thousand troops and more; I will lead forth an army lion-like and rouse those heads of yours from their sweet slumbers. Thereat Kaus called Rustam, who said: myself will go to him as envoy; at my words the rivers shall run blood. The Shah replied: the signet and the crown gain light from thee, who art at once ambassador, bold Tiger, and haughty Lion of the battlefield.",
+          "note": "Paraphrase of Firdausi, Shahnama, Kai Kaus secs. 13-14 (Warner 1905); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "The letter sealed, aspiring Rustam flung his mace upon the saddle and approached Mazandaran. As he saw the welcoming chiefs he beheld beside the road a spreading tree, seized on two branches, and twisting round the tree with might and main uprooted it, himself unscathed the while, then poised it like a dart, while all the troops looked on astound; as they came up he hurled the tree, whose boughs hid many cavaliers. One of the chiefest of Mazandaran seized Rustam's hand and squeezed it to assay his fortitude in pain, but Rustam laughed while all the company looked on in wonder, and as he laughed he crushed the other's hand.",
+          "note": "Paraphrase of Firdausi, Shahnama, Kai Kaus sec. 14 (Warner 1905); not verbatim."
+        },
+        {
+          "id": "4",
+          "text": "There was a cavalier hight Kalahur whose fame rang through the land; the king sent him forth to shame the envoy, and Kalahur came lion-like to Rustam and took and squeezed the Elephantine's hand till it turned blue with pain, who bore it lightly and stoutly wrung the hand of Kalahur, whose nails fell off like leaves. The king was wroth and cried: arrest the envoy in my presence, disseat him and behead him. Instantly an executioner approached the throne to seize his wrists, but Rustam, roaring like a lion, caught the executioner's wrists and dragged him close, then flung him down and, holding one foot fast, set his own foot upon the other one and rent the man asunder! None e'er saw a sight like that.",
+          "note": "Paraphrase of Firdausi, Shahnama, Kai Kaus sec. 14 (Warner 1905); not verbatim."
+        }
+      ],
+      "persons": ["rustam", "kai-kavus"]
+    },
+    {
+      "id": "persian-kaus-mazandaran-boulder",
+      "title": {
+        "en": "The Sorcerer-King Turns to a Boulder",
+        "zh": "魔王化為巨岩"
+      },
+      "tradition": "persian",
+      "category": "myth",
+      "region": {
+        "en": "Field of Mazandaran (symbolic pin)",
+        "zh": "馬贊德蘭戰場（象徵性定位）"
+      },
+      "lat": 36.0,
+      "lon": 53.0,
+      "period": "Composed c. 1010 CE (Warner translation 1905)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Firdausi, Shahnama, trans. A. G. & E. Warner (1905), vol. II, Kai Kaus sec. 15",
+        "url": "https://archive.org/details/shahnama02firduoft"
+      },
+      "license": "Public domain (translation 1905)",
+      "summary": {
+        "en": "For a week the glory-seeking hosts encounter; on the eighth day Kaus weeps before the Judge and Guide, dons his helm, and joins his famous troops. Elephantine Rustam charges the quarter where the monarch of Mazandaran stands, invokes the name of God, strikes the king's girdle, and pierces him through the mail — and the sorcerer turns to a boulder by his magic arts before the Iranian host. All the strongest of the host essay in vain to move the mass, but Rustam raises it unaided, shoulders the rock, and warns: quit these black arts or else with this sharp steel and battle-ax will I break up the stone; the stone dissolves like mist, the king is seen with a boar's head and tushes, and Rustam hales him from the presence of Kaus to be hewn in pieces.",
+        "zh": "兩軍鏖戰七日；第八日卡烏斯泣禱於造物主之前，重披戰甲親征。魯斯塔姆呼神之名直取馬贊德蘭王，擊其腰帶、貫其甲胄——魔王竟施法化作巨岩！全軍之力不能撼動分毫，魯斯塔姆卻獨力舉起扛回營前，喝令其解除妖術否則以斧劈石。岩石如霧消散，現出豬首獠牙的魔形，被拖出宮前碎屍萬段。"
+      },
+      "motifs": ["transformation", "culture-hero", "sacred-kingship"],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Epic literary source; no living community restriction."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Thus for a week those glory-seeking hosts encountered; on the eighth day Shah Kaus took from his head the royal casque and stood before the Judge and Guide of this world, weeping: O Judge whose word is truth, who madest sea and land! Give me to quell these divs who fear not Thee, and grace for me the throne of king of kings. He donned his helm and joined his famous troops; there rose a shout and trumpet-blare, the host moved like a mountain.",
+          "note": "Paraphrase of Firdausi, Shahnama, Kai Kaus sec. 15 (Warner 1905); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Then elephantine Rustam charged with a mighty power against the quarter where stood the monarch of Mazandaran, who with his divs and elephants of war awhile maintained his ground. Then Rustam gave his pointed lance to one to hold, invoked the name of God, raised high his mace, and raged; his voice filled all the air, the divs became dispirited, the elephants confounded. Then calling for a spear he charged the king; both roared like thunder. When the king beheld the spear of Rustam wrath and courage failed, while Rustam, seething with revenge, sent up a mighty lion's roar, struck the king's girdle, and pierced him through the mail.",
+          "note": "Paraphrase of Firdausi, Shahnama, Kai Kaus sec. 15 (Warner 1905); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "The sorcerer turned to a boulder by his magic arts before the Iranian host, while matchless Rustam stood in amaze. I will carry him to camp, perchance he will resume his shape, he said. Then all the strongest of the host essayed in vain to move the mass, howbeit Rustam raised it unaided to the troops' amaze, then shouldering the rock walked off therewith with all the people shouting at his back.",
+          "note": "Paraphrase of Firdausi, Shahnama, Kai Kaus sec. 15 (Warner 1905); not verbatim."
+        },
+        {
+          "id": "4",
+          "text": "He set a guard and said: quit these black arts and sorceries to take thy proper shape, or else with this sharp steel and battle-ax will I break up the stone. The sorcerer heard, the stone dissolved like mist, the king was seen in helmet and cuirass, but he had a loathly face, a lanky shape and boar's head, neck, and tushes. Kais recalled the past with pain and sighs, then bade a headsman hew the div in pieces, whom matchless Rustam taking by the beard haled from the presence of Kaus. They hewed the div to pieces as the great king bade, and gathered all the booty from the camp.",
+          "note": "Paraphrase of Firdausi, Shahnama, Kai Kaus sec. 15 (Warner 1905); not verbatim."
+        }
+      ],
+      "persons": ["rustam", "kai-kavus"]
+    }
+  ]
+}

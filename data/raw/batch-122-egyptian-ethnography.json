@@ -1,0 +1,322 @@
+{
+  "texts": [
+    {
+      "id": "egyptian-trial-of-osiris-full",
+      "title": {
+        "en": "The Trial of Osiris Before the Great Gods: Thoth the Advocate",
+        "zh": "諸神前之奧西里斯審判：辯護者托特"
+      },
+      "tradition": "egyptian",
+      "category": "myth",
+      "region": {
+        "en": "Celestial Anu (Heliopolis), Egypt (the Hall of Judgment of the Great Gods)",
+        "zh": "埃及天界赫利奧波利斯（諸神審判之廳）"
+      },
+      "lat": 30.13,
+      "lon": 31.31,
+      "period": "Ancient tradition retold from Pyramid Text hints (Budge, The Book of the Dead, 1901, ch. V)",
+      "source": {
+        "archive": "Project Gutenberg (eBook #7145)",
+        "work": "The Book of the Dead, by E. A. Wallis Budge (1901), ch. V, 'Thoth and Osiris'",
+        "url": "https://www.gutenberg.org/cache/epub/7145/pg7145.txt"
+      },
+      "license": "Public domain (translation 1901)",
+      "summary": {
+        "en": "Set's case against his murdered brother is tried before the Greater and Lesser Companies assembled in celestial Anu: Isis and Nephthys bring Osiris in, Horus 'the avenger of his father' comes to watch, Thoth appears as scribe — and as advocate, proving Set's charges unfounded and Set himself a liar; the gods order Osiris a Great God with rule of the Under World, throw Set down, make Osiris mount upon his back, bind him 'with cords like a beast for sacrifice,' and hack him in pieces before Thoth.",
+        "zh": "塞特訟其被害之兄，案審於天界赫利奧波利斯之大小二神團前：伊西斯與奈芙蒂斯引奧西里斯至，荷魯斯『復父仇者』臨庭監審，托特以書記之職而兼辯護——證塞特之訟皆虛、其人乃謊者；諸神遂判奧西里斯為大神、王冥界；塞特被擊倒於地，奧西里斯登其背以示勝，復縛之『如祭祀之獸』，於托特之前碎其身。"
+      },
+      "motifs": [
+        "oracle-divination",
+        "sacred-kingship",
+        "resurrection",
+        "dying-god"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient theological narrative via Budge 1901; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The Egyptians were not satisfied with the mere possession of the texts of Thoth, when their souls were being weighed in the Great Scales in the Judgment Hall of Osiris, but they also wished Thoth to act as their Advocate on this dread occasion and to prove their innocence as he had proved that of Osiris before the great gods in prehistoric times.",
+          "note": "Verbatim excerpt of Budge, The Book of the Dead (1901), ch. V."
+        },
+        {
+          "id": "2",
+          "text": "The Greater and the Lesser Companies of the Gods assembled in the celestial Anu, or Heliopolis, and ordered Osiris to stand up and defend himself against the charges brought against him by Set. Isis and Nephthys brought him before the gods, and Horus, 'the avenger of his father,' came to watch the case on behalf of his father, Osiris. Thoth appeared in the Hall of Judgment in his official capacity as 'scribe,' i.e., secretary to the gods, and the hearing of the evidence began. Set seems to have pleaded his own cause, and to have repeated the charges which he had made against Osiris.",
+          "note": "Verbatim excerpt of Budge (1901), ch. V."
+        },
+        {
+          "id": "3",
+          "text": "The defence of Osiris was undertaken by Thoth, who proved to the gods that the charges brought against Osiris by Set were unfounded, that the statements of Set were lies, and that therefore Set was a liar. The gods accepted Thoth's proof of the innocence of Osiris and the guilt of Set, and ordered that Osiris was to be considered a Great God and to have rule over the Kingdom of the Under World, and that Set was to be punished. Thoth convinced them that Osiris was 'MAA KHERU,' 'true of word,' i.e., that he had spoken the truth when he gave his evidence, and in texts of all periods Thoth is frequently described as S-MAA KHERU ASAR, i.e., he who proved Osiris to be 'true of word.'",
+          "note": "Verbatim excerpt of Budge (1901), ch. V."
+        },
+        {
+          "id": "4",
+          "text": "As for Set the Liar, he was seized by the ministers of the Great Gods, who threw him down on his hands and face and made Osiris mount upon his back as a mark of his victory and superiority. After this Set was bound with cords like a beast for sacrifice, and in the presence of Thoth was hacked in pieces.",
+          "note": "Verbatim excerpt of Budge (1901), ch. V."
+        }
+      ],
+      "persons": [
+        "thoth",
+        "osiris",
+        "set",
+        "isis",
+        "nephthys",
+        "horus"
+      ]
+    },
+    {
+      "id": "egyptian-crocodile-trochilus",
+      "title": {
+        "en": "The Crocodile and the Trochilus: The Bird That Enters the Mouth",
+        "zh": "鱷與鶺鴒：入其口之鳥"
+      },
+      "tradition": "egyptian",
+      "category": "myth",
+      "region": {
+        "en": "The Nile and the lake of Moiris, Egypt (where the tamed crocodiles wear golden earrings)",
+        "zh": "埃及尼羅與莫伊里斯湖（馴鱷戴金耳環之處）"
+      },
+      "lat": 29.35,
+      "lon": 30.9,
+      "period": "Recorded by Herodotus, Histories II.68-70 (5th century BCE; Macaulay translation 1890)",
+      "source": {
+        "archive": "Project Gutenberg (eBook #2707)",
+        "work": "The History of Herodotus, trans. G. C. Macaulay (1890), Book II, secs. 68-70",
+        "url": "https://www.gutenberg.org/cache/epub/2707/pg2707.txt"
+      },
+      "license": "Public domain (translation 1890)",
+      "summary": {
+        "en": "The sacred-crocodile rite: around Thebes and the lake of Moiris each people keeps one crocodile trained to tameness, hung with ornaments of molten stone and gold in its ears and anklets on its front feet, fed on appointed food and sacrificial victims — while at Elephantine they eat them, 'not holding them to be sacred'; and the trochilus, the one bird at peace with the crocodile, enters its open mouth to swallow the leeches.",
+        "zh": "聖鱷之禮：底比斯與莫伊里斯湖畔各奉一馴鱷，耳懸熔石與金飾、前足戴環，以定制之食與祭牲飼之——而象島之民竟食之，『不以為聖』；獨有鶺鴈與鱷相安，入其啟口而吞其螞蟥。"
+      },
+      "motifs": [
+        "sacred-place",
+        "transformation"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient ethnography via Herodotus; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Now for some of the Egyptians the crocodiles are sacred animals, and for others not so, but they treat them on the contrary as enemies: those however who dwell about Thebes and about the lake of Moiris hold them to be most sacred, and each of these two peoples keeps one crocodile selected from the whole number, which has been trained to tameness, and they put hanging ornaments of molten stone and of gold into the ears of these and anklets round the front feet, and they give them food appointed and victims of sacrifices and treat them as well as possible while they live, and after they are dead they bury them in sacred tombs, embalming them: but those who dwell about the city of Elephantine even eat them, not holding them to be sacred.",
+          "note": "Verbatim excerpt of Macaulay, Herodotus (1890), Book II.69."
+        },
+        {
+          "id": "2",
+          "text": "Whereas all other birds and beasts fly from him, the trochilus is a creature which is at peace with him, seeing that from her he receives benefit; for the crocodile having come out of the water to the land and then having opened his mouth (this he is wont to do generally towards the West Wind), the trochilus upon that enters into his mouth and swallows down the leeches, and he being benefited is pleased and does no harm to the trochilus.",
+          "note": "Verbatim excerpt of Macaulay (1890), Book II.68."
+        }
+      ],
+      "persons": [
+        "khnemu"
+      ]
+    },
+    {
+      "id": "egyptian-sacred-animals-burial",
+      "title": {
+        "en": "Cats to Bubastis, Hawks to Buto: The Burial Map of Sacred Animals",
+        "zh": "貓葬布巴斯提斯、鷹葬布托：聖獸葬地圖"
+      },
+      "tradition": "egyptian",
+      "category": "myth",
+      "region": {
+        "en": "Egypt, the sacred animal cemeteries (Bubastis, Buto, Hermopolis)",
+        "zh": "埃及聖獸墓群（布巴斯提斯、布托、赫爾莫波利斯）"
+      },
+      "lat": 30.9,
+      "lon": 30.9,
+      "period": "Recorded by Herodotus, Histories II.65-67 (5th century BCE; Macaulay translation 1890)",
+      "source": {
+        "archive": "Project Gutenberg (eBook #2707)",
+        "work": "The History of Herodotus, trans. G. C. Macaulay (1890), Book II, secs. 65-67",
+        "url": "https://www.gutenberg.org/cache/epub/2707/pg2707.txt"
+      },
+      "license": "Public domain (translation 1890)",
+      "summary": {
+        "en": "A geography of grief: whoever kills one of the sacred animals willingly dies, and the killer of an ibis or hawk dies whatever his intent; when fire breaks out the cats leap into the flames 'divinely possessed' and great mourning comes upon Egypt; the dead cats are carried to Bubastis and embalmed, dogs buried in city tombs, shrew-mice and hawks to Buto, ibises to Hermopolis.",
+        "zh": "哀悼之地理：擅殺聖獸者死，殺朱鷺或鷹者不問有心無心皆死；火起之時，貓『如神所憑』躍入火中，全埃及為之舉哀——貓死運至布巴斯提斯製為木乃伊；犬葬城中聖墓；鶹鶹與鷹運至布托；朱鷺運至赫爾莫波利斯。"
+      },
+      "motifs": [
+        "sacred-place",
+        "taboo-transgression"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient ethnography via Herodotus; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "If any one kill any of these animals, the penalty, if he do it with his own will, is death, and if against his will, such penalty as the priests may appoint: but whosoever shall kill an ibis or a hawk, whether it be with his will or against his will, must die.",
+          "note": "Verbatim excerpt of Macaulay, Herodotus (1890), Book II.65."
+        },
+        {
+          "id": "2",
+          "text": "Moreover when a fire occurs, the cats seem to be divinely possessed; for while the Egyptians stand at intervals and look after the cats, not taking any care to extinguish the fire, the cats slipping through or leaping over the men, jump into the fire; and when this happens, great mourning comes upon the Egyptians. And in whatever houses a cat has died by a natural death, all those who dwell in this house shave their eyebrows only, but those in whose houses a dog has died shave their whole body and also their head.",
+          "note": "Verbatim excerpt of Macaulay (1890), Book II.66."
+        },
+        {
+          "id": "3",
+          "text": "The cats when they are dead are carried away to sacred buildings in the city of Bubastis, where after being embalmed they are buried; but the dogs they bury each people in their own city in sacred tombs; and the ichneumons are buried just in the same way as the dogs. The shrew-mice however and the hawks they carry away to the city of Buto, and the ibises to Hermopolis; the bears (which are not commonly seen) and the wolves, not much larger in size than foxes, they bury on the spot where they are found lying.",
+          "note": "Verbatim excerpt of Macaulay (1890), Book II.67."
+        }
+      ],
+      "persons": []
+    },
+    {
+      "id": "egyptian-embalming-three-ways",
+      "title": {
+        "en": "Three Ways of Embalming: Cedar Oil, Natron, and Seventy Days",
+        "zh": "三種防腐之法：雪松油、泡鹼與七十日"
+      },
+      "tradition": "egyptian",
+      "category": "myth",
+      "region": {
+        "en": "The embalmers' workshops of Egypt (symbolic pin, Memphis)",
+        "zh": "埃及防腐師作坊（象徵定位，孟菲斯）"
+      },
+      "lat": 29.8526,
+      "lon": 31.4,
+      "period": "Recorded by Herodotus, Histories II.86-88 (5th century BCE; Macaulay translation 1890)",
+      "source": {
+        "archive": "Project Gutenberg (eBook #2707)",
+        "work": "The History of Herodotus, trans. G. C. Macaulay (1890), Book II, secs. 86-88",
+        "url": "https://www.gutenberg.org/cache/epub/2707/pg2707.txt"
+      },
+      "license": "Public domain (translation 1890)",
+      "summary": {
+        "en": "The undertakers' price-list in three grades: for the costliest, the brain drawn out through the nostrils with a crooked iron tool, the belly cleansed with palm-wine and pounded spices, filled with pure myrrh and cassia, sewn and kept in natron for seventy days — 'and when the seventy days are past... they have a wooden figure made in the shape of a man' to enclose the corpse; the middle grade is filled with cedar oil through the breech, and the third is the least expensive of all.",
+        "zh": "殯儀之三等價目：上等以鐵鉤自鼻孔抽腦，以棕櫚酒洗腹、填純沒藥與桂皮而縫之，納於泡鹼七十日——『七十日既滿……乃製一木製人形』以納屍；中等以雪松油自後竅注入；下等最廉。"
+      },
+      "motifs": [
+        "resurrection",
+        "ritual-origin"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient mortuary practice via Herodotus; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "In this occupation certain persons employ themselves regularly and inherit this as a craft. These, whenever a corpse is conveyed to them, show to those who brought it wooden models of corpses made like reality by painting... Then they after they have agreed for a certain price depart out of the way, and the others being left behind in the buildings embalm according to the best of these ways thus: — First with a crooked iron tool they draw out the brain through the nostrils, extracting it partly thus and partly by pouring in drugs; and after this with a sharp stone of Ethiopia they make a cut along the side and take out the whole contents of the belly, and when they have cleared out the cavity and cleansed it with palm-wine they cleanse it again with spices pounded up: then they fill the belly with pure myrrh pounded up and with cassia and other spices except frankincense, and sew it together again.",
+          "note": "Verbatim excerpt of Macaulay, Herodotus (1890), Book II.86."
+        },
+        {
+          "id": "2",
+          "text": "Having so done they keep it for embalming covered up in natron for seventy days, but for a longer time than this it is not permitted to embalm it; and when the seventy days are past, they wash the corpse and roll its whole body up in fine linen cut into bands, smearing these beneath with gum, which the Egyptians use generally instead of glue. Then the kinsfolk receive it from them and have a wooden figure made in the shape of a man, and when they have had this made they enclose the corpse, and having shut it up within, they store it then in a sepulchral chamber, setting it to stand upright against the wall.",
+          "note": "Verbatim excerpt of Macaulay (1890), Book II.86."
+        },
+        {
+          "id": "3",
+          "text": "But for those who desire the middle way and wish to avoid great cost they prepare the corpse as follows: — having filled their syringes with the oil which is got from cedar-wood, with this they forthwith fill the belly of the corpse, and this they do without having either cut it open or taken out the bowels, but they inject the oil by the breech, and having stopped the drench from returning back they keep it then the appointed number of days for embalming.",
+          "note": "Verbatim excerpt of Macaulay (1890), Book II.87."
+        }
+      ],
+      "persons": [
+        "anubis"
+      ]
+    },
+    {
+      "id": "egyptian-anysis-ash-island",
+      "title": {
+        "en": "The Blind King's Island of Ashes: Elbo, Hidden Seven Hundred Years",
+        "zh": "盲王之灰島：隱匿七百年之埃爾博"
+      },
+      "tradition": "egyptian",
+      "category": "myth",
+      "region": {
+        "en": "The marshes of the Delta, Egypt (the secret island Elbo, ten furlongs each way)",
+        "zh": "埃及三角洲沼澤（秘密之島埃爾博，每邊十弗隆）"
+      },
+      "lat": 30.9,
+      "lon": 31.0,
+      "period": "Recorded by Herodotus, Histories II.140 (5th century BCE; Macaulay translation 1890)",
+      "source": {
+        "archive": "Project Gutenberg (eBook #2707)",
+        "work": "The History of Herodotus, trans. G. C. Macaulay (1890), Book II, sec. 140",
+        "url": "https://www.gutenberg.org/cache/epub/2707/pg2707.txt"
+      },
+      "license": "Public domain (translation 1890)",
+      "summary": {
+        "en": "The blind king Anysis, driven into the marshes by the Ethiopian Sabacos, rules from a secret island he built by heaping up ashes: every visitor who brought him food was commanded to bring ashes as a gift; the island, named Elbo, ten furlongs each way, remained hidden from every king of Egypt for more than seven hundred years, until Amyrtaios.",
+        "zh": "盲王阿尼西斯為埃塞俄比亞王所逐，遁於沼澤，積灰壘土而成密島：凡攜食來見者皆奉灰為禮；此島名埃爾博，每邊十弗隆——七百餘年間，歷代埃及諸王皆未能尋獲，直至阿米爾塔伊奧斯。"
+      },
+      "motifs": [
+        "otherworld-voyage",
+        "sacred-place",
+        "island-otherworld"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient king-legend via Herodotus; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Then when the Ethiopian had gone away out of Egypt, the blind man came back from the fen-country and began to rule again, having lived there during fifty years upon an island which he had made by heaping up ashes and earth: for whenever any of the Egyptians visited him bringing food, according as it had been appointed to them severally to do without the knowledge of the Ethiopian, he bade them bring also some ashes for their gift.",
+          "note": "Verbatim excerpt of Macaulay, Herodotus (1890), Book II.140."
+        },
+        {
+          "id": "2",
+          "text": "This island none was able to find before Amyrtaios; that is, for more than seven hundred years the kings who arose before Amyrtaios were not able to find it. Now the name of this island is Elbo, and its size is ten furlongs each way.",
+          "note": "Verbatim excerpt of Macaulay (1890), Book II.140."
+        }
+      ],
+      "persons": []
+    },
+    {
+      "id": "egyptian-piromis-genealogy",
+      "title": {
+        "en": "Piromis Son of Piromis: The Priests Refuse a Divine Descent",
+        "zh": "善人之子善人：祭司拒認神裔"
+      },
+      "tradition": "egyptian",
+      "category": "myth",
+      "region": {
+        "en": "Thebes, Egypt (the sanctuary where 345 statues of chief-priests stood)",
+        "zh": "埃及底比斯（陳列三百四十五尊大祭司像之聖所）"
+      },
+      "lat": 25.6872,
+      "lon": 32.6396,
+      "period": "Recorded by Herodotus, Histories II.143 (5th century BCE; Macaulay translation 1890)",
+      "source": {
+        "archive": "Project Gutenberg (eBook #2707)",
+        "work": "The History of Herodotus, trans. G. C. Macaulay (1890), Book II, sec. 143",
+        "url": "https://www.gutenberg.org/cache/epub/2707/pg2707.txt"
+      },
+      "license": "Public domain (translation 1890)",
+      "summary": {
+        "en": "When Hecataeus the historian traced his descent to a god in the sixteenth generation, the priests of Theban Zeus led him into the great sanctuary, counted the 345 wooden statues of chief-priests, and refused the claim: each statue, they said, had been a piromis — 'an honourable and good man' — son of a piromis, 'and neither with a god nor a hero did they connect their descent.'",
+        "zh": "史家赫卡泰奧斯自溯為第十六代之神裔，底比斯宙斯之祭司乃引之入大聖所，指陳三百四十五尊大祭司木像，而拒其說：謂每一像皆『善人』（piromis）之子為善人，『其世系不繫於神亦不繫於英雄』。"
+      },
+      "motifs": [
+        "oracle-divination",
+        "parable-teaching"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient anecdote via Herodotus; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "And formerly when Hecataios the historian was in Thebes, and had traced his descent and connected his family with a god in the sixteenth generation before, the priests of Zeus did for him much the same as they did for me (though I had not traced my descent). They led me into the sanctuary of the temple, which is of great size, and they counted up the number, showing colossal wooden statues in number the same as they said; for each chief-priest there sets up in his lifetime an image of himself.",
+          "note": "Verbatim excerpt of Macaulay, Herodotus (1890), Book II.143."
+        },
+        {
+          "id": "2",
+          "text": "And when Hecataios had traced his descent and connected his family with a god in the sixteenth generation, they traced a descent in opposition to this, besides their numbering, not accepting it from him that a man had been born from a god; and they traced their counter-descent thus, saying that each one of the statues had been piromis son of piromis, until they had declared this of the whole three hundred and forty-five statues, each one being surnamed piromis; and neither with a god nor a hero did they connect their descent. Now piromis means in the tongue of Hellas 'honourable and good man.'",
+          "note": "Verbatim excerpt of Macaulay (1890), Book II.143."
+        }
+      ],
+      "persons": [
+        "amun"
+      ]
+    }
+  ]
+}

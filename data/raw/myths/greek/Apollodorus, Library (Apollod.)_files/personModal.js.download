@@ -1,0 +1,139 @@
+(function (window, document) {
+	var PERSON_API = "https://topostext.org/api/people/readone.php?pid=";
+	var cache = {};
+	var modal = null;
+
+	function escapeHtml(value) {
+		return String(value == null ? "" : value)
+			.replace(/&/g, "&amp;")
+			.replace(/</g, "&lt;")
+			.replace(/>/g, "&gt;")
+			.replace(/"/g, "&quot;");
+	}
+
+	function personIdFromHref(href) {
+		var match = String(href || "").match(/\/people\/(\d+)/);
+		return match ? match[1] : "";
+	}
+
+	function wikiLabel(link) {
+		return String(link || "").replace(/_/g, " ");
+	}
+
+	function ensureModal() {
+		modal = document.querySelector(".modal3");
+		if (modal) {
+			return modal;
+		}
+		modal = document.createElement("div");
+		modal.className = "modal3";
+		modal.innerHTML =
+			'<div class="modal3-content person-modal-card">' +
+			'<span class="close-button" data-person-close>&times;</span>' +
+			'<h3 id="personModalName"></h3>' +
+			'<p id="personModalDesc"></p>' +
+			'<p id="personModalHits"></p>' +
+			'<p id="personModalLinks"></p>' +
+			'<a id="personModalIndex" class="person-modal-index" href="#">View Person</a>' +
+			"</div>";
+		document.body.appendChild(modal);
+		return modal;
+	}
+
+	function showModal() {
+		ensureModal().classList.add("show-modal3");
+	}
+
+	function hideModal() {
+		if (modal) {
+			modal.classList.remove("show-modal3");
+		}
+	}
+
+	function fillModal(person, id) {
+		ensureModal();
+		document.getElementById("personModalName").textContent = person.concat || "Person";
+		document.getElementById("personModalDesc").textContent = person.wikidesc || "";
+		document.getElementById("personModalHits").innerHTML = person.hits != null && person.hits !== ""
+			? "<b>Hits:</b> " + escapeHtml(person.hits)
+			: "";
+
+		var links = [];
+		if (person.wikidata) {
+			links.push(
+				'<b>Wikidata:</b> <a href="https://www.wikidata.org/wiki/' +
+					encodeURIComponent(person.wikidata) +
+					'" target="_blank" rel="noopener">' +
+					escapeHtml(person.wikidata) +
+					"</a>"
+			);
+		}
+		if (person.link) {
+			links.push(
+				'<b>Wikipedia:</b> <a href="https://en.wikipedia.org/wiki/' +
+					encodeURIComponent(person.link) +
+					'" target="_blank" rel="noopener">' +
+					escapeHtml(wikiLabel(person.link)) +
+					"</a>"
+			);
+		}
+		document.getElementById("personModalLinks").innerHTML = links.join("; ");
+
+		var indexLink = document.getElementById("personModalIndex");
+		indexLink.href = "https://topostext.org/people/" + encodeURIComponent(id);
+		indexLink.target = "_self";
+	}
+
+	function openPersonModal(id) {
+		if (!id) {
+			return;
+		}
+		if (cache[id]) {
+			fillModal(cache[id], id);
+			showModal();
+			return;
+		}
+		fetch(PERSON_API + encodeURIComponent(id))
+			.then(function (response) {
+				if (!response.ok) {
+					throw new Error("person not found");
+				}
+				return response.json();
+			})
+			.then(function (person) {
+				cache[id] = person;
+				fillModal(person, id);
+				showModal();
+			})
+			.catch(function () {
+				window.location.href = "https://topostext.org/people/" + encodeURIComponent(id);
+			});
+	}
+
+	function bindPersonLinks() {
+		ensureModal();
+		var links = document.querySelectorAll('#content a[href*="/people/"]');
+		for (var i = 0; i < links.length; i++) {
+			links[i].addEventListener("click", function (event) {
+				var id = personIdFromHref(event.currentTarget.getAttribute("href"));
+				if (!id) {
+					return;
+				}
+				event.preventDefault();
+				openPersonModal(id);
+			});
+		}
+	}
+
+	document.addEventListener("DOMContentLoaded", function () {
+		ensureModal();
+		bindPersonLinks();
+		document.addEventListener("click", function (event) {
+			if (event.target === modal || (event.target && event.target.getAttribute("data-person-close") !== null)) {
+				hideModal();
+			}
+		});
+	});
+
+	window.openPersonModal = openPersonModal;
+})(window, document);

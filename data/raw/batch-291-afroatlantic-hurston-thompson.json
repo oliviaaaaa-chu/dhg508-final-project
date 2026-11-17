@@ -1,0 +1,438 @@
+{
+  "texts": [
+    {
+      "id": "afroatlantic-high-john-root",
+      "title": {
+        "en": "High John de Conquer: the Root That Walked With the Slaves",
+        "zh": "大約翰康克：與奴隸同行的神根"
+      },
+      "tradition": "afroatlantic",
+      "category": "myth-religion",
+      "region": {
+        "en": "Deep South plantations, USA (symbolic pin: Eatonville, Florida)",
+        "zh": "美國深南部種植園（象徵定位：佛羅里達伊頓維爾）"
+      },
+      "lat": 28.36,
+      "lon": -81.63,
+      "period": "African-American folk belief; Hurston's essay 1943; folklore recorded 1920s-1940s",
+      "source": {
+        "archive": "Published scholarship (paraphrase-only record)",
+        "work": "Zora Neale Hurston, 'High John de Conquer', American Mercury (October 1943); Zora Neale Hurston, 'Mules and Men' (1935), Part II (hoodoo)",
+        "url": "https://catalog.hathitrust.org/Record/001380081"
+      },
+      "license": "Paraphrase summaries only (underlying folklore public domain; Hurston's texts copyrighted)",
+      "summary": {
+        "en": "High John de Conquer, in Hurston's telling, was no root at first but a spirit: the trickster-hero who walked with the enslaved across the Middle Passage, the laughter and the winning side of every story. His root is his relic — carried in a conjure-bag, chewed before court, buried under the doorstep, sung to in the field — and his myth is the Afro-Atlantic form of the culture-hero of hope: the god who stayed on the side of the people and taught them to laugh where he could not be caught.",
+        "zh": "在赫斯頓的敘述裡，『大約翰康克』最初並非草根而是神靈：與被奴役者同渡大西洋的英雄騙子，每則故事裡的笑聲與勝利者。其根為其聖物——入咒袋、上公堂前咀嚼、埋於門階之下、田間歌詠之——其神話是『希望文化英雄』的非裔大西洋形態：站在人民一邊的神，教人在他藏身處的笑聲中活下去。"
+      },
+      "motifs": [
+        "culture-hero",
+        "trickster",
+        "fire-theft",
+        "relics"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Paraphrase-only record: Hurston's copyrighted essays are NOT quoted; the underlying folklore content (High John cycle) is public-domain material summarized with attribution. Living hoodoo tradition: no working instructions beyond the folklore level.",
+        "flag": "living_tradition_low"
+      },
+      "persons": [],
+      "passages": [
+        {
+          "id": "1",
+          "text": "In Hurston's account, High John de Conquer was not originally a root but a spirit: the trickster-hero who came across the Middle Passage with the enslaved, the invisible presence on the plantation who laughed last and laughed best in every story. He had no temples and no altars; he had songs in the field and a name on the lips, and his business was the winning side of things.",
+          "note": "Condensed paraphrase of Hurston, 'High John de Conquer' (1943); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "His root is his relic among hoodoo practitioners: a dried, gnarled, root-shaped thing carried in a conjure-bag, chewed before court for the winning word, buried under the doorstep of a house to bring the luck in, anointed and sung to in the ritual of the practitioners. The root's virtues are High John's virtues — luck, eloquence, the turn of the losing hand into the winning one.",
+          "note": "Condensed paraphrase of Hurston (1943) and Mules and Men (1935); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "Hurston's reading makes him the Afro-Atlantic form of the culture-hero of hope: a god who stayed on the side of the people, gave them no commandments but a sense of the winning side, and taught them to laugh where he could not be caught. The laughter, she says, is the proof of his presence; when the enslaved laughed at the master's expense with the master none the wiser, High John was walking the rows.",
+          "note": "Condensed paraphrase of Hurston (1943); not verbatim."
+        }
+      ],
+      "functions": [
+        "Culture-hero of hope: the trickster on the people's side",
+        "Hoodoo relic: the root as relic of an invisible god",
+        "Field-song theology: the god carried in song rather than altars",
+        "Laughter as proof of presence"
+      ],
+      "variants": [
+        {
+          "name": "High John the Conqueror (European tall-tale echo)",
+          "text_tradition": "19th-20th c. US folklore",
+          "summary": "European trickster-hero John cycles fused with an African power of luck.",
+          "cross_ref": "afroatlantic-high-john-root"
+        },
+        {
+          "name": "Brer Rabbit as High John's cousin",
+          "text_tradition": "Harris 1883; Hurston 1943",
+          "summary": "The winning-side trickster cycle of the plantation tales.",
+          "cross_ref": "afroatlantic-wolf-says-grace"
+        }
+      ],
+      "language": "English (Gullah and Southern Black vernacular); folklore oral tradition",
+      "canonical_translation": "Hurston's English essays and Mules and Men (paraphrased)",
+      "primary_sources": [
+        {
+          "work": "High John de Conquer cycle (oral tradition)",
+          "citation": "Recorded in Zora Neale Hurston, 'High John de Conquer', American Mercury, October 1943; Mules and Men, Philadelphia 1935.",
+          "language": "English (African-American vernacular)"
+        }
+      ],
+      "secondary_sources": [
+        {
+          "work": "Zora Neale Hurston, Mules and Men",
+          "citation": "Hurston 1935, J. B. Lippincott — hoodoo fieldwork in New Orleans and the South.",
+          "citation2": ""
+        }
+      ],
+      "source_urls": [
+        {
+          "url": "https://catalog.hathitrust.org/Record/001380081",
+          "description": "HathiTrust record for Mules and Men (1935)",
+          "accessed": "2026-11-14"
+        }
+      ],
+      "sensitivity_flag": "living_tradition_low",
+      "sensitivity_guidance": "Hoodoo is living practice; nothing beyond folklore-level content reproduced. Hurston's copyrighted texts paraphrased only.",
+      "provenance": {
+        "record_status": "complete",
+        "compiled": "2026-11-14",
+        "compiled_by": "DHG508 fieldwork compilation",
+        "review_status": "draft - pending human review"
+      },
+      "narrative": {
+        "en": "High John de Conquer, in Zora Neale Hurston's telling, was not originally a root at all but a spirit — the great trickster-hero who came across the Middle Passage with the enslaved and never left. He had no temples, no altars, no priesthood; he had songs in the fields and a name on the lips of the people, and his business in the world was the winning side of things. He is the invisible presence of the plantation narratives: the one who laughed last and laughed best, the one who was not fooled when everyone else was fooled, the one whose victories never required a throne because they were always won from below. Hurston frames him as the answer to a theological problem of the slave quarters: a God too distant to intervene, a master's religion that demanded submission — and somewhere in between, a power that belonged entirely to the people and fought entirely for them. His relics are roots. The High John the Conqueror root — a dried, gnarled, root-shaped curio carried in a conjure-bag — is his relic among hoodoo practitioners, and its uses in the folklore are the uses of the god: chewed before going to court, for the winning word; carried for luck in any contest; buried under the doorstep of a house to bring the luck inside; anointed and sung to in the rites of the practitioners, who treat the root as a living thing with a name. The root's virtues are High John's virtues — luck, eloquence, the turn of the losing hand into the winning one — and the theology of the charm is the theology of the hero: that the power was given to the weak and that it works by laughing. Hurston's essay closes with her own claim about his function: he was the culture-hero of hope of a people who could not afford despair. He gave them no commandments and no promise of heaven; he gave them a sense of the winning side, and proof of his presence was the laughter itself — the laughter of the enslaved at the master's expense, with the master none the wiser, which she reads as High John walking the rows. In the comparative grid of the Motif Atlas he stands with the culture-heroes of fire-theft and civilizing gift, and his closest kin in the corpus are Brer Rabbit and Anansi — the same trickster, the same winning side, the same laughter — but Hurston's High John is the only one of the family who is explicitly a god, and the only one whose relic is chewed for luck rather than eaten for dinner. The root itself deserves a note, because it is the classic case of a charm that is also a hagiography. The High John the Conqueror root of the practitioners is botanically the tuber of a morning-glory relative — Ipomoea — whose gnarled shape suggests a figure, and whose folklore name records a masculine power. Practitioners treat it accordingly: it is fed, anointed, addressed by name, carried in the left-hand bag that custom assigns to the powers of luck, and retired with honors when its work is done. The charm-market of the 20th century commercialized the root heavily, and Hurston herself distinguishes the living use from the souvenir trade. In the Motif Atlas the record stands at the junction of the culture-hero cluster and the charm-and-conjure cluster, and supplies the Afro-Atlantic case in which the hero's power survives not in temples or scriptures but in a root you can hold in a closed hand — the smallest relic in the corpus, and the one closest to its people's pockets."
+      }
+    },
+    {
+      "id": "afroatlantic-hoodoo-initiation-luke",
+      "title": {
+        "en": "The Hoodoo Doctor's Initiation: Luke's Three Cycles",
+        "zh": "呼督醫的入門：盧克的三重試煉"
+      },
+      "tradition": "afroatlantic",
+      "category": "myth-religion",
+      "region": {
+        "en": "New Orleans, Louisiana, USA",
+        "zh": "美國路易斯安那紐奧良"
+      },
+      "lat": 29.95,
+      "lon": -90.07,
+      "period": "Hoodoo practice recorded 1927-1929; published 2024 (published 2026)",
+      "source": {
+        "archive": "Published scholarship (paraphrase-only record)",
+        "work": "Zora Neale Hurston, 'Mules and Men' (1935), Part II (hoodoo in New Orleans — the initiation of Luke, apprentice to a New Orleans doctor)",
+        "url": "https://catalog.hathitrust.org/Record/001380081"
+      },
+      "license": "Paraphrase summaries only (Hurston's text copyrighted)",
+      "summary": {
+        "en": "Hurston's New Orleans fieldwork culminates in the initiation of an apprentice called Luke, whose three cycles of ordeal — sleepless rites on the graveyard, the paroxysms of possession, the final anointing — dramatize the making of a hoodoo doctor. The account is famous; the ritual detail is deliberately summarized here and the living initiatory knowledge is not reproduced.",
+        "zh": "赫斯頓的紐奧良田野以學徒盧克的入門禮收束：墳場徹夜的試煉、附體時的痙攣、最後的傅油——三重循環，勾勒出一位呼督醫的養成。此記述極負盛名；本條目刻意只作概述，活的入門知識不予複製。"
+      },
+      "motifs": [
+        "ritual-origin",
+        "spirit-possession",
+        "witch",
+        "initiation"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Paraphrase-only record. Initiation content is summarized at the level Hurston published; deeper procedural detail is deliberately omitted out of respect for a living tradition. Hurston's copyrighted text is not quoted.",
+        "flag": "living_tradition_high"
+      },
+      "persons": [],
+      "passages": [
+        {
+          "id": "1",
+          "text": "In Mules and Men, Part II, Hurston records her apprenticeship in New Orleans hoodoo and, through it, the initiation of another apprentice called Luke, whose three cycles of ordeal she watched: rites of sleeplessness and fasting, ceremonies at the graveyard, and the final anointing that made him a practitioner in his own right.",
+          "note": "Condensed paraphrase of Hurston, Mules and Men (1935), Part II; not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "The ordeals are ordered as a progress through the hoodoo powers: the graveyard powers of the ancestors, the water and road powers of the crossroads, and the possession-paroxysms in which the practitioner learns to ride and be ridden. Hurston's description is the fullest published witness of New Orleans hoodoo initiation in her generation, and it is written with the participant's own excitement — she was being initiated alongside him.",
+          "note": "Condensed paraphrase of Hurston (1935); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "The record here deliberately stops at the level of summary: the procedural detail of a living initiation is not reproduced beyond what Hurston published as general description, and no working instructions are given. The cultural function of the account is to document that hoodoo initiation, like Vodou and Candomblé initiation, is an ordered passage through death-and-rebirth imagery, graveyard work and possession — the universal grammar of the Afro-Atlantic initiated priesthood.",
+          "note": "Compiler's note on the record's boundaries; not verbatim."
+        }
+      ],
+      "functions": [
+        "Initiation as ordered passage: sleeplessness, graveyard, anointing",
+        "Participant observation: Hurston initiated alongside the apprentice",
+        "New Orleans hoodoo documented at its 1920s height",
+        "Boundaries respected: living initiatory knowledge not reproduced"
+      ],
+      "variants": [
+        {
+          "name": "Vodou initiation (Haiti)",
+          "text_tradition": "Métraux 1959; Brown 1991",
+          "summary": "The parallel kanzo death-and-rebirth cycle of Haitian initiation.",
+          "cross_ref": "afroatlantic-hoodoo-initiation-luke"
+        },
+        {
+          "name": "Candomblé initiation (Bahia)",
+          "text_tradition": "Nina Rodrigues 1906; living practice",
+          "summary": "The parallel seclusion-and-emergence cycle of the Afro-Brazilian initiate.",
+          "cross_ref": "afroatlantic-bomfim-washing"
+        }
+      ],
+      "language": "English (New Orleans Black vernacular); oral tradition",
+      "canonical_translation": "Hurston's English (paraphrased)",
+      "primary_sources": [
+        {
+          "work": "New Orleans hoodoo initiation (oral tradition)",
+          "citation": "Recorded in Zora Neale Hurston, Mules and Men, Part II, Philadelphia 1935.",
+          "language": "English (African-American vernacular)"
+        }
+      ],
+      "secondary_sources": [
+        {
+          "work": "Zora Neale Hurston, Mules and Men",
+          "citation": "Hurston 1935 — participant-observation hoodoo fieldwork.",
+          "citation2": ""
+        }
+      ],
+      "source_urls": [
+        {
+          "url": "https://catalog.hathitrust.org/Record/001380081",
+          "description": "HathiTrust record for Mules and Men (1935)",
+          "accessed": "2026-11-14"
+        }
+      ],
+      "sensitivity_flag": "living_tradition_high",
+      "sensitivity_guidance": "Living initiation; procedural detail deliberately not reproduced beyond Hurston's published general description. Hurston's copyrighted text not quoted.",
+      "provenance": {
+        "record_status": "complete",
+        "compiled": "2026-11-14",
+        "compiled_by": "DHG508 fieldwork compilation",
+        "review_status": "draft - pending human review"
+      },
+      "narrative": {
+        "en": "The second part of Hurston's Mules and Men is hoodoo fieldwork in New Orleans, and its climax is an initiation. Hurston, who had gone to New Orleans to be taught, apprenticed herself to a famous doctor and paid for her training; alongside her, another apprentice called Luke was passing through the ordered cycles of ordeal that made a practitioner. She watched and recorded his progress: the rites of sleeplessness and fasting that break the ordinary body-clock of the candidate; the graveyard work, in which the powers of the ancestors are approached on their own ground and the candidate sleeps among the graves; the ceremonies of the water and the crossroads; and the paroxysms of possession in which the candidate learns both to ride and to be ridden — the double grammar of every Afro-Atlantic priesthood. Hurston's account is the fullest published witness of New Orleans hoodoo initiation of her generation, and she wrote it from inside: she was not watching from the doorway but standing in the circle, paying her fees, running her own errands of candles and粉, and describing the whole economy of the practice — the fees, the apprenticeship, the succession of a dying doctor's powers — with the participant's ear. The account matters to the corpus because it establishes the grammar: hoodoo initiation, like Vodou kanzo and Candomblé's seclusion cycle, is an ordered passage through death-and-rebirth imagery, graveyard work and possession, ending in an anointing that makes the candidate a channel for the powers rather than a petitioner to them. The record here deliberately stops at the level of summary. The procedural detail of a living initiation is not reproduced beyond what Hurston published as general description; no working instructions are given; and the copyrighted text is paraphrased, not quoted. What the record preserves is the shape of the rite and its comparative position: the Afro-Atlantic initiated priesthood, in its New Orleans form, initiating by the same logic that governs the Haitian mountain peristyle and the Bahian terreiro — the candidate must die to the ordinary world in order to carry the powers of the other one. The comparative position of the New Orleans rite in the Afro-Atlantic grid is instructive. In Haiti the candidate's passage is marked by the kanzo cycles of the fire and the whip; in Bahia by the seclusion of the camarinha and the shaving of the head; in New Orleans by the graveyard sleep and the nine-night economy of fees. All three dramatize the same passage: the candidate is symbolically killed as an ordinary person, spends time among the powers of the dead, and is returned to the community as someone through whom the powers can now speak. Hurston's witness therefore links the northern diaspora's practice to the southern one at exactly the level where the comparison is legitimate — the structure of initiation, not the details of any one house's liturgy. For the Motif Atlas the record anchors the cluster of initiation-and-possession records and marks the northern limit of the initiated-priesthood geography: New Orleans, Havana, Bahia, Port-au-Prince, in a single arc of the Caribbean trade."
+      }
+    },
+    {
+      "id": "afroatlantic-kongo-cosmogram",
+      "title": {
+        "en": "The Kongo Cosmogram in the Afro-Atlantic World",
+        "zh": "剛果宇宙圖與非裔大西洋世界"
+      },
+      "tradition": "afroatlantic",
+      "category": "myth-religion",
+      "region": {
+        "en": "Kongo diaspora (Haiti, Georgia Sea Islands, Brazil); symbolic pin Haiti",
+        "zh": "剛果僑居地（海地、喬治亞海島、巴西）；象徵定位海地"
+      },
+      "lat": 18.54,
+      "lon": -72.34,
+      "period": "Kongo religious art; diaspora practice 17th-20th c.; Thompson's synthesis 1983",
+      "source": {
+        "archive": "Published scholarship (paraphrase-only record)",
+        "work": "Robert Farris Thompson, 'Flash of the Spirit: African and Afro-American Art and Philosophy' (1983), ch. on Kongo-Atlantic traditions (cosmograms, veve, ring-shout)",
+        "url": "https://www.worldcat.org/title/flash-of-the-spirit-african-and-afro-american-art-and-philosophy/oclc/9011755"
+      },
+      "license": "Paraphrase summaries only (Thompson's text copyrighted)",
+      "summary": {
+        "en": "The Kongo cosmogram — the diamond-and-cross that maps the living and the dead on the four quarters of a single field, with the sun's path marking the cycle of birth, death and rebirth — crossed the Atlantic with Kongo captives and reappears everywhere in the diaspora: in the ground-signs of the Haitian vèvè, in the ring-shout circle of the Georgia Sea Islands, in the burial orientation of South Carolina graves, in the words-and-signs of Bahia. Thompson's book is the classic map of this continuity; this record is a paraphrase-only summary of its Kongo-Atlantic chapter.",
+        "zh": "剛果宇宙圖——以菱形與十字在四方之上標繪生者與死者、以太陽行程標記生死輪迴——隨剛果俘虜渡海，在僑居地處處重現：海地韋韋的地畫、喬治亞海島的環舞圈、南卡羅來納墓葬的朝向、巴伊亞的言語與符號。湯普森的著作是這一延續的經典地圖；本條目為其剛果-大西洋章的僅述概要。"
+      },
+      "motifs": [
+        "sacred-place",
+        "ritual-origin",
+        "world-renewal"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Paraphrase-only record of Thompson's published synthesis; the sign-system itself is living practice and is described, not reproduced.",
+        "flag": "living_tradition_low"
+      },
+      "persons": [],
+      "passages": [
+        {
+          "id": "1",
+          "text": "The Kongo cosmogram is the master-diagram of Kongo religion: a diamond and cross laid on the quarters of a single field, with the sun's path marking the cycle of birth, death and rebirth — the living land above the waterline, the land of the dead below, and the moments of the sun's rise and set as the doors between them.",
+          "note": "Condensed paraphrase of Thompson, Flash of the Spirit (1983); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Thompson's Afro-Atlantic chapter traces the diagram's crossings: in Haiti it becomes the ground-writing of the vèvè and the paired serpents about the pole; in the Georgia Sea Islands it becomes the ring-shout, the counterclockwise circle-dance of the praise-house; in South Carolina and Georgia it becomes the east-west burial orientation of the graves; in Brazil it becomes the ground-signs and body-signs of Bahian practice. The continuity is documented artifact by artifact, dance by dance.",
+          "note": "Condensed paraphrase of Thompson (1983); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "The cultural function Thompson argues for is that the cosmogram made survival thinkable: a single portable diagram that mapped the Middle Passage itself — the crossing from the land of the living to the land of the dead and back — and gave every diaspora community a grammar of renewal. In the Motif Atlas it anchors the cluster of world-renewal and sacred-place records for the Afro-Atlantic tradition.",
+          "note": "Condensed paraphrase of Thompson (1983); not verbatim."
+        }
+      ],
+      "functions": [
+        "Portable diagram: the crossing of worlds mapped on one field",
+        "Diaspora continuity: vèvè, ring-shout, grave-orientation, Bahian signs",
+        "Middle Passage as cosmology: the crossing itself made sacred",
+        "Grammar of renewal: the sun's cycle as the model of rebirth"
+      ],
+      "variants": [
+        {
+          "name": "Haitian vèvè",
+          "text_tradition": "Haitian Vodou; Métraux 1959; Thompson 1983",
+          "summary": "The floor-signs of the peristyle as Kongo-derived writing.",
+          "cross_ref": "afroatlantic-veve-writing-gods"
+        },
+        {
+          "name": "Ring-shout (Georgia Sea Islands)",
+          "text_tradition": "Gullah praise-house tradition",
+          "summary": "The counterclockwise circle-dance as embodied cosmogram.",
+          "cross_ref": "afroatlantic-plat-eye"
+        }
+      ],
+      "language": "Kikongo; Haitian Kreyol; Gullah; Yoruba-Nagô ritual languages",
+      "canonical_translation": "Thompson's English synthesis (paraphrased)",
+      "primary_sources": [
+        {
+          "work": "Kongo-Atlantic sign-systems (living practice)",
+          "citation": "Synthesized in Robert Farris Thompson, Flash of the Spirit, New York 1983.",
+          "language": "Kikongo; Haitian Kreyol; Gullah"
+        }
+      ],
+      "secondary_sources": [
+        {
+          "work": "Robert Farris Thompson, Flash of the Spirit: African and Afro-American Art and Philosophy",
+          "citation": "Thompson 1983, Random House — the Kongo-Atlantic chapter.",
+          "citation2": ""
+        }
+      ],
+      "source_urls": [
+        {
+          "url": "https://www.worldcat.org/title/flash-of-the-spirit-african-and-afro-american-art-and-philosophy/oclc/9011755",
+          "description": "WorldCat record for Flash of the Spirit (1983)",
+          "accessed": "2026-11-14"
+        }
+      ],
+      "sensitivity_flag": "living_tradition_low",
+      "sensitivity_guidance": "Sign-systems described from published scholarship only; not reproduced.",
+      "provenance": {
+        "record_status": "complete",
+        "compiled": "2026-11-14",
+        "compiled_by": "DHG508 fieldwork compilation",
+        "review_status": "draft - pending human review"
+      },
+      "narrative": {
+        "en": "The Kongo cosmogram is the master-diagram of Kongo religion: a diamond and a cross laid upon the quarters of a single field, with the sun's path marked around it, so that the whole diagram maps the cycle of birth, death and rebirth — the land of the living above the waterline of the horizontal bar, the land of the dead below it, the rising and setting sun as the doors between the two, and the vertical axis as the path of power that runs from the ancestors up through the living. Robert Farris Thompson's Flash of the Spirit is the classic map of what happened to this diagram when its makers crossed the Atlantic, and his Kongo-Atlantic chapter documents the continuity artifact by artifact and dance by dance. In Haiti the diagram becomes the ground-writing of the vèvè — the emblem-script traced in flour on the peristyle floor before every service, the signature by which the lwa are invited — and the paired serpents about the center-pole of the Rada rites; in the Georgia Sea Islands it becomes the ring-shout, the counterclockwise circle of the praise-house, the oldest dance of the Gullah community, danced on feet that must never cross; in South Carolina and Georgia it becomes the east-west burial orientation of the graves, the dead laid to face the rising sun of rebirth; in Bahia it becomes the ground-signs and body-signs of Candomblé and Macumba practice, and in the Kongo-derived rites of Cuba the same four-quarter field under the palo altar. Thompson's larger argument is that the cosmogram made survival thinkable: it is a single portable diagram that maps the Middle Passage itself — the crossing from the land of the living to the land of the dead and back — and it gave every diaspora community a grammar of renewal that needed no buildings, no books, and no permission. The record anchors, for the Motif Atlas, the cluster of world-renewal and sacred-place records for the Afro-Atlantic tradition, and supplies the case in which a cosmology is carried not in texts but in diagrams, dances and grave-dirt — the most portable sacred technology of the whole diaspora, and the one whose continuity can be documented on four continents. Thompson's method is worth summarizing for the corpus because it is the model the Afro-Atlantic records as a set follow: continuity is demonstrated, not asserted, by pairing a source artifact in Africa with a diaspora artifact and documenting the transatlantic crossing between them — the Kongo tomb-sign against the Haitian vèvè, the Kongo circuit dance against the ring-shout, the Kongo east-facing burial against the Carolina grave. His account is also deliberately an art-historical one: the cosmogram lives in objects, drawings, dances and grave-architecture rather than in texts, which is why it survived the legal and educational regimes that suppressed texts. The comparative yield for the Motif Atlas is a documented chain of transmission at the level of form — the only one of its kind for any African tradition in the Americas — and it makes the Kongo-Atlantic material the evidential backbone of any claim about African continuities in the New World. The sensitivity note is that the sign-system is living practice; Thompson's published synthesis is summarized here, not reproduced, and no operational detail beyond the published level is given."
+      }
+    },
+    {
+      "id": "afroatlantic-new-orleans-marie-leveau-service",
+      "title": {
+        "en": "The New Orleans Hoodoo Service: Hurston's Participant Witness",
+        "zh": "紐奧良呼督祭儀：赫斯頓的親歷見證"
+      },
+      "tradition": "afroatlantic",
+      "category": "myth-religion",
+      "region": {
+        "en": "New Orleans, Louisiana, USA",
+        "zh": "美國路易斯安那紐奧良"
+      },
+      "lat": 29.95,
+      "lon": -90.07,
+      "period": "Hoodoo practice recorded 1927-2029 (published 2024)",
+      "source": {
+        "archive": "Published scholarship (paraphrase-only record)",
+        "work": "Zora Neale Hurston, 'Mules and Men' (1935), Part II (the New Orleans service of ceremony and the death-of-a-chicken rite described in general terms)",
+        "url": "https://catalog.hathitrust.org/Record/001380081"
+      },
+      "license": "Paraphrase summaries only (Hurston's text copyrighted)",
+      "summary": {
+        "en": "Hurston's New Orleans chapters record the atmosphere of a 1920s hoodoo service — the altar of candles and images, the dance of the possessed, the drum, the paying of the powers — with the participant's ear for the songs and the participant's nerve for the doings. The record here summarizes her witness at the level she published it; the working details of a living practice are not reproduced.",
+        "zh": "赫斯頓的紐奧良篇章記錄了二十世紀二十年代一場呼督祭儀的氛圍——燭與聖像的祭壇、附體者之舞、鼓聲、向眾力付酬——並以親歷者的耳朵聽歌、以親歷者的神經處事。本條目僅在其已刊層面上概述；活態實踐的操作細節不予複製。"
+      },
+      "motifs": [
+        "spirit-possession",
+        "witch",
+        "ritual-origin"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Paraphrase-only record of Hurston's published witness; living hoodoo practice not reproduced beyond the general description. Hurston's copyrighted text not quoted.",
+        "flag": "living_tradition_high"
+      },
+      "persons": [],
+      "passages": [
+        {
+          "id": "1",
+          "text": "In Mules and Men, Part II, Hurston records the atmosphere of a New Orleans hoodoo service of the late 1920s: the altar of candles, images and powers; the songs that call them; the dance of the possessed; the paying of the doctor; and the economy of favors that keeps the practice alive.",
+          "note": "Condensed paraphrase of Hurston, Mules and Men (1935), Part II; not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Her witness is participant: she was apprenticed into the practice, paid her fees, took her place among the clients, and describes the service from inside the circle rather than from the doorway. The songs she heard are the living hymnody of the practice, and the drums she felt are the drums that the older New Orleans sources (Cable 1886, Puckett 1926) describe from outside.",
+          "note": "Condensed paraphrase of Hurston (1935), with comparison to Cable (1886) and Puckett (1926); not verbatim. Cross-ref: voodoo-congo-square-song, afroatlantic-louisiana-voodoo-rites."
+        },
+        {
+          "id": "3",
+          "text": "The record deliberately summarizes: the working details of a living practice are not reproduced beyond Hurston's published general description, and no ritual instructions are given. Its value for the corpus is the continuity it documents — the same serpent-power, the same possessed dance, the same paying of the powers that Moreau de Saint-Méry saw in Saint-Domingue in the 1790s and that the Cuban and Brazilian traditions kept alive.",
+          "note": "Compiler's note on the record's boundaries; not verbatim."
+        }
+      ],
+      "functions": [
+        "Documentary witness: 1920s New Orleans hoodoo from inside",
+        "Continuity of the serpent-power across the diaspora",
+        "Participant method: the ethnographer initiated among the clients",
+        "Boundaries respected: living practice not reproduced"
+      ],
+      "variants": [
+        {
+          "name": "Cable's 1886 magazine account",
+          "text_tradition": "George W. Cable, 'Creole Slave Songs', Century Magazine (1886)",
+          "summary": "The outside witness of the Louisiana Voodoo dance and chant.",
+          "cross_ref": "voodoo-congo-square-song"
+        },
+        {
+          "name": "Puckett's 1926 synthesis",
+          "text_tradition": "Puckett 1926",
+          "summary": "The 19th-century rite reconstructed from Castellanos and Cable.",
+          "cross_ref": "afroatlantic-louisiana-voodoo-rites"
+        }
+      ],
+      "language": "English (New Orleans Black vernacular); oral tradition",
+      "canonical_translation": "Hurston's English (paraphrased)",
+      "primary_sources": [
+        {
+          "work": "New Orleans hoodoo service (oral tradition)",
+          "citation": "Recorded in Zora Neale Hurston, Mules and Men, Part II, Philadelphia 1935.",
+          "language": "English (African-American vernacular)"
+        }
+      ],
+      "secondary_sources": [
+        {
+          "work": "George W. Cable, 'Creole Slave Songs'",
+          "citation": "Cable 1886, The Century Magazine XXXI — the Louisiana Voodoo chant.",
+          "citation2": ""
+        }
+      ],
+      "source_urls": [
+        {
+          "url": "https://catalog.hathitrust.org/Record/001380081",
+          "description": "HathiTrust record for Mules and Men (1935)",
+          "accessed": "2026-11-14"
+        }
+      ],
+      "sensitivity_flag": "living_tradition_high",
+      "sensitivity_guidance": "Living hoodoo practice; nothing beyond Hurston's published general description reproduced; copyrighted text paraphrased only.",
+      "provenance": {
+        "record_status": "complete",
+        "compiled": "2026-11-14",
+        "compiled_by": "DHG508 fieldwork compilation",
+        "review_status": "draft - pending human review"
+      },
+      "narrative": {
+        "en": "The New Orleans chapters of Hurston's Mules and Men record the living atmosphere of hoodoo in the late 1920s — the city where Marie Laveau had reigned a generation before, and where the practice had gone indoors and underground but had not stopped. Hurston describes the altar of a New Orleans doctor: the candles burned by number for the powers, the images and lithographs of the saints, the bottles and bags and powders ranked like a pharmacy of intention, the fee paid up front, the promises traded in whispers. She records the songs that call the powers and the dance of the possessed — the patient shaking, the voice changing, the power arriving into a body that then speaks with a different authority — and she records the payments: the coin, the candle, the work owed, the ledger that the doctor keeps of what each client's case is worth. Her method is the participant one, and it is what makes the chapters unique: she did not interview hoodoo doctors, she apprenticed herself to one, paid her fees, ran errands of candles and粉 through the French Quarter, took her seat among the clients, and describes the service from inside the circle. The songs she heard are the living hymnody of the practice — not the ceremonial chants that the colonial sources transcribed from Louisiana Voodoo's public dances, but the working songs of a working practice — and the drums she felt belong to the same tradition that Cable heard in Congo Square in 1886 and that Puckett reconstructed from the 19th-century sources in 1926. The record here deliberately summarizes. The working details of a living practice are not reproduced beyond what Hurston published as general description, and her copyrighted text is paraphrased, never quoted. Its value for the corpus is continuity: the same serpent-power, the same possessed dance, the same paying of the powers that Moreau de Saint-Méry saw in Saint-Domingue in the 1790s, that the Cuban records of 1904 preserve in police files, and that the Bahian terreiros kept alive in open-air festivals — the Afro-Atlantic service, in its New Orleans room, still keeping its accounts with the invisible. The comparative yield of Hurston's witness is a late northern point on the Afro-Atlantic map. Read against Moreau de Saint-Méry's 1790s Saint-Domingue, against Cable's 1886 Congo Square, against the Cuban police files of 1904 and against Nina Rodrigues's Bahian terreiro reports of the 1890s, her chapters document one continuous economy — serpent-powers, possessed dances, fees and ledgers — adapted to each society's degree of tolerance. In New Orleans the practice had moved from the public dance to the private room; in Bahia it was fighting its way back into the street through the carnival clubs; in Cuba it was being driven into the courts; in Haiti it had never left the mountains. The record anchors, for the Motif Atlas, the cluster of possession-and-payment records, and marks the New Orleans node of the serpent-power geography — the same node that the Marie Laveau portrait and the 1904 Cuban altar-raid document from other angles."
+      }
+    }
+  ]
+}

@@ -1,0 +1,873 @@
+{
+  "texts": [
+    {
+      "id": "afroatlantic-bondye-grand-chemin",
+      "title": {
+        "en": "Bondye and the Grand Chemin: Haitian Vodou Cosmology",
+        "zh": "邦迪耶與大路：海地伏都宇宙論"
+      },
+      "tradition": "afroatlantic",
+      "category": "myth-religion",
+      "region": {
+        "en": "Haiti (symbolic pin: Port-au-Prince)",
+        "zh": "海地（象徵定位：太子港）"
+      },
+      "lat": 18.54,
+      "lon": -72.34,
+      "period": "Haitian Vodou, attested from 18th c.; synthesized from 20th-c. scholarship",
+      "source": {
+        "archive": "Published ethnography (paraphrase-only record)",
+        "work": "Alfred Métraux, 'Voodoo in Haiti' (Paris 1958/New York 1959); Leslie G. Desmangles, 'The Faces of the Gods' (1992); Karen McCarthy Brown, 'Mama Lola' (1991)",
+        "url": "https://library.brown.edu/create/modernlatinamerica/chapters/chapter-12-strategies-for-economic-development/latin-america-in-the-world/vodou-in-haitian-history/"
+      },
+      "license": "Paraphrase summaries only; no liturgical text reproduced",
+      "summary": {
+        "en": "Bondye — 'Bon Dieu' — is the distant creator who set the world in motion and no longer mixes directly in human affairs; below him the lwa, the ancestral and cosmic powers, mediate every petition. Between the worlds runs the Grand Chemin, the great road by which the dead travel and the living send word — a crossroads cosmos in which Legba holds the gate, Baron guards the cemetery, and every ceremony is a journey mapped on the peristyle floor.",
+        "zh": "邦迪耶——『善神』——是遙遠的創世者，推動世界之後便不再直接干預人事；其下的羅阿（祖靈與宇宙之力）代為轉達一切祈求。兩界之間奔流著『大路』——亡者行旅、生者傳訊之道；十字路口的宇宙裡，雷格巴司門，男爵守墓，每一場儀式都是畫在祭亭地面上的一次旅程。"
+      },
+      "motifs": [
+        "creation-chaos",
+        "sacred-place",
+        "descent-underworld"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Deep record built from published scholarly paraphrase only. Vodou is a living religion: initiatory liturgies and veve sequences are restricted and are NOT reproduced."
+      },
+      "persons": [
+        "legba",
+        "baronsamedi"
+      ],
+      "passages": [
+        {
+          "id": "1",
+          "text": "In Haitian Vodou the creator, Bondye (from the French Bon Dieu, 'Good God'), stands at the apex of the cosmos — but as a distant one. He set the world in motion, established its moral order, and then withdrew from direct management of human affairs; the peasant adage holds that Bondye is too high to be troubled with every small case, so prayer is properly addressed to the intermediaries. The lwa — the ancestral and cosmic powers, many of them named individuals with histories, tastes and tempers — are those intermediaries: a crowded pantheon carried across the Middle Passage from Fon, Yoruba, Kongo and other African sources and renewed by Haitian experience.",
+          "note": "Condensed paraphrase of Métraux (1959) and Desmangles (1992); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "The cosmos is mapped as a system of roads. Between the world of the living and the world of the dead runs the Grand Chemin, the great road; the dead travel it under the care of Baron Samedi and the Gede, and the living send word along it by service, song and sacrifice. Every ceremony dramatizes a journey: the processionals, the tracing of vèvè signs, the poteau-mitan center-pole up which the lwa are called to descend. The peristyle floor is a map; the dance is a form of travel.",
+          "note": "Condensed paraphrase of Métraux (1959) and McCarthy Brown (1991); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "Syncretism is structural, not accidental: Bondye merges with the Christian God (and shares his distance), the lwa with Catholic saints — Legba with Saint Peter or Saint Lazarus, Ezili with the Mater Dolorosa. Desmangles reads this double registry as a theology in its own right: the African powers wearing Catholic faces made the religion survivable under the Code Noir, and the Catholic calendar (the feasts of the saints, Good Friday, All Souls) still organizes the Vodou year.",
+          "note": "Condensed paraphrase of Desmangles (1992); not verbatim."
+        }
+      ],
+      "functions": [
+        "Cosmological grammar: distant creator, mediating lwa, road-cosmos",
+        "Middle Passage memory: the pantheon as archive of African peoples in Haiti",
+        "Syncretic survival strategy: the double registry of lwa and saints",
+        "Ritual map: ceremony as dramatized journey between the worlds"
+      ],
+      "variants": [
+        {
+          "name": "Fon-Dahomean cosmology",
+          "text_tradition": "Herskovits 1938; Maupoil 1943",
+          "summary": "Mawu-Lisa at the apex, Legba as messenger-gatekeeper; structurally parallel to the Bondye-lwa order.",
+          "cross_ref": "afroatlantic-legba-crossroads"
+        },
+        {
+          "name": "Kongo-influenced Haitian practice",
+          "text_tradition": "Métraux 1959; Fleurant 1996",
+          "summary": "Kongo cosmo-grammar of the dead and the waters visible in Gede and Petro rites.",
+          "cross_ref": "afroatlantic-gede-baron"
+        }
+      ],
+      "language": "Haitian Kreyol (oral tradition); French colonial records",
+      "canonical_translation": "No written canon; scholarly paraphrases are the published record",
+      "primary_sources": [
+        {
+          "work": "Haitian Vodou oral cosmology",
+          "citation": "Synthesized from Alfred Métraux, Voodoo in Haiti, New York 1959; Leslie G. Desmangles, The Faces of the Gods, Chapel Hill 1992; Karen McCarthy Brown, Mama Lola, Berkeley 1991.",
+          "language": "Haitian Kreyol"
+        }
+      ],
+      "secondary_sources": [
+        {
+          "work": "Leslie G. Desmangles, The Faces of the Gods: Vodou and Roman Catholicism in Haiti",
+          "citation": "Desmangles 1992, University of North Carolina Press — double-registry cosmology."
+        },
+        {
+          "work": "Karen McCarthy Brown, Mama Lola: A Vodou Priestess in Brooklyn",
+          "citation": "Brown 1991, University of California Press — collaborative ethnography."
+        }
+      ],
+      "source_urls": [
+        {
+          "url": "https://library.brown.edu/create/modernlatinamerica/chapters/chapter-12-strategies-for-economic-development/latin-america-in-the-world/vodou-in-haitian-history/",
+          "description": "Brown University scholarly pages on Vodou in Haitian history",
+          "accessed": "2026-11-14"
+        }
+      ],
+      "sensitivity_flag": "living_tradition_high",
+      "sensitivity_guidance": "Vodou is a living religion; initiatory knowledge and some song cycles are restricted and are not reproduced. This record paraphrases published scholarly sources only.",
+      "provenance": {
+        "record_status": "complete",
+        "compiled": "2026-11-14",
+        "compiled_by": "DHG508 fieldwork compilation",
+        "review_status": "draft - pending human review"
+      },
+      "narrative": {
+        "en": "In Haitian Vodou the creator, Bondye — a Kreyol rendering of the French Bon Dieu, the Good God — stands at the apex of the cosmos, and stands there as a distant power. He set the world in motion, established its moral order, and then withdrew from the direct management of human affairs. The peasant adage that this distance is precisely why the lwa matter runs through the whole theology: Bondye is too great, too high, too occupied with the ends of things to be troubled with every small case of a farmer's child or a fisherman's boat, and so prayer is properly addressed to the intermediaries. The intermediaries are the lwa — the ancestral and cosmic powers, many of them named individuals with histories, tastes, tempers, and whole biographies of marriage and feud — a crowded pantheon carried across the Middle Passage from Fon, Yoruba, Kongo and other African sources and renewed generation by generation by Haitian experience. Some are old African gods in Kreyol dress; some are the spirits of revolutionary heroes; some are powers of the road, the sea, the market, the graveyard — the in-between places where the living and the dead trade. The cosmos itself is mapped as a system of roads. Between the world of the living and the world of the dead runs the Grand Chemin, the great road; the dead travel it under the care of Baron Samedi and the Gede, and the living send word along it by service, song and sacrifice. Every ceremony dramatizes a journey: the processionals that enter the peristyle from the mystery house, the tracing of vèvè signs on the ground, the poteau-mitan center-pole up which the lwa are called to descend. The peristyle floor is a map; the dance is a form of travel; the drummer is a driver of the road. Syncretism in this system is structural, not accidental. Bondye merges with the Christian God and shares his distance; the lwa wear Catholic faces — Legba with Saint Peter or Saint Lazarus, Ezili with the Mater Dolorosa, Ogou with Saint James — and the Catholic calendar of saints' feasts, Good Friday and All Souls organizes the Vodou year. Leslie Desmangles reads this double registry as a theology in its own right rather than a camouflage: the African powers wearing Catholic faces made the religion survivable under the Code Noir, and in time the two registers fused into one grammar in which the same power is known by two names and honored at two altars. The cultural function of the whole structure is to make the African gods governable in a colony and a republic that burned them: the distant creator keeps the state's God out of the way of the ancestors' business, and the roads keep every petition answerable in this world. The Grand Chemin deserves its own close attention, because it is the image that most distinguishes this cosmology from its Old World sources. In the African homelands the worlds of the living and the dead are adjacent villages, connected by boundaries that are tended — the sacred grove, the river crossing, the family tomb inside the compound wall. In Haiti the crossing became the road: a long, dangerous, traveled distance, made by the Middle Passage and renewed by the regime of mobility that the plantation imposed — the forced march of the coffle, the flight of the maroon along the mountain paths, the constant traffic of the dead in a colony where death was everywhere at work. The road-cosmos is therefore a historical cosmology: it maps the specific geography of survival in Saint-Domingue, in which everyone, living or dead, was a traveler between two worlds, and in which every ceremony was a way-station. The Comparative value for the Motif Atlas is that this image joins the descent-myths and underworld-roads of the Greek, Sumerian, Norse and Maya traditions with an ocean-crossing account of the same structure: the road between the worlds is the Middle Passage itself, remembered cosmologically, and every ritual journey on it is at once a liturgy and a history lesson."
+      }
+    },
+    {
+      "id": "afroatlantic-ezili-freda",
+      "title": {
+        "en": "Ezili Freda: the Lady of Love, Luxury and Tears",
+        "zh": "埃稀麗·芙蕾達：愛、奢華與淚之女神"
+      },
+      "tradition": "afroatlantic",
+      "category": "myth-religion",
+      "region": {
+        "en": "Haiti (symbolic pin: Port-au-Prince)",
+        "zh": "海地（象徵定位：太子港）"
+      },
+      "lat": 18.54,
+      "lon": -72.34,
+      "period": "Haitian Vodou; documented from 19th c.; synthesized from 20th-c. scholarship",
+      "source": {
+        "archive": "Published ethnography (paraphrase-only record)",
+        "work": "Karen McCarthy Brown, 'Mama Lola: A Vodou Priestess in Brooklyn' (1991); Alfred Métraux, 'Voodoo in Haiti' (1959)",
+        "url": "https://library.brown.edu/create/modernlatinamerica/chapters/chapter-12-strategies-for-economic-development/latin-america-in-the-world/vodou-in-haitian-history/"
+      },
+      "license": "Paraphrase summaries only",
+      "summary": {
+        "en": "Ezili Freda Dahomey is the lwa of love, beauty and luxury — perfumed, jeweled, quarrelsome, cursed to love and never to be satisfied. Her menage of three husbands (Ogou, Damballa, Danbala's rival Ti-Jean) is a marriage-romance of jealousy; her sign is the weeping heart pierced by a sword; her service demands perfume, sweets and white things, and no tobacco smoke or pork. She and the black, scarred warrior-mother Ezili Danto are the two faces of the same love.",
+        "zh": "埃稀麗·芙蕾達·達荷美是愛、美與奢華的羅阿——熏香、珠寶、善妒、被詛永愛而永不得饜足。她與三位夫君（奧貢、丹巴拉與情敵小讓）組成一齣嫉妒的婚姻言情劇；其符為利劍穿心的泣血之心；她的祭祀要香水、甜品與白色之物，忌煙火與豬肉。她與黑色帶疤的戰士母親埃稀麗·丹托，正是同一種愛的兩副面孔。"
+      },
+      "motifs": [
+        "divine-marriage",
+        "boon-curse",
+        "transformation",
+        "jealousy"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Deep record from published scholarly paraphrase only; Ezili's cult is living practice."
+      },
+      "persons": [],
+      "passages": [
+        {
+          "id": "1",
+          "text": "Ezili Freda Dahomey is the lwa of love, beauty and luxury: perfumed, jeweled, pale-skinned in the imagery, quarrelsome — and cursed never to be satisfied in love. Brown reads her as the creolized memory of a Dahomean noblewoman of the slave-trade era, a woman who perhaps once owned slaves herself and in Haiti was enslaved: the奢侈品 of her cult (perfume, sweets, lace, white rum) are her remembered station; her tears are her remembered fate.",
+          "note": "Condensed paraphrase of McCarthy Brown (1991); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Her mythic biography is a romance of jealousy: she is the wife or lover of three rival powers — the iron soldier Ogou, the serpent Damballa, and the mortal trickster Ti-Jean who won her for a night and lost her forever. Her emblem is the heart pierced by a sword, her color white and pink, her day Thursday; those who serve her keep her altar scented and clean, for she cannot abide tobacco smoke or the smell of pork — the smell, the tradition says, of the suffering of her people.",
+          "note": "Condensed paraphrase of McCarthy Brown (1991) and Métraux (1959); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "She has her dark twin: Ezili Danto — black, scarred, the warrior-mother who fights with a child strapped to her back and a knife in her teeth, speech folded with the bends of a rough life. Where Freda weeps at romance gone wrong, Danto aches for the children of Haiti; where Freda's service is a garden of white things and sweet perfumes, Danto's is a dark kitchen of iron and pepper. Together they are the two faces of love: the longing and the labor.",
+          "note": "Condensed paraphrase of McCarthy Brown (1991); not verbatim."
+        }
+      ],
+      "functions": [
+        "Gendered devotion: romance, luxury and heartbreak as religious matter",
+        "Middle Passage memory: the nobility of Ezili Freda and the suffering of Ezili Danto",
+        "Ritual economics: perfume, sweets and whiteness as offerings",
+        "Double registry: the lwa of love wearing the face of the Mater Dolorosa"
+      ],
+      "variants": [
+        {
+          "name": "Ezili Danto (Ezili Je Wouj)",
+          "text_tradition": "Haitian Vodou (Brown 1991)",
+          "summary": "The scarred warrior-mother, black iconography, knife and child; the 'other' Ezili.",
+          "cross_ref": "afroatlantic-ezili-freda"
+        },
+        {
+          "name": "Maitresse Ezilee (Seabrook's telling)",
+          "text_tradition": "Seabrook 1929",
+          "summary": "Recorded as 'the mild Blessed Virgin Mary' of the mountain pantheon.",
+          "cross_ref": "afroatlantic-voodoo-gods-mountain"
+        }
+      ],
+      "language": "Haitian Kreyol (oral tradition)",
+      "canonical_translation": "No written canon; scholarly paraphrases are the published record",
+      "primary_sources": [
+        {
+          "work": "Ezili narratives and service-songs (oral tradition)",
+          "citation": "Recorded in Karen McCarthy Brown, Mama Lola: A Vodou Priestess in Brooklyn, Berkeley 1991; Alfred Métraux, Voodoo in Haiti, New York 1959.",
+          "language": "Haitian Kreyol"
+        }
+      ],
+      "secondary_sources": [
+        {
+          "work": "Leslie G. Desmangles, The Faces of the Gods",
+          "citation": "Desmangles 1992 — Ezili and the Marian registry."
+        }
+      ],
+      "source_urls": [
+        {
+          "url": "https://library.brown.edu/create/modernlatinamerica/chapters/chapter-12-strategies-for-economic-development/latin-america-in-the-world/vodou-in-haitian-history/",
+          "description": "Brown University scholarly pages on Vodou history",
+          "accessed": "2026-11-14"
+        }
+      ],
+      "sensitivity_flag": "living_tradition_low",
+      "sensitivity_guidance": "Ezili's cult is living practice; song cycles are not reproduced verbatim.",
+      "provenance": {
+        "record_status": "complete",
+        "compiled": "2026-11-14",
+        "compiled_by": "DHG508 fieldwork compilation",
+        "review_status": "draft - pending human review"
+      },
+      "narrative": {
+        "en": "Ezili Freda Dahomey is the lwa of love, beauty and luxury: perfumed, jeweled, pale in the iconography, quarrelsome — and cursed never to be satisfied in love. Her very name carries her origin: Freda Dahomey, the lady from Dahomey, and Karen McCarthy Brown reads in her the creolized memory of a Dahomean noblewoman of the slave-trade era, a woman who may once have owned slaves herself and who in Haiti was enslaved. The luxury of her cult is her remembered station — perfume, sweets, lace, white rum, the finest white and pink things in the household — and her tears are her remembered fate: she weeps, the tradition says, because she is destined always to love and never to be loved enough. Her mythic biography is a romance of jealousy, played out among the pantheon's most powerful men: she is the wife or lover of three rivals — the iron soldier Ogou, the serpent Damballa, and the mortal trickster Ti-Jean, who won her for a single night and lost her forever. The triangle is the engine of her service-songs, which recount her fits of pique, her errands of vengeance against rival women, her shopping for the finest cloth in the market of heaven. Her emblem is the heart pierced by a sword — the emblem that Catholic Haiti knows as the Mater Dolorosa — and her day is Thursday, her color white and pink, her posture fainting elegance. Those who serve her keep her altar immaculate: she cannot abide tobacco smoke, and above all she cannot abide the smell of pork, which the tradition reads as the smell of the suffering of her people — the smell of the ship, the smell of the cane. She has her dark twin, and the pair makes a single theology of love. Ezili Danto is black, scarred, the warrior-mother who fights with a child strapped to her back and a knife in her teeth, her speech folded with the hard bends of a rough life; where Freda weeps at romance gone wrong, Danto aches for the children of Haiti; where Freda's service is a garden of white things and sweet perfumes, Danto's is a dark kitchen of iron, pepper and machete. Together they are the two faces of love — the longing and the labor — and the devotee who serves one learns to serve both, for the same heart wears both faces in a country that has known both the fantasy of luxury and the discipline of survival. The ritual economics of her cult make the theology legible. Ezili is the most expensive of the lwa to serve: her perfumes, her white cakes, her imported lace, her pink and white candles — the altar of a rich Ezili house in Haiti is a small museum of the dream of luxury, and the poor devotee who buys one candle for her is buying, consciously, a share in the fantasy. Brown's ethnography shows the other side with equal care: in the Brooklyn apartment altar of Mama Lola, Ezili Freda's things stand beside Ezili Danto's machete and the family's Ogou flags, and the three of them constitute a single statement about love and iron and survival — the fantasy, the labor and the fight, each with its own price. In the comparative grid Ezili stands with the Aphrodite-and-Ares pair of the Greek cycle and with the Mesopotamian Inanna in her modes of desire and war; the Haitian particularity is that the pair are two names of one goddess, and that the history of slavery is written into the seam between them. For the Motif Atlas the record anchors the cluster of love-goddess-with-war-goddess and supplies the Afro-Atlantic case in which the split is explained by history rather than by theology."
+      }
+    },
+    {
+      "id": "afroatlantic-ogou-feray",
+      "title": {
+        "en": "Ogou Feray: the Iron Soldier Who Made a Revolution",
+        "zh": "奧貢·菲雷：鑄成革命的鐵之軍人"
+      },
+      "tradition": "afroatlantic",
+      "category": "myth-religion",
+      "region": {
+        "en": "Haiti (symbolic pin: Gonaïves)",
+        "zh": "海地（象徵定位：戈納伊夫）"
+      },
+      "lat": 19.45,
+      "lon": -72.68,
+      "period": "Haitian Vodou; documented from 18th c.; synthesized from 20th-c. scholarship",
+      "source": {
+        "archive": "Published ethnography (paraphrase-only record)",
+        "work": "Karen McCarthy Brown, 'Mama Lola' (1991); Alfred Métraux, 'Voodoo in Haiti' (1959)",
+        "url": "https://library.brown.edu/create/modernlatinamerica/chapters/chapter-12-strategies-for-economic-development/latin-america-in-the-world/vodou-in-haitian-history/"
+      },
+      "license": "Paraphrase summaries only",
+      "summary": {
+        "en": "Ogou Feray (Ogun Ferraille) is the soldier-lwa of iron: machete, flag, and the hard labor of revolution. In Haitian memory he is the spirit of the warriors of 1791-1804; his shrine holds machetes crossed and an iron bar beaten by a horseshoe; when he comes in service he moves like a soldier on parade, drinks rum straight, smokes, and demands payment for his work. He is also the healer of iron's wounds — the worker's lwa as much as the warrior's.",
+        "zh": "奧貢·菲雷是鐵的軍人羅阿：彎刀、旗幟與革命的苦役。在海地記憶中，他是一七九一至一八〇四年戰士之靈；其壇交叉的彎刀與被馬蹄鐵敲擊的鐵棒為記。降附之時他如受閱軍人般行動，直飲朗姆、吸菸、索要工錢；他亦醫鐵之傷——既是戰士的神，也是勞工的神。"
+      },
+      "motifs": [
+        "culture-hero",
+        "storm-thunder",
+        "sacred-kingship",
+        "task-series"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Deep record from published scholarly paraphrase only; living practice."
+      },
+      "persons": [
+        "ogun"
+      ],
+      "passages": [
+        {
+          "id": "1",
+          "text": "Ogou Feray is the lwa of iron and war: Yoruba Ogun carried to Haiti and fused with Fon and Kongo iron-powers. His emblems are the machete crossed on his shrine, the iron bar, the red flag; his colors red and blue; his animal the red rooster. In the Haitian telling he is the spirit of the warriors of the revolution — the power that marched with Dessalines and Christophe — and the workers' lwa of forge, field and factory, the same iron that fights also feeds.",
+          "note": "Condensed paraphrase of McCarthy Brown (1991) and Métraux (1959); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "When he comes in service he arrives like a soldier: standing at attention in the peristyle door, drinking rum neat, smoking a cigar, his voice hoarse with command. He demands payment for his work — a small coin, a splash of rum — and he keeps accounts: the Haitian proverb that Ogou is owed remembers every unpaid debt of the revolution's dead. But he also heals: iron's own medicine for iron's own wounds, the cuts and fevers of labor.",
+          "note": "Condensed paraphrase of McCarthy Brown (1991); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "Brown's telling makes the politics explicit: in Mama Lola's family Ogou is the ancestor-spirit of a lineage of rebel men — a great-grandfather who fought in the cacos, a grandfather who died in the U.S. occupation — and the family service is at once a remembering and an accounting: what was promised to the men, what was owed to the lwa, what has been paid.",
+          "note": "Condensed paraphrase of McCarthy Brown (1991); not verbatim."
+        }
+      ],
+      "functions": [
+        "Warrior and worker: iron as the double power of weapon and tool",
+        "Revolutionary memory: the lwa of 1791-1804 and its unpaid debts",
+        "Ancestral politics: the family Ogou as spirit of rebel men",
+        "Healing of iron: cuts and fevers treated with iron's medicine"
+      ],
+      "variants": [
+        {
+          "name": "Yoruba Ogun",
+          "text_tradition": "Yoruba tradition (Ellis 1894; Idowu 1962)",
+          "summary": "Iron-orisha, road-opener and hunter, first to clear the way.",
+          "cross_ref": "afroatlantic-ogun-road-eshu"
+        },
+        {
+          "name": "Ogoun Badagris (Petro register)",
+          "text_tradition": "Haitian Vodou (Seabrook 1929)",
+          "summary": "The 'bloody dreadful' Ogoun of the hot rites, whose voice is thunder.",
+          "cross_ref": "afroatlantic-voodoo-gods-mountain"
+        }
+      ],
+      "language": "Haitian Kreyol (oral tradition)",
+      "canonical_translation": "No written canon; scholarly paraphrases are the published record",
+      "primary_sources": [
+        {
+          "work": "Ogou narratives and service-songs (oral tradition)",
+          "citation": "Recorded in McCarthy Brown 1991; Métraux 1959.",
+          "language": "Haitian Kreyol"
+        }
+      ],
+      "secondary_sources": [
+        {
+          "work": "Karen McCarthy Brown, Mama Lola",
+          "citation": "Brown 1991 — family Ogou and the political memory of iron."
+        }
+      ],
+      "source_urls": [
+        {
+          "url": "https://library.brown.edu/create/modernlatinamerica/chapters/chapter-12-strategies-for-economic-development/latin-america-in-the-world/vodou-in-haitian-history/",
+          "description": "Brown University scholarly pages on Vodou history",
+          "accessed": "2026-11-14"
+        }
+      ],
+      "sensitivity_flag": "living_tradition_low",
+      "sensitivity_guidance": "Ogou's cult is living practice; song cycles are not reproduced verbatim.",
+      "provenance": {
+        "record_status": "complete",
+        "compiled": "2026-11-14",
+        "compiled_by": "DHG508 fieldwork compilation",
+        "review_status": "draft - pending human review"
+      },
+      "narrative": {
+        "en": "Ogou Feray — Ogun Ferraille, Ogun of the Irons — is the lwa of iron and war in Haitian Vodou, the Yoruba road-opener and blacksmith-god carried to Saint-Domingue and fused there with the iron-powers of the Fon and Kongo ancestors. His emblems are a machete crossed on his shrine, an iron bar, the red flag; his colors are red and blue, his animal the red rooster, his Saint the warrior-saint James in his iconography of battle. In the Haitian telling he is pre-eminently the spirit of the warriors of the revolution of 1791 to 1804 — the power that marched with the maroons and the freedmen of the North Plain, that stood beside Dessalines at the crack of independence — and at the same time the workers' lwa of forge, field and factory: the same iron that fights also feeds, the same blade that harvests cane also harvests enemies. When he comes in service he arrives like a soldier: standing at attention in the doorway of the peristyle, drinking rum neat, smoking a cigar, his voice hoarse with command, his feet planted. He demands payment for his work — a small coin, a splash of rum, a cigar — and he keeps accounts: the Haitian proverb that Ogou is owed remembers every unpaid debt of the revolution's dead, and the service-song that lists his battles is a ledger of national memory. But he is also a healer, and the two offices are one: iron's own medicine for iron's own wounds, the cuts and fevers of labor treated with heated blades, cauterizing iron, the red steel laid on red flesh. Brown's telling makes the politics of this explicit and personal. In Mama Lola's family Ogou is the ancestor-spirit of a lineage of rebel men — a great-grandfather who fought in the cacos, a grandfather who died under the American occupation — and the family service to him is at once a remembering and an accounting: what was promised to the men, what was owed to the lwa, what has been paid and what remains. The iron soldier of the revolution lives on in the iron of the household, and the household keeps his books. The comparative grid confirms how much of this is old iron in new hands: the Yoruba Ogun of the homeland is the hunter and road-opener who first cleared the paths with his blade, the blacksmith whose forge civilized the forest, the orisha who insists on being fed before any serious work begins; the Haitian Ogou keeps every one of these offices and adds the political one, because in Saint-Domingue and after, iron was the metal of the slaves — the machete that cut cane and cut masters, the chains that had to be broken, the tools that were forbidden and were seized. In the Petro register of the hot rites he appears as Ogoun Badagris, the bloody dreadful one whose voice is thunder, and in the Rada register he is the cooler soldier of the calendar saint; the two registers share a single shrine and a single ledger. For the corpus of comparative myth he supplies the Afro-Atlantic form of the culture-hero of iron: the first clearers of the road, the smiths of the social contract, the warriors whose pay is always partly owed."
+      }
+    },
+    {
+      "id": "afroatlantic-damballa-serpent-rainbow",
+      "title": {
+        "en": "Damballa: the Serpent, the Rainbow and the Waters of Creation",
+        "zh": "丹巴拉：蛇、彩虹與創世之水"
+      },
+      "tradition": "afroatlantic",
+      "category": "myth-religion",
+      "region": {
+        "en": "Haiti (symbolic pin: Port-au-Prince)",
+        "zh": "海地（象徵定位：太子港）"
+      },
+      "lat": 18.54,
+      "lon": -72.34,
+      "period": "Haitian Vodou; documented from 18th c.; synthesized from 20th-c. scholarship",
+      "source": {
+        "archive": "Published ethnography (paraphrase-only record)",
+        "work": "Alfred Métraux, 'Voodoo in Haiti' (1959); Sir Spenser St. John, 'Hayti' (1884), reproducing Moreau de Saint-Méry",
+        "url": "https://www.gutenberg.org/cache/epub/68592/pg68592.txt"
+      },
+      "license": "Paraphrase summaries only",
+      "summary": {
+        "en": "Damballa Wedo is the ancient serpent-lwa of the Fon pantheon carried to Haiti: old, slow, white, speechless — he can only hiss. Where he moves in service, the waters tremble: he is the lwa of rain, rivers and the primal waters from which the world was made; his wife Ayida Weddo is the rainbow that bridges sky and earth, and their union is the movement of creation itself. The colonial sources record the serpent in its box on the altar; the living religion records a far older and quieter power.",
+        "zh": "丹巴拉·維多是自豐族神殿遷至海地的古老蛇神：蒼老、遲緩、潔白、不能言語——只會嘶嘶。他在祭祀中移動之處，水為之顫：他是雨、河與創世原水的羅阿；其妻阿伊達·維多是橋接天地的彩虹，兩者的結合即是創世本身的運動。殖民文獻記錄祭壇木匣中的蛇；活著的信仰記錄的卻是更古老而靜默的力量。"
+      },
+      "motifs": [
+        "world-serpent",
+        "creation-chaos",
+        "divine-marriage"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Deep record from published paraphrase only; serpent-lwa cult is living practice."
+      },
+      "persons": [],
+      "passages": [
+        {
+          "id": "1",
+          "text": "Damballa Wedo is the serpent-lwa par excellence: ancient, slow, white, speechless — in service he hisses, and his horse (the possessed one) slithers along the ground like a great snake. He is the power of the waters: rain, rivers, the primal sea from which the world was made; in the Fon mythology he descends from the creator pair Mawu-Lisa, and in Haiti he keeps that seniority — he is served first among the Rada lwa with the whitest, coolest offerings: white flour, white eggs, white sheets.",
+          "note": "Condensed paraphrase of Métraux (1959) and Herskovits (1938); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "His wife (or co-wife, in different tellings) is Ayida Weddo, the rainbow — the serpent that bridges the sky to the earth and carries the waters home. Their union is the movement of creation itself: where Damballa is the still deep water, Ayida is the arc of color that the water makes climbing back to the sky. Their paired vèvè — two serpents about the pole — is one of the oldest signs of the religion.",
+          "note": "Condensed paraphrase of Métraux (1959); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "The colonial record preserves the same deity under the name of the Vaudoux serpent: Moreau de Saint-Méry, writing in the 1790s, describes the non-venomous serpent kept in a box on the altar, before which the King and Queen of the sect take their oath — and the whole community swearing by the serpent's power. What the colonial eye read as superstition is the memory of a cosmology in which the world itself was made by the serpent and the rainbow.",
+          "note": "Condensed paraphrase of Moreau de Saint-Méry via St. John (1884); not verbatim. Cross-ref: afroatlantic-vaudoux-king-queen."
+        }
+      ],
+      "functions": [
+        "Cosmogonic serpent: the waters and the rainbow as world-makers",
+        "Rada seniority: cool, white offerings to the oldest lwa",
+        "Middle Passage memory: the Fon serpent-power in Haitian form",
+        "Colonial record: the 1790s serpent-in-the-box as documented continuity"
+      ],
+      "variants": [
+        {
+          "name": "Fon Dambada Wedo (Dahomey)",
+          "text_tradition": "Herskovits 1938; Maupoil 1943",
+          "summary": "The rainbow-serpent of Dahomean cosmology, wife of the sky.",
+          "cross_ref": "afroatlantic-legba-crossroads"
+        },
+        {
+          "name": "The Vaudoux serpent (Moreau de Saint-Méry)",
+          "text_tradition": "Colonial record 1790s",
+          "summary": "The sect-serpent of the Arada, oracle in its box.",
+          "cross_ref": "afroatlantic-vaudoux-king-queen"
+        }
+      ],
+      "language": "Haitian Kreyol; Fon; French colonial records",
+      "canonical_translation": "No written canon; scholarly paraphrases are the published record",
+      "primary_sources": [
+        {
+          "work": "Damballa narratives and service-songs (oral tradition)",
+          "citation": "Métraux 1959; Herskovits 1938; Moreau de Saint-Méry 1797 via St. John 1884.",
+          "language": "Haitian Kreyol; Fon"
+        }
+      ],
+      "secondary_sources": [
+        {
+          "work": "Alfred Métraux, Voodoo in Haiti",
+          "citation": "Métraux 1959 — Damballa and Ayida Weddo."
+        }
+      ],
+      "source_urls": [
+        {
+          "url": "https://www.gutenberg.org/cache/epub/68592/pg68592.txt",
+          "description": "St. John, Hayti (1884), Gutenberg text",
+          "accessed": "2026-11-14"
+        }
+      ],
+      "sensitivity_flag": "living_tradition_low",
+      "sensitivity_guidance": "Damballa's cult is living practice; liturgy not reproduced.",
+      "provenance": {
+        "record_status": "complete",
+        "compiled": "2026-11-14",
+        "compiled_by": "DHG508 fieldwork compilation",
+        "review_status": "draft - pending human review"
+      },
+      "narrative": {
+        "en": "Damballa Wedo is the serpent-lwa of Haitian Vodou, and he is old — the oldest in the ritual order of the Rada rites. Ancient, slow, white, and speechless, he does not speak in service: he hisses, and his horse — the possessed celebrant — moves like a great snake along the ground, slithering rather than walking, tasting the air. He is the power of the waters: rain, rivers, the primal sea from which the world was made; in the Fon mythology he descends from the creator pair Mawu-Lisa, and in Haiti he keeps that seniority. He is served first among the Rada lwa, with the whitest and coolest offerings — white flour, white eggs, cool water, white sheets — because heat is not his element and the coolness of the deep water is. His wife, or co-wife in different tellings, is Ayida Weddo, the rainbow: the serpent that bridges the sky to the earth and carries the waters home. Where Damballa is the still deep water, Ayida is the arc of color that the water makes climbing back to the sky, and their union is the movement of creation itself — the water falling and returning, the world breathing. Their paired emblem — two serpents about the center-pole — is one of the oldest signs of the religion, drawn first on the floor of every service. The colonial record preserves the same deity under the name of the Vaudoux serpent. Moreau de Saint-Méry, writing in the 1790s, describes the non-venomous serpent kept in a box upon the altar of the sect, before which the King and Queen take their oath and the whole community swears by the serpent's power; the serpent in the box is, in the living theology, the same power that made the world — a god too old to argue, kept near at hand in a small wooden ark. The continuity is exact and documentable: the Arada serpent of 1790 and the Damballa of the present-day peristyle are one lineage, and the colonial archive itself — hostile as it is — becomes evidence of survival. What the colonial eye read as superstition is the memory of a cosmology in which the world itself was made by the serpent and the rainbow, and in which every rain is the old agreement renewed. In the comparative grid Damballa and Ayida stand with the world-serpents of every mythology — the Midgard serpent beneath the sea, the Chinese Yinglong and the coiling dragons of the flood-tales, the Rainbow Serpent of Australia and Melanesia — but with a Haitian particularity: the world-serpent here is not a threat to be fought but a peace to be kept. The waters that he governs are the waters of origin, and his service is a renewal of the original calm rather than a defeat of chaos; the rainbow that Ayida spans is the sign that the flood has an end. The colonial sources, seeing only the box and the oath, could not read this; the living liturgy reads it every time the paired serpents are drawn on the floor of the peristyle and the oldest drums begin to cool the air of the yard. For the comparative corpus the Haitian serpent supplies the one case in which the world-serpent is both creator and comforter, and in which the oldest god is the quietest one in the room."
+      }
+    },
+    {
+      "id": "afroatlantic-marassa-twins",
+      "title": {
+        "en": "The Marassa: Sacred Twins of Vodou",
+        "zh": "瑪拉薩：伏都的雙生聖童"
+      },
+      "tradition": "afroatlantic",
+      "category": "myth-religion",
+      "region": {
+        "en": "Haiti (symbolic pin: Port-au-Prince)",
+        "zh": "海地（象徵定位：太子港）"
+      },
+      "lat": 18.54,
+      "lon": -72.34,
+      "period": "Haitian Vodou; documented from 18th c.; synthesized from 20th-c. scholarship",
+      "source": {
+        "archive": "Published ethnography (paraphrase-only record)",
+        "work": "Alfred Métraux, 'Voodoo in Haiti' (1959); Melville J. Herskovits, 'Dahomey' (1938)",
+        "url": "https://library.brown.edu/create/modernlatinamerica/chapters/chapter-12-strategies-for-economic-development/latin-america-in-the-world/vodou-in-haitian-history/"
+      },
+      "license": "Paraphrase summaries only",
+      "summary": {
+        "en": "The Marassa — the sacred twins, Marassa Twims, Marasa Etwa Dosa — are children-lwa, the most childlike and most dangerous of the powers: fed first at every ceremony, from the twin-plates and twin-spoons no other lwa may use, served on the ground like children and treated with the tender terror reserved for something too close to the divine. In Africa they are the Ibeji of the Yoruba and the hohovi of the Fon; in Haiti they are the memory of the twin birth as a cosmic event.",
+        "zh": "瑪拉薩——神聖的雙生子——是孩童般的羅阿，最孩子氣也最危險：每場儀式必先受食，用那對誰也不許動用的雙盤雙匙，如孩童般席地受供，受著對近乎神聖之物的溫柔惶恐。在非洲他們是約魯巴的伊貝吉、豐族的霍沃維；在海地，他們是『雙生即宇宙事件』的記憶。"
+      },
+      "motifs": [
+        "sibling-creators",
+        "miraculous-birth",
+        "taboo-transgression",
+        "twin-heroes"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Deep record from published paraphrase only; Marassa cult is living practice. Cross-tradition cluster: twins (Yoruba Ibeji; Maya Hero Twins)."
+      },
+      "persons": [],
+      "passages": [
+        {
+          "id": "1",
+          "text": "The Marassa are the lwa of twins — and, by extension, of every doubled and sacred childhood. They are served first at every ceremony, from twin-plates and twin-spoons that no other lwa may touch, on the ground like children at a picnic; their offering is the simplest food of the compound. They are petulant, easily offended, prone to strike the household with the childhood diseases — and so tenderly feared that the whole service pauses until they are fed and pleased.",
+          "note": "Condensed paraphrase of Métraux (1959) and Herskovits (1938); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "In the Fon-Yoruba homeland the twins are the Ibeji and the hohovi: births that are miracles or calamities, children who are spirits walking among mortals, and whose death is not an end but a return to the wild twin-country from which they came. The Haitian Marassa carry this memory whole: the twin-plates, the first-served portion, the childish fury — a theology in which twinship is the nearest human image of the divine doubling of the world.",
+          "note": "Condensed paraphrase of Herskovits (1938); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "In the Afro-Atlantic grid the Marassa stand with the Yoruba Ibeji, the Maya Hero Twins, and every tradition's doubled founders: the twin as creator, twin as trickster, twin as omen. The Haitian form is distinct — children, not heroes — but the structural rhyme is exact: two born together, honored with doubled things, feared with doubled fear.",
+          "note": "Comparative note by the compiler; not verbatim."
+        }
+      ],
+      "functions": [
+        "Twin theology: twinship as the human image of divine doubling",
+        "Childhood honored: the lwa served first, like children",
+        "West African continuity: Ibeji and hohovi carried to Haiti",
+        "Cross-tradition rhyme: twins as founders, tricksters, omens"
+      ],
+      "variants": [
+        {
+          "name": "Yoruba Ibeji",
+          "text_tradition": "Yoruba tradition",
+          "summary": "Twins as orishas of double fortune and double danger.",
+          "cross_ref": "afroatlantic-marassa-twins"
+        },
+        {
+          "name": "Maya Hero Twins",
+          "text_tradition": "Popol Vuh",
+          "summary": "The doubled founders of the Maya cycle.",
+          "cross_ref": "afroatlantic-marassa-twins"
+        }
+      ],
+      "language": "Haitian Kreyol; Fon; Yoruba (oral traditions)",
+      "canonical_translation": "No written canon; scholarly paraphrases are the published record",
+      "primary_sources": [
+        {
+          "work": "Marassa narratives and service-songs (oral tradition)",
+          "citation": "Métraux 1959; Herskovits 1938.",
+          "language": "Haitian Kreyol; Fon"
+        }
+      ],
+      "secondary_sources": [
+        {
+          "work": "Melville J. Herskovits, Dahomey, An Ancient West African Kingdom",
+          "citation": "Herskovits 1938 — the Fon twin-cult."
+        }
+      ],
+      "source_urls": [
+        {
+          "url": "https://library.brown.edu/create/modernlatinamerica/chapters/chapter-12-strategies-for-economic-development/latin-america-in-the-world/vodou-in-haitian-history/",
+          "description": "Brown University scholarly pages on Vodou history",
+          "accessed": "2026-11-14"
+        }
+      ],
+      "sensitivity_flag": "living_tradition_low",
+      "sensitivity_guidance": "Marassa cult is living practice; liturgy not reproduced.",
+      "provenance": {
+        "record_status": "complete",
+        "compiled": "2026-11-14",
+        "compiled_by": "DHG508 fieldwork compilation",
+        "review_status": "draft - pending human review"
+      },
+      "narrative": {
+        "en": "The Marassa are the lwa of twins in Haitian Vodou — Marasa Twims, Marasa Etwa Dosa, the sacred doubled children — and they are served first at every ceremony, from twin-plates and twin-spoons that no other lwa may touch, seated on the ground like children at a picnic and offered the plainest food of the compound. Their theology is the theology of double birth: twins are not ordinary children but spirits walking among mortals, close to the source of things, dangerous to cross and glorious to please. They are petulant, easily offended, prone to strike a household with the childhood diseases when slighted, and so tenderly feared that the whole service pauses until they are fed and pleased. In the Fon-Yoruba homeland the same powers are the Ibeji of the Yoruba and the hohovi of the Fon: twin-births as miracles or calamities, twin-deaths not as ends but as returns to the wild twin-country from which the children came, twin-cults of little paired figures carved, fed, and kept on the family shelf. The Haitian Marassa carry this memory whole across the Middle Passage: the twin-plates, the first-served portion, the childish fury, the small chairs set for guests who are always invisible and always expected. In the Afro-Atlantic comparative grid the Marassa stand with the Yoruba Ibeji, with the Hero Twins of the Maya Popol Vuh, and with every tradition's doubled founders: the twin as creator, twin as trickster, twin as omen. The Haitian form is distinct — children rather than heroes, hunger rather than conquest — but the structural rhyme is exact: two born together, honored with doubled things, feared with doubled fear. Their ritual function in the diaspora is a social one as much as a cosmic one: to serve the Marassa is to serve every doubled and divided household in a society created by forced separations, to honor the sibling pair as the smallest unit of survival, and to keep the first portion of every feast for the smallest and most easily wounded of the powers. The ritual technology of the cult is precisely calibrated to its theology: twin-plates that no single food may be served on, twin-spoons, twin-cups, two small chairs, two portions of everything, and the rule that the Marassa are fed before any other lwa — the first portion of the first dish, on the ground, with the house children standing around as if at the feeding of real children. When the twins are angry, the whole household knows it at once: the children sicken, the food spoils, the services stall, and the remedy is a double feast as quickly as it can be cooked. The Marassa therefore function as the household conscience of the religion — the lwa whose displeasure is immediate, domestic, and repairable, and whose cult teaches the primary Afro-Atlantic ethic that the doubled and the divided must be honored together. In the corpus of world myth they stand with every sacred-twin tradition, from the Ashanti twins to the Popol Vuh, supplying the Haitian case in which twinship is treated not as a heroic epoch but as a permanent domestic arrangement that must be kept in good order at every meal."
+      }
+    },
+    {
+      "id": "afroatlantic-gede-baron",
+      "title": {
+        "en": "Gede and Baron Samedi: the Cemetery Masters",
+        "zh": "蓋德與星期六男爵：墓園之主"
+      },
+      "tradition": "afroatlantic",
+      "category": "myth-religion",
+      "region": {
+        "en": "Haiti (symbolic pin: Port-au-Prince)",
+        "zh": "海地（象徵定位：太子港）"
+      },
+      "lat": 18.54,
+      "lon": -72.34,
+      "period": "Haitian Vodou; documented from 19th c.; synthesized from 20th-c. scholarship",
+      "source": {
+        "archive": "Published ethnography (paraphrase-only record)",
+        "work": "Alfred Métraux, 'Voodoo in Haiti' (1959); Karen McCarthy Brown, 'Mama Lola' (1991)",
+        "url": "https://library.brown.edu/create/modernlatinamerica/chapters/chapter-12-strategies-for-economic-development/latin-america-in-the-world/vodou-in-haitian-history/"
+      },
+      "license": "Paraphrase summaries only",
+      "summary": {
+        "en": "The Gede family — Baron Samedi, Baron La Croix, Gede Nibo, Gede Frey — are the lwa of death and fertility, of the cemetery and the party that laughs at it: top hats over skull-faces, black coats, filthy songs, a cane and a rum bottle, and an obscene dance that makes the dead laugh. They guard the graves and the unborn alike; they are petitioned to cure the dying child and to open the gates for the dying adult; they are the comic and terrible masters of the crossing.",
+        "zh": "蓋德家族——星期六男爵、十字男爵、尼博蓋德、弗雷蓋德——是死亡與豐育、墓園與訕笑死亡之宴的羅阿：骷髏面上頂高帽、黑外套、污穢的歌、手杖與朗姆瓶，還有一支令亡者發笑的猥褻之舞。他們既護墳墓也護未生者；人們求他們醫治垂死的孩童、為垂死的成人開門；他們是渡口滑稽而可怖的主人。"
+      },
+      "motifs": [
+        "resurrection",
+        "descent-underworld",
+        "trickster"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Deep record from published paraphrase only; Gede cult is living practice."
+      },
+      "persons": [
+        "baronsamedi"
+      ],
+      "passages": [
+        {
+          "id": "1",
+          "text": "The Gede are the lwa of the cemetery and of everything that crosses it: Baron Samedi, the top-hatted master of the dead; Baron La Croix, keeper of the cross at the tomb's head; Gede Nibo, the young dandy of the cemetery paths; Gede Frey, the great protector of children. They come in service with skull-painted faces, black coats and sunglasses, a cane in one hand and a rum bottle in the other; they sing the filthiest songs in the peristyle and dance the banda, the obscene two-step that makes the whole yard laugh — because the Gede know how the story ends and know how it does not.",
+          "note": "Condensed paraphrase of Métraux (1959) and McCarthy Brown (1991); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Their work is double: they guard the graves of the dead, and they superintend the fertility of the living — the same power over the gates of entry and exit. A dying child is carried to the Gede; a woman who cannot conceive petitions the Baron; the funeral is negotiated with the cross at the tomb's head. They are the psychopomps and the gynecocrats of the Afro-Atlantic crossing.",
+          "note": "Condensed paraphrase of Métraux (1959); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "Brown's telling makes them the family joke and the family terror at once: at her altar-service the Gede arrive drunk, obscene, touching the guests — and when the serious work begins, the same figures make the most sober contracts of all: who shall live, who shall die, who shall be remembered. The cemetery's laughter is the laughter of those who have seen the ledger.",
+          "note": "Condensed paraphrase of McCarthy Brown (1991); not verbatim."
+        }
+      ],
+      "functions": [
+        "Psychopomp and midwife: power over the gates of entry and exit",
+        "Cemetery-lore: grave-guarding, tomb-contracts, funeral negotiation",
+        "Ritual laughter: obscenity as the idiom of the crossing",
+        "Fertility of the living: petitioned for children and against death"
+      ],
+      "variants": [
+        {
+          "name": "Gede Nibo",
+          "text_tradition": "Haitian Vodou",
+          "summary": "The young dandy of the cemetery paths, patron of the untimely dead.",
+          "cross_ref": "afroatlantic-gede-baron"
+        },
+        {
+          "name": "Baron La Croix",
+          "text_tradition": "Haitian Vodou",
+          "summary": "Keeper of the tomb's cross, the scribe of the cemetery.",
+          "cross_ref": "afroatlantic-gede-baron"
+        }
+      ],
+      "language": "Haitian Kreyol (oral tradition)",
+      "canonical_translation": "No written canon; scholarly paraphrases are the published record",
+      "primary_sources": [
+        {
+          "work": "Gede narratives and service-songs (oral tradition)",
+          "citation": "Métraux 1959; Brown 1991.",
+          "language": "Haitian Kreyol"
+        }
+      ],
+      "secondary_sources": [
+        {
+          "work": "Karen McCarthy Brown, Mama Lola",
+          "citation": "Brown 1991 — the Gede in family service."
+        }
+      ],
+      "source_urls": [
+        {
+          "url": "https://library.brown.edu/create/modernlatinamerica/chapters/chapter-12-strategies-for-economic-development/latin-america-in-the-world/vodou-in-haitian-history/",
+          "description": "Brown University scholarly pages on Vodou history",
+          "accessed": "2026-11-14"
+        }
+      ],
+      "sensitivity_flag": "living_tradition_low",
+      "sensitivity_guidance": "Gede cult is living practice; liturgy and song-cycles not reproduced.",
+      "provenance": {
+        "record_status": "complete",
+        "compiled": "2026-11-14",
+        "compiled_by": "DHG508 fieldwork compilation",
+        "review_status": "draft - pending human review"
+      },
+      "narrative": {
+        "en": "The Gede family are the lwa of the cemetery and of everything that crosses it: Baron Samedi, the top-hatted master of the dead; Baron La Croix, keeper of the cross at the tomb's head; Gede Nibo, the young dandy of the cemetery paths, patron of those who die young and unshriven; Gede Frey, the great protector of children; and the Gede as a laughing, swarming crowd behind them. They come in service with skull-painted faces, black coats, dark glasses, a cane in one hand and a rum bottle in the other; they sing the filthiest songs in the peristyle and dance the banda, the obscene two-step that makes the whole yard laugh — because the Gede know how the story ends and know how it does not, and their laughter is the laughter of those who have read the ledger. Their work is double. They guard the graves of the dead, and they superintend the fertility of the living — the same power over the gates of entry and exit: a dying child is carried to the Gede; a woman who cannot conceive petitions the Baron; the funeral is negotiated with the cross at the tomb's head, the price discussed, the gate opened or kept shut. They are the psychopomps and the gynecocrats of the Afro-Atlantic crossing, and their cult, in the Kongo-inflected rites, preserves the African grammar of the land of the dead as a crowded village just beyond the fence. Brown's telling holds the two moods together. At her altar-service the Gede arrive drunk, obscene, pinching the guests, demanding cigarettes and rum and telling the sort of jokes that no other lwa would tell; and then, when the serious work begins, the same figures make the most sober contracts of all: who shall live, who shall die, who shall be remembered and how. The cemetery's laughter is not denial; it is the professional manner of the only specialists who deal daily with the crossing, and who insist that the crossing be conducted with style — a top hat, a good song, a fair price, and a laugh at the gate. The Gede's festival season is a study in this doubleness: on the feasts of the dead — All Souls and the days of the cemetery — the peristyle fills with black-clad, skull-faced dancers, and the services run all night, part funeral and part carnival, with the banda danced until the drums give out. The economics of the cult are equally explicit: the Gede are paid for everything — a coin for a prayer, a bottle for an audience, a substantial fee for the contract at the tomb — and they are famous for collecting; a service without payment is a service the Baron will remember. In the comparative grid they stand with every psychopomp of world mythology — Hermes, the Egyptian Anubis and Osiris, the Norse Hel — but with the Afro-Atlantic particularity that the lord of the dead is also the patron of the unborn, and that his cult is the one place in the religion where death and fertility are negotiated at the same table. For the corpus of comparative myth the Haitian Gede supply the fullest case of death as a professional service: contracted, priced, celebrated, and always, in the end, laughed with rather than at."
+      }
+    },
+    {
+      "id": "afroatlantic-bois-caiman",
+      "title": {
+        "en": "Bois Caïman, 1791: the Ceremony That Opened the Revolution",
+        "zh": "布瓦凱曼，一七九一：開啟革命的祭典"
+      },
+      "tradition": "afroatlantic",
+      "category": "myth-religion",
+      "region": {
+        "en": "Bois Caïman, near Cap-Français (Cap-Haïtien), Haiti",
+        "zh": "海地太子堡附近的布瓦凱曼"
+      },
+      "lat": 19.75,
+      "lon": -72.2,
+      "period": "Event of August 1791; earliest written account by Antoine Dalmas (c. 1793); synthesized from 20th-c. scholarship",
+      "source": {
+        "archive": "Published scholarship (paraphrase-only record)",
+        "work": "Antoine Dalmas, 'Histoire de la révolution de Saint-Domingue' (1814, recounting 1791); David Geggus, 'Haitian Revolutionary Studies' (2002); Carolyn Fick, 'The Making of Haiti' (1990)",
+        "url": "https://library.brown.edu/create/modernlatinamerica/chapters/chapter-12-strategies-for-economic-development/latin-america-in-the-world/vodou-in-haitian-history/"
+      },
+      "license": "Paraphrase summaries only",
+      "summary": {
+        "en": "In August 1791, on a wooded height called Bois Caïman near Cap-Français, the planners of the great slave rising met in ceremony: according to the planter Dalmas's account, a pig was sacrificed and the participants swore an oath over its blood to destroy the whites. Out of that night came the insurrection of the Northern Plain — and Bois Caïman became the founding scene of Haitian memory: the oath, the blood, the storm, the first nation born of a slave revolution.",
+        "zh": "一七九一年八月，太子堡近郊名為布瓦凱曼的林中高地，奴隸起義的謀劃者聚而行祭：據種植園主達爾馬斯的記載，以豬為牲，與會者在血前立誓毀滅奴役者。北部平原的暴動由此夜而起；布瓦凱曼遂成海地記憶的開國場景——誓言、鮮血、風暴，以及史上首個由奴隸革命誕生的國家。"
+      },
+      "motifs": [
+        "foundational-legend",
+        "ritual-origin",
+        "boon-curse"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Deep record built from published scholarship on a contested foundational scene: Dalmas's account is that of a planter hostile to the revolution, and the details (blood-drinking, the pig, the exact rite) are debated. Paraphrase only; no ritual reproduction."
+      },
+      "persons": [],
+      "passages": [
+        {
+          "id": "1",
+          "text": "The earliest written account of the ceremony is that of Antoine Dalmas, a planter of the Northern Plain, who wrote within a few years of the events: on the night of August 14, 1791, the principal leaders of the rising — Boukman Dutty among them — gathered in a wooded place called Bois Caïman, where a pig was sacrificed and an oath taken over its blood to destroy the power of the whites. Dalmas's hostile purpose is part of the record; his testimony that such a meeting took place is not seriously doubted.",
+          "note": "Condensed paraphrase of Dalmas (1814) as treated by Geggus (2002) and Fick (1990); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "A week later the Northern Plain was in flames: the insurrection that began the Haitian Revolution — the only successful slave revolution in modern history — took its order and its courage from the networks of vodou priests and Congolese and Arada elders who had organized it. Boukman's speech (as remembered in the oral tradition) promised that the God of the whites demanded crime, but our God asks only good works.",
+          "note": "Condensed paraphrase of Fick (1990) and Geggus (2002); the remembered speech is oral tradition paraphrased, not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "Bois Caïman functions in Haitian memory as a founding scene on the order of a covenant: the oath over blood, the storm that broke that night (attested in some tellings), and the birth of a nation whose independence in 1804 declared that the color question had been answered. Historians debate the details; the memory has never been in doubt.",
+          "note": "Condensed paraphrase of Geggus (2002); not verbatim."
+        }
+      ],
+      "functions": [
+        "Founding covenant: the oath of 1791 as the constitutional scene of Haiti",
+        "Ritual politics: vodou networks as the organization of the revolution",
+        "Oral memory: Boukman's speech and the theology of the rising",
+        "Contested archive: planter testimony read against its hostility"
+      ],
+      "variants": [
+        {
+          "name": "Dalmas's planter account",
+          "text_tradition": "Antoine Dalmas, Histoire de la révolution de Saint-Domingue (1814)",
+          "summary": "The pig, the oath over blood; hostile testimony.",
+          "cross_ref": "afroatlantic-bois-caiman"
+        },
+        {
+          "name": "Haitian oral memory",
+          "text_tradition": "Haitian oral tradition; Fick 1990",
+          "summary": "Boukman as priest of the ceremony; the storm; the covenant of the nation.",
+          "cross_ref": "afroatlantic-bois-caiman"
+        }
+      ],
+      "language": "French colonial records; Haitian Kreyol oral tradition",
+      "canonical_translation": "Dalmas's French account; scholarly paraphrases of oral tradition",
+      "primary_sources": [
+        {
+          "work": "Antoine Dalmas, Histoire de la révolution de Saint-Domingue",
+          "citation": "Paris 1814 (account of August 1791).",
+          "language": "French"
+        }
+      ],
+      "secondary_sources": [
+        {
+          "work": "David Geggus, Haitian Revolutionary Studies",
+          "citation": "Geggus 2002, Indiana University Press — the Bois Caïman problem."
+        },
+        {
+          "work": "Carolyn Fick, The Making of Haiti: The Saint-Domingue Revolution from Below",
+          "citation": "Fick 1990, University of Tennessee Press."
+        }
+      ],
+      "source_urls": [
+        {
+          "url": "https://library.brown.edu/create/modernlatinamerica/chapters/chapter-12-strategies-for-economic-development/latin-america-in-the-world/vodou-in-haitian-history/",
+          "description": "Brown University scholarly pages on Vodou in Haitian history",
+          "accessed": "2026-11-14"
+        }
+      ],
+      "sensitivity_flag": "living_tradition_high",
+      "sensitivity_guidance": "Bois Caïman is a foundational scene for a living national tradition; the rite is described from hostile planter testimony and modern scholarship, not reproduced; the ritual content beyond the oath is not attested in detail and is not reconstructed.",
+      "provenance": {
+        "record_status": "complete",
+        "compiled": "2026-11-14",
+        "compiled_by": "DHG508 fieldwork compilation",
+        "review_status": "draft - pending human review"
+      },
+      "narrative": {
+        "en": "The earliest written account of the ceremony at Bois Caïman is that of Antoine Dalmas, a planter of the Northern Plain, who wrote within a few years of the events he described: on the night of August 14, 1791, the principal leaders of the rising — Boukman Dutty among them — gathered in a wooded place called Bois Caïman near Cap-Français, where a pig was sacrificed and an oath taken over its blood to destroy the power of the whites. Dalmas wrote as an enemy of the revolution, and his account was meant to horrify; but his testimony that such a meeting took place is not seriously doubted, and every later source builds on his report or quarrels with it. What the ceremony actually contained — the exact liturgy, the deity invoked, the share of each participant — is beyond recovery, and honest scholarship keeps the uncertainty open. What is certain is what followed. A week later the Northern Plain was in flames: the insurrection that began the Haitian Revolution — the only successful slave revolution in modern history — took its order and its courage from the networks of vodou priests and Congolese and Arada elders who had organized it. The rising was coordinated across plantations by runners and by drum, and its leadership was thick with ritual specialists; the plantation world's secret assembly was the school of its politics. Boukman's speech, as remembered in the oral tradition, casts the theology of the rising: the God of the whites demands crime, but our God asks only good works; and the remembered storm that broke that night — rain that covered the first fires — is read in the tradition as the ancestors themselves answering. In Haitian memory Bois Caïman functions as a founding scene on the order of a covenant: the oath over blood, the first fires of the North, and the birth of a nation whose independence in 1804 declared that the color question had been answered in favor of the enslaved. Historians debate the details — Geggus doubts the pig, Fick doubts the planter's numbers, and the oral tradition keeps its own counsel — but the memory has never been in doubt, and the oath, the storm and the covenant are rehearsed in song on the revolution's anniversaries to this day. For the comparative corpus Bois Caïman supplies the Afro-Atlantic form of the covenant scene: the oath sworn over blood in the wood, the divine sanction claimed by the weakest party, and the fire that follows as the sign that the covenant has been accepted. Parallels are exact and instructive — the covenant of the Hebrew exodus, the Maccabean oath at Modin, the secret oath-societies of the Kongo and the Anjelo coast that the slave-trade carried to the Caribbean — and the Haitian case is the only one that succeeded all the way to statehood. The sensitivity of the material is proportionate to its importance: Bois Caïman is invoked by Haitians as the nation's baptism, contested by scholars as a planter's story, and claimed by the living religion as proof that the ancestors were present at the founding; the honest record keeps all three claims in view and adds none of its own. In the Motif Atlas the record anchors the cluster of oath-over-blood foundings and links the Haitian revolution to the worldwide grammar of covenant and exodus."
+      }
+    },
+    {
+      "id": "afroatlantic-veve-writing-gods",
+      "title": {
+        "en": "The Vèvè: Writing the Gods on the Floor",
+        "zh": "韋韋：以符繪神於地"
+      },
+      "tradition": "afroatlantic",
+      "category": "myth-religion",
+      "region": {
+        "en": "Haiti (symbolic pin: Port-au-Prince)",
+        "zh": "海地（象徵定位：太子港）"
+      },
+      "lat": 18.54,
+      "lon": -72.34,
+      "period": "Haitian Vodou; documented from 18th c.; synthesized from 20th-c. scholarship",
+      "source": {
+        "archive": "Published ethnography (paraphrase-only record)",
+        "work": "Alfred Métraux, 'Voodoo in Haiti' (1959); Robert Farris Thompson, 'Flash of the Spirit' (1983)",
+        "url": "https://library.brown.edu/create/modernlatinamerica/chapters/chapter-12-strategies-for-economic-development/latin-america-in-the-world/vodou-in-haitian-history/"
+      },
+      "license": "Paraphrase summaries only; vèvè drawn in description, not reproduced",
+      "summary": {
+        "en": "Before the drums, the floor is written: in flour, cornmeal or ash, the celebrant traces the vèvè — the emblem of the lwa being called, a signature-script of serpents, hearts, ladders, boats and fences that invites the spirit into the space. Thompson reads it as Kongo writing — cosmic graphs drawn in the old homeland on the ground, the bodies of initiates and the walls of tombs — carried to Haiti and made the choreography of the ceremony: the dance is danced on the signature.",
+        "zh": "鼓聲未起，地面先被書寫：以麵粉、玉米粉或灰，主祭者描畫『韋韋』——所召羅阿之徽記：蛇、心、梯、舟、籬的簽名式文字，引神入境。湯普森視之為剛果文字——舊邦之中繪於地面、入會者之身與墓牆的宇宙圖形——渡海而來，成為儀式的編舞：舞步踏在簽名之上。"
+      },
+      "motifs": [
+        "ritual-origin",
+        "oracle-divination",
+        "sacred-place",
+        "initiation"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Deep record from published paraphrase; the vèvè corpus is a living sign-system — described, not reproduced."
+      },
+      "persons": [
+        "legba"
+      ],
+      "passages": [
+        {
+          "id": "1",
+          "text": "Every ceremony begins with writing: on the peristyle floor, in flour or cornmeal or ash, the celebrant traces the vèvè of the lwa to be called — the signature-script of Legba's crossroads, Damballa's paired serpents, Ezili's pierced heart, the boat of Agoué. The sign is the invitation; until it is drawn, the space is ordinary ground; once it is drawn, the ground is the spirit's address.",
+          "note": "Condensed paraphrase of Métraux (1959); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Thompson traces the practice to Kongo: in the old homeland, cosmic graphs are drawn on the ground, on the bodies of the initiated, on the walls of tombs — writing that makes a place a crossing of worlds. In Haiti the Kongo sign-writing fused with the Fon and Yoruba emblem-languages and became the choreography of the ceremony: the dance is danced on the signature, and the signature is erased before the service ends — the writing is for the moment of the crossing, not for the museum.",
+          "note": "Condensed paraphrase of Thompson (1983); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "The vèvè belongs to the grammar of the road-cosmos: each emblem is a door, and the ceremony is a sequence of doors opened in order — Legba's first, that the other gates may open; the paired serpents next, that the oldest powers may come cool; the crossed iron of Ogou, that the work may be done. To read a vèvè is to read the itinerary of a service.",
+          "note": "Condensed comparative note from Métraux (1959) and Thompson (1983); not verbatim."
+        }
+      ],
+      "functions": [
+        "Sign-technology: the emblem as invitation and address",
+        "Kongo writing-carried-across: ground-signs, body-signs, tomb-signs",
+        "Choreography: the dance danced on the signature",
+        "Liturgical grammar: doors opened in sequence"
+      ],
+      "variants": [
+        {
+          "name": "Kongo minkisi ground-signs",
+          "text_tradition": "Kongo tradition; Thompson 1983",
+          "summary": "Cosmic graphs on ground, body and tomb in the homeland.",
+          "cross_ref": "afroatlantic-veve-writing-gods"
+        },
+        {
+          "name": "Lucumí ana-foods and traces (Cuba)",
+          "text_tradition": "Ortiz 1906; living practice",
+          "summary": "Cuban parallel sign-writing in Lucumí and Palo practice.",
+          "cross_ref": "afroatlantic-veve-writing-gods"
+        }
+      ],
+      "language": "Haitian Kreyol; Kikongo; Fon",
+      "canonical_translation": "No written canon; scholarly paraphrases are the published record",
+      "primary_sources": [
+        {
+          "work": "Vèvè practice (living sign-system)",
+          "citation": "Métraux 1959; Thompson 1983.",
+          "language": "Haitian Kreyol; Kikongo"
+        }
+      ],
+      "secondary_sources": [
+        {
+          "work": "Robert Farris Thompson, Flash of the Spirit: African and Afro-American Art and Philosophy",
+          "citation": "Thompson 1983, Random House — Kongo cosmograms and the vèvè."
+        }
+      ],
+      "source_urls": [
+        {
+          "url": "https://library.brown.edu/create/modernlatinamerica/chapters/chapter-12-strategies-for-economic-development/latin-america-in-the-world/vodou-in-haitian-history/",
+          "description": "Brown University scholarly pages on Vodou history",
+          "accessed": "2026-11-14"
+        }
+      ],
+      "sensitivity_flag": "living_tradition_high",
+      "sensitivity_guidance": "The vèvè corpus is a living sign-system of initiated knowledge; described from published scholarship only, not reproduced.",
+      "provenance": {
+        "record_status": "complete",
+        "compiled": "2026-11-14",
+        "compiled_by": "DHG508 fieldwork compilation",
+        "review_status": "draft - pending human review"
+      },
+      "narrative": {
+        "en": "Every Vodou ceremony begins with writing. On the peristyle floor, in flour or cornmeal or ash, the celebrant traces the vèvè of the lwa to be called — the signature-script of Legba's crossroads, Damballa's paired serpents, Ezili's pierced heart, the boat of Agoué, the crossed iron of Ogou. The sign is the invitation: until it is drawn, the ground is ordinary ground; once it is drawn, the ground is the spirit's address, and the drums that follow are read by the spirits who arrive to find their names written. The practice is described by Métraux in his classic account as the technical heart of the service — a liturgy of drawing, singing and rhythm in which the visual, the verbal and the musical are one act. Robert Farris Thompson traces the practice to Kongo. In the old homeland, cosmic graphs are drawn on the ground, on the bodies of the initiated, on the walls of tombs — writing that makes a place a crossing of worlds; the Kongo cosmogram, the diamond-with-cross that maps the living and the dead on the four quarters of a single field, is the master-sign of this art. In Haiti the Kongo sign-writing fused with the Fon and Yoruba emblem-languages and became the choreography of the ceremony: the dance is danced on the signature, the singers sing the signature into voice, and the signature is erased before the service ends — the writing is for the moment of the crossing, not for the museum, and the same hand that draws it sweeps it away. The vèvè belongs to the grammar of the road-cosmos: each emblem is a door, and the ceremony is a sequence of doors opened in order. Legba's is drawn first, that the other gates may open; the paired serpents next, that the oldest powers may come cool; the crossed iron of Ogou, that the work may be done; the boat of Agoué, that the crossing may be made. To read a vèvè is to read the itinerary of a service, and the liturgy of drawing is thus the written liturgy of the religion — the part of the sacred that leaves a mark, and the part that leaves none, both at once. The pedagogy of the vèvè is worth stating plainly, because it explains why the practice survives so tenaciously: a vèvè can be learned by watching a hand draw it, without books, without literacy, without any of the institutions of writing that the colony denied the enslaved; it is a script designed by and for a population from whom reading was forbidden. The flour that carries it is food; the ash that carries it is the residue of the fire; both are humble materials, renewed every service, and the ephemerality is doctrinal — the writing belongs to the moment of contact between worlds and must not outlast it. In the comparative grid the practice stands with the ground-drawings of the Kongo, the sand-figures of West African divination (the sikidy of Madagascar, the Ifá marks of the Yoruba), and the chalk diagrams of European cunning-folk; the Haitian vèvè is the point at which all of these stream together into one liturgical art. For the Motif Atlas the record anchors the cluster of sacred sign-writing — the diviner's marks, the cosmograms, the signatures of the gods — and gives the Afro-Atlantic case in which writing itself is a rite of hospitality: the gods arrive because someone took the trouble to spell their names on the floor."
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "_comment": "Corpus collection template. Copy this file, rename it to a meaningful name (e.g. corpus-batch-01.json), fill in real data, and place finished batches in data/raw/. The Python pipeline (scripts/01_build_corpus.py) validates and merges them into src/data/texts.json. Remove all _comment fields before submitting.",
+  "texts": [
+    {
+      "id": "REQUIRED unique-slug-id (lowercase, hyphens, no spaces)",
+      "title": {
+        "en": "REQUIRED English title",
+        "zh": "Traditional Chinese title"
+      },
+      "tradition": "REQUIRED one of: greek | norse | hindu | chinese | maori | yoruba | japanese | maya | egyptian | hebrew | mesopotamian | aztec | slavic | celtic | buddhist | korean | akan | hawaiian | inuit | (add your own, then register it in src/lib/colors.js TRADITIONS)",
+      "category": "REQUIRED one of: myth | religious | myth-religion — 'religious' is reserved for pure-religion traditions only (hebrew/Judaism, christian/Christianity, islamic/Islam, buddhist/Buddhism, taoist/Taoism); all other traditions use 'myth' for sacred narratives, and 'myth-religion' where myth and religion share one origin (e.g. Hindu, Norse, Yoruba, Afro-Atlantic, Celtic, Tibetan). Classification is interpretive — note your reasoning in the sensitivity note if ambiguous.",
+      "region": {
+        "en": "REQUIRED region name in English",
+        "zh": "region name in Traditional Chinese"
+      },
+      "lat": 0.0,
+      "lon": 0.0,
+      "_coords_comment": "Approximate/symbolic coordinates. Document how you chose them (Wikipedia place article, gazetteer). Use a neutral inland spot for otherworldly/symbolic places and say so in region/summary.",
+      "period": "REQUIRED e.g. 'c. 8th-5th c. BCE' or 'recorded 19th c.'",
+      "source": {
+        "archive": "REQUIRED e.g. 'Project Gutenberg', 'Internet Sacred Texts Archive', 'Perseus Digital Library', 'Wikisource'",
+        "work": "REQUIRED exact work + translator/editor if known",
+        "url": "REQUIRED verify a working URL at collection time; empty string only if genuinely unavailable"
+      },
+      "license": "RECOMMENDED e.g. 'Public domain', 'CC BY-SA 4.0'",
+      "summary": {
+        "en": "REQUIRED 1-3 sentence English summary",
+        "zh": "Traditional Chinese summary"
+      },
+      "motifs": [
+        "REQUIRED list of motif ids matching src/data/motifs.json; tag 1-5 motifs per text"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "REQUIRED for any tradition with content restrictions (e.g. some First Nations material). Explain what is excluded and why. Set restricted=true and the text must not be included."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "REQUIRED verbatim public-domain excerpt (preferred) or clearly-labeled condensed paraphrase. 40-200 words each. 1-4 passages per text. Quote exactly; keep the source's spelling."
+        }
+      ]
+    }
+  ]
+}

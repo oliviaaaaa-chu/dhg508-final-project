@@ -1,0 +1,689 @@
+{
+  "texts": [
+    {
+      "id": "yoruba-clan-children-gods",
+      "title": {
+        "en": "Children of the Gods: Clans, Taboos and the Speech of the Old Man",
+        "zh": "神之子嗣——氏族、禁忌與老者之言"
+      },
+      "tradition": "yoruba",
+      "category": "myth-religion",
+      "region": {
+        "en": "Northern Yoruba (symbolic pin: clan compounds of Ibadan)",
+        "zh": "約魯巴北部（象徵定位：伊巴丹的氏族院落）"
+      },
+      "lat": 7.38,
+      "lon": 3.9,
+      "period": "Yoruba oral tradition; recorded 1910-12 (Frobenius)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Leo Frobenius, The Voice of Africa, vol. I (London, 1913), ch. X",
+        "url": "https://archive.org/details/voiceofafricabei01frob"
+      },
+      "license": "Public domain (published 1913)",
+      "summary": {
+        "en": "The whole Yoruban nation is totemistically organized in clans, each descended from a God through the male line; the divine founder's food-taboo (Ewuo) descends to his youngest offspring, and exogamy forbids marriage between children of the same Godship. When Frobenius asked whether one might leave one's clan for another Orisha, he was laughed at — even a convert to Islam or Christianity cannot escape the bonds of the clan: \"You have a father and a mother... you can honour or dishonour them, but you will never be able to disown them and choose others. So also it is with the Orishas.\"",
+        "zh": "整個約魯巴族按圖騰氏族組織，每族經父系溯源於一位神祇；開族之神的食物禁忌（埃武奧）傳給最幼的後嗣，同神子孫不得通婚。當弗羅貝紐斯問能否改投別神的氏族，人們為之失笑——即使改宗回教或基督教，也脫不了氏族之羈絆：「你總有父母。可以敬他們，也可以辱他們，但永遠不能撇開他們另認他人。奧里莎亦復如是。」"
+      },
+      "motifs": [
+        "taboo-transgression",
+        "sibling-creators",
+        "youngest-son",
+        "conversion"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Living Yoruba tradition; the clan-descendant (omo-orisha) structure recorded 1910-12. The old man's speech is paraphrased from Frobenius's account."
+      },
+      "persons": [],
+      "passages": [
+        {
+          "id": "1",
+          "text": "The whole Yoruban nation is totemistically organized in several clans, at the head of each of which there is a God from whom all its members derive descent. Some animals are unpleasing in this God's sight, for which reason his descendants must eschew them, and this is the foundation of totemistic food-taboo, or Ewuo. This food-taboo is handed down in the paternal line from the divine founder of the clan to his youngest offspring. The law imposes exogamy, prohibiting intermarriage between descendants of the same Godship; and although branches of the same family may have diverged so far that no member of them can call to mind any relation to the paternity of the other line, two young people observing the same food-taboo must give each other a wide berth, by reason of their assumed consanguinity.",
+          "note": "Paraphrase of Frobenius, The Voice of Africa, vol. I, ch. X (1913); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "No person can ever leave his or her clan in order to adopt the paternal and original ancestorship of another Orisha. Whenever anyone was questioned as to this possibility, the questioner was laughed at for his pains, because of the implied absurdity of such an inquiry; for even though one should become a Mahommedan or a Christian, he cannot any way escape from the bonds of the clan. An old black gentleman to whom the query was put answered it very simply: \"You have a father and a mother. You should honour these, your parents. You can, however, also disgrace your father and mother. But you will never be able to disown them and choose others. Everyone comes from two parents and he cannot alter the fact. The only question is, whether he honours or dishonours them. So also it is with the Orishas.\"",
+          "note": "Paraphrase of Frobenius, The Voice of Africa, vol. I, ch. X (1913); not verbatim."
+        }
+      ]
+    },
+    {
+      "id": "yoruba-kola-oracle-election",
+      "title": {
+        "en": "Breaking Kola for the Orisha: How the House-Priest Is Chosen",
+        "zh": "為神剖柯拉果——家祭司之選"
+      },
+      "tradition": "yoruba",
+      "category": "myth-religion",
+      "region": {
+        "en": "Yoruba compound (symbolic pin: the family altar within a compound near Ile-Ife)",
+        "zh": "約魯巴院落（象徵定位：伊費近郊家宅祭壇）"
+      },
+      "lat": 7.5,
+      "lon": 4.54,
+      "period": "Yoruba oral tradition; recorded 1910-12 (Frobenius)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Leo Frobenius, The Voice of Africa, vol. I (London, 1913), ch. X",
+        "url": "https://archive.org/details/voiceofafricabei01frob"
+      },
+      "license": "Public domain (published 1913)",
+      "summary": {
+        "en": "When the family priest, the Abosha, dies, the whole family meets at the altar with a vessel of water and two kola-nuts; kneeling with foreheads in the dust, they ask the Orisha to choose a new Abosha. Each candidate's name is put as the nuts are thrown — four sections flat, four convex means divine consent; any other split means rejection and another name is tried. At the year's great festival the same oracle asks the family God whether anyone of the household will die this year; if the answer is unfavourable, the wrath of the God — usually the transgression of a food-taboo — must be bought off with ever more ample sacrifice until the nuts fall even.",
+        "zh": "家祭司「阿博夏」去世後，闔族攜清水一壺與柯拉果兩枚到祭壇前，跪地額觸塵土，請神自選新祭司。逐一唱名擲果：四瓣平面朝上、四瓣凸面朝上即為神許；否則換名再擲。年終大祭時，同法問神：家宅中今年是否有人將死？若卦象不吉——多半是有人犯了食物禁忌——便須祭品重重、一再加碼，直至柯拉果八瓣均分，神怒方平。"
+      },
+      "motifs": [
+        "oracle-divination",
+        "taboo-transgression",
+        "divine-retribution"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Living Yoruba tradition; household divination recorded 1910-12. The kola-oracle (Acqua-bi-fosa, breaking kola for the Orisha) is described in detail by Frobenius."
+      },
+      "persons": [],
+      "passages": [
+        {
+          "id": "1",
+          "text": "At the decease of an Abosha the whole family meets to elect a new one. The family approaches the altar with a vessel full of water and two kola-nuts. The water and the nuts having been offered up, they pray the Orisha, on bended knees and with their foreheads in the dust, to choose for them a new Abosha of the house and compound to conduct henceforth the sacrifices and the festivals. The two kola-nuts are divided into their eight natural sections, which are thrown while the name of an honoured member of the family is mentioned in the question: \"Wilt thou have M.N. for thy Abosha?\" The person so named becomes the Abosha by the Orisha's choice, if four of the sections fall on the flat, and four on the convex side; but if they fall unequally divided, it signifies the named one's rejection, and the oracle game is repeated with different names until the positions of the sections are equal, which indicates the divine consent to the appointment.",
+          "note": "Paraphrase of Frobenius, The Voice of Africa, vol. I, ch. X (1913); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "At the great festival the Chief of the Compound begs the Abosha to perform the sacrificial rites. The entire family — all the adherents of the Orisha here worshipped — meet in front of the altar. The Abosha offers up the water and the kola-nuts, extends them on his palm towards the altar, saying, \"Behold!\" and asks: \"Will anybody of this household die this year?\" He throws them down and interprets the augury by the relative positions of the segments, favourably or the reverse. If the latter, a hostile influence must be placated: the probable explanation, as they think, is that the anger of the God has been caused by some member of the family's transgression of a food-taboo, or Ewuo, at some time or other. He must therefore be appeased, and the most ample, most numerous and most valuable sacrifices must be offered; these made, the Abosha repeats the business with the nuts until they lie four and four in similar positions, an assurance that for this year at least the ancestral deity will not demand the death of any member of the family.",
+          "note": "Paraphrase of Frobenius, The Voice of Africa, vol. I, ch. X (1913); not verbatim."
+        }
+      ]
+    },
+    {
+      "id": "yoruba-egun-funeral-mask",
+      "title": {
+        "en": "The Egun Dancer: Speaking in the Dead's Piping Treble",
+        "zh": "埃貢舞者——以亡者之聲開言"
+      },
+      "tradition": "yoruba",
+      "category": "myth-religion",
+      "region": {
+        "en": "Yoruba town (symbolic pin: funeral courtyard near Ile-Ife)",
+        "zh": "約魯巴城鎮（象徵定位：伊費近郊喪儀庭院）"
+      },
+      "lat": 7.5,
+      "lon": 4.54,
+      "period": "Yoruba oral tradition; recorded 1910-12 (Frobenius)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Leo Frobenius, The Voice of Africa, vol. I (London, 1913), ch. X",
+        "url": "https://archive.org/details/voiceofafricabei01frob"
+      },
+      "license": "Public domain (published 1913)",
+      "summary": {
+        "en": "At a person's death and funeral, the shroud is removed from the body once more before being for ever hidden; a wooden mask has been prepared and is assumed by one of the mourners, who, wrapping the shroud around him, dances among the relatives, speaks to them in the piping treble of the dead so represented, consoles, exhorts and talks with them concerning work. This Egun dancer is regarded as a direct personification of the departed; the mask is set up when offerings are made to the shade, and is often held in estimation as an Orisha — though, being the impersonation of the dead, it can in reality be nothing more than a small fraction of the deity.",
+        "zh": "人死出殯之際，裹屍布在永藏之前要再展開一次；木雕面具早已備好，由一名送葬者戴上，裹以屍布，在親屬之間起舞，以亡者的尖細假聲與眾人對話——安慰、勉勵、交代家中事務。這位埃貢舞者被視為亡者的直接化身；向亡靈獻祭時面具亦被設座受祭，常被尊為奧里莎——雖然它只是亡者的一角化身。"
+      },
+      "motifs": [
+        "resurrection",
+        "spirit-possession"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Living Yoruba tradition; Egun/Egungun ancestral masquerade recorded 1910-12 (Frobenius's account complements Ellis 1894). Cross-ref: yoruba-egungun-messenger-deadland."
+      },
+      "persons": [],
+      "passages": [
+        {
+          "id": "1",
+          "text": "Another is Egun or Egungun. Egun is at first a mask. At a person's death and his funeral, the shroud is removed from the body once more before being for ever hidden. A wooden mask has been prepared and assumed by one of the mourners, who, wrapping the shroud around him, dances among the relatives, speaks to them in the piping treble of the dead so represented, consoles, exhorts and talks with them concerning work and so on. This Egun dancer is regarded as a direct personification of the departed.",
+          "note": "Paraphrase of Frobenius, The Voice of Africa, vol. I, ch. X (1913); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "This mask is set up when offerings are made to the shade, and it is assumed that it receives them itself. This Egun is also often held in estimation as an Orisha, without having any justifiable claim to this high title, since, being the impersonation of the dead, it can in reality be nothing more than a small fraction of the deity.",
+          "note": "Paraphrase of Frobenius, The Voice of Africa, vol. I, ch. X (1913); not verbatim."
+        }
+      ]
+    },
+    {
+      "id": "yoruba-esse-manatee-orisha",
+      "title": {
+        "en": "Esse, the Fish with Breasts and a Human Face",
+        "zh": "埃塞——有乳房與人面的魚"
+      },
+      "tradition": "yoruba",
+      "category": "myth-religion",
+      "region": {
+        "en": "The great river, Northern Yoruba (symbolic pin: manatee waters of the Niger at Lokoja)",
+        "zh": "約魯巴北部大河（象徵定位：洛科賈附近的尼日河儒艮水域）"
+      },
+      "lat": 7.8,
+      "lon": 4.5,
+      "period": "Yoruba oral tradition; recorded 1910-12 (Frobenius)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Leo Frobenius, The Voice of Africa, vol. I (London, 1913), ch. X",
+        "url": "https://archive.org/details/voiceofafricabei01frob"
+      },
+      "license": "Public domain (published 1913)",
+      "summary": {
+        "en": "In the great river lives a large fish which has breasts and a human face: the Esse. Hunters of it fasten an Ogu, a magic, at the head of their javelins; after three days' hunting and prodding the Esse puts in an appearance, its flesh is distributed at discretion, but the shaman gets the bones. It is caught on the seashore when it comes to land to graze — Frobenius identified it as the manatee. It was once worshipped as an Orisha; one day, owing to some misunderstanding, there was a quarrel with it, since when the Yorubans kill it wherever they can — though a clan in the land of Lubu still pays it honour, its myths having trickled in from the Mande and Fulbe.",
+        "zh": "大河之中棲著一尾巨魚，有乳房、具人面，名為「埃塞」。獵者以符咒繫於標槍之首，追獵三日，埃塞方才現身；其肉任人分食，骨架歸巫師。據說牠有時上岸吃草，因此也被人於海濱捕獲——弗羅貝紐斯斷定此即儒艮。牠曾被人奉為奧里莎；後因誤會與人結怨，自此約魯巴人見之即殺——但盧布之地仍有一氏族向牠致敬，其神話由曼德與富爾貝部落傳入。"
+      },
+      "motifs": [
+        "transformation",
+        "taboo-transgression",
+        "shaman-journey",
+        "threefold"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Living Yoruba tradition; the deified-then-demoted manatee (Esse), recorded 1910-12 — an example of orisha manufacture and abandonment noted by Frobenius."
+      },
+      "persons": [],
+      "passages": [
+        {
+          "id": "1",
+          "text": "In the great river there lives a large fish which has breasts and a human face. Its name is Esse. The hunters of it fasten an Ogu, or magic, at the head of their Ofas (a javelin). After three days' hunting and prodding, the Esse puts in an appearance. Its flesh is distributed at discretion, but the Shaman gets the bones. Sometimes this Esse is caught on the seashore when it comes to land to graze.",
+          "note": "Paraphrase of Frobenius, The Voice of Africa, vol. I, ch. X (1913); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "It was once worshipped as an Orisha. But one day, owing to some misunderstanding, there was a quarrel with it, since when the Yorubans see in it only a fish like any other and kill it wherever they can. Yet everybody knows that the Esse once upon a time was a human being living in Lubu on the borders of Enjille. There in the land of Lubu there is a clan which still pays honour to Esse. But the Orisha of that ilk is at present unknown in Yoruba proper. It was tracked and found to be nothing but the Manatee, the Ma of the Mande tribe and the Adju of the Houssas; the myths about it, current among the Mande and Fulbe tribes, trickled into North Yoruba, and in this way a new Orisha appeared on this people's horizon.",
+          "note": "Paraphrase of Frobenius, The Voice of Africa, vol. I, ch. X (1913); not verbatim."
+        }
+      ]
+    },
+    {
+      "id": "yoruba-ossenj-shaman-power",
+      "title": {
+        "en": "Ossenj: The Wizard-Power Behind Every God",
+        "zh": "奧森傑——諸神身後的巫力"
+      },
+      "tradition": "yoruba",
+      "category": "myth-religion",
+      "region": {
+        "en": "Yoruba country (symbolic pin: the shaman's house of iron staves near Ile-Ife)",
+        "zh": "約魯巴地方（象徵定位：伊費近郊巫師宅中的鐵柱）"
+      },
+      "lat": 7.5,
+      "lon": 4.54,
+      "period": "Yoruba oral tradition; recorded 1910-12 (Frobenius)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Leo Frobenius, The Voice of Africa, vol. I (London, 1913), ch. X",
+        "url": "https://archive.org/details/voiceofafricabei01frob"
+      },
+      "license": "Public domain (published 1913)",
+      "summary": {
+        "en": "Behind the whole Orisha system stands Ossenj — the power of wizardry — worked by the Ada-ushe, the shaman-physicians. Only a child of Ossenj may become a shaman; the art is inherited from a dying father, perfected by years of travel to famous masters, and stamped by the god's medicine. Every orisha priest is subordinate to the shaman, for from Ossenj alone comes the magic that animates gods and men: the Shango priest must fetch his fire-protection from a shaman before dancing with fire, and even the great god Shango, they say, could only win the height of his power through the witchcraft of a shaman.",
+        "zh": "整個奧里莎體系的背後，矗立著「奧森傑」——巫術之力，由「阿達烏謝」（巫醫）執掌。唯奧森傑之子可為巫；其術承自垂死的父親，再歷經多年遊歷名師而後大成，並以神賜之「藥」為印。凡奧里莎祭司皆隸屬於巫——因為能賦神與人以靈力的，唯有奧森傑：尚戈祭司欲在祭典踏火，必先向巫師求取護身之力；傳說連大神尚戈本人的威權，也是從一位巫師的巫術中得來的。"
+      },
+      "motifs": [
+        "spirit-possession",
+        "oracle-divination",
+        "theophany",
+        "shaman-journey"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Living Yoruba tradition; the shaman (Ada-ushe, Onisegun) institution recorded 1910-12. Ossenj = Osun (the medicine power), distinct from the river goddess Oshun in Frobenius's usage."
+      },
+      "persons": [],
+      "passages": [
+        {
+          "id": "1",
+          "text": "The Yorubans, in common with almost all other African nations, believe in malignant, unrealizable, supernatural powers at the beck and call of but a very few persons specially endowed by heredity to control them. Only one class of man can afford such defence and is able to do battle against these nocturnal beings, namely, the Shamans, whom the Yorubans call Ada-ushe. This Ada-ushe's ordinary calling is that of a medicine-man, or physician, who is a master of much pharmaceutical knowledge. But it is possible to possess this not so much by descent from Ossenj, but rather by being inspired because of this descent; and the art has to be regularly learnt and carefully studied.",
+          "note": "Paraphrase of Frobenius, The Voice of Africa, vol. I, ch. X (1913); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "When an aged Ada-ushe feels the pressure of years all too heavy upon him and is plagued by premonitions of death, he begins to indoctrinate his son, so that he may, in time, be his equal in knowledge and skill. After his own father's induction he has to take up his staff and go travelling for many a year, visiting famous exponents of his father's professional caste, paying for his lore and instruction, and wends his way onwards. Only an Om-Ossenj (child of the Ossenj) may become an Ada-ushe, and this Godhead gives him the medicine which stamps him as a Shaman of the first water. Every Orisha priest is also subordinate to the Ada-ushe, for from Ossenj alone is derived the source of the power of magic, which animates both Gods and men: before the ministrant to Shango dances with the fire at this deity's holy feast, he fetches the power to protect himself from an Ada-ushe. And even the God Shango, in the beginning of things, could only win the height of his power and might through the witchcraft of an Ada-ushe — thus, from Ossenj.",
+          "note": "Paraphrase of Frobenius, The Voice of Africa, vol. I, ch. X (1913); not verbatim."
+        }
+      ]
+    },
+    {
+      "id": "yoruba-edju-ifanuts-hungry-gods",
+      "title": {
+        "en": "Edju Brings the Sixteen Palm-Nuts Down to Men",
+        "zh": "埃茹攜十六聖果下凡"
+      },
+      "tradition": "yoruba",
+      "category": "myth-religion",
+      "region": {
+        "en": "Kukuruku border country (symbolic pin: the palm-plantation where the monkeys dropped the nuts)",
+        "zh": "庫庫魯庫邊地（象徵定位：群猴擲果的棕櫚園）"
+      },
+      "lat": 7.0,
+      "lon": 5.8,
+      "period": "Yoruba oral tradition; recorded 1910-12 (Frobenius)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Leo Frobenius, The Voice of Africa, vol. I (London, 1913), ch. XII",
+        "url": "https://archive.org/details/voiceofafricabei01frob"
+      },
+      "license": "Public domain (published 1913)",
+      "summary": {
+        "en": "The Gods went hungry: men no longer offered them burnt sacrifice, and even pestilence and lightning-bolts could not bring them back to the altars. Yemaya counselled Edju that men do not fear death — give them something so good they will yearn to go on living. Orungan told him of a great thing made of sixteen palm-nuts; the monkeys gave him the nuts and counselled him to go round the world and ask their meaning everywhere, sixteen sayings in each of sixteen places. Edju went, returned to the sky, and told the Gods; knowledge passed to men, who could then read each day's fate and escape what was coming by offering sacrifice — and this was the way Edju brought the Ifa palm-nuts down to men.",
+        "zh": "眾神斷糧：人間久無燔祭，瘟疫與雷擊也嚇不回信眾。耶莫雅教埃茹：人不怕死——須賜他們求之若渴之物，他們才想活下去。奧倫岡指點他：有一件由十六枚棕櫚仁織成的「大事」；群猴獻果，並教他環遊世界、十六處各聽十六訓，方能解其玄機。埃茹依言行遍天下，歸天轉授眾神；知識下及人間，人們從此能日日占知禍福、以祭品消災——這便是埃茹把伊法聖果帶到人間的經過。"
+      },
+      "motifs": [
+        "oracle-divination",
+        "culture-hero",
+        "trickster",
+        "plague-sent"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Living Yoruba tradition; the Edju version of the Ifa-origin myth (Frobenius 1910-12), the trickster-teacher variant complementing the Elegba bargain variant. Cross-ref: yoruba-ifa-elegba-bargain."
+      },
+      "persons": [
+        "eshu"
+      ],
+      "passages": [
+        {
+          "id": "1",
+          "text": "Once upon a time the Gods were very hungry. They did not get enough to eat from their wandering sons on the face of the earth. They were discontented with each other and quarrelled. Some of them went forth to hunt; other Gods, and Olokun in particular, wanted to go fishing; yet, although one antelope and one fish were caught, these did not last long. Now their descendants had forgotten them, and they asked themselves how they were to get their sustenance from men again. Men no longer made them burnt offerings, and the Gods wanted meat. So Edju set out.",
+          "note": "Paraphrase of Frobenius, The Voice of Africa, vol. I, ch. XII (1913); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "He asked Yemaya for something with which to regain man's goodwill. Yemaya said: \"You will have no success. Shankpanna has scourged them with pestilence, but they do not come and make sacrifice to him. Shango struck them dead with the lightning which he sent upon them, but they do not trouble themselves about him. Men do not fear death. Give them something so good that they will yearn for it and, therefore, want to go on living.\" Edju went further on and said to himself: \"What I cannot get from Yemaya, Orungan will give me.\" He went to him, and Orungan said: \"I know why you are come. The sixteen Gods are a-hungered. They must now have something which shall be good. I know of such a thing. It is a big thing made of sixteen palm-nuts. If you get them and learn their meaning, you will once more gain the goodwill of mankind.\"",
+          "note": "Paraphrase of Frobenius, The Voice of Africa, vol. I, ch. XII (1913); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "Edju went to where the palm-trees were, and the monkeys gave him sixteen nuts. He looked at these but did not know what to do with them, and the monkeys counselled him: \"You got the sixteen nuts by guile. Now go round the world and ask for their meaning everywhere. You will hear sixteen sayings in each of the sixteen places. Then go back to the Gods. Tell men what you yourself have learned, and then men will also learn once more to fear you.\" Edju did as he was told; he went to the sixteen places round the world, went back into the sky, and told the Gods what he had learned. The Gods imparted their knowledge to their descendants, and now men can know the will of the Gods every day and what will come to pass in the future; when men saw what evil things would happen and what they could escape by offering sacrifices, they began to slaughter animals again and burn them for the Gods. This was the way in which Edju brought the Ifa (palm-nuts) down to men.",
+          "note": "Paraphrase of Frobenius, The Voice of Africa, vol. I, ch. XII (1913); not verbatim."
+        }
+      ]
+    },
+    {
+      "id": "yoruba-edju-four-houses-trick",
+      "title": {
+        "en": "Edju Swaps the Houses of Sea, Sun and Moon",
+        "zh": "埃茹調換海、日、月之家"
+      },
+      "tradition": "yoruba",
+      "category": "myth-religion",
+      "region": {
+        "en": "Yoruba sky-country (symbolic pin: the crossroad before Oshalla's house)",
+        "zh": "約魯巴天界（象徵定位：奧夏拉宅前十字路口）"
+      },
+      "lat": 7.5,
+      "lon": 4.54,
+      "period": "Yoruba oral tradition; recorded 1910-12 (Frobenius)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Leo Frobenius, The Voice of Africa, vol. I (London, 1913), ch. XII",
+        "url": "https://archive.org/details/voiceofafricabei01frob"
+      },
+      "license": "Public domain (published 1913)",
+      "summary": {
+        "en": "In the beginning Olokun lived in the river, Oshu the Moon wandered out every evening, Orun the Sun rose high above his home and returned at eve. Edju told each in turn: \"Thy house is not comfortable; come, I will show thee a better\" — and lodged the Sea in the Moon's house, the Sun in the Sea's, the Moon in the Sun's. Oshalla, Lord of the Gods, watching from his house at the crossroad, set every wanderer back; Edju drove Olokun out of the water with threats, and Oshalla had Shankpanna hand him a blade of grass with the word: change yourself into a hill. Olokun's children who came looking for him were turned into monkeys; then Shankpanna thrashed Edju — the Sun opened his eyes and struck him blind — and Edju washed his welts in the river, decreeing that all who bathe there shall burn as with fire: hence the smallpox and its scars.",
+        "zh": "太初之時，奧洛貢居河中，月神奧舒夜夜出遊，日神奧倫高升晚歸。埃茹挨個對三人說：「你家不舒適，我帶你去更好的。」——於是海住進月宮，日遷入海宅，月搬進日居。眾神之主奧夏拉從十字路口的宅中看穿一切，逐一令其歸位；埃茹持刀威脅奧洛貢出水，奧夏拉便令香潘納賜他一片草葉：「化為山丘！」奧洛貢的兒女們出水上岸尋父，被埃茹引路繞行，悉數化作猿猴。隨後香潘納以草帚痛擊埃茹，太陽一睜眼便刺盲他；埃茹負傷入河洗創，詛咒凡入此水者如遭火灼——天花與其疤痕由此而來。"
+      },
+      "motifs": [
+        "trickster",
+        "sun-capture",
+        "transformation"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Living Yoruba tradition; the Edju cosmological prank (Frobenius 1910-12) — origin of the heavenly bodies' courses, the hill-Orisha and smallpox in one tale."
+      },
+      "persons": [
+        "eshu"
+      ],
+      "passages": [
+        {
+          "id": "1",
+          "text": "Olokun (the Sea God), Orun (the Sun God), and Oshu (the Moon God), in the beginning of things, had each their own abode. Olokun lived in the river. Oshu left his own dwelling every evening and went out whither it listed him. But Orun rose high above his own home and returned there at eve. One day, Edju came to Olokun, saying: \"Thy house is not comfortable; come, I will show thee a better.\" Olokun said: \"It is well; show it me.\" Edju went to Oshu and said the same to him; Oshu replied in the same words as Olokun. Edju went to Oru, and Oru also said: \"It is well.\" Then Edju took Olokun to Oshu's, Orun to Olokun's, and Oshu to Orun's house.",
+          "note": "Paraphrase of Frobenius, The Voice of Africa, vol. I, ch. XII (1913); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Now, Oshalla was Lord of all the Gods. He dwelt in a house at a cross-road, from which he saw Orun go by every day, and Oshu every night. But once Oshalla saw Oshu pass by in the daytime, and asked why; Oshu answered that an old man made him do it. Oshalla bade each wanderer return and sent for the old man. Then Edju went to Oshu and said: \"You, Oshu, if you don't do to-day what I tell you, I will kill you to-day. Go, then, to Orun's house, and, not to anger Oshalla, go round Oshalla's house in a circle.\" Oshu set out, and coming to Orun's house the two quarrelled violently, Edju stirring each against the other. Oshalla heard them, went there at once — and Edju, hearing him coming, went to meet him and said: \"I have already made them agree with one another. Only go home again.\"",
+          "note": "Paraphrase of Frobenius, The Voice of Africa, vol. I, ch. XII (1913); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "Then Edju went into the water to Olokun and said: \"Come out of it, or I will kill you.\" Olokun said: \"You did not give me life.\" But he came out, and Edju showed him the road into the bush. Oshalla gave Shankpanna a blade of grass, saying: \"Go to Olokun, who has gone into the bush against my will. Tell him he shall not go back again into the water, for he was not with me when he left the water which I gave him to dwell in.\" Shankpanna took the blade of grass to Olokun, saying: \"Oshalla sends you this. You left the water without his permission. Change yourself into an Oke (hill).\" Olokun did so. Then all the children of Olokun came out of the water to look for him on the hill; Edju met them and said: \"Go through the bush to find your father. Do not pass by Oshalla's place.\" Oshalla saw that Olokun's children had gone round his own dwelling, and transformed them all into monkeys. Since that time Olokun's children gambol about like apes.",
+          "note": "Paraphrase of Frobenius, The Voice of Africa, vol. I, ch. XII (1913); not verbatim."
+        },
+        {
+          "id": "4",
+          "text": "Now Oshalla called Shankpanna and said to him: \"Bring Edju to me!\" Shankpanna set out with his Auwo (ceremonial broom of sedge-grass), found Edju at the market-place, and began to belabour him; but Edju took up his Ogo, or shoulder-club, and beat Shankpanna in return. Orun heard the sound of blows and said: \"Shankpanna is contending with Edju. I needs must help Shankpanna.\" He approached and opened his eyes; Edju was struck blind, and Shankpanna drove in with his broom against the now defenceless Edju. Oshalla let all the little children go and rejoice because Shankpanna had conquered Edju. Shankpanna went on beating him, till all his blows left wales on Edju's body, and Edju ran to the river to bathe his wounds. When Edju was in the water, he said: \"Henceforth the blows Shankpanna gave me shall flow with the water upon all those who bathe in it, and they all shall burn as with fire.\" And whoso bathes in the water in which Edju washed the wounds Shankpanna gave him gets the smallpox and the scars it leaves behind it. So Edju's mischief has been handed down to mankind and with them remains a living thing.",
+          "note": "Paraphrase of Frobenius, The Voice of Africa, vol. I, ch. XII (1913); not verbatim."
+        }
+      ]
+    },
+    {
+      "id": "yoruba-edju-two-friends-cap",
+      "title": {
+        "en": "The Four-Coloured Cap and the Two Friends",
+        "zh": "四色帽與反目二友"
+      },
+      "tradition": "yoruba",
+      "category": "myth-religion",
+      "region": {
+        "en": "Yoruba town and outlying fields (symbolic pin: the footpath between two adjoining farms near Ile-Ife)",
+        "zh": "約魯巴城鎮與郊野（象徵定位：伊費近郊兩田相鄰的小徑）"
+      },
+      "lat": 7.5,
+      "lon": 4.54,
+      "period": "Yoruba oral tradition; recorded 1910-12 (Frobenius)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Leo Frobenius, The Voice of Africa, vol. I (London, 1913), ch. XII",
+        "url": "https://archive.org/details/voiceofafricabei01frob"
+      },
+      "license": "Public domain (published 1913)",
+      "summary": {
+        "en": "Two inseparable friends farmed adjoining fields; Edju resolved to make them differ, \"and that will be a fine beginning for a very big lawsuit.\" He made himself a cap green before, black behind, red and white at the sides, stuck his pipe in the nape of his neck and carried his staff upside down, greeting each from the path between their fields. Each friend saw the cap of a different colour and swore the other was lying; they drew knives, ran bleeding to the town, and were haled before the king — where Edju stepped forward: \"I put on this cap... The two friends couldn't help quarrelling. I made them do it. Sowing dissension is my chiefest delight.\" When the king bade seize him, Edju fired the town, swapped the rescued goods between their owners, and ran off laughing, no one able to catch him.",
+        "zh": "兩位形影不離的好友田疇相鄰；埃茹存心使其反目，「好開一場大訴訟」。他製了前綠後黑、左右紅白的四色帽，煙斗插在後頸、手杖倒扛，沿田間小徑向二人問好。一人看見黑帽，一人看見紅帽，互斥對方撒謊，拔刀相向，血濺而逃，被押到王前對質。埃茹站出來自首：「我戴上這頂帽子……二友不得不吵，是我叫他們吵的。播弄糾紛乃吾至樂。」王下令拿人，埃茹縱火焚城，趁亂把各家的搶救之物互相調包，再大笑遁去，無人能擒。"
+      },
+      "motifs": [
+        "trickster"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Living Yoruba tradition; the classic Edju cap-trick tale (Frobenius 1910-12), among the most famous Yoruba trickster narratives. The four-coloured cap doubles as the four-quarters cosmogram in Frobenius's analysis."
+      },
+      "persons": [
+        "eshu"
+      ],
+      "passages": [
+        {
+          "id": "1",
+          "text": "Once upon a time, Olorun first created Enja, or mortal man, and, after that, Edju, the God. Once there was a pair of friends. When they went out they were always dressed alike, and everyone said: \"These two men are the best of friends.\" Edju saw them and said: \"These men are very dear to each other. I will make them differ, and that will be a fine beginning for a very big Idja (lawsuit or palaver).\" The fields of these friends adjoined; a path ran between and separated them, on which Edju used to walk of a morning wearing a black cap. Now, when Edju wanted to start this quarrel, he made himself a cap of green, black, red, and white cloth, which showed a different colour from whatever side it was looked at. He put it on one morning, took his tobacco pipe and put it not in his mouth but at the nape of his neck, and carried his staff upside down, so that it hung over his shoulder behind.",
+          "note": "Paraphrase of Frobenius, The Voice of Africa, vol. I, ch. XII (1913); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Both the friends were at work in their fields; they looked up for a second as Edju called out \"Good morning!\" and went on with their toil. Then they went home together. One said to the other: \"The old man went the opposite road through the fields to-day. I noticed that by his pipe and his stick.\" The other said: \"You're wrong. He went the same way as usual.\" \"It's a lie; I saw his pipe and staff much too plainly; and, besides, he had on a white instead of a black cap.\" \"You must be blind or asleep; his cap was red.\" \"Then you must already have had some palm-wine this morning.\" \"I haven't even seen a drop, but you must be crazed.\" \"You are making up lies to annoy me.\" \"Liar yourself! And not for the first time by a good deal!\" One of them drew his knife and went for the other, who got a wound; he also drew his, and cut his assailant over the sconce. They both ran away bleeding to the town.",
+          "note": "Paraphrase of Frobenius, The Voice of Africa, vol. I, ch. XII (1913); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "The King summoned the two friends and asked what made them fall out; they said they could not agree as to what it was that went through their fields that morning. \"Who knows this old man?\" asked the King. Edju said: \"It was I. These two fellows quarrelled because I so willed it.\" He pulled out his cap: \"I put on this cap, red on one side, white on the other, green in front and black behind. I stuck my pipe in my nape. So my steps went one way while I was looking another. The two friends couldn't help quarrelling. I made them do it. Sowing dissension is my chiefest delight.\" The King said: \"Seize this fellow; bind him; he baits folks to fall out!\" But he ran very swiftly to a neighbouring hill, struck stones together till the dry grass caught fire, and threw the burning hay down upon the town, where the thatch caught fire. Then Edju came back and, jumping about, took the loads the fleeing townsfolk carried — baskets, sacks, calabashes, jars — and carried the bundle of pots to the owner of the calabashes, the load of baskets to the owner of the sacks, and the parcel of sacks to the heap's owner of pots. After the fire everyone looked for his own goods, and each called the other thief; in their rage they took to their clubs and pestles and destroyed what the fire had spared, and several people were killed.",
+          "note": "Paraphrase of Frobenius, The Voice of Africa, vol. I, ch. XII (1913); not verbatim."
+        },
+        {
+          "id": "4",
+          "text": "The King had the maniacs sundered and asked what had been the matter; each shouted of the other that he had stolen his goods during the fire. All the people shouted at once. Then the King asked: \"What, are all my people thieves?\" Then Edju stepped forward, saying: \"Nay, O King, thy people are not thieves, they are but fools. I had a game with them and they played it well. If ever I should want to laugh right heartily again, 'twill be to this place I shall come.\" Edju ran off. No one could catch him.",
+          "note": "Paraphrase of Frobenius, The Voice of Africa, vol. I, ch. XII (1913); not verbatim."
+        }
+      ]
+    },
+    {
+      "id": "yoruba-edju-inspector-crossroads",
+      "title": {
+        "en": "Edju, Marshal of the Gods, at Every Crossroad",
+        "zh": "眾神儀仗長——十字路口的埃茹"
+      },
+      "tradition": "yoruba",
+      "category": "myth-religion",
+      "region": {
+        "en": "Yoruba country (symbolic pin: a clay cone at an Orita crossroad near Ile-Ife)",
+        "zh": "約魯巴地方（象徵定位：伊費附近奧里塔路口的泥錐神壇）"
+      },
+      "lat": 7.5,
+      "lon": 4.54,
+      "period": "Yoruba oral tradition; recorded 1910-12 (Frobenius)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Leo Frobenius, The Voice of Africa, vol. I (London, 1913), ch. XII",
+        "url": "https://archive.org/details/voiceofafricabei01frob"
+      },
+      "license": "Public domain (published 1913)",
+      "summary": {
+        "en": "Edju is no devil, whatever the missionaries taught, but a boon companion like the Polynesian Maui — the fomenter of strife and, at the same time, the giver of the Ifa oracle and of the sun. He ranks as leader or inspector of the group of sixteen Gods — their director and chief marshal, responsible for keeping law and order on the Yoruban Olympus: the other Orishas would be unable to do anything whatever without him. He dwells at all the crossroads, where small cones of clay are set up to him; his effigies are always in profile, with disproportionate broad feet, a pigtail, and a pipe in mouth or hand; his festival, the Odu-Edju, at the solstice, when the town's ruler raises the new carved image and last year's is given to a new-born child of an Edju family.",
+        "zh": "埃茹絕非傳教士口中的魔鬼，而是如波利尼西亞毛伊般的搗蛋夥伴——既播弄紛爭，又賜下伊法神諭與太陽。他是十六神團的領班與督察——眾神的儀仗長，掌管約魯巴奧林帕斯上的秩序：沒有他，眾神一事無成。他棲身所有十字路口，路口供其泥錐；其像必為側面，闊足、辮尾、口銜或手持煙斗。歲至夏至，舉行奧杜埃茹祭：城主親抬新雕神像安座，舊像則交由埃茹氏族新生兒終身供奉。"
+      },
+      "motifs": [
+        "trickster",
+        "sacred-place",
+        "sun-capture"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Living Yoruba tradition; Èṣù/Edju at the crossroads (Orita) recorded 1910-12 — the classic portrait of the misunderstood trickster, whom Frobenius explicitly refuses to call a devil. Cross-ref: afroatlantic-legba-crossroads (diaspora Legba/Exu)."
+      },
+      "persons": [
+        "eshu"
+      ],
+      "passages": [
+        {
+          "id": "1",
+          "text": "Edju! The Devil — as the missionaries coming from the Coast to preach the Saviour of Mankind to the Yorubans have taught them to believe. Yet go into the compounds, talk to them kindly and they will tell you: \"Ah, yes! Edju played many tricks; Edju made kindred peoples go to war; Edju pawned the moon and carried off the sun; Edju made the Gods strive against themselves. But Edju is not evil. He brought us the best of all there is; he gave us the Ifa oracle; he brought the sun. But for Edju, the fields would be barren.\" He is a boon companion, up to all sorts of games, something like the Polynesian deity Maui; he showed himself above all measure friendly to men by giving them the Ifa oracle.",
+          "note": "Paraphrase of Frobenius, The Voice of Africa, vol. I, ch. XII (1913); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Everywhere Edju ranks as a sort of leader or inspector of the group of some sixteen Gods. He is only the God-inspector in the sense of being, so to say, their director and chief marshal, and responsible for keeping law and order on the Yoruban Olympus. Edju-worshippers declared that the other Orishas would be unable to do anything whatever without this deity, and as the descendants of the others held their peace, they practically admitted this divinity's supremacy. He is not, however, to be considered as the Ruler of the Gods, but rather as the marshal of their procession. Edju dwells at all the cross-roads, or Orita, where small cones of clay are set up to him.",
+          "note": "Paraphrase of Frobenius, The Voice of Africa, vol. I, ch. XII (1913); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "There are many plastic effigies of Edju, either heads only or entire figures; whenever these are represented on doors or planks, it is always in profile, which never occurs on any other occasions of his portrayal. All his images are characterized by feet of disproportionate breadth. They all have a pigtail. They are all naked, though sexless. A tobacco pipe is found held in his hand or in his mouth with astonishing frequency. This great holiday in his honour, the Odu-Edju, takes place about the close of June or the beginning of July; the principal part consists in the erection of a new Edju-image carved in wood: the ruler of the town himself carries it to its place, raises it several times in a ritual rhythm, and places it on the spot previously occupied by its predecessor. Meanwhile the last year's image has been entrusted to a new-born child of some Edju family of repute, which remains its first sacred possession for the rest of its natural life. After the festival the days begin to decline; had it not been held, there would be no night whatever. It is clear, then, that it celebrates the solstice.",
+          "note": "Paraphrase of Frobenius, The Voice of Africa, vol. I, ch. XII (1913); not verbatim."
+        }
+      ]
+    },
+    {
+      "id": "yoruba-ifa-babalawo-initiation",
+      "title": {
+        "en": "\"This Is Thy Ifa\": The Making of a Babalawo",
+        "zh": "「此乃汝之伊法」——巴巴拉奧的養成"
+      },
+      "tradition": "yoruba",
+      "category": "myth-religion",
+      "region": {
+        "en": "Oshun river near Ibadan, Nigeria (the white-robed washing and the three holy spaces)",
+        "zh": "奈及利亞伊巴丹近郊奧舜河（白衣洗禮與三重聖地）"
+      },
+      "lat": 7.4,
+      "lon": 3.9,
+      "period": "Yoruba oral tradition; recorded 1910-12 (Frobenius)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Leo Frobenius, The Voice of Africa, vol. I (London, 1913), ch. XII",
+        "url": "https://archive.org/details/voiceofafricabei01frob"
+      },
+      "license": "Public domain (published 1913)",
+      "summary": {
+        "en": "Ifa is not a God with posterity but the oracle any man of means and patience may serve; those initiated into its mysteries are not sons of Ifa but Babalawo, Fathers of the Secret. The candidate brings five things — parrot tail-feathers, the fish Boli, an Ekete, an Eku mouse, and the washing-root Kanka — and, robed all in white with his Oluwo, is washed in the Oshun river. In the bush's three holy spaces (the third, the Holy of Holies, only the teacher may tread), the hierophant casts the palm-nuts on the flour-strewn tray; if the Odu is a yea-word, he rubs white medicine into the youth's hair, ties the parrot feathers round him, endues him with the Oquelle and gives him sixteen palm-kernels: \"This is thy Ifa.\"",
+        "zh": "伊法並非有後嗣的神，而是一切有錢、有悟性、有耐心者皆可侍奉的神諭；入其秘傳者不稱「伊法之子」，而稱「巴巴拉奧」——秘密之父。候選者備五物——鸚鵡尾羽、波利魚、埃克特、家鼠與洗禮之坎卡根——與師尊同著白衣，先在奧舜河中受洗。林中三重聖地，第三重唯師尊可入。長老在撒了白粉的占板上擲果問卜；若卦辭應允，便以白色聖藥抹其髮，繫鸚鵡羽、披奧克萊占繩，授予十六枚果仁：「此乃汝之伊法。」"
+      },
+      "motifs": [
+        "oracle-divination",
+        "sacred-place",
+        "initiation"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Living Yoruba tradition; babalawo initiation recorded 1910-12 (Frobenius). The 'Fathers of the Secret' opening rite is an established Ifa practice (UNESCO-listed 2008); presented as archival description."
+      },
+      "persons": [],
+      "passages": [
+        {
+          "id": "1",
+          "text": "Ifa is nothing but the expression of the need of searching for a final cause, of the endeavour to find a concrete idea of a Universe which transcends native intellectual capacity; and this world of thought is incredibly full of wonders. Ifa is not to be found at the head of a totemistic clan; Ifa has no claim to a posterity like Shango, or Shankpanna, or Oja, or any other deity. Anybody can devote himself to the cult of Ifa; and, thus, those who are thoroughly initiated in its mysteries are not called Omo (son of) Ifa, but Baba-la-wo (Father of the Secret). Everyone may become a Baba-lawo, provided he have sufficient worldly means, brains and the necessary patience.",
+          "note": "Paraphrase of Frobenius, The Voice of Africa, vol. I, ch. XII (1913); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "First of all the novice or candidate has to furnish himself with the following five ingredients: Ikode, or parrot tail-feathers; the fish, Boli; an Ekete; an Eku (mouse); and the root Kanka, used in washing. He beseeches a Baba-lawo to instruct and induct him into the mysteries, addressing him as Oluwo. This Oluwo conducts him, carrying this bundle of the five articles on his head, to the nearest river, the Oshun, near Ibadan. They are both robed all in white; they lay their things down on the bank and the priest washes the pupil. Then they go into the bush, where there is a holy spot consisting of three consecutive broad spaces: anyone may stand upon the first, the introduction takes place on the second, and the Holy of Holies, which is the third, may only be trodden by the teacher in person.",
+          "note": "Paraphrase of Frobenius, The Voice of Africa, vol. I, ch. XII (1913); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "The hierophant opens his pouch, a wallet of leather mostly with cowrie-embroidered edges, takes out the palm-nuts, strews finely powdered wood upon the Oqua-Ifa, or tray, and the Ifa oracle is interpreted once in the novice's sight: the odd or even number of the nuts caught up in falling is recorded in a series of double or single lines, four of which make up an Odu, and the question is whether the marks announce the deity's consent to the youth's initiation. If the Odu is a yea-word, the main business of the day is settled. The priest then rubs a white mixture into the youth's hair, ties the parrot's feathers round him and endues him with the Oquelle, so that the middle portion of it falls over his shoulders with its ends hanging down in front like a stole. He then gives him sixteen palm-kernels with these words: \"This is thy Ifa.\"",
+          "note": "Paraphrase of Frobenius, The Voice of Africa, vol. I, ch. XII (1913); not verbatim."
+        }
+      ]
+    },
+    {
+      "id": "yoruba-ifa-tray-edju-face",
+      "title": {
+        "en": "The Ifa Tray: Edju's Face and the Four Quarters",
+        "zh": "伊法占板——埃茹之面與四方"
+      },
+      "tradition": "yoruba",
+      "category": "myth-religion",
+      "region": {
+        "en": "Ile-Ife, Nigeria (symbolic pin: the diviner's tray turned to the East)",
+        "zh": "奈及利亞伊費城（象徵定位：朝東安放的占板）"
+      },
+      "lat": 7.48,
+      "lon": 4.54,
+      "period": "Yoruba oral tradition; recorded 1910-12 (Frobenius)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Leo Frobenius, The Voice of Africa, vol. I (London, 1913), ch. XII",
+        "url": "https://archive.org/details/voiceofafricabei01frob"
+      },
+      "license": "Public domain (published 1913)",
+      "summary": {
+        "en": "Every Ifa tray bears a face on its rim, repeated on each of the four sides — and everywhere the answer is the same: \"There is no picture of Ifa; those on the Ifa trays and caskets are images of Edju.\" The interpreter turns to the East, the tray's Edju face intervening between him and the sun. The tray is divided into the four quarters of the compass; beside it stand the Iroke tusk-clapper struck at dawn to salute Edju, the Adjelefa cups carved with riders and drummers and women at their looms, the Oduso ivory head with Edju's pigtail standing sentinel over the sixteen nuts, and the divided caskets holding sulphur (sun-dung), charcoal, chalk and redwood — one compartment for each presiding god.",
+        "zh": "每塊伊法占板邊緣皆有一張面孔，四側重複——而舉國上下答案如一：「板上並非伊法之像；那些是埃茹之像。」占者面東而坐，板上埃茹之面恰好擋在他與太陽之間。占板分劃四方位；一旁立著清晨擊板致敬埃茹的象牙響板「伊羅克」、雕著騎手與織女的小托杯、以埃茹辮尾為記的奧杜索象牙首——為十六果仁站崗——以及分格的木匣：硫磺（日糞）、炭、白堊與紅木粉，各歸其主神。"
+      },
+      "motifs": [
+        "oracle-divination",
+        "sacred-place",
+        "prophetic-vision"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Living Yoruba tradition; Ifa material culture recorded 1910-12. The cosmological reading of the tray (Frobenius's analysis) is his interpretation, reported as such."
+      },
+      "persons": [
+        "eshu"
+      ],
+      "passages": [
+        {
+          "id": "1",
+          "text": "I said there were no images of Ifa, the god. Every one looking at the Ifa trays will observe a face on the edge, which is often repeated on each of the four sides, and ask whether this is not, perhaps, the Ifa. The author inquired the meaning of this head in every corner of this land, and always got the same answer, namely: \"There is no picture of Ifa; those on the Ifa trays and caskets are images of Edju.\"",
+          "note": "Paraphrase of Frobenius, The Voice of Africa, vol. I, ch. XII (1913); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "The Oqua-Ifa, or tray, is rectangular towards the south, but, as a rule, circular towards the north. Even its mere arrangement proves its deep meaning: on the uppermost part there is always a dominant face, throned like a watchman over the bare inner surface. Opposite to this, or at equal spaces to the left and right, there are other divisions, separated by ornaments, so that the whole is, as it were, divided into the four quarters of the compass. They are the most beautiful products of ancient West African industrial art. When a Baba-lawo finally attained the dignity of an Oluwo, he generally received the finest tray from the ancient family possessions; and when the Baba-lawo died, this tray was of old put into his grave for him to rest upon. The interpreter always turns to the East, and places the tray on the ground with the Edju always pointing in that direction; there is at least one such face on every board, which is named Edju-Ogbe, so that it intervenes between him and the sun.",
+          "note": "Paraphrase of Frobenius, The Voice of Africa, vol. I, ch. XII (1913); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "The Iroke is a clapper which was in the beginning probably an elephant tusk; at dawn the Baba-lawo strikes the tray with the Iroke and so salutes Edju, the deity presiding over the Ifa. Particularly wealthy people have an Okwong-Ifa, a box with many divisions: the middle compartment is meant for keeping the nuts, the surrounding space is mostly divided in four, and contains clay, charcoal, chalk and redwood pigment — sulphur, called Emi-Orun, or sun-dung, takes the place of clay with the extremely rich. And, lastly, there is the Oquelle, a string connecting eight halved palm-nuts: in fortune-telling by the Oquelle it is taken by the middle, so that four of the nuts hang down on either side, and when it falls an Odu or figure is formed by the number of convex or concave positions assumed.",
+          "note": "Paraphrase of Frobenius, The Voice of Africa, vol. I, ch. XII (1913); not verbatim."
+        }
+      ]
+    },
+    {
+      "id": "yoruba-olodumare-orders-four-quarters",
+      "title": {
+        "en": "Olodumare Commands the Four Quarters into Being",
+        "zh": "奧洛杜馬雷令四方成形"
+      },
+      "tradition": "yoruba",
+      "category": "myth-religion",
+      "region": {
+        "en": "Yoruba sky-country (symbolic pin: the ordered horizon seen from Ile-Ife)",
+        "zh": "約魯巴天界（象徵定位：伊費望見的整齊地平）"
+      },
+      "lat": 7.48,
+      "lon": 4.54,
+      "period": "Yoruba oral tradition; recorded 1910-12 (Frobenius)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Leo Frobenius, The Voice of Africa, vol. I (London, 1913), ch. XII",
+        "url": "https://archive.org/details/voiceofafricabei01frob"
+      },
+      "license": "Public domain (published 1913)",
+      "summary": {
+        "en": "\"When very, very long ago everything was in great confusion, and old and young things dead, Olodumare (God) called Edju-Ogbe to him and said: 'Order thou the region where the sun doth rise!' He said to Ojako-Medji: 'Order thou the region where the sun doth set!' Thereupon Edju-Ogbe put the region of the East in order in the morning and, in the evening, Ojako-Medji did so in the West.\" Evori-Medji and Odi-Medji between them arrange the course of things from dawn to sunset — the venerable babalawo's account of how the four principal Odus, the four faces on the Ifa tray, and the four winds of the world came to be.",
+        "zh": "「遠古之時，萬物混亂，新舊皆亡。奧洛杜馬雷召埃茹-奧格貝曰：『你去整理日出之方！』又對奧賈科-梅吉說：『你去整理日落之方！』於是埃茹-奧格貝於晨整理東方，奧賈科-梅吉於暮整理西方。」埃沃里-梅吉與奧迪-梅吉則共理自晨至暮的萬事之序——這是老巴巴拉奧所述：占板四面的主奧杜、四張面孔與天下四方由此而生。"
+      },
+      "motifs": [
+        "creation-chaos",
+        "oracle-divination",
+        "prophetic-vision"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Living Yoruba tradition; the cosmogonic word of a Lokojan elder recorded by Frobenius 1910-12 — the Ifa scheme's ordering of the four quarters."
+      },
+      "persons": [
+        "eshu"
+      ],
+      "passages": [
+        {
+          "id": "1",
+          "text": "All that could be learned in addition with regard to the four faces was derived from a venerable Lokojan, viz., this: \"When very, very long ago, indeed, everything was in great confusion, and old and young things dead, Olodu-mare (God) called Edju-Ogbe to him and said: 'Order thou the region where the sun doth rise!' He said to Ojako-Medji: 'Order thou the region where the sun doth set!' Thereupon Edju-Ogbe put the region of the East in order in the morning and, in the evening, Ojako-Medji did so in the West.\"",
+          "note": "Paraphrase of Frobenius, The Voice of Africa, vol. I, ch. XII (1913); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "When asked to tell something about the Evori-Medji's functions, the old babalawo said that one of them was to arrange the course of things from dawn to sunset, and that Odi-Medji helped him in it — an explanation given with great hesitation. In reality the matter is not as obscure as it first appears: once it has been seen that the tray represents the four quarters of the compass, that these correspond to the four principal Odus, and that the tray must always be held and read in the same way, various things can be brought into parallelism.",
+          "note": "Paraphrase of Frobenius, The Voice of Africa, vol. I, ch. XII (1913); not verbatim."
+        }
+      ]
+    },
+    {
+      "id": "yoruba-four-gods-four-quarters",
+      "title": {
+        "en": "Four Gods of the Four Quarters: East Edju, North Ogun, West Shango, South Oshalla",
+        "zh": "四方四神——東埃茹、北奧貢、西尚戈、南奧夏拉"
+      },
+      "tradition": "yoruba",
+      "category": "myth-religion",
+      "region": {
+        "en": "Ilesha, Nigeria (the holy mount with four heads facing the cardinal points)",
+        "zh": "奈及利亞伊萊沙（四首各朝方位的聖山）"
+      },
+      "lat": 7.63,
+      "lon": 4.74,
+      "period": "Yoruba oral tradition; recorded 1910-12 (Frobenius)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Leo Frobenius, The Voice of Africa, vol. I (London, 1913), ch. XII",
+        "url": "https://archive.org/details/voiceofafricabei01frob"
+      },
+      "license": "Public domain (published 1913)",
+      "summary": {
+        "en": "Edju met Shango on the Chief Way that runs east and west, and Obatala visited Ogun on the Second Way that runs south and north: Edju rules the East, Ogun the North, Shango the West, Oshalla the South. The Ifa caskets confirm it — sulphur for Edju, charcoal for Shango, chalk for Obatala, redwood for Ogun — as does the five-day week (Ifa's day, Ogun's, Shango's, Oshalla's, and the holy day), and the ancient holy mount near Ilesha with a monument of four heads facing the cardinal points, to which sacrifices were offered four times a year, the processional route running East to North, to West, to South. Frobenius read in this the same scheme of the universe the Etruscans carved in their Templum — sixteen celestial divisions, a five-day week, and a world divided fourfold.",
+        "zh": "貫通東西的「大路」上，埃茹與尚戈相會；貫通南北的「二路」上，奧巴塔拉訪奧貢——故埃茹主東、奧貢主北、尚戈主西、奧夏拉主南。伊法木匣為證：硫磺屬埃茹、炭屬尚戈、白堊屬奧巴塔拉、紅木屬奧貢；五日一週亦然——伊法日、奧貢日、尚戈日、奧夏拉日，外加潔廟的聖日。伊萊沙古聖山上有四首各朝一方之碑，歲祭四次，儀程由東而北而西而南。弗羅貝紐斯將此讀為與伊特魯里亞「聖界」（Templum）同構的宇宙圖式——十六天區、五日一週、四分天下。"
+      },
+      "motifs": [
+        "creation-chaos",
+        "oracle-divination",
+        "sacred-place"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Living Yoruba tradition; the four-quarter cosmology (Frobenius 1910-12). His Etruscan/Korean/Pueblo comparisons are his own diffusionist thesis, reported as such and not endorsed here. Note: the sacrifice of children at the Ilesha mount is given as the recorded tradition; presented as archival."
+      },
+      "persons": [
+        "eshu",
+        "shango"
+      ],
+      "passages": [
+        {
+          "id": "1",
+          "text": "The Elder who explained the tray's quadruple partition drew a picture of it in the sand. He put East, West, North and South together as the limbs of a cross, in which Edju-Ogbe led to Ojako-Medji, and Evori-Medji to Odi-Medji. Then he called the line running East and West the Chief Way, that from South to North the Second Way. When asked the difference between the two, he said Edju met Shango on the first, and Obatalla visited Ogun on the second. Obviously, then, Edju rules the East, Shango the West, Obatalla the South and Ogun the North.",
+          "note": "Paraphrase of Frobenius, The Voice of Africa, vol. I, ch. XII (1913); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "An Oluwo said that the contents of the caskets were apportioned thus: the sulphur was for Edju, the charcoal for Shango, the chalk for Obatalla and the red-wood for Ogun. This corroborates the locality of these Godheads. And the four-coloured cap of Edju's cap-trick legend turns these colours to the presiding deities: yellow (green) to the East, black to the West, and the colours sacred to Obatalla and Ogun to the North and South. The Yoruban five-day week presents a parallel: the day of the secret (Ifa's day), the day of Ogun, the day of Yakuta (Shango, the slinger of stones), the day of Oshe-Oshalla (the Lord of Heaven), and the holy day on which all the Gods are honoured by the cleansing of their temples — and an Old-Ojo veteran said that in former times not one but four Gods were worshipped on each of these four days, sixteen Gods in all within the week.",
+          "note": "Paraphrase of Frobenius, The Voice of Africa, vol. I, ch. XII (1913); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "There was formerly a particularly holy mount near Ilesha, esteemed to be of such sanctity that a city was built round it. In the centre of this hill there was said to have been a monument, with four heads severally facing a cardinal point. Sacrifices were offered up to these at equi-distant periods, four times a year, and every time the victim was a little child. The days so appointed were one in June for the Eastward, one in September for the Northward, one in December for the Westward, and one in March for the head turned Southward; and the processional route is from East to North, to West, to South. Comparing this with the rest of the observations, the four heads on the Ileshan hill were the recipients of sacrifice four times annually, and the days of the week follow in the same order: Eastern Edju, Northern Ogun, Western Shango and Southern Oshalla.",
+          "note": "Paraphrase of Frobenius, The Voice of Africa, vol. I, ch. XII (1913); not verbatim."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,382 @@
+{
+  "_comment": "Polish folk tales cut from A. J. Glinski, Polish Fairy Tales, trans. Maude Ashurst Biggs (1920), Project Gutenberg #36668; collected at Wilna (Vilnius) in 1862 from the peasantry of the eastern provinces. All passages paraphrase.",
+  "texts": [
+    {
+      "id": "slavic-glinski-frog-princess",
+      "title": {
+        "en": "The Frog Princess of the Wilna Marshes",
+        "zh": "維爾紐斯沼澤的蛙公主"
+      },
+      "tradition": "slavic",
+      "category": "myth",
+      "region": {
+        "en": "Wilna (Vilnius), eastern Poland / Belarus (symbolic pin)",
+        "zh": "維爾紐斯，波蘭東部／白俄羅斯（象徵性定位）"
+      },
+      "lat": 54.69,
+      "lon": 25.28,
+      "period": "Collected by A. J. Glinski, printed at Wilna 1862; trans. Biggs 1920",
+      "source": {
+        "archive": "Project Gutenberg #36668",
+        "work": "A. J. Glinski, Polish Fairy Tales, trans. Maude Ashurst Biggs (1920), 'The Frog Princess'",
+        "url": "https://www.gutenberg.org/ebooks/36668"
+      },
+      "license": "Public domain (1920)",
+      "summary": {
+        "en": "The youngest prince's arrow falls into a lake where a frog sits on the reeds, and she is his bride; her carpets, loaves, and dances outdo the human brides until he burns her frog-skin in his haste — and he must win her back at three huts on crooked legs.",
+        "zh": "幼王子之箭落於湖中蘆葦上的青蛙處，蛙即其新娘；她織毯、烤麵包、起舞皆勝凡人新娘——直到他性急焚其蛙皮；須至三座曲腿小屋方能尋回。"
+      },
+      "motifs": [
+        "transformation",
+        "taboo-transgression",
+        "divine-marriage"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Classic frog-bride tale."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The old king, grown heavy with the cares of government, sends his three sons to the tower to shoot their arrows: where each arrow falls, there each prince must seek his wife. The eldest's arrow falls on a senator's palace, the second's on a rich man's country-house — and the youngest's flies through the green wood and falls into a lake, where a frog sits on the reeds looking fixedly at him.",
+          "note": "Paraphrase of Glinski, Polish Fairy Tales (Biggs trans. 1920), 'The Frog Princess'; not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "'Take me for your wife, and I will give it to you,' says the frog; and the prince, instructed to say he has married an Eastern lady who must be seen by no one, carries her home in his pocket. To the king's tests she answers like no other bride: she weaves a carpet so fine that it shines like the sun, bakes bread that fills whole armies, and dances at the ball more beautifully than any princess living — for at night, in the prince's own chamber, she slips off her frog-skin and is the loveliest lady in the world.",
+          "note": "Paraphrase of Glinski (Biggs 1920); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "The prince, mad to keep her beautiful forever, burns the frog-skin in the stove — and she vanishes, for her mother's enemies are still alive and the skin was her safety. He follows a ball of thread to three queer huts, saying 'Little house, move on your crooked legs free; turn your back to the wood, and your front door to me.' At the third hut, when the duck-bride at last cannot escape him, he breaks the spindle she becomes across his knee — and holds instead the hands of his beautiful princess. She builds a crystal bridge hundreds of miles long to his father's gallery, and they drive home in a golden coach to be crowned.",
+          "note": "Paraphrase of Glinski (Biggs 1920); not verbatim."
+        }
+      ],
+      "persons": []
+    },
+    {
+      "id": "slavic-glinski-miranda-hero",
+      "title": {
+        "en": "Princess Miranda and Prince Hero",
+        "zh": "米蘭達公主與英雄王子"
+      },
+      "tradition": "slavic",
+      "category": "myth",
+      "region": {
+        "en": "Green island in the wide ocean (symbolic pin)",
+        "zh": "廣大洋中的綠島（象徵性定位）"
+      },
+      "lat": 54.0,
+      "lon": 20.0,
+      "period": "Collected by A. J. Glinski, 1862; trans. Biggs 1920",
+      "source": {
+        "archive": "Project Gutenberg #36668",
+        "work": "A. J. Glinski, Polish Fairy Tales, trans. Maude Ashurst Biggs (1920), 'Princess Miranda and Prince Hero'",
+        "url": "https://www.gutenberg.org/ebooks/36668"
+      },
+      "license": "Public domain (1920)",
+      "summary": {
+        "en": "Kosciey, king of the underground realm, gazes at the world through his telescope and sees Miranda asleep; his poisonous breath sleeps whole armies, and a twelve-headed dragon guards the iron rampart around her hill — until the prince of her dreams, Hero, with the invisible mace, comes to wake the island.",
+        "zh": "地下之王科謝伊以望遠鏡窺見沉睡的米蘭達；其毒息令千軍入睡，十二首巨龍守衛山丘四周鐵壁——直到她夢中之人，持隱形狼牙棒的英雄王子降臨，喚醒全島。"
+      },
+      "motifs": [
+        "descent-underworld",
+        "quest-immortality",
+        "world-serpent",
+        "invisibility"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Folk tale."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "On a green island in the wide ocean lives Miranda, the most beautiful princess in the world, with twelve maidens grown up beside her; whoever would force her to marriage she turns to ice with a glance. Kosciey, king of the underground realm, comes up into the upper world, gazes through his telescope, and sees her asleep — dreaming of a young knight in a golden helmet, on a gallant steed, carrying an invisible mace that fights of itself.",
+          "note": "Paraphrase of Glinski, Polish Fairy Tales (Biggs trans. 1920), 'Princess Miranda and Prince Hero'; not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "He strikes the earth three times and stands on the green island; her army he lays asleep with his poisonous breath, her twelve damsels likewise, and only against the princess herself is he helpless — so he rings her hill with an iron rampart and sets a dragon with twelve heads before the gate. Her kingdom becomes a desert, her soldiers rust on the open fields, and she waits.",
+          "note": "Paraphrase of Glinski (Biggs 1920); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "The knight of her dream, Prince Hero, comes at last with the invisible mace, breaks the rampart, destroys the dragon head by head, and wakes the island with a word; Kosciey flees to his underground realm, the sleepers wake, and Miranda marries the prince she had loved before ever she saw him.",
+          "note": "Paraphrase of Glinski (Biggs 1920); not verbatim."
+        }
+      ],
+      "persons": []
+    },
+    {
+      "id": "slavic-glinski-eagles",
+      "title": {
+        "en": "The Eagles: Twelve Princes and the Basilisk Queen",
+        "zh": "群鷹：十二王子與蛇怪王后"
+      },
+      "tradition": "slavic",
+      "category": "myth",
+      "region": {
+        "en": "Poland, royal residence (symbolic pin at Warsaw)",
+        "zh": "波蘭王城（象徵性定位於華沙）"
+      },
+      "lat": 52.23,
+      "lon": 21.01,
+      "period": "Collected by A. J. Glinski, 1862; trans. Biggs 1920",
+      "source": {
+        "archive": "Project Gutenberg #36668",
+        "work": "A. J. Glinski, Polish Fairy Tales, trans. Maude Ashurst Biggs (1920), 'The Eagles'",
+        "url": "https://www.gutenberg.org/ebooks/36668"
+      },
+      "license": "Public domain (1920)",
+      "summary": {
+        "en": "A sorceress-queen turns her twelve stepsons into eagles and her stepdaughter into a dove; the white-bearded witness she curses becomes a basilisk whose glance kills the palace — and only the dove, waiting by the brothers' eagle-feasts, can work the disenchantment.",
+        "zh": "女巫王后使十二繼子化鷹、繼女化鴿；被她咒作見證的白髮老者化為蛇怪，目光觸之即死，王城盡空——唯鴿化公主守於群鷹赴宴之處，方能解咒。"
+      },
+      "motifs": [
+        "transformation",
+        "taboo-transgression",
+        "boon-curse",
+        "stepmother"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Folk tale."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "A widowed king with twelve sons and one peerless daughter keeps his promise never to give his children a stepmother — until at his wife's tomb a maiden so fair appears that he forgets. She proves a wicked sorceress who wishes her own little son the kingdom; and one day, while the king is at the wars, she pronounces her spells: every prince flies away in the shape of an eagle, and the princess is changed into a dove.",
+          "note": "Paraphrase of Glinski, Polish Fairy Tales (Biggs trans. 1920), 'The Eagles'; not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "At the window stands an old man with a beard white as snow, who has come 'to be witness of your deed'. 'Then be what I command!' — she whispers, and the witness becomes a basilisk, whose deadly glance kills everyone it rests on: the palace empties, her own son dies beneath her look, and the royal residence becomes a ruin no one dares approach.",
+          "note": "Paraphrase of Glinski (Biggs 1920); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "The dove cannot overtake her brothers, but she finds their road: every year the eagles descend to a green meadow for one day of their human shape, casting off wings and feathers at a stone wall — and whoever keeps the wall from being touched by them again can hold them human. The princess, guided by the white-bearded old man who was her mother's friend, waits by the wall and gathers the feathers before the feast ends; the twelve princes stand again in their own shapes, the basilisk's ruins are cleansed, and the sister, with twelve brothers, takes the kingdom her father has lost.",
+          "note": "Paraphrase of Glinski (Biggs 1920); not verbatim."
+        }
+      ],
+      "persons": []
+    },
+    {
+      "id": "slavic-glinski-whirlwind",
+      "title": {
+        "en": "The Whirlwind: The Dwarf of the Seven-Foot Beard",
+        "zh": "旋風：七尺長鬚的侏儒"
+      },
+      "tradition": "slavic",
+      "category": "myth",
+      "region": {
+        "en": "Far country beyond sea and mountains (symbolic pin)",
+        "zh": "海外與山外的遠國（象徵性定位）"
+      },
+      "lat": 52.0,
+      "lon": 21.5,
+      "period": "Collected by A. J. Glinski, 1862; trans. Biggs 1920",
+      "source": {
+        "archive": "Project Gutenberg #36668",
+        "work": "A. J. Glinski, Polish Fairy Tales, trans. Maude Ashurst Biggs (1920), 'The Whirlwind'",
+        "url": "https://www.gutenberg.org/ebooks/36668"
+      },
+      "license": "Public domain (1920)",
+      "summary": {
+        "en": "A rejected suitor — a dwarf seven inches high with a beard seven feet long — snatches the bride from her wedding with a whirlwind; Prince Dobrotek rides the Grey Seer-horse, wins the All-Cutting Sword from a giant's basilisk head, and cuts the strength out of the dwarf's beard.",
+        "zh": "被拒的求婚者——身高七吋、鬚長七尺的侏儒——於婚禮之日以旋風劫走新娘；多布羅特克王子乘金鬃灰神馬，自蛇怪巨首取得斬魔劍，一劍削去侏儒鬚中之力。"
+      },
+      "motifs": [
+        "otherworld-voyage",
+        "quest-immortality",
+        "transformation"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Folk tale."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Princess Ladna loves only Prince Dobrotek, and the wedding-day is fixed; but among her rejected suitors is one who came to court in a prince's shape — really an ugly dwarf, seven inches high, with a beard more than seven feet long and a great hump on his back. As the wedding procession leaves the palace a whirlwind rises, a column of sand, and carries the princess over the clouds to the top of inaccessible mountains, into a palace with a golden roof.",
+          "note": "Paraphrase of Glinski, Polish Fairy Tales (Biggs trans. 1920), 'The Whirlwind'; not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "The dwarf in his chair of negroes comes in to make love, takes a slap across the face, catches his feet in his beard and drops his cap — the cap of invisibility, by which the princess eludes him in the garden until it catches in a tree. Then a trumpet challenges from the mountain-top: Prince Dobrotek, whose bride is gone.",
+          "note": "Paraphrase of Glinski (Biggs 1920); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "On his search he has saved a hare from an owl by throwing at it a human skull — the skull of a suicide who has lain unburied at the cross-ways seven hundred and seventy-seven years — and the grateful soul tells him how to summon the Grey Seer-horse with the golden mane, out of whose ears he comes armed in gold with the strength of a storm. The horse leads him to the Giant-Head, a moving mountain with basilisk eyes, guardian of the All-Cutting Sword; the giant, caught, confesses that his brother-dwarf's whole strength lies in his beard, and Dobrotek, come to the golden-roofed palace, cuts off the beard — and the dwarf's power with it — and carries Princess Ladna home.",
+          "note": "Paraphrase of Glinski (Biggs 1920); not verbatim."
+        }
+      ],
+      "persons": []
+    },
+    {
+      "id": "slavic-glinski-good-ferryman",
+      "title": {
+        "en": "The Good Ferryman and the Water Nymphs",
+        "zh": "善渡夫與水仙"
+      },
+      "tradition": "slavic",
+      "category": "myth",
+      "region": {
+        "en": "River ferry in the eastern provinces (symbolic pin)",
+        "zh": "東部諸省河畔渡口（象徵性定位）"
+      },
+      "lat": 52.0,
+      "lon": 24.0,
+      "period": "Collected by A. J. Glinski, 1862; trans. Biggs 1920",
+      "source": {
+        "archive": "Project Gutenberg #36668",
+        "work": "A. J. Glinski, Polish Fairy Tales, trans. Maude Ashurst Biggs (1920), 'The Good Ferryman and the Water Nymphs'",
+        "url": "https://www.gutenberg.org/ebooks/36668"
+      },
+      "license": "Public domain (1920)",
+      "summary": {
+        "en": "Three ferry-brothers: the greedy two are paid for every passage, the youngest carries the poor for nothing — until the white-bearded old man gives him a purse that is always full, a diamond hook that catches the sea-maiden beloved of the Sun, and a Self-playing Guitar whose music raises the murdered dead.",
+        "zh": "渡口三兄弟：貪者按次收費，幼弟免費載貧者——白髮老者贈其常滿金袋、能鉤起太陽所愛海女的鑽石釣鉤，以及能令冤死者起身誅兇的自鳴琴。"
+      },
+      "motifs": [
+        "theophany",
+        "descent-underworld",
+        "resurrection",
+        "ferryman-dead"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Folk tale."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The old ferryman dies in a storm that sinks the family boat; an old man comes by in the same night and, at a word, the boat stands on the water new-mended, with passengers waiting. The three brothers take turns at the ferry: the two elder charge every soul aboard, the youngest takes the poor over for nothing and often relieves their wants out of his own pocket.",
+          "note": "Paraphrase of Glinski, Polish Fairy Tales (Biggs trans. 1920), 'The Good Ferryman and the Water Nymphs'; not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "The white-bearded old man comes three evenings in succession, offering an empty purse as his fare. The elder brothers send him off; the youngest carries him free, and the old man gives him a purse which, shaken with the words 'For his sake who gave it, this purse I hold, I wish may always be full of gold', pours out gold without end. The greedy brothers steal it; one is drowned when his laden ship strikes a rock, the other murdered by robbers in the forest — and the youngest, poor again, still ferries the poor for nothing.",
+          "note": "Paraphrase of Glinski (Biggs 1920); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "The old man returns and gives him a diamond hook, silver line, and golden rod, warning him to hold fast whatever he catches. The hook draws up a water-nymph; he holds her until the sun sets, and her tail turns to a bride's white dress with a myrtle garland — and in her hand she carries the wonderful purse. From her he learns the roads of the unseen: the sea-maiden, her sister, beloved of the Sun, whom he captures by calling the Storm-wind and the Frost to capsize her silver boat and freeze the sea; the Self-playing Guitar, whose music makes the sick well and the murdered dead rise and slay their murderers — by which the wicked king who tried to destroy him is killed by the phantom of the brother he had murdered, and the good ferryman is acclaimed king of the land.",
+          "note": "Paraphrase of Glinski (Biggs 1920); not verbatim."
+        }
+      ],
+      "persons": []
+    },
+    {
+      "id": "slavic-glinski-brazen-mountain",
+      "title": {
+        "en": "The Princess of the Brazen Mountain",
+        "zh": "黃銅山上的公主"
+      },
+      "tradition": "slavic",
+      "category": "myth",
+      "region": {
+        "en": "Brazen Mountain beyond the wild forest (symbolic pin)",
+        "zh": "莽林之外的黃銅山（象徵性定位）"
+      },
+      "lat": 50.0,
+      "lon": 20.0,
+      "period": "Collected by A. J. Glinski, 1862; trans. Biggs 1920",
+      "source": {
+        "archive": "Project Gutenberg #36668",
+        "work": "A. J. Glinski, Polish Fairy Tales, trans. Maude Ashurst Biggs (1920), 'The Princess of the Brazen Mountain'",
+        "url": "https://www.gutenberg.org/ebooks/36668"
+      },
+      "license": "Public domain (1920)",
+      "summary": {
+        "en": "At sunset three winged princesses drop their wings by a lake to bathe; the prince hides one pair and wins the youngest for his bride — but gives her back her wings too soon, and must follow her to the Brazen Mountain with a magic whip, seven-league boots, and an invisible cap.",
+        "zh": "日落時分，三位有翼公主於湖畔解翼入水；王子匿其一雙，娶得最幼者為妻——卻過早還其翼；遂携魔鞭、七里靴、隱形帽，追至黃銅山。"
+      },
+      "motifs": [
+        "transformation",
+        "quest-immortality",
+        "otherworld-voyage",
+        "invisibility"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Swan-maiden type."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "At sunset on a summer evening the prince sees against the rosy clouds three winged damsels; they alight, drop their wings and garments, and leap into the cool water like waterfowl. He hides one pair of wings, and the youngest cannot fly home; she is a princess of the Brazen Mountain, and to be his wife she consents at once — but the moment she is out of church he, overcome with joy, gives her back her wings, and she fastens them to her shoulders and flies out of the window.",
+          "note": "Paraphrase of Glinski, Polish Fairy Tales (Biggs trans. 1920), 'The Princess of the Brazen Mountain'; not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "He searches the world for the Brazen Mountain until, one evening, a twinkling light leads him to a hermitage where a hermit lies dead, six wax candles burning about him. He buries him with the rites the Magic Whip summons — the whip that skips right and left and does whatever its holder wills; then two bands of robbers fighting for seven-league boots and an invisible cap are thrashed into flight, and the prince takes all three treasures.",
+          "note": "Paraphrase of Glinski (Biggs 1920); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "The whip leads him to the adamantine mountain and its wizard-miller, from whose threshold a rope lets down the three princesses' daily flour. Hidden by the cap he rides the flour-sack up into the silver-and-gold palace of the Brazen Mountain, where the youngest princess sits apart weeping over the husband she left 'for no fault at all'. He throws off the cap and forgives her everything; she gives him wings like her own, and they fly home together to reign in joy.",
+          "note": "Paraphrase of Glinski (Biggs 1920); not verbatim."
+        }
+      ],
+      "persons": []
+    },
+    {
+      "id": "slavic-glinski-bear-forest-hut",
+      "title": {
+        "en": "The Bear in the Forest Hut",
+        "zh": "林中小屋的熊"
+      },
+      "tradition": "slavic",
+      "category": "myth",
+      "region": {
+        "en": "Forest of the eastern provinces (symbolic pin at Bialowieza)",
+        "zh": "東部諸省森林（象徵性定位於比亞沃維耶扎）"
+      },
+      "lat": 52.7,
+      "lon": 23.85,
+      "period": "Collected by A. J. Glinski, 1862; trans. Biggs 1920",
+      "source": {
+        "archive": "Project Gutenberg #36668",
+        "work": "A. J. Glinski, Polish Fairy Tales, trans. Maude Ashurst Biggs (1920), 'The Bear in the Forest Hut'",
+        "url": "https://www.gutenberg.org/ebooks/36668"
+      },
+      "license": "Public domain (1920)",
+      "summary": {
+        "en": "The wicked stepmother drives her good stepdaughter into the forest, where a hut sings 'if no crime your conscience stain, in this hut to-night remain'; the girl spins and keeps the hearth for the bear within — an enchanted king — and is decked in gold, while the lazy daughter who comes to try her luck is left to the bear's judgment.",
+        "zh": "惡繼母將善良繼女驅入森林；林中傳來歌聲『若無罪疚於心，今夜留宿此屋』；女孩為屋中巨熊——受咒之王——紡紗理灶，歸時金飾滿身；而來碰運氣的懶繼妹，留予熊發落。"
+      },
+      "motifs": [
+        "taboo-transgression",
+        "boon-curse",
+        "resurrection",
+        "chant-mantra",
+        "stepmother"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Folk tale (Frau Holle / bear-husband type)."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The wicked stepmother beats her stepdaughter, pushes her out of doors, and forces the weak old father to drive her into the forest and leave her. Toward evening the girl comes to a hut and hears a voice singing from the wood: 'Wanderer, outcast, forsaken! whom the night has overtaken; if no crime your conscience stain, in this hut to-night remain.' She answers that she is outcast and forsaken, 'yet unstained by crime' — and the door opens.",
+          "note": "Paraphrase of Glinski, Polish Fairy Tales (Biggs trans. 1920), 'The Bear in the Forest Hut'; not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Within she finds a spinning-wheel and flax, and a bear comes in at dusk. He spares her and sets her to spin and keep the hut; and when the time of his enchantment runs out he tells her that he is a king restored to his shape, and will come for her as his queen. He loads the old man's waggon with gold and diamonds for her homecoming.",
+          "note": "Paraphrase of Glinski (Biggs 1920); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "The stepmother, furious at the good luck, sends her own daughter to the same hut to get more — but the lazy girl neither spins nor sweeps, and when the bear comes she offers him neither obedience nor courtesy; what happened to her, the tale leaves with the bear. In a few days the enchanted king returns in his golden carriage, the old man's daughter is carried off as a bride, and the wicked wife is left in her empty cottage, no longer mistress of anyone.",
+          "note": "Paraphrase of Glinski (Biggs 1920); not verbatim."
+        }
+      ],
+      "persons": []
+    }
+  ]
+}

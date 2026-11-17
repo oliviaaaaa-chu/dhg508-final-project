@@ -1,0 +1,86 @@
+{
+  "_comment": "Deep narrative record template (extends corpus.template.json). Fill one object per narrative and save batches to data/raw/. Base fields are validated by scripts/01_build_corpus.py; the 'narrative' block and fieldwork extension are validated by scripts/04_qa_narratives.py. A record without a 'narrative' object counts as a base (non-deep) record. Remove all _comment fields before submitting.",
+  "texts": [
+    {
+      "id": "REQUIRED-unique-slug-id-lowercase-hyphens",
+      "title": { "en": "REQUIRED English title", "zh": "Traditional Chinese title" },
+      "tradition": "REQUIRED tradition slug registered in src/lib/colors.js TRADITIONS",
+      "category": "REQUIRED myth | religious",
+      "region": { "en": "REQUIRED region", "zh": "Chinese region" },
+      "lat": 0.0,
+      "lon": 0.0,
+      "period": "REQUIRED e.g. 'c. 8th-5th c. BCE' or 'recorded 1969'",
+      "source": {
+        "archive": "REQUIRED archive name",
+        "work": "REQUIRED exact work + translator/editor",
+        "url": "REQUIRED working URL verified at collection time"
+      },
+      "license": "RECOMMENDED e.g. 'Public domain'",
+      "summary": { "en": "REQUIRED 1-3 sentence summary", "zh": "Chinese summary" },
+      "motifs": ["REQUIRED motif ids from src/data/motifs.json"],
+      "sensitivity": {
+        "restricted": false,
+        "note": "REQUIRED when content is restricted; restricted=true blocks ingestion"
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Verbatim public-domain excerpt 40-200 words, OR a condensed paraphrase that MUST carry the note field",
+          "note": "MANDATORY for paraphrase: 'Condensed paraphrase of X, ch. Y; not verbatim.'"
+        }
+      ],
+
+      "language": "Original language of the primary source",
+      "canonical_translation": "Translation relied on for the narrative text (translator + year)",
+      "narrative": {
+        "en": "REQUIRED complete narrative summary, target 400-2500 words: beginning, middle, end; principal characters; key events; outcome; cultural/ritual function. QA flags <50 words as stub, 50-399 as below target."
+      },
+      "functions": [
+        "Cultural / ritual function 1",
+        "Cultural / ritual function 2"
+      ],
+      "variants": [
+        {
+          "name": "Variant name",
+          "text_tradition": "e.g. 'Old Babylonian tablets' or 'Awadhi recension'",
+          "summary": "One-paragraph summary of how this variant differs",
+          "cross_ref": "id of a linked record, or 'none'"
+        }
+      ],
+      "primary_sources": [
+        {
+          "work": "Primary work",
+          "citation": "Edition/translator/year + book/verse/line/folio + manuscript siglum where known",
+          "language": "Original language"
+        }
+      ],
+      "secondary_sources": [
+        {
+          "work": "Peer-reviewed article or monograph",
+          "citation": "Author, year, publisher/journal"
+        }
+      ],
+      "source_urls": [
+        {
+          "url": "https://stable-scholarly-or-archive-domain.example",
+          "description": "What this link is",
+          "accessed": "2026-11-01"
+        }
+      ],
+      "sensitivity_flag": "none | living_tradition_low | living_tradition_high | indigenous_oral_consent | colonial_era_collection_caution",
+      "sensitivity_guidance": "REQUIRED when sensitivity_flag != none: community protocol guidance; paraphrase vs verbatim policy",
+      "provenance": {
+        "record_status": "complete | reconstructed | stub",
+        "compiled": "2026-11-01",
+        "compiled_by": "DHG508 fieldwork compilation",
+        "review_status": "draft - pending human review",
+        "reconstructed_segments": [
+          {
+            "segment": "Name the fragmentary/lacunose segment",
+            "restored_in": "Critical edition or scholar who restored it (with year)"
+          }
+        ]
+      }
+    }
+  ]
+}

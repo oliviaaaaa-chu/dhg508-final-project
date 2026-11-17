@@ -1,0 +1,768 @@
+{
+  "texts": [
+    {
+      "id": "maya-lacandon-pantheon",
+      "title": {
+        "en": "Nohochakyum and the Four Brothers of Yaxchilan",
+        "zh": "諾霍查庫姆與亞希蘭的四兄弟"
+      },
+      "tradition": "maya",
+      "category": "myth",
+      "region": {
+        "en": "Yaxchilan (home of the gods), Usumacinta River, Chiapas",
+        "zh": "恰帕斯烏蘇馬辛塔河亞希蘭（諸神之家）"
+      },
+      "lat": 16.9,
+      "lon": -90.87,
+      "period": "Recorded 1901-03 (Tozzer fieldwork among the Lacandones), published 1907",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Alfred M. Tozzer, A Comparative Study of the Mayas and the Lacandones (1907), Part II: Religion of the Lacandones",
+        "url": "https://archive.org/details/comparativestudy00tozz"
+      },
+      "license": "Public domain (Tozzer 1907)",
+      "summary": {
+        "en": "Nohochakyum, head of the Lacandón pantheon, lives in the ruins of Yaxchilan; the sun itself is his servant, and constellations and thunder carry out his commands. He is one of four brothers — one for each direction — and at the end of the world he will wear around his waist the body of Hapikern, the snake who draws men to him by his breath and slays them.",
+        "zh": "拉坎敦萬神殿之首諾霍查庫姆居於亞希蘭遺址；太陽亦是其僕從，星座與雷聲皆聽其號令。他有四位兄弟——四方各一——而在世界末日，他將以哈皮克爾恩之身為腰帶：那條以吐息引人近身而殺之的巨蛇。"
+      },
+      "motifs": [
+        "sacred-kingship",
+        "sacred-place",
+        "world-serpent"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Published public-domain ethnography (1907); paraphrase/quote only. Living Lacandón Maya religion — describe respectfully."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Nohochakyum is at the head of Lacandone pantheon. It is to him that the greatest reverence is paid. Two flowers, the red Plumeria and the white Plumeria, are considered the father and mother respectively of Nohochakyum; these two flowers are used in some of the rites, one of each kind being placed on the mouth of the brasero containing the idol.",
+          "note": "Condensed from Tozzer (1907), Part II; not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Nohochakyum of the Lacandones lives at the ruins of Yaxchilan. The spirits of the east, Yalanquin, are regarded as the servants of this main god. The sun itself occupies an inferior place in the pantheon: it is regarded as a servant ready to carry out the commands of his master, Nohochakyum. Many of the constellations and the spirit of the thunder are regarded as other servants of 'the great lord.'",
+          "note": "Condensed from Tozzer (1907), Part II; not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "It is supposed that at the end of the world Nohochakyum will wear around his waist as a belt the body of Hapikern, a very bad spirit in the form of a snake, who draws people to him by his breath and slays them. Nohochakyum is one of four brothers: Yantho the oldest, with the spirit of the north; Usukun, who has the earthquake as his servant; and Uyin, the youngest, whose power is always for the good.",
+          "note": "Condensed from Tozzer (1907), Part II; not verbatim."
+        }
+      ],
+      "persons": [
+        "hachakyum",
+        "kisin"
+      ]
+    },
+    {
+      "id": "maya-lacandon-kukulkan-snake",
+      "title": {
+        "en": "The Many-Headed Snake of Kukulkan",
+        "zh": "庫庫爾坎的多頭巨蛇"
+      },
+      "tradition": "maya",
+      "category": "myth",
+      "region": {
+        "en": "Lake Petha region, Chiapas",
+        "zh": "恰帕斯佩塔湖地區"
+      },
+      "lat": 16.5,
+      "lon": -90.9,
+      "period": "Recorded 1901-03 (Tozzer fieldwork), published 1907",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Alfred M. Tozzer, A Comparative Study of the Mayas and the Lacandones (1907), Part II",
+        "url": "https://archive.org/details/comparativestudy00tozz"
+      },
+      "license": "Public domain (Tozzer 1907)",
+      "summary": {
+        "en": "The name of the old Yucatec culture hero Kukulcan survives among the Lacandones as a mythical snake with many heads, living only near the home of Nohochakyum. This snake is killed and eaten only at the time of great national peril — during an eclipse of the moon, and especially that of the sun.",
+        "zh": "昔日猶加敦文化英雄庫庫爾坎之名，在拉坎敦人中存留為一多頭的神話巨蛇，僅居於諾霍查庫姆之家附近。此蛇唯有在民族大難之時——月蝕，尤以日蝕——方可殺而食之。"
+      },
+      "motifs": [
+        "world-serpent",
+        "taboo-transgression",
+        "transformation",
+        "immortality-lost"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Published public-domain ethnography (1907); paraphrase/quote only."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The name of the other culture hero of the early natives of Yucatan, Kukulcan, is still retained among the Lacandones as the name of a mythical snake with many heads, living only in the vicinity of the home of Nohochakyum. This snake is killed and eaten only at the time of great national peril, as during an eclipse of the moon and especially that of the sun.",
+          "note": "Condensed from Tozzer (1907), Part II; not verbatim."
+        }
+      ],
+      "persons": [
+        "kukulkan"
+      ]
+    },
+    {
+      "id": "maya-lacandon-kisin-underworld",
+      "title": {
+        "en": "Kisin Below: The Earthquake Who Hates the Rain",
+        "zh": "井下基辛：憎雨的地震之神"
+      },
+      "tradition": "maya",
+      "category": "myth",
+      "region": {
+        "en": "Metnal (underworld), Chiapas",
+        "zh": "恰帕斯梅特納爾（冥界）"
+      },
+      "lat": 16.5,
+      "lon": -90.9,
+      "period": "Recorded 1901-03 (Tozzer fieldwork), published 1907",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Alfred M. Tozzer, A Comparative Study of the Mayas and the Lacandones (1907), Part III",
+        "url": "https://archive.org/details/comparativestudy00tozz"
+      },
+      "license": "Public domain (Tozzer 1907)",
+      "summary": {
+        "en": "Below the earth is the abode of Kisin, the earthquake and god of the underworld, a god of evil. The Yumchacob send down the rain which refreshes the earth; this makes the ground cold and uncomfortable for Kisin, so he makes a wind in the sky to drive away the rain clouds. In metnal live the spirits of those who killed themselves by throwing themselves into a cenote.",
+        "zh": "地下為基辛之居——地震與冥界之神，邪惡之神。諸雨神降下甘霖，大地得潤；然雨令地下陰冷難耐，基辛遂於天中起風，驅散雨雲。自沉於聖井者之靈，即居於此冥界。"
+      },
+      "motifs": [
+        "descent-underworld",
+        "storm-thunder",
+        "taboo-transgression"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Published public-domain ethnography (1907); paraphrase/quote only."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Below the earth is the abode of Kisin, the earthquake and god of the underworld (metnal). He is a god of evil. The Yumchacob send down the rain which refreshes the earth. This makes the ground cold and uncomfortable for Kisin, so that he makes a wind in the sky to drive away the rain clouds.",
+          "note": "Condensed from Tozzer (1907), Part III; not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "It is in this underworld that the spirits of those live who have committed suicide by throwing themselves into a cenote, or by some other means. The spirits of all people who die go here for a short time, after which they pass through the several heavens, finally arriving at the seventh, where they live in happiness forever.",
+          "note": "Condensed from Tozzer (1907), Part III; not verbatim."
+        }
+      ],
+      "persons": [
+        "kisin"
+      ]
+    },
+    {
+      "id": "maya-lacandon-usukun",
+      "title": {
+        "en": "Usukun: The Brother Kept Apart",
+        "zh": "烏蘇昆：被隔開的兄弟"
+      },
+      "tradition": "maya",
+      "category": "myth",
+      "region": {
+        "en": "Lake Petha region, Chiapas",
+        "zh": "恰帕斯佩塔湖地區"
+      },
+      "lat": 16.5,
+      "lon": -90.9,
+      "period": "Recorded 1901-03 (Tozzer fieldwork), published 1907",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Alfred M. Tozzer, A Comparative Study of the Mayas and the Lacandones (1907), Part II",
+        "url": "https://archive.org/details/comparativestudy00tozz"
+      },
+      "license": "Public domain (Tozzer 1907)",
+      "summary": {
+        "en": "The second brother of Nohochakyum is Usukun — 'his older brother'. He lives in a cave, has the earthquake Kisin as his servant, and is not of good intention. His idol is always placed apart from the rest, as if its presence would be harmful near the braseros of the other gods; yet it is not neglected but placated with offerings of food and drink.",
+        "zh": "諾霍查庫姆的次兄名烏蘇昆——意即「其兄」。他居於洞穴，以地震神基辛為僕，居心不良。其神像常與他神分開，彷彿近他神之香爐則有害；然其像亦非被忽略，仍以飲食祭品安撫之。"
+      },
+      "motifs": [
+        "taboo-transgression",
+        "boon-curse",
+        "idol-contest"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Published public-domain ethnography (1907); paraphrase/quote only."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The second brother, according to age, is called Usukun, which in Maya means his older brother. He is thus named in respect to Nohochakyum. This god lives in a cave. He has the earthquake, Kisin, as his servant, and is not of good intention.",
+          "note": "Condensed from Tozzer (1907), Part II; not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "His idol is usually found, however, in every collection of the sacred ollas, but it is always placed apart from the rest, as if its presence would be harmful when in the vicinity of the braseros of the other gods. The idol of Usukun is not neglected, however, but it is placated with offerings of food and drink as are those of the other gods.",
+          "note": "Condensed from Tozzer (1907), Part II; not verbatim."
+        }
+      ],
+      "persons": [
+        "kisin",
+        "hachakyum"
+      ]
+    },
+    {
+      "id": "maya-lacandon-akna-birth",
+      "title": {
+        "en": "Akna, the Mother: Goddess of Childbirth",
+        "zh": "阿克納之母：生育女神"
+      },
+      "tradition": "maya",
+      "category": "myth",
+      "region": {
+        "en": "Yaxchilan, Usumacinta River, Chiapas",
+        "zh": "恰帕斯烏蘇馬辛塔河亞希蘭"
+      },
+      "lat": 16.9,
+      "lon": -90.87,
+      "period": "Recorded 1901-03 (Tozzer fieldwork), published 1907",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Alfred M. Tozzer, A Comparative Study of the Mayas and the Lacandones (1907), Part II",
+        "url": "https://archive.org/details/comparativestudy00tozz"
+      },
+      "license": "Public domain (Tozzer 1907)",
+      "summary": {
+        "en": "Next in importance to the four brothers is the goddess Akna, the Mother — mother of certain of the lesser gods and goddess of childbirth. Prayers and offerings are made to her especially on the birth of a child; when serving in this capacity she is called Ixsel — the same deity the early authorities record as goddess of medicine and of childbirth.",
+        "zh": "地位僅次於四兄弟者為女神阿克納——「母」，為某些小神之母，亦是生育女神。凡產子之時，祈禱與祭品尤敬於她；當此之時其名為伊希塞爾——即早期文獻所記掌醫藥與生育的女神。"
+      },
+      "motifs": [
+        "miraculous-birth",
+        "divine-marriage",
+        "prayer"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Published public-domain ethnography (1907); paraphrase/quote only."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Next in importance to the four brothers is the goddess Akna (the mother). She is considered the mother of certain of the lesser gods as Nohochakyum is the father of many of the gods. Akna is the goddess of childbirth. Prayers and offerings are made especially to her on the birth of a child. When serving in this capacity she is called Ixsel. This is the same deity mentioned by the early authorities as goddess of medicine and of childbirth.",
+          "note": "Condensed from Tozzer (1907), Part II; not verbatim."
+        }
+      ],
+      "persons": [
+        "ixchel"
+      ]
+    },
+    {
+      "id": "maya-lacandon-eclipse-rites",
+      "title": {
+        "en": "When the Sun Is Ill: Eclipse Rites of the Lacandones",
+        "zh": "太陽患病之時：拉坎敦的蝕祭"
+      },
+      "tradition": "maya",
+      "category": "myth",
+      "region": {
+        "en": "Lake Petha region, Chiapas",
+        "zh": "恰帕斯佩塔湖地區"
+      },
+      "lat": 16.5,
+      "lon": -90.9,
+      "period": "Recorded 1901-03 (Tozzer fieldwork), published 1907",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Alfred M. Tozzer, A Comparative Study of the Mayas and the Lacandones (1907), Part II",
+        "url": "https://archive.org/details/comparativestudy00tozz"
+      },
+      "license": "Public domain (Tozzer 1907)",
+      "summary": {
+        "en": "When there is an eclipse of the sun it is said that Nohochakyum is ill; rites are held and offerings made to the gods, every one abstains from secular work, and each family remains in its own home for the period of the eclipse. An eclipse of the moon is a less serious event: it is a sign that the daughter of Nohochakyum is ill.",
+        "zh": "日蝕之時，人言諾霍查庫姆患病；遂舉行祭儀、向神獻供，人人停止俗務，蝕期各家閉戶自守。月蝕則較輕：那只是諾霍查庫姆之女患病的兆頭。"
+      },
+      "motifs": [
+        "sun-capture",
+        "taboo-transgression"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Published public-domain ethnography (1907); paraphrase/quote only."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "When there is an eclipse of the sun, it is said that Nohochakyum is ill. Rites are held and offerings are made to the gods. Every one abstains from secular work of all kinds, and each family remains in their own home during the period of an eclipse. All kinds of animals may be freely eaten.",
+          "note": "Condensed from Tozzer (1907), Part II; not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "An eclipse of the moon is a less serious event. It is regarded as a sign that the daughter of Nohochakyum is ill. A rite is celebrated as in the case of an eclipse of the sun — the sun belongs to the great lord, and the moon to his child.",
+          "note": "Condensed from Tozzer (1907), Part II; not verbatim."
+        }
+      ],
+      "persons": [
+        "hachakyum"
+      ]
+    },
+    {
+      "id": "maya-lacandon-idol-divination",
+      "title": {
+        "en": "Asking the Stone: Divination for the Idol's Journey",
+        "zh": "問石：為神像之旅占卜"
+      },
+      "tradition": "maya",
+      "category": "myth",
+      "region": {
+        "en": "Lake Petha region, Chiapas",
+        "zh": "恰帕斯佩塔湖地區"
+      },
+      "lat": 16.5,
+      "lon": -90.9,
+      "period": "Recorded 1901-03 (Tozzer fieldwork), published 1907",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Alfred M. Tozzer, A Comparative Study of the Mayas and the Lacandones (1907), Part II",
+        "url": "https://archive.org/details/comparativestudy00tozz"
+      },
+      "license": "Public domain (Tozzer 1907)",
+      "summary": {
+        "en": "A god may only be brought home as an idol after he has shown himself willing: the father or oldest son of the settlement performs two acts of divination, one with a strip from the leaf of a palm, chanting as a necessary part of the rite, to learn whether the god consents to come and exert his beneficent influence over the encampment.",
+        "zh": "唯有神明自願，方能以神像迎入家中：由聚落的父親或長子行兩種占卜之一——以棕櫚葉條為器，誦禱為祭禮必需——以知神是否允諾降臨，施福於此營地。"
+      },
+      "motifs": [
+        "oracle-divination",
+        "sacred-place",
+        "sacred-stone",
+        "idol-contest"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Published public-domain ethnography (1907); paraphrase/quote only. Living ritual — describe respectfully."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "There are two methods of divination by which it may be ascertained whether or not a god is willing to have his idol placed in the sacred hut, thus showing his consent to come and exert a beneficent influence over the encampment in question. These acts of divination may only be performed by the father or oldest son of the settlement, and it is only they and their direct line who understand the rite. Chanting is a necessary part to this ceremony of divination.",
+          "note": "Condensed from Tozzer (1907), Part II; not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "One of these rites is performed with a strip from the leaf of a palm, and a part of the detached leaf is burned; the god answers in the fall and pattern of the strip. Only those gods are represented in an encampment to whose shrine a pilgrimage has been made and a stone either carved or otherwise brought back — journeys which cannot be made at will, but only after the god has shown himself willing.",
+          "note": "Condensed from Tozzer (1907), Part II; not verbatim."
+        }
+      ],
+      "persons": [
+        "hachakyum"
+      ]
+    },
+    {
+      "id": "maya-yucatec-four-epochs",
+      "title": {
+        "en": "The Four Epochs: Dwarfs in Darkness and the Cut Rope",
+        "zh": "四紀元：黑暗中的侏儒與斷繩"
+      },
+      "tradition": "maya",
+      "category": "myth",
+      "region": {
+        "en": "Valladolid, Yucatan, Mexico",
+        "zh": "墨西哥猶加敦巴利亞多利德"
+      },
+      "lat": 20.69,
+      "lon": -88.2,
+      "period": "Recorded 1901-03 (Tozzer fieldwork among the Mayas of Yucatan), published 1907",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Alfred M. Tozzer, A Comparative Study of the Mayas and the Lacandones (1907), Part III: Religion of the Mayas of Yucatan",
+        "url": "https://archive.org/details/comparativestudy00tozz"
+      },
+      "license": "Public domain (Tozzer 1907)",
+      "summary": {
+        "en": "This world is in its fourth period. In the first epoch lived the Saiyam-koob, the Adjusters: dwarfs who built the ruins in darkness before there was any sun, and turned to stone when the sun appeared. From Tuloom and Coba to Chichen Itza and Uxmal there ran a road suspended in the sky — a living rope with blood flowing in the middle, by which food was sent to the ancient rulers — until it was cut, and the rope vanished forever. Three more floods separate the epochs.",
+        "zh": "今世已歷四紀。第一紀元住著賽亞姆-庫布，即「調整者」：一群侏儒，在日出之前的黑暗中建造了遺址，日出即化為石。自圖盧姆與科巴至奇琴伊察與烏斯馬爾，懸於天空有一條路——一根有血於中流的活繩，古人由此向遺址中的君王輸送食物——繩斷之後，永不再現。其後三場洪水分隔諸紀。"
+      },
+      "motifs": [
+        "world-renewal",
+        "flood",
+        "clay-humans",
+        "prophetic-vision"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Published public-domain ethnography (1907); paraphrase/quote only."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "According to the information obtained from the Mayas in the vicinity of Valladolid, this world is now in the fourth period of its existence. In the first epoch there lived the Saiyamwinkoob, the Adjusters. These composed the primitive race of Yucatan. They were dwarfs and were the ones who built the ruins. This work was all done in darkness before there was any sun. As soon as the sun appeared, these people turned to stone. Their images are found to-day in many of the ruins.",
+          "note": "Condensed from Tozzer (1907), Part III; not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "It was at this period that there was a road suspended in the sky, stretching from Tuloom and Coba to Chichen Itza and Uxmal. This pathway was called the white road. It was in the nature of a large rope supposed to be living, and in the middle flowed blood. It was by this rope that the food was sent to the ancient rulers who lived in the structures now in ruins. For some reason this rope was cut, the blood flowed out, and the rope vanished forever.",
+          "note": "Condensed from Tozzer (1907), Part III; not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "This first epoch was separated from the second by a flood, water over the earth. In the second period of the history of the earth there lived the Offenders. Again a flood destroyed the greater part of the world, after which the Mayas of the present time came into power. Still again there was a flood which gave way to the fourth period. In this last epoch there is a mixture of all the previous peoples inhabiting Yucatan.",
+          "note": "Condensed from Tozzer (1907), Part III; not verbatim."
+        }
+      ],
+      "persons": [
+        "hachakyum",
+        "kisin"
+      ],
+      "language": "Spanish/Yucatec Maya field interviews",
+      "canonical_translation": "Tozzer, A Comparative Study of the Mayas and the Lacandones (1907)",
+      "narrative": {
+        "en": "Tozzer's third part records the cosmology of the Maya of Valladolid as told in field interviews around 1900 — a complete world-ages cycle surviving under the surface of Catholic language. The world is now in its fourth period. In the first epoch lived the Saiyam-winkoob, the Adjusters, the primitive race of Yucatán: dwarfs who built the great ruins in darkness, before there was any sun, and who turned to stone when the sun first appeared — their images are the stone figures still standing in the ruins. In that epoch a road was suspended in the sky, stretching from Tuloom and Coba to Chichén Itzá and Uxmal: the sacbe, the white road, described as a living rope with blood flowing in its middle, by which food was sent up to the ancient rulers. For some reason the rope was cut; the blood flowed out and the rope vanished forever — the mythic image of a covenant between heaven and earth broken.\n\nThe first epoch was separated from the second by a flood called 'water over the earth'. In the second period lived the Oolob, the Offenders; again a flood destroyed the greater part of the world, after which the Mayas of the present time came into power; and still again a flood gave way to the fourth period, in which all previous peoples are mixed. The Catholic priests, Tozzer notes, took advantage of this belief to teach that in the last flood all spirits of the race were killed except three who escaped in a canoe — Dios Yumbil, Dios Mehenbil, and Dios Espirito Santo, the Trinity in Maya terms. Above the earth are seven heavens, each with a hole in the center one directly above the other; a giant ceiba growing in the exact center of the earth rears its branches through the successive holes to the seventh, where 'El Gran Dios' lives; by this tree, or by a ladder of vines through the same holes, the spirits of the dead ascend from world to world until they reach the topmost heaven and remain.\n\nThe record belongs to the cross-tradition cluster of world ages ending in flood (Hindu yugas, Norse Ragnarök cycles, Aztec suns) and of humans molded and remade — the dwarfs who became stone are the Maya counterpart of petrification myths worldwide. Its ritual function is calendrical and moral: epochs end, each flood is a judgment on the epoch's offenders, and the present age is understood as mixed and therefore fragile; the ascending ceiba explains the funerary rites by which food is set on the grave to provision the spirit's climb."
+      },
+      "functions": [
+        "Explains ruins as the stone bodies of the sun-blind dwarf builders",
+        "Frames the present as the fourth, mixed epoch, with three floods behind and judgment ahead",
+        "Charter of the seven-heaven ascent and of grave offerings provisioning the soul's climb"
+      ],
+      "variants": [
+        {
+          "name": "Aztec Five Suns",
+          "text_tradition": "Codex Vaticanus A / Historia de los Mexicanos por sus pinturas",
+          "summary": "Successive creations each ended by flood or destruction, the present sun being the fifth — the Mesoamerican analog of the four epochs.",
+          "cross_ref": "none"
+        },
+        {
+          "name": "Popol Wuj creation sequence",
+          "text_tradition": "Popol Vuh (Brasseur 1861)",
+          "summary": "Successive failed creations of mud, wood, and maize parallel the epochal 'peoples' who fail in each age.",
+          "cross_ref": "maya-popolvuh-mud-people"
+        }
+      ],
+      "primary_sources": [
+        {
+          "work": "Tozzer field interviews among the Maya of Valladolid",
+          "citation": "Tozzer, 1907, Part III, pp. 154-155",
+          "language": "Yucatec Maya / Spanish"
+        }
+      ],
+      "secondary_sources": [
+        {
+          "work": "Alfred M. Tozzer, A Comparative Study of the Mayas and the Lacandones",
+          "citation": "Tozzer, 1907, New York: Macmillan"
+        },
+        {
+          "work": "David Freidel, Linda Schele, Joy Parker, Maya Cosmos",
+          "citation": "Freidel, Schele & Parker, 1993, New York: William Morrow"
+        }
+      ],
+      "source_urls": [
+        {
+          "url": "https://archive.org/details/comparativestudy00tozz",
+          "description": "Tozzer 1907 comparative study (scan)",
+          "accessed": "2026-11-14"
+        }
+      ],
+      "sensitivity_flag": "living_tradition_low",
+      "sensitivity_guidance": "This is living Yucatec cosmology collected as folklore; treat as living doctrine and avoid reducing it to 'mere legend'.",
+      "provenance": {
+        "record_status": "complete",
+        "compiled": "2026-11-14",
+        "compiled_by": "DHG508 fieldwork compilation",
+        "review_status": "draft - pending human review"
+      }
+    },
+    {
+      "id": "maya-yucatec-ceiba-heavens",
+      "title": {
+        "en": "The Giant Ceiba Through the Seven Heavens",
+        "zh": "貫穿七重天的巨大木棉"
+      },
+      "tradition": "maya",
+      "category": "myth",
+      "region": {
+        "en": "Valladolid, Yucatan, Mexico",
+        "zh": "墨西哥猶加敦巴利亞多利德"
+      },
+      "lat": 20.69,
+      "lon": -88.2,
+      "period": "Recorded 1901-03 (Tozzer fieldwork), published 1907",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Alfred M. Tozzer, A Comparative Study of the Mayas and the Lacandones (1907), Part III",
+        "url": "https://archive.org/details/comparativestudy00tozz"
+      },
+      "license": "Public domain (Tozzer 1907)",
+      "summary": {
+        "en": "There are seven heavens above the earth, each with a hole in the center, one directly above the other. A giant ceiba growing in the exact center of the earth rears its branches through the successive holes until it reaches the seventh, where El Gran Dios lives; by this tree the dead spirits ascend from one world to the other until they reach the topmost one. A cenote lies directly beneath the sacred tree, and a hawk lives in the topmost branch — the spirit of the tree.",
+        "zh": "地上有七重天，各天中央有一孔，層層直上。一株巨木棉生於大地正中，枝幹依次穿過諸孔，直抵第七重天——西班牙人的大上帝居於彼處；亡靈即沿此樹自一界攀至另一界，直至最高一層而止。聖樹正下方有一聖井，最高枝上棲一鷹，即樹之靈。"
+      },
+      "motifs": [
+        "ascension",
+        "sacred-place",
+        "transformation",
+        "world-tree",
+        "cosmic-mountain"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Published public-domain ethnography (1907); paraphrase/quote only."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "According to the natives of Yucatan, there are seven heavens above the earth, each of which has a hole in the center, one directly above the other. According to one idea, a giant ceiba growing in the exact center of the earth rears its branches through the successive holes in the heavens until it reaches the seventh, where 'El Gran Dios' of the Spaniards lives. It is by means of this tree that the dead spirits ascend from one world to the other until they reach the topmost one, where they finally remain.",
+          "note": "Condensed from Tozzer (1907), Part III; not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Another explanation is that there is a ladder made of vines running from the earth up through the holes in the heavens to the seventh, and it is by this vine that the souls ascend. One ceiba was supposed to have grown in Valladolid: it was cut down, but it grew again and had four branches, one for each of the cardinal points. A cenote was directly beneath the tree, and a hawk lived in the topmost branch, the spirit of the tree; the bird's cry was the name given to the town.",
+          "note": "Condensed from Tozzer (1907), Part III; not verbatim."
+        }
+      ],
+      "persons": [
+        "hachakyum",
+        "itzamna"
+      ]
+    },
+    {
+      "id": "maya-yucatec-balam-guardians",
+      "title": {
+        "en": "The Yum Balamob: Guardians at the Four Crosses",
+        "zh": "尤姆·巴拉姆：四十字口的守護者"
+      },
+      "tradition": "maya",
+      "category": "myth",
+      "region": {
+        "en": "Valladolid, Yucatan, Mexico",
+        "zh": "墨西哥猶加敦巴利亞多利德"
+      },
+      "lat": 20.69,
+      "lon": -88.2,
+      "period": "Recorded 1901-03 (Tozzer fieldwork), published 1907",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Alfred M. Tozzer, A Comparative Study of the Mayas and the Lacandones (1907), Part III",
+        "url": "https://archive.org/details/comparativestudy00tozz"
+      },
+      "license": "Public domain (Tozzer 1907)",
+      "summary": {
+        "en": "In the first heaven above the earth live the Yum Balamob, for the special protection of Christians. Invisible by day, they are awake at night, seated at the crosses set up at the entrances of the pueblos — four of them, one for each cardinal point, mounting guard over the town. The worked obsidian flakes scattered over Yucatan are their tools: they cut through the wind with them and signal to their companions at the other entrances.",
+        "zh": "第一重天上住著尤姆·巴拉姆，專司庇護基督徒。晝間隱形，夜間醒著，坐於鎮口所立十字架旁——共四位，各鎮一方，輪值守衛全鎮。猶加敦散落的黑曜石片即其工具：他們以之切風為聲，向各口同僚傳訊。"
+      },
+      "motifs": [
+        "sacred-place",
+        "culture-hero",
+        "theophany",
+        "invisibility"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Published public-domain ethnography (1907); paraphrase/quote only."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "In the first heaven above the earth lived the Yumbalamob. They are for the special protection of 'cristianos'. They are invisible during the day, but at night they are awake and remain seated at the crosses set up at the entrance of the pueblos. There are four of the Yumbalamob, one for each of the cardinal points. They mount guard over the town and protect the people from the animals of the forest and other dangers.",
+          "note": "Condensed from Tozzer (1907), Part III; not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "The pieces of worked obsidian often found throughout Yucatan are supposed to have been used by the Balamob to cut through the wind, and by the sounds thus produced to make signs to their companions stationed at the other entrances to the town. These obsidian flakes are also used to hurl at animals who are about to attack men.",
+          "note": "Condensed from Tozzer (1907), Part III; not verbatim."
+        }
+      ],
+      "persons": [
+        "hachakyum"
+      ]
+    },
+    {
+      "id": "maya-yucatec-rain-gods-riders",
+      "title": {
+        "en": "The Rain Gods Ride: Whips, Arrows, and Thrown Cigars",
+        "zh": "雨神騎行：鞭、箭與拋棄的雪茄"
+      },
+      "tradition": "maya",
+      "category": "myth",
+      "region": {
+        "en": "Valladolid, Yucatan, Mexico",
+        "zh": "墨西哥猶加敦巴利亞多利德"
+      },
+      "lat": 20.69,
+      "lon": -88.2,
+      "period": "Recorded 1901-03 (Tozzer fieldwork), published 1907",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Alfred M. Tozzer, A Comparative Study of the Mayas and the Lacandones (1907), Part III",
+        "url": "https://archive.org/details/comparativestudy00tozz"
+      },
+      "license": "Public domain (Tozzer 1907)",
+      "summary": {
+        "en": "The rain gods rush everywhere in the storm; the thunder is the drum that announces their coming, and the lightning is the whip with which they lash their horses. They carry bows and arrows and often fell trees in their journeys — the arrowheads found in the forest. And the comets are explained as the cigars being thrown away by the rain gods.",
+        "zh": "風雨之時，雨神們馳騁四野；雷是其來臨的鼓聲，閃電是抽打坐騎的鞭子。他們持弓帶箭，途中每每伐倒大樹——林中所見的箭鏃即其遺留。而彗星，便是雨神拋棄的雪茄。"
+      },
+      "motifs": [
+        "storm-thunder",
+        "theophany",
+        "trickster"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Published public-domain ethnography (1907); paraphrase/quote only."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The gods of rain, Yumchacob, are said to be rushing everywhere in a storm, and they use the thunder to announce their coming. The lightning is the whip with which they lash their horses. The rain gods carry bows and arrows and often fell trees in their journeys; sometimes the points of their arrows are found in the midst of the forest. This is the explanation given when a meteorite is found.",
+          "note": "Condensed from Tozzer (1907), Part III; not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "The Yumchacob are great smokers. Comets are explained as the cigars which are being thrown away by the rain gods. As among the Lacandones, both the sun and his consort, the moon, are regarded as servants of the main god: the deities themselves never do any real work, and as the sun and moon are continually in motion, they cannot be regarded as anything more than servants.",
+          "note": "Condensed from Tozzer (1907), Part III; not verbatim."
+        }
+      ],
+      "persons": [
+        "chac"
+      ]
+    },
+    {
+      "id": "maya-yucatec-eclipse-noise",
+      "title": {
+        "en": "Biting the Sun: The Noise of the Eclipse",
+        "zh": "咬日：蝕時之喧"
+      },
+      "tradition": "maya",
+      "category": "myth",
+      "region": {
+        "en": "Yucatan, Mexico",
+        "zh": "墨西哥猶加敦"
+      },
+      "lat": 20.6,
+      "lon": -89.0,
+      "period": "Recorded 1901-03 (Tozzer fieldwork); Cogolludo 1688; published 1907",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Alfred M. Tozzer, A Comparative Study of the Mayas and the Lacandones (1907), Part III; Diego Lopez de Cogolludo, Historia de Yucathan (1688)",
+        "url": "https://archive.org/details/comparativestudy00tozz"
+      },
+      "license": "Public domain (Tozzer 1907; Cogolludo 1688)",
+      "summary": {
+        "en": "When the sun or moon is in eclipse, it is believed that an evil being is biting them. A great noise is made to frighten the animal away, and the children are struck so that they will cry. Cogolludo recorded the same tradition in 1688: at eclipses the Indians make their dogs howl, pinch them, and beat the boards, benches and doors, saying that the moon is dying or is being stung by a kind of ant called Xulab.",
+        "zh": "日蝕或月蝕之時，人們相信有邪物正咬噬日月。於是制造巨響以驅其獸，並拍打孩童令其啼哭。科戈柳多1688年即記此俗：蝕時印第安人使犬哀嚎、擰其身、擊板凳門扉，言月亮垂死，或正被一種名為蘇拉布的蟻叮咬。"
+      },
+      "motifs": [
+        "sun-capture",
+        "taboo-transgression"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Published public-domain ethnography; paraphrase/quote only."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "When the sun or moon is in eclipse, it is believed that an evil being is biting them. A great noise is made to frighten the animal away. The children are struck so that they will cry. No trace of this idea can be found among the Lacandones; the belief that a great noise must be made is found among the Mexicans, and its origin may possibly be traced to them.",
+          "note": "Condensed from Tozzer (1907), Part III; not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Cogolludo (1688) records the same tradition: 'In the eclipses of Sun and Moon they use, by tradition of their ancestors, to make their dogs howl or cry out, pinching their body or ears, and give blows on the boards, benches and doors. They say the Moon is dying, or is being stung by a kind of ant that they call Xulab.'",
+          "note": "Condensed from Cogolludo, Historia de Yucathan (1688), Bk. IV, ch. 4, as quoted in Tozzer (1907); not verbatim."
+        }
+      ],
+      "persons": [
+        "kisin"
+      ]
+    },
+    {
+      "id": "maya-yucatec-pulahob-clay-figure",
+      "title": {
+        "en": "The Clay Figure in the Doorway: Trial by Witchcraft",
+        "zh": "門檻下的黏土人：巫審"
+      },
+      "tradition": "maya",
+      "category": "myth",
+      "region": {
+        "en": "Yucatan, Mexico",
+        "zh": "墨西哥猶加敦"
+      },
+      "lat": 20.6,
+      "lon": -89.0,
+      "period": "Recorded 1901-03 (Tozzer fieldwork), published 1907",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Alfred M. Tozzer, A Comparative Study of the Mayas and the Lacandones (1907), Part III",
+        "url": "https://archive.org/details/comparativestudy00tozz"
+      },
+      "license": "Public domain (Tozzer 1907)",
+      "summary": {
+        "en": "If a man is suspected of murder and the murdered man's family want him tried, one of the pulahob — the witch-spirits — is invoked: a small human figure of clay is made, a thorn placed in its head or heart, and it is secretly buried in the doorway of the suspect's hut. As he passes over it he becomes ill; if he is guilty he dies, otherwise he recovers.",
+        "zh": "若有人涉嫌謀殺，而死者家屬欲究其罪，便召喚普拉霍布巫靈之一：塑一小黏土人，置荊刺於其頭或心，秘密埋於嫌疑者的門檻之下。他跨過之時即病；若有罪則死，無罪則癒。"
+      },
+      "motifs": [
+        "oracle-divination",
+        "taboo-transgression",
+        "boon-curse"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Published public-domain ethnography (1907); paraphrase/quote only."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The Pulahoob are a class of spirits corresponding to our idea of witches. They are employed to work evil toward wrongdoers. Their power can be exerted only over evil. If a person is supposed to be a murderer, and the family of the murdered man want him killed if he be the guilty one, one of the hechiceros (pulahoob) is invoked, and a small human figure in clay is made. In this effigy a thorn is placed either in the head or heart. This is then secretly buried in the doorway of the supposed murderer's hut.",
+          "note": "Condensed from Tozzer (1907), Part III; not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "As he passes over it, he immediately becomes ill. If the man in question is guilty, he dies; otherwise he recovers. If one desires to send fever to punish a wrongdoer, chili is rubbed on the clay figure to be buried; and the guilty one who eats the poisoned food vomits forth tarantulas, snakes, earth, ashes, and pieces of crystal, and finally dies in great agony — while the innocent suffer no harm.",
+          "note": "Condensed from Tozzer (1907), Part III; not verbatim."
+        }
+      ],
+      "persons": [
+        "kisin"
+      ]
+    },
+    {
+      "id": "maya-yucatec-stabai-demons",
+      "title": {
+        "en": "The Stabai in the Forks of Trees",
+        "zh": "樹杈間的斯塔拜"
+      },
+      "tradition": "maya",
+      "category": "myth",
+      "region": {
+        "en": "Yucatan, Mexico",
+        "zh": "墨西哥猶加敦"
+      },
+      "lat": 20.6,
+      "lon": -89.0,
+      "period": "Recorded 1901-03 (Tozzer fieldwork), published 1907",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Alfred M. Tozzer, A Comparative Study of the Mayas and the Lacandones (1907), Part III",
+        "url": "https://archive.org/details/comparativestudy00tozz"
+      },
+      "license": "Public domain (Tozzer 1907)",
+      "summary": {
+        "en": "Stabai is a name used by Lacandones and Mayas alike. Among the Mayas it is the name given to a class of demons of snake form living in caves; they lie in wait, ready to spring out in human form and capture men, carrying them into the underworld or throwing them into a cenote. They are sometimes female in form, sitting in the forks of trees combing their hair.",
+        "zh": "斯塔拜之名，拉坎敦人與馬雅人皆用。於馬雅人，乃指居於洞穴的蛇形惡靈一類；它們潛伏待機，化人形躍出擒人，或攜入冥界，或投之聖井。其形有時為女子，坐於樹杈之間梳理長髮。"
+      },
+      "motifs": [
+        "descent-underworld",
+        "transformation",
+        "taboo-transgression"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Published public-domain ethnography (1907); paraphrase/quote only."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Stabai is a term used both by the Lacandones and the Mayas, both now and at the time of the Conquest. It is given by Brasseur de Bourbourg as a god of the chase. Among the Lacandones it is a goddess residing in the rocks of the forest. Among the Mayas it is the name given to a class of demons of snake form living in caves.",
+          "note": "Condensed from Tozzer (1907), Part III; not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "They lie in wait, ready to spring out in human form and capture men. These they carry into the underworld, or throw them into a cenote. They are sometimes female in form, and sit in the forks of trees combing their hair. The Yoyolche are in the same class as the stabai: each of their steps is half a league in length; they walk in the night and shake the houses as they pass.",
+          "note": "Condensed from Tozzer (1907), Part III; not verbatim."
+        }
+      ],
+      "persons": [
+        "kisin"
+      ]
+    }
+  ]
+}

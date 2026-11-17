@@ -1,0 +1,927 @@
+{
+ "texts": [
+  {
+   "id": "babylonian-sargon-birth",
+   "title": {
+    "en": "The Birth of Sargon",
+    "zh": "薩爾貢誕生記"
+   },
+   "tradition": "babylonian",
+   "category": "myth",
+   "region": {
+    "en": "River of Azupiranu to Akkad (symbolic pin)",
+    "zh": "自阿祖皮拉努之河至阿卡德（象徵性定位）"
+   },
+   "lat": 32.5,
+   "lon": 45.0,
+   "period": "Neo-Assyrian copy of an Old Babylonian legend, c. 2300 BCE tradition (Rogers translation 1912)",
+   "source": {
+    "archive": "Internet Archive",
+    "work": "Cuneiform Parallels to the Old Testament, 'The Legend of Sargon, King of Agade', trans. Robert W. Rogers (1912)",
+    "url": "https://archive.org/details/cuneiformparall00rogegoog"
+   },
+   "license": "Public domain (translation 1912)",
+   "summary": {
+    "en": "Sargon, the mighty king of Akkad, tells his own birth: his mother the temple priestess conceived in secret, bore him in hiding, and set him in a reed basket caulked with bitumen on the river — the foundling drawn from the water by Akki, and Ishtar made him king.",
+    "zh": "阿卡德偉王薩爾貢自述誕生：其母為神廟女祭司，暗中受孕、隱匿產子，以瀝青封葦籃置於河中——汲水者阿克基將他自水中撈起，伊什塔爾立其為王。"
+   },
+   "motifs": [
+    "foundational-legend",
+    "miraculous-birth",
+    "sacred-kingship"
+   ],
+   "sensitivity": {
+    "restricted": false,
+    "note": "Ancient royal legend; no living community restrictions."
+   },
+   "passages": [
+    {
+     "id": "1",
+     "text": "Sargon, the mighty king of Agade, speaks: my mother was a temple priestess, my father I knew not; she conceived me in secret, bore me in hiding, and set me in a basket of reeds caulked with bitumen, and gave me to the river.",
+     "note": "Paraphrase of the Sargon birth legend (Rogers 1912); not verbatim."
+    },
+    {
+     "id": "2",
+     "text": "The river bore me and did not sink me; Akki the drawer of water lifted me and reared me as his son — I was a gardener, and Ishtar made me king: I reigned over the black-headed people, and my kingship rose like the flood-tide.",
+     "note": "Paraphrase of the Sargon birth legend (Rogers 1912); not verbatim."
+    }
+   ],
+   "persons": [
+    "sargon",
+    "ishtar"
+   ],
+   "functions": [
+    "Type-scene of the exposed foundling hero",
+    "Imperial legend of the first empire's founder",
+    "Political charter of Ishtar's choice of kings"
+   ],
+   "variants": [
+    {
+     "name": "Moses in the bulrushes",
+     "text_tradition": "Hebrew",
+     "summary": "The biblical parallel of the basket-foundling.",
+     "cross_ref": "none"
+    },
+    {
+     "name": "Sargon Chronicle (empire)",
+     "text_tradition": "Akkadian (Rogers 1912)",
+     "summary": "The chronicle tradition of his campaigns.",
+     "cross_ref": "babylonian-sargon-empire"
+    }
+   ],
+   "language": "Akkadian",
+   "canonical_translation": "Robert W. Rogers, 1912",
+   "primary_sources": [
+    {
+     "work": "The Legend of Sargon, King of Agade",
+     "citation": "trans. Robert W. Rogers (1912)",
+     "language": "Akkadian"
+    }
+   ],
+   "secondary_sources": [
+    {
+     "work": "A History of Sumer and Akkad",
+     "citation": "L. W. King, London, 1910, ch. on Sargon"
+    }
+   ],
+   "source_urls": [
+    {
+     "url": "https://archive.org/details/cuneiformparall00rogegoog",
+     "description": "Rogers 1912 translations",
+     "accessed": "2026-11-14"
+    }
+   ],
+   "sensitivity_flag": "none",
+   "provenance": {
+    "record_status": "complete",
+    "compiled": "2026-11-14",
+    "compiled_by": "opencode myth-collection session",
+    "review_status": "unreviewed"
+   }
+  },
+  {
+   "id": "babylonian-sargon-empire",
+   "title": {
+    "en": "The Chronicle of Sargon's Empire",
+    "zh": "薩爾貢帝國編年史"
+   },
+   "tradition": "babylonian",
+   "category": "myth",
+   "region": {
+    "en": "Akkad to the Upper Sea, Iraq",
+    "zh": "自阿卡德至上海（伊拉克）"
+   },
+   "lat": 33.0,
+   "lon": 44.5,
+   "period": "Late Babylonian chronicle of early kings (Rogers translation 1912)",
+   "source": {
+    "archive": "Internet Archive",
+    "work": "Cuneiform Parallels to the Old Testament, 'Chronicle concerning Sargon', trans. Robert W. Rogers (1912)",
+    "url": "https://archive.org/details/cuneiformparall00rogegoog"
+   },
+   "license": "Public domain (translation 1912)",
+   "summary": {
+    "en": "The chronicle remembers the first empire: Sargon of Agade, King of Battle, who overthrew the city of Uruk, smote the men of Ur, took Lagash, washed his weapons in the Gulf, and marched to the Upper Sea — the world's first known imperial program in narrative.",
+    "zh": "編年史記載首個帝國：阿卡德的薩爾貢，戰陣之王——破烏魯克、擊烏爾、取拉加什，於波斯灣洗其兵器，復進軍上海——世上最早的帝國敘事。"
+   },
+   "motifs": [
+    "foundational-legend",
+    "sacred-kingship"
+   ],
+   "sensitivity": {
+    "restricted": false,
+    "note": "Ancient chronicle; no living community restrictions."
+   },
+   "passages": [
+    {
+     "id": "1",
+     "text": "Sargon, King of Battle, overthrew the city of Uruk in battle, smote the men of Ur, took Lagash and wept over its ruin; he washed his weapons in the Gulf and marched his armies to the Upper Sea.",
+     "note": "Paraphrase of the Chronicle concerning Sargon (Rogers 1912); not verbatim."
+    },
+    {
+     "id": "2",
+     "text": "The chronicle's program is the empire's: land from sea to sea under one king, tribute from the lands, and the memory that the first empire was built by a foundling gardener made king by Ishtar.",
+     "note": "Paraphrase of the Chronicle concerning Sargon (Rogers 1912); not verbatim."
+    }
+   ],
+   "persons": [
+    "sargon",
+    "ishtar"
+   ],
+   "functions": [
+    "Imperial program narrative",
+    "Standard of kingship for later empires"
+   ],
+   "variants": [
+    {
+     "name": "Sargon King of Battle (Purushanda)",
+     "text_tradition": "Akkadian (later Hittite copies)",
+     "summary": "The western legend of his campaign to Anatolia.",
+     "cross_ref": "none"
+    }
+   ],
+   "language": "Akkadian",
+   "canonical_translation": "Robert W. Rogers, 1912",
+   "primary_sources": [
+    {
+     "work": "Chronicle concerning Sargon",
+     "citation": "trans. Robert W. Rogers (1912)",
+     "language": "Akkadian"
+    }
+   ],
+   "secondary_sources": [
+    {
+     "work": "A History of Sumer and Akkad",
+     "citation": "L. W. King, London, 1910"
+    }
+   ],
+   "source_urls": [
+    {
+     "url": "https://archive.org/details/cuneiformparall00rogegoog",
+     "description": "Rogers 1912 translations",
+     "accessed": "2026-11-14"
+    }
+   ],
+   "sensitivity_flag": "none",
+   "provenance": {
+    "record_status": "complete",
+    "compiled": "2026-11-14",
+    "compiled_by": "opencode myth-collection session",
+    "review_status": "unreviewed"
+   }
+  },
+  {
+   "id": "babylonian-naramsin-cutha",
+   "title": {
+    "en": "The Cuthean Legend: Naram-Sin and the Horde",
+    "zh": "庫薩傳說：納拉姆辛與妖群"
+   },
+   "tradition": "babylonian",
+   "category": "myth",
+   "region": {
+    "en": "Cutha, Iraq",
+    "zh": "庫薩（伊拉克）"
+   },
+   "lat": 32.093,
+   "lon": 44.58,
+   "period": "Old Babylonian composition on Akkad events, c. 1800 BCE (George Smith translation 1876)",
+   "source": {
+    "archive": "Project Gutenberg",
+    "work": "The Chaldean Account of Genesis, 'Tablet from Cutha', George Smith (1876)",
+    "url": "https://www.gutenberg.org/ebooks/60559"
+   },
+   "license": "Public domain (translation 1876)",
+   "summary": {
+    "en": "Three kings consulted omens and would not march; Naram-Sin, hearing of the horde suckled by Tiamat — men with the bodies of birds and the instincts of ravening wolves — asks the gods and gets no answer, and goes anyway: his first army is eaten.",
+    "zh": "三王占卜不吉而按兵不動；納拉姆辛聞妖群之訊——其民受提亞馬特哺育，體如鳥、性如貪狼——問神而無答，遂逕自出征：第一支大軍盡被吞食。"
+   },
+   "motifs": [
+    "oracle-divination",
+    "taboo-transgression",
+    "sacred-kingship"
+   ],
+   "sensitivity": {
+    "restricted": false,
+    "note": "Ancient legend; no living community restrictions."
+   },
+   "passages": [
+    {
+     "id": "1",
+     "text": "Three kings before him consulted the omens and would not march; Naram-Sin, hearing of the horde suckled by Tiamat — men with the bodies of birds and the instincts of ravening wolves — asks the gods and receives no answer, and goes anyway.",
+     "note": "Paraphrase of the Cuthean legend (George Smith 1876); not verbatim."
+    },
+    {
+     "id": "2",
+     "text": "His first army is eaten, brigade by brigade, in the mountains where no road ran; the legend's terror is that the gods' silence itself is the answer.",
+     "note": "Paraphrase of the Cuthean legend (George Smith 1876); not verbatim."
+    }
+   ],
+   "persons": [
+    "naram-sin",
+    "tiamat"
+   ],
+   "functions": [
+    "Political theology of omens and restraint",
+    "Monster-horde legend of the eastern mountains"
+   ],
+   "variants": [
+    {
+     "name": "Mackenzie's retelling",
+     "text_tradition": "English (Mackenzie 1915)",
+     "summary": "The popular retelling of the same legend.",
+     "cross_ref": "none"
+    }
+   ],
+   "language": "Akkadian",
+   "canonical_translation": "George Smith, 1876",
+   "primary_sources": [
+    {
+     "work": "Cuthean Legend of Naram-Sin",
+     "citation": "trans. George Smith (1876), 'Tablet from Cutha'",
+     "language": "Akkadian"
+    }
+   ],
+   "secondary_sources": [
+    {
+     "work": "Myths of Babylonia and Assyria",
+     "citation": "Donald A. Mackenzie, London, 1915, ch. on Sargon and Naram-Sin"
+    }
+   ],
+   "source_urls": [
+    {
+     "url": "https://www.gutenberg.org/ebooks/60559",
+     "description": "George Smith 1876",
+     "accessed": "2026-11-14"
+    }
+   ],
+   "sensitivity_flag": "none",
+   "provenance": {
+    "record_status": "complete",
+    "compiled": "2026-11-14",
+    "compiled_by": "opencode myth-collection session",
+    "review_status": "unreviewed"
+   }
+  },
+  {
+   "id": "babylonian-naramsin-victory",
+   "title": {
+    "en": "Naram-Sin's Second March",
+    "zh": "納拉姆辛二度出征"
+   },
+   "tradition": "babylonian",
+   "category": "myth",
+   "region": {
+    "en": "Mountains beyond the lowlands, Iraq",
+    "zh": "低地之外群山（伊拉克）"
+   },
+   "lat": 35.0,
+   "lon": 46.0,
+   "period": "Old Babylonian composition on Akkad events, c. 1800 BCE (George Smith translation 1876)",
+   "source": {
+    "archive": "Project Gutenberg",
+    "work": "The Chaldean Account of Genesis, 'Tablet from Cutha', George Smith (1876)",
+    "url": "https://www.gutenberg.org/ebooks/60559"
+   },
+   "license": "Public domain (translation 1876)",
+   "summary": {
+    "en": "Having lost an army, Naram-Sin repents and waits; the horde comes down to the lowlands, and this time the king strikes as the omens finally favor him — the enemy is broken in one day, and the lesson is written for kings to come.",
+    "zh": "喪師之後，納拉姆辛懺悔並靜候；妖群下山入低地，此時吉兆終現，國王雷霆出擊——一戰破敵，教訓書於泥板，以警後世君王。"
+   },
+   "motifs": [
+    "sacred-kingship",
+    "oracle-divination"
+   ],
+   "sensitivity": {
+    "restricted": false,
+    "note": "Ancient legend; no living community restrictions."
+   },
+   "passages": [
+    {
+     "id": "1",
+     "text": "Naram-Sin repents and waits; when the horde comes down to the lowlands the omens finally favor him, and the king strikes: the enemy is broken in a single day.",
+     "note": "Paraphrase of the Cuthean legend (George Smith 1876); not verbatim."
+    },
+    {
+     "id": "2",
+     "text": "The lesson is written for kings to come: the god's word first, then the sword — restraint honored, the demon host defeated by the king who learned to listen.",
+     "note": "Paraphrase of the Cuthean legend (George Smith 1876); not verbatim."
+    }
+   ],
+   "persons": [
+    "naram-sin"
+   ],
+   "functions": [
+    "Kingship manual of omen-first warfare",
+    "Resolution of the restraint theology"
+   ],
+   "variants": [
+    {
+     "name": "Naram-Sin's first march",
+     "text_tradition": "Akkadian (George Smith 1876)",
+     "summary": "The rash march that opened the legend.",
+     "cross_ref": "babylonian-naramsin-cutha"
+    }
+   ],
+   "language": "Akkadian",
+   "canonical_translation": "George Smith, 1876",
+   "primary_sources": [
+    {
+     "work": "Cuthean Legend of Naram-Sin",
+     "citation": "trans. George Smith (1876)",
+     "language": "Akkadian"
+    }
+   ],
+   "secondary_sources": [
+    {
+     "work": "A History of Sumer and Akkad",
+     "citation": "L. W. King, London, 1910"
+    }
+   ],
+   "source_urls": [
+    {
+     "url": "https://www.gutenberg.org/ebooks/60559",
+     "description": "George Smith 1876",
+     "accessed": "2026-11-14"
+    }
+   ],
+   "sensitivity_flag": "none",
+   "provenance": {
+    "record_status": "complete",
+    "compiled": "2026-11-14",
+    "compiled_by": "opencode myth-collection session",
+    "review_status": "unreviewed"
+   }
+  },
+  {
+   "id": "babylonian-naramsin-wisdom",
+   "title": {
+    "en": "The Fool of Kings Learns Wisdom",
+    "zh": "愚王習智"
+   },
+   "tradition": "babylonian",
+   "category": "myth",
+   "region": {
+    "en": "Cutha, Iraq",
+    "zh": "庫薩（伊拉克）"
+   },
+   "lat": 32.093,
+   "lon": 44.58,
+   "period": "Old Babylonian composition on Akkad events, c. 1800 BCE (George Smith translation 1876)",
+   "source": {
+    "archive": "Project Gutenberg",
+    "work": "The Chaldean Account of Genesis, 'Tablet from Cutha', George Smith (1876)",
+    "url": "https://www.gutenberg.org/ebooks/60559"
+   },
+   "license": "Public domain (translation 1876)",
+   "summary": {
+    "en": "The legend closes in the first person of a humbled king: I was a fool of kings — I trusted my own strength — let no king consult omens rashly, and let no king go where the gods have not spoken: the confession that became a school text.",
+    "zh": "傳說以受挫君王的自述作結：「我曾為諸王中之愚者——只信自身之力。」願後世君王勿輕率占卜，勿往神未發言之處——這份懺悔遂成學校教材。"
+   },
+   "motifs": [
+    "parable-teaching",
+    "wisdom-sacrifice",
+    "sacred-kingship"
+   ],
+   "sensitivity": {
+    "restricted": false,
+    "note": "Ancient legend; no living community restrictions."
+   },
+   "passages": [
+    {
+     "id": "1",
+     "text": "The legend closes in the first person of a humbled king: I was a fool of kings — I trusted my own strength and went where the gods had not spoken.",
+     "note": "Paraphrase of the Cuthean legend (George Smith 1876); not verbatim."
+    },
+    {
+     "id": "2",
+     "text": "The confession became a school text: let no king consult omens rashly, and let no king go where the gods have not spoken — wisdom bought with an army and taught to every scribe.",
+     "note": "Paraphrase of the Cuthean legend (George Smith 1876); not verbatim."
+    }
+   ],
+   "persons": [
+    "naram-sin"
+   ],
+   "functions": [
+    "School text of royal humility",
+    "Wisdom gained through loss"
+   ],
+   "variants": [
+    {
+     "name": "A man and his god",
+     "text_tradition": "Sumerian (ETCSL c.5.2.4)",
+     "summary": "The sufferer's parallel wisdom.",
+     "cross_ref": "sumerian-man-god"
+    }
+   ],
+   "language": "Akkadian",
+   "canonical_translation": "George Smith, 1876",
+   "primary_sources": [
+    {
+     "work": "Cuthean Legend of Naram-Sin",
+     "citation": "trans. George Smith (1876)",
+     "language": "Akkadian"
+    }
+   ],
+   "secondary_sources": [
+    {
+     "work": "The Epic of Gilgamesh",
+     "citation": "Andrew George, London, 1999, on the Cuthean legend"
+    }
+   ],
+   "source_urls": [
+    {
+     "url": "https://www.gutenberg.org/ebooks/60559",
+     "description": "George Smith 1876",
+     "accessed": "2026-11-14"
+    }
+   ],
+   "sensitivity_flag": "none",
+   "provenance": {
+    "record_status": "complete",
+    "compiled": "2026-11-14",
+    "compiled_by": "opencode myth-collection session",
+    "review_status": "unreviewed"
+   }
+  },
+  {
+   "id": "babylonian-nabonidus-sin",
+   "title": {
+    "en": "Nabonidus and the Moon God of Harran",
+    "zh": "那波尼德與哈蘭月神"
+   },
+   "tradition": "babylonian",
+   "category": "myth",
+   "region": {
+    "en": "Harran to Babylon (symbolic pin at Harran, Turkey)",
+    "zh": "自哈蘭至巴比倫（象徵性定位於哈蘭）"
+   },
+   "lat": 36.864,
+   "lon": 39.026,
+   "period": "Nabonidus inscriptions and chronicle, c. 550 BCE (Rogers translation 1912)",
+   "source": {
+    "archive": "Internet Archive",
+    "work": "Cuneiform Parallels to the Old Testament, ch. XI on Nabonidus, trans. Robert W. Rogers (1912)",
+    "url": "https://archive.org/details/cuneiformparall00rogegoog"
+   },
+   "license": "Public domain (translation 1912)",
+   "summary": {
+    "en": "Sin of Harran had been forgotten since the Marduk priesthood's neglect; Nabonidus, chosen by a dream of the moon god, rebuilds his ruined temple in the west — and rules Babylon from Arabia for ten years: the last king's theological revolution.",
+    "zh": "自馬爾杜克祭司怠慢以來，哈蘭月神辛久遭遺忘；那波尼德因月神託夢而受選，於西陲重建其傾頹神廟——並以阿拉伯為治所統治巴比倫十年：末代君王的神學革命。"
+   },
+   "motifs": [
+    "sacred-kingship",
+    "prophetic-vision",
+    "foundational-legend"
+   ],
+   "sensitivity": {
+    "restricted": false,
+    "note": "Ancient royal inscription; no living community restrictions."
+   },
+   "passages": [
+    {
+     "id": "1",
+     "text": "Sin of Harran had been forgotten since the priests of Marduk's neglect; Nabonidus, chosen by a dream of the moon god and the word of the oracle, rebuilds his ruined temple in the west.",
+     "note": "Paraphrase of Nabonidus inscriptions (Rogers 1912); not verbatim."
+    },
+    {
+     "id": "2",
+     "text": "The king rules Babylon from Arabia for ten years, restoring the moon god's honor above the absent Marduk — the last Babylonian king's theological revolution, ended by Cyrus at the gates.",
+     "note": "Paraphrase of Nabonidus inscriptions and chronicle (Rogers 1912); not verbatim."
+    }
+   ],
+   "persons": [
+    "nanna-suen",
+    "marduk"
+   ],
+   "functions": [
+    "Last royal theology of Babylon",
+    "Dream-oracle charter of kingship",
+    "Historical horizon of the Mesopotamian temple state"
+   ],
+   "variants": [
+    {
+     "name": "Cyrus cylinder account",
+     "text_tradition": "Akkadian (Johns 1904 era translations)",
+     "summary": "The Persian counter-narrative of Marduk's judgment.",
+     "cross_ref": "none"
+    }
+   ],
+   "language": "Akkadian",
+   "canonical_translation": "Robert W. Rogers, 1912",
+   "primary_sources": [
+    {
+     "work": "Nabonidus inscriptions and the Nabonidus Chronicle",
+     "citation": "as translated in Rogers (1912), ch. XI",
+     "language": "Akkadian"
+    }
+   ],
+   "secondary_sources": [
+    {
+     "work": "A History of Sumer and Akkad",
+     "citation": "L. W. King, London, 1910, on late chronology"
+    }
+   ],
+   "source_urls": [
+    {
+     "url": "https://archive.org/details/cuneiformparall00rogegoog",
+     "description": "Rogers 1912 translations",
+     "accessed": "2026-11-14"
+    }
+   ],
+   "sensitivity_flag": "none",
+   "provenance": {
+    "record_status": "complete",
+    "compiled": "2026-11-14",
+    "compiled_by": "opencode myth-collection session",
+    "review_status": "unreviewed"
+   }
+  },
+  {
+   "id": "babylonian-hammurabi-justice",
+   "title": {
+    "en": "Hammurabi Receives the Law",
+    "zh": "漢謨拉比受法"
+   },
+   "tradition": "babylonian",
+   "category": "myth",
+   "region": {
+    "en": "Sippar temple of Shamash, Iraq",
+    "zh": "西帕爾沙瑪什神殿（伊拉克）"
+   },
+   "lat": 33.124,
+   "lon": 44.264,
+   "period": "Code of Hammurabi stele, c. 1750 BCE (Johns translation 1904)",
+   "source": {
+    "archive": "Project Gutenberg",
+    "work": "Babylonian and Assyrian Laws, Contracts and Letters, Code of Hammurabi prologue, C. H. W. Johns (1904)",
+    "url": "https://www.gutenberg.org/ebooks/28674"
+   },
+   "license": "Public domain (translation 1904)",
+   "summary": {
+    "en": "The stele's prologue tells the myth of the code: Anu and Enlil named Hammurabi to make justice shine, and Shamash, the sun of judgment, grants him the law — the king standing before the god on the stone, receiving the rod and ring.",
+    "zh": "石碑序言講述法典之神話：安努與恩利爾命漢謨拉比弘揚正義；沙瑪什——審判之日神——授之以法。石上國王立於神前，受權杖與環。"
+   },
+   "motifs": [
+    "sacred-kingship",
+    "theophany",
+    "ritual-origin"
+   ],
+   "sensitivity": {
+    "restricted": false,
+    "note": "Ancient royal inscription; no living community restrictions."
+   },
+   "passages": [
+    {
+     "id": "1",
+     "text": "Anu and Enlil named Hammurabi, the mighty prince, to make justice shine in the land: to destroy the wicked, that the strong harm not the weak — the prologue's myth of the code.",
+     "note": "Paraphrase of the Code of Hammurabi prologue (Johns 1904); not verbatim."
+    },
+    {
+     "id": "2",
+     "text": "Shamash, the sun of judgment, grants the law; the stele shows the king standing before the seated god, receiving the rod and ring — the image of legislation as revelation.",
+     "note": "Paraphrase of the stele's imagery (Johns 1904); not verbatim."
+    }
+   ],
+   "persons": [
+    "utu",
+    "anu",
+    "enlil"
+   ],
+   "functions": [
+    "Charter of legislation as divine revelation",
+    "Icon of the justice-kingship fusion"
+   ],
+   "variants": [
+    {
+     "name": "Shamash hymns",
+     "text_tradition": "Akkadian (Jastrow 1898)",
+     "summary": "The theological ground of the witnessed oath.",
+     "cross_ref": "babylonian-shamash-justice"
+    }
+   ],
+   "language": "Akkadian",
+   "canonical_translation": "C. H. W. Johns, 1904",
+   "primary_sources": [
+    {
+     "work": "Code of Hammurabi, prologue",
+     "citation": "trans. C. H. W. Johns (1904)",
+     "language": "Akkadian"
+    }
+   ],
+   "secondary_sources": [
+    {
+     "work": "The Religion of Babylonia and Assyria",
+     "citation": "Morris Jastrow Jr., Boston, 1898"
+    }
+   ],
+   "source_urls": [
+    {
+     "url": "https://www.gutenberg.org/ebooks/28674",
+     "description": "Johns 1904",
+     "accessed": "2026-11-14"
+    }
+   ],
+   "sensitivity_flag": "none",
+   "provenance": {
+    "record_status": "complete",
+    "compiled": "2026-11-14",
+    "compiled_by": "opencode myth-collection session",
+    "review_status": "unreviewed"
+   }
+  },
+  {
+   "id": "babylonian-uruk-wall",
+   "title": {
+    "en": "Gilgamesh Built the Wall",
+    "zh": "吉爾伽美什築城"
+   },
+   "tradition": "mesopotamian",
+   "category": "myth",
+   "region": {
+    "en": "Wall of Uruk, Iraq",
+    "zh": "烏魯克城牆（伊拉克）"
+   },
+   "lat": 31.324,
+   "lon": 45.637,
+   "period": "Standard Babylonian epic prologue, c. 1200 BCE (Wilson/Muss-Arnolt translation 1901)",
+   "source": {
+    "archive": "Project Gutenberg",
+    "work": "Babylonian and Assyrian Literature, 'The Epic of Ishtar and Izdubar', prologue, trans. Muss-Arnolt (1901)",
+    "url": "https://www.gutenberg.org/ebooks/10887"
+   },
+   "license": "Public domain (translation 1901)",
+   "summary": {
+    "en": "Climb the wall of Uruk and walk upon it: the brickwork is burnt brick and the foundation the sages laid — not the inner sanctuary but the wall is the monument of the king who saw everything and wrote his story on a tablet of lapis.",
+    "zh": "登上烏魯克城牆，漫步其上：牆磚為燒磚，根基乃先賢所奠——王的紀念碑不是內殿而是城牆；他閱盡萬事，將自己的故事刻於青金石泥板。"
+   },
+   "motifs": [
+    "foundational-legend",
+    "sacred-place",
+    "quest-immortality"
+   ],
+   "sensitivity": {
+    "restricted": false,
+    "note": "Ancient epic prologue; no living community restrictions."
+   },
+   "passages": [
+    {
+     "id": "1",
+     "text": "Climb the wall of Uruk and walk upon it: the brickwork is burnt brick, the foundation the sages laid — the wall is the monument of the king who saw everything.",
+     "note": "Paraphrase of the Gilgamesh epic prologue (Muss-Arnolt 1901); not verbatim."
+    },
+    {
+     "id": "2",
+     "text": "And the story: all that he suffered and achieved is written on a tablet of lapis and set in a box of cedar — read it, says the prologue; the man who lost everything won the only immortality literature grants.",
+     "note": "Paraphrase of the Gilgamesh epic prologue (Muss-Arnolt 1901); not verbatim."
+    }
+   ],
+   "persons": [
+    "gilgamesh"
+   ],
+   "functions": [
+    "Frame narrative of the epic as authored monument",
+    "Founding statement of literature as immortality"
+   ],
+   "variants": [
+    {
+     "name": "Uruk archaeological wall",
+     "text_tradition": "History (archaeology)",
+     "summary": "The real wall survives in the mound of Warka.",
+     "cross_ref": "none"
+    }
+   ],
+   "language": "Akkadian",
+   "canonical_translation": "Muss-Arnolt, 1901",
+   "primary_sources": [
+    {
+     "work": "Epic of Gilgamesh (SB), prologue",
+     "citation": "trans. Muss-Arnolt (1901)",
+     "language": "Akkadian"
+    }
+   ],
+   "secondary_sources": [
+    {
+     "work": "The Epic of Gilgamesh",
+     "citation": "Andrew George, London, 1999, on the prologue"
+    }
+   ],
+   "source_urls": [
+    {
+     "url": "https://www.gutenberg.org/ebooks/10887",
+     "description": "Muss-Arnolt's 1901 epic translation",
+     "accessed": "2026-11-14"
+    }
+   ],
+   "sensitivity_flag": "none",
+   "provenance": {
+    "record_status": "complete",
+    "compiled": "2026-11-14",
+    "compiled_by": "opencode myth-collection session",
+    "review_status": "unreviewed"
+   }
+  },
+  {
+   "id": "mesopotamian-akitu-festival",
+   "title": {
+    "en": "The Akitu: New Year of the World",
+    "zh": "阿基圖：新年慶典"
+   },
+   "tradition": "mesopotamian",
+   "category": "myth",
+   "region": {
+    "en": "Processional way and Esagila, Babylon, Iraq",
+    "zh": "遊行大道與埃薩吉拉，巴比倫（伊拉克）"
+   },
+   "lat": 32.536,
+   "lon": 44.421,
+   "period": "New Babylonian festival, first millennium BCE (Jastrow 1898)",
+   "source": {
+    "archive": "Project Gutenberg",
+    "work": "The Religion of Babylonia and Assyria, the New Year festival, Morris Jastrow (1898)",
+    "url": "https://www.gutenberg.org/ebooks/20758"
+   },
+   "license": "Public domain (1898)",
+   "summary": {
+    "en": "Eleven days: Marduk leaves the city and is met at the Akitu house; the epic of creation is recited on the fourth day; on the fifth the king is stripped and struck by the priest — my lord, I have not sinned — and the gods assemble for the determination of fates.",
+    "zh": "歷時十一日：馬爾杜克出城，於阿基圖之舍相迎；第四日誦創世史詩；第五日國王被剝冠受祭司掌擊——「吾主，我未犯罪」——眾神齊聚，定來年命運。"
+   },
+   "motifs": [
+    "ritual-origin",
+    "world-renewal",
+    "sacred-kingship"
+   ],
+   "sensitivity": {
+    "restricted": false,
+    "note": "Ancient festival reconstruction; no living community restrictions."
+   },
+   "passages": [
+    {
+     "id": "1",
+     "text": "Eleven days: Marduk leaves the city and is met at the Akitu house; on the fourth day the epic of creation is recited; on the fifth the king is stripped of his regalia and struck by the priest — my lord, I have not sinned.",
+     "note": "Paraphrase of the New Year festival liturgy (Jastrow 1898); not verbatim."
+    },
+    {
+     "id": "2",
+     "text": "On the ninth day the gods assemble for the determination of fates; the king grasps the hand of Marduk and his kingship is renewed — the year begins only when the world's order is reaffirmed in ritual.",
+     "note": "Paraphrase of the festival liturgy (Jastrow 1898); not verbatim."
+    }
+   ],
+   "persons": [
+    "marduk"
+   ],
+   "functions": [
+    "Annual reaffirmation of cosmic order",
+    "Ritual context of the creation epic's performance",
+    "Kingship renewal rite of humiliation and re-investiture"
+   ],
+   "variants": [
+    {
+     "name": "Enuma Elish recitation rite",
+     "text_tradition": "Babylonian ritual (Jastrow 1898)",
+     "summary": "The fourth-day performance of the epic.",
+     "cross_ref": "mesopotamian-akitu-enuma-recitation"
+    }
+   ],
+   "language": "Akkadian",
+   "canonical_translation": "Morris Jastrow Jr., 1898",
+   "primary_sources": [
+    {
+     "work": "New Year festival liturgy (Akitu/Zagmuk)",
+     "citation": "as reconstructed in Jastrow (1898)",
+     "language": "Akkadian"
+    }
+   ],
+   "secondary_sources": [
+    {
+     "work": "The Treasures of Darkness",
+     "citation": "Thorkild Jacobsen, New Haven, 1976, on the New Year"
+    }
+   ],
+   "source_urls": [
+    {
+     "url": "https://www.gutenberg.org/ebooks/20758",
+     "description": "Jastrow 1898",
+     "accessed": "2026-11-14"
+    }
+   ],
+   "sensitivity_flag": "none",
+   "provenance": {
+    "record_status": "complete",
+    "compiled": "2026-11-14",
+    "compiled_by": "opencode myth-collection session",
+    "review_status": "unreviewed"
+   }
+  },
+  {
+   "id": "mesopotamian-akitu-enuma-recitation",
+   "title": {
+    "en": "Reciting Creation on the Fourth Day",
+    "zh": "第四日誦創世"
+   },
+   "tradition": "mesopotamian",
+   "category": "myth",
+   "region": {
+    "en": "Esagila, Babylon, Iraq",
+    "zh": "埃薩吉拉神殿，巴比倫（伊拉克）"
+   },
+   "lat": 32.536,
+   "lon": 44.421,
+   "period": "New Babylonian ritual, first millennium BCE (Jastrow 1898)",
+   "source": {
+    "archive": "Project Gutenberg",
+    "work": "The Religion of Babylonia and Assyria, Enuma Elish recitation, Morris Jastrow (1898)",
+    "url": "https://www.gutenberg.org/ebooks/20758"
+   },
+   "license": "Public domain (1898)",
+   "summary": {
+    "en": "On the fourth day of the New Year the priest recites the whole of Enuma Elish: the recitation is itself the rite — by telling the making of the world again, the world is made again; and the fifty names are taught to the firstborn.",
+    "zh": "新年第四日，祭司全文誦讀《埃努瑪·埃利什》：誦讀本身即是儀式——重述創世，即再造世界；五十名號傳授於長子。"
+   },
+   "motifs": [
+    "ritual-origin",
+    "creation-chaos",
+    "sacred-kingship"
+   ],
+   "sensitivity": {
+    "restricted": false,
+    "note": "Ancient ritual; no living community restrictions."
+   },
+   "passages": [
+    {
+     "id": "1",
+     "text": "On the fourth day of the New Year the priest recites the whole of Enuma Elish: the recitation is itself the rite — by telling the making of the world again, the world is made again.",
+     "note": "Paraphrase of the Enuma Elish recitation rite (Jastrow 1898); not verbatim."
+    },
+    {
+     "id": "2",
+     "text": "And the fifty names are taught to the firstborn: let the father teach the son, says the epic's close — the myth transmitted as the performance that renews the cosmos.",
+     "note": "Paraphrase of the rite (Jastrow 1898); not verbatim."
+    }
+   ],
+   "persons": [
+    "marduk"
+   ],
+   "functions": [
+    "Recitation as re-creation rite",
+    "Transmission rule of the myth through generations"
+   ],
+   "variants": [
+    {
+     "name": "Enuma Elish",
+     "text_tradition": "Akkadian (Muss-Arnolt 1901)",
+     "summary": "The epic itself, whose performance this rite is.",
+     "cross_ref": "babylonian-enuma-apsu-tiamat"
+    }
+   ],
+   "language": "Akkadian",
+   "canonical_translation": "Morris Jastrow Jr., 1898",
+   "primary_sources": [
+    {
+     "work": "Enuma Elish recitation rite",
+     "citation": "as reconstructed in Jastrow (1898)",
+     "language": "Akkadian"
+    }
+   ],
+   "secondary_sources": [
+    {
+     "work": "The Treasures of Darkness",
+     "citation": "Thorkild Jacobsen, New Haven, 1976"
+    }
+   ],
+   "source_urls": [
+    {
+     "url": "https://www.gutenberg.org/ebooks/20758",
+     "description": "Jastrow 1898",
+     "accessed": "2026-11-14"
+    }
+   ],
+   "sensitivity_flag": "none",
+   "provenance": {
+    "record_status": "complete",
+    "compiled": "2026-11-14",
+    "compiled_by": "opencode myth-collection session",
+    "review_status": "unreviewed"
+   }
+  }
+ ]
+}

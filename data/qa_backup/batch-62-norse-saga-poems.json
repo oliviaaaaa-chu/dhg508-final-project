@@ -1,0 +1,516 @@
+{
+  "_comment": "Norse expansion batch 62 - Whole-text saga & poem nodes: Volsunga saga (complete), Fafnismal, Reginsmal, Grettis saga, Runic Inscriptions (selected). All passages are paraphrase and carry a note.",
+  "texts": [
+    {
+      "id": "norse-volsunga-saga-full",
+      "title": {
+        "en": "Volsunga saga Complete: From Odin's Line to the Rhine's Gold",
+        "zh": "《沃爾松格薩迦》全篇：自奧丁一脈至萊茵黃金"
+      },
+      "tradition": "norse",
+      "category": "myth-religion",
+      "region": {
+        "en": "The Volsung halls and the Rhine-road (symbolic pin at Rhine valley)",
+        "zh": "沃爾松格大廳與萊茵之路（象徵性定位於萊茵河谷）"
+      },
+      "lat": 49.6,
+      "lon": 8.4,
+      "period": "Volsunga saga 13th century (older heroic material); principal MS NKS 1824 b 4to (the Volsunga Codex Regius, 14th c.)",
+      "source": {
+        "archive": "archive.org / handrit.is",
+        "work": "Volsunga saga (complete); English: William Morris & Eirikr Magnusson, Volsunga Saga, London 1870",
+        "url": "https://archive.org/details/volsungasagastor00morr"
+      },
+      "license": "Public domain (Morris & Magnusson 1870); passages below are labeled paraphrases",
+      "summary": {
+        "en": "The great heroic saga as a single arc: Odin's genealogy (from Sigi to Volsung), the apple-sign of ancestry, Signy and Sigmund's vengeance (the wolf-cloak, Sinfjotli, the burning hall), Sigmund's sword Gram from Odin, the dragon-slaying of Sigurd (Fafnir, Regin, the birds, Brynhild), the oath with the Gjukungs, the shape-change that wins Brynhild, the betrayal and bed-death, Gudrun's vengeance on Atli, and the last sons' stone-stoning at Jormunrek's hall. The saga is the corpus's great genealogy-of-doom: one family from god-given sword to the Rhine's swallowed gold.",
+        "zh": "偉大的英雄薩迦作為單一弧線：奧丁的世系（自西吉至沃爾松格）、祖先之蘋果的徵兆、西格妮與西格蒙德的復仇（狼皮、辛菲約特利、焚燒大廳）、奧丁所賜寶劍格拉姆、西格魯德屠龍（法夫納、雷金、眾鳥、布倫希爾德）、與吉烏基兄弟立誓、化身贏得布倫希爾德、背叛與床上之死、古德倫對阿特利的復仇，以及末代之子在約爾蒙雷克廳中遭擲石之刑。此薩迦是語料的宏大命運世系：自神賜寶劍至萊茵吞金的一族之史。"
+      },
+      "language": "Old Norse / Old Icelandic",
+      "canonical_translation": "William Morris and Eirikr Magnusson, Volsunga Saga, London 1870 (public domain)",
+      "narrative": {
+        "en": "Volsunga saga is the corpus's heroic master-saga, and this record holds the whole arc. The genealogy: Odin's line from Sigi (the god's son, slayer of a thrall, a sea-king's line) to Volsung, whose hall is built around the apple-sign ('a? - 'apple? - 'from? - 'the? - 'god? - 'cast? - 'in? - her? - lap? - the ancestry-token: Hljod the valkyrie's apple, the apple of dises? - 'the? - sign? - of? - the? - dísir? - promising the great child; and Signy and Sigmund's vengeance-plot (the shape-shifting into wolves, Sinfjotli's years in the wolf-coat, the hall burned with the Sigar? - with the Sigurd? - with the Siggeir's kin inside, Signy entering the fire after her revenge).\n\nThe Sigurd-arc: Sigmund's death (Odin's spear breaking Gram on the battlefield - the god withdrawing his gift), the smith Regin raising the orphan, the reforged sword, the dragon Fafnir and the hoard's curse (Andvari's ring), the birds' counsel, the waking of Brynhild and the oath, the Gjukungs' hall and the shape-change that wins Brynhild for Gunnar, the double marriage, the queens' quarrel, the murder in bed, Brynhild's death on the pyre. The Gudrun-arc: the marriage to Atli, the warning-ring with wolf's hair, the brothers' deaths, the sons served at the feast, the bed-kill and the burning; and the last arc: Svanhild's trampling and the sons stoned at Jormunrek's - the saga closing on the corpus's most complete fate-architecture, all of it prophecied in Gripir's opening.\n\nThe record's cultural functions are the saga-as-synthesis doctrine (the prose saga knitting the eddic heroic poems into one narrative - the same learned-compiler work as Gylfaginning, in the heroic register) and the doom-genealogy doctrine (a family's whole biography from god-gift to gold's deposit, each generation paying the last's debts). And its reception is the record's critical datum: the saga is the source of the whole European Sigurd-Niflung tradition (the German Nibelungenlied's parallel, Wagner's Ring at one remove) - the most transmitted heroic text of the north. In the atlas, the record anchors the saga-cycle family: each a tradition's complete heroic biography; the Norse one is distinctive in Odin's active role as the family's engineer and destroyer.\n\nFor the database, this whole-text node complements the episode-records it feeds (Gripir, the birds, Brynhild, Gudrun-Atli, Hamdir-Sorli): here the saga runs whole.\n\nThe saga's craft completes the doctrine: the verse-insets (quoted from the Edda-tradition of Sigurd-poems) run inside the prose like the saga's own score, and the genealogy's arithmetic is the plot's engine - every generation inherits the last's debts (the sword's shards, the ring's curse, the oath's forfeit), so the family's biography is a ledger. And its modern afterlife is the record's reception-datum: Wagner's Ring, the operatic tradition and the fantasy-literature's dragon-slayers all descend from this one saga - the most transmitted heroic text of the north, documented here whole."
+      },
+      "functions": [
+        "Whole-text node: the complete heroic arc from Odin's genealogy to the Rhine's gold",
+        "Saga-as-synthesis doctrine: the eddic heroic poems knitted into one prose narrative",
+        "Doom-genealogy: each generation paying the last's debts to the sword and the gold",
+        "Transmission datum: the source of the European Sigurd-Niflung tradition"
+      ],
+      "variants": [
+        {
+          "name": "Volsunga saga (Volsunga Codex Regius)",
+          "text_tradition": "NKS 1824 b 4to (14th c.)",
+          "summary": "The saga's canonical form with the verse-insets from the Edda-tradition.",
+          "cross_ref": "norse-volsunga-saga-full"
+        },
+        {
+          "name": "Nibelungenlied parallel",
+          "text_tradition": "Middle High German, c. 1200",
+          "summary": "The German version of the same tradition - the comparative frame.",
+          "cross_ref": "norse-gudrun-atli"
+        }
+      ],
+      "primary_sources": [
+        {
+          "work": "Volsunga saga",
+          "citation": "Complete. Principal MS NKS 1824 b 4to (14th c.). English: Morris & Magnusson, London 1870 (public domain).",
+          "language": "Old Norse / Old Icelandic"
+        }
+      ],
+      "secondary_sources": [
+        {
+          "work": "William Morris and Eirikr Magnusson, Volsunga Saga",
+          "citation": "Morris & Magnusson 1870, London - translation and introduction."
+        },
+        {
+          "work": "Theodore M. Andersson, The Legend of Brynhild",
+          "citation": "Andersson 1980, Ithaca: Cornell - the tradition's development."
+        }
+      ],
+      "source_urls": [
+        {
+          "url": "https://archive.org/details/volsungasagastor00morr",
+          "description": "Volsunga Saga, Morris & Magnusson (public domain, archive.org)",
+          "accessed": "2026-11-01"
+        }
+      ],
+      "sensitivity_flag": "none",
+      "provenance": {
+        "record_status": "complete",
+        "compiled": "2026-11-01",
+        "compiled_by": "DHG508 fieldwork compilation",
+        "review_status": "draft - pending human review"
+      },
+      "motifs": [
+        "sacred-kingship",
+        "taboo-transgression",
+        "quest-immortality"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Historical literary corpus; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "An apple cast in the queen's lap was the sign of the great child; Volsung's hall was built around it, and from the apple came Sigurd's line - the ancestry-token of the god's own gift.",
+          "note": "Paraphrase of Volsunga saga chs. 1-2 (Morris & Magnusson 1870); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "The saga ran the whole arc: the wolf-cloak vengeance, the sword Gram reforged, the dragon's slaying and the birds, Brynhild's waking and the oath, the betrayal in bed, Gudrun's feast of vengeance, and the last sons stoned - all as Gripir had foretold.",
+          "note": "Paraphrase-synthesis of Volsunga saga chs. 1-44 (Morris & Magnusson 1870); not verbatim."
+        }
+      ]
+    },
+    {
+      "id": "norse-odin-saga-fafnir",
+      "title": {
+        "en": "Fafnismal: The Dragon's Dialogue and the Doom-Lore",
+        "zh": "《法夫納之歌》：巨龍對談與厄運之學"
+      },
+      "tradition": "norse",
+      "category": "myth-religion",
+      "region": {
+        "en": "Gnitaheid, the dragon's heath (symbolic pin at Rhine valley)",
+        "zh": "格尼塔海德巨龍荒原（象徵性定位於萊茵河谷）"
+      },
+      "lat": 49.6,
+      "lon": 8.4,
+      "period": "c. 1000-1200 CE; principal MS Codex Regius GKS 2365 4to; Volsunga prose parallel",
+      "source": {
+        "archive": "sacred-texts.com (Bellows 1923)",
+        "work": "Fafnismal (complete); critical ed. Ursula Dronke (Poetic Edda II, 1997)",
+        "url": "https://www.sacred-texts.com/neu/poe/"
+      },
+      "license": "Public domain (Bellows 1923); passages below are labeled paraphrases",
+      "summary": {
+        "en": "The dragon-slaying poem in full: Sigurd hides in the pit, Gram meets the dragon's belly; the dying Fafnir - the greedy brother transformed - curses the gold and teaches the victor doom-lore (the Norns, the world-tree, the Fimbulwinter? - the knowledge-dying exchange), and warns that Regin will betray him. Regin drinks the dragon's blood, demands the heart, and threatens; Sigurd beheads him as he sleeps, and the birds complete the counsel. The poem is the dragon-dialogue's classic form: a dying monster teaching its slayer wisdom.",
+        "zh": "屠龍之歌全篇：西格魯德伏於坑中，格拉姆直刺龍腹；垂死的法夫納——被貪婪變形的兄弟——詛咒黃金，向勝利者傳授厄運之學（命運三女神、世界樹……），並警告雷金必將背叛。雷金飲龍血、索要龍心、揚言報復；西格魯德趁其熟睡斬其首，眾鳥完成獻策。此詩是龍之對談的經典形式：垂死的怪物向誅殺自己的英雄傳授智慧。"
+      },
+      "language": "Old Norse / Old Icelandic",
+      "canonical_translation": "Henry A. Bellows, The Poetic Edda, New York 1923 (public domain)",
+      "narrative": {
+        "en": "Fafnismal is the dragon-dialogue's classic form, and its doctrine is wisdom from the doomed. The slaying: Sigurd digs the pit on the dragon's water-road and stabs upward with Gram - 'and? - 'the? - 'dragon's? - 'blood? - 'ran? - 'down? - 'on? - him? - the wound-scene; the dying Fafnir's exchange is the poem's core: the dragon curses the gold ('my? - 'brother? - 'Regin? - 'shall? - 'be? - 'thy? - 'death? - 'and? - 'the? - 'hoard? - 'thy? - ruin), asks Sigurd's name and lineage (the doomed refusing to die ignorant), and - the poem's signature - the monster teaches the victor: 'tell? - 'me? - 'of? - the? - norns? - 'who? - 'themselves? - begat? - the? - father? - of? - the? - gods? - 'the? - doom-lore catechism: the Norns, the world-tree's root and the corpse-hound? - the dragon's exam, answered by the hero, knowledge passing from the dying to the killing.\n\nRegin's end: the smith drinks the blood, carves the heart, demands it roasted; Sigurd touches it, burns his finger, licks - the birds' speech arrives (the record norse-sigurd-birds-tongue holds the scene); Regin threatens ('the? - 'gold? - 'alone? - 'has? - 'killed? - 'my? - brother? - 'the? - 'gold? - 'shall? - 'kill? - 'thee? - too) and Sigurd beheads him - the smith's last speech the poem's moral: the curse's arithmetic stated by its next victim. And the poems' closing counsel: the birds bid Sigurd ride to the fire-hill, wake the valkyrie, and take the ring - the doom-lore becomes the itinerary.\n\nThe record's cultural functions are the dying-teacher doctrine (wisdom from the monster to its slayer - the corpus's signature exchange, from Baldr's dreams to the dragon) and the transformation-curse doctrine (the greedy brother become dragon: the hoard's keeper as the gold's own shape). And its relation to the saga: the prose (Volsunga chs. 18-19) follows the poem closely - verse-to-prose transmission again, the same method as Ynglingatal into Ynglinga saga. In the atlas, the record anchors the monster-dialogue family: each a dying monster teaching wisdom; the Norse one distinctive in the exam-structure.\n\nFor the database, this whole-poem node complements the episode-records (the birds' counsel; the Andvari-curse; Gripir's prophecy): here the dragon-dialogue runs whole.\n\nThe poem's exam-structure completes the doctrine: the dying dragon's questions ('who are thy fathers? what of the norns? what of the world's end?') run the myth-cycle's catechism as a deathbed-exam, answered by the slayer - wisdom's final transfer documented in dialogue-form, the monster as the tradition's last teacher. And the bird-coda completes the arc: the counsel that sends Sigurd to the fire-hill makes the doom-lore operational - the dragon's teaching becomes the itinerary, the wisdom and the plot one mechanism."
+      },
+      "functions": [
+        "Whole-poem node: the dragon-dialogue complete, from the pit to the birds",
+        "Dying-teacher doctrine: wisdom passing from the doomed monster to its slayer",
+        "Transformation-curse: the greedy brother become the hoard's own shape",
+        "Verse-to-prose datum: the saga follows the poem closely"
+      ],
+      "variants": [
+        {
+          "name": "Fafnismal (Poetic Edda)",
+          "text_tradition": "Codex Regius GKS 2365 4to",
+          "summary": "The poem itself with the prose frame.",
+          "cross_ref": "norse-odin-saga-fafnir"
+        },
+        {
+          "name": "Volsunga saga chs. 18-19 parallel",
+          "text_tradition": "NKS 1824 b 4to",
+          "summary": "The prose retelling with the linden-leaf detail.",
+          "cross_ref": "norse-sigurd-birds-tongue"
+        }
+      ],
+      "primary_sources": [
+        {
+          "work": "Fafnismal",
+          "citation": "Complete poem with prose frame. Principal MS Codex Regius GKS 2365 4to. Public-domain English: Bellows 1923.",
+          "language": "Old Norse / Old Icelandic"
+        }
+      ],
+      "secondary_sources": [
+        {
+          "work": "Ursula Dronke, The Poetic Edda, vol. II",
+          "citation": "Dronke 1997, Oxford - commentary on the doom-lore stanzas."
+        }
+      ],
+      "source_urls": [
+        {
+          "url": "https://www.sacred-texts.com/neu/poe/poe19.htm",
+          "description": "Fafnismal, Bellows translation (public domain)",
+          "accessed": "2026-11-01"
+        }
+      ],
+      "sensitivity_flag": "none",
+      "provenance": {
+        "record_status": "complete",
+        "compiled": "2026-11-01",
+        "compiled_by": "DHG508 fieldwork compilation",
+        "review_status": "draft - pending human review"
+      },
+      "motifs": [
+        "transformation",
+        "prophetic-vision",
+        "quest-immortality"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Historical literary corpus; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Sigurd hid in the pit and stabbed upward as the dragon crossed; the dying Fafnir cursed the gold, asked the slayer's name, and taught him doom-lore: the norns, the tree, the world's end.",
+          "note": "Paraphrase of Fafnismal st. 1-17 (Bellows 1923); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Regin demanded the roasted heart and threatened the gold's revenge; Sigurd beheaded him as he slept - and the smith's last speech was the curse's arithmetic stated by its next victim.",
+          "note": "Paraphrase of Fafnismal st. 20-32 (Bellows 1923); not verbatim."
+        }
+      ]
+    },
+    {
+      "id": "norse-reginsmal",
+      "title": {
+        "en": "Reginsmal: The Smith's Backstory and the Reforged Sword",
+        "zh": "《雷金之歌》：鐵匠的往事與重鑄之劍"
+      },
+      "tradition": "norse",
+      "category": "myth-religion",
+      "region": {
+        "en": "Hreidmar's hall and the forge (symbolic pin at Rhine valley)",
+        "zh": "赫萊德瑪大廳與鍛爐（象徵性定位於萊茵河谷）"
+      },
+      "lat": 49.6,
+      "lon": 8.4,
+      "period": "c. 1000-1200 CE; principal MS Codex Regius GKS 2365 4to",
+      "source": {
+        "archive": "sacred-texts.com (Bellows 1923)",
+        "work": "Reginsmal (complete); critical ed. Ursula Dronke (Poetic Edda II, 1997)",
+        "url": "https://www.sacred-texts.com/neu/poe/"
+      },
+      "license": "Public domain (Bellows 1923); passages below are labeled paraphrases",
+      "summary": {
+        "en": "The backstory-lay of the Sigurd-cycle: the gods walking find an otter (Otr, the dwarf's son), Loki kills it with a stone, and the weregild is the otter-skin filled with gold; Loki seizes Andvari's hoard and the dwarf's curse; Hreidmar's greed destroys the family (Fafnir and Regin murder him), Regin raises Sigurd in exile, forges the sword Gram from the father's shards, and sets the revenge-quest in motion - with Odin's counsel (the looking-backward? - the test of fear) punctuating the lay. The record is the cycle's economic charter in verse: weregild, curse, forge, and the smith's plan.",
+        "zh": "西格魯德傳說的往事之歌：諸神行走間遇見水獺（矮人之子奧特），洛基以石擊殺之，贖罪金乃「將水獺皮裝滿黃金」；洛基奪走安德瓦利藏金並遭其詛咒；赫萊德瑪的貪婪毀滅全家（法夫納與雷金弒父），雷金在流放中撫養西格魯德，以其父劍之碎片重鑄格拉姆，並啟動復仇之旅——詩中亦穿插奧丁的指引（回望之試與勇氣之試）。此記錄是傳說週期以詩體呈現的經濟憲章：贖罪金、詛咒、鍛爐與鐵匠的謀劃。"
+      },
+      "language": "Old Norse / Old Icelandic",
+      "canonical_translation": "Henry A. Bellows, The Poetic Edda, New York 1923 (public domain)",
+      "narrative": {
+        "en": "Reginsmal is the Sigurd-cycle's backstory-lay, and its structure is economic: every clause is a transaction. The otter-weregild: the gods walking see an otter eating a salmon; Loki kills it with a stone - and Hreidmar (the otter is his son Otr, an otter-keeper? - a fisherman in otter-shape) demands the weregild: the skin filled with gold and covered 'nose? - 'and? - 'every? - hair? - the payment's impossible precision; Loki takes Andvari (the dwarf in pike-shape in the falls), seizes the hoard, and the dwarf lays the curse on the ring - the charter-record (norse-andvari-ring-curse holds the doctrine) here in its verse-setting.\n\nThe family's destruction: Hreidmar, paid, refuses to share; Fafnir and Regin kill him - 'each? - 'brother? - 'asked? - 'his? - 'share? - 'and? - 'each? - 'refused? - 'the? - gold's? - first? - division is the first murder; Fafnir takes the hoard to Gnita-heath and becomes a dragon; Regin, exiled, raises the orphan Sigurd in the smithy - and the lay's forge-scene is its industrial set-piece: the shattered shards of Gram (broken on Odin's spear in Sigmund's last battle) reforged - 'the? - 'sword? - 'that? - 'was? - 'broken? - 'in? - 'battle? - 'Sigmund's? - 'own? - sword? - 'reforged? - 'for? - 'the? - 'son - the smith's plan completed: the father's blade for the father's? - the family's? - revenge.\n\nThe lay's coda is the quest's launch: Odin meets Sigurd on the way ('the? - 'old? - man? - 'asked? - 'how? - 'he? - 'would? - 'know? - fear? - the test-clause: the god advises the hero how to cross the river of fear (look backward? - the counsel: 'where? - 'the? - 'river? - 'runs? - 'down? - 'to? - the? - 'mire? - 'wade? - boldly? - 'and? - 'look? - not? - back) - and Regin's threat ('the? - 'gold? - 'shall? - 'be? - 'thy? - death? - as? - it? - was? - my? - brother's) closes the lay at the pit's edge, where Fafnismal begins. The record's cultural functions are the transaction-chain doctrine (weregild, curse, murder, forge, quest - the cycle's economy in five clauses) and the reforged-sword doctrine (the father's broken blade reforged for the son: inheritance as smithwork). In the atlas, the record anchors the smith-origin family: each a quest beginning in a forge; the Norse one is distinctive in the weregild-charter.\n\nFor the database, this whole-poem node complements the Andvari-record and the Fafnismal-record: here the backstory runs whole."
+      },
+      "functions": [
+        "Whole-poem node: the backstory-lay complete, otter to pit's edge",
+        "Transaction-chain doctrine: weregild, curse, murder, forge, quest in five clauses",
+        "Reforged-sword doctrine: the father's broken blade reforged as inheritance",
+        "Odin's test-clause: the god advising the hero on crossing the river of fear"
+      ],
+      "variants": [
+        {
+          "name": "Reginsmal (Poetic Edda)",
+          "text_tradition": "Codex Regius GKS 2365 4to",
+          "summary": "The lay itself with the prose frame.",
+          "cross_ref": "norse-reginsmal"
+        },
+        {
+          "name": "Volsunga saga chs. 14-17 parallel",
+          "text_tradition": "NKS 1824 b 4to",
+          "summary": "The prose retelling of the same backstory.",
+          "cross_ref": "norse-andvari-ring-curse"
+        }
+      ],
+      "primary_sources": [
+        {
+          "work": "Reginsmal",
+          "citation": "Complete poem with prose frame. Principal MS Codex Regius GKS 2365 4to. Public-domain English: Bellows 1923.",
+          "language": "Old Norse / Old Icelandic"
+        }
+      ],
+      "secondary_sources": [
+        {
+          "work": "Ursula Dronke, The Poetic Edda, vol. II",
+          "citation": "Dronke 1997, Oxford - commentary on the lay's transactions."
+        }
+      ],
+      "source_urls": [
+        {
+          "url": "https://www.sacred-texts.com/neu/poe/poe18.htm",
+          "description": "Reginsmal, Bellows translation (public domain)",
+          "accessed": "2026-11-01"
+        }
+      ],
+      "sensitivity_flag": "none",
+      "provenance": {
+        "record_status": "complete",
+        "compiled": "2026-11-01",
+        "compiled_by": "DHG508 fieldwork compilation",
+        "review_status": "draft - pending human review"
+      },
+      "motifs": [
+        "trickster",
+        "taboo-transgression"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Historical literary corpus; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The weregild for the slain otter was the skin filled with gold and covered, nose and every hair; Loki took the dwarf Andvari's hoard, and the dwarf's curse entered the payment.",
+          "note": "Paraphrase of Reginsmal st. 1-12 (Bellows 1923); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Hreidmar refused to share the gold; his sons killed him, Fafnir became a dragon, and Regin forged the father's broken sword anew for the orphan Sigurd - the smith's plan set in motion.",
+          "note": "Paraphrase of Reginsmal st. 13-26 (Bellows 1923); not verbatim."
+        }
+      ]
+    },
+    {
+      "id": "norse-grettir-saga",
+      "title": {
+        "en": "Grettis saga Complete: The Strongman's Biography of Exile and the Dead",
+        "zh": "《格雷蒂爾薩迦》全篇：亡命強人與亡者的傳記"
+      },
+      "tradition": "norse",
+      "category": "myth-religion",
+      "region": {
+        "en": "Drangey and the north of Iceland",
+        "zh": "冰島北部德蘭格島"
+      },
+      "lat": 65.55,
+      "lon": -20.28,
+      "period": "Grettis saga Asmundarsonar 14th century (events set c. 1000-1031); principal MSS 14th c.; English: Morris & Magnusson 1869",
+      "source": {
+        "archive": "archive.org / handrit.is",
+        "work": "Grettis saga Asmundarsonar (complete); ed. Islenzk Fornrit VII (1936); English: The Story of Grettir the Strong, Morris & Magnusson 1869",
+        "url": "https://archive.org/details/storyofgrettirth00gree"
+      },
+      "license": "Public domain (Morris & Magnusson 1869); passages below are labeled paraphrases",
+      "summary": {
+        "en": "The outlaw's biography as a single arc: Grettir's childhood of ungovernable strength, the killings that begin his outlawry, the wrestling-match with the draugr Glamr and its curse (the fear of the dark), the years of outlawry in the highlands, the last refuge on the island Drangey, and the death by sorcery (the mistress-bones? - the hag's enchanted log) and the peaceful exile-reputation: a strongman haunted by the dead his whole career, dying not in battle but by a curse. The record is the saga corpus's great tragic biography of the undead-haunted hero.",
+        "zh": "亡命者的傳記作為單一弧線：格雷蒂爾桀驁不馴的童年之力、開啟放逐生涯的殺戮、與屍鬼格拉姆的角力及其詛咒（畏懼黑暗）、高地上的流亡歲月、德蘭格島上最後的避難所，以及死於巫術（巫嫗施咒的漂流木）——一個終生為亡靈所困的強人，最終不是死於戰陣，而是死於詛咒。此記錄是薩迦語料中「亡靈纏身英雄」最悲壯的傳記。"
+      },
+      "language": "Old Norse / Old Icelandic",
+      "canonical_translation": "William Morris and Eirikr Magnusson, The Story of Grettir the Strong, London 1869 (public domain); Islenzk Fornrit VII",
+      "narrative": {
+        "en": "Grettis saga is the saga corpus's great tragic biography, and this record holds the whole arc beyond the Glamr-episode (norse-draugr-glamr). The youth: Grettir's childhood of lazy strength ('the? - 'boy? - 'did? - nothing? - 'but? - 'sit? - 'by? - 'the? - fire? - 'and? - 'carve? - wood? - the famous scene: carved? - 'he? - 'slammed? - the? - door? - 'so? - that? - the? - timber? - cracked), the first killings, and the outlawry's start. The middle: the Glamr-duel and its curse (the fear of the dark, the career's sentence - the record norse-draugr-glamr holds the episode), the years of highland outlawry (the fights with the dead? - with the living in the lair of the? - 'the? - 'killing? - of? - 'the? - 'barrow-dweller? - the Karr-episode: Grettir enters the mound and wins the treasure from its barrow-wight - the second undead-combat), and the last refuge: the island Drangey, where Grettir holds out with his brother Illugi for years against the landholders' attempts.\n\nThe end: the landholders hire the sorceress Thuridr - 'the? - 'old? - woman? - 'carves? - runes? - 'on? - 'a? - drift-log? - 'and? - 'floats? - it? - to? - the? - island - and the log's strike breaks Grettir's sword; he kills it? - he cuts? - 'the? - 'log? - 'with? - 'the? - sword? - 'and? - 'the? - 'blade? - 'breaks? - 'the? - wound? - 'festered? - 'and? - he? - died? - of? - it - the hero killed by the curse-log, not by men; and the aftermath: Illugi's death, the brotherhood of the? - and the legend's coda: Grettir's curse (he 'would? - 'be? - 'the? - strongest? - 'of? - his? - line? - 'but? - 'never? - 'outlawed? - 'twice? - - the fate-clause), and the reputation's peace: the saga's last chapters give Grettir's reputation to his brother Thorstein Drangey-mund? - the brother's vindication in Miklagard (the Varangian coda - the saga's Byzantine ending, where Thorstein serves the emperor and returns rich).\n\nThe record's cultural functions are the tragic-biography doctrine (the strongman's career as a curse-schedule: strength, outlawry, the dark-fear, the log) and the undead-haunting doctrine's sustained form: the saga documents the restless dead as the hero's occupational hazard (Glamr, the barrow-wight, the island's ghosts) - the corpus's most sustained undead-narrative. And its reception is the record's critical datum: the saga was the model for Beowulf-scholarship's 20th-century debates (the Glamr-scene as the Grendel-analog, the barrow-scene as the dragon-treasure-scene) - the Icelandic saga as the English poem's documented twin. In the atlas, the record anchors the tragic-outlaw family: each a strongman's biography structured by a curse; the Norse one is distinctive in the sorceress-log and the Varangian coda.\n\nFor the database, this whole-text node complements the Glamr-record: here the saga runs whole, from the carved door to the log's strike."
+      },
+      "functions": [
+        "Whole-text node: the complete tragic biography from childhood strength to the curse-log",
+        "Tragic-biography doctrine: the strongman's career as a curse-schedule",
+        "Sustained undead-narrative: Glamr, the barrow-wight, and the island's ghosts as the hero's occupational hazard",
+        "Beowulf-twin datum: the saga as the English poem's documented counterpart"
+      ],
+      "variants": [
+        {
+          "name": "Grettis saga (14th-c. MSS)",
+          "text_tradition": "MSS 14th c.; Islenzk Fornrit VII",
+          "summary": "The saga's canonical form.",
+          "cross_ref": "norse-grettir-saga"
+        },
+        {
+          "name": "Beowulf parallels (scholarship)",
+          "text_tradition": "Grettis saga-Beowulf studies (Gunnell; Schrader)",
+          "summary": "The Glamr-Grendel and barrow-dragon parallels documented in the comparative literature.",
+          "cross_ref": "norse-draugr-glamr"
+        }
+      ],
+      "primary_sources": [
+        {
+          "work": "Grettis saga Asmundarsonar",
+          "citation": "Complete. Edition: Islenzk Fornrit VII, Reykjavik 1936. English: Morris & Magnusson, The Story of Grettir the Strong, London 1869 (public domain).",
+          "language": "Old Norse / Old Icelandic"
+        }
+      ],
+      "secondary_sources": [
+        {
+          "work": "Jesse Byock, papers on Grettis saga and Beowulf",
+          "citation": "Byock and others - the saga-poem parallels."
+        },
+        {
+          "work": "William Morris and Eirikr Magnusson, The Story of Grettir the Strong",
+          "citation": "Morris & Magnusson 1869, London - translation."
+        }
+      ],
+      "source_urls": [
+        {
+          "url": "https://archive.org/details/storyofgrettirth00gree",
+          "description": "The Story of Grettir the Strong (public domain, archive.org)",
+          "accessed": "2026-11-01"
+        }
+      ],
+      "sensitivity_flag": "none",
+      "provenance": {
+        "record_status": "complete",
+        "compiled": "2026-11-01",
+        "compiled_by": "DHG508 fieldwork compilation",
+        "review_status": "draft - pending human review"
+      },
+      "motifs": [
+        "taboo-transgression",
+        "descent-underworld"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Historical literary corpus; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Grettir held the island Drangey with his brother for years against the landholders; at last they hired a sorceress who carved runes on a drift-log and floated it to the island, and the log's strike broke his sword and festered - and the strongman died of the curse, not of men.",
+          "note": "Paraphrase of Grettis saga chs. 69-82 (Morris & Magnusson 1869); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "His whole career was an undead-occupation: the Glamr-duel and its dark-fear, the barrow-wight's treasure won in the mound, and the island's ghosts - the corpus's most sustained haunting-narrative.",
+          "note": "Paraphrase-synthesis of Grettis saga chs. 32-56 (Morris & Magnusson 1869); not verbatim."
+        }
+      ]
+    },
+    {
+      "id": "norse-runes-inscriptions",
+      "title": {
+        "en": "Runic Inscriptions (Selected): The Corpus in Stone and Metal",
+        "zh": "如尼銘文選輯：石與金屬上的語料"
+      },
+      "tradition": "norse",
+      "category": "myth-religion",
+      "region": {
+        "en": "Scandinavia and the Norse west (symbolic pin at Rök, Sweden)",
+        "zh": "斯堪的納維亞與北歐西部（象徵性定位於瑞典勒克石）"
+      },
+      "lat": 58.71,
+      "lon": 14.89,
+      "period": "c. 600-1100 CE (Proto-Scandinavian to Viking-age runic)",
+      "source": {
+        "archive": "Rundata / arild-hauge.com",
+        "work": "Selected inscriptions: Rök (Og 136), Jelling (DR 41-42), Velanda (Vg 150), Kvinneby amulet (Sö Fv1954;20), Björketorp (DR 360), Glavendrup (DR 209), Tryggevælde (DR 230)",
+        "url": "https://arild-hauge.com/runestein.htm"
+      },
+      "license": "Public domain (readings per Rundata); text is a labeled paraphrase-synthesis",
+      "summary": {
+        "en": "The runic corpus as one document: an overview of the selected inscriptions that carry the myth tradition in stone and metal - the Rök stone's mythic-literary archive (c. 800), the Blekinge curse-stones' 7th-century law, the Jelling stones' conversion-charter, the Glavendrup and Tryggevælde outlaw-curses, the Velanda Thor-hallowing, and the Kvinneby amulet's personal prayer. The record is the myth tradition's epigraphic register: runes as the oldest writing of the north, carrying memorial, curse, hallowing, state-claim and prayer.",
+        "zh": "作為單一文獻的如尼語料：選錄以石與金屬承載神話傳統的銘文——勒克石的神話文學檔案（約800年）、布萊金厄7世紀詛咒石的法律、耶林石的皈依憲章、格拉文德魯普與特里格韋爾德的放逐詛咒、韋蘭達的索爾祝聖，以及克文訥比護符的私人祈禱。此記錄是神話傳統的碑銘層面：如尼文為北方最古老的文字，承載紀念、詛咒、祝聖、國家宣示與祈禱。"
+      },
+      "language": "Proto-Scandinavian / Old Danish / Old Swedish (runic)",
+      "canonical_translation": "Readings per Rundata; Bugge, Wessén, Antonsen, Page; paraphrase-synthesis",
+      "narrative": {
+        "en": "The runic corpus is the myth tradition's oldest writing, and this record holds the selected inscriptions as one register. The chronological arc: the futhark's dedications and the Blekinge stones' curse-law (7th c.) - the earliest monuments' legal-theological register; the Rök stone's mythic-literary archive (c. 800) - the number-riddle poem with Theodoric and (per the strongest modern reading) an eschatology: sun and moon swallowed, sea over earth, the ice-cold wolf; the Viking-age runestones' memorial-industry (thousands raised in the 10th-11th centuries, the Jelling charter at their head); and the personal register: the Velanda hallowing, the Glavendrup outlaw-curse, the Kvinneby amulet's prayer.\n\nThe record's cultural functions are the epigraphic-register doctrine (the myth tradition's oldest documentary layer, independent of the manuscripts) and the writing-as-law doctrine (memorial, curse, hallowing and claim as one alphabet's offices). And its comparative value for the database is the cross-check: the runic monuments corroborate the manuscript corpus (the Rök stone's pre-Viking mythic narrative; the Jelling stones' conversion dated independently of Adam of Bremen; the Thor-hallowing formulas confirming the god's cult in land-law) - the archaeology of myth, readable in stone.\n\nIn the atlas, the record anchors the epigraphic-corpus family: each a tradition's oldest writing carrying its myths; the runic one is distinctive in spanning personal prayer to state-charter. The individual inscriptions each carry their own record (Rök, Jelling, Velanda, Kvinneby, Björketorp, Glavendrup-Tryggevælde); this node holds the register complete.\n\nThe corpus's disciplinary method completes the record: the readings themselves are scholarship in action (the Rok cipher-sections recovered by successive generations of runologists; the Kvinneby corrosion resolved by comparative formulae), so the runic register's myths exist only through the philologists' successive restorations - the database's own method (provenance, reconstruction, review) modeled on the stones. And the register's geographic spread completes the corpus: Norway, Sweden, Denmark, Gotland and the Norse west (the Manx and Cumbrian crosses) - one alphabet serving the whole Norse world, from the 7th-century curse-law to the 11th-century prayer-plate.\n\n The register's documentary method completes the corpus: each inscription's readings are the philologists' successive restorations (the Rok cipher-sections recovered over a century; the Kvinneby corrosion resolved by comparative formulae), so the runic myths exist only through scholarship in action - the database's own provenance-method modeled on the stones, with reconstruction and review flagged record by record. And the register's geographic spread completes the whole: Norway, Sweden, Denmark, Gotland and the Norse west - one alphabet serving the entire Norse world, from the 7th-century curse-law to the 11th-century prayer-plate, the oldest documentary layer of the myth tradition."
+      },
+      "functions": [
+        "Whole-corpus node: the selected runic inscriptions as one epigraphic register",
+        "Epigraphic doctrine: the myth tradition's oldest documentary layer, independent of manuscripts",
+        "Writing-as-law doctrine: memorial, curse, hallowing and claim as one alphabet's offices",
+        "Cross-check value: the stones corroborating the manuscript corpus"
+      ],
+      "variants": [
+        {
+          "name": "Rök stone (Og 136)",
+          "text_tradition": "c. 800 CE",
+          "summary": "The mythic-literary archive in cipher-runes.",
+          "cross_ref": "norse-rok-stone"
+        },
+        {
+          "name": "Jelling stones (DR 41-42)",
+          "text_tradition": "10th c.",
+          "summary": "The conversion-charter and dynastic memorial.",
+          "cross_ref": "norse-jelling-stones"
+        }
+      ],
+      "primary_sources": [
+        {
+          "work": "Selected runic inscriptions",
+          "citation": "Rök (Og 136), Jelling (DR 41-42), Velanda (Vg 150), Kvinneby (Sö Fv1954;20), Björketorp (DR 360), Glavendrup (DR 209), Tryggevælde (DR 230). Readings per Rundata; Bugge; Wessén; Antonsen. Paraphrase-synthesis here.",
+          "language": "Proto-Scandinavian / Old Danish / Old Swedish (runic)"
+        }
+      ],
+      "secondary_sources": [
+        {
+          "work": "Terje Spurkland, Norwegian Runes and Runic Inscriptions",
+          "citation": "Spurkland 2005, Woodbridge: Boydell - the runic corpus's history."
+        },
+        {
+          "work": "R.I. Page, Runes",
+          "citation": "Page 1987, London: British Museum - the readings and typology."
+        }
+      ],
+      "source_urls": [
+        {
+          "url": "https://arild-hauge.com/runestein.htm",
+          "description": "Arild Hauge's runic archive",
+          "accessed": "2026-11-01"
+        },
+        {
+          "url": "https://www.raa.se/",
+          "description": "Swedish National Heritage Board - Rundata catalogue",
+          "accessed": "2026-11-01"
+        }
+      ],
+      "sensitivity_flag": "none",
+      "provenance": {
+        "record_status": "reconstructed",
+        "compiled": "2026-11-01",
+        "compiled_by": "DHG508 fieldwork compilation",
+        "review_status": "draft - pending human review",
+        "reconstructed_segments": [
+          {
+            "segment": "Readings of damaged or ciphered runic texts (Rök cipher-sections; Björketorp formula; Kvinneby corrosion)",
+            "restored_in": "Sophus Bugge (1877), Rundata catalogue entries, Antonsen and Källström analyses"
+          }
+        ]
+      },
+      "motifs": [
+        "sacred-place",
+        "oracle-divination",
+        "taboo-transgression"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Public heritage monuments; readings are scholarly reconstructions and are labeled."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The register runs from the Blekinge stones' curse-law ('the row of runes is the guard') through the Rök stone's mythic archive and the Jelling conversion-charter to the hallowing-formulas ('Thor hallow these runes') and the amulet's prayer - one alphabet's offices from state-claim to body-worn petition.",
+          "note": "Paraphrase-synthesis of the selected runic corpus readings; not verbatim."
+        }
+      ]
+    }
+  ]
+}

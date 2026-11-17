@@ -1,0 +1,856 @@
+{
+  "texts": [
+    {
+      "id": "sumerian-kes-temple-hymn",
+      "title": {
+        "en": "The Kes Temple Hymn",
+        "zh": "克什神殿頌"
+      },
+      "tradition": "sumerian",
+      "category": "myth",
+      "region": {
+        "en": "Kes, Iraq",
+        "zh": "克什（伊拉克）"
+      },
+      "lat": 32.2,
+      "lon": 45.7,
+      "period": "Old Babylonian manuscript, c. 1700 BCE (ETCSL translation 2003)",
+      "source": {
+        "archive": "ETCSL (University of Oxford)",
+        "work": "The Kes temple hymn (ETCSL c.4.80.2)",
+        "url": "https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.4.80.2&charenc=j"
+      },
+      "license": "ETCSL translation (Oxford, 2003-2006); quoted in paraphrase with attribution",
+      "summary": {
+        "en": "The house of Ninhursag at Kes is praised as the mother-temple of the land: the birthplace of kingship's blessings, its rites deep as the Abzu — the hymn copied as a school masterpiece for a thousand years.",
+        "zh": "克什的寧鬍爾薩格神殿被頌為國土之母殿：王權祝福的誕生地，其祭儀深如阿卜祖——千年間為校中傳抄之名篇。"
+      },
+      "motifs": [
+        "sacred-place",
+        "sacred-kingship"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient temple hymn; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The house of Kes, great house of Ninhursag, is praised: the mother-temple where the land's blessings are born, whose rites are deep as the Abzu and whose brickwork rises like the hills. The hymn closes with the temple's charter: whoever honors the house of the mother goddess is blessed with kingship's favor — a school masterpiece copied for a millennium.",
+          "note": "Paraphrase of ETCSL c.4.80.2, the temple's praise; not verbatim. / Paraphrase of ETCSL c.4.80.2, the close; not verbatim."
+        }
+      ],
+      "persons": [
+        "ninhursag",
+        "enlil"
+      ],
+      "functions": [
+        "Classic of the temple-hymn genre",
+        "Charter of the mother goddess's sanctuary"
+      ],
+      "variants": [
+        {
+          "name": "The temple hymns (corpus)",
+          "text_tradition": "Sumerian (ETCSL c.4.80.1)",
+          "summary": "The full cycle of 42 temple hymns to which this belongs.",
+          "cross_ref": "sumerian-temple-hymns"
+        }
+      ],
+      "language": "Sumerian",
+      "canonical_translation": "ETCSL team translation, Oxford, 2003-2006",
+      "primary_sources": [
+        {
+          "work": "The Kes temple hymn",
+          "citation": "ETCSL c.4.80.2, trans. ETCSL team (2003-2006)",
+          "language": "Sumerian"
+        }
+      ],
+      "secondary_sources": [
+        {
+          "work": "The Treasures of Darkness",
+          "citation": "Thorkild Jacobsen, New Haven, 1976"
+        }
+      ],
+      "source_urls": [
+        {
+          "url": "https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.4.80.2&charenc=j",
+          "description": "ETCSL c.4.80.2 text and translation",
+          "accessed": "2026-11-14"
+        }
+      ],
+      "sensitivity_flag": "none",
+      "provenance": {
+        "record_status": "complete",
+        "compiled": "2026-11-14",
+        "compiled_by": "opencode myth-collection session",
+        "review_status": "unreviewed"
+      }
+    },
+    {
+      "id": "sumerian-temple-hymns",
+      "title": {
+        "en": "The Temple Hymns of All Sumer",
+        "zh": "蘇美諸神殿頌"
+      },
+      "tradition": "sumerian",
+      "category": "myth",
+      "region": {
+        "en": "From Eridu to Nippur and Lagash, Iraq",
+        "zh": "自埃利都至尼普魯與拉加什（伊拉克）"
+      },
+      "lat": 31.5,
+      "lon": 45.5,
+      "period": "Old Babylonian manuscript of an older cycle, c. 1700 BCE (ETCSL translation 2003)",
+      "source": {
+        "archive": "ETCSL (University of Oxford)",
+        "work": "The temple hymns (ETCSL c.4.80.1)",
+        "url": "https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.4.80.1&charenc=j"
+      },
+      "license": "ETCSL translation (Oxford, 2003-2006); quoted in paraphrase with attribution",
+      "summary": {
+        "en": "Forty-two temples from Eridu's Abzu shrine to Nippur's Ekur and Lagash's Eninnu are praised in order: a liturgical map of the land's sanctuaries, city by city, god by god.",
+        "zh": "自埃利都阿卜祖神殿至尼普魯埃庫爾、拉加什埃寧努，四十二座神殿依序受頌：一座聖所的禮儀地圖，城以城計、神以神名。"
+      },
+      "motifs": [
+        "sacred-place",
+        "ritual-origin"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient hymn cycle; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The cycle praises forty-two temples in order: Eridu's house on the Abzu, Nippur's Ekur the navel of the land, Uruk's Eanna, Ur's house of Nanna, Girsu's Eninnu — city by city, god by god. The map's order is theological: the temples are sung as stations of the world's order, each house holding its god's portion of the land's life — a liturgical geography of Sumer.",
+          "note": "Paraphrase of ETCSL c.4.80.1, the cycle; not verbatim. / Paraphrase of ETCSL c.4.80.1, the geography; not verbatim."
+        }
+      ],
+      "persons": [
+        "enki",
+        "enlil",
+        "inanna",
+        "nanna-suen",
+        "ningirsu"
+      ],
+      "functions": [
+        "Liturgical map of Sumer's sanctuaries",
+        "Charter of each temple's cultic identity"
+      ],
+      "variants": [
+        {
+          "name": "The Kes temple hymn",
+          "text_tradition": "Sumerian (ETCSL c.4.80.2)",
+          "summary": "The most celebrated single member of the cycle.",
+          "cross_ref": "sumerian-kes-temple-hymn"
+        }
+      ],
+      "language": "Sumerian",
+      "canonical_translation": "ETCSL team translation, Oxford, 2003-2006",
+      "primary_sources": [
+        {
+          "work": "The temple hymns",
+          "citation": "ETCSL c.4.80.1, trans. ETCSL team (2003-2006), lines 1-310",
+          "language": "Sumerian"
+        }
+      ],
+      "secondary_sources": [
+        {
+          "work": "The Treasures of Darkness",
+          "citation": "Thorkild Jacobsen, New Haven, 1976"
+        }
+      ],
+      "source_urls": [
+        {
+          "url": "https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.4.80.1&charenc=j",
+          "description": "ETCSL c.4.80.1 text and translation",
+          "accessed": "2026-11-14"
+        }
+      ],
+      "sensitivity_flag": "none",
+      "provenance": {
+        "record_status": "complete",
+        "compiled": "2026-11-14",
+        "compiled_by": "opencode myth-collection session",
+        "review_status": "unreviewed"
+      }
+    },
+    {
+      "id": "sumerian-ekur-hymn",
+      "title": {
+        "en": "The Ekur: House of the Mountain",
+        "zh": "埃庫爾：山之殿"
+      },
+      "tradition": "sumerian",
+      "category": "myth",
+      "region": {
+        "en": "Nippur, Iraq",
+        "zh": "尼普魯（伊拉克）"
+      },
+      "lat": 32.126,
+      "lon": 45.23,
+      "period": "Old Babylonian manuscript, c. 1700 BCE (ETCSL translation 2003)",
+      "source": {
+        "archive": "ETCSL (University of Oxford)",
+        "work": "A hymn to the Ekur (ETCSL c.4.80.4)",
+        "url": "https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.4.80.4&charenc=j"
+      },
+      "license": "ETCSL translation (Oxford, 2003-2006); quoted in paraphrase with attribution",
+      "summary": {
+        "en": "Enlil's temple is praised as the bond of heaven and earth: its foundations in the underworld, its crown in the sky, the place where the fates are decreed — the world's axis in brick and song.",
+        "zh": "恩利爾之殿被頌為天地之紐帶：根基入冥界，頂冠接天穹，命運裁定之所——以磚石與頌歌築成的世界之軸。"
+      },
+      "motifs": [
+        "sacred-place",
+        "sacred-kingship",
+        "sacred-mountain"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient temple hymn; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The Ekur is praised as the bond of heaven and earth: its foundations reach the underworld, its crown touches the sky, and within it the fates of the land are decreed. The hymn names the temple the place of Enlil's speech: what he says in the Ekur stands — the world's axis sung in brick and ritual.",
+          "note": "Paraphrase of ETCSL c.4.80.4, the praise; not verbatim. / Paraphrase of ETCSL c.4.80.4, the decree; not verbatim."
+        }
+      ],
+      "persons": [
+        "enlil"
+      ],
+      "functions": [
+        "Theology of the Ekur as world axis",
+        "Liturgical praise of the fates-decreeing house"
+      ],
+      "variants": [
+        {
+          "name": "A hymn to Enlil (Enlil A)",
+          "text_tradition": "Sumerian (ETCSL c.4.05.1)",
+          "summary": "The god's hymn matching the temple's.",
+          "cross_ref": "sumerian-hymn-enlil"
+        }
+      ],
+      "language": "Sumerian",
+      "canonical_translation": "ETCSL team translation, Oxford, 2003-2006",
+      "primary_sources": [
+        {
+          "work": "A hymn to the Ekur",
+          "citation": "ETCSL c.4.80.4, trans. ETCSL team (2003-2006)",
+          "language": "Sumerian"
+        }
+      ],
+      "secondary_sources": [
+        {
+          "work": "The Treasures of Darkness",
+          "citation": "Thorkild Jacobsen, New Haven, 1976"
+        }
+      ],
+      "source_urls": [
+        {
+          "url": "https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.4.80.4&charenc=j",
+          "description": "ETCSL c.4.80.4 text and translation",
+          "accessed": "2026-11-14"
+        }
+      ],
+      "sensitivity_flag": "none",
+      "provenance": {
+        "record_status": "complete",
+        "compiled": "2026-11-14",
+        "compiled_by": "opencode myth-collection session",
+        "review_status": "unreviewed"
+      }
+    },
+    {
+      "id": "sumerian-instructions-shuruppak",
+      "title": {
+        "en": "The Instructions of Shuruppak",
+        "zh": "舒魯帕克訓言"
+      },
+      "tradition": "sumerian",
+      "category": "myth",
+      "region": {
+        "en": "Shuruppak, Iraq",
+        "zh": "舒魯帕克（伊拉克）"
+      },
+      "lat": 31.782,
+      "lon": 45.515,
+      "period": "Old Babylonian manuscript of an older text, c. 1700 BCE (ETCSL translation 2003)",
+      "source": {
+        "archive": "ETCSL (University of Oxford)",
+        "work": "The instructions of Suruppag (ETCSL c.5.6.1)",
+        "url": "https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.5.6.1&charenc=j"
+      },
+      "license": "ETCSL translation (Oxford, 2003-2006); quoted in paraphrase with attribution",
+      "summary": {
+        "en": "The antediluvian sage Shuruppak teaches his son Ziudsura the maxims of life — do not buy a wild ass, do not locate a field on the road, do not curse — the oldest instruction text, father to the wisdom books of the whole Near East.",
+        "zh": "洪水前的賢者舒魯帕克訓其子祖蘇德拉處世箴言——勿購野驢、勿於路旁置田、勿咒罵——最古老的訓言文獻，近東智慧書之祖。"
+      },
+      "motifs": [
+        "parable-teaching",
+        "wisdom-sacrifice",
+        "foundational-legend"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient wisdom literature; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Shuruppak, son of Ubar-Tutu, speaks to his son Ziudsura: the instructions of the father to the son — a name to be given, a mouth to be held, a heart not to be trusted to strangers. The maxims follow: do not locate a field on the road; do not buy a wild ass; do not swear; do not revile; do not lie in the assembly — the practical wisdom of the antediluvian sage that schools copied for two millennia.",
+          "note": "Paraphrase of ETCSL c.5.6.1, the frame; not verbatim. / Paraphrase of ETCSL c.5.6.1, the maxims; not verbatim."
+        }
+      ],
+      "persons": [
+        "ziusudra"
+      ],
+      "functions": [
+        "Oldest wisdom instruction text",
+        "Ancestor of the Near Eastern instruction genre",
+        "School curriculum masterpiece"
+      ],
+      "variants": [
+        {
+          "name": "The farmer's instructions",
+          "text_tradition": "Sumerian (ETCSL c.5.6.3)",
+          "summary": "The agricultural companion instruction.",
+          "cross_ref": "sumerian-farmers-instructions"
+        }
+      ],
+      "language": "Sumerian",
+      "canonical_translation": "ETCSL team translation, Oxford, 2003-2006",
+      "primary_sources": [
+        {
+          "work": "The instructions of Suruppag",
+          "citation": "ETCSL c.5.6.1, trans. ETCSL team (2003-2006), lines 1-280",
+          "language": "Sumerian"
+        }
+      ],
+      "secondary_sources": [
+        {
+          "work": "The Harps that Once...",
+          "citation": "Thorkild Jacobsen, New Haven, 1987"
+        }
+      ],
+      "source_urls": [
+        {
+          "url": "https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.5.6.1&charenc=j",
+          "description": "ETCSL c.5.6.1 text and translation",
+          "accessed": "2026-11-14"
+        }
+      ],
+      "sensitivity_flag": "none",
+      "provenance": {
+        "record_status": "complete",
+        "compiled": "2026-11-14",
+        "compiled_by": "opencode myth-collection session",
+        "review_status": "unreviewed"
+      }
+    },
+    {
+      "id": "sumerian-farmers-instructions",
+      "title": {
+        "en": "The Farmer's Instructions",
+        "zh": "農夫訓言"
+      },
+      "tradition": "sumerian",
+      "category": "myth",
+      "region": {
+        "en": "Fields of Sumer, Iraq",
+        "zh": "蘇美田野（伊拉克）"
+      },
+      "lat": 31.5,
+      "lon": 45.5,
+      "period": "Old Babylonian manuscript, c. 1700 BCE (ETCSL translation 2003)",
+      "source": {
+        "archive": "ETCSL (University of Oxford)",
+        "work": "The farmer's instructions (ETCSL c.5.6.3)",
+        "url": "https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.5.6.3&charenc=j"
+      },
+      "license": "ETCSL translation (Oxford, 2003-2006); quoted in paraphrase with attribution",
+      "summary": {
+        "en": "The god of agriculture instructs a farmer through the year: plough at the right time, let the flood come, guard the seed, harvest before the storm — the complete agronomy of Sumer in the form of a god's advice.",
+        "zh": "農耕之神訓誡農夫一年之事：適時犁地、候洪水至、守種防鳥、風暴前收割——以神諭形式寫成的蘇美農學全書。"
+      },
+      "motifs": [
+        "parable-teaching",
+        "ritual-origin"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient instruction text; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The agricultural god instructs the farmer through the year: plough when the land is ready, let the flood-water come, keep the seed from the birds, harvest before the storms of the year's end. The text closes with blessing: the farmer who follows the instructions shall fill the temple's granaries — agronomy taught as divine advice.",
+          "note": "Paraphrase of ETCSL c.5.6.3, the instruction; not verbatim. / Paraphrase of ETCSL c.5.6.3, the close; not verbatim."
+        }
+      ],
+      "persons": [
+        "enlil",
+        "nisaba"
+      ],
+      "functions": [
+        "Agronomy in instruction form",
+        "School text linking farming and liturgy"
+      ],
+      "variants": [
+        {
+          "name": "The instructions of Suruppag",
+          "text_tradition": "Sumerian (ETCSL c.5.6.1)",
+          "summary": "The general wisdom companion.",
+          "cross_ref": "sumerian-instructions-shuruppak"
+        }
+      ],
+      "language": "Sumerian",
+      "canonical_translation": "ETCSL team translation, Oxford, 2003-2006",
+      "primary_sources": [
+        {
+          "work": "The farmer's instructions",
+          "citation": "ETCSL c.5.6.3, trans. ETCSL team (2003-2006)",
+          "language": "Sumerian"
+        }
+      ],
+      "secondary_sources": [
+        {
+          "work": "The Harps that Once...",
+          "citation": "Thorkild Jacobsen, New Haven, 1987"
+        }
+      ],
+      "source_urls": [
+        {
+          "url": "https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.5.6.3&charenc=j",
+          "description": "ETCSL c.5.6.3 text and translation",
+          "accessed": "2026-11-14"
+        }
+      ],
+      "sensitivity_flag": "none",
+      "provenance": {
+        "record_status": "complete",
+        "compiled": "2026-11-14",
+        "compiled_by": "opencode myth-collection session",
+        "review_status": "unreviewed"
+      }
+    },
+    {
+      "id": "sumerian-ox-drivers-adab",
+      "title": {
+        "en": "The Three Ox-Drivers from Adab",
+        "zh": "阿達布三趕牛人"
+      },
+      "tradition": "sumerian",
+      "category": "myth",
+      "region": {
+        "en": "Adab, Iraq",
+        "zh": "阿達布（伊拉克）"
+      },
+      "lat": 31.96,
+      "lon": 45.76,
+      "period": "Old Babylonian manuscript, c. 1700 BCE (ETCSL translation 2003)",
+      "source": {
+        "archive": "ETCSL (University of Oxford)",
+        "work": "The three ox-drivers from Adab (ETCSL c.5.6.5)",
+        "url": "https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.5.6.5&charenc=j"
+      },
+      "license": "ETCSL translation (Oxford, 2003-2006); quoted in paraphrase with attribution",
+      "summary": {
+        "en": "Three ox-drivers from Adab dispute over one ox — each claims it — and the case is argued with proverb and precedent until the beast is shared: an early literature of dispute settled by wit.",
+        "zh": "阿達布三名趕牛人爭一頭牛，各執一詞；以諺語與先例相辯，最後分牛了事——以機智了結爭端的早期文學。"
+      },
+      "motifs": [
+        "parable-teaching",
+        "trickster"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient humor text; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Three ox-drivers of Adab each claim the same ox; their dispute is argued in proverbs and precedents, each man proving his right with a saying of the fathers. The case is settled by division rather than victory — the ox shared — and the tale closes laughing at the wit that ends what strength could not: an early literature of dispute settled by cleverness.",
+          "note": "Paraphrase of ETCSL c.5.6.5, the dispute; not verbatim. / Paraphrase of ETCSL c.5.6.5, the settlement; not verbatim."
+        }
+      ],
+      "persons": [],
+      "functions": [
+        "Humorous dispute tale of legal wit",
+        "School text of proverb argumentation"
+      ],
+      "variants": [
+        {
+          "name": "The debate poems",
+          "text_tradition": "Sumerian (ETCSL c.5.3)",
+          "summary": "The formalized cousin of the dispute genre.",
+          "cross_ref": "sumerian-winter-summer"
+        }
+      ],
+      "language": "Sumerian",
+      "canonical_translation": "ETCSL team translation, Oxford, 2003-2006",
+      "primary_sources": [
+        {
+          "work": "The three ox-drivers from Adab",
+          "citation": "ETCSL c.5.6.5, trans. ETCSL team (2003-2006)",
+          "language": "Sumerian"
+        }
+      ],
+      "secondary_sources": [
+        {
+          "work": "Sumerian Mythology",
+          "citation": "Samuel Noah Kramer, Philadelphia, 1944"
+        }
+      ],
+      "source_urls": [
+        {
+          "url": "https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.5.6.5&charenc=j",
+          "description": "ETCSL c.5.6.5 text and translation",
+          "accessed": "2026-11-14"
+        }
+      ],
+      "sensitivity_flag": "none",
+      "provenance": {
+        "record_status": "complete",
+        "compiled": "2026-11-14",
+        "compiled_by": "opencode myth-collection session",
+        "review_status": "unreviewed"
+      }
+    },
+    {
+      "id": "sumerian-elegy-nannaya",
+      "title": {
+        "en": "The Elegy for Nannaya",
+        "zh": "南納雅輓歌"
+      },
+      "tradition": "sumerian",
+      "category": "myth",
+      "region": {
+        "en": "Nippur, Iraq",
+        "zh": "尼普魯（伊拉克）"
+      },
+      "lat": 32.126,
+      "lon": 45.23,
+      "period": "Old Babylonian manuscript, c. 1700 BCE (ETCSL translation 2003)",
+      "source": {
+        "archive": "ETCSL (University of Oxford)",
+        "work": "An elegy on the death of Nannaya (ETCSL c.5.5.2)",
+        "url": "https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.5.5.2&charenc=j"
+      },
+      "license": "ETCSL translation (Oxford, 2003-2006); quoted in paraphrase with attribution",
+      "summary": {
+        "en": "Nannaya, young scribe of the tablet-house, is taken by the underworld's fate; the elegy mourns him at the funeral — the bier, the mourning women, the procession — and consoles with the memory of his learning and love.",
+        "zh": "書屋少年書記南納雅被冥界奪去；輓歌於葬禮哀悼——靈床、哭喪婦、送葬行列——以其學問與情愛之憶為慰。"
+      },
+      "motifs": [
+        "descent-underworld",
+        "parable-teaching"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient elegy; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Nannaya, the young scribe of the tablet-house, is taken by fate; the elegy mourns him at the funeral procession — the bier carried, the mourning women keening, the friends following. The consolation is memory: his learning, his love, his brightness among the students — and the underworld addressed as the household that now receives him.",
+          "note": "Paraphrase of ETCSL c.5.5.2, the mourning; not verbatim. / Paraphrase of ETCSL c.5.5.2, the consolation; not verbatim."
+        }
+      ],
+      "persons": [],
+      "functions": [
+        "Personal elegy of the scribal world",
+        "Liturgical model of funeral mourning"
+      ],
+      "variants": [
+        {
+          "name": "An elegy on the death of Nawirtum",
+          "text_tradition": "Sumerian (ETCSL c.5.5.3)",
+          "summary": "The companion elegy for a woman.",
+          "cross_ref": "sumerian-elegy-nawirtum"
+        }
+      ],
+      "language": "Sumerian",
+      "canonical_translation": "ETCSL team translation, Oxford, 2003-2006",
+      "primary_sources": [
+        {
+          "work": "An elegy on the death of Nannaya",
+          "citation": "ETCSL c.5.5.2, trans. ETCSL team (2003-2006)",
+          "language": "Sumerian"
+        }
+      ],
+      "secondary_sources": [
+        {
+          "work": "The Harps that Once...",
+          "citation": "Thorkild Jacobsen, New Haven, 1987"
+        }
+      ],
+      "source_urls": [
+        {
+          "url": "https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.5.5.2&charenc=j",
+          "description": "ETCSL c.5.5.2 text and translation",
+          "accessed": "2026-11-14"
+        }
+      ],
+      "sensitivity_flag": "none",
+      "provenance": {
+        "record_status": "complete",
+        "compiled": "2026-11-14",
+        "compiled_by": "opencode myth-collection session",
+        "review_status": "unreviewed"
+      }
+    },
+    {
+      "id": "sumerian-elegy-nawirtum",
+      "title": {
+        "en": "The Elegy for Nawirtum",
+        "zh": "娜薇爾圖姆輓歌"
+      },
+      "tradition": "sumerian",
+      "category": "myth",
+      "region": {
+        "en": "Nippur, Iraq",
+        "zh": "尼普魯（伊拉克）"
+      },
+      "lat": 32.126,
+      "lon": 45.23,
+      "period": "Old Babylonian manuscript, c. 1700 BCE (ETCSL translation 2003)",
+      "source": {
+        "archive": "ETCSL (University of Oxford)",
+        "work": "An elegy on the death of Nawirtum (ETCSL c.5.5.3)",
+        "url": "https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.5.5.3&charenc=j"
+      },
+      "license": "ETCSL translation (Oxford, 2003-2006); quoted in paraphrase with attribution",
+      "summary": {
+        "en": "Nawirtum, the beloved of the poem's speaker, is taken young; the elegy mourns her with the imagery of the barren house and the wedding song now silenced — love's grief in the voice of the tablet-house.",
+        "zh": "詩人的心上人娜薇爾圖姆早逝；輓歌以空寂之宅與戛然而止的婚歌哀悼她——書屋之聲裡的愛之慟。"
+      },
+      "motifs": [
+        "descent-underworld",
+        "parable-teaching"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient elegy; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Nawirtum is taken young, and the elegy mourns her in the imagery of the silenced wedding song: the house barren, the bed unslept, the streets she graced now empty. The speaker's grief answers the underworld directly — why was she taken before her time? — and the consolation offered is the memory of love: she is not forgotten while the song is sung.",
+          "note": "Paraphrase of ETCSL c.5.5.3, the mourning; not verbatim. / Paraphrase of ETCSL c.5.5.3, the grief; not verbatim."
+        }
+      ],
+      "persons": [],
+      "functions": [
+        "Love-elegy of the scribal world",
+        "Liturgical model of mourning a beloved"
+      ],
+      "variants": [
+        {
+          "name": "An elegy on the death of Nannaya",
+          "text_tradition": "Sumerian (ETCSL c.5.5.2)",
+          "summary": "The companion elegy.",
+          "cross_ref": "sumerian-elegy-nannaya"
+        }
+      ],
+      "language": "Sumerian",
+      "canonical_translation": "ETCSL team translation, Oxford, 2003-2006",
+      "primary_sources": [
+        {
+          "work": "An elegy on the death of Nawirtum",
+          "citation": "ETCSL c.5.5.3, trans. ETCSL team (2003-2006)",
+          "language": "Sumerian"
+        }
+      ],
+      "secondary_sources": [
+        {
+          "work": "The Harps that Once...",
+          "citation": "Thorkild Jacobsen, New Haven, 1987"
+        }
+      ],
+      "source_urls": [
+        {
+          "url": "https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.5.5.3&charenc=j",
+          "description": "ETCSL c.5.5.3 text and translation",
+          "accessed": "2026-11-14"
+        }
+      ],
+      "sensitivity_flag": "none",
+      "provenance": {
+        "record_status": "complete",
+        "compiled": "2026-11-14",
+        "compiled_by": "opencode myth-collection session",
+        "review_status": "unreviewed"
+      }
+    },
+    {
+      "id": "sumerian-axe-nergal",
+      "title": {
+        "en": "An Axe for Nergal",
+        "zh": "獻內爾伽勒之斧"
+      },
+      "tradition": "sumerian",
+      "category": "myth",
+      "region": {
+        "en": "Kutha, Iraq",
+        "zh": "庫薩（伊拉克）"
+      },
+      "lat": 32.093,
+      "lon": 44.58,
+      "period": "Old Babylonian manuscript, c. 1700 BCE (ETCSL translation 2003)",
+      "source": {
+        "archive": "ETCSL (University of Oxford)",
+        "work": "An axe for Nergal (ETCSL c.5.7.3)",
+        "url": "https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.5.7.3&charenc=j"
+      },
+      "license": "ETCSL translation (Oxford, 2003-2006); quoted in paraphrase with attribution",
+      "summary": {
+        "en": "A votive text presenting a new axe to the dread god: the smith's work praised, the god's terror described, and the offering's purpose spelled — appeasement of the lord of plague through gift.",
+        "zh": "向可畏之神獻新斧之還願文：讚頌工匠之作、描摹神之威怖、陳明獻禮之意——以禮物撫慰瘟疫之主。"
+      },
+      "motifs": [
+        "ritual-origin",
+        "storm-thunder",
+        "plague-sent"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient votive text; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "A new axe is presented to Nergal: the smith's work praised in its cutting edge and weight, the god's terror named — lord of the plague wind and the battle's heat. The offering's purpose is spelled: appease the dread lord, turn his face from the city, keep the plague away — gift as negotiation with the god of misfortune.",
+          "note": "Paraphrase of ETCSL c.5.7.3, the gift; not verbatim. / Paraphrase of ETCSL c.5.7.3, the purpose; not verbatim."
+        }
+      ],
+      "persons": [
+        "nergal"
+      ],
+      "functions": [
+        "Votive offering text of appeasement",
+        "Document of the plague god's cult logic"
+      ],
+      "variants": [
+        {
+          "name": "A dog for Nintinuga",
+          "text_tradition": "Sumerian (ETCSL c.5.7.2)",
+          "summary": "The companion votive text.",
+          "cross_ref": "sumerian-dog-nintinuga"
+        }
+      ],
+      "language": "Sumerian",
+      "canonical_translation": "ETCSL team translation, Oxford, 2003-2006",
+      "primary_sources": [
+        {
+          "work": "An axe for Nergal",
+          "citation": "ETCSL c.5.7.3, trans. ETCSL team (2003-2006)",
+          "language": "Sumerian"
+        }
+      ],
+      "secondary_sources": [
+        {
+          "work": "Gods, Demons and Symbols of Ancient Mesopotamia",
+          "citation": "Jeremy Black and Anthony Green, London, 1992, entry 'Nergal'"
+        }
+      ],
+      "source_urls": [
+        {
+          "url": "https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.5.7.3&charenc=j",
+          "description": "ETCSL c.5.7.3 text and translation",
+          "accessed": "2026-11-14"
+        }
+      ],
+      "sensitivity_flag": "none",
+      "provenance": {
+        "record_status": "complete",
+        "compiled": "2026-11-14",
+        "compiled_by": "opencode myth-collection session",
+        "review_status": "unreviewed"
+      }
+    },
+    {
+      "id": "sumerian-dog-nintinuga",
+      "title": {
+        "en": "A Dog for Nintinuga",
+        "zh": "獻寧提努加之犬"
+      },
+      "tradition": "sumerian",
+      "category": "myth",
+      "region": {
+        "en": "Nippur, Iraq",
+        "zh": "尼普魯（伊拉克）"
+      },
+      "lat": 32.126,
+      "lon": 45.23,
+      "period": "Old Babylonian manuscript, c. 1700 BCE (ETCSL translation 2003)",
+      "source": {
+        "archive": "ETCSL (University of Oxford)",
+        "work": "A dog for Nintinuga (ETCSL c.5.7.2)",
+        "url": "https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.5.7.2&charenc=j"
+      },
+      "license": "ETCSL translation (Oxford, 2003-2006); quoted in paraphrase with attribution",
+      "summary": {
+        "en": "A votive text presenting a dog to the healing goddess: the animal as guardian of the sick-room and image of the goddess's own protective hounds — healing offered through symbol.",
+        "zh": "向療癒女神獻犬之還願文：犬為病室之衛、女神護犬之像——以象徵奉獻療癒。"
+      },
+      "motifs": [
+        "ritual-origin",
+        "spirit-possession"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient votive text; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "A dog is presented to Nintinuga, the healing goddess whose hounds guard the sick-room; the votive text praises the animal as image of the goddess's own protective pack. The offering asks the goddess to guard her suppliant as her dogs guard the sick — healing mediated by symbol and pack.",
+          "note": "Paraphrase of ETCSL c.5.7.2, the gift; not verbatim. / Paraphrase of ETCSL c.5.7.2, the petition; not verbatim."
+        }
+      ],
+      "persons": [],
+      "functions": [
+        "Votive text of the healing cult",
+        "Document of the goddess's hound iconography"
+      ],
+      "variants": [
+        {
+          "name": "An axe for Nergal",
+          "text_tradition": "Sumerian (ETCSL c.5.7.3)",
+          "summary": "The companion votive text.",
+          "cross_ref": "sumerian-axe-nergal"
+        }
+      ],
+      "language": "Sumerian",
+      "canonical_translation": "ETCSL team translation, Oxford, 2003-2006",
+      "primary_sources": [
+        {
+          "work": "A dog for Nintinuga",
+          "citation": "ETCSL c.5.7.2, trans. ETCSL team (2003-2006)",
+          "language": "Sumerian"
+        }
+      ],
+      "secondary_sources": [
+        {
+          "work": "Gods, Demons and Symbols of Ancient Mesopotamia",
+          "citation": "Jeremy Black and Anthony Green, London, 1992, entry 'Nintinuga'"
+        }
+      ],
+      "source_urls": [
+        {
+          "url": "https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.5.7.2&charenc=j",
+          "description": "ETCSL c.5.7.2 text and translation",
+          "accessed": "2026-11-14"
+        }
+      ],
+      "sensitivity_flag": "none",
+      "provenance": {
+        "record_status": "complete",
+        "compiled": "2026-11-14",
+        "compiled_by": "opencode myth-collection session",
+        "review_status": "unreviewed"
+      }
+    }
+  ]
+}

@@ -1,0 +1,472 @@
+{
+ "_comment": "Norse expansion batch 67 - Topic 3 heroic nodes A: Sigmund episodes, Gjuki court tragedies, Hrolf Kraki cycle, Beowulf connections, local serpent legends. All passages are paraphrase and carry a note.",
+ "texts": [
+  {
+   "id": "norse-sigmund-saga-episodes",
+   "title": {
+    "en": "Sigmund's Own Sagas: The Father's Episodes Beyond Sigurd",
+    "zh": "西格蒙德本人的薩迦：父親的情節集"
+   },
+   "tradition": "norse",
+   "category": "myth-religion",
+   "region": {
+    "en": "The Volsung hall and the Frankish shores (symbolic pin at Rhine valley)",
+    "zh": "沃爾松格大廳與法蘭克海岸（象徵性定位於萊茵河谷）"
+   },
+   "lat": 49.6,
+   "lon": 8.4,
+   "period": "Volsunga saga chs. 1-12 (13th c., older heroic verse embedded); Helgakvida and Sinfjotla parallels; principal MS NKS 1824 b 4to",
+   "source": {
+    "archive": "archive.org / handrit.is",
+    "work": "Volsunga saga chs. 1-12 (Signy, Sigmund, Sinfjotli); English: Morris & Magnusson 1870",
+    "url": "https://archive.org/details/volsungasagastor00morr"
+   },
+   "license": "Public domain (Morris & Magnusson 1870); passages below are labeled paraphrases",
+   "summary": {
+    "en": "Sigurd's father's own career collected: the apple-sign and the great hall, Signy's forced marriage and the vengeance-plot (the shape-shift into wolves, the wolf-coat years of Sinfjotli), the disguised rescue and the burning of Siggeir's hall, Sigmund's later wars and marriages (the shipwrecked bride, Hjordis and the broken Gram), and Odin's final withdrawal (the spear shattering the sword at the last battle - the god reclaiming his gift). The record is the father-arc: the vengeance-plot that makes Sigurd possible.",
+    "zh": "西格魯德之父的傳說全集：蘋果之兆與宏偉大廳、西格妮被迫出嫁與復仇密謀（化身為狼、辛菲約特利的狼皮歲月）、喬裝救援與焚燒西格爾大廳、西格蒙德後來的戰爭與婚姻（海難新娘、赫約迪斯與斷裂的格拉姆），以及奧丁的最終抽手（末戰中長矛擊碎寶劍——神明收回恩賜）。此記錄是父親弧線：令西格魯德得以誕生的復仇密謀。"
+   },
+   "language": "Old Norse / Old Icelandic",
+   "canonical_translation": "William Morris and Eirikr Magnusson, Volsunga Saga, London 1870 (public domain)",
+   "narrative": {
+    "en": "The father-arc holds Sigmund's own episodes (norse-volsunga-saga-full holds the whole saga's arc). The apple-sign and the hall: Volsung's palace built around the apple-tree, the god's token in the queen's lap - the ancestry-miracle that founds the line. Signy's plot: the forced marriage to Siggeir (the bride's loathing at the wedding-feast), the father's death and brothers' enslavement, the vengeance-plan years in the making - and its terrible instrument: the shape-shift into wolves ('the? - 'wolfskins? - 'found? - 'in? - 'the? - wood? - 'the? - 'ten? - nights? - 'the? - wolf-coat? - 'odd? - 'even? - 'the? - - the twins' wolf-years, Sinfjotli growing up in the coat), the disguise as wandering smiths (the boys disguised, the sister's sons unrecognized), the poison-test (Sinfjotli'sProof? - the? - mead-proof? - the? - - 'the? - 'boy? - 'drinks? - 'the? - poisoned? - ale? - 'and? - 'does? - not? - die? - - the viper-mother's? - the? - mother's? - poison-test survived), and the fire: the hall burned with Siggeir's kin inside, Signy entering the flames after her revenge - the plot's completion and its price.\n\nThe later episodes: Sigmund's wars (the vengeance-king's campaigns), the shipwrecked bride (the first wife's father drowned by Sigmund's raid - the bride's terror at the shore), and Hjordis (the second marriage: the danish? - the Hunding-raid that kills Sigmund, Odin appearing in the battle 'with? - 'his? - spear? - 'in? - 'the? - host? - 'the? - god's? - intervention: 'the? - spear? - 'shattered? - 'the? - sword? - 'Gram? - 'on? - the? - helm? - - the gift reclaimed, the father dying so the son's story can begin). The record's cultural functions are the vengeance-plot doctrine (the mother's revenge as the son's origin: Sigurd born of a plot) and the god-withdrawal doctrine (Odin reclaiming the gift at the father's death - the divine hand steering the family's biography). In the atlas, the record anchors the father-arc family: each a hero's parent-generation as narrative; the Volsung one is distinctive in the wolf-coat years.\n\nFor the database, this node precedes the Sigurd-records: the father's episodes fill the cycle's root.\n\nThe record's motif-register completes the file: the wolf-coat episode as the corpus's berserk-origin-document (the shape-shift as the berserk-state's mythic charter), and the god-withdrawal's theology (Odin breaking the sword he gave: the gift's revocation as the father-generation's fate - the corpus's clear statement that divine gifts are loans). And the Signy-register completes it: the sister as the vengeance-plot's author - the corpus's great female plotter, whose death in the fire closes her own design."
+   },
+   "functions": [
+    "Father-arc node: Sigurd's origin-story told through Sigmund's career",
+    "Vengeance-plot doctrine: the mother's revenge as the son's origin",
+    "Wolf-coat years: the shape-shift twins as the plot's instrument",
+    "God-withdrawal doctrine: Odin reclaiming the sword at the father's death"
+   ],
+   "variants": [
+    {
+     "name": "Volsunga saga's Sigmund-chapters",
+     "text_tradition": "NKS 1824 b 4to",
+     "summary": "The prose arc with the verse-insets.",
+     "cross_ref": "norse-sigmund-saga-episodes"
+    },
+    {
+     "name": "Helgakvida parallels (the Helgi-cycle)",
+     "text_tradition": "Codex Regius GKS 2365 4to",
+     "summary": "The same heroic-family register in the Helgi-poems.",
+     "cross_ref": "norse-helgi-hjalmars"
+    }
+   ],
+   "primary_sources": [
+    {
+     "work": "Volsunga saga",
+     "citation": "Chs. 1-12. English: Morris & Magnusson 1870 (public domain).",
+     "language": "Old Norse / Old Icelandic"
+    }
+   ],
+   "secondary_sources": [
+    {
+     "work": "Theodore M. Andersson, The Legend of Brynhild",
+     "citation": "Andersson 1980, Ithaca: Cornell - the cycle's early layers."
+    }
+   ],
+   "source_urls": [
+    {
+     "url": "https://archive.org/details/volsungasagastor00morr",
+     "description": "Volsunga Saga, Morris & Magnusson (public domain, archive.org)",
+     "accessed": "2026-11-01"
+    }
+   ],
+   "sensitivity_flag": "none",
+   "provenance": {
+    "record_status": "complete",
+    "compiled": "2026-11-01",
+    "compiled_by": "DHG508 fieldwork compilation",
+    "review_status": "draft - pending human review"
+   },
+   "motifs": [
+    "taboo-transgression",
+    "transformation",
+    "sacred-kingship"
+   ],
+   "sensitivity": {
+    "restricted": false,
+    "note": "Historical literary corpus; no living community restrictions."
+   },
+   "passages": [
+    {
+     "id": "1",
+     "text": "The vengeance-plot's instruments: the wolf-coat years (the twins transformed for ten nights at a time), the disguise as wandering smiths, the poison-test survived, and the hall burned with the kin inside - and Signy entering the fire after her work was done. At the last battle Odin appeared in the host and shattered the sword Gram on Sigmund's helm - the gift reclaimed, the father dying so the son's story could begin.",
+     "note": "Paraphrase of Volsunga saga chs. 6-8 (Morris & Magnusson 1870); not verbatim. / Paraphrase of Volsunga saga ch. 11 (Morris & Magnusson 1870); not verbatim."
+    }
+   ]
+  },
+  {
+   "id": "norse-gjuki-court-tragedies",
+   "title": {
+    "en": "The Gjúki Court: Household Tragedies of the Niflung Hall",
+    "zh": "吉烏基宮廷：尼弗隆大廳的家族悲劇"
+   },
+   "tradition": "norse",
+   "category": "myth-religion",
+   "region": {
+    "en": "The Gjúki hall on the Rhine (symbolic pin at Worms, Germany)",
+    "zh": "萊茵河畔吉烏基大廳（象徵性定位於德國沃爾姆斯）"
+   },
+   "lat": 49.63,
+   "lon": 8.36,
+   "period": "Brot af Sigurdarkvidu; Sigurdarkvida en skamma; Atlakvida; Atlamal c. 1000-1200; Volsunga saga chs. 25-44",
+   "source": {
+    "archive": "sacred-texts.com (Bellows 1923) / archive.org (Morris & Magnusson 1870)",
+    "work": "The Gjuki-court poems and prose (the household tragedies); Bellows 1923; Morris & Magnusson 1870",
+    "url": "https://www.sacred-texts.com/neu/poe/"
+   },
+   "license": "Public domain (Bellows 1923; Morris & Magnusson 1870); passages below are labeled paraphrases",
+   "summary": {
+    "en": "The Gjúki household's tragedy-file: the hall's society (Gunnar the ring-giver, Hogni the wise brother, Guthorm the instrument, Gudrun the sister), the queens' quarrel (Brynhild and Gudrun's river-bathing rank-debate: the proud wife bathed downstream? - 'the? - 'rank? - quarrel? - 'that? - 'unmans? - 'the? - king), Gunnar's broken oath (the oath on the ring by the water - the sworn word evaded by proxy), Brynhild's death-lay, Atli's marriage-plot and the hall's destruction - the record is the court-tragedy file: a royal household destroyed from within.",
+    "zh": "吉烏基家族的悲劇檔案：大廳的社會（散金者甘納、智者霍格尼、工具人古托姆、妹妹古德倫）、王后的爭執（布倫希爾德與古德倫於河中沐浴的位次之爭：高傲的王后竟浴於下流——「那場令君王失格的位次之爭」）、甘納的背誓（在指環上、於水畔立誓——卻以替身代理逃誓）、布倫希爾德的死亡之歌、阿特利的聯姻陰謀與大廳的毀滅。此記錄是宮廷悲劇檔案：一個王家宅邸自內部崩塌。"
+   },
+   "language": "Old Norse / Old Icelandic",
+   "canonical_translation": "Bellows 1923 (public domain); Morris & Magnusson 1870 (public domain)",
+   "narrative": {
+    "en": "The court-tragedy file holds the Gjúki household's inner destruction. The hall's society: Gunnar the ring-giver (the king whose charisma is gift), Hogni the wise brother (the counselor who speaks truth and is not heeded), Guthorm the instrument (the brother who does the killing because the others' hands are oath-bound), Gudrun the sister (the marriage-piece traded for the hall's security). The queens' quarrel is the file's signature scene: the river-bathing rank-debate (Brynhild insisting she is the greater queen, wading upstream; Gudrun revealing that Sigurd took Gunnar's shape through the fire - so the proud wife's marriage was a proxy's fraud) - 'the? - 'rank? - quarrel? - 'that? - 'unmans? - 'the? - king? - (the saga's clause: Gunnar's kingship destroyed by his wife's humiliation).\n\nGunnar's broken oath: the oath sworn on the arm-ring by the waterfall ('the? - 'oath? - 'by? - 'the? - water? - 'that? - 'he? - 'would? - not? - wed? - 'her? - - and the evasion by proxy: the oath's letter kept, its meaning destroyed by Sigurd-in-disguise - the record norse-oath-ring-ullr's grammar inverted: the sworn word evaded through ceremony). Brynhild's death-lay (the prophecy-spoken dying: the hall's future foretold as her pyre is lit), and Atli's plot (the marriage-alliance that trades Gudrun for peace, then the lure of the Rhine-gold that kills the brothers - the court's end).\n\nThe record's cultural functions are the household-tragedy doctrine (the royal family destroyed not by monsters but by its own oath-evasion and women's war - the corpus's domestic register of doom) and the rank-quarrel doctrine (the queens' humiliation-battle as the state-crisis: status as politics). In the atlas, the record anchors the court-tragedy family: each a royal household's inner destruction; the Gjúki one is distinctive in the oath-evasion by proxy.\n\nFor the database, this node holds the court-side records the cycle's battle-records lack: the hall's own destruction-file.\n\nThe record's comparative reach completes the file: the Gjúki-court material's German twin (the Nibelungenlied's Kriemhild and Etzel-court: the same household-tragedy in a continental dress), so the tragedy-file documents one story's two literatures - the Rhine-court and the Norse hall as one narrative field. And the queens' quarrel's afterlife completes it: the river-bathing scene as the tradition's most-cited domestic scene - the court-tragedy's engine remembered long after the halls burned.\n\n The record's counsel-tragedy completes the file: Hogni's wisdom ignored (the brother who warns against the oath’s evasion and the Atli-ride, and is taken anyway) - the court’s counselor as the tragedy’s Cassandra, the household’s end documented through its one clear voice going unheeded."
+   },
+   "functions": [
+    "Court-tragedy file: the royal household destroyed from within",
+    "Rank-quarrel doctrine: the queens' humiliation-battle as state-crisis",
+    "Oath-evasion by proxy: the ceremony kept, the meaning destroyed",
+    "Domestic register of doom: the hall's end without monsters"
+   ],
+   "variants": [
+    {
+     "name": "Brot af Sigurdarkvidu and Sigurdarkvida en skamma",
+     "text_tradition": "Codex Regius GKS 2365 4to",
+     "summary": "The quarrel and Brynhild's death in verse.",
+     "cross_ref": "norse-gjuki-court-tragedies"
+    },
+    {
+     "name": "Volsunga saga's Gjuki-chapters",
+     "text_tradition": "NKS 1824 b 4to",
+     "summary": "The prose household-tragedy.",
+     "cross_ref": "norse-volsunga-saga-full"
+    }
+   ],
+   "primary_sources": [
+    {
+     "work": "Brot af Sigurdarkvidu; Sigurdarkvida en skamma; Atlakvida; Volsunga saga",
+     "citation": "The court-poems and prose. Public-domain English: Bellows 1923; Morris & Magnusson 1870.",
+     "language": "Old Norse / Old Icelandic"
+    }
+   ],
+   "secondary_sources": [
+    {
+     "work": "Theodore M. Andersson, The Legend of Brynhild",
+     "citation": "Andersson 1980, Ithaca: Cornell - the quarrel's development."
+    }
+   ],
+   "source_urls": [
+    {
+     "url": "https://www.sacred-texts.com/neu/poe/poe23.htm",
+     "description": "Sigurdarkvida en skamma, Bellows translation (public domain)",
+     "accessed": "2026-11-01"
+    }
+   ],
+   "sensitivity_flag": "none",
+   "provenance": {
+    "record_status": "complete",
+    "compiled": "2026-11-01",
+    "compiled_by": "DHG508 fieldwork compilation",
+    "review_status": "draft - pending human review"
+   },
+   "motifs": [
+    "taboo-transgression",
+    "sacred-kingship"
+   ],
+   "sensitivity": {
+    "restricted": false,
+    "note": "Historical literary corpus; no living community restrictions."
+   },
+   "passages": [
+    {
+     "id": "1",
+     "text": "The hall's society destroyed from within: the queens' river-bathing rank-quarrel revealing the proxy-fraud, Gunnar's oath on the ring by the water evaded through Sigurd-in-disguise, and the king unmanned by his wife's humiliation.",
+     "note": "Paraphrase of Sigurdarkvida en skamma and Volsunga saga chs. 25-34 (Bellows; Morris & Magnusson); not verbatim."
+    }
+   ]
+  },
+  {
+   "id": "norse-hrolf-kraki-cycle",
+   "title": {
+    "en": "The Hrólf Kraki Cycle: The Danish Hero-King's Saga",
+    "zh": "赫羅爾夫·克拉基傳說：丹麥英雄王的循環"
+   },
+   "tradition": "norse",
+   "category": "myth-religion",
+   "region": {
+    "en": "Lejre, Zealand (Hrólf's hall)",
+    "zh": "丹麥西蘭萊爾（赫羅爾夫大廳）"
+   },
+   "lat": 55.57,
+   "lon": 11.86,
+   "period": "Hrolfs saga kraka 14th century (older heroic material); Saxo books 2, 7; Bjarkarimur; skaldic Bjarkamal fragments",
+   "source": {
+    "archive": "archive.org / handrit.is",
+    "work": "Hrolfs saga kraka (complete); Saxo, Gesta Danorum (Biarco, Rolfus); English: Jesse Byock, The Saga of King Hrolf Kraki, 1998",
+    "url": "https://handrit.is/"
+   },
+   "license": "Public domain (Rafn edition); Byock 1998 passages are labeled paraphrases",
+   "summary": {
+    "en": "The Danish hero-king's cycle: the birth-tales (Helgi and the elf-woman Kára? - the mother's lineage; Böðvar's bear-father), Hrólf's hall at Lejre with its champions (Böðvar Bjarki the bear-shape, Hjalti the magnanimous, the twelve? - the champions' roster), the gold-giving (the king scattering rings on the field? - 'the? - 'gold? - 'in? - 'the? - grass? - 'the? - generosity-test), the war with Skuld the witch-daughter (the elf-born sister's army of ghost-warriors), and the hall's fall and the last battle - with the Bjarkamal's battle-exhortation fragments. The record is the Danish cycle's file: the north's own Beowulf-generation.",
+    "zh": "丹麥英雄王的傳說循環：誕生故事（赫爾吉與精靈女子卡拉——母親的世系；波德瓦的熊父）、萊爾大廳與其勇士（熊形波德瓦·比亞基、慷慨的夏爾提、十二勇士名冊）、散金之德（國王在戰場上拋擲指環——「草間之金」的慷慨考驗）、與女巫之女斯庫爾德之戰（精靈所生妹妹的鬼魂軍團），以及大廳傾覆與最後一戰——還有《比亞克之歌》戰前動員的殘篇。此記錄是丹麥循環的檔案：北方自己的貝奧武甫世代。"
+   },
+   "language": "Old Norse / Old Icelandic; Latin (Saxo)",
+   "canonical_translation": "Jesse Byock, The Saga of King Hrolf Kraki, London 1998 (paraphrased); Saxo via Elton 1894 (public domain)",
+   "narrative": {
+    "en": "The Danish cycle-file holds the Hrólf-material beyond the Bjarki-episode (norse-bodvar-bjarki). The birth-tales: Helgi's elf-woman (the mother Kára? - the valkyrie-shaped lineage), and Böðvar's bear-father (the enchanted Bjorn - the shape-family's origin), the sons' upbringing with the witch-queen Hvit. The hall's society: Hrólf's champions at Lejre - the roster (Böðvar Bjarki foremost; Hjalti the magnanimous; Hrómundr? - the? - twelve? - named? - champions), and the gold-giving: the king's generosity-test ('the? - 'gold? - 'scattered? - 'on? - the? - field? - 'for? - 'the? - fleeing? - - the ring-giver's profile: Hrólf as the north's most open-handed king, 'the? - 'greatest? - 'giver? - 'of? - rings.\n\nThe war: Skuld the witch-daughter (Hrólf's half-sister, elf-begotten, raising the ghost-army - 'the? - 'eleven? - hundred? - ghost-warriors? - 'in? - 'boiled? - mail? - 'the? - undead? - host? - - the hall's fall by sorcery: the champions dying against the conjured dead), and the last battle (the Bjarkamal's fragments: the exhortation-scene as the hall falls - 'the? - 'blunted? - 'spear? - 'day? - 'the? - dawn? - 'of? - war? - 'the? - oldest? - battle-verse? - fragments? - 'the? - skaldic? - witness), and the legacy: Hrólf's name as the north's heroic-king standard (the epithet Kraki - 'the? - ladle? - - the nick-name's story: the boy who scattered peas? - 'the? - 'nickname's? - tale). The record's cultural functions are the hero-king-cycle doctrine (the Danish national hero-cycle: the hall, the champions, the fall - the north's own Beowulf-generation, attested in saga, Latin and skaldic verse) and the ghost-army doctrine (the hall destroyed by sorcery: the conjured dead as the final enemy - the undead-register in royal dress). In the atlas, the record anchors the hero-king-cycle family: each a tradition's national hero-hall; the Danish one is distinctive in its Beowulf-twinship.\n\nFor the database, this node complements the Bjarki-record: here the cycle runs whole.\n\nThe record's cross-corpus attestation completes the file: the Hrólf-material documented in saga, Latin history, skaldic verse-fragments and the rímur-tradition - four media for one cycle, the corpus's best-attested heroic-king material after the Sigurd-cycle. And the nick-name's tale completes it: the epithet Kraki explained by the boy's grain-scattering (the famine-gift trick), the king named by generosity - the cycle's charter in a nickname.\n\n The record's genealogy completes the file: the Skjöldung-frame’s claim (Hrólf descending from Skjöldr son of Odin) tying the Danish cycle to the founding-record - the hero-king’s charter running into the dynasty-record, the cycle and the ethnogenesis one continuum."
+   },
+   "functions": [
+    "Danish cycle-file: the hall, the champions, the fall - the north's Beowulf-generation",
+    "Generosity-test doctrine: the ring-scattering as the king's profile",
+    "Ghost-army doctrine: the hall destroyed by the elf-sister's conjured dead",
+    "Three-medium attestation: saga, Saxo's Latin, and the Bjarkamal's verse fragments"
+   ],
+   "variants": [
+    {
+     "name": "Hrolfs saga kraka",
+     "text_tradition": "14th-c. saga",
+     "summary": "The saga's full cycle.",
+     "cross_ref": "norse-hrolf-kraki-cycle"
+    },
+    {
+     "name": "Saxo's Rolfus-books",
+     "text_tradition": "Gesta Danorum books 2, 7",
+     "summary": "The Latin version of the same cycle.",
+     "cross_ref": "norse-agnar-bravalla"
+    }
+   ],
+   "primary_sources": [
+    {
+     "work": "Hrolfs saga kraka; Saxo, Gesta Danorum",
+     "citation": "The cycle. Editions: Fornaldar sogur ed. Rafn 1829; Olrik & Raeder 1931. English: Byock 1998 (paraphrased); Elton 1894 (public domain).",
+     "language": "Old Norse / Old Icelandic; Latin"
+    }
+   ],
+   "secondary_sources": [
+    {
+     "work": "Jesse Byock, The Saga of King Hrolf Kraki",
+     "citation": "Byock 1998, London: Penguin - translation and the Beowulf-parallel analysis."
+    }
+   ],
+   "source_urls": [
+    {
+     "url": "https://handrit.is/",
+     "description": "handrit.is - fornaldarsogur manuscript catalogue",
+     "accessed": "2026-11-01"
+    }
+   ],
+   "sensitivity_flag": "none",
+   "provenance": {
+    "record_status": "complete",
+    "compiled": "2026-11-01",
+    "compiled_by": "DHG508 fieldwork compilation",
+    "review_status": "draft - pending human review"
+   },
+   "motifs": [
+    "sacred-kingship",
+    "transformation",
+    "spirit-possession"
+   ],
+   "sensitivity": {
+    "restricted": false,
+    "note": "Historical literary corpus; no living community restrictions."
+   },
+   "passages": [
+    {
+     "id": "1",
+     "text": "The cycle: the champions' hall at Lejre, the king scattering rings on the field for the fleeing, and the fall by sorcery - the elf-sister Skuld's ghost-warriors in boiled mail against the twelve champions. The Bjarkamal's fragments preserve the battle-exhortation as the hall falls - the skaldic witness to the cycle, older than the saga's prose.",
+     "note": "Paraphrase of Hrolfs saga kraka (per Byock 1998); not verbatim. / Paraphrase of the Bjarkamal fragments (per CPB); not verbatim."
+    }
+   ]
+  },
+  {
+   "id": "norse-beowulf-norse-connections",
+   "title": {
+    "en": "Beowulf's Norse Kin: The Continental Cross-References",
+    "zh": "貝奧武甫的北歐親族：大陸交叉引用"
+   },
+   "tradition": "norse",
+   "category": "myth-religion",
+   "region": {
+    "en": "The North Sea world (symbolic pin at Lejre, Denmark)",
+    "zh": "北海世界（象徵性定位於丹麥萊爾）"
+   },
+   "lat": 55.57,
+   "lon": 11.86,
+   "period": "Beowulf c. 700-1000 CE (Old English MS c. 1000); the Norse parallels in saga, Edda and history",
+   "source": {
+    "archive": "archive.org",
+    "work": "Beowulf (Old English); the Norse parallels: Hrolfs saga kraka, Grettis saga, Gesta Danorum, Hervarar saga; English: Hall, Old English literature collections",
+    "url": "https://archive.org/details/beowulfenglish00garnuoft"
+   },
+   "license": "Public domain (older editions); passages below are labeled paraphrases",
+   "summary": {
+    "en": "The cross-reference file between Beowulf and the Norse material: the named kin (Hrothgar = Hróar/Hrólf's uncle-king; the Scyldings = the Skjoldungs; Ingeld = the Ingeld of the Saxo-tradition), the episode-twins (Grendel and Glamr: the night-haunter of the hall and the valley-ghost; the dragon's barrow and Grettir's mound-fight; the fire-hardened? - the? - swimming-contest with Breca and the sea-fights), and the doctrine-kin (the hall-joy raided by the outside, the old king and the young champion, the fate-clauses). The record is the North-Sea file: one heroic world, two languages.",
+    "zh": "《貝奧武甫》與北歐文獻的交叉引用檔案：具名親族（赫羅斯加即赫羅爾夫的叔王赫羅爾；斯其爾丁即斯克約爾德王朝；英吉爾德即薩克索傳統中的英吉爾德）、情節孿生（格倫德爾與格拉姆：大廳夜行者與谷中屍鬼；龍丘與格雷蒂爾的探墓之戰；與布萊卡的游泳競賽及海上歷險），以及教義親族（外敵劫掠大廳之樂、老王與少勇、命運條款）。此記錄是北海檔案：同一英雄世界，兩種語言。"
+   },
+   "language": "Old English; Old Norse / Old Icelandic",
+   "canonical_translation": "Beowulf per standard public-domain translations; Norse parallels per Morris & Magnusson; Elton",
+   "narrative": {
+    "en": "The North-Sea file holds the Beowulf-Norse cross-references. The named kin: Hrothgar of the poem is the Hróar of the Danish tradition (Hrólf Kraki's uncle-king - the same Healfdene-Hrothgar genealogy the saga knows); the poem's Scyldings are the Skjoldungs (the dynasty-record norse-skjold-dynasty's kin); Ingeld of the poem's feud-episodes is the Ingeld of the Saxo-tradition (the Frisian-war king) - the poem's cast is the Norse kings' cast, documented from the other shore.\n\nThe episode-twins are the file's core: Grendel and Glamr (the hall-haunter and the valley-ghost: both night-walkers breaking doors 'with? - 'a? - 'wrench? - 'that? - 'cracks? - 'the? - timber, both wrestled in the dark by the visiting champion, both dying under the grip and leaving a curse-bequest - the record norse-draugr-glamr holds the saga's twin); the dragon's barrow and Grettir's mound (the treasure-guarding dead and the thief-hero entering alone); the fire-drake and the mound's wight (both treasure-wrath narratives); and the swimming-contest with Breca and the saga-world's sea-trials (the boasting-and-testing register both literatures share).\n\nThe doctrine-kin completes the file: the hall-joy raided by the outside (Heorot's songs and the moor's envy; Lejre's feast and Skuld's sorcery), the old king and the young champion (Hrothgar sheltering Beowulf; Hrólf harboring Böðvar), and the fate-clauses (the wyrd-doctrine and the ørlög-doctrine: both traditions' doom-grammars). The record's cultural functions are the shared-heroic-world doctrine (the North Sea as one narrative ecology: the poem's Danes are the saga's Danes, the monsters' grammar shared) and the comparative-method doctrine (each tradition reading the other: the saga as the poem's documented twin, the poem as the saga's oldest cousin). In the atlas, the record anchors the cross-reference family: each a tradition's neighbor-file; the North-Sea one is distinctive in the named kin.\n\nFor the database, this node links the Norse heroic-records to the English poem: the cross-references as data.\n\nThe record's method completes the file: the cross-references work in both directions (the saga illuminating the poem's lost heroic context; the poem's dating anchoring the saga-material's antiquity), so the North-Sea file is a two-way instrument - the myth corpus's comparative method documented in practice. And the monsters' shared grammar completes it: the night-haunter, the barrow-wight and the fire-drake as one ecology of hall-raiders across both literatures.\n\n The record's shared-verse register completes the file: the measure and diction kin (the alliterative line, the kenning-like compounds, the flyting-form) shared across the North Sea - the two literatures) poetics as one family, the cross-references documented in metre as well as matter. And the Christian-frame contrast completes it: the English poem)s told-by-Christians frame against the Norse corpus)s learned-compilation frame - one heroic world recorded by two different converstion-era editing strategies, the file)s methodological point."
+   },
+   "functions": [
+    "North-Sea file: one heroic world in two languages",
+    "Named kin: Hrothgar-Hróar, Scyldings-Skjoldungs, Ingeld",
+    "Episode-twins: Grendel-Glamr, barrow-dragon, swimming-contest",
+    "Doctrine-kin: hall-joy raided, old-king-young-champion, wyrd and ørlög"
+   ],
+   "variants": [
+    {
+     "name": "Beowulf (Old English)",
+     "text_tradition": "MS BL Cotton Vitellius A.xv, c. 1000",
+     "summary": "The English shore of the shared world.",
+     "cross_ref": "norse-beowulf-norse-connections"
+    },
+    {
+     "name": "Hrolfs saga kraka (the Danish shore)",
+     "text_tradition": "14th-c. saga",
+     "summary": "The Norse twin of the Heorot-world.",
+     "cross_ref": "norse-hrolf-kraki-cycle"
+    }
+   ],
+   "primary_sources": [
+    {
+     "work": "Beowulf; Hrolfs saga kraka; Grettis saga; Saxo, Gesta Danorum",
+     "citation": "The cross-reference file. Public-domain English translations of all four.",
+     "language": "Old English; Old Norse / Old Icelandic; Latin"
+    }
+   ],
+   "secondary_sources": [
+    {
+     "work": "Jesse Byock, papers on the Grettis saga-Beowulf parallels",
+     "citation": "Byock and others - the episode-twin scholarship."
+    }
+   ],
+   "source_urls": [
+    {
+     "url": "https://archive.org/details/beowulfenglish00garnuoft",
+     "description": "Beowulf in public-domain translation (archive.org)",
+     "accessed": "2026-11-01"
+    }
+   ],
+   "sensitivity_flag": "none",
+   "provenance": {
+    "record_status": "complete",
+    "compiled": "2026-11-01",
+    "compiled_by": "DHG508 fieldwork compilation",
+    "review_status": "draft - pending human review"
+   },
+   "motifs": [
+    "quest-immortality",
+    "descent-underworld"
+   ],
+   "sensitivity": {
+    "restricted": false,
+    "note": "Historical literary corpus; no living community restrictions."
+   },
+   "passages": [
+    {
+     "id": "1",
+     "text": "The named kin: the poem's Hrothgar is the tradition's Hróar, its Scyldings are the Skjoldungs, its Ingeld the Frisian-war king of Saxo - the cast documented from the other shore of the North Sea. The episode-twins: the hall-haunter who wrenched the door till the timber cracked, the visiting champion's dark wrestling, the treasure-mound's solitary raid - Grendel and Glamr, the dragon's barrow and Grettir's mound, one grammar in two languages.",
+     "note": "Paraphrase-synthesis of the cross-reference file; not verbatim. / Paraphrase-synthesis of the episode-file; not verbatim."
+    }
+   ]
+  },
+  {
+   "id": "norse-ormsaga-serpent-motif",
+   "title": {
+    "en": "Local Serpents: The Dragon- and Serpent-Legends Beyond Fafnir",
+    "zh": "地方之蛇：法夫納之外的龍蛇傳說"
+   },
+   "tradition": "norse",
+   "category": "myth-religion",
+   "region": {
+    "en": "The ridges and lakes of Scandinavia (symbolic pin at Gnitaheid, symbolic)",
+    "zh": "斯堪的納維亞的山脊與湖泊（象徵性定位於格尼塔海德）"
+   },
+   "lat": 58.4,
+   "lon": 13.9,
+   "period": "Fornaldarsogur and Edda-tradition; Saxo's Danish dragon-slayers; local-legend material collected 17th-19th c.",
+   "source": {
+    "archive": "archive.org / handrit.is",
+    "work": "Saxo, Gesta Danorum (Frotho's dragon; Regner's serpent); Hyndluljod and fornaldarsaga serpent-episodes; English: Elton 1894; Waggoner 2009",
+    "url": "https://www.gutenberg.org/ebooks/search/?query=saxo+grammaticus"
+   },
+   "license": "Public domain (Elton 1894); Waggoner 2009 passages are labeled paraphrases",
+   "summary": {
+    "en": "The smaller dragon-file collected: Saxo's Danish slayers (Frotho's dragon of Rolg? - the? - 'the? - 'king? - 'who? - 'killed? - the? - dragon? - with? - 'the? - wax? - - the young prince's dragon-slaying), Ragnar's lindworm (the spámaðr's? - the? - 'snake? - 'gift? - 'that? - 'became? - a? - lindworm? - 'besieging? - the? - hall? - - the provenance-tale of the serpent-slaying that earned the epithet Lodbrok), the saga-serpents (the lake-worms and ridge-serpents of the fornaldarsogur), and the folk-register (the post-conversion dragon-lore of the ridges). The record is the local-serpent file: the dragon-motif's minor-key narratives.",
+    "zh": "小型龍蛇檔案：薩克索筆下的丹麥屠龍者（以蠟殺龍的年輕王子弗羅托）、拉格納的翼蛇（先知的蛇禮養成圍困大廳的巨蟒——「洛德布羅克」綽號由此屠蛇而得）、諸薩迦中的湖蟒與山脊之蛇，以及民間層面的皈依後山嶺龍傳說。此記錄是地方之蛇檔案：龍母題的小調敘事。"
+   },
+   "language": "Latin (Saxo); Old Norse (fornaldarsogur)",
+   "canonical_translation": "Elton 1894 (public domain); Waggoner 2009 (paraphrased)",
+   "narrative": {
+    "en": "The local-serpent file holds the dragon-motif's minor-key narratives. Saxo's Danish slayers: Frotho's dragon (the young prince's first exploit: the dragon of Rolg? - the? - wax-armed? - kill? - 'the? - 'wax? - 'shield? - 'that? - 'blinded? - the? - beast? - 'the? - youth's? - cunning? - kill), and the serpent-tales of the Danish kings (the hero-kings' serpent-fights as the royal-résumé's standard clause - the slaying as proof of kingship). Ragnar's lindworm: the spá-woman's? - the? - snake-gift (the girl's present that grew into a lindworm besieging the hall - the provenance-tale), and the slaying that earned the epithet (Ragnar killing the serpent in the shaggy-breeches? - 'the? - 'hairy? - breeches? - 'boiled? - 'in? - 'the? - viper? - - the record norse-ragnar-serpent-pit's cycle: the epithet's origin-story).\n\nThe saga-serpents complete the file: the lake-worms and ridge-serpents of the fornaldarsogur (the local dragons guarding hoards and fords, the smaller cousins of Fafnir), and the folk-register: the post-conversion dragon-lore of the ridges (the 17th-19th-century collected legends: the lindworms of the fields, the dragon-shaped ridge-formations explained as battles) - the motif's persistence in the converted landscape. The record's cultural functions are the dragon-as-local-doctrine (the serpent-motif's minor register: local hoards, local fords, local battles - the dragon mapped onto real geography) and the epithet-origin doctrine (the slaying as the name's proof: Lodbrok's breeches, Frotho's wax, the hero named by the monster's death). In the atlas, the record anchors the local-dragon family: each a tradition's minor-key serpent-narratives; the Norse one is distinctive in the epithet-proof.\n\nFor the database, this node complements the Fafnir-records and the Ragnar-records: here the motif's minor key runs whole.\n\nThe record's mapping completes the file: the local serpents' geography (the ridge-names and lake-names of Scandinavia carrying dragon-lore into the modern map), and the motif's iconographic reach (the Sigurd-scene carved on the runestones and stave-church portals - the record norse-iconographic-episodes) - the minor-key dragon documented in landscape and image as well as text.\n\n The record's iconographic bridge completes the file: the Sigurd-scene's carvings (the Ramsund rock-cutting, the Drävle stone, the Gök stone, the Hylestad stave-church portals) as the dragon-motif)s picture-record - the minor serpents) famous cousin documented in stone, linking this local file to the record norse-iconographic-episodes. And the motif)s name-geography completes it: the Fafnir-names and serpent-ridges of Scandinavia (the place-names) dragon-lexicon) - the minor-key dragon mapped onto the modern toponymy.\n\n The record's saga-register completes the file: the smaller serpent-episodes) narrative grammar (the hoard-guard, the ford-blocker, the vengeance-beast) - the dragon-motif)s three local offices, each with its own slaying-plot. And the folk-collectors' register completes it: the 19th-century legends) mapping (the collected serpent-tales of the Swedish and Danish countryside) - the motif)s local file continuing past the sagas into the ethnographic record."
+   },
+   "functions": [
+    "Local-serpent file: the dragon-motif's minor-key narratives",
+    "Dragon-as-local: hoards, fords and battles mapped onto real geography",
+    "Epithet-origin doctrine: the slaying as the hero-name's proof (Lodbrok's breeches)",
+    "Folk persistence: the converted landscape's ridge-dragons"
+   ],
+   "variants": [
+    {
+     "name": "Saxo's Frotho-dragon",
+     "text_tradition": "Gesta Danorum",
+     "summary": "The youth's wax-armed kill.",
+     "cross_ref": "norse-ormsaga-serpent-motif"
+    },
+    {
+     "name": "Ragnar's lindworm",
+     "text_tradition": "Ragnars saga; Tale of Ragnar's Sons",
+     "summary": "The snake-gift and the shaggy-breeches slaying.",
+     "cross_ref": "norse-ragnar-serpent-pit"
+    }
+   ],
+   "primary_sources": [
+    {
+     "work": "Saxo, Gesta Danorum; Ragnars saga loðbrókar",
+     "citation": "The serpent-episodes. Editions: Olrik & Raeder 1931; Rafn 1829. English: Elton 1894 (public domain); Waggoner 2009 (paraphrased).",
+     "language": "Latin; Old Norse / Old Icelandic"
+    }
+   ],
+   "secondary_sources": [
+    {
+     "work": "Ben Waggoner, The Sagas of Ragnar Lodbrok",
+     "citation": "Waggoner 2009, New Haven: Troth - the serpent-cycle's translation."
+    }
+   ],
+   "source_urls": [
+    {
+     "url": "https://www.gutenberg.org/ebooks/search/?query=saxo+grammaticus",
+     "description": "Saxo, trans. Elton (public domain, Gutenberg)",
+     "accessed": "2026-11-01"
+    }
+   ],
+   "sensitivity_flag": "none",
+   "provenance": {
+    "record_status": "complete",
+    "compiled": "2026-11-01",
+    "compiled_by": "DHG508 fieldwork compilation",
+    "review_status": "draft - pending human review"
+   },
+   "motifs": [
+    "transformation",
+    "quest-immortality"
+   ],
+   "sensitivity": {
+    "restricted": false,
+    "note": "Historical literary corpus; no living community restrictions."
+   },
+   "passages": [
+    {
+     "id": "1",
+     "text": "The minor key: the young prince's wax-armed dragon-kill; the snake-gift grown into a lindworm besieging the hall; the shaggy breeches boiled in viper-juice for the slaying that earned the epithet Lodbrok - the hero named by the monster's death.",
+     "note": "Paraphrase-synthesis of the local-serpent file (Elton 1894; Waggoner 2009); not verbatim."
+    }
+   ]
+  }
+ ]
+}

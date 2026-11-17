@@ -1,0 +1,498 @@
+{
+  "_comment": "Baltic deity, stone, and rite records cut from Grimm, Teutonic Mythology vol. IV (Stallybrass trans., 1888) addenda on Perkunas, dawn goddesses, sacred fires, and the Samogitian material of Lasicki (1582). All passages paraphrase.",
+  "texts": [
+    {
+      "id": "baltic-perkunas-moon-halved",
+      "title": {
+        "en": "Perkunas Chops the Moon in Two",
+        "zh": "佩爾庫納斯劈月為二"
+      },
+      "tradition": "baltic",
+      "category": "myth",
+      "region": {
+        "en": "Lithuania (symbolic pin at Vilnius)",
+        "zh": "立陶宛（象徵性定位於維爾紐斯）"
+      },
+      "lat": 54.69,
+      "lon": 25.28,
+      "period": "Daina recorded 19th c. (Rhesa); recorded by Grimm 1888",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Jacob Grimm, Teutonic Mythology, vol. IV (Stallybrass trans., London 1888), addenda on sky and stars, citing L. Rhesa's dainas",
+        "url": "https://archive.org/details/teutonicmytholog04grim"
+      },
+      "license": "Public domain (1888)",
+      "summary": {
+        "en": "As the Edda calls the half-moon 'inn skarði máni', the ship-shaped moon, so the Lithuanian dainas tell that Perkunas chopped the moon in two with his sword — the waning moon is a god's blade-cut.",
+        "zh": "如《埃達》稱半月為『船形之月』，立陶宛達伊納亦詠佩爾庫納斯以劍劈月為二——月虧即神劍之痕。"
+      },
+      "motifs": [
+        "divine-marriage",
+        "transformation",
+        "storm-thunder"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Variant of the moon-forsakes-sun myth; cross-tagged."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "In the Edda the half-moon is called 'inn skarði máni' — the notched, ship-shaped moon; and indeed Perkunas chops the moon in two, as the Lithuanian dainas collected by Rhesa tell. The thunder-god's blade explains the crescent: every waning night is another cut of the sword that avenged the Sun upon her faithless husband.",
+          "note": "Paraphrase of Grimm, Teutonic Mythology IV (Stallybrass 1888), addenda citing Rhesa's dainas; not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "The comparison binds the Baltic sky-myths to the whole Indo-European family of waning-moon tales: moon-cows and moon-horns, new moons hailed as children, and a god whose stroke divides the light. In the dainas the stroke falls after the Moon forsook the Sun for the Morning Star — Perkunas's grief for the Sun's dishonour is written nightly across the sky.",
+          "note": "Paraphrase of Grimm, Teutonic Mythology IV (Stallybrass 1888), addenda; not verbatim."
+        }
+      ],
+      "persons": [
+        "perkunas"
+      ]
+    },
+    {
+      "id": "baltic-pohjola-sun-hammer",
+      "title": {
+        "en": "The Stolen Sun Delivered by Perkun's Hammer",
+        "zh": "被竊之日：佩爾庫恩之錘解救"
+      },
+      "tradition": "baltic",
+      "category": "myth",
+      "region": {
+        "en": "Baltic-Finnish borderlands (symbolic pin)",
+        "zh": "波羅的海-芬蘭邊地（象徵性定位）"
+      },
+      "lat": 60.0,
+      "lon": 25.0,
+      "period": "Recorded in Neue Preussische Provinzial-Blätter; cited by Grimm 1888",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Jacob Grimm, Teutonic Mythology, vol. IV (Stallybrass trans., 1888), addenda on sky and stars, citing Neue Preussische Provinzial-Blätter I",
+        "url": "https://archive.org/details/teutonicmytholog04grim"
+      },
+      "license": "Public domain (1888)",
+      "summary": {
+        "en": "In the far north of Pohjola the sun and moon were stolen and held captive — and it is Perkun's hammer that delivers the sun from captivity, the same blow that shattered the tower of the older Lithuanian myth.",
+        "zh": "極北波赫尤拉之地，日月被竊遭囚——而救出太陽者乃佩爾庫恩之錘，即古立陶宛神話中擊破高塔之同一柄錘。"
+      },
+      "motifs": [
+        "sun-capture",
+        "fire-theft",
+        "resurrection",
+        "magic-theft"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Variant mixing Finnish Kalevala imagery with the Lithuanian tower myth; cross_ref baltic-sun-tower-hammer."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "In Pohjola the sun and moon get stolen — the dark land of the Kalevala's north where light is carried away and hidden. In the version preserved in the Neue Preussische Provinzial-Blätter, the sun is delivered from captivity by Perkun's hammer: the thunder-god's weapon breaks the prison of the light, as it broke the tower in the old Lithuanian story told to Pope Pius II's informant.",
+          "note": "Paraphrase of Grimm, Teutonic Mythology IV (Stallybrass 1888), addenda; not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "The motif joins the Baltic myth to the Finnish Sampo cycle and to the worldwide family of sun-theft tales — the dragon that swallows the moon, the demon Rahus that threatens both lights. Each tradition arms a rescuer with the thunder-weapon, and the release of the sun is counted as the first day of spring.",
+          "note": "Paraphrase of Grimm, Teutonic Mythology IV (Stallybrass 1888), addenda; not verbatim."
+        }
+      ],
+      "persons": [
+        "perkunas"
+      ]
+    },
+    {
+      "id": "baltic-perkunstein-courland",
+      "title": {
+        "en": "The Perkun Stone of Courland",
+        "zh": "庫爾蘭的佩爾庫恩石"
+      },
+      "tradition": "baltic",
+      "category": "myth",
+      "region": {
+        "en": "Near Bauska (Battenhof), Courland, Latvia",
+        "zh": "庫爾蘭鮑斯卡附近（象徵性定位）"
+      },
+      "lat": 56.4,
+      "lon": 24.2,
+      "period": "Stone legend recorded 19th c. (Kruse); cited by Grimm 1888",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Jacob Grimm, Teutonic Mythology, vol. IV (Stallybrass trans., 1888), Thunar addenda, citing F. Kruse, Urgeschichte",
+        "url": "https://archive.org/details/teutonicmytholog04grim"
+      },
+      "license": "Public domain (1888)",
+      "summary": {
+        "en": "Near Battenhof in Courland stands the Perkunstein, a thunder-stone with its own legends, while a Livland rhymed chronicle of 1435 still names Perkune as the god 'who gave his abbot' — the old thunder-god remembered in stone and chronicle alike.",
+        "zh": "庫爾蘭鮑斯卡附近矗立『佩爾庫恩石』，自有其傳說；一四三五年里夫蘭押韻編年史猶稱佩爾庫恩為彼等之神——雷神之記憶存於石與史。"
+      },
+      "motifs": [
+        "sacred-place",
+        "storm-thunder",
+        "sacred-stone"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Thunder-stone belief parallel to the Greek bidental and Vedic vajra."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Near Battenhof in Courland stands a Perkunstein — Perkun's stone — a great boulder round which legends gathered, recorded by Kruse; and near Libau a place was still called Perkuhnen. The Livland rhymed chronicle of 1435, speaking of the old faith, says 'als ez Perkune ir abgot gap' — as Perkune, their idol-god, gave them — the thunder-god's name surviving a century into the era of chronicles.",
+          "note": "Paraphrase of Grimm, Teutonic Mythology IV (Stallybrass 1888), Thunar addenda, citing Kruse and the Livland rhymed chronicle; not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Lithuanians call the prehistoric stone axe-head 'Perkuno kulka' — Perkunas's ball — and the belemnite 'Perkuno akmu' — Perkunas's stone: the god's bolts turned to stone lie in every ploughed field. In the older languages the same word served for thunder-stroke and for the god himself, as 'Perkuns twyksterejo' means the thunder has crashed and 'Perkuns uzdege' — the thunder has kindled.",
+          "note": "Paraphrase of Grimm, Teutonic Mythology IV (Stallybrass 1888), Thunar addenda; not verbatim."
+        }
+      ],
+      "persons": [
+        "perkunas"
+      ]
+    },
+    {
+      "id": "baltic-ilyios-diena-rain",
+      "title": {
+        "en": "Ilyios Diena: The Day of Elias That Opens and Shuts the Rain",
+        "zh": "伊利亞之日：開雨閉雨之日"
+      },
+      "tradition": "baltic",
+      "category": "myth",
+      "region": {
+        "en": "Lithuania (symbolic pin at Vilnius)",
+        "zh": "立陶宛（象徵性定位於維爾紐斯）"
+      },
+      "lat": 54.69,
+      "lon": 25.28,
+      "period": "Custom recorded 19th c.; cited by Grimm 1888",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Jacob Grimm, Teutonic Mythology, vol. IV (Stallybrass trans., 1888), Thunar addenda",
+        "url": "https://archive.org/details/teutonicmytholog04grim"
+      },
+      "license": "Public domain (1888)",
+      "summary": {
+        "en": "The Lithuanians call Lady-day 'Ilyios diena' — Elias's day — on which it begins or ceases to rain: the prophet who took over Perkunas's thunder still keeps the keys of the weather, holding back rain and letting it flow again at his pleasure.",
+        "zh": "立陶宛人稱聖母領報日為『伊利亞之日』——是日雨水始降或止息；繼承佩爾庫納斯雷霆的先知仍掌天氣之鑰，欲蓄則蓄，欲放則放。"
+      },
+      "motifs": [
+        "ritual-origin",
+        "storm-thunder",
+        "sacred-kingship"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Pagan-into-Christian weather saint, as with St. Iliya in Russia."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The Lithuanians call Lady-day 'Elyiõs diena' or 'Ilyios diena', on which day it begins or ceases to rain. Grimm asks whether the name comes from the Lithuanian verb for 'it sets in (to rain)' or rather from Elias's day — the prophet of the thunder-chariot who received the old rain-god's office.",
+          "note": "Paraphrase of Grimm, Teutonic Mythology IV (Stallybrass 1888), Thunar addenda; not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "The old German verses on Enoch and Elias say the two have the power to keep back the rain when they please, and again let it flow, their tongues able to shut up heaven and open it again — exactly the office Perkunas held in the Baltic, and St. Iliya in Russia and among the South Slavs, where no man works in the fields on the Thunderer's day lest the saint slay him with the bolt.",
+          "note": "Paraphrase of Grimm, Teutonic Mythology IV (Stallybrass 1888), Thunar addenda; not verbatim."
+        }
+      ],
+      "persons": [
+        "perkunas"
+      ]
+    },
+    {
+      "id": "baltic-perkunas-pikullos-travel",
+      "title": {
+        "en": "Perkunas and Pikullos Travel the Earth Giving Gifts",
+        "zh": "佩爾庫納斯與皮庫洛斯行世贈禮"
+      },
+      "tradition": "baltic",
+      "category": "myth",
+      "region": {
+        "en": "Old Prussia (symbolic pin at Konigsberg)",
+        "zh": "古普魯士（象徵性定位於柯尼斯堡）"
+      },
+      "lat": 54.7,
+      "lon": 20.5,
+      "period": "Recorded by Tettau & Temme, Die Vor-Sagen und Volks-Sagen... (1837); cited by Grimm 1888",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Jacob Grimm, Teutonic Mythology, vol. IV (Stallybrass trans., 1888), addenda on wandering gods, citing Tettau and Temme, Ostpreussische und Litthauische Sagen, p. 28",
+        "url": "https://archive.org/details/teutonicmytholog04grim"
+      },
+      "license": "Public domain (1888/1837)",
+      "summary": {
+        "en": "The god and the devil, Perkunas and Pikullos, travel together through the Old Prussian land in borrowed shapes and give gifts to men: the old belief that the gods themselves came down to walk the roads, testing hosts and rewarding them — as Zeus and Hermes walked the earth.",
+        "zh": "神與魔——佩爾庫納斯與皮庫洛斯——易形同行，行走普魯士大地，向世人贈禮：古信神明親自降世行於道路，試煉主人而賞罰之——如宙斯與赫爾墨斯之巡遊。"
+      },
+      "motifs": [
+        "theophany",
+        "trickster",
+        "culture-hero"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "God-and-devil travel tale; parallel to Zeus-Hermes Baucis-Philemon and Odin wanderings."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The Lithuanians tell of Perkunos — or, in later retellings, the Saviour — and his encounter with the horse and the ox; and in the Old Prussian tales collected by Tettau and Temme, Perkunos and Pikullos travel together through the country, and give gifts to men. The thunder-god and his dark companion walk the roads in disguise, coming themselves rather than sending messengers, as the old heathen gods were believed to do.",
+          "note": "Paraphrase of Grimm, Teutonic Mythology IV (Stallybrass 1888), addenda on wandering gods, after Tettau and Temme; not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "The wandering keeps recurring to the antique incident of the divine visitor: gods and the Dioscuri travel unrecognised among men, a child is served up for Zeus, and three wishes are granted to the worthy host. In the Baltic telling the two travellers divide the offices — the god gives gifts, the devil his due — and the hospitality or churlishness of each house on the road fixes its fortune.",
+          "note": "Paraphrase of Grimm, Teutonic Mythology IV (Stallybrass 1888), addenda on wandering gods; not verbatim."
+        }
+      ],
+      "persons": [
+        "perkunas"
+      ]
+    },
+    {
+      "id": "baltic-ausrine-dawn-goddess",
+      "title": {
+        "en": "Auschteini: The Dawn Goddess of the Samogitians",
+        "zh": "奧施泰尼：薩莫吉提亞的黎明女神"
+      },
+      "tradition": "baltic",
+      "category": "myth",
+      "region": {
+        "en": "Samogitia, western Lithuania (symbolic pin at Telsiai)",
+        "zh": "薩莫吉提亞，立陶宛西部（象徵性定位於特爾希艾）"
+      },
+      "lat": 55.98,
+      "lon": 22.25,
+      "period": "Recorded by Lasicki, De diis Samagitarum (1582); recorded by Grimm 1888",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Jacob Grimm, Teutonic Mythology, vol. IV (Stallybrass trans., 1888), goddess addenda, citing J. Lasicki, De diis Samagitarum (1582)",
+        "url": "https://archive.org/details/teutonicmytholog04grim"
+      },
+      "license": "Public domain (1582/1888)",
+      "summary": {
+        "en": "In Lasicki's old list of Samogitian gods stands Auschteini — Aušra, 'dea occumbentis vel ascendentis solis', the goddess of the setting and rising sun, sister of the dainas' Aušrinė who tends the Sun's fire and couch.",
+        "zh": "拉西茨基一五八二年薩莫吉提亞神譜中有奧施泰尼——奧什拉，『日落與日出之女神』，即達伊納斯中司日之火與榻的奧什林涅姊妹。"
+      },
+      "motifs": [
+        "sun-capture",
+        "divine-marriage"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Dawn-goddess parallel to Vedic Usas and Greek Eos."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Grimm traces the name from the Sanskrit Ushas, dawn, through the Lithuanian 'auszta' — it dawns — to 'auszrinne', the aurora. In Lasicki's old register of the Samogitian gods she stands as Auschteini, or Ausra, 'dea occumbentis vel ascendentis solis' — the goddess of the sun that sets and the sun that rises.",
+          "note": "Paraphrase of Grimm, Teutonic Mythology IV (Stallybrass 1888), goddess addenda, citing Lasicki; not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "She is the one the dainas call Aušrinė, the morning star and handmaid of Saule: Morning Star makes the Sun's fire, Evening Star prepares her couch. In the Lettish songs her masculine doublets are the 'sons of God', wooers of the Sun's daughter — the same being seen now as the shining maid who opens the day and now as the youth who rides to meet her.",
+          "note": "Paraphrase of Grimm, Teutonic Mythology IV (Stallybrass 1888), goddess addenda; not verbatim."
+        }
+      ],
+      "persons": []
+    },
+    {
+      "id": "baltic-samogitian-perpetual-fire",
+      "title": {
+        "en": "The Perpetual Fire of the Samogitians",
+        "zh": "薩莫吉提亞人的不滅之火"
+      },
+      "tradition": "baltic",
+      "category": "myth",
+      "region": {
+        "en": "Samogitia / Prussia, shrine of Romowe (symbolic pin)",
+        "zh": "薩莫吉提亞／普魯士羅莫沃聖所（象徵性定位）"
+      },
+      "lat": 54.9,
+      "lon": 21.9,
+      "period": "Recorded by Lasicki (1582); recorded by Grimm 1888",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Jacob Grimm, Teutonic Mythology, vol. IV (Stallybrass trans., 1888), fire-worship addenda, citing Lasicki 56",
+        "url": "https://archive.org/details/teutonicmytholog04grim"
+      },
+      "license": "Public domain (1582/1888)",
+      "summary": {
+        "en": "The Samogitians nourished a perpetual fire, as Lasicki records — one flame among the world's eternal fires, from Vesta's hearth to Parsee fire-temples: never allowed to die, because in that fire the god himself was thought to burn.",
+        "zh": "如拉西茨基所記，薩莫吉提亞人養不滅之火——與維斯塔聖火、祆教火廟同列世界永燃之火：因其火中即神自身之燃，故不可使其熄。"
+      },
+      "motifs": [
+        "fire-theft",
+        "ritual-origin",
+        "sacred-place"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Eternal-fire parallels: Vesta, Delphi, Delos, Parsee atash."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The Samogitians nourished a perpetual fire, Lasicki records — the Baltic branch of the worldwide family of undying flames. A fire burned on the altar of Athena Polias at Athens, in the temple of Pan in Arcadia; the famous oracle of Delphi kept an ever-burning fire whose priests in war conveyed the sacred flame to Plataea; colonies took their sacred fire with them from the mother-city, and if it went out there alone could they light it again.",
+          "note": "Paraphrase of Grimm, Teutonic Mythology IV (Stallybrass 1888), fire-worship addenda, citing Lasicki 56; not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "In the Baltic the eternal flame belongs to the shrine of Romowe, where the sacred oak stands green winter and summer, screened from profane gaze, and the piles of oak-wood for the sacred fire lie in the open spaces about it. The Vaidelots, the ordinary priests, keep the flame; on it every hearth of the land is lit anew — the fire that, once out, cannot be rekindled from anywhere but the god's own altar.",
+          "note": "Paraphrase of the Romowe shrine description in Mythology of All Races III (1918) plate note and Grimm IV; not verbatim."
+        }
+      ],
+      "persons": [
+        "perkunas"
+      ]
+    },
+    {
+      "id": "baltic-zaltys-house-snake",
+      "title": {
+        "en": "The Milk-Fed Snake: Household God Behind the Stove",
+        "zh": "飲乳之蛇：爐後家蛇神"
+      },
+      "tradition": "baltic",
+      "category": "myth",
+      "region": {
+        "en": "Samogitia, Lithuania (symbolic pin at Kaunas)",
+        "zh": "薩莫吉提亞，立陶宛（象徵性定位於考納斯）"
+      },
+      "lat": 54.9,
+      "lon": 23.9,
+      "period": "Recorded by Lasicki (1582); recorded by Grimm 1888",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Jacob Grimm, Teutonic Mythology, vol. IV (Stallybrass trans., 1888), serpent addenda, citing Lasicki 51-56",
+        "url": "https://archive.org/details/teutonicmytholog04grim"
+      },
+      "license": "Public domain (1582/1888)",
+      "summary": {
+        "en": "The Samogitians kept black snakes — the gluoitos, the žaltys — fed on milk and worshipped as household gods; whoever kills the house-snake kills the luck of the house, for the snake that drinks milk at the hearth is the family's own guardian genius.",
+        "zh": "薩莫吉提亞人畜養黑蛇——格洛伊托斯（日之扎爾提斯）——以乳飼之，奉為家神；殺家蛇者即毀家宅之運，蓋爐邊飲乳之蛇乃一家守護之神。"
+      },
+      "motifs": [
+        "sacred-place",
+        "sacred-kingship",
+        "resurrection"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "House-snake cult parallels Greek oikouros ophis and Slavic Hospodaricek."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The Greeks called the home-snake 'oikouros ophis', genius loci; the Albanian vittore is a homesprite imagined as a little snake; and the Samogitian gluoitos — black snakes — are fed and worshipped as household gods, Lasicki records. The snake drinks milk at the hearth, and the custom of milk-drinking is the mark of the family's own guardian.",
+          "note": "Paraphrase of Grimm, Teutonic Mythology IV (Stallybrass 1888), serpent addenda, citing Lasicki 51-56; not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Serpents lick the ears of the sleeping Melampus, who wakes understanding the speech of birds; prophetic Cassandra and Helenus had their ears licked clean by snakes. In the Lithuanian household the same gift runs backward: feed the žaltys and it will hear what the house needs, foretell and prosper; slay it and the happiness and well-being of the family die with it.",
+          "note": "Paraphrase of Grimm, Teutonic Mythology IV (Stallybrass 1888), serpent addenda; not verbatim."
+        }
+      ],
+      "persons": []
+    },
+    {
+      "id": "baltic-gods-within-trees",
+      "title": {
+        "en": "The Gods Inside the Bark: Samogitian Tree Belief",
+        "zh": "樹皮中的神明：薩莫吉提亞樹木信仰"
+      },
+      "tradition": "baltic",
+      "category": "myth",
+      "region": {
+        "en": "Samogitian groves (symbolic pin in western Lithuania)",
+        "zh": "薩莫吉提亞聖林（象徵性定位於立陶宛西部）"
+      },
+      "lat": 55.9,
+      "lon": 22.4,
+      "period": "Recorded by Lasicki (1582); recorded by Grimm 1888",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Jacob Grimm, Teutonic Mythology, vol. IV (Stallybrass trans., 1888), tree-worship addenda, citing Lasicki",
+        "url": "https://archive.org/details/teutonicmytholog04grim"
+      },
+      "license": "Public domain (1582/1888)",
+      "summary": {
+        "en": "'They believe the gods dwell in the groves... he believed the gods to hide within trees and bark', writes Lasicki of the Samogitians: not that a tree is dedicated to a god, but that the god is inside the wood — which is why the sacred oak of Romowe stays green winter and summer, screened from profane eyes.",
+        "zh": "拉西茨基記薩莫吉提亞人云：『信神居於林中……信神藏於樹木樹皮之內』——非謂樹木屬神，乃神即在木中；故羅莫沃聖橡冬夏常青，隔絕俗目。"
+      },
+      "motifs": [
+        "sacred-place",
+        "theophany",
+        "sacred-tree"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Tree-spirit belief."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "'Deos nemora incolere persuasum habent,' Lasicki writes of the Samogitians — they are persuaded that the gods dwell in the groves; 'credebat deos intra arbores et cortices latere' — he believed the gods to hide within trees and bark. The god is not the tree's tenant but its inhabitant: fell the tree and you break the house of a god.",
+          "note": "Paraphrase of Grimm, Teutonic Mythology IV (Stallybrass 1888), tree-worship addenda, citing Lasicki; not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "With this compare the sacred oak of Romowe, which remained green summer and winter and was screened from profane gaze, the idols of Perkunas, Potrimpo, and Patollo within it, and the piles of sacred wood in the open spaces round about. In the Finnish north the oak is 'God's tree'; among the Greeks it was Zeus's oak, the robur Jovis — one belief from the Baltic to Dodona.",
+          "note": "Paraphrase of Grimm, Teutonic Mythology IV (Stallybrass 1888), tree-worship addenda; not verbatim."
+        }
+      ],
+      "persons": [
+        "perkunas"
+      ]
+    },
+    {
+      "id": "baltic-kirnis-cocks-samogitia",
+      "title": {
+        "en": "Cocks for Kirnis: The Samogitian Offering",
+        "zh": "獻基爾尼斯之雞：薩莫吉提亞祭儀"
+      },
+      "tradition": "baltic",
+      "category": "myth",
+      "region": {
+        "en": "Samogitia (symbolic pin at Telsiai)",
+        "zh": "薩莫吉提亞（象徵性定位於特爾希艾）"
+      },
+      "lat": 55.98,
+      "lon": 22.25,
+      "period": "Recorded by Lasicki (1582); recorded by Grimm 1888",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Jacob Grimm, Teutonic Mythology, vol. IV (Stallybrass trans., 1888), sacrifice addenda, citing Lasicki 47",
+        "url": "https://archive.org/details/teutonicmytholog04grim"
+      },
+      "license": "Public domain (1582/1888)",
+      "summary": {
+        "en": "The Samogitians sacrificed cocks to their god Kirnis, as Lasicki records — one line of his old register that preserves the memory of a god whose altar received the bird of dawn.",
+        "zh": "如拉西茨基所記，薩莫吉提亞人宰雞以祭其神基爾尼斯——其古老神譜一行，猶存此受晨雞之祭的神之記憶。"
+      },
+      "motifs": [
+        "ritual-origin",
+        "sun-capture"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Fragmentary deity; interpretive reconstruction flagged."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Samogitians sacrificed cocks to Kirnos — Kirnis — as Lasicki's register records: a bare line, but enough to fix a god and his bird. Among the Estonians, when a cock is sacrificed, the blood spurts into the fire, the feathers, head, feet, and entrails are cast into the same, and the rest boiled and eaten; the offering is divided between god and household.",
+          "note": "Paraphrase of Grimm, Teutonic Mythology IV (Stallybrass 1888), sacrifice addenda, citing Lasicki 47; not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "The cock that crows at dawn belongs to the sky-gods of the whole Indo-European north; in the Prussian triad of Romowe the household snake is fed before Potrimpo, the goat is hallowed, and the cock cries to the thunderer. Kirnis's festival, whatever its month, was the householder's yearly gift upward and the god's blessing downward on flock and field.",
+          "note": "Paraphrase of Grimm, Teutonic Mythology IV (Stallybrass 1888), sacrifice addenda; not verbatim."
+        }
+      ],
+      "persons": []
+    }
+  ]
+}

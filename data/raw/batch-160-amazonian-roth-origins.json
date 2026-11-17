@@ -1,0 +1,740 @@
+{
+  "texts": [
+    {
+      "id": "amazonian-caribs-children-of-tigers",
+      "title": {
+        "en": "Caribs as Children of Tigers and of Snakes",
+        "zh": "加勒比人為虎與蛇之後"
+      },
+      "tradition": "amazonian",
+      "category": "myth",
+      "region": {
+        "en": "Orinoco country (Achagua and Saliva tribes)",
+        "zh": "奧里諾科阿查瓜-薩利瓦之地"
+      },
+      "lat": 6.5,
+      "lon": -67.5,
+      "period": "Orinoco tribal traditions recorded by Gili; summarized 1915 (Roth)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Walter E. Roth, An Inquiry into the Animism and Folk-lore of the Guiana Indians (33rd Annual Report, Bureau of American Ethnology, 1915), ch. IV 'Creation of Man', §§53-54",
+        "url": "https://archive.org/details/cu31924104074665"
+      },
+      "license": "Public domain (report 1915)",
+      "summary": {
+        "en": "The Achagua held that the Caribs were the legitimate descendants of tigers: chavi meant 'tiger', whence chavinavi, 'arising from a tiger', their name for a Carib — or, from 'tiger' and 'pike', the children of tigers with pikes. The Salivas told that the son of Puru slew a monstrous snake that was devouring the nations of the Orinoco; from the worms that bred in the rotting monster's entrails there arose, each one, a Carib Indian and his woman — and as the serpent was the bloody enemy of all nations, so her children were savage, inhuman, and cruel.",
+        "zh": "阿查瓜人言加勒比人乃虎之後裔：『虎』曰查維，故稱之『虎生』；或云『虎與矛』之子女。薩利瓦人言普魯之子誅食人之巨蛇；蛇屍腸中生蟲，每蟲化為加勒比男女——蛇為萬國之仇，其子孫亦兇殘不仁。"
+      },
+      "motifs": [
+        "foundational-legend",
+        "transformation"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Orinoco tribal traditions summarized in Roth 1915 from Gili's colonial-era record; archival record, read critically."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Thus the Achagua maintain that the Caribs are legitimate descendants of tigers: chavi in their language signifies a tiger, whence they deduce chavinavi, 'arising from a tiger', which is their term for a Carib. Other branches of the Achagua explain the term more satisfactorily: chavi is a tiger and chavina the spear, lance and pike; and from these two words, 'tiger' and 'pike', they derive chavinavi as being the children of tigers with pikes.",
+          "note": "Condensed paraphrase of Roth 1915, §53 (from Gili); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "The Salivas say that the son of Puru conquered and put to death a horrible snake that had been destroying and devouring the nations of the Orinoco. But as soon as the monster began to putrefy, certain large worms began to develop in her entrails; and from each worm there finally arose a Carib Indian and his woman. In the same way that the snake had been so bloody an enemy of all those nations, so her children were savage, inhuman, and cruel.",
+          "note": "Condensed paraphrase of Roth 1915, §54 (from Gili); not verbatim."
+        }
+      ],
+      "persons": []
+    },
+    {
+      "id": "amazonian-origin-caribs-warrau",
+      "title": {
+        "en": "The Warrau Tale of the Water-Snake and the Birth of the Carib Nation",
+        "zh": "瓦勞水蛇傳說與加勒比民族之生"
+      },
+      "tradition": "amazonian",
+      "category": "myth",
+      "region": {
+        "en": "Pomeroon River, Guyana (Warrau)",
+        "zh": "蓋亞那波默龍河瓦勞之地"
+      },
+      "lat": 7.2,
+      "lon": -58.9,
+      "period": "Warrau oral tradition; recorded 1915 (Roth)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Walter E. Roth, An Inquiry into the Animism and Folk-lore of the Guiana Indians (33rd Annual Report, Bureau of American Ethnology, 1915), ch. IV 'Creation of Man', §55",
+        "url": "https://archive.org/details/cu31924104074665"
+      },
+      "license": "Public domain (report 1915)",
+      "summary": {
+        "en": "A Warrau man warned his sister never to bathe in a certain pond at her unwell times; forgetting, she was caught by the great water-camudi snake and grew pregnant. In bullet-tree season she came home loaded with seeds though she took no ax: watching, her brother saw the snake leave her body, climb the tree as a man, shake down the seeds, and return into her. The watchers hacked the serpent to pieces as it left her; she gathered the fragments under a heap of mold, and each piece grew into a Carib. Peace endured until the old mother of the Caribs, revenging her slain lover, ordered the Warrau child killed — and a blood feud began that ended with the Caribs overwhelming the Warraus.",
+        "zh": "瓦勞男子誡妹毋於忌日浴於某池；妹忘之，為大水蛇所獲而孕。采子歸而無斧；兄窺之，見蛇出其身，化人登樹搖子，復入其身。眾遂斬蛇成段；妹集屍片於土下，每片化為加勒比人。後蛇母復仇，令殺瓦勞童子；血仇遂起，加勒比終滅瓦勞。"
+      },
+      "motifs": [
+        "foundational-legend",
+        "transformation",
+        "taboo-transgression"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Warrau oral tradition recorded 1915 (Roth); archival record, read critically."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "A Warrau man warned his sister not to bathe in a certain neighboring pond at those regular periods when she happened to be unwell. For a long time she obeyed; but after a time, forgetting all about the warning, she went to bathe at the forbidden spot and time, and was caught by a large snake, the water-camudi Uamma. By and by she became pregnant. In bullet-tree season the Indians cut down the trees for the excellent eating seed, and it was noticed that this woman, although she took no ax away with her in the morning, invariably returned in the afternoon with a large quantity of the delicious seed.",
+          "note": "Condensed paraphrase of Roth 1915, §55; not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Suspecting, the brother followed her next day and saw the Uamma snake come out of her body, coil around a huge bullet-tree, and climb into the topmost branches, where it changed into a man who shook the boughs so the seeds fell for the woman to gather. Then, reverting to its original form, the snake descended and again entered her body. The brother told his friends, who watched and rushed up as the snake reached the ground, cutting it into thousands of pieces. The woman grieved sorely but collected all the fragments under a heap of mold and leaves, and each piece by and by grew into a Carib.",
+          "note": "Condensed paraphrase of Roth 1915, §55; not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "Many years passed; the Caribs grew strong and numerous and became a nation, living in harmony with the Warraus: when one tribe caught some game they would send a child with a piece of it over to the other. This lasted a long time, until one day the original mother of the Caribs — a very old woman now — told them to kill the child which the Warraus had sent to them, in revenge for the way the Warraus had slain her snake lover years before. The Warraus in turn slaughtered the Carib child, and thus a blood feud arose between the two nations, the Caribs finally overwhelming the Warraus.",
+          "note": "Condensed paraphrase of Roth 1915, §55; not verbatim."
+        }
+      ],
+      "persons": []
+    },
+    {
+      "id": "amazonian-origin-caribs-carib",
+      "title": {
+        "en": "The Carib Nation Grows from a Baby Serpent",
+        "zh": "自幼蛇而生之加勒比民族"
+      },
+      "tradition": "amazonian",
+      "category": "myth",
+      "region": {
+        "en": "Upper Pomeroon River, Guyana (Carib)",
+        "zh": "蓋亞那波默龍河上游加勒比之地"
+      },
+      "lat": 6.9,
+      "lon": -58.9,
+      "period": "Carib oral tradition; recorded 1915 (Roth)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Walter E. Roth, An Inquiry into the Animism and Folk-lore of the Guiana Indians (33rd Annual Report, Bureau of American Ethnology, 1915), ch. IV 'Creation of Man', §56",
+        "url": "https://archive.org/details/cu31924104074665"
+      },
+      "license": "Public domain (report 1915)",
+      "summary": {
+        "en": "The water-camudi had an Indian woman for a sweetheart, a snake by day and 'a people like myself' by night; they met at the waterside so her parents knew nothing. A baby camudi was born, swam about the river bank, and took its father's place each time he left. The brothers watched, were told by the old father to kill both snakes, hacked the baby serpent far back in the bush into many pieces — and months later, coming on voices, found four houses full of Indians grown out of the fragments, who welcomed their two uncles with paiwarri. And thus the Carib nation arose from a water-camudi.",
+        "zh": "水蛇為印第安女子之情郎，日為蛇夜為人。生幼蛇，常候河畔。兄長受命誅二蛇，將幼蛇剁於深林。數月後聞聲尋至，見四屋之人皆自蛇段而生，迎二舅共飲——加勒比民族遂自水蛇而生。"
+      },
+      "motifs": [
+        "foundational-legend",
+        "transformation"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Carib oral tradition recorded 1915 (Roth); archival record, read critically."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The water-camudi had an Indian woman for a sweetheart. During the day he took the form of a snake; at night he was 'a people' like myself. The couple used to meet at the water side, and hence the girl's parents knew nothing of their being so fond of each other. After she became pregnant a baby camudi was born; the little one used to appear when she reached the river bank, swim about, and after a time return to its nesting place.",
+          "note": "Condensed paraphrase of Roth 1915, §56; not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "As she stayed so long each time at the water side, the old father asked his two sons why their sister took so long to bathe. Watching her go down to the stream, they saw the small serpent leave and the huge camudi enter, and saw the father bring his infant something to eat and the baby take his place when he left. The old man told them to kill both the snakes. On the next occasion they killed the huge camudi, and seizing the baby serpent carried it far away back into the bush, where they chopped it up into many small pieces.",
+          "note": "Condensed paraphrase of Roth 1915, §56; not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "Some months afterward, when hunting in the neighborhood, the brothers heard a great noise and the sound of voices, and going to ascertain the cause found four houses in the very spot where they had cut up the baby camudi, all occupied by Indians who had grown out of the fragments of the snake. In the first hut the house-master welcomed his two uncles; in the other three the occupants wanted to kill them for having destroyed their sister's child. But the first house-master said: 'No, don't do that, because these two visitors are uncles to all of you.' And the old father came to see his numerous progeny, and they all drank paiwarri. And thus the Carib nation arose from a water-camudi.",
+          "note": "Condensed paraphrase of Roth 1915, §56; not verbatim."
+        }
+      ],
+      "persons": []
+    },
+    {
+      "id": "amazonian-makunaima-tree-of-people",
+      "title": {
+        "en": "Makunaima Cuts the First Beings from the Great Tree",
+        "zh": "馬庫納伊瑪自巨樹削造眾生"
+      },
+      "tradition": "amazonian",
+      "category": "myth",
+      "region": {
+        "en": "Upper Mazaruni country (Akawai and Makusi)",
+        "zh": "馬扎魯尼上游阿卡瓦-馬庫希之地"
+      },
+      "lat": 5.4,
+      "lon": -59.6,
+      "period": "Akawai/Makusi tradition recorded 19th c.; summarized 1915 (Roth)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Walter E. Roth, An Inquiry into the Animism and Folk-lore of the Guiana Indians (33rd Annual Report, Bureau of American Ethnology, 1915), ch. IV 'Creation of Man', §57",
+        "url": "https://archive.org/details/cu31924104074665"
+      },
+      "license": "Public domain (report 1915)",
+      "summary": {
+        "en": "The Akawai and Makusi idea of creation is that, coeval with Makunaima, there was a large tree: having mounted this tree, he cut pieces of wood with a stone ax and, throwing them into the river, the pieces became animated beings. The Arawaks held that from his seat on the silk-cotton tree the Mighty One scattered twigs and bark in the air, on the land, and in the water, and from these pieces arose birds, beasts, reptiles, fish — and also men and women; the sire of the Arawaks was Wadili.",
+        "zh": "阿卡瓦-馬庫希人言：與馬庫納伊瑪同時有巨樹；彼登樹以石斧削木，擲諸河，木片即化為有靈之物。阿拉瓦克人言：大能者坐木棉樹上，散枝皮於天、於陸、於水，眾鳥獸蟲魚與男女由此而生；阿拉瓦克之父乃瓦迪利。"
+      },
+      "motifs": [
+        "creation-chaos",
+        "dismembered-giant"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Akawai/Makusi traditions summarized in Roth 1915; archival record, read critically."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The Akawai and Makusi idea of creation is that, co-eval with Makunaima, there was a large tree, and that, having mounted this tree, he cut pieces of wood with a stone ax which, having been thrown into the river, became animated beings.",
+          "note": "Condensed paraphrase of Roth 1915, §57; not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "The Arawaks hold that from his seat on the silk-cotton tree the Mighty One scattered twigs and bark in the air, on the land, and in the water, and that from these pieces arose the birds, beasts, reptiles, and fish, and also men and women. The sire of the Arawaks was Wadili.",
+          "note": "Condensed paraphrase of Roth 1915, §57; not verbatim."
+        }
+      ],
+      "persons": [
+        "makunaima"
+      ]
+    },
+    {
+      "id": "amazonian-tamanaku-palm-fruits",
+      "title": {
+        "en": "Tamanaku Mountain and the Palm-fruits That Became People",
+        "zh": "塔瑪納庫山與化人之棕果"
+      },
+      "tradition": "amazonian",
+      "category": "myth",
+      "region": {
+        "en": "Tamanaku mountain, upper Orinoco (Tamanac/Maipure)",
+        "zh": "奧里諾科上游塔瑪納庫山塔馬納克-邁普雷之地"
+      },
+      "lat": 5.5,
+      "lon": -66.9,
+      "period": "Tamanac tradition recorded by Humboldt; summarized 1915 (Roth)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Walter E. Roth, An Inquiry into the Animism and Folk-lore of the Guiana Indians (33rd Annual Report, Bureau of American Ethnology, 1915), ch. IV 'Creation of Man', §57",
+        "url": "https://archive.org/details/cu31924104074665"
+      },
+      "license": "Public domain (report 1915)",
+      "summary": {
+        "en": "The Maipures and the Tamanacs say that in early days the whole earth was submerged in water, only two people — a man and a woman — saving themselves on the top of the high mountain Tamanaku. As they wandered round the mountain in deep distress over the loss of their friends, they heard a voice which told them to throw the fruits of the Mauritia palm behind them over their shoulders; and as they did so, the fruit which the man threw became men, and that which the woman threw became women.",
+        "zh": "邁普雷與塔馬納克人言：上古洪水盡沒大地，惟男女二人登塔瑪納庫高山而免。二人環山悲泣，聞聲命以肩後擲瑪里提亞棕之果；男擲者化為男，女擲者化為女。"
+      },
+      "motifs": [
+        "flood",
+        "world-renewal",
+        "clay-humans"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Tamanac/Maipure tradition recorded by Humboldt, summarized in Roth 1915; archival record, read critically."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The Maipures and, according to Humboldt, similarly the Tamanacs, say that in early days the whole earth was submerged in water, only two people, a man and a woman, saving themselves on the top of the high mountain Tamanaku, the last dry height standing above the waste of waters.",
+          "note": "Condensed paraphrase of Roth 1915, §57 (from Humboldt); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "As they wandered around the mountain in deep distress over the loss of their friends, they heard a voice which told them to throw the fruits of the Mauritia palm behind them over their shoulders. As they did so, the fruit which the man threw became men, and that which the woman threw became women.",
+          "note": "Condensed paraphrase of Roth 1915, §57 (from Humboldt); not verbatim."
+        }
+      ],
+      "persons": []
+    },
+    {
+      "id": "amazonian-children-of-rocks-and-soil",
+      "title": {
+        "en": "Children of Rocks, Soil, and Rivers",
+        "zh": "石土河之子孫"
+      },
+      "tradition": "amazonian",
+      "category": "myth",
+      "region": {
+        "en": "Barraguan promontory, Orinoco (Otomac/Mapoya/Saliva)",
+        "zh": "奧里諾科巴拉瓜恩岬奧托馬-馬波亞-薩利瓦之地"
+      },
+      "lat": 6.6,
+      "lon": -67.0,
+      "period": "Orinoco tribal traditions recorded by Gili/Humboldt; summarized 1915 (Roth)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Walter E. Roth, An Inquiry into the Animism and Folk-lore of the Guiana Indians (33rd Annual Report, Bureau of American Ethnology, 1915), ch. IV 'Creation of Man', §58",
+        "url": "https://archive.org/details/cu31924104074665"
+      },
+      "license": "Public domain (report 1915)",
+      "summary": {
+        "en": "The Otomacs said a three-part pyramid of stones on the rock called Barraguan was their earliest ancestress, and a monstrous rock on a pinnacle two leagues off their first ancestor — indeed, every stone of the bare promontory was one of their predecessors, whose skulls they dug up yearly to set among the crevices to change into stone. The Mapoyas called such a stone Uruana, the source of their tribe. Some Salivas declared themselves children of the soil — the earth once breeding men and women as it now produces thorns and hidden rocks — and certain Achagua held their origin from rivers.",
+        "zh": "奧托馬人言巴拉瓜恩石上三合之石乃其始祖，二里外巨巖乃其初祖——岬上諸石皆其先人；歲掘死者之顱置石隙中，冀化為石。馬波亞人名其源石曰烏魯阿納。薩利瓦人自稱土之子，謂古時大地生人如生荊棘；阿查瓜人則言源出江河。"
+      },
+      "motifs": [
+        "foundational-legend",
+        "sacred-place",
+        "creation-chaos"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Orinoco tribal traditions summarized in Roth 1915; archival record, read critically."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The Otomacs used to say that a stone made up of three parts, arranged in the form of a pyramid upon the summit of a rock called Barraguan, was their earliest ancestress; and that another monstrous rock, serving as the summit of another pinnacle two leagues distant, was their first ancestor. Being consistent, they believed that all the rocks and stones of which the said Barraguan — a high promontory of large rocks bearing hardly a particle of earth — was formed, were each of them one of their predecessors. Although these Otomacs buried their dead, they dug up the skulls at the end of a year, and placed them among the crevices and holes between the rocks and stones of the promontory, where they expected them in their turn to change into stone.",
+          "note": "Condensed paraphrase of Roth 1915, §58; not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "The Mapoyas would call such a stone as that serving for the summit of the pinnacle Uruana, describing it as the source of their tribe. Some of the Salivas would declare that they were children of the soil, and that in former times the earth used to breed men and women in the same way that it now produces thorns and hidden rocks. Those of the Achaguas who believed in their origin from rivers distinguished themselves by the name Uni-verrenais — children of the river.",
+          "note": "Condensed paraphrase of Roth 1915, §58; not verbatim."
+        }
+      ],
+      "persons": []
+    },
+    {
+      "id": "amazonian-flood-survivor-stones",
+      "title": {
+        "en": "Makunaima Sends the Waters; the Survivor Throws Stones",
+        "zh": "馬庫納伊瑪降洪水；倖存者擲石再殖大地"
+      },
+      "tradition": "amazonian",
+      "category": "myth",
+      "region": {
+        "en": "Roraima country (Makusi)",
+        "zh": "羅賴馬馬庫希之地"
+      },
+      "lat": 4.0,
+      "lon": -60.0,
+      "period": "Makusi tradition recorded by Schomburgk; summarized 1915 (Roth)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Walter E. Roth, An Inquiry into the Animism and Folk-lore of the Guiana Indians (33rd Annual Report, Bureau of American Ethnology, 1915), ch. IV 'Creation of Man', §58",
+        "url": "https://archive.org/details/cu31924104074665"
+      },
+      "license": "Public domain (report 1915)",
+      "summary": {
+        "en": "According to the Makusi tradition, Makunaima sent great waters upon the world: only one man escaped. This one man who survived the flood threw stones behind him, and thus peopled the earth anew.",
+        "zh": "馬庫希人言：馬庫納伊瑪降大水於世，惟一人得免。此人擲石於肩後，遂再殖大地。"
+      },
+      "motifs": [
+        "flood",
+        "world-renewal"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Makusi tradition summarized in Roth 1915 from Schomburgk; archival record, read critically. Flood-cluster motif for cross-tradition comparison."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "According to the Makusi tradition, Makunaima sent great waters upon the world, flooding it from end to end: only one man escaped, the sole survivor in all the drowned country. This one man who survived the flood threw stones behind him as he went, and thus the earth was peopled anew from the stones of the flood-survivor.",
+          "note": "Condensed paraphrase of Roth 1915, §58 (from Schomburgk); not verbatim."
+        }
+      ],
+      "persons": [
+        "makunaima"
+      ]
+    },
+    {
+      "id": "amazonian-first-fruit-trees-arawak",
+      "title": {
+        "en": "The First Fruit Trees Grow from a Spirit's Ashes",
+        "zh": "自鬼灰而生之諸果樹"
+      },
+      "tradition": "amazonian",
+      "category": "myth",
+      "region": {
+        "en": "Arawak country, Guyana",
+        "zh": "蓋亞那阿拉瓦克之地"
+      },
+      "lat": 7.0,
+      "lon": -58.8,
+      "period": "Arawak oral tradition; recorded 1915 (Roth)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Walter E. Roth, An Inquiry into the Animism and Folk-lore of the Guiana Indians (33rd Annual Report, Bureau of American Ethnology, 1915), ch. IV 'Creation of Man', §59",
+        "url": "https://archive.org/details/cu31924104074665"
+      },
+      "license": "Public domain (report 1915)",
+      "summary": {
+        "en": "Three sisters alone in the house were visited by a young man with a powis — in truth an Adda-kuyuha, a Tree Spirit. He broke the calabash they offered, returned at night, and broke the youngest sister's neck-bone while she lay in her hammock, eating all but her head, which he bore to his mother. The elder sisters watched and told the returning piai; they fired the hollow tree where the spirit family lived, heard the grandmother reviling her wicked grandson amid the flames, and from the ashes grew the first fruit trees of our forefathers — the plantain, the pineapple, and the cocoanut, with all the others. But the piai had to taste the fruit before others might touch it.",
+        "zh": "三姊妹夜遇青年，實樹鬼也。鬼折其甕，夜返殺季妹，食之而留其首攜歸。姊窺其蹤，告歸來之醫師；焚其空心樹，鬼家老嫗火中咒其孫。灰中遂生先祖之諸果樹——香蕉、鳳梨、椰子及其他。然醫師先嘗之，眾人方得食。"
+      },
+      "motifs": [
+        "ritual-origin",
+        "transformation",
+        "taboo-transgression",
+        "origin-plants"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Arawak oral tradition recorded 1915 (Roth); archival record, read critically."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "There were three sisters alone in the house, preparing drink; the men-folk were away at a party. Early in the afternoon a young man came along bringing a powis with him. He was not what he appeared to be, a friend, but an Adda-kuyuha, a Tree Spirit. The girls asked him inside and offered him pepper-pot and cassiri; he refused the former and broke the calabash containing the latter, which made the girl who handed it to him laugh. He told her on departing that he would pay her another visit later in the evening.",
+          "note": "Condensed paraphrase of Roth 1915, §59; not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Night fell, and the young man appeared again as arranged. The elder sisters watched. He got into the hammock where the youngest sister was lying and began caressing her; as he continued troubling her she asked what he wanted, and with that he slipped his arm round her neck and broke her neck-bone, killing her. He then began eating her body and finished all except the head by early dawn. Belching, he said: 'Yes! I am indeed satisfied. My mother told me to bring her the head, so I must spare it for her.' Holding the head up by its beautiful long hair, he carried it away into the bush and disappeared with it in a hollow tree, of which the sisters took note.",
+          "note": "Condensed paraphrase of Roth 1915, §59; not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "When the men-folk returned, among them a piai, the sisters told exactly what had happened. The piai told them to collect plenty of firewood and bring it to the hollow tree; they piled it around and fired it. It burned right merrily, and in the din of the cracking timber, enveloped in smoke and flame, you could hear the whole Tukuyuha family screaming, and the old grandmother reviling her wicked grandson for having brought so much trouble on them. Soon the hollow tree and the whole family of spirits were reduced to ashes — and from the ashes grew the first fruit trees of our forefathers, the plantain, the pineapple, and the cocoanut, with all the others. But the piai had to taste the fruit before the others were allowed to touch it.",
+          "note": "Condensed paraphrase of Roth 1915, §59; not verbatim."
+        }
+      ],
+      "persons": []
+    },
+    {
+      "id": "amazonian-first-fruit-trees-carib",
+      "title": {
+        "en": "Allepdntepo: the Wonderful Tree and the Greedy Tapir",
+        "zh": "阿萊潘鐵波神樹與貪貘"
+      },
+      "tradition": "amazonian",
+      "category": "myth",
+      "region": {
+        "en": "Carib country, Guyana",
+        "zh": "蓋亞那加勒比之地"
+      },
+      "lat": 6.5,
+      "lon": -59.3,
+      "period": "Carib oral tradition; recorded 1915 (Roth)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Walter E. Roth, An Inquiry into the Animism and Folk-lore of the Guiana Indians (33rd Annual Report, Bureau of American Ethnology, 1915), ch. IV 'Creation of Man', §60",
+        "url": "https://archive.org/details/cu31924104074665"
+      },
+      "license": "Public domain (report 1915)",
+      "summary": {
+        "en": "When the Caribs had no cassava, all starved except the tapir, who went out every morning and returned each evening sleek and fat, dropping banana-skins as he went. The bush-rat followed him to the immense tree Allepdntepo, on whose branches grew everything one could wish for — plantains, cassava, yams, plums, pines, and all the fruits Caribs love. Stone axes hacked for thirty days before the tree fell; the greedy tapir, punished with a sifter that never held water, got back too late and has had only plums ever since. The Indians planted what they took, and the Bunia bird explained how each was to be propagated and cooked.",
+        "zh": "加勒比人饑饉，惟貘日日出行而歸必肥，遺蕉皮為跡。田鼠隨之至巨樹阿萊潘鐵波，凡可欲之果皆在其枝。石斧斫三十日而樹仆；貪貘以簍取水，水皆漏盡——罰也——歸時惟餘李子，至今食李而已。眾植所得，斑鳩教其栽煮之法。"
+      },
+      "motifs": [
+        "culture-hero",
+        "ritual-origin",
+        "transformation"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Carib oral tradition recorded 1915 (Roth); archival record, read critically."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Time was when the Caribs had no cassava to eat; they all starved. Animals and birds also had nothing to eat; they likewise starved. It was the Maipuri alone who, going out regularly every morning and returning home of an evening, always appeared sleek and fat. The others, noticing his droppings — banana-skins, cane strips, etc. — said one to another: 'Maipuri must have found a good place to get food. Let us watch him.' So next morning they sent the bush-rat to dog his footsteps, and the rat followed Maipuri a long, long way into the bush, where he saw him pause under the shade of an immense tree and gather the fruit that had fallen.",
+          "note": "Condensed paraphrase of Roth 1915, §60; not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "This tree was the Allepdntepo, very wonderful, in that everything you could wish for grew upon its branches — plantains, cassava, yams, plums, pines, and all the other fruits that Caribs love. As soon as Maipuri had had his fill the bush-rat climbed the tree, picked on the corn to satisfy his hunger, and brought back a grain to show the others. The Indians followed him to the tree and cleaned up everything that had fallen, then agreed to cut it down. They hacked with their stone axes for ten days — it would not fall; another ten days — still it would not fall; so big was Allepdntepo. At the expiration of another ten days of continuous cutting the tree at last fell.",
+          "note": "Condensed paraphrase of Roth 1915, §60; not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "Their work made them thirsty, so the Indians gave calabashes to all the animals except the Maipuri, to whom they gave a sifter; when they reached the waterside, the water poured out of his sifter as fast as it was poured in — part of his punishment for being so greedy in keeping the secret of the bountiful tree all to himself. The Indians took away all the cassava, cane, yams, plantains, potatoes, bananas, pumpkins, and watermelons; by the time Maipuri got back only the plums were left, and with these he has had to remain content even to the present day. What the Indians took they planted in their provision fields; but it was the Bunia bird who explained how each was to be propagated and cooked, and how some, like the bitter cassava juice, had to be boiled before drinking, while others could be eaten raw.",
+          "note": "Condensed paraphrase of Roth 1915, §60; not verbatim."
+        }
+      ],
+      "persons": []
+    },
+    {
+      "id": "amazonian-flood-wonderful-tree-fountain",
+      "title": {
+        "en": "The Fountain in the Stump: the Flood That Followed the Wonderful Tree",
+        "zh": "樹樁之泉：繼神樹而來之洪水"
+      },
+      "tradition": "amazonian",
+      "category": "myth",
+      "region": {
+        "en": "Carib-Akawai country, Guiana highlands",
+        "zh": "圭亞那高地加勒比-阿卡瓦之地"
+      },
+      "lat": 4.8,
+      "lon": -59.8,
+      "period": "Carib/Akawai tradition recorded by Brett; summarized 1915 (Roth)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Walter E. Roth, An Inquiry into the Animism and Folk-lore of the Guiana Indians (33rd Annual Report, Bureau of American Ethnology, 1915), ch. IV 'Creation of Man', §61",
+        "url": "https://archive.org/details/cu31924104074665"
+      },
+      "license": "Public domain (report 1915)",
+      "summary": {
+        "en": "Brett adds to the tale of the wonderful tree a fountain of swelling waters in the stump or under its roots, its overflow checked only by a rugged rock — or, in the Akawai version, an inverted basket. Owing to the reputed wickedness of the people in the one case, and the mischief of a howling monkey in the other, the waters were let loose and a flood overwhelmed nearly everything. Some tried to escape by climbing a high kokerite palm whose top reached the heavens; a poor woman, unable to climb, led the way halfway up and was turned into stone by terror and exhaustion, and all who tried to pass over her became rocks likewise. A few survivors climbed a komoo palm and saved themselves.",
+        "zh": "布雷特續神樹之傳：樹樁根下有湧泉，以巨石（阿卡瓦人言倒置之籃）塞之。人因惡行（一說吼猴之擾），泉決為洪，幾滅萬類。眾攀其顛及天之柯基里棕而逃；一孕婦先登，半途驚疲化石，後至者欲越亦皆化石。倖存者攀孔摩棕乃免。"
+      },
+      "motifs": [
+        "flood",
+        "world-renewal",
+        "transformation",
+        "petrification",
+        "flood-punishment"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Carib/Akawai tradition recorded by Brett, summarized in Roth 1915; archival record, read critically."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Brett ascribes the wonderful tree to Tamosi among the Caribs, in the same way that he gives Makunaima credit for the similarly wonderful Akawai tree. To the story he adds the mention of a fountain or swelling waters in the stump, or under the roots, of this wonderful tree, the overflowing of which is temporarily checked by means of a rugged rock (Carib) or an inverted basket (Akawai).",
+          "note": "Condensed paraphrase of Roth 1915, §61 (from Brett); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Owing to the reputed wickedness of the people in the one case, and the mischief of a howling monkey in the other, the waters are let loose, and a flood occurs, which overwhelms nearly everything, most of the people being destroyed. Some try to escape by climbing a high kokerite palm whose top reaches the heavens, but a poor woman not in a condition to climb led the way, and halfway up was turned into stone by terror and exhaustion: none could help her and none could pass over her, and all who tried to do so became rocks likewise. A few survivors then climbed a komoo palm and so saved themselves.",
+          "note": "Condensed paraphrase of Roth 1915, §61 (from Brett); not verbatim."
+        }
+      ],
+      "persons": [
+        "makunaima"
+      ]
+    },
+    {
+      "id": "amazonian-amalivaca-skins",
+      "title": {
+        "en": "'You Will Change Your Skins': Amalivaca and the Origin of Death",
+        "zh": "『汝將換皮』：阿馬利瓦卡與死之由來"
+      },
+      "tradition": "amazonian",
+      "category": "myth",
+      "region": {
+        "en": "Tamanac country, Orinoco",
+        "zh": "奧里諾科塔馬納克之地"
+      },
+      "lat": 6.2,
+      "lon": -66.7,
+      "period": "Tamanac tradition recorded by Humboldt; summarized 1915 (Roth)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Walter E. Roth, An Inquiry into the Animism and Folk-lore of the Guiana Indians (33rd Annual Report, Bureau of American Ethnology, 1915), ch. V 'The Body and Its Associated Spirits', §64",
+        "url": "https://archive.org/details/cu31924104074665"
+      },
+      "license": "Public domain (report 1915)",
+      "summary": {
+        "en": "After Amalivaca had lived a long while with the Tamanacas, he took his corial to return across the salt water whence he had come. Just as he was taking his departure he sang out to them, 'You will change your skins' — that is, 'You will always be young', like the snakes that cast theirs. But one doubting old dame called out 'Oh!', which annoyed Amalivaca so much that he said instead: 'You shall die!' So death came into the world through a single doubting voice.",
+        "zh": "阿馬利瓦卡久居塔馬納克人間，將乘舟歸故海。臨別呼曰：『汝等將換皮』——意謂恆如蛇之蛻皮而長生。一老嫗疑而呼『哦！』。神怒，乃改口曰：『汝等當死！』死由是入世。"
+      },
+      "motifs": [
+        "taboo-transgression",
+        "transformation"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Tamanac tradition recorded by Humboldt, summarized in Roth 1915; archival record, read critically. Origin-of-death cluster parallel (messenger/failed-blessing type)."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Other phases of the idea of an immortal body are met with in the myths relative to changed skins: the Indian belief is that those creatures which undergo ecdysis live forever. After Amalivaca had lived a long while with the Tamanacas, he took his corial to reach the other side of the salt water whence he had come. Just as he was taking his departure he sang out to them, 'You will change your skins' — that is, 'You will always be young', like snakes and such creatures.",
+          "note": "Condensed paraphrase of Roth 1915, §64 (from Humboldt); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "But one doubting old dame called out an impatient interjection, which annoyed Amalivaca so much that he now said instead: You shall die! And so, through one old woman’s single word of doubt, the Tamanacs exchanged the perpetual renewal of skins for the ending of life, and death entered their world.",
+          "note": "Condensed paraphrase of Roth 1915, §64 (from Humboldt); not verbatim."
+        }
+      ],
+      "persons": [
+        "amalivaca"
+      ]
+    },
+    {
+      "id": "amazonian-kororomanna-everlasting-life",
+      "title": {
+        "en": "Korurumanni Takes Away the Arawaks' Everlasting Life",
+        "zh": "科魯魯瑪尼奪阿拉瓦克之永生"
+      },
+      "tradition": "amazonian",
+      "category": "myth",
+      "region": {
+        "en": "Arawak country, Guiana coast",
+        "zh": "蓋亞那濱海阿拉瓦克之地"
+      },
+      "lat": 7.0,
+      "lon": -58.7,
+      "period": "Arawak tradition recorded by Schomburgk; summarized 1915 (Roth)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Walter E. Roth, An Inquiry into the Animism and Folk-lore of the Guiana Indians (33rd Annual Report, Bureau of American Ethnology, 1915), ch. V 'The Body and Its Associated Spirits', §64",
+        "url": "https://archive.org/details/cu31924104074665"
+      },
+      "license": "Public domain (report 1915)",
+      "summary": {
+        "en": "When Kururumanni [Kororomanna] came to earth to see what the Arawaks were doing, he found them so bad that he wished to destroy them; on that account he took away their everlasting life and bestowed it instead on those creatures who cast their skins — the snakes, the lizards, and the cockroaches. That is why those creatures never die of old age, and why men do.",
+        "zh": "科魯魯瑪尼下凡觀阿拉瓦克所為，見其甚惡，欲滅之；遂奪其永生，而賜於蛻皮之物——蛇、蜥與蟑螂。故彼等不老不死，而人則必死。"
+      },
+      "motifs": [
+        "taboo-transgression",
+        "transformation"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Arawak tradition summarized in Roth 1915 from Schomburgk; archival record, read critically. Origin-of-death cluster parallel."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "When Kururumanni [Kororomanna] came to earth to see what the Arawaks were doing, he found them so bad that he wished to destroy them; on which account he took away their everlasting life and bestowed it on those creatures who cast their skins — snakes, lizards, and cockroaches.",
+          "note": "Condensed paraphrase of Roth 1915, §64 (from Schomburgk); not verbatim."
+        }
+      ],
+      "persons": [
+        "kororomanna"
+      ]
+    },
+    {
+      "id": "amazonian-man-with-bad-temper",
+      "title": {
+        "en": "The Monkey Wife and the Man with a Bad Temper",
+        "zh": "猴妻與暴夫"
+      },
+      "tradition": "amazonian",
+      "category": "myth",
+      "region": {
+        "en": "Pomeroon River, Guyana (Warrau)",
+        "zh": "蓋亞那波默龍河瓦勞之地"
+      },
+      "lat": 7.2,
+      "lon": -58.9,
+      "period": "Warrau oral tradition; recorded 1915 (Roth)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Walter E. Roth, An Inquiry into the Animism and Folk-lore of the Guiana Indians (33rd Annual Report, Bureau of American Ethnology, 1915), ch. V 'The Body and Its Associated Spirits', §64A",
+        "url": "https://archive.org/details/cu31924104074665"
+      },
+      "license": "Public domain (report 1915)",
+      "summary": {
+        "en": "A couple caught a girl monkey and 'minded' her; when the household was away she took off her skin, hung it on a beam, dressed in their ornaments, and cooked and ate the cassava. A hidden young man seized her, promised never to ill-treat her, and threw the monkey skin into the fire. But tired of her he began lashing her and calling her 'Monkey'; she fled into the bush, resuming her four-legged gait and her tree-jumping, with her little boy imitating her. At a wide river her people made the shores draw together, tree touched tree, and mother and child leapt across. 'You must swim after us if you want us!' — and the man went home and destroyed everything that had belonged to the woman.",
+        "zh": "一家畜幼猴；家中無人時，猴褪皮懸樑，飾以飾物，炊薯而食。青年捉之，誓不相虐，焚其猴皮。後夫厭之，鞭而呼『猴』；婦攜子遁入林，復四足之行，攀樹如猿。至大河，其族人令兩岸相合，母子越而返。『欲得吾等，泅水而來！』夫歸而盡毀其婦之物。"
+      },
+      "motifs": [
+        "transformation",
+        "taboo-transgression"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Warrau oral tradition recorded 1915 (Roth); archival record, read critically."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "A man and woman once caught a girl monkey and 'minded' her: she became quite tame, and when the old people went away for a while they would often leave the monkey in charge. One day, when they had gone on a visit, the monkey took off her skin, threw it over one of the house-beams, and replaced it with the apron-belt and other ornaments the household had left behind. She then cooked and ate the cassava, and finally put on her skin again. On the next occasion a young man remained behind, hidden, to watch; he rushed up and seized her as she baked the cassava, and a hard struggle took place.",
+          "note": "Condensed paraphrase of Roth 1915, §64A; not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "'I am not fit to be your wife,' said the girl. 'But I want you badly,' was the rejoinder. When he assured her he would never ill-treat her, she consented, and as soon as she agreed he pulled the monkey skin down from the beam and threw it into the fire. They remained together a long time, and she bore him a little boy. But getting tired of her he began lashing her and kept calling her 'Monkey' and annoying her in every way he could.",
+          "note": "Condensed paraphrase of Roth 1915, §64A; not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "Suffering so much, she resolved to return to her people: telling her husband she was going to bathe in the pond, she went far away into the bush, limping on a stick, trying to get back into her original style of walking on four legs and jumping from tree to tree, her little boy beginning to imitate her movements. When the husband came on her, there she was with the baby jumping from the top of one tree to another; only the child, who felt sorry for his father, threw down the spiders and insects for him to eat. At a wide river she cried to her people 'Katanni-tan — come and fetch us!', and they made the wind blow so strongly that the opposite shore came close over, tree touching tree, and mother and child jumped across. 'You must swim after us if you want us!' cried the monkey; and the man went home and destroyed everything that had belonged to the woman — cut up her hammock, broke her calabash, and smashed her goblets. What a bad temper he must have had!",
+          "note": "Condensed paraphrase of Roth 1915, §64A; not verbatim."
+        }
+      ],
+      "persons": []
+    },
+    {
+      "id": "amazonian-sorcerers-daughter",
+      "title": {
+        "en": "The Sorcerer's Daughter and the Magic Skin",
+        "zh": "巫師之女與魔皮"
+      },
+      "tradition": "amazonian",
+      "category": "myth",
+      "region": {
+        "en": "Guiana coast (after Brett)",
+        "zh": "圭亞那濱海（據布雷特）"
+      },
+      "lat": 6.8,
+      "lon": -58.2,
+      "period": "Guiana oral tradition; recorded 1880 (Brett), retold 1915 (Roth)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Walter E. Roth, An Inquiry into the Animism and Folk-lore of the Guiana Indians (33rd Annual Report, Bureau of American Ethnology, 1915), ch. V 'The Body and Its Associated Spirits', §64B (adapting Brett 1880)",
+        "url": "https://archive.org/details/cu31924104074665"
+      },
+      "license": "Public domain (report 1915)",
+      "summary": {
+        "en": "The daughter of a piai fell in love with a brave young hunter and begged her father to make her like one of the young man's dogs so that she might always be with him. He put a magic skin over her shoulders and she became a dog. Each time the youth went out hunting with his four dogs, one always ran home and would never join the fray; and when he got home in the afternoon there was the fire burning and the cassava ready. Tying up the three dogs, he returned without a sound, saw a lovely maiden making cassava with the charmed skin hanging at one side, rushed in, threw the skin on the already lighted fire — and claimed the girl from her father for his wife.",
+        "zh": "巫師之女愛獵人，求父化之為犬以隨之。父以魔皮覆肩，遂成犬。獵人每出獵，一犬必先歸；歸家則火已燃、薯已備。縶三犬，悄然返家，見美婦炊薯，魔皮懸於側；疾入擲皮於火，向其父求以為妻。"
+      },
+      "motifs": [
+        "transformation",
+        "divine-marriage",
+        "animal-transformation",
+        "magic-flight"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Guiana tradition from Brett 1880, retold in Roth 1915; archival record, read critically."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The daughter of a piai fell in love with a brave young hunter, who did not seemingly pay her any too much attention. She begged her father to make her like one of the young man's dogs so that she might always be with him. He put a magic skin over her shoulders and she became a dog. Thus it came about that each time the youth went out hunting with his four dogs, one always ran back home and would never join in the fray; more than this, whenever he got home in the afternoon, there was the fire burning, the cassava ready, and all neat and clean.",
+          "note": "Condensed paraphrase of Roth 1915, §64B (from Brett); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "He thought this was due to some of his neighbors, and went to thank them, but they denied all knowledge. On the next occasion, as soon as he missed one of his dogs, he tied the three up to a tree and returned home without making the slightest sound. Taking an advantageous position, he saw a lovely maiden there making cassava and doing other things, while at one side there hung the charmed skin. He swiftly rushed in, seized the skin, and threw it on the already lighted fire. He then claimed the girl from her father for his wife.",
+          "note": "Condensed paraphrase of Roth 1915, §64B (from Brett); not verbatim."
+        }
+      ],
+      "persons": []
+    },
+    {
+      "id": "amazonian-river-of-life",
+      "title": {
+        "en": "The River of Life and the Search for the Happy Land",
+        "zh": "生命之河與樂土之尋"
+      },
+      "tradition": "amazonian",
+      "category": "myth",
+      "region": {
+        "en": "Florida (Arawak Islander tradition)",
+        "zh": "佛羅里達（島民阿拉瓦克傳說）"
+      },
+      "lat": 28.0,
+      "lon": -81.7,
+      "period": "Island Arawak tradition reported to Spaniards; summarized 1915 (Roth)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Walter E. Roth, An Inquiry into the Animism and Folk-lore of the Guiana Indians (33rd Annual Report, Bureau of American Ethnology, 1915), ch. V 'The Body and Its Associated Spirits', §65",
+        "url": "https://archive.org/details/cu31924104074665"
+      },
+      "license": "Public domain (report 1915)",
+      "summary": {
+        "en": "Some old Island Indians, presumably of the Arawak stock, assured Ponce de Leon that far to the north there existed a land abounding in gold and in all manner of delights, but above all possessing a river of such wonderful virtue that whoever bathed in it would be restored to youth. They added that in times past, before the arrival of the Spaniards, a large party of the natives of Cuba had departed northward in search of this happy land and this River of Life, and, never returning, were concluded to be flourishing in renovated youth, detained by the pleasure of that enchanting country.",
+        "zh": "島民阿拉瓦克老人告西班牙人：北方有沃土，金銀百物具足，尤有一河，浴之者返老還童。昔西班牙人未至時，古巴土人結伴北尋此樂土與生命之河，一去不返；人皆以為彼等飲浴其間，樂而忘歸，永保青春。"
+      },
+      "motifs": [
+        "quest-immortality",
+        "otherworld-voyage"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Island Arawak tradition as reported to early Spanish colonizers, summarized in Roth 1915; archival record, read critically."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Far to the north there existed a land abounding in gold and in all manner of delights; but above all, possessing a river of such wonderful virtue that whoever bathed in it would be restored to youth. In times past, before the arrival of the Spaniards, a large party of the natives of Cuba had departed northward in search of this happy land and this River of Life, and, having never returned, it was concluded that they were flourishing in renovated youth, detained by the pleasure of that enchanting country.",
+          "note": "Condensed paraphrase of Roth 1915, §65; not verbatim."
+        }
+      ],
+      "persons": []
+    }
+  ]
+}

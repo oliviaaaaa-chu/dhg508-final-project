@@ -1,0 +1,287 @@
+{
+  "texts": [
+    {
+      "id": "egyptian-book-breathings",
+      "title": {
+        "en": "The Book of Breathings: Salvation in a Few Pages",
+        "zh": "呼吸之書：數頁之內的救恩"
+      },
+      "tradition": "egyptian",
+      "category": "myth",
+      "region": {
+        "en": "Egypt, Graeco-Roman period funerary workshops (symbolic pin, Thebes)",
+        "zh": "希臘-羅馬時期埃及喪葬作坊（象徵定位，底比斯）"
+      },
+      "lat": 25.6872,
+      "lon": 32.6396,
+      "period": "Ptolemaic-Roman period condensation of the Book of the Dead (c. 200 BCE-100 CE; Budge translation 1910)",
+      "source": {
+        "archive": "Project Gutenberg (eBook #15932)",
+        "work": "The Literature of the Ancient Egyptians, trans. E. A. W. Budge (1910), ch. V, the Shai en Sensen (Book of Breathings), British Museum papyrus",
+        "url": "https://www.gutenberg.org/files/15932/15932-0.txt"
+      },
+      "license": "Public domain (translation 1910)",
+      "summary": {
+        "en": "When only the wealthy could afford the whole Book of the Dead, scribes condensed the essential chapters: the Book of Breathings declares the deceased washed in the Field of Offerings, purified by Uatchet and Nekhebet, vindicated by the Goddess of Truth before Osiris — 'thy soul breathe[s] for ever and ever, and thy form is renewed with life upon earth.'",
+        "zh": "亡靈書全卷非富人莫辨，書吏遂刪要成篇：呼吸之書宣告亡者洗於祭品之田，為瓦傑特與奈赫貝特所淨，於奧西里斯前受真理女神之辯護——『爾之靈永世呼吸，爾之形於人間更新而得生』。"
+      },
+      "motifs": [
+        "resurrection",
+        "descent-underworld",
+        "celestial-bureaucracy",
+        "dying-god",
+        "secret-book"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient funerary scripture; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Hail, Osiris Kersher, son of Tashenatit! Thou art pure, thy heart is pure. Thy fore parts are pure, thy hind parts are cleansed; thy interior is cleansed with incense and natron, and no member of thine hath any defect in it whatsoever. Kersher is washed in the waters of the Field of Offerings, that lieth to the north of the Field of the Grasshoppers. The goddesses Uatchet and Nekhebet purify thee at the eighth hour of the night and at the eighth hour of the day. Come then, enter the Hall of Truth, for thou art free from all offence and from every defect, and 'Stone of Truth' is thy name.",
+          "note": "Verbatim excerpt of Budge, Literature of the Ancient Egyptians (1910), ch. V, the Book of Breathings."
+        },
+        {
+          "id": "2",
+          "text": "Thou enterest the Tuat (Other World) as one exceedingly pure. Thou art purified by the Goddesses of Truth in the Great Hall. Holy water hath been poured over thee in the Hall of Keb (i.e. the earth), and thy body hath been made pure in the Hall of Shu (heaven). Thou lookest upon Ra when he setteth in the form of Tem at eventide. Amen is nigh unto thee and giveth thee air, and Ptah likewise, who fashioned thy members for thee; thou enterest the horizon with Ra. Thy soul is received in the Neshem Boat of Osiris, thy soul is made divine in the House of Keb, and thou art made to be triumphant for ever and ever.",
+          "note": "Verbatim excerpt of Budge (1910), Book of Breathings."
+        },
+        {
+          "id": "3",
+          "text": "Hail, Osiris Kersher! Thy name flourisheth, thy earthly body is stablished, thy spirit body germinateth, and thou art not repulsed either in heaven or on earth. Thy face shineth before Ra, thy soul liveth before Amen, and thy earthly body is renewed before Osiris. Thou breathest the breath of life for ever and ever. — Thoth, the most mighty god, the Lord of Khemenu (Hermopolis), cometh to thee, and he writeth the 'Book of Breathings' with his own fingers. Then doth thy soul breathe for ever and ever, and thy form is renewed with life upon earth.",
+          "note": "Verbatim excerpt of Budge (1910), Book of Breathings."
+        }
+      ],
+      "persons": [
+        "osiris",
+        "thoth"
+      ]
+    },
+    {
+      "id": "egyptian-book-traversing-eternity",
+      "title": {
+        "en": "The Book of Traversing Eternity: A Soul That Visits the Festivals",
+        "zh": "遍歷永恆之書：能赴節會之魂"
+      },
+      "tradition": "egyptian",
+      "category": "myth",
+      "region": {
+        "en": "Egypt, Graeco-Roman period (symbolic pin, Abydos, the great festival circuit)",
+        "zh": "希臘-羅馬時期埃及（象徵定位，阿拜多斯，大祭之旅）"
+      },
+      "lat": 26.18,
+      "lon": 31.92,
+      "period": "Ptolemaic-Roman period funerary book, fullest copy on a Vienna papyrus (Budge translation 1910)",
+      "source": {
+        "archive": "Project Gutenberg (eBook #15932)",
+        "work": "The Literature of the Ancient Egyptians, trans. E. A. W. Budge (1910), ch. V, the Book of Traversing Eternity",
+        "url": "https://www.gutenberg.org/files/15932/15932-0.txt"
+      },
+      "license": "Public domain (translation 1910)",
+      "summary": {
+        "en": "The shortest road to the whole of Egypt for the dead: the Book of Traversing Eternity promises the soul freedom to travel from one end of the land to the other, visit all the holy places, attend every festival, commune with the gods and — tenderest of clauses — with the living kinsfolk it left behind, floating in the air, following the gods, traveling with the stars, at will by night and by day.",
+        "zh": "亡者遊遍埃及之最簡之路：遍歷永恆之書許諾靈魂可自由行遍全國、遍訪聖地、赴每一祭節、與神靈相通——最溫柔者：與其在世之親族相見——浮於空氣，追隨諸神，同行星宿，晝夜任意往來。"
+      },
+      "motifs": [
+        "ascension",
+        "otherworld-voyage"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient funerary scripture; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "This work describes how the soul of the deceased, when armed with the power which the Book of Traversing Eternity will give it, shall be able to travel from one end of Egypt to the other, and to visit all the holy places, and to assist at the festivals, and to enjoy communion not only with the gods and spirits who assemble there, but also with its kinsfolk and acquaintances whom it left behind alive on the earth. The object of the book was to secure for the deceased the resurrection of his body; it opens with the following words: 'Thy soul liveth in heaven in the presence of Ra. Thy Ka hath acquired the divine nature of the gods. Thy body remaineth in the deep house (i.e. tomb) in the presence of Osiris. Thy spirit-body becometh glorious among the living. Thy descendants flourish upon the earth.'",
+          "note": "Verbatim excerpt of Budge, Literature of the Ancient Egyptians (1910), ch. V (opening description and text)."
+        },
+        {
+          "id": "2",
+          "text": "Thou comest forth by day, thou art joined to the Sun-god Aten. The text goes on to state that the deceased breathes, speaks, eats, drinks, sees, hears, and walks, and that all the organs of his body are in their proper places, and that each is performing its proper functions. He floats in the air, hovers in the shadow, rises in the sky, follows the gods, travels with the stars, dekans, and planets, and moves about by night and by day on earth and in heaven at will.",
+          "note": "Verbatim excerpt of Budge (1910), Book of Traversing Eternity."
+        }
+      ],
+      "persons": [
+        "osiris",
+        "aten"
+      ]
+    },
+    {
+      "id": "egyptian-festival-songs-isis",
+      "title": {
+        "en": "The Festival Songs of Isis: The Hair Like Lapis",
+        "zh": "伊西斯節歌：髮如青金石"
+      },
+      "tradition": "egyptian",
+      "category": "myth",
+      "region": {
+        "en": "Abydos, Upper Egypt (sung at the great Osiris festival, 22nd-26th of Khoiak)",
+        "zh": "埃及上埃及阿拜多斯（荷阿克月22-26日大祭中咏唱）"
+      },
+      "lat": 26.18,
+      "lon": 31.92,
+      "period": "Graeco-Roman copies of Osiris-festival liturgy (c. 200 BCE-100 CE; Budge translation 1910)",
+      "source": {
+        "archive": "Project Gutenberg (eBook #15932)",
+        "work": "The Literature of the Ancient Egyptians, trans. E. A. W. Budge (1910), ch. V, the Festival Songs of Isis and Nephthys",
+        "url": "https://www.gutenberg.org/files/15932/15932-0.txt"
+      },
+      "license": "Public domain (translation 1910)",
+      "summary": {
+        "en": "Sung by two virgins with wool fillets and tambourines at the five-day festival of Osiris: 'Come, come, run to me, O strong heart! ... My heart burneth as with fire at thy escape from the Fiend' — and the bridal hymn to the risen god: 'Thy hair is like turquoise as thou comest forth from the Fields of Turquoise... thy skin and body are like southern alabaster, and thy bones are of silver.'",
+        "zh": "兩名頭束羊毛帶、手持鈴鼓之處女於奧西里斯五日大祭中詠唱：『來，來，奔向我，剛毅之心！……爾脫於魔爪，我心如焚』——另有婚頌迎復活之神：『爾髮如松石，爾自松石之田而來……爾膚若南方雪花石膏，爾骨為白銀。』"
+      },
+      "motifs": [
+        "resurrection",
+        "divine-marriage",
+        "dying-god"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient ritual song; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The second work, the 'Festival Songs of Isis and Nephthys,' was sung during the great festival of Osiris, which took place in the fourth month of the Season of Akhet and lasted five days (from the twenty-second to the twenty-sixth day). It was sung by two virgins who wore fillets of sheep's wool on their heads, and held tambourines in their hands; one was called Isis and the other Nephthys. According to the rubrical directions given in the British Museum papyrus, the sections were sung by both women together.",
+          "note": "Verbatim excerpt of Budge, Literature of the Ancient Egyptians (1910), ch. V rubric."
+        },
+        {
+          "id": "2",
+          "text": "'Come, come, run to me, O strong heart! Let me see thy divine face, for I do not see thee, and make thou clear the path that we may see thee as we see Ra in heaven, when the heavens unite with the earth, and cause darkness to fall upon the earth each day. My heart burneth as with fire at thy escape from the Fiend, even as my heart burneth with fire when thou turnest thy side to me; O that thou wouldst never remove it from me! O thou who unitest the Two Domains (i.e. Egypt, North and South), and who turnest back those who are on the roads, I seek to see thee because of my love for thee.'",
+          "note": "Verbatim excerpt of Budge (1910), Festival Songs."
+        },
+        {
+          "id": "3",
+          "text": "'Thou fliest like a living being, O Everlasting King; thou hast destroyed the fiend Anrekh. Thou art the King of the South and of the North, and thou goest forth from Tatchesert. May there never be a moment in thy life when I do not fill thy heart, O my divine brother, my lord who goest forth from Aqert. My arms are raised to protect thee, O thou whom I love. I love thee, O Husband, Brother, lord of love; come thou in peace into thy house. Thy hair is like turquoise as thou comest forth from the Fields of Turquoise, thy hair is like unto the finest lapis-lazuli, and thou thyself art more blue than thy hair. Thy skin and body are like southern alabaster, and thy bones are of silver.'",
+          "note": "Verbatim excerpt of Budge (1910), Festival Songs."
+        }
+      ],
+      "persons": [
+        "isis",
+        "nephthys",
+        "osiris"
+      ]
+    },
+    {
+      "id": "egyptian-splendid-spirit-osiris",
+      "title": {
+        "en": "Making Splendid the Spirit of Osiris: The Nile Rises at His Word",
+        "zh": "使奧西里斯之靈光榮：尼羅應其口而漲"
+      },
+      "tradition": "egyptian",
+      "category": "myth",
+      "region": {
+        "en": "Abydos, Upper Egypt (sung November-December at the Osiris mysteries)",
+        "zh": "埃及上埃及阿拜多斯（十一至十二月奧西里斯秘祭中詠唱）"
+      },
+      "lat": 26.18,
+      "lon": 31.92,
+      "period": "Graeco-Roman copies of the Osiris liturgy, Paris papyrus (Budge translation 1910)",
+      "source": {
+        "archive": "Project Gutenberg (eBook #15932)",
+        "work": "The Literature of the Ancient Egyptians, trans. E. A. W. Budge (1910), ch. V, the Book of Making Splendid the Spirit of Osiris",
+        "url": "https://www.gutenberg.org/files/15932/15932-0.txt"
+      },
+      "license": "Public domain (translation 1910)",
+      "summary": {
+        "en": "The third great Osiris liturgy: Isis speaks as both sister and mother of the faith — 'I, a woman, made a man child for thee... He pleaded thy case... Set fell under his knife' — and the risen god is hailed as the source of the flood itself: 'The Nile appeareth at the command of thy mouth... When thou comest that which is dead springeth into life, and the plants in the marshes put forth blossoms.'",
+        "zh": "奧西里斯第三大禮文：伊西斯以姊兼母之口言說——『我，一介女子，為你生下男兒……他為你申冤……塞特倒於其刀下』——復活之神被尊為洪源：『尼羅應爾口而漲……爾至之時，死者復生，沼中草木開花。』"
+      },
+      "motifs": [
+        "resurrection",
+        "world-renewal",
+        "divine-marriage",
+        "dying-god"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient ritual liturgy; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Come to thy house, come to thy house, O An. Come to thy house, O Beautiful Bull, lord of men and women, the beloved one, the lord of women. O Beautiful Face, Chief of Akert, Prince, Khenti Amentiu, are not all hearts drunk through the love of thee, O Un-Nefer, whose word is truth? The hands of men and gods are lifted up and seek thee, even as the hands of a babe are stretched out to his mother. Come thou to them, for their hearts are sad, and make them to rejoice.",
+          "note": "Verbatim excerpt of Budge, Literature of the Ancient Egyptians (1910), ch. V, the Book of Making Splendid the Spirit of Osiris."
+        },
+        {
+          "id": "2",
+          "text": "Hail, Osiris Khenti Amentiu! I am thy sister Isis. No god and no goddess have done for thee what I have done. I, a woman, made a man child for thee, because of my desire to make thy name to live upon the earth. Thy divine essence was in my body, I brought him forth on the ground. He pleaded thy case, he healed thy suffering, he decreed the destruction of him that caused it. Set fell under his knife, and the Smamiu fiends of Set followed him. The throne of the Earth-god is thine, O thou who art his beloved son. There is health in thy members, thy wounds are healed, thy sufferings are relieved, thou shalt never groan again in pain.",
+          "note": "Verbatim excerpt of Budge (1910), Making Splendid the Spirit of Osiris."
+        },
+        {
+          "id": "3",
+          "text": "The Nile appeareth at the command of thy mouth; thou makest men to live on the effluxes that proceed from thy members, and thou makest every field to flourish. When thou comest that which is dead springeth into life, and the plants in the marshes put forth blossoms. Thou art the Lord of millions of years, the sustainer of wild creatures, and the lord of cattle; every created thing hath its existence from thee. What is in the earth is thine. What is in the heavens is thine. What is in the waters is thine. Thou art the Lord of Truth, the hater of sinners, whom thou overthrowest in their sins.",
+          "note": "Verbatim excerpt of Budge (1910), Making Splendid the Spirit of Osiris."
+        }
+      ],
+      "persons": [
+        "osiris",
+        "isis",
+        "set"
+      ]
+    },
+    {
+      "id": "egyptian-wenamun-byblos",
+      "title": {
+        "en": "Wenamun in Byblos: The Ambassador of Amun and the Cedars of Lebanon",
+        "zh": "文阿蒙在比布魯斯：阿蒙使臣與黎巴嫩雪松"
+      },
+      "tradition": "egyptian",
+      "category": "myth",
+      "region": {
+        "en": "Byblos, Phoenician coast (harbour of Zakar-Baal, prince of Byblos)",
+        "zh": "腓尼基海岸比布魯斯（比布魯斯王札克爾-巴爾之港）"
+      },
+      "lat": 34.1206,
+      "lon": 35.6482,
+      "period": "Papyrus written in the 11th century BCE (year 5 of the Whm-Mswet era; Budge translation 1910)",
+      "source": {
+        "archive": "Project Gutenberg (eBook #15932)",
+        "work": "The Literature of the Ancient Egyptians, trans. E. A. W. Budge (1910), ch. X, the Journey of the Priest Unu-Amen (Wenamun) into Syria",
+        "url": "https://www.gutenberg.org/files/15932/15932-0.txt"
+      },
+      "license": "Public domain (translation 1910)",
+      "summary": {
+        "en": "The elder priest of Amun sails to buy cedar for the god's great boat, is robbed, stranded for twenty-nine days in Byblos harbour while the prince orders him out daily, haggle-humiliated — 'I am not thy servant, nor the servant of him that sent thee' — and wins his timbers only by invoking the sleeping statue of Amun travelling with him; shipwrecked at last on Cyprus, he pleads his mission to the queen.",
+        "zh": "阿蒙大祭司奉命購雪松以造大神舟，途中遭竊，滯留比布魯斯港二十九日，王子日日逐客，又遭折辱——『我非爾之僕，亦非遣爾者之僕』——直至其以同行睡臥之阿蒙神像相脅，方得巨木；終又遭遇海難漂至塞浦路斯，向女王哀陳使命。"
+      },
+      "motifs": [
+        "otherworld-voyage",
+        "taboo-transgression",
+        "sacred-kingship"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Late New Kingdom narrative (historical romance); no living community restrictions. Treated in this corpus as a mythic travel tale of the god's ambassador."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "On the eighteenth day of the third month of the season of the Inundation, of the fifth year, Unu-Amen, the senior priest of the Hait chamber of the house of Amen, the Lord of the thrones of the Two Lands, set out on his journey to bring back wood for the great and holy Boat of Amen-Ra, the King of the Gods, which is called 'User-hat,' and floateth on the canal of Amen. — And a man who belonged to the crew of my boat ran away, having stolen vessels of gold that weighed five teben, and four vessels of silver that weighed twenty teben, and silver in a leather bag that weighed eleven teben.",
+          "note": "Verbatim excerpt of Budge, Literature of the Ancient Egyptians (1910), ch. X."
+        },
+        {
+          "id": "2",
+          "text": "And I passed nineteen days in the port of Byblos, and the governor passed his days in sending messages to me each day, saying, 'Get thee gone out of my harbour.' Now on one occasion when he was making an offering to his gods, the god took possession of a certain young chief of his chiefs, and he caused him to fall into a fit of frenzy, and the young man said, 'Bring up the god. Bring the messenger who hath possession of him. Make him to set out on his way. Make him to depart immediately.'",
+          "note": "Verbatim excerpt of Budge (1910), ch. X."
+        },
+        {
+          "id": "3",
+          "text": "He answered and said unto me, 'On what matter of business hast thou come hither?' And I said unto him, 'The matter concerning which I have come is wood for the great and holy Boat of Amen-Ra, the King of the Gods. What thy father did [for the god], and what thy father's father did for him, do thou also.' And he said unto me, 'They certainly did do work for it. Give me a gift for my work for the boat, and then I also will work for it... As for me, I am assuredly not thy servant, and indeed I am not the servant of him that made thee to set out on thy way. If I were to cry out now, and to shout to the cedars of Lebanon, the heavens would open, and the trees would be lying spread out on the sea-shore.'",
+          "note": "Verbatim excerpt of Budge (1910), ch. X."
+        },
+        {
+          "id": "4",
+          "text": "And I said unto him, 'What a shameful thing [to say]! It is not a beggarly journey whereon I have been despatched by those among whom I live. And besides, assuredly there is not a single boat that floateth that doth not belong to Amen. To him belong the sea and the cedars of Lebanon, concerning which thou sayest, They are my property... Amen-Ra, the King of the Gods, spake and told Her-Heru, my lord, to send me forth; and therefore he caused me to set out on my journey together with this great god. Now behold, thou hast caused this great god to pass nine and twenty days here in a boat that is lying at anchor in thy harbour.'",
+          "note": "Verbatim excerpt of Budge (1910), ch. X."
+        }
+      ],
+      "persons": [
+        "amun"
+      ]
+    }
+  ]
+}

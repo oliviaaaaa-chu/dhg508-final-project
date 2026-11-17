@@ -1,0 +1,721 @@
+{
+  "_comment": "Stories cut from newly supplied Pausanias (Shilleto, Bohn/PD) and Ovid Metamorphoses I-VII (Riley 1851/PD). All passages are paraphrase with notes.",
+  "texts": [
+    {
+      "id": "greek-ovid-arachne",
+      "title": {
+        "en": "Arachne and the Web of Truth",
+        "zh": "阿拉喀涅與真相之網"
+      },
+      "tradition": "greek",
+      "category": "myth",
+      "region": {
+        "en": "Lydia (mythic geography)",
+        "zh": "呂底亞（神話地理）"
+      },
+      "lat": 38.65,
+      "lon": 28.3,
+      "period": "Composed c. 8 CE (Latin; Riley translation 1851)",
+      "source": {
+        "archive": "Project Gutenberg eBook 21765 (H. T. Riley, trans.)",
+        "work": "Ovid, Metamorphoses, Book VI (Arachne)",
+        "url": "https://www.gutenberg.org/ebooks/21765"
+      },
+      "license": "Public domain (Riley translation 1851)",
+      "summary": {
+        "en": "Arachne, a mortal woman of Lydia, boasts that her weaving can beat Pallas's; the goddess, worn as an old woman, offers her the chance to take it back, is refused, and the two set up their looms. Pallas weaves the majesty of the gods; Arachne weaves the same gods in their sins: seducers of mortals in cattle-shape, Jupiter the bull and the swan, Neptune, Apollo, Bacchus — the rapes, the guises, the perfidies. The web is recognised as flawless: the goddess tears it and Arachne hangs herself, is saved, and shrinks into the spider that spins forever.",
+        "zh": "呂底亞織女阿拉喀涅自誇織技勝過帕拉斯（雅典娜）；女神扮作老婦勸其收回狂言不果，二人登上高架競織：女神織神威榮耀，凡女卻織神祇的醜行——宙斯化作公牛、天鵝劫掠凡女，波塞冬、阿波羅、狄俄尼索斯——一一在案。織錦無懈可擊，女神憤而撕碎；阿拉喀涅自縊，被救後化身永世吐絲的蜘蛛。"
+      },
+      "motifs": [
+        "taboo-transgression",
+        "transformation"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient literary source; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Not in all Ionia was there a spinner to compare with Arachne, the daughter of Idmon of Lydia in her small provincial town. Men gathered on the streets to see her work; and she herself, in the insolence of youth, claimed that she had learnt the art from nobody — not even from Pallas, daughter of the Thunderer — and challenged a contest with her.",
+          "note": "Paraphrase of Ovid, Metamorphoses VI (Riley 1851); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "The goddess came, taking the shape of an old woman, and offered Arachne the chance to save herself: yield to Pallas, ask her pardon for a boast so mutable, and obtain pardon on her humble knees. Arachne answered from her loom: let the goddess keep away, and let her not go unpunished if she neglects to come and meet her as she promised.",
+          "note": "Paraphrase of Ovid, Metamorphoses VI (Riley 1851); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "Then the goddess threw off the old woman's shape and stood revealed as Pallas, and they set up their looms side by side: two webs of fine thread, fastened upon different boards. Minerva wove a purple centre upon a web of Parnassus in her backdrop, and in the warp, the majesty of the gods: the contest of her own gift, the victory of Neptune over Athens, the twelve gods in their majesty, and Jupiter in the middle; the Earth, the sea, and the skies covering all the ground of the scene.",
+          "note": "Paraphrase of Ovid, Metamorphoses VI (Riley 1851); not verbatim."
+        },
+        {
+          "id": "4",
+          "text": "Arachne's web, made in the same red border, had for its subject the amours of the gods, and the deceits by which they had taken mortal women: Jupiter as a bull carrying Europa over the sea; Jupiter as a swan folding Leda under his wings; Jupiter as a shower of gold entering Danae's chamber; Jupiter as a satyr taking Antiope; Neptune changed into a bull for the daughter of Aeolus; Apollo in the farmer's guise with Isse of those same towns; Faunus in the ravisher of the fair nymph; and many more — like tales of the loves of the gods, in their proper guises.",
+          "note": "Paraphrase of Ovid, Metamorphoses VI (Riley 1851); not verbatim."
+        },
+        {
+          "id": "5",
+          "text": "Not Envy itself could find a fault in that cloth. Pallas, in her jealousy of the girl's success, could not contain her anger, and tore the picture she had made, together with the ground it covered; and thrice and four times struck the forehead of Arachne with the box, of shuttle-wood, in which she had made the shuttle her weapon of warning. Arachne, unable to endure it, and boldness still in her soul, tied a rope about her neck by which to hang herself. But the goddess, in pity as she hung there, held her up, and sprinkled her with the drug of Hecate's herbs; the drug of forgetfulness brought her limbs drooping to the earth; her hair fell off with the ears and the nose, her head became quite small, and all her body kept the same small size; and ever since, spinning on her ancient webs and exercising the art of weaving, she has been called the spider.",
+          "note": "Paraphrase of Ovid, Metamorphoses VI (Riley 1851); not verbatim."
+        }
+      ],
+      "persons": [
+        "athena",
+        "zeus",
+        "arachne",
+        "idmon-colophon"
+      ]
+    },
+    {
+      "id": "greek-ovid-arethusa",
+      "title": {
+        "en": "Arethusa, Who Under The Sea Went Back To Sicily",
+        "zh": "阿瑞圖莎：海底歸返敘拉古"
+      },
+      "tradition": "greek",
+      "category": "myth",
+      "region": {
+        "en": "Elis to Syracuse (mythic geography)",
+        "zh": "厄利斯至敘拉古（神話地理）"
+      },
+      "lat": 37.06,
+      "lon": 15.29,
+      "period": "Composed c. 8 CE (Latin; Riley translation 1851)",
+      "source": {
+        "archive": "Project Gutenberg eBook 21765 (H. T. Riley, trans.)",
+        "work": "Ovid, Metamorphoses, Book V (Arethusa)",
+        "url": "https://www.gutenberg.org/ebooks/21765"
+      },
+      "license": "Public domain (Riley translation 1851)",
+      "summary": {
+        "en": "Ceres, hunting the underworld for Proserpina, comes at last to Arethusa, a spring in Ortygia; the nymph, in reply, tells how Alpheus, the river of Elis, grew a lover, pursued her through Greece by day and as a serpent by night, and by the sea-bed of the Mediterranean drove her in his own waters as far as Sicily, where Diana rent open a cave and let Arethusa spring up on Ortygia; and in her waters, ever since, can be found Elis' own — the proof of how far a river will go.",
+        "zh": "刻瑞斯（得墨忒耳）地下尋女，至奧提伽泉水邊聽阿瑞圖莎自述：厄利斯河阿爾甫斯愛上她，白天顯形纏擾、夜裡化蛇，並在海底追至西西里；狄安娜裂開岩洞，阿瑞圖莎在奧提伽湧出。其泉水中至今可見厄利斯的土粒，是河神愛意與水流相連的明證。"
+      },
+      "motifs": [
+        "transformation",
+        "sacred-place"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient literary source; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The goddess Ceres, having circled the sea and the underworld in her search for Proserpina, returned the way she had come, and so came at last to Sicily. Here, in Ortygia, she was standing before the spring of Arethusa when the water spoke to her: Arethusa told the sorrowing goddess the story of her own transformation, as one who had herself trodden the path under the surface of the world.",
+          "note": "Paraphrase of Ovid, Metamorphoses V (Riley 1851); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Arethusa had been a nymph, one of the followers of Diana. As she came home from the hunt one day, burning with heat, she came upon Alpheus — a river that ran through the fields of Elis — and, kneeling, cooled her limbs in the river, though, to be exact, she lay just under the bank to make her bath quieter. The river god heard the movement and, rising, spoke to her: a lover's cry. She fled, without giving pause, seeking her clothes which she had left behind on the other side of the field.",
+          "note": "Paraphrase of Ovid, Metamorphoses V (Riley 1851); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "So he pursued, and she ran, on bare feet, the ground being a snare of thorns, over kraju that all Olympus's gods explored: her chase lay close behind her, though by sea he ran no faster than she did by land. And in her weariness she cried out to Diana, her patroness, to come and help whom she, a virgin servant of her own vows, still carried the perpetual virginity in her own turn.",
+          "note": "Paraphrase of Ovid, Metamorphoses V (Riley 1851); not verbatim."
+        },
+        {
+          "id": "4",
+          "text": "And in answer to her prayer, Diana concealed her in a cloud — a thick mist hid the shape of the fleeing nymph. Then Alpheus, ceased following in his own shape, turned himself into waters: the god put on his own shape again and ran as a stream upon her, thicker. At last, the stream winding through the land of Elis streamed before; and, with the urging of Diana's cry, he began to pass with his water under the sea.",
+          "note": "Paraphrase of Ovid, Metamorphoses V (Riley 1851); not verbatim."
+        },
+        {
+          "id": "5",
+          "text": "But his water flowed with such cleverness that it reached and was still dogged by Arethusa. Diana, at her prayer, rent open a great hollow in the earth beneath Ortygia, and there Arethusa rose a spring in the island, a spring with never a change in her who had been so chased on dry land. And though a vast sea to fall beneath, the rocks a climb, she said, the waters of the two still mixed — and Pausanias himself had swum in it and brought up in her spring leaves of Elis's sycamores: such is the truth of what the waters say when no walls divide them.",
+          "note": "Paraphrase of Ovid, Metamorphoses V (Riley 1851); not verbatim."
+        }
+      ],
+      "persons": [
+        "oceanus",
+        "tethys",
+        "artemis",
+        "zeus",
+        "alpheus",
+        "arethusa"
+      ]
+    },
+    {
+      "id": "greek-ovid-daphne",
+      "title": {
+        "en": "Apollo and Daphne",
+        "zh": "阿波羅與達芙妮"
+      },
+      "tradition": "greek",
+      "category": "myth",
+      "region": {
+        "en": "Parnassus &amp; river Peneus (symbolic pin)",
+        "zh": "帕爾納索斯與珀紐斯河（象徵性定位）"
+      },
+      "lat": 39.97,
+      "lon": 22.35,
+      "period": "Composed c. 8 CE (Latin; Riley translation 1851)",
+      "source": {
+        "archive": "Project Gutenberg eBook 21765 (H. T. Riley, trans.)",
+        "work": "Ovid, Metamorphoses, Book I (Fable XII)",
+        "url": "https://www.gutenberg.org/ebooks/21765"
+      },
+      "license": "Public domain (Riley translation 1851)",
+      "summary": {
+        "en": "Mocked by Cupid for boasting of his Python kill, Apollo is shot with love's gold arrow over Daphne, the river-god Peneus' daughter — while Daphne, who has begged her father for perpetual virginity like Diana's, takes the blunted lead dart in her heart instead. She flees; her running makes her more beautiful; and at the brink of her father's river she is changed into the laurel, which Apollo, holding its leaves, adopts as his tree of triumph and of song.",
+        "zh": "阿波羅因誇耀誅殺巨蟒遭庫皮德嘲諷：愛神以金箭射他，令其愛上河神珀紐斯之女達芙妮；而祈求父親賜她永葆處子之身的達芙妮卻中了鈍鉛之箭，見其追來便逃。貌美而奔，愈奔愈麗；她抵河畔呼救，父親把她化為月桂。阿波羅滿懷憐愛地攬住枝葉，將月桂定為凱旋與詩歌之樹。"
+      },
+      "motifs": [
+        "transformation",
+        "sacred-place"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient literary source; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Apollo, flush from his slaying of the Python — the vast serpent that had covered the acres of a plain with its pestilential body — saw Cupid bending a bow, and mocked the boy: gallant arms, he said, belonged on his own shoulders; the child could keep to his torch and its small fires. 'Let your bow shoot everything, Phoebus,' Cupid answered; 'my bow shall shoot you.'",
+          "note": "Paraphrase of Ovid, Metamorphoses I (Riley 1851); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Cupid then drew two arrows of different workmanship: the one that kindles love was gold, bright and sharp-pointed; the one that repelled it was lead, blunt of tip. With the golden head he struck Apollo through the marrow, and with the leaden dart he pierced Daphne, the daughter of the river Peneus — his first love and her fated refusal. She had begged her father to grant her perpetual virginity, as Diana had been granted it, and was off in the wild places, rival of Phoebe, when the wound took hold.",
+          "note": "Paraphrase of Ovid, Metamorphoses I (Riley 1851); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "The god burst into flame at the sight of her and pursued: as the stubble burns at the hedge torch's touch, so he burned in a fruitless passion, and his own oracles failed him even as he ran behind her, calling her back with promises that he was no enemy, that he was lord of Delphi and of the lyre, and that no herbs of his healing arts — here his confession — could ever cure love.",
+          "note": "Paraphrase of Ovid, Metamorphoses I (Riley 1851); not verbatim."
+        },
+        {
+          "id": "4",
+          "text": "The winds, let loose against her flight, spread her garments and committed her small shame upon the air; and the light wind streaming behind her made her look lovelier as she ran. Ovid compares the pair, god and girl, to a greyhound and the hare at the open field: the one striving for a grip, the other for her safety. When Apollo was about to seize her, the nymph, come at last to the brink of her father's river, prayed to the water of Peneus",
+          "note": "Paraphrase of Ovid, Metamorphoses I (Riley 1851); not verbatim."
+        },
+        {
+          "id": "5",
+          "text": "Her prayer was scarcely ended. A sluggish numbness closed over her body; her soft breast was enclosed in thin bark; her hair grew into green leaves; her arms became branches, and her feet, staying on the soil, were roots; her face was hidden in the spreading crown. Phoebus loved her still; and, with his hand on the trunk, he felt the heart beat beneath the bark, and prophesied: the laurel, alone of trees, should now be his — his when triumphs shone about the caps of victors, his at Rome's joyful gate-tops — and as evergreen, faithful to the wreath of victory, remain his for ever.",
+          "note": "Paraphrase of Ovid, Metamorphoses I (Riley 1851); not verbatim."
+        }
+      ],
+      "persons": [
+        "oceanus",
+        "tethys",
+        "apollo",
+        "eros",
+        "peneus",
+        "daphne"
+      ]
+    },
+    {
+      "id": "greek-ovid-narcissus-echo",
+      "title": {
+        "en": "Narcissus and Echo",
+        "zh": "納喀索斯與厄科"
+      },
+      "tradition": "greek",
+      "category": "myth",
+      "region": {
+        "en": "Helicon &amp; Thespia (symbolic pin)",
+        "zh": "赫利孔與忒斯庇亞（象徵性定位）"
+      },
+      "lat": 38.33,
+      "lon": 23.11,
+      "period": "Composed c. 8 CE (Latin; Riley translation 1851)",
+      "source": {
+        "archive": "Project Gutenberg eBook 21765 (H. T. Riley, trans.)",
+        "work": "Ovid, Metamorphoses, Book III (Narcissus &amp; Echo)",
+        "url": "https://www.gutenberg.org/ebooks/21765"
+      },
+      "license": "Public domain (Riley translation 1851)",
+      "summary": {
+        "en": "Blind Tiresias, asked by Liriope whether her boy Narcissus would live to old age, answers only: 'if he never know himself.' The boy scorns all lovers; the nymph Echo, robbed of her full voice by Juno and able only to repeat the last words told her, pines away in longing for him till nothing is left of her but the sound; and Narcissus, seeing himself in the spring at Thespia, wastes where he kneels, saying the immortal words 'I am undone' — and a flower grows where he dies.",
+        "zh": "利里俄珀請盲先知提瑞西阿斯問其子納喀索斯壽命，先知只答：「若他不認識自己。」美少年拒絕所有愛慕者；寧芙厄科因赫拉之怒只能尾音學舌，愛而不得，消瘦至只剩聲音。納喀索斯於忒斯庇亞泉水中瞥見自身倒影，誤為幽靈之愛，跪於泉邊耗盡自己，只留一句「唉——」而亡；其葬身處，長出一朵以他名字命名的花。"
+      },
+      "motifs": [
+        "oracle-divination",
+        "transformation"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient literary source; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The seer Tiresias, blind and double-gifted, had once answered Jupiter and Juno's famous question about pleasure with the judgment that a man had nine times more pleasure in the love of woman than she had. Juno called the answer a lie. And it was Tiresias, the same, whom the nymph Liriope, when she bore the beautiful Narcissus, consulted about her son's life: would he live to see old age? The answer she got was strange, and it kept its shape: 'if he never know himself, he shall have a long life.'",
+          "note": "Paraphrase of Ovid, Metamorphoses III (Riley 1851); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Narcissus at sixteen might pass for a boy or a man: many youths and many girls desired him, and he was proud to no one of them. One of these admirers was the nymph Echo, who had lost to Juno's punishment the whole force of her voice — for Juno had found her chatting with the nymphs while Jove dallied among them — and could now only reply in others' words. Still she loved him: she followed him in the woods and spoke back at him from behind the trees, and, when she offered herself, was turned down in the same echo-words she had used.",
+          "note": "Paraphrase of Ovid, Metamorphoses III (Riley 1851); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "Scorned by him, she hid her deep grief in hollow glens and never more addressed herself with any face but shunned the light, and, growing gaunt with sorrow, faded altogether; her body's substance, they say, turned to stone, and only her voice stayed, nimble still among the rocks and caves, ready to repeat the last word as it always did, in answer to all who called her.",
+          "note": "Paraphrase of Ovid, Metamorphoses III (Riley 1851); not verbatim."
+        },
+        {
+          "id": "4",
+          "text": "And Narcissus, worn faint elsewhere by many suitors, came one noon to a spring in whose fresh waters no shepherd had ever carried his flocks, and lay down upon the grass to drink. As he stooped, he saw his own form returned from the water and fell in love with a bodiless face: not knowing that what he sought was himself, he admired all he saw in it. Everything he praised was in him, and he was taken in by being taken in; his own eye had deceived him, his own body fired him. Ovid tells that while he tried to clasp the river, and wept over the return'd face of the water withdrawing, his own tears fell instead.",
+          "note": "Paraphrase of Ovid, Metamorphoses III (Riley 1851); not verbatim."
+        },
+        {
+          "id": "5",
+          "text": "He sat by the water until the whole desire had dried him up. At his death Echo grieved with him, and the shades in their hopelessness kept their word: he was his own death at last. When his relations leant over the bier to find a body, there was only a spring-side flower, its leaves white-cupped round a saffron heart; and the flower that grew there after his death took his name and grows there still: the narcissus, that narrows everything it sees on sight, and has no voice of its own.",
+          "note": "Paraphrase of Ovid, Metamorphoses III (Riley 1851); not verbatim."
+        }
+      ],
+      "persons": [
+        "echo-nymph",
+        "liriope",
+        "narcissus",
+        "tiresias"
+      ]
+    },
+    {
+      "id": "greek-ovid-phaethon",
+      "title": {
+        "en": "Phaethon and the Chariot of the Sun",
+        "zh": "法厄同與太陽車"
+      },
+      "tradition": "greek",
+      "category": "myth",
+      "region": {
+        "en": "Palace of the Sun (mythic geography)",
+        "zh": "日宮（神話地理）"
+      },
+      "lat": 35.0,
+      "lon": 20.0,
+      "period": "Composed c. 8 CE (Latin; Riley translation 1851)",
+      "source": {
+        "archive": "Project Gutenberg eBook 21765 (H. T. Riley, trans.)",
+        "work": "Ovid, Metamorphoses, Book II (Fable I-II)",
+        "url": "https://www.gutenberg.org/ebooks/21765"
+      },
+      "license": "Public domain (Riley translation 1851)",
+      "summary": {
+        "en": "Taunted that his father is no god, the boy Phaethon goes to the Sun's palace for a recognition — and wrings from his father a promise sworn on the Styx. Against every warning, he mounts the chariot of the sun; the horses bolt; the world burns, Africa's skin is seared black, the Ethiopians bleached and the Po dried. Earth herself appeals to Jupiter, and a bolt from the all-father hurls the boy into the river Eridanus; and the daughters of Heliades, sisters of the dead, still weep amber tears on its banks.",
+        "zh": "法厄同因被人嘲其父非神，赴日宮求證，並迫使父親以斯提克斯河起誓允諾。他無視勸阻執意駕太陽車，神馬失控亂奔：大地乾裂燃燒，非洲人被烤黑，埃塞俄比亞人曬白，波河乾涸，夜空失燭。大地女神哀求宙斯，宙斯以雷霆擊中少年，法厄同墜入波河；其姊妹淚化琥珀，至今凝在河岸的楊樹梢上。"
+      },
+      "motifs": [
+        "taboo-transgression",
+        "storm-thunder",
+        "solar-journey",
+        "solar-house"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient literary source; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Epaphus, son of Io, taunted Phaethon with the claim that his shining father was no god at all. The boy went burning to his mother Clymene, then eastward to the palace of the Sun — its columns of gold and jewelled light — where Phoebus, father, recognised his son, and swore, upon the Styx itself, to grant whatever the boy should ask.",
+          "note": "Paraphrase of Ovid, Metamorphoses II (Riley 1851); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Phaethon asked for the reins. The father's face changed even as he listened: he knew what he had promised. He begged the boy away from it, warned him of the steepness of the sky-road, of the horses that never take a driver, of the constellations that would tear him from the yoke and hurl him down: 'my own child, take some other wish; this wish is not for kings, nor mortals even — not from me. The gods themselves could not hold it.' But the boy, having gripped the reins, would not give up his father's oath.",
+          "note": "Paraphrase of Ovid, Metamorphoses II (Riley 1851); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "At dawn the gates of the east open, and the Hours bring forth the horses, full of fire and trembling strength. The father, trembling himself, anoints his son's face with a protecting ointment, and tells him — too late — to spare the whip and hold the reins tightly, and follow the ruts of wheels gone before him; the road runs between the Wain of Bootes and the Wain of the Little Bear; keep midway, Phaethon, and on neither side depart too far.",
+          "note": "Paraphrase of Ovid, Metamorphoses II (Riley 1851); not verbatim."
+        },
+        {
+          "id": "4",
+          "text": "The horses felt the hand of a stranger, lighter by an age than their master's, and ran away: the poles broke their hames, the ribbons were wasted in the sky, and the sun-chariot heavy no longer with its master hurtled on. Phaethon, from the zenith looking down upon lands too far beneath him, grew pale with fear. The world burned; Africa dried black its people; the cloud-rivers were driven backward and fire gushed from the cracked earth; Atlas groaned beneath the glowing weight of a sky tormented. And the sea drew in; the rivers that burned streamed away into hollows. At the last the Earth, half buried in the fire, cried out that she could not endure it, and appealed to Jupiter.",
+          "note": "Paraphrase of Ovid, Metamorphoses II (Riley 1851); not verbatim."
+        },
+        {
+          "id": "5",
+          "text": "Jupiter drew the bolt to his ear and hurled it: Phaethon, in flames and clouded with smoke, was hurled headlong from the top of the sky and fell for the whole day's space, into the Eridanus. The daughters of the Sun, the Heliades, and Cycnus too bleached for his joy beside the dead man, buried their griefs in the river of their ancestor: the mother of Cycnus had changed her joy to a swan that hates the heavens; and the sisters still stand upon its banks, men say, as poplar-trees, weeping amber tears. The father of the dead boy hid his face with clouds.",
+          "note": "Paraphrase of Ovid, Metamorphoses II (Riley 1851); not verbatim."
+        }
+      ],
+      "persons": [
+        "apollo",
+        "helios",
+        "zeus",
+        "clymene-oceanid",
+        "heliades",
+        "phaethon-helios",
+        "merops"
+      ]
+    },
+    {
+      "id": "greek-ovid-pyramus-tisbe",
+      "title": {
+        "en": "Pyramus and Thisbe",
+        "zh": "皮拉摩斯與提斯柏"
+      },
+      "tradition": "greek",
+      "category": "myth",
+      "region": {
+        "en": "Babylon (as told by the Roman poet)",
+        "zh": "巴比倫（羅馬詩人所記）"
+      },
+      "lat": 32.54,
+      "lon": 44.43,
+      "period": "Composed c. 8 CE (Latin; Riley translation 1851)",
+      "source": {
+        "archive": "Project Gutenberg eBook 21765 (H. T. Riley, trans.)",
+        "work": "Ovid, Metamorphoses, Book IV (Pyramus &amp; Thisbe)",
+        "url": "https://www.gutenberg.org/ebooks/21765"
+      },
+      "license": "Public domain (Riley translation 1851)",
+      "summary": {
+        "en": "Two households in Babylon live under one roof, and the wall has a crack, and through the crack two lovers talk. They arrange a runaway tryst at Ninus' tomb under the mulberry; Thisbe comes first, sees a lioness, and drops her veil in the flight; Pyramus, arriving to find the bloodied veil, believes her dead and kills himself under the tree; Thisbe returns, finds him dying, and dies on the same steel; the berries of the mulberry — white till that hour — turn to that deep stain, and the wall, forever after, bears only their joint memorial.",
+        "zh": "巴比倫同一院牆內的兩家世代相仇，而牆細縫成了兩人的私語孔。相約於尼努斯王墓旁的桑樹下私奔；提斯柏先到，見一頭母獅現身，逃遁時掉了面紗；皮拉摩斯來時只見染血面紗，誤以為她已葬於獅口，遂在樹下自刎。提斯柏返回，見愛人垂死，亦自盡於同一把短劍。桑樹自那刻起，白果變成紫黑之色，成為二人的紀念。"
+      },
+      "motifs": [
+        "taboo-transgression"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient literary source; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Pyramus was the most beautiful of youths; Thisbe, of maidens, the loveliest in the east. Ninus' city was theirs, and their houses, joined together by one wall. They fell in love through that same wall of theirs by breath and gesture; and where there was no crack nor passage for the sight or ear of each other in that wall, the wall had, between the rafters and lightly as a dove, along its top, a narrow cleft. And they kept up their careful talk each night through it.",
+          "note": "Paraphrase of Ovid, Metamorphoses IV (Riley 1851); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Because their families would not let the marriage happen, they swore a tryst. They named the place in Ninus' city where, under the great tree that bore white mulberries, the tomb of Ninus lay; they whispered for the shining moon and stole out of their houses like ghosts.",
+          "note": "Paraphrase of Ovid, Metamorphoses IV (Riley 1851); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "Thisbe came first — veiled — and sat under the tree out of the moonlight, when a lioness came up to drink from a smooth spring near the tomb. Thisbe fled. Her veil fell in the grass in her running, and as she hid, the lioness, finding the garment on its path, snatched it up and made the fabric blood: she had torn at some kill before coming to the pool.",
+          "note": "Paraphrase of Ovid, Metamorphoses IV (Riley 1851); not verbatim."
+        },
+        {
+          "id": "4",
+          "text": "Pyramus, late in coming, saw the deep prints of a wild beast shift upon the plain; and, in the moon's light, came upon the bloodied veil. He knew the garment of the one he loved and had lost her; and under the mulberry — his body trembling — drew out a short knife and pierced himself, saying practically over his own blood the doom of the lovers who had waited their whole lives in flowers that could not hold them. He knelt where his blood fell on the tree.",
+          "note": "Paraphrase of Ovid, Metamorphoses IV (Riley 1851); not verbatim."
+        },
+        {
+          "id": "5",
+          "text": "Thisbe came back, afraid and not yet knowing what had happened, and saw him dead under the tree, the veil beside him in the blood. She would not go more slowly than he had done: she fell upon the same blade over him, wept him in the dark, and prayed that they, so joined in life, might share at least one tomb. The berries of the mulberry — white till that hour — ever after bore the deep purple of their blood: the gods granted the prayer, and changed that tree's fruit for the memory of two who loved too truly for their households to allow.",
+          "note": "Paraphrase of Ovid, Metamorphoses IV (Riley 1851); not verbatim."
+        }
+      ],
+      "persons": [
+        "pyramus",
+        "thisbe"
+      ]
+    },
+    {
+      "id": "greek-pausanias-hesiods-bones",
+      "title": {
+        "en": "Hesiod's Bones",
+        "zh": "赫西俄德的遺骨"
+      },
+      "tradition": "greek",
+      "category": "myth",
+      "region": {
+        "en": "Orchomenus &amp; Naupactus (symbolic pins)",
+        "zh": "俄爾科墨努斯與瑙帕克托斯（象徵性定位）"
+      },
+      "lat": 38.48,
+      "lon": 23.08,
+      "period": "Written c. 2nd century CE (Shilleto/Bohn translation; G. B. 68680)",
+      "source": {
+        "archive": "Project Gutenberg eBook 68680 (A. R. Shilleto, trans.)",
+        "work": "Pausanias, Description of Greece IX.38",
+        "url": "https://www.gutenberg.org/ebooks/68680"
+      },
+      "license": "Public domain (Shilleto translation)",
+      "summary": {
+        "en": "A plague on men and cattle struck Orchomenus, and Delphi's oracle prescribed a strange cure: fetch the bones of the poet Hesiod from Naupactus. Guided onward by the promise that a crow would show the place, the messengers found a crow sitting on a stone by the road, and within its hollow the poet's bones, with elegiac verses cut on the stone. The poet of 'the half is more than the whole' came home to history by a riddling service of the god.",
+        "zh": "瘟疫襲擊俄爾科墨努斯，德爾菲神諭開出奇方：到瑙帕克托斯取回詩人赫西俄德的遺骨。信使再問何處可尋，神諭允諾一隻烏鴉將指引他們；果然路旁一石上有烏鴉佇立，石中即詩人遺骨，石上還刻有哀歌頌其身世與榮譽。詩人喊出「半勝於全」的名句，其遺骨卻以神諭之謎才得以還鄉。"
+      },
+      "motifs": [
+        "oracle-divination",
+        "sacred-place",
+        "plague-sent"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient literary source; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "A pestilence was destroying men and cattle alike at Orchomenus, until the town sent messengers out to Delphi. The Pythian priestess returned them a strange prescription: carry home the bones of Hesiod from Naupactus, and the plague would cease. The messengers asked where in Naupactus such bones were to be found, and the priestess answered that a crow would show them the way. On the road they spied a stone by the wayside, and on it a crow at rest; they rolled the stone aside, and in a hollow of it they came upon the bones of the poet, exactly where the oracle had promised.",
+          "note": "Paraphrase of Pausanias, Description of Greece 9.38 (Shilleto); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "And on the stone itself elegiac verses were cut, telling the story of his grave: his fatherland had been the poor village of Ascra, but after his death the horse-taming Minyans took his remains, and judged by the test of wisdom, the fame of the poet was suprème in all Greece.",
+          "note": "Paraphrase of Pausanias, Description of Greece 9.38 (Shilleto); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "Pausanias saw the tomb of Hesiod standing at Orchomenus beside the treasury of Minyas — the poet of 'the half is more than the whole' and of the steep road to virtue, come home by way of a riddle from the oracle. It is one of the extraordinary accounts in his Book of relics and their medicine: the authority of a poet measured, after death, by a crow on a stone.",
+          "note": "Paraphrase of Pausanias, Description of Greece 9.38 (Shilleto); not verbatim."
+        }
+      ],
+      "persons": [
+        "hermes",
+        "hesiod",
+        "pythia"
+      ]
+    },
+    {
+      "id": "greek-pausanias-lycaon-callisto",
+      "title": {
+        "en": "The Kings of Arcadia: Lycaon, Callisto, and the She-Bear",
+        "zh": "阿卡迪亞王族：呂卡翁、卡利斯托與母熊"
+      },
+      "tradition": "greek",
+      "category": "myth",
+      "region": {
+        "en": "Mount Lycaeus, Arcadia (symbolic pin)",
+        "zh": "阿卡迪亞呂卡厄斯山（象徵性定位）"
+      },
+      "lat": 37.59,
+      "lon": 22.06,
+      "period": "Written c. 2nd century CE (Shilleto/Bohn translation; G. B. 68680)",
+      "source": {
+        "archive": "Project Gutenberg eBook 68680 (A. R. Shilleto, trans.)",
+        "work": "Pausanias, Description of Greece VIII.2-4",
+        "url": "https://www.gutenberg.org/ebooks/68680"
+      },
+      "license": "Public domain (Shilleto translation)",
+      "summary": {
+        "en": "Pausanias numbers the ages of Arcadia by its wicked kings: Lycaon, who founded Lycosura and the Lycaea, set a living child upon the altar of Zeus Lycaeus and was turned into a wolf for it; the dynasty kept wolf-men across generations. His daughter Callisto, loved by Zeus, is turned into a she-bear by Hera's doing, shot by Artemis, redeemed as a constellation, and her son Arcas inherits the land and gives it its name.",
+        "zh": "阿卡迪亞之王呂卡翁建呂科索拉城、立呂卡厄亞慶典，卻把活人孩童放上宙斯祭壇焚祭，隨即化為狼；其王族歷代皆有狼化傳說。其女卡利斯托因與宙斯交而遭赫拉嫉妒，被變為母熊、遭阿爾忒彌斯射殺；宙斯遣赫爾墨斯救出其腹中之子，並把母熊化為大熊座；其子阿耳卡斯承繼城邦，並為其土地命名。"
+      },
+      "motifs": [
+        "taboo-transgression",
+        "transformation",
+        "animal-transformation"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient literary source; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Lycaon, son of Pelasgus, did greater things than his father: he founded the town Lycosura on the mountain of Lycaeus and gave his name to Zeus Lycaeus, instituting the festival of the Lycaea in his honour. Pausanias places this era alongside Cecrops in Athens — an age when men still rose to the tables of the gods, so that honour or wrath were handed out face to face.",
+          "note": "Paraphrase of Pausanias, Description of Greece 8.2 (Shilleto); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Then came the division between east and west: Cecrops ruled that only baked cakes should be offered in sacrifice, and called Zeus supreme; but Lycaon laid a living child on the altar and cut its throat. He was a wolf the moment the sacrifice was done. Pausanias says plainly that this is one of the few stories of divine transformation he can easily credit, because the age in which it was set was an age when the gods still walked with mortal men, and punished wickedness openly.",
+          "note": "Paraphrase of Pausanias, Description of Greece 8.2 (Shilleto); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "In the third age after Pelasgus, Arcas, son of Lycaon and Callisto, took power. He named the whole land from his own people, calling its inhabitants Arcadians. And Callisto's story is the darker thread of the family: Zeus had loved her, and Hera, when she found it out, turned her into a she-bear; Artemis shot her to please Hera; and Zeus ordered Hermes to redeem her from the ruin his own guile had brought on her.",
+          "note": "Paraphrase of Pausanias, Description of Greece 8.3 (Shilleto); not verbatim."
+        },
+        {
+          "id": "4",
+          "text": "Hermes carried the child of her womb away — the boy Arcas — and the mother, in her own form, was set among the stars as the constellation called the Great Bear, the one Homer names on Odysseus' voyage home. And the Arcadians still showed Pausanias her tomb: a high mound of earth set with trees, surmounted by a little sanctuary of Artemis called 'the Most Beautiful.' Arcas later ruled the land and gave it the name the Greeks would keep: Arcadia.",
+          "note": "Paraphrase of Pausanias, Description of Greece 8.3 (Shilleto); not verbatim."
+        }
+      ],
+      "persons": [
+        "artemis",
+        "hermes",
+        "zeus",
+        "callisto",
+        "arcas",
+        "pelagus"
+      ]
+    },
+    {
+      "id": "greek-pausanias-menestratus-dragon",
+      "title": {
+        "en": "Menestratus and the Dragon of Thespia",
+        "zh": "墨涅斯特拉圖斯與忒斯庇亞巨龍"
+      },
+      "tradition": "greek",
+      "category": "myth",
+      "region": {
+        "en": "Thespia, Boeotia (symbolic pin)",
+        "zh": "波厄提亞忒斯庇亞（象徵性定位）"
+      },
+      "lat": 38.28,
+      "lon": 23.1,
+      "period": "Written c. 2nd century CE (Shilleto/Bohn translation; G. B. 68680)",
+      "source": {
+        "archive": "Project Gutenberg eBook 68680 (A. R. Shilleto, trans.)",
+        "work": "Pausanias, Description of Greece IX.26",
+        "url": "https://www.gutenberg.org/ebooks/68680"
+      },
+      "license": "Public domain (Shilleto translation)",
+      "summary": {
+        "en": "A dragon infested the town of Thespia until Zeus required a boy as sacrifice, drawn annually by lot. When the lot fell on Cleostratus, his lover Menestratus forged a bronze breastplate hooked on every plate, put it on the doomed boy, and sent him cheerfully to his death — for though he would perish he would also destroy the monster. It is why, Pausanias says, Zeus was thereafter Soter (Saviour) in that city.",
+        "zh": "忒斯庇亞城遭巨龍為害，宙斯命每年抽籤獻一少年。當籤落在克勒俄斯特拉托斯身上，其爱人墨涅斯特拉圖斯為他打製滿鉤銅胸甲，親載少年赴死：少年雖會喪命，也必能以內鉤殺死巨龍。鮑桑尼亞斯說，此後該城尊稱宙斯為「救主」。"
+      },
+      "motifs": [
+        "sacred-place",
+        "sacred-kingship"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient literary source; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The town of Thespia told Pausanias its tale at the shrine of Zeus Soter: a dragon had once overrun the place, so Zeus's assent came to yearly sacrifice. Each year one boy was chosen by lot and given to be devoured, until none could stand the land but drove the sons out of their homes and left their fields unworked.",
+          "note": "Paraphrase of Pausanias 9.26 (Shilleto); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "When the lot fell, for its last offering, upon a youth named Cleostratus, his lover Menestratus went to work. He hammered bronze plates into a breastplate and bent a hook into each of the plates, then cloaked the young man in it; the bolts of the dragon would be forced to take their barbing from those hooks. Cleostratus, armoured and resigned, was sent to the dragon willingly.",
+          "note": "Paraphrase of Pausanias 9.26 (Shilleto); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "The sacrifice turned into the kill. Cleostratus knew he would die, even as — on the usual arrangement of his death — he tore through the monster's belly, and took the dragon with him. The names they decorated the young man's tomb, and the custom of giving boys to the dragon ended.",
+          "note": "Paraphrase of Pausanias 9.26 (Shilleto); not verbatim."
+        },
+        {
+          "id": "4",
+          "text": "In bronze at Thespia, Pausanias spied the boy and his lover standing near Zeus's statue: Menestratus in gold-plated armour, offering the sacrifice for others' protection. And that is why, he comments, Zeus was thereafter styled Soter — that he devised again, in a spirit of comradeship, one more facing in the pattern of the freely given life.",
+          "note": "Paraphrase of Pausanias 9.26 (Shilleto); not verbatim."
+        }
+      ],
+      "persons": [
+        "cleostratus",
+        "menestratus"
+      ]
+    },
+    {
+      "id": "greek-pausanias-sphinx-oedipus",
+      "title": {
+        "en": "Pausanias' Sphinx: A Boeotian Version",
+        "zh": "鮑桑尼亞斯的斯芬克斯：波厄提亞版本"
+      },
+      "tradition": "greek",
+      "category": "myth",
+      "region": {
+        "en": "Mount near Onchestus, Boeotia (symbolic pin)",
+        "zh": "波厄提亞翁開斯托斯附近山丘（象徵性定位）"
+      },
+      "lat": 38.29,
+      "lon": 23.05,
+      "period": "Written c. 2nd century CE (Shilleto/Bohn translation; G. B. 68680)",
+      "source": {
+        "archive": "Project Gutenberg eBook 68680 (A. R. Shilleto, trans.)",
+        "work": "Pausanias, Description of Greece IX.26",
+        "url": "https://www.gutenberg.org/ebooks/68680"
+      },
+      "license": "Public domain (Shilleto translation)",
+      "summary": {
+        "en": "Pausanias records a rationalized Boeotian variant of the Sphinx: not a riddling monster on a rock but a seafaring pirate with a band, headquartered on a Boeotian mountain where she questioned the men she captured; and she was, some said, Laius' own illegitimate daughter, who used the Delphic oracle secretly learned from her father as her test of royal blood — a secret Oedipus, learning it in a dream, turned against and defeated her with armed men from Corinth.",
+        "zh": "鮑桑尼亞斯記下波厄提亞地區另一版斯芬克斯：非山頂石怪，而是一夥海盜頭目，以海路劫掠、以安忒冬港為基地、以翁開斯托斯附近的山為巢穴，劫往來行人；傳言她更是拉伊俄斯王私生之女，靠其父告知的德爾菲祕諭考驗各位嫡皇子是否為王室血統，答不上便處死；俄狄浦斯則夢中得知該神諭，率科任托斯軍士 一戰將其殲滅。"
+      },
+      "motifs": [
+        "oracle-divination",
+        "trickster"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient literary source; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Just past the sanctuary of the Cabiri the track climbed to a Boeotian hill, and a folk-story of the district told Pausanias the Sphinx had made her headquarters there — not a riddle-monster on a rock but a raider with a fleet, who cruised the sea as a pirate, made her port at Anthedon, and used the mountain for her robberies.",
+          "note": "Paraphrase of Pausanias, Description of Greece 9.26 (Shilleto); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "She captured men on the road and, in the ruin of them, questioned them. Oedipus did not come to her with a riddle at all in the local version but with an armed force from Corinth, and she was routed by the column and the numbers he brought, leaving behind him the ordinary Boeotian memory of a killed pirate captain.",
+          "note": "Paraphrase of Pausanias, Description of Greece 9.26 (Shilleto); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "Other locals gave Pausanias a family twist: the Sphinx was the illegitimate daughter of Laius, and Laius, from fatherly goodwill, had told her the Delphic oracle given to Cadmus, a secret which only the kings of Thebes were entitled to know. Whenever a claimant brother came to her about the succession she demanded the oracle's wording; if they answered, they were sons of Laius and true claimants of the blood royal; if they failed, she condemned them to death as doubtful usurpers.",
+          "note": "Paraphrase of Pausanias, Description of Greece 9.26 (Shilleto); not verbatim."
+        },
+        {
+          "id": "4",
+          "text": "And Oedipus, in this telling, defeated her not by luck at riddles but by having the same secret: he learnt the Delphic oracle in a dream, recognized what she was testing, and met her with a superior force. The Sphinx's rock is one of those Greek sites that Pausanias reports almost as a tour guide — an old story with a map on it.",
+          "note": "Paraphrase of Pausanias, Description of Greece 9.26 (Shilleto); not verbatim."
+        }
+      ],
+      "persons": [
+        "sphinx",
+        "epicaste",
+        "laius",
+        "oedipus"
+      ]
+    },
+    {
+      "id": "greek-pausanias-trophonius",
+      "title": {
+        "en": "Trophonius and the Treasury of Orchomenus",
+        "zh": "特羅福紐斯與俄爾科墨努斯寶庫"
+      },
+      "tradition": "greek",
+      "category": "myth",
+      "region": {
+        "en": "Orchomenus, Boeotia (symbolic pin)",
+        "zh": "波厄提亞俄爾科墨努斯（象徵性定位）"
+      },
+      "lat": 38.48,
+      "lon": 23.08,
+      "period": "Written c. 2nd century CE (Shilleto/Bohn translation; G. B. 68680)",
+      "source": {
+        "archive": "Project Gutenberg eBook 68680 (A. R. Shilleto, trans.)",
+        "work": "Pausanias, Description of Greece IX.37",
+        "url": "https://www.gutenberg.org/ebooks/68680"
+      },
+      "license": "Public domain (Shilleto translation)",
+      "summary": {
+        "en": "The master-builders Trophonius and Agamedes constructed the Delphic temple of Apollo and then the treasure-house of Hyrieus with one stone they could secretly slide out from outside; the hidden robbery was Hamacious, and Hyrieus, reading his keys intact and his coffers empty, set a trap. Agamedes was caught, and Trophonius cut off his brother's head to silence him; the earth opened at Lebadea and swallowed Trophonius, and the underground became the Chthonic oracle that still gave its answers from beneath the earth.",
+        "zh": "工匠兄弟特羅福紐斯與阿伽墨得斯先後建成德爾菲阿波羅神殿與希利俄斯的藏寶庫：庫中留置可從庫外滑開的石頭 routinely 竊財；財主見鎖完好而寶金日減，逐置陷阻。阿伽墨得斯被陷，特羅福紐斯唯恐洩密，竟斬其兄首級；地開裂，在勒巴底亞的聖林將他吞下。當地立其貼點，成了深受希臘人信賴的「冥間神諭」。"
+      },
+      "motifs": [
+        "taboo-transgression",
+        "oracle-divination"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient literary source; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Erginus, king of the Minyans at Orchomenus, went out to Delphi in old age, after his war with Heracles, and the Pythian priestess told him to put a new top on the old plough — a young wife. Trophonius and Agamedes were born to him; and though Pausanias adds that Trophonius was in truth Apollo's son, the two boys grew into the best temple-builders of their age.",
+          "note": "Paraphrase of Pausanias, Description of Greece 9.37 (Shilleto); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "They raised the temple of Apollo at Delphi itself; and then the treasury of Hyrieus. In the stone wall they set a single movable block, a door that could be slid out from outside. Year by year the two brothers opened it at night and carried away their employer's wealth, and the keys and seals the owner found untampered with left him at a loss, for he saw his money going and no thief in evidence.",
+          "note": "Paraphrase of Pausanias, Description of Greece 9.37 (Shilleto); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "So Hyrieus set traps where his coffers kept their darkness. Agamedes entered first and was caught fast; and Trophonius, afraid that if his brother were seen alive he would name him beside him, cut off Agamedes' head and carried it away. In the morning the corpse stood alone in the dark of the treasury; the town was never the wiser about the culprit who lay dead among the stolen wealth.",
+          "note": "Paraphrase of Pausanias, Description of Greece 9.37 (Shilleto); not verbatim."
+        },
+        {
+          "id": "4",
+          "text": "But the earth, Pausanias reports, opened under Trophonius and swallowed him whole, in the grove of Lebadea; and there a hollow in the ground marks the spot. Deep in that grove, in fact, still give their answers: men go down the dark hole to consult him, and come back remembering things they are sworn to silence about. The architect who dived under a temple built into the earth was turned into the Chthonic oracle of all Greece.",
+          "note": "Paraphrase of Pausanias, Description of Greece 9.37 (Shilleto); not verbatim."
+        }
+      ],
+      "persons": [
+        "trophonius",
+        "agamedes",
+        "clymenus",
+        "erginus",
+        "hyrieus",
+        "pythia"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,726 @@
+{
+ "texts": [
+  {
+   "id": "babylonian-ludlul-suffering",
+   "title": {
+    "en": "Ludlul: The Righteous Sufferer",
+    "zh": "路杜魯：義人受難"
+   },
+   "tradition": "babylonian",
+   "category": "myth",
+   "region": {
+    "en": "Nippur, Iraq",
+    "zh": "尼普魯（伊拉克）"
+   },
+   "lat": 32.126,
+   "lon": 45.23,
+   "period": "Kassite period, c. 1400 BCE (Rogers translation 1912)",
+   "source": {
+    "archive": "Internet Archive",
+    "work": "Cuneiform Parallels to the Old Testament, 'The So-called Babylonian Job', trans. Robert W. Rogers (1912)",
+    "url": "https://archive.org/details/cuneiformparall00rogegoog"
+   },
+   "license": "Public domain (translation 1912)",
+   "summary": {
+    "en": "Shubshi-meshre-Shakkan, named in the poem, loses everything while guiltless — office, friends, health, even his own god's face — the opening hymn still praising Marduk: I will praise the lord of wisdom. The Babylonian Job begins.",
+    "zh": "詩中點名的主人蘇布希-美什烈-沙坎無辜失去一切——官職、友朋、健康、乃至其神之面——開篇仍頌馬爾杜克：我將讚美智慧之主。巴比倫的約伯記由此展開。"
+   },
+   "motifs": [
+    "parable-teaching",
+    "quest-immortality"
+   ],
+   "sensitivity": {
+    "restricted": false,
+    "note": "Ancient wisdom literature; no living community restrictions."
+   },
+   "passages": [
+    {
+     "id": "1",
+     "text": "I will praise the lord of wisdom, the god of reason: to him the father's light, to him who walks beside a man in his trouble and saves his life from the pit — the hymn opens in praise before the suffering begins.",
+     "note": "Paraphrase of Ludlul bel nemeqi, Tablet I (Rogers 1912); not verbatim."
+    },
+    {
+     "id": "2",
+     "text": "Shubshi-meshre-Shakkan, the sufferer named in the poem, is stripped while guiltless: his office taken, his friends fled, his body a hospital of diseases, his god turned away — and no sin known to him explains any of it.",
+     "note": "Paraphrase of Ludlul, Tablet I; not verbatim."
+    }
+   ],
+   "persons": [
+    "marduk"
+   ],
+   "functions": [
+    "Canonical theodicy poem of Babylon",
+    "Praise-first theology under unexplained suffering"
+   ],
+   "variants": [
+    {
+     "name": "A man and his god",
+     "text_tradition": "Sumerian (ETCSL c.5.2.4)",
+     "summary": "The Sumerian prototype of the righteous sufferer.",
+     "cross_ref": "sumerian-man-god"
+    }
+   ],
+   "language": "Akkadian",
+   "canonical_translation": "Robert W. Rogers, 1912",
+   "primary_sources": [
+    {
+     "work": "Ludlul bel nemeqi",
+     "citation": "Tablet I, trans. Robert W. Rogers (1912), 'The So-called Babylonian Job'",
+     "language": "Akkadian"
+    }
+   ],
+   "secondary_sources": [
+    {
+     "work": "Myths from Mesopotamia",
+     "citation": "Stephanie Dalley, Oxford, 1989"
+    }
+   ],
+   "source_urls": [
+    {
+     "url": "https://archive.org/details/cuneiformparall00rogegoog",
+     "description": "Rogers 1912 translations",
+     "accessed": "2026-11-14"
+    }
+   ],
+   "sensitivity_flag": "none",
+   "provenance": {
+    "record_status": "complete",
+    "compiled": "2026-11-14",
+    "compiled_by": "opencode myth-collection session",
+    "review_status": "unreviewed"
+   }
+  },
+  {
+   "id": "babylonian-ludlul-abandonment",
+   "title": {
+    "en": "Abandoned by God and Man",
+    "zh": "神人皆棄"
+   },
+   "tradition": "babylonian",
+   "category": "myth",
+   "region": {
+    "en": "Nippur, Iraq",
+    "zh": "尼普魯（伊拉克）"
+   },
+   "lat": 32.126,
+   "lon": 45.23,
+   "period": "Kassite period, c. 1400 BCE (Rogers translation 1912)",
+   "source": {
+    "archive": "Internet Archive",
+    "work": "Cuneiform Parallels to the Old Testament, 'The So-called Babylonian Job', trans. Robert W. Rogers (1912)",
+    "url": "https://archive.org/details/cuneiformparall00rogegoog"
+   },
+   "license": "Public domain (translation 1912)",
+   "summary": {
+    "en": "My god has forsaken me and disappeared; my goddess has failed me — the sufferer's night of abandonment: dreams that bring no answer, the wife who weeps at a distance, the friends who cross the street. How long, O my lady, how long?",
+    "zh": "「我神已棄我而去；我女神亦不顧我」——受苦者遭棄之夜：夢中無答，妻子隔院垂淚，故友繞道而行。「我的女主啊，還要多久，還要多久？」"
+   },
+   "motifs": [
+    "parable-teaching",
+    "prophetic-vision"
+   ],
+   "sensitivity": {
+    "restricted": false,
+    "note": "Ancient wisdom literature; no living community restrictions."
+   },
+   "passages": [
+    {
+     "id": "1",
+     "text": "My god has forsaken me and disappeared; my goddess has failed me and keeps at a distance — the abandonment litany: the dream that brings no answer, the wife who weeps in another room, the friend who crosses the street.",
+     "note": "Paraphrase of Ludlul, Tablet II (Rogers 1912); not verbatim."
+    },
+    {
+     "id": "2",
+     "text": "How long, O my lady, will your fury be unchecked? The question is asked without accusation — the sufferer assumes there is a fault, he only cannot find it — the theology of hidden guilt that the poem will overturn.",
+     "note": "Paraphrase of Ludlul, Tablet II; not verbatim."
+    }
+   ],
+   "persons": [
+    "marduk",
+    "ishtar"
+   ],
+   "functions": [
+    "Litany of abandonment in the theodicy genre",
+    "Theology of hidden guilt and curable sin"
+   ],
+   "variants": [
+    {
+     "name": "The Babylonian Theodicy",
+     "text_tradition": "Akkadian (later dialogue poem)",
+     "summary": "The acrostic dialogue that answers Ludlul skeptically.",
+     "cross_ref": "none"
+    }
+   ],
+   "language": "Akkadian",
+   "canonical_translation": "Robert W. Rogers, 1912",
+   "primary_sources": [
+    {
+     "work": "Ludlul bel nemeqi",
+     "citation": "Tablet II, trans. Robert W. Rogers (1912)",
+     "language": "Akkadian"
+    }
+   ],
+   "secondary_sources": [
+    {
+     "work": "The Religion of Babylonia and Assyria",
+     "citation": "Morris Jastrow Jr., Boston, 1898"
+    }
+   ],
+   "source_urls": [
+    {
+     "url": "https://archive.org/details/cuneiformparall00rogegoog",
+     "description": "Rogers 1912 translations",
+     "accessed": "2026-11-14"
+    }
+   ],
+   "sensitivity_flag": "none",
+   "provenance": {
+    "record_status": "complete",
+    "compiled": "2026-11-14",
+    "compiled_by": "opencode myth-collection session",
+    "review_status": "unreviewed"
+   }
+  },
+  {
+   "id": "babylonian-ludlul-restoration",
+   "title": {
+    "en": "Marduk Sends the Exorcist: Restoration",
+    "zh": "馬爾杜克遣驅邪師：復位"
+   },
+   "tradition": "babylonian",
+   "category": "myth",
+   "region": {
+    "en": "Nippur, Iraq",
+    "zh": "尼普魯（伊拉克）"
+   },
+   "lat": 32.126,
+   "lon": 45.23,
+   "period": "Kassite period, c. 1400 BCE (Rogers translation 1912)",
+   "source": {
+    "archive": "Internet Archive",
+    "work": "Cuneiform Parallels to the Old Testament, 'The So-called Babylonian Job', trans. Robert W. Rogers (1912)",
+    "url": "https://archive.org/details/cuneiformparall00rogegoog"
+   },
+   "license": "Public domain (translation 1912)",
+   "summary": {
+    "en": "In dreams the answer comes: Marduk sends the exorcist who draws out the sickness, the smith who renews the body — and the sufferer is restored, office and household and praise. The lord of wisdom is praised: he turned my captivity.",
+    "zh": "夢中得答：馬爾杜克遣驅邪師拔除病根、遣工匠重造軀體——受苦者官職、家室、讚譽盡復。智慧之主受頌讚：「他使我的被擄者歸回。」"
+   },
+   "motifs": [
+    "quest-immortality",
+    "prophetic-vision",
+    "ritual-origin"
+   ],
+   "sensitivity": {
+    "restricted": false,
+    "note": "Ancient wisdom literature; no living community restrictions."
+   },
+   "passages": [
+    {
+     "id": "1",
+     "text": "In dreams the answer comes: a young exorcist with a signet draws out the sickness root and branch; a smith restores the body as a smith restores a broken vessel — the dream-rite of Marduk's mercy.",
+     "note": "Paraphrase of Ludlul, Tablets III-IV (Rogers 1912); not verbatim."
+    },
+    {
+     "id": "2",
+     "text": "The restoration follows in fact: office, household and health return, and the closing hymn praises the lord of wisdom who turned the sufferer's captivity — the Babylonian Job ends in praise as it began.",
+     "note": "Paraphrase of Ludlul, Tablets III-IV; not verbatim."
+    }
+   ],
+   "persons": [
+    "marduk"
+   ],
+   "functions": [
+    "Dream-rite of divine cure",
+    "Arc of the theodicy liturgy: praise-abandonment-restoration-praise"
+   ],
+   "variants": [
+    {
+     "name": "A man and his god",
+     "text_tradition": "Sumerian (ETCSL c.5.2.4)",
+     "summary": "The Sumerian restoration parallel.",
+     "cross_ref": "sumerian-man-god"
+    }
+   ],
+   "language": "Akkadian",
+   "canonical_translation": "Robert W. Rogers, 1912",
+   "primary_sources": [
+    {
+     "work": "Ludlul bel nemeqi",
+     "citation": "Tablets III-IV, trans. Robert W. Rogers (1912)",
+     "language": "Akkadian"
+    }
+   ],
+   "secondary_sources": [
+    {
+     "work": "The Religion of Babylonia and Assyria",
+     "citation": "Morris Jastrow Jr., Boston, 1898"
+    }
+   ],
+   "source_urls": [
+    {
+     "url": "https://archive.org/details/cuneiformparall00rogegoog",
+     "description": "Rogers 1912 translations",
+     "accessed": "2026-11-14"
+    }
+   ],
+   "sensitivity_flag": "none",
+   "provenance": {
+    "record_status": "complete",
+    "compiled": "2026-11-14",
+    "compiled_by": "opencode myth-collection session",
+    "review_status": "unreviewed"
+   }
+  },
+  {
+   "id": "babylonian-prayer-every-god",
+   "title": {
+    "en": "The Prayer to Every God",
+    "zh": "告諸神禱文"
+   },
+   "tradition": "babylonian",
+   "category": "myth",
+   "region": {
+    "en": "Temple of purification, Babylon, Iraq",
+    "zh": "巴比倫淨化神殿（伊拉克）"
+   },
+   "lat": 32.536,
+   "lon": 44.421,
+   "period": "Old Babylonian penitential psalm (Rogers translation 1912)",
+   "source": {
+    "archive": "Internet Archive",
+    "work": "Cuneiform Parallels to the Old Testament, 'A Prayer to Every God', trans. Robert W. Rogers (1912)",
+    "url": "https://archive.org/details/cuneiformparall00rogegoog"
+   },
+   "license": "Public domain (translation 1912)",
+   "summary": {
+    "en": "Has he vexed a god, despised a goddess, offended a father, slighted a mother? The penitent does not know his sin, so the prayer names every possibility to every god — the liturgy of the unknown transgression.",
+    "zh": "「他是否觸怒男神？輕慢女神？冒犯父親？輕忽母親？」懺悔者不知己罪，遂向諸神一一歷數諸般可能——無知之罪的禱告儀式。"
+   },
+   "motifs": [
+    "ritual-origin",
+    "taboo-transgression",
+    "parable-teaching"
+   ],
+   "sensitivity": {
+    "restricted": false,
+    "note": "Ancient penitential text; no living community restrictions."
+   },
+   "passages": [
+    {
+     "id": "1",
+     "text": "Has he vexed a god, despised a goddess? Has he offended a father, slighted a mother? — the prayer names every possible sin because the penitent does not know his own.",
+     "note": "Paraphrase of the Prayer to Every God (Rogers 1912); not verbatim."
+    },
+    {
+     "id": "2",
+     "text": "My god, my sins are seven times seven: forgive my unknown transgression, loose my fetters — the liturgy of the unknown sin, prayed to every god at once, that none be left unappeased.",
+     "note": "Paraphrase of the Prayer to Every God (Rogers 1912); not verbatim."
+    }
+   ],
+   "persons": [],
+   "functions": [
+    "Liturgy of the unknown transgression",
+    "Formulaic penitence of the purification rite"
+   ],
+   "variants": [
+    {
+     "name": "Shurpu series",
+     "text_tradition": "Akkadian (Jastrow 1898)",
+     "summary": "The catalogue companion of the same rite.",
+     "cross_ref": "babylonian-shurpu-sins"
+    }
+   ],
+   "language": "Akkadian",
+   "canonical_translation": "Robert W. Rogers, 1912",
+   "primary_sources": [
+    {
+     "work": "A Prayer to Every God",
+     "citation": "trans. Robert W. Rogers (1912)",
+     "language": "Akkadian"
+    }
+   ],
+   "secondary_sources": [
+    {
+     "work": "The Religion of Babylonia and Assyria",
+     "citation": "Morris Jastrow Jr., Boston, 1898, penitential psalms"
+    }
+   ],
+   "source_urls": [
+    {
+     "url": "https://archive.org/details/cuneiformparall00rogegoog",
+     "description": "Rogers 1912 translations",
+     "accessed": "2026-11-14"
+    }
+   ],
+   "sensitivity_flag": "none",
+   "provenance": {
+    "record_status": "complete",
+    "compiled": "2026-11-14",
+    "compiled_by": "opencode myth-collection session",
+    "review_status": "unreviewed"
+   }
+  },
+  {
+   "id": "babylonian-hymn-ishtar",
+   "title": {
+    "en": "The Hymn to Ishtar",
+    "zh": "伊什塔爾頌"
+   },
+   "tradition": "babylonian",
+   "category": "myth",
+   "region": {
+    "en": "Uruk and Nineveh, Iraq",
+    "zh": "烏魯克與尼尼微（伊拉克）"
+   },
+   "lat": 36.359,
+   "lon": 43.152,
+   "period": "Old Babylonian hymn, c. 1800 BCE (Wilson/Muss-Arnolt translation 1901)",
+   "source": {
+    "archive": "Project Gutenberg",
+    "work": "Babylonian and Assyrian Literature, 'Hymn to Ishtar', trans. Muss-Arnolt (1901)",
+    "url": "https://www.gutenberg.org/ebooks/10887"
+   },
+   "license": "Public domain (translation 1901)",
+   "summary": {
+    "en": "The hymn hails the goddess in her double nature — the terror of battle whose heart is storm, the beauty whose grace fills the temples — she who turns men to women and women to men, whom kings and priests alike court.",
+    "zh": "頌詩讚美女神的雙重本質——戰陣之怖，其心如暴風；聖殿之美，其恩寵盈殿——她能令男變女、女變男，君王與祭司皆傾慕之。"
+   },
+   "motifs": [
+    "divine-marriage",
+    "storm-thunder",
+    "theophany"
+   ],
+   "sensitivity": {
+    "restricted": false,
+    "note": "Ancient hymn; no living community restrictions."
+   },
+   "passages": [
+    {
+     "id": "1",
+     "text": "The hymn hails Ishtar in her double nature: the terror of battle whose heart is storm, and the beauty whose grace fills the temples — she who turns a man to a woman and a woman to a man.",
+     "note": "Paraphrase of the Hymn to Ishtar (Muss-Arnolt 1901); not verbatim."
+    },
+    {
+     "id": "2",
+     "text": "Kings and priests alike court her favor: she gives the throne and takes it, she leads the host and blesses the bed — the goddess of sovereignty and desire in one liturgy.",
+     "note": "Paraphrase of the Hymn to Ishtar (Muss-Arnolt 1901); not verbatim."
+    }
+   ],
+   "persons": [
+    "ishtar"
+   ],
+   "functions": [
+    "Liturgical hymn of the goddess's double nature",
+    "Theology of sovereignty as the goddess's gift"
+   ],
+   "variants": [
+    {
+     "name": "Inana's Descent",
+     "text_tradition": "Sumerian (ETCSL c.1.4.1)",
+     "summary": "The narrative twin of the goddess's power.",
+     "cross_ref": "inanna-descent"
+    }
+   ],
+   "language": "Akkadian",
+   "canonical_translation": "Muss-Arnolt, 1901",
+   "primary_sources": [
+    {
+     "work": "Hymn to Ishtar",
+     "citation": "in Wilson, Babylonian and Assyrian Literature (1901)",
+     "language": "Akkadian"
+    }
+   ],
+   "secondary_sources": [
+    {
+     "work": "The Religion of Babylonia and Assyria",
+     "citation": "Morris Jastrow Jr., Boston, 1898, on Ishtar"
+    }
+   ],
+   "source_urls": [
+    {
+     "url": "https://www.gutenberg.org/ebooks/10887",
+     "description": "Muss-Arnolt's 1901 translations",
+     "accessed": "2026-11-14"
+    }
+   ],
+   "sensitivity_flag": "none",
+   "provenance": {
+    "record_status": "complete",
+    "compiled": "2026-11-14",
+    "compiled_by": "opencode myth-collection session",
+    "review_status": "unreviewed"
+   }
+  },
+  {
+   "id": "babylonian-penitential-psalm",
+   "title": {
+    "en": "The Accadian Penitential Psalm",
+    "zh": "阿卡德懺悔詩篇"
+   },
+   "tradition": "babylonian",
+   "category": "myth",
+   "region": {
+    "en": "Nippur, Iraq",
+    "zh": "尼普魯（伊拉克）"
+   },
+   "lat": 32.126,
+   "lon": 45.23,
+   "period": "Old Babylonian bilingual psalm (Wilson/Muss-Arnolt translation 1901)",
+   "source": {
+    "archive": "Project Gutenberg",
+    "work": "Babylonian and Assyrian Literature, 'An Accadian Penitential Psalm', trans. Muss-Arnolt (1901)",
+    "url": "https://www.gutenberg.org/ebooks/10887"
+   },
+   "license": "Public domain (translation 1901)",
+   "summary": {
+    "en": "The oldest bilingual psalm of contrition: the suppliant in the dark temple, his sin unknown, his tears his offering — O my god, my transgressions are great, my sins are seven times seven — the voice of Mesopotamian penitence.",
+    "zh": "最古老的雙語懺悔詩篇：懺悔者立於幽暗神殿，己罪不明，以淚為祭——「吾神啊，吾過甚重，吾罪七倍於七」——美索不達米亞懺悔之聲。"
+   },
+   "motifs": [
+    "ritual-origin",
+    "parable-teaching"
+   ],
+   "sensitivity": {
+    "restricted": false,
+    "note": "Ancient penitential text; no living community restrictions."
+   },
+   "passages": [
+    {
+     "id": "1",
+     "text": "The suppliant in the dark temple has no offering but tears: O my god, my transgressions are great, my sins are seven times seven — the bilingual psalm of contrition, Sumerian and Akkadian together.",
+     "note": "Paraphrase of the Accadian Penitential Psalm (Muss-Arnolt 1901); not verbatim."
+    },
+    {
+     "id": "2",
+     "text": "The psalm's turn is hope: the god who punishes can spare — the merciful turning of the terrible god sought in the oldest prayer formulas of the land.",
+     "note": "Paraphrase of the Accadian Penitential Psalm (Muss-Arnolt 1901); not verbatim."
+    }
+   ],
+   "persons": [],
+   "functions": [
+    "Oldest bilingual psalm of contrition",
+    "Formula of tears as offering"
+   ],
+   "variants": [
+    {
+     "name": "Prayer to every god",
+     "text_tradition": "Akkadian (Rogers 1912)",
+     "summary": "The fuller penitential liturgy.",
+     "cross_ref": "babylonian-prayer-every-god"
+    }
+   ],
+   "language": "Akkadian (bilingual with Sumerian)",
+   "canonical_translation": "Muss-Arnolt, 1901",
+   "primary_sources": [
+    {
+     "work": "An Accadian Penitential Psalm",
+     "citation": "trans. Muss-Arnolt (1901)",
+     "language": "Akkadian"
+    }
+   ],
+   "secondary_sources": [
+    {
+     "work": "The Religion of Babylonia and Assyria",
+     "citation": "Morris Jastrow Jr., Boston, 1898, penitential psalms"
+    }
+   ],
+   "source_urls": [
+    {
+     "url": "https://www.gutenberg.org/ebooks/10887",
+     "description": "Muss-Arnolt's 1901 translations",
+     "accessed": "2026-11-14"
+    }
+   ],
+   "sensitivity_flag": "none",
+   "provenance": {
+    "record_status": "complete",
+    "compiled": "2026-11-14",
+    "compiled_by": "opencode myth-collection session",
+    "review_status": "unreviewed"
+   }
+  },
+  {
+   "id": "babylonian-ereshkigal-hymn",
+   "title": {
+    "en": "Ereshkigal, Queen of the Great Below",
+    "zh": "埃列什基伽勒：冥土之后"
+   },
+   "tradition": "babylonian",
+   "category": "myth",
+   "region": {
+    "en": "Ganzir, palace of the dead (symbolic pin at Kutha)",
+    "zh": "干基爾亡者宮殿（象徵性定位於庫薩）"
+   },
+   "lat": 32.093,
+   "lon": 44.58,
+   "period": "Old Babylonian liturgical text (Jastrow 1898)",
+   "source": {
+    "archive": "Project Gutenberg",
+    "work": "The Religion of Babylonia and Assyria, the house of the dead, Morris Jastrow (1898)",
+    "url": "https://www.gutenberg.org/ebooks/20758"
+   },
+   "license": "Public domain (1898)",
+   "summary": {
+    "en": "The queen of the great earth is praised and petitioned: she who was dragged down as a bride and never came up — her house described, its rivers of the dead, its walls of the sunless — the underworld given its liturgy.",
+    "zh": "冥土之后受頌受祈：她曾被拽入冥界為新娘、自此不得復出——其宮殿、亡者之河、無日之牆皆入頌詩——冥界由此擁有自己的祭儀。"
+   },
+   "motifs": [
+    "descent-underworld",
+    "sacred-place"
+   ],
+   "sensitivity": {
+    "restricted": false,
+    "note": "Ancient liturgical text; no living community restrictions."
+   },
+   "passages": [
+    {
+     "id": "1",
+     "text": "Ereshkigal, the queen of the great earth, was dragged down as a bride and never came up; her house is described — the rivers of the dead, the walls without sun — and her power praised.",
+     "note": "Paraphrase of the underworld liturgical texts (Jastrow 1898); not verbatim."
+    },
+    {
+     "id": "2",
+     "text": "The petition asks the queen for mercy for the dead of the household — the underworld given its own liturgy, the land below addressed as a kingdom with its own court.",
+     "note": "Paraphrase of the underworld liturgical texts (Jastrow 1898); not verbatim."
+    }
+   ],
+   "persons": [
+    "ereshkigal",
+    "nergal"
+   ],
+   "functions": [
+    "Liturgy of the underworld kingdom",
+    "Petition for the household dead"
+   ],
+   "variants": [
+    {
+     "name": "Nergal and Ereshkigal",
+     "text_tradition": "Akkadian (Rogers 1912)",
+     "summary": "The marriage myth of the underworld court.",
+     "cross_ref": "babylonian-nergal-ereshkigal-amarna"
+    }
+   ],
+   "language": "Akkadian",
+   "canonical_translation": "Morris Jastrow Jr., 1898",
+   "primary_sources": [
+    {
+     "work": "Underworld liturgical texts",
+     "citation": "as discussed in Jastrow (1898)",
+     "language": "Akkadian"
+    }
+   ],
+   "secondary_sources": [
+    {
+     "work": "The Treasures of Darkness",
+     "citation": "Thorkild Jacobsen, New Haven, 1976"
+    }
+   ],
+   "source_urls": [
+    {
+     "url": "https://www.gutenberg.org/ebooks/20758",
+     "description": "Jastrow 1898",
+     "accessed": "2026-11-14"
+    }
+   ],
+   "sensitivity_flag": "none",
+   "provenance": {
+    "record_status": "complete",
+    "compiled": "2026-11-14",
+    "compiled_by": "opencode myth-collection session",
+    "review_status": "unreviewed"
+   }
+  },
+  {
+   "id": "babylonian-tammuz-laments",
+   "title": {
+    "en": "Hymns to Tammuz",
+    "zh": "塔穆茲頌歌"
+   },
+   "tradition": "babylonian",
+   "category": "myth",
+   "region": {
+    "en": "Orchards of the south, Iraq",
+    "zh": "南方果園（伊拉克）"
+   },
+   "lat": 31.5,
+   "lon": 45.5,
+   "period": "Old Babylonian hymns (Rogers translation 1912)",
+   "source": {
+    "archive": "Internet Archive",
+    "work": "Cuneiform Parallels to the Old Testament, 'Hymns to Tammuz', trans. Robert W. Rogers (1912)",
+    "url": "https://archive.org/details/cuneiformparall00rogegoog"
+   },
+   "license": "Public domain (translation 1912)",
+   "summary": {
+    "en": "The dying shepherd is hymned in the orchard's language: the sap gone down, the green branch cut, the wailing women at the watercourse — the liturgy of the Tammuz month's mourning.",
+    "zh": "垂死的牧神以果園之語受頌：汁液下沉、青枝遭斫、水渠旁哭喪的婦女——塔穆茲月哀悼祭儀之詩。"
+   },
+   "motifs": [
+    "resurrection",
+    "ritual-origin"
+   ],
+   "sensitivity": {
+    "restricted": false,
+    "note": "Ancient cult hymns; no living community restrictions."
+   },
+   "passages": [
+    {
+     "id": "1",
+     "text": "The dying shepherd is hymned in the orchard's language: the sap gone down, the green branch cut, the wailing women at the watercourse.",
+     "note": "Paraphrase of the Hymns to Tammuz (Rogers 1912); not verbatim."
+    },
+    {
+     "id": "2",
+     "text": "The lament's liturgy is fixed: the month of wailing for the husband below, and the rejoicing at his rise — the dying god's calendar in song.",
+     "note": "Paraphrase of the Hymns to Tammuz (Rogers 1912); not verbatim."
+    }
+   ],
+   "persons": [
+    "dumuzi",
+    "ishtar"
+   ],
+   "functions": [
+    "Liturgy of the Tammuz mourning month",
+    "Orchard imagery of the dying god"
+   ],
+   "variants": [
+    {
+     "name": "Dumuzid's dream (Sumerian)",
+     "text_tradition": "Sumerian (ETCSL c.1.4.3)",
+     "summary": "The narrative source of the liturgy.",
+     "cross_ref": "sumerian-dumuzi-dream"
+    }
+   ],
+   "language": "Akkadian",
+   "canonical_translation": "Robert W. Rogers, 1912",
+   "primary_sources": [
+    {
+     "work": "Hymns to Tammuz",
+     "citation": "trans. Robert W. Rogers (1912)",
+     "language": "Akkadian"
+    }
+   ],
+   "secondary_sources": [
+    {
+     "work": "The Religion of Babylonia and Assyria",
+     "citation": "Morris Jastrow Jr., Boston, 1898, on Tammuz"
+    }
+   ],
+   "source_urls": [
+    {
+     "url": "https://archive.org/details/cuneiformparall00rogegoog",
+     "description": "Rogers 1912 translations",
+     "accessed": "2026-11-14"
+    }
+   ],
+   "sensitivity_flag": "none",
+   "provenance": {
+    "record_status": "complete",
+    "compiled": "2026-11-14",
+    "compiled_by": "opencode myth-collection session",
+    "review_status": "unreviewed"
+   }
+  }
+ ]
+}

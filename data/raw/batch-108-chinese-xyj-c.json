@@ -1,0 +1,452 @@
+{
+  "texts": [
+    {
+      "id": "chinese-xyj-pansidong",
+      "title": {
+        "en": "The Seven Spider Demons of Coiled-Silk Cave",
+        "zh": "盤絲洞蜘蛛精"
+      },
+      "tradition": "chinese",
+      "category": "myth",
+      "region": {
+        "en": "Coiled-Silk Cave and Yellow-Flower Abbey (pin: mythic westward route)",
+        "zh": "盤絲洞、黃花觀"
+      },
+      "lat": 31.5,
+      "lon": 91.0,
+      "period": "Journey to the West, 16th c. (attrib. Wu Cheng'en, chs. 72-73)",
+      "source": {
+        "archive": "Wikisource (zh)",
+        "work": "Journey to the West, chs. 72-73: the spider-sisters of the bath-pool, the silk-entrapment, and the centipede-poison of the Many-Eyeds",
+        "url": "https://zh.wikisource.org/wiki/%E8%A5%BF%E9%81%8A%E8%A8%98"
+      },
+      "license": "Public domain (Ming novel; passages are compiler's renderings)",
+      "summary": {
+        "en": "Seven spider-sisters bathed in the Scouring Pool and hung silk like ten-thousand-li nets over the mountain; the monkey, watching the monk go to alms, saw the webs take him and could not cut through the silk with any weapon. The centipede demon of Yellow-Flower Abbey — the Many-Eyeds, whose thousand eyes shot golden light — poisoned the pilgrims' tea, and only the embroidered-gold needle of the Bodhisattva Bilanpo could break the demon's glare and set the bathers free.",
+        "zh": "盤絲洞七蜘蛛精濯垢泉洗澡，絲繩網山；黃花觀百眼魔君（蜈蚣精）毒茶害四眾；毗藍婆菩薩以繡花針破金光，收蜈蚣精歸紫雲山——遂解之。"
+      },
+      "motifs": [
+        "transformation",
+        "boon-curse",
+        "bodhisattva"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Passages are the compiler's condensed paraphrases of the novel."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The Tang monk went to beg his own meal and walked into the bath-pool of seven spider-sisters, who took him prisoner and spun their silk over the mountain like a net of ten thousand li. Wukong's staff, cudgels and even the sea-pillar could not cut the silk ropes; the pig was rolled into the pool; the brothers freed themselves by trickery, and burned out the demons' web-nests with a furnace-rat fire.",
+          "note": "Paraphrase of Journey to the West, ch. 72 (compiler's rendering); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "The sisters fled to Yellow-Flower Abbey and its master, the Many-Eyeds — a centipede in human shape, whose thousand eyes, when opened, shot golden rays of light that no sword or staff could touch. He brewed the pilgrims' tea with his own poison, and three of the four lay stiff as wood on the abbey floor.",
+          "note": "Paraphrase of Journey to the West, ch. 73, the poison; not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "Wukong sought help from Bilanpo, the Bodhisattva of the Purple Cloud Mountain, whose son was the Rooster Star Officer himself. She came with a needle of embroidered gold, flew it into the demon's light-rays, and the golden glare burst like a shattered mirror: the centipede, blinded, shrank to his true form and was carried off into the Bodhisattva's keeping — and the pilgrims' poison was cured with her dew.",
+          "note": "Paraphrase of Journey to the West, ch. 73, the needle and the cure; not verbatim."
+        }
+      ],
+      "persons": [
+        "sunwukong"
+      ]
+    },
+    {
+      "id": "chinese-xyj-shituoling",
+      "title": {
+        "en": "Lion-Camel Ridge: The Three Great Demons of the Eight Hundred Li",
+        "zh": "獅駝嶺三魔"
+      },
+      "tradition": "chinese",
+      "category": "myth",
+      "region": {
+        "en": "Lion-Camel Ridge and Lion-Camel Kingdom, eight hundred li of bones (pin: mythic westward route)",
+        "zh": "獅駝嶺、獅駝國"
+      },
+      "lat": 30.0,
+      "lon": 90.0,
+      "period": "Journey to the West, 16th c. (attrib. Wu Cheng'en, chs. 74-77)",
+      "source": {
+        "archive": "Wikisource (zh)",
+        "work": "Journey to the West, chs. 74-77: the green lion, the white elephant, the golden-winged roc, and the swallower of armies",
+        "url": "https://zh.wikisource.org/wiki/%E8%A5%BF%E9%81%8A%E8%A8%98"
+      },
+      "license": "Public domain (Ming novel; passages are compiler's renderings)",
+      "summary": {
+        "en": "Eight hundred li of ridge, forty-eight thousand demon soldiers, and a kingdom where every living person had been eaten — the three great demons of Lion-Camel Ridge were the gravest foes of the whole journey: a green lion who swallowed the monkey whole, a white elephant who crushed him with his trunk, and a golden-winged roc who could cover ninety thousand li in one flap and snatch even the monkey out of the sky. The roc alone was senior to the Buddha himself — the Buddha's uncle by hatchling — and only the Buddha's own palm, descending over the sky, could bring him to yield.",
+        "zh": "獅駝嶺青獅、白象、大鵬三魔，四萬八千小妖，獅駝國人食盡；青獅吞悟空入腹，白象卷之，大鵬一翅九萬里——如來親至，言大鵬乃其母舅（孔雀大明王所生），如來親至，文殊普賢收坐騎，大鵬困於佛掌而歸依。"
+      },
+      "motifs": [
+        "world-serpent",
+        "transformation",
+        "descent-underworld"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Passages are the compiler's condensed paraphrases of the novel."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The demon-baron of Lion-Camel Ridge told Wukong, by way of warning, the census of the mountain: forty-eight thousand named soldiers, eight hundred li of ridge, and a Lion-Camel Kingdom beyond where every living soul had been eaten five hundred years before — so that the city the pilgrims saw from afar was a city of nothing but bones. Three brothers ruled the mountain: a green lion, a white elephant and a golden-winged roc.",
+          "note": "Paraphrase of Journey to the West, ch. 74 (compiler's rendering); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "The green lion opened his jaws a thousand fathoms wide and swallowed the Monkey King whole — inside his belly the monkey set up a gymnastics of terror, kicked the demon's liver and made the lion beg for mercy from within. The white elephant wound his trunk around the monkey's waist; the roc, in one stroke of his wings, covered the sky and snatched the Tang monk out of the air — and for a while the pilgrimage stood at the brink of ruin, three demons holding its heart.",
+          "note": "Paraphrase of Journey to the West, chs. 75-76; not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "At last the Buddha himself came, with Manjusri and Samantabhadra to collect their own steeds — for the lion and the elephant were the two Bodhisattvas' mounts escaped to earth. The roc could not be caught: he was senior to the Buddha in hatchling, born of the same egg-tree as the peacock. The Buddha spread his palm over the whole sky, and the roc, unable to fly beyond it, yielded — and was seated at the Buddha's head, above all the hosts of the western heaven.",
+          "note": "Paraphrase of Journey to the West, ch. 77, the Buddha's palm; not verbatim."
+        }
+      ],
+      "persons": [
+        "sunwukong"
+      ]
+    },
+    {
+      "id": "chinese-xyj-bhikkhu-deer",
+      "title": {
+        "en": "The Bhikkhu Kingdom and the Deer-Skinned Immortal",
+        "zh": "比丘國白鹿精"
+      },
+      "tradition": "chinese",
+      "category": "myth",
+      "region": {
+        "en": "Bhikkhu (Monk) Kingdom (pin: mythic westward route)",
+        "zh": "比丘國"
+      },
+      "lat": 29.5,
+      "lon": 89.0,
+      "period": "Journey to the West, 16th c. (attrib. Wu Cheng'en, chs. 78-79)",
+      "source": {
+        "archive": "Wikisource (zh)",
+        "work": "Journey to the West, chs. 78-79: the elixir of boy-hearts, the white deer and the fox-queen, Longevity Star's retrieval",
+        "url": "https://zh.wikisource.org/wiki/%E8%A5%BF%E9%81%8A%E8%A8%98"
+      },
+      "license": "Public domain (Ming novel; passages are compiler's renderings)",
+      "summary": {
+        "en": "The king of Bhikkhu had sickened, and his Taoist physician prescribed the elixir of a thousand and eleven boy-hearts: every household's child was named and caged. The physician was a white deer escaped from the Longevity Star's mountain, and the queen his daughter a white fox. Wukong exposed the cage-city, saved the boys, unmasked the deer, and the Star of Longevity himself came down to collar his pet and prescribe the king a different diet.",
+        "zh": "比丘國王欲取一千一百一十一個小兒心肝做藥引；國丈乃南極壽星之白鹿，美后為白面狐狸；悟空救眾小兒，破白鹿本相，壽星收回坐騎。"
+      },
+      "motifs": [
+        "taboo-transgression",
+        "transformation",
+        "quest-immortality",
+        "elixir-life",
+        "wounded-king"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Passages are the compiler's condensed paraphrases of the novel."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "In Bhikkhu Kingdom the king, sick of long years, had been given a prescription by his immortal physician: the elixir of a thousand and eleven boy-hearts, to be drawn from children gathered into cages at the palace gate. Every household wept; the monkey, with his fiery eyes, saw through the city's grief to the palace's secret.",
+          "note": "Paraphrase of Journey to the West, ch. 78 (compiler's rendering); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "The physician demanded also the Tang monk's heart as the finishing ingredient. Wukong transformed himself into his master, opened his own chest, and offered a rack of hearts — loyalty, mercy, cunning, every heart but the black one the demon demanded. The demon drew back; the monkey unmasked him in the court: a white deer of the Longevity Star's own mountain, the beautiful queen beside him a white fox.",
+          "note": "Paraphrase of Journey to the West, ch. 79, the heart-contest; not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "The Star of Longevity came down the sky on a crane to collar his escaped deer, called it a pet turned scourge, and prescribed the king instead the plain diet of rice gruel and vegetables. The boys of Bhikkhu went home to their families, the kingdom renounced the deer's regimen, and the pilgrims passed on toward the holy city.",
+          "note": "Paraphrase of Journey to the West, ch. 79, the Star's retrieval; not verbatim."
+        }
+      ],
+      "persons": [
+        "sunwukong"
+      ]
+    },
+    {
+      "id": "chinese-xyj-wudidong-rat",
+      "title": {
+        "en": "The Bottomless Cave and the Golden-Nosed White Rat",
+        "zh": "無底洞金鼻白毛老鼠精"
+      },
+      "tradition": "chinese",
+      "category": "myth",
+      "region": {
+        "en": "Bottomless Cave, Black Rooster ridge westward (pin: mythic westward route)",
+        "zh": "陷空山無底洞"
+      },
+      "lat": 30.5,
+      "lon": 88.0,
+      "period": "Journey to the West, 16th c. (attrib. Wu Cheng'en, chs. 80-83)",
+      "source": {
+        "archive": "Wikisource (zh)",
+        "work": "Journey to the West, chs. 80-83: the demoness's bridal snare, the shrine of Li Jing, and the sky-lord's arrest",
+        "url": "https://zh.wikisource.org/wiki/%E8%A5%BF%E9%81%8A%E8%A8%98"
+      },
+      "license": "Public domain (Ming novel; passages are compiler's renderings)",
+      "summary": {
+        "en": "A demoness with a golden nose and white fur, once a rat of the Vulture Peak who ate the Buddha's candle-oil, had taken the Tang monk for her bridal cave and set up a shrine to the Pagoda-Bearing Heavenly King Li Jing as her adoptive father. Wukong fought through her endless cave with three mouths and no floor, found the shrine, flew to heaven with the tablets, and Li Jing and Nezha came down themselves to arrest their own 'daughter' and take her back to the court of the Jade Emperor.",
+        "zh": "金鼻白毛老鼠精，曾在靈山偷食如來香花寶燭，認托塔李天王為父；無底洞攝三藏成親；悟空上天告狀，李天王父子拿妖歸案。"
+      },
+      "motifs": [
+        "descent-underworld",
+        "transformation",
+        "trickster",
+        "celestial-bureaucracy",
+        "flight-sky"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Passages are the compiler's condensed paraphrases of the novel."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The demoness of the Bottomless Cave, a rat-spirit of the Vulture Peak who had once eaten the lamp-oil of the Buddha's hall, spun a bridal snare: a woman bound to a tree begging rescue, an offered meal, and a whirlwind to carry the monk down the cave's endless dark to be her husband.",
+          "note": "Paraphrase of Journey to the West, ch. 80-81 (compiler's rendering); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "The cave had no floor — three mouths, a thousand turns, wine flowing in channels, and a spring to drown pursuers. Wukong went down as a fly and a cricket, found at last a shrine with tablets to the Pagoda-Bearing Heavenly King and Prince Nezha, and carried the tablets up to the Jade Emperor: the demoness had sworn kinship with heaven's own constable.",
+          "note": "Paraphrase of Journey to the West, ch. 81-83, the shrine of Li Jing; not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "Li Jing, furious to be named father by a rat, came down with Nezha and his pagoda, seized his 'daughter' with the tower's own chains, and hauled her back to heaven for sentencing. The monk was freed from the bridal cave, and the Bottomless Cave had at last a bottom: the rod of the third prince, driven through its dark.",
+          "note": "Paraphrase of Journey to the West, ch. 83, the arrest; not verbatim."
+        }
+      ],
+      "persons": [
+        "sunwukong"
+      ]
+    },
+    {
+      "id": "chinese-xyj-thornridge-poets",
+      "title": {
+        "en": "Thorn-Ridge: The Tree-Spirits' Night of Poetry",
+        "zh": "荊棘嶺木仙夜談"
+      },
+      "tradition": "chinese",
+      "category": "myth",
+      "region": {
+        "en": "Thorn-Ridge, eight hundred li of thorns (pin: mythic westward route)",
+        "zh": "荊棘嶺"
+      },
+      "lat": 31.0,
+      "lon": 87.0,
+      "period": "Journey to the West, 16th c. (attrib. Wu Cheng'en, ch. 64)",
+      "source": {
+        "archive": "Wikisource (zh)",
+        "work": "Journey to the West, ch. 64: the tree-spirits' literary party in the Stone House, and the abduction of the Tang monk for a poetry contest",
+        "url": "https://zh.wikisource.org/wiki/%E8%A5%BF%E9%81%8A%E8%A8%98"
+      },
+      "license": "Public domain (Ming novel; passages are compiler's renderings)",
+      "summary": {
+        "en": "Eight hundred li of thorn-thickets blocked the road, and in their heart stood a stone house where the tree-spirits of the ridge — an old cypress, an old juniper, a bamboo, a plum and a maple — kept a literary salon. They abducted the Tang monk in a wind of petals for a night of linked verses, and the plum-spirit, appearing as a beautiful woman, pressed him with love-poems; the monk, flustered but constant, recited only of the Way — until the monkey arrived and cut down the poets: the cypress, the juniper, the maple and the plum roots of the ridge.",
+        "zh": "荊棘嶺木仙庵：十八公（柏）、拂雲叟（竹）、赤身鬼（楓）、杏仙（杏）等樹精攝三藏吟詩談禪；杏仙欲薦枕席；悟空尋至，八戒築倒眾樹根。"
+      },
+      "motifs": [
+        "sacred-place",
+        "divine-marriage",
+        "parable-teaching",
+        "sacred-tree",
+        "abduction"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Passages are the compiler's condensed paraphrases of the novel. A rare quiet episode: the novel's meditation on poetry, temptation and rootedness."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Thorn-Ridge lay eight hundred li deep in thorns, and the pilgrims hacked their way through on a stone track left by an old road. In the heart of the thorns the Tang monk was stolen away in a wind of flower-petals, and set down before a stone house lit with lanterns, where four venerable tree-spirits awaited him: an ancient cypress, an ancient juniper, a red maple and a fair plum-spirit in woman's form.",
+          "note": "Paraphrase of Journey to the West, ch. 64 (compiler's rendering); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "They asked for linked verses, and the monk, finding their learning deep, chanted of the Chan mind and the moon; the plum-spirit, gathering her breath, sang of love under the blossom and hinted at the bridal couch — the one temptation of the road that came dressed as poetry. The monk refused her with a face like iron, and the party of trees, amused, did not insist.",
+          "note": "Paraphrase of Journey to the West, ch. 64, the plum-spirit's poems; not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "Then the Monkey King and the pig came crashing through the thorns, and the spirits scattered into their true forms. Bajie, maddened by the wasted night, swung his rake and uprooted the cypress, the juniper, the maple and the plum — and blood and sap ran from the roots, and the thorn-thickets of the ridge opened a road that has stayed open ever since.",
+          "note": "Paraphrase of Journey to the West, ch. 64, the felling; not verbatim."
+        }
+      ],
+      "persons": [
+        "tang-sanzang"
+      ]
+    },
+    {
+      "id": "chinese-xyj-yuhua-lions",
+      "title": {
+        "en": "The Jade-Hua Princes and the Nine-Headed Lion",
+        "zh": "玉華州收徒與九靈元聖"
+      },
+      "tradition": "chinese",
+      "category": "myth",
+      "region": {
+        "en": "Jade-Hua Princely Court (pin: mythic westward route)",
+        "zh": "玉華州"
+      },
+      "lat": 30.0,
+      "lon": 86.0,
+      "period": "Journey to the West, 16th c. (attrib. Wu Cheng'en, chs. 88-90)",
+      "source": {
+        "archive": "Wikisource (zh)",
+        "work": "Journey to the West, chs. 88-90: three princes apprenticed, the stolen weapons, and the nine-headed lion of the Taiyi Jiuku sect",
+        "url": "https://zh.wikisource.org/wiki/%E8%A5%BF%E9%81%8A%E8%A8%98"
+      },
+      "license": "Public domain (Ming novel; passages are compiler's renderings)",
+      "summary": {
+        "en": "The three princes of Jade-Hua begged to learn the staff, the rake and the staff-of-sand; Wukong taught them, and had copies of the three weapons forged — which the furnace-light drew up a lion-demon from the Bamboo-Mountain, who stole the weapons at night. The demon lord was a nine-headed lion, grandsire of all lion-spirits and uncle-slave of the Taiyi Rescuer; when he seized the monk, only the heavenly master Taiyi Jiuku Tianzun, summoned by Wukong's own shout, could whistle the beast home and collar it.",
+        "zh": "玉華州三王子拜師學藝，仿造三般兵器；豹頭山黃獅精盜寶；其祖九靈元聖（九頭獅）攝三藏八戒；太乙救苦天尊收坐騎——獅祖歸位。"
+      },
+      "motifs": [
+        "transformation",
+        "sacred-kingship",
+        "origin-tools"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Passages are the compiler's condensed paraphrases of the novel."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The three princes of Jade-Hua State saw the three weapons of the pilgrims and begged to be taught. Wukong taught the eldest the staff, Bajie the second the rake, and the sand-monk the third his priest's staff; and for practice the smiths of the court forged replicas of all three — the fire of whose forging shone up into the mountains like a beacon.",
+          "note": "Paraphrase of Journey to the West, ch. 88-89 (compiler's rendering); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "A yellow lion of the Leopard-Head Mountain saw the light and stole the three replicas by night for his own armory. The pilgrims crushed his cave and took the weapons back — but his grandfather, the Nine-Spirit Sovereign, a nine-headed lion of the Taiyi sect's stables, came with the whole lineage of lion-demons to seize the monk and the pig in vengeance.",
+          "note": "Paraphrase of Journey to the West, ch. 89-90, the theft and the vengeance; not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "The nine-headed lion was the mount of the Heavenly Master Taiyi Jiuku Tianzun, the Rescuer of the Afflicted. Wukong flew to the Master's eastern paradise, shouted his complaint at the gate, and the Master descended, whistled the beast's name — and the nine heads bowed to the collar. The lion-lineage of the mountain went home to heaven, the princes were made masters of their weapons, and Jade-Hua built the pilgrims a temple to remember them by.",
+          "note": "Paraphrase of Journey to the West, ch. 90, the Master's whistle; not verbatim."
+        }
+      ],
+      "persons": [
+        "sunwukong"
+      ]
+    },
+    {
+      "id": "chinese-xyj-tianzhu-rabbit",
+      "title": {
+        "en": "The Jade Rabbit of India and the Thrown Embroidered Ball",
+        "zh": "天竺國玉兔拋繡球"
+      },
+      "tradition": "chinese",
+      "category": "myth",
+      "region": {
+        "en": "India (Tianzhu), Capital of the western heaven-road (pin: mythic India)",
+        "zh": "天竺國"
+      },
+      "lat": 25.0,
+      "lon": 85.0,
+      "period": "Journey to the West, 16th c. (attrib. Wu Cheng'en, chs. 93-95)",
+      "source": {
+        "archive": "Wikisource (zh)",
+        "work": "Journey to the West, chs. 93-95: the false princess, the embroidered-ball betrothal, and Chang'e's hare brought home",
+        "url": "https://zh.wikisource.org/wiki/%E8%A5%BF%E9%81%8A%E8%A8%98"
+      },
+      "license": "Public domain (Ming novel; passages are compiler's renderings)",
+      "summary": {
+        "en": "On the last road to the Thunderclap Monastery, the king of India chose a son-in-law by thrown embroidered ball — and the ball landed on the Tang monk. The bride was not the princess but the Jade Rabbit of the moon-palace, escaped to earth to avenge a slight of Chang'e, holding the monk for her wedding night. Wukong fought her through the night sky to the edge of the moon-mountain, and Chang'e and the Star of the Taiyin came down to lead the runaway hare home by the ear.",
+        "zh": "天竺國公主拋繡球招親擊中三藏；假公主乃月宮玉兔，為報一掌之仇私逃下界；悟空戰之，太陰星君與嫦娥收玉兔歸月——真公主乃出生時被妖調換。"
+      },
+      "motifs": [
+        "transformation",
+        "divine-marriage"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Passages are the compiler's condensed paraphrases of the novel."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The king of India cast an embroidered ball from his tower to choose his daughter's husband, and the ball, steered by more than wind, fell upon the Tang monk's cowl. The whole court prepared the wedding of the year — while the monkey's fiery eyes saw at once that the bride was no princess but a demoness of the moon.",
+          "note": "Paraphrase of Journey to the West, ch. 93-94 (compiler's rendering); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "The false princess was the Jade Rabbit, pounding-maid of Chang'e's palace, who had fled the moon eighteen years before to pay back a slight of the goddess's hand. She had exchanged the true princess for herself at birth and now demanded the monk for her wedding night; her pestle of jade was a weapon no staff could match.",
+          "note": "Paraphrase of Journey to the West, ch. 95, the rabbit's story; not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "The monkey chased her into the sky, and at the moon-mountain the Star of the Great Yin and Chang'e herself came down in glory to claim the runaway hare and lead her home by the ear. The true princess was restored to the king of India, the wedding was given to the rightful heir, and the pilgrims, four days later, saw the first towers of the Thunderclap Monastery over the western ridge.",
+          "note": "Paraphrase of Journey to the West, ch. 95, the rabbit's retrieval; not verbatim."
+        }
+      ],
+      "persons": [
+        "sunwukong"
+      ]
+    },
+    {
+      "id": "chinese-xyj-attainment",
+      "title": {
+        "en": "The Attainment: Five Saints and the Scriptures Carried East",
+        "zh": "功成行滿"
+      },
+      "tradition": "chinese",
+      "category": "myth",
+      "region": {
+        "en": "Thunderclap Monastery, Vulture Peak (pin: mythic India)",
+        "zh": "靈山雷音寺"
+      },
+      "lat": 24.5,
+      "lon": 83.0,
+      "period": "Journey to the West, 16th c. (attrib. Wu Cheng'en, chs. 98-100)",
+      "source": {
+        "archive": "Wikisource (zh)",
+        "work": "Journey to the West, chs. 98-100: the river-crossing to the other shore, the true scriptures, and the investiture of the five",
+        "url": "https://zh.wikisource.org/wiki/%E8%A5%BF%E9%81%8A%E8%A8%98"
+      },
+      "license": "Public domain (Ming novel; passages are compiler's renderings)",
+      "summary": {
+        "en": "At the last river an empty bottomless boat ferried the pilgrims across, and from its floor the corpse of the Tang monk's own mortal body floated away downstream — he saw his own flesh dead and was glad. In the Thunderclap Monastery the Buddha's hosts delivered the true scriptures, and the five were invested: the Tang monk a Buddha of the sandalwood merit, the monkey a Buddha victorious in strife, Bajie the altar-cleanser (for his gluttony remained), the sand-monk a golden-bodied arhat, and the white horse back to dragonhood in the lake of the gate — the journey over, the books carried east, and the empire of Tang transcribed them forever.",
+        "zh": "凌雲渡無底船渡三藏，脫去凡胎；雷音寺取得真經三十五部；功德圓滿：三藏為旃檀功德佛，悟空為鬥戰勝佛，八戒為淨壇使者，沙僧為金身羅漢，白馬化龍盤於擎天華表柱。"
+      },
+      "motifs": [
+        "ascension",
+        "world-renewal",
+        "quest-immortality",
+        "ferryman-dead"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Passages are the compiler's condensed paraphrases of the novel."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Beyond the last ridge a river lay without bridge or ford, and an old boat came — a boat without a bottom. The monk stepped in trembling, and as it crossed, a corpse floated past his face: his own body, dead. His disciples cried out in joy, for he had seen his own flesh fall away — the crossing was done, and the man who crossed was no longer the man who had embarked.",
+          "note": "Paraphrase of Journey to the West, ch. 98 (compiler's rendering); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "In the Thunderclap Monastery the Buddha's hosts gave out the true scriptures — thirty-five canons, five thousand and forty-eight scrolls, the number of the completion of one great kalpa. The monks of the library, asked for a gratuity, gave scrolls blank as river-reeds; the Buddha smiled and said that the scriptures of the empty hand were meant for those of the empty mind — then granted, at the East's request, the true word-filled scrolls as well.",
+          "note": "Paraphrase of Journey to the West, ch. 98, the scriptures; not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "The five were invested by name before all the hosts: the Tang monk, Buddha of Sandalwood Merit; the monkey, Buddha Victorious in Strife; the pig, Cleanser of the Altars — for he still loved offerings and was given the altars of the world to eat them clean; the sand-monk, Arhat of the Golden Body; and the white horse, restored to dragonhood, coiled upon the pillar of the gate. They rode the clouds home to Chang'an, and the Emperor received the books as a nation's treasure.",
+          "note": "Paraphrase of Journey to the West, chs. 99-100, the investiture and return; not verbatim."
+        }
+      ],
+      "persons": [
+        "sunwukong",
+        "tang-sanzang",
+        "zhu-bajie"
+      ]
+    }
+  ]
+}

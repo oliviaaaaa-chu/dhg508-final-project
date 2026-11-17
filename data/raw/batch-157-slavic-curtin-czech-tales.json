@@ -1,0 +1,329 @@
+{
+  "_comment": "Czech folk tales cut from Jeremiah Curtin, Myths and Folk-Tales of the Russians, Western Slavs, and Magyars (1890), Project Gutenberg #50011, 'Chekh Myths and Folk-Tales'. All passages paraphrase.",
+  "texts": [
+    {
+      "id": "slavic-curtin-boyislav-twelve",
+      "title": {
+        "en": "Boyislav, Youngest of Twelve: The Black Island and the Taper",
+        "zh": "十二子中的幼子博伊斯拉夫：黑島與蠟燭"
+      },
+      "tradition": "slavic",
+      "category": "myth",
+      "region": {
+        "en": "Bohemia (symbolic pin at Prague)",
+        "zh": "波希米亞（象徵性定位於布拉格）"
+      },
+      "lat": 50.08,
+      "lon": 14.42,
+      "period": "Collected and translated by Jeremiah Curtin, 1890",
+      "source": {
+        "archive": "Project Gutenberg #50011",
+        "work": "Jeremiah Curtin, Myths and Folk-Tales of the Russians, Western Slavs, and Magyars (1890), 'Boyislav, Youngest of Twelve'",
+        "url": "https://www.gutenberg.org/ebooks/50011"
+      },
+      "license": "Public domain (1890)",
+      "summary": {
+        "en": "A dying king's dream sends his twelve sons to Black Island to free three princesses; Boyislav, the youngest, obeys a starving horse's strange instructions — eat, but let no princess kiss thee, and speak no word — until a taper's glow betrays him and his brothers cast him to the lions.",
+        "zh": "病重國王之夢遣十二子赴黑島救三公主；幼子博伊斯拉夫依飢馬奇囑——可食而勿受公主之吻、全程禁語——直至燭光洩密，兄長們將他投入獅欄。"
+      },
+      "motifs": [
+        "otherworld-voyage",
+        "descent-underworld",
+        "taboo-transgression",
+        "youngest-son",
+        "betrayal"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Folk tale."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "A king lies dying; three times a vision of three princesses on Black Island appears, promising 'Free us, and thou wilt recover; if not, thou wilt die.' The twelve sons draw lots and Boyislav, the youngest and most hated, wins the journey. On the black island he lifts a great hewn stone and descends into a glorious garden with three golden castles, where a famished horse greets him by name and teaches him the rule: in each castle eat, but let no princess eat with thee or kiss thee; take the leavings; and speak no word all the time — 'to thee 'tis a question of life or death.'",
+          "note": "Paraphrase of Curtin (1890), 'Boyislav, Youngest of Twelve'; not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "He obeys in the three castles and gathers leavings for the horse, which brings him to the shore, and all three princesses are freed. On the homeward voyage the princess of White Island, coming at night to his cabin, quenches the light — Boyislav lights a taper to see her, and is seen; his brothers walled him into a lions' den and swore they had freed the princesses themselves. The princess demanded the liberator, and the false brothers were beheaded one by one when they could not answer her question about the taper.",
+          "note": "Paraphrase of Curtin (1890); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "The old man who had saved Boyislav begged the king to open the den, and the princess's threat of turning the city to dust and ashes forced the truth out. Boyislav walked out with his taper and tablecloth, was recognized, and betrothed with a kiss. At the feast he asked for his trusty horse, who was starving on a cord of hay brought from Red Island, and at the horse's command cut off its head — whereupon a beautiful prince stood in its place, freed with the three princesses from the witch-queen's enchantment, and the land of Black Island shone again.",
+          "note": "Paraphrase of Curtin (1890); not verbatim."
+        }
+      ],
+      "persons": []
+    },
+    {
+      "id": "slavic-curtin-table-pack-bag",
+      "title": {
+        "en": "The Table, the Pack, and the Bag",
+        "zh": "餐桌、行囊與魔袋"
+      },
+      "tradition": "slavic",
+      "category": "myth",
+      "region": {
+        "en": "Bohemia (symbolic pin at Brno)",
+        "zh": "波希米亞（象徵性定位於布爾諾）"
+      },
+      "lat": 49.2,
+      "lon": 16.61,
+      "period": "Collected and translated by Jeremiah Curtin, 1890",
+      "source": {
+        "archive": "Project Gutenberg #50011",
+        "work": "Jeremiah Curtin, Myths and Folk-Tales of the Russians, Western Slavs, and Magyars (1890), 'The Table, the Pack, and the Bag'",
+        "url": "https://www.gutenberg.org/ebooks/50011"
+      },
+      "license": "Public domain (1890)",
+      "summary": {
+        "en": "Simple Yanek, beaten and left for dead by his gold-hungry brothers, serves giants for a table that feeds a king; two old grandfathers swap it for a pack of armies and a bag of castles — until the king who stole the table learns what war means.",
+        "zh": "憨直的亞內克被貪金兄長毒打棄於林中；為巨人看守寶庫得國王餐台；兩位老祖父以召兵行囊與城堡魔袋易其台——直到竊取餐台的國王領教何謂戰爭。"
+      },
+      "motifs": [
+        "boon-curse",
+        "trickster",
+        "theophany"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Folk tale."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Three brothers go into the world: Martin and Mihal fill their bags with food; Yanek, the youngest and simplest, takes nothing and is beaten with rage by both. In a castle of copper, silver, and gold they fill their bags and abandon Yanek for dead in the forest. He wakes and returns to the castle, where giants catch him and make him keeper of their treasures, granting him a little table: strike it three times and cry 'Food for a king!' and the table is covered with the daintiest dishes.",
+          "note": "Paraphrase of Curtin (1890), 'The Table, the Pack, and the Bag'; not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Tired of idleness Yanek walks home with the table on his back. An old grandfather begs food, eats his fill, and swaps the table for a pack out of which armies can be summoned; Yanek sends two hundred hussars after the old man and gets the table back. A second grandfather swaps it for a bag of castles — and Yanek sends three hundred Uhlans to fetch the table again.",
+          "note": "Paraphrase of Curtin (1890); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "In the capital his brothers, now great lords, feed him nothing; but each night Yanek raises a castle in the garden, guards it with fifty infantry, and sups like a king. The king borrows the table for three days and returns a counterfeit; Yanek declares war, marches armies out of the pack and castles out of the bag, and the king returns the true table — leaving Yanek richer than his brothers, with his mother beside him.",
+          "note": "Paraphrase of Curtin (1890); not verbatim."
+        }
+      ],
+      "persons": []
+    },
+    {
+      "id": "slavic-curtin-king-of-toads",
+      "title": {
+        "en": "The King of the Toads: The Frozen King and the Twig",
+        "zh": "蟾蜍王：冰凍國王與神枝"
+      },
+      "tradition": "slavic",
+      "category": "myth",
+      "region": {
+        "en": "Bohemia (symbolic pin at Olomouc)",
+        "zh": "波希米亞（象徵性定位於奧洛穆茨）"
+      },
+      "lat": 49.59,
+      "lon": 17.25,
+      "period": "Collected and translated by Jeremiah Curtin, 1890",
+      "source": {
+        "archive": "Project Gutenberg #50011",
+        "work": "Jeremiah Curtin, Myths and Folk-Tales of the Russians, Western Slavs, and Magyars (1890), 'The King of the Toads'",
+        "url": "https://www.gutenberg.org/ebooks/50011"
+      },
+      "license": "Public domain (1890)",
+      "summary": {
+        "en": "In a palace frozen into a lake, a king sits bound to his chair while his queen gathers frogs for the King of the Toads, who has promised her immortality; a wandering king with a boatman's magic twig freezes the queen, cheats the toad-king into restoring the kingdom, and hews him to pieces before the frogs devour their destroyer.",
+        "zh": "王宮冰封為湖，國王縛於座椅；王后日日為蟾蜍王捕蛙，換取不死之諾；携舟子神枝的過路國王凍住王后，騙蟾蜍王還其國土，碎其身於劍下——群蛙遂吞其殘軀。"
+      },
+      "motifs": [
+        "quest-immortality",
+        "transformation",
+        "world-serpent"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Folk tale."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "A wandering king, carried by a fisherman's boat across a strange lake, is warned of the sorceress-queen within and given a twig by the boatman. In the hall he finds an old king frozen to his chair, who tells his story: the King of the Toads crept into the place where his lake now is, turned his wife's heart, and promised her the eggs of the magic bird — 'thou wilt become immortal and ever young.' Cut in two by the king's sword, the toad grew together again and froze both king and kingdom; the lake where fish now swim is the king's own people.",
+          "note": "Paraphrase of Curtin (1890), 'The King of the Toads'; not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "The queen returns at sunset and catches frogs for her lover; the visiting king strikes her three times with the twig, freezing her to her seat. Then, dressed in her garments, he goes in the dark to the King of the Toads, pretends to be his love, and begs him as her price to release the old king — so that he may 'fall to dust and ashes' — and to give the kingdom back its former shape.",
+          "note": "Paraphrase of Curtin (1890); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "The toad-king consents, embraces his supposed love — and is struck three times with the twig, frozen to the earth. The king hews him into countless pieces and throws them into the water; frogs rush from every side with terrible croaking and greedily devour the bits of their destroyer's body. The lake drains away, trees rise from the water, and a splendid city stands where the spell had been; the old king gives the liberator his whole kingdom and dies at peace.",
+          "note": "Paraphrase of Curtin (1890); not verbatim."
+        }
+      ],
+      "persons": []
+    },
+    {
+      "id": "slavic-curtin-mouse-hole-kingdom",
+      "title": {
+        "en": "The Mouse-Hole and the Underground Kingdom",
+        "zh": "鼠穴與地下王國"
+      },
+      "tradition": "slavic",
+      "category": "myth",
+      "region": {
+        "en": "Bohemia (symbolic pin at Pilsen)",
+        "zh": "波希米亞（象徵性定位於皮爾森）"
+      },
+      "lat": 49.74,
+      "lon": 13.38,
+      "period": "Collected and translated by Jeremiah Curtin, 1890",
+      "source": {
+        "archive": "Project Gutenberg #50011",
+        "work": "Jeremiah Curtin, Myths and Folk-Tales of the Russians, Western Slavs, and Magyars (1890), 'The Mouse-Hole, and the Underground Kingdom'",
+        "url": "https://www.gutenberg.org/ebooks/50011"
+      },
+      "license": "Public domain (1890)",
+      "summary": {
+        "en": "The youngest prince shoots his arrow after a mouse and enters the underground kingdom through the mouse-hole: a white marble castle, twelve chambers, and a diamond pan under whose covers an ugly toad waits — the princess under a spell, waiting for a prince who will bathe her daily and carry her in his bosom.",
+        "zh": "幼王子對鼠射箭、循箭入鼠穴，抵地下王國：白大理石城堡、十二重殿、鑽石鍋下伏一醜蟾蜍——受咒之公主，等一位日日為之沐浴、揣其於懷的王子。"
+      },
+      "motifs": [
+        "descent-underworld",
+        "transformation",
+        "resurrection"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Folk tale (frog-princess type)."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "A king sends his three sons to travel for a year and bring back gifts from their chosen ones: the eldest aims east, the second west, and Yarmil, the youngest, lets fly after a mouse. The earth opens before the mouse-hole and he rides in to an open country where a white marble castle stands. A lady white as new snow gives him a white steed that flies him to a castle of gold, and in its twelfth chamber he finds only a diamond pan, written on: 'Whoever wishes to liberate me must carry me next to his body, and bathe me each day.'",
+          "note": "Paraphrase of Curtin (1890), 'The Mouse-Hole, and the Underground Kingdom'; not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Under the covers Yarmil finds a great ugly toad, and such terror seizes him that he takes it out and puts it in his bosom; the more he washes it the uglier it grows. Invisible hands serve his meals; the year runs to its end, and a letter appears on his writing-table: 'I love thee unspeakably; but be thou patient, as I am patient. A gift for thy father thou hast in the pan; give it to him, but tarry not long at home. Put me back in the pan.'",
+          "note": "Paraphrase of Curtin (1890); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "He returns home with the toad in the pan, is mocked by his brothers, and rides back to the castle, where after the year of patience the toad is washed into the most beautiful princess of the underground kingdom. The enchantment of the white castle is broken; Yarmil brings home a bride worth more than both his brothers' gifts, and the underground kingdom shines again.",
+          "note": "Paraphrase of Curtin (1890); not verbatim."
+        }
+      ],
+      "persons": []
+    },
+    {
+      "id": "slavic-curtin-cuirassier-horned-princess",
+      "title": {
+        "en": "The Cuirassier and the Horned Princess",
+        "zh": "胸甲騎兵與長角公主"
+      },
+      "tradition": "slavic",
+      "category": "myth",
+      "region": {
+        "en": "Bohemia (symbolic pin at Prague)",
+        "zh": "波希米亞（象徵性定位於布拉格）"
+      },
+      "lat": 50.08,
+      "lon": 14.42,
+      "period": "Collected and translated by Jeremiah Curtin, 1890",
+      "source": {
+        "archive": "Project Gutenberg #50011",
+        "work": "Jeremiah Curtin, Myths and Folk-Tales of the Russians, Western Slavs, and Magyars (1890), 'The Cuirassier and the Horned Princess'",
+        "url": "https://www.gutenberg.org/ebooks/50011"
+      },
+      "license": "Public domain (1890)",
+      "summary": {
+        "en": "Twelve deserting cuirassiers take shelter in a sorceress's castle where nine die for opening forbidden caskets; the three survivors win a cap of invisibility, a mantle of flight, and a purse of gold — and pay back the card-playing princess who stole their gifts by selling her magic pears that grow horns, then curing her as a false physician.",
+        "zh": "十二名逃亡胸甲騎兵夜宿女巫城堡，九人因啟禁閉之匣而亡；三名倖存者得隱形帽、飛行斗篷與金錢袋——而後以長角魔梨懲罰竊寶的嗜賭公主，再假扮醫師治癒她。"
+      },
+      "motifs": [
+        "taboo-transgression",
+        "boon-curse",
+        "trickster",
+        "invisibility",
+        "magic-theft"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Folk tale."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Twelve deserting cuirassiers ride to a great castle in wild mountains, where a table is laid for twelve and oats stand ready; the old sorceress feeds them but forbids anyone to look in the twelve unlocked caskets. Nine men's sinful curiosity costs them their lives; the three survivors are permitted to look and take what they find: a cap that makes its wearer invisible, a mantle on which a man can fly through the air, and a purse that yields ten ducats at every shake.",
+          "note": "Paraphrase of Curtin (1890), 'The Cuirassier and the Horned Princess'; not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "In a great town the princess, immeasurably fond of cards, outplays every comer and has the losers flogged from the castle. The three friends sit down to play her: the invisible man reads her cards, the purse pays her stake, and she loses all — then she has her servants steal the purse, the cap, and the mantle from the travellers, and has them flogged out of the town.",
+          "note": "Paraphrase of Curtin (1890); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "The avenger sells her pears so splendid that she cannot resist: with the first pear horns begin to grow on her head, and soon she cannot stand upright in the hall. Sawed by the doctors, the horns grow again; the king proclaims that whoever frees the princess shall marry her and have the kingdom. The disguised cuirassier, as a physician, first makes her return the stolen cap, mantle, and purse, then gives her quarters of a magic apple — and at the fourth quarter the horns fall off at a blow, and the freed princess marries her healer.",
+          "note": "Paraphrase of Curtin (1890); not verbatim."
+        }
+      ],
+      "persons": []
+    },
+    {
+      "id": "slavic-curtin-treacherous-brothers",
+      "title": {
+        "en": "The Treacherous Brothers",
+        "zh": "奸詐的兄長們"
+      },
+      "tradition": "slavic",
+      "category": "myth",
+      "region": {
+        "en": "Bohemia (symbolic pin at Prague)",
+        "zh": "波希米亞（象徵性定位於布拉格）"
+      },
+      "lat": 50.08,
+      "lon": 14.42,
+      "period": "Collected and translated by Jeremiah Curtin, 1890",
+      "source": {
+        "archive": "Project Gutenberg #50011",
+        "work": "Jeremiah Curtin, Myths and Folk-Tales of the Russians, Western Slavs, and Magyars (1890), 'The Treacherous Brothers'",
+        "url": "https://www.gutenberg.org/ebooks/50011"
+      },
+      "license": "Public domain (1890)",
+      "summary": {
+        "en": "Jalmir, the sickly youngest of seven sons, is healed by a white-bearded visitant and rides a miraculous horse to serve a foreign king for love of the golden-castle princess; his treacherous brothers set him one impossible task after another and finally perish when their slander is brought to light.",
+        "zh": "七子中最孱弱的雅爾米爾得白髮訪客治癒，騎神馬為愛黃金城堡公主而效力他邦之王；奸詐兄長屢設險障，終因讒言敗露而自取滅亡。"
+      },
+      "motifs": [
+        "quest-immortality",
+        "sibling-creators",
+        "resurrection",
+        "impossible-task",
+        "youngest-son"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Folk tale."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Jalmir, youngest of seven sons, so weak he is still nursed like a child, is cured overnight by a venerable white-bearded man who thrice asks from the dark, 'Jalmir, art thou sleeping?' and commands him: go through the southern gate, mount the white horse under the old pear-tree, and ride after thy brothers. The horse speaks with a man's voice and carries him through the air.",
+          "note": "Paraphrase of Curtin (1890), 'The Treacherous Brothers'; not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "His brothers, already grown great at another king's court, set him impossible tasks — the enchanted cask of wine from a sorceress's cellar, then the princess of the golden castle in the sea, her castle, her key, and last the waters of death, life, and youth. Each time the white steed instructs him, the animals he has helped repay him — a fish with a whistle, an eagle with a rescue — and each time the brothers read of the next toil in the castle books and laugh that little Jalmir will drown or run home.",
+          "note": "Paraphrase of Curtin (1890); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "On the dam to the waters' island the sea rises and swallows Jalmir; the eagle that owed him a quarter of beef dives, bears him to the island, and shows him the three springs. He returns to find his father dead of old age and the wedding set for that day: the princess, to make their marriage equal, rubs the king with the water of death, the water of youth — and by tragic error takes the flask of death for the water of life, so that the king is rubbed twice with death and can never live again. Jalmir revives the princess, is proclaimed king, and marries her; when his brothers whisper that the two poisoned the old king, the people, hearing his story of the six betrayals, seize the treacherous six and throw them into the flames of a straw-stack they themselves had set.",
+          "note": "Paraphrase of Curtin (1890); not verbatim."
+        }
+      ],
+      "persons": []
+    }
+  ]
+}

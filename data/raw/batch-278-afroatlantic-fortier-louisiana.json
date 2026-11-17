@@ -1,0 +1,614 @@
+{
+  "texts": [
+    {
+      "id": "afroatlantic-lapin-elephant-whale",
+      "title": {
+        "en": "Compair Lapin, the Elephant and the Whale",
+        "zh": "兔大哥、象與鯨"
+      },
+      "tradition": "afroatlantic",
+      "category": "myth-religion",
+      "region": {
+        "en": "Louisiana bayou country, USA (symbolic pin: Lake Pontchartrain shore)",
+        "zh": "美國路易斯安那沼澤地（象徵定位：龐恰特雷恩湖岸）"
+      },
+      "lat": 30.2,
+      "lon": -90.1,
+      "period": "Louisiana Creole oral tradition; collected 1877-1888; published 1895",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Alcee Fortier, 'Louisiana Folk-Tales', Memoirs of the American Folk-Lore Society vol. II (1895), tale I 'The Elephant and the Whale' (English translation by Mrs. M. L. T. Fortier)",
+        "url": "https://archive.org/download/louisianafolkta00fortgoog/louisianafolkta00fortgoog_djvu.txt"
+      },
+      "license": "Public domain (published 1895)",
+      "summary": {
+        "en": "The Louisiana rabbit trickster ties one rope to the elephant 'stuck cow' inland and one to the whale 'stuck cow' at sea, beats his drum, and sets the two titans hauling each other through mud and surf — then, when they compare notes, disguises himself as a poisoned fawn to beg both giants into revoking their bans: eat all the grass on land, drink all the water in the sea, and never miss him again.",
+        "zh": "路易斯安那兔騙子編造『陷泥之牛』，把一根繩繫給陸上的象、一根繫給海中的鯨，鼓聲一響，兩位巨獸隔泥隔浪互拖不休。事敗之後，他假扮中毒的小鹿討得雙方撤禁——陸上牧草任食，海中清水任飲——二獸還叮嚀相遇者千萬手下留情。"
+      },
+      "motifs": [
+        "trickster",
+        "culture-hero",
+        "world-renewal"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Louisiana Creole animal tale; Fortier notes African origin of the elephant-whale motif. Cross-ref: afroatlantic-elephant-whale-tug (Bahamas, same cluster)."
+      },
+      "persons": [
+        "anansi",
+        "rabbit"
+      ],
+      "passages": [
+        {
+          "id": "1",
+          "text": "Compair Bouki feared the giants would hear them listening, but Compair Lapin said he was more cunning than they, and would fix them. He went to get a very long and strong rope, hid his drum in the grass, and went to the elephant: 'Mister, you who are so good and so strong, render me a service; you would relieve me of a great trouble.' The elephant was glad to hear such a fine compliment and promised to help. 'I have a cow stuck in the mud on the coast; take this rope in your trunk, I shall tie it to the cow, and when you hear me beat the drum, pull hard on the rope, because the cow is stuck deep in the mud.' — 'All right,' said the elephant; 'I guarantee I shall pull the cow out, or the rope will break.'",
+          "note": "Paraphrase of Fortier, Louisiana Folk-Tales, tale I (1895); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Compair Lapin took the other end of the rope and ran towards the sea, paid a pretty compliment to the whale, and asked the same service about the cow stuck in a bayou in the woods. Compair Lapin's mouth was so honeyed that no one could refuse him anything. The whale took hold of the rope: 'When I shall hear the drum beat I shall pull.' — 'Begin pulling gently, and then more and more.' — 'You need not be afraid; I shall pull out the cow even if the Devil were holding her.' He beat his drum. The elephant pulled so hard the rope was like a bar of iron; the whale, on her side, pulled and pulled, and yet came nearer to the land, and when she saw that she was mounting on land she beat her tail furiously and plunged headlong into the sea — the shock dragged the elephant to the sea, who knelt with his front feet in the mud, twisted the rope round his trunk, and pulled the whale again to the shore. Each had been pulling the other, and neither had been pulling any cow.",
+          "note": "Paraphrase of Fortier, tale I, middle (1895); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "'Lapin told me the same thing. I believe he is making fun of us.' — 'He must pay for that: I forbid him to eat a blade of grass on land because he laughed at us.' — 'And I will not allow him to drink a drop of water in the sea; we must watch for him, and the first one that sees him must not miss him.' Compair Lapin, who was listening, told Bouki it was time to leave; but he was not through with them yet. Soon he came by disguised in the skin of a little fawn dogs had killed, poisoned by Compair Lapin's curse for eating grass; the terrified elephant revoked his ban — tell Compair Lapin he is my best friend, let him eat all the grass he wants — and the fawn carried the same tale to the whale, who lifted her tail and asked Lapin to drink all the water he wanted and never be troubled again. 'You see I am smarter than they, and can fool them all the time,' said Lapin to Bouki.",
+          "note": "Paraphrase of Fortier, tale I, ending (1895); not verbatim."
+        }
+      ]
+    },
+    {
+      "id": "afroatlantic-lapin-earthworm-devil",
+      "title": {
+        "en": "Compair Lapin and the Earthworm: the Devil's Gift",
+        "zh": "兔大哥與蚯蚓：魔鬼的饋贈"
+      },
+      "tradition": "afroatlantic",
+      "category": "myth-religion",
+      "region": {
+        "en": "Louisiana bayou country, USA",
+        "zh": "美國路易斯安那沼澤地"
+      },
+      "lat": 30.2,
+      "lon": -90.1,
+      "period": "Louisiana Creole oral tradition; collected 1877-1888; published 1895",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Alcee Fortier, 'Louisiana Folk-Tales' (1895), tale III 'Compair Lapin and the Earthworm' (English translation by Mrs. M. L. T. Fortier)",
+        "url": "https://archive.org/download/louisianafolkta00fortgoog/louisianafolkta00fortgoog_djvu.txt"
+      },
+      "license": "Public domain (published 1895)",
+      "summary": {
+        "en": "The helpless earthworm cries for strength and belongs to the Devil from the day of death; made suddenly huge, his hole deep as a well, he terrifies Compair Lapin — who has boasted he could beat the elephant and is scheduled to prove it. The rabbit sets up a duel between his two fears, coaching the worm to hide in the dust before the elephant's arrival, and the collision of giants settles both accounts at once.",
+        "zh": "無助的蚯蚓哭求力量，從此死後歸於魔鬼；變得巨大、穴深如井，嚇壞了誇口能勝大象的兔大哥。兔仔設下二懼相鬥之局，教蚯蚓藏身塵土伏擊大象——兩強相撞，一筆帳兩頭清。"
+      },
+      "motifs": [
+        "taboo-transgression",
+        "boon-curse",
+        "trickster",
+        "pride-punished",
+        "combat-ordeal"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Louisiana Creole animal tale (devil's-bargain type). Collected by Fortier."
+      },
+      "persons": [
+        "anansi",
+        "rabbit"
+      ],
+      "passages": [
+        {
+          "id": "1",
+          "text": "It was a day in spring; the little birds were singing, the butterflies flying from one flower to another, and it seemed as if all the animals were rendering thanks to God for his kindness. A little earthworm was the only one crying and complaining — he was so small, had neither feet, nor hands, nor wings, and was obliged to remain in his hole; the little birds, the lizards, and even the ants troubled him and ate his little ones. If God would make him big and strong like other animals he would be contented, because he could defend himself; as it was, he was helpless in his hole. He cried and cried and said he would be glad if he belonged to the Devil — and hardly had he spoken when he saw the Devil at his side.",
+          "note": "Paraphrase of Fortier, tale III (1895); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "'Well, I heard all you said; tell me what you want; I shall grant it, and you will belong to me when you die.' — 'I want strength, to become big, big, and beat everybody who comes to trouble me.' — 'That is all right; let me go, in a short while you will be contented.' As soon as the Devil had gone, the worm found himself strong and big; his hole became large and as deep as a well, and he began to laugh and sing. At that very moment Lapin passed by and was terribly frightened: he ran until he could go no farther — 'Never was I more frightened; I shall never sleep again while that big earthworm remains in this country!' But he had boasted he could beat the elephant, and Bouki had told on him; so he set his two fears to fight each other, and hoped to get rid of both at the same time.",
+          "note": "Paraphrase of Fortier, tale III, middle (1895); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "He went until he met the elephant, bowed politely, and let fall that another time he would come to try his strength — he thought he could beat him. 'You are a fool; go away, I don't want to harm you; I take pity on you.' But Lapin made him take the wager, and led the giant toward the worm's deep well of a hole, where the ground had been laid with a soft dust that could swallow a giant stepping wrong — and the elephant, thrown by the earthworm's ambush, never troubled the rabbit's boasting again.",
+          "note": "Paraphrase of Fortier, tale III, ending (1895); not verbatim."
+        }
+      ]
+    },
+    {
+      "id": "afroatlantic-lapin-lours-dinner",
+      "title": {
+        "en": "Compair Lapin and Compair l'Ours: the Crying Excuses",
+        "zh": "兔大哥與熊大哥：哭喪的藉口"
+      },
+      "tradition": "afroatlantic",
+      "category": "myth-religion",
+      "region": {
+        "en": "Louisiana bayou country, USA",
+        "zh": "美國路易斯安那沼澤地"
+      },
+      "lat": 30.2,
+      "lon": -90.1,
+      "period": "Louisiana Creole oral tradition; collected 1877-1888; published 1895",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Alcee Fortier, 'Louisiana Folk-Tales' (1895), tale IV 'Compair Lapin and Compair l'Ours' (English translation by Mrs. M. L. T. Fortier)",
+        "url": "https://archive.org/download/louisianafolkta00fortgoog/louisianafolkta00fortgoog_djvu.txt"
+      },
+      "license": "Public domain (published 1895)",
+      "summary": {
+        "en": "Invited to help break corn before dinner, Lapin pricks up his long ears all day at 'calls from home' — a wife sickening, worsening, and at last 'all is finished' — while actually eating l'Ours's provisions house by house. The plank-test of guilt catches the thief vomiting in the sun, and the rabbit converts his own hanging into a rope-through-the-wall trick, crying loudly until the hangers think him dead — 'you see I am smarter than you, and I thank you for the good dinner I had at your house.'",
+        "zh": "兔大哥受邀破玉米備宴，整天以『家中呼喚』豎起長耳——妻子病了、病重、終於『完了』——實則一戶戶吃空熊家的儲備。曬板驗賊計擒出日下嘔吐的真兇；兔仔卻把絞刑改成穿牆拉繩的戲法，哭聲由響至微，令行刑者以為人已斃氣——『我比你們機靈，謝謝你家那頓好飯。』"
+      },
+      "motifs": [
+        "trickster",
+        "taboo-transgression",
+        "conversion"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Louisiana Creole animal tale. Collected by Fortier."
+      },
+      "persons": [
+        "anansi",
+        "rabbit"
+      ],
+      "passages": [
+        {
+          "id": "1",
+          "text": "One day Compair l'Ours invited Compair Lapin and Compair Bouki to dine with him, telling them he had bought butter, cheese and biscuits — but before dinner they must come and help him break some corn for his horse. They accepted and went into the field before daybreak. At nine o'clock Compair Lapin pricked up his ears: 'I never saw anything so annoying as the people at my house; they are calling me and disturbing me in my work.' — 'I don't hear anything,' said Compair l'Ours. — 'It is because you and Bouki have such small ears. My ears are so long that I hear miles away.'",
+          "note": "Paraphrase of Fortier, tale IV (1895); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "He went away and came back saying it was his wife who was beginning to be sick; he did the same thing three times during the day — at noon his wife was in the middle of her sickness, at three o'clock he came back very sad and said merely, 'All is finished.' The two pitied him, thinking his wife dead; instead, each time he had said he was going to his wife's house, he went to the house of Compair l'Ours and ate a little of his provisions — and when he said 'It is finished', he had finished eating all.",
+          "note": "Paraphrase of Fortier, tale IV, middle (1895); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "At five o'clock the three friends left their work and went to the house of Compair l'Ours; all his provisions had disappeared, and he accused Lapin, who swore it was not he. 'I shall know right off: all three of us will lie down on that plank in the water in the sun, and the thief will surely be sick.' Lapin was not pleased to find it was the stage of a boat, where he could not get into l'Ours's shadow — no sooner were they down than he felt very sick in the water and sun and threw up all he had eaten. Caught, he proposed the merciful rope-through-the-wall hanging, crying while they pulled — until the cry grew so faint the hangers went to see the other side of the wall and found only the dust he was making, and his voice saying, 'You see I am smarter than you, and I thank you for the good dinner I had at your house.'",
+          "note": "Paraphrase of Fortier, tale IV, ending (1895); not verbatim."
+        }
+      ]
+    },
+    {
+      "id": "afroatlantic-carencro-bald",
+      "title": {
+        "en": "Why the Buzzard Is Bald",
+        "zh": "兀鷲何以禿頂（路易斯安那版）"
+      },
+      "tradition": "afroatlantic",
+      "category": "myth-religion",
+      "region": {
+        "en": "Louisiana bayou country, USA",
+        "zh": "美國路易斯安那沼澤地"
+      },
+      "lat": 30.2,
+      "lon": -90.1,
+      "period": "Louisiana Creole oral tradition; collected 1877-1888; published 1895",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Alcee Fortier, 'Louisiana Folk-Tales' (1895), tale VI 'Compair Lapin and Madame Carencro' (English translation by Mrs. M. L. T. Fortier)",
+        "url": "https://archive.org/download/louisianafolkta00fortgoog/louisianafolkta00fortgoog_djvu.txt"
+      },
+      "license": "Public domain (published 1895)",
+      "summary": {
+        "en": "The starving buzzard wife walls the fat rabbit into his oak-hole to eat 'the flesh on your bones' — and, thinking him smothered, unbricks the hole to climb in and claim her dinner. The rabbit makes one jump and gets out; days later, when Madame Carencro walks out with her newly hatched brood, he pours a tin pan of burning embers and hot ashes over them — thick feathers shake them off, but not before the head feathers burn to the skin: which is why the buzzards are bald, and never eat the bones of rabbits.",
+        "zh": "飢餓的兀鷲太太用苔與磚把肥兔子封在橡樹洞裡，要吃『你骨頭上的肉』——聽不到動靜，以為兔子已悶死，便拆封下洞來收晚餐；兔子縱身一躍出洞而逃。數日後，她帶著剛出殼的孩子們散步經過，兔仔傾下一鐵盤炭火灰燼——厚羽抖得掉，頭頂的羽毛卻燒到了皮：兀鷲從此禿頂，也不再吃兔骨。"
+      },
+      "motifs": [
+        "trickster",
+        "taboo-transgression",
+        "forbidden-food"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Etiological bird tale (parallel to Jamaican John-crow bald-head versions). Collected by Fortier."
+      },
+      "persons": [
+        "anansi",
+        "rabbit"
+      ],
+      "passages": [
+        {
+          "id": "1",
+          "text": "Once upon a time Madame Carencro was setting upon her nest on an oak-tree. Her husband was a good-for-nothing fellow and she was always starving. At the foot of the tree there was a big hole in which a rabbit dwelt; Compair Lapin was large and fat, and every time Madame Carencro saw him she wished to eat him. One day, while Compair Lapin was sleeping, she took some moss and bricks and closed the hole, so that he could not get out and would die of hunger.",
+          "note": "Paraphrase of Fortier, tale VI (1895); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "When Compair Lapin woke and found himself shut up he begged Madame Carencro to let him out, but she replied each time, 'I am hungry and I must eat the flesh on your bones.' When begging was useless he stopped speaking; and Madame Carencro, so glad she had caught Compair Lapin that she licked her lips at the good dinner, hearing no movement thought he was dead, smothered, and took away the moss and bricks. She began to go down the opening — and Compair Lapin made one jump and got out. 'You see, it is you who are caught, and not I.'",
+          "note": "Paraphrase of Fortier, tale VI, middle (1895); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "He ran to the house of one of his friends, afraid to go back to the oak-tree near Madame Carencro. Some days later, Madame Carencro — who had forgotten Compair Lapin — went to take a walk with her children, all just come out of their shells. Compair Lapin ran into the kitchen, took a large tin pan full of burning embers and hot ashes, and when the mother and brood passed near the gallery he threw down on them all he had in the pan, to burn them. But you know that buzzards have thick feathers except on the top of their heads; they shook off the embers and ashes, but not quickly enough to keep the feathers on their heads from burning down to the skin. This is why the buzzards are bald, and never eat the bones of rabbits.",
+          "note": "Paraphrase of Fortier, tale VI, ending (1895); not verbatim."
+        }
+      ]
+    },
+    {
+      "id": "afroatlantic-monkey-bridegroom",
+      "title": {
+        "en": "Mr. Monkey, the Bridegroom",
+        "zh": "猴先生的新婚夜"
+      },
+      "tradition": "afroatlantic",
+      "category": "myth-religion",
+      "region": {
+        "en": "Louisiana bayou country, USA",
+        "zh": "美國路易斯安那沼澤地"
+      },
+      "lat": 30.2,
+      "lon": -90.1,
+      "period": "Louisiana Creole oral tradition; collected 1877-1888; published 1895",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Alcee Fortier, 'Louisiana Folk-Tales' (1895), tale IX 'Mr. Monkey, the Bridegroom' (English translation by Mrs. M. L. T. Fortier)",
+        "url": "https://archive.org/download/louisianafolkta00fortgoog/louisianafolkta00fortgoog_djvu.txt"
+      },
+      "license": "Public domain (published 1895)",
+      "summary": {
+        "en": "A monkey in love with a beautiful girl dresses as a man and courts his way to a wedding; his best friend, jealous at the supper, sings the tune that makes all monkeys dance — and the bridegroom cannot help himself: he leaps about until the tail breaks loose and every guest sees what he is. The father beats him dreadfully; the friend runs off dancing and singing.",
+        "zh": "戀上美麗姑娘的猴子男裝求婚，一路成婚；婚宴上妒火中燒的摯友唱起令猴群起舞的調子——新郎身不由己地跳起來，越跳越狂，尾巴破衣而出，滿堂賓客都看清了他的本相。岳父痛打一頓；搗亂的朋友載歌載舞而去。"
+      },
+      "motifs": [
+        "transformation",
+        "trickster",
+        "taboo-transgression",
+        "monkey-trickster",
+        "jealousy"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Animal-bridegroom exposure tale (parallel to Beckwith's Monkey variants). Collected by Fortier."
+      },
+      "persons": [
+        "anansi",
+        "rabbit"
+      ],
+      "passages": [
+        {
+          "id": "1",
+          "text": "There was a monkey which fell in love with a beautiful young girl. He dressed as a man and went to call on her, and was so well received that one day he took his best friend with him to see his lady-love. The young girl's father asked Mr. Monkey's friend some questions about his daughter's lover; the friend said Mr. Monkey was good and rich, but there was a secret about him — which he would tell another day. Mr. Monkey was finally engaged to the young lady.",
+          "note": "Paraphrase of Fortier, tale IX (1895); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "On the night of the wedding he invited his friend to the supper; the latter, jealous of Mr. Monkey, began at the end of the supper to sing — a song that made all monkeys dance. The bridegroom begged his friend to stop, beckoning him with his eyes; he continued, however, to sing, and all at once Mr. Monkey got up and began to dance. He jumped about so wildly that his tail came out of his clothes, and every one saw that he was a monkey. The father understood the secret and beat him dreadfully; his friend, however, ran off dancing and singing.",
+          "note": "Paraphrase of Fortier, tale IX, ending (1895); not verbatim."
+        }
+      ]
+    },
+    {
+      "id": "afroatlantic-tortoise-escape",
+      "title": {
+        "en": "The Tortoise and the Flat Stone",
+        "zh": "龜與平石"
+      },
+      "tradition": "afroatlantic",
+      "category": "myth-religion",
+      "region": {
+        "en": "Louisiana bayou country, USA",
+        "zh": "美國路易斯安那沼澤地"
+      },
+      "lat": 30.2,
+      "lon": -90.1,
+      "period": "Louisiana Creole oral tradition; collected 1877-1888; published 2024 (published 1895)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Alcee Fortier, 'Louisiana Folk-Tales' (1895), tale X 'The Tortoise' (English translation by Mrs. M. L. T. Fortier)",
+        "url": "https://archive.org/download/louisianafolkta00fortgoog/louisianafolkta00fortgoog_djvu.txt"
+      },
+      "license": "Public domain (published 1895)",
+      "summary": {
+        "en": "Caged for the master's dinner party, the tortoise whistles, dances, and sings her way through the delighted child's escalations — open the cage, put me on the floor, take me to the bayou — and vanishes into the water with the lesson: 'Learn not to trust people whom you do not know.' The terrified boy substitutes a flat stone in the cage; the cook boils it, the master attacks it with every knife in the house and breaks the table, and to this day cannot understand how his tortoise was changed into a stone.",
+        "zh": "被囚待宴的龜以口哨、舞步與歌聲一路哄騙欣喜的孩子——開籠、放地、帶到水塘邊——倏然沒水而逝，留下教訓：『莫輕信不相識之人。』孩子懼父，以平石代之入籠；廚娘煮之不爛，主人刀斧齊下、掀翻餐桌，龜巋然不動——至今他仍不明白自己的龜如何變成了一塊石頭。"
+      },
+      "motifs": [
+        "trickster",
+        "transformation",
+        "tortoise-trickster",
+        "petrification"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Escape-by-flattery animal tale. Collected by Fortier."
+      },
+      "persons": [
+        "anansi",
+        "rabbit"
+      ],
+      "passages": [
+        {
+          "id": "1",
+          "text": "A gentleman living on the banks of a bayou caught a large tortoise and went to invite some friends to take dinner with him. His little boy, in his absence, went to the cage where the tortoise was, and the latter began to whistle. 'How well you whistle!' — 'Oh, that is nothing; open the cage and you will see.' The boy opened the cage, and the tortoise whistled better than ever; 'put me down on the floor and you will see' — and she danced and sang. 'How well you dance and sing!' — 'Put me on the bank of the bayou and you will see.' The boy took her to the bayou, and the tortoise danced and sang; all at once she disappeared in the water, and the boy began to cry. The tortoise rose in the middle of the bayou and said, 'Learn not to trust, hereafter, people whom you do not know.'",
+          "note": "Paraphrase of Fortier, tale X (1895); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "The boy was afraid of his father and put a large flat stone into the cage. The cook, thinking it was the tortoise, put the stone into the kettle, and was astonished to see it remain hard so long; she called her master's attention to it. He ordered the tortoise to be put upon the table and took his table-knife to cut it — in vain; the carving-knife — in vain; the hatchet — in vain; the axe — he broke the dishes and the table, but the tortoise remained intact. He then saw it was a stone, and to this day he has not understood how his tortoise was changed into a stone.",
+          "note": "Paraphrase of Fortier, tale X, ending (1895); not verbatim."
+        }
+      ]
+    },
+    {
+      "id": "afroatlantic-mockingbird-suitor",
+      "title": {
+        "en": "Miss Mockingbird and the Fasting Suitors",
+        "zh": "嘲鶇小姐與絕食求婚者"
+      },
+      "tradition": "afroatlantic",
+      "category": "myth-religion",
+      "region": {
+        "en": "Louisiana bayou country, USA",
+        "zh": "美國路易斯安那沼澤地"
+      },
+      "lat": 30.2,
+      "lon": -90.1,
+      "period": "Louisiana Creole oral tradition; collected 1877-1888; published 1895",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Alcee Fortier, 'Louisiana Folk-Tales' (1895), tale XIV 'Miss Mockingbird, Mr. Mockingbird, and Mr. Owl' (English translation by Mrs. M. L. T. Fortier)",
+        "url": "https://archive.org/download/louisianafolkta00fortgoog/louisianafolkta00fortgoog_djvu.txt"
+      },
+      "license": "Public domain (published 1895)",
+      "summary": {
+        "en": "The fasting contest decides the marriage — she on the ground, the suitors in the tree — and the mockingbird wins it by fraud, flying down for a kiss and a beakful of food at every descent. The honest Owl, singing weaker and weaker from hunger, is refused and finally slapped to the ground; he dies of hunger, and Mr. Mockingbird flies away with his bride.",
+        "zh": "絕食之賽定婚約——她在樹下、求婚者在樹上——嘲鶇以詐取勝：每次俯衝『求吻』都討得一嘴吃食。誠實的貓頭鷹餓得歌聲愈來愈弱，屢遭拒絕，最後被一掌擊落，餓死樹下；嘲鶇先生便攜新娘飛走了。"
+      },
+      "motifs": [
+        "trickster",
+        "quest-immortality",
+        "fasting"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Courtship-contest bird tale. Collected by Fortier."
+      },
+      "persons": [
+        "anansi",
+        "rabbit"
+      ],
+      "passages": [
+        {
+          "id": "1",
+          "text": "Once upon a time the Mockingbird and the Owl were courting Miss Mockingbird. She said to them, 'Well, I shall marry the one who remains the longer without eating. I shall remain under the tree and you upon it.' The mockingbird looked at his lady-love and flew down to her, singing his song; when he reached her, he did as if he wanted to kiss her, and she gave him some food which she had in her beak. Mr. Mockingbird flew back to his tree.",
+          "note": "Paraphrase of Fortier, tale XIV (1895); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "The Owl in his turn flew towards his lady-love and sang his own song; he wished to kiss Miss Mockingbird, but she turned her head aside and said, 'Go away; your wings hurt me.' The poor Owl had nothing to eat, while every day the mockingbird flew down and, kissing the young lady, got something to eat. The Owl came down also from the tree, but he was beginning to be very hungry, and his voice was very weak when he sang. Miss Mockingbird did not want to look at him or give him anything to eat, and he had to go back to his tree with an empty stomach.",
+          "note": "Paraphrase of Fortier, tale XIV, middle (1895); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "Mr. Mockingbird, on the contrary, grew more boastful every day and sang in a loud voice; the poor Owl was dying of hunger, and one could hardly hear his song. He tried to kiss Miss Mockingbird, but she said, 'Go away; your large wings hurt me,' and gave him a slap which threw him down. He was so weak from hunger that he died, and Mr. Mockingbird flew away with his bride.",
+          "note": "Paraphrase of Fortier, tale XIV, ending (1895); not verbatim."
+        }
+      ]
+    },
+    {
+      "id": "afroatlantic-king-peacock",
+      "title": {
+        "en": "King Peacock",
+        "zh": "孔雀王"
+      },
+      "tradition": "afroatlantic",
+      "category": "myth-religion",
+      "region": {
+        "en": "Louisiana bayou country, USA",
+        "zh": "美國路易斯安那沼澤地"
+      },
+      "lat": 30.2,
+      "lon": -90.1,
+      "period": "Louisiana Creole oral tradition; collected 1877-1888; published 2024 (published 1895)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Alcee Fortier, 'Louisiana Folk-Tales' (1895), tale XVI 'King Peacock' (English translation by Mrs. M. L. T. Fortier)",
+        "url": "https://archive.org/download/louisianafolkta00fortgoog/louisianafolkta00fortgoog_djvu.txt"
+      },
+      "license": "Public domain (published 1895)",
+      "summary": {
+        "en": "The beauty who refuses every suitor is cursed by the scorned man in the golden carriage: within a year she will bear a daughter much, much prettier than herself — and when it comes true she locks the child away and orders the nurse to kill her. The nurse cannot; she gives three seeds and sends the girl to the well, one seed swallowed so she will not suffer — and the girl goes gladly, 'if my mother wants it so', to drown, and to whatever comes after.",
+        "zh": "拒絕所有求婚者的美人，被金車中的憤然男子詛咒：一年之內將生下遠比自己美麗的女兒。詛咒應驗，她把女孩鎖進深屋，命奶媽行刑；奶媽下不了手，給她三粒種子送她去井邊——吞下一粒便不覺痛苦。女孩柔順地應允：『若母親要這樣，那就殺了我吧』——投井而去。"
+      },
+      "motifs": [
+        "taboo-transgression",
+        "boon-curse",
+        "miraculous-birth"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Fairy-tale (Marchen) with infanticide frame; collected by Fortier as Creole oral narrative."
+      },
+      "persons": [
+        "anansi"
+      ],
+      "passages": [
+        {
+          "id": "1",
+          "text": "There was once a lady so pretty that she never wanted to marry; she found something to criticise in all the suitors — 'Oh, you are too ugly'; 'You are too small'; 'You have too large a mouth.' One day a fine man came, in a golden carriage drawn by eight horses, and asked the lady to marry him; she refused. He fell into a passion and told her that in one year she would have a daughter much, much prettier than herself; the lady sent him away with scorn.",
+          "note": "Paraphrase of Fortier, tale XVI (1895); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "A year later she had a pretty little girl; seeing the child was so pretty, she shut her up in a room at the further end of the house with a nurse, who never allowed her to leave or even to look through the window. One day, while the old woman was sweeping the floor, she left the door open, and the young girl saw a large bird: 'Nurse, how do you call that bird which is so pretty?' — 'That is a peacock.' — 'If ever I marry, I want to marry King Peacock.' — 'May God hear you, my child.' That very day the mother called the nurse into a corner, drew from under her skirt a great knife, and said, 'I want you to kill my child; she has become prettier than I.'",
+          "note": "Paraphrase of Fortier, tale XVI, middle (1895); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "The nurse began to cry and begged the lady to spare the child, but all in vain; that black heart could not be softened. When night came the nurse said to the girl, 'My poor child, I have to kill you; your mother wants you to die.' — 'Well, kill me, nurse, if my mother wants it to be so.' — 'No, I have not the heart to do any such thing, my little one. Here, take these three seeds; throw yourself in the well and drown yourself, but before jumping in, swallow one of these seeds and you will not suffer at all.' The girl thanked the nurse and went to drown herself; she walked until she arrived at a large well, and threw herself into it.",
+          "note": "Paraphrase of Fortier, tale XVI, ending (1895); not verbatim."
+        }
+      ]
+    },
+    {
+      "id": "afroatlantic-singing-bones",
+      "title": {
+        "en": "The Singing Bones",
+        "zh": "會唱歌的骨頭"
+      },
+      "tradition": "afroatlantic",
+      "category": "myth-religion",
+      "region": {
+        "en": "Louisiana bayou country, USA",
+        "zh": "美國路易斯安那沼澤地"
+      },
+      "lat": 30.2,
+      "lon": -90.1,
+      "period": "Louisiana Creole oral tradition; collected 1877-1888; published 1895",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Alcee Fortier, 'Louisiana Folk-Tales' (1895), tale XVII 'The Singing Bones' (English translation by Mrs. M. L. T. Fortier)",
+        "url": "https://archive.org/download/louisianafolkta00fortgoog/louisianafolkta00fortgoog_djvu.txt"
+      },
+      "license": "Public domain (published 1895)",
+      "summary": {
+        "en": "A good husband, a wicked wife, twenty-five children — and every dinner served boneless. Ten children go 'to grandmother's for the change of air', one a day, until the counting finds fifteen; at the threshold the great stone begins to sing — 'Our mother killed us, our father ate us; we are not in a coffin, we are not in the cemetery' — and the lifted bones tell all. He kills his wife, buries his children's bones in the cemetery, and never eats meat again, believing it would always be his children he was eating.",
+        "zh": "善良的丈夫、邪惡的妻子、二十五個孩子——每餐的肉都不帶骨。孩子們一天一個『去外婆家換空氣』，直到點數只剩十五。門檻前的大石唱起歌來——『媽媽殺了我們，爸爸吃了我們；我們不在棺材裡，我們不在墓園裡』——掀開石板，白骨泣訴一切。他殺妻葬骨，從此終身不再食肉，唯恐吃的又是自己的孩子。"
+      },
+      "motifs": [
+        "taboo-transgression",
+        "prophetic-vision",
+        "origin-of-death",
+        "forbidden-food"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Singing-bone revenge tale (ATU 780 type) in Creole telling. Collected by Fortier."
+      },
+      "persons": [
+        "anansi"
+      ],
+      "passages": [
+        {
+          "id": "1",
+          "text": "Once upon a time there lived a man and a woman who had twenty-five children. They were very poor; the man was good, the woman was bad. Every day when the husband returned from his work the wife served his dinner, but always meat without bones. 'How is it that this meat has no bones?' — 'Because bones are heavy, and meat is cheaper without bones; they give more for the money.' The husband ate and said nothing; when asked why he did not eat meat, she answered that he had forgotten he had no teeth — and he said nothing more, because he was afraid to grieve his wife, who was as wicked as she was ugly.",
+          "note": "Paraphrase of Fortier, tale XVII (1895); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "When one has twenty-five children one cannot think of them all the time, and one does not see if one or two are missing. One day, after his dinner, the husband asked for his children; he counted them and found only fifteen. His wife answered that the others were at their grandmother's, and every day she would send one more for them to get a change of air — and that was true: every day there was one that was missing.",
+          "note": "Paraphrase of Fortier, tale XVII, middle (1895); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "One day the husband was at the threshold of his house, in front of a large stone, thinking of his children and wanting to go and get them at their grandmother's, when he heard voices saying: 'Our mother killed us, our father ate us. We are not in a coffin, we are not in the cemetery.' At first he did not understand what it meant; but he raised the stone and saw a great quantity of bones, which began to sing again. He then understood it was the bones of his children, whom his wife had killed and whom he had eaten. He was so angry that he killed his wife, buried his children's bones in the cemetery, and stayed alone at his house — and from that time he never ate meat, because he believed it would always be his children that he would eat.",
+          "note": "Paraphrase of Fortier, tale XVII, ending (1895); not verbatim."
+        }
+      ]
+    },
+    {
+      "id": "afroatlantic-little-finger",
+      "title": {
+        "en": "The Little Finger: Manga's Story of the Middle Passage",
+        "zh": "小指頭：曼加的中段航道敘事"
+      },
+      "tradition": "afroatlantic",
+      "category": "myth-religion",
+      "region": {
+        "en": "Louisiana plantation country, USA (symbolic pin: Mississippi River plantation)",
+        "zh": "美國路易斯安那種植園地帶（象徵定位：密西西比河種植園）"
+      },
+      "lat": 30.0,
+      "lon": -90.6,
+      "period": "Louisiana Creole oral tradition; collected 1877-1888; published 1895",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Alcee Fortier, 'Louisiana Folk-Tales' (1895), tale XX 'The Little Finger' (told by a formerly enslaved woman about her grandmother Manga; English translation by Mrs. M. L. T. Fortier)",
+        "url": "https://archive.org/download/louisianafolkta00fortgoog/louisianafolkta00fortgoog_djvu.txt"
+      },
+      "license": "Public domain (published 1895)",
+      "summary": {
+        "en": "Told by a formerly enslaved narrator about her grandmother Manga: sold for a red handkerchief or a bottle of tafia, tied two by two to the ships, terrified that the captives boarding were to be drowned. Bought to nurse the beautiful boy Florimond, she loves him — and when the jealous stranger tries to buy her silence with threats of cutting her tongue and sewing her in a sack for the sea, she says nothing, all day long, though they torture her; only the little finger that escaped the sack keeps moving, as if to call someone.",
+        "zh": "由一位曾為奴的敘述者講述祖母曼加的往事：以紅手帕或一瓶塔菲亞酒的價格被賣、兩兩相縛押上船，見同伴登船時只怕是要被沉海。被買去照料俊美的男孩弗洛里蒙，她傾心愛護；面對陌生人的威脅——割舌、縫入麻袋沉海——她整日受刑也不吐一字；唯有逃出麻袋的小指頭，至今彷彿仍在動，像在喚人。"
+      },
+      "motifs": [
+        "foundational-legend",
+        "otherworld-voyage",
+        "taboo-transgression",
+        "jealousy"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "First-person-descendant narrative of enslavement and the Middle Passage, recorded by Fortier from a named formerly enslaved teller; historical testimony framed as family legend, handled here with respect and without sensationalizing violence."
+      },
+      "persons": [
+        "anansi"
+      ],
+      "passages": [
+        {
+          "id": "1",
+          "text": "Before we came here, poor devils, we were all free; we were not obliged to work for any master. It is the whites who came into our country, Africa, to get us: they stole some of us; they bought some of us from our fathers for a red handkerchief, for a bottle of tafia, or an old gun. When we went to war, those who were caught were sold to the whites who came to trade on the seacoast. We were led away tied together, two by two; and when we reached the seacoast like a herd of cattle — men, women, and children — we were exchanged, not for money, but for any kind of merchandise, and the whites put us into ships and brought us here. This is how we became slaves in America.",
+          "note": "Paraphrase of Fortier, tale XX (1895); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "When Manga, my grandmother, arrived at the seacoast, she saw a pretty little town with small houses, and many ships that seemed to be dancing on the sea — it was the wind, you know, blowing and shaking up the sea. My poor grandmother, who was young then, was afraid when she saw they were putting all the negroes on board the ships; she thought they were going to drown them in the sea. A white man came to her and bought her from her master, took her to his house, and told her in her own language: 'I bought you to take care of my little boy.'",
+          "note": "Paraphrase of Fortier, tale XX, middle (1895); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "The little boy, Florimond, was so pretty — curly hair, blue eyes, white and rosy skin — that everybody adored him, and Manga loved him so much she would not have left him for anything in the world. When the master went away for gold-dust and elephants' teeth, a stranger came; Florimond would not look at him, and one day told his father he would tell on the stranger. 'Little black devil, if you ever open your mouth to say that here again, I will cut your tongue with my big knife, put you in a sack in my boat, and throw you into the sea for the fish to eat you.' Manga was so frightened she did not say a word, even when they tortured her all day — and the pretty little finger, which had escaped the sack, was moving as if it was making a sign to call some one.",
+          "note": "Paraphrase of Fortier, tale XX, ending (1895); not verbatim."
+        }
+      ]
+    },
+    {
+      "id": "afroatlantic-john-green-peas",
+      "title": {
+        "en": "John Green Peas and the Golden Goose",
+        "zh": "青豆約翰與金鵝"
+      },
+      "tradition": "afroatlantic",
+      "category": "myth-religion",
+      "region": {
+        "en": "Louisiana bayou country, USA",
+        "zh": "美國路易斯安那沼澤地"
+      },
+      "lat": 30.2,
+      "lon": -90.1,
+      "period": "Louisiana Creole oral tradition; collected 1877-1888; published 1895",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Alcee Fortier, 'Louisiana Folk-Tales' (1895), tale XXVI 'John Green Peas' (English translation by Mrs. M. L. T. Fortier)",
+        "url": "https://archive.org/download/louisianafolkta00fortgoog/louisianafolkta00fortgoog_djvu.txt"
+      },
+      "license": "Public domain (published 1895)",
+      "summary": {
+        "en": "Asked by the king where to hide his chickens, his geese, and his gold, the old cabin-dweller John Green Peas cons each secret into the same hiding place — everything vanishes — and when the guards come he is ready with a fiddle-playing golden goose. Sold, exposed, sacked for the river, he talks his way out of the bag with a crying-fit about refusing the king's daughter, swaps himself for a lovesick shepherd, and sends the king diving into the river after a fortune in sheep and gold.",
+        "zh": "國王接連請教藏雞、藏鵝、藏金之處，老約翰把每個秘密都導向同一個地點——於是雞鵝金幣一一消失；衛兵來捕時，他已備好一隻聞琴吐金的鵝。事敗被裝袋沉河，他卻以『不肯娶公主』的哭腔換來情癡牧羊人替死，自己牽羊而歸，並指點國王：河底還有金子——愚王跳水而亡。"
+      },
+      "motifs": [
+        "trickster",
+        "quest-immortality",
+        "boon-curse",
+        "wounded-king"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Creole trickster-tale (grateful-animal/fortune-seeker type). Collected by Fortier."
+      },
+      "persons": [
+        "anansi"
+      ],
+      "passages": [
+        {
+          "id": "1",
+          "text": "An old negro, called John Green Peas, lived in a cabin by the king's palace. As all the chickens of the king were being stolen he wanted to save his geese, and asked John to tell him where to put them; John was delighted, and the geese disappeared in the same way as the chickens. The king asked John to tell him where to put his money, and John told him to put his gold where he had put the geese — the gold disappeared also. The neighbors then convinced the king that John was the robber, and the king went with his guards to arrest the old man.",
+          "note": "Paraphrase of Fortier, tale XXVI (1895); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "John knew what was going on, and placed on his table a goose with gold coin under its wings; when the king arrived, John showed him the goose and told him that whenever he needed money the goose would give him some, if he played on the fiddle. The king bought the goose; but when he saw how John had deceived him, he had him put into a bag to be thrown into the river. The men who were carrying the bag got drunk and left John for some time in the road.",
+          "note": "Paraphrase of Fortier, tale XXVI, middle (1895); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "He heard a shepherd coming with his flock, and began crying that he would not marry the king's daughter. The shepherd took John's place in the bag, in order to marry the king's daughter, and the old man went away with the sheep. The king met John, and the latter told him that he had found the sheep and the gold at the bottom of the river; the king threw himself into the river and was drowned. Poor simple king, to leave a palace to jump into the river.",
+          "note": "Paraphrase of Fortier, tale XXVI, ending (1895); not verbatim."
+        }
+      ]
+    }
+  ]
+}

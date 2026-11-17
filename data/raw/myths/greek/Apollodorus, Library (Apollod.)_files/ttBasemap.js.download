@@ -1,0 +1,136 @@
+(function (window, document) {
+	var STYLE_URL = "https://tiles.openfreemap.org/styles/liberty";
+	var MAPLIBRE_CSS = "https://unpkg.com/maplibre-gl@4.7.1/dist/maplibre-gl.css";
+	var MAPLIBRE_JS = "https://unpkg.com/maplibre-gl@4.7.1/dist/maplibre-gl.js";
+	var MAPLIBRE_LEAFLET = "https://unpkg.com/@maplibre/maplibre-gl-leaflet@0.0.22/leaflet-maplibre-gl.js";
+	var ESRI_TILES = "https://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/{z}/{y}/{x}";
+
+	var englishLabelField = [
+		"coalesce",
+		["get", "name_en"],
+		["get", "name:en"],
+		["get", "name:latin"],
+		["get", "name"]
+	];
+
+	function preferEnglishLabels(style) {
+		var layers = style.layers || [];
+		for (var i = 0; i < layers.length; i++) {
+			var layer = layers[i];
+			if (!layer.layout || !layer.layout["text-field"]) {
+				continue;
+			}
+			var textField = layer.layout["text-field"];
+			var serialized = JSON.stringify(textField);
+			if (serialized === JSON.stringify(["to-string", ["get", "ref"]])) {
+				continue;
+			}
+			if (typeof textField === "string" && textField.indexOf("{ref}") !== -1) {
+				continue;
+			}
+			layer.layout["text-field"] = englishLabelField;
+		}
+		return style;
+	}
+
+	function addFallbackRaster(map) {
+		L.tileLayer(ESRI_TILES, {
+			maxZoom: 19,
+			attribution: "Tiles © Esri — Source: Esri, DeLorme, NAVTEQ, USGS, Intermap, increment P Corp., NRCAN, Esri Japan, METI, Esri China (Hong Kong), Esri (Thailand), TomTom"
+		}).addTo(map);
+	}
+
+	function addOpenFreeMap(map) {
+		fetch(STYLE_URL)
+			.then(function (response) {
+				if (!response.ok) {
+					throw new Error("style fetch failed");
+				}
+				return response.json();
+			})
+			.then(function (style) {
+				preferEnglishLabels(style);
+				L.maplibreGL({
+					style: style,
+					attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> &copy; <a href="https://openfreemap.org">OpenFreeMap</a>'
+				}).addTo(map);
+			})
+			.catch(function () {
+				addFallbackRaster(map);
+			});
+	}
+
+	function loadCss(href) {
+		if (document.querySelector('link[href="' + href + '"]')) {
+			return;
+		}
+		var link = document.createElement("link");
+		link.rel = "stylesheet";
+		link.href = href;
+		document.head.appendChild(link);
+	}
+
+	function loadScript(src) {
+		return new Promise(function (resolve, reject) {
+			if (document.querySelector('script[src="' + src + '"]')) {
+				resolve();
+				return;
+			}
+			var script = document.createElement("script");
+			script.src = src;
+			script.onload = resolve;
+			script.onerror = reject;
+			document.head.appendChild(script);
+		});
+	}
+
+	window.addToposTextBasemap = function (map) {
+		if (typeof L === "undefined") {
+			return;
+		}
+		if (map.options.maxZoom == null) {
+			map.options.maxZoom = 18;
+		}
+		if (L.maplibreGL) {
+			addOpenFreeMap(map);
+			return;
+		}
+		loadCss(MAPLIBRE_CSS);
+		loadScript(MAPLIBRE_JS)
+			.then(function () {
+				return loadScript(MAPLIBRE_LEAFLET);
+			})
+			.then(function () {
+				addOpenFreeMap(map);
+			})
+			.catch(function () {
+				addFallbackRaster(map);
+			});
+	};
+
+	window.zoomForFeatureTypes = window.zoomForFeatureTypes || function (featureTypes) {
+		var raw = (featureTypes || "").toLowerCase();
+		if (raw.indexOf("region/people") !== -1 || /(^|[,;\s])region(\/|$|[,;\s])/.test(raw)) {
+			return 7;
+		}
+		if (raw.indexOf("building") !== -1) {
+			return 13;
+		}
+		return 10;
+	};
+
+	window.indexPlaceFeatureTypes = function (geojson) {
+		window.placeFeatureTypes = window.placeFeatureTypes || {};
+		window.placeFeatures = window.placeFeatures || {};
+		if (!geojson || !geojson.features) {
+			return;
+		}
+		for (var i = 0; i < geojson.features.length; i++) {
+			var feature = geojson.features[i];
+			if (feature.properties && feature.properties.placeID) {
+				window.placeFeatureTypes[feature.properties.placeID] = feature.properties.featureTypes || "";
+				window.placeFeatures[feature.properties.placeID] = feature;
+			}
+		}
+	};
+})(window, document);

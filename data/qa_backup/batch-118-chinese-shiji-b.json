@@ -1,0 +1,269 @@
+{
+  "texts": [
+    {
+      "id": "chinese-shiji-zhuanxu-reign",
+      "title": {
+        "en": "Zhuanxu the High Lord Sets the Seasons and the Spirits",
+        "zh": "顓頊高陽氏"
+      },
+      "tradition": "chinese",
+      "category": "myth",
+      "region": {
+        "en": "Diqiu, Zhuanxu's capital in the east (pin: Henan–Shandong)",
+        "zh": "帝丘"
+      },
+      "lat": 35.0,
+      "lon": 115.0,
+      "period": "Shiji by Sima Qian, c. 94 BCE, Wu Di Ben Ji",
+      "source": {
+        "archive": "Wikisource (zh)",
+        "work": "Shiji, Wu Di Ben Ji: Zhuanxu, grandson of the Yellow Emperor, and his ordering of sky and spirits",
+        "url": "https://zh.wikisource.org/wiki/%E5%8F%B2%E8%A8%98"
+      },
+      "license": "Public domain (Classical Chinese text; passages are compiler's renderings)",
+      "summary": {
+        "en": "Zhuanxu the High Lord, the Yellow Emperor's grandson, was born by the Ruo river, quiet and deep, versed in earth's riches and heaven's laws: he appointed the officers of sky and earth, led the spirits' calendar, rode the clouds to the four quarters' shadowed sides, and tamed the lands from Yu province to the sea — his reign is the corpus's image of a world run like a well-kept temple schedule.",
+        "zh": "黃帝之孫，昌意之子；靜淵以有謀，疏通而知事；養材以任地，載時以象天，依鬼神以制義，治氣以教化，絜誠以祭祀——乘龍而至四海。"
+      },
+      "motifs": [
+        "sacred-kingship",
+        "oracle-divination"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Passages are the compiler's condensed paraphrases of the Shiji original. The same emperor severs heaven-earth communication in the Guoyu (chinese-guoyu-chongli) — reign and cosmology linked."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The High Lord Zhuanxu, grandson of the Yellow Emperor, was quiet and deep, versed in earth's riches and heaven's measures: he raised the officers of sky and earth, led the calendar of the spirits, and taught the people by the winds of the seasons.",
+          "note": "Paraphrase of Shiji, Wu Di Ben Ji, Zhuanxu section (compiler's rendering); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "He rode the clouds to the four quarters' shadowed sides, going by the sun's south to the sea-horizons; beasts, insects and plants alike were ordered under his hand, and the lands from Yu province to the far sea held to his regulation — the corpus's picture of a reign that runs the world like a temple schedule.",
+          "note": "Paraphrase of Shiji, Wu Di Ben Ji; not verbatim."
+        }
+      ],
+      "persons": [
+        "huangdi"
+      ]
+    },
+    {
+      "id": "chinese-shiji-diku-consorts",
+      "title": {
+        "en": "Di Ku's Four Consorts and the Four Founders",
+        "zh": "帝嚳四妃"
+      },
+      "tradition": "chinese",
+      "category": "myth",
+      "region": {
+        "en": "Bo, Di Ku's capital (pin: Henan)",
+        "zh": "亳"
+      },
+      "lat": 34.7,
+      "lon": 113.5,
+      "period": "Shiji by Sima Qian, c. 94 BCE, Wu Di Ben Ji (with with the Da Dai Li Ji genealogies)",
+      "source": {
+        "archive": "Wikisource (zh)",
+        "work": "Shiji, Wu Di Ben Ji and the Da Dai genealogies: the four consorts of Di Ku — Jiang Yuan, Jian Di, Qingdu, Changyi — and the four sons who founded dynasties",
+        "url": "https://zh.wikisource.org/wiki/%E5%8F%B2%E8%A8%98"
+      },
+      "license": "Public domain (Classical Chinese text; passages are compiler's renderings)",
+      "summary": {
+        "en": "Di Ku the Deep Lord, Zhuanxu's kinsman, had four consorts and one from each: Jiang Yuan bore Houji, ancestor of the Zhou; Jian Di bore Xie, ancestor of the Shang; Qingdu bore Yao, the sage-king; Changyi bore Zhi, the first successor. Four mothers, four dynasties in one house — the Shiji's most efficient piece of genealogical engineering, making every ruling house of China's first three dynasties one family.",
+        "zh": "帝嚳娶四妃：姜嫄生后稷（周祖），簡狄生契（商祖），慶都生堯，常儀生摯——四母四系，三代同宗。"
+      },
+      "motifs": [
+        "miraculous-birth",
+        "sacred-kingship",
+        "sibling-creators"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Passages are the compiler's condensed paraphrases of the Shiji original."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Di Ku the Deep Lord brought the sun and moon into their courses, and his house held the future in four marriages: Jiang Yuan of the great marsh, Jian Di of the dark bird's egg, Qingdu of the burning star, Changyi of the music-court.",
+          "note": "Paraphrase of Shiji, Wu Di Ben Ji, with the Da Dai genealogies (compiler's rendering); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Jiang Yuan's son was Houji, the Lord of Millet and ancestor of the Zhou; Jian Di's was Xie, ancestor of the Shang; Qingdu's was Yao, the sage-king of the flood age; Changyi's was Zhi, the eldest, who first wore the crown. Four founders under one father: the corpus's neat answer to the question of who may rule — everyone worth ruling, as cousins.",
+          "note": "Paraphrase of Shiji, Wu Di Ben Ji; not verbatim."
+        }
+      ],
+      "persons": [
+        "houji"
+      ]
+    },
+    {
+      "id": "chinese-shiji-yu-nine-provinces",
+      "title": {
+        "en": "Yu Cuts the Mountains, and the Nine Tripods Are Cast",
+        "zh": "禹劃九州鑄九鼎"
+      },
+      "tradition": "chinese",
+      "category": "myth",
+      "region": {
+        "en": "The Nine Provinces from Jizhou to the Yangzi (mythic geography)",
+        "zh": "九州"
+      },
+      "lat": 34.0,
+      "lon": 110.0,
+      "period": "Shiji by Sima Qian, c. 94 BCE, Xia Ben Ji (parallel in Zuozhuan, Xuan 3, on the tripods)",
+      "source": {
+        "archive": "Wikisource (zh)",
+        "work": "Shiji, Xia Ben Ji: Yu's thirteen years of dredging and the mountain-cutting; Zuozhuan on the nine tripods and their beast-pictures",
+        "url": "https://zh.wikisource.org/wiki/%E5%8F%B2%E8%A8%98"
+      },
+      "license": "Public domain (Classical Chinese text; passages are compiler's renderings)",
+      "summary": {
+        "en": "Yu mourned his father's failure thirteen years and never once looked back at his own door: he cut the dragon-gates in the mountains, dredged the Nine Rivers, drew the Nine Provinces' soil in tribute-colors, and — in the Zhou-era tale — cast the bronze of the nine provinces into nine tripods, each engraved with the beasts that harmed the people, so that the people might know them. The tripods became the regalia of every dynasty that could carry them.",
+        "zh": "禹傷父鯀功之不成，勞身焦思，居外十三年，過家門不敢入；通九道、刊九山、滌九川——鑄九鼎，象百物，使民知神姦（左傳宣公三年：在德不在鼎）。"
+      },
+      "motifs": [
+        "culture-hero",
+        "sacred-kingship",
+        "flood"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Passages are the compiler's condensed paraphrases of the Shiji and Zuozhuan originals. The tripods are the corpus's charter of political legitimacy."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Yu mourned his father's death by finishing the work his father died for: he dredged the nine rivers, cut passages through the mountains that dammed the waters, and walked the land thirteen years without once passing his own gate at home — the famous shame of the labor, kept as the measure of a public man.",
+          "note": "Paraphrase of Shiji, Xia Ben Ji (compiler's rendering); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "He measured the soil of each region by its color and its tribute, and divided the world into the Nine Provinces; and in the Zhou-era telling, the bronze of those provinces was cast into nine great tripods, each engraved with the beasts that harmed the people, so that a traveler might know them and not be taken.",
+          "note": "Paraphrase of the Zuozhuan, Xuan 3, tripod passage; not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "The tripods passed from Xia to Shang to Zhou as the regalia of heaven's own bookkeeping — and when a duke of Chu asked about their weight, the answer he got was the corpus's whole political theology: the concern of a ruler is virtue, not cauldrons.",
+          "note": "Paraphrase of the Zuozhuan answer; not verbatim."
+        }
+      ],
+      "persons": [
+        "yu",
+        "gun"
+      ]
+    },
+    {
+      "id": "chinese-guoyu-fangfeng",
+      "title": {
+        "en": "Yu's Assembly at Kuaiji and the Giant of Fengshan",
+        "zh": "禹會諸侯殺防風氏"
+      },
+      "tradition": "chinese",
+      "category": "myth",
+      "region": {
+        "en": "Mount Kuaiji, south of the Yangzi delta (Zhejiang)",
+        "zh": "會稽山"
+      },
+      "lat": 30.0,
+      "lon": 120.5,
+      "period": "Guoyu (Discourses of the States), Lu Yu Xia, c. 4th c. BCE",
+      "source": {
+        "archive": "Wikisource (zh)",
+        "work": "Guoyu, Lu Yu Xia: Confucius questioned on the giant bones of Kuaiji, and the tale of Fengfengshi",
+        "url": "https://zh.wikisource.org/wiki/%E5%9C%8B%E8%AA%9E"
+      },
+      "license": "Public domain (Classical Chinese text; passages are compiler's renderings)",
+      "summary": {
+        "en": "A cart-hub of bone, too big for a house-beam, was dug up in Kuaiji and carried to the court of Lu, where Confucius was asked what it was. He answered like a catalog: when Yu summoned the lords at Kuaiji after the flood was tamed, the chief of Fengshan came late, and Yu had him killed on the spot: his bones were one joint of which this hub is a piece — and the giant of the tale, three zhang tall, is the earliest recorded execution for tardiness, and the reason the hill still bears the name of the executed chief's field.",
+        "zh": "吳伐越，墮會稽，得骨節專車，使問仲尼；仲尼曰：禹致群神於會稽山，防風氏後至，禹殺而戮之，其骨節專車——汪芒氏之君，身長三丈，守封嵎之山。"
+      },
+      "motifs": [
+        "sacred-kingship",
+        "dismembered-giant",
+        "oracle-divination"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Passages are the compiler's condensed paraphrases of the Guoyu original."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The men of Wu, breaking ground on Kuaiji, unearthed a single bone-joint that filled a whole cart, and sent it to the court of Lu for identification; Confucius, on leave at the gate, named its owner without inspecting it.",
+          "note": "Paraphrase of Guoyu, Lu Yu Xia, Fengfengshi entry (compiler's rendering); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "When Yu had tamed the flood he summoned the lords and spirits to Kuaiji to settle the account of the land; the chief of Fengshan came late, and Yu had him executed on the assembly-ground before all the summoned — the giant's joint was that man's thighbone, and the hill's old name still marks the field of the killing.",
+          "note": "Paraphrase of Guoyu, Lu Yu Xia; not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "Confucius added the census: the executed chief had ruled the hill-men of the Wang-mang line, three zhang tall — a race, he said, whose like was shrinking age by age into the common stature: the giant's bone as the last receipt of an older, taller world.",
+          "note": "Paraphrase of Guoyu, Lu Yu Xia, the census; not verbatim."
+        }
+      ],
+      "persons": [
+        "yu"
+      ]
+    },
+    {
+      "id": "chinese-huainanzi-gonggong-nvwa",
+      "title": {
+        "en": "Nüwa Mends the Broken Sky with Five-Colored Stones",
+        "zh": "煉五色石補天"
+      },
+      "tradition": "chinese",
+      "category": "myth",
+      "region": {
+        "en": "The broken northwest sky and the flooded southeast (mythic geography)",
+        "zh": "天傾西北、水潦東南"
+      },
+      "lat": 36.0,
+      "lon": 90.0,
+      "period": "Huainanzi, Lanming Xun, c. 139 BCE",
+      "source": {
+        "archive": "Wikisource (zh)",
+        "work": "Huainanzi, Lanming Xun: the ruined world after Gonggong's stroke, and Nüwa's five-colored stones, the turtle's legs, and the reed-ash",
+        "url": "https://zh.wikisource.org/wiki/%E6%B7%AE%E5%8D%97%E5%AD%90"
+      },
+      "license": "Public domain (Classical Chinese text; passages are compiler's renderings)",
+      "summary": {
+        "en": "When the four poles had collapsed and the Nine Provinces split, when heaven did not cover all nor earth bear all — fire blazed unquenchable, water surged without end, beasts devoured the people, and the black bird carried off the old and weak. Nüwa smelted five-colored stones to mend the sky, cut the great turtle's legs to stand for the four poles, slew the black dragon to save the lands of Ji, piled reed-ash to dam the floods — and lay down in peace under a mended sky, the corpus's great repair-myth.",
+        "zh": "往古之時，四極廢，九州裂，天不兼覆，地不周載；火爁炎而不滅，水浩洋而不息……於是女媧煉五色石以補蒼天，斷鰲足以立四極，殺黑龍以濟冀州，積蘆灰以止淫水——蒼天補，四極正。"
+      },
+      "motifs": [
+        "world-renewal",
+        "creation-chaos",
+        "flood"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Passages are the compiler's condensed paraphrases of the Huainanzi original. The great repair-myth; cross-refers to Gonggong's pillar-stroke (chinese-gonggong-buzhou) and to the pre-existing Werner-based 'nuwa-mending' record."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "In the age of ruins the four poles had collapsed and the Nine Provinces split: heaven did not cover all, earth did not bear all; fire raged and could not be quenched, water surged and could not be stayed; fierce beasts ate the gentle people, and the black bird carried off the old and the young.",
+          "note": "Paraphrase of Huainanzi, Lanming Xun, Nüwa passage (compiler's rendering); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Nüwa smelted stones of five colors and mended the sky with them; she cut off the great turtle's four legs to stand for the ruined poles; she killed the black dragon to save the land of Ji; she piled the ashes of reeds to stay the flood-waters — and the sky was whole, the poles upright, the beasts driven off, the waters calmed.",
+          "note": "Paraphrase of Huainanzi, Lanming Xun; not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "She laid the people on the ground of her own mending — and the world she left was peaceful under a blue sky; her name is the first repair in the Chinese record, and the reason the sky leans only slightly, and the reason there is a heaven worth living under at all.",
+          "note": "Paraphrase of Huainanzi, Lanming Xun, the aftermath; not verbatim."
+        }
+      ],
+      "persons": [
+        "nuwa"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,147 @@
+{
+  "texts": [
+    {
+      "id": "taotejing-before-heaven",
+      "title": {
+        "en": "The Tao Before Heaven and Earth (Tao Te Ching 25, 42)",
+        "zh": "道在天地之先（道德經·二十五、四十二章）"
+      },
+      "tradition": "taoist",
+      "region": {
+        "en": "Hangu Pass, Shaanxi (traditional), China",
+        "zh": "函谷關（陝西，傳統說法）"
+      },
+      "lat": 34.53,
+      "lon": 110.3,
+      "period": "Tao Te Ching, c. 4th-3rd c. BCE (trans. Legge, 1891)",
+      "source": {
+        "archive": "Project Gutenberg",
+        "work": "The Tao Teh King, trans. James Legge, chs. 25 and 42",
+        "url": "https://www.gutenberg.org/ebooks/216"
+      },
+      "license": "Public domain",
+      "summary": {
+        "en": "Two cosmological chapters of the classic of the Way: before Heaven and Earth there was something undefined and complete — the Mother of all things, whose law is simply being what it is; and the Tao produced One, One produced Two, Two produced Three, and Three produced all things, harmonised by the Breath of Vacancy.",
+        "zh": "《道德經》兩章：有物混成，先天地生——可以為天下母，其法自然；又道生一，一生二，二生三，三生萬物，沖氣以為和。"
+      },
+      "motifs": [
+        "creation-chaos"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Living tradition of Taoism. Included as a comparative text — a scholarly framing, not a claim about religious truth."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "There was something undefined and complete, coming into existence before Heaven and Earth. How still it was and formless, standing alone, and undergoing no change, reaching everywhere and in no danger (of being exhausted)! It may be regarded as the Mother of all things. I do not know its name, and I give it the designation of the Tao (the Way or Course). Making an effort (further) to give it a name I call it The Great. Great, it passes on (in constant flow). Passing on, it becomes remote. Having become remote, it returns. Therefore the Tao is great; Heaven is great; Earth is great; and the (sage) king is also great. In the universe there are four that are great, and the (sage) king is one of them. Man takes his law from the Earth; the Earth takes its law from Heaven; Heaven takes its law from the Tao. The law of the Tao is its being what it is."
+        },
+        {
+          "id": "2",
+          "text": "The Tao produced One; One produced Two; Two produced Three; Three produced All things. All things leave behind them the Obscurity (out of which they have come), and go forward to embrace the Brightness (into which they have emerged), while they are harmonised by the Breath of Vacancy. What men dislike is to be orphans, to have little virtue, to be as carriages without naves; and yet these are the designations which kings and princes use for themselves. So it is that some things are increased by being diminished, and others are diminished by being increased."
+        }
+      ],
+      "category": "religious"
+    },
+    {
+      "id": "zhuangzi-leviathan-butterfly",
+      "title": {
+        "en": "The Leviathan, the Butterfly, and the Death of Chaos (Zhuangzi)",
+        "zh": "鯤鵬、蝶夢與混沌之死（莊子）"
+      },
+      "tradition": "taoist",
+      "region": {
+        "en": "Meng, Song state (Anhui/Henan, China)",
+        "zh": "宋國蒙（今安徽／河南一帶）"
+      },
+      "lat": 33.6,
+      "lon": 116.0,
+      "period": "Zhuangzi, c. 4th-3rd c. BCE (trans. Giles, 1889)",
+      "source": {
+        "archive": "Project Gutenberg",
+        "work": "Chuang Tzu: Mystic, Moralist, and Social Reformer, trans. Herbert A. Giles, chs. 1, 2, 7",
+        "url": "https://www.gutenberg.org/ebooks/59709"
+      },
+      "license": "Public domain",
+      "summary": {
+        "en": "Zhuangzi's Taoist allegories from the canonised Nanhua zhenjing: the Leviathan of the northern ocean changes into the Rukh bird that mounts a typhoon ninety thousand li towards the southern lake; the sage dreams he is a butterfly and wakes unsure which he is; and the rulers of south and north bore seven holes in primal Chaos — who died on the seventh day.",
+        "zh": "莊子寓言（《南華真經》）：北冥鯤魚化為大鵬，乘颶風九萬里而南徙天池；莊周夢蝶，醒後不知人耶蝶耶；南海之帝與北海之帝為中央混沌日鑿一竅——七日而混沌死。"
+      },
+      "motifs": [
+        "transformation",
+        "creation-chaos",
+        "chaos-monster"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Canonical text of the Taoist canon (Nanhua zhenjing, canonised 742 CE). Included as a comparative text — a scholarly framing, not a claim about religious truth."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "In the northern ocean there is a fish, called the Leviathan, many thousand li in size. This leviathan changes into a bird, called the Rukh, whose back is many thousand li in breadth. With a mighty effort it rises, and its wings obscure the sky like clouds. At the equinox, this bird prepares to start for the southern ocean, the Celestial Lake. And in the Record of Marvels we read that when the rukh flies southwards, the water is smitten for a space of three thousand li around, while the bird itself mounts upon a typhoon to a height of ninety thousand li, for a flight of six months' duration."
+        },
+        {
+          "id": "2",
+          "text": "Once upon a time, I, Chuang Tzu, dreamt I was a butterfly, fluttering hither and thither, to all intents and purposes a butterfly. I was conscious only of following my fancies as a butterfly, and was unconscious of my individuality as a man. Suddenly, I awaked, and there I lay, myself again. Now I do not know whether I was then a man dreaming I was a butterfly, or whether I am now a butterfly dreaming I am a man. Between a man and a butterfly there is necessarily a barrier. The transition is called Metempsychosis."
+        },
+        {
+          "id": "3",
+          "text": "The ruler of the southern sea was called Shu. The ruler of the northern sea was called Hu. The ruler of the central zone was called Hun Tun. Shu and Hu often met on Hun Tun's territory, and being always well treated by him, determined to repay his kindness. They said, 'All men have seven holes,--for seeing, hearing, eating, and breathing. Hun Tun alone has none. We will bore some for him.' So every day they bored one hole; but on the seventh day Hun Tun died."
+        }
+      ],
+      "category": "religious"
+    },
+    {
+      "id": "taishang-tractate-retribution",
+      "title": {
+        "en": "The Thai-Shang Tractate of Actions and their Retributions",
+        "zh": "太上感應篇"
+      },
+      "tradition": "taoist",
+      "region": {
+        "en": "The Supreme Empyrean (symbolic: Wudang, Hubei, China)",
+        "zh": "太上天境（象徵位置：湖北武當山）"
+      },
+      "lat": 32.4,
+      "lon": 111.0,
+      "period": "Thai-Shang Tractate, c. 12th c. CE (trans. Legge, 1891)",
+      "source": {
+        "archive": "Internet Archive",
+        "work": "Sacred Books of the East, Vol. 40: The Texts of Taoism, Part II, The Thai-Shang Tractate (trans. James Legge)",
+        "url": "https://archive.org/details/wg940"
+      },
+      "license": "Public domain",
+      "summary": {
+        "en": "The Taoist scripture of moral retribution: calamity and happiness have no special doors but come as men call them, the spirits of the Northern Bushel and the three Spirits of the recumbent body record every guilt, and he who would become an Immortal of Heaven must give proof of 1,300 good deeds.",
+        "zh": "道教勸善經：禍福無門，惟人自召；善惡之報，如影隨形。北斗星辰與三尸神錄人罪過、奪其紀算；欲求天仙者，當立一千三百善。"
+      },
+      "motifs": [
+        "quest-immortality"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Living tradition of Taoism. Included as a comparative text — a scholarly framing, not a claim about religious truth."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The Thai-shang (Tractate) says, 'There are no special doors for calamity and happiness (in men's lives); they come as men themselves call them. Their recompenses follow good and evil as the shadow follows the substance. Accordingly, in heaven and earth there are spirits that take account of men's transgressions, and, according to the lightness or gravity of their offences, take away from their term of life. When that term is curtailed, men become poor and reduced, and meet with many sorrows and afflictions."
+        },
+        {
+          "id": "2",
+          "text": "There also are the Spirit-rulers in the three pairs of the Thai stars of the Northern Bushel over men's heads, which record their acts of guilt and wickedness, and take away (from their term of life) periods of twelve years or of a hundred days. There also are the three Spirits of the recumbent body which reside within a man's person. As each kang-shan day comes round, they forthwith ascend to the court of Heaven, and report men's deeds of guilt and transgression. On the last day of the moon, the spirit of the Hearth does the same."
+        },
+        {
+          "id": "3",
+          "text": "The spiritual Intelligences defend him; what he does is sure to succeed; he may hope to become Immaterial and Immortal. He who would seek to become an Immortal of Heaven ought to give the proof of 1300 good deeds; and he who would seek to become an Immortal of Earth should give the proof of three hundred."
+        },
+        {
+          "id": "4",
+          "text": "He is sure in the long-run to obtain good fortune:--this is called changing calamity into blessing. Therefore the good man speaks what is good, contemplates what is good, and does what is good; every day he has these three virtues:--at the end of three years Heaven is sure to send down blessing on him. And how is it that men will not exert themselves to do what is good?"
+        }
+      ],
+      "category": "religious"
+    }
+  ]
+}

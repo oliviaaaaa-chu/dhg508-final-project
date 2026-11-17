@@ -1,0 +1,730 @@
+{
+  "texts": [
+    {
+      "id": "chinese-soushen-pengzu",
+      "title": {
+        "en": "Pengzu, the Man Who Lived Eight Hundred Years",
+        "zh": "彭祖八百歲"
+      },
+      "tradition": "chinese",
+      "category": "myth",
+      "region": {
+        "en": "Pengcheng, Peng's city (Xuzhou, Jiangsu)",
+        "zh": "彭城"
+      },
+      "lat": 34.26,
+      "lon": 117.2,
+      "period": "Soushen Ji by Gan Bao, c. 350 CE, juan 1",
+      "source": {
+        "archive": "Wikisource (zh)",
+        "work": "Soushen Ji, juan 1: Pengzu, the wine-seller's mortality, and the eighty years that were nothing",
+        "url": "https://zh.wikisource.org/wiki/%E6%90%9C%E7%A5%9E%E8%A8%98"
+      },
+      "license": "Public domain (Classical Chinese text; passages are compiler's renderings)",
+      "summary": {
+        "en": "At the end of the Yin dynasty Pengzu was eight hundred years old and did not look old. Asked how, he laughed: he had lost his parents in infancy, been sick a hundred illnesses in youth, buried forty-nine wives and fifty-four children — and the losses, he said, are what kept him; and when the King of Chu offered a thousand gold for the secret of his longevity, he told him plainly: an eight-hundred-year life is but one day to heaven, and even Pengzu himself is, by heaven's reckoning, a man who died young.",
+        "zh": "彭祖殷末已八百歲而不衰老；自述少而多病，喪妻四十九、喪子五十四，憂患備嘗——壽八百為不足；天之視彭祖八百歲，猶人之夭也——長壽之寓言。"
+      },
+      "motifs": [
+        "quest-immortality",
+        "parable-teaching"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Passages are the compiler's condensed paraphrases of the Soushen Ji original."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "At the end of the Yin, Pengzu was eight hundred years old, and his face did not show it. Asked how he managed, he counted his life instead of his secret: parents dead in his infancy, a hundred sicknesses in his youth, forty-nine wives buried and fifty-four children buried after them.",
+          "note": "Paraphrase of Soushen Ji, juan 1, Pengzu entry (compiler's rendering); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "The losses, he said, were the secret and the cost together: grief had kept him from the excesses that kill. And to the king who offered a thousand gold for the recipe he answered with the arithmetic of heaven: eight hundred years is to heaven's reckoning what a morning is to ours — by heaven's count, Pengzu himself is a man who died young.",
+          "note": "Paraphrase of Soushen Ji, juan 1, the answer; not verbatim."
+        }
+      ],
+      "persons": []
+    },
+    {
+      "id": "chinese-soushen-chisongzi",
+      "title": {
+        "en": "Chisongzi, the Rain Master Who Rode the Fire-Stone",
+        "zh": "赤松子雨師"
+      },
+      "tradition": "chinese",
+      "category": "myth",
+      "region": {
+        "en": "The courts of the Flame Emperor (symbolic pin: south of the Yangzi)",
+        "zh": "炎帝之廷"
+      },
+      "lat": 28.0,
+      "lon": 110.0,
+      "period": "Soushen Ji by Gan Bao, c. 350 CE, juan 1",
+      "source": {
+        "archive": "Wikisource (zh)",
+        "work": "Soushen Ji, juan 1: Chisongzi, the water-jade of self-combustion, and the rain-prayers of the Flame Emperor",
+        "url": "https://zh.wikisource.org/wiki/%E6%90%9C%E7%A5%9E%E8%A8%98"
+      },
+      "license": "Public domain (Classical Chinese text; passages are compiler's renderings)",
+      "summary": {
+        "en": "Chisongzi, the Red Pine Master, served the Flame Emperor as Rain Master: he took the drug of the water-jade, which burns without fuel, and floated with it in the fire; he went up to and down from the Jade Mountain by riding it, and taught the emperor's daughter the same — she followed him and was lost with him in the burning; in every drought the age called on him, and the rain came.",
+        "zh": "赤松子者，神農時雨師也；服水玉以教神農，能入火不焚；往往至崑崙山上，炎帝少女追之，亦得仙俱去——至高辛時復為雨師。"
+      },
+      "motifs": [
+        "ascension",
+        "storm-thunder",
+        "quest-immortality",
+        "rainmaking"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Passages are the compiler's condensed paraphrases of the Soushen Ji original."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Chisongzi was the Rain Master in the days of the Flame Emperor: he took the drug of the water-jade, the stone that burns without burning up, and could walk in fire unscorched, riding its smoke up to the Jade Mountain of the gods and back.",
+          "note": "Paraphrase of Soushen Ji, juan 1, Chisongzi entry (compiler's rendering); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "He taught the art to the Flame Emperor's youngest daughter, who followed him into the fire and was gone with him — and ages later, in the reign of Gaoxin, the rain-prayers of the dry fields still called his name, and he served again as Rain Master.",
+          "note": "Paraphrase of Soushen Ji, juan 1; not verbatim."
+        }
+      ],
+      "persons": []
+    },
+    {
+      "id": "chinese-soushen-ningfengzi",
+      "title": {
+        "en": "Ning Fengzi, the Fire-Drill Master Who Rode His Own Smoke",
+        "zh": "寧封子積火自焚"
+      },
+      "tradition": "chinese",
+      "category": "myth",
+      "region": {
+        "en": "The kilns of the Yellow Emperor's court (symbolic pin: central plains)",
+        "zh": "黃帝陶正之官"
+      },
+      "lat": 34.5,
+      "lon": 110.0,
+      "period": "Soushen Ji by Gan Bao, c. 350 CE, juan 1",
+      "source": {
+        "archive": "Wikisource (zh)",
+        "work": "Soushen Ji, juan 1: Ning Fengzi, the officer of pottery, and the fire of self-ascension",
+        "url": "https://zh.wikisource.org/wiki/%E6%90%9C%E7%A5%9E%E8%A8%98"
+      },
+      "license": "Public domain (Classical Chinese text; passages are compiler's renderings)",
+      "summary": {
+        "en": "Ning Fengzi was the Yellow Emperor's officer of pottery, and a stranger taught him the art of the fire's interior — the flame's own breathing. He gathered a great fire, walked into it, and rode the smoke upward: when the fire died, men found in the ashes the shape of his body, intact, and in time it too turned to smoke and rose — the master who ascended through his own kiln.",
+        "zh": "寧封子，黃帝時為陶正；有異人過之，為其掌火，能出五色煙；久則以教封子，封子積火自焚而隨煙上下——火化而登仙。"
+      },
+      "motifs": [
+        "ascension",
+        "fire-theft",
+        "transformation"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Passages are the compiler's condensed paraphrases of the Soushen Ji original."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Ning Fengzi held the office of pottery in the Yellow Emperor's court, and a stranger came to his kilns who could handle fire from the inside, making it breathe out smoke of five colors; the stranger stayed long, and taught the officer the art of the flame's interior.",
+          "note": "Paraphrase of Soushen Ji, juan 1, Ning Fengzi entry (compiler's rendering); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Ning Fengzi piled a great fire, walked into it, and rose with the smoke. When the fire cooled, the ashes held his body's shape unburned; in time that too dissolved into smoke and went up — the kiln-officer's ascension, filed in the gazetteer of immortals between the potters' marks.",
+          "note": "Paraphrase of Soushen Ji, juan 1; not verbatim."
+        }
+      ],
+      "persons": [
+        "huangdi"
+      ]
+    },
+    {
+      "id": "chinese-soushen-tianyu-xianchao",
+      "title": {
+        "en": "The Jade Maiden of Heaven and the Clerk Xian Chao",
+        "zh": "天上玉女弦超"
+      },
+      "tradition": "chinese",
+      "category": "myth",
+      "region": {
+        "en": "Jibei, the county of the night visits (Shandong)",
+        "zh": "濟北郡"
+      },
+      "lat": 36.5,
+      "lon": 116.5,
+      "period": "Soushen Ji by Gan Bao, c. 350 CE, juan 1",
+      "source": {
+        "archive": "Wikisource (zh)",
+        "work": "Soushen Ji, juan 1: the jade maiden of the sky, her coming to Xian Chao, and the affairs of the spirit-wife",
+        "url": "https://zh.wikisource.org/wiki/%E6%90%9C%E7%A5%9E%E8%A8%98"
+      },
+      "license": "Public domain (Classical Chinese text; passages are compiler's renderings)",
+      "summary": {
+        "en": "A girl in radiant dress came by night to the clerk Xian Chao, saying she was a maiden of heaven, punished by exile to marry him; she came and went with the wind, brought wealth without work, foretold what would happen, and their children were seen by none. Twice she left in quarrels — once for seven years of an empty room — and each reconciliation came with an oracle: the tale is the oldest spirit-wife contract of the corpus, kept on its terms and broken at its price.",
+        "zh": "濟北郡弦超，魏嘉平中，夜有美女來，自稱天上玉女，姓成公字知瓊，早失父母，天帝哀其孤苦，遣令下嫁；出入有光，預知未來；屢離屢合——神女婚約之原型。"
+      },
+      "motifs": [
+        "divine-marriage",
+        "oracle-divination",
+        "taboo-transgression",
+        "doom-foretold",
+        "exile"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Passages are the compiler's condensed paraphrases of the Soushen Ji original."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "A girl in dress that gave light came by night to the clerk Xian Chao of Jibei and said: I am a maiden of heaven, named Zhiqiong; my parents died while I was young, and the Emperor of Heaven, pitying my orphanhood, has exiled me to be your wife — quietly, for heaven's exiles must not be shown.",
+          "note": "Paraphrase of Soushen Ji, juan 1, Zhiqiong entry (compiler's rendering); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "She came and went with the wind through closed doors; the house grew rich without labor; she foretold floods, droughts, and what the market would bring, and all fell out as she said — a household run by an oracle in a light-giving dress.",
+          "note": "Paraphrase of Soushen Ji, juan 1; not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "Twice the marriage broke on his suspicion and her leave-taking — once the room stood empty for years. Each reconciliation came through a dream-oracle and a reunion the county could not explain; the tale keeps the terms of a spirit-wife's contract: wealth and prophecy on one side, secrecy and exile-rules on the other, and the price of showing her to the neighbors is the marriage itself.",
+          "note": "Paraphrase of Soushen Ji, juan 1, the breakings; not verbatim."
+        }
+      ],
+      "persons": []
+    },
+    {
+      "id": "chinese-soushen-humu-ban",
+      "title": {
+        "en": "Hu Mu Ban Carries Letters Between the River God and the Lord of Mount Tai",
+        "zh": "胡母班傳書"
+      },
+      "tradition": "chinese",
+      "category": "myth",
+      "region": {
+        "en": "The River of the Taihang ford and the courts of Mount Tai (pin: Shandong)",
+        "zh": "河伯與泰山府君"
+      },
+      "lat": 36.2,
+      "lon": 117.0,
+      "period": "Soushen Ji by Gan Bao, c. 350 CE, juan 4",
+      "source": {
+        "archive": "Wikisource (zh)",
+        "work": "Soushen Ji, juan 4: Hu Mu Ban's two commissions — the River Earl's letter and the Taishan prefect's errand",
+        "url": "https://zh.wikisource.org/wiki/%E6%90%9C%E7%A5%9E%E8%A8%98"
+      },
+      "license": "Public domain (Classical Chinese text; passages are compiler's renderings)",
+      "summary": {
+        "en": "Hu Mu Ban, resting under a tree, was summoned by a red-clad servant: the River Earl requested a letter carried to his son-in-law — not in the water, but on Mount Tai. Ban went down through a court of fish-turtles in official robes, delivered the letter, and was asked in return to carry a message for the Prefect of Mount Tai — and to see his own dead father, who served there, learning that the dead in that office need their living kin's introductions, and that a wife long dead has remarried in the underworld.",
+        "zh": "胡母班為太山府君與河伯之間傳書：入河伯水府及泰山宮——見亡父，為亡父求職於府君；復活還家——幽明兩界之郵傳。"
+      },
+      "motifs": [
+        "descent-underworld",
+        "oracle-divination",
+        "otherworld-voyage"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Passages are the compiler's condensed paraphrases of the Soushen Ji original."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Resting under a great tree by the river, Hu Mu Ban was approached by a servant in red: the River Earl requested him to carry a letter — not across the water, but up to the courts of Mount Tai, to the god's son-in-law there.",
+          "note": "Paraphrase of Soushen Ji, juan 4, Hu Mu Ban entry (compiler's rendering); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Ban was carried into the river-palace through walls of water, saw fish and turtles moving in office robes through courts of the deep, took the reply, and went up to Mount Tai, where the Prefect of the Dead received him and asked a return favor: a message, and a look in on Ban's own father, who served in that bureaus' ranks.",
+          "note": "Paraphrase of Soushen Ji, juan 4, the two courts; not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "The father asked for a better post in the underworld's service; Ban carried the request, and it was granted — but the messenger learned also that his own years were owed to the prefect's court, and when he had paid his visits to both palaces, he lay down for his afternoon nap and did not wake again: the postal route between the living and the dead is paid in the same coin it carries.",
+          "note": "Paraphrase of Soushen Ji, juan 4, the father's post and the ending; not verbatim."
+        }
+      ],
+      "persons": []
+    },
+    {
+      "id": "chinese-soushen-tan-sheng",
+      "title": {
+        "en": "Tan Sheng's Bride Who Could Not Bear the Light",
+        "zh": "談生鬼妻"
+      },
+      "tradition": "chinese",
+      "category": "myth",
+      "region": {
+        "en": "The night-house of the clerk Tan Sheng (pin: Hebei)",
+        "zh": "談生舍"
+      },
+      "lat": 38.0,
+      "lon": 115.5,
+      "period": "Soushen Ji by Gan Bao, c. 350 CE, juan 16",
+      "source": {
+        "archive": "Wikisource (zh)",
+        "work": "Soushen Ji, juan 16: the ghost-bride's three-year contract and the candle that broke it",
+        "url": "https://zh.wikisource.org/wiki/%E6%90%9C%E7%A5%9E%E8%A8%98"
+      },
+      "license": "Public domain (Classical Chinese text; passages are compiler's renderings)",
+      "summary": {
+        "en": "A girl of fifteen came at midnight to the poor clerk Tan Sheng and offered marriage on one condition: never look at me before the third year. She bore him a son. In the second year Tan Sheng lit a candle while she slept and looked: her body was flesh below the waist, and a corpse's white bone above it. She woke, said only that you were never to be different, and left — leaving him a pearl robe and a treasure that made him rich, and the son who grew up to claim her ghost-father's house.",
+        "zh": "談生年四十無婦；夜半有女子可十五六，與生為夫婦，戒曰『三年勿以火照我』；生二年竊照之——腰已生肉如人，腰上但如枯骨；婦覺而辭去，遺珠袍，其子後訪母家而富。"
+      },
+      "motifs": [
+        "divine-marriage",
+        "taboo-transgression",
+        "resurrection",
+        "forbidden-look",
+        "ghost-return"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Passages are the compiler's condensed paraphrases of the Soushen Ji original."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Tan Sheng, forty and unmarried, was found at midnight by a girl of fifteen who offered to be his wife — on one condition: for three years, never let light touch me. They married, and she kept a household by night like a woman of means.",
+          "note": "Paraphrase of Soushen Ji, juan 16, Tan Sheng entry (compiler's rendering); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "In the second year, curious past bearing, he lit a candle while she slept and looked: below the waist her body was living flesh; above it, white bone like a dried corpse. She woke, and said only what was promised: we are parting now; your curiosity has cut the term in two.",
+          "note": "Paraphrase of Soushen Ji, juan 16, the candle; not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "She left him a pearl-stitched robe and a treasure sufficient for the son; years later, grown, the boy found her family among the living gentry — her father, who had died before the marriage, recognized the robe. The ghost-wife had kept her contract to its letter and more than its letter: only the light was his to break, and he broke it.",
+          "note": "Paraphrase of Soushen Ji, juan 16, the robe and the family; not verbatim."
+        }
+      ],
+      "persons": []
+    },
+    {
+      "id": "chinese-soushen-ziyu-hanzhong",
+      "title": {
+        "en": "Purple Jade and Han Chong: The Tomb That Opened for a Song",
+        "zh": "紫玉韓重"
+      },
+      "tradition": "chinese",
+      "category": "myth",
+      "region": {
+        "en": "The tomb-palace of the king of Wu (Suzhou)",
+        "zh": "吳王夫差小女紫玉墓"
+      },
+      "lat": 31.3,
+      "lon": 120.6,
+      "period": "Soushen Ji by Gan Bao, c. 350 CE, juan 16",
+      "source": {
+        "archive": "Wikisource (zh)",
+        "work": "Soushen Ji, juan 16: Han Chong's quest for pearls, Purple Jade's death, and the grave-wedding of the king's daughter",
+        "url": "https://zh.wikisource.org/wiki/%E6%90%9C%E7%A5%9E%E8%A8%98"
+      },
+      "license": "Public domain (Classical Chinese text; passages are compiler's renderings)",
+      "summary": {
+        "en": "Han Chong, a student, loved the king of Wu's daughter Ziyu; she promised herself to him if he would win her father's leave, and he went south for three years seeking the pearls of her dowry, returning to find her dead of longing. At her tomb she came out of the earth in her jeweled robes, sang him a farewell-song, brought him into the grave for three days of wedding-feast, and gave him the pearls. The king declared the tale fraud, and Ziyu rose from the tomb in her ornament to stand before the court, and sank again into the grave.",
+        "zh": "吳王夫差小女紫玉悅韓重，私許為妻；重求學三年，採珠而歸，紫玉氣結而死；墓前魂現，留重冢中三日，贈明珠；王以為發冢；紫玉忽現形於王前，墓乃合。"
+      },
+      "motifs": [
+        "resurrection",
+        "divine-marriage",
+        "boon-curse",
+        "emergence-from-earth",
+        "threefold"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Passages are the compiler's condensed paraphrases of the Soushen Ji original."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Han Chong, a student of the Wu court, loved the king's youngest daughter Ziyu, and she promised herself to him if he could win her father's leave; so he went south for three years to gather the pearls of her dowry.",
+          "note": "Paraphrase of Soushen Ji, juan 16, Ziyu entry (compiler's rendering); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "He returned to find her dead of the waiting. At the tomb-mound her spirit came out of the earth in jeweled robes, sang him a farewell in five lines, and brought him down into the grave for three days of feast; then she gave him the pearls and sent him up into the light.",
+          "note": "Paraphrase of Soushen Ji, juan 16, the tomb-wedding; not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "The king called it grave-robbery and would have him arrested; the daughter rose out of the tomb before the whole court in her grave-ornaments, stood in the air before her father, named the pearls hers and gave, and sank back into the mound — and the king, undone, had her tomb raised higher. The story keeps both its grief and its proof.",
+          "note": "Paraphrase of Soushen Ji, juan 16, the court and the ending; not verbatim."
+        }
+      ],
+      "persons": []
+    },
+    {
+      "id": "chinese-soushen-luchong-cui",
+      "title": {
+        "en": "Lu Chong's Grave-Wedding in the House of Cui",
+        "zh": "盧充幽婚"
+      },
+      "tradition": "chinese",
+      "category": "myth",
+      "region": {
+        "en": "The hunting-field west of Cui's tomb (Hebei)",
+        "zh": "崔少府墓"
+      },
+      "lat": 38.0,
+      "lon": 116.0,
+      "period": "Soushen Ji by Gan Bao, c. 350 CE, juan 16",
+      "source": {
+        "archive": "Wikisource (zh)",
+        "work": "Soushen Ji, juan 16: Lu Chong's hunt, the Cui household in the tomb, the wedding, and the three-year son",
+        "url": "https://zh.wikisource.org/wiki/%E6%90%9C%E7%A5%9E%E8%A8%98"
+      },
+      "license": "Public domain (Classical Chinese text; passages are compiler's renderings)",
+      "summary": {
+        "en": "Hunting west of the city, Lu Chong shot a roe that ran into a mansion whose gate read Cui Shaofu's Tomb: within, the master of the house — dead these years — greeted him, produced his daughter, and explained the marriage was arranged before her birth. They were wed; four days on, the living groom was sent home with his bride's gold bowl. Three years later, on the river, the bowl was filled by their son, sent up from the tomb in a boat — and the boy, raised four years more among ghosts, came out to live in the world.",
+        "zh": "盧充逐麞入崔少府府（墓）；府君曰『尊府君與僕有婚姻之約』——與其女成婚四日，贈金碗而歸；三年後河上見送三歲兒者——幽婚生子，幽明兩全。"
+      },
+      "motifs": [
+        "divine-marriage",
+        "descent-underworld",
+        "resurrection"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Passages are the compiler's condensed paraphrases of the Soushen Ji original."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Lu Chong, hunting west of the city, shot at a roe and followed it into a mansion whose gate-plate read the Tomb of Cui Shaofu; within, a lord greeted him by name and asked whether he knew the marriage contract his own father had signed before the girl's birth.",
+          "note": "Paraphrase of Soushen Ji, juan 16, Lu Chong entry (compiler's rendering); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "The daughter came out and was married to him in the tomb-house; four days on, her father sent the living groom home with his bride's gold bowl, saying the child of the marriage would be found when three years had run.",
+          "note": "Paraphrase of Soushen Ji, juan 16, the wedding; not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "On the river three years later a boat came up carrying the bowl, filled and warm, and the boy of three years old beside it; the ghost-household raised him four years more and then sent him out to live among the living — Lu Chong's line continued from a tomb that kept its own accounts.",
+          "note": "Paraphrase of Soushen Ji, juan 16, the son; not verbatim."
+        }
+      ],
+      "persons": []
+    },
+    {
+      "id": "chinese-soushen-hejian-lovers",
+      "title": {
+        "en": "The Lovers of Hejian: Opened in Death, Married in Life",
+        "zh": "河間郡男女"
+      },
+      "tradition": "chinese",
+      "category": "myth",
+      "region": {
+        "en": "Hejian commandery, the tomb and the bridal bed (Hebei)",
+        "zh": "河間郡"
+      },
+      "lat": 38.4,
+      "lon": 116.1,
+      "period": "Soushen Ji by Gan Bao, c. 350 CE, juan 15",
+      "source": {
+        "archive": "Wikisource (zh)",
+        "work": "Soushen Ji, juan 15: the buried-alive girl, the tunnel of love, and the resurrection by the official's order",
+        "url": "https://zh.wikisource.org/wiki/%E6%90%9C%E7%A5%9E%E8%A8%98"
+      },
+      "license": "Public domain (Classical Chinese text; passages are compiler's renderings)",
+      "summary": {
+        "en": "A girl of Hejian was buried while still breathing, and her lover dug a tunnel to the coffin and kept vigil there until she woke — and they lived as man and wife in the grave-mound. The discovery scandalized the county; the case went up to the court, and the judge's verdict is the tale's point: the love of an earlier betrothal is the finest of bonds — let them be wed. And the two came up out of the earth, put on wedding clothes, and the county that had called it a crime gave the feast.",
+        "zh": "河間郡男女私悅而女生埋；男開冢穴而居之，女既更蘇；官司上聞，議曰『私情之篤，許其婚』——遂以禮娶之。"
+      },
+      "motifs": [
+        "resurrection",
+        "divine-marriage",
+        "taboo-transgression",
+        "love-trial"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Passages are the compiler's condensed paraphrases of the Soushen Ji original."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "A girl of Hejian, betrothed in love and buried before her breath had left her, lay in the mound alive — and her lover, learning it, dug a tunnel to the coffin and took up a watchman's life beside her grave.",
+          "note": "Paraphrase of Soushen Ji, juan 15, Hejian entry (compiler's rendering); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "She woke in the tunnel's air, and the two lived as man and wife in the mound — a scandal that reached the court, where the officials argued the letter of the law against the facts of the lovers' constancy.",
+          "note": "Paraphrase of Soushen Ji, juan 15, the tunnel-life; not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "The verdict went to the lovers: the bond of a betrothal was the finest of bonds, and the pair were given leave to wed. They came up out of the earth, put on the clothes of a wedding, and the county that had prosecuted them gave the feast — the law bowing, once, to the tunnel.",
+          "note": "Paraphrase of Soushen Ji, juan 15, the verdict; not verbatim."
+        }
+      ],
+      "persons": []
+    },
+    {
+      "id": "chinese-soushen-jiangji-son",
+      "title": {
+        "en": "Jiang Ji's Dead Son Asks for a Better Post",
+        "zh": "蔣濟亡兒託夢"
+      },
+      "tradition": "chinese",
+      "category": "myth",
+      "region": {
+        "en": "The court of the Lord of Mount Tai (pin: Shandong)",
+        "zh": "泰山府君之署"
+      },
+      "lat": 36.2,
+      "lon": 117.0,
+      "period": "Soushen Ji by Gan Bao, c. 350 CE, juan 16",
+      "source": {
+        "archive": "Wikisource (zh)",
+        "work": "Soushen Ji, juan 16: the dream of Jiang Ji's son, the underworld's job market, and the prefect's letter",
+        "url": "https://zh.wikisource.org/wiki/%E6%90%9C%E7%A5%9E%E8%A8%98"
+      },
+      "license": "Public domain (Classical Chinese text; passages are compiler's renderings)",
+      "summary": {
+        "en": "Jiang Ji, a minister of Wei, dreamed his dead son came weeping: in the underworld he served as a common soldier under a bureau-chief of the dead, and his father's name could buy him the post he wanted, if a letter came. The father wrote to a dead acquaintance of the family who now served as secretary to the Prefect of Mount Tai; the son was transferred; and the dream-detail that indicts the bureaucracy is the tale's whole point: the dead of the Chinese underworld are promoted and retired like clerks, and connections cross the river of death freely.",
+        "zh": "蔣濟亡兒託夢求遷：其子隸泰山府君之伍伯；濟作書與故吏（已亡者）託之；旬日夢兒來謝——幽冥亦有選曹。"
+      },
+      "motifs": [
+        "descent-underworld",
+        "oracle-divination",
+        "parable-teaching"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Passages are the compiler's condensed paraphrases of the Soushen Ji original. The underworld-as-bureaucracy satire."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Jiang Ji, a minister of Wei, dreamed that his dead son stood weeping before him: in the courts below he served as a common soldier under a bureau-chief, and wanted a post in the ranks of the Prefect of Mount Tai — a post his father's name could obtain with one letter.",
+          "note": "Paraphrase of Soushen Ji, juan 16, Jiang Ji entry (compiler's rendering); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "The father wrote to an old family acquaintance — dead these years and now secretary to the underworld's own prefect — and posted the letter by the only road that carries such things: he laid it on the grave and spoke the address aloud.",
+          "note": "Paraphrase of Soushen Ji, juan 16, the letter; not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "Days later the son came again in the dream, this time in new robes, bowing with the thanks of a promoted clerk. The tale's point needs no ghost at all: the underworld of the Chinese imagination runs on the same paper as the court above it — recommendations, favor, and the price of a father's signature.",
+          "note": "Paraphrase of Soushen Ji, juan 16, the thanks; not verbatim."
+        }
+      ],
+      "persons": []
+    },
+    {
+      "id": "chinese-soushen-guopu-prophecy",
+      "title": {
+        "en": "Guo Pu Divines His Own Death and the Rain of Two Prefectures",
+        "zh": "郭璞占己"
+      },
+      "tradition": "chinese",
+      "category": "myth",
+      "region": {
+        "en": "Jiankang, the eastern capital (Nanjing)",
+        "zh": "建康"
+      },
+      "lat": 32.06,
+      "lon": 118.8,
+      "period": "Soushen Ji by Gan Bao, c. 350 CE, juan 9 (Guo Pu, d. 324 CE)",
+      "source": {
+        "archive": "Wikisource (zh)",
+        "work": "Soushen Ji, juan 9: Guo Pu's divinations — the dry rain-prayer, the drowned rider, and his own appointment with the executioner",
+        "url": "https://zh.wikisource.org/wiki/%E6%90%9C%E7%A5%9E%E8%A8%98"
+      },
+      "license": "Public domain (Classical Chinese text; passages are compiler's renderings)",
+      "summary": {
+        "en": "Guo Pu, the greatest diviner of his age, was asked by the general Wang Dun — plotting revolt — to read his own fate; Pu answered with the cold number: inauspicious, and you will not succeed. Wang Dun had him killed; Pu asked only to choose the place of his execution, walked to a ground where the trees of his divination grew, and died exactly where he had ranked the spot. Earlier, asked for rain by a drought-bound prefecture, he had called for a green-scaled river-lord fetched up from the water, and an afternoon of rain that drenched two counties to their field-stones.",
+        "zh": "郭璞為王敦占筮曰『無成』；敦怒殺之；璞自擇行刑之地——璞自言命盡於今日，至南岡松柏之下行刑——其術通神，死生皆自占。"
+      },
+      "motifs": [
+        "oracle-divination",
+        "boon-curse"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Passages are the compiler's condensed paraphrases of the Soushen Ji original."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Guo Pu, master of the stalk and the compass, was brought before the general Wang Dun, who wanted one number: will my rising succeed? Pu cast and answered with the coldest word in the diviner's repertoire: inauspicious — you will not succeed.",
+          "note": "Paraphrase of Soushen Ji, juan 9, Guo Pu entry (compiler's rendering); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Wang Dun ordered him killed. Pu asked one courtesy — to choose the ground — and walked to a spot among the trees where, as he had already told the household that morning, his span would end; there he knelt, and the blade fell exactly where he had ranked it.",
+          "note": "Paraphrase of Soushen Ji, juan 9, the chosen ground; not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "The same book keeps his rain-call for the drought-bound prefecture: a boat and a green-scaled river-lord fetched up from the water, and an afternoon of rain that drenched two counties to their field-stones — the diviner who read the sky so exactly that his own death had a street address.",
+          "note": "Paraphrase of Soushen Ji, juan 9, the rain; not verbatim."
+        }
+      ],
+      "persons": []
+    },
+    {
+      "id": "chinese-soushen-wang-daoping",
+      "title": {
+        "en": "Wang Daoping and the Wife Who Came Back Twice",
+        "zh": "王道平還魂"
+      },
+      "tradition": "chinese",
+      "category": "myth",
+      "region": {
+        "en": "The border camps and the tomb of the pledged girl (pin: northern frontier)",
+        "zh": "沙場與父? 墓"
+      },
+      "lat": 38.5,
+      "lon": 112.0,
+      "period": "Soushen Ji by Gan Bao, c. 350 CE, juan 15",
+      "source": {
+        "archive": "Wikisource (zh)",
+        "work": "Soushen Ji, juan 15: Wang Daoping's war-exile, the girl's death and burial, and the ghost who named her rescuer",
+        "url": "https://zh.wikisource.org/wiki/%E6%90%9C%E7%A5%9E%E8%A8%98"
+      },
+      "license": "Public domain (Classical Chinese text; passages are compiler's renderings)",
+      "summary": {
+        "en": "Wang Daoping and the girl Tang Wenyu was pledged from youth; he was conscripted and gone ten years; her parents, sure he was dead, married her to another. She grieved, sickened, died, and was buried. Her ghost came to Daoping in his camp, told him where the mound stood, and bade him open it; he did, and she sat up alive — and the lawsuit that followed gave her back to the first, the court reading the tomb-opening as proof of a betrothal the living had forgotten.",
+        "zh": "王道平與唐文喻自幼誓為夫婦；平從軍十年，父母聘女他氏，女憂憤而卒；魂託夢於平，使發冢——開棺而蘇——復歸故夫。"
+      },
+      "motifs": [
+        "resurrection",
+        "divine-marriage",
+        "oracle-divination",
+        "ghost-return"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Passages are the compiler's condensed paraphrases of the Soushen Ji original."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Wang Daoping and the girl he had loved from childhood were pledged in youth; the draft took him for ten years, her parents married her to another in his absence, and she grieved herself into the grave within three years of the wedding.",
+          "note": "Paraphrase of Soushen Ji, juan 15, Wang Daoping entry (compiler's rendering); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Her ghost found him at the front, told him where the mound stood, and gave him the single instruction: open it. He came home on leave, dug, and the girl sat up in the coffin — three years buried, alive, and asking first about the man the court had given her.",
+          "note": "Paraphrase of Soushen Ji, juan 15, the opening; not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "The lawsuit went to the officials, who read the resurrection as the sky's own testimony: a bride who could not stay dead for her betrothed was a bride betrothed in truth. She was returned to Daoping, and the second household was paid off with the county's apology.",
+          "note": "Paraphrase of Soushen Ji, juan 15, the verdict; not verbatim."
+        }
+      ],
+      "persons": []
+    },
+    {
+      "id": "chinese-houji-dinglingwei",
+      "title": {
+        "en": "Ding Lingwei Becomes a Crane and Returns to a Changed City",
+        "zh": "丁令威化鶴"
+      },
+      "tradition": "chinese",
+      "category": "myth",
+      "region": {
+        "en": "Liaodong, the crane's home city (Liaoning)",
+        "zh": "遼東城"
+      },
+      "lat": 41.1,
+      "lon": 122.1,
+      "period": "Soushen Hou Ji (In Search of the Supernatural, Continued), attributed Tao Qian, c. 5th c. CE, juan 1",
+      "source": {
+        "archive": "Wikisource (zh)",
+        "work": "Soushen Hou Ji, juan 1: Ding Lingwei of Liaodong, the thousand years on Lingxu Mountain, and the crane's song on the city pillar",
+        "url": "https://zh.wikisource.org/wiki/%E6%90%9C%E7%A5%9E%E5%BE%8C%E8%A8%98"
+      },
+      "license": "Public domain (Classical Chinese text; passages are compiler's renderings)",
+      "summary": {
+        "en": "Ding Lingwei of Liaodong went to the Spirit-Emptiness Mountain to study the Way and became a crane; after a thousand years he flew home, lighted on the city pillar, and sang his song to the gathered people: 'There was a bird, a bird named Ding Lingwei — a thousand years gone from home, and now returned: the walls are as they were, and the people are not; why not study the immortals, and leave the mounds of dust?' — and rose into the sky, leaving the city a proverb it has never quite finished pronouncing.",
+        "zh": "丁令威，本遼東人，學道於靈虛山，後化鶴歸遼，集城門華表柱；時有少年舉弓欲射之——鶴乃飛，徘徊空中而言曰：『有鳥有鳥丁令威，去家千年今始歸。城郭如故人民非，何不學仙冢壘壘。』遂高上沖天。"
+      },
+      "motifs": [
+        "transformation",
+        "ascension",
+        "quest-immortality"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Passages are the compiler's condensed paraphrases of the Soushen Hou Ji original."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Ding Lingwei of Liaodong went up into the Spirit-Emptiness Mountain to study the Way, and learned it so thoroughly that a thousand years on he came home as a white crane, and lighted on the pillar of the city gate where he used to loiter as a boy.",
+          "note": "Paraphrase of Soushen Hou Ji, juan 1, Ding Lingwei entry (compiler's rendering); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "A young archer raised his bow at the crane; the crane rose in the air, circled, and sang its four lines to the crowd: a bird named Ding Lingwei, a thousand years from home; the walls as they were, the people not; why not study the immortals, for the mounds of the dead are stacking up. Then it flew into the sky and was not seen again — the city's mourning for its own century, delivered by a bird.",
+          "note": "Paraphrase of Soushen Hou Ji, juan 1, the song; not verbatim."
+        }
+      ],
+      "persons": []
+    },
+    {
+      "id": "chinese-houji-axiang-thundercart",
+      "title": {
+        "en": "A-Xiang and the Thunder-Cart",
+        "zh": "阿香推雷車"
+      },
+      "tradition": "chinese",
+      "category": "myth",
+      "region": {
+        "en": "The post-house of the new-yang road (pin: Henan–Shaanxi)",
+        "zh": "新陽道中"
+      },
+      "lat": 33.0,
+      "lon": 112.0,
+      "period": "Soushen Hou Ji (In Search of the Supernatural, Continued), attributed Tao Qian, c. 5th c. CE, juan 5",
+      "source": {
+        "archive": "Wikisource (zh)",
+        "work": "Soushen Hou Ji, juan 5: the girl pushing the thunder-cart at the inn, and the hail that came on her word",
+        "url": "https://zh.wikisource.org/wiki/%E6%90%9C%E7%A5%9E%E5%BE%8C%E8%A8%98"
+      },
+      "license": "Public domain (Classical Chinese text; passages are compiler's renderings)",
+      "summary": {
+        "en": "At an inn on the New-yang road a tired guest was shown to sleep by a girl who, in the night, went out to the yard, took the handles of a small cart, and pushed it into the sky — at which the thunder rolled. He told the innkeeper at breakfast; the old man turned pale: that was A-Xiang, the thunder-maid, hired to drive the storm-cart, and she has left this inn tonight for good. Wherever she pushes, hail and thunder fall — the aition of the thunder's labor: pushed, not thrown.",
+        "zh": "雨夜有女子推雷車而雷聲大作；主人曰『此阿香推雷車也』——雷車之由來：雷乃人推，非神怒。"
+      },
+      "motifs": [
+        "storm-thunder",
+        "transformation",
+        "theophany"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Passages are the compiler's condensed paraphrases of the Soushen Hou Ji original."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "At a road-inn on the New-yang road a traveler was shown to his straw by a hired girl of the house; at midnight he heard her go down to the yard, seize the handles of a small cart, and strain it upward — and the thunder answered from the sky.",
+          "note": "Paraphrase of Soushen Hou Ji, juan 5, A-Xiang entry (compiler's rendering); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "At breakfast he told the innkeeper what he had seen and heard; the old man went white and looked at the empty bed: that was A-Xiang, the thunder-maid, engaged to drive the storm-cart, and her term here ends tonight. Wherever she pushes, hail and thunder fall on the fields — and the tale fixes the thunder's origin as labor: pushed, not thrown.",
+          "note": "Paraphrase of Soushen Hou Ji, juan 5; not verbatim."
+        }
+      ],
+      "persons": []
+    }
+  ]
+}

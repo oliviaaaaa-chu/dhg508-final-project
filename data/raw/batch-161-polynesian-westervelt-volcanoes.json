@@ -1,0 +1,686 @@
+{
+  "_comment": "Polynesian expansion batch 161 - Westervelt, Hawaiian Legends of Volcanoes, Gutenberg #66516 (1916): chs. I, III-V, VII-IX, XI-XIII, XV, XVII (existing pele-volcano & pele-hiiaka cover ch. II and the Hiilaka summary). Topics 2 deity narratives, 3 heroic tales, 9 sacred landscape, 11 taboo. All passages are labeled paraphrase.",
+  "texts": [
+    {
+      "id": "polynesian-ai-laau-forest-eater",
+      "title": {
+        "en": "Ai-laau, the Forest Eater, Yields Kilauea",
+        "zh": "食林之神艾勞讓位基拉韋厄"
+      },
+      "tradition": "polynesian",
+      "category": "myth",
+      "region": {
+        "en": "Kilauea-iki pit craters, Hawaii Island",
+        "zh": "夏威夷島基拉韋厄伊基陷坑群"
+      },
+      "lat": 19.4,
+      "lon": -155.28,
+      "period": "Hawaiian oral tradition; retold 1916 (Westervelt)",
+      "source": {
+        "archive": "Project Gutenberg",
+        "work": "W. D. Westervelt, Hawaiian Legends of Volcanoes, ch. 1 (Chicago 1916)",
+        "url": "https://www.gutenberg.org/ebooks/66516"
+      },
+      "license": "Public domain (Westervelt 1916)",
+      "summary": {
+        "en": "Before Pele, Hawaii had a fire-god already: Ai-laau, 'the one who eats trees', whose black-smelling path of lava laid South Hawaii desolate - though his fires built the islands for future life. He lived in the pit craters of Kilauea-iki, then in the great crater. When Pele, landing at Ke-ahi-a-laka in Puna, felt the desire to see the god to whom Kilauea belonged, Ai-laau saw her coming, made himself thoroughly lost, and vanished - 'trembling dread and heavy fear overpowered him'. Pele dug day and night and fastened herself tight to Hawaii for all time.",
+        "zh": "佩蕾到來之前，夏威夷已有火神艾勞——『食樹者』，熔岩所至，南部沃野盡毀；然其火亦為造島之功。他久居基拉韋厄伊基的陷坑群，後入大火山口。佩蕾自普納凱阿希拉卡登陸，一心欲見基拉韋厄之主；艾勞遠遠望見她便『惶懼難當』，遁形匿跡。佩蕾晝夜掘挖，終將自己牢牢釘在夏威夷，萬世不移。"
+      },
+      "motifs": [
+        "sacred-kingship",
+        "sacred-place",
+        "sacred-tree"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Succession-of-fire-gods legend."
+      },
+      "persons": [],
+      "passages": [
+        {
+          "id": "1",
+          "text": "When Pele came to the island Hawaii, seeking a permanent home, she found another god of fire already in possession of the territory. Ai-laau was known and feared by all the people. Ai means 'the one who eats or devours'; laau means tree or a forest; Ai-laau was therefore the fire-god devouring forests. Time and again he laid the districts of South Hawaii desolate by the lava he poured out from his fire-pits. He was the god of the insatiable appetite, the continual eater of trees, whose path through forests was covered with black smoke fragrant with burning wood, and sometimes burdened with the smell of human flesh charred into cinders in the lava flow.",
+          "note": "Paraphrase of W. D. Westervelt, Hawaiian Legends of Volcanoes, ch. 1 (1916); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Ai-laau seemed to be destructive and was so named by the people, but his fires were a part of the forces of creation: he built up the islands for future life. The process of creation demanded volcanic activity; the flowing lava made land; the lava disintegrating made earth deposits and soil; upon this land storms fell and through it multitudes of streams found their way to the sea. He lived, the legends say, for a long time in a very ancient part of Kilauea, now separated by a narrow ledge from the great crater and called Kilauea-iki, little Kilauea - the first and greatest of the line of pit craters extending from the great lake of fire to the seacoast, sunken pits going deep down into the earth, some still having blowholes of sputtering steam and smoke. After a time Ai-laau left these pit craters and went into the great crater.",
+          "note": "Paraphrase of W. D. Westervelt, Hawaiian Legends of Volcanoes, ch. 1 (1916); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "In one of the Pele stories is the account of her taking Kilauea: 'When Pele came to the island Hawaii, she first stopped at a place called Ke-ahi-a-laka in the district of Puna. From this place she began her inland journey toward the mountains. As she passed on her way there grew within her an intense desire to go at once and see Ai-laau, the god to whom Kilauea belonged, and find a resting-place with him as the end of her journey. She came up, but Ai-laau was not in his house. Of a truth he had made himself thoroughly lost.",
+          "note": "Paraphrase of W. D. Westervelt, Hawaiian Legends of Volcanoes, ch. 1 (1916); not verbatim."
+        },
+        {
+          "id": "4",
+          "text": "He had vanished because he knew that this one coming toward him was Pele. He had seen her toiling down by the sea at Ke-ahi-a-laka. Trembling dread and heavy fear overpowered him. He ran away and was entirely lost. When Pele came to that pit she laid out the plan for her abiding home, beginning at once to dig up the foundations. She dug day and night and found that this place fulfilled all her desires. Therefore, she fastened herself tight to Hawaii for all time.' These are the words in which the legend disposes of this ancient god of volcanic fires.",
+          "note": "Paraphrase of W. D. Westervelt, Hawaiian Legends of Volcanoes, ch. 1 (1916); not verbatim."
+        }
+      ]
+    },
+    {
+      "id": "polynesian-pele-owl-ghost-god",
+      "title": {
+        "en": "Pele's Lightning and the Owl Ghost-god",
+        "zh": "佩蕾雷火與鴞神相搏"
+      },
+      "tradition": "polynesian",
+      "category": "myth",
+      "region": {
+        "en": "Kauai, Ka-lalau precipice (symbolic pin)",
+        "zh": "考愛島卡拉勞崖（象徵性定位）"
+      },
+      "lat": 22.13,
+      "lon": -159.57,
+      "period": "Hawaiian oral tradition; retold 1916 (Westervelt)",
+      "source": {
+        "archive": "Project Gutenberg",
+        "work": "W. D. Westervelt, Hawaiian Legends of Volcanoes, ch. 3 (Chicago 1916)",
+        "url": "https://www.gutenberg.org/ebooks/66516"
+      },
+      "license": "Public domain (Westervelt 1916)",
+      "summary": {
+        "en": "Chief Koa hires the dragon Pii-ka-lalau to destroy his rival Kau. Twelve feet high with tusks like a wild hog, the giant smashes the chief's shoulder and routs his warriors, until the chief's wife binds him with an ikoi cord and an old prophetess, a worshipper of Pele, prays: Pele's lightning darts fall from a clear sky. Pii calls his owl ghost-god Pueo, who catches the fiery darts in its beak and tosses them away - until spear and stone overwhelm them both, and the dragon changes form and dashes up his precipice home, never to trouble the chief by the sea again.",
+        "zh": "酋長科亞僱龍族庫普阿皮伊卡拉勞剷除政敵考。身高一丈二、獠牙如野豬的巨人重創考、擊潰其戰士；酋長之妻以伊科伊繩索縛其身，老女先知——佩蕾的信徒——奮力禱告：晴空之中佩蕾的雷火之鏢接連射落。皮伊喚出其鴞神普埃奧；巨鴞以喙接住火鏢，甩首棄地。然矛石如雨，二者重傷；皮伊現出龍形，竄上絕崖歸穴，從此不再擾海濱之酋。"
+      },
+      "motifs": [
+        "theophany",
+        "spirit-possession",
+        "storm-thunder"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ghost-god (aumakua) combat; Pele appears through a priestess's intercession."
+      },
+      "persons": [],
+      "passages": [
+        {
+          "id": "1",
+          "text": "Many, many years after Pele's angry sister Na-maka-o-ka-hai had driven her from the island Kauai and after the land had many dwellers therein, a quarrel arose between two of the highest chiefs of the island, named Koa and Kau. Koa was filled with such deep hatred that he was ready to employ any means to destroy his enemy. There was a mighty Kupua, or dragon of the Pii family, at that time on Kauai; these dragons had come, according to the legends, to the Hawaiian Islands from the far-away lands of Kuai-he-lani as attendants on the first young chief Kahanai-a-ke-Akua, and had the mana, or magic power, of appearing as men or as dragons according to their desire. This dragon was named Pii-ka-lalau, Pii the one dwelling at Ka-lalau; he was supposed to be semi-divine, and his home was on the crest of an almost inaccessible precipice up which he would rush with incredible speed. Koa came to this precipice and called Pii to come to him; there they plotted the death of Kau, and assuming the appearance of a splendidly formed young man, Pii went down among the natives with Koa to watch for an opportunity to seize him.",
+          "note": "Paraphrase of W. D. Westervelt, Hawaiian Legends of Volcanoes, ch. 3 (1916); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "After a time Kau was lured to go at night to a house far from his own home; as he entered the door he received a heavy blow which smashed the bones of one shoulder and laid him prostrate. A great giant leaped out, thrusting an enormous spear at him; Kau was one of the most skilful of all chiefs in spear practice, avoided the thrusts and leaped to his feet. Just as he was becoming too weary to move, his wife, who had followed him, hurled rocks striking the giant's face, then seizing her husband fled with him homeward. There followed a great battle in which Pii attacked all the warriors belonging to the wounded chief: this giant was twelve feet high, he had eyes as large as a man's fist, and an immense mouth full of tusks like those of a wild hog; his legs were as large as trees, and his weight was such that wherever he stepped there were great holes in the ground. The warriors fled as the mighty giant charged upon them; their chief's wife caught an ikoi, a heavy piece of wood fastened to a long stout cord, and hurled it so that it twisted around him and bound his arms to his sides; stones and spears beat upon him, but he broke the coco-fibre cords and again drove the warriors before him, trying to gain the house where the wounded chief Kau was lying.",
+          "note": "Paraphrase of W. D. Westervelt, Hawaiian Legends of Volcanoes, ch. 3 (1916); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "There was an old prophetess who had rushed to the side of her master when he was brought to his home; she was one of the worshippers of Pele, the fire-goddess of the island Hawaii, and powerful were her prayers and incantations. Soon out of the clear sky above the conflict appeared Pele hurling a fierce bolt of lightning at the giant; it struck the ground at his feet, almost overthrowing him, and a second flash of lightning blinded and stunned him. It was a curious element of old Hawaiian belief, but they did believe that demi-gods and supernatural beings had au-makuas, or ghost-gods, the spirits of their ancestors, to whom they prayed and offered sacrifice as if they were common people and needed ghost-gods to take care of them. Pii, smitten by this new danger, called for Pueo, his most mighty ghost-god - a great owl in which dwelt one of the most powerful of Pii's ancestors.",
+          "note": "Paraphrase of W. D. Westervelt, Hawaiian Legends of Volcanoes, ch. 3 (1916); not verbatim."
+        },
+        {
+          "id": "4",
+          "text": "Pueo hovered over the head of Pii facing Pele; whenever Pele hurled her fiery darts, the owl swiftly thrust his head from side to side, catching them in his beak, and with a shake of the head tossing them off to the ground. Then came the warriors in a great body around the giant and his ghost-god; thickly flew their spears and darts, great clouds of stones were hurled, and both Pii and his owl-god were grievously wounded. The giant called to his au-makua to fly to the mountains, and suddenly changing himself into his dragon form, dashed up the precipice toward his home; the warriors, surprised at the wonderful change, saw him leaping from stone to stone and swiftly gliding up the steep precipice. He escaped to his home in the mountain recesses and nevermore troubled the chief by the sea; his employer was killed in a later battle, and Pele returned to her home in the volcano Kilauea.",
+          "note": "Paraphrase of W. D. Westervelt, Hawaiian Legends of Volcanoes, ch. 3 (1916); not verbatim."
+        }
+      ]
+    },
+    {
+      "id": "polynesian-hills-of-pele-kahuku",
+      "title": {
+        "en": "The Hills of Pele at Kahuku",
+        "zh": "卡胡庫的佩蕾之丘"
+      },
+      "tradition": "polynesian",
+      "category": "myth",
+      "region": {
+        "en": "Kahuku, southern Hawaii Island",
+        "zh": "夏威夷島南部卡胡庫"
+      },
+      "lat": 18.95,
+      "lon": -155.63,
+      "period": "Hawaiian oral tradition; retold 1916 (Westervelt)",
+      "source": {
+        "archive": "Project Gutenberg",
+        "work": "W. D. Westervelt, Hawaiian Legends of Volcanoes, ch. 4 (Chicago 1916)",
+        "url": "https://www.gutenberg.org/ebooks/66516"
+      },
+      "license": "Public domain (Westervelt 1916)",
+      "summary": {
+        "en": "Pele the holua-sled racer appears as an athletic princess on the grass hillsides of Kahuku; two young chiefs race her for hours, each jealous of the other. Warned that their beautiful stranger may be the goddess whose home is Halemaumau, they draw away - but the grass dies, the soil grows warm, earthquakes come, and her appearance changes: hair floating in tangled masses, arms shining with fire, breath pouring volumes of smoke. She stamps; the fiery flood sweeps Kahuku, hemming the chiefs from north and south until at the sea she seizes each lover and builds the Hills of Pele over them - mounds later lava flows have always spared.",
+        "zh": "佩蕾以健美公主之姿現身卡胡庫草坡，與兩位年輕酋長竟日馳橇比賽；二人互妒，皆欲娶她。有人警示：這絕色佳人恐是希雷毛毛火山口的主人；他們漸生退意——然而青草枯萎、地面灼熱、地動頻傳；她散髮如亂雲、四肢透火光、呼息噴濃煙。她頓足作怒，火洪吞沒卡胡庫，北堵南截，直逼海灘；在海濱她逐一擒獲舊日情人，堆成兩座『佩蕾之丘』——後世熔岩之流皆繞此二丘而行，從未淹沒。"
+      },
+      "motifs": [
+        "taboo-transgression",
+        "storm-thunder",
+        "sacred-place",
+        "jealousy"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Explains the twin lava mounds Na Puu o Pele near Kahuku."
+      },
+      "persons": [],
+      "passages": [
+        {
+          "id": "1",
+          "text": "Kahuku, the land now under past and present lava flows, was at one time luxuriant and beautiful: the sugar-cane and taro beds were bordered by flowers and shaded by long-branching trees, and villages marked the population which supported the chiefs. Two of the young chiefs were splendid specimens of savage manhood; they both excelled in the sports and athletic feats which were the chief occupation of those days. Wherever a hillside was covered with grass and the ground properly sloping, holua races were carried on - very narrow sleds with long runners; the body was thrown headlong on the sled as it was pushed over the brink of the little hill at the beginning of the slide, and only the very skilful dared stand upright during the swift descent. Pele, the goddess of fire, loved this sport and often appeared as a beautiful and athletic princess; she carried her sled with her to Kahuku to the holua hillside, and easily surpassed all the women in grace and daring. Soon the two handsome young chiefs saw her and challenged her to race with them; for hours they sported together, the chiefs led captive by the charms of the goddess, jealous of each other, striving to win Pele each to his own home.",
+          "note": "Paraphrase of W. D. Westervelt, Hawaiian Legends of Volcanoes, ch. 4 (1916); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "At last the young men became suspicious of their companion: her love was so fitful and capricious, sometimes burning with a raging fire toward her friends and sometimes filled with hot anger on very slight provocation. At last a warning came that this beautiful stranger might be the goddess Pele from the other side of the island - that her home was in Halemaumau, the continuing house, of the volcano Kilauea; her attendants the always leaping flames; the caves filled with rolling waves of fire her dwelling-rooms; that she carried the control of the fires of the underworld with her wherever she went. The young chiefs began to draw away from their dangerous visitor, but Pele made it difficult for them to escape from her presence, continually calling them to race with her. At last the grass began to die; the soil became warm and the heat intense; slight earthquakes made themselves felt, and the tides were more snappy as they cast their surf waves along the beach.",
+          "note": "Paraphrase of W. D. Westervelt, Hawaiian Legends of Volcanoes, ch. 4 (1916); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "The chiefs became afraid. Pele saw it and was overcome with anger. Her appearance changed: her hair floated out in tangled masses touched by the breath of hot winds; her arms and limbs shone as if enwrapped with fire; her eyes blazed like lightning, and her breath poured forth in volumes of smoke. In great terror the chiefs rushed toward the sea. Pele struck the ground heavily with her feet; again and again she stamped in wrath, and earthquakes swept the lands of Kahuku; then the awful fiery flood broke from the underworld and swept down over Kahuku. On the crest of the falling torrent of fire rode Pele, flashing the fires of her anger in great explosions above the flood. The chiefs tried to flee toward the north, but Pele hurled the fiercest torrents beyond them to turn them back; then they fled toward the south, but Pele again forced them back upon their own lands. Then they hurried down to the beach hoping to catch one of their canoes; swiftly came the fiery flood behind them - Pele was urging the underworld forces to their utmost speed, shrieking like fierce whistling winds, tearing her hair and throwing it away in bunches.",
+          "note": "Paraphrase of W. D. Westervelt, Hawaiian Legends of Volcanoes, ch. 4 (1916); not verbatim."
+        },
+        {
+          "id": "4",
+          "text": "Nearer and nearer to the sea came the swift runners; but Pele leaped from the flowing lava and threw her burning arms around the nearest one of her former lovers - in a moment the lifeless body was thrown to one side, and the lava piled itself up around it while at the command of Pele a new gush of lava rose up like a fresh crater and swallowed up all that was left. The other chief was petrified by fear and horror; in a moment Pele seized him and called for another outburst of lava, which rose up rapidly around them. In a few minutes the Hills of Pele were built. Thus the lovers of Pele died and thus their tombs were made; for many years, even from ancient times, they have marked the destruction of the beautiful lands of Kahuku, and later lava flows have turned aside to spare the monuments of the chiefs with whom Pele played for a time.",
+          "note": "Paraphrase of W. D. Westervelt, Hawaiian Legends of Volcanoes, ch. 4 (1916); not verbatim."
+        }
+      ]
+    },
+    {
+      "id": "polynesian-pele-puna-chiefs",
+      "title": {
+        "en": "The Chiefs of Puna Who Defied Pele",
+        "zh": "普納三位冒犯佩蕾的酋長"
+      },
+      "tradition": "polynesian",
+      "category": "myth",
+      "region": {
+        "en": "Puna district, Hawaii Island",
+        "zh": "夏威夷島普納區"
+      },
+      "lat": 19.53,
+      "lon": -155.05,
+      "period": "Hawaiian oral tradition; retold 1916 (Westervelt)",
+      "source": {
+        "archive": "Project Gutenberg",
+        "work": "W. D. Westervelt, Hawaiian Legends of Volcanoes, ch. 5 (Chicago 1916)",
+        "url": "https://www.gutenberg.org/ebooks/66516"
+      },
+      "license": "Public domain (Westervelt 1916)",
+      "summary": {
+        "en": "Three chiefs of Puna pay for slighting the fire-goddess. Kumu-kahi ridicules an old woman who demands a share in the games - her anger flashes in a fountain of volcanic fire, and the cape named for him forms at the island's southeast point. Papa-lau-ahi beats Pele in a sled race; the watching people are turned into a field of standing lava pillars, and he is swept up by her fiery surf. Ka-pa-pala boasts he can ride his surf-board on her lake of fire and stands on his head on the wave; the aumakuas hurl fire-waves against him and he drops into the heart of the flame.",
+        "zh": "普納三酋先後觸怒火神。庫穆卡希嘲笑討要遊戲份兒的老嫗——火泉驟發，追逐至海，熔岩堆成海岬，即今島東南端之庫穆卡希角。帕帕勞阿希在滑橇賽中勝過佩蕾：圍觀百姓盡化為千根矗立熔岩柱，他本人被火焰之浪捲入。卡帕帕拉誇口能在火湖上衝浪，甚至倒立踏浪炫耀；佩蕾召喚廟中鬼神擲出對面火浪，浪頭翻捲，酋長與滑板一同墜入烈焰之心。"
+      },
+      "motifs": [
+        "taboo-transgression",
+        "transformation",
+        "sacred-place"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Explains Cape Kumukahi, the lava-stump field and Ke-pa-pala's fate."
+      },
+      "persons": [],
+      "passages": [
+        {
+          "id": "1",
+          "text": "According to the legends, Pele was very quickly angered; her passions were as turbulent as the lake of fire in her crater home - her love burned, but her anger devoured. Kumu-kahi was a chief who pleased Pele; according to the legends he was tall, well built and handsome, a great lover of the ancient games. Apparently he had known Pele only as a beautiful young chiefess; for one day, when he was playing with the people, an old woman with fiery eyes came to him demanding a share in the sports. He ridiculed her; she was very persistent; he treated her with contempt. In a moment her anger flashed out in a great fountain of volcanic fire; she chased the chief to the sea, caught him on the beach, heaped up a great mound of broken lava over him, and poured her lava flood around him and beyond him far out into the ocean. Thus the traditions say Cape Kumu-kahi, the southeast point of the island Hawaii, was formed; here kings, chiefs and priests have come for ages to build great piles of lava rock with many ceremonies, calling them funeral mounds and naming them after the builders.",
+          "note": "Paraphrase of W. D. Westervelt, Hawaiian Legends of Volcanoes, ch. 5 (1916); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Papa-lau-ahi, the-fire-leaf-smothered-out, was a chief who at one time ruled the district of Puna; he excelled in the sports of the people and almost always was the victor. One day the chiefs were sporting on the hillsides around a plain where a multitude of people could see and applaud. Pele heard a great noise of shouting and clapping hands and desired to see the sport; in the form of a beautiful woman she suddenly appeared on the crest of one of the hills down which Papa-lau-ahi had been coasting. Borrowing a sled from one of the chiefs she prepared to race with him; he was the more skilful and soon proved to her that she was beaten. Then followed taunts and angry words and the sudden absolute loss of all self-control on the part of Pele: she stamped on the ground and floods of lava broke out, destroying many of the chiefs as they fled in every direction; the watching people, overcome with wonder and fear, were turned into a multitude of pillars of lava, never changing, never moving through all the ages. Papa-lau-ahi fled from his antagonist, but she rode on her fiery surf waves, urging them on faster and faster until she swept him up in the flames of fire, destroying him and all his possessions.",
+          "note": "Paraphrase of W. D. Westervelt, Hawaiian Legends of Volcanoes, ch. 5 (1916); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "Another chief was Ke-lii-kuku, the Puna chief who boasted; he was proud of Puna, celebrated in song and legend - 'Beautiful Puna! Clear and beautiful, like a mat spread out; shining like sunshine, edged by the forest of Malio.' He visited Oahu, always boasting that nothing could be compared with Puna and its sweet-scented trees and vines. He met a prophet of Pele, Kane-a-ka-lau, whose home was on Kauai, and boasted, 'I am Ke-lii-kuku of Puna; my country is charming; abundance is found there; rich sandy plains are there where everything grows wonderfully.' The prophet ridiculed him: 'Return to your beautiful country; you will find it desolate. Pele has made it a heap of ruins; the trees have descended from the mountains to the sea; the ohia and puhala are on the shore; the houses of your people are burned; your land is unproductive; you have no people; you cannot live in your country any more.' The chief was angry and yet frightened, and told the prophet he would go back and see if that word were true or false - if false, he would return and kill him. Swiftly the oarsmen and the mat sails took him back to his island; as he came around the eastern side of Hawaii he landed and climbed to the highest point from which he could have a glimpse of his loved Puna. There in the distance it lay under heavy clouds of smoke covering all the land; when the winds lifted the clouds he saw that all his fertile plain was black with lava, still burning and pouring out constantly volumes of dense smoke, the remnants of forests covered with clouds of smoke through which darted flashing flames climbing to the tops of the tallest trees. Pele had heard the boasting chief and had shown that no land around her pit of fire was secure against her will. Ke-lii-kuku caught a long vine, hurled it over a tree, and hung himself.",
+          "note": "Paraphrase of W. D. Westervelt, Hawaiian Legends of Volcanoes, ch. 5 (1916); not verbatim."
+        },
+        {
+          "id": "4",
+          "text": "Another chief by the name of Ka-pa-pala heard of Pele; he went to the edge of the crater and there found a group of beautiful women. He was welcomed by Pele; they delighted in each other, and many were the games and contests. The chief was so frequently the victor that at last he boasted that he could ride his surf-board on the waves of her lake of fire. She was angry at the thought that he dared to desecrate her sacred home; he defied her, caught his surf-board, threw it on a wave as it struck the encircling wall, then leaped on his board and launched out on the fire-waves; it is said that, to show his contempt for the power of Pele, he even stood on his head and was carried safely for a time on the crest of the red rolling surf. Pele became very angry as she saw him fleeing from her over the lake of fire, so she called to her fire-servants, the au-makuas or ghost-gods of the crater, and they hurled other fire-waves across the lake against the one the chief was riding; these twisted and turned that wave, broke its crest, and the chief and his surf-board were tossed up in a whirlpool of fire - then he dropped into the heart of the flame and was lost.",
+          "note": "Paraphrase of W. D. Westervelt, Hawaiian Legends of Volcanoes, ch. 5 (1916); not verbatim."
+        }
+      ]
+    },
+    {
+      "id": "polynesian-kahawali-holua-race",
+      "title": {
+        "en": "Kaha-wali and the Sled Race Down the River of Fire",
+        "zh": "卡哈瓦里：火河上的滑橇賽"
+      },
+      "tradition": "polynesian",
+      "category": "myth",
+      "region": {
+        "en": "Kapoho, Puna, Hawaii Island",
+        "zh": "夏威夷島普納卡波霍"
+      },
+      "lat": 19.5,
+      "lon": -154.98,
+      "period": "Hawaiian oral tradition (dated c. 1350 in tradition); retold 1916 (Westervelt)",
+      "source": {
+        "archive": "Project Gutenberg",
+        "work": "W. D. Westervelt, Hawaiian Legends of Volcanoes, ch. 7 (Chicago 1916)",
+        "url": "https://www.gutenberg.org/ebooks/66516"
+      },
+      "license": "Public domain (Westervelt 1916)",
+      "summary": {
+        "en": "The Kauai sled-master Kaha-wali crosses the seas to race Pele in disguise; he lends nothing to the 'old woman' - 'Are you my wife, that you should have my holua?' - while his friend Ahua kindly yields his sled. Refused and spurned, the stranger's eyes turn to hot coals; the hill opens and lava pours down the sled course. Pele rides the river of fire on her own papa-holua; Kaha-wali runs past mother, wife and children, kisses his pet hog Aloi-puaa farewell (changed into a black stone in the fire-channel), crosses the chasm on his spear, and escapes by sea as Pele hurls red-hot rocks.",
+        "zh": "考愛島滑橇名手卡哈瓦里渡海與佩蕾比賽；對『老嫗』的借橇之請他譏諷拒絕——『你配用我的滑橇嗎？』——友人阿華卻慨然相借。被拒被辱的女神眼中燃炭，山腹裂開，熔岩順滑道傾瀉。佩蕾自乘其聖橇馳於火河之上；卡哈瓦里辭母別妻棄子，與愛豬阿洛伊普瓦亞碰鼻作別——豬被化為火道中央的黑色巨石——擲矛跨過地裂，最終乘舟遁海，佩蕾向其擲擲赤熱之石。諺云：莫慢待老嫗，或許她便是佩蕾。"
+      },
+      "motifs": [
+        "taboo-transgression",
+        "transformation",
+        "boon-curse"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Origin of the proverb 'Never abuse an old woman; she might be Pele'."
+      },
+      "persons": [],
+      "passages": [
+        {
+          "id": "1",
+          "text": "For a long, long time the Hawaiians have had the proverb 'Never abuse an old woman; she might be Pele.' This saying belonged especially to the story of her punishment of Kaha-wali. Kaha-wali was a chief born and brought up on the island Kauai, which was one of the first on which volcanic fires were extinct - the Garden Island, whose hillsides were covered with grass which afforded the very best facilities for sliding down hill. Hee-nalu meant surf-riding, and heeholua meant sled-riding down grassy hillsides; the sleds were usually made of hard, dark kauila wood, the runners seven, twelve or even eighteen feet long, fastened together with crosspieces, and so narrow that staying on the sled became one of the most interesting contests in which chiefs and people delighted. Kaha-wali excelled all the Kauai chiefs in this sport, so he determined to test his skill on the other islands, having heard of a beautiful young chiefess on the distant island Hawaii who was a wonderful holua rider; his first great contest should be with Pele.",
+          "note": "Paraphrase of W. D. Westervelt, Hawaiian Legends of Volcanoes, ch. 7 (1916); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Kaha-wali filled his canoes with choice sleds, mats, cloaks, calabashes, spears, all the property needed for his visit; he took his wife Kanaka-wahine, his two children, his sister Koai, his younger brother, and Ahua, one of the young chiefs who was his aikane, his intimate friend, and his retainers and their baggage, and among the most cherished of all his favorite pig, Aloi-puaa. They journeyed from island to island; Kaha-wali passed on to Hawaii and landed at Kapoho in the district of Puna, where he built houses for himself and his retainers and settled down as if he belonged to the country. The visitors entered heartily into the sports of the people, and after a time climbed some lava hills and began holua races; crowds came to watch and applaud, with musicians, dancers, wrestlers and boxers adding to the interest.",
+          "note": "Paraphrase of W. D. Westervelt, Hawaiian Legends of Volcanoes, ch. 7 (1916); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "A woman of ordinary appearance came to the hilltop as Kaha-wali and Ahua prepared for a race. She said, 'I wish to ride. Let me take your holua.' The chief replied, 'What does an old woman like you want with a holua? You do not belong to my family, that I should let you take mine.' Then she turned to Ahua and asked for his holua, and he kindly gave it to her. Together the chief and the woman dashed to the brow of the hill, threw themselves on their holuas and went headlong down the steep course; the woman soon lost her balance, the holua rolled over and hurled her some distance down the hill. She challenged the chief to another start, and when they were on the hilltop asked him for his papa-holua, knowing that a high chief's property was very sacred and could not be used by those without rank. Kaha-wali thought this was a common native and roughly refused her request, saying, 'Are you my wife - that is, my equal in rank - that you should have my holua?' Then he ran swiftly, started his holua, and sped toward the bottom of the hill. Anger flashed in the face of the woman, for she had been spurned and deserted: her eyes were red like hot coals of fire; she stamped on the ground; the hill opened beneath her and a flood of lava burst forth and began to pour down into the valley, following and devastating the holua course, and spreading out over the whole plain.",
+          "note": "Paraphrase of W. D. Westervelt, Hawaiian Legends of Volcanoes, ch. 7 (1916); not verbatim."
+        },
+        {
+          "id": "4",
+          "text": "Assuming her supernatural form as the goddess of fire, Pele rode down the hill on her own papa-holua on the foremost wave of the river of fire; she was no longer the common native, but was the beautiful young chiefess in her fire-body, eyes flaming and hair floating back in clouds of smoke, leaning forward to catch her antagonist and urging her fire-waves to the swiftest possible action, while explosions of bursting lava resounded like thunder all around her. Kaha-wali leaped from his holua as it came to the foot of the hill, threw off his kihei, caught his spear, and, calling Ahua to follow, ran toward the sea. The valley quickly filled with lava and the people were speedily swallowed up. He rushed past his home; Ellis says: 'He saw his mother who lived at Ku-kii, saluted her by touching noses, and said, Aloha ino oe - compassion rest on you, close here perhaps is your death, Pele comes devouring. Then he met his wife; the fire-torrent was near at hand; she said, Stay with me here and let us die together; he said, No, I go! I go!' So he left his wife and his children. Then he met his pet hog Aloi-puaa and stopped for a moment to salute it by rubbing noses; the hog was caught by Pele in a few moments and changed into a great black stone in the heart of the channel, left as the centre of the river of fire flowed on to destroy the two fleeing chiefs - rocks scattered along the banks of this old channel are pointed out as the individuals and the remnants of houses destroyed by Pele. The chiefs came to a deep chasm in the earth; they could not leap over it; Kaha-wali crossed on his spear and pulled his friend over after him. On the beach he found a canoe left by his younger brother, who had just landed and hastened inland to try to save his family; Kaha-wali and Ahua leaped into the boat and pushed out into the ocean. Pele soon stood on the beach hurling red-hot rocks at him which the natives say can still be seen lying on the bottom of the sea. Thus did Kaha-wali learn that he must not abuse an old woman, for she might be Pele.",
+          "note": "Paraphrase of W. D. Westervelt, Hawaiian Legends of Volcanoes, ch. 7 (1916); not verbatim."
+        }
+      ]
+    },
+    {
+      "id": "polynesian-kamapuaa-pele-battle",
+      "title": {
+        "en": "Kamapuaa Floods the Pit of Pele",
+        "zh": "豬神卡馬普瓦阿水淹火山"
+      },
+      "tradition": "polynesian",
+      "category": "myth",
+      "region": {
+        "en": "Kilauea crater, Hawaii Island",
+        "zh": "夏威夷島基拉韋厄火山口"
+      },
+      "lat": 19.41,
+      "lon": -155.29,
+      "period": "Hawaiian oral tradition; retold 1916 (Westervelt)",
+      "source": {
+        "archive": "Project Gutenberg",
+        "work": "W. D. Westervelt, Hawaiian Legends of Volcanoes, ch. 8 (Chicago 1916)",
+        "url": "https://www.gutenberg.org/ebooks/66516"
+      },
+      "license": "Public domain (Westervelt 1916)",
+      "summary": {
+        "en": "Fire against water: the hog-god of Oahu and the fire-goddess of Hawaii duel to the limits of the elements. Kamapuaa gathers the ocean into the crater while Pele's fires blast the intruder; his chant summons black storms until the crater overflows and only a spark of fire hides in Lono-makua's breast - then the underworld gods rekindle eruptions more than the hog-god can endure. As a field of grass, as a singed man, at last as a fish he escapes through boiling waves - the humuhumunukunukuapuaa - and the two demi-gods divide Hawaii and the northwest islands under an oath never broken.",
+        "zh": "火與水之戰：瓦胡豬神對夏威夷火神。卡馬普瓦阿引海水灌入火山口，佩蕾以地火轟擊；他誦咒召來黑雲暴雨，直至湖水漫過火山口緣、僅剩一星火種藏於龍諾馬庫阿胸中——冥界諸神重燃噴發，火勢之猛令豬神難當。他化作草地擋火、化作焦毛之人、終化為魚破滾沸之浪而逃——此魚便是『呼嚕呼嚕努庫努庫阿普瓦亞』。二神遂劃界立誓：夏威夷南部歸佩蕾，西北群島歸豬神，此誓至今未破。"
+      },
+      "motifs": [
+        "flood",
+        "sibling-creators",
+        "storm-thunder"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Fire-vs-sea cosmological duel; division of the islands by oath."
+      },
+      "persons": [],
+      "passages": [
+        {
+          "id": "1",
+          "text": "It was demi-god against demi-goddess - the goddess-of-fire of Hawaii against the hog-god of Oahu. Pele's home life was given up, the bitterness of strife swept over the black sands of the seashore. When the earth seemed ready to open its doors and pour out mighty streams of flowing lava in the defence of Pele, Kama-puaa called for the waters of the ocean to rise up; then flood met fire and quenched it. Pele was driven inland; her former lover, hastening after her and striving to overcome her, followed her upward until at last amid clouds of poisonous gases she went back into her spirit home in the pit of Kilauea.",
+          "note": "Paraphrase of W. D. Westervelt, Hawaiian Legends of Volcanoes, ch. 8 (1916); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Then Kama-puaa as a god of the sea gathered the waters together in great masses and hurled them into the fire-pit; violent explosions followed the inrush of waters, the sides of the great crater were torn to pieces by fierce earthquakes, masses of fire expanded the water into steam, and Pele gathered the forces of the underworld to aid in driving back Kama-puaa. The lavas rose in many lakes and fountains; rapidly the surface was cooled and the fountains checked by the water thrown in, but just as rapidly were new openings made and new streams of fire hurled at the demi-god of Oahu. It was a mighty battle of the elements. The hog-man poured water into the crater until its fires were driven back to their lowest depths and Pele was almost drowned by the floods; the clouds of the skies dropped their burden of rain, and all the waters of the sea that Kama-puaa could collect were poured into the crater. Pele sent Lono-makua, who had charge over the earth-fires; he kindled eruptions manifold, but they were overwhelmed by the vast volumes of water hurled against them.",
+          "note": "Paraphrase of W. D. Westervelt, Hawaiian Legends of Volcanoes, ch. 8 (1916); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "Kama-puaa raised his voice in the great ancient chant: 'O gods in the skies! Let the rain come, let it fall. Let Paoa, Pele's spade, be broken. Let the rain be separated from the sun. O clouds in the skies! O great clouds of Iku! black as smoke! Let the heavens fall on the earth, let the heavens roll open for the rain, let the storm come.' The storm fell in torrents from black clouds gathered right over the pit; the water filled the crater, rising until it overflowed the walls of the crater; the fires were imprisoned and drowned - the home of Pele seemed to be destroyed. There remained, however, a small spark of fire hidden in the breast of Lono-makua. Kama-puaa thought he had destroyed Pele's resources, but just as his wonderful storms had put forth their greatest efforts, Lono-makua kindled the flames of fierce eruptions once more; the gods of the underworld lent their aid to the Pele family, and the new attack was more than Kama-puaa could endure - the lua-pele was full of earth-fire, and streams of lava poured out against him.",
+          "note": "Paraphrase of W. D. Westervelt, Hawaiian Legends of Volcanoes, ch. 8 (1916); not verbatim."
+        },
+        {
+          "id": "4",
+          "text": "He changed his body into a kind of grass now known as Ku-kae-puaa, filling a large field with it; when the grass lay in the pathway of the fire the lava was turned aside for a time, but Pele, inspired by the beginning of victory, called anew upon the gods of the underworld for strong reinforcements. Out from the pits of Kilauea came vast masses of lava piling up against the field of grass, and soon the grass began to burn; then Kama-puaa assumed the shape of a man, the hair or bristles on his body singed and the smart of many burns beginning to cause agony - the legends say that since this time hogs have had very little hair on the stomach. Down he rushed to the sea, but the lava spread out on either side cutting off retreat along the beach; Pele followed close behind, striving to overtake him before he could reach the water, and threw great masses of lava at him, striking and churning the sea into which he leaped midst the swirling heated mass. Kama-puaa gave up the battle, and, thoroughly defeated, changed himself into a fish, to which he gave the tough skin he had assumed when roaming over the islands as a hog - thick enough to withstand the boiling waves through which he swam out into the deep sea; the Hawaiians say that this fish has always been able to make a noise like the grunting of a small hog, so it was given the name Humu-humu-nuku-nuku-a-puaa. It was said that Kama-puaa fled to foreign lands, where he married a high chiefess and lived with his family many years. Sometime during this adventure the islands were divided between the two demi-gods, and an oath of divine solemnity was taken by them: they set apart a large portion of the island of Hawaii for Pele, and the eastern shore from Hilo to Kohala and all the islands northwest of Hawaii as the kingdom over which Kama-puaa might establish rulers; it is said that the oath has never been broken. Kama-puaa has figured to the last days of Pele worship in the sacrifices offered to the fire-goddess: the most acceptable sacrifice to Pele was supposed to be puaa, a hog; if a hog could not be secured, the priest would take the fish humu-humu-nuku-nuku-a-puaa and throw it into the pit of fire.",
+          "note": "Paraphrase of W. D. Westervelt, Hawaiian Legends of Volcanoes, ch. 8 (1916); not verbatim."
+        }
+      ]
+    },
+    {
+      "id": "polynesian-peliahu-snow-goddess",
+      "title": {
+        "en": "Poliahu Overwhelms Pele with Snow",
+        "zh": "雪女神波利阿胡勝火神"
+      },
+      "tradition": "polynesian",
+      "category": "myth",
+      "region": {
+        "en": "Mauna Kea summit, Hawaii Island",
+        "zh": "夏威夷島冒納凱阿山頂"
+      },
+      "lat": 19.82,
+      "lon": -155.47,
+      "period": "Hawaiian oral tradition; retold 1916 (Westervelt)",
+      "source": {
+        "archive": "Project Gutenberg",
+        "work": "W. D. Westervelt, Hawaiian Legends of Volcanoes, ch. 9 (Chicago 1916)",
+        "url": "https://www.gutenberg.org/ebooks/66516"
+      },
+      "license": "Public domain (Westervelt 1916)",
+      "summary": {
+        "en": "Four queens of the snow-mantle - Poliahu, Lilinoe, Waiau and Kahoupokane - rule the mountains north of Kilauea, spirits of the eternal war between fire and frost. Sled-racing with Pele on the slopes below Mauna Kea, Poliahu knows her enemy as the ground warms; Pele's fire-fountains overrun the mountain, but the snow-goddess drags away her burning mantle, unfolds the snows down to the very fountains of fire, chills the lava and beats the fire-rivers back - fixing the division of the island: Pele the south, the snow-maidens the north.",
+        "zh": "雪山四女王——波利阿胡、莉莉諾埃、瓦伊奧與卡霍波卡內——統治基拉韋厄以北諸山，是冰與火永恆之戰的化身。她與佩蕾在冒納凱阿坡上比賽滑橇；地面轉熱，雪女即知勁敵在側。佩蕾撤去偽裝，火泉從山腹噴發；雪女神拖走燃燒的白披風，將冰雪一路鋪展至火泉之上——熔岩凝凍，火河倒灌。自此二神劃界：夏威夷南半屬佩蕾，北境歸雪之少女，火神南望，永不能越。"
+      },
+      "motifs": [
+        "sibling-creators",
+        "storm-thunder",
+        "sacred-place"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Fire-ice duality record; snow-maidens as anti-Pele family."
+      },
+      "persons": [],
+      "passages": [
+        {
+          "id": "1",
+          "text": "There were four maidens with white mantles in the mythology of the Hawaiians. They were all queens of beauty, full of wit and wisdom, lovers of adventure, and enemies of Pele. They were the goddesses of the snow-covered mountains; they embodied the mythical ideas of spirits carrying on eternal warfare between heat and cold, fire and frost, burning lava and stony ice. They ruled the mountains north of Kilauea and dwelt in the cloud-capped summits, clothing themselves against the bitter cold with snow-mantles, and all had the power of laying aside the white garment and taking in its place clothes made from the golden sunshine. Their stories are nature-myths derived from the power of snow and cold to check volcanic action and sometimes clothe the mountain tops and upper slopes with white, which melted as the maidens came down closer to the sea through lands made fertile by flowing streams and blessed sunshine.",
+          "note": "Paraphrase of W. D. Westervelt, Hawaiian Legends of Volcanoes, ch. 9 (1916); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Lilinoe was sometimes known as the goddess of the mountain Haleakala; in her hands lay the power to hold in check the eruptions which might break forth through the old cinder cones in the floor of the great crater, and she was the goddess of dead fires and desolation. Waiau was another snow-maiden of Mauna Kea, whose record in the legends has been almost entirely forgotten, though there is a beautiful lake glistening in one of the crater-cones on the summit of the mountain, sometimes called the Bottomless Lake, supposed to go down deep into the heart of the mountain - deep enough for the bath of the goddess. Kahoupokane was possibly the goddess of the mountain Hualalai, controlling the snows which after long intervals fall on its desolate summits. Poliahu, the best-known among the maidens of the mountains, loved the eastern cliffs of the great island Hawaii, the precipices which rise from the raging surf of the Hamakua coast; here she sported among mortals, meeting the chiefs in their many and curious games of chance and skill, sometimes wearing a mantle of pure white kapa and resting on the ledge of rock overhanging the torrents of water which fell into the sea.",
+          "note": "Paraphrase of W. D. Westervelt, Hawaiian Legends of Volcanoes, ch. 9 (1916); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "Poliahu and her friends had come down Mauna Kea to a sloping hillside south of Hamakua. Suddenly in their midst appeared a stranger of surpassing beauty; Poliahu welcomed her and the races were continued. Some of the legend-tellers think that Pele was angered by the superiority, real or fancied, of Poliahu. The ground began to grow warm and Poliahu knew her enemy. Pele threw off all disguise and called for the forces of fire to burst open the doors of the subterranean caverns of Mauna Kea; up toward the mountain she marshalled her fire-fountains. Poliahu fled toward the summit; the snow-mantle was seized by the outbursting lava and began to burn up; Poliahu grasped the robe, dragging it away and carrying it with her. Soon she regained strength and threw the mantle over the mountain. There were earthquakes upon earthquakes, shaking the great island from sea to sea; the mountains trembled while the tossing waves of the conflict between fire and snow passed through and over them; great rock precipices staggered and fell down the sides of the mountains. Clouds gathered over the mountain summit at the call of the snow-goddess; each cloud was gray with frozen moisture and the snows fell deep and fast on the mountain; farther and farther down the sides the snow-mantle unfolded until it dropped on the very fountains of fire; the lava chilled and hardened and choked the flowing, burning rivers.",
+          "note": "Paraphrase of W. D. Westervelt, Hawaiian Legends of Volcanoes, ch. 9 (1916); not verbatim."
+        },
+        {
+          "id": "4",
+          "text": "Pele's servants became her enemies; the lava, becoming stone, filled up the holes out of which the red melted mass was trying to force itself; checked and chilled, the lava streams were beaten back into the depths of Mauna Loa and Kilauea; the fire-rivers, already rushing to the sea, were narrowed and driven downward so rapidly that they leaped out from the land, becoming immediately the prey of the remorseless ocean - thus the ragged mass of Laupahoe-hoe was formed, and the great ledge of the arch of Onomea, and the different sharp and torn lavas in the edge of the sea which mark the various eruptions of centuries past. Poliahu in legendary battles has met Pele many times; she has kept the upper part of the mountain desolate under her mantle of snow and ice, but down toward the sea most fertile and luxuriant valleys and hillside slopes attest the gifts of the goddess to the beauty of the island and the welfare of men. Out of Mauna Loa, Pele has stepped forth again and again and has hurled eruptions of mighty force and great extent against the maiden of the snow-mantle, but the natives say that in this battle Pele has been and always will be defeated: Pele's kingdom has been limited to the southern half of the island Hawaii, while the snow-maidens rule the territory to the north.",
+          "note": "Paraphrase of W. D. Westervelt, Hawaiian Legends of Volcanoes, ch. 9 (1916); not verbatim."
+        }
+      ]
+    },
+    {
+      "id": "polynesian-pele-dream-sleep",
+      "title": {
+        "en": "Pele's Long Sleep and the Drum of Kauai",
+        "zh": "佩蕾長眠與考愛之鼓"
+      },
+      "tradition": "polynesian",
+      "category": "myth",
+      "region": {
+        "en": "Ti-leaf house, Puna, to Haena, Kauai (symbolic pin)",
+        "zh": "普納芋葉之屋至考愛海納（象徵性定位）"
+      },
+      "lat": 22.09,
+      "lon": -159.56,
+      "period": "Hawaiian oral tradition; retold 1916 (Westervelt)",
+      "source": {
+        "archive": "Project Gutenberg",
+        "work": "W. D. Westervelt, Hawaiian Legends of Volcanoes, ch. 11 (Chicago 1916)",
+        "url": "https://www.gutenberg.org/ebooks/66516"
+      },
+      "license": "Public domain (Westervelt 1916)",
+      "summary": {
+        "en": "Pele charges her little sister Hiiaka to guard her sleep for nine days and nights, then chant the Hulihia to call her spirit home - 'perhaps this sleep will be my journey to meet a man, our husband'. Her spirit follows drum and hula island by island to Haena, Kauai, the house of Lohiau, where she steps from the mist in glorious young womanhood, dances the winds of Niihau and Kauai into tempest, routs the mocking dragon-women, and weds the chief. At the last moment Hiiaka's chant of the turning current draws the goddess home to her ti-leaf house in Puna.",
+        "zh": "佩蕾囑幼妹希阿卡守護她九日八夜的長眠，再誦『潮流回轉』之咒喚魂歸體——『或許這一睡，正是我去會夫君之旅』。其魂循鼓聲與胡拉舞歌，逐島而尋，終至考愛海納洛希奧酋長家：她自霧中現身，煥發青春；她召喚尼豪與考愛之風起舞成暴，逼退譏誚的龍女；與酋長結為夫婦。第九日期滿之刻，妹妹的咒語隨風渡海——女神垂淚別夫，魂返普納芋葉之屋。"
+      },
+      "motifs": [
+        "divine-marriage",
+        "spirit-possession",
+        "storm-thunder"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Dream-journey marriage record."
+      },
+      "persons": [],
+      "passages": [
+        {
+          "id": "1",
+          "text": "Pele and her family dwelt in the beauty of Puna. On a certain day there was a fine, clear atmosphere and Pele saw the splendid surf with its white crests and proposed to her sisters to go down for bathing and surf-riding; standing on the brink of the curling wave she rode the very crest as her surf-board, sometimes her brother Kamohoalii, the great shark-god, in the form of a shark would be her surf-board, and again and again she went out to the deep pit of the waves while her sisters caused the country inland to resound with their acclamation. At last she came to the beach and, telling the sisters that the tabu on swimming was lifted, went inland with her youngest sister, Hiiaka, to watch while she slept. They went to a house thatched with ti leaves, built for the goddess. There Pele lay down, saying to her sister: 'I will sleep, giving up to the shadows of the falling evening - dropping into the very depths of slumber. Very hard will be this sleep; I am jealous of it; therefore it is tabu. This is my command to you, O my little one: wait you without arousing me nine days and eight nights, then call me and chant the Hulihia, a chant supposed to bring life back and revive the body. Perhaps this sleep will be my journey to meet a man - our husband. If I shall meet my lover in my dreams the sleep will be of great value. I will sleep.'",
+          "note": "Paraphrase of W. D. Westervelt, Hawaiian Legends of Volcanoes, ch. 11 (1916); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "While Pele was sleeping her spirit heard the sound of a hula-drum skilfully played, accompanied by a chant sung by a wonderful voice. The spirit of Pele arose from her body and listened to that voice; she thought it was the hula of Laka, the goddess of the dance; then she clearly heard male voices, strong and tender, and a great joy awoke within her. She passed from place to place, led by the call of the drum and dance, following it along the palis and over the deep ravines, through forest shadows and along rocky beaches, until she heard the call coming across the sea; her spirit crossed the channel and passed on from island to island until she came to Kauai, and there the drum-beat and the song of the dance did not die away or change, so she knew she had found the lover desired in her dream.",
+          "note": "Paraphrase of W. D. Westervelt, Hawaiian Legends of Volcanoes, ch. 11 (1916); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "Pele's spirit now put on the body of strong, healthful youth; nor was there any blemish in her beauty and symmetry from head to foot. She was anointed with all the fragrant oils of Puna; her dress was the splendid garland of the red lehua flower and maile leaf and the fern from the dwelling-places of the gods. The tender vines of the deep woods veiled this queen of the crater; in glorious young womanhood she went to the halau, the house for dancing of Lohiau, the high-born chief of Haena, Kauai, full of chiefs engaged in the sports of that time. The multitude saw a glorious young woman step out of the mist and raised a great shout, praising her with strong voices; the countenance of Pele was like the clearest and gentlest moonlight, and the people made a vacant space for the passage of this wonderful stranger, casting themselves on the ground before her. Asked whether she came from the far-off sunrise of foreign lands, Pele replied, smiling, 'Ka! I belong to Kauai'; but at last she acknowledged that she had come from Puna, Hawaii. Lohiau told her that her welcome was all that he could give: 'For me is the island, inland, seaward, and all around Kauai. This is your place. The home you have in Puna you will think you see again in Kauai. The name of my house for you is Ha-laau-ola, Tree of Life.' Pele replied, 'The name of your house is beautiful. My home in Puna is Mauli-ola, Long Life. I will accept this house of yours.' Then Lohiau proposed to his chiefs that he should take this beautiful chiefess as his queen, and his thought seemed good to all; Pele and Lohiau were married and dwelt together several days, according to the custom of the ancient time.",
+          "note": "Paraphrase of W. D. Westervelt, Hawaiian Legends of Volcanoes, ch. 11 (1916); not verbatim."
+        },
+        {
+          "id": "4",
+          "text": "Lohiau planned a great feast and a day for the hula-dance. Three of the women of Kauai known as the guardians of Haena had come into the halau; they were very beautiful and possessed of supernatural power - female mo-o, or dragons. Pele had told Lohiau of their coming and charged him: 'Remember, you have been set apart for me; therefore I place upon you my law: Ke kai okia - cut off by the sea - are you, separated from all for me.' The dragon-woman Kilinoe sat watching Lohiau with large bright shining eyes, using magic power to make him pay attention to her charms, but Pele placed a shadow between them and her. Then up rose Kilinoe and made fragrant wreaths wherewith to crown Lohiau and his fellow hula-drummers; but the law of Pele was upon him, and Pele threw aside her shadow garments and said, 'It is not for me to give a chant for your native dance, but I will call the guardian winds of your islands Niihau and Kauai, O Lohiau! and they will answer my call.' For a long time she chanted, calling wind after wind; while she sang, soft breezes blew around and through the house, then came stronger winds whistling through the trees outside, and the people outside cried out that the sea grew rough and white and the winds were twisting the heavens. Very angry was Kilinoe, and she challenged: 'You have seen Niihau; perhaps also you know the winds of Kauai.' Pele again chanted, calling for the guardian winds of Kauai, and at last rang out while she made known the character of the beautiful dragon-women, calling them the mocking winds of Haena; the dragon-women knew that Pele only needed to point them out to have all the chiefs cry out against them in scorn, and out of the house they rushed, fleeing back to their home in the caves. Winds without number began to come near scraping over the land; the feast and the day of dancing were broken up.",
+          "note": "Paraphrase of W. D. Westervelt, Hawaiian Legends of Volcanoes, ch. 11 (1916); not verbatim."
+        },
+        {
+          "id": "5",
+          "text": "When Pele had laid herself down on the soft mats of Puna for her long sleep she had charged her little sister to wake her if she had not returned to life before nine days were past. The days were almost through to the last moment; then as the winds died away and the last strong gust journeyed out toward the sea Pele heard Hiiaka's voice calling from the island Hawaii in the magic chant Pele had told her to use - the incantation known as 'Hulihia ke au', the current is turning, a call carried by the spirit-power of the one who uttered it into far-away places: 'E Pele e! The milky way turns. E Pele e! The night changes. E Pele e! The red dawn breaks. E Pele e! The sound of roaring is in your crater. E Pele e! Awake, arise, return.' Hearing this arousing call, she bowed her head and wept. She said to Lohiau: 'It is not for me to remain here in pleasure with you. I must return because of the call of my sister. Calm will take the place of the storm; I will send my little sister, then come quickly to my home in Puna.' Then the queen of fire ceased speaking and began to be lost to Lohiau; as Pele disappeared peace came to him and all the land of Kauai was filled with calm and rest. Pele's spirit passed at once to the body lying in the house thatched with ti leaves in Puna. Soon she arose and told Hiiaka to call the sisters from the sea; she told them they must dance the hula of the lifted tabu, but they all refused until she came to Hiiaka, who had guarded her during her long sleep. Hiiaka arose and danced gloriously before the hula god and chanted while she danced: 'Puna dances in the wind; the forest of Keaau is shaken; Haena moves quietly; there is motion on the beach of Nanahuki; perhaps this is a dance of love, for the friend loved in the sleep.' Pele rejoiced over the skill of her younger sister and was surprised by the chanted reference to the experiences at Haena; she granted permission to Hiiaka to remain by the sea with her friend Hopoe until a messenger should be sent to call her home to Kilauea.",
+          "note": "Paraphrase of W. D. Westervelt, Hawaiian Legends of Volcanoes, ch. 11 (1916); not verbatim."
+        }
+      ]
+    },
+    {
+      "id": "polynesian-hopoe-dancing-stone",
+      "title": {
+        "en": "Hopoe, Danced to Death and Changed to Stone",
+        "zh": "霍波埃：舞者化石"
+      },
+      "tradition": "polynesian",
+      "category": "myth",
+      "region": {
+        "en": "Hopoe stone near Keaau, Puna, Hawaii Island",
+        "zh": "夏威夷島普納凱阿烏霍波埃石"
+      },
+      "lat": 19.57,
+      "lon": -155.0,
+      "period": "Hawaiian oral tradition; retold 1916 (Westervelt)",
+      "source": {
+        "archive": "Project Gutenberg",
+        "work": "W. D. Westervelt, Hawaiian Legends of Volcanoes, ch. 12 (Chicago 1916)",
+        "url": "https://www.gutenberg.org/ebooks/66516"
+      },
+      "license": "Public domain (Westervelt 1916)",
+      "summary": {
+        "en": "Near Keaau stands a great stone once so balanced that it moved at a touch. It was Hopoe, the graceful dancer of Puna who taught Hiiaka the oldest hulas and the making of leis, and who was beloved by the volcano goddess's sister. Sent to fetch Lohiau, Hiiaka lays a covenant on Pele: burn all else in Puna, but not my friend Hopoe. Pele's jealousy breaks the oath; the lava eats the hala groves, 'tumbling are Haena and Hopoe', and the goddess changes her rival's friend into a great block of lava balanced on the seashore - dancing to this day when the winds blow over it.",
+        "zh": "凱阿烏附近立著一塊巨石，舊時觸之即搖。它就是霍波埃——普納最嫻雅的舞者，教會希阿卡最古老的胡拉舞與花環手藝。希阿卡奉命遠赴考愛接夫君，臨行與佩蕾立約：普納任你焚燒，唯霍波埃不可近。佩蕾妒火難抑，誓言成灰：熔岩吞沒露兜林地——『海納與霍波埃傾倒了』——女神將這位奪其所愛的少女化為海濱搖曳的熔岩石，永伴潮聲而舞。"
+      },
+      "motifs": [
+        "taboo-transgression",
+        "transformation",
+        "sacred-place",
+        "sacred-stone",
+        "jealousy"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Pele-cycle jealousy episode; the standing stone was overthrown by a 19th-century earthquake."
+      },
+      "persons": [],
+      "passages": [
+        {
+          "id": "1",
+          "text": "On the southeastern seacoast of the island Hawaii, near a hamlet called Keaau, is a large stone which was formerly so balanced that it could be easily moved; one of the severe earthquake shocks of the last century overthrew the stone and it now lies a great black mass of lava rock near the seashore. This stone in the long ago was called by the natives Hopoe, because Hopoe, the graceful dancer of Puna who taught Hiiaka, the youngest sister of Pele, how to dance, was changed into this rock. Pele had come from the islands of the south seas and had found the Hawaiian Islands as they are at the present day; after visiting all the other islands she settled in Puna, on the large island Hawaii. There she had her long sleep in which she went to the island Kauai and found her lover Lohiau, whom she promised to send for that he might come to her home in the volcano Kilauea.",
+          "note": "Paraphrase of W. D. Westervelt, Hawaiian Legends of Volcanoes, ch. 12 (1916); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Pele called her sisters one by one and told them to go to Kauai, but they feared the uncertainty of Pele's jealousy and wrath and refused to go. At last she called for Hiiaka, but she was down by the seashore with her friend Hopoe, where in a beautiful garden spot grew the fine food plants of the old Hawaiians - ohias and the brilliant red feathery blossoms of the lehua trees, and the hala from which sweet-scented skirts and mats were woven. Hopoe was very graceful and knew all the dances of the ancient people; hour after hour she taught Hiiaka the oldest hulas known among the Hawaiians until Hiiaka excelled in all beautiful motions of the human form, and taught her how to make leis from the most fragrant and splendid flowers. Together they went out into the white-capped waves bathing and swimming and seeking the fish of the coral caves; thus they learned to have great love for each other, and the girl from the south seas promised to care for the Hawaiian girl whose home was in the midst of volcanic fires.",
+          "note": "Paraphrase of W. D. Westervelt, Hawaiian Legends of Volcanoes, ch. 12 (1916); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "To her came Hiiaka fresh from the clear waters of the sea and covered with leis made by her friend Hopoe; untwisting the wreaths one by one she danced until all the household seemed to be overcome by her grace and gladness. Pele alone looked on with scowling dissatisfied face. As soon as she could she said to Hiiaka: 'Go far away; go to Kauai; get a husband for us, and bring him to Hawaii. Do not marry him. Do not even embrace him. He is tabu to you. Go forty days only - no longer for going or coming back.' Hiiaka looked upon the imperious goddess of fire and said: 'That is right. I go after your husband but I lay my charge upon you: You must take care of my lehua forest and not permit it to be injured. You may eat all other places of ours, but you must not touch my own lehua grove, my delight. You will be waiting here; anger will arise in you; you will destroy inland; you will destroy toward the sea; but you must not touch my friend - my Hopoe. You will eat Puna with your burning wrath, but you must not go near Hopoe. This is my covenant with you, O Pele.' Pele replied, 'This is right; I will care for your forest and your friend. Go you for our husband.' As Pele had charged Hiiaka so had Hiiaka laid her commandment on Pele - this was ceremonial oath-taking between the two. Hiiaka rose to prepare for the journey, but Pele's impatience at every moment's delay was so great that she forced Hiiaka away without food or extra clothing, and Hiiaka slowly went forth catching only a magic pa-u, a skirt which had the death-dealing power of flashing lightning.",
+          "note": "Paraphrase of W. D. Westervelt, Hawaiian Legends of Volcanoes, ch. 12 (1916); not verbatim."
+        },
+        {
+          "id": "4",
+          "text": "As Hiiaka went up to the highlands above the volcano she looked down over Puna; smoke from the volcano fell toward the sea, making dark the forest along the path to Keaau, where Hopoe dwelt. There had been many hindrances to the progress of Hiiaka on her way; meanwhile Pele became jealous, burning the forests which she had promised to protect, and Hiiaka chanted: 'Tumbling are Haena and Hopoe.' Hopoe was the last object of Pele's anger at her younger sister. The goddess went to the seashore where Hopoe waited death; she placed the garlands Hiiaka had given her friend around her own neck, that she might show the girl's tokens in the presence of Hiiaka, and changed Hopoe into a great block of lava and balanced it on the seashore - thus Hopoe was able to dance when the winds blew over it. Hiiaka fulfilled her mission patiently and faithfully, bringing Lohiau back to Hawaii, and was horrified beyond expression when she learned that Pele in her terrible wrath had brought death to Hopoe.",
+          "note": "Paraphrase of W. D. Westervelt, Hawaiian Legends of Volcanoes, ch. 12 (1916); not verbatim."
+        }
+      ]
+    },
+    {
+      "id": "polynesian-hiiaka-panaewa-demons",
+      "title": {
+        "en": "Hiiaka's Battle with the Demons of Pana-ewa",
+        "zh": "希阿卡大戰帕納埃瓦妖群"
+      },
+      "tradition": "polynesian",
+      "category": "myth",
+      "region": {
+        "en": "Pana-ewa forest, Hilo, Hawaii Island",
+        "zh": "夏威夷島希洛帕納埃瓦林"
+      },
+      "lat": 19.67,
+      "lon": -155.08,
+      "period": "Hawaiian oral tradition; retold 1916 (Westervelt)",
+      "source": {
+        "archive": "Project Gutenberg",
+        "work": "W. D. Westervelt, Hawaiian Legends of Volcanoes, ch. 13 (Chicago 1916)",
+        "url": "https://www.gutenberg.org/ebooks/66516"
+      },
+      "license": "Public domain (Westervelt 1916)",
+      "summary": {
+        "en": "On the road to Kauai the fern-goddess Hiiaka meets the demon horde of Pana-ewa - lizard-bodied, ghost-form, mockers of her calm. He taunts: 'This is Hiiaka, who shall be killed by me'; she answers that her little rag of clothing is enough. Wrapped in fog bodies and thunder, the demon chief presses her almost to death, until she sweeps her lightning skirt against the fog, calls the heavens for rain, and the great thunderstorm of Pana-ewa - remembered for its floods - drowns the demon ranks in the valley she had fought through.",
+        "zh": "赴考愛途中，蕨之女神希阿卡遭遇帕納埃瓦的妖群——蜥身鬼形、口吐譏嘲。魔首罵道：『這就是希阿卡，我要殺了她』；她答：『我這一小片衣裳足矣。』妖首以霧身纏她、以雷轟她，她幾乎力竭；終於她揮動綴滿閃電的裙裾劈開迷霧，又召來傾盆大雨——帕納埃瓦的大雷雨自那日起便名聞遐邇——洪流淹沒了谷中妖軍。"
+      },
+      "motifs": [
+        "quest-immortality",
+        "theophany",
+        "storm-thunder"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Hero-journey battle episode of the Hiilaka cycle."
+      },
+      "persons": [],
+      "passages": [
+        {
+          "id": "1",
+          "text": "Hiiaka, the youngest sister of Pele, the goddess of fire, is the principal figure in the wonderful legends of the long journey from Hawaii to Kauai to find the lover Pele had found in her dream. Pele was impatient and angry at the slow progress of Hiiaka on her journey; at last the goddess of ferns, Pau-o-palae, made with a skirt of ferns which pleased Pele, and Pele ordered her to go with Hiiaka as her kahu, or guardian. Hiiaka's first test of patient endurance came in a battle with the demons of Pana-ewa - lizard-bodied, ghost-form, mockers of her calm.",
+          "note": "Paraphrase of W. D. Westervelt, Hawaiian Legends of Volcanoes, ch. 13 (1916); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Hiiaka, entering the forest, threw aside her fern robes, revealing her divine powers; she heard the birds and laughed; then she chanted, and he heard the mocking call of the demon chief: 'This is Hiiaka, who shall be killed by me.' Hiiaka in her fog body, Kino-ohu, was thrown around by the demon's thick coils; she told her friend to hold fast to her girdle while she swiftly swept her lightning skirt up against the beat of the fog, and made incantations against the enchantments; the great thunderstorm swept down on Pana-ewa, and the floods drowned the demon ranks in the valley she had fought through.",
+          "note": "Paraphrase of W. D. Westervelt, Hawaiian Legends of Volcanoes, ch. 13 (1916); not verbatim."
+        }
+      ]
+    },
+    {
+      "id": "polynesian-hiiaka-catch-ghost",
+      "title": {
+        "en": "Hiiaka Catches a Ghost",
+        "zh": "希阿卡擒魂記"
+      },
+      "tradition": "polynesian",
+      "category": "myth",
+      "region": {
+        "en": "Forest above Hilo, Hawaii Island (symbolic pin)",
+        "zh": "夏威夷島希洛上林（象徵性定位）"
+      },
+      "lat": 19.72,
+      "lon": -155.1,
+      "period": "Hawaiian oral tradition; retold 1916 (Westervelt)",
+      "source": {
+        "archive": "Project Gutenberg",
+        "work": "W. D. Westervelt, Hawaiian Legends of Volcanoes, ch. 15 (Chicago 1916)",
+        "url": "https://www.gutenberg.org/ebooks/66516"
+      },
+      "license": "Public domain (Westervelt 1916)",
+      "summary": {
+        "en": "Camp rested, Wahine-omao sees a spirit wandering by the sea - a fisherman wrecked and drowned beside his shattered canoe. Hiiaka drives the ghost toward the house, thrusts out her 'strong hand of Kilauea', slaps the fleeing spirit back against the body and holds it while she chants the call of life; pouring fresh water upon the corpse she restores breath to the breast and sight to the eyes, and the healing power of the goddess of ferns restores the places wounded by coral and the sea.",
+        "zh": "歇腳之際，瓦希內奧毛望見海邊遊蕩的幽魂——一位翻船溺亡的漁夫，獨木舟碎片狼藉。希阿卡驅魂回屋，伸出『基拉韋厄巨掌』將欲逃的魂魄拍回軀體，按住不放，口誦還生咒；再以清水澆淋屍身——胸膛起伏、雙目重張；蕨神之力還撫其被珊瑚與海水所傷之處。"
+      },
+      "motifs": [
+        "resurrection",
+        "spirit-possession",
+        "quest-immortality",
+        "ghost-return"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ghost-catching and revival record."
+      },
+      "persons": [],
+      "passages": [
+        {
+          "id": "1",
+          "text": "Hiiaka, the sister of Pele, the goddess of ferns, and her friend Wahine-omao were hastening through the forests above Hilo. Hiiaka said: 'One of us will stop and eat; two of us will pass on, for we are not hungry.' So Wahine-omao stopped and ate, and saw that the girls were watching the sea; Hiiaka looked toward it and saw the spirit of a drowned man wandering, and hastened after the ghost and drove it toward the house. The people wept and began to beseech Hiiaka to bring him back to life; as she rose to pass out of the door the ghost leaped and disappeared, and Hiiaka rushed out and saw it run to the sea, where lay the broken pieces of the shattered canoe. She washed the ghost, thrust out her 'strong hand of Kilauea', slapped the ghost back against the body and told it to go in; then she uttered an incantation, and by the time the chant was ended Hiiaka had forced the ghost into the body.",
+          "note": "Paraphrase of W. D. Westervelt, Hawaiian Legends of Volcanoes, ch. 15 (1916); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Then Hiiaka put forth her hand and took fresh water, pouring it upon the body, while she chanted 'Hiiaka is the prophet'; the healing power of Hiiaka restored the places wounded by coral and the sea; she told him to stand up, and putting out her strong hand she raised him; she called for the glory of a divine chief to shine around him, and knew that the ghost had gone back into the body and that the man was restored to life - breath returning to the breast and sight to the eyes by the skill of the goddess of ferns.",
+          "note": "Paraphrase of W. D. Westervelt, Hawaiian Legends of Volcanoes, ch. 15 (1916); not verbatim."
+        }
+      ]
+    },
+    {
+      "id": "polynesian-lohiau-second-resurrection",
+      "title": {
+        "en": "Hiiaka Wrestles the Dragons of Haena for Lohiau's Spirit",
+        "zh": "希阿卡海納鬥龍奪魂"
+      },
+      "tradition": "polynesian",
+      "category": "myth",
+      "region": {
+        "en": "Caves of Haena, Kauai",
+        "zh": "考愛島海納龍窟"
+      },
+      "lat": 22.09,
+      "lon": -159.56,
+      "period": "Hawaiian oral tradition; retold 1916 (Westervelt)",
+      "source": {
+        "archive": "Project Gutenberg",
+        "work": "W. D. Westervelt, Hawaiian Legends of Volcanoes, ch. 17 (Chicago 1916)",
+        "url": "https://www.gutenberg.org/ebooks/66516"
+      },
+      "license": "Public domain (Westervelt 1916)",
+      "summary": {
+        "en": "Arriving in Kauai, Hiiaka finds Lohiau dead - the dragon-women of Haena have crushed the breath from his body. She fights her way through flying trees, dragons and storms to the cave where his body lies, hunts his small spirit voice along the shores, and charms it into a coconut calabash fastened tight. Waging incantation for nine days, she pours the spirit back into the body and he rises; but Pele's arriving flames take Lohiau's life a second time, and Hiiaka, crazed, fights fire and smoke until her faithfulness is confessed and Lohiau is restored to her forever.",
+        "zh": "抵考愛，希阿卡得知洛希奧已死——海納的龍女們掐斷了他的呼吸。她穿越飛石、龍陣與風暴殺至藏屍之洞；沿岸追尋那細若游絲的魂音，將其咒入緊封的椰殼。九日祝禱之後，她把魂魄傾回軀體，酋長重新站起。然佩蕾之火隨後而至，二度奪其命；幾近瘋狂的希阿卡與火濃煙搏鬥，直至佩蕾承認背誓，洛希奧永屬於她。"
+      },
+      "motifs": [
+        "resurrection",
+        "descent-underworld",
+        "quest-immortality",
+        "magic-word"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Double-resurrection romance; spirit caught in calabash like Hiku's shell."
+      },
+      "persons": [],
+      "passages": [
+        {
+          "id": "1",
+          "text": "The story of Hiiaka's journey over the seas which surround the islands is one of the legends which show how greatly the Hawaiians loved tales of the spirit world. As Hiiaka and her friend came near the island Kauai, Hiiaka told Wahine-omao that Lohiau was dead and that she saw the spirit of the chief wandering on the waters; the dragon-women of Haena had watched the life of Lohiau and compelled the breath to leave his body. The next day they made the house, and Hiiaka commanded that a door toward the east be opened, saying 'To-morrow let the tabu be lifted'; at sunrise they went on through the storm, and the small spirit voice of Lohiau called for help; Hiiaka chanted to Lohiau, telling him they would save him.",
+          "note": "Paraphrase of W. D. Westervelt, Hawaiian Legends of Volcanoes, ch. 17 (1916); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "The dragons leaped down on Hiiaka trying to catch her and strike her with their tails; Hiiaka struck them with her magic skirt in which was the divine power of lightning; the dragons caught her, bending her over, catching her around the neck and arm, trying to press the life out of her - until she sent her power and took help of the forces of the forest, and the winds; at last Hiiaka shook her magic skirt and struck them again and again. The natives have for many years claimed that Hiiaka found the cave in the deep shadows where the body lay; she followed the spirit voice saying 'Moving, moving - you will find me in a small coconut calabash fastened in tight', and caught the spirit in the calabash fastened in tight, carrying it while she continued her necessary incantation.",
+          "note": "Paraphrase of W. D. Westervelt, Hawaiian Legends of Volcanoes, ch. 17 (1916); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "Hiiaka said to her friend: 'You ask how the spirit can be restored to life; I am coming, I Hiiaka.' She poured the spirit back into the body and Lohiau rose from the cave of the wilderness, making with her a solemn promise; then Pele, arriving, would fling her scorching smoke and foul gas over Hiiaka's body and over the body of Lohiau - and a second time the breath left the chief. Hiiaka was crazed by the death of Lohiau; she had fought against Pele's fire and flames until Pele and her sisters were frightened. Pele called Wahine-omao and, conquered and full of self-blame, told her how to restore Lohiau; Wahine-omao went to Hiiaka and softly chanted by the side of the fire-pit, and Hiiaka turned from the pit and sought Lohiau; a second time Hiiaka had given life to Lohiau. Hiiaka and Lohiau went to Kauai, where, as chief and chiefess, they ruled the island; Lohiau had no longer any remnant of affection for Pele, for Hiiaka and Lohiau were now husband and wife, and Pele had lost forever the lover she had found in her long sleep.",
+          "note": "Paraphrase of W. D. Westervelt, Hawaiian Legends of Volcanoes, ch. 17 (1916); not verbatim."
+        }
+      ]
+    }
+  ]
+}

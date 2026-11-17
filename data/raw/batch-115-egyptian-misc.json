@@ -1,0 +1,312 @@
+{
+  "texts": [
+    {
+      "id": "egyptian-judgment-of-osiris",
+      "title": {
+        "en": "The Two Judgments: Ra at Sunrise, Osiris at Midnight",
+        "zh": "兩重審判：晨之拉，夜半之奧西里斯"
+      },
+      "tradition": "egyptian",
+      "category": "myth",
+      "region": {
+        "en": "Near Abydos, Egypt (where the Judgment of Osiris was held at midnight)",
+        "zh": "埃及阿拜多斯近郊（奧西里斯午夜審判之處）"
+      },
+      "lat": 26.18,
+      "lon": 31.92,
+      "period": "Doctrinal synthesis from the Book of the Dead and Book of Gates (Budge, The Book of the Dead, 1901)",
+      "source": {
+        "archive": "Project Gutenberg (eBook #7145)",
+        "work": "The Book of the Dead, by E. A. Wallis Budge (1901), chs. VI-VII, 'Osiris as Judge of the Dead' and 'The Judgment of Osiris'",
+        "url": "https://www.gutenberg.org/cache/epub/7145/pg7145.txt"
+      },
+      "license": "Public domain (translation 1901)",
+      "summary": {
+        "en": "Egypt's hell was annihilation, not torment: the Judgment of Ra at sunrise threw the wicked into pits of fire, consuming body, soul, shadow and heart; the Judgment of Osiris sat at midnight near Abydos, where Shesmu the headsman cut off the heads of the damned and burned their members — 'the infliction of punishment never ceased' only because the wicked were condemned anew each day.",
+        "zh": "埃及之地獄是滅絕而非受苦：晨間拉之審判將惡者投入火坑，身、魂、影、心俱焚；夜半於阿拜多斯近郊行奧西里斯之審判，其劊子手舒斯姆斬罪者之首，肢解其身而焚之——刑罰之所以『無有止息』，唯因每日重新定罪而已。"
+      },
+      "motifs": [
+        "descent-underworld",
+        "resurrection",
+        "dying-god"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient funerary cosmology; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "This region of the dead, or Dead-land, is called 'Tat,' or 'Tuat,' but where the Egyptians thought it was situated is not quite clear... Wherever it was it was not underground, and it was not originally in the sky or even on its confines; but it was located on the borders of the visible world, in the Outer Darkness. The Tuat was not a place of happiness, judging from the description of it in the Book of the Dead. When Ani the scribe arrived there he said, 'What is this to which I have come? There is neither water nor air here, its depth is unfathomable, it is as dark as the darkest night, and men wander about here helplessly.' In the Tuat there was neither tree nor plant, for it was the 'land where nothing grew'; and in primitive times it was a region of destruction and death, a place where the dead rotted and decayed, a place of abomination, and horror and terror, and annihilation.",
+          "note": "Verbatim excerpt of Budge, The Book of the Dead (1901), ch. VI."
+        },
+        {
+          "id": "2",
+          "text": "When the belief gained ground among them that Osiris, the God of the Dead, had himself risen from the dead, and had been acquitted by the gods of heaven after a searching trial, and had the power to 'make men and women to be born again,' and 'to renew life' because of his truth and righteousness, they came to regard him as the Judge as well as the God of the Dead. As time went on, and moral and religious ideas developed among the Egyptians, it became certain to them that only those who had satisfied Osiris as to their truth-speaking and honest dealing upon earth could hope for admission into his kingdom.",
+          "note": "Verbatim excerpt of Budge (1901), ch. VI."
+        },
+        {
+          "id": "3",
+          "text": "But, as according to the cult of Ra, the wicked, the rebels, and the blasphemers of the Sun-god suffered swift and final punishment, so also all those who had sinned against the stern moral Law of Osiris, and who had failed to satisfy its demands, paid the penalty without delay. The Judgment of Ra was held at sunrise, and the wicked were thrown into deep pits filled with fire, and their bodies, souls, shadows and hearts were consumed forthwith. The Judgment of Osiris took place near Abydos, probably at midnight, and a decree of swift annihilation was passed by him on the damned. Their heads were cut off by the headsman of Osiris, who was called Shesmu, and their bodies dismembered and destroyed in pits of fire. There was no eternal punishment for men, for the wicked were annihilated quickly and completely; but inasmuch as Osiris sat in judgment and doomed the wicked to destruction daily, the infliction of punishment never ceased.",
+          "note": "Verbatim excerpt of Budge (1901), ch. VI."
+        }
+      ],
+      "persons": [
+        "osiris",
+        "ra"
+      ]
+    },
+    {
+      "id": "egyptian-sacred-beetle",
+      "title": {
+        "en": "The Beetle and the Ball of Seed: Why the Scarab Is the Emblem of Creation",
+        "zh": "甲蟲與土球：聖甲蟲何以成創世徽記"
+      },
+      "tradition": "egyptian",
+      "category": "myth",
+      "region": {
+        "en": "Egypt (the scarab engraved on every soldier's seal)",
+        "zh": "埃及（刻於士兵印璽上的聖甲蟲）"
+      },
+      "lat": 26.0,
+      "lon": 31.5,
+      "period": "Recorded by Plutarch, De Iside 10 (Budge translation 1912)",
+      "source": {
+        "archive": "Project Gutenberg (eBook #9411)",
+        "work": "Legends of the Gods, trans. E. A. W. Budge (1912), Plutarch, The History of Isis and Osiris, sec. X",
+        "url": "https://www.gutenberg.org/cache/epub/9411/pg9411.txt"
+      },
+      "license": "Public domain (translation 1912)",
+      "summary": {
+        "en": "Plutarch's famous aition for the scarab seal: there is no female of the species — all beetles are male — and they propagate their kind by casting their seed into round balls of dirt, which serve both as the hatching-place of the young and their first food; hence the self-created beetle became the hieroglyph of the self-created god Khepera.",
+        "zh": "普魯塔克論聖甲蟲印璽之故：此蟲無雌——皆為雄——其繁衍之法乃將精種投於圓土球中，土球既為孵化之所，亦為幼蟲初糧；故此自生之蟲遂成自生之神凱佩拉之象形符號。"
+      },
+      "motifs": [
+        "creation-chaos",
+        "miraculous-birth"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient aition via Plutarch; no living community restrictions. Plutarch's biology is wrong but his report of the symbolism is the classic ancient testimony."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Of a like nature is the Beetle which we see engraven upon the seals of the soldiers, for there is no such thing as a female beetle of this species; for they are all males, and they propagate their kind by casting their seed into round balls of dirt, which afford not only a proper place wherein the young may be hatched, but also nourishment for them as soon as they are born.",
+          "note": "Verbatim excerpt of Budge, Legends of the Gods (1912), Plutarch sec. X."
+        },
+        {
+          "id": "2",
+          "text": "And I myself am of the opinion that, when the Pythagoreans appropriated the names of several of the gods to particular numbers, as that of Apollo to the unit, of Artemis to the duad, of Athene to the seven, and of Poseidon to the first cube, in this they allude to something which the founder of their sect saw in the Egyptian temples, or to some ceremonies performed in them, or to some symbols there exhibited.",
+          "note": "Verbatim excerpt of Budge (1912), Plutarch sec. X."
+        }
+      ],
+      "persons": []
+    },
+    {
+      "id": "egyptian-handless-judges",
+      "title": {
+        "en": "The Handless Judges of Thebes: Statues That Teach Justice",
+        "zh": "底比斯無手法官：教誨公義之像"
+      },
+      "tradition": "egyptian",
+      "category": "myth",
+      "region": {
+        "en": "Thebes, Egypt (statues of the judges in the temple)",
+        "zh": "埃及底比斯（神廟中法官之像）"
+      },
+      "lat": 25.6872,
+      "lon": 32.6396,
+      "period": "Recorded by Plutarch, De Iside 10 (Budge translation 1912)",
+      "source": {
+        "archive": "Project Gutenberg (eBook #9411)",
+        "work": "Legends of the Gods, trans. E. A. W. Budge (1912), Plutarch, The History of Isis and Osiris, sec. X",
+        "url": "https://www.gutenberg.org/cache/epub/9411/pg9411.txt"
+      },
+      "license": "Public domain (translation 1912)",
+      "summary": {
+        "en": "The statues of the judges at Thebes are without hands, and their chief is carved with his eyes turned downward — 'which signifies that justice ought not to be obtainable by bribes, nor guided by favour or affection' — a sermon in stone on how the divine court itself is conducted.",
+        "zh": "底比斯法官像皆無手，主審者之目向下——『其意謂公義不可賄得，不可因私情而偏』——以石為講章，教示神庭審判之道。"
+      },
+      "motifs": [
+        "parable-teaching",
+        "sacred-kingship"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient temple-symbolism anecdote via Plutarch; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Much in the same way are those statues of the Judges at Thebes without hands, and their chief, or president, is represented with his eyes turned downwards, which signifies that justice ought not to be obtainable by bribes, nor guided by favour or affection.",
+          "note": "Verbatim excerpt of Budge, Legends of the Gods (1912), Plutarch sec. X."
+        },
+        {
+          "id": "2",
+          "text": "Their great king and lord Osiris is represented by the hieroglyphics for an eye and a sceptre, the name itself signifying 'many-eyed', as we are told by some who would derive it from the words os, 'many', and iri, an 'eye', which have this meaning in the Egyptian language. Similarly, because the heavens are eternal and are never consumed or wax old, they represent them by a heart with a censer placed under it.",
+          "note": "Verbatim excerpt of Budge (1912), Plutarch sec. X."
+        }
+      ],
+      "persons": [
+        "osiris"
+      ]
+    },
+    {
+      "id": "egyptian-ass-of-set",
+      "title": {
+        "en": "The Ass of Typhon: Asses Cast Down, Trumpets Forbidden",
+        "zh": "提豐之驢：投驢於崖、禁吹號角"
+      },
+      "tradition": "egyptian",
+      "category": "myth",
+      "region": {
+        "en": "Koptos, Busiris and Lycopolis, Egypt (the towns of the ass taboo)",
+        "zh": "埃及科普托斯、布西里斯與呂科波利斯（驢之禁俗諸城）"
+      },
+      "lat": 30.6,
+      "lon": 31.5,
+      "period": "Recorded by Plutarch, De Iside 30-31 (Budge translation 1912)",
+      "source": {
+        "archive": "Project Gutenberg (eBook #9411)",
+        "work": "Legends of the Gods, trans. E. A. W. Budge (1912), Plutarch, The History of Isis and Osiris, secs. XXX-XXXI",
+        "url": "https://www.gutenberg.org/cache/epub/9411/pg9411.txt"
+      },
+      "license": "Public domain (translation 1912)",
+      "summary": {
+        "en": "The taboo-codes of Set's animal: red being Typhon's colour, the men of Koptos cast asses down precipices, the towns of Busiris and Lycopolis never use trumpets because their sound resembles the ass's braying, the festival cakes of Paoni and Paopi are stamped with a fettered ass — and Typhon himself, says the tradition, escaped from Horus by a flight of seven days on an ass.",
+        "zh": "塞特聖獸之禁忌：紅為提豐之色，科普托斯人驅驢投崖；布西里斯與呂科波利斯人永不吹號——以其聲似驢鳴；帕奧尼與帕奧皮祭日之餅上印有縛驢之像——相傳提豐曾騎驢七日而遁於荷魯斯之手。"
+      },
+      "motifs": [
+        "taboo-transgression",
+        "transformation"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient taboo traditions via Plutarch; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Typhon is held by the Egyptians in the greatest contempt, and they do all they can to vilify him. The colour red being associated with him, they treat with contumely all those who have a ruddy complexion; the ass being usually of a reddish colour, the men of Koptos are in the habit of sacrificing asses by casting them down precipices. The inhabitants of Busiris and Lycopolis never use trumpets, because their sounds resemble the braying of an ass. The cakes which are offered at the festivals during Paoni and Paopi are stamped with the figure of a fettered ass.",
+          "note": "Verbatim excerpt of Budge, Legends of the Gods (1912), Plutarch sec. XXX (Budge's summary of Plutarch's text)."
+        },
+        {
+          "id": "2",
+          "text": "The ass is identified with Typhon not only because of his colour, but also because of his stupidity and the sensuality of his disposition. The Persian king Ochus was nicknamed the 'Ass', which made him to say, 'This ass shall dine upon your ox,' and accordingly he slew Apis. Typhon is said to have escaped from Horus by a flight of seven days on an ass.",
+          "note": "Verbatim excerpt of Budge (1912), Plutarch sec. XXXI (Budge's summary of Plutarch's text)."
+        },
+        {
+          "id": "3",
+          "text": "In a hymn the deceased prays, 'May I smite the Ass, may I crush the serpent-fiend Sebau,' but the XLth Chapter of the Book of the Dead is entitled, 'Chapter of driving back the Eater of the Ass.' The vignette shows us the deceased in the act of spearing a monster serpent which has fastened its jaws in the back of an ass. In Chapter CXXV. there is a dialogue between the Cat and the Ass.",
+          "note": "Verbatim excerpt of Budge (1912), footnote to Plutarch sec. XXX, citing the Book of the Dead."
+        }
+      ],
+      "persons": [
+        "set",
+        "horus"
+      ]
+    },
+    {
+      "id": "egyptian-red-bulls-seal",
+      "title": {
+        "en": "Red Bulls Only: The Seal on Every Sacrificial Beast",
+        "zh": "惟紅牛可祭：祭牲身上的印記"
+      },
+      "tradition": "egyptian",
+      "category": "myth",
+      "region": {
+        "en": "The sacrificial courts of Egyptian temples (symbolic pin, Memphis)",
+        "zh": "埃及神廟祭牲之圈（象徵定位，孟菲斯）"
+      },
+      "lat": 29.8526,
+      "lon": 31.4,
+      "period": "Recorded by Plutarch, De Iside 31 (Budge translation 1912)",
+      "source": {
+        "archive": "Project Gutenberg (eBook #9411)",
+        "work": "Legends of the Gods, trans. E. A. W. Budge (1912), Plutarch, The History of Isis and Osiris, sec. XXXI",
+        "url": "https://www.gutenberg.org/cache/epub/9411/pg9411.txt"
+      },
+      "license": "Public domain (translation 1912)",
+      "summary": {
+        "en": "The ritual logic of the Egyptian altar: only red-coloured bulls may be sacrificed — a single black or white hair disqualifies the victim — because the sacrificed creatures are believed to hold the souls of the wicked, confined in beasts for punishment; hence the custom of cursing the animal, cutting off its head and throwing it into the Nile, and the priests' seal: a man on his knees, hands bound behind him, a sword pointed at his throat.",
+        "zh": "埃及祭壇之禮制：惟純赤之牛可祭——祭牲身上一毫黑白之毛即為不合格——蓋彼等信祭牲體內囚有惡人之魂，受罰於獸身；故有咒詛祭牲、斬其首而投於尼羅之俗，且祭牲必佩祭司印記：一人跪地，反縛雙手，利劍加頸。"
+      },
+      "motifs": [
+        "taboo-transgression",
+        "transformation"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient ritual doctrine via Plutarch; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The Egyptians only sacrifice red-coloured bulls, and a single black or white hair in the animal's head disqualifies it for sacrifice. They sacrifice creatures wherein the souls of the wicked have been confined, and through this view arose the custom of cursing the animal to be sacrificed, and cutting off its head and throwing it into the Nile. No bullock is sacrificed which has not on it the seal of the priests who were called 'Sealers.' The impression from this seal represents a man upon his knees, with his hands tied behind him, and a sword pointed at his throat.",
+          "note": "Verbatim excerpt of Budge, Legends of the Gods (1912), Plutarch sec. XXXI (Budge's summary of Plutarch's text)."
+        }
+      ],
+      "persons": [
+        "set"
+      ]
+    },
+    {
+      "id": "egyptian-hymn-osiris-earth",
+      "title": {
+        "en": "Osiris the Earth: The Nile from the Sweat of His Hands",
+        "zh": "大地奧西里斯：尼羅出於其掌汗"
+      },
+      "tradition": "egyptian",
+      "category": "myth",
+      "region": {
+        "en": "Egypt, the black land itself (the god who bears the earth on his shoulders)",
+        "zh": "埃及黑土之邦（肩負大地之神）"
+      },
+      "lat": 27.0,
+      "lon": 31.0,
+      "period": "New Kingdom hymn written on limestone ostracon (Budge translation 1910)",
+      "source": {
+        "archive": "Project Gutenberg (eBook #15932)",
+        "work": "The Literature of the Ancient Egyptians, trans. E. A. W. Budge (1910), ch. XII, the Hymn to Osiris on the Cairo limestone slices",
+        "url": "https://www.gutenberg.org/files/15932/15932-0.txt"
+      },
+      "license": "Public domain (translation 1910)",
+      "summary": {
+        "en": "The earth-hymn of Osiris: the divine mummy lies on the sand, the earth rests upon his shoulders, its corners upon him 'as far as the four pillars of heaven'; if he stirs, the earth quakes; the Nile appears from the sweat of his two hands, and men live by the breath of his throat — 'Thou art the father and mother of men and women, they live by thy breath, they eat the flesh of thy members. Pautti, the Primeval God, is thy name.'",
+        "zh": "奧西里斯大地之頌：神聖木乃伊臥於沙上，大地載於其肩，四極倚其身『直抵天之四柱』；彼若微動，大地震顫；尼羅自其掌汗湧出，人賴其喉息而活——『爾乃人類之父與母，彼等賴爾息而活，食爾肢體之肉。太初之神『保提』乃爾之名。』"
+      },
+      "motifs": [
+        "creation-chaos",
+        "resurrection",
+        "primeval-waters",
+        "dying-god"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient hymn; no living community restrictions. The hymn identifies Osiris with the earth itself and its fertility."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "[Praise be] unto thee, O thou who extendest thine arms, who liest asleep on thy side, who liest on the sand, the Lord of the earth, the divine mummy. Thou art the Child of the Earth Serpent, of great age. Thy head ... and goeth round over thy feet. Ra-Khepera shineth upon thy body, when thou liest on thy bed in the form of Seker, so that he may drive away the darkness that shroudeth thee, and may infuse light in thy two eyes. He passeth a long period of time shining upon thee, and sheddeth tears over thee.",
+          "note": "Verbatim excerpt of Budge, Literature of the Ancient Egyptians (1910), ch. XII, Hymn to Osiris."
+        },
+        {
+          "id": "2",
+          "text": "The earth resteth upon thy shoulders, and its corners rest upon thee as far as the four pillars of heaven. If thou movest thyself, the earth quaketh, for thou art greater than.... [The Nile] appeareth out of the sweat of thy two hands. Thou breathest forth the air that is in thy throat into the nostrils of men; divine is that thing whereon they live. Through thy nostrils (?) subsist the flowers, the herbage, the reeds, the flags (?), the barley, the wheat, and the plants whereon men live.",
+          "note": "Verbatim excerpt of Budge (1910), Hymn to Osiris."
+        },
+        {
+          "id": "3",
+          "text": "If canals are dug ... and houses and temples are built, and great statues are dragged along, and lands are ploughed up, and tombs and funerary monuments are made, they [all] rest upon thee. It is thou who makest them. They are upon thy back. There is no vacant space on thy back, they all lie on thy back, and yet [thou sayest] not, 'I am [over] weighted therewith.' Thou art the father and mother of men and women, they live by thy breath, they eat the flesh of thy members. 'Pautti' (i.e. Primeval God) is thy name.",
+          "note": "Verbatim excerpt of Budge (1910), Hymn to Osiris."
+        }
+      ],
+      "persons": [
+        "osiris",
+        "ra"
+      ]
+    }
+  ]
+}

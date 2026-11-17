@@ -1,0 +1,385 @@
+{
+  "_comment": "Final top-up batch: Lusatian little people, field spirits, and cave witches from Machal Part I; further Lettish daina episodes from Gray Part V. All passages paraphrase.",
+  "texts": [
+    {
+      "id": "slavic-ludki-little-people",
+      "title": {
+        "en": "The Ludki: First People of Lusatia",
+        "zh": "魯德基：勞西茨的初民"
+      },
+      "tradition": "slavic",
+      "category": "myth",
+      "region": {
+        "en": "Lusatia (Lausitz) (symbolic pin at Bautzen)",
+        "zh": "勞西茨（象徵性定位於包岑）"
+      },
+      "lat": 51.18,
+      "lon": 14.43,
+      "period": "Belief recorded 19th c. (Machal 1918)",
+      "source": {
+        "archive": "Wikisource / Internet Archive",
+        "work": "Jan Machal, Slavic Mythology, Mythology of All Races III (1918), Part I ch. 3",
+        "url": "https://en.wikisource.org/wiki/The_Mythology_of_All_Races/Volume_3/Slavic/Part_1"
+      },
+      "license": "Public domain (1918)",
+      "summary": {
+        "en": "The Ludki were the first inhabitants of Lusatia: small, big-headed, with protruding eyes and red caps, living in burrows like ovens, grinding corn between two stones — they taught mankind smithcraft and the building of houses, and their funeral urns were the urns and lachrymatories the graves give up.",
+        "zh": "魯德基為勞西茨之初民：身材短小、頭大眼凸、戴紅帽，居於爐形土穴，以雙石磨穀——彼教人類鍛工與築屋之術；古墓出土之甕與淚壺，即其葬器。"
+      },
+      "motifs": [
+        "foundational-legend",
+        "culture-hero",
+        "sacred-place"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Folk belief."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "In the belief of the Lusatian Serbs the Ludki — the Little People — were the first inhabitants of Lusatia, small in stature, with disproportionately large heads and protruding eyes, gaily dressed and wearing big hats or red caps. They could not endure the ringing of bells and left the country when it came; their abodes were burrows like bakers' ovens, furnished like ordinary houses.",
+          "note": "Paraphrase of Machal, Slavic Mythology, Mythology of All Races III (1918), Part I ch. 3; not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "They grew corn, picking the kernels with an awl, ground it between two stones, and were familiar with every handicraft, especially the smith's trade — it was they who taught mankind the art of building houses. They were endowed with prophecy, loved music, waged fierce wars among their own households, and repaid the human family that gave them millet and courtesy. When a Ludek died his relatives burned the body, collected the tears of the mourners in little jars, and buried them filled — whence the urns and lachrymatories still found in the old graves.",
+          "note": "Paraphrase of Machal (1918); not verbatim."
+        }
+      ],
+      "persons": []
+    },
+    {
+      "id": "slavic-polevik-field-spirit",
+      "title": {
+        "en": "The Polevik: Corn-Stalk Tall, Stubble Small",
+        "zh": "波列維克：麥稈之高，麥茬之矮"
+      },
+      "tradition": "slavic",
+      "category": "myth",
+      "region": {
+        "en": "Russia (symbolic pin at Voronezh)",
+        "zh": "俄羅斯（象徵性定位於沃羅涅日）"
+      },
+      "lat": 51.67,
+      "lon": 39.19,
+      "period": "Belief recorded 19th c. (Machal 1918)",
+      "source": {
+        "archive": "Wikisource / Internet Archive",
+        "work": "Jan Machal, Slavic Mythology, Mythology of All Races III (1918), Part I ch. 8",
+        "url": "https://en.wikisource.org/wiki/The_Mythology_of_All_Races/Volume_3/Slavic/Part_1"
+      },
+      "license": "Public domain (1918)",
+      "summary": {
+        "en": "The Polevik, the field-spirit, stands about the height of a corn-stalk until harvest, when he shrivels to the size of stubble; he runs before the scythe and hides in the standing ears, and the man who naps at noon is ridden over or stricken with disease.",
+        "zh": "田野精靈波列維克，收割前身高如麥稈，收割後縮至麥茬之小；他在鐮刀之前奔逃、藏於未割之穗間；正午小睡者或被其馬踏過，或罹疾。"
+      },
+      "motifs": [
+        "sacred-place",
+        "taboo-transgression",
+        "transformation"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Folk belief."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Besides the Poludnica the Russians have a field-spirit named Polevik or Polevoy, about the height of a corn-stalk until harvest-time, when he shrivels to the size of stubble. He runs away before the swing of the scythe and hides among the stalks that are still standing; when the last ears are cut he gets into the hands of the reaper and is brought to the barn with the final sheaf.",
+          "note": "Paraphrase of Machal, Slavic Mythology, Mythology of All Races III (1918), Part I ch. 8; not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "He appears at noon or before sunset, and at that time it is unsafe to take a nap in the field: the Polevik, roaming about on horseback, will ride over those who are sleeping there, or will send disease upon them. The field is his until the last sheaf is carried in.",
+          "note": "Paraphrase of Machal (1918); not verbatim."
+        }
+      ],
+      "persons": []
+    },
+    {
+      "id": "slavic-belun-field-guide",
+      "title": {
+        "en": "Belun: The Old Man Who Walks the Harvest-Field",
+        "zh": "別倫：行走於收割田中的老者"
+      },
+      "tradition": "slavic",
+      "category": "myth",
+      "region": {
+        "en": "White Russia (symbolic pin at Minsk)",
+        "zh": "白俄羅斯（象徵性定位於明斯克）"
+      },
+      "lat": 53.9,
+      "lon": 27.57,
+      "period": "Belief recorded 19th c. (Machal 1918)",
+      "source": {
+        "archive": "Wikisource / Internet Archive",
+        "work": "Jan Machal, Slavic Mythology, Mythology of All Races III (1918), Part I ch. 8",
+        "url": "https://en.wikisource.org/wiki/The_Mythology_of_All_Races/Volume_3/Slavic/Part_1"
+      },
+      "license": "Public domain (1918)",
+      "summary": {
+        "en": "The White Russians tell of Belun, an old man with a long white beard and gown, who helps the reapers and bestows rich presents on them; he shows himself only by day, and guides aright those who have lost their way.",
+        "zh": "白俄羅斯人傳說別倫——白髮白袍之老者——助割麥人並厚贈之；他只在白晝顯形，為迷途者指引正路。"
+      },
+      "motifs": [
+        "culture-hero",
+        "sacred-place",
+        "theophany"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Folk belief; parallel to Vile's gift-giving wanderers."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The White Russians tell stories about the Belun, an old man with a long white beard and gown, who helps the reapers and bestows rich presents upon them. He shows himself only during the day, and guides aright those who have lost their way — the kind old field-walker, the opposite number of the noon-spirit who asks riddles.",
+          "note": "Paraphrase of Machal, Slavic Mythology, Mythology of All Races III (1918), Part I ch. 8; not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Belun belongs to the family of wanderers who walk the roads of Slavic belief giving gifts: the old men who swap tables and packs in the Czech tales, the gods who travel unrecognized. In the harvest-field his favour is the simplest of bargains — help the reapers, and the help comes back.",
+          "note": "Paraphrase of Machal (1918); not verbatim."
+        }
+      ],
+      "persons": []
+    },
+    {
+      "id": "slavic-jezinky-cave-witches",
+      "title": {
+        "en": "The Jezinky: Cave Witches Who Put Out Travelers' Eyes",
+        "zh": "葉津卡：掏眼的洞穴女巫"
+      },
+      "tradition": "slavic",
+      "category": "myth",
+      "region": {
+        "en": "Bohemia, cave country (symbolic pin at Prague)",
+        "zh": "波希米亞洞穴之地（象徵性定位於布拉格）"
+      },
+      "lat": 50.08,
+      "lon": 14.42,
+      "period": "Belief recorded 19th c. (Machal 1918)",
+      "source": {
+        "archive": "Wikisource / Internet Archive",
+        "work": "Jan Machal, Slavic Mythology, Mythology of All Races III (1918), Part I ch. 7",
+        "url": "https://en.wikisource.org/wiki/The_Mythology_of_All_Races/Volume_3/Slavic/Part_1"
+      },
+      "license": "Public domain (1918)",
+      "summary": {
+        "en": "The Jezinky of the old Czechs had the faces of women, the bodies of sows, and the legs of horses; living in caves, they lulled travellers to sleep and put out their eyes, feeding stolen children on dainties in their caverns.",
+        "zh": "古捷克葉津卡女巫：婦人之面、母豬之軀、馬之腿；穴居洞中，先催眠旅人再掏其眼，並於洞中餵養被竊孩童以美食。"
+      },
+      "motifs": [
+        "taboo-transgression",
+        "transformation",
+        "descent-underworld"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Folk belief; the Jezibaba (Baba Yaga of Bohemia) belongs to the same family."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The ancient Czechs were familiar with Jezinky — lamias said to have the faces of women, the bodies of sows, and the legs of horses. Living in caves, they put out the eyes of human beings after lulling them to sleep, and they kidnap small children, whom they feed on dainty morsels in their caverns.",
+          "note": "Paraphrase of Machal, Slavic Mythology, Mythology of All Races III (1918), Part I ch. 7; not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "The old Poles knew them too, and still tell stories of Jendzyna, who figures in popular fairy-tales as Jaga-baba, Jezibaba, Jendzibaba — the Bohemian cousin of the Russian Baba Yaga. In Moravia the Wild Beings are small and ungainly, living in the fields and changing into all sorts of animals; their own children are ugly, so they steal those of mankind and treat them very well.",
+          "note": "Paraphrase of Machal (1918); not verbatim."
+        }
+      ],
+      "persons": [
+        "babayaga"
+      ]
+    },
+    {
+      "id": "baltic-sun-moon-children-stars",
+      "title": {
+        "en": "The Children of the Sun and Moon",
+        "zh": "日月之子"
+      },
+      "tradition": "baltic",
+      "category": "myth",
+      "region": {
+        "en": "Latvia (symbolic pin at Riga)",
+        "zh": "拉脫維亞（象徵性定位於里加）"
+      },
+      "lat": 56.95,
+      "lon": 24.11,
+      "period": "Daina recorded 19th c. (Mannhardt); recorded by Gray 1918",
+      "source": {
+        "archive": "Wikisource / Internet Archive",
+        "work": "L. H. Gray, Baltic Mythology, Mythology of All Races III (1918), Part V",
+        "url": "https://en.wikisource.org/wiki/The_Mythology_of_All_Races/Volume_3/Slavic/Part_5"
+      },
+      "license": "Public domain (1918)",
+      "summary": {
+        "en": "In the Lettish variant the sun and the moon have many children — the stars; and the betrothed of the Lettish Morning Star is the sun's own daughter, conceived of a union with Pehrkons himself — a thunderstorm at dawn.",
+        "zh": "拉脫維亞版本中，日月育有多子——即群星；而晨星之未婚妻正是日之親女，乃日與佩爾康臨時結合所生——即黎明的雷雨。"
+      },
+      "motifs": [
+        "divine-marriage",
+        "sibling-creators",
+        "miraculous-birth"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Daina; celestial family structure parallels Vedic and Greek sky genealogies."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "A Lettish variant of the moon-and-sun myth carries the story a little further: the sun and the moon have many children, the stars; and the betrothed of the masculine Lettish Morning Star is none other than the sun's own daughter, the fruit of a temporary union with Pehrkons himself — a clear personification of a thunderstorm at dawn.",
+          "note": "Paraphrase of Gray, Baltic Mythology, Mythology of All Races III (1918), Part V; not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "The moon, in shame and anger, avoids his spouse: he is visible only by night, while she appears by day in the sight of all mankind. The whole starry family is thus one kin-group — a sky-household of children, daughters, wooers, and a thunder-father — exactly as the farm below, which the songs never let the sky forget.",
+          "note": "Paraphrase of Gray (1918); not verbatim."
+        }
+      ],
+      "persons": [
+        "perkunas"
+      ]
+    },
+    {
+      "id": "baltic-sun-strikes-moon-stone",
+      "title": {
+        "en": "The Silver Stone: The Sun Strikes the Moon",
+        "zh": "銀石：太陽擊月"
+      },
+      "tradition": "baltic",
+      "category": "myth",
+      "region": {
+        "en": "Latvia (symbolic pin at Riga)",
+        "zh": "拉脫維亞（象徵性定位於里加）"
+      },
+      "lat": 56.95,
+      "lon": 24.11,
+      "period": "Daina recorded 19th c. (Mannhardt); recorded by Gray 1918",
+      "source": {
+        "archive": "Wikisource / Internet Archive",
+        "work": "L. H. Gray, Baltic Mythology, Mythology of All Races III (1918), Part V",
+        "url": "https://en.wikisource.org/wiki/The_Mythology_of_All_Races/Volume_3/Slavic/Part_5"
+      },
+      "license": "Public domain (1918)",
+      "summary": {
+        "en": "She strikes the moon with a silver stone — her rising orb obliterates the moon — and this is the cause of three days' battle with God.",
+        "zh": "她以銀石擊月——初升之日輪抹去月亮——此即與神三日之戰的緣由。"
+      },
+      "motifs": [
+        "divine-marriage",
+        "transformation",
+        "sun-capture",
+        "threefold"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Daina."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "She strikes the moon with a silver stone — in other words, her rising orb obliterates the moon — and this is the cause of three days' battle with God. The three days' battle is the new moon's darkness: for three nights the sky is at war between the sun's blow and the god's repairing, until the silver stone has done its work and the light can be rebalanced. The daina keeps the quarrel in the family — wife, husband, and father-in-law — exactly as the farm keeps its own.",
+          "note": "Paraphrase of Gray, Baltic Mythology, Mythology of All Races III (1918), Part V; not verbatim. / Paraphrase of Gray (1918); not verbatim."
+        }
+      ],
+      "persons": []
+    },
+    {
+      "id": "baltic-god-sons-bridal-lights",
+      "title": {
+        "en": "Two Lights in the Sea: The Sons of God Build a Bridal Chamber",
+        "zh": "海中雙火：神之子築婚房"
+      },
+      "tradition": "baltic",
+      "category": "myth",
+      "region": {
+        "en": "Latvia (symbolic pin at Riga)",
+        "zh": "拉脫維亞（象徵性定位於里加）"
+      },
+      "lat": 56.95,
+      "lon": 24.11,
+      "period": "Dainas recorded 19th c. (Mannhardt); recorded by Gray 1918",
+      "source": {
+        "archive": "Wikisource / Internet Archive",
+        "work": "L. H. Gray, Baltic Mythology, Mythology of All Races III (1918), Part V",
+        "url": "https://en.wikisource.org/wiki/The_Mythology_of_All_Races/Volume_3/Slavic/Part_5"
+      },
+      "license": "Public domain (1918)",
+      "summary": {
+        "en": "Seeking to win the daughter of the sun, God's son makes for her an island in the midst of the sea — the first light at dawn or the first shadow at evening; or the two sons kindle two lights in the sea and in the centre of the ocean build a bridal chamber, which she enters trembling, urged to wake early, for God's sons are coming to roll apples.",
+        "zh": "為求娶日之女，神之子為她於海中造島——即黎明初光或黃昏初影；或二子於海中燃起雙火，於大洋中央築起婚房；她顫抖著走入，被催促早醒，因神之子將來滾蘋果。"
+      },
+      "motifs": [
+        "divine-marriage",
+        "otherworld-voyage",
+        "sibling-creators",
+        "island-otherworld",
+        "creation-light"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Daina."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Seeking to win the daughter of the sun, God's son makes for her an island in the midst of the sea — either the first dark shadows of evening or the first bits of light at dawn; or the two sons kindle two lights in the sea, awaiting her, and in the centre of the ocean they build a bridal chamber, which she enters tremblingly.",
+          "note": "Paraphrase of Gray, Baltic Mythology, Mythology of All Races III (1918), Part V; not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "She is urged to awake early, for God's sons are coming to roll apples — the apple-play of the Baltic wedding, where the fruit stands for the disk of the light. The wooing of dawn by the morning star is thus built in the sea itself: every daybreak raises the island, lights the fires, and rolls the apple again.",
+          "note": "Paraphrase of Gray (1918); not verbatim."
+        }
+      ],
+      "persons": []
+    },
+    {
+      "id": "baltic-usching-horse-god",
+      "title": {
+        "en": "Usching: The Horse-God of the Southeast",
+        "zh": "烏希格：東南方的馬神"
+      },
+      "tradition": "baltic",
+      "category": "myth",
+      "region": {
+        "en": "Ludzen and Rossitten, southeastern Lithuania (symbolic pin)",
+        "zh": "立陶宛東南部盧任與羅西滕（象徵性定位）"
+      },
+      "lat": 56.0,
+      "lon": 22.0,
+      "period": "Recorded in a Jesuit mission report of 1606; recorded by Gray 1918",
+      "source": {
+        "archive": "Wikisource / Internet Archive",
+        "work": "L. H. Gray, Baltic Mythology, Mythology of All Races III (1918), Part V, citing the Jesuit mission report of 1606",
+        "url": "https://en.wikisource.org/wiki/The_Mythology_of_All_Races/Volume_3/Slavic/Part_5"
+      },
+      "license": "Public domain (1918)",
+      "summary": {
+        "en": "A few dainas remain in honour of a deity Usching, whom a Jesuit mission report of 1606 declares to have been a horse-god worshipped in the vicinity of Ludzen and Rossitten, in the extreme south-east of Lithuania.",
+        "zh": "尚存數首達伊納尊奉一神名烏希格；一六〇六年耶穌會傳教報告謂其為馬神，受祀於立陶宛東南部盧任與羅西滕一帶。"
+      },
+      "motifs": [
+        "sacred-place",
+        "ritual-origin"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Fragmentary deity; interpretive reconstruction flagged."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "There are a few dainas in honour of a deity Usching, whom a Jesuit mission report of 1606 declares to have been a horse-god worshipped in the vicinity of Ludzen and Rossitten, in the extreme south-east of Lithuania. Gray adds that these are not of mythological value — the god's tales are lost, and only the name and the horse remain. Yet the horse was the great beast of the Baltic sky: God rides with smoke-grey horses, the sun keeps her hundred brown horses, and the hooves in the dainas always belong to someone. Usching is the horse-god by name; his stories, whatever they were, have gone the way of the Prussians. (Fragmentary; interpretive reconstruction flagged.)",
+          "note": "Paraphrase of Gray, Baltic Mythology, Mythology of All Races III (1918), Part V; not verbatim. / Paraphrase of Gray (1918) with caveat; not verbatim."
+        }
+      ],
+      "persons": []
+    }
+  ]
+}

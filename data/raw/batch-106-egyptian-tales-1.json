@@ -1,0 +1,548 @@
+{
+  "texts": [
+    {
+      "id": "egyptian-wax-crocodile",
+      "title": {
+        "en": "The Wax Crocodile of Ubaaner",
+        "zh": "烏巴安奈爾的蠟鱷"
+      },
+      "tradition": "egyptian",
+      "category": "myth",
+      "region": {
+        "en": "Memphis, Egypt (temple of Ptah, court of King Nebka)",
+        "zh": "埃及孟菲斯（卜塔神廟，內布卡王廷）"
+      },
+      "lat": 29.8526,
+      "lon": 31.4,
+      "period": "Westcar Papyrus, copied 12th-18th Dynasty, tale set in reign of Nebka (3rd Dynasty); Petrie translation 1895",
+      "source": {
+        "archive": "Project Gutenberg (eBook #7386)",
+        "work": "Egyptian Tales, First Series, ed. W. M. Flinders Petrie (London, 1895), 'Khafra's Tale'",
+        "url": "https://www.gutenberg.org/cache/epub/7386/pg7386.txt"
+      },
+      "license": "Public domain (translation 1895)",
+      "summary": {
+        "en": "Prince Khafra entertains King Khufu with the tale of Ubaaner, whose wife takes a lover from among the royal pages. The chief reciter fashions a wax crocodile seven fingers long, enchants it, and when the page goes to bathe it becomes a seven-cubit crocodile and seizes him; the king commands, 'Take to thee thy prey', and the wife is burned.",
+        "zh": "卡夫拉王子向胡夫王述烏巴安奈爾之事：其妻與王室侍從私通。大祭司捏蠟鱷七指長而咒之；侍從入湖沐浴時，蠟鱷化為七肘巨鱷，一口吞之。王命：『帶走爾之獵物』——其妻遂被焚於火。"
+      },
+      "motifs": [
+        "trickster",
+        "transformation",
+        "taboo-transgression"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient literary tale; no living community restrictions. Petrie's 1895 rendering is the cited public-domain source."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Now when the wife of Uba-aner saw a page, among those who stood behind the king, her heart longed after him; and she sent her servant unto him, with a present of a box full of garments. And he came then with the servant. Now there was a lodge in the garden of Uba-aner; and one day the page said to the wife of Uba-aner, 'In the garden of Uba-aner there is now a lodge; behold, let us therein take our pleasure.' So the wife of Uba-aner sent to the steward who had charge over the garden, saying, 'Let the lodge which is in the garden be made ready.' And she remained there, and rested and drank with the page until the sun went down.",
+          "note": "Verbatim excerpt of Petrie, Egyptian Tales First Series (1895), Khafra's Tale."
+        },
+        {
+          "id": "2",
+          "text": "Then said Uba-aner, 'Bring me my casket of ebony and electrum.' And they brought it; and he fashioned a crocodile of wax, seven fingers long: and he enchanted it, and said, 'When the page comes and bathes in my lake, seize on him.' And he gave it to the steward, and said to him, 'When the page shall go down into the lake to bathe, as he is daily wont to do, then throw in this crocodile behind him.' And the steward went forth bearing the crocodile. — And the steward cast in the wax crocodile after him into the water; and, behold! it became a great crocodile seven cubits in length, and it seized on the page.",
+          "note": "Verbatim excerpt of Petrie (1895), Khafra's Tale."
+        },
+        {
+          "id": "3",
+          "text": "And Uba-aner called unto the crocodile and said, 'Bring forth the page.' And the crocodile came forth from the lake with the page. Uba-aner said unto the king, 'Behold, whatever I command this crocodile he will do it.' And his majesty said, 'I pray you send back this crocodile.' And Uba-aner stooped and took up the crocodile, and it became in his hand a crocodile of wax. And then Uba-aner told the king that which had passed in his house with the page and his wife. And his majesty said unto the crocodile, 'Take to thee thy prey.' And the crocodile plunged into the lake with his prey, and no man knew whither he went.",
+          "note": "Verbatim excerpt of Petrie (1895), Khafra's Tale."
+        },
+        {
+          "id": "4",
+          "text": "And his majesty the king of Upper and Lower Egypt, Nebka, the blessed, commanded, and they brought forth the wife of Uba-aner to the north side of the harem, and burnt her with fire, and cast her ashes in the river. This is a wonder that came to pass in the days of thy forefather the king of Upper and Lower Egypt, Nebka, of the acts of the chief reciter Uba-aner. His majesty the king of Upper and Lower Egypt, Khufu, then said, 'Let there be presented to the king Nebka, the blessed, a thousand loaves, a hundred draughts of beer, an ox, two jars of incense.'",
+          "note": "Verbatim excerpt of Petrie (1895), Khafra's Tale, closing."
+        }
+      ],
+      "persons": [
+        "ra"
+      ]
+    },
+    {
+      "id": "egyptian-zazamankh-lake",
+      "title": {
+        "en": "Zazamankh Splits the Lake",
+        "zh": "匝匝曼赫分湖取玉"
+      },
+      "tradition": "egyptian",
+      "category": "myth",
+      "region": {
+        "en": "Memphis, Egypt (palace lake of King Seneferu)",
+        "zh": "埃及孟菲斯（斯尼夫魯王宮之湖）"
+      },
+      "lat": 29.8526,
+      "lon": 31.4,
+      "period": "Westcar Papyrus, copied 12th-18th Dynasty, tale set in reign of Seneferu (4th Dynasty); Petrie translation 1895",
+      "source": {
+        "archive": "Project Gutenberg (eBook #7386)",
+        "work": "Egyptian Tales, First Series, ed. W. M. Flinders Petrie (1895), 'Baufra's Tale'",
+        "url": "https://www.gutenberg.org/cache/epub/7386/pg7386.txt"
+      },
+      "license": "Public domain (translation 1895)",
+      "summary": {
+        "en": "Weary King Seneferu is rowed about his lake by twenty harem maidens in net dresses; a steering girl's malachite jewel falls into twelve cubits of water and the rowing stops. The reciter Zazamankh speaks his magic speech, piles one half of the lake upon the other, takes up the jewel from a potsherd, and pours the water back — a wonder the bored king rewards.",
+        "zh": "厭倦的斯尼夫魯王由二十名著網衣的嬪女划船遊湖；操舵少女之孔雀石墜落十二肘深水，歌止槳停。祭司匝匝曼赫誦咒，將半湖水疊於另一半之上，自碎瓦上拾回寶玉，復傾水還湖——厭王大悅而重賞。"
+      },
+      "motifs": [
+        "transformation",
+        "culture-hero",
+        "recognition-token"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient literary tale; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The royal son Bau-f-ra then stood forth and spake. He said, 'I will tell thy majesty of a wonder which came to pass in the days of thy father Seneferu, the blessed, of the deeds of the chief reciter Zazamankh. One day King Seneferu, being weary, went throughout his palace seeking for a pleasure to lighten his heart, but he found none. And he said, 'Haste, and bring before me the chief reciter and scribe of the rolls Zazamankh'; and they straightway brought him. And the king said, 'I have sought in my palace for some delight, but I have found none.'",
+          "note": "Verbatim excerpt of Petrie, Egyptian Tales First Series (1895), Baufra's Tale."
+        },
+        {
+          "id": "2",
+          "text": "Then said Zazamankh to him, 'Let thy majesty go upon the lake of the palace, and let there be made ready a boat, with all the fair maidens of the harem of thy palace; and the heart of thy majesty shall be refreshed with the sight, in seeing their rowing up and down the water, and seeing the goodly pools of the birds upon the lake, and beholding its sweet fields and grassy shores; thus will thy heart be lightened. And I also will go with thee. Bring me twenty oars of ebony, inlayed with gold, with blades of light wood, inlayed with electrum; and bring me twenty maidens, fair in their limbs, their bosoms and their hair, all virgins; and bring me twenty nets, and give these nets unto the maidens for their garments.'",
+          "note": "Verbatim excerpt of Petrie (1895), Baufra's Tale."
+        },
+        {
+          "id": "3",
+          "text": "And they rowed down the stream and up the stream, and the heart of his majesty was glad with the sight of their rowing. But one of them at the steering struck her hair, and her jewel of new malachite fell into the water. And she ceased her song, and rowed not; and her companions ceased, and rowed not. And his majesty said, 'Row you not further?' And they replied, 'Our little steerer here stays and rows not.' His majesty then said to her, 'Wherefore rowest thou not?' She replied, 'It is for my jewel of new malachite which is fallen in the water.' And he said to her, 'Row on, for behold I will replace it.' And she answered, 'But I want my own piece back in its setting.'",
+          "note": "Verbatim excerpt of Petrie (1895), Baufra's Tale."
+        },
+        {
+          "id": "4",
+          "text": "Then the chief reciter Zazamankh spake his magic speech. And he placed one part of the waters of the lake upon the other, and discovered the jewel lying upon a shard; and he took it up and gave it unto its mistress. And the water, which was twelve cubits deep in the middle, reached now to twenty-four cubits after he turned it. And he spake, and used his magic speech; and he brought again the water of the lake to its place. And his majesty spent a joyful day with the whole of the royal house. Then rewarded he the chief reciter Zazamankh with all good things.",
+          "note": "Verbatim excerpt of Petrie (1895), Baufra's Tale, closing."
+        }
+      ],
+      "persons": []
+    },
+    {
+      "id": "egyptian-djedi-resurrection",
+      "title": {
+        "en": "Dedi before Khufu: Heads Rejoined",
+        "zh": "傑迪覲胡夫：斷首復接"
+      },
+      "tradition": "egyptian",
+      "category": "myth",
+      "region": {
+        "en": "Memphis, Egypt (hall of columns of Pharaoh)",
+        "zh": "埃及孟菲斯（法老柱廳）"
+      },
+      "lat": 29.8526,
+      "lon": 31.4,
+      "period": "Westcar Papyrus, copied 12th-18th Dynasty, tale set in reign of Khufu (4th Dynasty); Petrie translation 1895",
+      "source": {
+        "archive": "Project Gutenberg (eBook #7386)",
+        "work": "Egyptian Tales, First Series, ed. W. M. Flinders Petrie (1895), 'Hordefef's Tale'",
+        "url": "https://www.gutenberg.org/cache/epub/7386/pg7386.txt"
+      },
+      "license": "Public domain (translation 1895)",
+      "summary": {
+        "en": "Prince Hordedef fetches the 110-year-old sage Dedi, who restores severed heads before King Khufu — but refuses a living prisoner: 'We do not even thus to our cattle.' A duck, a goose, and an ox are beheaded and live again; Dedi knows where the designs of Thoth's dwelling lie, and prophesies that three sons of Ra will be born to rule the land.",
+        "zh": "霍爾德代夫王子迎來百一十歲的聖者傑迪，於胡夫王前復接斷首——然拒殺活人囚犯：『吾儕待牛亦不出此。』鴨、鵝、牛斬首而復活；傑迪知托特居所圖樣所在，且預言拉之三子將生而王天下。"
+      },
+      "motifs": [
+        "resurrection",
+        "prophetic-vision",
+        "miraculous-birth",
+        "threefold"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient literary tale; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The royal son Hordedef then stood forth and spake. He said, 'Hitherto hast thou only heard tokens of those who have gone before, and of which no man knoweth their truth. But I will show thy majesty a man of thine own days.' And his majesty said, 'Who is he, Hordedef?' And the royal son Hordedef answered, 'It is a certain man named Dedi, who dwells at Dedsneferu. He is a man of one hundred and ten years old; and he eats five hundred loaves of bread, and a side of beef, and drinks one hundred draughts of beer, unto this day. He knows how to restore the head that is smitten off; he knows how to cause the lion to follow him trailing his halter on the ground; he knows the designs of the dwelling of Tahuti. The majesty of the king of Upper and Lower Egypt, Khufu, the blessed, has long sought for the designs of the dwelling of Tahuti, that he may make the like of them in his pyramid.'",
+          "note": "Verbatim excerpt of Petrie, Egyptian Tales First Series (1895), Hordefef's Tale."
+        },
+        {
+          "id": "2",
+          "text": "And his majesty said, 'Is it true, that which men say, that thou canst restore the head which is smitten off?' And Dedi replied, 'Truly, I know that, O king (life, wealth, and health), my lord.' And his majesty said, 'Let one bring me a prisoner who is in prison, that his punishment may be fulfilled.' And Dedi said, 'Let it not be a man, O king, my lord; behold we do not even thus to our cattle.' And a duck was brought unto him, and its head was cut off. And the duck was laid on the west side of the hall, and its head on the east side of the hall. And Dedi spake his magic speech. And the duck fluttered along the ground, and its head came likewise; and when it had come part to part the duck stood and quacked. And they brought likewise a goose before him, and he did even so unto it. His majesty caused an ox to be brought, and its head cast on the ground. And Dedi spake his magic speech. And the ox stood upright behind him, and followed him with his halter trailing on the ground.",
+          "note": "Verbatim excerpt of Petrie (1895), Hordefef's Tale."
+        },
+        {
+          "id": "3",
+          "text": "And King Khufu said, 'And is it true what is said, that thou knowest the number of the designs of the dwelling of Tahuti?' And Dedi replied, 'Pardon me, I know not their number, O king, but I know where they are.' And his majesty said, 'Where is that?' And Dedi replied, 'There is a chest of whetstone in a chamber named the plan-room, in Heliopolis; they are in this chest.' And Dedi said further unto him, 'O king, my lord, it is not I that is to bring them to thee.' And his majesty said, 'Who, then, is it that shall bring them to me?' And Dedi answered to him, 'It is the eldest of the three children who are in the body of Rud-didet who shall bring them to thee.'",
+          "note": "Verbatim excerpt of Petrie (1895), Hordefef's Tale."
+        },
+        {
+          "id": "4",
+          "text": "And Dedi replied, 'She is the wife of a priest of Ra, lord of Sakhebu. And she has conceived these three sons by Ra, lord of Sakhebu, and the god has promised her that they shall fulfil this noble office (of reigning) over all this land, and that the eldest of them shall be high priest in Heliopolis.' And his majesty's heart became troubled for this; but Dedi spake unto him, 'What is this that thou thinkest, O king, my lord? Is it because of these three children? I tell thee thy son shall reign, and thy son's son, and then one of them.'",
+          "note": "Verbatim excerpt of Petrie (1895), Hordefef's Tale."
+        }
+      ],
+      "persons": [
+        "khensu"
+      ]
+    },
+    {
+      "id": "egyptian-rut-tetet-triplets",
+      "title": {
+        "en": "Rud-didet and the Three Sons of Ra",
+        "zh": "魯德代德與拉之三子"
+      },
+      "tradition": "egyptian",
+      "category": "myth",
+      "region": {
+        "en": "Sakhebu, Letopolite nome, Egypt (house of the priest Ra-user)",
+        "zh": "埃及萊托波利斯州薩赫布（拉-烏塞爾祭司之家）"
+      },
+      "lat": 30.25,
+      "lon": 31.15,
+      "period": "Westcar Papyrus, copied 12th-18th Dynasty, tale set at the close of Khufu's reign; Petrie translation 1895",
+      "source": {
+        "archive": "Project Gutenberg (eBook #7386)",
+        "work": "Egyptian Tales, First Series, ed. W. M. Flinders Petrie (1895), conclusion of 'Hordefef's Tale'",
+        "url": "https://www.gutenberg.org/cache/epub/7386/pg7386.txt"
+      },
+      "license": "Public domain (translation 1895)",
+      "summary": {
+        "en": "Ra sends Isis, Nephthys, Meskhent, Hekt and Khnumu, disguised as dancing-girls, to the house of the priest Ra-user to deliver his wife Rud-didet of three kings; each child of a cubit with bones strong and hair of lapis lazuli is named and crowned king by the goddess, and the royal diadems, hidden in a bushel of barley, sing in a sealed chamber — until a jealous maid is carried off by a crocodile.",
+        "zh": "拉遣伊西斯、奈芙蒂斯、美斯肯特、海卡特與庫努姆化妝為舞女，至祭司拉-烏塞爾家中，為其妻魯德代德接生三王；每子一肘高，骨骼強健，髮如青金石，神為之命名加冕。王冠藏於大麥斗中，封閉之室內歌聲與樂舞大作——直至妒婢為鱷魚所噬。"
+      },
+      "motifs": [
+        "miraculous-birth",
+        "sacred-kingship",
+        "taboo-transgression",
+        "jealousy",
+        "threefold"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient literary tale; no living community restrictions. Petrie notes the tale likely reflects the 5th Dynasty's priestly usurpation and the title 'Son of Ra'."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "And one day it came to pass that Rud-didet felt the pains of birth. And the majesty of Ra, lord of Sakhebu, said unto Isis, to Nebhat, to Meskhent, to Hakt, and to Khnumu, 'Go ye, and deliver Rud-didet of these three children that she shall bear, who are to fulfil this noble office over all this land; that they may build up your temples, furnish your altars with offerings, supply your tables of libation, and increase your endowments.' Then went these deities; their fashion they made as that of dancing-girls, and Khnumu was with them as a porter.",
+          "note": "Verbatim excerpt of Petrie, Egyptian Tales First Series (1895), conclusion of Hordefef's Tale."
+        },
+        {
+          "id": "2",
+          "text": "And Isis said, 'O child, by thy name of User-ref, do not do violence.' And the child came upon her hands, as a child of a cubit; its bones were strong, the beauty of its limbs was like gold, and its hair was like true lapis lazuli. They washed him, and prepared him, and placed him on a carpet on the brickwork. Then Meskhent approached him and said, 'This is a king who shall reign over all the land.' And Khnumu gave strength to his limbs. — And Isis said, 'O child, by thy name of Sah-ra, stay not in her.' Then the child came upon her hands, a child of a cubit... And Meskhent approached him and said, 'This is a king who shall reign over all the land.'",
+          "note": "Verbatim excerpt of Petrie (1895), births of the three children (elisions marked)."
+        },
+        {
+          "id": "3",
+          "text": "And Isis spake unto these goddesses, and said, 'Wherefore have we come without doing a marvel for these children, that we may tell it to their father who has sent us?' Then made they the divine diadems of the king, and laid them in the bushel of barley. And they caused the clouds to come with wind and rain; and they turned back again unto the house. And they said, 'Let us put this barley in a closed chamber, sealed up, until we return northward, dancing.' — And the handmaid went, and opened the chamber. And she heard talking and singing, music and dancing, quavering, and all things which are performed for a king in his chamber.",
+          "note": "Verbatim excerpt of Petrie (1895)."
+        },
+        {
+          "id": "4",
+          "text": "And after these days it came to pass that Rud-didet was wroth with her servant, and beat her with stripes. And the servant said unto those that were in the house, 'Shall it be done thus unto me? She has borne three kings, and I will go and tell this to his majesty King Khufu the blessed.' And she went, and found the eldest brother of her mother, who was binding his flax on the floor. And he said to her, 'Whither goest thou, my little maid?' And he took a bunch of the flax to her, and laid on her a violent blow. And the servant went to fetch a handful of water, and a crocodile carried her away.",
+          "note": "Verbatim excerpt of Petrie (1895), closing of the tale (the remainder is lost)."
+        }
+      ],
+      "persons": [
+        "isis",
+        "nephthys",
+        "khnemu"
+      ]
+    },
+    {
+      "id": "egyptian-eloquent-peasant",
+      "title": {
+        "en": "The Peasant and the Workman: Justice for the Sekhti",
+        "zh": "農夫與工人：塞克蒂之訟"
+      },
+      "tradition": "egyptian",
+      "category": "myth",
+      "region": {
+        "en": "Herakleopolis (Henenseten), Egypt, capital of the 9th-10th Dynasties",
+        "zh": "埃及赫拉克利奧波利斯（第九至第十王朝都城）"
+      },
+      "lat": 29.0803,
+      "lon": 31.3303,
+      "period": "Tale of the 9th-10th Dynasties (c. 2160-2025 BCE); Petrie translation 1895",
+      "source": {
+        "archive": "Project Gutenberg (eBook #7386)",
+        "work": "Egyptian Tales, First Series, ed. W. M. Flinders Petrie (1895), 'The Peasant and the Workman'",
+        "url": "https://www.gutenberg.org/cache/epub/7386/pg7386.txt"
+      },
+      "license": "Public domain (translation 1895)",
+      "summary": {
+        "en": "A workman of a great steward blocks the tow-path with his cloak, steals a peasant's ass over a mouthful of corn, and warns him: 'Lift not up your voice, Sekhti, or you shall go to the Demon of Silence.' The wronged peasant petitions the steward nine times in famous rhetoric until the king, delighted, orders the speeches written down — and the whole property of the workman is given to the Sekhti.",
+        "zh": "豪僕工人以斗篷阻道，藉口驢食其麥而奪農夫之驢，並威嚇：『塞克蒂，勿聲張，否則你將去見沉默之魔。』受屈農夫九次上訴，辭章之美感動君王，命書吏錄之——最後工人全部家產盡歸塞克蒂。"
+      },
+      "motifs": [
+        "parable-teaching",
+        "trickster"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient literary tale; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "There dwelt in the Sekhet Hemat — or salt country — a peasant called the Sekhti, with his wife and children, his asses and his dogs; and he trafficked in all good things of the Sekhet Hemat to Henenseten. Behold now he went with rushes, natron, and salt, with wood and pods, with stones and seeds, and all good products of the Sekhet Hemat. And this Sekhti journeyed to the south unto Henenseten; and when he came to the lands of the house of Fefa, north of Denat, he found a man there standing on the bank, a man called Hemti — the workman — son of a man called Asri, who was a serf of the High Steward Meruitensa.",
+          "note": "Verbatim excerpt of Petrie, Egyptian Tales First Series (1895), The Peasant and the Workman."
+        },
+        {
+          "id": "2",
+          "text": "Said Sekhti, 'I am going carefully; the one way is stopped, therefore took I my ass by the enclosed ground, and do you seize it for filling its mouth with a cluster of corn? Moreover, I know unto whom this domain belongs, even unto the Lord Steward Meruitensa. He it is who smites every robber in this whole land; and shall I then be robbed in his domain?' Said Hemti, 'This is the proverb which men speak: A poor man's name is only his own matter. I am he of whom you spake, even the Lord Steward of whom you think.' Thereon he took to him branches of green tamarisk and scourged all his limbs, took his asses, and drave them into the pasture. And Sekhti wept very greatly, by reason of the pain of what he had suffered. Said Hemti, 'Lift not up your voice, Sekhti, or you shall go to the Demon of Silence.' Sekhti answered, 'You beat me, you steal my goods, and now would take away even my voice, O demon of silence!'",
+          "note": "Verbatim excerpt of Petrie (1895)."
+        },
+        {
+          "id": "3",
+          "text": "Sekhti said, 'Ho! turn, that I may please thy heart with this discourse.' — 'O my Lord Steward, greatest of the great, guide of the needy: When thou embarkest on the lake of truth, Mayest thou sail upon it with a fair wind; May thy mainsail not fly loose. May there not be lamentation in thy cabin; May not misfortune come after thee. May not thy mainstays be snapped; Mayest thou not run aground. May not the wave seize thee; Mayest thou not taste the impurities of the river; Mayest thou not see the face of fear. For thou art the orphan's father, the widow's husband, The desolate woman's brother, the garment of the motherless. Let me celebrate thy name in this land for every virtue. Destroying deceit, encouraging justice; Coming to the cry, and allowing utterance. Abolish oppression, behold me, I am overladen, Reckon with me, behold me defrauded.'",
+          "note": "Verbatim excerpt of Petrie (1895), the first petition."
+        },
+        {
+          "id": "4",
+          "text": "His majesty said, 'As thou wishest that I may see health! lengthen out his complaint, without replying to any of his speeches. He who desireth him to continue speaking should be silent; behold, bring us his words in writing, that we may listen to them. But provide for his wife and his children, and let the Sekhti himself also have a living. Thou must cause one to give him his portion without letting him know that thou art he who is giving it to him.' — But yet Meruitensa would not hearken unto his complaint; and the Sekhti came yet, and yet again, even unto the ninth time. Then the Lord Steward Meruitensa then said unto him, 'Fear not, Sekhti, for what thou hast done. The Sekhti has made many speeches, delightful to the heart of his majesty, and I take an oath — as I eat bread, and as I drink water — that thou shalt be remembered to eternity.' And moreover he gave all that which belonged unto the Hemti to the Sekhti, even all his property and his offices, and the Sekhti was beloved of the king more than all his overseers.",
+          "note": "Verbatim excerpt of Petrie (1895), closing (condensed by elision between the king's order and the ninth petition)."
+        }
+      ],
+      "persons": []
+    },
+    {
+      "id": "egyptian-shipwrecked-sailor",
+      "title": {
+        "en": "The Shipwrecked Sailor and the Serpent of Punt",
+        "zh": "遇難水手與彭特巨蛇"
+      },
+      "tradition": "egyptian",
+      "category": "myth",
+      "region": {
+        "en": "The Red Sea, on the route to the mines of Pharaoh (the serpent's island of Punt, symbolic pin)",
+        "zh": "紅海（前往法老礦山途中；巨蛇之彭特島，象徵定位）"
+      },
+      "lat": 20.0,
+      "lon": 38.0,
+      "period": "Tale of the 12th Dynasty (c. 1985-1773 BCE); sole copy in the Hermitage papyrus; Petrie translation 1895",
+      "source": {
+        "archive": "Project Gutenberg (eBook #7386)",
+        "work": "Egyptian Tales, First Series, ed. W. M. Flinders Petrie (1895), 'The Shipwrecked Sailor'",
+        "url": "https://www.gutenberg.org/cache/epub/7386/pg7386.txt"
+      },
+      "license": "Public domain (translation 1895)",
+      "summary": {
+        "en": "The one survivor of a wreck spends three days alone on an island where nothing is lacking, until the earth shakes and a serpent thirty cubits long, gilded and lapis-covered, demands his story. The serpent of Punt comforts him, prophesies four months' wait and rescue, scoffs at the sailor's promised gifts — 'I am prince of Punt, and I have perfumes' — and the island sinks back into waves behind him.",
+        "zh": "海難唯一倖存者獨處富足之島三日，直至大地震動——三十肘金鱗青金石紋之巨蛇現身，責其陳述來歷。彭特巨蛇慰其心，預言四月後獲救還鄉；水手許以香料而神笑之——『我乃彭特之君，我自有香料』——離島之後，其島沒於波濤。"
+      },
+      "motifs": [
+        "otherworld-voyage",
+        "quest-immortality",
+        "transformation",
+        "threefold"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient literary tale; no living community restrictions. Coordinates are symbolic over the Red Sea mining route, since the enchanted island cannot be located."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Now I shall tell that which has happened to me, to my very self. I was going to the mines of Pharaoh, and I went down on the sea on a ship of 150 cubits long and 40 cubits wide, with 150 sailors of the best of Egypt, who had seen heaven and earth, and whose hearts were stronger than lions. They had said that the wind would not be contrary, or that there would be none. But as we approached the land the wind arose, and threw up waves eight cubits high. As for me, I seized a piece of wood; but those who were in the vessel perished, without one remaining. A wave threw me on an island, after that I had been three days alone, without a companion beside my own heart. I laid me in a thicket, and the shadow covered me.",
+          "note": "Verbatim excerpt of Petrie, Egyptian Tales First Series (1895), The Shipwrecked Sailor."
+        },
+        {
+          "id": "2",
+          "text": "Suddenly I heard a noise as of thunder, which I thought to be that of a wave of the sea. The trees shook, and the earth was moved. I uncovered my face, and I saw that a serpent drew near. He was thirty cubits long, and his beard greater than two cubits; his body was as overlayed with gold, and his colour as that of true lazuli. He coiled himself before me. Then he opened his mouth, while that I lay on my face before him, and he said to me, 'What has brought thee, what has brought thee, little one, what has brought thee? If thou sayest not speedily what has brought thee to this isle, I will make thee know thyself; as a flame thou shalt vanish, if thou tellest me not something I have not heard, or which I knew not, before thee.'",
+          "note": "Verbatim excerpt of Petrie (1895)."
+        },
+        {
+          "id": "3",
+          "text": "Then said he to me, 'Fear not, fear not, little one, and make not thy face sad. If thou hast come to me, it is God who has let thee live. For it is He who has brought thee to this isle of the blest, where nothing is lacking, and which is filled with all good after another, until thou shalt be four months in this isle. Then a ship shall come from thy land with sailors, and thou shalt leave with them and go to thy country, and thou shalt die in thy town. I will therefore tell thee of that which is in this isle. I am here with my brethren and my children around me; we are seventy-five serpents, children, and kindred; without naming a young girl who was brought unto me by chance, and on whom the fire of heaven fell, and burnt her to ashes.'",
+          "note": "Verbatim excerpt of Petrie (1895)."
+        },
+        {
+          "id": "4",
+          "text": "Then he smiled at my speech, because of that which was in his heart, for he said to me, 'Thou art not rich in perfumes, for all that thou hast is but common incense. As for me I am prince of the land of Punt, and I have perfumes. Only the oil which thou sayedst thou wouldest bring is not common in this isle. But, when thou shalt depart from this place, thou shalt never more see this isle; it shall be changed into waves.' — And, behold, when the ship drew near, according to all that he had told me before, I got me up into an high tree, to strive to see those who were within it. Then he said to me, 'Farewell, farewell, go to thy house, little one, see again thy children, and let thy name be good in thy town; these are my wishes for thee.'",
+          "note": "Verbatim excerpt of Petrie (1895), closing (the serpent's farewell and gifts)."
+        }
+      ],
+      "language": "Egyptian (Middle Egyptian, Hermitage papyrus 1115)",
+      "canonical_translation": "W. M. Flinders Petrie, Egyptian Tales, First Series (London, 1895), from the Golenischeff translation",
+      "narrative": {
+        "en": "The Tale of the Shipwrecked Sailor is the oldest surviving 'enchanted island' story, framed like a persuasive speech: a returnee from a failed expedition addresses his superior, who has begun to doubt him. 'Wash thee, and turn the water over thy fingers; then go and tell the tale to the majesty' — and when the master mocks his wandering words, the sailor answers that although a man's mouth may save him, words may also cover his face with confusion. Then he swears his story is of himself, and tells it.\n\nBEGINNING: THE WRECK. Bound for the mines of Pharaoh with 150 sailors 'who had seen heaven and earth, and whose hearts were stronger than lions', the ship is struck by a wind that raises waves eight cubits high. All drown but the narrator, who clings to a plank and is thrown by a wave onto an island. Three days alone, he lies in a thicket and finds the island 'where nothing is lacking': figs and grapes, herbs, berries and grain, melons, fish and birds. He digs a pit, lights a fire, and makes a burnt-offering to the gods — the first act of a man who knows his survival depends on ritual correctness.\n\nMIDDLE: THE SERPENT'S AUDIENCE. Thunder without a storm: trees shake, the earth moves, and a serpent thirty cubits long appears, its beard over two cubits, its body gilded and its scales true lapis. Coiling before the prostrate sailor, it threatens him: 'As a flame thou shalt vanish, if thou tellest me not something I have not heard.' It takes the man in its mouth — gently, unharmed — carries him to its resting-place, and demands his story a second time. The sailor's reply is a full formal speech of his voyage; the serpent relents: 'Fear not, little one... it is God who has let thee live. He has brought thee to this isle of the blest.'\n\nEND: THE PROPHECY AND THE VANISHING ISLAND. The serpent foretells his rescue: four months on the island, then a ship from Egypt, and home to 'die in thy town.' It consoles the shipwrecked man with the wisdom of survival — 'As for thee, if thou art strong, and if thy heart waits patiently, thou shalt press thy infants to thy bosom and embrace thy wife' — and tells of its own household, seventy-five serpents, kindred and children, and of a young girl brought by chance on whom the fire of heaven fell and burnt her to ashes: the serpent too has lost everything, and knows loss. When the sailor promises to bring oil and incense and sacrifice asses in its honor before Pharaoh, the serpent smiles: 'Thou art not rich in perfumes... As for me I am prince of the land of Punt, and I have perfumes.' Its island needs nothing and will need nothing: when the sailor departs he shall never see it again — 'it shall be changed into waves.' The rescue ship comes exactly as foretold; the serpent loads him with myrrh, cassia, ivory, baboons and apes, and sends him home with the blessing 'let thy name be good in thy town.' The sailor ends his tale urging his superior to report him favorably: 'It was said unto me, 'Become a wise man, and thou shalt come to honour,' and behold I have become such.'\n\nFUNCTION. Recited as a frame-story of persuasion, the tale teaches patience under disaster ('Converse is pleasing, and he who tastes of it passes over his misery') and models the Egyptian confidence that correct speech, correct offering, and endurance will always bring the survivor home — while the island's sinking into waves keeps the world of marvels strictly separated from the world of report."
+      },
+      "functions": [
+        "Persuasive frame-story: teaches a superior to believe a report of marvels and reward the speaker",
+        "Moral of endurance: patient heart and correct speech bring the survivor home to die in his own town",
+        "Myth of the isle of the blest: an otherworld where 'nothing is lacking', ruled by a serpent-prince of Punt",
+        "Earliest known form of the vanishing enchanted island that will recur from Troy to the Arabian Nights"
+      ],
+      "variants": [
+        {
+          "name": "Golenischeff's translations (Hermitage papyrus)",
+          "text_tradition": "Hermitage Museum papyrus 1115, sole copy, 12th Dynasty hand",
+          "summary": "The tale exists in one copy; Golenischeff published two translations of it (earlier and later), on which Maspero's popular rendering and Petrie's English text are based. The colophon names the scribe Ameni-amen-aa, 'scribe of cunning fingers'.",
+          "cross_ref": "egyptian-shipwrecked-sailor"
+        },
+        {
+          "name": "Sinuhe's return to Egypt (parallel homecoming tale)",
+          "text_tradition": "The Adventures of Sanehat, 12th Dynasty",
+          "summary": "The other great 12th-Dynasty story of exile, rescue by foreigners, and a homecoming granted by the king's mercy — a realistic counterpoint to the sailor's supernatural island.",
+          "cross_ref": "egyptian-sinuhe-exile"
+        },
+        {
+          "name": "Wandering-island parallels in world tradition",
+          "text_tradition": "Brendan's Isle (Irish immram), Hindu Jambudvipa isle traditions, Arab 'wandering island' tales",
+          "summary": "The motif of a paradise island that rises for the deserving and sinks when the visitor departs recurs worldwide; the Egyptian tale is its earliest literary witness (Petrie's remarks, 1895).",
+          "cross_ref": "celtic-bran-voyage"
+        }
+      ],
+      "primary_sources": [
+        {
+          "work": "The Tale of the Shipwrecked Sailor",
+          "citation": "Hermitage Museum (St. Petersburg), Papyrus 1115, recto; 12th Dynasty cursive hieratic, c. 1985-1773 BCE. Trans. V. S. Golenischeff (inventaire, 1888); English rendering in W. M. F. Petrie, Egyptian Tales First Series (London, 1895), pp. 81-93.",
+          "language": "Egyptian (Middle Egyptian)"
+        }
+      ],
+      "secondary_sources": [
+        {
+          "work": "Miriam Lichtheim, Ancient Egyptian Literature, vol. I",
+          "citation": "Lichtheim 1973, Berkeley: University of California Press — canonical modern translation of the tale with commentary (cited for scholarly context; copyrighted, not quoted)."
+        },
+        {
+          "work": "Geraldine Pinch, Egyptian Myth: A Very Short Introduction",
+          "citation": "Pinch 2004, Oxford: Oxford University Press — situates the tale in the wisdom-of-survival genre of Middle Kingdom literature."
+        }
+      ],
+      "source_urls": [
+        {
+          "url": "https://www.gutenberg.org/cache/epub/7386/pg7386.txt",
+          "description": "Project Gutenberg eBook #7386 — Petrie, Egyptian Tales First Series (1895), full text used verbatim at collection time",
+          "accessed": "2026-11-13"
+        }
+      ],
+      "sensitivity_flag": "none",
+      "sensitivity_guidance": null,
+      "provenance": {
+        "record_status": "complete",
+        "compiled": "2026-11-13",
+        "compiled_by": "DHG508 fieldwork compilation",
+        "review_status": "draft - pending human review"
+      },
+      "reconstructed_segments": null
+    },
+    {
+      "id": "egyptian-sinuhe-exile",
+      "title": {
+        "en": "The Adventures of Sanehat: Exile, Duel, and Return",
+        "zh": "薩內哈特歷險記：流亡、決鬥與歸國"
+      },
+      "tradition": "egyptian",
+      "category": "myth",
+      "region": {
+        "en": "Upper Retenu (Syria-Palestine), land of the chieftain Amu-an-shi (symbolic pin at the Levant hill country)",
+        "zh": "上雷特努（敘利亞-巴勒斯坦），酋長阿姆-安-希之地（象徵定位於黎凡特山地）"
+      },
+      "lat": 31.5,
+      "lon": 35.0,
+      "period": "Composed in the 12th Dynasty, c. 1975-1956 BCE (reign of Sesostris I); Petrie translation 1895",
+      "source": {
+        "archive": "Project Gutenberg (eBook #7386)",
+        "work": "Egyptian Tales, First Series, ed. W. M. Flinders Petrie (1895), 'The Adventures of Sanehat'",
+        "url": "https://www.gutenberg.org/cache/epub/7386/pg7386.txt"
+      },
+      "license": "Public domain (translation 1895)",
+      "summary": {
+        "en": "An official of Queen Ankhet-Usertesen's household overhears the news of Amenemhat I's death and, seized by unexplained panic, flees to Syria, where he marries the chieftain's eldest daughter and becomes a prince of a tribe; a champion challenges him and he kills the mighty bowman with one arrow; old and homesick, he petitions the new king, is recalled with a royal decree of forgiveness, and ends his days building a pyramid 'amongst the pyramids.'",
+        "zh": "王后家臣薩內哈特偶聞阿門尼姆哈特一世駕崩，無端驚懼而逃亡敘利亞；娶酋長長女，立為部落之主；猛士挑戰，他一箭斃之；年老思鄉，上書新王，得王詔赦而歸——其金字塔竟『列於金字塔之間』。"
+      },
+      "motifs": [
+        "otherworld-voyage",
+        "sacred-kingship",
+        "taboo-transgression",
+        "exile"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Ancient literary autobiography; no living community restrictions. Petrie treats it as possibly strictly historical; recorded here as a legend within the corpus."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "In the thirtieth year, the month Paophi, the seventh day the god entered his horizon, the king Sehotepabra flew up to heaven and joined the sun's disc, the follower of the god met his maker. The palace was silenced, and in mourning, the great gates were closed, the courtiers crouching on the ground, the people in hushed mourning. — A hawk had soared with his followers. Thus said he, not to let the army know of it. But I was standing near, and heard his voice while he was speaking. I fled far away, my heart beating, my arms failing, trembling had fallen on all my limbs. I turned about in running to seek a place to hide me, and I threw myself between two bushes, to wait while they should pass by.",
+          "note": "Verbatim excerpt of Petrie, Egyptian Tales First Series (1895), The Adventures of Sanehat — the flight."
+        },
+        {
+          "id": "2",
+          "text": "Then I turned me toward the south, not from wishing to come into this palace — for I knew not if war was declared. I turned my back to the sycamore, I reached Shi-Seneferu, and rested on the open field. In the morning I went on... By the evening I drew near to Kher-ahau, and I crossed the river on a raft without a rudder. Carried over by the west wind, I passed over to the east to the quarries of Aku and the land of the goddess Herit, mistress of the red mountain. Then I fled on foot, northward, and reached the walls of the prince, built to repel the Sati. I crouched in a bush for fear of being seen by the guards. I took my way by night, and at the lighting of the day I reached Peten, and turned me toward the valley of Kemur. Then thirst hasted me on; I dried up, and my throat narrowed, and I said, 'This is the taste of death.'",
+          "note": "Verbatim excerpt of Petrie (1895), The Flight."
+        },
+        {
+          "id": "3",
+          "text": "When I had dwelt there half a year Amu-an-shi — who is the prince of the Upper Tenu — sent for me and said: 'Dwell thou with me that thou mayest hear the speech of Egypt.' — And he placed me before his children, he married his eldest daughter to me, and gave me the choice of all his land, even among the best of that which he had on the border of the next land. It is a goodly land, laa is its name. There are figs and grapes; there is wine commoner than water; abundant is the honey, many are its olives; and all fruits are upon its trees; there is barley and wheat, and cattle of kinds without end. I passed many years, the children that I had became great, each ruling his tribe.",
+          "note": "Verbatim excerpt of Petrie (1895), settlement in Iaa."
+        },
+        {
+          "id": "4",
+          "text": "A champion of the Tenu came to defy me in my tent: a bold man without equal, for he had vanquished the whole country. He said, 'Let Sanehat fight with me' — I drew him to the attack; I turned aside his arrows, and they struck the ground in vain. One drew near to the other, and he fell on me, and then I shot him. My arrow fastened in his neck, he cried out, and fell on his face: I drove his lance into him, and raised my shout of victory on his back. — Years were removed from my limbs: I was shaved, and polled my locks of hair; the foulness was cast to the desert with the garments of the Nemau-sha. I clothed me in fine linen, and anointed myself with the fine oil of Egypt. There was built for me a pyramid of stone amongst the pyramids. My statue was inlayed with gold, its girdle of pale gold; his majesty caused it to be made. Such is not done to a man of low degree.",
+          "note": "Verbatim excerpt of Petrie (1895), the duel and the return (condensed by elision of the decree exchange)."
+        }
+      ],
+      "language": "Egyptian (Middle Egyptian, multiple copies)",
+      "canonical_translation": "W. M. Flinders Petrie, Egyptian Tales, First Series (London, 1895), based on Griffith's readings",
+      "narrative": {
+        "en": "The Adventures of Sanehat is the masterpiece of Middle Kingdom literature — a first-person tale of exile so realistic that Petrie inclined to treat it as a genuine autobiography, and so canonical that copies of it were still being written into schoolboys' exercise books a thousand years later.\n\nBEGINNING: PANIC AT A WHISPER. The narrator, Sanehat, 'hereditary prince, royal seal-bearer, confidential friend', is a follower of Queen Ankhet-Usertesen in the household of the heir. On the 7th day of Paophi in the 30th year, King Sehotepabra — Amenemhat I — 'flew up to heaven and joined the sun's disc'. The palace falls silent; a messenger is sent west to tell the heir, Sesostris, returning from a Libyan campaign, of the matter 'that had come to pass in the inner hall' — 'a hawk had soared with his followers.' Sanehat, standing near, overhears, and his body fails him: 'my heart beating, my arms failing, trembling had fallen on all my limbs.' He hides between two bushes until the army passes, then flees south with no stated reason — the tale's famous unexplained panic, which Petrie plausibly resolves by supposing Sanehat a neglected royal son with reason to fear his brother's succession.\n\nMIDDLE: LIFE IN EXILE. He crosses the Nile on a rudderless raft at night, passes the frontier wall built against the Sati, nearly dies of thirst — 'This is the taste of death' — and is saved by a Bedouin 'a friend unto Egypt' who gives him water and boiled milk. One tribe passes him to another until he reaches the land of Adim (Edom). Half a year later the prince of Upper Retenu, Amu-an-shi, summons him: 'Dwell thou with me that thou mayest hear the speech of Egypt.' Asked why he has come, Sanehat answers with concealment — no fault of his, no treachery heard, no magistrate's summons: 'I know not by what I have been led into this land.' The prince keeps him; marries him to his eldest daughter; grants him the best land of the border, Iaa, a land of figs, grapes, wine 'commoner than water', honey and endless cattle. Sanehat raises children who each come to rule a tribe, helps every passing traveler, gives water to the thirsty and rescues the robbed, and serves as the prince's general, plundering and carrying off vassals in every land he attacks. Then a champion of the Tenu — 'a bold man without equal, for he had vanquished the whole country' — defies him to take his cattle. Sanehat's speech before the fight is a meditation on vanity and God's ordination ('Will God forget what He has ordained?'); at dawn the whole land gathers to watch, his women weep for him, and he turns the champion's arrows aside, shoots him through the neck, and shouts victory standing on his back.\n\nEND: THE RECALL AND THE PYRAMID. Old now, with heavy eyes and slow heart, Sanehat petitions the new king, Kheper-ka-Ra (Sesostris I): 'May I be in the favour of the king until the day shall come of my death... How great a thing is it that my body should be embalmed in the land where I was born!' The king's decree comes with presents — gracious, forgiving, promising he shall not die among the Amu nor be buried in a sheep-skin: his tomb shall be 'in the company of the royal children.' Sanehat surrenders all his goods to his eldest son and crosses the Roads of Horus. At the palace he collapses before the great throne, the king in whose presence he is 'knew me not'; the king lifts him, teases his silence, and the queen and royal children, who knew him of old, weep. He is shaved of his Bedouin locks, clothed in fine linen, given a mansion, and — the tale's last, proudest sentence — 'There was built for me a pyramid of stone amongst the pyramids. My statue was inlayed with gold... Such is not done to a man of low degree.'\n\nFUNCTION. The tale is Egypt's great meditation on home: identity is bound to the king, to fine linen instead of sand, to burial in the land of one's birth; yet the exile years are told without shame, and the foreign prince's generosity is rendered with respect. It fixes the archetype of the noble exile, the stranger-champion duel, and the merciful king's recall — a pattern later traditions would repeat from David to Odysseus."
+      },
+      "functions": [
+        "Court entertainment and school text: the most copied Middle Kingdom composition, training scribes in eloquent first-person narrative",
+        "Theology of home and king: Egyptian identity defined by burial in Egypt and favor of the divine king",
+        "Ethnography of Retenu: earliest detailed portrait of Semitic pastoral life, hospitality, and single combat",
+        "Model of royal mercy: the sinless-but-punished servant restored by decree, a template for later penitential tales"
+      ],
+      "variants": [
+        {
+          "name": "Multiple manuscript copies",
+          "text_tradition": "Berlin Papyrus 1 (Amherst papyrus), a limestone flake from a tomb, and later school copies (e.g. Papyrus Golenischeff)",
+          "summary": "Portions of three copies survive; the opening was recovered from a tomb flake and the Amherst papyrus. Differences are minor; the tale was a canonical school text for a millennium.",
+          "cross_ref": "egyptian-sinuhe-exile"
+        },
+        {
+          "name": "Historical reading: Amenemhat I's assassination",
+          "text_tradition": "The Instructions of Amenemhat (12th Dynasty)",
+          "summary": "The Instruction composed as Amenemhat's ghost laments a harem conspiracy against him ('It was after supper, when night had fallen... I had taken a spear in my hand') illuminates the panicked court atmosphere into which Sanehat flees; Petrie supposes Sanehat may have been a royal son by a concubine, with reason to fear his brother.",
+          "cross_ref": "egyptian-sinuhe-exile"
+        },
+        {
+          "name": "Classicizing echoes of the exile-return",
+          "text_tradition": "Later Egyptian and Greek tradition",
+          "summary": "The exile who wins honor abroad and returns under amnesty became a stock plot across Near Eastern and Greek literature; Sinuhe is its earliest literary full form (Petrie's remarks, 1895).",
+          "cross_ref": "none"
+        }
+      ],
+      "primary_sources": [
+        {
+          "work": "The Adventures of Sanehat (Sinuhe)",
+          "citation": "Berlin Papyrus 1 (P. Berlin 3022), with the opening on a limestone flake (Ashmolean) and the Amherst papyrus; composed in the reign of Sesostris I, c. 1975-1956 BCE. English rendering in W. M. F. Petrie, Egyptian Tales First Series (London, 1895), pp. 97-127, based on Griffith's readings; canonical modern trans. M. Lichtheim, Ancient Egyptian Literature vol. I (1973).",
+          "language": "Egyptian (Middle Egyptian)"
+        }
+      ],
+      "secondary_sources": [
+        {
+          "work": "Miriam Lichtheim, Ancient Egyptian Literature, vol. I",
+          "citation": "Lichtheim 1973, Berkeley: University of California Press — canonical translation with commentary on the tale's form and historical setting."
+        },
+        {
+          "work": "William Kelly Simpson (ed.), The Literature of Ancient Egypt, 3rd ed.",
+          "citation": "Simpson 2003, New Haven: Yale University Press — R. B. Parkinson's translation and study of Sinuhe (cited for scholarly context; copyrighted, not quoted)."
+        }
+      ],
+      "source_urls": [
+        {
+          "url": "https://www.gutenberg.org/cache/epub/7386/pg7386.txt",
+          "description": "Project Gutenberg eBook #7386 — Petrie, Egyptian Tales First Series (1895), full text used verbatim at collection time",
+          "accessed": "2026-11-13"
+        }
+      ],
+      "sensitivity_flag": "none",
+      "sensitivity_guidance": null,
+      "provenance": {
+        "record_status": "complete",
+        "compiled": "2026-11-13",
+        "compiled_by": "DHG508 fieldwork compilation",
+        "review_status": "draft - pending human review"
+      },
+      "reconstructed_segments": null
+    }
+  ]
+}

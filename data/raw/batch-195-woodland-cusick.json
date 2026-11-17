@@ -1,0 +1,581 @@
+{
+  "texts": [
+    {
+      "id": "woodland-cusick-giant-princess",
+      "title": {
+        "en": "The Giant and the Princess Who Loved Him",
+        "zh": "巨人與愛上巨人的公主"
+      },
+      "tradition": "woodland",
+      "category": "myth",
+      "region": {
+        "en": "Banks of the Kanawage (St. Lawrence River), traditional Tuscarora geography",
+        "zh": "卡納瓦吉河（聖勞倫斯河）沿岸，塔斯卡洛拉傳統地理"
+      },
+      "lat": 44.7,
+      "lon": -75.5,
+      "period": "Written 1825 by David Cusick (Tuscarora), Sketches of the Ancient History of the Six Nations",
+      "source": {
+        "archive": "Project Gutenberg (eBook 57237)",
+        "work": "David Cusick, Sketches of the Ancient History of the Six Nations, Part II (1825/1848)",
+        "url": "https://www.gutenberg.org/ebooks/57237"
+      },
+      "license": "Public domain (text 1825/1848)",
+      "summary": {
+        "en": "The northern giants Ronnongwetowanca raid the Eagwehoewe towns while the warriors are away. A family of six princes loses their sister to the raiders; she proves to have fallen in love with the giant. The eldest brother is welcomed, piped and sung to sleep, then murdered on the bed. The stoutest brother, Donhtonha, places faint lights above his eyelids to counterfeit wakeful eyes, exposes the treachery, kills and burns the giant - whose spirit becomes an eastern star - while the despairing sister's spirit becomes a northern star.",
+        "zh": "北方巨人羅農威托萬卡趁戰士外出時劫掠伊格威荷威人的城鎮。六位王子之家失其妹；她竟已愛上巨人。長兄受到煙斗與歌聲的款待，卻在床上被殺。最勇壯的兄長頓托哈以微光置於眼瞼之上偽裝清醒之眼，識破詭計，殺巨並焚其屋——巨人精魂化為東方之星；悲傷絕望的公主精魂則化為北方之星。"
+      },
+      "motifs": [
+        "cannibal-giant",
+        "star-husband",
+        "transformation"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Earliest Native-authored (Tuscarora) prose version of these traditions, 1825; public domain. Cusick's 'ancient history' blends myth and pseudo-chronology."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The Eagwehoewe people on the river Kanawage could not enjoy tranquility, as they were invaded by the giants called Ronnongwetowanca, who came from the north; their mode of attack was slily, and they took advantage when the warriors were absent from the town, plundering the houses and making captives. A family of princes lived near the river, with six brothers and a sister; one time while the brothers went out a day's hunt, the giant made vigorous attack and the woman became a prey to the invader.",
+          "note": "Condensed from Cusick 1825, Part II; not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "The eldest brother pursued the enemy's traces three days to the giant's residence, and saw his sister gathering sticks near the house; but she retired as he approached, proving by her conduct that she had fallen in love with the giant. Entering at dusk he was received with favorable terms; the giant offered his pipe as a tribute of respect, sang songs part of the night, and when the prince slept killed him on the bed and deposited the body in a cave where he stored the carcasses. Seven days later the youngest brother, Donhtonha, the stoutest and most ferocious looking fellow, came seeking his brother; again the singing began - but the prince had procured pieces of wood that made a faint light and put them above his eyelids, so that though asleep his eyes appeared continually awake.",
+          "note": "Condensed from Cusick 1825, Part II; not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "At daybreak Donhtonha attacked the giant; after a severe conflict the giant was killed and burnt in the ruins of his house, but his spirit fled to heaven and changed into one of the eastern stars. His sister, grieving for her deceased husband, fled to the wilderness and lamented until she died in despair, and her spirit also became one of the northern stars. After the conquest Donhtonha found the remains of his brother, wept over them, and burnt them to ashes.",
+          "note": "Condensed from Cusick 1825, Part II; not verbatim."
+        }
+      ]
+    },
+    {
+      "id": "woodland-cusick-yatatonwatea-flight",
+      "title": {
+        "en": "Yatatonwatea's Flight and the End of the Giants",
+        "zh": "亞塔托瓦提亞的逃亡與巨人之終結"
+      },
+      "tradition": "woodland",
+      "category": "myth",
+      "region": {
+        "en": "Kanawage (St. Lawrence River) country, traditional Tuscarora geography",
+        "zh": "卡納瓦吉（聖勞倫斯河）流域，塔斯卡洛拉傳統地理"
+      },
+      "lat": 44.7,
+      "lon": -75.5,
+      "period": "Written 1825 by David Cusick (Tuscarora)",
+      "source": {
+        "archive": "Project Gutenberg (eBook 57237)",
+        "work": "David Cusick, Sketches of the Ancient History of the Six Nations, Part II (1825/1848)",
+        "url": "https://www.gutenberg.org/ebooks/57237"
+      },
+      "license": "Public domain (text 1825/1848)",
+      "summary": {
+        "en": "While the town is out hunting, a giant falls on the aged chief and his attendant Yatatonwatea, who deserts his master and runs: he drives a flock of pigeons across the path to amuse the pursuer, hides under the river bank, among mountain rocks, and finally meets two warriors on the hunting path. After a terrible combat the Ronnongwetowanea is exterminated, and a convention of chieftains sends a few hundred warriors to subdue the giant tribe, which 'has ever since ceased to exist' - an event Cusick dates 2,500 winters before Columbus.",
+        "zh": "鎮民外出狩獵之際，巨人突襲老首領與其侍從亞塔托瓦提亞；侍從拋下主人奔逃：他驅趕鴿群橫越小徑以延宕追者，藏身河岸之下、山岩之間，最後在獵徑上遇見兩位戰士。一番惡戰之後，羅農威托萬人被誅；各酋長會議派出數百戰士征討巨人族，此族「自此絕跡」——庫西克將此事定於哥倫布之前二千五百年。"
+      },
+      "motifs": [
+        "cannibal-giant",
+        "foundational-legend",
+        "seasons-origin"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Tuscarora pseudo-chronology, 1825; public domain. The date is Cusick's own mythographic scheme, not history."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Another Ronnongwetowanea attacked a small town on the bank of Kanawage in a season when the people were out to hunt; only an old chief and an attendant named Yatatonwatea were in their houses when the giant burst in. Yatatonwatea escaped by the back door and deserted the aged chief to his fate. In vain he endeavored to gain retreat by traversing various creeks and hills; he drove a flock of pigeons in the way to amuse the enemy, hid under the bank of the river, and again among the rocks of the mountain, but the pursuer advanced at every moment.",
+          "note": "Condensed from Cusick 1825, Part II; not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Determined not to surrender as long as he could keep out of reach, he took the path to the hunting grounds and met two warriors, who instantly supported him. After a terrible combat the Ronnongwetowanea was exterminated, though one warrior received a severe wound from his club. The people returned to their settlements, and a convention of chieftains resolved on defense; a few hundred warriors were sent, and after decisive contests it was supposed the Ronnongwetowanea tribe had ever since ceased to exist. This fate happened, Cusick reckons, about two thousand five hundred winters before Columbus discovered America.",
+          "note": "Condensed from Cusick 1825, Part II; not verbatim."
+        }
+      ]
+    },
+    {
+      "id": "woodland-cusick-shotyerronsgwea",
+      "title": {
+        "en": "Shotyerronsgwea, the Greatest Mischief Maker",
+        "zh": "肖特耶隆格威：最偉大的搗亂者"
+      },
+      "tradition": "woodland",
+      "category": "myth",
+      "region": {
+        "en": "St. Lawrence country to south of Lake Ontario (traditional Tuscarora geography)",
+        "zh": "聖勞倫斯至安大略湖以南之地（塔斯卡洛拉傳統地理）"
+      },
+      "lat": 44.0,
+      "lon": -76.0,
+      "period": "Written 1825 by David Cusick (Tuscarora)",
+      "source": {
+        "archive": "Project Gutenberg (eBook 57237)",
+        "work": "David Cusick, Sketches of the Ancient History of the Six Nations, Part II (1825/1848)",
+        "url": "https://www.gutenberg.org/ebooks/57237"
+      },
+      "license": "Public domain (text 1825/1848)",
+      "summary": {
+        "en": "A visitor named Shotyerronsgwea gains the people's confidence and then turns destroyer: he assassinates two warriors secretly, violates six virgins, and breeds dissension until the chiefs banish him. Crossing the St. Lawrence he is received with kindness south of Lake Ontario, murders several warriors at the dancing house, and is driven on - 'the greatest mischievous person that ever existed on the continent, considered an agent from bad spirit.'",
+        "zh": "一位名為肖特耶隆格威的訪客先博取人心，繼而行兇：暗中刺殺兩名戰士，強暴六名處女，在族中製造紛爭，終被酋長放逐。他渡過聖勞倫斯河，在安大略湖之南受到善待，卻在舞屋中殺害數名戰士，再被驅逐——「為大陸上從來未有之最大搗亂者，被視為惡靈之使者」。"
+      },
+      "motifs": [
+        "trickster",
+        "taboo-transgression",
+        "boon-curse",
+        "opposed-twins",
+        "exile"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Tuscarora text, 1825; public domain. Sexual violence is reported at story distance as the banishment's cause."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "A mischievous person named Shotyerronsgwea, visiting the people, at first distinguished himself by a good character and gained the confidence of the people, thereby concealing his real designs. In a short time he began to injure the people: he assassinated two warriors secretly, then violated six virgins, and next ventured to break the harmony of the nation and create dissensions among the people. The chiefs were so offended that Shotyerronsgwea was banished from the village.",
+          "note": "Condensed from Cusick 1825, Part II; not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "He deemed it proper to desist from returning to any of the towns; he crossed the river St. Lawrence, moved toward the midday sun, and came to a town south of the great lake (Ontario), where he was received with kindness. But his entertainment could not appease his evil designs: one night, while at the dancing house, he killed several warriors, and this offence proving fatal to his person, he was compelled to leave and go elsewhere to do mischief. The Shotyerronsgwea was the greatest mischievous person that ever existed on the continent; he was considered an agent from the bad spirit.",
+          "note": "Condensed from Cusick 1825, Part II; not verbatim."
+        }
+      ]
+    },
+    {
+      "id": "woodland-cusick-big-quisquiss",
+      "title": {
+        "en": "Big Quisquiss and Big Elk: The Monster Beasts",
+        "zh": "大乳齒象與大麋鹿：怪物之獸"
+      },
+      "tradition": "woodland",
+      "category": "myth",
+      "region": {
+        "en": "Settlements south of Lake Ontario (traditional Tuscarora geography)",
+        "zh": "安大略湖以南的聚落（塔斯卡洛拉傳統地理）"
+      },
+      "lat": 43.2,
+      "lon": -77.5,
+      "period": "Written 1825 by David Cusick (Tuscarora)",
+      "source": {
+        "archive": "Project Gutenberg (eBook 57237)",
+        "work": "David Cusick, Sketches of the Ancient History of the Six Nations, Part II (1825/1848)",
+        "url": "https://www.gutenberg.org/ebooks/57237"
+      },
+      "license": "Public domain (text 1825/1848)",
+      "summary": {
+        "en": "Big Quisquiss, perhaps the mammoth, invades the settlements south of Lake Ontario, pushing down houses while the people flee and the warriors fail to stop it, until a chief warrior collects men from several towns and drives the monster off; Big Elk then invades and is killed after a severe contest - the first of Cusick's monstrous-beast episodes that punctuate his chronology.",
+        "zh": "大乳齒象（或謂長毛象）入侵安大略湖以南聚落，推倒房屋，居民奔逃，戰士屢戰不勝，直至一位大戰士召集數鎮之眾將怪物驅退；大麋鹿繼而入侵，經一場惡戰後被誅——此為庫西克年代記中怪獸插敘之始。"
+      },
+      "motifs": [
+        "cannibal-giant",
+        "transformation"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Tuscarora text, 1825; public domain. 'Perhaps the Mammoth' is Cusick's own gloss."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "About this time Big Quisquiss (perhaps the Mammoth) invaded the settlements south of Ontario lake; the furious animal pushed down the houses and made a great disturbance. The people were compelled to flee from the terrible monster; the warriors made opposition but failed, until a certain chief warrior collected the men from several towns. A severe engagement took place, and at last the monster retired - but the people could not remain long without being disturbed: Big Elk invaded the towns; the animal was furious and destroyed many persons. However, the men were soon collected, a severe contest ensued, and the monster was killed.",
+          "note": "Condensed from Cusick 1825, Part II; not verbatim."
+        }
+      ]
+    },
+    {
+      "id": "woodland-cusick-golden-city-war",
+      "title": {
+        "en": "The Emperor of the Golden City and the Hundred Years' War",
+        "zh": "金城皇帝與百年之戰"
+      },
+      "tradition": "woodland",
+      "category": "myth",
+      "region": {
+        "en": "South of the Great Lakes (traditional Tuscarora geography, symbolic pin south of Lake Erie)",
+        "zh": "大湖之南（塔斯卡洛拉傳統地理，象徵性定位於伊利湖以南）"
+      },
+      "lat": 41.0,
+      "lon": -81.0,
+      "period": "Written 1825 by David Cusick (Tuscarora)",
+      "source": {
+        "archive": "Project Gutenberg (eBook 57237)",
+        "work": "David Cusick, Sketches of the Ancient History of the Six Nations, Part II (1825/1848)",
+        "url": "https://www.gutenberg.org/ebooks/57237"
+      },
+      "license": "Public domain (text 1825/1848)",
+      "summary": {
+        "en": "A northern prince visits the great Emperor at the Golden City, capital of a vast empire; the emperor builds forts through his dominions until they almost reach Lake Erie. The northern nations, fearing to be deprived of the country south of the Great Lakes, defend it in a bloody hundred-year war won by their skill with bow and arrow and endurance of hardship; every town and fort of the invaders is left in ruins. A great horned serpent then appears on Lake Ontario spreading disease, driven off by thunderbolts, and a blazing star falls into a fort on the St. Lawrence and destroys its people.",
+        "zh": "北方王子前往金城——龐大帝國之都——拜謁大皇帝；皇帝在其轄內廣築堡壘，幾近伊利湖。北方諸族恐失大湖南岸之地，遂以弓術與堅忍打贏百年血戰，將入侵者的城鎮與堡壘盡毀為墟。其後大角蛇現於安大略湖，散播疾病，被雷電驅退；一顆熾星墜入聖勞倫斯河上的堡壘，毀滅其眾。"
+      },
+      "motifs": [
+        "foundational-legend",
+        "storm-thunder",
+        "world-serpent"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Tuscarora pseudo-history, 1825; public domain. The 'Golden City' empire is Cusick's mythic geography, sometimes linked by scholars to mound-builder traditions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Perhaps about two thousand two hundred years before Columbus, the northern nations appointed a prince who repaired to the south and visited the great Emperor who resided at the Golden City, a capital of the vast empire. After a time the Emperor built many forts throughout his dominions and almost penetrated Lake Erie; this produced an excitement, for the people of the north felt they would soon be deprived of the country on the south side of the Great Lakes, and determined to defend their country against any infringement of foreign people. Long bloody wars ensued which perhaps lasted about one hundred years.",
+          "note": "Condensed from Cusick 1825, Part II; not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "The people of the north were too skillful in the use of bows and arrows and could endure hardships, which proved fatal to the foreign people; at last the northern nations gained the conquest and all the towns and forts were totally destroyed and left in heaps of ruins. About this time a great horned serpent appeared on Lake Ontario; the serpent produced diseases and many of the people died, but by the aid of thunderbolts the monster was compelled to retire. A blazing star fell into a fort situated on the St. Lawrence and destroyed the people; this event was considered a warning of their destruction. After a time a war broke out among the northern nations which continued until they had utterly destroyed each other, and the island again became in possession of fierce animals.",
+          "note": "Condensed from Cusick 1825, Part II; not verbatim."
+        }
+      ]
+    },
+    {
+      "id": "woodland-cusick-tarenyawagon-migration",
+      "title": {
+        "en": "Tarenyawagon Leads the Six Families: Origin of the Long House",
+        "zh": "塔雷尼亞瓦岡引領六族：長屋之起源"
+      },
+      "tradition": "woodland",
+      "category": "myth",
+      "region": {
+        "en": "From Oswego Falls through Mohawk and Hudson country to the Tuscarora south (traditional route)",
+        "zh": "自奧斯威戈瀑布經莫霍克與哈德遜之地南至塔斯卡洛拉（傳統路線）"
+      },
+      "lat": 43.45,
+      "lon": -76.51,
+      "period": "Written 1825 by David Cusick (Tuscarora)",
+      "source": {
+        "archive": "Project Gutenberg (eBook 57237)",
+        "work": "David Cusick, Sketches of the Ancient History of the Six Nations, Part III (1825/1848)",
+        "url": "https://www.gutenberg.org/ebooks/57237"
+      },
+      "license": "Public domain (text 1825/1848)",
+      "summary": {
+        "en": "A people hidden in the mountain at Kuskehsawkich (Oswego Falls) are led out by Tarenyawagon, the Holder of the Heavens, who can change himself into various shapes. He guides them down the Mohawk and Hudson to the sea, then back upriver, stationing six families: Mohawk at the river, Oneida at the Pineries creek, Onondaga on the mountain, Cayuga by the long lake, Seneca south of Canandaigua lake - and a sixth family whose vine breaks over the Mississippi, becoming the Tuscarora far south at Cau-ta-noh in North Carolina. Returning, the Holder forms the confederacy called A Long House and instructs the people in moral rules, corn, beans, squash, potatoes and tobacco.",
+        "zh": "藏在庫斯克紹維奇山（奧斯威戈瀑布）中的一族人，由能變化諸形的「天堂之主」塔雷尼亞瓦岡引出。他領眾沿莫霍克河、哈德遜河至大海而返，安置六族：莫霍克居河畔，奧奈達居松林溪，奧農達加居山，卡尤加居長湖，塞內卡居卡南代瓜湖之南；第六族渡密西西比河時藤蔓斷裂，遠徙至北卡羅來納之考塔諾而成塔斯卡洛拉。天堂之主返而締結名為「長屋」之同盟，並教以道德之規與玉米、豆、南瓜、馬鈴薯、菸草之種。"
+      },
+      "motifs": [
+        "foundational-legend",
+        "culture-hero",
+        "ritual-origin"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Tuscarora ethnogenesis legend, 1825; public domain. The broken-vine episode also explains the Shawnee-derived Stonish Giants (Cusick's footnote)."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "By some inducement a body of people was concealed in the mountain at the falls named Kuskehsawkich, now Oswego. When they were released they were visited by TARENYAWAGON, the Holder of the Heavens, who had power to change himself into various shapes. He ordered the people to proceed toward the sunrise as he guided them, down the river Yenonanatche (Mohawk) and down Shaw-nay-taw-ty (Hudson) to the bank of a great water. Of this company one particular body called themselves one household, six families, who resolved to preserve the chain of alliance which should not be extinguished in any manner.",
+          "note": "Condensed from Cusick 1825, Part III; not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "The Holder directed the first family to reside near the Hudson (Te-haw-re-ho-geh, a speech divided - Mohawk); the second at the Pineries creek (Ne-haw-re-tah-go, Big Tree - Oneida); the third on the mountain named Onondaga (Seuh-now-kah-tah, carrying the name); the fourth by the long lake Go-yo-goh (Sho-nea-na-we-to-wah, a great pipe - Cayuga); the fifth south of Canandaigua lake (Te-how-nea-nyo-hent, Possessing a Door - Seneca). The sixth family went toward the great lake Erie and on to the river Ouau-we-yo-ka (Mississippi), where a grape vine lay across the river by which a part of the people went over; while they were engaged the vine broke, and those left became enemies of those who crossed.",
+          "note": "Condensed from Cusick 1825, Part III; not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "The sixth family was directed to reside near Cau-ta-noh, Pine in water, near the mouth of the Neuse river in North Carolina, and was named Kau-ta-noh - now Tuscarora. The Holder of the Heavens returned to the five families and formed the mode of confederacy which was named A Long House. A solemn agent from superior power visited the families and instructed them in matrimony, moral rules and worship, warning that an evil spirit was in the world; he gave the seeds for corn, beans, squashes, potatoes and tobacco, with directions how to cultivate them, and gave them dogs to aid in pursuing the game - and when he ended the interview of consolation, he left.",
+          "note": "Condensed from Cusick 1825, Part III; not verbatim."
+        }
+      ]
+    },
+    {
+      "id": "woodland-cusick-flying-heads",
+      "title": {
+        "en": "The Flying Heads and the Woman Who Parched Acorns",
+        "zh": "飛頭與炒橡實的老婦"
+      },
+      "tradition": "woodland",
+      "category": "myth",
+      "region": {
+        "en": "Onondaga, New York",
+        "zh": "紐約州奧農達加"
+      },
+      "lat": 42.98,
+      "lon": -76.34,
+      "period": "Written 1825 by David Cusick (Tuscarora)",
+      "source": {
+        "archive": "Project Gutenberg (eBook 57237)",
+        "work": "David Cusick, Sketches of the Ancient History of the Six Nations, Part III (1825/1848)",
+        "url": "https://www.gutenberg.org/ebooks/57237"
+      },
+      "license": "Public domain (text 1825/1848)",
+      "summary": {
+        "en": "When the Holder of the Heavens is absent, the Ko-nea-rau-neh-neh - Flying Heads - invade by night and devour several people, the towns hiding hut to hut. At Onondaga an old woman left alone sits parching acorns when a monstrous head appears at the door; amazed to see her eat the coals of fire, the monsters are put to flight, and ever since the heads are supposed concealed in the earth.",
+        "zh": "天堂之主不在之時，科尼羅內內——飛頭——夜間入侵，吞食人眾，各鎮之民藏身於備好的他屋。奧農達加一位獨居的老婦正炒橡實，忽有巨首現於門前；見她竟吞食火炭，怪物大驚而逃，自此飛頭據信藏於地下。"
+      },
+      "motifs": [
+        "transformation",
+        "trickster",
+        "sacred-place"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Tuscarora text, 1825; public domain. The flying head is a signature Iroquois horror figure (compare Parker's False Face cycle)."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The Holder of the Heavens was absent from the country, which was destitute of the visits of the Governor of the Universe; the reason produced the occasion that they were invaded by the monsters called Ko-nea-rau-neh-neh, the Flying Heads, which devoured several people of the country. The Flying Heads made invasions in the night, but the people were attentive to escape by leaving their huts and concealing themselves in other huts prepared for that purpose.",
+          "note": "Condensed from Cusick 1825, Part III; not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "There was an old woman who resided at Onondaga; she was left alone in the hut at evening, while others deserted. She was sitting near the fire parching some acorns when the monstrous Head made its appearance at the door; while viewing the woman it was amazed that she ate the coals of fire, by which the monsters were put to flight. Ever since the heads disappeared and were supposed concealed in the earth. After a short time the people were invaded by the monster of the deep, the Lake Serpent, which traversed the country and interrupted their intercourse, so the five families were compelled to make fortifications throughout their respective towns.",
+          "note": "Condensed from Cusick 1825, Part III; not verbatim."
+        }
+      ]
+    },
+    {
+      "id": "woodland-cusick-stonish-giants",
+      "title": {
+        "en": "The Stonish Giants Trapped in the Hollow",
+        "zh": "石巨人困於凹谷"
+      },
+      "tradition": "woodland",
+      "category": "myth",
+      "region": {
+        "en": "Hollow near Onondaga, New York",
+        "zh": "紐約州奧農達加附近的凹谷"
+      },
+      "lat": 42.98,
+      "lon": -76.34,
+      "period": "Written 1825 by David Cusick (Tuscarora)",
+      "source": {
+        "archive": "Project Gutenberg (eBook 57237)",
+        "work": "David Cusick, Sketches of the Ancient History of the Six Nations, Part III (1825/1848)",
+        "url": "https://www.gutenberg.org/ebooks/57237"
+      },
+      "license": "Public domain (text 1825/1848)",
+      "summary": {
+        "en": "The Otne-yar-heh, Stonish Giants - people who had rolled in sand until their bodies grew hard and flinty - overrun the country and devour almost every town. The Holder of the Heavens returns, changes himself into a giant, joins their march on Fort Onondaga, and orders them to lie overnight in a deep hollow; at dawn he ascends the heights and overwhelms them with a mass of rocks. One giant escapes to tell the fate, and the tribe seeks asylum in the north.",
+        "zh": "奧特涅亞赫——石巨人——乃因在沙中打滾而身披堅硬石皮之族，蹂躪四方，吞食幾乎每一座城鎮。天堂之主歸來，化身為巨人，混入其進攻奧農達加堡的隊伍，命他們夜宿深谷；黎明時分他登上高處，以巨岩崩落將其淹沒。一巨人逃出報信，其族遂北遁求庇。"
+      },
+      "motifs": [
+        "cannibal-giant",
+        "culture-hero",
+        "transformation"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Tuscarora text, 1825; public domain. Cusick's footnote derives the giants from the vine-breaking migration and a Shawnee tradition."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "About this time a powerful tribe of the wilderness, called Otne-yar-heh, the Stonish Giants, overran the country; the warriors were collected from several towns, but after severe combat were overpowered, and the country was brought to subjection for many winters. The Stonish Giants were so ravenous that they devoured the people of almost every town in the country. The Shawnee tradition, Cusick notes, derives them from a family separated at the broken vine who forgot the rules of humanity and ate raw flesh, rolling in sand until their bodies were covered with hard skin, and so became giants.",
+          "note": "Condensed from Cusick 1825, Part III and footnote; not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Happily the Holder of the Heavens again visited the people and observed their distressed condition. With a stratagem he proceeded to banish their invaders: he changed himself into a giant, combined with the Stonish Giants, and introduced himself to take the lead in destroying the people of the country. A day's march from the fort Onondaga he ordered them to lay in a deep hollow during the night, promising attack on the following morning. At the dawn of day he ascended upon the heights and overwhelmed them by a mass of rocks, and only one escaped to announce the dreadful fate; since that event the Stonish Giants left the country and sought an asylum in the regions of the north.",
+          "note": "Condensed from Cusick 1825, Part III; not verbatim."
+        }
+      ]
+    },
+    {
+      "id": "woodland-cusick-double-headed-serpent",
+      "title": {
+        "en": "Kaistowanea, the Two-Headed Serpent Raised as a Pet",
+        "zh": "凱斯托瓦內亞：被豢養的雙頭蛇"
+      },
+      "tradition": "woodland",
+      "category": "myth",
+      "region": {
+        "en": "Jenneatowaka, original seat of the Seneca council fire, near Seneca Lake, New York",
+        "zh": "傑尼亞托瓦卡——塞內卡議火原址，紐約州塞尼卡湖附近"
+      },
+      "lat": 42.77,
+      "lon": -76.9,
+      "period": "Written 1825 by David Cusick (Tuscarora)",
+      "source": {
+        "archive": "Project Gutenberg (eBook 57237)",
+        "work": "David Cusick, Sketches of the Ancient History of the Six Nations, Part III (1825/1848)",
+        "url": "https://www.gutenberg.org/ebooks/57237"
+      },
+      "license": "Public domain (text 1825/1848)",
+      "summary": {
+        "en": "A boy catches a small two-headed serpent, Kaistowanea, and keeps it in a bark box; after ten winters it needs deer and bear for food, and after thirty it is prodigious, broods mischief by night, and at daybreak descends with tremendous noise, uprooting trees and encircling the fort so that none may pass. Warriors are fruitless; the people are devoured but for a young warrior and his sister, who receive dream advice: adorned with his sister's hair, the warrior shoots the serpent's heart, and it vomits what it has eaten and expires in the lake.",
+        "zh": "一男孩捕得小雙頭蛇凱斯托瓦內亞，置於樹皮盒中馴養；十冬之後蛇需食鹿熊，三十年後身軀龐大，夜間謀亂，黎明轟然而下，連根拔樹，盤繞堡門，無人得脫。戰士屢攻無效，眾人幾被吞食，僅餘一青年戰士與其妹。戰士得夢示：以妹髮飾臂，射中蛇心；蛇嘔出所吞之物，遁入湖中而亡。"
+      },
+      "motifs": [
+        "world-serpent",
+        "oracle-divination",
+        "sacred-place",
+        "seasons-origin"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Tuscarora text, 1825; public domain. Parker retells a cognate of this tale as 'The Horned Serpent Runs Away with a Girl.'"
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "In the days of Atotarho IIII, a woman and son resided near the fort at Jenneatowaka, the original seat of the council fire of the Senecas. The boy, amusing himself in the bush, caught a small serpent called Kaistowanea, with two heads, and brought it to his apartment, where it was first placed in a small bark box to tame and fed with birds' flesh. After ten winters the serpent became considerably large and rested on the beams within the hut, and the warrior was obliged to hunt deer and bears to feed the monster; but after a while the serpent was able to maintain itself on various game, left the hut, and resided on the top of a nole.",
+          "note": "Condensed from Cusick 1825, Part III; not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "After thirty years it was of prodigious size, and in a short time became inspired with an evil mind against the people: in the night the warrior experienced that the serpent was brooding mischief and about to destroy the people of the fort, and moved to another fort. At daylight the serpent descended from the heights with the most tremendous noise, the trees unrooted by its force, and it immediately surrounded the gate. Some endeavored to pass out and others to climb over the serpent, but were unable; the people remained in this situation for several days, and were devoured, except a young warrior and sister.",
+          "note": "Condensed from Cusick 1825, Part III; not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "At length the warrior received advice from a dream, and adorned his arms with the hairs of his sister; by this he succeeded in shooting the serpent at the heart, and it was mortally wounded. It hastened to retire from the fort and retreated to the lake to gain relief, dashing on the face of the water furiously in the time of agony; at last it vomited the substance it had eaten, then sunk to the deep and expired. After the fort was demolished the council fire was removed to another fort called Thau-gwe-took, west of Geneva lake.",
+          "note": "Condensed from Cusick 1825, Part III; not verbatim."
+        }
+      ]
+    },
+    {
+      "id": "woodland-cusick-pestilence-creature",
+      "title": {
+        "en": "The Headless Pestilence Creature of Chautauqua",
+        "zh": "肖托夸的無首瘟疫之獸"
+      },
+      "tradition": "woodland",
+      "category": "myth",
+      "region": {
+        "en": "Lake Chautauqua, Seneca country, New York",
+        "zh": "紐約州肖托夸湖，塞內卡之地"
+      },
+      "lat": 42.25,
+      "lon": -79.47,
+      "period": "Written 1825 by David Cusick (Tuscarora)",
+      "source": {
+        "archive": "Project Gutenberg (eBook 57237)",
+        "work": "David Cusick, Sketches of the Ancient History of the Six Nations, Part III (1825/1848)",
+        "url": "https://www.gutenberg.org/ebooks/57237"
+      },
+      "license": "Public domain (text 1825/1848)",
+      "summary": {
+        "en": "A Seneca war party encamped above Lake Chautauqua finds a grey dog-like creature asleep by a den, without any visible head. A joker beats it, seizes it with a tumpline, and cannot hold it as it drags toward its den; a few paces away he dies of the pestilence, a messenger dies running, and the plague sweeps the camp until a few escape. Thus ends the expedition against the Ottawas.",
+        "zh": "塞內卡戰隊紮營於肖托夸湖上，發現一頭灰色、似犬而無首的怪獸在巢穴旁酣睡。一名小丑以棒擊之、以背帶拽之，卻拉不住它拖回巢穴；僅行數步便染瘟疫而死，報信者亦死於途中，營中瘟疫橫行，僅少數得脫。對抗奧塔瓦人之遠征就此告終。"
+      },
+      "motifs": [
+        "taboo-transgression",
+        "transformation",
+        "boon-curse",
+        "plague-sent"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Tuscarora text, 1825; public domain."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The warriors advanced above the lake named Geattahgweah (now Chautauqua) and agreed to hunt two days before proceeding toward the enemy's country. A certain warrior passed a small brook and discovered a strange animal resembling a dog, but without any discoverable head, a greyish creature asleep, exposed to the sun, near a den which was supposed its residence. He reported at evening that it was a very poisonous animal and he was afraid to approach it again - but one of the jokers laughed at him, called him a cowardly fellow, and determined to kill the creature without trouble, wishing spectators of the engagement.",
+          "note": "Condensed from Cusick 1825, Part III; not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "After beating it a short time with his club, he seized the animal and tied it with a tumline; but while lifting it the creature moved toward the den, and with all his might he could not stop it, and let go. Hastening to retire, when a few paces away he was taken with the pestilence influenced by the creature and suddenly died; another warrior who fled to carry the intelligence also died at a short distance, and the others returned to camp - but the pestilence prevailed among the warriors, and many died in the same manner. A few escaped by leaving the camp before the plague appeared, and thus ended the expedition.",
+          "note": "Condensed from Cusick 1825, Part III; not verbatim."
+        }
+      ]
+    },
+    {
+      "id": "woodland-cusick-lizard-tree",
+      "title": {
+        "en": "The Furious Lizard in the Hollow Tree",
+        "zh": "空心樹中的狂怒蜥蜴"
+      },
+      "tradition": "woodland",
+      "category": "myth",
+      "region": {
+        "en": "Ohio River encampment (traditional Tuscarora geography)",
+        "zh": "俄亥俄河畔營地（塔斯卡洛拉傳統地理）"
+      },
+      "lat": 40.5,
+      "lon": -81.0,
+      "period": "Written 1825 by David Cusick (Tuscarora)",
+      "source": {
+        "archive": "Project Gutenberg (eBook 57237)",
+        "work": "David Cusick, Sketches of the Ancient History of the Six Nations, Part III (1825/1848)",
+        "url": "https://www.gutenberg.org/ebooks/57237"
+      },
+      "license": "Public domain (text 1825/1848)",
+      "summary": {
+        "en": "Provisioned out on the Ohio, warriors burn a hollow tree to smoke out a bear - but a furious Lizard leaps out, seizes a warrior and carries him into the hollow where its young devour him; the last man remaining is saved by the Holder of the Heavens, who appears in a lion's form, instructs him to burn sticks and hook the lizard's severed flesh into the fire so the body cannot reunite, and the monster is quelled.",
+        "zh": "戰士們在俄亥俄河畔糧盡，焚燒空心樹欲燻出黑熊——卻竄出一頭狂怒蜥蜴，抓住一名戰士拖入樹洞，被其幼崽吞食。最後一名戰士得「天堂之主」化身為獅前來救援，教他備火焚枝，以枝勾出蜥蜴被咬斷的肉塊投入火中，使其軀體不能復合，怪物遂被制服。"
+      },
+      "motifs": [
+        "cannibal-giant",
+        "culture-hero",
+        "transformation",
+        "reunion"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Tuscarora text, 1825; public domain. The fire-hook to prevent the body rejoining is a distinct Iroquoian monster-slaying technique."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "As the warriors were out of provision, a certain warrior discovered a hollow tree, supposing a bear in it; one of them climbed and put a fire in it to drive out the creature, and the warriors made ready to shoot - but were mistaken. There instantly came out a furious Lizard, and quickly grasped a warrior and leaped into the hollow of the tree, and the young ones devoured him. A grumbling noise ensued; the warriors were terrified and compelled to retire, except one who stayed at the tree while the party was destroyed.",
+          "note": "Condensed from Cusick 1825, Part III; not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "The last warrior ran on the way and fortunately met the Holder of the Heavens, who offered the aid of making resistance. He instructed the warrior to make fire without delay and to get some sticks with which to prevent the Lizard's flesh from uniting with the body, as being efficacious; the protector changed into a lion and laid in wait. When the monster came up, a severe engagement took place; the warrior hastened with a stick and began to hook the Lizard's flesh, and when it was bit off by his defender he threw it into the fire - by which means the monster was quelled. The warrior gave thanks for his personal preservation; the protector vanished out of his sight.",
+          "note": "Condensed from Cusick 1825, Part III; not verbatim."
+        }
+      ]
+    },
+    {
+      "id": "woodland-cusick-western-expedition",
+      "title": {
+        "en": "The Western Expedition: Winged Fish, Tailed Nation, and the Giant at the Mountains",
+        "zh": "西征記：有翼之魚、有尾之族與山間巨人"
+      },
+      "tradition": "woodland",
+      "category": "myth",
+      "region": {
+        "en": "From Sandusky toward the Rocky Mountains (traditional Tuscarora geography)",
+        "zh": "自桑達斯基向西至落磯山（塔斯卡洛拉傳統地理）"
+      },
+      "lat": 39.5,
+      "lon": -88.0,
+      "period": "Written 1825 by David Cusick (Tuscarora)",
+      "source": {
+        "archive": "Project Gutenberg (eBook 57237)",
+        "work": "David Cusick, Sketches of the Ancient History of the Six Nations, Part III (1825/1848)",
+        "url": "https://www.gutenberg.org/ebooks/57237"
+      },
+      "license": "Public domain (text 1825/1848)",
+      "summary": {
+        "en": "King Atotarho VII sends fifteen men of the five nations west to explore. Beyond the Mississippi they are welcomed with dances and drums, meet a hummingbird-quick winged fish, are lodged by the Dog Tail Nation - whose people have short tails like apes with holes through their seats - find a nation that drinks only soup and no meat, and are finally arrested by a giant before the Rocky Mountains and compelled to return home.",
+        "zh": "阿托塔霍七世遣五族十五人西行探查。眾人渡密西西比河，受歌舞歡迎，遇動如蜂鳥的有翼之魚；受「犬尾族」款待——其民短尾如猿，座上鑽孔以容其尾——又見只飲肉湯不食肉之族；行至落磯山前為巨人所阻，只得返國覆命。"
+      },
+      "motifs": [
+        "otherworld-voyage",
+        "foundational-legend"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Tuscarora text, 1825; public domain. Cusick's wonder-geography of the far west."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "King Atotarho VII, authorized by the senate, sent an expedition to explore the countries toward the setting sun: two captains commanded about fifteen men selected from the five nations, with two Ottawa warriors accompanying. They advanced to the Mississippi river, where a duke of Twa-kan-ah collected the people from several towns to meet them; the people danced around them, singing and beating their little drums, and the band was invited into the national house. Crossing the Mississippi they came to an extensive meadow and discovered a curious animal - a winged fish that flew about the trees and moved like a humming bird.",
+          "note": "Condensed from Cusick 1825, Part III; not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "They came to the village of the Dog Tail Nation and were accommodated and amused with dances; they were astonished that the people had short tails like apes, a hole being made through their seats where they put their tails. Another nation received them kindly, though its people ate no meat but drank only the soup. The band continued, but before they reached the Rocky Mountains they were arrested by a giant and compelled to return; after a long journey they came back and informed the king of all the particulars.",
+          "note": "Condensed from Cusick 1825, Part III; not verbatim."
+        }
+      ]
+    }
+  ]
+}

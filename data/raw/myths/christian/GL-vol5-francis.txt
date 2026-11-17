@@ -1,0 +1,674 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Internet History Sourcebooks: Medieval Sourcebook</title>
+
+
+<style type="text/css">
+<!--
+/* ==================================================== */
+hr {  border:0;  border-top: 1px solid #999999;  height: 0;  background: #DDDDDD; }
+/* ==================================================== */
+body {					margin-left: 0px; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; 
+						}
+/* ==================================================== */
+#logo-short{float:left;}
+
+
+#header_new{max-width:1200px;margin:auto;}
+#header_new_left{width:40%;float:left;padding:1em 0 .5em 1em;}
+#header_new_right{width:55%;float:right;padding:.5em 1em .5em 0;}
+.header_rule{ border:0;  border-top: 9px solid #900028;  height: 0;  background: #900028;width:100%;margin-bottom: 0; }
+#tbl_topnav, #tbl_topnav a {width:100%;margin:0;color:#ffffff;}
+.clear{clear:both;float:none;}
+
+#tbl_hd1{width:100%;}
+#tbl_hd2{min-width:770px;margin:1em auto 1em auto;}
+#tbl_tbl{max-width:1200px;}
+#tbl_toplinks{margin:0;background-color:#a09d8b;}
+#top_maroon_line{background-color:#900028;height:1em;}
+
+
+#tbl_leftnav{min-width:100px;width:20%;border-right:1px solid #c9c9c9;}
+#tbl_leftnav_inner{width:100%;}
+#tbl_rightnav{width:80%;}
+
+p.H_Topnav {			margin: 12px 0px }
+.H_Topnav a, .H_Topnav a:link,.H_Topnav a:visited,.H_Topnav a:active{color:#900028;}
+.H_Topnav {				font-family:Trebuchet, Tahoma, Arial, Helvetica, sans-serif; font-size:11px;  line-height: 14px;
+						font-weight: lighter; letter-spacing: .5px; font-variant: normal; text-transform: normal; text-decoration: none; }
+.H_Topnav a {			font-family:Trebuchet, Tahoma, Arial, Helvetica, sans-serif; font-size:11px; line-height: 14px;
+						font-weight: lighter; letter-spacing: .5px; font-variant: normal; text-transform: normal; text-decoration: underline; }
+.H_Topnav a:link {		font-family:Trebuchet, Tahoma, Arial, Helvetica, sans-serif; font-size:11px;  line-height: 14px;
+						font-weight: lighter; letter-spacing: .5px; font-variant: normal; text-transform: normal; text-decoration: underline; }
+.H_Topnav a:visited {	font-family:Trebuchet, Tahoma, Arial, Helvetica, sans-serif; font-size:11px;  line-height: 14px;
+						font-weight: lighter; letter-spacing: .5px; font-variant: normal; text-transform: normal; text-decoration: underline; }
+.H_Topnav a:hover {		font-family:Trebuchet, Tahoma, Arial, Helvetica, sans-serif; font-size:11px; line-height: 14px;
+						font-weight: lighter; letter-spacing: .5px; font-variant: normal; text-transform: normal; text-decoration: none; }
+/* ==================================================== */
+p.H_body_text {				margin: 12px 0px }
+.H_body_text {				font-family:Trebuchet, Tahoma, Arial, Helvetica, sans-serif; font-size:12px; line-height: 16px;
+							color:#000000; font-weight: normal; font-variant: normal; text-decoration: none; }
+.H_body_text a {			font-family:Trebuchet, Tahoma, Arial, Helvetica, sans-serif; font-size:12px; line-height: 16px;
+							color: #900028; font-weight: normal; font-variant: normal; text-decoration: none; }
+.H_body_text a:link {		font-family:Trebuchet, Tahoma, Arial, Helvetica, sans-serif; font-size:12px; line-height: 16px;
+							color: #900028; font-weight: normal; font-variant: normal; text-decoration: none; }
+.H_body_text a:visited {	font-family:Trebuchet, Tahoma, Arial, Helvetica, sans-serif; font-size:12px; line-height: 16px;
+							color: #900028; font-weight: normal; font-variant: normal; text-decoration: none; }
+.H_body_text a:hover {		font-family:Trebuchet, Tahoma, Arial, Helvetica, sans-serif; font-size:12px; line-height: 16px;
+							color: #900028; font-weight: normal; font-variant: normal; text-decoration: underline; }
+/* ==================================================== */
+p.H_Title {				margin: 12px 0px }
+.H_Title {				font-family: 'OFL Sorts Mill Goudy TT', serif; font-size: 32px; font-style: normal; color:#900028; font-weight: 400; text-decoration: none;
+						text-transform: none; letter-spacing: 0em; word-spacing: 0em; line-height: 1.03em; }
+.H_Title a {			font-family: 'OFL Sorts Mill Goudy TT', serif; font-size: 32px; font-style: normal; color:#571C2C; font-weight: 400; text-decoration: none;
+						text-transform: none; letter-spacing: 0em; word-spacing: 0em; line-height: 1.03em; }
+.H_Title a:link {		font-family: 'OFL Sorts Mill Goudy TT', serif; font-size: 32px; font-style: normal; color:#571C2C; font-weight: 400; text-decoration: none;
+						text-transform: none; letter-spacing: 0em; word-spacing: 0em; line-height: 1.03em; }
+.H_Title a:visited {	font-family: 'OFL Sorts Mill Goudy TT', serif; font-size: 32px; font-style: normal; color:#571C2C; font-weight: 400; text-decoration: none;
+						text-transform: none; letter-spacing: 0em; word-spacing: 0em; line-height: 1.03em; }
+.H_Title a:hover {		font-family: 'OFL Sorts Mill Goudy TT', serif; font-size: 32px; font-style: normal; color:#900028; font-weight: 400; text-decoration: underline;
+						text-transform: none; letter-spacing: 0em; word-spacing: 0em; line-height: 1.03em; }
+/* ==================================================== */
+p.H_Subitle {			margin: 12px 0px }
+.H_Subitle {			font-family: Arial, Helvetica, sans-serif; font-size: 18px; font-style: normal; color:#363636; font-weight: bold; text-decoration: none;
+						text-transform: none; letter-spacing: .0em; word-spacing: 0em; line-height: 1.25em; }
+.H_Subitle a {			font-family: Arial, Helvetica, sans-serif; font-size: 18px; font-style: normal; color:#363636; font-weight: bold; text-decoration: none;
+						text-transform: none; letter-spacing: .0em; word-spacing: 0em; line-height: 1.25em; }
+.H_Subitle a:link {		font-family: Arial, Helvetica, sans-serif; font-size: 18px; font-style: normal; color:#363636; font-weight: bold; text-decoration: none;
+						text-transform: none; letter-spacing: .0em; word-spacing: 0em; line-height: 1.25em; }
+.H_Subitle a:visited {	font-family: Arial, Helvetica, sans-serif; font-size: 18px; font-style: normal; color:#363636; font-weight: bold; text-decoration: none;
+						text-transform: none; letter-spacing: .0em; word-spacing: 0em; line-height: 1.25em; }
+.H_Subitle a:hover {	font-family: Arial, Helvetica, sans-serif; font-size: 18px; font-style: normal; color:#900028; font-weight: bold; text-decoration: underline;
+						text-transform: none; letter-spacing: .0em; word-spacing: 0em; line-height: 1.25em; }
+.level1Links {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; font-style: normal; color: #000000; text-decoration: none; padding-left:15px;padding-bottom:3px;padding-top:3px; display:block}
+.level1Links:hover {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; font-style: normal; color: #ffffff; text-decoration: none; background-color:#900028}
+.level1Links:active {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; font-style: normal; color: #900028; text-decoration: none;}
+.level1LinksX:hover {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; font-style: normal; line-height: 1.2; color: #0000ff;}
+.level2Links {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; font-style: normal; line-height: 1.5; color: #FFFFFF;}
+.visualLink {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; font-weight: bold; font-style: normal; line-height: 1.8; color: #FFFFFF; text-decoration: none;}
+.visualLink:hover {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; font-weight: bold; font-style: normal; line-height: 1.8; color: #FEF544; text-decoration: none;}
+
+
+.navHeaderLink { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; font-weight: bold; line-height: 1.2; color: #000000; text-decoration: none;padding-left:15px;padding-bottom:3px;padding-top:3px; display:block}
+
+.navHeaderLink:hover {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; font-weight: bold; line-height: 1.2; color: #ffffff; hover: underline;background-color:#900028}
+
+.navHeaderLink:active {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; font-weight: bold; line-height: 1.2; color: #900028;}
+
+.navHeaderText {font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; font-weight: normal; line-height: 1.2; color: #900028;padding-left:15px;display:block}
+
+#consent_blackbar {  position: fixed;  bottom: 0;  width: 100%; z-index:200;}
+
+/* ==================================================== */
+
+-->
+</style>
+</head>
+<body>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-N23XC1HXST"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-N23XC1HXST');
+</script>
+<!--header start-->
+<div id="header_new">
+<div id="header_new_left">
+<a href="http://www.fordham.edu"><img src="http://www.fordham.edu/site/styles/img/logo-universal.png" alt="Fordham"></a>
+</div>
+<div id="header_new_right">
+<!--begin search box-->
+<div align="right" id="searchbox" style="padding-top:.5em;">
+<form method="get" action="https://search.fordham.edu/s/search.html">
+<input type="text" name="query">
+<input type="hidden" name="collection" value="fordham~sp-search">
+<input type="hidden" name="clive" value="fordham~ds-sourcebooks">
+<input type="submit" name="submit" value="Search">
+</form>
+</div>
+<!--end search box-->
+</div><!--end header_new_right-->
+</div><!--end header_new-->
+
+
+
+<div class="clear"></div>
+<hr class="header_rule">
+<!--header_end-->
+
+<table height="60" border="0" align="center" cellpadding="0" cellspacing="0" id="tbl_topnav">
+  <tr>
+    <td height="30" colspan="2" id="tbl_toplinks"><p align="center" class="H_Topnav"><a href="/Halsall/index.asp">Home</a> | <a href="/Halsall/ancient/asbook.asp">Ancient  History Sourcebook</a> | <a href="/Halsall/sbook.asp">Medieval Sourcebook</a> |&nbsp; <a href="/Halsall/mod/modsbook.asp">Modern History Sourcebook</a> | <a href="/Halsall/byzantium/index.asp">Byzantine  Studies Page<br />
+    </a> Other History Sourcebooks: <a href="/africa/africasbook.asp">African</a> | <a href="/Halsall/eastasia/eastasiasbook.asp">East Asian</a> | <a href="/Halsall/india/indiasbook.asp">Indian</a> | <a href="/Halsall/islam/islamsbook.asp">Islamic</a> |&nbsp;<a href="/Halsall/jewish/jewishsbook.asp">Jewish</a> |&nbsp; <a href="/Halsall/pwh/index.asp">Lesbian and Gay</a> | <a href="/Halsall/science/sciencesbook.asp">Science</a> | <a href="/Halsall/women/womensbook.asp">Women's</a> | <a href="/Halsall/global/globalsbook.asp">Global</a></p></td>
+  </tr>
+  </table>
+	
+  <table height="60" border="0" align="center" cellpadding="0" cellspacing="0" id="tbl_tbl">
+  <tr>
+    <td  valign="top"  id="tbl_leftnav">
+    <table  cellpadding="0" cellspacing="0" id="tbl_leftnav_inner">
+      <tr>
+        <td><p>
+            <!--START_SUBNAV_MENU-->
+            <br />
+			<a href="/Halsall/index.asp" class="navHeaderLink">IHSP</a></p>
+            <a href="/Halsall/sbook.asp" class="navHeaderLink">Medieval History</a></p>
+<hr />
+<p>
+<a class="level1Links" href="/Halsall/sbook1.asp">Selected Sources</a>
+<a class="level1Links" href="/Halsall/sbook2.asp">Full Text Sources</a>
+<a class="level1Links" href="/Halsall/sbook3.asp">Saints' Lives</a>
+<a class="level1Links" href="/Halsall/sbook-law.asp">Law Texts</a>
+<a class="level1Links" href="/Halsall/sbookmap.asp">Maps</a>
+<a class="level1Links" href="/Halsall/medfilms.asp">Medieval Films</a>
+<a class="level1Links" href="/Halsall/search.asp">Search</a>
+<a class="level1Links" href="/Halsall/help.asp">Help</a></p>
+<hr />
+<span class="navHeaderText">Selected Sources Sections</span>
+<a class="level1Links" href="/Halsall/sbook1a.asp">Studying History</a>
+<a class="level1Links" href="/Halsall/sbook1b.asp">End of Rome</a>
+<a class="level1Links" href="/Halsall/sbook1c.asp">Byzantium</a>
+<a class="level1Links" href="/Halsall/sbook1d.asp">Islam</a>
+<a class="level1Links" href="/Halsall/sbook1e.asp">Roman Church</a>
+<a class="level1Links" href="/Halsall/sbook1f.asp">Early Germans</a>
+<a class="level1Links" href="/Halsall/sbook1ff.asp">Anglo-Saxons</a>
+<a class="level1Links" href="/Halsall/sbook1g.asp">Celtic World</a>
+<a class="level1Links" href="/Halsall/sbook1h.asp">Carolingians</a>
+<a class="level1Links" href="/Halsall/sbook1i.asp">10 C Collapse</a>
+<a class="level1Links" href="/Halsall/sbook1j.asp">Economic Life</a>
+<a class="level1Links" href="/Halsall/sbook1k.asp">Crusades</a>
+<a class="level1Links" href="/Halsall/sbook1l.asp">Empire & Papacy</a>
+<a class="level1Links" href="/Halsall/sbook1m.asp">France</a>
+<a class="level1Links" href="/Halsall/sbook1n.asp">England</a>
+<a class="level1Links" href="/Halsall/sbook1o.asp">Celtic States</a>
+<a class="level1Links" href="/Halsall/sbook1oo.asp">Nordic Europe</a>
+<a class="level1Links" href="/Halsall/sbook1p.asp">Iberia</a>
+<a class="level1Links" href="/Halsall/sbook1q.asp">Italy</a>
+<a class="level1Links" href="/Halsall/sbook1qq.asp">Eastern Europe</a>
+<a class="level1Links" href="/Halsall/sbook1r.asp">Intellectual Life</a>
+<a class="level1Links" href="/Halsall/sbook1s.asp">Medieval Church</a>
+<a class="level1Links" href="/Halsall/sbook1t.asp">Jewish Life</a>
+<a class="level1Links" href="/Halsall/sbook1u.asp">Social History</a>
+<a class="level1Links" href="/Halsall/sbook1v.asp">Sex & Gender</a>
+<a class="level1Links" href="/Halsall/sbook1w.asp">States & Society</a>
+<a class="level1Links" href="/Halsall/sbook1x.asp">Renaissance</a>
+<a class="level1Links" href="/Halsall/sbook1y.asp">Reformation</a>
+<a class="level1Links" href="/Halsall/sbook1z.asp">Exploration</a>
+<hr />
+<a class="level1Links" href="/Halsall/thanks.asp">IHSP Credits</a>
+<br />
+</td>
+      </tr>
+    </table></td>
+        <td id="tbl_rightnav" valign="top">
+    <table border="0" align="center" cellpadding="12" cellspacing="0">
+      <tr>
+        <td>
+          <span class="H_Title">Medieval Sourcebook: <br />
+          The Golden Legend: St. Francis </span>
+          <hr />
+
+    <blockquote>
+      <p class="H_body_text">[Note: To make the text as useful as possible to readers, the Golden Legend is
+        available at this site in multiple forms: very large files for each of the volumes, and by
+        chapter.&nbsp; See the <a href="index.asp">Golden Legend Main Page/Index</a> for other
+        volumes or chapter length files.]</p>
+    </blockquote>
+ 
+    <p align="left"><span class="H_Subitle">Here followeth the Life of S.</span> <a name="Francis" id="Francis"> <span class="H_Subitle">Francis</span></a><span class="H_Subitle">,
+      first beginner of the friars minor, and first of his name.</span><span class="H_Subitle"><i></span></p>
+    <p class="H_body_text">Francis was first named John, but after his name was changed and was called
+    Francis. The cause of changing of his name was manifold. First, for the reason of his
+    marvellous changing, for it is known that he received of God by miracle the French tongue,
+    and it is said in his legend that when he was replenished of the grace of God, and of the
+    ardour of the Holy Ghost he pronounced out burning words in French. Secondly, by the
+    reason to publish his office, whereof is said in his legend that, the divine providence
+    gave to him that name, because of his singular and inaccustomed name, the opinion of his
+    mystery might be known throughout all the world. Thirdly, by reason of his office in
+    effect, whereupon was given to understand that by him and by his sons he should make many
+    servants of the devil and bond to sin, free. Fourthly, by reason of great courage and
+    magnanimity of heart. For Frenchmen be said of fierceness, for in them is natural
+    fierceness and great courage of heart. Fifthly, by reason of virtuosity in speaking, for
+    his word carved away the vices like an axe. Sixthly, by reason that he chased away
+    commonly the devils. Seventhly, by reason of honesty in his conversation, and of
+    perfection of work. And it is said that some signs that were borne in Rome tofore the
+    consuls, which were in terror of the people and in worship, were called Franciscas.</p>
+  <i>
+  <p align="left" class="H_Subitle">Of S. Francis.</p>
+  <p class="H_body_text">Francis, servant and friend of Almighty God, was born in the city of Assisi, and was
+    made a merchant unto the twenty-fifth year of his age, and wasted his time by living
+    vainly, whom our Lord corrected by the scourge of sickness, and suddenly changed him into
+    another man, so that he began to shine by the spirit of prophecy. For on a time he with
+    other men of Perugia was taken prisoner, and were put in a cruel prison, where all the
+    others wailed and sorrowed, and he only was glad and enjoyed. And when they had reproved
+    him thereof, he answered: Know ye, said he, that I am joyful, for I shall be worshipped as
+    a saint through all the world.</p>
+  <p class="H_body_text">On a time he went to Rome because of devotion, and he took off all his clothes and clad
+    him with the clothes of a beggar, and sat among the poor men tofore the church of S.
+    Peter, and as one of them, begged and ate eagerly with them, and much oftener would have
+    done, but the shame of being known of people letted him. The old enemy the devil enforced
+    him to let him of his holy purpose, and showed to him a woman monstrous and horribly
+    disfigured, crookbacked and lame, which was in that city, and he said to him if he left
+    not that he had enterprised, he would make him semblable and like unto her. But he was
+    comforted of our Lord, which heard a voice saying to him: Francis, take these bitter
+    things for the sweet, and despise thyself if thou desire to know me.</p>
+  <p class="H_body_text">On a time he met a leper whom naturally men abhor, but he remembered him of the word
+    that was said of God, and ran to him and kissed him, and anon the lazar vanished away,
+    wherefore he went to the habitation of the lazars and kissed devoutly their hands, and
+    gave to them money, and let them have no need of such as he might do.</p>
+  <p class="H_body_text">On a time he entered into the church of S. Damian for to make his prayers, and the
+    image of Jesu Christ spake unto him and said: Francis, go and repair my house which is all
+    destroyed as thou seest. And from that hour the soul of him liquefied, and the passion of
+    Jesu Christ was marvellously infixed in his heart. And then he did great pain, and was
+    busy in repairing the church, and sold all that he had, and gave the money thereof to a
+    priest, and he durst not receive it for fear of his parents and kin. Then he, casting it
+    away tofore the priest as dust, setting not thereby, wherefore he was taken of his father
+    and bound, and he restored to him his money, and resigned also his clothes, and so naked
+    he fled to our Lord, and clad him with hair. And then the blessed Francis went unto a
+    simple man, whom he took instead of his father, and prayed him that like as</p>
+  <p class="H_body_text">his father doubled on him his curses, that in contrary he should bless him. His own
+    brother germane seeing him in a winter time have on him but foul and few clothes, and that
+    he trembled for cold and was entending to his prayers, said to his fellow: Go to Francis
+    and say to him that he sell to thee a pennyworth of his sweat. And when he heard it he
+    answered with a glad cheer: I will sell it unto my Lord God. On a day he heard in the
+    church that which our Lord said to his disciples when he sent them to preach, and anon he
+    addressed him with all his might to do and keep all those things; he did off his hosen and
+    shoon from his feet and clad him with a foul coat, and took a cord for his girdle. He went
+    on a time in a snow by a wood, and was taken by thieves, and they demanded him what he
+    was, and he said that he was the messenger of God, and anon they took him and cast him in
+    the snow, saying to him: Lie there, thou villain messenger of God. Many noble and unnoble
+    clerks and laymen had despised the world and begun to follow him, and the holy father
+    enseigned and taught them the perfection of the gospel, which was for to be in poverty,
+    and that they should go by the way of simpleness. He wrote then a rule, after the gospel,
+    to himself and his brethren, had and to be had, which Pope Innocent confirmed. And from
+    then forthon he began to spread more ardently the seeds of the Word of God, and went about
+    cities and castles by a fervent and marvellous desire. There was a friar which seemed
+    outward of marvellous holiness, and kept silence so straitly that he would not be shriven
+    by words but by signs, and every man praised him as a saint. This holy man Francis came
+    thither and said: Leave ye brethren to praise him, for I shall not yet praise him lest it
+    be by feigntise of the devil, let him be warned to be shriven twice in the week by word
+    and speaking, and if he do it not, this is but temptation of the devil and fraudulous
+    deceit. And then the friars warned him so to do, and he put his finger to his mouth, and
+    shook his head, and showed that in no wise he would confess him. And anon after he
+    returned again to worldly life as a hound to his vomit, and went out of his order, and
+    finished his life in sinful acts and works.</p>
+  <p class="H_body_text">On a time S. Francis was weary of going, and rode upon an ass, and his fellow, one
+    Leonard of Assisi, was also weary of going, and S. Francis began to think thus and to say
+    in himself: His kin and my kin were not like, and incontinent he alighted down, and said
+    to the friar: It appertaineth not to me to ride and thee to go afoot, for thou art more
+    noble than I am. And the friar was abashed, and kneeled down and required pardon.</p>
+  <p class="H_body_text">On a time, as he passed by a place, a noble lady ran so hastily against him that she
+    might not speak for weariness, and he asked of her what she would. And she said: Pray for
+    me, father, for I may not perform the purpose of health which I have begun, for my
+    husband, which letteth me, doth to me many adversities in the service of God. And he said
+    to her: Go thy way, daughter, for thou shalt have anon comfort of him, and say to thine
+    husband, in God's name and mine, that now is the time of health, and hereafter shall be
+    time of equity and right. And when she had said so to her husband, the man was suddenly
+    changed and avowed to God continence and chastity.</p>
+  <p class="H_body_text">On a time a poor labourer was almost lost in a wood for thirst. and this holy saint
+    impetred a fountain by his prayers. He said on a time to a friar, that was familiar with
+    him, this secret which was showed to him by the Holy Ghost. There is a servant of God
+    living in the world on this day, for whose sake, as long as he shall live, our Lord shall
+    suffer no famine among the people. But without doubt it is said that, when he was dead all
+    that condition was changed to the contrary, for after his blessed death he appeared to the
+    same friar and said to him: Lo! now is the famine come, which as long as I lived upon
+    earth, our Lord would not suffer to come.</p>
+  <p class="H_body_text">On an Easter day the friars Greek that were in desert had laid their table more
+    curiously than in another time, and had made ready the glasses and set them on the board.
+    And when S. Francis saw that he anon withdrew him, and set on his head the hat of a poor
+    man which was there, and bare his staff in his hand, and went out and abode at the gate.
+    And when the friars ate at dinner, he cried at the door that they should give for the love
+    of God an alms to a poor sick man. Then the poor man was called in and entered and sat
+    down alone upon the earth, and set his dish in the dust, which when the friars saw they
+    were abashed and were sore aghast. And he said to them: I see the table arrayed and
+    adorned, and I know well that it is not for poor men that seek their meat from door to
+    door.</p>
+  <p class="H_body_text">He loved poverty in himself and in all others, so that he always called poverty his
+    lady, but when he saw one more poor than himself he had thereof envy, and doubted to be
+    overcome of him. On a day he saw a poor woman and he showed her to his fellow and said:
+    The poverty of this woman doth to us shame, and reproveth strongly our poverty, for, for
+    my riches I have chosen my lady poverty, and she shineth more in this woman than in me. </p>
+  <p class="H_body_text">When on a time a poor man passed tofore him, and the holy man was moved with inward
+    compassion, his fellow said to him: Though this man be poor, peradventure there is not a
+    richer of his will in all the province. Then S. Francis said to him anon: Despoil thee of
+    thy coat and give it to the poor man, and knowledge thyself culpable and kneel down to his
+    feet, to whom anon he obeyed and did so.</p>
+  <p class="H_body_text">On a time three women like of visage and all things, and of habit, entered and met him,
+    and saluted in this manner: Welcome my lady poverty, and anon they vanished away and were
+    no more seen.</p>
+  <p class="H_body_text">On a time as he came to the city of Arezzo, and a mortal battle was moved in the city,
+    this holy man saw within the burgh, on the ground, the devils making joy and were glad.
+    Then he called his fellow named Silvester, and said to him: Go to the gate of the city and
+    command to these devils in God's name, that is Almighty, that they go out of the city.
+    Then he went hastily and cried strongly: All ye devils depart from hence in the name of
+    God and by the commandment of Francis our Father. And they went away, and then the
+    citizens anon became to accord.</p>
+  <p class="H_body_text">The foresaid Sylvester when he was yet a secular priest saw in his sleep a golden cross
+    issue out of the mouth of S. Francis, of the which the over end touched heaven and the
+    arms of the cross stretched forth from that one to that other part of the world. Then this
+    priest had compunction and left the world, and followed perfectly this holy man Francis.
+    And on a time as this holy man was in prayer, the devil called him thrice by his own name,
+    and when the holy man had answered him, he said: None in this world is so great a sinner,
+    but if he convert him our Lord would pardon him, but who that slayeth himself by hard
+    penance shall never find mercy. And anon this holy man knew by the revelation the fallacy
+    and deceit of the fiend, how he would have withdrawn him for to do well. And when the
+    devil saw that he might not prevail against him, he tempted him by grievous temptation of
+    the flesh, and when this holy servant of God felt that, he despoiled him of his clothes
+    and beat himself right hard with a hard cord, saying: Thus, brother ass, it behoveth thee
+    to remain and to be beaten; and when the temptation departed not, he went out and plunged
+    himself in the snow all naked, and made seven great balls of snow and purposed to have
+    taken them into his body and said: This greatest is thy wife, and of these four, two be
+    thy daughters, and two thy sons, and the other twain, that one thy chamberer, and that
+    other thy varlet or yeoman; haste thee and clothe them, for they all die for cold, and if
+    thy business that thou hast about them grieve thee sore, then serve our Lord perfectly.
+    And anon the devil departed from them all confused, and S. Francis returned again into his
+    cell glorifying God.</p>
+  <p class="H_body_text">And as he dwelled on a time with Leo the cardinal of S. Cross, in a night the devils
+    came to him and beat him right grievously. Then he called his fellow and said to him:
+    These be devils, jailers of our Lord, whom he sendeth to punish the excesses, but I can
+    remember me of none offences that I have done, but by the mercy of God I have washed them
+    away by satisfaction. But peradventure he hath sent me them because he will not suffer me
+    to fall, because I dwell in the courts of great lords, which thing peradventure
+    engendereth not good suspection to my right poor brethren, which suppose I abound in
+    delices. And early in the morning he arose and departed thence.</p>
+  <p class="H_body_text">On a time, as he was in his prayers, he saw upon the covering of the house assemblies
+    and companies of devils which ran hither and thither with great noise, and he went out,
+    and signed him with the sign of the cross, and said: I say to you in the name of Almighty
+    God that ye devils do to my body all that is suffered to you to do, and I shall suffer it
+    patiently. For I have no greater enemy than my body, and ye shall avenge me of mine
+    adversary, whiles ye take on it vengeance by my life. Then they vanished away all
+    confused.</p>
+  <p class="H_body_text">There was a friar which was fellow of S. Francis was on a time ravished, and saw in
+    spirit the glorious place in heaven, wherein he saw, among other seats, a right noble
+    seat, shining of more noble glory than all the others. And as he marvelled for whom this
+    noble seat was kept, he heard that it was said that this seat belonged sometime to one of
+    the princes that fell, and is now made ready to the meek and humble Francis.</p>
+  <p class="H_body_text">And when S. Francis issued from his prayers, that friar demanded him: Father, what
+    weenest thou of thyself? And he said: I ween that I am greatest of all sinners. And anon
+    the spirit came into the heart of the friar and said: Behold what was the vision that thou
+    sawest, for humility shall lift up the most meek man unto the seat lost by pride.</p>
+  <p class="H_body_text">This holy man S. Francis saw in a vision above him, Seraphin crucified, the which
+    emprinted in him the signs of his crucifying, that him seemed that he was crucified, and
+    that in his hands, his feet, and in his side, him seemed were the sign of the wounds of
+    the crucifying, but he did hide these tokens as much as he might, that no man should see
+    them. And yet nevertheless some saw them in his life, and at his death they were seen of
+    many, and were showed by many miracles that those signs were true. Of which miracles twain
+    shall suffice for to be set here. There was a man named Rogier, and was in Apulia tofore
+    the image of S. Francis, and began to think and say: May this be true that this man was so
+    ennobled by such miracle, or was this an illusion or an invention dissimuled of his
+    brethren the friars? And as he thought this, he heard suddenly a sound like as a quarel
+    had been shot out of an arbalaste or a crossbow, and he felt him grievously hurt in his
+    left hand, but there appeared no hurt in his glove, and then he took off his glove, and
+    saw in the palm of his hand a wound as it had been of an arrow, out of which wound there
+    issued so great pain of ache and burning, that almost he died for sorrow and pain. And
+    then he repented him, and said that he believed right verily the signs and tokens of S.
+    Francis; and when he had prayed by two days S. Francis by his holy signs and stigmata, he
+    was anon delivered of his pain and made all whole.</p>
+  <p class="H_body_text">In the realm of Castile there was a man devout to S. Francis which went on a time to
+    compline to the church of S. Francis. And men lay in await for to slay him, and instead of
+    another man he was taken by error and ignorance, and was wounded and left as half dead;
+    and after, the cruel murderer stuck his sword in his throat, and left it therein, and
+    might not draw it out, but went his way. And then men cried and ran hither and thither,
+    and the man was bewailed like as he had been dead. And when they rang to matins at
+    midnight at the church of the friars, the wife of the man began to cry: Arise up, sire,
+    and go to matins, for the bell calleth thee. And anon he lifted up his hand to show that
+    some man should take away the sword from his throat, and anon in the sight of them all the
+    sword sprang out afar as it had been thrown of a strong champion, and anon the man arose
+    perfectly whole, and said that S. Francis came to him and joined his stigmatas to my
+    wounds, and anointed them with the sweetness of his signs and sewed them together
+    marvellously by his touching. And when he would have gone, I showed him that he should
+    take away the sword for else I should not con speak, and anon he took it out, and threw it
+    away far from him, and healed me with touching my throat with his signs.</p>
+  <p class="H_body_text">The two clerks, great luminaries of the world, that is to say S. Dominic and S.
+    Francis, were in the city of Rome tofore the Lord Hostience, which afterward was pope of
+    Rome. And this bishop said to them: Wherefore make ye not of your friars bishops and
+    prelates, which should prevail more by teaching and example giving? And there</p>
+  <p class="H_body_text">was long contention between them who should first answer, and humility overcame Francis
+    that he would not speak tofore that other, and then S. Dominic humbly obeyed and said:
+    Sire, our brethren be lifted up in good degree if they know it, and I shall never suffer
+    to my power that ever they shall hope to have any higher dignity. After that answered S.
+    Francis: Sire, my brethren be called minors, because they would not be made greater. And
+    the blessed S. Francis full of right great simplicity admonished and warned all creatures
+    to love their creator. He preached to birds and was heard of them, they suffered him to
+    touch them, and without licence they would not return ne flee from him. And on a time when
+    he preached, the swallows chittered and sang, and anon by his commandment they were still.
+    There was also, on a time, a bird on a fig-tree beside his cell which sang oft full
+    sweetly. And S. Francis put forth his hand and called that bird, and anon the bird obeyed
+    and came upon his hand. And he said to her, Sing my sister and praise thy Lord, and then
+    anon she sang, and departed not till she had licence.</p>
+  <p class="H_body_text">He spared to touch lights, lamps, and candles, because he would not defile them with
+    his hands. He went honourably upon the stones for the worship of him that was called
+    Stone. He gathered the small worms out of the way because they should not be trodden with
+    the feet of them that passed by. He commanded in winter to give honey unto bees, that they
+    should not perish for hunger. He called all beasts his brethren. He was replenished of
+    marvellous joy for the love of his Creator. He beheld the sun, the moon, and the stars,
+    and summoned them to the love of their Maker. He defended for to make him a great crown,
+    saying: I will that my simple brethren have part in my head.</p>
+  <p class="H_body_text">There was a secular man which saw S. Francis, the servant of God, preaching at S.
+    Severin's, and saw by revelation of God, that S. Francis was stretched on a cross made of
+    two clear swords, of which that one came from his head to his feet, and that other
+    stretched from that one hand to that other, so that he never had seen such a demonstrance.
+    Then he was moved in his heart, and entered into the order, and finished goodly his life.</p>
+  <p class="H_body_text">On a time, as S. Francis was sick on his eyes for continual weeping, his brethren said
+    to him that he should refrain him from weeping, and he answered: The visitation of the
+    light perdurable is not to be put away for the light that we have here with the flies. And
+    when his brethren constrained him to take a medicine for his eyes, and the surgeon held a
+    burning iron in his hand, the blessed Francis said: My brother fire, be thou to me in this
+    hour debonair and curable: I pray to our Lord that made thee, that thou attemper my heat.
+    And then he made the sign of the cross against the fire, and the fiery iron was put in his
+    tender flesh from his ear unto his eyelids, and he felt no pain.</p>
+  <p class="H_body_text">He was strongly sick in the desert of S. Urban, and when he felt that nature failed in
+    him he asked for to drink wine, and there was none. And they brought to him water, and he
+    blessed it and made the sign of the cross thereon, and it was converted and turned into
+    right good wine. And the holy man gat of our Lord that which the poverty of the desert
+    might not get. And as soon as he had tasted it, he became strong and was all whole.</p>
+  <p class="H_body_text">He had liefer hear blame of himself than praising, and for because that the people
+    praised in him anything of merit of holiness, he commanded to some brother to say to him
+    in his ear some villainy in blaming him and defouling. And when such a brother, so
+    constrained against his will, called him villain merchant, and unprofitable fool, then was
+    he glad and blessed him, and said: God bless thee, for thou sayest right very true words,
+    and this thing appertaineth to me for to hear.</p>
+  <p class="H_body_text">And this holy S. Francis would never be more master ne governor, but he would be more
+    subject, ne so willingly command as obey. And therefore he left for to be general, and
+    demanded to be under the warden, to whose will he always submitted himself in all things.
+    He promised always obedience to the friar with whom he went, and kept it.</p>
+  <p class="H_body_text">When a friar had done something against the rule of obedience, and had sign of penance,
+    yet this holy S. Francis, for to fear others, commanded to cast the hood of him into the
+    fire, and when it had been a while in the fire, he commanded to take it out and give it
+    again to the friar, and the hood , was taken out of the fire without hurt.</p>
+  <p class="H_body_text">He went on a time by the morass of Venice and found there a great multitude of birds
+    singing and he said to his fellows: Our sisters, these birds, give laud to their Maker,
+    let us go in the middle of them, and sing we our hours canonical to our Lord. And they
+    entered in among them and they moved not, but because they might not hear each other for
+    the chittering and noise of birds he said: My sister birds, cease your songs till we have
+    yielded unto our Lord due praisings. And then they held them still, and when they had
+    finished their lauds, he gave to them licence to sing again, and anon they reprised their
+    song after their custom.</p>
+  <p class="H_body_text">He was on a time harboured with a knight, and S. Francis said to him: Brother, fair
+    host, agree to that I shall say to thee, confess thy sins, for thou shalt soon eat in
+    another place. And anon he granted that to him, and ordained for his meiny, and took
+    penance of health. And also soon as they went to the table the host died suddenly.</p>
+  <p class="H_body_text">On a time he found a great multitude of birds, and then he said to them: My brethren,
+    ye ought strongly to praise and give laud to your Maker which hath clad you with feathers
+    and hath given to you pens for to fly and hath granted you the purity of the air and
+    governed you without charge or business. And the birds turned their beaks or bills to him
+    and spread their wings, and stretched their necks and addressed their heads and beheld him
+    intently. And he passed forth by the middle of them so nigh that he touched them with his
+    coat, and none of them arose out from his place till he gave to them leave that they flew
+    together.</p>
+  <p class="H_body_text">On a time when he preached at the castle Almarye, and he might not be heard for the
+    swallows which made their nests, to whom he said: My sister swallows, it is time that I
+    speak, for ye have said enough, be ye now still till the word of God be accomplished. And
+    they obeyed and were still anon.</p>
+  <p class="H_body_text">And as this holy man S. Francis passed through Apulia, he found in his way a purse full
+    of money, and when his fellow saw it, they would have taken it for to have given it to the
+    poor people, but he would not suffer him in no manner, and said to him: Son, it
+    appertaineth not to thee to take the goods of others. And when his fellow hasted to take
+    it S. Francis prayed a little, and after, commanded him to take the purse, which then
+    found therein a great adder, instead of money. And when the friar saw that he began to
+    doubt, but he would obey and took the purse in his hands, and there sprang out anon a
+    serpent venomous. And then S. Francis said to him: Money is none other thing to the
+    servant of God but the devil, which is a serpent venomous.</p>
+  <p class="H_body_text">There was a friar grievously tempted, and he began to think that if he had anything
+    written with the hand of their father S. Francis, that that temptation should be chased
+    away anon, but he durst in no wise discover this thing. On a time S. Francis called him
+    and said: Son, bring to me parchment and ink, for I will write something praising to God.
+    And when he had written he said: Take this charter and keep it unto the day of thy death
+    diligently, and anon all his temptation went away. And the same friar, when S. Francis lay
+    sick, began to think: Our Father approacheth the death, and if I might have, after his
+    death, his coat I should be greatly comforted. And after this the saint called him and
+    said: I give to thee this my coat; if thou have thereto, after my death, plain right. He
+    was lodged on a time in Alexandria, in Lombardy, with an honest man, which demanded him,
+    if for the observance of the gospel he should eat of all that which was set tofore him,
+    and he consented to the devotion of the host; and then the host did do make ready a capon
+    of seven years old, and as they ate there came an untrue man which demanded alms for the
+    love of God, and anon when this blessed man heard that blessed name, he sent to him a
+    member of the capon, and the cursed man kept it. And on the morn when the holy man
+    preached, he showed that piece of the capon, and said, Lo! see here what flesh this friar
+    eateth whom ye honour as a saint, for he gave it to me yester even, but this piece of the
+    capon was seen of all the people as it were fish, and that man was blamed of all the
+    people, and said that he was mad, and when he understood it, he was ashamed and demanded
+    pardon; and when this man came again to his good thought, the flesh returned again to his
+    own kind and form.</p>
+  <p class="H_body_text">On a time as he sat at the table, and collation was made of the poverty of the Blessed
+    Virgin our Lady, anon S. Francis arose and began to weep and sob sorrowfully, so that his
+    visage was all wet of tears, and began to eat the remnant of his bread upon the ground. He
+    would also that right great reverence should be done to the hands of priests, to whom was
+    given power to sacre the blessed sacrament of our Lord. And then he said oft: If it happed
+    me to meet any saint coming from heaven, and also a poor priest, I would first go kiss the
+    priest's hands, and would say to the saint: Holy saint, abide a while, for the hands of
+    this priest have handled the son of life, and hath performed a thing above humanity. He
+    was ennobled in his life by many miracles, for the bread that was brought to him to bless
+    gave health to many sick men. He converted the water into wine, of which a sick man anon
+    tasted and received anon health, and also did many other miracles. And when his last days
+    approached, and he was grieved by long infirmity; then he made himself to be laid upon the
+    bare ground, and did do call all the friars that were there, and when they were all
+    present he blessed them. And like as our Lord fed his disciples at supper on
+    Shere-thursday, he gave to each of them a morsel of bread, and warned them, as he was wont
+    to do, to give laud to their Maker. And the very death which is to all men horrible and
+    hateful, he admonished them to praise it, and also he warned and admonished death to come
+    to him, and said: Death, my sister, welcome be thou; and when he came at the last hour, he
+    slept in our Lord. Of whom a friar saw the soul in the manner of a star, like to the moon
+    in quantity, and to the sun in clearness.</p>
+  <p class="H_body_text">There was a friar named Augustin, which was minister and servant in the labour of the
+    earth, and as he was in his last end, and had lost his speech, he escried suddenly and
+    said: Abide me, father, abide, I shall go with thee. Then the friars demanded him what he
+    said, and he said: See ye not our father Francis that goeth unto heaven, and anon he slept
+    in peace, and followed his holy father. A lady which had been devout to the blessed
+    Francis died, and the clerks and priests were at the bier for to sing the exequies of her.
+    She arose up suddenly off the bier, and called one of the priests that were there and
+    said: Father, I would confess me; I was dead, and should have been put in a cruel prison,
+    because I had not shriven me of a sin that I shall say, but S. Francis prayed for me, that
+    this confessed and showed I shall have forgiveness, and anon as I shall have said and
+    confessed it to thee I shall rest in peace tofore you all. And then she was confessed and
+    assoiled, and rested anon in our Lord.</p>
+  <p class="H_body_text">The friars of Viterbo would have borrowed a cart of a man, and he answered in despite:
+    I had liefer see two of you flayed with S. Francis than I should lend you my cart, but he
+    came again to himself and reproved himself, and repented him of the blame that he had
+    said, and doubted the ire of God. And anon his son was sick and died, and when he saw his
+    son dead he slept on the earth weeping, and called S. Francis and said: I am he that
+    sinned, thou shouldest have beaten me, give again to me, holy saint, praying devoutly to
+    thee, whom thou hast taken away from me, blaming thee and blaspheming wickedly. And anon
+    his son revived and said: When I was dead S. Francis led me by a long way and dark, and at
+    the last he brought me unto a right fair green, and after said to me: Return to thy
+    father, I will no longer hold thee. There was a poor man which owed unto a certain rich
+    man a quantity of money, and prayed him, for the love of S. Francis, he would prolong the
+    term of payment. To whom he answered proudly: I shall set thee in such a place that
+    neither Francis ne none other shall help thee. And anon he took and bound him, and set him
+    in a dark prison, and anon after, S. Francis came thither and brake up the prison, and
+    loosed his bonds and brought the man all safely to his own house. There was a knight which
+    detracted the works and miracles of S. Francis, and on a time as he played at the dice, he
+    being all enraged, and full of woodness and cruelness, said to them that stood by him: lf
+    S. Francis be a saint, let come eighteen on the dice, and anon came in three dice in each
+    of them six, and so it appeared nine times, at every time three sixes at each cast, and
+    then he adjousting woodness to woodness, he said: If it be true that Francis be a saint,
+    let a sword rive me through my body this day, and if he be no saint, that it escape
+    safely. And when the playing at dice was ended, because he had made that prayer in sin, he
+    said injury to his nephew, and he took his sword and stack it through his belly and slew
+    him anon. </p>
+  <p class="H_body_text">There was a man that had lost his thigh that he could not move it, and cried to S.
+    Francis thus, saying: Help me, S. Francis, remember thee of the devotion and of the
+    service that I have done to thee, for I carried thee upon mine ass, and kissed thy feet,
+    and thy hands, and now I die for pain of this right hard torment. Then the holy man
+    appeared to him with a little staff that he held, which had the sign of Thau, and touched
+    therewith the place of his pain, and the postume brake, and he received anon full health,
+    but the sign of Thau abode alway in the same place. With that sign S. Francis was wont
+    always to sign his letters.</p>
+  <p class="H_body_text">There was a maid which dwelled in the mountains of Apulia in a castle, and her father
+    and mother ne had but only this daughter, and she died, and her mother was much devout
+    toward S. Francis, but then she was full of heaviness, and S. Francis appeared to her and
+    said: Weep no more, for the light of thy lantern is quenched, and it appertaineth not that
+    I yield her again to thee by thy prayer. But yet the mother had affiance and trust in the
+    saint, and would not suffer to bear away the body, but in calling S. Francis, she took her
+    daughter that was dead and raised her up alive and whole. There was a little child in Rome
+    fallen out of a window to the ground and died forthwith, and they called to S. Francis for
+    help, and he was anon restored to life. In the city of Suessa, it happed that a house fell
+    and slew a child, and when they had put the corpse in a chest for to bury, the mother
+    called on S. Francis with all her devotion, and about midnight the child coughed and arose
+    all whole, and began to praise God.</p>
+  <p class="H_body_text">Friar James of Reaten had passed a flood in a vessel with other friars which were set
+    aland, and he hasted so sore after to go out because he was last, and the ship recoiled
+    backward into the water, so that he fell down into the deepest of the flood, and then all
+    the friars prayed S. Francis for him, and he himself, as he might, with like devotion,
+    called the holy saint unto his aid and help, in his heart, and that same friar began to go
+    in the bottom of the water, as dry as he had gone on the earth, and caught the boat, which
+    was drowned, and brought it to the bank, and came up without wetting of his clothes that
+    he ware, ne never drop of water touched his coat ne wet nothing on him. Then let us
+    devoutly pray this holy father, S. Francis, to be our succour and aid in our adversities
+    and perils, and help, that by his merits we may after this short life come into
+    everlasting life in heaven. Amen.</p>
+  <span class="H_body_text">
+  </blockquote>
+  </span>
+  <hr />
+<blockquote>
+  <p class="H_body_text">Source.</p>
+  <p class="H_body_text">The Golden Legend or Lives of the Saints. Compiled by Jacobus de Voragine,
+    Archbishop of Genoa, 1275.&nbsp; First Edition Published 1470. Englished by William
+    Caxton, First Edition 1483, Edited by F.S. Ellis, Temple Classics, 1900 (Reprinted 1922,
+    1931.) </p>
+  <p class="H_body_text">This chapter is from: Volume 5: </p>
+  <p class="H_body_text">Scanned by Robert Blackmon. <a href="/cdn-cgi/l/email-protection#ceaca1ac91aca2afada5a3a1a08ea3a7a0aabdbebca7a0a9e0ada1a3"><span class="__cf_email__" data-cfemail="a3c1ccc1fcc1cfc2c0c8cecccde3cecacdc7d0d3d1cacdc48dc0ccce">[email&#160;protected]</span></a>.</p>
+</blockquote>
+<hr />
+<blockquote>
+  <p class="H_body_text">This text is part of the <a href="/halsall/sbook.asp">Internet
+    Medieval Source Book</a>. The Sourcebook is a collection of public domain and
+    copy-permitted texts related to medieval and Byzantine history. </p>
+  <p class="H_body_text">Unless otherwise indicated the specific electronic form of the document is copyright.
+    Permission is granted for electronic copying, distribution in print form for educational
+    purposes and personal use. If you do reduplicate the document, indicate the source. No
+    permission is granted for commercial use. </p>
+  <p class="H_body_text">© Paul Halsall, September 2000 <br />
+      <a href="/cdn-cgi/l/email-protection#8be3eae7f8eae7e7cbede4f9efe3eae6a5eeeffeb4f8fee9e1eee8ffb6c6eeefe2eefdeae7abd8e4fef9e8eee9e4e4e0abcfe4e8fee6eee5ff"><span class="__cf_email__" data-cfemail="e68e878a95878a8aa6808994828e878bc8838293">[email&#160;protected]</span></a> </p>
+</blockquote>
+<hr/>
+<blockquote>
+<p><span class="H_body_text">The <i>Internet Medieval Sourcebook</i> is part of the <em><a href="index.asp">Internet History Sourcebooks Project</a></em></span>. <span class="H_body_text">The Internet History Sourcebooks Project is located at the <a
+      href="https://www.fordham.edu/history/">History Department</a> of&nbsp; <a
+      href="http://www.fordham.edu">Fordham University</a>, New York. The Internet
+     Medieval Sourcebook, and other medieval components of the project, are located at
+     the <a href="https://www.fordham.edu/mvst">Fordham University Center
+       for Medieval Studies</a>.The IHSP recognizes the contribution of Fordham University, the
+     Fordham University History Department, and the Fordham Center for Medieval Studies in
+     providing web space and server support for the project. The IHSP is a project independent of Fordham University. &nbsp;
+     Although the IHSP seeks to follow all applicable copyright law, Fordham University is not
+     the institutional owner, and is not liable as the result of any legal action.</span><br />
+  <br />
+  <span class="H_body_text"><i>
+    </i>&copy;</span> <span class="H_body_text">Site Concept and Design: <a href="/cdn-cgi/l/email-protection#5c35342f2c1c3a332e38343d3172393829632f293e36393f28610f33292e3f393e3333372f7c0c2e3336393f28">Paul Halsall</a></span> <span class="H_body_text"></span><span class="H_body_text"> created 26 Jan 1996: latest revision 26 October 2026  </span> <span class="H_body_text"> [<a href="../cv.asp">CV</a>] </span></p>
+</td>
+      </tr>
+    </table>
+</td>
+  </tr>
+</table>
+</blockquote>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="module" src="https://static.cloudflareinsights.com/beacon.min.js/vce701823e78c4301a35b7e07294d87301792088814092" integrity="sha512-UKNk8GbxkABxKcXYuLkO16EleLGUkcvJWtpSNmExE0Too3ZaFAxTscNWEc1OdAv5/BikHawapSCaiD2XCmp+Bw==" data-cf-beacon='{"version":"2024.11.0","token":"cfcc7c7d450243529059713f279d02c0","spa":2}' crossorigin="anonymous"></script>
+</body>
+</html>

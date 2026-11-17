@@ -1,0 +1,331 @@
+{
+  "texts": [
+    {
+      "id": "celtic-feast-quarrel-berach-slain",
+      "title": {
+        "en": "The Quarrel at Almhuin and the Slain of Berach Brec",
+        "zh": "艾倫山之爭與貝拉赫之死"
+      },
+      "tradition": "celtic",
+      "category": "myth-religion",
+      "region": {
+        "en": "Almhuin (Hill of Allen), Co. Kildare, Ireland",
+        "zh": "愛爾蘭基爾代爾郡艾倫山"
+      },
+      "lat": 53.04,
+      "lon": -6.63,
+      "period": "Fenian cycle, medieval Irish tradition; Lady Augusta Gregory retelling (1904)",
+      "source": {
+        "archive": "Project Gutenberg",
+        "work": "Lady Augusta Gregory, Gods and Fighting Men (1904), Book IX, ch. I, eBook #14465",
+        "url": "https://www.gutenberg.org/ebooks/14465.txt.utf-8"
+      },
+      "license": "Public domain (Gregory 1904)",
+      "summary": {
+        "en": "At Finn's feast in Almhuin, Goll's hand-tribute from the men of Lochlann stirs the old quarrel with the sons of Morna; blows begin between Cairell and Conan and spread through the whole hall until the poets' songs put the weapons on the floor and bonds of peace on Finn and Goll. The feud breaks out again at the dividing of a pig of Manannan's: Berach Brec, the yellow-haired queen Finn loved, is speared by Art son of Morna on the strand; the hound Conbeg is drowned; and nine women of the Tuatha de Danaan are slain on their way to meet nine men of the Fianna.",
+        "zh": "艾倫山宴上，戈爾自洛赫蘭人收取的「手貢」重燃與莫爾納諸子的宿怨；凱瑞爾與科南鬥毆擴及全廳，詩人之歌使兵刃落地，芬恩與戈爾立誓暫和。然曼南之豬分配爭執再啟戰端：芬恩所愛的金髮王后貝拉赫·布里克遭莫爾納之子阿特矛殺於海灘；忠犬康貝格被溺斃；九位神族女子赴會途中亦遭殺害。"
+      },
+      "motifs": [
+        "taboo-transgression",
+        "sacred-kingship",
+        "trickster"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "The poets-as-peacemakers scene is the fixed image of filid authority (bonding kings and champions); the killing of Berach and the women en route to meet the Fianna are transgression-motifs marking the feud's guilt-load before Goll's death. Pin is Almhuin."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "It was not long after that Finn gave a feast at Almhuin for all his chief men, and Fergus of the True Lips rose up and sang before Finn the songs and the good poems of his forefathers; and then he went on to Goll, son of Morna, and told the fights and the destructions and the courtings of his fathers, and it is well-pleased and high-minded the sons of Morna were, listening to that. And Goll said then: \"Where is my woman-messenger?\" and with that she laid on the floor of the hall before Goll a load of pure gold, the size of a good pig.",
+          "note": "Condensed paraphrase of Gregory 1904, Book IX, ch. I; not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "\"How long is it, Goll, you have this rent on the men of Lochlann, and my own rent being on them always with it?\" And Goll saw there was anger on Finn, and told how Cumhal had banished the sons of Morna and put him out of country after country, till he came back and fought a battle against Finn's father, and he fell by him there. \"By your own hand, if you were to give me the same treatment your father gave me, I would pay you the same way as I paid him.\"",
+          "note": "Condensed paraphrase of Gregory 1904, Book IX, ch. I; not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "Then Cairell of the White Skin, son of Finn, gave a furious blow of his fist to Conan, and Conan gave him back a blow in his teeth, and it was not long till many of the chief men of the Fianna were fighting on the side of Finn or on the side of the sons of Morna. But then Fergus of the True Lips rose up, and the rest of the poets of the Fianna along with him, and they sang their songs and their poems to check and to quiet them; and they left off their fighting at the sound of the poets' songs, and let their weapons fall on the floor, and the poets took them up, and put bonds on Finn and on Goll to keep the peace for a while. But it broke out again, one time there was a falling out between Finn and Goll as to the dividing of a pig of the pigs of Manannan, and fifteen of the sons of Morna were killed at Daire Tardha.",
+          "note": "Condensed paraphrase of Gregory 1904, Book IX, ch. I; not verbatim."
+        },
+        {
+          "id": "4",
+          "text": "They kept to their word and spared no one: there was a yellow-haired queen that Finn loved, Berach Brec her name was, that had her house full of treasures and never refused the asking of any; and the sons of Morna bade her give up Finn, and she said she would not give up her kind lover to please them, and Art, son of Morna, made a cast of his spear that went through her body, that she died. And Goll took a little hound that Finn thought a great deal of, Conbeg its name was, and he drowned it in the sea; and about that time, nine women of the Tuatha de Danaan came to meet with nine men of the Fianna, and the sons of Morna saw them coming and made an end of them.",
+          "note": "Condensed paraphrase of Gregory 1904, Book IX, ch. I; not verbatim."
+        }
+      ]
+    },
+    {
+      "id": "celtic-goll-death-sea-rocks",
+      "title": {
+        "en": "The Death of Goll on the Sea Rocks",
+        "zh": "海岩上的戈爾之死"
+      },
+      "tradition": "celtic",
+      "category": "myth-religion",
+      "region": {
+        "en": "Sea-cave point, west coast of Ireland (symbolic pin)",
+        "zh": "愛爾蘭西海岸海岬岩洞（象徵定位）"
+      },
+      "lat": 53.2,
+      "lon": -9.6,
+      "period": "Fenian cycle, medieval Irish tradition; Lady Augusta Gregory retelling (1904)",
+      "source": {
+        "archive": "Project Gutenberg",
+        "work": "Lady Augusta Gregory, Gods and Fighting Men (1904), Book IX, ch. II, eBook #14465",
+        "url": "https://www.gutenberg.org/ebooks/14465.txt.utf-8"
+      },
+      "license": "Public domain (Gregory 1904)",
+      "summary": {
+        "en": "Goll kills Cairell son of Finn in the sea at the strand and withdraws to a cave in a point of rock. Finn watches every path and gap; Osgar comes as a friend and Goll's cast crushes his shield, hardening Finn's anger. Goll's wife calls him over the water — she will nurse him from her own breast — but he refuses: he never took the advice of a woman east or west, bids her remember her seven hounds and her former lover, and lies down on the rocks, dying at the end of twelve days.",
+        "zh": "戈爾於海灘誅芬恩之子凱瑞爾，退隱海岬岩洞。芬恩遣人封鎖每條通路；奧斯加前來示好，戈爾一矛擊碎其盾，更激芬恩之怒。其妻隔水相喚——願以自己的乳哺他——他卻拒絕：「我東西四海從不聽女子之言」，囑她記起七隻獵犬與舊情人，臥於岩石之上，十二日後死去。"
+      },
+      "motifs": [
+        "taboo-transgression",
+        "divine-marriage",
+        "boon-curse",
+        "wise-advice"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Goll's refusal of rescue through pride ('I never took the advice of a woman') is the fixed heroic-death-by-decline motif; the wife's breast-nursing offer inverts the mother-goddess pattern. Symbolic pin at the cave-point tradition."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "And at last it chanced that Goll and Cairell, son of Finn, met with one another, and said sharp words, and they fought in the sea near the strand, and Cairell got his death by Goll. And there was great anger and great grief on Finn, seeing his son, that was so strong and comely, lying dead and grey, like a blighted branch. As to Goll, he went away to a cave that was in a point stretching out into the sea, and Osgar knew where he was, and he went to see him, that had been his comrade in so many battles; but Goll thought it was as an enemy he came, and he made a cast of his spear at him that struck his shield and crushed it. And Finn bade his men watch every path and every gap that led to the cave the way they would make an end of him; and Goll stopped where he was, without food, without drink, blinded with the sand that was blowing into his eyes.",
+          "note": "Condensed paraphrase of Gregory 1904, Book IX, ch. II; not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "His wife came to a rock where she could speak with him: \"Come over to me, and it is a pity you to be blinded where you are, on the rocks of the waste sea, with no drink but the salt water, a man that was first in every fight. And in place of the hard sea-water I will nourish you from my own breast, and it is I will do your healing. And the gold of your hair is my desire for ever.\" But Goll would not leave the spot where he was for all she could say: \"It is best as it is, and I never took the advice of a woman east or west, and I never will take it.",
+          "note": "Condensed paraphrase of Gregory 1904, Book IX, ch. II; not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "And remember now your silver and your gold, and your silks and stuffs, and remember the seven hounds I gave you at Cruadh Ceirrge; and do not be crying tears after me, but remember your constant lover, Aodh, the son of the best woman of the world, that came out from Spain asking for you, and go to him now, for it is bad when a woman is in want of a good man.\" And he lay down on the rocks, and at the end of twelve days he died. And his wife keened him there, and made a great lamentation for her husband that had such a great name, and that was the second best of the Fianna of Ireland.",
+          "note": "Condensed paraphrase of Gregory 1904, Book IX, ch. II; not verbatim."
+        }
+      ]
+    },
+    {
+      "id": "celtic-gabhra-battle-osgar-fall",
+      "title": {
+        "en": "The Battle of Gabhra and the Death of Osgar",
+        "zh": "加布拉之戰與奧斯加之死"
+      },
+      "tradition": "celtic",
+      "category": "myth-religion",
+      "region": {
+        "en": "Hill of Gabhra, Co. Dublin, Ireland (symbolic pin)",
+        "zh": "愛爾蘭都柏林郡加布拉丘（象徵定位）"
+      },
+      "lat": 53.4,
+      "lon": -6.4,
+      "period": "Fenian cycle, medieval Irish tradition; Lady Augusta Gregory retelling (1904)",
+      "source": {
+        "archive": "Project Gutenberg",
+        "work": "Lady Augusta Gregory, Gods and Fighting Men (1904), Book IX, ch. III, eBook #14465",
+        "url": "https://www.gutenberg.org/ebooks/14465.txt.utf-8"
+      },
+      "license": "Public domain (Gregory 1904)",
+      "summary": {
+        "en": "The High King turns against the Fianna, and Osgar rides to his feast with three hundred men; a woman of the Sidhe washing blood-red clothes foretells nine hundred falling by him and the king's death-wound. The demand for Osgar's spear of nine spells breaks the peace, and at Gabhra — twenty men against one — Osgar kills his hundreds, sends the spear of seven spells through his own body, and answers it with his spear into the meeting of the king's hair and beard. He falls like a king; the whole rath at Gabhra is his grave, and Finn never shed a tear in all his lifetime but for Osgar and for Bran.",
+        "zh": "至高王倒向敵視菲亞納，奧斯加率三百人赴宴；河邊浣洗血衣的仙姝預言：九百人將亡於其手，王亦受其致命傷。索劍之爭破裂，加布拉丘上——二十敵一——奧斯加連誅數百，身中七咒之矛，反手將九咒之矛送入王者鬚髮之間。如王者般倒下；加布拉全丘盡為其墓——芬恩一生只為奧斯加與布蘭流過淚。"
+      },
+      "motifs": [
+        "prophetic-vision",
+        "sacred-kingship",
+        "world-renewal",
+        "king-sacrifice"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Gabhra is the Fenian eschaton — the wearing-away of the Fianna before the coming of the saints; the washing-woman omen parallels the washing-bean-sidhe omen-complex of later folklore. Finn's two tears (Osgar, Bran) is a famous character-note. Pin symbolic at the traditional site."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The High King of Ireland had got to be someway bitter against Finn and the Fianna, and he spoke out to his people: \"I would sooner die fighting the Fianna, if I could bring them down along with me, than live with Ireland under them the way it is now.\" And when all was ready he sent and bade Osgar to come to a feast he was making at Teamhair. And Osgar set out for Teamhair, and three hundred of his men with him; and on the way they saw a woman of the Sidhe washing clothes at a river, and there was the colour of blood on the water where she was washing them. \"There is red on the clothes you are washing; and it is for the dead you are washing them.\" \"It is not long till the ravens will be croaking over your own head after the battle. There will nine hundred fall by yourself, and the High King himself will get his death-wound from you.\"",
+          "note": "Condensed paraphrase of Gregory 1904, Book IX, ch. III; not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "On the last day of the drinking the High King called out with a loud voice, and asked Osgar would he make an exchange of spears with him. \"It is not right for you to ask my spear.\" \"I will put my spear of the seven spells out through your body.\" \"And I give my word against that, I will put my spear of the nine spells between the meeting of your hair and your beard.\" It was at the hill of Gabhra the two armies met, and there were twenty men with the King of Ireland for every man that was with Finn. As to Osgar, he killed five score of the Sons of the Gael, and five score fighting men from the Country of Snow, and seven score of the Men of Green Swords, and four hundred from the Country of the Lion, and five score of the sons of kings.",
+          "note": "Condensed paraphrase of Gregory 1904, Book IX, ch. III; not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "But when he saw the High King near him, he made for him like a wave breaking on the strand; and the king made a cast of his greedy spear, and it went through his body and brought him down on his right knee; but Osgar made a cast of his spear of the nine spells that went into the High King at the meeting of the hair and the beard, and gave him his death. And Osgar lifted a thin bit of a slab-stone and made a cast of it that broke the king's helmet where it was hung on a pillar, and then he himself fell like a king.",
+          "note": "Condensed paraphrase of Gregory 1904, Book IX, ch. III; not verbatim."
+        },
+        {
+          "id": "4",
+          "text": "Oisin went looking for Osgar, and it is the way he found him, lying stretched, resting on his left arm and his broken shield beside him, and his sword in his hand yet. \"It is glad I am to see you safe, my father.\" And Caoilte searched the wound, and when he saw how the spear had torn its way through to the back he cried out: \"O Osgar, you are parted from the Fianna, and they themselves must be parted from battle from this out, and they must pay their tribute to the King of Ireland.\" When Osgar saw Finn coming he saluted him and said: \"I have got my desire in death, Finn of the sharp arms.\" \"Child of my child, calf of my calf, white and slender, it is a pity the way you are. And my heart is starting like a deer, and I am weak after you and after the Fianna of Ireland. And farewell now to battles and to a great name, and farewell to taking tributes; for every good thing I ever had is gone from me now.\" And when Osgar heard those words he stretched out his hands, and his eyelids closed. And Finn turned away from the rest, and he cried tears down; and he never shed a tear through the whole length of his lifetime but only for Osgar and for Bran. And the whole length of the rath at Gabhra, from end to end, it is that was the grave of Osgar, son of Oisin, son of Finn.",
+          "note": "Condensed paraphrase of Gregory 1904, Book IX, ch. III; not verbatim."
+        }
+      ]
+    },
+    {
+      "id": "celtic-bran-fawn-knee-death",
+      "title": {
+        "en": "The Fawn That Passed under Finn's Knees",
+        "zh": "自芬恩膝下穿過的母鹿"
+      },
+      "tradition": "celtic",
+      "category": "myth-religion",
+      "region": {
+        "en": "Almhuin hunting-ground, Co. Kildare, Ireland",
+        "zh": "愛爾蘭基爾代爾郡艾倫山獵場"
+      },
+      "lat": 53.04,
+      "lon": -6.63,
+      "period": "Fenian cycle, medieval Irish tradition; Lady Augusta Gregory retelling (1904)",
+      "source": {
+        "archive": "Project Gutenberg",
+        "work": "Lady Augusta Gregory, Gods and Fighting Men (1904), Book X, ch. I, eBook #14465",
+        "url": "https://www.gutenberg.org/ebooks/14465.txt.utf-8"
+      },
+      "license": "Public domain (Gregory 1904)",
+      "summary": {
+        "en": "Hunting one day, Finn and Bran follow a fawn that speaks: if she goes into the sea she will never come back, but no air will save her from Bran, who could overtake the wild geese. \"Go out through my legs,\" says Finn — and as Bran goes under him he squeezes his two knees on her, and she dies on the moment. Some say the fawn was Oisin's mother; Finn grieves as he did for Osgar, and some say Bran and Sceolan are still seen to start at night out of the thicket on the hill of Almhuin.",
+        "zh": "獵之日，芬恩與布蘭追趕一頭能言的母鹿：「若入海我永不回返；然上天亦難逃布蘭——她連野雁也能追上。」「從我腿間穿過吧。」布蘭掠過芬恩膝下之際，他雙膝一夾，母鹿當場斃命。有人說那母鹿正是歐辛之母；芬恩哀慟如失奧斯加——而人們說，至今夜裡仍見布蘭與斯克奧蘭自艾倫山樹叢間驚躍而出。"
+      },
+      "motifs": [
+        "transformation",
+        "taboo-transgression",
+        "boon-curse"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "The speaking fawn and the knee-death repeat the Donn-Steward killing pattern (birth chapter of Diarmuid), closing the circle of knee-killings in the cycle; the apparition of the hounds is an attested modern folk-belief at the Hill of Allen. Pin Almhuin."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "One day Finn was hunting, and Bran went following after a fawn. And they were coming towards Finn, and the fawn called out, and it said: \"If I go into the sea below I will never come back again; and if I go up into the air above me, it will not save me from Bran.\" For Bran would overtake the wild geese, she was that swift. \"Go out through my legs,\" said Finn then. So the fawn did that, and Bran followed her; and as Bran went under him, Finn squeezed his two knees on her, that she died on the moment.",
+          "note": "Condensed paraphrase of Gregory 1904, Book X, ch. I; not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "And there was great grief on him after that, and he cried tears down the same as he did when Osgar died. And some said it was Finn's mother the fawn was, and that it was to save his mother he killed Bran; but that is not likely, for his mother was beautiful Muirne, daughter of Tadg, son of Nuada of the Tuatha de Danaan, and it was never heard that she was changed into a fawn; it is more likely it was Oisin's mother was in it. But some say Bran and Sceolan are still seen to start at night out of the thicket on the hill of Almhuin.",
+          "note": "Condensed paraphrase of Gregory 1904, Book X, ch. I; not verbatim."
+        }
+      ]
+    },
+    {
+      "id": "celtic-niamh-golden-head-call",
+      "title": {
+        "en": "Niamh of the Golden Head Calls Oisin",
+        "zh": "金髮妮芙召喚歐辛"
+      },
+      "tradition": "celtic",
+      "category": "myth-religion",
+      "region": {
+        "en": "Borders of Loch Lein, Co. Kerry, Ireland",
+        "zh": "愛爾蘭克里郡利恩湖畔"
+      },
+      "lat": 52.15,
+      "lon": -9.5,
+      "period": "Fenian cycle, medieval Irish tradition; Lady Augusta Gregory retelling (1904)",
+      "source": {
+        "archive": "Project Gutenberg",
+        "work": "Lady Augusta Gregory, Gods and Fighting Men (1904), Book X, ch. II, eBook #14465",
+        "url": "https://www.gutenberg.org/ebooks/14465.txt.utf-8"
+      },
+      "license": "Public domain (Gregory 1904)",
+      "summary": {
+        "en": "After the wearing-away of the Fianna, a queen rides out of the west on a white horse shod with gold and crowned with silver: Niamh of the Golden Head, daughter of the King of the Country of the Young, who has given her love to Oisin for his great name. She puts the bonds of a true hero on him and sings her promise — a hundred swords, a hundred hounds, the crown of the King of the Young, feasts and youth without wasting — and Oisin kisses Finn farewell; at the strand the horse shakes itself and neighs three times and makes for the sea, and Finn says he is without hope ever to see him coming back.",
+        "zh": "菲亞納凋零之後，一位王后自西方乘金蹄白馬而來——青春國王之女、金髮妮芙，因歐辛的大名而屬意於他。她以英雄之誓縛他同行，唱出許諾——百劍百犬、青春國王之王冠、盛宴與不老之身——歐辛吻別父親；海灘上白馬三度長嘶，徑直入海。芬恩言：自此再無相見之望。"
+      },
+      "motifs": [
+        "otherworld-voyage",
+        "divine-marriage",
+        "quest-immortality",
+        "threefold"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "The fairy-bride calling at Loch Lein is the frame of the Oisin cycle (existing record celtic-oisin-tir-na-nog covers the return; this is the call). The white horse that never touches ground is the otherworld-vehicle rule later enforced at the stone trough. Pin at Loch Lein borders."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "One misty morning, what were left of the Fianna were gathered together to Finn, and they went hunting near the borders of Loch Lein, where the bushes were in blossom and the birds were singing. And it was not long till they saw coming towards them from the west a beautiful young woman, riding on a very fast slender white horse: a queen's crown she had on her head, and a dark cloak of silk down to the ground, having stars of red gold on it; and her eyes were blue and as clear as the dew on the grass, and her lips as sweet as honey that is mixed through red wine; and as to the horse, he had a silver crown on the back of his head, and he was shod with shining gold.",
+          "note": "Condensed paraphrase of Gregory 1904, Book X, ch. II; not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "\"Niamh of the Golden Head is my name, and I am the daughter of the King of the Country of the Young. My husband is not gone from me, for I never went yet to any man. But O King of the Fianna, I have given my love and my affection to your own son, Oisin of the strong hands.\" When Oisin heard what she was saying, there was not a limb of his body that was not in love with beautiful Niamh.",
+          "note": "Condensed paraphrase of Gregory 1904, Book X, ch. II; not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "\"I put on you the bonds of a true hero, you to come away with me now to the Country of the Young: it is the country is most delightful of all that are under the sun; the trees are stooping down with fruit and with leaves and with blossom; honey and wine are plentiful there, and no wasting will come on you with the wasting away of time; you will never see death or lessening... you will get the royal crown of the King of the Young that he never gave to any one under the sun.\" And Oisin kissed Finn his father and bade him farewell, and went up on the horse with Niamh; and when the horse came to the strand he shook himself and he neighed three times, and then he made for the sea. \"It is my grief to see you going from me; and I am without a hope ever to see you coming back to me again.\"",
+          "note": "Condensed paraphrase of Gregory 1904, Book X, ch. II; not verbatim."
+        }
+      ]
+    },
+    {
+      "id": "celtic-fianna-sleeping-dord-fiann",
+      "title": {
+        "en": "The Sleeping Fianna and the Dord Fiann",
+        "zh": "沉睡的菲亞納與菲亞納號角"
+      },
+      "tradition": "celtic",
+      "category": "myth-religion",
+      "region": {
+        "en": "Hidden cave, Ireland (symbolic pin)",
+        "zh": "愛爾蘭隱秘山洞（象徵定位）"
+      },
+      "lat": 53.3,
+      "lon": -8.5,
+      "period": "Fenian cycle eschatology, medieval Irish tradition; Lady Augusta Gregory retelling (1904)",
+      "source": {
+        "archive": "Project Gutenberg",
+        "work": "Lady Augusta Gregory, Gods and Fighting Men (1904), Book X, ch. III, eBook #14465",
+        "url": "https://www.gutenberg.org/ebooks/14465.txt.utf-8"
+      },
+      "license": "Public domain (Gregory 1904)",
+      "summary": {
+        "en": "The last of the Fianna wear away: Caoilte's winter lament of the stag and the wolves, his shining rescue of a king lost in a dark wood — \"I am your candlestick; I was with Finn one time\" — and three times nine of the rest who come to Tara, find themselves unheeded in their lost strength, lie down and put their lips to the earth and die; Loch Dearg lies under mists for three days and a month and a year. But a smith finds a cave of the great men sleeping, blows the Dord Fiann twice, and flees — \"You left us worse than you found us\" — and some say the day will come when it is sounded three times and the Fianna rise as strong as ever.",
+        "zh": "最後的菲亞納相繼凋零：卡爾特於冬雪中詠雄鹿與狼嗥之嘆；化為火焰般的巨人為迷路的國王引路——「我是你的燭台，我曾追隨芬恩」；三九殘部至塔拉，見無人理會衰朽的自己，伏地而亡；德爾格湖籠罩霧靄三日又一月又一年。然而一名鐵匠誤入沉睡巨人的洞窟，兩次吹響菲亞納號角——「你使我們比你發現我們時更糟」——傳說三次號角響起之日，菲亞納將如往昔般甦醒。"
+      },
+      "motifs": [
+        "world-renewal",
+        "prophetic-vision",
+        "sacred-place",
+        "resurrection",
+        "threefold"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "The sleeping-warrior expectation (Rot und die Fianna under hill until the horn sounds) is the Celtic sleeping-army eschaton — tagged 'resurrection' + 'world-renewal' for the promised rising; Caoilte as candlestick-guider parallels the later Finn-as-hero-reborn belief. Symbolic pin."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "And indeed that was the last time Finn and Oisin and the rest of the Fianna of Ireland were gathered together; for they all wore away after that, one after another. As to Caoilte, that was old and had lost his sons, he used to be fretting and lonesome after the old times, and one day that there was very heavy snow on the ground he made this complaint: \"It is cold the winter is; the wind is risen; the fierce high-couraged stag rises up; it is cold the whole mountain is to-night, yet the fierce stag is calling. I, Caoilte, and brown-haired Diarmuid and pleasant light-footed Osgar, we used to be listening to the music of the wolves through the end of the cold night. To-day I am in my age, and I know but a few men; I used to shake my spear bravely in the ice-cold morning.\"",
+          "note": "Condensed paraphrase of Gregory 1904, Book X, ch. III; not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "But a long time after that again, there was a king of Ireland making a journey, and he and his people missed their way in a dark wood; and there came to them a very tall man, that was shining like a burning flame, and he took hold of the bridle of the king's horse and led him through the wood till they came to the right road. \"I am your candlestick; and I was with Finn one time.\" And three times nine of the rest of the Fianna came out of the west one time to Teamhair, and they took notice that now they were wanting their full strength and their great name, no one took notice of them or came to speak with them at all; and when they saw that, they lay down on the side of the hill at Teamhair, and put their lips to the earth and died. And for three days and a month and a year from the time of the destruction of the Fianna of Ireland, Loch Dearg was under mists.",
+          "note": "Condensed paraphrase of Gregory 1904, Book X, ch. III; not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "One time a smith made his way into a cave he saw, that had a door to it, and he made a key that opened it; and when he went in he saw a very wide place, and very big men lying on the floor, and one that was bigger than the rest lying in the middle, and the Dord Fiann beside him, and he knew it was Finn and the Fianna were in it. He took hold of the Dord Fiann, and it is hardly he could lift it to his mouth, and he blew a very strong blast on it, and the big men lying on the ground shook from head to foot; he gave another blast, and they all turned on their elbows.",
+          "note": "Condensed paraphrase of Gregory 1904, Book X, ch. III; not verbatim."
+        },
+        {
+          "id": "4",
+          "text": "And great dread came on him, and he threw down the Dord Fiann and ran from the cave and locked the door after him and threw the key into the lake, and he heard them crying after him, \"You left us worse than you found us.\" And some say the day will come when the Dord Fiann will be sounded three times, and that at the sound of it the Fianna will rise up as strong and as well as ever they were.",
+          "note": "Condensed paraphrase of Gregory 1904, Book X, ch. III; not verbatim."
+        }
+      ]
+    }
+  ]
+}

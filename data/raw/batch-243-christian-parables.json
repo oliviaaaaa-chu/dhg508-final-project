@@ -1,0 +1,437 @@
+{
+ "texts": [
+  {
+   "id": "christian-parable-sower",
+   "title": {
+    "en": "The Sower and the Four Soils",
+    "zh": "撒種的比喻與四種土"
+   },
+   "tradition": "christian",
+   "category": "religious",
+   "region": {
+    "en": "Seaside, teaching from a ship",
+    "zh": "海邊，船上施教"
+   },
+   "lat": 32.82,
+   "lon": 35.59,
+   "period": "Gospel of Mark, c. 65-75 CE (KJV, 1611)",
+   "source": {
+    "archive": "Project Gutenberg",
+    "work": "The Bible, King James Version, Book 41: Mark, chapter 4",
+    "url": "https://www.gutenberg.org/ebooks/41"
+   },
+   "license": "Public domain (KJV, 1611)",
+   "summary": {
+    "en": "The parable of parables: seed falls by the wayside (devoured by fowls), on stony ground (sprung up, scorched, rootless), among thorns (choked, unfruitful), and on good ground (thirtyfold, sixtyfold, an hundredfold) — with the interpretive key that the sower sows the word, and the soils are hearers. It also carries the strange theory of parables themselves: 'Unto you it is given to know the mystery... but unto them that are without, all these things are done in parables.'",
+    "zh": "比喻中的比喻：種子落在路旁（被飛鳥吃盡）、土淺石頭地（發苗快、日頭一曬就枯乾）、荊棘裏（被擠住不結實）、好土裏（三十倍、六十倍、一百倍）——解釋之鑰：撒種之人所撒的乃是道，四種土即四種聽者。比喻的理論亦在此：「神國的奧祕只叫你們知道……對外人講，凡事就用比喻。」"
+   },
+   "motifs": [
+    "parable-teaching"
+   ],
+   "sensitivity": {
+    "restricted": false,
+    "note": "Living tradition. The sower is the interpretive master-parable of the tradition."
+   },
+   "passages": [
+    {
+     "id": "1",
+     "text": "Hearken; Behold, there went out a sower to sow: and it came to pass, as he sowed, some fell by the way side, and the fowls of the air came and devoured it up. And some fell on stony ground, where it had not much earth; and immediately it sprang up, because it had no depth of earth: but when the sun was up, it was scorched; and because it had no root, it withered away. And some fell among thorns, and the thorns grew up, and choked it, and it yielded no fruit. And other fell on good ground, and did yield fruit that sprang up and increased; and brought forth, some thirty, and some sixty, and some an hundred. And he said unto them, He that hath ears to hear, let him hear."
+    },
+    {
+     "id": "2",
+     "text": "Unto you it is given to know the mystery of the kingdom of God: but unto them that are without, all these things are done in parables. And he said unto them, Know ye not this parable? and how then will ye know all parables? The sower soweth the word. And these are they which are sown on good ground; such as hear the word, and receive it, and bring forth fruit, some thirtyfold, some sixty, and some an hundred."
+    }
+   ],
+   "persons": [
+    "jesus"
+   ]
+  },
+  {
+   "id": "christian-parable-mustard-seed",
+   "title": {
+    "en": "The Mustard Seed and the Seed Growing Secretly",
+    "zh": "芥菜種與暗中生長的種子"
+   },
+   "tradition": "christian",
+   "category": "religious",
+   "region": {
+    "en": "Seaside, Galilee",
+    "zh": "加利利海邊"
+   },
+   "lat": 32.82,
+   "lon": 35.59,
+   "period": "Gospel of Mark, c. 65-75 CE (KJV, 1611)",
+   "source": {
+    "archive": "Project Gutenberg",
+    "work": "The Bible, King James Version, Book 41: Mark, chapter 4",
+    "url": "https://www.gutenberg.org/ebooks/41"
+   },
+   "license": "Public domain (KJV, 1611)",
+   "summary": {
+    "en": "Two tiny-to-vast seed parables: the kingdom as a man scattering seed who sleeps and rises while 'the earth bringeth forth fruit of herself', and the mustard seed, 'less than all the seeds that be in the earth', that grows into the greatest of herbs with branches where the fowls of the air lodge — the tradition's emblems of small beginnings and hidden growth, from mission strategy to personal conscience.",
+    "zh": "兩則由小至大的種子比喻：神國如同撒種之人黑夜睡覺白日起來，種子「自己發芽生長」，大地自會結果；又如芥菜種——「比地上百種還小」——卻長成最大的菜，枝葉可供飛鳥棲宿。從宣教方略到個人良心，這是傳統「微小開端、暗中生長」的雙重意象。"
+   },
+   "motifs": [
+    "parable-teaching"
+   ],
+   "sensitivity": {
+    "restricted": false,
+    "note": "Living tradition. The mustard seed is proverbial across the tradition."
+   },
+   "passages": [
+    {
+     "id": "1",
+     "text": "And he said, So is the kingdom of God, as if a man should cast seed into the ground; and should sleep, and rise night and day, and the seed should spring and grow up, he knoweth not how. For the earth bringeth forth fruit of herself; first the blade, then the ear, after that the full corn in the ear."
+    },
+    {
+     "id": "2",
+     "text": "Whereunto shall we liken the kingdom of God? or with what comparison shall we compare it? It is like a grain of mustard seed, which, when it is sown in the earth, is less than all the seeds that be in the earth: but when it is sown, it groweth up, and becometh greater than all herbs, and shooteth out great branches; so that the fowls of the air may lodge under the shadow of it."
+    }
+   ],
+   "persons": [
+    "jesus"
+   ]
+  },
+  {
+   "id": "christian-parable-good-samaritan",
+   "title": {
+    "en": "The Good Samaritan",
+    "zh": "好撒瑪利亞人"
+   },
+   "tradition": "christian",
+   "category": "religious",
+   "region": {
+    "en": "Road from Jerusalem to Jericho",
+    "zh": "耶路撒冷下耶利哥之路"
+   },
+   "lat": 31.85,
+   "lon": 35.4,
+   "period": "Gospel of Luke, c. 80-110 CE (KJV, 1611)",
+   "source": {
+    "archive": "Project Gutenberg",
+    "work": "The Bible, King James Version, Book 42: Luke, chapter 10",
+    "url": "https://www.gutenberg.org/ebooks/42"
+   },
+   "license": "Public domain (KJV, 1611)",
+   "summary": {
+    "en": "To the lawyer's test — 'who is my neighbour?' — Jesus answers with the man beaten by thieves on the Jericho road: a priest and a Levite pass by on the other side; a Samaritan, the heretic outsider, binds his wounds with oil and wine, carries him, pays the innkeeper two pence with an open account — 'when I come again, I will repay thee.' The question is reversed: not 'who is my neighbour' but 'which of these three was neighbour?' — 'Go, and do thou likewise.'",
+    "zh": "律法師試問「誰是我的鄰舍？」耶穌以下耶利哥路上被強盜打個半死之人作答：祭司與利未人皆繞道而行；被視為異端的撒瑪利亞人卻以油酒裹傷、扶上牲口、以二錢銀子託付店主並留下未償清的帳——「此外費用的，我回來必還你」。問題被倒轉：不是「誰是我的鄰舍」，而是「這三個人中誰是鄰舍」——「你去照樣行吧。」"
+   },
+   "motifs": [
+    "parable-teaching"
+   ],
+   "sensitivity": {
+    "restricted": false,
+    "note": "Living tradition. The Samaritan hero inverts ethnic expectation; 'good Samaritan' is now common law language worldwide."
+   },
+   "passages": [
+    {
+     "id": "1",
+     "text": "And Jesus answering said, A certain man went down from Jerusalem to Jericho, and fell among thieves, which stripped him of his raiment, and wounded him, and departed, leaving him half dead. And by chance there came down a certain priest that way: and when he saw him, he passed by on the other side. And likewise a Levite, when he was at the place, came and looked on him, and passed by on the other side."
+    },
+    {
+     "id": "2",
+     "text": "But a certain Samaritan, as he journeyed, came where he was: and when he saw him, he had compassion on him, and went to him, and bound up his wounds, pouring in oil and wine, and set him on his own beast, and brought him to an inn, and took care of him. And on the morrow when he departed, he took out two pence, and gave them to the host, and said unto him, Take care of him; and whatsoever thou spendest more, when I come again, I will repay thee. Which now of these three, thinkest thou, was neighbour unto him that fell among the thieves? And he said, He that shewed mercy on him. Then said Jesus unto him, Go, and do thou likewise.",
+     "note": ""
+    }
+   ],
+   "persons": [
+    "jesus"
+   ]
+  },
+  {
+   "id": "christian-parable-lost-sheep",
+   "title": {
+    "en": "The Lost Sheep and the Lost Coin",
+    "zh": "迷失的羊與失落的一塊錢"
+   },
+   "tradition": "christian",
+   "category": "religious",
+   "region": {
+    "en": "Wilderness and house, Judaea",
+    "zh": "猶太地的野地與家宅"
+   },
+   "lat": 31.85,
+   "lon": 35.3,
+   "period": "Gospel of Luke, c. 80-110 CE (KJV, 1611)",
+   "source": {
+    "archive": "Project Gutenberg",
+    "work": "The Bible, King James Version, Book 42: Luke, chapter 15",
+    "url": "https://www.gutenberg.org/ebooks/42"
+   },
+   "license": "Public domain (KJV, 1611)",
+   "summary": {
+    "en": "Answering the murmur 'this man receiveth sinners, and eateth with them', Jesus tells the shepherd who leaves the ninety-nine for the one lost sheep, lays it on his shoulders rejoicing, and calls a feast — 'joy shall be in heaven over one sinner that repenteth, more than over ninety and nine just persons, which need no repentance' — then the woman with ten pieces of silver who lights a candle and sweeps the house till she finds one: joy in the presence of the angels.",
+    "zh": "面對「這個人接待罪人，又同他們吃飯」的竊竊私語，耶穌講牧羊人撇下九十九隻去尋那迷失的羊，找著了便扛在肩上回家請客——「一個罪人悔改，在天上也要這樣為他歡喜，較比為九十九個不用悔改的義人歡喜更大」。又講婦人有十塊錢失了一塊，點燈打掃屋子細細地找——找著便請鄰舍同樂：天使面前也這樣為一個悔改的罪人歡喜。"
+   },
+   "motifs": [
+    "parable-teaching"
+   ],
+   "sensitivity": {
+    "restricted": false,
+    "note": "Living tradition. The lost-sheep image is the tradition's emblem of the value of the one."
+   },
+   "passages": [
+    {
+     "id": "1",
+     "text": "Then drew near unto him all the publicans and sinners for to hear him. And the Pharisees and scribes murmured, saying, This man receiveth sinners, and eateth with them. And he spake this parable unto them, saying, What man of you, having an hundred sheep, if he lose one of them, doth not leave the ninety and nine in the wilderness, and go after that which is lost, until he find it? And when he hath found it, he layeth it on his shoulders, rejoicing."
+    },
+    {
+     "id": "2",
+     "text": "And when he cometh home, he calleth together his friends and neighbours, saying unto them, Rejoice with me; for I have found my sheep which was lost. I say unto you, that likewise joy shall be in heaven over one sinner that repenteth, more than over ninety and nine just persons, which need no repentance. Either what woman having ten pieces of silver, if she lose one piece, doth not light a candle, and sweep the house, and seek diligently till she find it? And when she hath found it, she calleth her friends and her neighbours together, saying, Rejoice with me; for I have found the piece which I had lost. Likewise, I say unto you, there is joy in the presence of the angels of God over one sinner that repenteth."
+    }
+   ],
+   "persons": [
+    "jesus"
+   ]
+  },
+  {
+   "id": "christian-parable-prodigal-son",
+   "title": {
+    "en": "The Prodigal Son and the Elder Brother",
+    "zh": "浪子回頭與長兄"
+   },
+   "tradition": "christian",
+   "category": "religious",
+   "region": {
+    "en": "A far country; the father's house",
+    "zh": "遠方異國；父親家中"
+   },
+   "lat": 31.85,
+   "lon": 35.3,
+   "period": "Gospel of Luke, c. 80-110 CE (KJV, 1611)",
+   "source": {
+    "archive": "Project Gutenberg",
+    "work": "The Bible, King James Version, Book 42: Luke, chapter 15",
+    "url": "https://www.gutenberg.org/ebooks/42"
+   },
+   "license": "Public domain (KJV, 1611)",
+   "summary": {
+    "en": "The younger son demands his inheritance, wastes it in a far country, and sinks to feeding swine and coveting their husks; 'when he came to himself' he rehearses his confession on the road home — and the father runs, falls on his neck, and kills the fatted calf: 'this my son was dead, and is alive again; he was lost, and is found.' The elder brother, faithful and bitter — 'thou never gavest me a kid' — is answered with the parable's quiet core: 'Son, thou art ever with me, and all that I have is thine. It was meet that we should make merry.'",
+    "zh": "小兒子索分家產，遠方揮霍，淪為喂豬之工，恨不得以豬食充飢；「醒悟過來」便在歸途演練認罪之辭——父親卻相離尚遠就動了慈心，跑去抱著他的頸項連連親嘴，宰了肥牛犢：「我這個兒子是死而復活、失而又得的。」勤勞而怨恨的長兄抗議「你從來沒有給我一隻山羊羔」，得到全喻安靜的核心：「兒啊，你常和我同在，我一切所有的都是你的。只是你這個兄弟是死而復活、失而又得的，所以我們理當歡喜快樂。」"
+   },
+   "motifs": [
+    "parable-teaching",
+    "resurrection"
+   ],
+   "sensitivity": {
+    "restricted": false,
+    "note": "Living tradition. 'Dead and alive again' makes the parable a resurrection story in miniature; the elder brother is the tradition's image of the resentful righteous."
+   },
+   "passages": [
+    {
+     "id": "1",
+     "text": "And he said, A certain man had two sons: and the younger of them said to his father, Father, give me the portion of goods that falleth to me. And he divided unto them his living. And not many days after the younger son gathered all together, and took his journey into a far country, and there wasted his substance with riotous living. And when he had spent all, there arose a mighty famine in that land; and he began to be in want. And he went and joined himself to a citizen of that country; and he sent him into his fields to feed swine. And he would fain have filled his belly with the husks that the swine did eat: and no man gave unto him."
+    },
+    {
+     "id": "2",
+     "text": "And when he came to himself, he said, How many hired servants of my father's have bread enough and to spare, and I perish with hunger! I will arise and go to my father, and will say unto him, Father, I have sinned against heaven, and before thee, and am no more worthy to be called thy son: make me as one of thy hired servants. And he arose, and came to his father. But when he was yet a great way off, his father saw him, and had compassion, and ran, and fell on his neck, and kissed him."
+    },
+    {
+     "id": "3",
+     "text": "But the father said to his servants, Bring forth the best robe, and put it on him; and put a ring on his hand, and shoes on his feet: and bring hither the fatted calf, and kill it; and let us eat, and be merry: for this my son was dead, and is alive again; he was lost, and is found. Now his elder son was in the field: and as he came and drew nigh to the house, he heard musick and dancing. And he answering said to his father, Lo, these many years do I serve thee, neither transgressed I at any time thy commandment: and yet thou never gavest me a kid, that I might make merry with my friends. And he said unto him, Son, thou art ever with me, and all that I have is thine. It was meet that we should make merry, and be glad: for this thy brother was dead, and is alive again; and was lost, and is found."
+    }
+   ],
+   "persons": [
+    "jesus"
+   ]
+  },
+  {
+   "id": "christian-parable-rich-fool",
+   "title": {
+    "en": "The Rich Fool: Soul, Take Thine Ease",
+    "zh": "無知的財主：靈魂啊，只管安逸"
+   },
+   "tradition": "christian",
+   "category": "religious",
+   "region": {
+    "en": "Judaea, on the way to Jerusalem",
+    "zh": "猶太地，往耶路撒冷路上"
+   },
+   "lat": 31.85,
+   "lon": 35.3,
+   "period": "Gospel of Luke, c. 80-110 CE (KJV, 1611)",
+   "source": {
+    "archive": "Project Gutenberg",
+    "work": "The Bible, King James Version, Book 42: Luke, chapter 12",
+    "url": "https://www.gutenberg.org/ebooks/42"
+   },
+   "license": "Public domain (KJV, 1611)",
+   "summary": {
+    "en": "A rich man's ground brings forth plentifully, and he plans bigger barns and a self-addressed retirement — 'Soul, thou hast much goods laid up for many years; take thine ease, eat, drink, and be merry' — to which God answers the coldest line in the gospels: 'Thou fool, this night thy soul shall be required of thee: then whose shall those things be, which thou hast provided?' — 'So is he that layeth up treasure for himself, and is not rich toward God.'",
+    "zh": "財主的田產豐收，便盤算拆了小倉房蓋更大的，自言自語：「靈魂哪，你有許多財物積存，可作多年的費用，只管安安逸逸的吃喝快樂吧！」神卻以福音書中最冷峻的一句作答：「無知的人哪，今夜必要你的靈魂，你所預備的要歸誰呢？」——「凡為自己積財，在神面前卻不富足的，也是這樣。」"
+   },
+   "motifs": [
+    "parable-teaching",
+    "origin-of-death"
+   ],
+   "sensitivity": {
+    "restricted": false,
+    "note": "Living tradition. The sudden-death reversal is the tradition's classic memento mori."
+   },
+   "passages": [
+    {
+     "id": "1",
+     "text": "And he spake a parable unto them, saying, The ground of a certain rich man brought forth plentifully: and he thought within himself, saying, What shall I do, because I have no room where to bestow my fruits? And he said, This will I do: I will pull down my barns, and build greater; and there will I bestow all my fruits and my goods. And I will say to my soul, Soul, thou hast much goods laid up for many years; take thine ease, eat, drink, and be merry."
+    },
+    {
+     "id": "2",
+     "text": "But God said unto him, Thou fool, this night thy soul shall be required of thee: then whose shall those things be, which thou hast provided? So is he that layeth up treasure for himself, and is not rich toward God. And he said unto his disciples, Therefore I say unto you, Take no thought for your life, what ye shall eat; neither for the body, what ye shall put on. Consider the ravens: for they neither sow nor reap; which neither have storehouse nor barn; and God feedeth them."
+    }
+   ],
+   "persons": [
+    "jesus"
+   ]
+  },
+  {
+   "id": "christian-parable-rich-man-lazarus",
+   "title": {
+    "en": "The Rich Man and Lazarus at the Gulf",
+    "zh": "財主與拉撒路：深淵之隔"
+   },
+   "tradition": "christian",
+   "category": "religious",
+   "region": {
+    "en": "Abraham's bosom and the place of torment",
+    "zh": "亞伯拉罕的懷裏與受苦之處"
+   },
+   "lat": 31.85,
+   "lon": 35.3,
+   "period": "Gospel of Luke, c. 80-110 CE (KJV, 1611)",
+   "source": {
+    "archive": "Project Gutenberg",
+    "work": "The Bible, King James Version, Book 42: Luke, chapter 16",
+    "url": "https://www.gutenberg.org/ebooks/42"
+   },
+   "license": "Public domain (KJV, 1611)",
+   "summary": {
+    "en": "The purple-clad rich man fares sumptuously while the sore-covered beggar Lazarus longs for crumbs, dogs licking his sores; both die — Lazarus carried by angels to Abraham's bosom, the rich man lifting his eyes in torment across 'a great gulf fixed' that none can cross. His plea for a drop of water, then for a messenger to his brothers, is refused: 'They have Moses and the prophets; let them hear them... If they hear not Moses and the prophets, neither will they be persuaded, though one rose from the dead.'",
+    "zh": "穿紫袍綢緞、天天奢華宴樂的財主與門口討飯、渾身生瘡、狗來舔瘡的乞丐拉撒路；二人先後死去——拉撒路被天使帶去放在亞伯拉罕的懷裏，財主在火焰中隔著「有深淵限定」舉目遙望。他求一滴水涼舌、求遣人警告五個兄弟，皆被拒絕：「他們有摩西和先知的話可以聽從……若不聽從摩西和先知的話，就是有一個從死裏復活的，他們也是不聽勸。」"
+   },
+   "motifs": [
+    "descent-underworld",
+    "parable-teaching"
+   ],
+   "sensitivity": {
+    "restricted": false,
+    "note": "Living tradition. The gulf-fixed afterlife geography shaped Western hell imagery; the named beggar is unique among parable characters."
+   },
+   "passages": [
+    {
+     "id": "1",
+     "text": "There was a certain rich man, which was clothed in purple and fine linen, and fared sumptuously every day: and there was a certain beggar named Lazarus, which was laid at his gate, full of sores, and desiring to be fed with the crumbs which fell from the rich man's table: moreover the dogs came and licked his sores."
+    },
+    {
+     "id": "2",
+     "text": "And it came to pass, that the beggar died, and was carried by the angels into Abraham's bosom: the rich man also died, and was buried; and in hell he lift up his eyes, being in torments, and seeth Abraham afar off, and Lazarus in his bosom. And he cried and said, Father Abraham, have mercy on me, and send Lazarus, that he may dip the tip of his finger in water, and cool my tongue; for I am tormented in this flame. But Abraham said, Son, remember that thou in thy lifetime receivedst thy good things, and likewise Lazarus evil things: but now he is comforted, and thou art tormented."
+    },
+    {
+     "id": "3",
+     "text": "And beside all this, between us and you there is a great gulf fixed: so that they which would pass from hence to you cannot; neither can they pass to us, that would come from thence. Then he said, I pray thee therefore, father, that thou wouldest send him to my father's house: for I have five brethren; that he may testify unto them, lest they also come into this place of torment. Abraham saith unto him, They have Moses and the prophets; let them hear them. And he said, Nay, father Abraham: but if one went unto them from the dead, they will repent. And he said unto him, If they hear not Moses and the prophets, neither will they be persuaded, though one rose from the dead."
+    }
+   ],
+   "persons": [
+    "lazarus",
+    "jesus"
+   ]
+  },
+  {
+   "id": "christian-parable-talents",
+   "title": {
+    "en": "The Parable of the Talents",
+    "zh": "按才受託的比喻"
+   },
+   "tradition": "christian",
+   "category": "religious",
+   "region": {
+    "en": "Mount of Olives discourse",
+    "zh": "橄欖山講論"
+   },
+   "lat": 31.78,
+   "lon": 35.26,
+   "period": "Gospel of Matthew, c. 80-90 CE (KJV, 1611)",
+   "source": {
+    "archive": "Project Gutenberg",
+    "work": "The Bible, King James Version, Book 40: Matthew, chapter 25",
+    "url": "https://www.gutenberg.org/ebooks/40"
+   },
+   "license": "Public domain (KJV, 1611)",
+   "summary": {
+    "en": "A man travelling into a far country delivers five, two, and one talent 'to every man according to his several ability'; on his return the five- and two-talent servants have doubled their trust — 'Well done, thou good and faithful servant: thou hast been faithful over a few things, I will make thee ruler over many things: enter thou into the joy of thy lord' — while the one-talent servant, who buried his coin in the earth, is cast into 'outer darkness' as wicked and slothful. The word 'talent' has meant 'gift' ever since.",
+    "zh": "往遠方去的主人按各人的才幹交給僕人五千、二千、一千銀子；回來結算，領五千與二千的連本帶利翻倍——「好，你這又良善又忠心的僕人，你在不多的事上有忠心，我要把許多事派你管理，可以進來享受你主人的快樂」——把一千埋在地裏的僕人卻被斥為又惡又懶，扔進外面黑暗裏。自始，「他連得」一詞便意味「恩賜」。"
+   },
+   "motifs": [
+    "parable-teaching",
+    "boon-curse"
+   ],
+   "sensitivity": {
+    "restricted": false,
+    "note": "Living tradition. The stewardship parable is read as eschatological readiness."
+   },
+   "passages": [
+    {
+     "id": "1",
+     "text": "For the kingdom of heaven is as a man travelling into a far country, who called his own servants, and delivered unto them his goods. And unto one he gave five talents, to another two, and to another one; to every man according to his several ability; and straightway took his journey. Then he that had received the five talents went and traded with the same, and made them other five talents. And likewise he that had received two, he also gained other two. But he that had received one went and digged in the earth, and hid his lord's money."
+    },
+    {
+     "id": "2",
+     "text": "After a long time the lord of those servants cometh, and reckoneth with them. And so he that had received five talents came and brought other five talents, saying, Lord, thou deliveredst unto me five talents: behold, I have gained beside them five talents more. His lord said unto him, Well done, thou good and faithful servant: thou hast been faithful over a few things, I will make thee ruler over many things: enter thou into the joy of thy lord."
+    },
+    {
+     "id": "3",
+     "text": "Then he which had received the one talent came and said, Lord, I knew thee that thou art an hard man, reaping where thou hast not sown: and I was afraid, and went and hid thy talent in the earth: lo, there thou hast that is thine. His lord answered and said unto him, Thou wicked and slothful servant, thou knewest that I reap where I sowed not: thou oughtest therefore to have put my money to the exchangers. Take therefore the talent from him, and give it unto him which hath ten talents. And cast ye the unprofitable servant into outer darkness: there shall be weeping and gnashing of teeth."
+    }
+   ],
+   "persons": [
+    "jesus"
+   ]
+  },
+  {
+   "id": "christian-sheep-goats-judgment",
+   "title": {
+    "en": "The Sheep and the Goats: Inasmuch as Ye Have Done It",
+    "zh": "綿羊山羊之喻：作在最小的一個身上"
+   },
+   "tradition": "christian",
+   "category": "religious",
+   "region": {
+    "en": "Throne of glory, Mount of Olives discourse",
+    "zh": "榮耀寶座，橄欖山講論"
+   },
+   "lat": 31.78,
+   "lon": 35.26,
+   "period": "Gospel of Matthew, c. 80-90 CE (KJV, 1611)",
+   "source": {
+    "archive": "Project Gutenberg",
+    "work": "The Bible, King James Version, Book 40: Matthew, chapter 25",
+    "url": "https://www.gutenberg.org/ebooks/40"
+   },
+   "license": "Public domain (KJV, 1611)",
+   "summary": {
+    "en": "The Son of man in his glory separates all nations as a shepherd divides sheep from goats, and the criterion of both destinies is startlingly concrete: 'I was an hungred, and ye gave me meat: I was thirsty, and ye gave me drink: I was a stranger, and ye took me in: naked, and ye clothed me: I was sick, and ye visited me: I was in prison, and ye came unto me' — 'Inasmuch as ye have done it unto one of the least of these my brethren, ye have done it unto me.'",
+    "zh": "人子在榮耀裏降臨，把萬民分別如牧人分綿羊山羊；兩般結局的準則出奇地具體：「我餓了，你們給我吃；渴了，你們給我喝；我作客旅，你們留我住；我赤身露體，你們給我穿；我病了，你們看顧我；我在監裏，你們來看我」——「這些事你們既作在我這弟兄中一個最小的身上，就是作在我身上了。」"
+   },
+   "motifs": [
+    "parable-teaching",
+    "prophetic-vision"
+   ],
+   "sensitivity": {
+    "restricted": false,
+    "note": "Living tradition. The last-judgment criterion of mercy works; tagged with prophetic-vision for the apocalyptic frame."
+   },
+   "passages": [
+    {
+     "id": "1",
+     "text": "When the Son of man shall come in his glory, and all the holy angels with him, then shall he sit upon the throne of his glory: and before him shall be gathered all nations: and he shall separate them one from another, as a shepherd divideth his sheep from the goats: and he shall set the sheep on his right hand, but the goats on the left."
+    },
+    {
+     "id": "2",
+     "text": "Then shall the King say unto them on his right hand, Come, ye blessed of my Father, inherit the kingdom prepared for you from the foundation of the world: for I was an hungred, and ye gave me meat: I was thirsty, and ye gave me drink: I was a stranger, and ye took me in: naked, and ye clothed me: I was sick, and ye visited me: I was in prison, and ye came unto me. Then shall the righteous answer him, saying, Lord, when saw we thee an hungred, and fed thee? And the King shall answer and say unto them, Verily I say unto you, Inasmuch as ye have done it unto one of the least of these my brethren, ye have done it unto me."
+    }
+   ],
+   "persons": [
+    "jesus"
+   ]
+  }
+ ]
+}

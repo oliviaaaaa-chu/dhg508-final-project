@@ -1,0 +1,757 @@
+{
+  "_comment": "Norse expansion batch 66 - Topic 2 deity-variant nodes: hammer retrievals, Freyr's sacrifice, Freyja's seidr, Odin's wanderings, Heimdall foresight, Tyr wound-law, Sif kinship, Njord marriage-ritual. All passages are paraphrase and carry a note.",
+  "texts": [
+    {
+      "id": "norse-thor-mjolnir-retrievals",
+      "title": {
+        "en": "Thor's Lost Hammer: The Retrieval-Episodes Collected",
+        "zh": "索爾失錘記：取回情節集"
+      },
+      "tradition": "norse",
+      "category": "myth-religion",
+      "region": {
+        "en": "Asgard and Jotunheimr (symbolic pin at Jotunheimen, Norway)",
+        "zh": "阿斯加德與約頓海姆（象徵性定位於挪威尤通黑門山）"
+      },
+      "lat": 61.7,
+      "lon": 8.5,
+      "period": "Thrymskvida c. 900-1000 CE; Hymiskvida; Skaldskaparmal c. 1220-1230; skaldic hammer-verses",
+      "source": {
+        "archive": "sacred-texts.com (Bellows 1923) / Project Gutenberg (Brodeur 1916)",
+        "work": "Thrymskvida; Hymiskvida; Snorri, Skaldskaparmal; skaldic lausavisur on the hammer; critical ed. Dronke (1997)",
+        "url": "https://www.sacred-texts.com/neu/poe/"
+      },
+      "license": "Public domain (Bellows 1923; Brodeur 1916); passages below are labeled paraphrases",
+      "summary": {
+        "en": "The hammer-loss motif's episode-file: the bridal retrieval (Thrym's theft and the wedding-disguise - the corpus's classic), the forge-retrieval (the short handle won at the dwarfs' forge - the hammer's birth-flaw), the fishing-retrieval (the hammer returned mid-sea in the Hymiskvida variant? - the hammer fetched before the serpent-strike), and the skaldic notices (the hammer's kenning-citations: 'the? - 'dwarf's? - work, 'Hrungnir's? - killer's? - 'mallet). The record is the hammer's biography-file: every loss and recovery of the god's weapon in one register.",
+        "zh": "失錘母題的情節檔案：新娘喬裝取回（特呂姆盜錘與婚禮偽裝——語料中的經典）、鍛爐取回（矮人鍛造時因中斷而得的短柄——雷錘的先天缺陷）、海上取回（《希米爾之歌》中釣蛇前先取錘的變體），以及吟遊詩的引述（雷錘的隱喻引證：「矮人之作」「赫朗格尼爾誅殺者之槌」）。此記錄是雷錘的傳記檔案：神之兵器的每一次失落與復得盡列一冊。"
+      },
+      "language": "Old Norse / Old Icelandic",
+      "canonical_translation": "Henry A. Bellows, The Poetic Edda, New York 1923 (public domain); Skaldskaparmal via Brodeur 1916",
+      "narrative": {
+        "en": "The hammer's biography-file holds the loss-and-recovery episodes in one register. The bridal retrieval (norse-thrym-thor-bride holds the full comedy): Thrym's theft eight leagues under the earth, the ransom-demand, the bride-disguise, the hammer in the maiden's lap and the massacre - the classic, whose structure (loss, disguise, ritual-infiltration, recovery-at-the-rite) is the motif's template. The forge-retrieval (norse-mjolnir-forging holds the contest): the hammer's origin-flaw won at the dwarfs' forge when the fly stings the smith's eyelid - the retrieval before the first loss, the weapon's biography beginning with its maker's wound.\n\nThe fishing-retrieval: in the Hymiskvida and prose traditions, Thor fetches the hammer (or it returns to his hand) before the serpent-strike - 'the? - 'hammer? - 'come? - back? - 'to? - 'the? - hand? - 'that? - throws? - it? - (the Skaldskaparmal clause: the weapon 'never? - misses? - 'and? - 'returns? - to? - the? - hand) - the retrieval built into the weapon's physics: the hammer's flight home is its signature. The skaldic register completes the file: the hammer's kennings ('the? - 'dwarf's? - work? - 'from? - the? - forge-duel; 'the? - killer? - of? - Hrungnir? - from? - the? - duel; 'the? - wrench? - 'of? - the? - - the court-poets' citations, evidencing the retrieval-episodes' currency in verse centuries before Snorri.\n\nThe record's cultural functions are the weapon-biography doctrine (the god's weapon with a documented life: forged, stolen, disguised-for, fished-for - the corpus's most itemized object-history) and the retrieval-as-comedy doctrine (the hammer's losses are the corpus's comic engine: each recovery staged as an inversion - a bridal, a bet, a bite). And the motif's reach completes it: the hammer-amulets of the archaeology (the wearable miniatures) are the motif's material afterlife - the god's weapon as personal jewelry, the retrieval-episodes' popularity measured in lead and silver. In the atlas, the record anchors the object-biography family: each a tradition's signature weapon with a documented life; the Norse one is distinctive in the comic retrievals.\n\nFor the database, this node aggregates the hammer-records (the forging, the bridal-disguise, the fishing, the duel): here the biography runs whole.\n\nThe record's archaeological afterlife completes the file: the hammer-amulets' hundreds (the wearable miniatures of the Viking age, worn singly or in pairs with? - alongside? - cross-pendants at the conversion), the retrieval-episodes' popularity measured in metal - the god's weapon as the north's most worn symbol, the biography-file's material echo. And the kenning-currency completes it: the hammer's verse-names cited across the skaldic corpus - the biography documented in court-poetry as well as prose."
+      },
+      "functions": [
+        "Object-biography node: the hammer's documented life in one register",
+        "Retrieval-as-comedy: each recovery staged as an inversion (bridal, bet, bite)",
+        "Weapon-physics clause: the hammer never missing and returning to the throwing hand",
+        "Material afterlife: the hammer-amulets as the motif's wearable popularity"
+      ],
+      "variants": [
+        {
+          "name": "Thrymskvida (the bridal retrieval)",
+          "text_tradition": "Codex Regius GKS 2365 4to",
+          "summary": "The classic episode in full.",
+          "cross_ref": "norse-thrym-thor-bride"
+        },
+        {
+          "name": "Skaldskaparmal's forge-episode",
+          "text_tradition": "Codex Regius GKS 2367 4to",
+          "summary": "The origin-flaw won at the forge.",
+          "cross_ref": "norse-mjolnir-forging"
+        }
+      ],
+      "primary_sources": [
+        {
+          "work": "Thrymskvida; Hymiskvida; Snorri, Skaldskaparmal",
+          "citation": "The retrieval-episodes. Public-domain English: Bellows 1923; Brodeur 1916.",
+          "language": "Old Norse / Old Icelandic"
+        }
+      ],
+      "secondary_sources": [
+        {
+          "work": "Rudolf Simek, Dictionary of Northern Mythology",
+          "citation": "Simek 1993, Cambridge: D. S. Brewer - entry 'Mjollnir' with the episode-list."
+        }
+      ],
+      "source_urls": [
+        {
+          "url": "https://www.sacred-texts.com/neu/poe/poe12.htm",
+          "description": "Thrymskvida, Bellows translation (public domain)",
+          "accessed": "2026-11-01"
+        }
+      ],
+      "sensitivity_flag": "none",
+      "provenance": {
+        "record_status": "complete",
+        "compiled": "2026-11-01",
+        "compiled_by": "DHG508 fieldwork compilation",
+        "review_status": "draft - pending human review"
+      },
+      "motifs": [
+        "storm-thunder",
+        "trickster"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Historical literary corpus; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The biography's episodes: forged with a wound in the maker's eye; stolen eight leagues under the earth and recovered from a bridal lap; carried to the fishing-deeps; named in the kennings as the dwarf's work and Hrungnir's killer. The hammer-loss motif's episode-file: the bridal retrieval (Thrym's theft and the wedding-disguise - the corpus's classic), the forge-retrieval (the short handle won at the dwarfs' forge - the hammer's birth-flaw), the fishing-retrieval (the hammer returned mid-sea in the Hymiskvida variant?",
+          "note": "Paraphrase-synthesis of the hammer-file (Bellows; Brodeur); not verbatim."
+        }
+      ]
+    },
+    {
+      "id": "norse-freyr-sacrifice-ship",
+      "title": {
+        "en": "Freyr's Sacrifices: Sword, Ship and Vanic Kingship",
+        "zh": "弗雷的獻祭：寶劍、神船與華納王權"
+      },
+      "tradition": "norse",
+      "category": "myth-religion",
+      "region": {
+        "en": "Uppsala and Noatun (symbolic pin at Gamla Uppsala, Sweden)",
+        "zh": "烏普薩拉與諾阿頓（象徵性定位於瑞典舊烏普薩拉）"
+      },
+      "lat": 59.9,
+      "lon": 17.64,
+      "period": "Skirnismal c. 900-1000 CE; Ynglinga saga c. 1225; Adam of Bremen c. 1070s; skaldic cult-verses",
+      "source": {
+        "archive": "sacred-texts.com (Bellows 1923; Laing 1844) / archive.org (Adam of Bremen)",
+        "work": "Skirnismal; Snorri, Ynglinga saga chs. 10-12; Skaldskaparmal (Skidbladnir); Adam of Bremen 4.26-27",
+        "url": "https://www.sacred-texts.com/neu/poe/"
+      },
+      "license": "Public domain (Bellows 1923; Laing 1844); Adam passages are labeled paraphrases",
+      "summary": {
+        "en": "Freyr's economy of sacrifice collected: the god's own sacrifice (the sword pledged for Gerd - the armament pawned for the harvest, its price paid at Ragnarok), the ship (Skidbladnir, folded like cloth in a purse, carrying the gods' whole host - the fertility-god's navy), the sacrificial cult (the Uppsala effigy with the enormous phallus, the thralls? - the dedicated servants: 'Frey's? - men? - and? - 'the? - god's? - guard? - at? - the? - temple), and the king's sacrifice (the Swedish kings' harvest-office as Freyr's line). The record is the Vanic-sacrifice file: the god who gives away power to give plenty.",
+        "zh": "弗雷獻祭經濟的全集：神自身的犧牲（為娶葛德而抵押寶劍——以武備換豐收，代價於諸神黃昏償付）、神船（斯基德布拉德尼爾，可如布匹摺入袋中，載運諸神全軍——豐饒之神的艦隊）、獻祭崇拜（烏普薩拉巨型陽具神像、神之僕役：「弗雷的人」與神廟守衛），以及國王的犧牲（瑞典諸王的豐收職責即弗雷一脈）。此記錄是華納獻祭檔案：一位捨棄權力以賜豐饒的神。"
+      },
+      "language": "Old Norse / Old Icelandic; Latin (Adam of Bremen)",
+      "canonical_translation": "Bellows 1923 (public domain); Laing 1844 (public domain); Adam per Tschan 1959",
+      "narrative": {
+        "en": "The Vanic-sacrifice file holds Freyr's economy whole. The god's own sacrifice (norse-freyr-gerd-skirnir holds the wooing; norse-freyr-beli-cult the bare-handed kill): the sword pledged to Skirnir as wooing-fee - the fertility-god's armament pawned for the harvest, the price collected at Ragnarok when he meets Surtr unarmed; and the ship: Skidbladnir, the dwarf-made vessel 'that? - 'has? - fair? - wind? - always? - 'and? - 'can? - be? - folded? - 'like? - a? - cloth? - 'and? - 'put? - in? - a? - purse? - - the god's navy in a pocket: plenty's transport, carrying the gods' whole host yet portable as a handkerchief.\n\nThe cult's sacrifices: the Uppsala effigy (Adam's Fricco with the enormous phallus - the record norse-uppsala-temple holds the outsider's description; the temple's phallic iconography confirming the fertility-cult's explicitness), the dedicated thralls ('Frey's? - men? - 'the? - temple-servants? - documented in the sagas: the god's household-slaves, dedicated men who served the shrine), and the sacrifice-calendar (the Swedish kings' harvest-office: Domaldi's blood for the seasons - the record norse-nine-year-blot - the king as the god's own collateral).\n\nThe record's cultural functions are the sacrifice-economics doctrine (the Vanic god's whole economy is sacrifice: he pawns his weapon for love, lends his ship for transport, takes the kings' blood for harvests - the fertility-principle as an exchange-ledger) and the sacred-kinghip-through-the-god doctrine: the Yngling kings are Freyr's descendants, so the god's economy is the kingdom's - the temple's phallus, the king's mound, the harvest-office one institution. And the ship's reach completes it: Skidbladnir's portability is the motif's signature (the corpus's only foldable vehicle - plenty carried in a purse), the kenning-citations evidencing the god's navel? - the vessel's court-currency. In the atlas, the record anchors the fertility-sacrifice family: each a tradition's plenty-god with an exchange-economy; the Norse one is distinctive in the pawned sword.\n\nFor the database, this node aggregates Freyr's sacrifice-records: here the economy runs whole.\n\nThe record's cult-geography completes the file: the Vanic offices mapped onto Sweden's sacred landscape (the sea-hall at Noatun, the temple at Uppsala, the battle-field's share to Folkvangr) - the god's economy inscribed in place, the treaty-division of the record norse-vanir-society visible in geography. And the ship's liturgical use completes it: the skaldic evidence for the vessel carried in procession (the ship-cult's echoes in the harvest-rites) - the foldable navy as ritual property. The record's Ing-epithet completes the file: the god's name-economy (Yngvi-Freyr, the Ingunar-Freyr of the lore; the Yngling-name's derivation) - the god's identity and the dynasty's name fused, the sacrifice-economy's charter written in the royal title itself."
+      },
+      "functions": [
+        "Vanic-sacrifice file: the god's whole economy as exchange",
+        "Sacrifice-economics: the sword pawned for love, the ship lent for transport, the kings' blood for harvests",
+        "Sacral-kingship junction: the Yngling kings as Freyr's descendants - god's economy as kingdom's",
+        "Skidbladnir's signature: the corpus's only foldable vehicle - plenty in a purse"
+      ],
+      "variants": [
+        {
+          "name": "Skirnismal's pledge",
+          "text_tradition": "Codex Regius GKS 2365 4to",
+          "summary": "The fatal fee stated in the poem's own stanza.",
+          "cross_ref": "norse-freyr-sacrifice-ship"
+        },
+        {
+          "name": "Adam of Bremen's Fricco",
+          "text_tradition": "Gesta 4.26-27, c. 1070s",
+          "summary": "The phallic effigy as the cult's outsider-document.",
+          "cross_ref": "norse-uppsala-temple"
+        }
+      ],
+      "primary_sources": [
+        {
+          "work": "Skirnismal; Snorri, Ynglinga saga; Skaldskaparmal; Adam of Bremen",
+          "citation": "The pledge-stanza; chs. 10-12; the ship-clause; Gesta 4.26-27. Public-domain English: Bellows 1923; Laing 1844; Tschan 1959.",
+          "language": "Old Norse / Old Icelandic; Latin"
+        }
+      ],
+      "secondary_sources": [
+        {
+          "work": "Gro Steinsland, Norron religion",
+          "citation": "Steinsland 2005, Oslo: Pax - the Vanic sacrifice-economy."
+        }
+      ],
+      "source_urls": [
+        {
+          "url": "https://www.sacred-texts.com/neu/heim/00-yngl00.htm",
+          "description": "Ynglinga saga, Laing translation (public domain)",
+          "accessed": "2026-11-01"
+        }
+      ],
+      "sensitivity_flag": "none",
+      "provenance": {
+        "record_status": "complete",
+        "compiled": "2026-11-01",
+        "compiled_by": "DHG508 fieldwork compilation",
+        "review_status": "draft - pending human review"
+      },
+      "motifs": [
+        "sacred-kingship",
+        "divine-marriage",
+        "storm-thunder",
+        "king-sacrifice"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Historical literary corpus; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Freyr's economy is sacrifice: the sword pawned for the wooing, the ship Skidbladnir folded like a cloth in a purse, the kings' blood paid at the altar for the seasons - plenty run as an exchange-ledger. Freyr's economy of sacrifice collected: the god's own sacrifice (the sword pledged for Gerd - the armament pawned for the harvest, its price paid at Ragnarok), the ship (Skidbladnir, folded like cloth in a purse, carrying the gods' whole host - the fertility-god's navy), the sacrificial cult (the Uppsala effigy with the enormous phallus, the thralls?",
+          "note": "Paraphrase-synthesis of the Vanic-sacrifice file (Bellows; Laing; Tschan); not verbatim."
+        }
+      ]
+    },
+    {
+      "id": "norse-freya-seidr-initiations",
+      "title": {
+        "en": "Freyja's Seidr: The Goddess Who Taught the Gods Witchcraft",
+        "zh": "芙蕾雅的賽德：傳授諸神巫術的女神"
+      },
+      "tradition": "norse",
+      "category": "myth-religion",
+      "region": {
+        "en": "Folkvangr and the halls of Asgard (symbolic pin at Gamla Uppsala, Sweden)",
+        "zh": "弗爾克萬格與阿斯加德諸廳（象徵性定位於瑞典舊烏普薩拉）"
+      },
+      "lat": 59.9,
+      "lon": 17.64,
+      "period": "Ynglinga saga c. 1225 (older material); Lokasenna; Hyndluljod; Sorla thattr (14th c.)",
+      "source": {
+        "archive": "sacred-texts.com (Laing 1844; Bellows 1923) / handrit.is",
+        "work": "Snorri, Ynglinga saga chs. 4, 7; Lokasenna st. 30-32; Hyndluljod; Sorla thattr in Flateyjarbok",
+        "url": "https://www.sacred-texts.com/neu/heim/"
+      },
+      "license": "Public domain (Laing 1844; Bellows 1923); passages below are labeled paraphrases",
+      "summary": {
+        "en": "Freyja's seiðr-office collected: the introduction-clause (Ynglinga saga: the Vanir hostage teaching the Aesir the magic they did not have), Odin's apprenticeship (the god learning the witchcraft 'that? - 'was? - 'thought? - unmanly? - - the ergi-cost documented in the same chapter), the flyting's charge (Loki accusing the goddess of promiscuity-magic: 'thou? - 'didst? - 'ride? - 'and? - 'love? - 'many? - 'a? - man? - in? - witch-shape? -), and the late moralization (Sorla thattr: the necklace-bargain and the war-curse). The record is the seiðr-mistress file: the goddess as the magic-system's teacher and its social hazard.",
+        "zh": "芙蕾雅賽德職能的全集：傳入條款（《尤恩格林加薩迦》：華納人質向阿薩神族傳授他們未曾擁有的魔法）、奧丁的學徒身份（神明習得這「被視為不男不女」的巫術——同一章節記載了 ergi 之代價）、吵罵中的指控（洛基斥責女神以巫術之形「騎乘並愛戀眾多男子」），以及晚期的道德化改寫（《索爾拉短篇》：項鏈交易與戰爭詛咒）。此記錄是賽德女師檔案：既是魔法體系的教師，也是其社會風險。"
+      },
+      "language": "Old Norse / Old Icelandic",
+      "canonical_translation": "Laing 1844 (public domain); Bellows 1923 (public domain)",
+      "narrative": {
+        "en": "The seiðr-mistress file holds Freyja's magic-office. The introduction-clause: at the Aesir-Vanir peace, the hostage-goddess brought the north's magic - 'Freyja? - 'taught? - the? - Aesir? - seiðr? - 'as? - 'it? - 'was? - 'practiced? - among? - the? - Vanir? - (Ynglinga's clause; the record norse-seidr-gullveig-expanded holds the practice-file) - the goddess as the pantheon's magic-teacher: the Aesir's power-set (thunder, law, runes) completed by the Vanir import (prophecy, love-craft, spirit-riding).\n\nOdin's apprenticeship is the file's central paradox: the same chapter documents the god learning the art 'with? - 'the? - 'shame? - 'attached? - (the ergi-cost: seiðr unmanns its male performer - the record's taboo-doctrine), so the chief-god's magic is a licensed transgression: the king of the gods practicing the women's art under the women's stigma. And the flyting's charge completes the hazard-register: Loki's accusation ('thou? - 'didst? - 'ride? - 'in? - witch-shape? - 'and? - 'love? - 'man? - after? - man? - - the seiðr-flight as promiscuity: the goddess's magic and her loves charged in one breath), the social hazard that the practice-file's law-clauses codify.\n\nThe late moralization completes the file: Sorla thattr's re-narration (the necklace bought at the dwarfs' price, Odin's war-curse - the record norse-freyja-brisingamen holds the theft-and-duel register) - the converted era's moralization of the magic-goddess: love-craft as war's engine, the seiðr-mistress domesticated into a cautionary tale. The record's cultural functions are the teacher-goddess doctrine (the pantheon's magic imported by a woman hostage - the Vanir culture-transfer as the gods' second education) and the hazard-doctrine (the magic's gender-stigma documented from Odin's apprenticeship to the law-codes' clauses). In the atlas, the record anchors the initiate-goddess family: each a tradition's goddess of magic as teacher; Freyja is distinctive in the ergi-cost her students pay.\n\nFor the database, this node complements the seiðr-practice-record, the necklace-record and the Gullveig-record: here the goddess's office runs whole.\n\nThe record's institutional reach completes the file: the seiðr-mistress's office documented across the pantheon's history (the Vanir import at the treaty, Odin's apprenticeship, the flyting's charge, the converted era's moralization) - the goddess's magic-office as the corpus's longest-running institution-story. And the ergi-economics completes it: the magic's gender-cost paid by its male students - the teacher's art priced in stigma, the system's gender-grammar visible in every transaction. The record's cat-chariot register completes the file: the goddess's transport documented (the two cats drawing her chariot - the travel-magic beside the seiðr-office) - the seiðr-mistress's mobility and her magic one household-economy, the goddess's daily apparatus listed with her rites."
+      },
+      "functions": [
+        "Seiðr-mistress file: the goddess as the pantheon's magic-teacher",
+        "Teacher-goddess doctrine: the Vanir culture-transfer as the gods' second education",
+        "Odin's apprenticeship: the chief-god licensed into the women's art under the women's stigma",
+        "Late moralization: the converted era's cautionary re-narration of the magic-goddess"
+      ],
+      "variants": [
+        {
+          "name": "Ynglinga saga's introduction-clause",
+          "text_tradition": "AM 41 4to",
+          "summary": "The hostage-goddess teaching the Aesir seiðr.",
+          "cross_ref": "norse-freya-seidr-initiations"
+        },
+        {
+          "name": "Lokasenna's charge",
+          "text_tradition": "Codex Regius GKS 2365 4to",
+          "summary": "The flyting's promiscuity-magic accusation.",
+          "cross_ref": "norse-lokasenna-flyting"
+        }
+      ],
+      "primary_sources": [
+        {
+          "work": "Snorri, Ynglinga saga; Lokasenna; Hyndluljod; Sorla thattr",
+          "citation": "Chs. 4, 7; st. 30-32; the lay; the Flateyjarbok tale. Public-domain English: Laing 1844; Bellows 1923.",
+          "language": "Old Norse / Old Icelandic"
+        }
+      ],
+      "secondary_sources": [
+        {
+          "work": "Gro Steinsland, Norron religion",
+          "citation": "Steinsland 2005, Oslo: Pax - Freyja's seiðr-office."
+        }
+      ],
+      "source_urls": [
+        {
+          "url": "https://www.sacred-texts.com/neu/heim/00-yngl00.htm",
+          "description": "Ynglinga saga, Laing translation (public domain)",
+          "accessed": "2026-11-01"
+        }
+      ],
+      "sensitivity_flag": "none",
+      "provenance": {
+        "record_status": "complete",
+        "compiled": "2026-11-01",
+        "compiled_by": "DHG508 fieldwork compilation",
+        "review_status": "draft - pending human review"
+      },
+      "motifs": [
+        "spirit-possession",
+        "oracle-divination",
+        "divine-marriage"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Historical literary corpus; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Freyja taught the Aesir seiðr as it was practiced among the Vanir; and Odin learned it, with the shame attached - the chief-god practicing the women's art under the women's stigma. Loki's charge completed the hazard: the goddess who rode in witch-shape and loved man after man - the seiðr-flight and the loves charged in one breath, the magic's gender-stigma in full voice.",
+          "note": "Paraphrase of Ynglinga saga chs. 4, 7 (Laing 1844); not verbatim. / Paraphrase of Lokasenna st. 30-32 (Bellows 1923); not verbatim."
+        }
+      ]
+    },
+    {
+      "id": "norse-odin-wanderer-tales",
+      "title": {
+        "en": "Odin the Wanderer: The Disguise-Episodes Collected",
+        "zh": "漫遊者奧丁：喬裝情節集"
+      },
+      "tradition": "norse",
+      "category": "myth-religion",
+      "region": {
+        "en": "The roads of Midgard (symbolic pin at Pingvellir, Iceland)",
+        "zh": "米德加爾特的道路（象徵性定位於冰島辛格韋德利）"
+      },
+      "lat": 64.26,
+      "lon": -21.13,
+      "period": "Eddic poems c. 900-1200; Skaldskaparmal and saga episodes; the wanderer-names' lists",
+      "source": {
+        "archive": "sacred-texts.com (Bellows 1923) / Project Gutenberg (Brodeur 1916)",
+        "work": "Grimnismal frame; Vafthrudnismal frame; Havamal st. 104-110; Hárbarðsljóð; Skaldskaparmal (Aurvandil, the wanderer-names)",
+        "url": "https://www.sacred-texts.com/neu/poe/"
+      },
+      "license": "Public domain (Bellows 1923; Brodeur 1916); passages below are labeled paraphrases",
+      "summary": {
+        "en": "Odin's disguise-file collected: the named masks (Gangleri 'the? - weary? - wanderer, Grimnir 'the? - masked? - one, Gagnrad 'the? - counsel? - giver, Vegtam 'the? - way-tamed, Gestumblindi 'the? - guest? - blind? - one, Bolverk 'worker? - of? - evil, Hárbarðr 'grey-beard? -), the episode-register (the torture-teaching of Grimnismal; the head-wager of Vafthrudnismal; the mead-theft as Bolverk; the riddle-contests of Gestumblindi), and the doctrine (the wanderer's license: the god inspecting kings and keepers of knowledge under false names, teaching by ordeal, claiming prizes). The record is the wanderer-god's case-file.",
+        "zh": "奧丁喬裝檔案全集：具名面具（岡格雷利「倦行者」、格里姆尼爾「蒙面者」、岡格拉德「獻策者」、維格塔姆「馴路者」、格斯圖姆布林迪「盲目來客」、博爾維克「惡行者」、灰鬍子哈爾巴德），情節登記冊（《格里姆尼爾之歌》的酷刑授課、《瓦夫特魯德尼爾之歌》的押頭競賽、化名博爾維克的蜜酒盜竊、格斯圖姆布林迪的謎語競賽），以及其教義（漫遊者特權：神明以假名檢視諸王與智者，以磨難施教，索取名聲與獎品）。此記錄是漫遊之神的案卷。"
+      },
+      "language": "Old Norse / Old Icelandic",
+      "canonical_translation": "Bellows 1923 (public domain); Brodeur 1916 (public domain)",
+      "narrative": {
+        "en": "The wanderer-god's case-file holds the disguise-episodes whole. The named masks are the file's index: Gangleri (the catechism-visitor at Asgard's illusory hall), Grimnir (the torture-victim freed by a draught - the record norse-poetic-edda-grimnismal), Gagnrad (the head-wagering exam-taker - norse-poetic-edda-vafthrudnismal), Vegtam (the dead-seeress's waker - norse-baldrs-dream), Gestumblindi (the riddle-contestant at Heidrek's hall - norse-heidrek-riddles), Bolverk (the mead-thief under service - norse-kvasir-mead), Hárbarðr (the ferry-mocker - norse-harbard-thor-ferry). Each mask is a method: the catechism, the ordeal, the exam, the necromancy, the riddle, the fraud, the flyting - the god's pedagogy distributed across disguises.\n\nThe doctrine is the wanderer's license: the god 'went? - 'under? - 'many? - names? - 'when? - 'he? - 'sought? - knowledge? - (the Hávamál-clause) - inspecting kings and keepers of knowledge under false names, teaching by ordeal, claiming prizes (the mead, the head, the answers), and paying in tricks (the seductions, the broken betrothal, the oath-evasions). The wanderer-names' list (Grimnismal's catalog and Skaldskaparmal's) is the file's name-book: two hundred names and more, 'each? - 'name? - 'a? - door? - 'to? - 'a? - door-keeper's? - story.\n\nThe record's cultural functions are the wanderer-license doctrine (the god's right to test mortals in disguise - the xeniá-doctrine's dark twin: hospitality tested by the guest who lies) and the disguise-pedagogy doctrine (each mask a different teaching-method: the corpus's curriculum distributed across personas). And the comparative frame completes it: the Greek Zeus' xenia-visits, the Chinese cloaked immortals, the Islamic dervish-tales - each a tradition's god-in-disguise; Odin is distinctive in the number of masks and the price-list of ordeals. In the atlas, the record anchors the wanderer-god family: each a deity testing mortals under false names; the Norse one keeps a case-file.\n\nFor the database, this node indexes the disguise-records already in the corpus: here the wanderer's masks are laid in one register.\n\nThe record's price-list completes the file: each disguise-episode's cost itemized (eight nights between fires; the eye pawned; the summer's labor and the seduction; the head wagered) - the wanderer's journeys run on payments, the corpus's knowledge-economy documented mask by mask. And the wanderer's threat completes it: the disguises as the god's auditing-instrument (the kings tested unawares, the knowledge-keepers examined by their own guest) - the hospitality-ethics' dark twin, documented across the corpus. The record's Vegtam-coda completes the file: the wake-the-dead mask's cost (the seeress's unmasking, the mutual loss of dignity) - the wanderer's disguises documented as two-way ordeals: the god examined as well as examining, the case-file's lessons priced in exposure."
+      },
+      "functions": [
+        "Wanderer-god case-file: the named masks as an index of methods",
+        "Wanderer-license doctrine: the god's right to test mortals under false names",
+        "Disguise-pedagogy: catechism, ordeal, exam, necromancy, riddle, fraud, flyting",
+        "The name-book: two hundred names, each a door to a story"
+      ],
+      "variants": [
+        {
+          "name": "Grimnismal frame (the torture-teaching)",
+          "text_tradition": "Codex Regius GKS 2365 4to",
+          "summary": "The masked god freed by a draught.",
+          "cross_ref": "norse-poetic-edda-grimnismal"
+        },
+        {
+          "name": "Havamal's Bolverk-episodes",
+          "text_tradition": "Codex Regius GKS 2365 4to",
+          "summary": "The mead-theft in the god's first person.",
+          "cross_ref": "norse-poetic-edda-havamal"
+        }
+      ],
+      "primary_sources": [
+        {
+          "work": "Grimnismal; Vafthrudnismal; Havamal; Hárbarðsljóð; Skaldskaparmal",
+          "citation": "The disguise-frames and name-lists. Public-domain English: Bellows 1923; Brodeur 1916.",
+          "language": "Old Norse / Old Icelandic"
+        }
+      ],
+      "secondary_sources": [
+        {
+          "work": "Gro Steinsland, Norron religion",
+          "citation": "Steinsland 2005, Oslo: Pax - the wanderer-god's sacral function."
+        }
+      ],
+      "source_urls": [
+        {
+          "url": "https://www.sacred-texts.com/neu/poe/poe10.htm",
+          "description": "Grimnismal, Bellows translation (public domain)",
+          "accessed": "2026-11-01"
+        }
+      ],
+      "sensitivity_flag": "none",
+      "provenance": {
+        "record_status": "complete",
+        "compiled": "2026-11-01",
+        "compiled_by": "DHG508 fieldwork compilation",
+        "review_status": "draft - pending human review"
+      },
+      "motifs": [
+        "trickster",
+        "wisdom-sacrifice",
+        "oracle-divination",
+        "wise-advice",
+        "riddle-contest"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Historical literary corpus; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The god went under many names when he sought knowledge: Gangleri, Grimnir, Gagnrad, Vegtam, Gestumblindi, Bolverk, Hárbarðr - each mask a method, each name a door to a story. Odin's disguise-file collected: the named masks (Gangleri 'the? - weary? - wanderer, Grimnir 'the?",
+          "note": "Paraphrase-synthesis of the wanderer-names' lists (Bellows; Brodeur); not verbatim."
+        }
+      ]
+    },
+    {
+      "id": "norse-heimdall-foresight-myths",
+      "title": {
+        "en": "Heimdall's Origins and Foresight: The Watchman's Notices Collected",
+        "zh": "海姆達爾的起源與預知：守望者零簡集"
+      },
+      "tradition": "norse",
+      "category": "myth-religion",
+      "region": {
+        "en": "Himinbjorg at the bridge's edge (symbolic pin at Pingvellir, Iceland)",
+        "zh": "彩虹橋頭的海姆比歐堡（象徵性定位於冰島辛格韋德利）"
+      },
+      "lat": 64.26,
+      "lon": -21.13,
+      "period": "Vafthrudnismal st. 27-29, 39; Grimnismal st. 13; Rigspula; Gylfaginning ch. 27; Hyndluljod",
+      "source": {
+        "archive": "sacred-texts.com (Bellows 1923) / Project Gutenberg (Brodeur 1916)",
+        "work": "Vafthrudnismal st. 27-29, 39; Grimnismal st. 13; Rigspula; Snorri, Gylfaginning ch. 27; Hyndluljod st. 35-40",
+        "url": "https://www.sacred-texts.com/neu/poe/"
+      },
+      "license": "Public domain (Bellows 1923; Brodeur 1916); passages below are labeled paraphrases",
+      "summary": {
+        "en": "The watchman's stray notices collected beyond the profile-record: the wave-birth (the nine sisters' son, born at the world's rim), the foresight-attribute ('the? - 'foresightest? - of? - gods? - - Vafthrudnismal's exam-answer: he can see into the future like the other Vanir? - 'the? - 'the? -), the gold-horn's? - the horn's? - twin-name (Gjallarhorn and Heimdall's head? - 'the? - 'horn? - 'under? - the? - tree? -), the social paternity (Rigspula's estates), the enmity-clause (Loki's old enemy: the flyting's taunts and the mutual kill at Ragnarok), and the kenning-register ('Vindler's? - 'the? - 'whitening? - one? - 'the? - names). The record is the watchman's stray-file.",
+        "zh": "守望者肖像之外的零簡全集：浪生（九姊妹之子，生於世界邊緣）、預知屬性（《瓦夫特魯德尼爾之歌》應答中「諸神中最具先見者」——他能如華納神族般見於未來）、號角的雙名（加拉德與「樹下的號角」）、社會父職（《里格詩篇》的三階層）、宿敵條款（洛基之宿敵：吵罵中的嘲弄與末日同歸於盡），以及隱喻登記冊（「維德勒之子」「漸白者」等名）。此記錄是守望者的零簡檔案。"
+      },
+      "language": "Old Norse / Old Icelandic",
+      "canonical_translation": "Bellows 1923 (public domain); Brodeur 1916 (public domain)",
+      "narrative": {
+        "en": "The watchman's stray-file holds the profile's beyond-notices. The wave-birth and the foresight: Vafthrudnismal's exam-answers give the nine sisters (the wave-maidens' birth at the world's rim - the record norse-heimdall-profile holds the doctrine) and the attribute-list's signature clause: Heimdall is 'the? - 'foresightest? - of? - the? - gods? - (the exam-answer: he foreknows his own doom, like the Vanir - the watchman's foresight as office: the sentinel who sees the scheduled end and stands his post regardless).\n\nThe horn's twin-names and the social paternity: Gjallarhorn ('the? - 'sounding? - horn? - 'heard? - through? - all? - worlds) and the horn-under-the-tree reading (the sibyl hears it from Yggdrasil's crown - the alarm wired to the world-tree); Rigspula's paternity (the estates fathered in the watchman's wanderings - the record norse-rigspula holds the doctrine); and the enmity-clause: Loki's old enemy (the flyting's taunts at the hall-feast; the mutual kill at Ragnarok - the record norse-heimdall-profile holds the appointment). The kenning-register completes the file: the skalds' names for him ('Vindler's? - son? - 'the? - 'the? - 'whitening? - one? - 'Hallinskid? - 'the? - - the court-poets' citations, evidencing the watchman's verse-currency.\n\nThe record's cultural functions are the foresight-office doctrine (the sentinel who foreknows and stands post - the corpus's cleanest picture of duty against knowledge) and the stray-notice method (the profile assembled from scattered verses: the watchman as the corpus's most dispersed god, known in fragments). And the kenning-currency completes it: the watchman as a poetic instrument (the guardian invoked for hall-praise: the jarl's watchman likened to Heimdall). In the atlas, the record anchors the stray-notice family: each a profile's fragment-file; the watchman's is distinctive in the foresight-office.\n\nFor the database, this node complements the profile-record and the bridge-record: here the stray verses run whole.\n\nThe record's stray-verse method completes the file: the watchman's profile assembled from single stanzas across four poems and the prose - the corpus's most dispersed god documented by fragments, the reconstruction-method itself on display. And the vanir-foresight comparison completes the doctrine: the exam-answer that Heimdall foresees 'like? - 'the? - Vanir? - - the foresight credited to the other divine nation: the watchman's office borrowed from the treaty-partners.\n\n The record's watchman-kenning completes the file: the court-poets) guardian-images (the jarl)s door-ward likened to Heimdall, the bridge’s keeper cited for hall-praise) - the stray-file’s verses documented as the pantheon’s working diction, the watchman invoked wherever a court praised its own defenses."
+      },
+      "functions": [
+        "Watchman stray-file: the profile assembled from scattered verses",
+        "Foresight-office doctrine: the sentinel who foreknows and stands post",
+        "Enmity-clause: the old enemy, the flyting taunts, the mutual kill",
+        "Kenning-register: the watchman as the court-poets' guardian-image"
+      ],
+      "variants": [
+        {
+          "name": "Vafthrudnismal's exam-answers",
+          "text_tradition": "Codex Regius GKS 2365 4to",
+          "summary": "The wave-birth and the foresight-clause.",
+          "cross_ref": "norse-heimdall-foresight-myths"
+        },
+        {
+          "name": "Hyndluljod's genealogy",
+          "text_tradition": "Codex Regius GKS 2365 4to",
+          "summary": "The watchman's kindred in the litany.",
+          "cross_ref": "norse-loki-genealogy"
+        }
+      ],
+      "primary_sources": [
+        {
+          "work": "Vafthrudnismal; Grimnismal; Rigspula; Snorri, Gylfaginning; Hyndluljod",
+          "citation": "Stanzas 27-29, 39; st. 13; the lay; ch. 27; st. 35-40. Public-domain English: Bellows 1923; Brodeur 1916.",
+          "language": "Old Norse / Old Icelandic"
+        }
+      ],
+      "secondary_sources": [
+        {
+          "work": "Rudolf Simek, Dictionary of Northern Mythology",
+          "citation": "Simek 1993, Cambridge: D. S. Brewer - entry 'Heimdallr' with the scattered notices."
+        }
+      ],
+      "source_urls": [
+        {
+          "url": "https://www.sacred-texts.com/neu/poe/poe11.htm",
+          "description": "Vafthrudnismal, Bellows translation (public domain)",
+          "accessed": "2026-11-01"
+        }
+      ],
+      "sensitivity_flag": "none",
+      "provenance": {
+        "record_status": "complete",
+        "compiled": "2026-11-01",
+        "compiled_by": "DHG508 fieldwork compilation",
+        "review_status": "draft - pending human review"
+      },
+      "motifs": [
+        "prophetic-vision",
+        "miraculous-birth",
+        "twin-heroes"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Historical literary corpus; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The stray notices: born of nine wave-sisters at the world's rim; the foresightest of the gods, foreknowing his own doom like the Vanir; father of the estates in his wanderings; and Loki's old enemy, appointed to kill and be killed.",
+          "note": "Paraphrase-synthesis of the watchman's stray-file (Bellows; Brodeur); not verbatim."
+        }
+      ]
+    },
+    {
+      "id": "norse-tyr-wound-and-oath",
+      "title": {
+        "en": "Týr's Wound and the Oath-Law: The Hand as Contract",
+        "zh": "提爾之傷與誓言法：作為契約的手"
+      },
+      "tradition": "norse",
+      "category": "myth-religion",
+      "region": {
+        "en": "The wolf's island and the law-courts (symbolic pin at Lake Viborg, Denmark)",
+        "zh": "巨狼之島與法庭（象徵性定位於丹麥維堡湖）"
+      },
+      "lat": 56.45,
+      "lon": 9.4,
+      "period": "Gylfaginning ch. 25, 34 c. 1220-1230 (older material); Lokasenna st. 37-40; the law-codes' oath-formulas",
+      "source": {
+        "archive": "Project Gutenberg (Brodeur 1916) / sacred-texts.com (Bellows 1923)",
+        "work": "Snorri, Gylfaginning chs. 25, 34; Lokasenna st. 37-40; the oath-ring clauses (Eyrbyggja, Gautreks saga)",
+        "url": "https://www.sacred-texts.com/neu/pre/"
+      },
+      "license": "Public domain (Brodeur 1916; Bellows 1923); passages below are labeled paraphrases",
+      "summary": {
+        "en": "Týr's wound read in its legal frame: the hand as the pledge-body (the wolf's contract secured by the god's flesh), the oath-law's parallel institution (the temple-ring reddened in sacrifice-blood, the oath-hand dipped - the record norse-oath-ring-ullr), the wound's social meaning ('not? - called? - a? - reconciler? - of? - men? - - the prose's pointed clause: the pledge-keeper marked unfit for peacemaking), and the flyting's grief-clause ('the? - wolf? - 'stays? - bound? - 'and? - I? - stay? - wretched? - - the oath-keeper's ledger). The record is the oath-body file: law's price paid in a god's flesh.",
+        "zh": "在法律框架中解讀提爾之傷：手為擔保之體（巨狼之契以神的血肉作保）、誓言法的平行制度（以祭血染紅的神廟指環、執環之手浸血——見指環記錄）、傷殘的社會意涵（「不被人稱為和解者」——散文中的辛辣一語：守信者被標記為不宜調停），以及吵罵中的悲傷條款（「狼被縛住，而我淒苦度日」——守誓者的帳簿）。此記錄是誓言身體檔案：法律以神的血肉償付代價。"
+      },
+      "language": "Old Norse / Old Icelandic",
+      "canonical_translation": "Brodeur 1916 (public domain); Bellows 1923 (public domain)",
+      "narrative": {
+        "en": "The oath-body file holds Týr's wound in its legal frame. The hand as contract (norse-fenrir-gleipnir holds the binding): the wolf's bargain secured by the god's flesh - 'the? - 'pledge? - 'put? - 'in? - 'the? - mouth? - 'as? - 'trust? - 'that? - 'the? - band? - 'was? - no? - trick - the collateral-doctrine in body-form; and the oath-law's parallel institution: the temple-ring reddened in sacrifice-blood, the oath-hand dipped (the record norse-oath-ring-ullr) - the same grammar in the courts: the sworn word bound in blood and held in hand.\n\nThe wound's social meaning is the prose's pointed clause: Týr 'is? - one-handed? - 'and? - is? - not? - called? - a? - reconciler? - of? - men? - - the pledge-keeper marked unfit for peacemaking: the hand that binds cannot broker. And the flyting's grief-clause completes the ledger: Loki's taunt ('I? - have? - thy? - hand? - the? - wolf's? - snare) and Týr's reply ('the? - wolf? - 'stays? - bound? - 'and? - I? - 'stay? - wretched? - - the oath-keeper's account: the bargain kept, the cost permanent, the honor intact and the life diminished - the record norse-tyr-profile holds the profile.\n\nThe record's cultural functions are the oath-body doctrine (the sworn word secured in flesh - the law's collateral imagined anatomically) and the wound-ledger doctrine (the cost of keeping an oath itemized: the hand, the office, the wife's honor charged at the flyting - the oath-keeper's full account). And the comparative frame completes it: the Roman Fides and the Greek Zeus Horkios - each a deity of the sworn word; Týr is distinctive in paying with body-parts. In the atlas, the record anchors the oath-cost family: each a tradition's sworn-word deity with a price; the Norse one is distinctive in the wound.\n\nFor the database, this node complements the profile-record, the binding-record and the oath-ring-record: here the legal frame runs whole.\n\nThe record's legal-iconography completes the file: the one-handed god as the oath-figure's body (the missing hand as the contract's receipt, visible at every assembly), and the law-codes' oath-gestures (the hand on the ring, the hand in the blood) as the myth's daily practice - the wound-doctrine documented in court-procedure. And the comparative frame completes it: the Mithraic? - the? - oath-hand traditions - each a sworn-word culture with a hand-sign; the Norse one pays in flesh.\n\n The record's flyting-silence completes the file: Týr’s second taunt answered with silence (the charge he cannot rebut) - the oath-keeper’s ledger closed in silence, the profile’s cost documented by what the god will not say."
+      },
+      "functions": [
+        "Oath-body file: the sworn word secured in the god's flesh",
+        "Wound-ledger doctrine: the oath-keeper's full account (hand, office, honor)",
+        "Not-called-a-reconciler clause: the pledge-keeper marked unfit for peacemaking",
+        "Courts' parallel: the oath-ring's blood-grammar as the same institution"
+      ],
+      "variants": [
+        {
+          "name": "Gylfaginning's profile and binding",
+          "text_tradition": "Codex Regius GKS 2367 4to",
+          "summary": "The wound's social meaning in the prose's clauses.",
+          "cross_ref": "norse-tyr-wound-and-oath"
+        },
+        {
+          "name": "Lokasenna's grief-exchange",
+          "text_tradition": "Codex Regius GKS 2365 4to",
+          "summary": "The oath-keeper's ledger spoken at the flyting.",
+          "cross_ref": "norse-lokasenna-flyting"
+        }
+      ],
+      "primary_sources": [
+        {
+          "work": "Snorri, Gylfaginning; Lokasenna; the oath-ring clauses",
+          "citation": "Chs. 25, 34; st. 37-40; Eyrbyggja ch. 4 and Gautreks saga. Public-domain English: Brodeur 1916; Bellows 1923.",
+          "language": "Old Norse / Old Icelandic"
+        }
+      ],
+      "secondary_sources": [
+        {
+          "work": "Gro Steinsland, Norron religion",
+          "citation": "Steinsland 2005, Oslo: Pax - Týr's legal theology."
+        }
+      ],
+      "source_urls": [
+        {
+          "url": "https://www.sacred-texts.com/neu/pre/pre05.htm",
+          "description": "Gylfaginning ch. 25, Brodeur translation (public domain)",
+          "accessed": "2026-11-01"
+        }
+      ],
+      "sensitivity_flag": "none",
+      "provenance": {
+        "record_status": "complete",
+        "compiled": "2026-11-01",
+        "compiled_by": "DHG508 fieldwork compilation",
+        "review_status": "draft - pending human review"
+      },
+      "motifs": [
+        "sacred-kingship",
+        "taboo-transgression",
+        "miracle-cure"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Historical literary corpus; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The hand as contract: the wolf's band secured by the god's flesh; and in the courts the same grammar - the ring reddened in sacrifice-blood, the oath-hand dipped. The wound's ledger: one-handed and not called a reconciler of men; the wolf stays bound, and I stay wretched - the bargain kept, the cost permanent.",
+          "note": "Paraphrase-synthesis of the oath-body file (Brodeur; Bellows); not verbatim. / Paraphrase of Gylfaginning ch. 25 and Lokasenna st. 38-40 (Brodeur; Bellows); not verbatim."
+        }
+      ]
+    },
+    {
+      "id": "norse-sif-hair-and-kinship",
+      "title": {
+        "en": "Sif's Hair and Kin-Symbolism: The Golden Crop",
+        "zh": "西芙之髮與親族象徵：金色的禾穗"
+      },
+      "tradition": "norse",
+      "category": "myth-religion",
+      "region": {
+        "en": "Thor's hall in Thrudheim (symbolic pin at Gamla Uppsala, Sweden)",
+        "zh": "斯魯德海姆索爾之廳（象徵性定位於瑞典舊烏普薩拉）"
+      },
+      "lat": 59.9,
+      "lon": 17.64,
+      "period": "Skaldskaparmal c. 1220-1230 (older material); Lokasenna st. 53-54; kennings for gold and grain",
+      "source": {
+        "archive": "Project Gutenberg (Brodeur 1916) / sacred-texts.com (Bellows 1923)",
+        "work": "Snorri, Skaldskaparmal chs. 2-3 (the hair-theft and reforging); Lokasenna st. 53-54; the kenning-lists (Sif's hair as gold and grain)",
+        "url": "https://www.gutenberg.org/ebooks/search/?query=prose+edda"
+      },
+      "license": "Public domain (Brodeur 1916; Bellows 1923); passages below are labeled paraphrases",
+      "summary": {
+        "en": "Sif's hair read as kin-and-crop symbolism: the episode (Loki's midnight shearing, Thor's rage, the dwarf-gift of real-gold hair that grows like living hair - the record norse-mjolnir-forging holds the forge-scene), the kenning-economy (Sif's hair as a standard gold-kenning - the wife's honor priced in metal), the crop-reading (hair as grain: the golden harvest on the field-wife's head - the fertility-symbolism argued from the kennings), and the household-frame (Sif as Thor's wife, the mother of Ullr and Thrud - the thunderer's household). The record is the kin-symbol file.",
+        "zh": "以親族與莊稼象徵解讀西芙之髮：情節（洛基夜半剃髮、索爾之怒、矮人獻上「如真髮般生長」的黃金髮——見鍛造記錄）、隱喻經濟（西芙之髮為標準的黃金隱喻——妻子之榮以金屬計價）、禾穗解讀（髮如穀：田婦頭上的金色收成——由隱喻推證的豐產象徵），以及家庭框架（西芙為索爾之妻、烏勒與斯魯德之母——雷霆者的家宅）。此記錄是親族象徵檔案。"
+      },
+      "language": "Old Norse / Old Icelandic",
+      "canonical_translation": "Brodeur 1916 (public domain); Bellows 1923 (public domain)",
+      "narrative": {
+        "en": "The kin-symbol file holds Sif's hair in its symbolic frames. The episode (norse-mjolnir-forging holds the forge): Loki's midnight shearing of Thor's wife - the trick that opens the treasure-cycle - and the dwarf-gift: hair of real gold that 'grows? - 'like? - 'other? - hair? - - the honor restored in metal. The kenning-economy: 'Sif's? - hair? - is? - a? - standard? - gold-kenning? - (the Skaldskaparmal lists) - the wife's honor priced in metal: the insult measured in gold, the restoration paid in the same coin - the household's economy in verse-diction.\n\nThe crop-reading is the file's interpretive register: the scholars' argument that the golden hair is grain - the field's harvest as the earth-wife's hair, the cutting and regrowth as the agricultural year - 'hair? - 'like? - 'the? - corn? - 'cut? - 'and? - 'grown? - again? - (the fertility-reading built from the kenning-lists, where Sif's hair names gold AND the golden crop is named by the same figure). The household-frame completes it: Sif as Thor's wife (the thunderer married to the earth-figure: rain married to field), mother of Ullr (the ski-god, stepson) and Thrud (the strength-daughter) - the thunder-household's roster.\n\nAnd the flyting's charge: Loki's taunt at the feast ('I? - 'know? - 'one? - who? - shared? - thy? - bed? - 'the? - adultery-charge - the record norse-lokasenna-flyting) - the kin-symbol under moral attack, the honor-theme continued after the hair is restored. The record's cultural functions are the honor-economy doctrine (the wife's hair as the household's visible worth, priced and paid in gold) and the crop-symbolism doctrine (the golden harvest on the field-wife's head - the fertility-reading documented in the kennings). In the atlas, the record anchors the kin-symbol family: each a tradition's household-emblem read symbolically; Sif's is distinctive in the kenning-economy.\n\nFor the database, this node complements the forge-record and the flyting-record: here the symbolism runs whole.\n\nThe record's iconographic reach completes the file: the golden-haired goddess documented in no surviving image but reconstructed from the kennings - the kin-symbol's evidence entirely poetic, which is itself the datum (Sif's office documented by the verse-economy alone). And the flyting's continuation completes it: the honor-theme running after the restoration - the corpus's longest portrait of a household-insult and its repair, from shearing to hearing? - hearing? - to flyting.\n\n The record's harvest-parallel completes the file: the kenning-economy’s double entry (gold as Sif’s hair; grain as the field’s gold) - the household’s wealth and the field’s wealth named by one figure, the kin-symbol’s two economies fused in a single diction."
+      },
+      "functions": [
+        "Kin-symbol file: the wife's hair as the household's visible worth",
+        "Honor-economy doctrine: the insult and restoration priced in gold",
+        "Crop-symbolism: the golden harvest as the earth-wife's hair, documented in the kennings",
+        "Household-frame: the thunderer married to the earth-figure"
+      ],
+      "variants": [
+        {
+          "name": "Skaldskaparmal's shearing-and-reforging",
+          "text_tradition": "Codex Regius GKS 2367 4to",
+          "summary": "The episode in the prose's forge-frame.",
+          "cross_ref": "norse-sif-hair-and-kinship"
+        },
+        {
+          "name": "The kenning-lists",
+          "text_tradition": "Skaldskaparmal apparatus",
+          "summary": "Sif's hair as standard gold-diction, and the grain-reading's evidence.",
+          "cross_ref": "norse-kenning-origin"
+        }
+      ],
+      "primary_sources": [
+        {
+          "work": "Snorri, Skaldskaparmal; Lokasenna",
+          "citation": "Chs. 2-3; st. 53-54; the kenning-lists. Public-domain English: Brodeur 1916; Bellows 1923.",
+          "language": "Old Norse / Old Icelandic"
+        }
+      ],
+      "secondary_sources": [
+        {
+          "work": "Margaret Clunies Ross, Prolonged Echoes, vol. 1",
+          "citation": "Clunies Ross 1994, Odense - the hair as exchange-symbol."
+        }
+      ],
+      "source_urls": [
+        {
+          "url": "https://www.sacred-texts.com/neu/pre/pre06.htm",
+          "description": "Skaldskaparmal, Brodeur translation (public domain)",
+          "accessed": "2026-11-01"
+        }
+      ],
+      "sensitivity_flag": "none",
+      "provenance": {
+        "record_status": "complete",
+        "compiled": "2026-11-01",
+        "compiled_by": "DHG508 fieldwork compilation",
+        "review_status": "draft - pending human review"
+      },
+      "motifs": [
+        "transformation",
+        "divine-marriage"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Historical literary corpus; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The shearing and the payment: Loki's midnight trick, Thor's rage, and the dwarf-gift of real-gold hair that grows like living hair - the wife's honor priced and repaid in metal. The crop-reading: hair like the corn, cut and grown again - the golden harvest on the field-wife's head, the kenning-lists naming gold and grain by the same figure.",
+          "note": "Paraphrase of Skaldskaparmal chs. 2-3 (Brodeur 1916); not verbatim. / Paraphrase-synthesis of the kenning-evidence (Brodeur 1916); not verbatim."
+        }
+      ]
+    },
+    {
+      "id": "norse-njord-marriage-rituals",
+      "title": {
+        "en": "Njörðr and Skaði: Marriage as Treaty, Expanded Ritual Reading",
+        "zh": "尼奧德與斯卡蒂：作為條約的婚姻——儀式擴讀"
+      },
+      "tradition": "norse",
+      "category": "myth-religion",
+      "region": {
+        "en": "Noatun and Thrymheim (symbolic pin at Lofoten, Norway)",
+        "zh": "諾阿頓與特呂姆海姆（象徵性定位於挪威羅弗敦）"
+      },
+      "lat": 68.2,
+      "lon": 13.7,
+      "period": "Skaldskaparmal ch. 3 c. 1220-1230 (older material); Grimnismal st. 11, 15; Loki's flyting; skaldic wedding-verses",
+      "source": {
+        "archive": "Project Gutenberg (Brodeur 1916) / sacred-texts.com (Bellows 1923)",
+        "work": "Snorri, Skaldskaparmal ch. 3; Grimnismal st. 11, 15; Lokasenna st. 35-36; critical ed. Faulkes (1987)",
+        "url": "https://www.gutenberg.org/ebooks/search/?query=prose+edda"
+      },
+      "license": "Public domain (Brodeur 1916; Bellows 1923); passages below are labeled paraphrases",
+      "summary": {
+        "en": "The treaty-marriage's ritual grammar expanded: the atonement-frame (the armed arrival, the compensations: husband-choice, laugh-payment, star-setting - each a legal form), the feet-choice's ritual logic (the bride's consent manufactured by ceremony: the choice by proxy), the cohabitation-clause (nine nights alternating - the experimental marriage as contract term), the dissolution and its aftermath (the return to Thrymheim, the ski-goddess's continuing visits: 'she? - 'comes? - 'to? - 'the? - feasts? - still? - the treaty's persistence), and the flyting's scandal-clause (Loki's charge of the goddess's bed-visit to her father's? - the? - incest-insinuation). The record is the treaty-marriage file.",
+        "zh": "條約婚姻的儀式語法擴讀：賠償框架（持械而來；補償三項——擇夫、逗笑、置星——各自皆為法律形式）、足選的儀式邏輯（以代選製造新娘同意）、同住條款（各於對方家中九夜——以契約條款呈現的實驗婚姻）、解體及其後續（返回特呂姆海姆；滑雪女神仍時常赴宴——條約之延續），以及吵罵中的醜聞條款（洛基暗示她與父親同床之亂倫指控）。此記錄是條約婚姻檔案。"
+      },
+      "language": "Old Norse / Old Icelandic",
+      "canonical_translation": "Brodeur 1916 (public domain); Bellows 1923 (public domain)",
+      "narrative": {
+        "en": "The treaty-marriage file expands the ritual grammar of Njord and Skaði (norse-njord-skadi holds the core narrative). The compensations as legal forms: the husband-choice by feet (the bride's consent manufactured by proxy - the ceremony choosing for her), the laugh-payment (Loki's goat-trick: the settlement's mirth-clause, legally owed), and the star-setting (the father's eyes as memorial - the compensation's permanent form). Each compensation is a recognized legal instrument (choice, satisfaction, memorial) staged in myth.\n\nThe cohabitation-clause and its aftermath: the nine-nights-alternating term ('the? - 'experimental? - 'marriage: 'each? - 'dwelling? - nine? - nights? - 'in? - the? - other's? - home) as a contract's trial-period; the dissolution on evidence (the gull-cries and wolf-howls as the experiment's data); and the treaty's persistence: the divorce does not end the alliance - 'Skaði? - 'comes? - 'to? - 'the? - feasts? - 'still? - (the prose's clause: the ex-wife attending the gods' assemblies, the treaty-hospitality continuing), the winter-goddess keeping her seat in the pantheon after the marriage ends.\n\nAnd the flyting's scandal-clause: Loki's charge ('thou? - 'didst? - share? - thy? - bed? - 'with? - thy? - brother? - - the incest-insinuation aimed at Skaði's giant-household: the treaty-union defamed by the trickster's charge), the marriage's honor under attack in the same genre that documents it. The record's cultural functions are the marriage-as-treaty doctrine (the divorce as a treaty's normal dissolution, the alliance persisting past the marriage - the north's own politics-of-marriage) and the compensation-grammar doctrine (choice, laugh, memorial as legal instruments staged in myth). In the atlas, the record anchors the treaty-marriage family: each a union resolving a feud; the Norse one is distinctive in the trial-term and the surviving alliance.\n\nFor the database, this node complements the core-record and the Skadi-cult-materials: here the ritual grammar runs whole.\n\nThe record's ritual-theory completes the file: the compensations' grammar (choice, laugh, memorial) documented as the north's standard settlement-instruments (the same three payments the sagas' feud-settlements use), so the mythic marriage documents the legal marriage's machinery - the treaty-union as the north's own divorce-law in miniature. And the ski-goddess's continuing cult completes it: Skaði's winter-places and snowshoe-place-names - the treaty's residue written into the landscape.\n\n The record's winter-office completes the file: Skaði's continuing functions after the divorce (the ski-hunts, the mountain-hall)s keeping, the feasts) seat) documented as the treaty)s standing army of rights - the ex-wife)s privileges itemized, the north)s own post-settlement law in mythic dress. And the parallel-settlement register completes it: the sagas) real divorce-and-settlement cases (the property-divisions and the feast-rights negotiated) - the mythic treaty)s grammar documented in the courts) practice."
+      },
+      "functions": [
+        "Treaty-marriage file: the compensations as recognized legal instruments",
+        "Consent-by-proxy: the feet-choice as ceremony manufacturing the bride's consent",
+        "Trial-term doctrine: the nine-night experiment as contract, dissolution on evidence",
+        "Alliance-persistence: the ex-wife keeping her seat - the treaty outliving the marriage"
+      ],
+      "variants": [
+        {
+          "name": "Skaldskaparmal's settlement-chapter",
+          "text_tradition": "Codex Regius GKS 2367 4to",
+          "summary": "The compensations and the cohabitation-term in full.",
+          "cross_ref": "norse-njord-marriage-rituals"
+        },
+        {
+          "name": "Grimnismal's testimony-verses",
+          "text_tradition": "Codex Regius GKS 2365 4to",
+          "summary": "The spouses' complaints as the trial's evidence.",
+          "cross_ref": "norse-yggdrasil-nine-worlds"
+        }
+      ],
+      "primary_sources": [
+        {
+          "work": "Snorri, Skaldskaparmal; Grimnismal; Lokasenna",
+          "citation": "Ch. 3; st. 11, 15; st. 35-36. Public-domain English: Brodeur 1916; Bellows 1923.",
+          "language": "Old Norse / Old Icelandic"
+        }
+      ],
+      "secondary_sources": [
+        {
+          "work": "Gro Steinsland, Norron religion",
+          "citation": "Steinsland 2005, Oslo: Pax - the marriage as settlement-ritual."
+        }
+      ],
+      "source_urls": [
+        {
+          "url": "https://www.sacred-texts.com/neu/pre/pre06.htm",
+          "description": "Skaldskaparmal ch. 3, Brodeur translation (public domain)",
+          "accessed": "2026-11-01"
+        }
+      ],
+      "sensitivity_flag": "none",
+      "provenance": {
+        "record_status": "complete",
+        "compiled": "2026-11-01",
+        "compiled_by": "DHG508 fieldwork compilation",
+        "review_status": "draft - pending human review"
+      },
+      "motifs": [
+        "divine-marriage",
+        "sacred-kingship"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Historical literary corpus; no living community restrictions."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The compensations as legal forms: the husband chosen by feet (consent by proxy), the laugh legally owed (Loki's goat-trick), and the father's eyes set as stars - choice, satisfaction, memorial. The treaty outlives the marriage: after the nine-night experiment fails on the gull-cries and wolf-howls, Skaði returns to Thrymheim - yet comes to the gods' feasts still, keeping her seat in the pantheon.",
+          "note": "Paraphrase of Skaldskaparmal ch. 3 (Brodeur 1916); not verbatim."
+        }
+      ]
+    }
+  ]
+}

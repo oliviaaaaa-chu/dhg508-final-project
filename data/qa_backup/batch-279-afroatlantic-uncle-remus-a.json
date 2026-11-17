@@ -1,0 +1,345 @@
+{
+  "texts": [
+    {
+      "id": "afroatlantic-mr-fox-miss-goose",
+      "title": {
+        "en": "Mr. Fox and Miss Goose",
+        "zh": "福克斯先生與鵝小姐"
+      },
+      "tradition": "afroatlantic",
+      "category": "myth-religion",
+      "region": {
+        "en": "Middle Georgia plantation country, USA (symbolic pin: Putnam County)",
+        "zh": "美國喬治亞中部種植園地帶（象徵定位：帕特南縣）"
+      },
+      "lat": 33.33,
+      "lon": -83.47,
+      "period": "African-American oral tradition; collected 1879-1881; published 1883",
+      "source": {
+        "archive": "Project Gutenberg",
+        "work": "Joel Chandler Harris, 'Nights with Uncle Remus: Myths and Legends of the Old Plantation' (1883), tale I 'Mr. Fox and Miss Goose'",
+        "url": "https://www.gutenberg.org/cache/epub/26429/pg26429.txt"
+      },
+      "license": "Public domain (published 1883)",
+      "summary": {
+        "en": "Brer Rabbit, overhearing Brer Fox's plan to call on the washing goose, slips ahead with a friendly howdy and a warning: the fox is coming before day. Coach her to bundle the white folks' clothes on the bed, roost on the rafter, and let the grabber take the bundle — and when the fox seizes the 'goose' at first light, Mr. Dog sails out from under the house after him. The feud between fox and dog starts right there, and Brer Rabbit never disputes the credit.",
+        "zh": "兔哥哥偷聽到福克斯要造訪洗衣的鵝小姐，便先一步登門問好、報信：天亮前狐狸就到。教她把白人的衣物捆好放床上、自己棲上房梁，讓來抓的人抓走那捆衣裳——天色微明狐狸搶『鵝』而逃，狗先生自屋下撲出窮追。狐狗之仇便由此結下；兔哥哥從不否認這份功勞。"
+      },
+      "motifs": [
+        "trickster",
+        "taboo-transgression"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Brer Rabbit cycle, told in the Uncle Remus frame by a named formerly enslaved raconteur; Harris collected from Georgia tellers 1879-1881. Dialect rendered to standard English in paraphrase."
+      },
+      "persons": [
+        "brer-rabbit",
+        "brer-fox"
+      ],
+      "passages": [
+        {
+          "id": "1",
+          "text": "When Brer Fox heard that old Miss Goose was down there dabbling in suds and washing clothes, he licked his chops and allowed that some of these odd-come-shorts he was going to call and pay his respects. The minute he said that, Brer Rabbit knew something was up, and allowed to himself that he had better whirl in and have some fun while it was going on. By and by Brer Fox said he must be moving along toward home, and they both said good-bye — but Brer Rabbit slipped round and called on old Miss Goose, who was down at the spring washing, boiling, and battling clothes.",
+          "note": "Paraphrase of Harris, Nights with Uncle Remus, tale I (1883); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Brer Rabbit marched up and asked her howdy — she had just dropped her spectacles in the tub, she said, and would have taken him for that nasty, outrageous Brer Fox and scalded him with a pan of boiling suds. Being's how Sis Goose had fetched up Brer Fox's name, Brer Rabbit said he had something to tell her: 'He is coming, sho' — and when he come, it will be just before day.' Old Miss Goose wiped her hands on her apron and set her spectacles on her forehead, looking like she had trouble in her mind: 'Laws-a-massy! Suppose he come, Brer Rabbit — what I going do? And there is not a man about the house, no!'",
+          "note": "Paraphrase of Harris, tale I, middle (1883); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "Brer Rabbit shot one eye and said, 'Sis Goose, the time has come when you must roost high. You look like you got the dropsy, but don't mind that, because if you don't roost high, you are gone.' He told her to go home and tie up a bundle of the white folks' clothes, put them on the bed, and fly up on a rafter, and let Brer Fox grab the clothes and run off with them. She was much obliged, and that night she did as Brer Rabbit said, and sent word to Mr. Dog, who came down and said he would sort of sit up with her.",
+          "note": "Paraphrase of Harris, tale I, middle-b (1883); not verbatim."
+        },
+        {
+          "id": "4",
+          "text": "Just before day, here came Brer Fox creeping up; he pushed the door easy, the door opened, and he saw something white on the bed which he took for Miss Goose, and he grabbed it and ran. About that time Mr. Dog sailed out from under the house, and if Brer Fox had not dropped the clothes, he would have got caught. From that, word went round that Brer Fox had been trying to steal Miss Goose's clothes, and he came mighty nigh losing his standing at Miss Meadows's. To this day Brer Fox believes that Brer Rabbit was the occasion of Mr. Dog's being in the neighborhood that time of night, and Brer Rabbit does not dispute it — the bad feeling between Brer Fox and Mr. Dog started right there, and it has been going on until now they cannot get in smelling distance of one another without a row.",
+          "note": "Paraphrase of Harris, tale I, ending (1883); not verbatim."
+        }
+      ]
+    },
+    {
+      "id": "afroatlantic-fox-catches-horse",
+      "title": {
+        "en": "Brother Fox Catches Mr. Horse",
+        "zh": "福克斯捉馬記"
+      },
+      "tradition": "afroatlantic",
+      "category": "myth-religion",
+      "region": {
+        "en": "Middle Georgia plantation country, USA",
+        "zh": "美國喬治亞中部種植園地帶"
+      },
+      "lat": 33.33,
+      "lon": -83.47,
+      "period": "African-American oral tradition; collected 1879-1881; published 1883",
+      "source": {
+        "archive": "Project Gutenberg",
+        "work": "Joel Chandler Harris, 'Nights with Uncle Remus' (1883), tale II 'Brother Fox Catches Mr. Horse'",
+        "url": "https://www.gutenberg.org/cache/epub/26429/pg26429.txt"
+      },
+      "license": "Public domain (published 1883)",
+      "summary": {
+        "en": "Fresh meat enough to last to the middle of next year: Brer Rabbit leads the vengeful Brer Fox to a big horse lying asleep in the pasture, and the quarrel over how to hold him down resolves into the rabbit's plan — tie yourself to the horse's tail, big man, and when he tries to get up, hold him down. One rap of the switch and the horse is up, the fox dangling in the air while Brer Rabbit skips round hollering 'Hold him down, Brer Fox! I'll stand out here and see fair play' — until a hind kick breaks loose and whirls the fox away, next door to killed.",
+        "zh": "『夠你吃到明年年中的鮮肉』——兔哥哥把懷恨的福克斯領到牧場上酣睡的大馬跟前；『怎麼按住他』的爭執終歸兔仔的妙計：壯漢，把自己拴上馬尾，他一起身你就按住他。柳條一抽，馬兒躍起，福克斯懸空亂晃，兔仔繞圈高喊『按住他！我在這兒替你督戰』——直到後蹄一記把他踢得脫繩旋飛，險些喪命。"
+      },
+      "motifs": [
+        "trickster",
+        "boon-curse"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Brer Rabbit cycle. Dialect rendered to standard English in paraphrase."
+      },
+      "persons": [
+        "brer-rabbit",
+        "brer-fox"
+      ],
+      "passages": [
+        {
+          "id": "1",
+          "text": "After Brer Fox got rested from keeping out of the way of Mr. Dog and caught up with his rations, he said to himself that he would slay old Brer Rabbit if it took him a month. Brer Rabbit got wind of this, and one day, while going along the road studying how to hold his hand with Brer Fox, he saw a great big Horse lying stretched out flat on his side in the pasture; he crept up to see if the Horse had died, and by and by saw the tail switch — so he knew he was not dead. Brer Rabbit loped back to the big road, and the first man he saw going by was Brer Fox, and he hollered, 'Brer Fox! Come back! I done find the place where you can lay in fresh meat enough to last you plum to the middle of next year!'",
+          "note": "Paraphrase of Harris, tale II (1883); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Brer Fox came galloping back, for it seemed like as good a time as any to nab Brer Rabbit — but before he got within nabbing distance, Brer Rabbit said the prize was a whole Horse lying down on the ground where they could catch him and tie him. When they got there, sure enough, there lay the Horse all stretched out in the sun, fast asleep; and Brer Fox and Brer Rabbit had a dispute about how they were going to fix the Horse so he could not get loose, until Brer Rabbit said the only plan he knew was for Brer Fox to get down there and let Rabbit tie him to the Horse's tail — for then, when the horse tried to get up, the fox could hold him down. 'If I was a big man like what you is, you might tie me to that Horse's tail — but being as I ain't, we better drop that idea if you are feared.' Brer Fox, jealous but bound to play biggity, agreed.",
+          "note": "Paraphrase of Harris, tale II, middle (1883); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "Brer Rabbit tied Brer Fox to the Horse's tail, hard and fast, stepped back with his hands akimbo and grinned: 'If ever they was a Horse caught, then we done caught this one. Look like we done put the bridle on the wrong end — but I lay Brer Fox has the strength to hold him.' With that he cut a long switch, stepped up, and hit the Horse a rap — pow! The Horse made one jump and landed on his feet, and there was Brer Fox dangling in the air while Brer Rabbit darted out of the way and hollered, 'Hold him down, Brer Fox! I'll stand out here and see fair play!' The Horse jumped and humped, ripped and reared, shook Brer Fox like a rag in the wind — 'Hold him down, Brer Fox! You got him now, sho'!' — until a hind kick fetched the fox a lick in the stomach, broke him loose, and sent him a-whirling; he was not exactly killed, honey, but he was the next door to it, and while he was getting well it came across his mind that Brer Rabbit had played another game on him.",
+          "note": "Paraphrase of Harris, tale II, ending (1883); not verbatim."
+        }
+      ]
+    },
+    {
+      "id": "afroatlantic-rabbit-little-girl",
+      "title": {
+        "en": "Brother Rabbit and the Little Girl",
+        "zh": "兔哥哥與小姑娘"
+      },
+      "tradition": "afroatlantic",
+      "category": "myth-religion",
+      "region": {
+        "en": "Middle Georgia plantation country, USA",
+        "zh": "美國喬治亞中部種植園地帶"
+      },
+      "lat": 33.33,
+      "lon": -83.47,
+      "period": "African-American oral tradition; collected 1879-1881; published 2024 (published 1883)",
+      "source": {
+        "archive": "Project Gutenberg",
+        "work": "Joel Chandler Harris, 'Nights with Uncle Remus' (2024 print of 1883), tale III 'Brother Rabbit and the Little Girl'",
+        "url": "https://www.gutenberg.org/cache/epub/26429/pg26429.txt"
+      },
+      "license": "Public domain (published 1883)",
+      "summary": {
+        "en": "The garden-gate fraud: 'your pa says give me some greens' wins Rabbit a mess of collards day after day, until Mr. Man catches on, sets the trap, ties the thief with a fishing-line and goes for the little red cowhide. Left to the Little Girl's guard, Brer Rabbit sings — 'Mr. Mole, he hide in the groun'' — coughs his hoarseness, offers to dance instead, gets untied to do it, and dances clean out of the garden and home.",
+        "zh": "『你爸爸叫拿點青菜』——兔哥哥天天憑此句進園飽餐，直到主人識破設伏，用釣線把賊捆牢、進屋取小紅皮鞭。看守的小姑娘被一支歌迷住——『鼴鼠先生藏在土裡』——兔仔咳稱嗓啞、改舞代唱、請她解繩；一解繩便舞出菜園、舞回家去。"
+      },
+      "motifs": [
+        "trickster",
+        "taboo-transgression"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Brer Rabbit cycle. Dialect rendered to standard English in paraphrase."
+      },
+      "persons": [
+        "brer-rabbit",
+        "brer-fox"
+      ],
+      "passages": [
+        {
+          "id": "1",
+          "text": "One time, after Brer Rabbit had been tramping round hunting up some salad to make out his dinner with, he found himself in the neighborhood of Mr. Man's house, and near the garden-gate he saw the Little Girl playing round in the sand. When Brer Rabbit looked between the garden-palings and saw the collards, the asparagus-grass and the other garden truck growing there, it made his mouth water. He walked up to the Little Girl, pulled his roach, bowed, scraped his foot, and talked mighty nice and slick: 'Howdy, Little Gal — your pa says to tell you to open the garden-gate so Brer Rabbit can go in and get some truck.'",
+          "note": "Paraphrase of Harris, tale III (1883); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "She jumped round, opened the gate, and Brer Rabbit hopped in, got a mess of greens, hopped out again, made a bow, and said he was much obliged. The next day he hid out until he saw the Little Girl come out to play, put up the same tale, and walked off with another mess of truck — and it kept on this way until Mr. Man began missing his greens, and kept on missing them, until he got to excusing everybody on the place of destroying them. Then the Little Girl said, 'My goodness, pa! You done told Mr. Rabbit to come and make me let him in the garden after some greens, and ain't he done come and ax me, and ain't I done gone and let him in?'",
+          "note": "Paraphrase of Harris, tale III, middle (1883); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "Mr. Man laughed and told the Little Girl that next time Mr. Rabbit came, she must turn him in and run fast and tell him — he had some business with that young chap that needed to be attended to. Sure enough, next morning here came Brer Rabbit after his allowance of greens; the Little Girl turned him in and ran up to the house hollering, and Mr. Man rushed out, grabbed up the fishing-line hanging on the back porch, caught Brer Rabbit tromping on the strawberry-bed, and tied him hard and fast: 'You done fooled me lots of times, but this time you are mine. I'm going to take you and gin you a larruping, and then I'm going to skin you and nail your hide on the stable door' — and he called to the Little Girl to watch Brer Rabbit while he went to fetch the little red cowhide.",
+          "note": "Paraphrase of Harris, tale III, middle-b (1883); not verbatim."
+        },
+        {
+          "id": "4",
+          "text": "Brer Rabbit was not saying nothing, but Mr. Man was not more than out the gate before he began to sing — and in those days Brer Rabbit was a singer, mon, and when he tuned up he made the other creatures hold their breath: 'The jay-bird hunts the sparrow-nest, the bee-martin sails all round; the squirrel, he hollers from the top of the tree, Mr. Mole, he stay in the ground; he hide and he stay till the dark drops down — Mr. Mole, he hide in the ground.' The Little Girl laughed and begged for more, but Brer Rabbit coughed and allowed he had a mighty bad hoarseness down in his windpipe somewhere; then he offered to dance instead — how could a man dance tied up this way? — and the Little Girl reached down and unloosed the fish-line. Brer Rabbit gathered up his feet under him and danced out of that garden, and he danced home: a man who has had Brer Rabbit's experience is not going to stay and let Mr. Man sacrifice him.",
+          "note": "Paraphrase of Harris, tale III, ending (1883); not verbatim."
+        }
+      ]
+    },
+    {
+      "id": "afroatlantic-fox-too-smart",
+      "title": {
+        "en": "How Brother Fox Was Too Smart",
+        "zh": "聰明反被聰明誤"
+      },
+      "tradition": "afroatlantic",
+      "category": "myth-religion",
+      "region": {
+        "en": "Middle Georgia plantation country, USA",
+        "zh": "美國喬治亞中部種植園地帶"
+      },
+      "lat": 33.33,
+      "lon": -83.47,
+      "period": "African-American oral tradition; collected 1879-1881; published 2024 (published 1883)",
+      "source": {
+        "archive": "Project Gutenberg",
+        "work": "Joel Chandler Harris, 'Nights with Uncle Remus' (2024 print of 1883), tale IV 'How Brother Fox Was Too Smart'",
+        "url": "https://www.gutenberg.org/cache/epub/26429/pg26429.txt"
+      },
+      "license": "Public domain (published 1883)",
+      "summary": {
+        "en": "Seeing how slick the play-dead trick worked for Brer Rabbit, Brer Fox copies it on Mr. Man's loaded market-waggon — laying down before the chickens, then before the pigs, then stretched out big enough to fill a two-bushel basket. Mr. Man stops, examines the third corpse with a horse-doctor's thoroughness, finds it warm and limber with no broken bones and no blood, and settles the diagnosis with one whack of the whip-handle behind the ears; the chicken-nabber scrambles to his feet and makes tracks.",
+        "zh": "兔哥哥裝死之計見效，福克斯便在市場馬車前照搬——先攔雞車、再攔豬車、末了橫躺大得能填滿兩斗籃。主人下車驗『屍』如獸醫查病：耳溫、頸溫、肋骨完好、四肢靈便、無血無傷——診斷由鞭柄一記後腦定讞；偷雞賊翻身爬起，落荒而逃。"
+      },
+      "motifs": [
+        "trickster",
+        "boon-curse"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Brer Rabbit cycle (copycat-moral tale). Dialect rendered to standard English in paraphrase."
+      },
+      "persons": [
+        "brer-rabbit",
+        "brer-fox"
+      ],
+      "passages": [
+        {
+          "id": "1",
+          "text": "Old Brer Fox, when he saw how slick the trick worked with Brer Rabbit, said to himself that he believed he would try the same kind of game on some other man, and he kept on watching for his chance until, one day, he heard Mr. Man coming down the big road in a one-hoss waggon, carrying some chickens, some eggs, and some butter to town. Brer Fox heard him coming, and what did he do but go and lay down in the road in front of the waggon. Mr. Man drove along, clucking to the horse and humming to himself, and when they got most up to Brer Fox, the horse shied, Mr. Man hollered Whoa! and looked down: 'Heyo! There is the chap that has been nabbing up my chickens, and somebody has gone and shot off a gun at him — which I wish she had been two guns, that I does!'",
+          "note": "Paraphrase of Harris, tale IV (1883); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "Mr. Man drove on and left Brer Fox lying there. Then Brer Fox got up, ran round through the woods, and laid down in front of Mr. Man again — 'Heyo! Here is the very chap that has been destroying my pigs. Somebody has gone and killed him, and I wish they had killed him a long time ago.' Mr. Man drove on, and the waggon-wheel came mighty nigh mashing Brer Fox's nose; but all the same, Brer Fox lit up, ran round ahead of Mr. Man, and lay down in the road all stretched out like he was big enough to fill a two-bushel basket, and looking like he was dead enough to be skint.",
+          "note": "Paraphrase of Harris, tale IV, middle (1883); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "Mr. Man drove up and stopped, looked round for the cause of all these dead foxes, saw nothing, heard nothing, and studied a while; then he allowed he had better examine what kind of queer disease had got into the Brer Fox family. He lit down out of the waggon and felt of Brer Fox's ear — it felt right warm; felt of his neck — right warm; felt of him in the short ribs — sound; felt of his limbs — sound; turned him over, and, lo and behold, Brer Fox was right limber. 'Heyo! How come this? This chicken-nabber looks like he is dead, but there is not a bone broke, and I don't see no blood, neither do I feel no bruise; and more than that, he is warm and limber. Something wrong here, sho'! This pig-grabber might be dead, and then again he mightn't — but to make sure that he is, I'll just gin him a whack with my whip-handle!' And with that Mr. Man drew back and fetched Brer Fox a clip behind the ears — pow! — the lick came so hard and so quick that Brer Fox thought sure he was a goner; but before Mr. Man could draw back to fetch him another, Brer Fox scrambled to his feet and just made tracks away from there. That is what Brer Fox got for playing Mr. Smarty and copying after other folks — and that is just the way the whole Smarty family is going to come out.",
+          "note": "Paraphrase of Harris, tale IV, ending (1883); not verbatim."
+        }
+      ]
+    },
+    {
+      "id": "afroatlantic-wull-er-de-wust",
+      "title": {
+        "en": "The Wull-er-de-Wust: Brer Rabbit's Honey-and-Leaves Masquerade",
+        "zh": "『最兇最惡』：蜜與葉的假面"
+      },
+      "tradition": "afroatlantic",
+      "category": "myth-religion",
+      "region": {
+        "en": "Middle Georgia plantation country, USA",
+        "zh": "美國喬治亞中部種植園地帶"
+      },
+      "lat": 33.33,
+      "lon": -83.47,
+      "period": "African-American oral tradition; collected 1879-2021 (published 1883)",
+      "source": {
+        "archive": "Project Gutenberg",
+        "work": "Joel Chandler Harris, 'Nights with Uncle Remus' (2024 print of 1883), tale V 'Brother Rabbit's Astonishing Prank'",
+        "url": "https://www.gutenberg.org/cache/epub/26429/pg26429.txt"
+      },
+      "license": "Public domain (published 1883)",
+      "summary": {
+        "en": "Ransacking Brer Bear's house while the family is out, Brer Rabbit is drowned in a spilled bucket of honey and rolls himself in leaves to clean off — a capering, swishy-swushy bogey that empties the settlement: Sis Cow bolts, the tolling girl flies, the shotes tear through the woods, Brer Bear tears down a fence-panel, and Kubs and Klibs skaddle through the bushes. Challenged by Brer Wolf in front of Brer Fox, the monster roars 'I'm de Wull-er-de-Wust, en youer de man I'm atter!' — and for a long time after, the gals at Miss Meadows's giggle about whether the Wull-er-de-Wust might drop in.",
+        "zh": "趁熊家外出，兔哥哥搜屋時被倒翻的蜜桶澆了滿身，入林滾葉自救——一隻嘩嘩作響、蹦跳起伏的妖怪便出現在鄉間：母牛狂奔、放豬丫頭棄籃而逃、豬崽穿林亂竄、熊撞塌籬笆、雙胞胎捧帽狂奔。狼狐攔路喝問來者何人，妖怪跺腳咆哮：『我是最兇最惡的，你就是我找的傢伙！』——此後米多斯太太家的姑娘們一聽『妖怪』便咯咯直笑。"
+      },
+      "motifs": [
+        "trickster",
+        "transformation"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Brer Rabbit cycle. 'Wull-er-de-Wust' is likely a corruption of will-o'-the-wisp (Harris note). Dialect rendered to standard English in paraphrase."
+      },
+      "persons": [
+        "brer-rabbit",
+        "brer-fox",
+        "brer-bear"
+      ],
+      "passages": [
+        {
+          "id": "1",
+          "text": "One time he took a notion, old Brer Rabbit did, that he would pay Brer Bear a call — and no sooner did the notion strike him than he picked himself up and put out for Brer Bear's house, making his call while Brer Bear and his family were away from home. He sat down by the road and saw them go by — old Brer Bear and old Miss Bear, and their two twin-children, one named Kubs and the other Klibs. When Brer Rabbit saw this, he said to himself that he reckoned he better go see how Brer Bear was getting on, and off he put; and it was not long before he was ransacking the premises same like he was a sure-enough patroller. While he was going round peeping in here and poking in there, he got to fooling among the shelves, and a bucket of honey that Brer Bear had hid in the cupboard fell down and spilled on top of Brer Rabbit, and a little more and he would have been drowned — from head to heels that creature was covered with honey, so that he had to sit and let the natal sweetness drip out of his eyeballs before he could see his hand before him.",
+          "note": "Paraphrase of Harris, tale V (1883); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "By and by a notion struck Brer Rabbit, and he tip-toed till he got into the woods, where he rolled in the leaves and trash to rub the honey off — he rolled, and the leaves stuck; he rolled again, and the leaves stuck again, until Brer Rabbit was the most outrageous-looking creature you ever set eyes on. He jumped round and tried to shake the leaves off, but they were not going to be shook off; he shook and he shivered, but the leaves stuck — and the capers that creature cut up out there in the woods by his own-alone self were scandalous. He looked exactly like one of these boogers that gets after bad children — if you had struck up along with him, you would have been mighty good and glad if you had got off with that.",
+          "note": "Paraphrase of Harris, tale V, middle (1883); not verbatim."
+        },
+        {
+          "id": "3",
+          "text": "The first man Brer Rabbit came up with was old Sis Cow, and no sooner did she lay eyes on him than she hoisted her tail in the elements and put out like a pack of dogs was after her — which made Brer Rabbit laugh, because he knew that when an old settled woman like Sis Cow ran distracted in the broad open day-time, there must be something mighty queer about those leaves and that honey. The next man he met was a black girl tolling a whole passel of plantation shotes; when the girl saw Brer Rabbit come prancing along she flung down her basket of corn and fairly flew, and the shotes took through the woods with such a racket of running, snorting and squealing as was never heard in that settlement before or since. It kept on this way as long as Brer Rabbit met anybody — they just broke and ran like the Ole Boy was after them.",
+          "note": "Paraphrase of Harris, tale V, middle-b (1883); not verbatim."
+        },
+        {
+          "id": "4",
+          "text": "Brer Rabbit paraded on down the road until here came Brer Bear and all his family; Brer Rabbit got crossways of the road and sidled toward them. Ole Miss Bear stood it as long as she could and then flung down her parasol and took a tree; Brer Rabbit jumped straight up in the air and gave himself a shake — and ole Brer Bear made a break, they tell me, and tore down a whole panel of fence getting away from there, while Kubs and Klibs took their hats in their hands and skaddled through the bushes same as a drove of horses. By and by here came Brer Fox and Brer Wolf fixing up a plan to nab Brer Rabbit, and they were so intent on their confab that they got right on him before they saw him — but gentlemen! when they caught a glimpse of him, they gave him all the room he wanted. Brer Wolf tried to show off, because he wanted to play big before Brer Fox, and stopped and asked Brer Rabbit who he was; Brer Rabbit jumped up and down in the middle of the road and hollered, 'I'm the Wull-er-de-Wust, and you are the man I'm after!' — and the way those creatures lit out from there was a caution. A long time after that, when Brer Rabbit showed himself laughing behind the stump, Miss Meadows heard about it, and the next time Brer Fox called, the gals giggled and asked him whether he was not afraid the Wull-er-de-Wust might drop in.",
+          "note": "Paraphrase of Harris, tale V, ending (1883); not verbatim."
+        }
+      ]
+    },
+    {
+      "id": "afroatlantic-rabbit-two-story-house",
+      "title": {
+        "en": "Brother Rabbit Secures a Mansion",
+        "zh": "兔哥哥坐擁豪宅"
+      },
+      "tradition": "afroatlantic",
+      "category": "myth-religion",
+      "region": {
+        "en": "Middle Georgia plantation country, USA",
+        "zh": "美國喬治亞中部種植園地帶"
+      },
+      "lat": 33.33,
+      "lon": -83.47,
+      "period": "African-American oral tradition; collected 1879-2021 (published 1883)",
+      "source": {
+        "archive": "Project Gutenberg",
+        "work": "Joel Chandler Harris, 'Nights with Uncle Remus' (2024 print of 1883), tale VI 'Brother Rabbit Secures a Mansion'",
+        "url": "https://www.gutenberg.org/cache/epub/26429/pg26429.txt"
+      },
+      "license": "Public domain (published 1883)",
+      "summary": {
+        "en": "The creatures go into cahoots to build a fine two-story house while Brer Rabbit — dizzy on scaffolds, palsied in the sun — walks round measuring and marking with a pencil behind his ear, doing nothing. He picks an upstairs room, moves in his gun, his brass cannon and his tub of scalding water, and when the builders come for their lodgings, the doors open on a hail of hot water and buckshot: the co-op house becomes a private mansion, and the co-builders scatter to their holes.",
+        "zh": "眾獸合夥興建兩層樓房；兔哥哥自稱上架子頭暈、日曬抽風，卻拿著鉛筆在耳後轉來轉去、丈量標記——其實一事不做。房子落成，他選中樓上一間，偷偷搬進獵槍、銅炮與一大桶滾水；房客們前來投宿，迎門的是滾水與鉛彈——合夥樓成了私產，合建者各奔巢穴。"
+      },
+      "motifs": [
+        "trickster",
+        "taboo-transgression"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Brer Rabbit cycle. Dialect rendered to standard English in paraphrase."
+      },
+      "persons": [
+        "brer-rabbit",
+        "brer-fox"
+      ],
+      "passages": [
+        {
+          "id": "1",
+          "text": "It turned out one time that a whole lot of the creatures took a notion that they would go in cahoots with building them a house. Ole Brer Bear was among them, and Brer Fox, and Brer Wolf, and Brer Coon, and Brer Possum — it seemed like plum down to ole Brer Mink was among them too; leastways, there was a whole passel of them, and they whirled in and built the house in less than no time. Brer Rabbit made like it made his head swim to climb up on the scaffold, and likewise he said it made him catch the palsy to work in the sun, but he got him a square, stuck a pencil behind his ear, and went round measuring and marking — measuring and marking — and he was so busy that the other creatures said to themselves he was doing a monstrous sight of work, and folks going along the big road said Brer Rabbit was doing more hard work than the whole kit and bilin of them. Yet all the time Brer Rabbit was doing nothing, and he might just as well have been lying off in the shade scratching the fleas off of him.",
+          "note": "Paraphrase of Harris, tale VI (1883); not verbatim."
+        },
+        {
+          "id": "2",
+          "text": "The other creatures built the house, and gentlemen! she was a fine one, too, mon — she would have been a fine one these days, let alone those days. She had upstairs and downstairs, and chimneys all round, and she had rooms for all the creatures that went into cahoots to help make it. Brer Rabbit picked out one of the upstairs rooms, and he got him a gun, and one of these here brass cannons, and put them in there when the other creatures were not looking, and then he got him a tub — and when the builders came to claim their lodging, the doors of the fine new house opened on scalding water and gun-fire, and the cahoots scattered to their several holes.",
+          "note": "Paraphrase of Harris, tale VI, ending (1883); not verbatim."
+        }
+      ]
+    }
+  ]
+}

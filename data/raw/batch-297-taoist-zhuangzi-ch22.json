@@ -1,0 +1,364 @@
+{
+  "texts": [
+    {
+      "id": "taoist-zhuangzi-knowledge-travels-north",
+      "title": {
+        "en": "Knowledge Travels North: The Quest Across the Dark Mountains (Zhuangzi)",
+        "zh": "知北遊：玄水之上，隱弁之丘（莊子）"
+      },
+      "tradition": "taoist",
+      "category": "religious",
+      "region": {
+        "en": "The Black Water and the Dark-Steep Mountain (mythic north; symbolic pin: Altai range, Xinjiang, China)",
+        "zh": "玄水與隱弁之丘（神話北方；象徵定位：新疆阿爾泰山）"
+      },
+      "lat": 47.5,
+      "lon": 88.5,
+      "period": "Zhuangzi ch. 22, c. 4th-3rd c. BCE (trans. Giles, 1889)",
+      "source": {
+        "archive": "Project Gutenberg",
+        "work": "Chuang Tzu: Mystic, Moralist, and Social Reformer, trans. Herbert A. Giles, ch. 22",
+        "url": "https://www.gutenberg.org/ebooks/59709"
+      },
+      "license": "Public domain (translation 1889)",
+      "summary": {
+        "en": "Knowledge travels north across the Black Water and over the Dark-Steep Mountain seeking the Tao. Do-nothing Say-nothing cannot answer; All-in-extremes forgets what he was about to say; only the Yellow Emperor replies — and then declares that he and Knowledge are wholly wrong, for those who understand it do not speak about it, and those who speak about it do not understand it.",
+        "zh": "知北遊於玄水之上，登隱弁之丘——而適遭無為謂。三問而不答；知問乎狂屈，欲言而忘其言；終問於黃帝：無思無慮始知道。"
+      },
+      "motifs": [
+        "quest-immortality",
+        "prophetic-vision",
+        "parable-teaching"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Canonical text of the Taoist canon (Nanhua zhenjing); the mythic quest-geography of the Tao. Included as a comparative text."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "When Knowledge travelled north, across the Black Water, and over the Dark-Steep Mountain, he met Do-nothing Say-nothing and asked of him as follows: \"Kindly tell me by what thoughts, by what cogitations, may TAO be known? By resting in what, by according in what, may TAO be approached? By following what, by pursuing what, may TAO be attained?\" To these three questions, Do-nothing Say-nothing returned no answer. Not that he would not answer, but that he could not."
+        },
+        {
+          "id": "2",
+          "text": "So when Knowledge got no reply, he turned round and went off to the south of the White Water and up the Ku-chüeh Mountain, where he saw All-in-extremes, and to him he put the same questions. \"Ha!\" cried All-in-extremes, \"I know. I will tell you....\" But just as he was about to speak he forgot what he wanted to say. So when Knowledge got no reply, he went back to the palace and asked the Yellow Emperor. The latter said, \"By no thoughts, by no cogitations, TAO may be known. By resting in nothing, by according in nothing, TAO may be approached. By following nothing, by pursuing nothing, TAO may be attained.\""
+        },
+        {
+          "id": "3",
+          "text": "Then Knowledge said to the Yellow Emperor, \"Now you and I know this, but those two know it not. Who is right?\" \"Of those two,\" replied the Yellow Emperor, \"Do-nothing Say-nothing is genuinely right, and All-in-extremes is near. You and I are wholly wrong. Those who understand it do not speak about it, those who speak about it do not understand it. ... TAO cannot be made to come. Virtue cannot be reached. Charity can be evoked. Duty to one's neighbour can be wrongly directed. Ceremonies are mere shams.\""
+        }
+      ],
+      "persons": [
+        "huangdi"
+      ]
+    },
+    {
+      "id": "taoist-zhuangzi-pii-song",
+      "title": {
+        "en": "Yeh Ch'üeh Falls Asleep at the Teaching (Zhuangzi)",
+        "zh": "被衣論道，齧缺睡寐（莊子）"
+      },
+      "tradition": "taoist",
+      "category": "religious",
+      "region": {
+        "en": "The tutor's hillside (symbolic pin: Song, Henan, China)",
+        "zh": "師門之阪（象徵定位：宋，今河南）"
+      },
+      "lat": 34.41,
+      "lon": 115.65,
+      "period": "Zhuangzi ch. 22, c. 4th-3rd c. BCE (trans. Giles, 1889)",
+      "source": {
+        "archive": "Project Gutenberg",
+        "work": "Chuang Tzu: Mystic, Moralist, and Social Reformer, trans. Herbert A. Giles, ch. 22",
+        "url": "https://www.gutenberg.org/ebooks/59709"
+      },
+      "license": "Public domain (translation 1889)",
+      "summary": {
+        "en": "Yeh Ch'üeh asks P'i I about the TAO; he is told to keep his body under proper control and his gaze concentrated upon ONE, aimless as a new-born calf which recks not how it came into the world. While P'i I was still speaking, Yeh Ch'üeh had gone off to sleep; at which the former rejoiced greatly, and departed singing: Body like dry bone, Mind like dead ashes.",
+        "zh": "被衣曰：正汝形，一汝視，天和將至；攝汝知，一汝度，神將來舍——德將為汝美，道將為汝居。體若槁木，心若死灰。"
+      },
+      "motifs": [
+        "parable-teaching"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Canonical text of the Taoist canon (Nanhua zhenjing). Included as a comparative text — a scholarly framing, not a claim about religious truth."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Yeh Ch'üeh enquired of P'i I about TAO. The latter said, \"Keep your body under proper control, your gaze concentrated upon ONE,--and the peace of God will descend upon you. Keep back your knowledge, and concentrate your thoughts upon ONE,--and the holy spirit shall abide within you. Virtue shall beautify you, TAO shall establish you, aimless as a new-born calf which recks not how it came into the world.\""
+        },
+        {
+          "id": "2",
+          "text": "While P'i I was still speaking, Yeh Ch'üeh had gone off to sleep; at which the former rejoiced greatly, and departed singing, \"Body like dry bone, Mind like dead ashes; This is true knowledge, Not to strive after knowing the whence. In darkness, in obscurity, The mindless cannot plan;-- What manner of man is that?\""
+        }
+      ],
+      "persons": []
+    },
+    {
+      "id": "taoist-zhuangzi-shun-body-not-his-own",
+      "title": {
+        "en": "Shun's Body Is Not His Own (Zhuangzi)",
+        "zh": "舜問乎丞：身非吾有（莊子）"
+      },
+      "tradition": "taoist",
+      "category": "religious",
+      "region": {
+        "en": "Shun's court (symbolic pin: Puzhou, Shanxi, China)",
+        "zh": "舜廷（象徵定位：山西蒲州）"
+      },
+      "lat": 34.83,
+      "lon": 110.29,
+      "period": "Zhuangzi ch. 22, c. 4th-3rd c. BCE (trans. Giles, 1889)",
+      "source": {
+        "archive": "Project Gutenberg",
+        "work": "Chuang Tzu: Mystic, Moralist, and Social Reformer, trans. Herbert A. Giles, ch. 22",
+        "url": "https://www.gutenberg.org/ebooks/59709"
+      },
+      "license": "Public domain (translation 1889)",
+      "summary": {
+        "en": "Shun asks his tutor Ch'êng whether one can get the TAO so as to have it for one's own. Your very body is not your own, replies Ch'êng — it is the delegated image of God; your life the delegated harmony, your individuality the delegated adaptability, your posterity the delegated exuviæ of God.",
+        "zh": "舜問乎丞曰：道可得而有乎？曰：汝身非汝有也，孰有之哉？曰：是天地之委形也；生非汝有，是天地之委和也。"
+      },
+      "motifs": [
+        "parable-teaching"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Canonical text of the Taoist canon (Nanhua zhenjing). Included as a comparative text — a scholarly framing, not a claim about religious truth."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Shun asked Ch'êng, saying, \"Can one get TAO so as to have it for one's own?\" \"Your very body,\" replied Ch'êng, \"is not your own. How should TAO be?\" \"If my body,\" said Shun, \"is not my own, pray whose is it?\" \"It is the delegated image of God,\" replied Ch'êng. \"Your life is not your own. It is the delegated harmony of God. Your individuality is not your own. It is the delegated adaptability of God. Your posterity is not your own. It is the delegated exuviæ of God. You move, but know not how. You are at rest, but know not why. You taste, but know not the cause. These are the operation of God's laws. How then should you get TAO so as to have it for your own?\""
+        }
+      ],
+      "persons": [
+        "yao"
+      ]
+    },
+    {
+      "id": "taoist-zhuangzi-tao-in-the-ant",
+      "title": {
+        "en": "The TAO Is in the Ant, the Tare, the Potsherd, and the Ordure (Zhuangzi)",
+        "zh": "莊子曰：無所不在，在螻蟻、在稊稗（莊子）"
+      },
+      "tradition": "taoist",
+      "category": "religious",
+      "region": {
+        "en": "Tung Kuo Tzŭ's questioning (symbolic pin: Song, Henan, China)",
+        "zh": "東郭子問莊子（象徵定位：宋，今河南）"
+      },
+      "lat": 34.41,
+      "lon": 115.65,
+      "period": "Zhuangzi ch. 22, c. 4th-3rd c. BCE (trans. Giles, 1889)",
+      "source": {
+        "archive": "Project Gutenberg",
+        "work": "Chuang Tzu: Mystic, Moralist, and Social Reformer, trans. Herbert A. Giles, ch. 22",
+        "url": "https://www.gutenberg.org/ebooks/59709"
+      },
+      "license": "Public domain (translation 1889)",
+      "summary": {
+        "en": "Tung Kuo Tzŭ demands one place where the TAO is. It is in the ant, answers Chuang Tzŭ; in a tare; in a potsherd; in ordure — until the questioner makes no reply. Then comes the instruction to reach the palace of Nowhere and carry discussions into the infinite, and the great doctrine: TAO causes fulness and emptiness, but it is not either.",
+        "zh": "東郭子問莊子曰：所謂道，惡乎在？莊子曰：無所不在——在螻蟻；在稊稗；在瓦甓；在屎溺。道在屎溺：每下愈況。"
+      },
+      "motifs": [
+        "parable-teaching",
+        "theophany"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Canonical text of the Taoist canon (Nanhua zhenjing); the pantheistic descent is Zhuangzi's most-quoted answer on the Tao's location. Included as a comparative text."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Tung Kuo Tzŭ asked Chuang Tzŭ, saying, \"What you call TAO,--where is it?\" \"There is nowhere,\" replied Chuang Tzŭ, \"where it is not.\" \"Tell me one place at any rate where it is,\" said Tung Kuo Tzŭ. \"It is in the ant,\" replied Chuang Tzŭ. \"Why go so low down?\" asked Tung Kuo Tzŭ. \"It is in a tare,\" said Chuang Tzŭ. \"Still lower,\" objected Tung Kuo Tzŭ. \"It is in a potsherd,\" said Chuang Tzŭ. \"Worse still!\" cried Tung Kuo Tzŭ. \"It is in ordure,\" said Chuang Tzŭ. And Tung Kuo Tzŭ made no reply."
+        },
+        {
+          "id": "2",
+          "text": "\"Sir,\" continued Chuang Tzŭ, \"your question does not touch the essential. When Huo, inspector of markets, asked the managing director about the fatness of pigs, the test was always made in parts least likely to be fat. Do not therefore insist in any particular direction; for there is nothing which escapes. ... Try to reach with me the palace of Nowhere, and there, amidst the identity of all things, carry your discussions into the infinite. ... TAO causes fulness and emptiness, but it is not either. It causes renovation and decay, but it is not either. It causes beginning and end, but it is not either.\""
+        }
+      ],
+      "persons": [
+        "zhuangzi"
+      ]
+    },
+    {
+      "id": "taoist-zhuangzi-tao-cannot-be-heard",
+      "title": {
+        "en": "The TAO Cannot Be Heard, Seen, or Spoken (Zhuangzi)",
+        "zh": "道不可聞，聞而非也（莊子）"
+      },
+      "tradition": "taoist",
+      "category": "religious",
+      "region": {
+        "en": "The dialogue of the Empyrean (symbolic pin: Song, Henan, China)",
+        "zh": "泰清之問（象徵定位：宋，今河南）"
+      },
+      "lat": 34.41,
+      "lon": 115.65,
+      "period": "Zhuangzi ch. 22, c. 4th-3rd c. BCE (trans. Giles, 1889)",
+      "source": {
+        "archive": "Project Gutenberg",
+        "work": "Chuang Tzu: Mystic, Moralist, and Social Reformer, trans. Herbert A. Giles, ch. 22",
+        "url": "https://www.gutenberg.org/ebooks/59709"
+      },
+      "license": "Public domain (translation 1889)",
+      "summary": {
+        "en": "The Empyrean asks Without-end, Inaction, and No-beginning whether TAO can be known. No-beginning answers: not to know is profound, to know is shallow; TAO cannot be heard — heard, it is not TAO; seen, it is not TAO; spoken, it is not TAO. That which imparts form to forms is itself formless; therefore TAO cannot have a name.",
+        "zh": "泰清問乎無窮，無始曰：道不可聞，聞而非也；道不可見，見而非也；道不可言，言而非也——知形形之不形乎！"
+      },
+      "motifs": [
+        "parable-teaching",
+        "quest-immortality",
+        "primeval-waters"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Canonical text of the Taoist canon (Nanhua zhenjing). Included as a comparative text — a scholarly framing, not a claim about religious truth."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The Empyrean asked Without-end, saying, \"Do you know TAO?\" \"I do not,\" replied Without-end; whereupon the Empyrean proceeded to ask Inaction. \"I do know TAO,\" said Inaction. \"Is there any method,\" asked the Empyrean, \"by which you know TAO?\" \"There is,\" replied Inaction. \"I know,\" answered Inaction, \"that TAO may honour and dishonour, bind and loose. That is the method by which I know TAO.\""
+        },
+        {
+          "id": "2",
+          "text": "\"Not to know,\" replied No-beginning, \"is profound. To know is shallow. Not to know is internal. To know is external. ... TAO,\" said No-beginning, \"cannot be heard. Heard, it is not TAO. It cannot be seen. Seen, it is not TAO. It cannot be spoken. Spoken, it is not TAO. That which imparts form to forms is itself formless; therefore TAO cannot have a name.\" ... \"To ask a question which cannot be asked is vain. To answer a question which cannot be answered is unreal. And one who thus meets the vain with the unreal is ... unfit alike to roam over the K'un-lun peak or to soar into the Supreme Void.\""
+        }
+      ],
+      "persons": []
+    },
+    {
+      "id": "taoist-zhuangzi-light-asks-nothing",
+      "title": {
+        "en": "Light Asks Nothing (Zhuangzi)",
+        "zh": "光曜問乎無有（莊子）"
+      },
+      "tradition": "taoist",
+      "category": "religious",
+      "region": {
+        "en": "The colloquy of Light and Nothing (symbolic pin: Song, Henan, China)",
+        "zh": "光與無有之對話（象徵定位：宋，今河南）"
+      },
+      "lat": 34.41,
+      "lon": 115.65,
+      "period": "Zhuangzi ch. 22, c. 4th-3rd c. BCE (trans. Giles, 1889)",
+      "source": {
+        "archive": "Project Gutenberg",
+        "work": "Chuang Tzu: Mystic, Moralist, and Social Reformer, trans. Herbert A. Giles, ch. 22",
+        "url": "https://www.gutenberg.org/ebooks/59709"
+      },
+      "license": "Public domain (translation 1889)",
+      "summary": {
+        "en": "Light asks Nothing whether he exists; getting no answer, Light watches for the appearance of Nothing all day long — looks but cannot see it, listens but cannot hear it, grasps at but cannot seize it. Bravo! cries Light. I can get to be nothing, but I cannot get as far as the absence of nothing.",
+        "zh": "光曜問乎無有曰：夫子有乎？其無有乎？無有弗應也。光曜視之，無見也；聽之，無聞也；摶之，不可得也。"
+      },
+      "motifs": [
+        "parable-teaching",
+        "creation-chaos"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Canonical text of the Taoist canon (Nanhua zhenjing). Included as a comparative text — a scholarly framing, not a claim about religious truth."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Light asked Nothing, saying, \"Do you, Sir, exist, or do you not exist?\" But getting no answer to his question, Light set to work to watch for the appearance of Nothing. Hidden, vacuous,--all day long he looked but could not see it, listened but could not hear it, grasped at but could not seize it. \"Bravo!\" cried Light. \"Who can equal this? I can get to be nothing, but I cannot get as far as the absence of nothing. Assuming that Nothing has an objective existence, how can it reach this next stage?\""
+        }
+      ],
+      "persons": []
+    },
+    {
+      "id": "taoist-zhuangzi-sword-forger",
+      "title": {
+        "en": "The Sword-Forger of Eighty Years (Zhuangzi)",
+        "zh": "大馬之捶鉤者，年八十矣（莊子）"
+      },
+      "tradition": "taoist",
+      "category": "religious",
+      "region": {
+        "en": "The Minister of War's forge (symbolic pin: Song, Henan, China)",
+        "zh": "司馬之冶（象徵定位：宋，今河南）"
+      },
+      "lat": 34.41,
+      "lon": 115.65,
+      "period": "Zhuangzi ch. 22, c. 4th-3rd c. BCE (trans. Giles, 1889)",
+      "source": {
+        "archive": "Project Gutenberg",
+        "work": "Chuang Tzu: Mystic, Moralist, and Social Reformer, trans. Herbert A. Giles, ch. 22",
+        "url": "https://www.gutenberg.org/ebooks/59709"
+      },
+      "license": "Public domain (translation 1889)",
+      "summary": {
+        "en": "The man who forged swords for the Minister of War is eighty years of age, yet never makes the slightest slip in his work. It is concentration, he answers: when twenty years old he took to forging swords and cared for nothing else — if a thing was not a sword, he did not notice it, availing himself of whatever energy he did not use in other directions.",
+        "zh": "大馬之捶鉤者，年八十矣，而不失豪芒。曰：是守之也——於物無視也，非鉤無察也；是用之者，假不用者也以長得其用。"
+      },
+      "motifs": [
+        "parable-teaching"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Canonical text of the Taoist canon (Nanhua zhenjing). Included as a comparative text — a scholarly framing, not a claim about religious truth."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "The man who forged swords for the Minister of War was eighty years of age. Yet he never made the slightest slip in his work. The Minister of War said to him, \"Is it your skill, Sir, or have you any method?\" \"It is concentration,\" replied the man. \"When twenty years old, I took to forging swords. I cared for nothing else. If a thing was not a sword, I did not notice it. I availed myself of whatever energy I did not use in other directions in order to secure greater efficiency in the direction required. Still more of that which is never without use;--So that there was nothing which did not lend its aid.\""
+        }
+      ],
+      "persons": []
+    },
+    {
+      "id": "taoist-zhuangzi-white-horse-crack",
+      "title": {
+        "en": "Life as a White Horse Passing a Crack (Zhuangzi)",
+        "zh": "人生天地之間，若白駒之過郤（莊子）"
+      },
+      "tradition": "taoist",
+      "category": "religious",
+      "region": {
+        "en": "Confucius's hall (Qufu, Shandong, China)",
+        "zh": "夫子之堂（今山東曲阜）"
+      },
+      "lat": 35.6,
+      "lon": 116.99,
+      "period": "Zhuangzi ch. 22, c. 4th-3rd c. BCE (trans. Giles, 1889)",
+      "source": {
+        "archive": "Project Gutenberg",
+        "work": "Chuang Tzu: Mystic, Moralist, and Social Reformer, trans. Herbert A. Giles, ch. 22",
+        "url": "https://www.gutenberg.org/ebooks/59709"
+      },
+      "license": "Public domain (translation 1889)",
+      "summary": {
+        "en": "Jen Ch'iu asks Confucius whether we can know the time before the universe existed; Time was of old precisely what it is now, is the answer. Life and death are correlates; what there was before the universe was TAO — TAO makes things what they are, but is not itself a thing. And man passes through this sublunary life as a white horse passes a crack: the bow-sheath is slipped off, and in the confusion the soul wings its flight on the great journey home.",
+        "zh": "冉求問於仲尼：未有天地可知邪？孔子曰：可——古猶今也。人生天地之間，若白駒之過郤，忽然而已。已化而生，又化而死。"
+      },
+      "motifs": [
+        "creation-chaos",
+        "origin-of-death",
+        "parable-teaching"
+      ],
+      "sensitivity": {
+        "restricted": false,
+        "note": "Canonical text of the Taoist canon (Nanhua zhenjing). Included as a comparative text — a scholarly framing, not a claim about religious truth."
+      },
+      "passages": [
+        {
+          "id": "1",
+          "text": "Jen Ch'iu asked Confucius, saying, \"Can we know about the time before the universe existed?\" \"We can,\" replied Confucius. \"Time was of old precisely what it is now.\" At this rebuff, Jen Ch'iu withdrew. Next day he again visited Confucius and said, \"Yesterday when I asked you that question and you answered me, I was quite clear about it. To-day I am confused. How is this?\" \"Your clearness of yesterday,\" answered Confucius, \"was because my answer appealed direct to your natural intelligence. Your confusion of to-day results from the intrusion of something other than the natural intelligence. There is no past, no present, no beginning, no end."
+        },
+        {
+          "id": "2",
+          "text": "What there was before the universe, was TAO. TAO makes things what they are, but is not itself a thing. Nothing can produce TAO; yet everything has TAO within it, and continues to produce it without end. \"Man passes through this sublunary life as a white horse passes a crack. Here one moment, gone the next. ... Living creatures cry out; human beings sorrow. The bow-sheath is slipped off; the clothes-bag is dropped; and in the confusion the soul wings its flight, and the body follows, on the great journey home!\""
+        }
+      ],
+      "persons": [
+        "confucius"
+      ]
+    }
+  ]
+}
