@@ -224,6 +224,11 @@ export function hydrateCorpusFromRaw(rawTexts) {
       add(counts, titleTokens, 1.4)
       add(counts, summaryTokens, 0.6)
       add(counts, motifTokens, 1.2)
+      // Chinese translations (when present) join the index at a lower weight
+      // so visitors can search the stories in Chinese; the English originals
+      // remain the primary signal.
+      const zhTokens = typeof p.zh === 'string' && p.zh.trim() ? tokenize(p.zh) : []
+      if (zhTokens.length) add(counts, zhTokens, 0.8)
       // stem/word → the original word form in this passage, so the UI can
       // show "apples" instead of the stem "appl" in matched-terms lists
       const displayByStem = new Map()
@@ -232,7 +237,8 @@ export function hydrateCorpusFromRaw(rawTexts) {
         if (!displayByStem.has(w)) displayByStem.set(w, w)
         if (w.length > 4 && !displayByStem.has(stem(w))) displayByStem.set(stem(w), w)
       }
-      docEntries.push({ textId: text.id, pid: p.id, counts, passageTokens: new Set(passageTokens), displayByStem, raw: p.text })
+      for (const w of zhTokens) if (!displayByStem.has(w)) displayByStem.set(w, w)
+      docEntries.push({ textId: text.id, pid: p.id, counts, passageTokens: new Set([...passageTokens, ...zhTokens]), displayByStem, raw: p.text })
     }
   }
 

@@ -148,4 +148,7 @@ export default {
 
   'footer.sample': 'Running on a 40-text public-domain sample corpus (19 traditions) — replace it with your own (see README).',
   'footer.ethics': 'Motif indexes carry cultural bias; texts from restricted traditions are excluded by design.',
+  "common.translationNote": "AI translation of the public-domain original — the English text below is the source.",
+  "common.showOriginal": "English original",
+  "common.showTranslation": "Chinese translation",
 }

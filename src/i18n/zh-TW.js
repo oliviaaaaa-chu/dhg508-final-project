@@ -147,4 +147,7 @@ export default {
   'compare.noSharedMotif': '無共享的標準母題——此匹配來自用詞與主題，而非已標記的母題。',
   'lang.switch': 'English',
   'lang.current': '繁體中文',
+  "common.translationNote": "AI 譯文——原文為公有領域英文文本，可切換查看。",
+  "common.showOriginal": "查看英文原文",
+  "common.showTranslation": "查看中文譯文",
 }

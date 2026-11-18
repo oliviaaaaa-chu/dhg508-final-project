@@ -6,6 +6,53 @@ import SaveButton from './SaveButton.jsx'
 import MotifChip from './MotifChip.jsx'
 import { CloseIcon } from './Icons.jsx'
 
+// One excerpt. When a Chinese translation exists and the interface is in
+// Traditional Chinese, the translation is shown first (clearly labelled — it
+// is an AI translation, not the public-domain original) with a toggle back
+// to the English source text.
+function PassageCard({ p, title, region, textId }) {
+  const { t, lang } = useI18n()
+  const [showOriginal, setShowOriginal] = useState(false)
+  const hasZh = typeof p.zh === 'string' && p.zh.trim().length > 0
+  const showZh = lang === 'zh-TW' && hasZh && !showOriginal
+  const body = showZh ? p.zh : p.text
+  return (
+    <div className="bg-white border border-stone-200 rounded-lg p-3.5">
+      {showZh && (
+        <p className="text-[10px] text-amber-700 bg-amber-50 border border-amber-200 rounded px-2 py-1 mb-2 inline-block">
+          {t('common.translationNote')}
+        </p>
+      )}
+      <p className={`text-sm leading-relaxed text-stone-700 font-serif ${showZh ? '' : ''}`}>“{body}”</p>
+      <div className="flex items-center justify-between mt-2.5">
+        <span className="text-[11px] text-stone-400">
+          {t('common.excerptCondensed')} {p.id}
+        </span>
+        <div className="flex items-center gap-2">
+          {hasZh && (
+            <button
+              onClick={() => setShowOriginal((s) => !s)}
+              className="text-[11px] text-stone-500 border border-stone-200 rounded-full px-2 py-0.5 hover:text-stone-900 hover:border-stone-400 transition-colors"
+            >
+              {showOriginal ? t('common.showTranslation') : t('common.showOriginal')}
+            </button>
+          )}
+          <SaveButton
+            item={{
+              type: 'excerpt',
+              ref: `${textId}:${p.id}`,
+              title: `${title} — ${t('common.excerptCondensed')} ${p.id}`,
+              subtitle: region,
+              text: body,
+              meta: { textId, passageId: p.id, lang: showZh ? 'zh-TW' : 'en' },
+            }}
+          />
+        </div>
+      </div>
+    </div>
+  )
+}
+
 export default function TextDetail({ id, onClose, onOpenRelated }) {
   const { t, L } = useI18n()
   const [matrixReady, setMatrixReady] = useState(matrixIsReady())
@@ -60,24 +107,7 @@ export default function TextDetail({ id, onClose, onOpenRelated }) {
           <h3 className="text-xs font-semibold uppercase tracking-wider text-stone-400 mb-2">{t('common.passages')}</h3>
           <div className="space-y-2.5">
             {text.passages.map((p) => (
-              <div key={p.id} className="bg-white border border-stone-200 rounded-lg p-3.5">
-                <p className="text-sm leading-relaxed text-stone-700 font-serif">“{p.text}”</p>
-                <div className="flex items-center justify-between mt-2.5">
-                  <span className="text-[11px] text-stone-400">
-                    {t('common.excerptCondensed')} {p.id}
-                  </span>
-                  <SaveButton
-                    item={{
-                      type: 'excerpt',
-                      ref: `${text.id}:${p.id}`,
-                      title: `${L(text.title)} — ${t('common.excerptCondensed')} ${p.id}`,
-                      subtitle: L(text.region),
-                      text: p.text,
-                      meta: { textId: text.id, passageId: p.id },
-                    }}
-                  />
-                </div>
-              </div>
+              <PassageCard key={p.id} p={p} title={L(text.title)} region={L(text.region)} textId={text.id} />
             ))}
           </div>
         </section>
