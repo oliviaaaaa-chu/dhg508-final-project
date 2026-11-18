@@ -150,4 +150,5 @@ export default {
   "common.translationNote": "AI 譯文——原文為公有領域英文文本，可切換查看。",
   "common.showOriginal": "查看英文原文",
   "common.showTranslation": "查看中文譯文",
+  "common.showBoth": "同時顯示兩種語言",
 }

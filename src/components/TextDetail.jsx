@@ -6,24 +6,33 @@ import SaveButton from './SaveButton.jsx'
 import MotifChip from './MotifChip.jsx'
 import { CloseIcon } from './Icons.jsx'
 
-// One excerpt. When a Chinese translation exists and the interface is in
-// Traditional Chinese, the translation is shown first (clearly labelled — it
-// is an AI translation, not the public-domain original) with a toggle back
-// to the English source text.
+// One excerpt, shown bilingually when a translation exists: the translation
+// (clearly labelled — AI translation, not the public-domain original) and the
+// English source text are displayed together; the language toggle collapses
+// to either one alone.
 function PassageCard({ p, title, region, textId }) {
   const { t, lang } = useI18n()
-  const [showOriginal, setShowOriginal] = useState(false)
+  const [mode, setMode] = useState('both')
   const hasZh = typeof p.zh === 'string' && p.zh.trim().length > 0
-  const showZh = lang === 'zh-TW' && hasZh && !showOriginal
-  const body = showZh ? p.zh : p.text
+  const zhFirst = lang === 'zh-TW' && hasZh
+  const showZh = hasZh && mode !== 'original'
+  const showEn = mode !== 'translation'
+  const note = mode !== 'original'
   return (
     <div className="bg-white border border-stone-200 rounded-lg p-3.5">
-      {showZh && (
+      {note && (
         <p className="text-[10px] text-amber-700 bg-amber-50 border border-amber-200 rounded px-2 py-1 mb-2 inline-block">
           {t('common.translationNote')}
         </p>
       )}
-      <p className={`text-sm leading-relaxed text-stone-700 font-serif ${showZh ? '' : ''}`}>“{body}”</p>
+      <div className="space-y-2.5">
+        {showZh && (
+          <p className={`text-sm leading-relaxed text-stone-800 font-serif ${!showEn ? '' : ''}`} lang="zh-Hant">“{p.zh}”</p>
+        )}
+        {showEn && (
+          <p className={`text-sm leading-relaxed text-stone-700 font-serif ${showZh ? 'text-[13px] text-stone-500' : ''}`}>“{p.text}”</p>
+        )}
+      </div>
       <div className="flex items-center justify-between mt-2.5">
         <span className="text-[11px] text-stone-400">
           {t('common.excerptCondensed')} {p.id}
@@ -31,10 +40,10 @@ function PassageCard({ p, title, region, textId }) {
         <div className="flex items-center gap-2">
           {hasZh && (
             <button
-              onClick={() => setShowOriginal((s) => !s)}
+              onClick={() => setMode(mode === 'both' ? 'original' : mode === 'original' ? 'translation' : 'both')}
               className="text-[11px] text-stone-500 border border-stone-200 rounded-full px-2 py-0.5 hover:text-stone-900 hover:border-stone-400 transition-colors"
             >
-              {showOriginal ? t('common.showTranslation') : t('common.showOriginal')}
+              {mode === 'both' ? t('common.showOriginal') : mode === 'original' ? t('common.showTranslation') : t('common.showBoth')}
             </button>
           )}
           <SaveButton
@@ -43,8 +52,8 @@ function PassageCard({ p, title, region, textId }) {
               ref: `${textId}:${p.id}`,
               title: `${title} — ${t('common.excerptCondensed')} ${p.id}`,
               subtitle: region,
-              text: body,
-              meta: { textId, passageId: p.id, lang: showZh ? 'zh-TW' : 'en' },
+              text: showZh && showEn ? `${p.zh}\n\n${p.text}` : showZh ? p.zh : p.text,
+              meta: { textId, passageId: p.id, lang: showZh && showEn ? 'zh-TW+en' : showZh ? 'zh-TW' : 'en' },
             }}
           />
         </div>
@@ -54,7 +63,7 @@ function PassageCard({ p, title, region, textId }) {
 }
 
 export default function TextDetail({ id, onClose, onOpenRelated }) {
-  const { t, L } = useI18n()
+  const { t, L, lang } = useI18n()
   const [matrixReady, setMatrixReady] = useState(matrixIsReady())
   useEffect(() => {
     if (!matrixReady) ensureMatrix().then(setMatrixReady)
@@ -91,7 +100,16 @@ export default function TextDetail({ id, onClose, onOpenRelated }) {
       <div className="flex-1 overflow-y-auto p-5 space-y-5">
         <section>
           <h3 className="text-xs font-semibold uppercase tracking-wider text-stone-400 mb-1.5">{t('common.summary')}</h3>
-          <p className="text-sm leading-relaxed text-stone-700">{L(text.summary)}</p>
+          {typeof text.summary === 'object' && text.summary !== null ? (
+            <div className="space-y-1.5">
+              <p className="text-sm leading-relaxed text-stone-800">{text.summary[lang] ?? text.summary.en}</p>
+              {lang !== 'en' && text.summary.en && text.summary[lang] !== text.summary.en && (
+                <p className="text-[13px] leading-relaxed text-stone-500">{text.summary.en}</p>
+              )}
+            </div>
+          ) : (
+            <p className="text-sm leading-relaxed text-stone-700">{L(text.summary)}</p>
+          )}
         </section>
 
         <section>

@@ -151,4 +151,5 @@ export default {
   "common.translationNote": "AI translation of the public-domain original — the English text below is the source.",
   "common.showOriginal": "English original",
   "common.showTranslation": "Chinese translation",
+  "common.showBoth": "Show both languages",
 }
