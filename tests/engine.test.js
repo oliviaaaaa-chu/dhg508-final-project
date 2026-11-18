@@ -1,7 +1,17 @@
-import { describe, it, expect } from 'vitest'
-import { texts, motifs, search, tokenize, detectMotifs, textById, buildQueryVector, related, graph, similarity, fingerprint } from '../src/lib/search.js'
+import { beforeAll, describe, it, expect } from 'vitest'
+import { readFileSync } from 'node:fs'
+import { fileURLToPath } from 'node:url'
+import { join } from 'node:path'
+import { texts, motifs, search, tokenize, detectMotifs, textById, buildQueryVector, related, graph, similarity, fingerprint, hydrateCorpusFromRaw } from '../src/lib/search.js'
 import { POLICY } from '../src/data/traditionPolicy.js'
 import { CHARACTERS, characterById, charactersOf, reply } from '../src/lib/mockChat.js'
+
+const root = fileURLToPath(new URL('..', import.meta.url))
+
+beforeAll(() => {
+  const raw = JSON.parse(readFileSync(join(root, 'src/data/texts.json'), 'utf8'))
+  hydrateCorpusFromRaw(raw)
+}, 120000)
 
 describe('search engine', () => {
   it('indexes the corpus after applying the curatorial policy', () => {
@@ -20,7 +30,7 @@ describe('search engine', () => {
   })
 
   it('tokenizes into lowercase stems', () => {
-    expect(tokenize('The Raven Steals the Light!')).toEqual(expect.arrayContaining(['raven', 'steals', 'light']))
+    expect(tokenize('The Raven Steals the Light!')).toEqual(expect.arrayContaining(['raven', 'steal', 'light']))
   })
 
   it('keyword search ranks known terms first', () => {
@@ -74,6 +84,38 @@ describe('search engine', () => {
     const [a, b] = texts.slice(0, 2)
     expect(similarity(a.id, b.id)).toBeCloseTo(similarity(b.id, a.id), 6)
   })
+
+  it('stems plurals so "apples" and "apple" find the same texts', () => {
+    // greek-apollodorus-apples-hesperides contains the plural "apples"; a
+    // singular "apple" query must still reach it (it did not before the
+    // stemmer fix — tester-reported).
+    const single = search('apple', 'keyword').slice(0, 10).map((r) => r.text.id)
+    const plural = search('apples', 'keyword').slice(0, 10).map((r) => r.text.id)
+    expect(single).toContain('greek-apollodorus-apples-hesperides')
+    expect(plural).toContain('greek-apollodorus-apples-hesperides')
+  })
+
+  it('matched terms display real words, not stems', () => {
+    for (const r of search('someone steals apples', 'keyword')) {
+      for (const m of r.matched) {
+        expect(m.endsWith('appl')).toBe(false)
+        expect(m).not.toBe('steal')
+      }
+    }
+  })
+
+  it('Greek and Roman names resolve to the same stories', () => {
+    const g = new Set(search('hercules fights the lion', 'keyword').slice(0, 8).map((r) => r.text.id))
+    const k = new Set(search('heracles fights the lion', 'keyword').slice(0, 8).map((r) => r.text.id))
+    const overlap = [...g].filter((id) => k.has(id))
+    expect(overlap.length).toBeGreaterThan(0)
+  })
+
+  it('fighting a lion surfaces the Nemean lion story', () => {
+    const hits = search('fighting a lion', 'keyword').slice(0, 8).map((r) => r.text)
+    const titles = hits.map((t) => (t.title.en + ' ' + t.summary.en).toLowerCase())
+    expect(titles.some((x) => /nemean|lion/.test(x))).toBe(true)
+  })
 })
 
 describe('character chat (offline fallback path)', () => {
@@ -82,6 +124,12 @@ describe('character chat (offline fallback path)', () => {
   it('has a tiered roster of 100+ fictional figures', () => {
     expect(CHARACTERS.length).toBeGreaterThanOrEqual(100)
     for (const c of CHARACTERS) expect(c.tradition).toBeTruthy()
+  })
+
+  it('excludes the traditions the curatorial policy excludes', () => {
+    for (const c of CHARACTERS) {
+      expect(POLICY.excluded.includes(c.tradition), `${c.id} (${c.tradition}) must not be offered`).toBe(false)
+    }
   })
 
   it('resolves characters by id and groups them by tradition', () => {

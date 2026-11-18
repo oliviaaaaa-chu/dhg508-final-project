@@ -31,12 +31,18 @@ npx wrangler pages deploy dist --project-name=motif-atlas   # publish to the liv
 
 ## Layout
 
+- `public/corpus.json` — served copy of the corpus, fetched lazily by the app
+  (regenerate with `node scripts/emit_corpus.mjs`, which runs inside
+  `npm run build` and `npm run dev`; never hand-edit the public copy)
 - `src/data/texts.json` — frozen corpus (built by `scripts/01_build_corpus.py`
   from curated batches in `data/raw/batch-*.json`; edit batches, not this file,
   unless fixing a data bug in place — then fix the batch too)
 - `src/lib/search.js` — TF-IDF engine + semantic query path
   (`semantic-embeddings.json` in `public/`, model from Hugging Face, ORT wasm
-  from jsDelivr)
+  from jsDelivr). The corpus and the similarity matrix hydrate lazily —
+  `ensureCorpus()` before anything renders, `ensureMatrix()` before
+  Network/Embedding/related-parallels. Do not reintroduce module-level
+  blocking work: the app must paint before the corpus arrives.
 - `src/lib/mockChat.js` — character chat; live API via `/api/chat`
   (`functions/api/chat.js` in production, dev proxy in `vite.config.js`)
 - `tests/corpus.test.js`, `tests/engine.test.js` — the historical guardrails

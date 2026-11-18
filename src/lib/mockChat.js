@@ -1,11 +1,17 @@
 import { texts, motifById, detectMotifs, search } from './search.js'
 import { TRADITIONS } from './colors.js'
+import { POLICY } from '../data/traditionPolicy.js'
 import roster from '../data/characters.json'
 
-export const CHARACTERS = Array.isArray(roster) ? roster : roster.characters
-export const TRADITION_ORDER = Array.isArray(roster)
-  ? Object.keys(TRADITIONS).map((slug) => ({ slug, tier: 1 }))
-  : roster.traditions
+// The raw roster still contains figures from traditions the curatorial
+// policy excludes (their slugs also leaked into the picker as lowercase
+// labels). Applying the policy here keeps the "restricted traditions stay
+// excluded" rule true for the chat as well.
+const rawRoster = Array.isArray(roster) ? roster : roster.characters
+export const CHARACTERS = rawRoster
+  .filter((c) => !POLICY.excluded.includes(c.tradition))
+  .map((c) => (POLICY.merges[c.tradition] ? { ...c, tradition: POLICY.merges[c.tradition] } : c))
+export const TRADITION_ORDER = Object.keys(TRADITIONS).map((slug) => ({ slug, tier: 1 }))
 
 export function characterById(id) {
   return CHARACTERS.find((c) => c.id === id)

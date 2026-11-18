@@ -5,14 +5,30 @@ import zhTW from './zh-TW.js'
 const DICTS = { en, 'zh-TW': zhTW }
 const I18nContext = createContext(null)
 
+// Bilingual (EN / Traditional Chinese) interface. The dictionaries already
+// covered the whole UI; the switch is persisted in localStorage.
 export function I18nProvider({ children }) {
-  const [lang] = useState('en')
-  const setLang = () => {}
+  const [lang, setLangState] = useState(() => {
+    try {
+      return localStorage.getItem('dhg508-lang') === 'zh-TW' ? 'zh-TW' : 'en'
+    } catch {
+      return 'en'
+    }
+  })
 
   useEffect(() => {
-    localStorage.removeItem('dhg508-lang')
-    document.documentElement.lang = 'en'
-  }, [])
+    document.documentElement.lang = lang
+  }, [lang])
+
+  const setLang = (next) => {
+    const v = next === 'zh-TW' ? 'zh-TW' : 'en'
+    setLangState(v)
+    try {
+      localStorage.setItem('dhg508-lang', v)
+    } catch {
+      /* private mode — stay session-only */
+    }
+  }
 
   const value = useMemo(() => {
     const t = (key, vars) => {

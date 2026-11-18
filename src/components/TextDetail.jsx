@@ -1,5 +1,6 @@
+import { useEffect, useState } from 'react'
 import { useI18n } from '../i18n/index.jsx'
-import { textById, motifById, related } from '../lib/search.js'
+import { textById, motifById, related, ensureMatrix, matrixIsReady } from '../lib/search.js'
 import { tradColor, TRADITIONS } from '../lib/colors.js'
 import SaveButton from './SaveButton.jsx'
 import MotifChip from './MotifChip.jsx'
@@ -7,9 +8,13 @@ import { CloseIcon } from './Icons.jsx'
 
 export default function TextDetail({ id, onClose, onOpenRelated }) {
   const { t, L } = useI18n()
+  const [matrixReady, setMatrixReady] = useState(matrixIsReady())
+  useEffect(() => {
+    if (!matrixReady) ensureMatrix().then(setMatrixReady)
+  }, [matrixReady])
   const text = textById.get(id)
   if (!text) return null
-  const relatedTexts = related(id, 3)
+  const relatedTexts = matrixReady ? related(id, 3) : []
 
   return (
     <div className="fixed inset-y-0 right-0 z-[1200] w-full max-w-md bg-stone-50 shadow-2xl border-l border-stone-200 flex flex-col">

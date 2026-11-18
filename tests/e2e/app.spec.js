@@ -19,14 +19,21 @@ test.afterEach(({ page }, testInfo) => {
   ).toEqual([])
 })
 
+// The corpus is fetched lazily on first visit; a cold load can take a while,
+// so navigation assertions get generous timeouts everywhere.
+async function openApp(page) {
+  await page.goto('/')
+  await expect(page.locator('nav')).toBeVisible({ timeout: 60000 })
+}
+
 test('app shell loads with title and corpus header', async ({ page }) => {
   await page.goto('/')
-  await expect(page.getByText('Motif Atlas')).toBeVisible()
-  await expect(page.locator('header')).toContainText(/5,?\d{3}/)
+  await expect(page.getByText('Motif Atlas').first()).toBeVisible({ timeout: 60000 })
+  await expect(page.locator('header')).toContainText(/5,?\d{3}/, { timeout: 60000 })
 })
 
 test('keyword search finds results', async ({ page }) => {
-  await page.goto('/')
+  await openApp(page)
   await page.getByRole('button', { name: 'Keyword' }).click()
   const input = page.locator('main input').first()
   await input.fill('trickster')
@@ -35,7 +42,7 @@ test('keyword search finds results', async ({ page }) => {
 })
 
 test('every view opens without crashing', async ({ page }) => {
-  await page.goto('/')
+  await openApp(page)
   for (const name of ['Compare', 'Database', 'Map', 'Network', 'Embedding Map', 'Notebook', 'Character Chat']) {
     await page.locator('nav').getByText(name, { exact: true }).click()
     await expect(page.locator('main')).toBeVisible()
@@ -44,13 +51,13 @@ test('every view opens without crashing', async ({ page }) => {
 })
 
 test('database lists the frozen corpus scale', async ({ page }) => {
-  await page.goto('/')
+  await openApp(page)
   await page.locator('nav').getByText('Database', { exact: true }).click()
-  await expect(page.locator('main')).toContainText(/5,?\d{3}/, { timeout: 15000 })
+  await expect(page.locator('main')).toContainText(/5,?\d{3}/, { timeout: 20000 })
 })
 
 test('character chat replies via the mock fallback when the API is unavailable', async ({ page }) => {
-  await page.goto('/')
+  await openApp(page)
   await page.locator('nav').getByText('Character Chat', { exact: true }).click()
   await page.route('**/api/chat', (r) => {
     page.__blockApi = true
@@ -60,5 +67,53 @@ test('character chat replies via the mock fallback when the API is unavailable',
   await input.fill('How did the world begin?')
   await input.press('Enter')
   // The empty-state placeholder must disappear once a reply arrives.
-  await expect(page.locator('main').getByText(/No conversation/i)).toBeHidden({ timeout: 20000 })
+  await expect(page.locator('main').getByText(/No conversation|Ask the character/i).first()).toBeHidden({ timeout: 20000 })
+})
+
+test('first load transfers a small JS payload (corpus is fetched, not bundled)', async ({ page }) => {
+  let jsBytes = 0
+  page.on('response', async (r) => {
+    if (r.request().resourceType() === 'script') {
+      try {
+        jsBytes += (await r.body()).length
+      } catch {
+        /* aborted requests don't count */
+      }
+    }
+  })
+  await page.goto('/')
+  await expect(page.locator('header')).toContainText(/5,?\d{3}/, { timeout: 60000 })
+  expect(jsBytes).toBeLessThan(3 * 1024 * 1024)
+})
+
+test('network view stays responsive while re-thresholding', async ({ page }) => {
+  await openApp(page)
+  await page.locator('nav').getByText('Network', { exact: true }).click()
+  const slider = page.locator('input[type=range]').first()
+  await slider.waitFor({ timeout: 30000 })
+  for (const v of ['0.3', '0.45', '0.6', '0.75', '0.4']) {
+    await slider.fill(v)
+    await page.waitForTimeout(250)
+  }
+  // the app must still react immediately after all those layout recomputes
+  await page.locator('nav').getByText('Notebook', { exact: true }).click()
+  await expect(page.locator('main')).toBeVisible()
+})
+
+test('database cards offer an explicit full-text open', async ({ page }) => {
+  await openApp(page)
+  await page.locator('nav').getByText('Database', { exact: true }).click()
+  // cards live inside collapsed tradition groups — expand one first
+  await page.locator('section button').first().click()
+  await page.getByRole('button', { name: /details/i }).first().click()
+  await expect(page.getByText(/passages|excerpt/i).first()).toBeVisible({ timeout: 15000 })
+})
+
+test('language switch renders Traditional Chinese and persists', async ({ page }) => {
+  await openApp(page)
+  await page.getByRole('button', { name: '繁體中文' }).first().click()
+  await expect(page.locator('nav')).toContainText('比較')
+  await page.reload()
+  await expect(page.locator('nav')).toContainText('資料庫', { timeout: 60000 })
+  await expect(page.locator('nav')).toContainText('比較')
 })

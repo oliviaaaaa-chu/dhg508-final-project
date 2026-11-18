@@ -1,6 +1,10 @@
 export default {
   'app.title': 'Motif Atlas',
   'app.subtitle': 'Comparative Mythology Explorer',
+  'app.loading': 'Loading the corpus…',
+  'app.loadingNote': 'First visit downloads about 6 MB — one moment.',
+  'lang.switch': '繁體中文',
+  'lang.current': 'English',
 
   'nav.search': 'Search',
   'nav.compare': 'Compare',

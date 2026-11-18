@@ -46,16 +46,24 @@ function TextCard({ tx, onOpen }) {
             <MotifChip key={m} motif={motifById.get(m)} />
           ))}
         </div>
-        <SaveButton
-          item={{
-            type: 'text',
-            ref: tx.id,
-            title: L(tx.title),
-            subtitle: `${L(TRADITIONS[tx.tradition] || { en: tx.tradition })} · ${L(tx.region)}`,
-            text: L(tx.summary),
-            meta: { textId: tx.id, motifs: tx.motifs, category: tx.category },
-          }}
-        />
+        <div className="flex items-center gap-1.5">
+          <button
+            onClick={() => onOpen(tx.id)}
+            className="text-[11px] font-medium rounded-full px-2.5 py-1 border border-stone-300 bg-white text-stone-600 hover:bg-stone-800 hover:text-white transition-colors"
+          >
+            {t('common.openDetails')}
+          </button>
+          <SaveButton
+            item={{
+              type: 'text',
+              ref: tx.id,
+              title: L(tx.title),
+              subtitle: `${L(TRADITIONS[tx.tradition] || { en: tx.tradition })} · ${L(tx.region)}`,
+              text: L(tx.summary),
+              meta: { textId: tx.id, motifs: tx.motifs, category: tx.category },
+            }}
+          />
+        </div>
       </div>
     </article>
   )

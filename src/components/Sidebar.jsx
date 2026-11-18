@@ -14,7 +14,7 @@ const VIEWS = [
 ]
 
 export default function Sidebar({ view, setView }) {
-  const { t } = useI18n()
+  const { t, lang, setLang } = useI18n()
   const count = useNotebook((s) => s.items.length)
 
   return (
@@ -22,6 +22,12 @@ export default function Sidebar({ view, setView }) {
       <div className="hidden md:block px-5 pt-6 pb-5 border-b border-stone-800">
         <p className="font-display text-amber-100 text-lg leading-tight font-semibold">{t('app.title')}</p>
         <p className="text-[11px] text-stone-500 mt-1">{t('app.subtitle')}</p>
+        <button
+          onClick={() => setLang(lang === 'en' ? 'zh-TW' : 'en')}
+          className="mt-3 text-[11px] text-stone-400 border border-stone-700 rounded-full px-2.5 py-1 hover:text-amber-100 hover:border-amber-500 transition-colors"
+        >
+          {t('lang.switch')}
+        </button>
       </div>
 
       <ul className="flex md:flex-col flex-row md:flex-1 md:py-4">

@@ -2,7 +2,7 @@ import { useEffect, useMemo, useRef, useState } from 'react'
 import * as THREE from 'three'
 import { OrbitControls } from 'three/addons/controls/OrbitControls.js'
 import { useI18n } from '../i18n/index.jsx'
-import { embedding3D, search, related, textById, motifById, texts } from '../lib/search.js'
+import { embedding3D, search, related, textById, motifById, texts, ensureMatrix, matrixIsReady } from '../lib/search.js'
 import { tradColor, TRADITIONS } from '../lib/colors.js'
 import SaveButton from '../components/SaveButton.jsx'
 import MotifChip from '../components/MotifChip.jsx'
@@ -109,8 +109,12 @@ export default function EmbeddingView({ onOpen }) {
   const [query, setQuery] = useState('')
   const [filterOpen, setFilterOpen] = useState(true)
   const [legendOpen, setLegendOpen] = useState(false)
+  const [matrixReady, setMatrixReady] = useState(matrixIsReady())
+  useEffect(() => {
+    if (!matrixReady) ensureMatrix().then(setMatrixReady)
+  }, [matrixReady])
 
-  const emb = useMemo(() => embedding3D(), [])
+  const emb = useMemo(() => (matrixReady ? embedding3D() : null), [matrixReady])
 
   const matches = useMemo(() => {
     if (!query.trim()) return null
@@ -134,7 +138,7 @@ export default function EmbeddingView({ onOpen }) {
 
   useEffect(() => {
     const container = mountRef.current
-    if (!container || stateRef.current) return
+    if (!container || stateRef.current || !emb) return
 
     const width = container.clientWidth || 800
     const height = container.clientHeight || 500

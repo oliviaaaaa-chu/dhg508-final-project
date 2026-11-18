@@ -4,8 +4,8 @@
   "version": "0.1.0",
   "type": "module",
   "scripts": {
-    "dev": "py scripts/04_semantic_cache.py & vite --host",
-    "build": "py scripts/04_semantic_cache.py & vite build & node scripts/slim_dist.mjs",
+    "dev": "node scripts/emit_corpus.mjs & py scripts/04_semantic_cache.py & vite --host",
+    "build": "py scripts/04_semantic_cache.py & node scripts/emit_corpus.mjs & vite build & node scripts/slim_dist.mjs",
     "embed": "node scripts/embed_corpus.mjs",
     "preview": "vite preview",
     "test": "vitest run",

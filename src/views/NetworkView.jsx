@@ -1,13 +1,19 @@
-import { useEffect, useMemo, useRef, useState } from 'react'
+import { useEffect, useDeferredValue, useMemo, useRef, useState } from 'react'
 import { forceSimulation, forceLink, forceManyBody, forceCenter, forceCollide } from 'd3-force'
 import { useI18n } from '../i18n/index.jsx'
-import { graph, textById, motifById, similarity } from '../lib/search.js'
+import { graph, textById, motifById, similarity, ensureMatrix, matrixIsReady } from '../lib/search.js'
 import { tradColor, TRADITIONS } from '../lib/colors.js'
 import SaveButton from '../components/SaveButton.jsx'
 import MotifChip from '../components/MotifChip.jsx'
 
 const W = 900
 const H = 620
+// Above ~500 rendered edges the SVG + force layout dominate the main thread;
+// extra links beyond this add noise, not information.
+const MAX_LINKS = 500
+// 120 settled ticks instead of 420 — visually equivalent after d3's default
+// alpha decay, but ~3.5x less main-thread work per threshold change.
+const TICKS = 120
 
 function Chevron({ open }) {
   return (
@@ -43,25 +49,36 @@ export default function NetworkView({ onOpen }) {
   const [tf, setTf] = useState({ x: 0, y: 0, k: 1 })
   const [showThreshold, setShowThreshold] = useState(true)
   const [showLegend, setShowLegend] = useState(true)
+  const [matrixReady, setMatrixReady] = useState(matrixIsReady())
   const svgRef = useRef(null)
   const drag = useRef({ lastX: 0, lastY: 0, moved: 0, active: false })
 
+  // Dragging the slider fires continuously; deferring keeps the control
+  // responsive while the (heavy) layout recomputes in the background.
+  const settledThreshold = useDeferredValue(threshold)
+
+  useEffect(() => {
+    if (!matrixReady) ensureMatrix().then(setMatrixReady)
+  }, [matrixReady])
+
   const layout = useMemo(() => {
-    const g = graph(threshold)
+    if (!matrixReady) return { nodes: [], links: [] }
+    const g = graph(settledThreshold)
+    const links = [...g.links].sort((a, b) => b.weight - a.weight).slice(0, MAX_LINKS)
     const nodes = g.nodes.map((n, i) => ({
       ...n,
       x: Math.cos((i / g.nodes.length) * Math.PI * 2) * 180,
       y: Math.sin((i / g.nodes.length) * Math.PI * 2) * 140,
     }))
     const sim = forceSimulation(nodes)
-      .force('link', forceLink(g.links).id((d) => d.id).distance(120).strength(0.22))
+      .force('link', forceLink(links).id((d) => d.id).distance(120).strength(0.22))
       .force('charge', forceManyBody().strength(-340))
       .force('center', forceCenter(0, 0))
       .force('collide', forceCollide(30))
     sim.stop()
-    for (let i = 0; i < 420; i++) sim.tick()
-    return { nodes, links: g.links }
-  }, [threshold])
+    for (let i = 0; i < TICKS; i++) sim.tick()
+    return { nodes, links }
+  }, [settledThreshold, matrixReady])
 
   useEffect(() => {
     const svg = svgRef.current

@@ -1,36 +1,18 @@
-import textsRaw from '../data/texts.json'
 import motifsRaw from '../data/motifs.json'
 import { POLICY } from '../data/traditionPolicy.js'
 
-export const texts = textsRaw
-  .filter(
-    (t) =>
-      !POLICY.excluded.includes(t.tradition) &&
-      Array.isArray(t.passages) &&
-      t.passages.length > 0 &&
-      t.passages.every((p) => p && typeof p.text === 'string' && p.text.trim()) &&
-      Array.isArray(t.motifs) &&
-      t.title &&
-      t.title.en &&
-      t.region &&
-      typeof t.lat === 'number' &&
-      typeof t.lon === 'number' &&
-      typeof t.period === 'string' &&
-      t.source
-  )
-  .map((t) => {
-    let tx = POLICY.merges[t.tradition] ? { ...t, tradition: POLICY.merges[t.tradition] } : t
-    if (tx.category === 'religious' && !POLICY.pureReligion.includes(tx.tradition)) {
-      tx = { ...tx, category: 'myth' }
-    }
-    const cat = POLICY.recategorizeByTradition?.[tx.tradition]
-    if (cat) tx = { ...tx, category: cat }
-    return tx
-  })
 export const motifs = motifsRaw
-export const textById = new Map(texts.map((t) => [t.id, t]))
 export const motifById = new Map(motifs.map((m) => [m.id, m]))
-export const textIds = texts.map((t) => t.id)
+
+// The corpus is fetched lazily (public/corpus.json) instead of being bundled
+// into the JavaScript: the 5,494-text corpus inline added ~23 MB to the main
+// bundle, which made the site effectively unopenable on phones. Everything
+// below is built by hydrateCorpusFromRaw(); views render a loading state
+// until ensureCorpus() resolves.
+export let texts = []
+export let textById = new Map()
+export let textIds = []
+export let docs = []
 
 const STOP = new Set(
   ('the a an and of to in on at for from with by as is are was were be been being it its his her their ' +
@@ -41,7 +23,14 @@ const STOP = new Set(
 )
 
 function stem(w) {
-  return w.length > 4 ? w.replace(/ies$/, 'y').replace(/(?:ing|ed|es|s)$/, '') : w
+  if (w.length <= 4) return w
+  if (/ies$/.test(w)) return w.slice(0, -3) + 'y'
+  if (/(?:ing|ed)$/.test(w)) return w.replace(/(?:ing|ed)$/, '')
+  // "boxes"/"matches"/"classes" lose "es"; everything else ending in s
+  // loses just the "s", so "apples" → "apple" and both queries stem the same.
+  if (/(?:[sxz]|ch|sh)es$/.test(w)) return w.slice(0, -2)
+  if (/s$/.test(w)) return w.slice(0, -1)
+  return w
 }
 
 export function tokenize(str) {
@@ -53,8 +42,10 @@ export function tokenize(str) {
       for (let i = 0; i < w.length - 1; i++) out.push(w.slice(i, i + 2))
     } else {
       if (STOP.has(w)) continue
-      out.push(w)
-      if (w.length > 4) out.push(stem(w))
+      // Index only the stem: keeping the raw word as a separate term split
+      // "apple"/"apples" into two vocabulary entries with different IDF, so
+      // singular and plural queries ranked different texts.
+      out.push(stem(w))
     }
   }
   return out
@@ -94,37 +85,69 @@ const SYN = {
   heaven: ['sky'],
   earth: ['land', 'ground'],
   boat: ['ship', 'chest', 'vessel'],
+  apple: ['fruit', 'orchard'],
+  fruit: ['apple', 'harvest'],
+}
+
+// Theological name equivalents are historical facts, not fuzzy semantics —
+// Zeus/Jupiter, Hercules/Heracles… A visitor using either naming convention
+// must find the same stories, so these expand in every search mode.
+const NAMES = {
+  hercules: ['heracles', 'herakles'],
+  heracles: ['herakles', 'hercules'],
+  herakles: ['heracles', 'hercules'],
+  zeus: ['jupiter', 'jove'],
+  jupiter: ['zeus', 'jove'],
+  jove: ['zeus', 'jupiter'],
+  hera: ['juno'],
+  juno: ['hera'],
+  poseidon: ['neptune'],
+  neptune: ['poseidon'],
+  hades: ['pluto', 'dis'],
+  pluto: ['hades'],
+  athena: ['minerva', 'pallas'],
+  minerva: ['athena'],
+  ares: ['mars'],
+  mars: ['ares'],
+  aphrodite: ['venus'],
+  venus: ['aphrodite'],
+  hephaestus: ['vulcan', 'hephaistos'],
+  vulcan: ['hephaestus'],
+  hermes: ['mercury'],
+  mercury: ['hermes'],
+  artemis: ['diana'],
+  diana: ['artemis'],
+  demeter: ['ceres'],
+  ceres: ['demeter'],
+  dionysus: ['bacchus', 'dionysos'],
+  bacchus: ['dionysus'],
+  persephone: ['proserpina', 'kore'],
+  proserpina: ['persephone'],
+  eros: ['cupid', 'amor'],
+  cupid: ['eros'],
+  cronos: ['kronos', 'saturn'],
+  kronos: ['cronos', 'saturn'],
+  saturn: ['cronos', 'kronos'],
+  odysseus: ['ulysses'],
+  ulysses: ['odysseus'],
+  pan: ['faunus'],
+  faunus: ['pan'],
+  odin: ['woden', 'wotan'],
+  wotan: ['odin'],
+  thor: ['thorr', 'donar'],
 }
 
 function add(map, tokens, weight) {
   for (const tk of tokens) map.set(tk, (map.get(tk) || 0) + weight)
 }
 
-const docEntries = []
-for (const text of texts) {
-  const titleTokens = tokenize(`${text.title.en} ${text.title.zh}`)
-  const summaryTokens = tokenize(`${text.summary.en} ${text.summary.zh}`)
-  let motifTokens = []
-  for (const m of text.motifs) {
-    const motif = motifById.get(m)
-    if (motif) motifTokens = motifTokens.concat(tokenize(motif.keywords.join(' ')))
-  }
-  for (const p of text.passages) {
-    const passageTokens = tokenize(p.text)
-    const counts = new Map()
-    add(counts, passageTokens, 1)
-    add(counts, titleTokens, 1.4)
-    add(counts, summaryTokens, 0.6)
-    add(counts, motifTokens, 1.2)
-    docEntries.push({ textId: text.id, pid: p.id, counts, passageTokens: new Set(passageTokens), raw: p.text })
-  }
-}
-
-const N = docEntries.length
-const df = new Map()
-for (const d of docEntries) for (const tk of d.counts.keys()) df.set(tk, (df.get(tk) || 0) + 1)
-const idfDefault = Math.log(1 + N)
-const idfOf = (tk) => (df.has(tk) ? Math.log(1 + N / (df.get(tk) + 1)) : idfDefault)
+// Module-level index state, (re)built by hydrateCorpusFromRaw().
+let idfDefault = Math.log(2)
+let idfOf = () => 0
+let vecsByText = new Map()
+let textDf = new Map()
+let textVecs = new Map()
+let tokIdx = new Map()
 
 function toVec(counts) {
   const vec = new Map()
@@ -151,51 +174,147 @@ function cos(a, b) {
   return d
 }
 
-export const docs = docEntries.map((d) => ({
-  textId: d.textId,
-  pid: d.pid,
-  vec: toVec(d.counts),
-  passageTokens: d.passageTokens,
-  raw: d.raw,
-}))
+let corpusLoaded = false
 
-const vecsByText = new Map()
-for (const d of docs) {
-  if (!vecsByText.has(d.textId)) vecsByText.set(d.textId, [])
-  vecsByText.get(d.textId).push(d.vec)
-}
+// Builds the whole TF-IDF index from the raw corpus JSON. Kept as a function
+// (not module-level code) so the app can fetch the corpus lazily and show a
+// loading state while it runs.
+export function hydrateCorpusFromRaw(rawTexts) {
+  texts = rawTexts
+    .filter(
+      (t) =>
+        !POLICY.excluded.includes(t.tradition) &&
+        Array.isArray(t.passages) &&
+        t.passages.length > 0 &&
+        t.passages.every((p) => p && typeof p.text === 'string' && p.text.trim()) &&
+        Array.isArray(t.motifs) &&
+        t.title &&
+        t.title.en &&
+        t.region &&
+        typeof t.lat === 'number' &&
+        typeof t.lon === 'number' &&
+        typeof t.period === 'string' &&
+        t.source
+    )
+    .map((t) => {
+      let tx = POLICY.merges[t.tradition] ? { ...t, tradition: POLICY.merges[t.tradition] } : t
+      if (tx.category === 'religious' && !POLICY.pureReligion.includes(tx.tradition)) {
+        tx = { ...tx, category: 'myth' }
+      }
+      const cat = POLICY.recategorizeByTradition?.[tx.tradition]
+      if (cat) tx = { ...tx, category: cat }
+      return tx
+    })
+  textById = new Map(texts.map((t) => [t.id, t]))
+  textIds = texts.map((t) => t.id)
 
-const textDf = new Map()
-for (const [tid, vecs] of vecsByText) {
-  const seen = new Set()
-  for (const v of vecs) for (const tk of v.keys()) seen.add(tk)
-  for (const tk of seen) textDf.set(tk, (textDf.get(tk) || 0) + 1)
-}
-
-const textVecs = new Map()
-{
-  const dfFloor = 5
-  const dfCap = Math.max(3, Math.round(textIds.length * 0.25))
-  for (const [tid, vecs] of vecsByText) {
-    const merged = new Map()
-    for (const v of vecs) for (const [tk, w] of v) merged.set(tk, (merged.get(tk) || 0) + w)
-    let n2 = 0
-    for (const [tk, w] of merged) {
-      const df = textDf.get(tk) || 0
-      if (df < dfFloor || df > dfCap) merged.delete(tk)
-      else n2 += w * w
+  const docEntries = []
+  for (const text of texts) {
+    const titleTokens = tokenize(`${text.title.en} ${text.title.zh}`)
+    const summaryTokens = tokenize(`${text.summary.en} ${text.summary.zh}`)
+    let motifTokens = []
+    for (const m of text.motifs) {
+      const motif = motifById.get(m)
+      if (motif) motifTokens = motifTokens.concat(tokenize(motif.keywords.join(' ')))
     }
-    const n = Math.sqrt(n2) || 1
-    for (const [tk, w] of merged) merged.set(tk, w / n)
-    textVecs.set(tid, merged)
+    for (const p of text.passages) {
+      const passageTokens = tokenize(p.text)
+      const counts = new Map()
+      add(counts, passageTokens, 1)
+      add(counts, titleTokens, 1.4)
+      add(counts, summaryTokens, 0.6)
+      add(counts, motifTokens, 1.2)
+      // stem/word → the original word form in this passage, so the UI can
+      // show "apples" instead of the stem "appl" in matched-terms lists
+      const displayByStem = new Map()
+      for (const w of p.text.toLowerCase().replace(/[^\p{L}\p{N}\s]/gu, ' ').split(/\s+/)) {
+        if (!w || STOP.has(w)) continue
+        if (!displayByStem.has(w)) displayByStem.set(w, w)
+        if (w.length > 4 && !displayByStem.has(stem(w))) displayByStem.set(stem(w), w)
+      }
+      docEntries.push({ textId: text.id, pid: p.id, counts, passageTokens: new Set(passageTokens), displayByStem, raw: p.text })
+    }
   }
+
+  const N = docEntries.length
+  const df = new Map()
+  for (const d of docEntries) for (const tk of d.counts.keys()) df.set(tk, (df.get(tk) || 0) + 1)
+  idfDefault = Math.log(1 + N)
+  idfOf = (tk) => (df.has(tk) ? Math.log(1 + N / (df.get(tk) + 1)) : idfDefault)
+
+  docs = docEntries.map((d) => ({
+    textId: d.textId,
+    pid: d.pid,
+    vec: toVec(d.counts),
+    passageTokens: d.passageTokens,
+    displayByStem: d.displayByStem,
+    raw: d.raw,
+  }))
+
+  vecsByText = new Map()
+  for (const d of docs) {
+    if (!vecsByText.has(d.textId)) vecsByText.set(d.textId, [])
+    vecsByText.get(d.textId).push(d.vec)
+  }
+
+  textDf = new Map()
+  for (const [tid, vecs] of vecsByText) {
+    const seen = new Set()
+    for (const v of vecs) for (const tk of v.keys()) seen.add(tk)
+    for (const tk of seen) textDf.set(tk, (textDf.get(tk) || 0) + 1)
+  }
+
+  textVecs = new Map()
+  {
+    const dfFloor = 5
+    const dfCap = Math.max(3, Math.round(textIds.length * 0.25))
+    for (const [tid, vecs] of vecsByText) {
+      const merged = new Map()
+      for (const v of vecs) for (const [tk, w] of v) merged.set(tk, (merged.get(tk) || 0) + w)
+      let n2 = 0
+      for (const [tk, w] of merged) {
+        const df = textDf.get(tk) || 0
+        if (df < dfFloor || df > dfCap) merged.delete(tk)
+        else n2 += w * w
+      }
+      const n = Math.sqrt(n2) || 1
+      for (const [tk, w] of merged) merged.set(tk, w / n)
+      textVecs.set(tid, merged)
+    }
+  }
+
+  tokIdx = new Map()
+  {
+    let k = 0
+    const dfCap = Math.max(3, Math.round(textIds.length * 0.25))
+    for (const [tk, c] of textDf) if (c >= 5 && c <= dfCap) tokIdx.set(tk, k++)
+  }
+
+  corpusLoaded = true
+  return fingerprint()
 }
 
-const tokIdx = new Map()
-{
-  let k = 0
-  const dfCap = Math.max(3, Math.round(textIds.length * 0.25))
-  for (const [tk, c] of textDf) if (c >= 5 && c <= dfCap) tokIdx.set(tk, k++)
+// Fetches the corpus JSON from public/ (copied there at build time) and
+// builds the index. Views wait on this before rendering.
+let corpusPromise = null
+export function corpusIsLoaded() {
+  return corpusLoaded
+}
+export async function ensureCorpus() {
+  if (corpusLoaded) return fingerprint()
+  if (!corpusPromise) {
+    corpusPromise = (async () => {
+      const base = import.meta.env?.BASE_URL ?? '/'
+      const res = await fetch(`${base}corpus.json`, { cache: 'force-cache' })
+      if (!res.ok) throw new Error(`corpus fetch failed: ${res.status}`)
+      hydrateCorpusFromRaw(await res.json())
+      return fingerprint()
+    })().catch((e) => {
+      corpusPromise = null
+      throw e
+    })
+  }
+  return corpusPromise
 }
 
 function buildSorted(vec) {
@@ -517,17 +636,38 @@ function computeAll() {
   emb3Cache = mk([p1, p2, p3])
 }
 
-if (!globalThis.__SKIP_MATRIX__ && !hydrateFromCache()) {
-  const fetched = await tryFetchCache()
-  if (!fetched) {
-    computeAll()
-  }
-  saveCache(new Map(textIds.map((id, i) => [id, i])))
+let matrixReady = false
+function normalizeSim() {
+  let maxSim = 0
+  for (const s of simMatrix.values()) if (s > maxSim) maxSim = s
+  if (maxSim > 0) for (const [k, s] of simMatrix) simMatrix.set(k, s / maxSim)
+  matrixReady = true
 }
 
-let maxSim = 0
-for (const s of simMatrix.values()) if (s > maxSim) maxSim = s
-if (maxSim > 0) for (const [k, s] of simMatrix) simMatrix.set(k, s / maxSim)
+// The similarity matrix powers Network, Embedding and the "closest
+// parallels" panel. It hydrates lazily (localStorage → semantic-cache.json →
+// computed on the fly) so the app can render long before any of this is
+// ready; views call ensureMatrix() and re-render when it resolves.
+export function matrixIsReady() {
+  return matrixReady
+}
+export async function ensureMatrix() {
+  if (matrixReady) return true
+  if (!globalThis.__SKIP_MATRIX__) {
+    if (hydrateFromCache()) {
+      normalizeSim()
+      return true
+    }
+    if (await tryFetchCache()) {
+      normalizeSim()
+      return true
+    }
+    computeAll()
+    saveCache(new Map(textIds.map((id, i) => [id, i])))
+  }
+  normalizeSim()
+  return matrixReady
+}
 
 export function detectMotifs(q) {
   const s = q.toLowerCase()
@@ -547,6 +687,12 @@ export function buildQueryVector(query, mode = 'keyword') {
   const q = query.toLowerCase()
   const counts = new Map()
   add(counts, tokenize(query), 1)
+  // Theological name equivalents (Zeus/Jupiter, Hercules/Heracles…) are
+  // historical facts, not fuzzy semantics — expand them in every mode so a
+  // visitor using either naming convention finds the same stories.
+  for (const [word, syns] of Object.entries(NAMES)) {
+    if (q.includes(word)) for (const s of syns) add(counts, tokenize(s), 0.5)
+  }
   if (mode === 'semantic') {
     for (const [word, syns] of Object.entries(SYN)) {
       if (q.includes(word)) for (const s of syns) add(counts, tokenize(s), 0.35)
@@ -601,13 +747,17 @@ export function search(query, mode = 'keyword') {
     if (shared.length) abs += 0.22
     if (abs < 0.09) continue
     const strength = abs >= 0.3 ? 'strong' : abs >= 0.18 ? 'related' : 'possible'
+    // map matched stems back to the words actually used in the passage, so
+    // the UI shows "apples" rather than the internal stem "appl"
+    const disp = best[0]?.displayByStem
+    const matchedWords = disp ? matched.map((st) => disp.get(st) ?? st) : matched
     results.push({
       text,
       abs,
       pct: Math.min(100, Math.round((abs / 0.5) * 100)),
       strength,
       shared,
-      matched,
+      matched: [...new Set(matchedWords)],
       best,
     })
   }
@@ -639,7 +789,12 @@ export function graph(threshold = 0.5) {
       deg.set(b, (deg.get(b) || 0) + 1)
     }
   }
-  const nodes = texts.map((t) => ({ id: t.id, deg: deg.get(t.id) || 0 }))
+  // Only simulate nodes that actually have edges — previously every one of
+  // the ~5,400 texts was laid out (including thousands of invisible
+  // degree-0 dots), which froze the Network view.
+  const nodes = texts
+    .filter((t) => (deg.get(t.id) || 0) > 0)
+    .map((t) => ({ id: t.id, deg: deg.get(t.id) }))
   return { nodes, links }
 }
 
