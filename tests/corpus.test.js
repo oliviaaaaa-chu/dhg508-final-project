@@ -70,6 +70,33 @@ describe('corpus integrity (raw JSON on disk)', () => {
     }
   })
 
+  it('passages carry Traditional Chinese translations (90%+ coverage until top-up)', () => {
+    let withZh = 0
+    let total = 0
+    for (const t of texts) {
+      for (const p of t.passages || []) {
+        total++
+        if (typeof p.zh === 'string' && p.zh.trim().length > 20) withZh++
+      }
+    }
+    expect(total).toBeGreaterThan(10000)
+    expect(withZh / total, `${withZh}/${total} passages translated`).toBeGreaterThan(0.85)
+  })
+
+  it('translated passages are in Chinese, not English', () => {
+    let checked = 0
+    for (const t of texts) {
+      for (const p of t.passages || []) {
+        if (typeof p.zh !== 'string' || p.zh.trim().length < 20) continue
+        checked++
+        const cjk = (p.zh.match(/[\u4e00-\u9fff]/g) || []).length
+        expect(cjk / p.zh.length, `${t.id}:${p.id} translation must be mostly CJK`).toBeGreaterThan(0.3)
+        if (checked > 200) return
+      }
+    }
+    expect(checked).toBeGreaterThan(100)
+  })
+
   it('excluded and merged traditions are a deliberate curatorial list, and every displayed tradition has a color', () => {
     const used = new Set(texts.map((t) => t.tradition))
     for (const tr of used) {

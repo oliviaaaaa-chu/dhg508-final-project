@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Motif Atlas — Architecture Explainer</title>
+<style>
+  :root {
+    --paper: #faf9f6; --ink: #292524; --muted: #78716c;
+    --data: #0e7490; --compute: #b45309; --ui: #4d7c0f; --user: #9d174d;
+    --line: #d6d3d1;
+  }
+  * { box-sizing: border-box; margin: 0; }
+  body { font-family: Georgia, 'Times New Roman', serif; background: var(--paper); color: var(--ink); padding: 32px 16px 64px; }
+  .wrap { max-width: 1080px; margin: 0 auto; }
+  h1 { font-size: 26px; margin-bottom: 4px; }
+  .sub { color: var(--muted); font-size: 14px; margin-bottom: 28px; }
+  .legend { display: flex; flex-wrap: wrap; gap: 14px; margin-bottom: 24px; font-size: 13px; }
+  .legend span { display: inline-flex; align-items: center; gap: 6px; }
+  .dot { width: 10px; height: 10px; border-radius: 2px; display: inline-block; }
+  .row { display: flex; flex-wrap: wrap; gap: 14px; align-items: stretch; margin-bottom: 8px; }
+  .box { border: 1.5px solid var(--ink); border-radius: 6px; padding: 10px 12px; background: #fff; flex: 1 1 160px; min-width: 150px; }
+  .box h3 { font-size: 14px; margin-bottom: 4px; font-family: Georgia, serif; }
+  .box p { font-size: 12px; color: var(--muted); line-height: 1.45; }
+  .box code { font-size: 11px; background: #f5f5f4; padding: 1px 4px; border-radius: 3px; color: var(--ink); }
+  .b-data { border-color: var(--data); } .b-data h3 { color: var(--data); }
+  .b-comp { border-color: var(--compute); } .b-comp h3 { color: var(--compute); }
+  .b-ui { border-color: var(--ui); } .b-ui h3 { color: var(--ui); }
+  .b-user { border-color: var(--user); } .b-user h3 { color: var(--user); }
+  .arrow { text-align: center; color: var(--muted); font-size: 18px; padding: 2px 0 14px; }
+  .arrow small { display: block; font-size: 11px; }
+  .grid8 { display: grid; grid-template-columns: repeat(auto-fit, minmax(120px, 1fr)); gap: 10px; }
+  .flow-label { font-size: 12px; font-weight: bold; text-transform: uppercase; letter-spacing: .08em; color: var(--muted); margin: 22px 0 8px; border-bottom: 1px solid var(--line); padding-bottom: 4px; }
+  .note { background: #fef3c7; border: 1px solid #f59e0b; border-radius: 6px; padding: 10px 14px; font-size: 13px; margin-top: 26px; }
+  .loops { display: flex; flex-wrap: wrap; gap: 10px; margin-top: 10px; }
+  .loop { flex: 1 1 240px; border: 1.5px dashed var(--muted); border-radius: 6px; padding: 10px 12px; font-size: 12.5px; background: #fff; }
+  .loop b { display: block; margin-bottom: 3px; }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <h1>Motif Atlas — Architecture Explainer</h1>
+  <p class="sub">Comparative mythology explorer · DHG508 final project · schematic drawn by the agent during the Week 10 ideation loop</p>
+
+  <div class="legend">
+    <span><span class="dot" style="background:var(--data)"></span> Data</span>
+    <span><span class="dot" style="background:var(--compute)"></span> Offline compute (build time)</span>
+    <span><span class="dot" style="background:var(--ui)"></span> UI / runtime</span>
+    <span><span class="dot" style="background:var(--user)"></span> Visitor</span>
+  </div>
+
+  <div class="flow-label">1 · Research pipeline (offline, one-time)</div>
+  <div class="row">
+    <div class="box b-data"><h3>Public-domain sources</h3><p>Bulfinch, Frazer, sacred-texts, Gutenberg, HathiTrust… stored verbatim in <code>data/raw/</code></p></div>
+    <div class="box b-comp"><h3>Batch curation</h3><p><code>data/raw/batch-*.json</code> — texts researched with source URL, license, coordinates, sensitivity flag, evidence-tagged passages</p></div>
+    <div class="box b-comp"><h3>Corpus builder</h3><p><code>scripts/01_build_corpus.py</code> validates ids, coords, sensitivity; rejects <code>restricted: true</code></p></div>
+  </div>
+  <div class="arrow">↓ merges into</div>
+  <div class="row">
+    <div class="box b-data" style="flex:2 1 340px"><h3>App corpus (frozen)</h3><p><code>src/data/texts.json</code> — 5,494 texts · 39 traditions &nbsp;·&nbsp; <code>src/data/motifs.json</code> — 270 motif tags &nbsp;·&nbsp; <code>src/data/characters.json</code> — 153 fictional figures / 41 traditions</p></div>
+    <div class="box b-comp"><h3>Pre-computed vectors</h3><p><code>scripts/embed_corpus.mjs</code> → <code>data/generated/embeddings.json</code> (48 MB, MiniLM) — computed at build time, never in the browser</p></div>
+  </div>
+
+  <div class="flow-label">2 · Runtime (static site, Cloudflare Pages)</div>
+  <div class="row">
+    <div class="box b-ui" style="flex:1.4 1 300px"><h3>React SPA (Vite build → dist/)</h3><p><code>src/lib/search.js</code> TF-IDF + embeddings loader powers all views. No server, no database, no runtime writes.</p></div>
+    <div class="grid8">
+      <div class="box b-ui"><h3>Search</h3><p>keyword + semantic, "why matched"</p></div>
+      <div class="box b-ui"><h3>Compare</h3><p>paste passage → ranked kin</p></div>
+      <div class="box b-ui"><h3>Database</h3><p>browse all texts</p></div>
+      <div class="box b-ui"><h3>Map</h3><p>Leaflet pins, region clusters</p></div>
+      <div class="box b-ui"><h3>Network</h3><p>d3-force similarity graph</p></div>
+      <div class="box b-ui"><h3>Embedding</h3><p>UMAP semantic atlas</p></div>
+      <div class="box b-ui"><h3>Notebook</h3><p>saved clips + notes → JSON/MD export</p></div>
+      <div class="box b-ui"><h3>Character Chat</h3><p>153 figures, fictionality banner; <b>offline mock replies</b> on the public site</p></div>
+    </div>
+  </div>
+  <div class="arrow">↓ serves to</div>
+  <div class="row">
+    <div class="box b-user"><h3>Visitor</h3><p>opens the public <code>https://</code> URL — no install, no account</p></div>
+    <div class="box b-user" style="flex:2 1 340px"><h3>Two friends (playtest)</h3><p>use it on their own devices → confusion + breakage recorded in <code>docs/user-feedback.md</code> → fixes become permanent regression tests</p></div>
+  </div>
+
+  <div class="flow-label">3 · Feedback loops this week</div>
+  <div class="loops">
+    <div class="loop"><b>Ideation loop</b> Plan-mode dialogue → this schematic + <code>docs/plan.md</code> → anchors <code>/goal</code> runs so they cannot drift.</div>
+    <div class="loop"><b>Test loop</b> build gate (AGENTS.md) → <code>vitest</code> unit/integration (search engine + corpus guardrails) → Playwright E2E on localhost <em>and</em> the live URL.</div>
+    <div class="loop"><b>Human loop</b> friends playtest → fixes → each fix locked in as an automated regression test.</div>
+  </div>
+
+  <div class="note"><b>Why offline chat for now:</b> a live model would need a Cloudflare Worker holding the DeepSeek key as a secret — deliberately deferred until the chat's known issues are fixed, per the plan's non-goal “API keys never enter browser JavaScript”.</div>
+</div>
+</body>
+</html>

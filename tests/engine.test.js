@@ -56,6 +56,15 @@ describe('search engine', () => {
     }
   })
 
+  it('Chinese queries reach the translated stories', () => {
+    // 洪水 = flood; the zh translations make Chinese search work end-to-end
+    const hits = search('洪水', 'keyword')
+    expect(hits.length).toBeGreaterThan(0)
+    const greek = search('flood', 'keyword').slice(0, 10).map((r) => r.text.id)
+    const chinese = hits.slice(0, 10).map((r) => r.text.id)
+    expect(chinese.some((id) => greek.includes(id))).toBe(true)
+  })
+
   it('detects motif keywords in a query', () => {
     const hits = detectMotifs('a great flood drowns the world')
     expect(hits.length).toBeGreaterThan(0)

@@ -306,14 +306,31 @@ let corpusPromise = null
 export function corpusIsLoaded() {
   return corpusLoaded
 }
+async function fetchCorpusJson() {
+  const base = import.meta.env?.BASE_URL ?? '/'
+  // The corpus ships as numbered parts (corpus-0.json …) with a manifest,
+  // because the full file now exceeds Cloudflare Pages' 25 MiB per-file cap.
+  const idx = await fetch(`${base}corpus-index.json`, { cache: 'force-cache' })
+  if (idx.ok) {
+    const { parts } = await idx.json()
+    const responses = await Promise.all(
+      Array.from({ length: parts }, (_, i) => fetch(`${base}corpus-${i}.json`, { cache: 'force-cache' }))
+    )
+    const bad = responses.find((r) => !r.ok)
+    if (bad) throw new Error(`corpus part fetch failed: ${bad.status}`)
+    const lists = await Promise.all(responses.map((r) => r.json()))
+    return lists.flat()
+  }
+  // fallback: single-file corpus (older builds)
+  const res = await fetch(`${base}corpus.json`, { cache: 'force-cache' })
+  if (!res.ok) throw new Error(`corpus fetch failed: ${res.status}`)
+  return res.json()
+}
 export async function ensureCorpus() {
   if (corpusLoaded) return fingerprint()
   if (!corpusPromise) {
     corpusPromise = (async () => {
-      const base = import.meta.env?.BASE_URL ?? '/'
-      const res = await fetch(`${base}corpus.json`, { cache: 'force-cache' })
-      if (!res.ok) throw new Error(`corpus fetch failed: ${res.status}`)
-      hydrateCorpusFromRaw(await res.json())
+      hydrateCorpusFromRaw(await fetchCorpusJson())
       return fingerprint()
     })().catch((e) => {
       corpusPromise = null

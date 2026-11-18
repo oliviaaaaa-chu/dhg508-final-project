@@ -113,6 +113,17 @@ test('language switch renders Traditional Chinese and persists', async ({ page }
   await openApp(page)
   await page.getByRole('button', { name: '繁體中文' }).first().click()
   await expect(page.locator('nav')).toContainText('比較')
+  // A translated passage shows the AI-translation badge with a toggle back
+  // to the English original (prometheus-fire:1 is translated).
+  await page.getByRole('button', { name: '關鍵字' }).click()
+  const input = page.locator('main input').first()
+  await input.fill('prometheus fire')
+  await input.press('Enter')
+  await page.getByText(/results|結果/).first().waitFor({ timeout: 20000 })
+  await page.locator('main article button, main [role=button]').first().click()
+  await expect(page.getByText(/AI 譯文/).first()).toBeVisible({ timeout: 15000 })
+  await page.getByRole('button', { name: '查看英文原文' }).click()
+  await expect(page.getByText(/Prometheus/i).first()).toBeVisible({ timeout: 10000 })
   await page.reload()
   await expect(page.locator('nav')).toContainText('資料庫', { timeout: 60000 })
   await expect(page.locator('nav')).toContainText('比較')
