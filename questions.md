@@ -1,5 +1,11 @@
 # Open questions / unresolved issues
 
+- **Passage translations are 90% complete (12,440 of 13,875).** The DeepSeek
+  batch job stopped with `402 Insufficient Balance`; ~1,435 passages (about
+  US$1–2 of credit) remain. The script is resumable — top up the account,
+  re-run `node scripts/translate_passages.mjs`, then
+  `node scripts/merge_passages_zh.mjs`, rebuild and redeploy. Until then the
+  affected passages display the English original in Chinese mode.
 - **The corpus has no Garden of Eden / Adam & Eve text.** A tester expected
   "someone steals apples" to surface it in Compare; the search now works
   (stemmer + alias fixes), but the corpus simply contains no Eden story
