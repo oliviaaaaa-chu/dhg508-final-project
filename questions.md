@@ -1,5 +1,11 @@
 # Open questions / unresolved issues
 
+- **The corpus has no Garden of Eden / Adam & Eve text.** A tester expected
+  "someone steals apples" to surface it in Compare; the search now works
+  (stemmer + alias fixes), but the corpus simply contains no Eden story
+  (Hebrew tradition is covered only for the flood, exodus and revelation).
+  Candidate for the next corpus expansion round: add an Eden text from a
+  public-domain Genesis translation, with the usual source/URL/motif fields.
 - **Sensitivity flags are claimed but not present.** The README says every text
   carries a mandatory `sensitivity` field and that restricted traditions are
   blocked "at data-validation time". In reality `src/data/texts.json` has no
