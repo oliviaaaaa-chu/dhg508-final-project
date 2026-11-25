@@ -3,6 +3,8 @@ dist/
 .DS_Store
 *.local
 .model-cache/
+.embed-checkpoint.json
+scripts/.corpus-loader.mjs
 __pycache__/
 *.log
 *.log.*

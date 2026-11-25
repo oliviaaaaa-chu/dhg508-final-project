@@ -1,16 +1,24 @@
 import { useState } from 'react'
 import { useI18n } from '../i18n/index.jsx'
 import { search, semanticSearch, motifById } from '../lib/search.js'
+import { understand } from '../lib/understand.js'
 import { tradColor, TRADITIONS } from '../lib/colors.js'
 import SaveButton from '../components/SaveButton.jsx'
 import MotifChip from '../components/MotifChip.jsx'
+import UnderstandingPanel from '../components/UnderstandingPanel.jsx'
 import { Highlight } from '../components/Highlight.jsx'
+
+// Normalize the two shared-motif shapes (semantic results carry {id, how};
+// the keyword fallback still carries plain motif ids).
+const sharedId = (m) => (typeof m === 'string' ? m : m.id)
+const sharedHow = (m) => (typeof m === 'string' ? 'keyword' : m.how)
 
 export default function SearchView({ onOpen }) {
   const { t, L } = useI18n()
   const [query, setQuery] = useState('')
   const [mode, setMode] = useState('semantic')
   const [results, setResults] = useState(null)
+  const [understanding, setUnderstanding] = useState(null)
   const [busy, setBusy] = useState(false)
   const [notice, setNotice] = useState(null)
 
@@ -19,18 +27,28 @@ export default function SearchView({ onOpen }) {
     setQuery(q)
     setBusy(true)
     setNotice(null)
+    // Instant deterministic reading of the request — the panel shows while
+    // the model loads; the semantic engine then refines it with
+    // meaning-level concepts. Both engines honour this reading.
+    const u = understand(q)
+    setUnderstanding(u)
     try {
       if (m === 'semantic') {
-        const r = await semanticSearch(q)
+        const r = await semanticSearch(q, u)
         if (r === null) {
           setNotice(t('search.semanticFallback'))
           setResults(search(q, 'keyword'))
         } else {
-          setResults(r)
+          setUnderstanding(r.understanding)
+          setResults(r.results)
         }
       } else {
         setResults(search(q, 'keyword'))
       }
+    } catch {
+      // Any unexpected engine failure degrades to keyword matching.
+      setNotice(t('search.semanticFallback'))
+      setResults(search(q, 'keyword'))
     } finally {
       setBusy(false)
     }
@@ -39,6 +57,7 @@ export default function SearchView({ onOpen }) {
   const switchMode = (m) => {
     setMode(m)
     setNotice(null)
+    setUnderstanding(null)
     if (query.trim()) run(query, m)
   }
 
@@ -81,6 +100,8 @@ export default function SearchView({ onOpen }) {
 
         {busy && <div className="text-sm text-stone-500 bg-white border border-stone-200 rounded-xl p-6 mb-3 animate-pulse">{t('search.loadingSemantic')}</div>}
         {notice && <p className="text-xs text-amber-700 bg-amber-50 border border-amber-200 rounded-lg px-3 py-2 mb-3">{notice}</p>}
+
+        {understanding && <UnderstandingPanel u={understanding} />}
 
         {results === null && (
           <div className="text-sm text-stone-400 bg-white border border-dashed border-stone-300 rounded-xl p-8 text-center">
@@ -138,8 +159,13 @@ export default function SearchView({ onOpen }) {
 
                   <div className="flex flex-wrap items-center gap-1.5 mt-3">
                     {shared.map((m) => (
-                      <MotifChip key={m} motif={motifById.get(m)} />
+                      <MotifChip key={sharedId(m)} motif={motifById.get(sharedId(m))} />
                     ))}
+                    {shared.length > 0 && (
+                      <span className="text-[10px] text-stone-400">
+                        ({[...new Set(shared.map(sharedHow))].map((h) => t(`u.how.${h}`)).join(' · ')})
+                      </span>
+                    )}
                     {matched.length > 0 && (
                       <span className="text-xs text-stone-400">
                         {t('common.matchedTerms')}: <span className="text-stone-600">{matched.join(', ')}</span>

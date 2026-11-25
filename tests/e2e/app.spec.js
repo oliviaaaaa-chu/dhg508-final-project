@@ -41,6 +41,37 @@ test('keyword search finds results', async ({ page }) => {
   await expect(page.getByText(/results/).first()).toBeVisible({ timeout: 15000 })
 })
 
+// The deterministic reading (understand.js) renders instantly, before the
+// semantic model has even loaded — so these assertions never depend on the
+// model download or the CDN being reachable.
+test('semantic mode shows how the engine read a natural-language request', async ({ page }) => {
+  await openApp(page)
+  const input = page.locator('main input').first()
+  await input.fill('Can you show me flood stories without a boat?')
+  await input.press('Enter')
+  const panel = page.locator('[data-testid="understanding-panel"]')
+  await expect(panel).toBeVisible({ timeout: 15000 })
+  // scaffolding stripped, negation honoured
+  await expect(panel.getByText('Interpreted as')).toBeVisible()
+  await expect(panel.getByText(/flood stories/)).toBeVisible()
+  await expect(panel.getByText(/can you show me/i)).toBeVisible()
+  await expect(panel.getByText('Deliberately excluded')).toBeVisible()
+  await expect(panel.locator('.line-through', { hasText: 'boat' })).toBeVisible()
+})
+
+test('compare reads a pasted narrative as story beats before matching', async ({ page }) => {
+  await openApp(page)
+  await page.locator('nav').getByText('Compare', { exact: true }).click()
+  await page
+    .locator('main textarea')
+    .fill('A great flood drowns the world. One man builds a boat. He survives and founds a new people.')
+  await page.locator('main').getByRole('button', { name: 'Compare', exact: true }).click()
+  const panel = page.locator('[data-testid="understanding-panel"]')
+  await expect(panel).toBeVisible({ timeout: 15000 })
+  await expect(panel.getByText('Story beats compared one by one')).toBeVisible()
+  await expect(panel.getByText(/^3$/)).toBeVisible()
+})
+
 test('every view opens without crashing', async ({ page }) => {
   await openApp(page)
   for (const name of ['Compare', 'Database', 'Map', 'Network', 'Embedding Map', 'Notebook', 'Character Chat']) {

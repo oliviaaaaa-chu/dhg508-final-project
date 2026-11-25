@@ -125,6 +125,21 @@ describe('search engine', () => {
     const titles = hits.map((t) => (t.title.en + ' ' + t.summary.en).toLowerCase())
     expect(titles.some((x) => /nemean|lion/.test(x))).toBe(true)
   })
+
+  it('searches the content of a conversational request, not the filler', () => {
+    const r = search('show me stories about a trickster', 'keyword')
+    expect(r.length).toBeGreaterThan(0)
+    for (const x of r) expect(x.matched).not.toContain('show')
+  })
+
+  it('excludes negated wording instead of matching it harder', () => {
+    // "without a boat" must behave as an exclusion, not as an extra keyword
+    const r = search('flood stories without a boat', 'keyword')
+    expect(r.length).toBeGreaterThan(0)
+    for (const x of r) expect(x.matched).not.toContain('boat')
+    const withBoat = search('flood stories with a boat', 'keyword')
+    expect(withBoat.some((x) => x.matched.includes('boat'))).toBe(true)
+  })
 })
 
 describe('character chat (offline fallback path)', () => {

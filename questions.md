@@ -1,5 +1,26 @@
 # Open questions / unresolved issues
 
+- **[RESOLVED 2026-11-25] `public/semantic-embeddings.json` was a 110-byte
+  stub with the current fingerprint but zero vectors** — a leftover from the
+  5,466→5,468 corpus bump: the file was never regenerated, so
+  `hydrateSemantic` silently rejected it and "semantic" search/compare had
+  been falling back to keyword matching ever since. Regenerated for real
+  with `node scripts/embed_corpus.mjs` (now batched per text — one forward
+  pass instead of one per passage). To avoid this silent failure recurring,
+  `ensureSemantic()` now reports failure through the visible
+  "semanticFallback" notice instead of dying quietly.
+- **Search/Compare now understand the request before searching** (this
+  cycle): `src/lib/understand.js` strips conversational scaffolding (EN +
+  繁中), honours negation ("flood stories without a boat" excludes boat
+  texts), detects mentioned traditions, splits pasted stories into beats,
+  and recognizes motifs from wording; the semantic engine adds
+  meaning-level motif detection (MiniLM vs the 270 embedded motif
+  descriptions, K-best rule over a floor — tuned by
+  `scripts/tune_meaning_motifs.mjs`). Both engines consume the same
+  understanding, and the "How the engine read your input" panel makes it
+  visible. Known limitation: negation parsing is a deterministic window
+  (≤6 words / idioms handled), so exotic phrasings can still be misread —
+  the panel makes misreads inspectable.
 - **Passage translations are 90% complete (12,440 of 13,875).** The DeepSeek
   batch job stopped with `402 Insufficient Balance`; ~1,435 passages (about
   US$1–2 of credit) remain. The script is resumable — top up the account,

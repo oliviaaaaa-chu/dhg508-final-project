@@ -1,5 +1,6 @@
 import motifsRaw from '../data/motifs.json'
 import { POLICY } from '../data/traditionPolicy.js'
+import { understand } from './understand.js'
 
 export const motifs = motifsRaw
 export const motifById = new Map(motifs.map((m) => [m.id, m]))
@@ -430,50 +431,229 @@ export async function ensureSemantic() {
   } catch {
     return null
   }
-  const ok = await hydrateSemantic(data)
+  // The model download (CDN) and the ORT wasm can fail offline; that must
+  // degrade to keyword matching, never surface as an unhandled rejection.
+  let ok = false
+  try {
+    ok = await hydrateSemantic(data)
+  } catch {
+    return null
+  }
   return ok ? semanticState : null
 }
 
-export async function semanticSearch(query) {
-  const trimmed = query.trim()
-  if (!trimmed) return []
-  const st = await ensureSemantic()
-  if (!st) return null
-  const out = await st.pipe(trimmed.slice(0, 512), { pooling: 'mean', normalize: true })
-  const q = out.data
-  const D = st.dim
-  const scored = []
-  for (let i = 0; i < st.ids.length; i++) {
-    let d = 0
-    const off = i * D
-    for (let k = 0; k < D; k++) d += q[k] * st.rows[off + k]
-    if (d >= 0.28) scored.push({ id: st.ids[i], abs: d })
+// --- Meaning-level motif detection ---------------------------------------
+// Once the model is loaded, the 270 motif descriptions are embedded once
+// per session (batched, cached in localStorage) so a visitor's words can be
+// matched to motifs by MEANING: "a god shaped people from mud and breathed
+// life into them" reaches clay-humans with no exact keyword hit.
+const MOTIFVEC_KEY = 'dhg508-motifvec-v1'
+let motifVecs = null
+
+// Tuned against the local model cache with scripts/tune_meaning_motifs.mjs:
+// paraphrases of a motif score 0.32–0.43 against the right motif (or its
+// nearest sibling, e.g. descent-rescue for an underworld-journey query),
+// while mundane sentences top out ~0.34. Absolute cosine separates poorly,
+// so detection = the top-K motifs above a floor.
+export const MEANING_MOTIF_FLOOR = 0.35
+export const MEANING_MOTIF_TOPK = 5
+
+function f32ToB64(rows) {
+  const bytes = new Uint8Array(rows.buffer, rows.byteOffset, rows.byteLength)
+  let bin = ''
+  const CHUNK = 0x8000
+  for (let i = 0; i < bytes.length; i += CHUNK) bin += String.fromCharCode.apply(null, bytes.subarray(i, i + CHUNK))
+  return btoa(bin)
+}
+
+async function ensureMotifVectors(st) {
+  if (motifVecs) return motifVecs
+  try {
+    const raw = localStorage.getItem(MOTIFVEC_KEY)
+    if (raw) {
+      const c = JSON.parse(raw)
+      if (c.fp === fingerprint() && c.dim === st.dim && typeof c.vecs === 'string') {
+        const bin = Uint8Array.from(atob(c.vecs), (ch) => ch.charCodeAt(0))
+        motifVecs = { dim: c.dim, rows: new Float32Array(bin.buffer, bin.byteOffset, bin.byteLength / 4) }
+        return motifVecs
+      }
+    }
+  } catch {
+    /* corrupted cache — rebuild below */
   }
-  const qMotifs0 = detectMotifs(trimmed)
-  if (qMotifs0.length) {
-    for (const item of scored) {
-      const text = textById.get(item.id)
-      if (text && qMotifs0.some((m) => text.motifs.includes(m))) item.abs += 0.25
+  const inputs = motifs.map(
+    (m) =>
+      `${m.name.en}. ${m.description.en}. ${m.keywords
+        .filter((k) => !/[\u4e00-\u9fff]/.test(k))
+        .join(', ')}.`
+  )
+  const rows = new Float32Array(motifs.length * st.dim)
+  const BATCH = 48
+  for (let i = 0; i < inputs.length; i += BATCH) {
+    const batch = inputs.slice(i, i + BATCH)
+    const out = await st.pipe(batch, { pooling: 'mean', normalize: true })
+    for (let b = 0; b < batch.length; b++) {
+      const off = (i + b) * st.dim
+      for (let d = 0; d < st.dim; d++) rows[off + d] = out.data[b * st.dim + d]
     }
   }
-  scored.sort((a, b) => b.abs - a.abs)
-  const lex = search(trimmed, 'keyword')
+  motifVecs = { dim: st.dim, rows }
+  try {
+    localStorage.setItem(MOTIFVEC_KEY, JSON.stringify({ fp: fingerprint(), dim: st.dim, vecs: f32ToB64(rows) }))
+  } catch {
+    /* storage quota exceeded — keep in memory only */
+  }
+  return motifVecs
+}
+
+// Cosine of each clause embedding against every motif description; a motif
+// counts when ANY clause (story beat) matches it by meaning. The K-best
+// rule above the floor (see the tuning script) is what separates true
+// motifs from background similarity.
+async function detectMotifsByMeaning(st, emb, nClauses) {
+  try {
+    const mv = await ensureMotifVectors(st)
+    const D = st.dim
+    const hits = []
+    for (let m = 0; m < motifs.length; m++) {
+      let best = 0
+      const mo = m * D
+      for (let c = 0; c < nClauses; c++) {
+        let d = 0
+        const co = c * D
+        for (let k = 0; k < D; k++) d += emb.data[co + k] * mv.rows[mo + k]
+        if (d > best) best = d
+      }
+      if (best >= MEANING_MOTIF_FLOOR) hits.push({ id: motifs[m].id, score: best })
+    }
+    hits.sort((a, b) => b.score - a.score)
+    return hits.slice(0, MEANING_MOTIF_TOPK)
+  } catch {
+    return [] // motif vectors unavailable — literal/implied tiers still apply
+  }
+}
+
+// Understand-first semantic search. The request is parsed (understand.js)
+// before anything is searched: scaffolding never reaches the embedding,
+// negation excludes instead of matching, mentioned traditions boost, and
+// a long pasted story is compared beat by beat instead of truncated.
+export async function semanticSearch(query, pre) {
+  const trimmed = query.trim()
+  if (!trimmed) return { understanding: understand(''), results: [] }
+  const st = await ensureSemantic()
+  if (!st) return null
+  const u0 = pre ?? understand(trimmed)
+
+  // Embed the story beats (long Compare input) or the cleaned core — never
+  // the raw request with its "show me stories about…" scaffolding.
+  const targets = u0.clauses.length ? u0.clauses : [u0.core || u0.raw]
+  const emb = await st.pipe(
+    targets.map((s) => s.slice(0, 512)),
+    { pooling: 'mean', normalize: true }
+  )
+  const C = targets.length
+  const D = st.dim
+
+  // Meaning-level motifs reuse the clause embeddings (no extra inference
+  // on the query side).
+  const meaning = await detectMotifsByMeaning(st, emb, C)
+
+  // Merge the three recognition tiers into one boost table.
+  const boosts = new Map()
+  const howBy = new Map()
+  for (const h of u0.motifs.literal) {
+    howBy.set(h.id, 'keyword')
+    boosts.set(h.id, 0.25)
+  }
+  for (const h of u0.motifs.implied) {
+    if (howBy.has(h.id)) continue
+    howBy.set(h.id, 'implied')
+    boosts.set(h.id, 0.18)
+  }
+  for (const h of meaning) {
+    if (howBy.has(h.id)) continue
+    howBy.set(h.id, 'meaning')
+    boosts.set(h.id, Math.min(0.22, 0.1 + (h.score - MEANING_MOTIF_FLOOR) * 0.5))
+  }
+
+  const negMotifSet = new Set(u0.negated.motifs.map((x) => x.id))
+  const tradSet = new Set(u0.traditions.map((x) => x.id))
+
+  const scored = []
+  for (let i = 0; i < st.ids.length; i++) {
+    const off = i * D
+    let max = 0
+    let sum = 0
+    for (let c = 0; c < C; c++) {
+      let d = 0
+      const co = c * D
+      for (let k = 0; k < D; k++) d += emb.data[co + k] * st.rows[off + k]
+      if (d > max) max = d
+      sum += d
+    }
+    // One vivid event in a long story must not be averaged away: max over
+    // beats carries most of the weight, the mean keeps the overall theme.
+    const abs = C > 1 ? 0.75 * max + 0.25 * (sum / C) : sum / C
+    if (abs >= 0.28) scored.push({ id: st.ids[i], abs })
+  }
+
+  // Exclusions: texts carrying a negated motif are dropped; texts whose
+  // vocabulary prominently contains a negated word are pushed down.
+  // Mentioned traditions get a gentle boost, not a hard filter — cross-
+  // tradition parallels are the point of the atlas.
+  const kept = []
+  for (const item of scored) {
+    const text = textById.get(item.id)
+    if (!text) continue
+    if (negMotifSet.size && text.motifs.some((m) => negMotifSet.has(m))) continue
+    let abs = item.abs
+    let motifBoost = 0
+    for (const [mid, w] of boosts) if (text.motifs.includes(mid)) motifBoost += w
+    abs += Math.min(motifBoost, 0.5)
+    if (tradSet.has(text.tradition)) abs += 0.1
+    if (u0.negated.termStems.length) {
+      const tv = textVecs.get(item.id)
+      if (tv) for (const tk of u0.negated.termStems) {
+        if (tv.has(tk)) {
+          abs *= 0.45
+          break
+        }
+      }
+    }
+    item.abs = abs
+    kept.push(item)
+  }
+  kept.sort((a, b) => b.abs - a.abs)
+
+  // Lexical explanations (matched terms, best passages) come from the
+  // CLEANED core, so scaffolding and negated spans never appear as
+  // "matches".
+  const lex = search(u0.core || u0.raw, 'keyword')
   const lexBy = new Map(lex.map((r) => [r.text.id, r]))
-  const qMotifs = detectMotifs(trimmed)
-  return scored.slice(0, 20).map(({ id, abs }) => {
+
+  const results = kept.slice(0, 20).map(({ id, abs }) => {
     const text = textById.get(id)
     const l = lexBy.get(id)
     const strength = abs >= 0.45 ? 'strong' : abs >= 0.35 ? 'related' : 'possible'
+    const shared = [...boosts.keys()]
+      .filter((mid) => text.motifs.includes(mid))
+      .map((mid) => ({ id: mid, how: howBy.get(mid) }))
     return {
       text,
       abs,
       pct: Math.min(100, Math.round((abs / 0.7) * 100)),
       strength,
-      shared: qMotifs.filter((m) => text.motifs.includes(m)),
+      shared,
       matched: l ? l.matched : [],
       best: l ? l.best : text.passages.slice(0, 1).map((p) => ({ pid: p.id, raw: p.text, passageTokens: new Set() })),
     }
   })
+
+  const understanding = {
+    ...u0,
+    motifs: { literal: u0.motifs.literal, implied: u0.motifs.implied, meaning },
+  }
+  return { understanding, results }
 }
 
 function hydrateFromCache() {
@@ -735,10 +915,17 @@ export function buildQueryVector(query, mode = 'keyword') {
 export function search(query, mode = 'keyword') {
   const trimmed = query.trim()
   if (!trimmed) return []
-  const qv = buildQueryVector(trimmed, mode)
-  const qTokens = [...tokenize(trimmed)]
-  const qMotifs = detectMotifs(trimmed)
-  const phrase = trimmed.toLowerCase().replace(/[^\p{L}\p{N}\s]/gu, ' ').replace(/\s+/g, ' ').trim()
+  // Both engines consume the same understanding pass: the query vector,
+  // matched terms and motif boosts are built from the CLEANED content, and
+  // explicit negation/tradition mentions are honoured even in keyword mode.
+  const u = understand(trimmed)
+  const core = u.core || trimmed
+  const qv = buildQueryVector(core, mode)
+  const qTokens = [...tokenize(core)]
+  const qMotifs = [...new Set([...u.motifs.literal.map((m) => m.id), ...u.motifs.implied.map((m) => m.id)])]
+  const phrase = core.toLowerCase().replace(/[^\p{L}\p{N}\s]/gu, ' ').replace(/\s+/g, ' ').trim()
+  const negMotifSet = new Set(u.negated.motifs.map((x) => x.id))
+  const tradSet = new Set(u.traditions.map((x) => x.id))
 
   const perText = new Map()
   for (const d of docs) {
@@ -759,6 +946,7 @@ export function search(query, mode = 'keyword') {
   for (const [tid, g] of perText) {
     if (g.max < 0.09) continue
     const text = textById.get(tid)
+    if (negMotifSet.size && text.motifs.some((m) => negMotifSet.has(m))) continue
     const best = g.best.sort((x, y) => cos(qv, y.vec) - cos(qv, x.vec)).slice(0, 2)
     const bestTokenSet = new Set(best.flatMap((d) => [...d.passageTokens]))
     const matched = qTokens.filter((t) => bestTokenSet.has(t)).slice(0, 8)
@@ -768,6 +956,20 @@ export function search(query, mode = 'keyword') {
     let abs = g.max
     if (contentStems.length >= 2 && covered.length / contentStems.length < 0.75) abs *= 0.65
     if (shared.length) abs += 0.22
+    // texts whose vocabulary prominently contains an excluded word are
+    // pushed down; mentioned traditions get a gentle boost
+    if (u.negated.termStems.length) {
+      const tv = textVecs.get(tid)
+      if (tv) {
+        for (const tk of u.negated.termStems) {
+          if (tv.has(tk)) {
+            abs *= 0.45
+            break
+          }
+        }
+      }
+    }
+    if (tradSet.has(text.tradition)) abs += 0.06
     if (abs < 0.09) continue
     const strength = abs >= 0.3 ? 'strong' : abs >= 0.18 ? 'related' : 'possible'
     // map matched stems back to the words actually used in the passage, so

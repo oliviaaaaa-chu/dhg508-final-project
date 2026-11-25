@@ -226,7 +226,16 @@ def main():
             "const es=require('esbuild');"
             "es.buildSync({entryPoints:['src/lib/search.js'],bundle:true,format:'esm',outfile:'fp-check.mjs',loader:{'.json':'json'},platform:'node',target:'es2022'});"
             "globalThis.__SKIP_MATRIX__=true;"
-            "import('./fp-check.mjs').then(s=>{console.log(s.fingerprint());process.exit(0)}).catch(e=>{console.error(e.message);process.exit(1)})",
+            # search.js hydrates lazily since the corpus was moved out of the
+            # bundle — the parity check must hydrate from the same raw JSON
+            # the python side reads, or fingerprint() reports an empty corpus.
+            "import('./fp-check.mjs').then(s=>{"
+            "const fs=require('fs');"
+            "const raw=JSON.parse(fs.readFileSync('src/data/texts.json','utf8'));"
+            "s.hydrateCorpusFromRaw(raw);"
+            "console.log(s.fingerprint());"
+            "process.exit(0)"
+            "}).catch(e=>{console.error(e.message);process.exit(1)})",
         ],
         cwd=ROOT,
         capture_output=True,

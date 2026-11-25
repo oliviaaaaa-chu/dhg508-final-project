@@ -1,24 +1,48 @@
 import { useState } from 'react'
 import { useI18n } from '../i18n/index.jsx'
-import { search, semanticSearch, motifById, detectMotifs } from '../lib/search.js'
+import { search, semanticSearch, motifById } from '../lib/search.js'
+import { understand } from '../lib/understand.js'
 import { tradColor, TRADITIONS } from '../lib/colors.js'
 import SaveButton from '../components/SaveButton.jsx'
 import MotifChip from '../components/MotifChip.jsx'
+import UnderstandingPanel from '../components/UnderstandingPanel.jsx'
 import { Highlight } from '../components/Highlight.jsx'
+
+// Normalize the two shared-motif shapes (semantic results carry {id, how};
+// the lexical fallback still carries plain motif ids).
+const sharedId = (m) => (typeof m === 'string' ? m : m.id)
+const sharedHow = (m) => (typeof m === 'string' ? 'keyword' : m.how)
 
 export default function CompareView({ onOpen }) {
   const { t, L } = useI18n()
   const [input, setInput] = useState('')
   const [results, setResults] = useState(null)
+  const [understanding, setUnderstanding] = useState(null)
+  const [notice, setNotice] = useState(null)
 
-  const examples = [t('compare.example1'), t('compare.example2'), t('compare.example3')]
+  const examples = [t('compare.example1'), t('compare.example2'), t('compare.example3'), t('compare.example4')]
 
   const run = async (text = input) => {
     if (!text.trim()) return
     setInput(text)
-    const sem = await semanticSearch(text)
-    const list = (sem && sem.length ? sem : search(text, 'semantic')).slice(0, 5)
-    setResults({ list, inputMotifs: detectMotifs(text) })
+    setNotice(null)
+    // Instant deterministic reading (filler, negation, story beats, wording-
+    // level motifs); the model then adds meaning-level concepts. Both
+    // engines honour this reading, so the panel stays in the fallback too.
+    const u = understand(text)
+    setUnderstanding(u)
+    try {
+      const sem = await semanticSearch(text, u)
+      if (sem) {
+        setUnderstanding(sem.understanding)
+        setResults({ list: sem.results.slice(0, 5) })
+        return
+      }
+    } catch {
+      /* engine failure — fall through to lexical matching */
+    }
+    setNotice(t('search.semanticFallback'))
+    setResults({ list: search(text, 'semantic').slice(0, 5) })
   }
 
   return (
@@ -53,26 +77,16 @@ export default function CompareView({ onOpen }) {
           ))}
         </div>
 
-        {results !== null && results.length === 0 && (
+        {notice && <p className="text-xs text-amber-700 bg-amber-50 border border-amber-200 rounded-lg px-3 py-2 mb-3">{notice}</p>}
+
+        {understanding && <UnderstandingPanel u={understanding} />}
+
+        {results !== null && results.list.length === 0 && (
           <div className="text-sm text-stone-500 bg-white border border-stone-200 rounded-xl p-8 text-center">{t('compare.noResults')}</div>
         )}
 
         {results && results.list.length > 0 && (
           <>
-            <div className="bg-white border border-stone-200 rounded-xl p-4 mb-4">
-              <p className="text-[11px] font-semibold uppercase tracking-wider text-stone-400 mb-2">{t('compare.yourMotifs')}</p>
-              {results.inputMotifs.length > 0 ? (
-                <div className="flex flex-wrap gap-1.5">
-                  {results.inputMotifs.map((m) => {
-                    const motif = motifById.get(m)
-                    return <MotifChip key={m} motif={motif} />
-                  })}
-                </div>
-              ) : (
-                <p className="text-xs text-stone-400">{t('compare.noMotifsDetected')}</p>
-              )}
-            </div>
-
             <div className="space-y-4 pb-10">
               {results.list.map(({ text, pct, strength, shared, matched, best }, rank) => (
               <article key={text.id} className="bg-white border border-stone-200 rounded-xl overflow-hidden">
@@ -108,8 +122,11 @@ export default function CompareView({ onOpen }) {
                     <>
                       <span className="text-xs text-stone-400 self-center">{t('common.sharedMotifs')}:</span>
                       {shared.map((m) => (
-                        <MotifChip key={m} motif={motifById.get(m)} />
+                        <MotifChip key={sharedId(m)} motif={motifById.get(sharedId(m))} />
                       ))}
+                      <span className="text-[10px] text-stone-400 self-center">
+                        ({[...new Set(shared.map(sharedHow))].map((h) => t(`u.how.${h}`)).join(' · ')})
+                      </span>
                     </>
                   )}
                   {matched.length > 0 && (
@@ -124,11 +141,12 @@ export default function CompareView({ onOpen }) {
                   {shared.length > 0 ? (
                     <ul className="space-y-1.5">
                       {shared.map((m) => {
-                        const motif = motifById.get(m)
+                        const motif = motifById.get(sharedId(m))
                         if (!motif) return null
                         return (
-                          <li key={m} className="text-xs text-stone-600 leading-relaxed">
-                            <span className="font-semibold text-stone-800">{L(motif.name)} ({motif.code}):</span>{' '}
+                          <li key={sharedId(m)} className="text-xs text-stone-600 leading-relaxed">
+                            <span className="font-semibold text-stone-800">{L(motif.name)} ({motif.code})</span>{' '}
+                            <span className="text-amber-700/80">[{t(`u.how.${sharedHow(m)}`)}]</span>{' '}
                             {L(motif.description)} — <span className="italic">“{L(text.title)}”</span>{' '}
                             <span className="text-stone-500">{t('compare.carriesSame')}</span>
                           </li>
