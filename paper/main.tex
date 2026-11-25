@@ -46,7 +46,7 @@
 
 \title{\textbf{Motif Atlas: A Comparative Mythology Explorer}\\[0.3em]
 \large Design Rationale, Evidence Boundaries, and Post-Mortem}
-\author{Olivia Chu\\Lingnan University $\cdot$ DHG508 Critical Digital History\\
+\author{CHU Man\\Lingnan University $\cdot$ DHG508 Critical Digital History\\
 \small Live URL: \url{https://motif-atlas-jwp.pages.dev} $\cdot$ Repo: \url{https://github.com/oliviaaaaa-chu/dhg508-final-project}}
 \date{25 November 2026}
 
@@ -209,10 +209,10 @@ diagnosis was a 23.4\,MB JavaScript bundle (the whole corpus compiled into
 it) plus a blocking top-level \texttt{await}; the fix moved the corpus to a
 lazily-fetched file with a visible loading screen and shrank the bundle to
 1.19\,MB, locked in by an E2E test that fails if first load exceeds 3\,MB of
-script. Tester~B filed five reports, each producing a fix and a regression
-test: an explicit ``open details'' button for database cards; the chat
-picker leaking six figures from traditions the curatorial policy excludes
-(the roster is now policy-filtered, with a unit test); mislabelled
+script. Tester~A then filed five further reports, each producing a fix and
+a regression test: an explicit ``open details'' button for database cards;
+the chat picker leaking six figures from traditions the curatorial policy
+excludes (the roster is now policy-filtered, with a unit test); mislabelled
 ``Philippines'' and ``Maya'' entries; three search bugs (a stemmer that
 split ``apple'' and ``apples'' onto different index terms, matched-terms
 display showing raw stems, and ``Hercules''/``Heracles'' resolving to
@@ -221,10 +221,9 @@ logged as a corpus gap rather than disguised as a bug); and a Network view
 that froze the page by synchronously simulating all ${\sim}5{,}400$ nodes
 for 420 ticks on every threshold change (now only edge-connected nodes
 simulated, edges capped at 500, layout settles after 120 ticks, slider
-deferred). Tester~A's second report requested a Traditional Chinese
-interface; the bilingual dictionaries were re-enabled, 24 untranslated
-strings were translated, and an E2E test asserts the choice persists across
-reload.
+deferred). Tester~B's report requested a Traditional Chinese interface; the
+bilingual dictionaries were re-enabled, 24 untranslated strings were
+translated, and an E2E test asserts the choice persists across reload.
 
 \section{Post-Mortem}
 
