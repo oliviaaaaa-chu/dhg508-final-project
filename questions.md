@@ -56,3 +56,26 @@
   system prompt as the mock, but long conversations (11-turn cap in
   `functions/api/chat.js`) and dramatic-mode drift still need human review —
   listed as this week's main difficulty.
+- **[DONE 2026-11-25] Search, Compare, Network parallels and the Embedding
+  Map now all run on the same per-story embeddings.** `scripts/04_semantic_cache.py`
+  builds the similarity matrix and the 2D/3D projection from
+  `public/semantic-embeddings.json` (MiniLM, 384-dim) instead of TF-IDF
+  keyword vectors; TF-IDF remains as fallback when the embeddings file is
+  missing/stale. Pair display values are percentile ranks among kept
+  parallels (raw MiniLM cosines are too skewed for a linear scale);
+  `CACHE_KEY` bumped to v4 to evict stale localStorage copies.
+- **Deploy flow for the semantic layer.** Both semantic JSONs are committed
+  to Git (13 MB cache + 10.8 MB vectors), so a plain `npm run build` →
+  `npx wrangler pages deploy dist --project-name=motif-atlas` ships the full
+  semantic layer. Only when the corpus itself changes must `npm run embed`
+  run first (~15 min, checkpointed) and the regenerated
+  `semantic-embeddings.json` be committed before rebuilding. Note the cache
+  script *falls back* to TF-IDF (with a loud warning) rather than failing on
+  stale vectors — always read the build output; a diff of
+  `public/semantic-cache.json` is the reliable commit signal.
+- **Embedding neighbours skew same-tradition.** MiniLM story vectors cluster
+  strongly by tradition/genre (e.g. Deucalion's top parallels are all Greek),
+  so "closest parallels" surfaces fewer cross-tradition matches than the
+  comparative framing of the atlas suggests. A possible future refinement:
+  tradition-centred vectors (subtract each tradition's mean vector) for
+  parallel retrieval, keeping raw vectors for the Embedding Map.

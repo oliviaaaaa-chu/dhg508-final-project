@@ -58,19 +58,19 @@
   <div class="arrow">↓ merges into</div>
   <div class="row">
     <div class="box b-data" style="flex:2 1 340px"><h3>App corpus (frozen)</h3><p><code>src/data/texts.json</code> — 5,494 texts · 39 traditions &nbsp;·&nbsp; <code>src/data/motifs.json</code> — 270 motif tags &nbsp;·&nbsp; <code>src/data/characters.json</code> — 153 fictional figures / 41 traditions</p></div>
-    <div class="box b-comp"><h3>Pre-computed vectors</h3><p><code>scripts/embed_corpus.mjs</code> → <code>data/generated/embeddings.json</code> (48 MB, MiniLM) — computed at build time, never in the browser</p></div>
+    <div class="box b-comp"><h3>Pre-computed vectors</h3><p><code>scripts/embed_corpus.mjs</code> → <code>public/semantic-embeddings.json</code> (10.8 MB, one 384-dim MiniLM vector per story) + <code>scripts/04_semantic_cache.py</code> → <code>public/semantic-cache.json</code> (similarity matrix + 2D/3D map projection from those vectors) — computed at build time, never in the browser</p></div>
   </div>
 
   <div class="flow-label">2 · Runtime (static site, Cloudflare Pages)</div>
   <div class="row">
-    <div class="box b-ui" style="flex:1.4 1 300px"><h3>React SPA (Vite build → dist/)</h3><p><code>src/lib/search.js</code> TF-IDF + embeddings loader powers all views. No server, no database, no runtime writes.</p></div>
+    <div class="box b-ui" style="flex:1.4 1 300px"><h3>React SPA (Vite build → dist/)</h3><p><code>src/lib/search.js</code> TF-IDF + per-story MiniLM embeddings power all views — search, Compare, Network parallels and the Embedding Map all read the same vectors. No server, no database, no runtime writes.</p></div>
     <div class="grid8">
       <div class="box b-ui"><h3>Search</h3><p>keyword + semantic, "why matched"</p></div>
       <div class="box b-ui"><h3>Compare</h3><p>paste passage → ranked kin</p></div>
       <div class="box b-ui"><h3>Database</h3><p>browse all texts</p></div>
       <div class="box b-ui"><h3>Map</h3><p>Leaflet pins, region clusters</p></div>
-      <div class="box b-ui"><h3>Network</h3><p>d3-force similarity graph</p></div>
-      <div class="box b-ui"><h3>Embedding</h3><p>UMAP semantic atlas</p></div>
+      <div class="box b-ui"><h3>Network</h3><p>d3-force graph of semantic parallels</p></div>
+      <div class="box b-ui"><h3>Embedding</h3><p>3D PCA atlas of the story vectors</p></div>
       <div class="box b-ui"><h3>Notebook</h3><p>saved clips + notes → JSON/MD export</p></div>
       <div class="box b-ui"><h3>Character Chat</h3><p>153 figures, fictionality banner; <b>offline mock replies</b> on the public site</p></div>
     </div>

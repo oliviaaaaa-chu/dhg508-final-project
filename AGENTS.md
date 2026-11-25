@@ -43,6 +43,17 @@ npx wrangler pages deploy dist --project-name=motif-atlas   # publish to the liv
   `ensureCorpus()` before anything renders, `ensureMatrix()` before
   Network/Embedding/related-parallels. Do not reintroduce module-level
   blocking work: the app must paint before the corpus arrives.
+- `public/semantic-embeddings.json` — one 384-dim MiniLM vector per served
+  story (committed to Git; regenerate with `npm run embed` — only needed when
+  the corpus changes, ~15 min, checkpointed). Powers semantic search AND —
+  via the cache below — Compare/Network parallels and the Embedding Map.
+- `public/semantic-cache.json` — similarity matrix + 2D/3D projection, built
+  from those story vectors by `scripts/04_semantic_cache.py` (runs inside
+  `npm run build`; falls back to TF-IDF if the embeddings are missing/stale).
+  Pair display values are percentile ranks among kept parallels, so the
+  Network threshold slider spans its full range. Bump `CACHE_KEY` in
+  `search.js` when the cache format changes — the corpus fingerprint alone
+  will not evict visitors' stale localStorage copies.
 - `src/lib/mockChat.js` — character chat; live API via `/api/chat`
   (`functions/api/chat.js` in production, dev proxy in `vite.config.js`)
 - `tests/corpus.test.js`, `tests/engine.test.js` — the historical guardrails

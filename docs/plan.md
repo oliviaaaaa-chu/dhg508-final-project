@@ -15,8 +15,12 @@ with a fictional character chat for interpretive exploration.
   (`src/data/texts.json` / `motifs.json`, built from public-domain sources in
   `data/raw/` via `scripts/01_build_corpus.py`).
 - **Stack:** Vite + React, Tailwind, Leaflet, d3-force, Zustand;
-  TF-IDF engine in `src/lib/search.js`; semantic vectors pre-computed into
-  `data/generated/embeddings.json` (loaded at build/run, not recomputed).
+  TF-IDF engine in `src/lib/search.js`; per-story MiniLM embeddings
+  pre-computed into `public/semantic-embeddings.json` (`npm run embed`,
+  not recomputed at runtime). `scripts/04_semantic_cache.py` builds the
+  similarity matrix (Compare/Network/parallels) and the Embedding-Map
+  projection from those same vectors — TF-IDF fallback when the file is
+  missing.
 
 ## 2. Historical boundaries
 

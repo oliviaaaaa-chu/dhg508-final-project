@@ -1,8 +1,8 @@
 import { beforeAll, describe, it, expect } from 'vitest'
-import { readFileSync } from 'node:fs'
+import { readFileSync, existsSync } from 'node:fs'
 import { fileURLToPath } from 'node:url'
 import { join } from 'node:path'
-import { texts, motifs, search, tokenize, detectMotifs, textById, buildQueryVector, related, graph, similarity, fingerprint, hydrateCorpusFromRaw } from '../src/lib/search.js'
+import { texts, textIds, motifs, search, tokenize, detectMotifs, textById, buildQueryVector, related, graph, similarity, fingerprint, hydrateCorpusFromRaw } from '../src/lib/search.js'
 import { POLICY } from '../src/data/traditionPolicy.js'
 import { CHARACTERS, characterById, charactersOf, reply } from '../src/lib/mockChat.js'
 
@@ -139,6 +139,73 @@ describe('search engine', () => {
     for (const x of r) expect(x.matched).not.toContain('boat')
     const withBoat = search('flood stories with a boat', 'keyword')
     expect(withBoat.some((x) => x.matched.includes('boat'))).toBe(true)
+  })
+})
+
+describe('story embeddings power the similarity layer', () => {
+  // Both files are committed build artifacts (`npm run embed` +
+  // `py scripts/04_semantic_cache.py`); the checks only run when a built
+  // cache is present so a fresh clone still passes `npx vitest run`.
+  const embPath = join(root, 'public/semantic-embeddings.json')
+  const cachePath = join(root, 'public/semantic-cache.json')
+  const built = existsSync(embPath) && existsSync(cachePath)
+  describe.skipIf(!built)('built cache', () => {
+    const emb = JSON.parse(readFileSync(embPath, 'utf8'))
+    const cache = JSON.parse(readFileSync(cachePath, 'utf8'))
+
+    it('story vectors cover exactly the served corpus, in order', () => {
+      expect(emb.ids).toEqual(textIds)
+      expect(emb.dim).toBe(384)
+    })
+
+    it('cache fingerprint matches the served corpus', () => {
+      expect(cache.fp).toBe(fingerprint())
+      for (let k = 0; k < cache.sim.length; k += 3) {
+        expect(cache.sim[k]).toBeLessThan(cache.sim[k + 1])
+        expect(cache.sim[k + 1]).toBeLessThan(textIds.length)
+      }
+      expect(cache.emb2.points.map((p) => p.id)).toEqual(textIds)
+      expect(cache.emb3.points.map((p) => p.id)).toEqual(textIds)
+    })
+
+    it('closest parallels come from the story embeddings, not shared keywords', () => {
+      // Decode the per-story vectors, find the nearest neighbours of the
+      // Hesperides story by cosine, and require the built matrix to store
+      // exactly that neighbourhood as its strongest parallels.
+      const bytes = Buffer.from(emb.vecs, 'base64')
+      const rows = new Float32Array(bytes.buffer, bytes.byteOffset, bytes.byteLength / 4)
+      const D = emb.dim
+      const i = textIds.indexOf('greek-apollodorus-apples-hesperides')
+      expect(i).toBeGreaterThanOrEqual(0)
+      const neigh = []
+      for (let r = 0; r < textIds.length; r++) {
+        if (r === i) continue
+        let d = 0
+        for (let k = 0; k < D; k++) d += rows[i * D + k] * rows[r * D + k]
+        neigh.push({ r, d })
+      }
+      neigh.sort((a, b) => b.d - a.d)
+      const best = neigh[0].r
+
+      // pairs referencing the hesperides story, strongest stored parallel
+      let topStored = -1
+      let topVal = -1
+      let pairCount = 0
+      for (let k = 0; k < cache.sim.length; k += 3) {
+        if (cache.sim[k] === i || cache.sim[k + 1] === i) {
+          pairCount++
+          const other = cache.sim[k] === i ? cache.sim[k + 1] : cache.sim[k]
+          if (cache.sim[k + 2] > topVal) {
+            topVal = cache.sim[k + 2]
+            topStored = other
+          }
+        }
+      }
+      expect(pairCount).toBeGreaterThan(0)
+      expect(topStored).toBe(best)
+      // and the semantic neighbour is a genuine parallel, not a keyword accident
+      expect(textById.get(textIds[best]).title.en).toMatch(/Heracles/)
+    })
   })
 })
 

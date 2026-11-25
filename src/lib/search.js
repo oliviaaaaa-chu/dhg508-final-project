@@ -385,7 +385,11 @@ const simMatrix = new Map()
 let embCache = null
 let emb3Cache = null
 
-const CACHE_KEY = 'dhg508-matrix-cache-v3'
+// v4: the matrix and the embedding-map projection are built from the
+// per-story MiniLM embeddings (semantic-cache.json), not TF-IDF. The
+// corpus fingerprint does not change when only the cache format does, so
+// the key must be bumped to evict returning visitors' stale local copies.
+const CACHE_KEY = 'dhg508-matrix-cache-v4'
 
 function applyCacheData(c) {
   for (let k = 0; k < c.sim.length; k += 3) {
