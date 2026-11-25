@@ -201,7 +201,7 @@ Full log with diagnoses: `docs/user-feedback.md` · Eden gap (corpus, not a bug)
 <!--
 4:00–5:00 · SHOW: docs/user-feedback.md in the editor (raw reports on top) — this slide is the summary.
 
-Loop 4 closed the loop with real users. Tester A, in Canada on a phone, could not even open the site — the diagnosis was a 23-megabyte bundle, now 1.19 megabytes, with a permanent E2E budget test. Tester B froze the network view, could not expand database cards, and typed "someone steals apples" — which exposed three real search bugs and, importantly, one corpus gap: there is no Garden of Eden text at all. That is honest: a data gap, logged in questions.md for the next expansion round, not papered over. Every single fix above is locked in by a test that will fail if it regresses.
+Loop 4 closed the loop with real users. Tester A, in Canada on a phone, could not even open the site — the diagnosis was a 23-megabyte bundle, now 1.19 megabytes, with a permanent E2E budget test. Tester A then filed five further reports: the network view froze, database cards could not be expanded, and typing "someone steals apples" exposed three real search bugs and, importantly, one corpus gap: there is no Garden of Eden text at all. That is honest: a data gap, logged in questions.md for the next expansion round, not papered over. Tester B asked for a Traditional Chinese interface. Every single fix above is locked in by a test that will fail if it regresses.
 
 That is all four loops. One concrete difficulty —
 -->

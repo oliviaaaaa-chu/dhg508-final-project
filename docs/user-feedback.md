@@ -20,9 +20,7 @@ in the background instead of blocking startup. Main bundle: 23.4 MB →
 **Regression test:** E2E `first load transfers a small JS payload` — sums
 every script response on a fresh load and fails above 3 MB.
 
-## Tester B — 2026-11-18
-
-**Reports and what was done about each:**
+**Further reports from Tester A, and what was done about each:**
 
 1. **No expand function in the Database to read the full text.** → Added an
    explicit "Open details" button on every database card (the cards were
@@ -78,7 +76,7 @@ every script response on a fresh load and fails above 3 MB.
    re-thresholding` — sweeps the threshold slider five times and then
    requires the app to react immediately.
 
-## Tester A (second report) — 2026-11-18
+## Tester B — 2026-11-18
 
 **Report:** "Would be better to have a Traditional Chinese version."
 
